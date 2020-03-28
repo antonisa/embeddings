@@ -1,0 +1,4407 @@
+the	az	the	az	DET;DEF	
+was	volt	be	van	V;IND;SG;3;PST;FIN	V;INDF;IND;SG;3;PST;FIN;ACT
+with	with	with	with	ADP	
+from	től	from	től	ADV	
+from	tól	from	tól	ADV	
+from	from	from	from	ADV	
+utc	utc	utc	utc	PROPN;SG	N;NOM;SG
+not	nem	not	nem	PART	ADV
+talk	beszélgetés	talk	beszélgetés	V;IMP;FIN	N;NOM;SG
+which	ami	which	ami	PRO	PRO;NOM;SG;3
+which	melyik	which	melyik	PRO	
+which	mely	which	mely	PRO	
+which	amely	which	amely	PRO	PRO;NOM;SG;3
+also	szintén	also	szintén	ADV	
+also	úgyszintén	also	úgyszintén	ADV	
+were	voltak	be	van	V;IND;PST;FIN	V;INDF;IND;PL;3;PST;FIN;ACT
+have	van	have	van	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+one	egy	one	egy	NUM	DET;INDF
+new	újdonság	new	újdonság	ADJ	N;NOM;SG
+first	első	first	első	ADV	ADJ;NOM;SG
+you	te	you	te	PRO;ACC;2	V;DEF;IND;SG;1;PRS;FIN;ACT
+who	ki	who	ki	PRO	PRO;NOM;SG;3
+who	aki	who	aki	PRO	PRO;NOM;SG;3
+all	mindegyik	all	mindegyik	DET	
+all	mind	all	mind	DET	CONJ
+all	minden	all	minden	DET	PRO;NOM;SG;3
+may	may	may	may	V;FIN	
+may	május	may	május	V;FIN	N;NOM;SG
+may	májusi	may	májusi	V;FIN	ADJ;NOM;SG
+may	májusban	may	május	V;FIN	N;IN+ESS;SG
+after	után	after	után	ADV	ADP
+after	after	after	after	ADV	
+after	miután	after	miután	ADV	CONJ
+after	utána	after	utána	ADV	
+other	egyéb	other	egyéb	ADJ	
+other	más	other	más	ADJ	PRO;NOM;SG;3
+should	kéne	should	kéne	V;FIN	V;INDF;COND;SG;3;PRS;FIN;ACT
+should	kellene	should	kell	V;FIN	V;INDF;COND;SG;3;PRS;FIN;ACT
+two	kettő	two	kettő	NUM	
+can	tud	can	tud	V;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+can	can	can	can	V;FIN	
+can	lehet	can	lesz	V;FIN	V;INDF;POT;SG;3;PRS;FIN;ACT
+would	lenne	would	lesz	V;FIN	V;INDF;COND;SG;3;PRS;FIN;ACT
+more	több	more	több	ADJ;CMPR	DET;INDF
+more	more	more	more	ADJ;CMPR	
+more	további	more	további	ADJ;CMPR	N;NOM;SG
+more	tobb	more	tobb	ADJ;CMPR	
+about	kb	about	kb	ADV	N;NOM;SG
+about	nagyjából	about	nagy	ADV	N;IN+ABL;SG
+when	amikor	when	amikor	ADV	ADV
+team	team	team	team	N;SG	
+such	ilyen	such	ilyen	ADJ	
+only	kizárólag	only	kizárólag	ADV	
+see	lásd	see	lásd	V;IMP;FIN	
+united	united	united	united	PROPN;SG	
+united	egyesült	united	egyesül	PROPN;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+years	év	year	év	N;PL	N;NOM;SG
+school	suli	school	suli	N;SG	
+world	világ	world	világ	N;SG	
+world	world	world	world	N;SG	
+university	university	university	university	N;SG	
+during	során	during	sor	ADV	N;ON+ESS;SG
+out	ki	out	ki	ADV	PRO;NOM;SG;3
+state	állami	state	állami	N;SG	
+national	national	national	national	ADJ	
+year	évi	year	évi	N;SG	
+most	legtöbb	most	legtöbb	ADJ;RL	
+city	city	city	city	N;SG	
+city	városi	city	városi	N;SG	ADJ;NOM;SG
+then	aztán	then	aztán	ADV	
+county	megyei	county	megyei	N;SG	ADJ;NOM;SG
+county	megye	county	megye	N;SG	
+external	külső	external	külső	ADJ	
+where	ahol	where	ahol	ADV	ADV
+will	will	will	will	V;FIN	
+will	akarat	will	akarat	V;FIN	N;NOM;SG
+delete	törlése	delete	törlés	V;IMP;FIN	N;NOM;SG
+delete	törlés	delete	törlés	V;IMP;FIN	
+any	bármelyik	any	bármelyik	DET	
+any	bármely	any	bármely	DET	
+any	bármilyen	any	bármilyen	DET	
+january	januári	january	januári	PROPN;SG	ADJ;NOM;SG
+january	január	january	január	PROPN;SG	N;NOM;SG
+january	januárban	january	január	PROPN;SG	N;IN+ESS;SG
+march	március	march	március	PROPN;SG	N;NOM;SG
+march	márciusi	march	márciusi	PROPN;SG	ADJ;NOM;SG
+august	augusztusban	august	augusztus	PROPN;SG	N;IN+ESS;SG
+august	august	august	augus	PROPN;SG	
+august	augusztus	august	augusztus	PROPN;SG	N;NOM;SG
+july	júliusban	july	július	PROPN;SG	N;IN+ESS;SG
+july	júliusi	july	júliusi	PROPN;SG	ADJ;NOM;SG
+july	július	july	július	PROPN;SG	N;NOM;SG
+being	lenni	be	lesz	V;V.MSDR	V;NFIN;ACT
+him	neki	he	ő	PRO;ACC;MASC;SG;3	
+many	sok	many	sok	ADJ	
+many	sokan	many	sokan	ADJ	ADV
+south	dél	south	dél	PROPN;SG	
+south	délre	south	délre	PROPN;SG	ADV
+south	déli	south	déli	PROPN;SG	
+september	szeptemberben	september	szeptember	PROPN;SG	N;IN+ESS;SG
+september	szeptember	september	szeptember	PROPN;SG	N;NOM;SG
+september	szeptemberi	september	szeptemberi	PROPN;SG	ADJ;NOM;SG
+like	mint	like	mint	INTJ	CONJ
+like	like	like	lik	INTJ	
+like	tetszik	like	tetszik	INTJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+between	között	between	között	ADV	ADP
+october	októberi	october	októberi	PROPN;SG	ADJ;NOM;SG
+october	októberben	october	október	PROPN;SG	N;IN+ESS;SG
+october	október	october	október	PROPN;SG	N;NOM;SG
+june	júniusi	june	júniusi	PROPN;SG	ADJ;NOM;SG
+june	june	june	june	PROPN;SG	
+june	június	june	június	PROPN;SG	N;NOM;SG
+june	júniusban	june	június	PROPN;SG	N;IN+ESS;SG
+well	hát	well	hát	INTJ	
+use	használat	use	használat	V;IMP;FIN	N;NOM;SG
+use	használata	use	használat	V;IMP;FIN	N;NOM;SG
+use	felhasználás	use	felhasználás	V;IMP;FIN	N;NOM;SG
+under	alatt	under	alatt	ADV	ADP
+under	alatta	under	alat	ADV	
+under	alá	under	alá	ADV	ADP
+them	ők	they	ők	PRO;ACC;PL;3	PRO;NOM;PL;3
+april	april	april	ap	PROPN;SG	
+april	április	april	április	PROPN;SG	N;NOM;SG
+april	áprilisi	april	áprilisi	PROPN;SG	ADJ;NOM;SG
+april	áprilisban	april	április	PROPN;SG	N;IN+ESS;SG
+december	december	december	december	PROPN;SG	N;NOM;SG
+december	decemberi	december	decemberi	PROPN;SG	ADJ;NOM;SG
+december	decemberben	december	december	PROPN;SG	N;IN+ESS;SG
+link	link	link	link	N;SG	
+link	linket	link	link	N;SG	
+while	miközben	while	miközben	CONJ	ADV
+while	mialatt	while	mialatt	CONJ	ADV
+while	míg	while	míg	CONJ	ADV
+while	amíg	while	amíg	CONJ	ADV
+part	részben	part	részben	N;SG	ADV
+november	november	november	november	PROPN;SG	N;NOM;SG
+november	novemberi	november	novemberi	PROPN;SG	ADJ;NOM;SG
+november	novemberben	november	november	PROPN;SG	N;IN+ESS;SG
+please	kérem	please	kér	INTJ	V;DEF;IMP;SG;3;PRS;FIN;ACT
+please	kérlek	please	kérl	INTJ	V;DEF;IMP;SG;1;PRS;FIN;ACT
+february	februárban	february	február	PROPN;SG	N;IN+ESS;SG
+february	februári	february	februári	PROPN;SG	ADJ;NOM;SG
+february	február	february	február	PROPN;SG	N;NOM;SG
+know	ismeretes	know	ismeretes	V;IND;PRS;FIN	
+know	ismertek	know	ismer	V;IND;PRS;FIN	V;INDF;IND;PL;3;PST;FIN;ACT
+know	ismert	know	ismert	V;IND;PRS;FIN	
+second	másodszor	second	másod	ADV	
+second	másodperc	second	másodperc	ADV	
+second	második	second	második	ADV	
+history	előzmények	history	előzmény	N;SG	N;NOM;PL
+north	észak	north	észak	PROPN;SG	
+north	északi	north	északi	PROPN;SG	
+north	északra	north	észak	PROPN;SG	N;ON+ALL;SG
+before	előtte	before	előtte	ADV	
+before	előtt	before	előtt	ADV	ADP
+since	mivel	since	mivel	ADV	CONJ
+since	óta	since	óta	ADV	ADP
+both	mindkettő	both	mindkettő	DET	
+both	mindketten	both	mindkett	DET	
+high	high	high	high	ADJ	
+high	magasan	high	magasan	ADJ	
+through	keresztül	through	keresztül	ADV	ADP
+district	kerület	district	kerület	N;SG	
+comments	hozzászólás	comment	hozzászólás	N;PL	
+comments	megjegyzés	comment	megjegyzés	N;PL	N;NOM;SG
+diff	diff	diff	diff	N;SG	
+league	league	league	leag	PROPN;SG	
+league	liga	league	liga	PROPN;SG	N;NOM;SG
+john	john	john	john	PROPN;SG	
+john	jános	john	jános	PROPN;SG	N;NOM;SG
+same	ugyanez	same	ugyanez	ADJ	
+same	ugyanaz	same	ugyanaz	ADJ	
+including	beleértve	include	bele+értv	V;V.MSDR	ADV;V.CVB
+could	lehetne	could	lesz	V;FIN	V;INDF;SG;3;PRS;FIN;ACT
+english	angolul	english	angolul	PROPN;SG	
+english	angol	english	angol	PROPN;SG	
+against	ellene	against	ellen	ADP	PRO;NOM;SG;3
+user	felhasználó	user	felhasználó	N;SG	ADJ;NOM;SG
+user	felhasználói	user	felhasználói	N;SG	N;NOM;PL
+based	alapú	base	alapú	V;PST;V.PTCP	
+york	yorkban	york	york	PROPN;SG	PROPN;IN+ESS;SG
+york	york	york	york	PROPN;SG	
+york	yorki	york	yorki	PROPN;SG	
+life	life	life	life	N;SG	
+british	britek	british	brit	ADJ	N;NOM;PL
+british	angol	british	angol	ADJ	
+british	brit	british	brit	ADJ	
+international	international	international	international	ADJ	
+game	game	game	gam	N;SG	
+above	fölötte	above	fölött	ADV	
+above	felett	above	felett	ADV	ADP
+above	fölött	above	fölött	ADV	ADP
+above	fent	above	fent	ADV	
+above	fenti	above	fent	ADV	
+above	felette	above	felet	ADV	PRO;NOM;SG;3
+club	club	club	club	N;SG	
+early	korán	early	korán	ADV	
+early	korai	early	korai	ADV	
+best	legjobbak	best	jó	ADJ;RL	N;NOM;PL
+best	legjobb	best	jó	ADJ;RL	
+best	best	best	best	ADJ;RL	
+west	nyugat	west	nyugat	ADV	
+west	nyugati	west	nyugati	ADV	
+house	house	house	hous	N;SG	
+house	házon	house	ház	N;SG	ADJ;FRML;SG
+general	általános	general	általános	ADJ	
+general	tábornok	general	tábornok	ADJ	N;NOM;SG
+left	bal	leave	bal	V;PST;V.PTCP	
+left	balra	leave	balra	V;PST;V.PTCP	
+don	don	don	don	PROPN;SG	
+living	élni	living	él	N;SG	V;NFIN;ACT
+living	élő	living	élő	N;SG	
+several	számos	several	számos	ADJ	
+party	party	party	party	N;SG	
+party	parti	party	parti	N;SG	ADJ;NOM;SG
+appropriate	megfelelő	appropriate	megfelelő	ADJ	
+did	tette	do	tesz	V;IND;PST;FIN	V;DEF;IND;SG;3;PST;FIN;ACT
+each	mindegyik	each	mindegyik	DET	
+center	center	center	center	N;SG	
+per	per	per	per	PROPN;SG	N;NOM;SG
+com	com	com	com	N;SG	
+long	hosszú	long	hosszú	ADV	
+www	www	wwwiw	www	N;SG	
+modify	módosítható	modify	módosítható	V;IMP;FIN	ADJ;NOM;SG
+modify	módosítás	modify	módosítás	V;IMP;FIN	N;NOM;SG
+public	nyilvánosság	public	nyilvánosság	ADJ	N;NOM;SG
+public	publikus	public	publikus	ADJ	
+added	felvéve	add	félvev	V;PST;V.PTCP	
+games	játék	game	játék	N;PL	N;NOM;SG
+former	korábbi	former	korábbi	ADJ	ADJ;NOM;CMPR;SG
+east	keletre	east	keletr	PROPN;SG	N;ON+ALL;SG
+east	keleti	east	keleti	PROPN;SG	
+east	kelet	east	kelet	PROPN;SG	
+line	line	line	line	N;SG	
+line	sor	line	sor	N;SG	
+major	őrnagy	major	őrnagy	ADJ	N;NOM;SG
+good	jó	good	jó	ADJ	
+much	sok	much	sok	ADJ	
+much	sokat	much	sok	ADJ	
+show	mutasd	show	mutasd	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+show	show	show	show	V;IMP;FIN	
+below	alul	below	alul	ADV	
+below	alatt	below	alatt	ADV	ADP
+below	alatta	below	alat	ADV	
+below	lent	below	lesz	ADV	
+tow	town	tow	town	N;SG	
+last	utoljára	last	utoljára	ADJ	ADV
+last	utolsónak	last	utolsó	ADJ	ADV
+last	last	last	last	ADJ	
+last	utolsó	last	utolsó	ADJ	
+system	system	system	system	N;SG	
+song	song	song	song	N;SG	
+single	egyedülálló	single	egyedülálló	ADJ	
+single	single	single	single	ADJ	
+single	egyetlen	single	egyetlen	ADJ	
+single	szingli	single	szingli	ADJ	N;NOM;SG
+align	összehangolása	align	összehangolás	V;IMP;FIN	N;NOM;SG
+home	otthon	home	otthon	N;SG	
+home	itthon	home	itthon	N;SG	
+home	haza	home	haza	N;SG	
+women	női	woman	női	N;PL	
+women	nő	woman	nő	N;PL	N;NOM;SG
+seed	mag	seed	mag	N;SG	
+sources	forrás	source	forrás	N;PL	N;NOM;SG
+old	idős	old	idős	ADJ	
+old	régit	old	régit	ADJ	N;ACC;SG
+old	régi	old	régi	ADJ	
+old	öreg	old	öreg	ADJ	
+old	régiek	old	régiek	ADJ	N;NOM;PL
+information	információk	information	információ	N;SG	N;NOM;PL
+set	szett	set	szett	V;FIN	N;NOM;SG
+set	set	set	set	V;FIN	
+set	beállítva	set	beállítva	V;FIN	ADV;V.CVB
+set	forgatás	set	forgatás	V;FIN	N;NOM;SG
+own	saját	own	saját	ADJ	PRO;NOM;SG;3
+band	band	band	band	N;SG	
+band	banda	band	banda	N;SG	
+band	együttes	band	együttes	N;SG	
+point	pont	point	pont	N;SG	
+point	point	point	point	N;SG	
+local	helyi	local	helyi	ADJ	
+around	körül	around	körül	ADV	ADP
+river	folyó	river	folyó	N;SG	
+top	felül	top	felül	N;SG	
+top	top	top	top	N;SG	
+top	csúcs	top	csúcs	N;SG	
+top	felső	top	felső	N;SG	
+top	legfelső	top	legfelső	N;SG	
+main	fő	main	fő	ADJ	
+main	main	main	main	ADJ	
+main	főbb	main	fő	ADJ	ADJ;NOM;CMPR;SG
+french	francia	french	francia	ADJ	
+french	franciák	french	francia	ADJ	N;NOM;PL
+off	off	off	off	ADV	
+original	eredeti	original	eredeti	ADJ	N;NOM;SG
+service	kiszolgálás	service	kiszolgálás	N;SG	
+located	található	locate	található	V;PST;V.PTCP	ADJ;NOM;SG
+said	said	say	said	V;IND;PST;FIN	
+air	air	air	air	N;SG	
+german	németül	german	németül	ADJ	
+law	jogszabályok	law	jogszabály	N;SG	N;NOM;PL
+law	jogszabály	law	jogszabály	N;SG	
+military	katonaság	military	katonaság	ADJ	N;NOM;SG
+military	hadsereg	military	hadsereg	ADJ	N;NOM;SG
+great	nagyszerű	great	nagyszerű	ADJ	
+within	belül	within	belül	ADV	ADP
+president	elnök	president	elnök	PROPN;SG	N;NOM;SG
+official	hivatalos	official	hivatalos	N;SG	ADJ;NOM;SG
+case	case	case	case	N;SG	
+london	londoni	london	londoni	PROPN;SG	
+london	londonban	london	london	PROPN;SG	N;IN+ESS;SG
+london	london	london	london	PROPN;SG	N;NOM;SG
+london	londonba	london	london	PROPN;SG	
+times	idők	time	idő	N;PL	
+times	times	time	times	N;PL	N;NOM;SG
+although	habár	although	habár	CONJ	CONJ
+small	kicsik	small	kicsik	ADJ	
+small	kicsi	small	kicsi	ADJ	
+third	harmadik	third	harmadik	ADV	
+third	harmadszor	third	harmadszor	ADV	
+different	más	different	más	ADJ	PRO;NOM;SG;3
+different	különböző	different	különböző	ADJ	
+due	esedékes	due	esedékes	ADJ	
+village	falusi	village	falusi	N;SG	ADJ;NOM;SG
+closed	zárva	close	zárva	V;PST;V.PTCP	ADV;V.CVB
+art	art	art	ar	N;SG	
+final	végleges	final	végleges	ADJ	
+final	záró	final	záró	ADJ	N;NOM;SG
+final	utolsó	final	utolsó	ADJ	
+final	végső	final	végső	ADJ	
+community	közösségi	community	közösségi	N;SG	ADJ;NOM;SG
+without	nélkül	without	nélkül	ADV	ADP
+without	anélkül	without	anélkül	ADV	
+men	férfi	man	férfi	N;PL	N;NOM;SG
+large	nagyok	large	nagy	ADJ	N;NOM;PL
+using	használatával	use	használat	V;V.MSDR	N;INS;SG
+using	használata	use	használat	V;V.MSDR	N;NOM;SG
+using	felhasználva	use	felhasználva	V;V.MSDR	ADV;V.CVB
+deletion	törlés	deletion	törlés	N;SG	
+white	fehér	white	fehér	ADJ	
+five	öt	five	öt	NUM	
+five	öten	five	öten	NUM	PRO;NOM;PL;3
+road	uton	road	ut	N;SG	
+children	gyermek	child	gyermek	N;PL	N;NOM;SG
+free	ingyenes	free	ingyenes	ADJ	
+free	ingyen	free	ingyen	ADJ	
+free	free	free	free	ADJ	
+free	szabad	free	szabad	ADJ	
+england	anglia	england	anglia	PROPN;SG	N;NOM;SG
+england	england	england	england	PROPN;SG	
+england	angliai	england	angliai	PROPN;SG	ADJ;NOM;SG
+down	lefelé	down	lefelé	ADV	
+given	adva	give	adva	V;PST;V.PTCP	
+given	megadva	give	megadva	V;PST;V.PTCP	ADV;V.CVB
+california	kaliforniai	california	kaliforniai	PROPN;SG	V;DEF;IND;SG;3;PRS;NFIN;ACT
+california	california	california	california	PROPN;SG	
+california	kalifornia	california	kalifornia	PROPN;SG	
+california	kaliforniában	california	kalifornia	PROPN;SG	N;IN+ESS;SG
+written	megírva	write	megírva	V;PST;V.PTCP	ADV;V.CVB
+written	írásbeli	write	írásbeli	V;PST;V.PTCP	ADJ;NOM;SG
+created	létrehozott	create	létrehozott	V;PST;V.PTCP	N;ACC;SG
+created	létrehozva	create	létrehozva	V;PST;V.PTCP	N;NOM;SG
+media	media	media	media	N;SG	
+black	fekete	black	feket	ADJ	
+black	black	black	black	ADJ	
+though	habár	though	habár	ADV	CONJ
+though	bár	though	bár	ADV	CONJ
+php	php	php	php	PROPN;SG	N;NOM;SG
+report	beszámoló	report	beszámoló	N;SG	ADJ;NOM;SG
+comment	hozzászólás	comment	hozzászólás	N;SG	
+king	kinga	king	kinga	N;SG	
+edit	szerkesztés	edit	szerkesztés	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+ship	hajón	ship	hajó	N;SG	
+research	kutatások	research	kutatás	N;SG	N;NOM;PL
+record	rekord	record	rekord	N;SG	
+undo	visszacsinálni	undo	visszacsinál	N;SG	V;NFIN;ACT
+cup	cup	cup	cup	N;SG	
+records	records	record	records	N;PL	N;NOM;SG
+records	nyilvántartás	record	nyilvántartás	N;PL	N;NOM;SG
+often	gyakran	often	gyakran	ADV	
+few	kevesen	few	kevés	ADJ	ADV
+few	pár	few	pár	ADJ	
+few	kevés	few	kevés	ADJ	
+few	kevesek	few	kevés	ADJ	
+few	néhány	few	néhány	ADJ	DET;INDF
+side	side	side	side	N;SG	
+power	power	power	power	N;SG	
+education	oktatási	education	oktatási	N;SG	ADJ;NOM;SG
+category	kategória	category	kategória	N;SG	
+political	politika	political	politika	ADJ	N;NOM;SG
+species	faj	species	faj	N;PL	N;NOM;SG
+species	állatfaj	species	állatfaj	N;PL	N;NOM;SG
+near	közel	near	közel	ADV	
+australia	ausztrália	australia	ausztrália	PROPN;SG	N;NOM;SG
+need	szükséges	need	szükséges	V;IND;PRS;FIN	ADJ;NOM;SG
+play	játszani	play	játszik	N;SG	V;NFIN;ACT
+play	play	play	play	N;SG	
+play	játssz	play	játssz	N;SG	
+project	projekt	project	projekt	N;SG	
+project	project	project	projec	N;SG	
+radio	rádiós	radio	rádiós	N;SG	
+radio	radio	radio	radio	N;SG	
+proposed	javasolt	propose	javasolt	V;PST;V.PTCP	
+every	minden	every	minden	DET	PRO;NOM;SG;3
+development	fejlesztési	development	fejlesztési	N;SG	ADJ;NOM;SG
+live	live	live	live	V;IMP;FIN	
+live	élőben	live	élő	V;IMP;FIN	N;IN+ESS;SG
+live	élő	live	élő	V;IMP;FIN	
+union	union	union	union	N;SG	
+union	unió	union	unió	N;SG	PROPN;NOM;SG
+union	unión	union	unió	N;SG	
+union	uniós	union	uniós	N;SG	ADJ;NOM;SG
+india	india	india	india	PROPN;SG	
+next	következő	next	következő	ADV	
+special	különleges	special	különleges	ADJ	
+court	court	court	cour	N;SG	
+region	régiók	region	régió	N;SG	N;NOM;PL
+little	kicsi	little	kicsi	ADJ	
+little	kevés	little	kevés	ADJ	
+short	rövid	short	rövid	ADJ	
+short	röviden	short	röviden	ADJ	
+william	william	william	william	PROPN;SG	
+william	vilmos	william	vilmos	PROPN;SG	
+western	nyugati	western	nyugati	ADJ	
+western	nyugat	western	nyugat	ADJ	
+western	western	western	western	ADJ	
+france	franciaország	france	franciaország	PROPN;SG	N;NOM;SG
+france	france	france	france	PROPN;SG	
+others	másoknak	other	más	N;PL	PRO;DAT;PL;3
+others	egyéb	other	egyéb	N;PL	
+others	mások	other	más	N;PL	
+others	egyebek	other	egyéb	N;PL	
+royal	királyi	royal	királyi	PROPN;SG	
+royal	royal	royal	royal	PROPN;SG	
+current	áramlat	current	áramlat	ADJ	N;NOM;SG
+current	jelenlegi	current	jelenlegi	ADJ	
+full	full	full	full	ADJ	
+full	teljes	full	teljes	ADJ	
+red	piros	red	piros	ADJ	
+red	piroska	red	piroska	ADJ	
+red	vörös	red	vörös	ADJ	
+too	is	too	is	ADV	CONJ
+too	túl	too	túl	ADV	
+department	megye	department	megye	N;SG	
+san	szan	san	szan	PROPN;SG	
+san	san	san	san	PROPN;SG	
+help	segíteni	help	segít	N;SG	V;NFIN;ACT
+among	között	among	között	ADV	ADP
+james	james	jame	james	N;PL	
+james	jakab	jame	ja	N;PL	
+open	nyitva	open	nyitva	ADJ	ADV;V.CVB
+force	force	force	force	N;SG	
+track	nyomon	track	nyomon	N;SG	
+http	http	http	http	N;SG	
+canada	kanada	canada	kanada	PROPN;SG	PROPN;NOM;SG
+canada	kanadai	canada	kanadai	PROPN;SG	ADJ;NOM;SG
+never	sosem	never	sosem	ADV	
+never	soha	never	soha	ADV	
+australian	ausztrál	australian	ausztrál	ADJ	
+australian	ausztrália	australian	ausztrália	ADJ	N;NOM;SG
+george	george	george	george	PROPN;SG	
+george	györgy	george	györgy	PROPN;SG	N;NOM;SG
+jpg	jpg	jpg	jpg	PROPN;SG	
+level	szintű	level	szintű	N;SG	
+late	későn	late	későn	ADV	
+late	késő	late	késő	ADV	
+late	késve	late	késve	ADV	
+summer	summer	summer	summer	N;SG	
+summer	nyári	summer	nyári	N;SG	
+summer	nyár	summer	nyár	N;SG	
+round	kör	round	kör	ADV	N;NOM;SG
+round	kerek	round	kér	ADV	
+round	forduló	round	forduló	ADV	N;NOM;SG
+story	story	story	story	N;SG	
+various	többféle	various	többfél	ADJ	
+various	különféle	various	különféle	ADJ	
+various	különböző	various	különböző	ADJ	
+land	földterületek	land	földterület	N;SG	N;NOM;PL
+america	amerika	america	amerika	PROPN;SG	N;NOM;SG
+america	america	america	america	PROPN;SG	
+term	távú	term	távú	N;SG	
+six	hat	six	hat	NUM	
+post	posta	post	posta	N;SG	
+post	post	post	post	N;SG	
+young	fiatalok	young	fiatal	ADJ	N;NOM;PL
+young	fiatal	young	fiatal	ADJ	
+total	teljes	total	teljes	ADJ	
+total	összesen	total	összesen	ADJ	
+david	david	david	david	PROPN;SG	
+david	dávid	david	dávid	PROPN;SG	
+related	összefüggő	related	összefüggő	ADJ	
+related	rokonok	related	rokon	ADJ	N;NOM;PL
+related	rokon	related	rokon	ADJ	
+related	kapcsolatban	related	kapcsolat	ADJ	N;IN+ESS;SG
+rock	rock	rock	rock	N;SG	
+led	led	lead	led	V;PST;V.PTCP	N;NOM;SG
+news	hírek	news	hír	N;SG	N;NOM;PL
+described	leírt	describe	leírt	V;PST;V.PTCP	
+election	választási	election	választási	N;SG	ADJ;NOM;SG
+election	választás	election	választás	N;SG	
+election	választások	election	választás	N;SG	N;NOM;PL
+present	ajándék	present	ajándék	ADJ	N;NOM;SG
+present	jelen	present	jelen	ADJ	
+indian	indián	indian	indián	ADJ	
+kingdom	királyság	kingdom	királyság	PROPN;SG	N;NOM;SG
+books	könyv	book	könyv	N;PL	N;NOM;SG
+northern	észak	northern	észak	ADJ	
+northern	északi	northern	északi	ADJ	
+love	szeretettel	love	szeretet	V;IND;FIN	N;INS;SG
+love	love	love	love	V;IND;FIN	
+love	szeretet	love	szeretet	V;IND;FIN	N;NOM;SG
+love	szerelem	love	szerelem	V;IND;FIN	N;NOM;SG
+run	futás	run	futás	V;IMP;FIN	N;NOM;SG
+schools	iskola	school	iskola	N;PL	N;NOM;SG
+social	szociális	social	szociális	ADJ	N;NOM;SG
+germany	németország	germany	németország	PROPN;SG	N;NOM;SG
+production	termelési	production	termelési	N;SG	ADJ;NOM;SG
+awards	gála	award	gála	N;PL	N;NOM;SG
+points	pont	point	pont	N;PL	
+similar	hasonlók	similar	hasonló	ADJ	N;NOM;PL
+professional	profi	professional	profi	ADJ	
+enough	elég	enough	elég	ADJ	
+lead	vezet	lead	vezet	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+common	közös	common	közös	ADJ	
+common	gyakori	common	gyakori	ADJ	
+overlap	átfedés	overlap	átfedés	V;IMP;FIN	N;NOM;SG
+data	adatok	data	adat	N;SG	N;NOM;PL
+color	színek	color	szín	N;SG	N;NOM;PL
+better	jobban	better	jól	ADJ;CMPR	ADV
+person	személy	person	személy	N;SG	
+person	személyre	person	személy	N;SG	
+services	szolgáltatás	service	szolgáltatás	N;PL	N;NOM;SG
+museum	museum	museum	museum	N;SG	
+sports	sport	sport	sport	N;PL	
+sports	sportban	sport	sport	N;PL	N;IN+ESS;SG
+already	máris	already	máris	ADV	
+hall	hall	hall	hall	N;SG	
+deleted	törölve	delete	törölve	V;PST;V.PTCP	N;NOM;SG
+deleted	törölt	delete	töröl	V;PST;V.PTCP	
+change	megváltozott	change	megváltozott	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+change	változások	change	változás	N;SG	N;NOM;PL
+must	kell	must	kell	V;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+yes	igen	yes	igen	INTJ	
+southern	dél	southern	dél	ADJ	
+southern	déli	southern	déli	ADJ	
+lost	lost	lose	lost	V;PST;V.PTCP	
+something	valami	something	valami	PRO;SG	
+something	valamit	something	valamit	PRO;SG	
+together	együtt	together	együtt	ADV	
+robert	robert	robert	rober	PROPN;SG	
+robert	róbert	robert	róber	PROPN;SG	N;NOM;SG
+fact	tény	fact	tény	N;SG	
+less	kevesebbet	less	kevesebb	ADJ;CMPR	
+less	kevesebb	less	kevesebb	ADJ;CMPR	
+less	kevésbé	less	kevésbé	ADJ;CMPR	ADV
+japanese	japán	japanese	japán	ADJ	
+japanese	japánok	japanese	japán	ADJ	N;NOM;PL
+involved	érintett	involved	érintett	ADJ	
+isbn	isbn	isbn	isbn	PROPN;SG	
+japan	japán	japan	japán	PROPN;SG	
+control	vezérlő	control	vezérlő	N;SG	ADJ;NOM;SG
+control	ellenőrzési	control	ellenőrzési	N;SG	ADJ;NOM;SG
+modern	modern	modern	modern	ADJ	
+modern	korszerű	modern	korszerű	ADJ	
+human	ember	human	ember	ADJ	N;NOM;SG
+human	emberi	human	emberi	ADJ	
+design	tervezési	design	tervezési	N;SG	ADJ;NOM;SG
+design	design	design	design	N;SG	
+events	esemény	event	esemény	N;PL	N;NOM;SG
+done	kész	do	kész	V;PST;V.PTCP	
+washington	washingtonban	washington	washingtonban	PROPN;SG	N;IN+ESS;SG
+washington	washington	washington	washington	PROPN;SG	
+real	real	real	real	ADJ	
+real	igazi	real	igazi	ADJ	
+real	valódi	real	valódi	ADJ	
+start	start	start	start	V;IMP;FIN	
+start	kezdés	start	kezdés	V;IMP;FIN	N;NOM;SG
+action	akció	action	akció	N;SG	
+really	tényleg	really	tényleg	ADV	
+really	igazán	really	igazán	ADV	
+china	porcelán	china	porcela	PROPN;SG	N;NOM;SG
+china	kína	china	kína	PROPN;SG	PROPN;NOM;SG
+china	china	china	china	PROPN;SG	
+paul	paul	paul	paul	PROPN;SG	
+paul	pál	paul	pál	PROPN;SG	
+working	dolgozó	work	dolgozó	V;V.MSDR	ADJ;NOM;SG
+taken	foglalt	take	foglal	V;PST;V.PTCP	
+far	far	far	far	ADV	
+far	messze	far	messze	ADV	
+far	messzire	far	messzire	ADV	
+lake	tó	lake	tó	PROPN;SG	N;NOM;SG
+lake	tavi	lake	tavi	PROPN;SG	
+lake	tavon	lake	tavon	PROPN;SG	N;ON+ESS;SG
+popular	népszerű	popular	népszerű	ADJ	
+married	házas	married	házas	ADJ	
+married	házasok	married	házas	ADJ	N;NOM;PL
+europe	európa	europe	európa	PROPN;SG	
+europe	europe	europe	europe	PROPN;SG	
+europe	európában	europe	európa	PROPN;SG	N;IN+ESS;SG
+author	szerző	author	szerző	N;SG	
+independent	független	independent	független	ADJ	
+independent	önálló	independent	önálló	ADJ	
+independent	függetlenek	independent	független	ADJ	V;INDF;IND;PL;3;PRS;FIN;ACT
+michael	michael	michael	michael	PROPN;SG	
+michael	mihály	michael	mihály	PROPN;SG	
+light	light	light	light	N;SG	
+big	nagyok	big	nagy	ADJ	N;NOM;PL
+wrote	irtam	write	irtam	V;IND;PST;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+republic	köztársaság	republic	köztársaság	PROPN;SG	N;NOM;SG
+thomas	thomas	thomas	thomas	PROPN;SG	
+thomas	tamás	thomas	tamás	PROPN;SG	N;NOM;SG
+via	via	via	via	ADV	
+russian	orosz	russian	orosz	ADJ	
+russian	oroszul	russian	orosz	ADJ	
+russian	oroszország	russian	oroszország	ADJ	N;NOM;SG
+thanks	köszönöm	thanks	köszönöm	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+thanks	köszi	thanks	köszi	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+recorded	rögzítve	record	rögzítve	V;PST;V.PTCP	N;NOM;SG
+someone	valaki	someone	valaki	PRO;SG	
+someone	valakit	someone	valakit	PRO;SG	
+civil	civil	civil	civil	ADJ	
+police	rendőrség	police	rendőrség	N;PL	N;NOM;SG
+police	rendőr	police	rendőr	N;PL	N;NOM;SG
+charles	károly	charle	károly	N;PL	N;NOM;SG
+charles	charles	charle	charles	N;PL	
+listed	felsorolt	list	fel+sorol	V;PST;V.PTCP	
+eastern	kelet	eastern	kelet	ADJ	
+eastern	keleti	eastern	keleti	ADJ	
+italian	olasz	italian	olasz	ADJ	
+italian	olaszország	italian	olaszország	ADJ	
+texas	texasi	texas	texasi	PROPN;SG	
+texas	texas	texas	texas	PROPN;SG	
+texas	texasban	texas	texas	PROPN;SG	
+close	szoros	close	szoros	ADJ	
+close	közel	close	közel	ADJ	
+close	bezárása	close	bezárás	ADJ	N;NOM;SG
+close	közeli	close	közeli	ADJ	
+match	egyezik	match	egyezik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+roman	roman	roman	roman	ADJ	
+tour	tour	tour	tour	N;SG	
+sea	tengeren	sea	tenger	N;SG	
+sea	tengeri	sea	tengeri	N;SG	
+actually	valójában	actually	valójában	ADV	N;IN+ESS;SG
+cross	cross	cross	cross	N;SG	
+cross	keresztbe	cross	keresztbe	N;SG	
+health	egészségügyi	health	egészségügyi	N;SG	ADJ;NOM;SG
+caps	sapkát	cap	sapka	N;PL	N;ACC;SG
+green	zöld	green	zöld	N;SG	
+evidence	bizonyítékok	evidence	bizonyítékok	N;SG	N;NOM;PL
+originally	eredetileg	originally	eredeti	ADV	
+aircraft	repülőgépek	aircraft	repülőgép	N;SG	N;NOM;PL
+arts	művészet	art	művészet	N;PL	N;NOM;SG
+arts	művészeti	art	művészeti	N;PL	N;NOM;SG
+probably	valószínű	probably	valószínű	ADV	
+probably	valószínűleg	probably	valószínűleg	ADV	
+consensus	egyetértés	consensus	egyetértés	N;SG	
+bar	bar	bar	bar	N;SG	
+bar	bár	bar	bár	N;SG	CONJ
+problem	gond	problem	gond	N;SG	
+problem	baj	problem	baj	N;SG	
+average	átlag	average	átlag	ADJ	
+network	network	network	network	N;SG	
+win	win	win	win	V;IMP;FIN	
+win	győzelem	win	győzelem	V;IMP;FIN	N;NOM;SG
+win	nyerj	win	nyerj	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+shows	mutatja	show	mutat	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+night	éj	night	éj	N;SG	
+night	este	night	este	N;SG	ADV
+night	éjjel	night	éjjel	N;SG	
+usually	általában	usually	általában	ADV	
+usually	rendszerint	usually	rendszerint	ADV	
+significant	jelentős	significant	jelentős	ADJ	
+significant	szignifikáns	significant	szignifikáns	ADJ	N;ON+ESS;SG
+african	afrikai	african	afrikai	PROPN;SG	
+able	képes	able	képes	ADJ	
+google	google	google	google	PROPN;SG	
+addition	hozzáadás	addition	hozzáadás	N;SG	
+ireland	írország	ireland	írország	PROPN;SG	N;NOM;SG
+today	ma	today	ma	N;SG	ADV
+saint	saint	saint	saint	PROPN;SG	
+saint	szent	saint	szent	PROPN;SG	
+continued	folyamatos	continue	folyamatos	V;PST;V.PTCP	
+continued	folytatása	continue	folytatás	V;PST;V.PTCP	N;NOM;SG
+continued	folytatás	continue	folytatás	V;PST;V.PTCP	N;NOM;SG
+africa	afrikai	africa	afrikai	PROPN;SG	
+africa	afrika	africa	afrika	PROPN;SG	
+spanish	spanyolul	spanish	spanyolul	ADJ	
+spanish	spanyolok	spanish	spanyol	ADJ	N;NOM;PL
+spanish	spanyol	spanish	spanyol	ADJ	
+grand	grand	grand	grand	ADJ	
+fire	tűz	fire	tűz	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+gold	arany	gold	arany	N;SG	
+female	nőnemű	female	nőnemű	N;SG	
+female	női	female	női	N;SG	
+course	persze	course	persze	ADV	
+months	hónap	month	hónap	N;PL	N;NOM;SG
+chinese	kínai	chinese	kínai	N;PL	
+previous	előző	previous	előző	ADJ	
+previous	korábbi	previous	korábbi	ADJ	ADJ;NOM;CMPR;SG
+developed	fejlett	develop	fejlett	V;PST;V.PTCP	
+developed	kidolgozott	develop	kidolgozott	V;PST;V.PTCP	
+add	hozzáadás	add	hozzáadás	V;IMP;FIN	
+add	hozzáadása	add	hozzáadás	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+peter	peter	peter	peter	PROPN;SG	PROPN;NOM;SG
+peter	péter	peter	péter	PROPN;SG	
+basketball	kosár	basketball	kosár	N;SG	
+standard	normál	standard	normál	ADJ	
+standard	szabványos	standard	szabványos	ADJ	N;NOM;SG
+standard	szabvány	standard	szabvány	ADJ	N;NOM;SG
+standard	standard	standard	standard	ADJ	
+training	képzési	training	képzési	N;SG	ADJ;NOM;SG
+blue	kék	blue	kék	ADJ	
+blue	blue	blue	blue	ADJ	
+primary	primer	primary	primer	ADJ	
+christian	keresztény	christian	keresztény	PROPN;SG	
+christian	christian	christian	christian	PROPN;SG	
+christian	keresztények	christian	keresztény	PROPN;SG	N;NOM;PL
+private	magán	private	maga	ADJ	
+private	privát	private	priva	ADJ	
+catholic	katolikus	catholic	katolikus	ADJ	
+catholic	katolikusok	catholic	katolikus	ADJ	N;NOM;PL
+almost	majdnem	almost	majdnem	ADV	
+baseball	baseball	baseball	baseball	N;SG	
+seven	hetes	seven	hetes	NUM	N;NOM;SG
+seven	hét	seven	hét	NUM	N;NOM;SG
+ever	valaha	ever	valaha	ADV	
+olympics	olimpia	olympic	olimpia	N;PL	N;NOM;SG
+future	jövőbeli	future	jövőbeli	N;SG	ADJ;NOM;SG
+future	jövő	future	jövő	N;SG	ADJ;NOM;SG
+results	eredmény	result	eredmény	N;PL	N;NOM;SG
+return	vissza	return	vissza	N;SG	ADV
+return	visszatér	return	visszatér	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+quality	minőségi	quality	minőségi	N;SG	ADJ;NOM;SG
+construction	építési	construction	építési	N;SG	ADJ;NOM;SG
+zealand	zéland	zealand	zéland	PROPN;SG	N;NOM;SG
+front	front	front	front	N;SG	
+cover	fedezze	cover	fedez	N;SG	V;DEF;IMP;SG;3;PRS;FIN;ACT
+cover	címlap	cover	címlap	N;SG	CONJ
+cover	fedezni	cover	fedez	N;SG	V;NFIN;ACT
+model	model	model	model	N;SG	
+despite	ellenére	despite	ellenére	ADV	ADP
+read	olvasott	read	olvasot	V;IMP;FIN	V;INDF;IND;SG;3;PST;FIN;ACT
+material	anyagok	material	anyag	N;SG	N;NOM;PL
+strong	erős	strong	erős	ADJ	
+strong	erősek	strong	erős	ADJ	N;NOM;PL
+henry	henrik	henry	henrik	PROPN;SG	N;NOM;SG
+henry	henry	henry	henry	PROPN;SG	
+mark	mark	mark	mark	PROPN;SG	
+rev	rev	rev	rev	PROPN;SG	
+federal	szövetségi	federal	szövetségi	ADJ	
+richard	richárd	richard	richárd	PROPN;SG	N;NOM;SG
+richard	richard	richard	richard	PROPN;SG	
+virginia	virginiában	virginia	virginia	PROPN;SG	N;IN+ESS;SG
+virginia	virginia	virginia	virginia	PROPN;SG	
+virginia	virginiai	virginia	virginiai	PROPN;SG	ADJ;NOM;SG
+car	kocsival	car	kocsi	N;SG	
+outside	kint	outside	kint	ADV	
+outside	kívül	outside	kívül	ADV	
+study	tanulmányok	study	tanulmány	N;SG	N;NOM;PL
+musical	zenés	musical	zenés	ADJ	N;NOM;SG
+musical	musical	musical	musical	ADJ	N;NOM;SG
+border	határokon	border	határ	N;SG	N;ON+ESS;PL
+past	elmúlt	past	elmúlt	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+past	múltbeli	past	múltbeli	N;SG	ADJ;NOM;SG
+interest	érd	interest	érd	N;SG	
+interest	kamatok	interest	kamat	N;SG	N;NOM;PL
+provided	feltéve	provide	feltév	V;PST;V.PTCP	
+killed	megölt	kill	megölt	V;PST;V.PTCP	
+signed	aláírva	sign	aláírva	V;PST;V.PTCP	ADV;V.CVB
+signed	aláírás	sign	aláírás	V;PST;V.PTCP	N;NOM;SG
+label	címke	label	cím	N;SG	
+fair	vásár	fair	vásár	ADJ	N;NOM;SG
+fair	korrekt	fair	korrekt	ADJ	
+fair	fair	fair	fair	ADJ	
+fair	igazságos	fair	igazságos	ADJ	
+search	keresés	search	keresés	N;SG	
+bay	öböl	bay	öböl	PROPN;SG	N;NOM;SG
+bay	bay	bay	bay	PROPN;SG	
+reference	referencia	reference	referencia	N;SG	ADJ;NOM;SG
+especially	különösen	especially	különös	ADV	ADJ;FRML;SG
+especially	főleg	especially	főleg	ADV	
+management	irányítási	management	irányítási	N;SG	ADJ;NOM;SG
+references	hivatkozás	reference	hivatkozás	N;PL	N;NOM;SG
+guitar	gitár	guitar	gitár	PROPN;SG	N;NOM;SG
+hill	dombon	hill	dombon	PROPN;SG	N;ON+ESS;SG
+hill	domb	hill	domb	PROPN;SG	N;NOM;SG
+hill	hegy	hill	hegy	PROPN;SG	N;NOM;SG
+hill	dombra	hill	dombra	PROPN;SG	N;ON+ALL;SG
+hill	hegyen	hill	hegy	PROPN;SG	N;ON+ESS;SG
+hill	hill	hill	hill	PROPN;SG	
+historical	történeti	historical	történeti	ADJ	N;NOM;SG
+lower	alsó	lower	alsó	ADJ;CMPR	
+lower	lejjebb	lower	lejj	ADJ;CMPR	ADV
+appointed	kijelölt	appoint	kijelölt	V;PST;V.PTCP	
+reading	olvasok	reading	olvas	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+reading	olvasni	reading	olvas	N;SG	V;NFIN;ACT
+yet	mégis	yet	mégis	ADV	CONJ
+systems	systems	system	systems	N;PL	
+debut	debütáló	debut	debütáló	N;SG	ADJ;NOM;SG
+specific	konkrét	specific	konkrét	ADJ	
+clear	tiszta	clear	tiszta	ADJ	
+coast	part	coast	part	N;SG	
+chicago	chicagóban	chicago	chicagó	PROPN;SG	N;IN+ESS;SG
+chicago	chicagói	chicago	chicagó	PROPN;SG	N;NOM;SG
+chicago	chicago	chicago	chicago	PROPN;SG	
+pennsylvania	pennsylvania	pennsylvania	pennsylvania	PROPN;SG	V;SG;3;NFIN;ACT
+individual	egyéni	individual	egyéni	N;SG	
+etc	stb	etc	stb		
+paris	párizs	paris	párizs	PROPN;SG	N;NOM;SG
+paris	párizsi	paris	párizsi	PROPN;SG	
+paris	párizsban	paris	párizs	PROPN;SG	PROPN;IN+ESS;SG
+thought	hittem	think	hit	V;PST;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+thought	gondolat	think	gondolat	V;PST;FIN	N;NOM;SG
+brown	brown	brown	brown	PROPN;SG	
+brown	barna	brown	bar	PROPN;SG	
+needs	kell	need	kell	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+needs	szükséglet	need	szükséglet	N;PL	N;NOM;SG
+smith	kovács	smith	kovács	PROPN;SG	
+smith	smith	smith	smith	PROPN;SG	
+generally	általánosságban	generally	általánosság	ADV	N;IN+ESS;SG
+generally	általában	generally	általában	ADV	
+base	alap	base	alap	N;SG	
+sometimes	néha	sometimes	néha	ADV	
+florida	floridai	florida	floridai	PROPN;SG	
+florida	floridában	florida	florida	PROPN;SG	N;IN+ESS;SG
+florida	florida	florida	florida	PROPN;SG	
+florida	floridába	florida	florida	PROPN;SG	N;IN+ALL;SG
+valley	valley	valley	valley	N;SG	
+reached	elért	reach	elért	V;PST;V.PTCP	
+italy	olaszország	italy	olaszország	PROPN;SG	
+believe	hiszem	believe	hisz	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+believe	higgy	believe	higgy	V;IMP;FIN	V;INDF;IND;SG;1;PRS;FIN;ACT
+leader	vezér	leader	vezér	N;SG	
+leader	leader	leader	leader	N;SG	
+leader	vezető	leader	vezető	N;SG	
+active	aktív	active	aktív	ADJ	
+active	aktívak	active	aktív	ADJ	N;NOM;PL
+online	interneten	online	internet	ADV	N;ON+ESS;SG
+online	online	online	online	ADV	
+bridge	bridge	bridge	bridge	N;SG	
+changes	változás	change	változás	N;PL	N;NOM;SG
+changes	változtatás	change	változtatás	N;PL	N;NOM;SG
+request	kérelem	request	kérel	N;SG	
+soon	nemsokára	soon	nemsoka	ADV	N;ON+ALL;SG
+olympic	olimpiai	olympic	olimpiai	N;SG	ADJ;NOM;SG
+sold	eladva	sell	eladva	V;PST;V.PTCP	ADV;V.CVB
+studio	studio	studio	studio	N;SG	
+mexico	mexikó	mexico	mexikó	PROPN;SG	
+empire	empire	empire	empi	N;SG	
+length	hossz	length	hossz	N;SG	
+singer	énekesnő	singer	énekesnő	N;SG	
+singer	singer	singer	singer	N;SG	
+create	létrehozása	create	létrehozás	V;IMP;FIN	N;NOM;SG
+additional	további	additional	további	ADJ	N;NOM;SG
+soviet	szovjetek	soviet	szovjet	PROPN;SG	N;NOM;PL
+soviet	szovjet	soviet	szovjet	PROPN;SG	
+producer	gyártó	producer	gyártó	N;SG	ADJ;NOM;SG
+producer	termelő	producer	termelő	N;SG	
+producer	termelői	producer	termelő	N;SG	N;NOM;PL
+notes	jegyzet	note	jegyzet	N;PL	N;NOM;SG
+hockey	hoki	hockey	hoki	N;SG	
+novel	újszerű	novel	újszerű	N;SG	
+referee	bíró	referee	bíró	N;SG	
+fourth	negyedszer	fourth	negyedszer	PROPN;SG	
+fourth	negyedik	fourth	negyed	PROPN;SG	
+sport	sport	sport	sport	N;SG	
+van	furgon	van	furgon	PROPN;SG	N;NOM;SG
+mary	mary	mary	mary	PROPN;SG	
+mary	mária	mary	mária	PROPN;SG	
+irish	írek	irish	ír	ADJ	N;NOM;PL
+irish	írország	irish	írország	ADJ	N;NOM;SG
+irish	ír	irish	ír	ADJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+idea	elképzelés	idea	elképzelés	N;SG	
+foreign	kül	foreign	kül	ADJ	
+foreign	külföldiek	foreign	külföldi	ADJ	N;NOM;PL
+register	regisztrálj	register	regisztrál	N;SG	V;DEF;IMP;SG;1;PRS;FIN;ACT
+eight	nyolc	eight	nyolc		
+problems	probléma	problem	probléma	N;PL	N;NOM;SG
+native	bennszülött	native	bennszülött	ADJ	
+native	őslakos	native	őslakos	ADJ	
+native	őshonos	native	őshonos	ADJ	
+native	bennszülöttek	native	bennszülött	ADJ	V;INDF;IND;PL;3;PST;FIN;ACT
+minor	kiskorú	minor	kiskorú	ADJ	N;NOM;SG
+minor	kisebb	minor	kis	ADJ	ADJ;NOM;CMPR;SG
+foundation	alap	foundation	alap	N;SG	
+units	egység	unit	egység	N;PL	N;NOM;SG
+runs	fut	run	fut	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+runs	vezeti	run	vezet	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+ice	ice	ice	ice	N;SG	
+simply	egyszerűen	simply	egyszerű	ADV	ADJ;FRML;SG
+limited	limited	limited	limited	ADJ	
+limited	limitált	limited	limitál	ADJ	
+limited	korlátozott	limited	korlátozott	ADJ	
+limited	korlátolt	limited	korlátolt	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+unit	unit	unit	únit	N;SG	
+student	hallgató	student	hallgató	N;SG	
+student	tanuló	student	tanuló	N;SG	ADJ;NOM;SG
+governor	kormányzó	governor	kormányzó	PROPN;SG	ADJ;NOM;SG
+complete	komplett	complete	komplett	ADJ	
+complete	teljes	complete	teljes	ADJ	
+complete	teljessé	complete	teljessé	ADJ	V;DEF;IND;SG;3;PRS;FIN;ACT
+nominated	jelöltek	nominate	jelöl	V;PST;V.PTCP	N;NOM;PL
+nominated	jelölt	nominate	jelöl	V;PST;V.PTCP	
+bill	bill	bill	bill	N;SG	
+parts	alkatrész	part	alkatrész	N;PL	N;NOM;SG
+vocals	ének	vocal	én	N;PL	N;NOM;SG
+account	figyelembe	account	figyel	N;SG	
+vote	szavazz	vote	szavazz	V;IMP;FIN	
+vote	szavazás	vote	szavazás	V;IMP;FIN	N;NOM;SG
+vote	szavazat	vote	szavazat	V;IMP;FIN	
+vote	szavazzatok	vote	szavazont	V;IMP;FIN	V;INDF;IND;PL;3;PRS;FIN;ACT
+computer	komputer	computer	komputer	N;SG	
+computer	computer	computer	computer	N;SG	
+carolina	carolina	carolina	carolina	PROPN;SG	
+carolina	karolina	carolina	karolina	PROPN;SG	
+poland	lengyelország	poland	lengyelország	PROPN;SG	N;NOM;SG
+behind	mögötte	behind	mögöt	ADV	
+behind	mögött	behind	mögött	ADV	ADP
+wales	wales	wale	wales	N;PL	
+winning	nyerő	win	nyerő	N;SG	
+lot	sok	lot	sok	N;SG	
+hospital	kórházi	hospital	kórházi	N;SG	
+mid	közép	mid	közép		
+mountain	hegyi	mountain	hegyi	N;SG	
+mountain	hegyek	mountain	hegy	N;SG	N;NOM;PL
+higher	feljebb	higher	fől	ADJ;CMPR	ADV
+angeles	angeles	angeles	angeles	PROPN;SG	
+editing	szerkesztés	editing	szerkesztés	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+editing	vágó	editing	vágó	N;SG	
+replaced	helyébe	replace	hely	V;PST;V.PTCP	N;IN+ALL;SG
+food	élelmiszerek	food	élelmiszer	N;SG	N;NOM;PL
+multiple	többszörös	multiple	többszörös	ADJ	N;NOM;SG
+likely	valószínű	likely	valószínű	ADJ	
+likely	valószínűleg	likely	valószínűleg	ADJ	
+thing	izé	thing	izé	N;SG	
+square	square	square	sóuar	PROPN;SG	
+square	szögletes	square	szögletes	PROPN;SG	
+square	négyzetes	square	négyzetes	PROPN;SG	ADJ;NOM;SG
+square	tér	square	tér	PROPN;SG	N;NOM;SG
+square	négyzet	square	négyzet	PROPN;SG	
+woman	nö	woman	nö	N;SG	
+categories	kategória	category	kategória	N;PL	
+greek	görög	greek	görög	ADJ	
+recent	nemrég	recent	nemrég	ADJ	ADV
+recent	legutóbbi	recent	legutóbbi	ADJ	
+sent	elküldve	send	elküldve	V;PST;V.PTCP	N;NOM;SG
+saw	fűrész	see	fűrész	V;IND;PST;FIN	N;NOM;SG
+senior	rangidős	senior	rangidős	ADJ	N;NOM;SG
+senior	senior	senior	senior	ADJ	
+senior	végzős	senior	végzős	ADJ	N;NOM;SG
+selected	kijelölt	select	kijelölt	V;PST;V.PTCP	
+selected	kiválasztva	select	kiválasztva	V;PST;V.PTCP	ADV;V.CVB
+politician	politikusok	politician	politikus	N;SG	N;NOM;PL
+true	igaz	true	igaz	ADJ	
+true	igazi	true	igazi	ADJ	
+required	szükséges	require	szükséges	V;PST;V.PTCP	ADJ;NOM;SG
+regular	rendszeres	regular	rendszeres	ADJ	
+regular	normál	regular	normál	ADJ	
+commercial	reklám	commercial	reklám	ADJ	N;NOM;SG
+trade	kereskedelmi	trade	kereskedelmi	N;SG	ADJ;NOM;SG
+anti	anti	anti	anti	PROPN;SG	
+birth	születési	birth	születési	N;SG	ADJ;NOM;SG
+sun	napsütés	sun	napsütés	PROPN;SG	N;NOM;SG
+sun	sun	sun	sun	PROPN;SG	
+sun	nap	sun	nap	PROPN;SG	N;NOM;SG
+sun	napfény	sun	napfény	PROPN;SG	N;NOM;SG
+finished	kész	finish	kész	V;PST;V.PTCP	
+earth	föld	earth	föld	PROPN;SG	N;NOM;SG
+access	belépés	access	belépés	N;SG	
+prior	hírnök	prior	hírnök	ADJ	N;NOM;SG
+prior	előzetes	prior	előzetes	ADJ	
+seasons	évszak	season	évszú	N;PL	N;NOM;SG
+beginning	kezdetek	beginning	kezdet	N;SG	N;NOM;PL
+software	szoftverek	software	szoftver	N;SG	N;NOM;PL
+famous	híres	famous	híres	ADJ	
+famous	híresség	famous	híresség	ADJ	N;NOM;SG
+religious	vallásos	religious	vallásos	ADJ	
+religious	vallás	religious	vallás	ADJ	N;NOM;SG
+martin	márton	martin	márt	PROPN;SG	
+martin	martin	martin	martin	PROPN;SG	
+god	isten	god	isten	PROPN;SG	N;NOM;SG
+bit	bites	bit	bites	N;SG	
+bit	kicsit	bit	kicsi	N;SG	
+hours	óra	hour	óra	N;PL	N;NOM;SG
+running	fut	running	fut	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+running	futó	running	futó	N;SG	
+running	futok	running	fut	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+brought	hoztam	bring	hoz	V;PST;V.PTCP	V;DEF;IND;SG;1;PRS;FIN;ACT
+missing	hiányzik	missing	hiányzik	ADJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+missing	eltűnt	missing	el+tűnik	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+rural	vidék	rural	vidék	ADJ	N;NOM;SG
+certain	bizonyos	certain	bizonyos	ADJ	
+hit	ütés	hit	ütés	V;IMP;FIN	N;NOM;SG
+hit	találat	hit	találat	V;IMP;FIN	N;NOM;SG
+minutes	perc	minute	perc	N;PL	N;NOM;SG
+minutes	jegyzőkönyv	minute	jegyzőkönyv	N;PL	N;NOM;SG
+spain	spanyolország	spain	spanyolország	PROPN;SG	
+plays	játszik	play	játszik	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+whole	egészben	whole	egészben	ADJ	N;IN+ESS;SG
+whole	egész	whole	egész	ADJ	
+joseph	joseph	joseph	joseph	PROPN;SG	
+joseph	józsef	joseph	józsef	PROPN;SG	
+web	web	web	web	N;SG	
+operations	üzemeltetés	operation	üzemeltetés	N;PL	N;NOM;SG
+louis	louis	louis	louis	PROPN;SG	
+louis	lajos	louis	lajos	PROPN;SG	
+queen	királynő	queen	királynő	PROPN;SG	N;NOM;SG
+queen	queen	queen	ő	PROPN;SG	
+queen	dáma	queen	dáma	PROPN;SG	
+queen	királyné	queen	király	PROPN;SG	N;NOM;SG
+security	biztonsági	security	biztonsági	N;SG	ADJ;NOM;SG
+ohio	ohio	ohio	ohio	PROPN;SG	
+jan	jan	jan	jan	PROPN;SG	
+call	hívd	call	hívd	N;SG	V;DEF;IMP;SG;1;PRS;FIN;ACT
+successful	sikeres	successful	sikeres	ADJ	
+legal	legális	legal	legális	ADJ	
+russia	oroszország	russia	oroszország	PROPN;SG	N;NOM;SG
+prince	herceg	prince	herceg	PROPN;SG	N;NOM;SG
+prince	prince	prince	prince	PROPN;SG	
+jewish	zsidó	jewish	zsidó	ADJ	
+jewish	zsidók	jewish	zsidó	ADJ	N;NOM;PL
+staff	alkalmazottak	staff	alkalmazott	N;SG	N;NOM;PL
+staff	munkatársak	staff	munkatárs	N;SG	N;NOM;PL
+towards	felé	towards	felé	ADV	ADP
+agree	egyetértek	agree	egyetért	V;IND;PRS;FIN	V;INDF;IND;PL;3;PST;FIN;ACT
+bad	bad	bad	bad	ADJ	
+bad	rosz	bad	rosz	ADJ	
+bad	rossz	bad	rossz	ADJ	
+allowed	engedélyezve	allow	engedélyezve	V;PST;V.PTCP	ADV;V.CVB
+captain	kapitány	captain	kapitány	PROPN;SG	N;NOM;SG
+hard	nehéz	hard	nehéz	ADJ	
+hard	kemény	hard	kemény	ADJ	
+saying	mondás	say	mondás	V;V.MSDR	N;NOM;SG
+manager	vezető	manager	vezető	N;SG	
+manager	kezelő	manager	kezelő	N;SG	ADJ;NOM;SG
+earlier	korábbi	earlier	korábbi	ADV	ADJ;NOM;CMPR;SG
+meet	találkozó	meet	találkozó	V;IMP;FIN	N;NOM;SG
+box	box	box	box	N;SG	
+box	rovat	box	rovat	N;SG	
+democratic	demokratikus	democratic	demokratikus	ADJ	N;NOM;SG
+democratic	demokrata	democratic	demokrata	ADJ	N;NOM;SG
+success	sikeres	success	sikeres	N;SG	
+associated	kapcsolódó	associate	kapcsolódó	V;PST;V.PTCP	ADJ;NOM;SG
+singles	egyéni	singles	egyéni	N;PL	
+traditional	hagyományos	traditional	hagyományos	ADJ	
+rest	többi	rest	többi	N;SG	
+rest	pihenő	rest	pihenő	N;SG	
+matter	számít	matter	számít	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+particularly	különösen	particularly	különös	ADV	ADJ;FRML;SG
+wide	széles	wide	széles	ADJ	N;NOM;SG
+care	érdekel	care	érdekel	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+admin	admin	admin	admin	N;SG	
+jersey	jersey	jersey	jersey	PROPN;SG	
+michigan	michigan	michigan	michigan	PROPN;SG	
+anyone	bárkinek	anyone	bárki	PRO;SG	
+anyone	valaki	anyone	valaki	PRO;SG	
+anyone	bárkit	anyone	bárki	PRO;SG	
+anyone	bárki	anyone	bárki	PRO;SG	
+approximately	megközelítőleg	approximately	megközelítőleg	ADV	ADJ;FRML;SG
+noted	megjegyzendő	note	megjegyzendő	V;PST;FIN	ADJ;NOM;SG
+noted	megjegyeztem	note	megjegyez	V;PST;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+usa	usa	usa	usa	PROPN;SG	
+needed	szükséges	need	szükséges	V;PST;V.PTCP	ADJ;NOM;SG
+illinois	illinois	illinois	illinois	PROPN;SG	
+experience	tapasztalatok	experience	tapasztalat	N;SG	N;NOM;PL
+silver	silver	silver	silver	PROPN;SG	
+silver	ezüst	silver	ezüst	PROPN;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+separate	különálló	separate	különálló	ADJ	
+separate	elkülönített	separate	elkülönít	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+separate	külön	separate	kül	ADJ	
+dutch	holland	dutch	holland	PROPN;SG	
+dutch	dutch	dutch	dutch	PROPN;SG	
+lee	lee	lee	lee	PROPN;SG	
+prime	fővezér	prime	fővezér	ADJ	N;NOM;SG
+prime	prime	prime	prime	ADJ	
+rules	szabály	rule	szabály	N;PL	N;NOM;SG
+rules	szabályzat	rule	szabályzat	N;PL	N;NOM;SG
+youth	fiatalok	youth	fiatal	N;SG	N;NOM;PL
+youth	ifjúsági	youth	ifjúsági	N;SG	ADJ;NOM;SG
+scotland	skócia	scotland	skócia	PROPN;SG	N;NOM;SG
+iii	iii	iii	iii	PROPN;SG	
+heart	szívem	heart	szívem	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+heart	szívvel	heart	szív	N;SG	
+stone	stone	stone	stone	N;SG	PROPN;NOM;SG
+deal	egyezség	deal	egyezség	N;SG	
+deal	alku	deal	alku	N;SG	
+drama	drama	drama	drama	N;SG	
+scores	pontszám	score	pontszám	N;PL	N;NOM;SG
+dead	halott	dead	halott	ADJ	
+dead	halottak	dead	halott	ADJ	N;NOM;PL
+key	kulcsfontosságú	key	kulcsfontosságú	N;SG	ADJ;NOM;SG
+key	key	key	key	N;SG	
+shot	lőtt	shot	lőtt	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+shot	lelőtték	shot	lelőt	N;SG	V;DEF;IND;PL;3;PST;FIN;ACT
+turn	fordulj	turn	fordul	V;IMP;FIN	V;INDF;IND;SG;1;PRS;FIN;ACT
+scottish	skót	scottish	skó	ADJ	
+executive	végrehajtó	executive	végrehajtó	ADJ	
+executive	ügyvezető	executive	ügyvezető	ADJ	N;NOM;SG
+feel	érzem	feel	érez	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+covered	fedett	cover	fedett	V;PST;V.PTCP	
+mostly	főleg	mostly	főleg	ADV	
+mostly	főként	mostly	főként	ADV	
+mostly	többnyire	mostly	többnyir	ADV	
+numerous	számos	numerous	számos	ADJ	
+ancient	ősi	ancient	ősi	ADJ	
+ancient	ős	ancient	ős	ADJ	
+ancient	ókori	ancient	ókori	ADJ	
+property	tulajdon	property	tulajdon	N;SG	
+property	ingatlanok	property	ingatlan	N;SG	N;NOM;PL
+finally	végre	finally	végre	ADV	
+secondary	középfokú	secondary	középfokú	ADJ	N;NOM;SG
+majority	többségi	majority	többségi	N;SG	ADJ;NOM;SG
+majority	többség	majority	többség	N;SG	
+edward	edward	edward	edward	PROPN;SG	
+annual	évente	annual	éven	ADJ	N;ON+ESS;SG
+digital	digitális	digital	digitális	ADJ	N;NOM;SG
+claim	követelés	claim	követelés	V;IMP;FIN	N;NOM;SG
+claim	állítás	claim	állítás	V;IMP;FIN	N;NOM;SG
+claim	igény	claim	igény	V;IMP;FIN	
+bbc	bbc	bbc	bbc	PROPN;SG	
+dance	dance	dance	dance	N;SG	
+dance	táncolj	dance	táncol	N;SG	V;DEF;IND;SG;3;PRS;FIN;ACT
+dance	táncolni	dance	táncol	N;SG	V;NFIN;ACT
+georgia	grúzia	georgia	grúzia	PROPN;SG	
+georgia	georgia	georgia	georgia	PROPN;SG	
+port	kikötők	port	ki+kötő	N;SG	N;NOM;PL
+port	port	port	por	N;SG	
+castle	vár	castle	vár	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+castle	castle	castle	castle	N;SG	
+pass	passz	pass	passz	V;IMP;FIN	N;NOM;SG
+transport	közlekedési	transport	közlekedési	N;SG	ADJ;NOM;SG
+recently	mostanában	recently	mostanában	ADV	N;IN+ESS;SG
+fall	őszi	fall	őszi	N;SG	
+fall	ősszel	fall	ősszel	N;SG	ADV
+fall	ősz	fall	ősz	N;SG	
+global	global	global	global	ADJ	
+wing	wing	wing	wing	N;SG	
+opinion	vélemény	opinion	vélemény	N;SG	
+opinion	vélemények	opinion	vélemény	N;SG	N;NOM;PL
+fort	erőd	fort	erőd	PROPN;SG	N;NOM;SG
+fort	fort	fort	for	PROPN;SG	
+opening	nyitó	opening	nyitó	N;SG	
+winter	téli	winter	téli	N;SG	
+winter	télen	winter	tél	N;SG	
+congress	kongresszus	congress	kongresszus	PROPN;SG	N;NOM;SG
+activities	tevékenység	activity	tevékenység	N;PL	N;NOM;SG
+met	met	meet	met	V;PST;V.PTCP	
+income	jövedelmek	income	jövedelem	N;SG	N;NOM;PL
+income	bevételek	income	bevétel	N;SG	N;NOM;PL
+massachusetts	massachusetts	massachusett	massachusetts	N;PL	N;NOM;SG
+older	idősebbek	older	idős	ADJ;CMPR	N;NOM;PL
+peak	csúcs	peak	csúcs	N;SG	
+lack	hiány	lack	hiány	N;SG	
+bass	bass	bass	bass	PROPN;SG	
+bass	basszus	bass	basszus	PROPN;SG	N;NOM;SG
+super	super	super	super	ADV	
+super	szuper	super	szuper	ADV	
+complex	összetett	complex	összetett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+complex	komplex	complex	komplex	N;SG	
+academic	akadémiai	academic	akadémiai	ADJ	N;NOM;SG
+stars	csillag	star	csillag	N;PL	N;NOM;SG
+accounts	beszámoló	account	beszámoló	N;PL	ADJ;NOM;SG
+entry	belépés	entry	belépés	N;SG	
+asia	ázsiai	asia	ázsiai	PROPN;SG	ADJ;NOM;SG
+asia	ázsia	asia	ázsia	PROPN;SG	
+sense	értelme	sense	értelem	N;SG	
+map	térkép	map	térkép	N;SG	
+bishop	futó	bishop	futó	PROPN;SG	
+bishop	bishop	bishop	bishop	PROPN;SG	
+bishop	püspök	bishop	püspök	PROPN;SG	N;NOM;SG
+boston	boston	boston	boston	PROPN;SG	
+boston	bostoni	boston	bostoni	PROPN;SG	N;NOM;SG
+boston	bostonban	boston	bostonban	PROPN;SG	ADV
+rate	mérték	rate	mér	N;SG	
+forest	erdei	forest	erdei	N;SG	
+forest	erdő	forest	erdő	N;SG	
+forest	erdők	forest	erdő	N;SG	N;NOM;PL
+jack	jack	jack	jack	PROPN;SG	
+double	dupla	double	dupla	ADJ	
+double	duplán	double	duplán	ADJ	
+polish	lengyel	polish	lengyel	PROPN;SG	
+columbia	kolumbia	columbia	kolumbia	PROPN;SG	
+columbia	columbia	columbia	columbia	PROPN;SG	
+temple	temple	temple	temple	N;SG	
+claims	követelés	claim	követelés	N;PL	N;NOM;SG
+jones	jones	jone	jones	PROPN;SG	
+parish	parish	parish	parish	N;SG	
+israel	izraeli	israel	izraeli	PROPN;SG	
+israel	izrael	israel	izrael	PROPN;SG	
+nine	kilences	nine	kilences		
+nine	kilenc	nine	kilenc		
+table	asztali	table	asztali	N;SG	
+pop	pop	pop	pop	N;SG	
+unknown	ismeretlen	unknown	ismeretlen	ADJ	
+winner	győztes	winner	győztes	N;SG	
+winner	nyertes	winner	nyertes	N;SG	
+initially	kezdetben	initially	kezdet	ADV	N;IN+ESS;SG
+initially	eleinte	initially	eleint	ADV	
+loss	veszteségek	loss	veszteség	N;SG	N;NOM;PL
+starting	kezdő	start	kezdő	V;V.MSDR	
+starting	kezdve	start	kezdv	V;V.MSDR	N;ON+ESS;SG
+contract	szerződés	contract	szerződés	N;SG	
+directly	közvetlenül	directly	közvetlen	ADV	ADJ;FRML;SG
+junior	junior	junior	junior	N;SG	
+francisco	francisco	francisco	francisco	PROPN;SG	
+politics	politika	politics	politika	N;PL	N;NOM;SG
+mar	mar	mar	mar	PROPN;SG	
+volume	volumen	volume	volumen	N;SG	
+tom	tomi	tom	tomi	PROPN;SG	
+tom	tom	tom	tom	PROPN;SG	
+flight	repülési	flight	repülési	N;SG	ADJ;NOM;SG
+candidate	pályázó	candidate	pályázó	N;SG	ADJ;NOM;SG
+candidate	jelölt	candidate	jelöl	N;SG	
+matches	gyufa	match	gyufa	N;PL	N;NOM;SG
+matches	egyezés	match	egyezés	N;PL	N;NOM;SG
+matches	egyezik	match	egyezik	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+except	kivéve	except	kivév	ADV	
+assistant	segéd	assistant	segéd	N;SG	
+represented	képviselt	represent	képvisel	V;PST;V.PTCP	
+speedy	fürge	speedy	fürge	ADJ	
+weeks	hetek	week	het	N;PL	N;NOM;SG
+allow	lehetővé	allow	lehető	V;IMP;FIN	ADJ;TRANS;SG
+branch	branch	branch	branch	N;SG	
+retired	nyugdíjas	retire	nyugdíjas	V;PST;V.PTCP	ADJ;NOM;SG
+remains	megmarad	remains	megmarad	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+victoria	viktória	victoria	viktória	PROPN;SG	N;NOM;SG
+victoria	victoria	victoria	victoria	PROPN;SG	N;NOM;SG
+metal	metál	metal	metál	N;SG	
+metal	metal	metal	metal	N;SG	
+metal	fémek	metal	fém	N;SG	N;NOM;PL
+metal	fém	metal	fém	N;SG	
+wrong	rossz	wrong	rossz	ADJ	
+wrong	helytelen	wrong	helytelen	ADJ	
+direct	közvetlen	direct	közvetlen	ADJ	
+direct	direct	direct	direct	ADJ	N;NOM;SG
+direct	egyenes	direct	egyenes	ADJ	
+frank	feri	frank	feri	PROPN;SG	
+frank	frank	frank	frank	PROPN;SG	
+miles	miles	mile	miles	N;PL	
+miles	mérföld	mile	mérföld	N;PL	N;NOM;SG
+blocked	letiltott	block	letilt	V;PST;V.PTCP	
+mass	tömeges	mass	tömeges	N;SG	ADJ;NOM;SG
+knowledge	ismeretek	knowledge	ismeret	N;SG	N;NOM;PL
+creek	patak	creek	patak	PROPN;SG	N;NOM;SG
+creek	creek	creek	cr	PROPN;SG	
+failed	sikertelen	fail	sikertelen	V;PST;V.PTCP	
+draft	tervezet	draft	tervezet	N;SG	
+fight	harc	fight	harc	V;IMP;FIN	N;NOM;SG
+figure	figura	figure	figura	V;IMP;FIN	N;NOM;SG
+figure	ábra	figure	áb	V;IMP;FIN	N;NOM;SG
+camp	camp	camp	camp	N;SG	
+variety	fajta	variety	fajta	N;SG	
+statistics	statisztika	statistic	statisztika	N;PL	N;NOM;SG
+raised	felemelt	raise	felemelt	V;PST;V.PTCP	
+raised	felvetett	raise	felvet	V;PST;V.PTCP	
+raised	emelt	raise	emelt	V;PST;V.PTCP	
+heavy	heavy	heavy	heavy	ADJ	
+heavy	súlyos	heavy	súlyos	ADJ	
+heavy	nehéz	heavy	nehéz	ADJ	
+alexander	sándor	alexander	sándor	PROPN;SG	
+alexander	alexander	alexander	alexander	PROPN;SG	
+alone	egyedül	alone	egyedül	ADV	
+understand	értem	understand	ér	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+episodes	epizód	episode	epizód	N;PL	N;NOM;SG
+daily	naponta	daily	naponta	ADV	
+daily	napi	daily	napi	ADV	
+williams	williams	williams	williams	PROPN;SG	
+latin	latin	latin	latin	PROPN;SG	
+latin	latinul	latin	latinul	PROPN;SG	
+completely	teljesen	completely	teljes	ADV	ADJ;FRML;SG
+products	termék	product	termék	N;PL	N;NOM;SG
+dark	sötét	dark	söt	ADJ	
+von	von	vo	von	PROPN;SG	
+oppose	ellenzik	oppose	ellenzik	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+administrative	adminisztratív	administrative	adminisztratív	ADJ	N;NOM;SG
+cut	vágás	cut	vágás	V;IMP;FIN	N;NOM;SG
+scott	scott	scott	scott	PROPN;SG	
+jean	jean	jean	jean	PROPN;SG	
+pro	pro	pro	pro	PROPN;SG	
+pro	profi	pro	profi	PROPN;SG	
+beach	beach	beach	beach	N;SG	
+beach	part	beach	part	N;SG	
+nearly	majdnem	nearly	majdnem	ADV	
+cast	öntött	cast	öntött	N;SG	
+write	írj	write	írj	V;IMP;FIN	
+forms	nyomtatvány	form	nyomtatvány	N;PL	N;NOM;SG
+joe	joe	joe	joe	PROPN;SG	
+inside	belül	inside	belül	ADV	ADP
+wanted	körözött	want	köröz	V;IND;PST;FIN	
+solid	tömör	solid	tömör	ADJ	
+solid	szilárd	solid	szilárd	ADJ	
+del	del	del	del	PROPN;SG	
+continue	folytatás	continue	folytatás	V;IMP;FIN	N;NOM;SG
+cost	költségek	cost	költség	N;SG	N;NOM;PL
+drive	vezess	drive	vezess	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+drive	meghajtó	drive	meghajtó	V;IMP;FIN	N;NOM;SG
+notice	hirdetmény	notice	hirdetmény	N;SG	
+johnson	johnson	johnson	johnson	PROPN;SG	
+forced	kényszer	force	kényszer	V;PST;V.PTCP	
+photo	fényképek	photo	fénykép	N;SG	N;NOM;PL
+hope	remény	hope	remény	V;IND;PRS;FIN	N;NOM;SG
+hope	remélem	hope	remél	V;IND;PRS;FIN	
+log	log	log	log	N;SG	
+entered	bevitt	enter	bevitt	V;PST;V.PTCP	
+mike	mike	mike	mike	PROPN;SG	
+basic	alap	basic	alap	ADJ	
+basic	alapvető	basic	alapvető	ADJ	
+spring	tavaszi	spring	tavaszi	N;SG	
+oxford	oxford	oxford	oxford	PROPN;SG	
+kong	kong	kong	kong	PROPN;SG	
+opera	opera	opera	opera	N;SG	
+critical	kritikus	critical	kritikus	ADJ	
+simple	szimpla	simple	szimpla	ADJ	
+hong	hong	hong	hong	PROPN;SG	
+useful	hasznos	useful	hasznos	ADJ	
+technical	műszaki	technical	műszaki	ADJ	N;NOM;SG
+believed	hittem	believe	hit	V;PST;V.PTCP	V;DEF;IND;SG;1;PRS;FIN;ACT
+believed	hitte	believe	hit	V;PST;V.PTCP	V;DEF;IND;SG;3;PRS;FIN;ACT
+mountains	hegység	mountain	hegység	N;PL	N;NOM;SG
+musicians	zenész	musician	zenész	N;PL	N;NOM;SG
+hotel	szálloda	hotel	szálloda	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+hotel	hotel	hotel	hotel	N;SG	
+ontario	ontario	ontario	ontario	PROPN;SG	PROPN;NOM;SG
+defense	védelmi	defense	védelmi	N;SG	
+golden	golden	golden	golden	ADJ	
+golden	arany	golden	arany	ADJ	
+faith	faith	faith	faith	N;SG	
+racing	racing	racing	racing	N;SG	
+mainly	főként	mainly	főként	ADV	
+mainly	főleg	mainly	főleg	ADV	
+auto	auto	auto	auto	N;SG	
+auto	automata	auto	automata	N;SG	
+lives	él	life	él	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+swedish	svéd	swedish	svéd	ADJ	
+swedish	svédország	swedish	svédország	ADJ	N;NOM;SG
+hot	forró	hot	forró	ADJ	
+hot	hot	hot	hot	ADJ	
+hot	meleg	hot	meleg	ADJ	
+hot	dögös	hot	dögös	ADJ	N;NOM;SG
+net	nettó	net	nettó	N;SG	
+tower	tower	tower	tower	N;SG	
+increased	fokozott	increase	fokozik	V;PST;V.PTCP	
+votes	szavazat	vote	szavazat	N;PL	
+contemporary	kortárs	contemporary	kortárs	ADJ	N;NOM;SG
+questions	kérdés	question	kérdés	N;PL	N;NOM;SG
+forward	előre	forward	előre	ADV	
+memorial	megemlékezés	memorial	megemlékezés	ADJ	N;NOM;SG
+memorial	memorial	memorial	memorial	ADJ	N;NOM;SG
+memorial	emlékmű	memorial	emlékmű	ADJ	N;NOM;SG
+peace	béke	peace	béke	N;SG	
+iran	iráni	iran	iráni	PROPN;SG	
+iran	irán	iran	irán	PROPN;SG	PROPN;NOM;SG
+korea	korea	korea	korea	PROPN;SG	N;NOM;SG
+korea	koreai	korea	koreai	PROPN;SG	
+korea	koreából	korea	korea	PROPN;SG	N;IN+ABL;SG
+analysis	elemzések	analysis	elemzés	N;SG	N;NOM;PL
+poor	szegény	poor	szegény	ADJ	
+poor	szegények	poor	szegény	ADJ	N;NOM;PL
+cricket	krikett	cricket	krikett	N;SG	
+judge	judge	judge	jud	N;SG	
+judge	bíró	judge	bíró	N;SG	
+electric	villamos	electric	villamos	ADJ	N;NOM;SG
+electric	villany	electric	villany	ADJ	N;NOM;SG
+electric	elektromos	electric	elektromos	ADJ	
+exist	léteznek	exist	létezik	V;IMP;FIN	V;INDF;IND;PL;3;PRS;FIN;ACT
+exist	létezik	exist	létezik	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+brazil	brazília	brazil	brazília	PROPN;SG	
+chris	chris	chris	chris	PROPN;SG	
+beyond	túl	beyond	túl	ADV	
+fifth	ötödik	fifth	ötödik	PROPN;SG	ADJ;NOM;SG
+increase	növelje	increase	növel	N;SG	V;DEF;IND;SG;3;PRS;FIN;ACT
+summary	összefoglaló	summary	összefoglaló	N;SG	
+remaining	megmaradó	remain	megmaradó	V;V.MSDR	
+remaining	fennmaradó	remain	fennmaradó	V;V.MSDR	
+broadcast	közvetítés	broadcast	közvetítés	V;PST;V.PTCP	N;NOM;SG
+broadcast	adás	broadcast	adás	V;PST;V.PTCP	N;NOM;SG
+piano	zongora	piano	zongor	N;SG	
+des	des	des	des	PROPN;SG	
+novels	regény	novel	regény	N;PL	N;NOM;SG
+serving	felszolgáló	serving	felszolgáló	N;SG	
+serving	szolgálni	serving	szolgál	N;SG	V;NFIN;ACT
+moving	költözés	move	költözés	V;V.MSDR	N;NOM;SG
+moving	mozgó	move	mozgó	V;V.MSDR	
+concept	elképzelés	concept	elképzelés	N;SG	
+concept	koncepció	concept	koncepció	N;SG	
+alternative	alternatív	alternative	alternatív	N;SG	
+attacks	támad	attack	támad	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+republican	republikánusok	republican	republikánus	PROPN;SG	N;NOM;PL
+republican	republikánus	republican	republikánus	PROPN;SG	N;NOM;SG
+difficult	nehéz	difficult	nehéz	ADJ	
+difficult	bonyolult	difficult	bonyolult	ADJ	
+ability	képességek	ability	képesség	N;SG	N;NOM;PL
+host	fogadó	host	fogadó	N;SG	
+wall	wall	wall	wall	N;SG	
+wall	falat	wall	fal	N;SG	
+immediately	azonnal	immediately	azonnal	ADV	
+pakistan	pakisztán	pakistan	pakiszta	PROPN;SG	N;NOM;SG
+pakistan	pakisztáni	pakistan	pakiszta	PROPN;SG	ADJ;NOM;SG
+marine	tengeri	marine	tengeri	N;SG	
+physical	fizikai	physical	fizikai	ADJ	
+dec	dec	dec	dec	PROPN;SG	N;NOM;SG
+semi	félig	semi	félig	PROPN;SG	
+emperor	uralkodó	emperor	uralkodó	PROPN;SG	N;NOM;SG
+emperor	császár	emperor	császár	PROPN;SG	
+couple	pár	couple	pár	N;SG	
+duke	duke	duke	duke	PROPN;SG	
+duke	herceg	duke	herceg	PROPN;SG	N;NOM;SG
+windows	windows	window	windows	N;PL	N;NOM;SG
+windows	ablak	window	ablak	N;PL	
+tree	fán	tree	fán	N;SG	
+tree	fa	tree	fa	N;SG	
+tree	fák	tree	fák	N;SG	
+hits	találat	hit	találat	N;PL	N;NOM;SG
+jazz	jazz	jazz	jazz	PROPN;SG	
+protection	oltalom	protection	oltalom	N;SG	
+relevant	releváns	relevant	releváns	ADJ	
+relevant	lényeges	relevant	lényeges	ADJ	
+count	gróf	count	gróf	N;SG	
+containing	tartalmazó	contain	tartalmazó	V;V.MSDR	
+classical	klasszikus	classical	klasszikus	ADJ	
+offered	kínált	offer	kínál	V;PST;V.PTCP	
+offered	felkínált	offer	felkínált	V;PST;V.PTCP	
+lady	hölgy	lady	hölgy	N;SG	
+netherlands	hollandia	netherlands	hollandia	N;PL	
+netherlands	holland	netherlands	holland	N;PL	
+linear	lineáris	linear	lineáris	ADJ	N;NOM;SG
+domain	domain	domain	domain	N;SG	
+minnesota	minnesota	minnesota	minnesota	PROPN;SG	N;NOM;SG
+nov	nov	nov	nov	PROPN;SG	N;NOM;SG
+sydney	sydney	sydney	sydney	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+blood	véres	blood	véres	N;SG	
+blood	blood	blood	blood	N;SG	
+bottom	alul	bottom	alul	N;SG	
+bottom	alsó	bottom	alsó	N;SG	
+boys	fiuk	boy	fiuk	N;PL	N;NOM;SG
+potential	potenciális	potential	potenciális	N;SG	
+potential	lehetséges	potential	lehetséges	N;SG	ADJ;NOM;SG
+toronto	toronto	toronto	toronto	PROPN;SG	N;NOM;SG
+jun	jun	jun	jun	PROPN;SG	
+conflict	konfliktusok	conflict	konfliktus	N;SG	N;NOM;PL
+steve	steve	steve	steve	PROPN;SG	
+philadelphia	philadelphiában	philadelphia	philadelpha	PROPN;SG	PROPN;IN+ESS;SG
+philadelphia	philadelphia	philadelphia	philadelphia	PROPN;SG	
+philadelphia	philadelphiai	philadelphia	philadelphiai	PROPN;SG	N;NOM;SG
+der	der	der	der	PROPN;SG	
+berlin	berlin	berlin	berlin	PROPN;SG	PROPN;NOM;SG
+berlin	berlinben	berlin	berlin	PROPN;SG	
+berlin	berlini	berlin	berlini	PROPN;SG	
+arms	fegyvert	arm	fegyver	N;PL	N;ACC;SG
+arms	kar	arm	kar	N;PL	N;NOM;SG
+races	races	race	races	N;PL	
+iron	vas	iron	vas	PROPN;SG	
+iron	vasat	iron	vasat	PROPN;SG	N;ACC;SG
+santa	mikulás	santa	mikulás	PROPN;SG	N;NOM;SG
+santa	santa	santa	santa	PROPN;SG	
+santa	télapó	santa	télapó	PROPN;SG	
+nom	nom	nom	nom	PROPN;SG	
+imperial	birodalmi	imperial	birodalmi	ADJ	
+ball	ball	ball	ball	N;SG	
+quickly	gyorsan	quickly	gyors	ADV	ADJ;FRML;SG
+correct	helyes	correct	helyes	ADJ	
+correct	korrekt	correct	korrekt	ADJ	
+responsible	felelős	responsible	felelős	ADJ	
+indiana	indiana	indiana	indiana	PROPN;SG	
+examples	példa	example	példa	N;PL	N;NOM;SG
+korean	koreai	korean	koreai	PROPN;SG	
+fish	halak	fish	hal	N;SG	N;NOM;PL
+senate	szenátus	senate	szenátus	PROPN;SG	N;NOM;SG
+senate	szenátusi	senate	szenátusi	PROPN;SG	ADJ;NOM;SG
+effects	hatás	effect	hatás	N;PL	N;NOM;SG
+check	csekk	check	csekk	V;IMP;FIN	N;NOM;SG
+check	csekket	check	csekket	V;IMP;FIN	N;ACC;SG
+check	ellenőrzés	check	ellenőrzés	V;IMP;FIN	N;NOM;SG
+appearances	látszat	appearance	látszik	N;PL	
+reporting	adatszolgáltatás	report	adatszolgáltatás	V;V.MSDR	N;NOM;SG
+reporting	jelentések	report	jelentés	V;V.MSDR	N;NOM;PL
+reporting	jelentés	report	jelentés	V;V.MSDR	N;NOM;SG
+sweden	svédország	sweden	svédország	PROPN;SG	N;NOM;SG
+tag	címke	tag	cím	N;SG	
+tag	megjelölés	tag	megjelölés	N;SG	
+primarily	elsődlegesen	primarily	elsődlegesen	ADV	ADJ;FRML;SG
+lies	hazugság	lie	hazugság	N;PL	N;NOM;SG
+inc	inc	inc	inc	PROPN;SG	PROPN;NOM;SG
+rivers	rivers	river	rivers	N;PL	
+crime	bűncselekmények	crime	bűncselekmény	N;SG	N;NOM;PL
+liberal	liberális	liberal	liberális	ADJ	
+bob	bob	bob	bob	PROPN;SG	
+existing	meglévő	exist	meglévő	V;V.MSDR	
+existing	meglevő	exist	meglevő	V;V.MSDR	
+existing	létező	exist	létező	V;V.MSDR	
+apr	apr	apr	apr	PROPN;SG	
+mixed	kevert	mix	kevert	V;PST;V.PTCP	
+mixed	vegyes	mix	vegyes	V;PST;V.PTCP	
+mixed	keverve	mix	keverve	V;PST;V.PTCP	
+personnel	személyzet	personnel	személyzet	N;PL	N;NOM;SG
+premier	premier	premier	premier	N;SG	
+wisconsin	wisconsin	wisconsin	wisconsin	PROPN;SG	
+comics	képregény	comic	képregény	N;PL	N;NOM;SG
+miss	kisasszony	miss	kisasszony	V;IMP;FIN	N;NOM;SG
+specifically	konkrétan	specifically	konkrétan	ADV	
+specifically	kifejezetten	specifically	kifejezett	ADV	ADJ;FRML;SG
+specifically	kimondottan	specifically	kimond	ADV	ADJ;FRML;SG
+horse	lovas	horse	lovas	N;SG	
+contributions	hozzájárulás	contribution	hozzájárulás	N;PL	N;NOM;SG
+contributions	járulék	contribution	járulék	N;PL	N;NOM;SG
+wood	fa	wood	fa	N;SG	
+wood	wood	wood	wood	N;SG	
+wood	erdő	wood	erdő	N;SG	
+plants	növény	plant	növény	N;PL	N;NOM;SG
+origin	eredetű	origin	eredetű	N;SG	
+pretty	csinos	pretty	csinos	ADV	ADJ;NOM;SG
+resources	erőforrás	resource	erőforrás	N;PL	
+affairs	ügyi	affair	ügyi	N;PL	
+accepted	elfogadva	accept	elfogadva	V;PST;V.PTCP	ADV;V.CVB
+animals	állat	animal	állat	N;PL	N;NOM;SG
+nor	sem	nor	sem	CONJ	ADV
+activity	tevékenységek	activity	tevékenység	N;SG	N;NOM;PL
+levels	szint	level	szint	N;PL	N;NOM;SG
+jim	jim	jim	jim	PROPN;SG	
+creating	létrehozása	create	létrehozás	V;V.MSDR	N;NOM;SG
+creating	létrehozva	create	létrehozva	V;V.MSDR	N;NOM;SG
+cambridge	cambridge	cambridge	cambridge	PROPN;SG	N;NOM;SG
+remove	eltávolítás	remove	eltávolítás	V;IMP;FIN	N;NOM;SG
+remove	eltávolítása	remove	eltávolítás	V;IMP;FIN	N;NOM;SG
+reserve	tartalék	reserve	tartalék	N;SG	
+atlantic	atlanti	atlantic	atlanti	PROPN;SG	
+supreme	legfőbb	supreme	fő	ADJ	ADJ;NOM;RL;SG
+supreme	legfelsőbb	supreme	felsőbb	ADJ	N;IN+ESS;SG
+fighting	harcok	fighting	harc	N;SG	N;NOM;PL
+fighting	harcol	fighting	harcol	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+fighting	harcolni	fighting	harcol	N;SG	V;NFIN;ACT
+jackson	jackson	jackson	jackson	PROPN;SG	
+rose	rózsa	rise	rózsa	PROPN;SG	
+rose	rose	rise	rose	PROPN;SG	
+linked	kapcsolt	link	kapcsolt	V;PST;V.PTCP	
+linked	kapcsolódó	link	kapcsolódó	V;PST;V.PTCP	ADJ;NOM;SG
+linked	összekapcsolt	link	összekapcsolt	V;PST;V.PTCP	
+andrew	andrás	andrew	andrás	PROPN;SG	PROPN;NOM;SG
+andrew	andrew	andrew	andrew	PROPN;SG	
+daniel	dániel	daniel	dániel	PROPN;SG	
+daniel	daniel	daniel	daniel	PROPN;SG	
+info	info	info	info	N;SG	
+info	infó	info	infó	N;SG	
+info	infók	info	infó	N;SG	N;NOM;PL
+info	információk	info	információ	N;SG	N;NOM;PL
+everything	mindent	everything	minden	PRO;SG	
+avenue	avenue	avenue	aven	PROPN;SG	
+avenue	sugárút	avenue	sugárú	PROPN;SG	N;NOM;SG
+travel	utazások	travel	utazás	N;SG	N;NOM;PL
+oregon	oregon	oregon	oregon	PROPN;SG	
+capacity	kapacitások	capacity	kapacitás	N;SG	N;NOM;PL
+typically	általában	typically	általában	ADV	
+typically	tipikusan	typically	tipikus	ADV	ADJ;FRML;SG
+settlement	megegyezés	settlement	megegyezés	N;SG	
+settlement	elszámolási	settlement	elszámolási	N;SG	ADJ;NOM;SG
+settlement	egyezség	settlement	egyezség	N;SG	
+agreement	egyetértés	agreement	egyetértés	N;SG	
+agreement	megegyezés	agreement	megegyezés	N;SG	
+agreement	egyezség	agreement	egyezség	N;SG	
+kansas	kansasi	kansa	kansasi	PROPN;SG	
+kansas	kansas	kansa	kansas	PROPN;SG	
+bring	hozz	bring	hozz	V;IMP;FIN	
+nearby	közelben	nearby	közel	ADV	N;IN+ESS;SG
+nearby	közeli	nearby	közeli	ADV	
+piece	darabka	piece	darabka	N;SG	
+piece	darab	piece	darab	N;SG	
+trust	bizalom	trust	bizalom	V;IMP;FIN	N;NOM;SG
+drums	dob	drum	dob	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+issued	kiadva	issue	kiadva	V;PST;V.PTCP	ADV;V.CVB
+normal	normális	normal	normális	ADJ	
+normal	normál	normal	normál	ADJ	
+twenty	twenty	twenty	twenty	NUM	
+avoid	elkerülése	avoid	elkerülés	V;IMP;FIN	N;NOM;SG
+tony	tony	tony	tony	PROPN;SG	
+norwegian	norvégia	norwegian	norvégia	ADJ	N;NOM;SG
+norwegian	norvég	norwegian	norvég	ADJ	
+criteria	kritérium	criterion	kritérium	N;PL	N;NOM;SG
+suggested	javasolt	suggest	javasolt	V;PST;V.PTCP	
+fully	teljesen	fully	teljes	ADV	ADJ;FRML;SG
+aug	aug	aug	aug	PROPN;SG	N;NOM;SG
+advanced	fejlett	advanced	fejlett	ADJ	
+advanced	haladó	advanced	haladó	ADJ	
+advanced	előrehaladott	advanced	előrehaladott	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+distribution	forgalmazási	distribution	forgalmazási	N;SG	ADJ;NOM;SG
+garden	garden	garden	garden	N;SG	
+reach	elérés	reach	elérés	V;IMP;FIN	N;NOM;SG
+reach	elérése	reach	elérés	V;IMP;FIN	N;NOM;SG
+households	háztartás	household	háztartás	N;PL	N;NOM;SG
+survey	felmérések	survey	felmérés	N;SG	N;NOM;PL
+height	magasság	height	magasság	N;SG	
+morning	reggel	morning	reggel	N;SG	
+honor	megtiszteltetés	honor	megtiszteltetés	N;SG	
+deep	mély	deep	mély	ADJ	
+arthur	artúr	arthur	artúr	PROPN;SG	
+arthur	arthur	arthur	arthur	PROPN;SG	
+elizabeth	erzsébet	elizabeth	erzse	PROPN;SG	N;NOM;SG
+elizabeth	elizabeth	elizabeth	elizabeth	PROPN;SG	
+worth	megéri	worth	megéri	ADJ	
+worth	worth	worth	worth	ADJ	
+colorado	colorado	colorado	colorado	PROPN;SG	
+median	medián	median	medián	ADJ	
+maryland	maryland	maryland	maryland	PROPN;SG	
+falls	elesik	falls	elesik	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+falls	vízesés	falls	vízesés	N;PL	N;NOM;SG
+falls	falls	falls	falls	N;PL	
+solo	szóló	solo	szóló	N;SG	ADJ;NOM;SG
+solo	solo	solo	solo	N;SG	
+solo	önálló	solo	önálló	N;SG	
+learning	tanulok	learning	tanul	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+learning	tanul	learning	tanul	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+pay	fizet	pay	fizet	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+pay	fizetés	pay	fizetés	V;IMP;FIN	N;NOM;SG
+choice	választás	choice	választás	N;SG	
+vol	vol	vol	vol	PROPN;SG	N;NOM;SG
+flag	megjelölés	flag	megjelölés	N;SG	
+flag	lobogó	flag	lobogó	N;SG	
+farm	farm	farm	farm	N;SG	
+wilson	wilson	wilson	wilson	PROPN;SG	
+principal	igazgató	principal	igazgató	ADJ	N;NOM;SG
+secret	titkos	secret	titkos	N;SG	
+build	építsünk	build	épít	V;IMP;FIN	V;INDF;IND;PL;1;PRS;FIN;ACT
+fixed	fix	fix	fix	V;PST;V.PTCP	
+fixed	rögzítve	fix	rögzítve	V;PST;V.PTCP	N;NOM;SG
+efforts	erőfeszítés	effort	erőfeszítés	N;PL	N;NOM;SG
+equipment	berendezések	equipment	berendezés	N;SG	N;NOM;PL
+equipment	felszerelések	equipment	felszerelés	N;SG	N;NOM;PL
+ray	ray	ray	ray	PROPN;SG	
+yellow	sárgák	yellow	sár	ADJ	V;DEF;IND;PL;3;PRS;FIN;ACT
+yellow	sárga	yellow	sárga	ADJ	
+grant	grant	grant	grant	N;SG	
+norway	norvégia	norway	norvégia	PROPN;SG	N;NOM;SG
+taylor	taylor	taylor	taylor	PROPN;SG	
+quarter	negyed	quarter	negyed	N;SG	
+designated	kijelölt	designate	kijelölt	V;PST;V.PTCP	
+platform	platform	platform	platform	N;SG	
+rome	róma	rome	róma	PROPN;SG	
+effort	erőfeszítések	effort	erőfeszítés	N;SG	N;NOM;PL
+nuclear	nukleáris	nuclear	nukleáris	ADJ	N;NOM;SG
+sep	sep	sep	sep	PROPN;SG	
+everyone	mindenki	everyone	mindenki	PRO;SG	
+everyone	mindenkinek	everyone	mindenki	PRO;SG	
+easily	könnyen	easily	könnyű	ADV	ADJ;FRML;SG
+easily	könnyedén	easily	könnyed	ADV	
+description	leírás	description	leírás	N;SG	
+covers	borító	cover	borító	N;PL	N;NOM;SG
+covers	takaró	cover	takaró	N;PL	N;NOM;SG
+stack	stack	stack	stack	N;SG	
+combined	együttesen	combine	együttes	V;PST;V.PTCP	ADJ;FRML;SG
+combined	együttes	combine	együttes	V;PST;V.PTCP	
+bronze	bronz	bronze	bronz	N;SG	
+programming	programozási	programming	programozási	N;SG	ADJ;NOM;SG
+sri	srí	sri	srí	PROPN;SG	
+railroad	vasút	railroad	vasút	PROPN;SG	N;NOM;SG
+unique	egyedülálló	unique	egyedülálló	ADJ	
+unique	páratlan	unique	páratlan	ADJ	
+unique	egyedi	unique	egyedi	ADJ	
+defined	meghatározva	define	meghatározva	V;PST;V.PTCP	ADV;V.CVB
+ocean	óceán	ocean	óceán	PROPN;SG	
+ocean	ocean	ocean	ocean	PROPN;SG	
+missouri	missouri	missouri	missouri	PROPN;SG	
+improve	javítása	improve	javítás	V;IMP;FIN	N;NOM;SG
+loan	hitel	loan	hitel	N;SG	
+contact	kapcsolatfelvétel	contact	kapcsolatfelvétel	V;IMP;FIN	N;NOM;SG
+contact	kapcsolattartó	contact	kapcsolattartó	V;IMP;FIN	N;NOM;SG
+contact	kontakt	contact	kontakt	V;IMP;FIN	
+contact	érintkezés	contact	érintkezés	V;IMP;FIN	N;NOM;SG
+contact	kapcsolat	contact	kapcsolat	V;IMP;FIN	N;NOM;SG
+contact	kapcsolatba	contact	kapcsolat	V;IMP;FIN	N;IN+ALL;SG
+holy	szent	holy	szent	ADJ	
+tennessee	tennessee	tennessee	tenness	PROPN;SG	
+sub	tengeralattjáró	sub	tengeralattjáró	PROPN;SG	N;NOM;SG
+safety	biztonsági	safety	biztonsági	N;SG	ADJ;NOM;SG
+stephen	stephen	stephen	stephen	PROPN;SG	
+stephen	istván	stephen	istván	PROPN;SG	
+price	árak	price	ár	N;SG	N;NOM;PL
+price	ár	price	ár	N;SG	
+mexican	mexikói	mexican	mexikói	ADJ	
+leadership	vezetői	leadership	vezető	N;SG	N;NOM;PL
+flying	repülés	fly	repülés	V;V.MSDR	N;NOM;SG
+flying	repülő	fly	repülő	V;V.MSDR	
+serious	komoly	serious	komoly	ADJ	
+serious	súlyos	serious	súlyos	ADJ	
+headquarters	főhadiszállás	headquarters	főhadiszállás	N;PL	N;NOM;SG
+headquarters	székhely	headquarters	székhely	N;PL	N;NOM;SG
+officially	hivatalosan	officially	hivatalos	ADV	ADJ;FRML;SG
+memory	emlékek	memory	emlék	N;SG	N;NOM;PL
+fields	fields	field	fields	N;PL	
+fields	mező	field	mező	N;PL	N;NOM;SG
+join	csatlakozz	join	csatlakozz	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+join	csatlakozás	join	csatlakozás	V;IMP;FIN	N;NOM;SG
+copies	másolatot	copy	másolat	N;PL	N;ACC;SG
+finals	döntő	final	döntő	N;PL	ADJ;NOM;SG
+fox	róka	fox	róka	PROPN;SG	N;NOM;SG
+fox	fox	fox	fox	PROPN;SG	
+representative	reprezentatív	representative	reprezentatív	N;SG	
+feet	láb	foot	láb	N;PL	N;NOM;SG
+guy	fickó	guy	fickó	N;SG	
+guy	guy	guy	guy	N;SG	
+organized	rendezett	organized	rendezett	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+organized	szervezett	organized	szervezett	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+conservative	konzervatívok	conservative	konzervatív	ADJ	N;NOM;PL
+conservative	konzervatív	conservative	konzervatív	ADJ	
+share	részesedése	share	részesedés	V;IMP;FIN	N;NOM;SG
+share	megosztás	share	megosztás	V;IMP;FIN	
+share	részesedés	share	részesedés	V;IMP;FIN	N;NOM;SG
+maria	mária	maria	mária	PROPN;SG	
+maria	maria	maria	maria	PROPN;SG	
+disease	betegségek	disease	betegség	N;SG	N;NOM;PL
+sections	szelvény	section	szelvény	N;PL	N;NOM;SG
+divided	osztva	divide	osztva	V;PST;V.PTCP	ADV;V.CVB
+divided	megosztva	divide	megosztva	V;PST;V.PTCP	ADV;V.CVB
+yard	yard	yard	yard	N;SG	
+cancer	rákos	cancer	rákos	N;SG	
+offer	ajánlat	offer	ajánlat	V;IMP;FIN	N;NOM;SG
+offer	ajánlatot	offer	ajánlat	V;IMP;FIN	N;ACC;SG
+tax	adó	tax	adó	N;SG	
+tax	adók	tax	adó	N;SG	N;NOM;PL
+expected	várható	expect	várható	V;PST;V.PTCP	ADJ;NOM;SG
+economy	gazdaságos	economy	gazdaságos	N;SG	ADJ;NOM;SG
+bowl	bowl	bowl	bowl	N;SG	
+providing	nyújtó	provide	nyújtó	V;V.MSDR	
+classic	klasszikus	classic	klasszikus	ADJ	
+classic	classic	classic	classic	ADJ	
+damage	kár	damage	kár	N;SG	
+harry	harry	harry	harry	PROPN;SG	
+offers	kínál	offer	kínál	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+offers	ajánlat	offer	ajánlat	N;PL	N;NOM;SG
+davis	davis	davis	davis	PROPN;SG	
+views	megtekintés	view	megtekintés	N;PL	N;NOM;SG
+marked	jelölt	mark	jelöl	V;PST;V.PTCP	
+marked	megjelölt	mark	megjelölt	V;PST;V.PTCP	
+marked	megjelölve	mark	megjelölve	V;PST;V.PTCP	ADV;V.CVB
+literary	irodalmi	literary	irodalmi	ADJ	
+htm	htm	htm	htm	PROPN;SG	N;NOM;SG
+ben	ben	ben	ben	PROPN;SG	
+kentucky	kentucky	kentucky	kentucky	PROPN;SG	
+sales	eladás	sale	eladás	N;PL	
+sales	értékesítés	sale	értékesítés	N;PL	N;NOM;SG
+sales	értékesítési	sale	értékesítési	N;PL	ADJ;NOM;SG
+supporting	támogatása	support	támogatás	V;V.MSDR	N;NOM;SG
+supporting	támogató	support	támogató	V;V.MSDR	ADJ;NOM;SG
+captured	elfogott	capture	elfogott	V;PST;V.PTCP	
+extra	extra	extra	extra	ADJ	
+recognized	felismert	recognize	felismert	V;PST;V.PTCP	
+recognized	elismert	recognize	elismer	V;PST;V.PTCP	
+arizona	arizona	arizona	arizona	PROPN;SG	
+arizona	arizonai	arizona	arizonai	PROPN;SG	
+arizona	arizonában	arizona	arizon	PROPN;SG	PROPN;IN+ESS;SG
+compared	összehasonlítva	compare	összehasonlítva	V;PST;V.PTCP	ADV;V.CVB
+compared	képest	compare	képest	V;PST;V.PTCP	
+francis	feri	francis	feri	PROPN;SG	
+francis	francis	francis	francis	PROPN;SG	
+francis	ferenc	francis	ferenc	PROPN;SG	PROPN;NOM;SG
+moscow	moszkvai	moscow	moszkvai	PROPN;SG	ADJ;NOM;SG
+moscow	moszkvában	moscow	moszkva	PROPN;SG	PROPN;IN+ESS;SG
+moscow	moszkva	moscow	moszkva	PROPN;SG	
+interested	érdekel	interested	érdekel	ADJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+interested	érdekelt	interested	érdekelt	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+interested	érdekelne	interested	érdekel	ADJ	V;INDF;COND;SG;3;PRS;FIN;ACT
+interested	érdeklődni	interested	érdeklődik	ADJ	V;NFIN;ACT
+environmental	környezet	environmental	környezet	ADJ	N;NOM;SG
+environmental	környezeti	environmental	környezeti	ADJ	N;NOM;SG
+blank	üres	blank	üres	PROPN;SG	
+blank	üresen	blank	üres	PROPN;SG	ADJ;FRML;SG
+starring	szereplők	starr	szereplő	N;SG	N;NOM;PL
+assigned	hozzárendelve	assign	hozzárendelve	V;PST;V.PTCP	ADV;V.CVB
+assigned	kijelölt	assign	kijelölt	V;PST;V.PTCP	
+seats	ülés	seat	ülés	N;PL	N;NOM;SG
+ring	ring	ring	ring	N;SG	
+ring	gyűrűs	ring	gyűrűs	N;SG	
+joint	ízületi	joint	ízületi	ADJ	N;NOM;SG
+joint	joint	joint	joint	ADJ	
+joint	együttes	joint	együttes	ADJ	
+joint	közös	joint	közös	ADJ	
+brian	brian	brian	brian	PROPN;SG	
+deputy	helyettes	deputy	helyettes	N;SG	
+deputy	megbízott	deputy	meg+bízik	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+yards	hajógyárak	yard	hajógyár	N;PL	
+communist	kommunisták	communist	kommunista	ADJ	N;NOM;PL
+communist	kommunista	communist	kommunista	ADJ	
+animal	állati	animal	állati	N;SG	
+animal	állatok	animal	állat	N;SG	N;NOM;PL
+czech	csehország	czech	csehország	PROPN;SG	
+czech	cseh	czech	cseh	PROPN;SG	ADJ;NOM;SG
+positions	pozíció	position	pozíció	N;PL	N;NOM;SG
+exactly	pontosan	exactly	pontos	ADV	ADJ;FRML;SG
+stay	maradj	stay	marad	V;IMP;FIN	V;INDF;IND;SG;1;PRS;FIN;ACT
+combat	harci	combat	harci	N;SG	
+palace	palace	palace	palace	N;SG	
+opposition	ellenzéki	opposition	ellenzéki	N;SG	ADJ;NOM;SG
+understanding	egyetértés	understanding	egyetértés	N;SG	
+understanding	megértő	understanding	megértő	N;SG	
+growing	növekvő	grow	növekvő	V;V.MSDR	ADJ;NOM;SG
+hands	kéz	hand	kéz	N;PL	N;NOM;SG
+paid	fizetve	pay	fizetve	V;PST;V.PTCP	ADV;V.CVB
+promotion	promóciós	promotion	promóciós	N;SG	ADJ;NOM;SG
+apparently	látszólag	apparently	látszólag	ADV	
+mobile	mobilos	mobile	mobilos	PROPN;SG	
+mobile	mobile	mobile	mobile	PROPN;SG	
+mobile	mobil	mobile	mobil	PROPN;SG	
+row	sor	row	sor	N;SG	
+metropolitan	fővárosi	metropolitan	fővárosi	PROPN;SG	ADJ;NOM;SG
+metropolitan	metropolitan	metropolitan	metropolitan	PROPN;SG	
+eye	eye	eye	eye	N;SG	
+eye	szem	eye	szem	N;SG	
+louisiana	louisiana	louisiana	louisiana	PROPN;SG	
+lewis	lewis	lewis	lewis	PROPN;SG	
+melbourne	melbourne	melbourne	melbour	PROPN;SG	N;NOM;SG
+austria	ausztria	austria	ausztria	PROPN;SG	N;NOM;SG
+risk	kockázatos	risk	kockázatos	N;SG	ADJ;NOM;SG
+lats	lat	lat	lat	N;PL	
+ban	tilalom	ban	tilalom	N;SG	
+indeed	valóban	indeed	valóban	ADV	
+draw	sorsolás	draw	sorsolás	V;IMP;FIN	N;NOM;SG
+draw	rajzol	draw	rajzol	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+draw	döntetlen	draw	döntetlen	V;IMP;FIN	N;NOM;SG
+application	kérelem	application	kérel	N;SG	
+steel	steel	steel	steel	N;SG	
+earl	earl	earl	earl	PROPN;SG	
+max	max	max	max	PROPN;SG	
+wild	wild	wild	wild	ADJ	
+wild	vadon	wild	vad	ADJ	
+wild	vadak	wild	vad	ADJ	N;NOM;PL
+wild	vad	wild	vad	ADJ	
+comic	komikus	comic	komikus	PROPN;SG	N;NOM;SG
+comic	képregény	comic	képregény	PROPN;SG	N;NOM;SG
+adopted	elfogadva	adopt	elfogadva	V;PST;V.PTCP	ADV;V.CVB
+easy	könnyű	easy	könnyű	ADJ	
+plus	plus	plus	plus	CONJ	
+plus	plussz	plus	plussz	CONJ	
+plus	plusz	plus	plusz	CONJ	
+happy	boldogság	happy	boldogság	ADJ	N;NOM;SG
+happy	boldog	happy	boldog	ADJ	
+acts	cselekmények	act	cselekmény	V;IND;SG;3;PRS;FIN	N;NOM;PL
+acts	aktusok	act	aktus	V;IND;SG;3;PRS;FIN	N;NOM;PL
+iowa	iowa	iowa	iowa	PROPN;SG	
+save	mentés	save	mentés	V;IMP;FIN	N;NOM;SG
+save	mentése	save	mentés	V;IMP;FIN	N;NOM;SG
+wins	győz	win	győz	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+wins	nyert	win	nyert	N;PL	V;INDF;IND;SG;3;PST;FIN;ACT
+chance	chance	chance	chance	N;SG	
+prevent	megelőzése	prevent	megelőzés	V;IMP;FIN	N;NOM;SG
+powers	powers	power	powers	N;PL	
+powers	hatáskör	power	hatáskör	N;PL	N;NOM;SG
+spread	terjed	spread	terjed	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+defeat	vereség	defeat	vereség	V;IMP;FIN	N;NOM;SG
+cape	cape	cape	cap	PROPN;SG	
+cape	fok	cape	fok	PROPN;SG	N;NOM;SG
+cape	köpeny	cape	köpeny	PROPN;SG	N;NOM;SG
+identified	azonosítva	identify	azonosítva	V;PST;V.PTCP	ADV;V.CVB
+regions	régiói	region	régiói	N;PL	N;NOM;SG
+mine	enyém	mine	enyém	PRO	N;NOM;SG
+jul	jul	jul	jul	PROPN;SG	
+teaching	tanít	teaching	tanít	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+teaching	tanítani	teaching	tanít	N;SG	V;NFIN;ACT
+teaching	tanítás	teaching	tanítás	N;SG	
+guidelines	iránymutatás	guideline	iránymutatás	N;PL	N;NOM;SG
+simon	simon	simon	simon	PROPN;SG	
+lyrics	szöveget	lyric	szöveg	N;PL	N;ACC;SG
+lyrics	szöveg	lyric	szöveg	N;PL	N;NOM;SG
+christmas	karácsonykor	christmas	karácsonykor	PROPN;SG	
+christmas	karácsonyi	christmas	karácsonyi	PROPN;SG	N;NOM;SG
+christmas	karácsony	christmas	karácsony	PROPN;SG	N;NOM;SG
+declined	elutasítva	decline	elutasítva	V;PST;V.PTCP	ADV;V.CVB
+greece	görögország	greece	görögország	PROPN;SG	N;NOM;SG
+express	express	express	express	PROPN;SG	
+express	expressz	express	expressz	PROPN;SG	N;NOM;SG
+voivodeship	vajdaság	voivodeship	vajdaság	PROPN;SG	PROPN;NOM;SG
+portuguese	portugália	portuguese	portugália	ADJ	N;NOM;SG
+portuguese	portugál	portuguese	portugál	ADJ	
+sons	fiaim	son	fia	N;PL	
+firm	határozott	firm	határoz	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+pilot	pilot	pilot	pilot	N;SG	
+relatively	viszonylag	relatively	viszonylag	ADV	
+educated	tanult	educated	tanult	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+educated	művelt	educated	művelt	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+manchester	manchester	manchester	manchester	PROPN;SG	N;NOM;SG
+queensland	queensland	queensland	queensland	PROPN;SG	PROPN;NOM;SG
+americans	amerikaiak	americans	amerikai	PROPN;PL	N;NOM;PL
+introduction	bevezető	introduction	bevezető	N;SG	
+vehicle	járművek	vehicle	jármű	N;SG	N;NOM;PL
+israeli	izraeli	israeli	izraeli	ADJ	
+israeli	izraeliek	israeli	izraeli	ADJ	N;NOM;PL
+frequently	gyakran	frequently	gyakran	ADV	
+hills	hills	hill	hills	N;PL	
+performing	teljesítő	perform	teljesítő	N;SG	ADJ;NOM;SG
+northwest	északnyugat	northwest	északnyug	PROPN;SG	N;NOM;SG
+drug	drogok	drug	drog	N;SG	N;NOM;PL
+visit	látogatás	visit	látogatás	V;IMP;FIN	N;NOM;SG
+residence	lakóhely	residence	lakóhely	N;SG	
+walter	walter	walter	walter	PROPN;SG	
+pov	pov	pov	pov	N;SG	
+interesting	érdekes	interesting	érdekes	ADJ	
+moon	hold	moon	hold	N;SG	
+moon	holdon	moon	hold	N;SG	
+moon	moon	moon	moon	N;SG	
+limit	korlátozás	limit	korlátozás	N;SG	
+limit	limit	limit	limi	N;SG	
+bell	csengő	bell	csengő	PROPN;SG	
+bell	bell	bell	bell	PROPN;SG	
+bell	harang	bell	harang	PROPN;SG	N;NOM;SG
+oklahoma	oklahoma	oklahoma	oklahoma	PROPN;SG	
+electronic	elektronikus	electronic	elektronikus	ADJ	N;NOM;SG
+crown	crown	crown	crown	N;SG	
+younger	fiatalabbnak	younger	fiatalab	ADJ;CMPR	N;IN+ESS;SG
+younger	fiatalabbak	younger	fiatal	ADJ;CMPR	N;NOM;PL
+anderson	anderson	anderson	anders	PROPN;SG	
+weapons	fegyver	weapon	fegyver	N;PL	N;NOM;SG
+neutral	semleges	neutral	semleges	ADJ	
+connected	kapcsolt	connect	kapcsolt	V;PST;V.PTCP	
+connected	összekapcsolt	connect	összekapcsolt	V;PST;V.PTCP	
+connected	kapcsolatban	connect	kapcsolat	V;PST;V.PTCP	N;IN+ESS;SG
+switzerland	svájc	switzerland	svájc	PROPN;SG	
+armed	felfegyverkezve	armed	felfegyverkezve	ADJ	ADV;V.CVB
+armed	fegyveres	armed	fegyveres	ADJ	N;NOM;SG
+weekly	hetente	weekly	hetenik	ADJ	N;NOM;SG
+weekly	heti	weekly	heti	ADJ	
+rating	minősítési	rating	minősítési	N;SG	ADJ;NOM;SG
+multi	multi	multi	mult	PROPN;SG	
+cold	hidegen	cold	hideg	ADJ	N;ON+ESS;SG
+cold	hideg	cold	hideg	ADJ	
+methods	módszer	method	módszer	N;PL	N;NOM;SG
+sam	samu	sam	samu	PROPN;SG	
+sam	sam	sam	sam	PROPN;SG	
+alabama	alabama	alabama	alabam	PROPN;SG	
+albert	albert	albert	albert	PROPN;SG	
+tropical	trópusi	tropical	trópusi	ADJ	N;NOM;SG
+vietnam	vietnam	vietnam	viet	PROPN;SG	
+vietnam	vietnami	vietnam	vietnami	PROPN;SG	
+dvd	dvd	dvd	dvd	PROPN;SG	N;NOM;SG
+surrounding	körülvevő	surround	körülvevő	V;V.MSDR	ADV;V.CVB
+surrounding	környező	surround	környező	V;V.MSDR	
+credit	hitel	credit	hitel	N;SG	
+commons	commons	common	commons	N;SG	ADP
+boat	hajós	boat	hajós	N;SG	
+ethnic	etnikai	ethnic	etnikai	ADJ	N;NOM;SG
+speaking	beszélő	speak	beszélő	V;V.MSDR	ADJ;NOM;SG
+fell	fell	fall	fell	V;IND;PST;FIN	
+core	mag	core	mag	PROPN;SG	
+negative	negatív	negative	negatív	ADJ	
+confirmed	megerősítve	confirm	megerősítve	V;PST;V.PTCP	ADV;V.CVB
+sixth	hatodik	sixth	hatodik	PROPN;SG	ADJ;NOM;SG
+edge	edge	edge	edge	N;SG	
+jesus	jézus	jesus	jézus	PROPN;SG	N;NOM;SG
+tools	szerszám	tool	szerszám	N;PL	N;NOM;SG
+weak	gyenge	weak	gyenge	ADJ	
+weak	gyengék	weak	gyengék	ADJ	N;NOM;PL
+brand	brand	brand	brand	N;SG	
+resulting	eredő	result	eredő	V;V.MSDR	
+resulting	létrejövő	result	létrejövő	V;V.MSDR	ADJ;NOM;SG
+nfl	nfl	nfl	nfl	PROPN;SG	N;NOM;SG
+rise	emelkedés	rise	emelkedés	V;IMP;FIN	N;NOM;SG
+supply	ellátási	supply	ellátási	N;SG	ADJ;NOM;SG
+household	háztartások	household	háztartás	N;SG	N;NOM;PL
+slightly	enyhén	slightly	enyhén	ADV	
+slightly	kissé	slightly	kissé	ADV	
+slightly	kevéssé	slightly	kevéssé	ADV	
+howard	howard	howard	howard	PROPN;SG	
+southeast	délkelet	southeast	délkelet	PROPN;SG	N;NOM;SG
+sunday	vasárnap	sunday	vasárnap	PROPN;SG	
+sunday	vasárnapi	sunday	vasárnapi	PROPN;SG	
+stats	statisztika	stat	statisztika	N;PL	N;NOM;SG
+communications	kommunikáció	communication	kommunikáció	N;PL	N;NOM;SG
+communications	távközlés	communication	távközlés	N;PL	N;NOM;SG
+communications	kommunikációs	communication	kommunikációs	N;PL	ADJ;NOM;SG
+broken	megtört	broken	megtört	ADJ	
+broken	törött	broken	törött	ADJ	
+broken	törve	broken	törv	ADJ	
+singapore	szingapúr	singapore	szingapúr	PROPN;SG	N;NOM;SG
+license	engedély	license	engedély	N;SG	
+haven	haven	haven	haven	PROPN;SG	
+deaths	haláleset	death	haláleset	N;PL	N;NOM;SG
+passing	tompított	passing	tompított	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+passing	múló	passing	múló	N;SG	
+trees	fákon	tree	fakon	N;PL	N;ON+ESS;SG
+trees	fák	tree	fák	N;PL	
+trees	fákat	tree	faka	N;PL	N;ACC;SG
+visual	vizuális	visual	vizuális	ADJ	N;NOM;SG
+pope	pápa	pope	pápa	PROPN;SG	
+pope	pope	pope	pope	PROPN;SG	
+glass	glass	glass	glass	N;SG	
+miller	molnár	miller	molnár	PROPN;SG	
+miller	miller	miller	miller	PROPN;SG	
+contain	tartalmaznak	contain	tartalmaz	V;IMP;FIN	V;INDF;IND;PL;3;PRS;FIN;ACT
+brazilian	brazil	brazilian	brazil	ADJ	
+brazilian	brazília	brazilian	brazília	ADJ	
+sexual	szexualitás	sexual	szexualitás	ADJ	N;NOM;SG
+defence	védelmi	defence	védelmi	N;SG	
+rich	gazdag	rich	gazdag	ADJ	
+rich	gazdagok	rich	gazdag	ADJ	N;NOM;PL
+rich	rich	rich	rich	ADJ	
+fast	gyors	fast	gyors	ADJ	
+properties	tulajdonság	property	tulajdonság	N;PL	N;NOM;SG
+extensive	kiterjedt	extensive	kiterjedik	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+exhibition	bemutató	exhibition	bemutató	N;SG	
+les	les	les	les	PROPN;SG	
+straight	egyenesen	straight	egyenesen	ADJ	
+straight	egyenes	straight	egyenes	ADJ	
+internal	belső	internal	belső	ADJ	
+effective	hatékony	effective	hatékony	ADJ	
+effective	hatásos	effective	hatásos	ADJ	
+effective	effektív	effective	effektív	ADJ	
+foot	gyalog	foot	gyalog	N;SG	
+orange	orange	orange	orang	PROPN;SG	
+orange	narancssárga	orange	narancssárga	PROPN;SG	
+orange	narancs	orange	narancs	PROPN;SG	N;NOM;SG
+argentina	argentína	argentina	argentín	PROPN;SG	
+brief	rövid	brief	rövid	N;SG	
+adult	felnőtt	adult	felnőtt	ADJ	
+adult	nagykorú	adult	nagykorú	ADJ	
+newly	újonnan	newly	újonnan	ADV	
+transfer	áthelyezés	transfer	áthelyezés	N;SG	
+egypt	egyiptom	egypt	egyiptom	PROPN;SG	N;NOM;SG
+patrick	patrik	patrick	patrik	PROPN;SG	N;NOM;SG
+patrick	patrick	patrick	patrick	PROPN;SG	
+quebec	quebec	quebec	quebec	PROPN;SG	PROPN;NOM;SG
+connecticut	connecticut	connecticut	connecticut	PROPN;SG	
+anthony	anthony	anthony	anthony	PROPN;SG	
+anthony	antal	anthony	antal	PROPN;SG	
+permanent	állandó	permanent	állandó	ADJ	
+permanent	végleges	permanent	végleges	ADJ	
+permanent	tartós	permanent	tartós	ADJ	
+permanent	maradandó	permanent	maradandó	ADJ	
+blues	blues	bly	blues	PROPN;SG	N;NOM;SG
+hungarian	magyarul	hungarian	magyar	ADJ	
+hungarian	magyarok	hungarian	magyar	ADJ	N;NOM;PL
+hungarian	hungarian	hungarian	hungarian	ADJ	
+arab	arab	arab	arab	ADJ	
+sets	díszlet	set	díszlet	N;PL	N;NOM;SG
+sets	készlet	set	készlet	N;PL	N;NOM;SG
+eyes	szemed	eye	szemed	N;PL	N;NOM;SG
+eyes	szeme	eye	szem	N;PL	N;NOM;SG
+eyes	szem	eye	szem	N;PL	
+studios	studios	studio	studios	N;PL	
+criminal	bűnöző	criminal	bűnöző	ADJ	N;NOM;SG
+criminal	bűnözői	criminal	bűnöző	ADJ	N;NOM;PL
+communication	kommunikációs	communication	kommunikációs	N;SG	ADJ;NOM;SG
+accept	elfogadom	accept	elfogadom	V;IMP;FIN	
+alan	alan	alan	alan	PROPN;SG	
+diego	diego	diego	diego	PROPN;SG	
+extremely	rendkívül	extremely	rendkívül	ADV	
+ford	ford	ford	ford	PROPN;SG	PROPN;NOM;SG
+swiss	svájc	swiss	svájc	PROPN;SG	
+swiss	svájci	swiss	svájci	PROPN;SG	
+sorry	sajnálom	sorry	sajnál	INTJ	V;DEF;IND;SG;1;PRS;FIN;ACT
+houston	houston	houston	houst	PROPN;SG	
+houston	houstonban	houston	houstonban	PROPN;SG	N;IN+ESS;SG
+worldwide	világszintű	worldwide	világszintű	ADV	ADJ;NOM;SG
+worldwide	világszerte	worldwide	világszerte	ADV	
+worldwide	világméretű	worldwide	világméretű	ADV	ADJ;NOM;SG
+advance	előre	advance	előre	N;SG	
+adam	ádám	adam	ádám	PROPN;SG	N;NOM;SG
+adam	adam	adam	adam	PROPN;SG	
+youtube	youtube	youtube	youtub	PROPN;SG	N;NOM;SG
+billion	egymilliárd	billion	egymilliárd	NUM	
+buried	eltemetve	bury	eltemetve	V;PST;V.PTCP	N;NOM;SG
+belgium	belgium	belgium	belgium	PROPN;SG	PROPN;NOM;SG
+rare	ritka	rare	ritka	ADJ	
+detroit	detroiti	detroit	detroiti	PROPN;SG	
+detroit	detroitban	detroit	detroit	PROPN;SG	N;IN+ESS;SG
+detroit	detroit	detroit	detroit	PROPN;SG	
+killing	gyilkol	killing	gyilkol	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+maximum	legfeljebb	maximum	legfeljebb	ADJ	
+maximum	maximum	maximum	maximum	ADJ	
+maximum	maximális	maximum	maximális	ADJ	
+fan	rajongó	fan	rajongó	N;SG	
+fan	fan	fan	fan	N;SG	
+notify	értesíti	notify	értesít	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+hamilton	hamilton	hamilton	hamilt	PROPN;SG	N;NOM;SG
+obvious	nyilvánvaló	obvious	nyilvánvaló	ADJ	
+pieces	darab	piece	darab	N;PL	
+apply	jelentkezz	apply	jelentkezz	V;IMP;FIN	
+aid	támogatások	aid	támogatás	N;SG	N;NOM;PL
+driver	vezető	driver	vezető	N;SG	
+driver	kocsis	driver	kocsis	N;SG	
+dan	dan	dan	dan	PROPN;SG	PROPN;NOM;SG
+khan	kahn	khan	kahn	PROPN;SG	PROPN;NOM;SG
+khan	khan	khan	khan	PROPN;SG	
+khan	kán	khan	kán	PROPN;SG	N;NOM;SG
+baby	bébi	baby	bébi	N;SG	
+denmark	dániában	denmark	dánia	PROPN;SG	N;IN+ESS;SG
+denmark	dánia	denmark	dánia	PROPN;SG	N;NOM;SG
+tokyo	tokió	tokyo	tokió	PROPN;SG	
+tokyo	tokiói	tokyo	tokiói	PROPN;SG	ADJ;NOM;SG
+tokyo	tokyo	tokyo	tokyo	PROPN;SG	
+calling	hívás	call	hívás	V;V.MSDR	N;NOM;SG
+anne	anne	anne	az	PROPN;SG	
+happened	megtörtént	happen	meg+történik	V;IND;PST;FIN	
+danish	dán	danish	dán	ADJ	
+formula	formula	formula	formula	N;SG	
+interior	belső	interior	belső	N;SG	
+kevin	kevin	kevin	kév	PROPN;SG	PROPN;NOM;SG
+powerful	erőteljes	powerful	erőteljes	ADJ	
+powerful	erős	powerful	erős	ADJ	
+muslim	muszlim	muslim	muszlim	ADJ	
+muslim	muzulmán	muslim	muzulom	ADJ	
+muslim	muszlimok	muslim	muszlim	ADJ	N;NOM;PL
+preceding	megelőző	precede	megelőző	V;V.MSDR	ADJ;NOM;SG
+sounds	hangok	sound	hang	V;IND;SG;3;PRS;FIN	N;NOM;PL
+eric	eric	eric	eric	PROPN;SG	
+eric	erik	eric	erik	PROPN;SG	
+achieved	elért	achieve	elért	V;PST;V.PTCP	
+douglas	douglas	douglas	douglas	PROPN;SG	
+fund	alap	fund	alap	N;SG	
+portugal	portugália	portugal	portugália	PROPN;SG	N;NOM;SG
+chemical	kémiai	chemical	kémiai	ADJ	N;NOM;SG
+lane	lane	lane	lane	N;SG	
+ncaa	ncaa	ncaa	ncaa	PROPN;SG	N;NOM;SG
+finding	megtalálni	finding	meg+talál	N;SG	V;NFIN;ACT
+domestic	belföldi	domestic	belföldi	ADJ	
+ali	ali	ali	ali	PROPN;SG	
+false	hamis	false	hamis	ADJ	
+equivalent	megfelelője	equivalent	megfelelő	ADJ	N;NOM;SG
+caught	kifogott	catch	kifogott	V;PST;V.PTCP	
+christ	krisztus	christ	krisztus	PROPN;SG	
+toward	felé	toward	felé	ADV	ADP
+puerto	puerto	puerto	puerto	PROPN;SG	
+romania	románia	romania	románia	PROPN;SG	N;NOM;SG
+aviation	légiközlekedési	aviation	légiközlekedési	N;SG	ADJ;NOM;SG
+ward	ward	ward	ward	PROPN;SG	
+hungary	hungary	hungary	hungary	PROPN;SG	
+hungary	magyarország	hungary	magyarország	PROPN;SG	N;NOM;SG
+mississippi	mississippi	mississippi	mississippi	PROPN;SG	
+calls	hív	call	hív	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+involving	bevonása	involve	bevonás	V;V.MSDR	N;NOM;SG
+magic	magic	magic	magic	N;SG	
+gordon	gordon	gordon	gord	PROPN;SG	
+treaty	szerződés	treaty	szerződés	N;SG	
+antonio	antonio	antonio	antonio	PROPN;SG	
+selection	kiválasztási	selection	kiválasztási	N;SG	ADJ;NOM;SG
+rear	hátsó	rear	hátsó	N;SG	
+wish	kívánság	wish	kívánság	V;IND;PRS;FIN	N;NOM;SG
+wish	bárcsak	wish	bárcsak	V;IND;PRS;FIN	
+harvard	harvard	harvard	harvard	PROPN;SG	N;NOM;SG
+islamic	iszlám	islamic	iszlám	ADJ	
+determined	eltökélt	determined	eltökélt	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+determined	határozott	determined	határoz	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+determined	meghatározott	determined	meghatározott	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+determined	meghatározva	determined	meghatározva	ADJ	ADV;V.CVB
+arkansas	arkansas	arkansas	arkansas	PROPN;SG	N;NOM;SG
+medieval	középkori	medieval	középkori	ADJ	N;NOM;SG
+physics	fizika	physics	fizika	N;PL	N;NOM;SG
+newspapers	újság	newspaper	újság	N;PL	N;NOM;SG
+represent	képviseli	represent	képviseli	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+allen	allen	all	allen	PROPN;SG	
+watch	óra	watch	óra	V;IMP;FIN	N;NOM;SG
+watch	vigyázz	watch	vigyázz	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+kitt	kitt	kitt	kitt	PROPN;SG	N;NOM;SG
+grey	ősz	grey	ősz	PROPN;SG	
+grey	grey	grey	grey	PROPN;SG	
+grey	szürke	grey	szürke	PROPN;SG	
+launch	kilövés	launch	kilövés	V;IMP;FIN	N;NOM;SG
+launch	indítás	launch	indítás	V;IMP;FIN	N;NOM;SG
+dave	dave	dave	dave	PROPN;SG	
+philip	fülöp	philip	fülöp	PROPN;SG	
+philip	philip	philip	philip	PROPN;SG	
+iraq	irak	iraq	irak	PROPN;SG	N;NOM;SG
+iraq	iraki	iraq	iraki	PROPN;SG	N;NOM;SG
+changing	változik	changing	változik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+ukraine	ukrajna	ukraine	ukrajna	PROPN;SG	PROPN;NOM;SG
+mix	mix	mix	mix	N;SG	
+tamil	tamil	tamil	tamil	PROPN;SG	
+shared	közös	share	közös	V;PST;V.PTCP	
+shared	megosztva	share	megosztva	V;PST;V.PTCP	ADV;V.CVB
+austrian	osztrák	austrian	osztrák	ADJ	
+austrian	ausztria	austrian	ausztria	ADJ	N;NOM;SG
+institution	intézmények	institution	intézmény	N;SG	N;NOM;PL
+parks	parks	park	parks	N;PL	
+requirements	követelmény	requirement	követelmény	N;PL	N;NOM;SG
+talking	beszélő	talk	beszélő	V;V.MSDR	ADJ;NOM;SG
+kim	kim	kim	kim	PROPN;SG	
+ltd	kft	ltd	kft	PROPN;SG	N;NOM;SG
+metres	méter	metre	méter	N;PL	N;NOM;SG
+gray	ősz	gray	ősz	ADJ	
+gray	gray	gray	gray	ADJ	
+gray	szürke	gray	szürke	ADJ	
+dean	dean	dean	dean	PROPN;SG	
+dean	dékán	dean	dékán	PROPN;SG	N;NOM;SG
+agricultural	mezőgazdasági	agricultural	mezőgazdasági	ADJ	
+agricultural	mezőgazdaság	agricultural	mezőgazdaság	ADJ	N;NOM;SG
+escape	szökés	escape	szökés	V;IMP;FIN	N;NOM;SG
+escape	menekülés	escape	menekülés	V;IMP;FIN	N;NOM;SG
+orders	parancs	order	parancs	N;PL	N;NOM;SG
+orders	parancsot	order	parancsot	N;PL	N;ACC;SG
+founding	alapító	found	alapító	V;V.MSDR	N;NOM;SG
+mill	mill	mill	mill	PROPN;SG	
+mill	malom	mill	malom	PROPN;SG	N;NOM;SG
+miami	miami	miami	miami	PROPN;SG	
+miami	miamiban	miami	miami	PROPN;SG	PROPN;IN+ESS;SG
+promote	előmozdítása	promote	előmozdítás	V;IMP;FIN	N;NOM;SG
+values	érték	value	ők	N;PL	N;NOM;SG
+learn	tanul	learn	tanul	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+planet	planet	planet	planet	N;SG	
+occupied	megszállt	occupy	megszállt	V;PST;V.PTCP	
+occupied	foglalt	occupy	foglal	V;PST;V.PTCP	
+occupied	elfoglalt	occupy	elfoglalt	V;PST;V.PTCP	
+southwest	délnyugat	southwest	délnyug	PROPN;SG	
+clark	clark	clark	clark	PROPN;SG	PROPN;NOM;SG
+sufficient	elegendő	sufficient	elegendő	ADJ	
+equal	egyenlők	equal	egyenlő	ADJ	N;NOM;PL
+equal	egyenlőek	equal	egyenlő	ADJ	N;NOM;PL
+equal	egyenlő	equal	egyenlő	ADJ	
+factory	gyári	factory	gyári	N;SG	
+outstanding	kiemelkedő	outstanding	kiemelkedő	ADJ	
+outstanding	kimagasló	outstanding	kimagasló	ADJ	
+flow	flow	flow	flow	N;SG	
+creator	alkotó	creator	alkotó	N;SG	
+creator	teremtő	creator	teremtő	N;SG	
+lincoln	lincoln	lincoln	lincoln	PROPN;SG	
+selling	eladási	sell	eladási	N;SG	ADJ;NOM;SG
+selling	eladás	sell	eladás	N;SG	
+selling	eladni	sell	elad	N;SG	V;NFIN;ACT
+causes	okozza	cause	okoz	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+causes	okoz	cause	okoz	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+sky	sky	sky	sky	N;SG	
+sky	ég	sky	ég	N;SG	
+legend	legendák	legend	legenda	N;SG	N;NOM;PL
+legend	legenda	legend	legenda	N;SG	
+metro	metró	metro	metró	PROPN;SG	N;NOM;SG
+metro	metro	metro	metro	PROPN;SG	
+injury	kár	injury	kár	N;SG	
+ryan	ryan	ryan	ryan	PROPN;SG	PROPN;NOM;SG
+zero	nulla	zero	nulla	PROPN;SG	
+zero	zéró	zero	zéró	PROPN;SG	
+zero	zero	zero	zero	PROPN;SG	
+violence	erőszakos	violence	erőszakos	N;SG	ADJ;NOM;SG
+significantly	jelentősen	significantly	jelentős	ADV	ADJ;FRML;SG
+welsh	wales	welsh	wales	ADJ	
+welsh	walesi	welsh	walesi	ADJ	
+roger	roger	roger	roger	PROPN;SG	
+pdf	pdf	pdf	pdf	PROPN;SG	N;NOM;SG
+samuel	samuel	samuel	samuel	PROPN;SG	
+detail	részletes	detail	részletes	N;SG	ADJ;NOM;SG
+frederick	frederick	frederick	frederick	PROPN;SG	
+thousands	ezer	thousand	ezer	N;PL	NUM;NOM;SG
+banks	banks	bank	banks	N;PL	
+offensive	sértő	offensive	sértő	ADJ	
+offensive	támadó	offensive	támadó	ADJ	
+museums	múzeum	museum	múzeum	N;PL	N;NOM;SG
+resistance	ellenálló	resistance	ellenálló	N;SG	
+tim	tim	tim	tim	PROPN;SG	
+engines	hajtómű	engines	hajtómű	N;PL	N;NOM;SG
+medium	közepes	medium	közepes	N;SG	ADJ;NOM;SG
+dream	álmodj	dream	álmodj	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+dream	álom	dream	álom	N;SG	
+twelve	twelve	twelve	twelve	NUM	
+twelve	tizenkettő	twelve	tizenkettő	NUM	
+universal	univerzális	universal	univerzális	ADJ	
+universal	egyetemes	universal	egyetemes	ADJ	
+typical	tipikus	typical	tipikus	ADJ	
+typical	jellegzetes	typical	jellegzetes	ADJ	
+seeing	látván	see	látván	V;V.MSDR	
+seeing	látva	see	látva	V;V.MSDR	ADV;V.CVB
+skills	készség	skill	készség	N;PL	N;NOM;SG
+cleveland	cleveland	cleveland	cleveland	PROPN;SG	
+agriculture	mezőgazdasági	agriculture	mezőgazdasági	N;SG	
+receiving	átvevő	receive	átvevő	V;V.MSDR	ADJ;NOM;SG
+reform	reformok	reform	reform	N;SG	N;NOM;PL
+reform	reform	reform	reform	N;SG	
+prix	prix	prix	prix	N;SG	
+utah	utah	utah	ut	PROPN;SG	
+qualified	minősített	qualified	minősít	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+qualified	képzett	qualified	képzett	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+qualified	képesített	qualified	képesít	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+indicate	jelezze	indicate	jelez	V;IMP;FIN	
+ukrainian	ukrán	ukrainian	ukrán	ADJ	
+gay	melegek	gay	meleg	ADJ	N;NOM;PL
+gay	meleg	gay	meleg	ADJ	
+gay	buzi	gay	buzi	ADJ	N;NOM;SG
+amateur	amatőrök	amateur	amatőr	N;SG	N;NOM;PL
+obviously	nyilvánvaló	obviously	nyilvánvaló	ADV	
+obviously	nyilvánvalóan	obviously	nyilvánvaló	ADV	ADJ;FRML;SG
+flora	flora	flora	flora	N;SG	
+gene	gene	gene	gene	N;SG	
+soul	soul	soul	soul	N;SG	
+soul	lelked	soul	lelked	N;SG	
+alt	alt	alt	al	PROPN;SG	
+montreal	montreali	montreal	montreali	PROPN;SG	ADJ;NOM;SG
+walker	walker	walker	walker	PROPN;SG	
+nice	szep	nice	szep	ADJ	
+nice	szép	nice	szép	ADJ	
+developing	fejlődő	develop	fejlődő	V;V.MSDR	ADJ;NOM;SG
+developing	fejlesztése	develop	fejlesztés	V;V.MSDR	N;NOM;SG
+pair	páros	pair	páros	N;SG	
+flat	lapos	flat	lapos	N;SG	
+flat	sík	flat	sík	N;SG	
+moore	moore	moore	moore	PROPN;SG	
+strongly	erősen	strongly	erős	ADV	ADJ;FRML;SG
+increasing	növekvő	increase	növekvő	V;V.MSDR	ADJ;NOM;SG
+thinking	gondolkodik	thinking	gondolkodik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+thinking	gondolkodom	thinking	gondolkodik	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+thinking	gondolkodó	thinking	gondolkodó	N;SG	
+dublin	dublini	dublin	dublini	PROPN;SG	
+dublin	dublin	dublin	dublin	PROPN;SG	N;NOM;SG
+brain	agyat	brain	agyat	N;SG	
+brain	agyam	brain	agyam	N;SG	
+brain	agy	brain	agy	N;SG	
+pittsburgh	pittsburgh	pittsburgh	pittsburgh	PROPN;SG	N;NOM;SG
+blog	blog	blog	blog	N;SG	
+economics	közgazdaságtan	economics	közgazdaság	N;PL	N;NOM;SG
+economics	gazdaság	economics	gazdaság	N;PL	N;NOM;SG
+economics	közgazdasági	economics	közgazdasági	N;PL	ADJ;NOM;SG
+seventh	hetedik	seventh	hetedik	PROPN;SG	ADJ;NOM;SG
+alex	alex	alex	alex	PROPN;SG	
+heavily	erősen	heavily	erős	ADV	ADJ;FRML;SG
+authors	szerzői	author	szerzői	N;PL	ADJ;NOM;SG
+concerned	érintett	concerned	érintett	ADJ	
+concerned	aggódó	concerned	aggódó	ADJ	
+controversial	vitatott	controversial	vitat	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+expressed	kifejezésre	express	kifejezés	V;PST;V.PTCP	N;ON+ALL;SG
+josé	jose	josé	jose	PROPN;SG	
+josé	josé	josé	josé	PROPN;SG	
+maps	térkép	map	térkép	N;PL	
+marie	marie	marie	marie	PROPN;SG	
+marie	mária	marie	mária	PROPN;SG	
+chain	lánc	chain	lánc	N;SG	
+readers	olvasó	reader	olvasó	N;PL	N;NOM;SG
+carl	carl	carl	carl	PROPN;SG	
+apart	szét	apart	szét	ADV	
+jimmy	jimmy	jimmy	jimmy	PROPN;SG	
+orthodox	ortodox	orthodox	ortodox	ADJ	N;NOM;SG
+formal	formális	formal	formális	ADJ	
+seconds	másodperc	seconds	másodperc	N;PL	
+doubt	kétséges	doubt	kétséges	N;SG	ADJ;NOM;SG
+doubt	kétség	doubt	kétség	N;SG	
+doubt	kétségek	doubt	kétség	N;SG	N;NOM;PL
+golf	golf	golf	golf	PROPN;SG	
+productions	productions	production	productions	N;PL	N;NOM;SG
+productions	produkció	production	produkció	N;PL	N;NOM;SG
+closely	szorosan	closely	szoros	ADV	ADJ;FRML;SG
+andy	andy	andy	andy	PROPN;SG	
+representing	képviseletében	represent	képviselet	V;V.MSDR	N;IN+ESS;SG
+indonesia	indonéziában	indonesia	indonézia	PROPN;SG	N;IN+ESS;SG
+indonesia	indonézia	indonesia	indonézia	PROPN;SG	
+indonesia	indonéz	indonesia	indonéz	PROPN;SG	
+sell	eladás	sell	eladás	V;IMP;FIN	
+mon	mon	mon	mon	PROPN;SG	
+tank	tank	tank	tank	N;SG	
+advice	tanácsok	advice	tanács	N;SG	N;NOM;PL
+senator	szenátor	senator	szenátor	PROPN;SG	N;NOM;SG
+generated	keletkező	generate	keletkező	V;PST;V.PTCP	
+malaysia	malajzia	malaysia	malajzia	PROPN;SG	
+malaysia	malajziai	malaysia	malajziai	PROPN;SG	ADJ;NOM;SG
+finland	finnország	finland	finnország	PROPN;SG	N;NOM;SG
+leads	érdeklődők	lead	érdeklődő	V;IND;SG;3;PRS;FIN	N;NOM;PL
+leads	érdeklődő	lead	érdeklődő	V;IND;SG;3;PRS;FIN	ADJ;NOM;SG
+seattle	seattle	seattle	seattle	PROPN;SG	N;NOM;SG
+gain	nyereség	gain	nyereség	V;IMP;FIN	N;NOM;SG
+index	index	index	index	N;SG	
+index	mutató	index	mutató	N;SG	
+runner	futó	runner	futó	N;SG	
+matt	matt	matt	matt	PROPN;SG	
+hollywood	hollywood	hollywood	hollywood	PROPN;SG	
+hollywood	hollywoodban	hollywood	holly-ood	PROPN;SG	N;IN+ESS;SG
+hollywood	hollywoodi	hollywood	hollywoodi	PROPN;SG	
+reaction	reakciók	reaction	reakció	N;SG	N;NOM;PL
+documents	dokumentum	document	dokumentum	N;PL	N;NOM;SG
+lawrence	lawrence	lawrence	lawrence	PROPN;SG	
+archives	archívum	archive	archívum	N;PL	N;NOM;SG
+atlanta	atlanta	atlanta	atlan	PROPN;SG	
+atlanta	atlantában	atlanta	atlanta	PROPN;SG	N;IN+ESS;SG
+atlanta	atlantai	atlanta	atlant	PROPN;SG	N;NOM;SG
+voting	szavazó	voting	szavazó	N;SG	
+reviewed	felül	review	felül	V;PST;V.PTCP	
+bear	bear	bear	bear	N;SG	
+bruce	bruce	bruce	bruce	PROPN;SG	
+baltimore	baltimore	baltimore	baltimore	PROPN;SG	N;NOM;SG
+baron	báró	baron	báró	PROPN;SG	
+pan	pán	pan	pán	N;SG	
+pan	pan	pan	pan	N;SG	
+commune	kommuna	commune	kommuna	N;SG	
+fantasy	fantasy	fantasy	fantasy	N;SG	
+fantasy	fantázia	fantasy	fantázia	N;SG	
+broad	tág	broad	tág	PROPN;SG	
+broad	széles	broad	széles	PROPN;SG	N;NOM;SG
+opposite	szemben	opposite	szemben	N;SG	
+opposite	ellentétes	opposite	ellentétes	N;SG	
+stuff	cuccok	stuff	cucc	N;SG	N;NOM;PL
+aged	érlelt	aged	érlelt	ADJ	
+nick	nick	nick	nick	PROPN;SG	
+anna	anna	anna	az	PROPN;SG	
+anna	annának	anna	anna	PROPN;SG	N;GEN;SG
+billy	billy	billy	billy	PROPN;SG	
+kent	kent	kend	ken	PROPN;SG	
+kelly	kelly	kelly	kelly	PROPN;SG	
+shooting	lő	shooting	lő	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+ready	kész	ready	kész	ADJ	
+aware	tudatában	aware	tudat	ADJ	N;IN+ESS;SG
+aware	tisztában	aware	tiszta	ADJ	ADV
+jordan	jordán	jordan	jorda	PROPN;SG	
+jordan	jordan	jordan	jordan	PROPN;SG	
+bangladesh	banglades	bangladesh	banglades	PROPN;SG	
+successfully	sikeresen	successfully	sikeres	ADV	ADJ;FRML;SG
+closing	zárom	closing	zárom	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+advertising	hirdetési	advertising	hirdetési	N;SG	ADJ;NOM;SG
+advertising	hirdetések	advertising	hirdetés	N;SG	N;NOM;PL
+advertising	hirdetés	advertising	hirdetés	N;SG	
+maine	maine	maine	maine	PROPN;SG	
+retirement	nyugdíjas	retirement	nyugdíjas	N;SG	ADJ;NOM;SG
+blocks	tömb	block	tömb	N;PL	N;NOM;SG
+las	las	las	las	PROPN;SG	
+print	ujjlenyomat	print	ujjlenyom	V;IMP;FIN	N;NOM;SG
+print	nyomtatás	print	nyomtatás	V;IMP;FIN	N;NOM;SG
+assist	segítségnyújtás	assist	segítségnyújtás	V;IMP;FIN	N;NOM;SG
+und	und	und	und	PROPN;SG	
+hampshire	hampshire	hampshire	hampshire	N;SG	
+creative	alkotó	creative	alkotó	ADJ	
+creative	kreatív	creative	kreatív	ADJ	
+maintain	fenntartása	maintain	fenntartás	V;IMP;FIN	N;NOM;SG
+pierre	pierre	pierre	pierre	PROPN;SG	
+detailed	részletezett	detailed	részletezik	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+facts	tényállás	fact	tényállás	N;PL	N;NOM;SG
+finance	pénzügyi	finance	pénzügyi	N;SG	ADJ;NOM;SG
+finance	pénzügyek	finance	pénzügy	N;SG	N;NOM;PL
+socialist	szocialista	socialist	szocialista	N;SG	
+socialist	szocialisták	socialist	szocialista	N;SG	N;NOM;PL
+script	forgatókönyv	script	forgatókönyv	N;SG	N;NOM;PL
+script	forgatókönyvet	script	forgatókönyv	N;SG	N;NOM;PL
+engaged	jegyesek	engage	jegyes	V;PST;V.PTCP	N;NOM;PL
+engaged	eljegyzés	engage	eljegyzés	V;PST;V.PTCP	N;NOM;SG
+experienced	tapasztalt	experienced	tapasztalt	ADJ	
+experienced	tapasztaltak	experienced	tapasztal	ADJ	V;INDF;IND;PL;3;PST;FIN;ACT
+experienced	gyakorlott	experienced	gyakorlott	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+sale	eladó	sale	eladó	N;SG	ADJ;NOM;SG
+sale	eladás	sale	eladás	N;SG	
+beautiful	gyönyörű	beautiful	gyönyörű	ADJ	
+jane	jane	jane	jane	PROPN;SG	
+abc	abc	abc	abc	PROPN;SG	
+classification	osztályozási	classification	osztályozási	N;SG	ADJ;NOM;SG
+mining	bányászati	mining	bányászati	N;SG	ADJ;NOM;SG
+mining	bányász	mining	bányász	N;SG	
+bytes	bájt	byte	bájt	N;PL	N;NOM;SG
+ross	ross	ross	ross	PROPN;SG	
+russell	russel	russell	rus	PROPN;SG	
+russell	russell	russell	russell	PROPN;SG	
+evening	este	evening	este	N;SG	ADV
+singing	énekelni	sing	énekel	N;SG	V;NFIN;ACT
+singing	énekel	sing	én	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+fifa	fifa	fifa	fifa	PROPN;SG	N;NOM;PL
+gender	nemek	gender	én	N;SG	N;NOM;PL
+mail	mail	mail	mail	N;SG	
+mail	levelek	mail	levél	N;SG	N;NOM;PL
+mail	posta	mail	posta	N;SG	
+jeff	jeff	jeff	jeff	PROPN;SG	
+mode	mode	mode	mode	N;SG	
+christopher	christopher	christopher	christopher	PROPN;SG	
+christopher	kristóf	christopher	kristóf	PROPN;SG	
+heads	fej	head	fej	N;PL	N;NOM;SG
+investment	beruházások	investment	beruházás	N;SG	N;NOM;PL
+investment	befektetések	investment	befektetés	N;SG	N;NOM;PL
+investment	befektetési	investment	befektetési	N;SG	ADJ;NOM;SG
+romanian	román	romanian	roma	ADJ	
+romanian	románia	romanian	románia	ADJ	N;NOM;SG
+capture	elfogni	capture	elfog	V;IMP;FIN	
+reduce	csökkentése	reduce	csökkentés	V;IMP;FIN	N;NOM;SG
+reduce	csökkentik	reduce	csökkent	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+reduce	csökkentse	reduce	csökkent	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+abuse	visszaélések	abuse	visszaélés	N;SG	N;NOM;PL
+prefecture	prefektúra	prefecture	prefektúra	PROPN;SG	N;NOM;SG
+walk	séta	walk	séta	V;IMP;FIN	N;NOM;SG
+walk	gyalog	walk	gyalog	V;IMP;FIN	
+normally	általában	normally	általában	ADV	
+dakota	dakota	dakota	dakota	PROPN;SG	
+bush	bush	bush	bush	PROPN;SG	
+bush	bokor	bush	bokor	PROPN;SG	
+inhabitants	lakos	inhabitant	lakos	N;PL	N;NOM;SG
+gary	gary	gary	gary	PROPN;SG	
+employees	foglalkoztatottak	employee	foglalkozik	N;PL	V;INDF;IND;PL;3;PST;FIN;ACT
+invited	meghívva	invite	meghívva	V;PST;V.PTCP	ADV;V.CVB
+cable	kábelek	cable	kabel	N;SG	N;NOM;PL
+protein	fehérjék	protein	fehér	N;SG	N;NOM;PL
+measure	mérték	measure	mér	N;SG	
+watched	néztem	watch	néz	V;PST;V.PTCP	V;DEF;IND;SG;1;PRS;FIN;ACT
+satellite	műholdas	satellite	műholdas	N;SG	
+johnny	johnny	johnny	johnny	PROPN;SG	
+hook	hook	hook	hook	N;SG	
+clean	tiszta	clean	tiszta	ADJ	
+clean	clean	clean	clean	ADJ	
+twin	iker	twin	iker	PROPN;SG	
+distributed	elosztva	distribute	elosztva	V;PST;V.PTCP	ADV;V.CVB
+describe	ismertesse	describe	ismertesse	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+defensive	védekező	defensive	védekező	ADJ	
+defensive	védekezés	defensive	védekezés	ADJ	N;NOM;SG
+islam	iszlám	islam	iszlám	PROPN;SG	
+ottoman	oszmán	ottoman	oszmán	ADJ	N;NOM;SG
+affected	érintett	affect	érintett	V;PST;V.PTCP	
+wine	borok	wine	bor	N;SG	N;NOM;PL
+lanka	lanka	lanka	lanka	PROPN;SG	
+carlos	carlos	carlo	carlos	PROPN;SG	
+rio	rio	rio	rio	PROPN;SG	
+saturday	szombati	saturday	szombati	PROPN;SG	
+saturday	szombaton	saturday	szombat	PROPN;SG	N;ON+ESS;SG
+saturday	szombat	saturday	szombat	PROPN;SG	N;NOM;SG
+sarah	sarah	sarah	sarah	PROPN;SG	
+swimming	úszó	swim	úszó	N;SG	
+swimming	úszni	swim	úsz	N;SG	V;NFIN;ACT
+membership	tagsági	membership	tagsági	N;SG	ADJ;NOM;SG
+edinburgh	edinburgh	edinburgh	edinburgh	PROPN;SG	PROPN;NOM;SG
+fit	fit	fit	fi	V;IMP;FIN	
+fit	fitt	fit	fitt	V;IMP;FIN	
+harris	harris	harris	harris	PROPN;SG	
+dallas	dallasban	dallas	dallas	PROPN;SG	
+dallas	dallasi	dallas	dallasi	PROPN;SG	
+dallas	dallas	dallas	dallas	PROPN;SG	N;NOM;SG
+degrees	fokban	degree	fok	N;PL	N;IN+ESS;SG
+degrees	fok	degree	fok	N;PL	N;NOM;SG
+bachelor	agglegény	bachelor	agglegény	N;SG	
+bachelor	nőtlen	bachelor	nőtlen	N;SG	
+personally	személyesen	personally	személyes	ADV	ADJ;FRML;SG
+briefly	röviden	briefly	röviden	ADV	
+extreme	extrém	extreme	extrém	ADJ	
+courses	tanfolyam	course	tanfolyam	N;PL	N;NOM;SG
+vision	elképzelés	vision	elképzelés	N;SG	
+demand	igény	demand	igény	N;SG	
+vertical	vertikális	vertical	vertikális	ADJ	N;NOM;SG
+vertical	függőleges	vertical	függőleges	ADJ	N;NOM;SG
+updated	frissítés	update	frissítés	V;PST;V.PTCP	N;NOM;SG
+jason	jason	jason	jason	PROPN;SG	N;NOM;SG
+appeal	ellenvetés	appeal	ellenvetés	N;SG	
+plane	sík	plane	sík	N;SG	
+plane	repülő	plane	repülő	N;SG	
+quick	gyors	quick	gyors	ADJ	
+victor	victor	victor	victor	PROPN;SG	
+victor	viktor	victor	viktor	PROPN;SG	
+solar	napenergia	solar	napenergia	ADJ	N;NOM;SG
+wings	szárny	wing	szárny	N;PL	N;NOM;SG
+acid	savat	acid	sóvat	PROPN;SG	N;ACC;SG
+acid	lsd	acid	lsd	PROPN;SG	
+acid	sav	acid	sav	PROPN;SG	N;NOM;SG
+acid	savas	acid	savas	PROPN;SG	
+matters	számít	matter	számít	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+constant	állandó	constant	állandó	ADJ	
+constant	folyamatos	constant	folyamatos	ADJ	
+additionally	ezenfelül	additionally	ezenfelül	ADV	
+additionally	továbbá	additionally	továbbá	ADV	
+hip	hip	hip	hip	PROPN;SG	
+hip	csípő	hip	csípő	PROPN;SG	N;NOM;SG
+nova	nova	nova	nova	PROPN;SG	
+chile	chilei	chile	chilei	PROPN;SG	ADJ;NOM;SG
+chile	chile	chile	chile	PROPN;SG	
+nazi	nácik	nazi	nácik	PROPN;SG	N;NOM;PL
+nazi	náci	nazi	náci	PROPN;SG	
+liverpool	liverpool	liverpool	liverpool	PROPN;SG	N;NOM;SG
+designer	tervező	designer	tervező	N;SG	
+movies	mozi	movie	mozi	N;PL	N;NOM;SG
+adjacent	szomszédos	adjacent	szomszédos	ADJ	
+norman	norman	norman	norman	PROPN;SG	
+belgian	belga	belgian	belga	PROPN;SG	
+austin	austin	austin	austin	PROPN;SG	
+driving	vezet	driving	vezet	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+driving	vezetési	driving	vezetési	N;SG	ADJ;NOM;SG
+phone	telefonon	phone	telefon	N;SG	
+fly	repülés	fly	repülés	V;IMP;FIN	N;NOM;SG
+fly	repül	fly	repül	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+ian	lan	ian	lan	PROPN;SG	N;NOM;SG
+ian	ian	ian	ian	PROPN;SG	
+window	ablak	window	ablak	N;SG	
+window	ablakon	window	ablak	N;SG	
+adams	adams	adam	adams	PROPN;SG	
+margaret	margaret	margaret	margaret	PROPN;SG	
+margaret	margit	margaret	margit	PROPN;SG	
+kennedy	kennedy	kennedy	kennedy	PROPN;SG	
+assume	feltételezem	assume	feltételez	V;IMP;FIN	
+attached	csatolt	attach	csatolt	V;PST;V.PTCP;PASS	
+attached	csatolva	attach	csatolva	V;PST;V.PTCP;PASS	ADV;V.CVB
+dry	szárazon	dry	száraz	ADJ	
+dry	száraz	dry	száraz	ADJ	
+bible	biblia	bible	biblia	PROPN;SG	N;NOM;SG
+bible	bibliát	bible	biblia	PROPN;SG	N;ACC;SG
+matthew	matthew	matthew	matthew	PROPN;SG	
+matthew	máté	matthew	máté	PROPN;SG	
+depending	függően	depend	függő	V;V.MSDR	ADJ;FRML;SG
+serbian	szerb	serbian	szerb	ADJ	
+serbian	szerbia	serbian	szerbia	ADJ	N;NOM;SG
+random	random	random	random	ADJ	
+random	véletlen	random	véletlen	ADJ	
+participants	résztvevő	participant	résztvevő	N;PL	
+thorough	alapos	thorough	alapos	ADJ	
+mentions	említ	mention	említ	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+airlines	légitársaság	airlines	légitársaság	N;PL	N;NOM;SG
+airlines	airlines	airlines	airlines	N;PL	N;NOM;SG
+franklin	franklin	franklin	franklin	PROPN;SG	
+finnish	finnország	finnish	finnország	ADJ	N;NOM;SG
+finnish	finn	finnish	finn	ADJ	
+vocal	vokál	vocal	vokál	ADJ	N;NOM;SG
+regularly	rendszeresen	regularly	rendszeres	ADV	ADJ;FRML;SG
+rejected	elutasítva	reject	elutasítva	V;PST;V.PTCP	ADV;V.CVB
+relative	relatív	relative	relatív	ADJ	
+relative	viszonylagos	relative	viszonylagos	ADJ	
+relative	rokon	relative	rokon	ADJ	
+illegal	jogellenes	illegal	jogellenes	ADJ	
+illegal	illegális	illegal	illegális	ADJ	
+stewart	stewart	stewart	stewart	PROPN;SG	N;NOM;SG
+argued	érvelt	argue	érvel	V;IND;PST;FIN	
+morgan	morgan	morgan	morgan	PROPN;SG	
+facebook	facebook	facebook	faceb	N;SG	N;NOM;PL
+facebook	facebookon	facebook	facebook	N;SG	N;ON+ESS;PL
+nelson	nelson	nelson	nelson	PROPN;SG	
+insurance	biztosítási	insurance	biztosítási	N;SG	ADJ;NOM;SG
+expert	szakértő	expert	szakértő	N;SG	
+steam	gőzzel	steam	gőz	N;SG	
+cards	kártya	card	kártya	N;PL	N;NOM;SG
+manufacturing	gyártási	manufacturing	gyártási	N;SG	ADJ;NOM;SG
+yorkshire	yorkshire	yorkshire	yorkshire	PROPN;SG	
+rescue	megmentési	rescue	megmentési	N;SG	
+rescue	mentő	rescue	mentő	N;SG	
+thu	thu	thu	thu	PROPN;SG	
+thailand	thaiföld	thailand	thaiföld	PROPN;SG	
+thailand	thaiföldi	thailand	thaiföldi	PROPN;SG	
+choose	választás	choose	választás	V;IMP;FIN	
+vienna	bécs	vienna	bécs	PROPN;SG	N;NOM;SG
+vienna	bécsi	vienna	bécsi	PROPN;SG	
+storage	tároló	storage	tároló	N;SG	ADJ;NOM;SG
+costs	költség	cost	költség	N;PL	N;NOM;SG
+singh	singh	singh	singh	PROPN;SG	
+notably	nevezetesen	notably	nevezetesen	ADV	
+taiwan	tajvani	taiwan	tajv	PROPN;SG	
+taiwan	tajvan	taiwan	tajvan	PROPN;SG	N;NOM;SG
+hurricane	hurrikán	hurricane	hurrika	PROPN;SG	N;ON+ESS;SG
+judges	zsűri	judge	zsűri	N;PL	N;NOM;SG
+removing	eltávolítása	remove	eltávolítás	V;V.MSDR	N;NOM;SG
+sentences	mondat	sentence	mondat	N;PL	N;NOM;SG
+birmingham	birmingham	birmingham	birmingham	PROPN;SG	N;NOM;SG
+substantial	jelentős	substantial	jelentős	ADJ	
+installed	telepítve	install	telepítve	V;PST;V.PTCP	N;NOM;SG
+revolutionary	forradalmi	revolutionary	forradalmi	ADJ	
+inner	belső	inner	belső	ADJ	
+trip	trip	trip	trip	N;SG	
+graham	graham	graham	graham	PROPN;SG	
+stores	boltok	store	bolt	N;PL	
+reasonable	méltányos	reasonable	méltányos	ADJ	N;NOM;SG
+reasonable	ésszerű	reasonable	ésszerű	ADJ	
+hundreds	száz	hundred	száz	N;PL	NUM;NOM;SG
+stanley	stanley	stanley	stanley	PROPN;SG	
+lemmon	lemmon	lemmon	lemmon	PROPN;SG	N;NOM;SG
+thompson	thompson	thompson	thompson	PROPN;SG	
+suicide	öngyilkos	suicide	öngyilkos	N;SG	
+automatically	automatikusan	automatically	automatikus	ADV	ADJ;FRML;SG
+automatically	automatikus	automatically	automatikus	ADV	N;NOM;SG
+disc	korong	disc	korong	PROPN;SG	
+disc	lemez	disc	lemez	PROPN;SG	N;NOM;SG
+disc	lemezt	disc	lemez	PROPN;SG	N;ACC;SG
+minimum	minimum	minimum	minimum	N;SG	
+minimum	minimális	minimum	minimális	N;SG	
+minimum	legkisebb	minimum	kevés	N;SG	ADJ;NOM;RL;SG
+minimum	minimálisan	minimum	minimális	N;SG	
+goods	áru	goods	áru	N;PL	N;NOM;SG
+charges	vádemelés	charge	vádemelés	N;PL	N;NOM;SG
+charges	vád	charge	vád	N;PL	
+alfred	alfred	alfred	alfred	PROPN;SG	
+operator	kezelő	operator	kezelő	N;SG	ADJ;NOM;SG
+operator	üzemeltető	operator	üzemeltető	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+merely	pusztán	merely	pusztán	ADV	
+merely	csupán	merely	csupán	ADV	
+fred	fred	fred	fred	PROPN;SG	
+identify	azonosítható	identify	azonosítható	V;IMP;FIN	ADJ;NOM;SG
+ann	ann	ann	ann	PROPN;SG	
+campbell	campbell	campbell	campbell	PROPN;SG	
+portland	portland	portland	portland	PROPN;SG	
+portland	portlandben	portland	portland	PROPN;SG	N;IN+ESS;SG
+latest	legutóbbi	latest	legutóbbi	ADJ;RL	
+slow	lassú	slow	lassú	ADJ	
+wayne	wayne	wayne	wayne	PROPN;SG	
+ranking	rangú	rank	rangú	N;SG	
+disney	disney	disney	disney	PROPN;SG	
+wright	wright	wright	wright	PROPN;SG	
+residential	bentlakásos	residential	bentlakásos	ADJ	N;NOM;SG
+associate	társult	associate	társul	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+observed	megfigyelhető	observe	megfigyelhető	V;PST;V.PTCP	ADJ;NOM;SG
+observed	megfigyelt	observe	megfigyelt	V;PST;V.PTCP	
+temporary	átmeneti	temporary	átmeneti	ADJ	
+masters	masters	master	masters	N;PL	
+passengers	utas	passenger	utas	N;PL	N;NOM;SG
+safe	biztonságban	safe	biztonság	ADJ	N;IN+ESS;SG
+safe	széf	safe	széf	ADJ	N;NOM;SG
+safe	biztonság	safe	biztonság	ADJ	N;NOM;SG
+png	png	png	png	PROPN;SG	N;NOM;PL
+hunter	hunter	hunter	hunter	N;SG	
+hunter	vadász	hunter	vadász	N;SG	
+alaska	alaszkai	alaska	alaszkai	PROPN;SG	ADJ;NOM;SG
+alaska	alaszkában	alaska	alaszka	PROPN;SG	N;IN+ESS;SG
+alaska	alaszka	alaska	alasz	PROPN;SG	N;NOM;SG
+maintenance	karbantartási	maintenance	karbantartási	N;SG	ADJ;NOM;SG
+monitoring	monitoring	monitor	monitoring	N;SG	
+evil	gonosz	evil	gonosz	N;SG	
+charlie	charlie	charlie	charlie	PROPN;SG	
+hop	hop	hop	hop	PROPN;SG	
+nba	nba	nba	nb	PROPN;SG	N;NOM;SG
+argentine	argentína	argentine	argentín	ADJ	
+drew	rajzolt	draw	rajzolt	PROPN;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+drew	drew	draw	drew	PROPN;SG	N;NOM;SG
+drew	rajzolta	draw	rajzol	PROPN;SG	V;DEF;IND;SG;3;PST;FIN;ACT
+hawaii	hawaii	hawaii	hapai	PROPN;SG	N;NOM;SG
+brookly	brooklyn	brookly	brooklyn	ADV	N;NOM;SG
+brookly	brooklynban	brookly	brooklyn	ADV	PROPN;IN+ESS;SG
+brookly	brooklyni	brookly	brookly	ADV	
+speaker	felszólaló	speaker	felszólaló	N;SG	ADJ;NOM;SG
+moth	moly	moth	moly	N;SG	
+permission	engedély	permission	engedély	N;SG	
+wounded	sérült	wounded	sérül	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+wounded	sebesült	wounded	sebesül	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+racial	faji	racial	faji	ADJ	
+marshall	marshall	marshall	marshall	PROPN;SG	
+springs	springs	spring	springs	N;PL	N;NOM;SG
+springs	rugó	spring	rugó	N;PL	N;NOM;SG
+roy	roy	roy	roy	PROPN;SG	PROPN;NOM;SG
+roll	gurul	roll	gurul	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+roll	roll	roll	roll	N;SG	
+progressive	haladó	progressive	haladó	ADJ	
+progressive	progresszív	progressive	progresszív	ADJ	
+svg	svg	svg	svg	PROPN;SG	N;NOM;SG
+principle	elv	principle	elv	N;SG	
+painted	festve	paint	festve	V;PST;V.PTCP	N;NOM;SG
+properly	megfelelően	properly	meg+felelő	ADV	ADJ;FRML;SG
+properly	rendesen	properly	rendes	ADV	ADJ;FRML;SG
+shaped	alakú	shape	alakú	V;PST;V.PTCP	
+joining	csatlakozás	join	csatlakozás	V;V.MSDR	N;NOM;SG
+robinson	robinson	robinson	robins	PROPN;SG	
+waters	waters	water	waters	N;PL	
+ridge	ridge	ridge	ridge	PROPN;SG	
+mental	mentális	mental	mentális	ADJ	N;NOM;SG
+mental	szellemi	mental	szellemi	ADJ	
+carter	carter	carter	carter	PROPN;SG	
+karl	károly	karl	károly	PROPN;SG	N;NOM;SG
+karl	karl	karl	karl	PROPN;SG	
+mac	mac	mac	mac	PROPN;SG	
+orleans	orleans	orlean	orleans	PROPN;SG	N;NOM;SG
+parallel	párhuzamos	parallel	párhuzamos	ADJ	
+thirty	harminc	thirty	harminc		
+thirty	thirty	thirty	thirty		
+giant	óriás	giant	óriás	N;SG	
+qualifying	minősített	qualify	minősít	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+qualifying	kötelezett	qualify	kötelezett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+murray	murray	murray	murray	PROPN;SG	
+afghanistan	afganisztán	afghanistan	afganiszta	PROPN;SG	N;NOM;SG
+afghanistan	afganisztáni	afghanistan	afganisztáni	PROPN;SG	N;NOM;SG
+counter	számláló	counter	számláló	N;SG	
+purchase	beszerzés	purchase	beszerzés	V;IMP;FIN	N;NOM;SG
+purchase	vásárlás	purchase	vásárlás	V;IMP;FIN	N;NOM;SG
+purchase	vétel	purchase	vétel	V;IMP;FIN	N;NOM;SG
+uefa	uefa	uefa	uefa	PROPN;SG	N;NOM;SG
+madrid	madrid	madrid	madrid	PROPN;SG	N;NOM;SG
+madrid	madridi	madrid	madridi	PROPN;SG	
+iranian	iráni	iranian	iráni	ADJ	
+severe	súlyos	severe	súlyos	ADJ	
+rain	rain	rain	rain	N;SG	
+rain	eső	rain	eső	N;SG	
+admiral	admirális	admiral	admirális	PROPN;SG	
+fishing	halászati	fishing	halászati	N;SG	ADJ;NOM;SG
+raise	emelés	raise	emelés	V;IMP;FIN	N;NOM;SG
+broadway	broadway	broadway	broadway	PROPN;SG	N;NOM;SG
+roughly	durván	roughly	durván	ADV	
+roughly	nagyjából	roughly	nagy	ADV	N;IN+ABL;SG
+tech	technikus	tech	technikus	PROPN;SG	N;NOM;SG
+tech	tech	tech	tech	PROPN;SG	
+trouble	gond	trouble	gond	N;SG	
+trouble	baj	trouble	baj	N;SG	
+rico	rico	rico	rico	PROPN;SG	
+paragraph	bekezdés	paragraph	bekezdés	N;SG	
+bat	bat	bat	bat	N;SG	
+bat	denevér	bat	denevér	N;SG	
+prepared	felkészült	prepared	felkészült	ADJ	
+prepared	elkészítve	prepared	elkészítve	ADJ	ADV;V.CVB
+prepared	előkészítve	prepared	előkészítve	ADJ	ADV;V.CVB
+prepared	elkészített	prepared	elkészített	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+robin	robint	robin	robint	PROPN;SG	
+robin	robin	robin	robin	PROPN;SG	
+hired	felvett	hire	felvett	V;PST;V.PTCP	
+alberta	alberta	alberta	alber	PROPN;SG	
+egyptian	egyiptomi	egyptian	egyiptomi	ADJ	
+narrow	keskeny	narrow	keskeny	ADJ	
+rapid	rapid	rapid	rapid	ADJ	
+dating	randizni	dating	randiz	N;SG	V;NFIN;ACT
+bomb	bomba	bomb	bomba	N;SG	
+capable	képes	capable	képes	ADJ	
+dragon	dragon	dragon	dragon	N;SG	
+charged	feltöltve	charge	feltöltve	V;PST;V.PTCP	ADV;V.CVB
+modified	módosítva	modify	módosítva	V;PST;V.PTCP	ADV;V.CVB
+mlb	mlb	mlb	mlb	PROPN;SG	N;NOM;SG
+send	küldj	send	küld	V;IMP;FIN	V;INDF;IND;SG;1;PRS;FIN;ACT
+send	küld	send	küld	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+arabic	arab	arabic	arab	ADJ	
+arabic	arabul	arabic	arab	ADJ	
+mouth	szád	mouth	szád	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+fix	rendbe	fix	rend	V;IMP;FIN	N;IN+ALL;SG
+fix	fix	fix	fix	V;IMP;FIN	
+licensed	engedéllyel	license	engedély	V;PST;V.PTCP	N;INS;SG
+organ	orgona	organ	orgona	N;SG	
+organ	szerv	organ	szerv	N;SG	
+warren	warren	warren	warren	PROPN;SG	
+exception	kivételek	exception	kivétel	N;SG	N;NOM;PL
+exception	kivétel	exception	kivétel	N;SG	
+costa	costa	costa	costa	PROPN;SG	
+unfortunately	sajnos	unfortunately	sajnos	ADV	
+unfortunately	sajna	unfortunately	sajna	ADV	
+jerusalem	jeruzsálem	jerusalem	jeruzsálem	PROPN;SG	N;NOM;SG
+indians	indiánok	indian	indián	PROPN;PL	N;NOM;PL
+indians	indiaiak	indian	indiai	PROPN;PL	N;NOM;PL
+virgin	virgin	virgin	virgin	PROPN;SG	
+virgin	szűz	virgin	szűz	PROPN;SG	
+vancouver	vancouver	vancouver	vancouver	PROPN;SG	N;NOM;SG
+legislation	jogszabályok	legislation	jogszabály	N;SG	N;NOM;PL
+legislation	jogszabály	legislation	jogszabály	N;SG	
+credits	kredit	credit	kredi	N;PL	N;NOM;SG
+buy	vásárol	buy	vásárol	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+serbia	szerbia	serbia	szerbia	PROPN;SG	N;NOM;SG
+christianity	kereszténység	christianity	kereszténység	PROPN;SG	N;NOM;SG
+opinions	vélemény	opinion	vélemény	N;PL	
+richmond	richmond	richmond	richmond	PROPN;SG	N;NOM;SG
+exact	pontos	exact	pontos	ADJ	
+baker	baker	baker	baker	PROPN;SG	
+baker	pék	baker	pék	PROPN;SG	
+anime	anime	anime	azim	PROPN;SG	
+donald	donald	donald	donald	PROPN;SG	
+willing	hajlandó	willing	hajlandó	ADJ	
+requests	kéri	request	kéri	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+impossible	lehetetlen	impossible	lehetetlen	ADJ	
+cook	cook	cook	cook	N;SG	
+cook	főzni	cook	főz	N;SG	V;NFIN;ACT
+cook	főz	cook	főz	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+drawing	rajzol	draw	rajzol	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+jonathan	jonathan	jonathan	jonathan	PROPN;SG	
+moves	mozog	move	mozog	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+ownership	tulajdonosi	ownership	tulajdonosi	N;SG	ADJ;NOM;SG
+shore	partra	shore	partra	PROPN;SG	N;ON+ALL;SG
+shore	part	shore	part	PROPN;SG	
+shore	shore	shore	shore	PROPN;SG	
+nebraska	nebraska	nebraska	nebraska	PROPN;SG	
+regulations	szabályzat	regulation	szabályzat	N;PL	N;NOM;SG
+regulations	szabályozás	regulation	szabályozás	N;PL	N;NOM;SG
+crash	crash	crash	crash	N;SG	
+abbey	abbey	abbey	abbey	N;SG	
+nevada	nevada	nevada	nevad	PROPN;SG	
+barry	barry	barry	barry	PROPN;SG	
+tone	tone	tone	tone	N;SG	
+indigenous	bennszülött	indigenous	bennszülött	ADJ	
+indigenous	őshonos	indigenous	őshonos	ADJ	
+indigenous	belföldi	indigenous	belföldi	ADJ	
+indigenous	őslakos	indigenous	őslakos	ADJ	
+reception	recepció	reception	recepció	N;SG	
+buffalo	bölény	buffalo	bölény	PROPN;SG	N;NOM;SG
+buffalo	bivaly	buffalo	bivaly	PROPN;SG	
+buffalo	buffalo	buffalo	buffalo	PROPN;SG	
+flowers	virág	flower	virág	N;PL	N;NOM;SG
+flowers	virágot	flower	virág	N;PL	N;ACC;SG
+bond	kötés	bond	kötés	PROPN;SG	N;NOM;SG
+bond	kötvény	bond	kötvény	PROPN;SG	N;NOM;SG
+bond	kötelék	bond	kötelék	PROPN;SG	N;NOM;SG
+bond	bond	bond	bond	PROPN;SG	
+jay	jay	jay	jay	PROPN;SG	
+adventure	kalandok	adventure	kaland	N;SG	N;NOM;PL
+definitely	határozottan	definitely	határozott	ADV	ADJ;FRML;SG
+guinea	guinea	guinea	guinea	N;SG	
+guinea	guineai	guinea	guineai	N;SG	
+horror	borzalom	horror	borzalom	N;SG	
+rangers	rangers	ranger	rangers	N;PL	N;NOM;SG
+apple	almás	apple	almás	PROPN;SG	
+apple	alma	apple	alma	PROPN;SG	
+apple	apple	apple	apple	PROPN;SG	
+occasionally	időnként	occasionally	idő	ADV	N;ABS;SG
+occasionally	alkalmanként	occasionally	alkalman	ADV	N;ABS;SG
+occasionally	esetenként	occasionally	eset	ADV	N;ABS;SG
+franchise	franchise	franchise	franchise	N;SG	
+critic	kritikus	critic	kritikus	N;SG	
+rolling	rolling	roll	rolling	N;SG	
+rolling	forog	roll	forog	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+rolling	gurul	roll	gurul	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+silent	néma	silent	néma	ADJ	
+silent	csendes	silent	csendes	ADJ	
+laboratory	laboratóriumi	laboratory	laboratóriumi	N;SG	ADJ;NOM;SG
+microsoft	microsoft	microsoft	microsoft	PROPN;SG	N;NOM;SG
+movements	mozgását	movement	mozgás	N;PL	N;ACC;SG
+suitable	megfelelő	suitable	megfelelő	ADJ	
+alternate	alternatív	alternate	alternatív	ADJ	
+experimental	kísérleti	experimental	kísérleti	ADJ	
+rooms	szoba	room	szoba	N;PL	N;NOM;SG
+accurate	pontos	accurate	pontos	ADJ	
+tagged	megjelölt	tag	megjelölt	V;PST;V.PTCP	
+manga	manga	manga	manga	PROPN;SG	N;NOM;SG
+cbs	cbs	cb	cbs	PROPN;SG	N;NOM;SG
+comprehensive	átfogó	comprehensive	átfogó	ADJ	
+electrical	elektromos	electrical	elektromos	ADJ	
+tags	címkék	tags	címkék	N;PL	
+meters	méter	meter	méter	N;PL	N;NOM;SG
+jerry	jerry	jerry	jerry	PROPN;SG	
+commerce	kereskedelmi	commerce	kereskedelmi	N;SG	ADJ;NOM;SG
+phil	phil	phil	phil	PROPN;SG	
+automatic	automata	automatic	automata	ADJ	
+automatic	automatikus	automatic	automatikus	ADJ	N;NOM;SG
+gang	banda	gang	banda	N;SG	
+oak	oak	oak	oa	PROPN;SG	
+oak	tölgyfa	oak	tölgyfa	PROPN;SG	N;NOM;SG
+oak	tölgy	oak	tölgy	PROPN;SG	N;NOM;SG
+warner	warner	warner	warner	PROPN;SG	N;NOM;SG
+separated	külön	separate	kül	V;PST;V.PTCP	
+glasgow	glasgow	glasgow	glasgow	PROPN;SG	N;NOM;SG
+essentially	lényegében	essentially	lényeg	ADV	N;IN+ESS;SG
+essentially	alapvetően	essentially	alapvető	ADV	ADJ;FRML;SG
+benjamin	benjamin	benjamin	benjami	PROPN;SG	
+apparent	látszólagos	apparent	látszólagos	ADJ	N;NOM;SG
+shopping	vásárolni	shopping	vásárol	N;SG	V;NFIN;ACT
+patrol	járőrök	patrol	járőr	N;SG	N;NOM;PL
+eagle	sas	eagle	sas	PROPN;SG	
+eagle	eagle	eagle	eagle	PROPN;SG	
+mainstream	mainstream	mainstream	mainstream	ADJ	N;ON+ALL;SG
+angel	angel	angel	angel	N;SG	
+restoration	helyreállítási	restoration	helyreállítási	N;SG	ADJ;NOM;SG
+delhi	delhi	delhi	delhi	PROPN;SG	N;NOM;SG
+hans	hans	hans	hans	PROPN;SG	PROPN;NOM;SG
+morris	morris	morris	morris	PROPN;SG	
+railways	vasút	railway	vasút	N;PL	N;NOM;SG
+mills	mills	mill	mills	N;PL	
+helpful	segítőkész	helpful	segítőkész	ADJ	
+helpful	hasznos	helpful	hasznos	ADJ	
+components	alkatrész	component	alkatrész	N;PL	N;NOM;SG
+victorian	viktoriánus	victorian	viktoriánus	ADJ	N;NOM;SG
+legislature	jogalkotó	legislature	jogalkotó	N;SG	
+barbara	barbara	barbara	barbara	PROPN;SG	
+circumstances	körülmény	circumstance	körülmény	N;PL	N;NOM;SG
+repeated	ismétlődő	repeat	ismétlődő	V;PST;V.PTCP	ADJ;NOM;SG
+plain	sima	plain	sima	ADJ	
+superior	superior	superior	superior	ADJ	N;NOM;SG
+similarly	hasonlóképpen	similarly	hasonlóképpen	ADV	
+similarly	hasonlóan	similarly	hasonló	ADV	ADJ;FRML;SG
+effectively	hatékonyan	effectively	hatékony	ADV	ADJ;FRML;SG
+effectively	eredményesen	effectively	eredményes	ADV	ADJ;FRML;SG
+considering	tekintve	consider	tekintve	V;V.MSDR	
+ken	ken	ken	ken	PROPN;SG	
+ken	kene	ken	kéne	PROPN;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+alleged	állítólagos	alleged	állítólagos	ADJ	
+habitat	élőhelyek	habitat	élőhely	N;SG	N;NOM;PL
+shell	shell	shell	shell	N;SG	
+shell	kagyló	shell	kagyló	N;SG	
+mounted	szerelt	mount	szerel	V;PST;V.PTCP	
+mounted	szerelve	mount	szerelve	V;PST;V.PTCP	ADV;V.CVB
+conflicts	konfliktus	conflict	konfliktus	N;PL	N;NOM;SG
+montana	montana	montana	mont	PROPN;SG	
+triple	háromszoros	triple	háromszoros	N;SG	
+triple	tripla	triple	tripla	N;SG	
+triple	hármas	triple	hármas	N;SG	
+seriously	komolyan	seriously	komolyan	ADV	
+bristol	bristol	bristol	bristol	PROPN;SG	
+mitchell	mitchell	mitchell	mitchell	PROPN;SG	
+colombia	kolumbia	colombia	kolumbia	PROPN;SG	
+comparison	összehasonlítás	comparison	összehasonlítás	N;SG	
+eleven	tizenegy	eleven	tizenegy		
+ill	beteg	ill	beteg	ADJ	N;NOM;SG
+pradesh	prades	pradesh	prades	PROPN;SG	
+boats	csónak	boat	csó	N;PL	N;NOM;SG
+architectural	építészet	architectural	építészet	ADJ	N;NOM;SG
+rising	emelkedő	rise	emelkedő	N;SG	ADJ;NOM;SG
+rising	emelkedik	rise	emelkedik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+visitors	látogatók	visitor	látogató	N;PL	ADJ;NOM;PL
+visitors	látogató	visitor	látogató	N;PL	ADJ;NOM;SG
+giants	giants	giant	giants	N;PL	
+dick	fasz	dick	fasz	PROPN;SG	N;NOM;SG
+dick	dick	dick	dick	PROPN;SG	
+dick	farok	dick	far	PROPN;SG	N;NOM;SG
+hunt	hunt	hunt	hunt	N;SG	
+summit	csúcs	summit	csúcs	N;SG	
+guardian	őrző	guardian	őrző	N;SG	
+losses	veszteség	loss	veszteség	N;PL	N;NOM;SG
+nicholas	nicholas	nichola	nicholas	PROPN;SG	N;NOM;SG
+nicholas	miklós	nichola	miklós	PROPN;SG	
+peru	perui	peru	perui	PROPN;SG	
+peru	peru	peru	peru	PROPN;SG	PROPN;NOM;SG
+eighth	nyolcadik	eighth	nyolcadik	PROPN;SG	ADJ;NOM;SG
+instrumental	instrumentális	instrumental	instrumentális	ADJ	N;NOM;SG
+hindu	hindu	hindu	hindu	ADJ	
+defender	védő	defender	védő	N;SG	ADJ;NOM;SG
+defender	védelmező	defender	védelmező	N;SG	ADJ;NOM;SG
+riding	lovagolni	riding	lovagol	N;SG	V;NFIN;ACT
+riding	lovagol	riding	lovagol	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+arrival	érkezés	arrival	érkezés	N;SG	
+evans	evans	evan	evans	PROPN;SG	
+turning	fordulok	turn	fordul	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+hidden	elrejtve	hidden	elrejtve	ADJ	ADV;V.CVB
+hidden	rejtett	hidden	rejtett	ADJ	
+hidden	elrejtett	hidden	elrejtett	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+volunteer	önkéntes	volunteer	önkéntes	N;SG	
+bio	bio	bio	bio	N;SG	
+holder	jogosult	holder	jogosul	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+integrated	integrált	integrate	integrált	V;PST;V.PTCP	
+grace	kegyelem	grace	kegyél	PROPN;SG	N;NOM;SG
+grace	grace	grace	grace	PROPN;SG	
+feed	etesd	feed	etesd	N;SG	V;DEF;IMP;SG;1;PRS;FIN;ACT
+feed	takarmányok	feed	takarmány	N;SG	N;NOM;PL
+childhood	gyermekkori	childhood	gyermekkori	N;SG	
+childhood	gyerekkori	childhood	gyerekkori	N;SG	ADJ;NOM;SG
+milan	milánó	milan	milánó	PROPN;SG	N;NOM;SG
+milan	milan	milan	milan	PROPN;SG	
+milan	milánói	milan	milánó	PROPN;SG	
+honour	megtiszteltetés	honour	megtiszteltetés	N;SG	
+server	kiszolgáló	server	kiszolgáló	N;SG	
+manual	kézi	manual	kézi	N;SG	
+manual	manuális	manual	manuális	N;SG	
+concrete	konkrét	concrete	konkrét	N;SG	
+ghost	ghost	ghost	ghost	N;SG	
+confused	zavarodott	confused	zavarodott	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+confused	zavart	confused	zavart	ADJ	
+confused	zavaros	confused	zavaros	ADJ	
+larry	larry	larry	larry	PROPN;SG	
+styles	styles	style	styles	N;PL	
+muhammad	muhammad	muhammad	muhammad	PROPN;SG	
+muhammad	mohammed	muhammad	mohammed	PROPN;SG	
+muhammad	mohamed	muhammad	mohamed	PROPN;SG	
+phoenix	főnix	phoenix	főnix	PROPN;SG	N;NOM;SG
+phoenix	phoenix	phoenix	phoenix	PROPN;SG	
+sweet	édes	sweet	édes	ADJ	
+waste	pazarlás	waste	pazarlás	V;IMP;FIN	N;NOM;SG
+waste	hulladék	waste	hulladék	V;IMP;FIN	N;NOM;SG
+waste	hulladékok	waste	hulladék	V;IMP;FIN	N;NOM;PL
+acceptable	elfogadhatónak	acceptable	elfogadható	ADJ	N;DAT;SG
+acceptable	elfogadható	acceptable	elfogadható	ADJ	
+fruit	gyümölcsök	fruit	gyümölcs	N;SG	N;NOM;PL
+crystal	crystal	crystal	crystal	N;SG	
+crystal	kristály	crystal	kristály	N;SG	
+resident	rezidens	resident	rezidens	N;SG	
+cincinnati	cincinnati	cincinnati	cincinnati	PROPN;SG	N;NOM;SG
+tied	döntetlen	tie	döntetlen	V;PST;V.PTCP	N;NOM;SG
+tied	kötve	tie	kötve	V;PST;V.PTCP	
+steps	lépcső	step	lépcső	N;PL	N;NOM;SG
+steps	lépés	step	lépés	N;PL	N;NOM;SG
+carrier	szállító	carrier	szállító	N;SG	ADJ;NOM;SG
+carrier	hordozó	carrier	hordozó	N;SG	ADJ;NOM;SG
+alice	alice	alice	alice	PROPN;SG	
+kick	rúg	kick	rúg	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+kick	rúgni	kick	rúg	N;SG	V;NFIN;ACT
+strange	különös	strange	különös	ADJ	
+strange	furcsa	strange	furcsa	ADJ	
+bernard	bernard	bernard	bernard	PROPN;SG	
+nigeria	nigéria	nigeria	nigéria	PROPN;SG	
+pain	fáj	pain	fáj	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+punk	punk	punk	punk	N;SG	
+mechanical	mechanikai	mechanical	mechanikai	ADJ	N;NOM;SG
+mechanical	mechanikus	mechanical	mechanikus	ADJ	N;NOM;SG
+drugs	drogot	drug	drog	N;PL	N;ACC;SG
+drugs	kábítószer	drug	kábítószer	N;PL	N;NOM;SG
+drugs	drog	drug	drog	N;PL	N;NOM;SG
+trinity	trinity	trinity	trinity	N;SG	
+classified	titkos	classify	titkos	V;PST;V.PTCP	
+minority	kisebbségi	minority	kisebbségi	N;SG	ADJ;NOM;SG
+businessman	üzletember	businessman	üzletember	N;SG	
+grown	felnőtt	grow	felnőtt	V;PST;V.PTCP	
+powered	meghajtású	power	meghajtású	V;PST;V.PTCP	N;NOM;SG
+alive	élve	alive	élve	ADJ	
+alive	életben	alive	élet	ADJ	N;IN+ESS;SG
+alive	él	alive	él	ADJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+nbc	nbc	nbc	nbc	PROPN;SG	N;NOM;SG
+nhl	nhl	nhl	nhl	PROPN;SG	N;NOM;SG
+keith	keith	keith	keith	PROPN;SG	
+bobby	bobby	bobby	bobby	PROPN;SG	
+harbor	harbor	harbor	harbor	PROPN;SG	N;NOM;SG
+maritime	tengeri	maritime	tengeri	ADJ	
+terry	terry	terry	terry	PROPN;SG	
+virtual	virtuális	virtual	virtuális	ADJ	N;NOM;SG
+indoor	fedett	indoor	fedett	N;SG	
+indoor	benti	indoor	bent	N;SG	
+spiritual	spirituális	spiritual	spirituális	ADJ	N;NOM;SG
+spiritual	szellemi	spiritual	szellemi	ADJ	
+spiritual	lelki	spiritual	lelki	ADJ	
+croatia	horvátország	croatia	horvátország	PROPN;SG	N;NOM;SG
+lions	oroszlán	lion	oroszlán	N;PL	N;NOM;SG
+luis	luis	luis	luis	PROPN;SG	
+merchant	kereskedő	merchant	kereskedő	N;SG	
+azerbaijan	azerbajdzsán	azerbaijan	azerbajdzsán	PROPN;SG	N;NOM;SG
+lots	sok	lot	sok	N;PL	
+initiative	kezdeményező	initiative	kezdeményező	N;SG	
+charlotte	charlotte	charlotte	charl	PROPN;SG	
+pure	tisztán	pure	tiszta	ADJ	
+pure	tiszta	pure	tiszta	ADJ	
+persian	perzsa	persian	perzsa	ADJ	N;NOM;SG
+marks	marks	mark	marks	N;PL	
+armenian	örmény	armenian	örmény	ADJ	
+talent	tehetséges	talent	tehetséges	N;SG	ADJ;NOM;SG
+talent	tehetség	talent	tehetség	N;SG	V;INDF;POT;SG;3;PRS;FIN;ACT
+unlikely	valószínűtlen	unlikely	valószínűtlen	ADJ	
+jump	ugorj	jump	ugorj	V;IMP;FIN	V;INDF;IND;SG;1;PRS;FIN;ACT
+jump	ugrás	jump	ugrás	V;IMP;FIN	N;NOM;SG
+employment	foglalkoztatási	employment	foglalkoztatási	N;SG	ADJ;NOM;SG
+parker	parker	parker	parker	PROPN;SG	
+wonder	csoda	wonder	csoda	V;IMP;FIN	
+friday	péntek	friday	pén	PROPN;SG	
+friday	pénteki	friday	pénteki	PROPN;SG	
+friday	pénteken	friday	pént	PROPN;SG	N;ON+ESS;SG
+jobs	állás	job	állás	N;PL	N;NOM;SG
+cuba	kubában	cuba	kuba	PROPN;SG	N;IN+ESS;SG
+cuba	kuba	cuba	kuba	PROPN;SG	PROPN;NOM;SG
+aside	félre	aside	félre	ADV	
+são	são	são	são	PROPN;SG	
+schedule	ütemterv	schedule	ütemterv	N;SG	
+waiting	várakozás	wait	várakozás	V;V.MSDR	N;NOM;SG
+familiar	ismerős	familiar	ismerős	ADJ	
+suspect	gyanúsított	suspect	gyanúsított	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+suspect	gyanús	suspect	gyanús	N;SG	
+turner	turner	turner	turner	PROPN;SG	
+forming	képező	form	képező	V;V.MSDR	ADJ;NOM;SG
+barcelona	barcelonában	barcelona	barcelon	PROPN;SG	N;IN+ESS;SG
+barcelona	barcelonai	barcelona	barcelonai	PROPN;SG	V;DEF;IND;PL;3;PRS;FIN;ACT
+barcelona	barcelona	barcelona	barcelona	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+consistent	következetes	consistent	következetes	ADJ	
+recommended	javasolt	recommend	javasolt	V;PST;V.PTCP	
+patient	türelmes	patient	türelmes	N;SG	
+bulgaria	bulgária	bulgaria	bulgária	PROPN;SG	N;NOM;SG
+vincent	vincent	vincent	vincen	PROPN;SG	
+visitor	látogatói	visitor	látogató	N;SG	N;NOM;PL
+visitor	látogató	visitor	látogató	N;SG	ADJ;NOM;SG
+basically	lényegében	basically	lényeg	ADV	N;IN+ESS;SG
+basically	alapvetően	basically	alapvető	ADV	ADJ;FRML;SG
+basically	gyakorlatilag	basically	gyakorlati	ADV	ADJ;FRML;SG
+continental	kontinentális	continental	kontinentális	ADJ	N;NOM;SG
+fail	bukta	fail	bukta	V;IMP;FIN	
+fail	kudarc	fail	kudarc	V;IMP;FIN	N;NOM;SG
+archaeological	régészeti	archaeological	régészeti	ADJ	N;NOM;SG
+designation	megjelölés	designation	megjelölés	N;SG	
+revenue	bevételek	revenue	bevétel	N;SG	N;NOM;PL
+entering	belép	entering	belép	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+entering	belépni	entering	belép	N;SG	V;NFIN;ACT
+soft	puha	soft	puha	ADJ	
+soft	lágy	soft	lágy	ADJ	
+weekend	hétvégi	weekend	hétvégi	N;SG	ADJ;NOM;SG
+approval	jóváhagyás	approval	jóváhagyás	N;SG	
+approval	jóváhagyási	approval	jóváhagyási	N;SG	ADJ;NOM;SG
+collins	collins	collin	collins	PROPN;SG	
+visiting	látogató	visit	látogató	V;V.MSDR	ADJ;NOM;SG
+visiting	látogatás	visit	látogatás	V;V.MSDR	N;NOM;SG
+visiting	látogatóban	visit	látogató	V;V.MSDR	N;IN+ESS;SG
+dennis	dennis	dennis	dennis	PROPN;SG	
+resource	erőforrás	resource	erőforrás	N;SG	
+sculpture	szobrok	sculpture	szobor	N;SG	N;NOM;PL
+harrison	harrison	harrison	harrison	PROPN;SG	
+pink	pink	pink	pink	N;SG	
+pink	rózsaszín	pink	rózsaszín	N;SG	
+pink	rózsaszínű	pink	rózsaszínű	N;SG	
+oliver	oliver	oliver	oliver	PROPN;SG	
+oliver	olivér	oliver	olivér	PROPN;SG	
+cooper	cooper	cooper	cooper	PROPN;SG	
+sur	sur	sur	sur	PROPN;SG	
+hell	pokol	hell	pokol	INTJ	
+wolf	farkas	wolf	farkas	N;SG	
+wolf	wolf	wolf	wolf	N;SG	
+incidents	incidens	incident	incidens	N;PL	N;NOM;SG
+fresh	frissen	fresh	frissen	ADJ	
+fresh	friss	fresh	friss	ADJ	
+clinical	klinikai	clinical	klinikai	ADJ	N;NOM;SG
+volumes	kötet	volume	kötet	N;PL	N;NOM;SG
+volumes	volumen	volume	volumen	N;PL	
+worst	legrosszabb	worst	legrosszabb	ADJ;RL	
+adults	felnőtt	adult	felnőtt	N;PL	
+necessarily	szükségszerűen	necessarily	szükségszerű	ADV	ADJ;FRML;SG
+necessarily	feltétlenül	necessarily	feltétlen	ADV	ADJ;FRML;SG
+immediate	azonnali	immediate	azonnali	ADJ	
+feeling	érzés	feeling	érzés	N;SG	
+feeling	érzem	feeling	érez	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+feeling	érezni	feeling	érez	N;SG	V;NFIN;ACT
+essential	nélkülözhetetlen	essential	nélkülözhetetlen	ADJ	
+essential	lényeges	essential	lényeges	ADJ	
+essential	alapvető	essential	alapvető	ADJ	
+conclusion	következtetések	conclusion	következtetés	N;SG	N;NOM;PL
+strip	csík	strip	csík	N;SG	
+bound	köt	bound	köt	ADJ	V;INDF;IND;SG;3;PRS;FIN;ACT
+bound	kötve	bound	kötve	ADJ	
+hull	burkolat	hull	burkolat	PROPN;SG	N;NOM;SG
+hull	hull	hull	hull	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+hull	hajótest	hull	hajótes	PROPN;SG	N;NOM;SG
+diamond	diamond	diamond	diamond	N;SG	
+origins	eredet	origin	eredet	N;PL	N;NOM;SG
+empty	üres	empty	üres	ADJ	
+valuable	értékes	valuable	értékes	ADJ	
+doubles	páros	double	páros	N;PL	
+brick	brick	brick	brick	N;SG	
+beijing	pekingi	beijing	pekingi	N;SG	
+lgbt	lmbt	lgbt	lmb	N;SG	
+liberty	szabadság	liberty	szabadság	PROPN;SG	N;NOM;SG
+repeatedly	ismételten	repeatedly	ismételt	ADV	ADJ;FRML;SG
+baptist	baptista	baptist	baptista	PROPN;SG	N;NOM;SG
+ron	ron	ron	ron	PROPN;SG	
+ron	ront	ron	ront	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+hebrew	héber	hebrew	héber	PROPN;SG	N;NOM;SG
+alpha	alpha	alpha	alpha	PROPN;SG	
+alpha	alfa	alpha	alfa	PROPN;SG	
+equipped	felszerelve	equip	felszerelve	V;PST;V.PTCP	ADV;V.CVB
+identical	egyforma	identical	egyforma	ADJ	
+identical	megegyező	identical	megegyező	ADJ	
+identical	azonos	identical	azonos	ADJ	
+transmission	átviteli	transmission	átviteli	N;SG	ADJ;NOM;SG
+platforms	platform	platform	platform	N;PL	
+inch	hüvelyk	inch	hüvely	PROPN;SG	N;NOM;SG
+cool	király	cool	király	ADJ	
+cool	menő	cool	menő	ADJ	
+bulgarian	bolgár	bulgarian	bolgár	ADJ	
+liga	liga	liga	liga	PROPN;SG	N;NOM;SG
+manhattan	manhattanben	manhattan	manhatt	PROPN;SG	ADV
+manhattan	manhattan	manhattan	manhat	PROPN;SG	V;INDF;POT;SG;3;PST;FIN;ACT
+manhattan	manhattani	manhattan	manhat	PROPN;SG	V;POT;NFIN;ACT
+clay	agyag	clay	agyag	PROPN;SG	N;NOM;SG
+clay	clay	clay	clay	PROPN;SG	
+dangerous	veszélyes	dangerous	veszélyes	ADJ	
+viewed	megtekintett	view	megtekintett	V;PST;V.PTCP	
+email	email	email	email	N;SG	
+bold	merész	bold	merész	ADJ	
+bold	bátor	bold	bátor	ADJ	
+compare	összehasonlítás	compare	összehasonlítás	V;IMP;FIN	
+compare	összehasonlítása	compare	összehasonlítás	V;IMP;FIN	N;NOM;SG
+monthly	havi	monthly	havi	ADJ	
+monthly	havonta	monthly	havon	ADJ	
+foster	foster	foster	foster	PROPN;SG	PROPN;NOM;SG
+craig	craig	craig	craig	PROPN;SG	
+pioneer	úttörő	pioneer	úttörő	N;SG	
+rated	névleges	rate	névleges	V;PST;V.PTCP	N;NOM;SG
+amsterdam	amsterdam	amsterdam	amsterdam	PROPN;SG	N;NOM;SG
+amsterdam	amszterdam	amsterdam	amszterdam	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+amsterdam	amszterdami	amsterdam	amszterdami	PROPN;SG	
+percussion	ütős	percussion	ütős	PROPN;SG	
+flows	flow	flow	flow	N;PL	
+athens	athéni	athen	athéni	PROPN;SG	ADJ;NOM;SG
+herbert	herbert	herbert	herber	PROPN;SG	
+raf	raf	raf	raf	PROPN;SG	N;NOM;SG
+delaware	delaware	delaware	delapare	PROPN;SG	
+neil	neil	neil	neil	PROPN;SG	
+ref	bíró	ref	bíró	N;SG	
+historically	történelmileg	historically	történelmi	ADV	
+tours	tours	tour	tours	N;PL	N;NOM;SG
+stable	istálló	stable	istálló	ADJ	N;NOM;SG
+identification	azonosító	identification	azonosító	N;SG	ADJ;NOM;SG
+delta	delta	delta	delta	PROPN;SG	
+mediterranean	mediterrán	mediterranean	mediterra	N;SG	
+volunteers	önkéntes	volunteer	önkéntes	N;PL	
+reply	válasz	reply	válasz	V;IMP;FIN	N;NOM;SG
+stuart	stuart	stuart	stuart	PROPN;SG	
+marvel	marvel	marvel	marvel	PROPN;SG	N;NOM;SG
+luke	luke	luke	leke	PROPN;SG	
+luke	lukács	luke	lukács	PROPN;SG	
+odd	páratlan	odd	páratlan	ADJ	
+odd	furcsa	odd	furcsa	ADJ	
+uss	uss	uss	uss	PROPN;SG	N;NOM;SG
+mall	pláza	mall	pláza	PROPN;SG	N;NOM;SG
+mall	bevásárlóközpont	mall	bevásárlóközpon	PROPN;SG	N;NOM;PL
+penalty	büntető	penalty	büntető	N;SG	
+secure	biztonságos	secure	biztonságos	V;IMP;FIN	ADJ;NOM;SG
+hugh	hugh	hugh	hugh	PROPN;SG	
+steven	steven	steven	steven	PROPN;SG	
+falling	zuhan	falling	zuhan	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+spin	spin	spin	spin	N;SG	
+clinton	clinton	clinton	clint	PROPN;SG	N;NOM;SG
+villa	villa	villa	villa	N;SG	
+select	kiválasztás	select	kiválasztás	V;IMP;FIN	N;NOM;SG
+metric	metrikus	metric	metrikus	N;SG	ADJ;NOM;SG
+surviving	túlélő	survive	túlélő	V;V.MSDR	ADJ;NOM;SG
+surviving	túlélés	survive	túlélés	V;V.MSDR	N;NOM;SG
+roberts	roberts	robert	roberts	N;PL	
+biological	biológiai	biological	biológiai	ADJ	N;NOM;SG
+lloyd	lloyd	lloyd	lloyd	PROPN;SG	
+munich	münchen	munich	münchen	PROPN;SG	N;NOM;SG
+adelaide	adelaide	adelaide	adelaide	PROPN;SG	
+harold	harold	harold	harold	PROPN;SG	
+norfolk	norfolk	norfolk	norfolk	PROPN;SG	N;NOM;SG
+butler	butler	butler	butler	PROPN;SG	
+butler	inas	butler	inas	PROPN;SG	
+butler	komornyik	butler	komornyik	PROPN;SG	N;NOM;SG
+rival	rivális	rival	rivális	N;SG	
+acoustic	akusztikus	acoustic	akusztikus	ADJ	N;NOM;SG
+adaptation	alkalmazkodási	adaptation	alkalmazkodási	N;SG	ADJ;NOM;SG
+greg	greg	greg	greg	PROPN;SG	
+url	url	url	url	N;SG	
+absolutely	abszolút	absolutely	abszolú	ADV	
+nobody	senki	nobody	senki	PRO;SG	
+scholarship	ösztöndíjas	scholarship	ösztöndíjas	N;SG	ADJ;NOM;SG
+exit	kilépés	exit	kilépés	N;SG	
+exit	kilépő	exit	kilépő	N;SG	
+facing	néző	face	néző	V;V.MSDR	
+dual	kettős	dual	kettős	PROPN;SG	ADJ;NOM;SG
+noticed	észre	notice	ész	V;PST;V.PTCP	N;ON+ALL;SG
+mathematical	matematika	mathematical	matematika	ADJ	N;NOM;SG
+mathematical	matematikai	mathematical	matematikai	ADJ	N;NOM;SG
+rarely	ritkán	rarely	ritkán	ADV	
+demographics	demográfiai	demographic	demográfiai	N;PL	ADJ;NOM;SG
+rick	rick	rick	rick	PROPN;SG	
+bonus	prémium	bonus	prémium	N;SG	
+bonus	bónusz	bonus	bónusz	N;SG	
+tourist	turisták	tourist	turista	N;SG	N;NOM;PL
+mystery	titokzatos	mystery	titokzatos	N;SG	
+mystery	rejtélyes	mystery	rejtélyes	N;SG	
+walking	sétálni	walking	sétál	N;SG	V;NFIN;ACT
+walking	sétál	walking	sétál	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+walking	gyalog	walking	gyalog	N;SG	
+voters	szavazó	voter	szavazó	N;PL	
+civilian	civil	civilian	civil	ADJ	
+partial	részleges	partial	részleges	ADJ	
+eddie	eddie	eddie	eddie	PROPN;SG	
+christians	keresztények	christians	keresztény	PROPN;PL	N;NOM;PL
+denver	denverben	denver	denver	PROPN;SG	N;IN+ESS;SG
+denver	denver	denver	denver	PROPN;SG	N;NOM;SG
+petersburg	petersburg	petersburg	petersburg	PROPN;SG	
+jon	jon	jon	jon	PROPN;SG	
+obama	obama	obama	obam	PROPN;SG	
+violin	hegedű	violin	hegedű	PROPN;SG	N;NOM;SG
+catherine	katalin	catherine	katalin	PROPN;SG	N;NOM;SG
+catherine	catherine	catherine	catherine	PROPN;SG	N;NOM;SG
+yale	yale	yale	yale	PROPN;SG	
+pen	pen	pen	pen	N;SG	PROPN;NOM;SG
+jacob	jacob	jacob	jac	PROPN;SG	
+convicted	elítéltek	convict	elítél	V;PST;V.PTCP	N;NOM;PL
+touring	touring	touring	touring	N;SG	
+transition	átmenet	transition	átmenet	N;SG	
+transition	átmeneti	transition	átmeneti	N;SG	
+anglo	anglo	anglo	anglo	PROPN;SG	
+denied	megtagadva	deny	megtagadva	V;PST;V.PTCP	ADV;V.CVB
+denied	elutasítva	deny	elutasítva	V;PST;V.PTCP	ADV;V.CVB
+ottawa	ottawa	ottawa	ottawa	PROPN;SG	N;NOM;SG
+derby	derby	derby	derby	PROPN;SG	
+competing	versengő	compete	versengő	N;SG	ADJ;NOM;SG
+hudson	hudson	hudson	huds	PROPN;SG	
+sacred	szent	sacred	szent	ADJ	
+rob	rob	rob	rob	PROPN;SG	
+citizen	polgár	citizen	polgár	N;SG	
+citizen	polgárok	citizen	polgár	N;SG	N;NOM;PL
+dogs	kutya	dog	kutya	N;PL	N;NOM;SG
+annually	évente	annually	éven	ADV	N;ON+ESS;SG
+cardinal	bíboros	cardinal	bíboros	ADJ	
+nepal	nepál	nepal	nepál	PROPN;SG	PROPN;NOM;SG
+overseas	tengerentúli	overseas	tengerentúli	ADV	ADJ;NOM;SG
+perry	perry	perry	perry	PROPN;SG	
+syria	szíriában	syria	szíria	PROPN;SG	N;IN+ESS;SG
+syria	szíria	syria	szíria	PROPN;SG	N;NOM;SG
+wells	wells	well	wells	N;PL	
+contributing	hozzájáruló	contribute	hozzájáruló	V;V.MSDR	ADJ;NOM;SG
+contributing	hozzájárulás	contribute	hozzájárulás	V;V.MSDR	N;NOM;SG
+ultimate	végső	ultimate	végső	ADJ	
+ranks	ranglétrán	rank	ranglétra	N;PL	N;SG
+danny	danny	danny	danny	PROPN;SG	
+retail	lakossági	retail	lakossági	PROPN;SG	ADJ;NOM;SG
+retail	kiskereskedelmi	retail	kiskereskedelmi	PROPN;SG	N;NOM;SG
+favorite	kedvenc	favorite	kedvenc	N;SG	
+vermont	vermont	vermont	vermont	PROPN;SG	
+download	letöltés	download	letöltés	V;IMP;FIN	N;NOM;SG
+download	letöltése	download	letöltés	V;IMP;FIN	N;NOM;SG
+trusted	megbízható	trust	megbízható	V;PST;V.PTCP	ADJ;NOM;SG
+jefferson	jefferson	jefferson	jeffers	PROPN;SG	
+anywhere	bárhol	anywhere	bárhol	ADV	
+anywhere	bárhová	anywhere	bárhová	ADV	
+recreation	szabadidő	recreation	szabadidő	N;SG	
+wearing	viselni	wear	visel	N;SG	V;NFIN;ACT
+kenya	kenya	kenya	kenya	PROPN;SG	PROPN;NOM;SG
+accessible	érhető	accessible	érhető	ADJ	V;INDF;POT;SG;3;PRS;FIN;ACT
+ralph	ralph	ralph	ralph	PROPN;SG	
+ninth	kilencedik	ninth	kilencedik	PROPN;SG	ADJ;NOM;SG
+injuries	sérülés	injury	sérülés	N;PL	N;NOM;SG
+injuries	sérültek	injury	sérül	N;PL	V;INDF;IND;PL;3;PST;FIN;ACT
+competitive	versenyképes	competitive	versenyképes	ADJ	
+wang	wang	wang	wang	PROPN;SG	
+woods	erdőben	wood	erdő	N;PL	N;IN+ESS;SG
+woods	erdő	wood	erdő	N;PL	
+jacques	jacques	jacque	jacques	PROPN;SG	
+preferred	előnyben	prefer	előny	V;PST;V.PTCP	N;IN+ESS;SG
+resort	resort	resort	resort	N;SG	
+pedro	pedro	pedro	pedro	PROPN;SG	
+robot	robot	robot	rob	N;SG	
+venezuela	venezuelai	venezuela	venezuelai	PROPN;SG	ADJ;NOM;SG
+venezuela	venezuela	venezuela	venezuela	PROPN;SG	
+studying	tanulok	study	tanul	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+studying	tanul	study	tanul	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+edwards	edwards	edwards	edwards	PROPN;SG	
+dancing	táncolni	dancing	táncol	N;SG	V;NFIN;ACT
+dancing	táncol	dancing	táncol	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+eagles	eagles	eagle	eagles	N;PL	
+tribute	tribute	tribute	tribute	N;SG	
+continuous	folyamatos	continuous	folyamatos	ADJ	
+continuous	folytonos	continuous	folytonos	ADJ	
+encourage	ösztönzése	encourage	ösztönzés	V;IMP;FIN	N;NOM;SG
+spider	pók	spider	pók	N;SG	
+spider	spider	spider	spider	N;SG	
+convinced	meggyőzte	convinced	meggyőz	ADJ	V;DEF;IND;SG;3;PST;FIN;ACT
+gap	szakadék	gap	szakadék	N;SG	
+reflect	tükrözik	reflect	tükrözik	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+mars	marson	mar	marson	PROPN;SG	N;NOM;SG
+mars	mars	mar	mars	PROPN;SG	
+obtain	megszerzése	obtain	megszerzés	V;IMP;FIN	N;NOM;SG
+gothic	gótikus	gothic	gótikus	ADJ	N;NOM;SG
+hunting	vadászik	hunt	vadászik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+hunting	vadászni	hunt	vadász	N;SG	V;NFIN;ACT
+hunting	vadász	hunt	vadász	N;SG	
+frequent	gyakori	frequent	gyakori	ADJ	
+conversion	konverziós	conversion	konverziós	N;SG	ADJ;NOM;SG
+traditionally	hagyományosan	traditionally	hagyományos	ADV	ADJ;FRML;SG
+jose	jose	jose	jose	PROPN;SG	
+jose	josé	jose	josé	PROPN;SG	
+adventures	kaland	adventure	kaland	N;PL	N;NOM;SG
+tiger	tigris	tiger	tigris	N;SG	
+tiger	tiger	tiger	tiger	N;SG	
+totally	teljesen	totally	teljes	ADV	ADJ;FRML;SG
+sing	énekelj	sing	énekel	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+sing	énekel	sing	én	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+shadow	árnyékok	shadow	árnyék	N;SG	N;NOM;PL
+shadow	árny	shadow	árny	N;SG	
+boxing	box	box	box	N;SG	
+boxing	boksz	box	boksz	N;SG	
+stanford	stanford	stanford	stanford	PROPN;SG	
+machines	gép	machine	gép	N;PL	N;NOM;SG
+vegas	vegas	vega	vegas	PROPN;SG	
+vegas	vegasban	vega	vegas	PROPN;SG	N;IN+ESS;SG
+vegas	vegasi	vega	vegasi	PROPN;SG	
+saved	mentve	save	mentve	V;PST;V.PTCP	ADV;V.CVB
+jury	esküdtek	jury	esküd	N;SG	V;INDF;IND;PL;3;PST;FIN;ACT
+jury	esküdt	jury	esküdt	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+noble	nemes	noble	nemes	ADJ	
+noble	noble	noble	noble	ADJ	
+tommy	tommy	tommy	tommy	PROPN;SG	
+guilty	bűnös	guilty	bűnös	N;SG	
+leo	leo	leo	leo	PROPN;SG	
+extinct	kihaltak	extinct	ki+hal	ADJ	V;INDF;IND;PL;3;PST;FIN;ACT
+extinct	kihalt	extinct	ki+hal	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+shares	részvény	share	részvény	N;PL	N;NOM;SG
+shares	részesedés	share	részesedés	N;PL	N;NOM;SG
+manufacturer	gyártó	manufacturer	gyártó	N;SG	ADJ;NOM;SG
+cap	cap	cap	cap	N;SG	
+push	push	push	push	V;IMP;FIN	
+push	nyomja	push	nyom	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+lie	hazugság	lie	hazugság	V;IMP;FIN	N;NOM;SG
+lie	hazudj	lie	hazud	V;IMP;FIN	V;DEF;IND;SG;1;PRS;FIN;ACT
+berkeley	berkeley	berkeley	berkeley	PROPN;SG	
+lebanon	libanon	lebanon	liban	PROPN;SG	
+lebanon	libanoni	lebanon	libanoni	PROPN;SG	V;NFIN;ACT
+madison	madison	madison	madison	PROPN;SG	
+attracted	vonzódik	attract	vonzódik	V;PST;V.PTCP	V;INDF;IND;SG;3;PRS;FIN;ACT
+manor	manor	manor	manor	N;SG	
+saudi	szaúdi	saudi	szaúdi	ADJ	
+saudi	szaúd	saudi	szaúd	ADJ	
+serial	soros	serial	soros	N;SG	
+abroad	külföldön	abroad	külföld	ADV	
+abroad	külföldre	abroad	külföld	ADV	N;ON+ALL;SG
+rogers	rogers	roger	rogers	N;PL	
+lights	világítás	light	világítás	N;PL	N;NOM;SG
+grandfather	nagypapa	grandfather	nagypap	N;SG	
+elder	idősebb	elder	idős	N;SG	ADJ;NOM;CMPR;SG
+renaissance	reneszánsz	renaissance	reneszánsz	PROPN;SG	N;NOM;SG
+uniform	egyenruhás	uniform	egyenruhás	ADJ	N;NOM;SG
+uniform	egyenruha	uniform	egyenruha	ADJ	N;NOM;SG
+chase	chase	chase	chase	N;SG	
+aka	alias	a.k.a.	alias	PROPN;SG	
+computers	számítógép	computer	számítógép	N;PL	N;NOM;SG
+brisbane	brisbane	brisbane	brisbane	PROPN;SG	
+susan	susant	susan	susant	PROPN;SG	N;ACC;SG
+susan	susan	susan	susan	PROPN;SG	N;NOM;SG
+raymond	raymond	raymond	raymond	PROPN;SG	
+flower	virágos	flower	virágos	N;SG	
+col	col	col	col	PROPN;SG	
+thai	thai	thai	thai	ADJ	
+clothing	ruhák	clothing	ru	N;SG	N;NOM;PL
+murphy	murphy	murphy	murphy	PROPN;SG	
+sharp	sharp	sharp	sharp	ADJ	N;NOM;SG
+sharp	éles	sharp	éles	ADJ	
+yugoslavia	jugoszlávia	yugoslavia	jugoszlávia	PROPN;SG	N;NOM;SG
+buddhist	buddhista	buddhist	buddhista	PROPN;SG	N;NOM;SG
+publicly	nyilvánosan	publicly	nyilvános	ADV	ADJ;FRML;SG
+meat	húsok	meat	hús	N;SG	N;NOM;PL
+spam	kéretlen	spam	kéretlen	N;SG	
+moral	erkölcs	moral	erkölcs	ADJ	N;NOM;SG
+moral	erkölcsös	moral	erkölcsös	ADJ	
+moral	erkölcsi	moral	erkölcsi	ADJ	
+sung	sung	sung	sung	V;PST;V.PTCP	
+partially	részlegesen	partially	részleges	ADV	ADJ;FRML;SG
+interviews	interjú	interview	interjú	N;PL	N;NOM;SG
+brunswick	brunswick	brunswick	brunswick	PROPN;SG	
+spending	költ	spending	költ	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+spending	költeni	spending	költ	N;SG	V;NFIN;ACT
+spending	kiadások	spending	kiadás	N;SG	N;NOM;PL
+grove	grove	grove	grove	PROPN;SG	
+elite	elit	elite	elit	PROPN;SG	
+bright	fényes	bright	fényes	ADJ	
+improving	javítása	improve	javítás	V;V.MSDR	N;NOM;SG
+sierra	sierra	sierra	sier	PROPN;SG	
+heaven	mennyben	heaven	menny	N;SG	ADV
+heaven	menny	heaven	menny	N;SG	
+ted	ted	ted	ted	PROPN;SG	
+consumer	fogyasztó	consumer	fogyasztó	N;SG	
+consumer	fogyasztók	consumer	fogyasztó	N;SG	N;NOM;PL
+exclusive	exkluzív	exclusive	exkluzív	ADJ	
+ibn	ibn	ibn	ibn	PROPN;SG	
+manuel	manuel	manuel	manuel	PROPN;SG	
+allies	szövetséges	ally	szövetséges	N;PL	ADJ;NOM;SG
+reviewer	bíráló	reviewer	bíráló	N;SG	ADJ;NOM;SG
+helen	helen	helen	hél	PROPN;SG	N;NOM;SG
+withdrawn	kivont	withdraw	kivont	V;PST;V.PTCP	
+withdrawn	visszavont	withdraw	visszavont	V;PST;V.PTCP	
+withdrawn	visszavonják	withdraw	visszavon	V;PST;V.PTCP	V;DEF;IND;PL;3;PRS;FIN;ACT
+mini	mini	mini	mini	PROPN;SG	
+pat	pat	pat	pat	PROPN;SG	
+catch	kapás	catch	kapás	N;SG	
+catch	elkapni	catch	el+kap	N;SG	V;NFIN;ACT
+newcastle	newcastle	newcastle	newcastle	PROPN;SG	N;NOM;SG
+antarctic	antarktiszi	antarctic	antarktiszi	ADJ	N;NOM;SG
+leeds	leeds	leed	leeds	N;PL	N;NOM;SG
+ordinary	közönséges	ordinary	közönséges	ADJ	N;NOM;SG
+suffering	szenved	suffering	szenved	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+flash	villanás	flash	villanás	PROPN;SG	N;NOM;SG
+flash	flash	flash	flash	PROPN;SG	
+flash	villám	flash	villám	PROPN;SG	N;NOM;SG
+blind	vakon	blind	vakon	ADJ	
+blind	vak	blind	vak	ADJ	
+blind	vakok	blind	vak	ADJ	
+pakistani	pakisztán	pakistani	pakiszta	ADJ	N;NOM;SG
+assuming	feltételezve	assume	feltételezve	V;V.MSDR	ADV;V.CVB
+interstate	interstate	interstate	interstate	PROPN;SG	N;NOM;SG
+arrangement	megegyezés	arrangement	megegyezés	N;SG	
+arrangement	egyezség	arrangement	egyezség	N;SG	
+honours	kitüntetés	honour	kitüntetés	N;PL	N;NOM;SG
+gross	bruttó	gross	bruttó	ADJ	
+gilbert	gilbert	gilbert	gilber	PROPN;SG	
+gradually	fokozatosan	gradually	fokozatos	ADV	ADJ;FRML;SG
+legs	lábát	leg	lába	N;PL	N;ACC;SG
+legs	láb	leg	láb	N;PL	N;NOM;SG
+diameter	átmérőjű	diameter	átmérőjű	N;SG	ADJ;NOM;SG
+supplies	ellátmányt	supplies	ellátmány	N;PL	N;ACC;SG
+supplies	ellátás	supplies	ellátás	N;PL	N;NOM;SG
+supplies	ellátmány	supplies	ellátmány	N;PL	N;NOM;SG
+pitch	szurok	pitch	szur	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+revised	átdolgozott	revise	átdolgozott	V;PST;V.PTCP	
+plenty	rengeteg	plenty	rengeteg	N;SG	
+diplomatic	diplomata	diplomatic	diplomata	ADJ	N;NOM;SG
+seal	seal	seal	seal	N;SG	
+gregory	gregory	gregory	gregory	PROPN;SG	
+gregory	gergely	gregory	gergely	PROPN;SG	
+purple	lila	purple	lila	PROPN;SG	
+purple	bíbor	purple	bíbor	PROPN;SG	
+bull	bull	bull	bull	N;SG	
+drummer	dobos	drummer	dobos	N;SG	
+presents	ajándék	present	ajándék	V;IND;SG;3;PRS;FIN	N;NOM;SG
+presents	ajándékok	present	ajándék	V;IND;SG;3;PRS;FIN	N;NOM;PL
+presents	ajándékot	present	ajándék	V;IND;SG;3;PRS;FIN	N;ACC;SG
+holland	holland	holland	holland	PROPN;SG	
+bias	elfogult	bias	elfogul	N;SG	
+remote	távoli	remote	távoli	N;SG	
+sean	sean	sean	sean	PROPN;SG	
+premiere	premier	premiere	premier	N;SG	
+con	átverés	con	átverés	PROPN;SG	N;NOM;SG
+con	con	con	con	PROPN;SG	
+cloud	felhő	cloud	felhő	PROPN;SG	N;NOM;SG
+cloud	cloud	cloud	cloud	PROPN;SG	
+heading	irány	head	irány	V;V.MSDR	N;NOM;SG
+duo	duó	duo	duó	N;SG	
+palestinian	palesztin	palestinian	palesztin	ADJ	
+improvements	javulás	improvement	javulás	N;PL	N;NOM;SG
+ski	sí	ski	sí	N;SG	
+hms	hms	hmve	hms	PROPN;SG	N;NOM;SG
+drum	dob	drum	dob	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+saskatchewan	saskatchewan	saskatchewan	saskatchepan	PROPN;SG	
+talks	beszél	talk	beszél	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+rhode	rhode	rhode	rhode	PROPN;SG	
+den	den	den	den	N;SG	
+min	min	min	min	PROPN;SG	
+dominated	uralta	dominate	ural	ADJ	V;DEF;IND;SG;3;PST;FIN;ACT
+sang	sang	sang	sang	V;IMP;FIN	
+sang	énekelt	sang	énekel	V;IMP;FIN	V;INDF;IND;SG;3;PST;FIN;ACT
+sang	énekeltem	sang	énekel	V;IMP;FIN	V;INDF;IND;SG;1;PST;FIN;ACT
+eat	egyél	eat	egyél	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+graphics	grafika	graphic	grafika	N;PL	N;NOM;SG
+graphics	grafikus	graphic	grafikus	N;PL	N;NOM;SG
+asp	asp	asp	asp	PROPN;SG	
+tons	tonnányi	ton	tonnányi	N;PL	
+tons	tonna	ton	tonna	N;PL	N;NOM;SG
+cruz	cruz	cruz	cruz	PROPN;SG	
+warsaw	varsó	warsaw	varsó	PROPN;SG	N;NOM;SG
+exclusively	kizárólagosan	exclusively	kizárólagos	ADV	ADJ;FRML;SG
+exclusively	kizárólag	exclusively	kizárólag	ADV	
+rush	rush	rush	rush	N;SG	
+heights	heights	height	heights	N;PL	
+playstation	playstation	playstation	playstation	PROPN;SG	N;NOM;SG
+recipient	címzett	recipient	címzett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+recipient	átvevő	recipient	átvevő	N;SG	ADJ;NOM;SG
+recipient	kedvezményezett	recipient	kedvezményezett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+correctly	helyesen	correctly	helyes	ADV	ADJ;FRML;SG
+traditions	hagyomány	tradition	hagyomány	N;PL	N;NOM;SG
+fundamental	alapvető	fundamental	alapvető	ADJ	
+thin	vékony	thin	vékony	ADJ	
+thin	sovány	thin	sovány	ADJ	
+chan	chan	chan	chan	PROPN;SG	PROPN;NOM;SG
+resolved	megoldva	resolve	megoldva	V;PST;V.PTCP	N;NOM;SG
+mario	mario	mario	mario	PROPN;SG	
+dame	dame	dame	dam	PROPN;SG	
+shield	shield	shield	shield	N;SG	
+ivan	ivan	ivan	ivan	PROPN;SG	PROPN;NOM;SG
+ivan	iván	ivan	iván	PROPN;SG	
+bosnia	bosznia	bosnia	bosznia	PROPN;SG	N;NOM;SG
+bosnia	boszniai	bosnia	boszniai	PROPN;SG	ADJ;NOM;SG
+harbour	harbour	harbour	harbour	N;SG	
+auckland	auckland	auckland	auckland	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+postal	postai	postal	postai	ADJ	N;NOM;SG
+collective	kollektív	collective	kollektív	ADJ	
+confederate	konföderációs	confederate	konföderációs	PROPN;SG	ADJ;NOM;SG
+devil	ördög	devil	ördög	PROPN;SG	
+sultan	szultán	sultan	szultán	PROPN;SG	N;NOM;SG
+rider	lovas	rider	lovas	N;SG	
+amazon	amazon	amazon	amaz	PROPN;SG	
+florence	florence	florence	florence	PROPN;SG	
+florence	firenze	florence	firenz	PROPN;SG	N;NOM;SG
+marc	marc	marc	marc	PROPN;SG	
+arnold	arnold	arnold	arnold	PROPN;SG	
+shah	shah	shah	shah	PROPN;SG	
+contents	tartalma	contents	tartalom	N;PL	N;NOM;SG
+contents	tartalmát	contents	tartalom	N;PL	N;ACC;SG
+contents	tartalom	contents	tartalom	N;PL	N;NOM;SG
+genetic	genetikai	genetic	genetikai	ADJ	N;NOM;SG
+genetic	genetikus	genetic	genetikus	ADJ	N;NOM;SG
+somerset	somerset	somerset	somers	PROPN;SG	
+locally	helyben	locally	hely	ADV	N;IN+ESS;SG
+locally	helyileg	locally	helyi	ADV	
+intellectual	intellektuális	intellectual	intellektuális	ADJ	N;NOM;SG
+intellectual	szellemi	intellectual	szellemi	ADJ	
+mason	mason	mason	mason	PROPN;SG	
+mason	kőműves	mason	kőműves	PROPN;SG	N;NOM;SG
+pete	pete	pete	pete	PROPN;SG	
+hitler	hitlert	hitler	hitler	PROPN;SG	
+hitler	hitler	hitler	hitler	PROPN;SG	
+sheffield	sheffield	sheffield	sheffield	PROPN;SG	N;NOM;SG
+hindi	hindi	hindi	hindi	PROPN;SG	N;NOM;SG
+anglican	anglikán	anglican	anglika	ADJ	
+murdered	meggyilkolt	murder	meggyilkolt	V;PST;V.PTCP	
+sox	sox	sox	sox	PROPN;PL	
+sleep	aludni	sleep	alsdik	N;SG	V;NFIN;ACT
+sleep	aludj	sleep	alud	N;SG	V;DEF;IND;SG;1;PRS;FIN;ACT
+bengal	bengáli	bengal	bengáli	PROPN;SG	
+confusion	zavart	confusion	zavart	N;SG	
+oscar	oscar	oscar	oscar	PROPN;SG	
+graphic	grafikai	graphic	grafikai	ADJ	N;NOM;SG
+graphic	grafikus	graphic	grafikus	ADJ	N;NOM;SG
+milwaukee	milwaukee	milwaukee	milpa	PROPN;SG	
+informed	tájékozott	inform	tájékozik	V;PST;V.PTCP	
+anonymous	anonim	anonymous	anonim	ADJ	
+anonymous	névtelen	anonymous	névtelen	ADJ	
+reverse	fordítva	reverse	fordítva	N;SG	ADV;V.CVB
+reverse	fordított	reverse	fordított	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+lisa	lisa	lisa	lisa	PROPN;SG	
+lisa	liza	lisa	liza	PROPN;SG	N;NOM;SG
+paulo	paulo	paulo	paulo	PROPN;SG	
+northwestern	northwestern	northwestern	northwestern	PROPN;SG	
+northwestern	északnyugati	northwestern	északnyugati	PROPN;SG	N;NOM;SG
+playoffs	rájátszás	playoff	rájátszás	N;PL	N;NOM;SG
+nasa	nasa	nasa	nasa	PROPN;SG	N;NOM;SG
+byzantine	bizánci	byzantine	bizánci	ADJ	
+idaho	idaho	idaho	idaho	PROPN;SG	PROPN;NOM;SG
+congo	kongói	congo	kongói	PROPN;SG	
+venture	venture	venture	ventur	N;SG	
+restricted	korlátozott	restrict	korlátozott	V;PST;V.PTCP	
+doors	ajtó	door	ajtó	N;PL	N;NOM;SG
+instructions	utasítás	instruction	utasítás	N;PL	N;NOM;SG
+instructions	útmutató	instruction	útmutató	N;PL	N;NOM;SG
+sullivan	sullivan	sullivan	sullivan	PROPN;SG	
+tables	asztal	table	asz	N;PL	N;NOM;SG
+tables	táblázat	table	táblázat	N;PL	N;NOM;SG
+shoot	lő	shoot	lő	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+substitute	helyettesítő	substitute	helyettesítő	N;SG	ADJ;NOM;SG
+contributor	hozzájáruló	contributor	hozzájáruló	N;SG	ADJ;NOM;SG
+contributor	közreműködő	contributor	közreműködő	N;SG	ADJ;NOM;SG
+rocky	rocky	rocky	rocky	PROPN;SG	
+rocky	sziklás	rocky	sziklás	PROPN;SG	
+quantum	kvantum	quantum	kvantum	PROPN;SG	N;NOM;SG
+immigration	bevándorlási	immigration	bevándorlási	N;SG	ADJ;NOM;SG
+assets	vagyon	asset	vagyon	N;PL	N;NOM;SG
+potentially	potenciálisan	potentially	potenciális	ADV	ADJ;FRML;SG
+presentation	bemutató	presentation	bemutató	N;SG	
+cotton	gyapot	cotton	gyap	PROPN;SG	N;NOM;SG
+cotton	pamut	cotton	pamut	PROPN;SG	N;NOM;SG
+sitting	ülve	sit	ülve	V;V.MSDR	
+checked	ellenőrizve	check	ellenőrizve	V;PST;V.PTCP	N;NOM;SG
+checked	ellenőriztem	check	ellenőriz	V;PST;V.PTCP	V;DEF;IND;SG;1;PRS;FIN;ACT
+forty	negyven	forty	negyven	NUM	
+upload	feltöltés	upload	feltöltés	V;IMP;FIN	N;NOM;SG
+upload	feltöltése	upload	feltöltés	V;IMP;FIN	N;NOM;SG
+unsuccessful	sikertelen	unsuccessful	sikertelen	ADJ	
+essex	essex	essex	essex	PROPN;SG	
+wellington	wellington	wellington	wellington	N;SG	
+raw	nyersen	raw	nyersen	PROPN;SG	
+raw	nyers	raw	nyers	PROPN;SG	
+sharing	megosztás	share	megosztás	N;SG	
+labels	címke	label	cím	N;PL	
+labels	címkék	label	címkék	N;PL	
+leonard	leonard	leonard	leonard	PROPN;SG	
+watson	watson	watson	watson	PROPN;SG	
+harvey	harvey	harvey	harvey	PROPN;SG	
+hello	helló	hello	helló	INTJ	
+hello	hello	hello	héll	INTJ	
+rabbi	rabbi	rabbi	rabbi	PROPN;SG	N;NOM;SG
+ensemble	együttes	ensemble	együttes	N;SG	
+pitcher	dobó	pitcher	dobó	N;SG	
+recovery	helyreállítási	recovery	helyreállítási	N;SG	ADJ;NOM;SG
+aaron	aaron	aaron	aaron	PROPN;SG	
+aaron	áron	aaron	ár	PROPN;SG	N;ON+ESS;SG
+qualification	minősítési	qualification	minősítési	N;SG	ADJ;NOM;SG
+organic	organikus	organic	organikus	PROPN;SG	N;NOM;SG
+organic	szerves	organic	szerves	PROPN;SG	
+palestine	palesztin	palestine	palesztin	PROPN;SG	
+thoughts	gondolat	thought	gondolat	N;PL	N;NOM;SG
+maurice	maurice	maurice	maurice	PROPN;SG	
+legitimate	jogszerű	legitimate	jogszerű	ADJ	
+legitimate	jogos	legitimate	jogos	ADJ	
+autonomous	autonóm	autonomous	autonó	ADJ	
+autonomous	önálló	autonomous	önálló	ADJ	
+wallace	wallace	wallace	wallace	PROPN;SG	
+succession	öröklési	succession	öröklési	N;SG	ADJ;NOM;SG
+throw	dob	throw	dob	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+throw	dobás	throw	dobás	V;IMP;FIN	N;NOM;SG
+monday	hétfőn	monday	hétfő	PROPN;SG	N;ON+ESS;SG
+monday	hétfő	monday	hétfő	PROPN;SG	
+reserves	tartalék	reserve	tartalék	N;PL	
+increases	növeli	increase	növel	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+kid	kölyök	kid	kölyök	N;SG	
+joan	joan	joan	joan	PROPN;SG	
+joan	jeanne	joan	jelenik	PROPN;SG	
+fifty	ötven	fifty	ötven	NUM	
+fifty	fifty	fifty	fifty	NUM	
+columbus	columbus	columbus	columbus	PROPN;SG	
+columbus	kolumbusz	columbus	kolumbusz	PROPN;SG	N;NOM;SG
+stones	stones	stone	stones	N;PL	N;NOM;SG
+manage	kezelése	manage	kezelés	V;IMP;FIN	N;NOM;SG
+todd	todd	todd	todd	PROPN;SG	
+canton	canton	canton	canton	PROPN;SG	
+han	han	han	han	PROPN;SG	
+reed	reed	reed	reed	PROPN;SG	
+celtic	kelta	celtic	kel	ADJ	
+characteristic	jellegzetes	characteristic	jellegzetes	ADJ	
+searching	keresés	searching	keresés	N;SG	
+inappropriate	helytelen	inappropriate	helytelen	ADJ	
+ties	nyakkendő	tie	nyakkendő	N;PL	N;NOM;SG
+otto	otto	otto	otto	PROPN;SG	PROPN;NOM;SG
+debt	tartozások	debt	tartozás	N;SG	N;NOM;PL
+outdoor	szabadtéri	outdoor	szabadtéri	ADJ	N;NOM;SG
+outdoor	kültéri	outdoor	kültéri	ADJ	N;NOM;SG
+outdoor	szabadban	outdoor	szabad	ADJ	N;IN+ESS;SG
+navigation	navigációs	navigation	navigációs	N;SG	ADJ;NOM;SG
+eligible	jogosult	eligible	jogosul	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+expensive	drágák	expensive	drága	ADJ	N;NOM;PL
+expensive	drága	expensive	drága	ADJ	
+tier	tier	tier	tier	N;SG	
+gospel	evangélium	gospel	evangélium	PROPN;SG	N;NOM;SG
+newton	newton	newton	newton	PROPN;SG	
+essays	esszéket	essays	esszék	N;PL	N;ACC;SG
+shanghai	shanghai	shanghai	shanghai	PROPN;SG	N;NOM;SG
+conventional	hagyományos	conventional	hagyományos	ADJ	
+venice	velencei	venice	velencei	PROPN;SG	
+venice	velence	venice	velence	PROPN;SG	N;NOM;SG
+#aaa	#aaa	#aaa	#aaa	PROPN;SG	
+socks	zoknit	sock	zok	N;PL	N;ACC;SG
+socks	zokni	sock	zok	N;PL	N;NOM;SG
+connecting	kapcsolódás	connect	kapcsolódás	V;V.MSDR	N;NOM;SG
+connecting	csatlakozás	connect	csatlakozás	V;V.MSDR	N;NOM;SG
+custom	egyedi	custom	egyedi	N;SG	
+custom	egyéni	custom	egyéni	N;SG	
+merging	egyesülő	merge	egyesülő	N;SG	ADJ;NOM;SG
+sony	sony	sony	sony	PROPN;SG	
+phillips	phillips	phillips	phillips	PROPN;SG	
+grass	fű	grass	fű	N;SG	
+reservoir	víztározó	reservoir	víztározó	N;SG	ADJ;NOM;SG
+tip	füles	tip	füles	N;SG	
+prague	prága	prague	prága	PROPN;SG	PROPN;NOM;SG
+prague	prágai	prague	prágai	PROPN;SG	
+abu	abu	abu	abu	PROPN;SG	
+guitars	gitár	guitar	gitár	N;PL	N;NOM;SG
+laura	laura	laura	laura	PROPN;SG	
+laura	laurát	laura	laura	PROPN;SG	N;ACC;SG
+internationally	nemzetközileg	internationally	nemzetközileg	ADV	
+attacking	támad	attack	támad	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+johann	johann	johann	johann	PROPN;SG	
+dreams	álom	dream	álom	N;PL	
+hughes	hughes	hugh	hughes	N;PL	
+pearl	pearl	pearl	pearl	PROPN;SG	
+pearl	gyöngy	pearl	gyöngy	PROPN;SG	N;NOM;SG
+dependent	eltartott	dependent	eltartott	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+dependent	függő	dependent	függő	ADJ	
+restrictions	korlátozás	restriction	korlátozás	N;PL	
+oakland	oakland	oakland	oakland	PROPN;SG	N;NOM;SG
+trio	trió	trio	trió	N;SG	
+influences	befolyásolja	influence	befolyásol	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+blocking	blokkoló	block	blokkoló	N;SG	
+mtv	mtv	mtv	mtv	PROPN;SG	N;NOM;SG
+cattle	marha	cattle	marha	N;PL	
+cattle	szarvasmarha	cattle	szarvasmar	N;PL	N;NOM;SG
+cattle	szarvasmarhák	cattle	szarvasmar	N;PL	
+gear	gear	gear	gear	N;SG	
+gabriel	gabriel	gabriel	gabriel	PROPN;SG	
+gabriel	gábriel	gabriel	gábriel	PROPN;SG	
+skating	korcsolyázni	skate	korcsolyáz	N;SG	V;NFIN;ACT
+fifteen	tizenöt	fifteen	tizenöt	NUM	
+fifteen	fifteen	fifteen	fifteen	NUM	
+palm	palm	palm	palm	PROPN;SG	
+princeton	princeton	princeton	princet	PROPN;SG	N;NOM;SG
+friedrich	friedrich	friedrich	friedrich	PROPN;SG	
+jet	jet	jet	jet	PROPN;SG	
+horn	kürt	horn	kür	N;SG	
+horn	horn	horn	hor	N;SG	
+burning	égető	burn	égető	N;SG	
+burning	égő	burn	égő	N;SG	
+worker	dolgozó	worker	dolgozó	N;SG	ADJ;NOM;SG
+syrian	szíria	syrian	szíria	ADJ	N;NOM;SG
+welfare	jóléti	welfare	jóléti	N;SG	ADJ;NOM;SG
+java	java	java	java	PROPN;SG	
+monitor	monitoron	monitor	monitor	V;IMP;FIN	N;ON+ESS;SG
+monitor	monitor	monitor	monitor	V;IMP;FIN	N;NOM;SG
+columns	oszlop	column	oszlop	N;PL	N;NOM;SG
+bin	bin	bin	bin	PROPN;SG	
+bin	kuka	bin	kuka	PROPN;SG	N;NOM;SG
+stick	bot	stick	bot	V;IMP;FIN	N;NOM;SG
+dollars	dollárban	dollar	dollár	N;PL	N;IN+ESS;SG
+dollars	dollár	dollar	dollár	N;PL	N;NOM;SG
+organised	szervezett	organised	szervezett	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+parameter	paraméterek	parameter	paraméter	N;SG	N;NOM;PL
+truly	valóban	truly	valóban	ADV	
+truly	igazán	truly	igazán	ADV	
+spencer	spencer	spencer	spencer	PROPN;SG	
+clarke	clarke	clarke	clarke	PROPN;SG	
+rough	durván	rough	durván	ADJ	
+rough	durva	rough	durva	ADJ	
+rough	kemény	rough	kemény	ADJ	
+pine	fenyő	pine	fenyő	PROPN;SG	
+pine	pine	pine	pine	PROPN;SG	
+democrat	demokraták	democrat	demokrata	PROPN;SG	N;NOM;PL
+democrat	demokrata	democrat	demokrata	PROPN;SG	N;NOM;SG
+cutting	vágó	cutting	vágó	N;SG	
+attending	szakorvos	attend	szakorvos	V;V.MSDR	N;NOM;SG
+queens	queens	queen	queens	N;PL	PROPN;NOM;SG
+abraham	ábrahám	abraham	ábrahám	PROPN;SG	N;NOM;SG
+abraham	abraham	abraham	abraha	PROPN;SG	
+forever	örökre	forever	örök	ADV	
+forever	forever	forever	forever	ADV	
+forever	mindörökké	forever	mindörökké	ADV	
+forever	örökké	forever	örökké	ADV	
+est	est	est	est	PROPN;SG	
+drink	igyál	drink	igyál	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+drink	igy	drink	igy	N;SG	
+miguel	miguel	miguel	miguel	PROPN;SG	
+aires	aires	aire	aires	PROPN;SG	
+irrelevant	lényegtelen	irrelevant	lényegtelen	ADJ	
+poorly	rosszul	poorly	rossz	ADV	
+montgomery	montgomery	montgomery	montgomery	PROPN;SG	
+functional	működőképes	functional	működőképes	ADJ	N;NOM;SG
+crossed	keresztbe	cross	keresztbe	V;PST;V.PTCP	
+diverse	sokszínű	diverse	sokszínű	ADJ	
+quotes	idéz	quote	idéz	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+slowly	lassan	slowly	lassú	ADV	ADJ;FRML;SG
+mouse	eger	mouse	eger	N;SG	PROPN;NOM;SG
+justin	justin	justin	justin	PROPN;SG	N;NOM;SG
+protests	tiltakozás	protest	tiltakozás	N;PL	N;NOM;SG
+smart	okos	smart	okos	ADJ	
+smart	intelligens	smart	intelligens	ADJ	
+smart	smart	smart	smart	ADJ	
+beta	béta	beta	béta	PROPN;SG	
+durham	durham	durham	durham	PROPN;SG	
+counts	számít	count	számít	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+iraqi	iraki	iraqi	iraki	ADJ	N;NOM;SG
+josh	josh	josh	josh	PROPN;SG	
+somebody	valaki	somebody	valaki	PRO;SG	
+oval	ovális	oval	ovális	N;SG	
+perfectly	tökéletesen	perfectly	tökéletes	ADV	ADJ;FRML;SG
+indianapolis	indianapolis	indianapolis	indianapolis	PROPN;SG	N;NOM;SG
+southeastern	délkelet	southeastern	délkelet	PROPN;SG	N;NOM;SG
+southeastern	délkeleti	southeastern	délkeleti	PROPN;SG	N;NOM;SG
+farmer	gazda	farmer	gazda	N;SG	
+farmer	farmer	farmer	farmer	N;SG	
+protestant	protestáns	protestant	protestáns	ADJ	
+cameron	cameron	cameron	camer	PROPN;SG	
+indonesian	indonéz	indonesian	indonéz	ADJ	
+indonesian	indonézia	indonesian	indonézia	ADJ	
+mumbai	mumbai	mumbai	mumbai	PROPN;SG	
+nashville	nashville	nashville	nashville	PROPN;SG	
+rally	rally	rally	rally	N;SG	
+surprise	meglepi	surprise	meglepi	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+kate	kate	kate	kate	PROPN;SG	PROPN;NOM;SG
+unnecessary	felesleges	unnecessary	felesleges	ADJ	
+unnecessary	szükségtelen	unnecessary	szükségtelen	ADJ	
+isle	sziget	isle	sziget	PROPN;SG	N;NOM;SG
+cyprus	ciprusi	cyprus	ciprusi	PROPN;SG	ADJ;NOM;SG
+cyprus	ciprus	cyprus	ciprus	PROPN;SG	N;NOM;SG
+cyprus	cipruson	cyprus	ciprus	PROPN;SG	N;ON+ESS;SG
+winds	szél	wind	szél	N;PL	N;NOM;SG
+magnetic	mágneses	magnetic	mágneses	ADJ	N;NOM;SG
+sussex	sussex	sussex	sussex	N;SG	
+gates	gates	gate	gates	N;PL	
+gates	kapu	gate	kapu	N;PL	N;NOM;SG
+plastic	műanyag	plastic	műanyag	ADJ	N;NOM;SG
+electronics	elektronika	electronics	elektronika	N;PL	N;NOM;SG
+electronics	elektronikai	electronics	elektronikai	N;PL	ADJ;NOM;SG
+restore	helyreállítása	restore	helyreállítás	V;IMP;FIN	N;NOM;SG
+restore	visszaállítása	restore	visszaállítás	V;IMP;FIN	N;NOM;SG
+stockholm	stockholm	stockholm	stockholm	PROPN;SG	N;NOM;SG
+stockholm	stockholmi	stockholm	stockholmi	PROPN;SG	
+inn	fogadó	inn	fogadó	PROPN;SG	
+inn	inn	inn	inn	PROPN;SG	
+inn	szálló	inn	szálló	PROPN;SG	N;NOM;SG
+buses	autóbusz	bus	autóbusz	N;PL	N;NOM;SG
+connect	kapcsolódás	connect	kapcsolódás	V;IMP;FIN	N;NOM;SG
+connect	kapcsolatot	connect	kapcsolat	V;IMP;FIN	N;ACC;SG
+guests	vendég	guest	vendég	N;PL	N;NOM;SG
+lancashire	lancashire	lancashire	lancashi	PROPN;SG	N;NOM;SG
+cork	dugó	cork	dugó	PROPN;SG	N;NOM;SG
+cork	parafa	cork	parafa	PROPN;SG	N;NOM;SG
+intermediate	közbenső	intermediate	közbenső	ADJ	N;NOM;SG
+intermediate	köztes	intermediate	köztes	ADJ	
+filipino	filippínó	filipino	filippínó	ADJ	
+oriented	orientált	oriented	orientált	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+hamburg	hamburg	hamburg	hamburg	PROPN;SG	N;NOM;SG
+creates	létrehoz	create	létre+hoz	V;IND;SG;3;PRS;FIN	V;INDF;POT;SG;3;PRS;FIN;ACT
+illness	betegségek	illness	betegség	N;SG	N;NOM;PL
+dawn	hajnal	dawn	hajnal	PROPN;SG	
+dawn	dawn	dawn	dawn	PROPN;SG	
+dawn	hajnalban	dawn	hajnal	PROPN;SG	N;IN+ESS;SG
+nancy	nancy	nancy	nancy	PROPN;SG	
+perth	perth	perth	perth	PROPN;SG	N;NOM;SG
+autumn	ősz	autumn	ősz	PROPN;SG	
+autumn	őszi	autumn	őszi	PROPN;SG	
+autumn	ősszel	autumn	ősszel	PROPN;SG	ADV
+ratings	nézettség	ratings	nézettség	N;PL	N;NOM;SG
+incorrect	helytelen	incorrect	helytelen	ADJ	
+scout	cserkész	scout	cserkész	N;SG	
+scout	felderítő	scout	felderítő	N;SG	ADJ;NOM;SG
+difficulty	nehézségek	difficulty	nehézség	N;SG	N;NOM;PL
+hart	hart	hart	hart	PROPN;SG	PROPN;NOM;SG
+regulation	előírás	regulation	előírás	N;SG	
+regulation	rendelet	regulation	rendelet	N;SG	
+lodge	lodge	lodge	lod	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+eggs	tojást	egg	tojás	N;PL	N;ACC;SG
+eggs	tojás	egg	tojás	N;PL	N;NOM;SG
+banner	banner	banner	banner	N;SG	PROPN;NOM;SG
+panama	panama	panama	panama	PROPN;SG	
+ernest	ernest	ernest	ernes	PROPN;SG	
+cancelled	törölve	cancel	törölve	V;PST;V.PTCP	N;NOM;SG
+cancelled	törölt	cancel	töröl	V;PST;V.PTCP	
+cancelled	lemondás	cancel	lemondás	V;PST;V.PTCP	
+dominant	domináns	dominant	domináns	ADJ	
+computing	számítástechnikai	compute	számítástechnikai	N;SG	ADJ;NOM;SG
+chen	chen	chen	chen	PROPN;SG	
+das	das	das	das	PROPN;SG	
+kiss	kiss	kiss	kiss	N;SG	
+luck	szerencse	luck	szerencse	N;SG	
+enemies	ellenség	enemy	ellenség	N;PL	N;NOM;SG
+mercury	mercury	mercury	mercury	N;SG	
+interactive	interaktív	interactive	interaktív	ADJ	N;NOM;SG
+preserve	megőrzése	preserve	megőrzés	V;IMP;FIN	N;NOM;SG
+nobel	nobel	nobel	nobel	N;SG	
+grande	grande	grande	grande	PROPN;SG	
+structural	szerkezeti	structural	szerkezeti	ADJ	N;NOM;SG
+structural	strukturális	structural	strukturális	ADJ	N;NOM;SG
+marry	feleségül	marry	feleségül	V;IMP;FIN	N;NOM;SG
+colin	colin	colin	colin	PROPN;SG	
+chester	chester	chester	chester	PROPN;SG	
+belonging	tartozó	belong	tartozó	V;V.MSDR	ADJ;NOM;SG
+recognised	felismert	recognise	felismert	V;PST;V.PTCP	
+recognised	elismert	recognise	elismer	V;PST;V.PTCP	
+wilhelm	wilhelm	wilhelm	wilhelm	PROPN;SG	
+suddenly	hirtelen	suddenly	hirtelen	ADV	
+absolute	abszolút	absolute	abszolú	ADJ	
+françois	francois	françois	francois	PROPN;SG	
+françois	françois	françois	françois	PROPN;SG	N;NOM;SG
+preparation	előkészületek	preparation	előkészület	N;SG	N;NOM;PL
+nintendo	nintendo	nintendo	nintendo	PROPN;SG	N;NOM;SG
+presumably	feltehetőleg	presumably	feltehetőleg	ADV	
+jamaica	jamaica	jamaica	jamaica	PROPN;SG	
+knowing	tudván	know	tudván	V;V.MSDR	
+knowing	ismerve	know	ismerve	V;V.MSDR	ADV;V.CVB
+knowing	tudva	know	tudva	V;V.MSDR	ADV;V.CVB
+vladimir	vlagyimir	vladimir	vlagyimir	PROPN;SG	
+vladimir	vladimir	vladimir	vladimir	PROPN;SG	
+beating	ver	beating	ver	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+methodist	metodista	methodist	metodista	PROPN;SG	N;NOM;SG
+utf	utf	utf	utf	PROPN;SG	
+challenges	kihívás	challenge	kihívás	N;PL	N;NOM;SG
+kenneth	kenneth	kenneth	kenneth	PROPN;SG	
+bearing	viselő	bear	viselő	N;SG	ADJ;NOM;SG
+chiefs	chiefs	chief	chiefs	N;PL	N;NOM;SG
+compound	összetett	compound	összetett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+tampa	tampa	tampa	tampa	PROPN;SG	N;NOM;SG
+arabia	arábia	arabia	arabia	PROPN;SG	N;NOM;SG
+equally	egyenlően	equally	egyenlően	ADV	ADJ;FRML;SG
+equally	egyformán	equally	egyforma	ADV	
+alien	idegen	alien	idegen	ADJ	
+alien	űrlény	alien	űrlény	ADJ	
+thirteen	tizenhárom	thirteen	tizenhárom	NUM	
+thirteen	thirteen	thirteen	thirteen	NUM	
+thick	sűrű	thick	sűrű	ADJ	
+thick	vastag	thick	vastag	ADJ	
+extend	kiterjesztése	extend	kiterjesztés	V;IMP;FIN	N;NOM;SG
+neo	neo	neo	neo	PROPN;SG	
+measured	mért	measure	mért	V;PST;V.PTCP	
+measured	mérték	measure	mér	V;PST;V.PTCP	
+fat	zsír	fat	zsír	ADJ	N;NOM;SG
+fat	zsírok	fat	zsír	ADJ	N;NOM;PL
+fat	fat	fat	fat	ADJ	
+fat	kövér	fat	kövér	ADJ	
+visits	látogatás	visit	látogatás	N;PL	N;NOM;SG
+linux	linux	linux	linux	PROPN;SG	N;NOM;SG
+bennett	bennett	bennett	bennett	PROPN;SG	
+warm	meleg	warm	meleg	ADJ	
+warm	melegen	warm	meleg	ADJ	
+shaw	shaw	shaw	shaw	PROPN;SG	
+breaks	eltörik	break	eltörik	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+breaks	megszakad	break	megszakad	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+lying	hazudik	lie	hazudik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+michel	michel	michel	michel	PROPN;SG	
+treat	kezeljük	treat	kezel	V;IMP;FIN	V;DEF;IND;PL;1;PRS;FIN;ACT
+temperatures	hőmérséklet	temperature	hőmérséklet	N;PL	N;NOM;SG
+drinking	iszik	drinking	iszik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+drinking	inni	drinking	isz	N;SG	V;NFIN;ACT
+drinking	iszom	drinking	iszom	N;SG	V;INDF;IND;SG;1;PRS;FIN;ACT
+manila	manila	manila	manila	PROPN;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+punjab	punjab	punjab	pun	PROPN;SG	
+consideration	figyelembe	consideration	figyel	N;SG	
+veteran	veterán	veteran	vetera	N;SG	
+wise	bölcsek	wise	bölcs	ADJ	N;NOM;PL
+wise	bölcs	wise	bölcs	ADJ	
+shipping	hajózási	shipping	hajózási	N;SG	ADJ;NOM;SG
+worthy	méltó	worthy	méltó	ADJ	
+registration	nyilvántartási	registration	nyilvántartási	N;SG	ADJ;NOM;SG
+manitoba	manitoba	manitoba	manit	PROPN;SG	
+vietnamese	vietnami	vietnamese	vietnami	ADJ	
+ronald	ronald	ronald	ronald	PROPN;SG	
+burns	égés	burn	égés	N;PL	N;NOM;SG
+burns	burns	burn	burns	N;PL	
+justify	igazolja	justify	igazol	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+justify	indokolja	justify	indokol	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+divine	isteni	divine	isteni	ADJ	
+cole	cole	cole	cole	PROPN;SG	
+trans	trans	tran	trans	PROPN;SG	PROPN;NOM;SG
+trans	transz	tran	transz	PROPN;SG	
+boards	deszka	board	deszka	N;PL	N;NOM;SG
+span	span	span	span	PROPN;SG	
+bryan	bryan	bryan	bryan	PROPN;SG	
+santiago	santiago	santiago	santiago	PROPN;SG	
+terrorist	terroristák	terrorist	terrorista	N;SG	N;NOM;PL
+waves	hullám	wave	hullám	N;PL	N;NOM;SG
+invented	fantázia	invent	fantázia	V;PST;V.PTCP	
+sandy	homokos	sandy	homokos	PROPN;SG	N;NOM;SG
+sandy	sandy	sandy	sandy	PROPN;SG	
+acres	hektár	acre	hektár	N;PL	N;NOM;SG
+actively	aktívan	actively	aktívan	ADV	
+stops	megáll	stop	megáll	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+redundant	felesleges	redundant	felesleges	ADJ	
+freestyle	freestyle	freestyle	freestyle	N;SG	
+aerial	légi	aerial	légi	N;SG	
+altitude	magasság	altitude	magasság	N;SG	
+freely	szabadon	freely	szabad	ADV	ADJ;FRML;SG
+simultaneously	egyszerre	simultaneously	egyszer	ADV	
+simultaneously	egyidejűleg	simultaneously	egyidejű	ADV	ADJ;FRML;SG
+psychological	pszichológiai	psychological	pszichológiai	ADJ	N;NOM;SG
+psychological	pszichés	psychological	pszichés	ADJ	N;NOM;SG
+fernando	fernando	fernando	fernando	PROPN;SG	
+taxes	adó	tax	adó	N;PL	
+marcus	marcus	marcus	marcus	PROPN;SG	
+dominican	dominikai	dominican	dominikai	ADJ	
+franz	franz	franz	franz	PROPN;SG	
+coins	érme	coin	érer	N;PL	N;NOM;SG
+civic	polgári	civic	polgári	PROPN;SG	ADJ;NOM;SG
+hardly	aligha	hardly	aligha	ADV	
+hardly	alig	hardly	alig	ADV	
+isaac	isaac	isaac	isaac	PROPN;SG	
+craft	kézműves	craft	kézműves	N;SG	ADJ;NOM;SG
+inspiration	ihlet	inspiration	ihlet	N;SG	
+pairs	párban	pair	pár	N;PL	N;IN+ESS;SG
+vii	vii	vii	vii	PROPN;SG	
+contrary	ellentétes	contrary	ellentétes	INTJ	
+mad	őrült	mad	őrült	ADJ	
+mad	mad	mad	mad	ADJ	
+client	ügyfél	client	ügyfél	N;SG	
+dozen	tucatnyi	dozen	tucatnyi	N;SG	
+dozen	tucat	dozen	tucat	N;SG	
+travels	utazik	travel	utazik	V;IMP;FIN	V;INDF;IND;SG;3;PRS;FIN;ACT
+symbols	szimbólum	symbol	szimbólum	N;PL	N;IN+ABL;SG
+inherited	örökölt	inherite	örököl	V;PST;V.PTCP	
+orientation	orientációs	orientation	orientációs	N;SG	ADJ;NOM;SG
+generic	általános	generic	általános	ADJ	
+generic	generikus	generic	generikus	ADJ	
+unions	szakszervezet	union	szakszervezet	N;PL	N;NOM;SG
+efficient	hatékony	efficient	hatékony	ADJ	
+opens	nyitható	open	nyitható	V;IND;SG;3;PRS;FIN	
+discover	felfedezés	discover	felfedezés	V;IMP;FIN	N;NOM;SG
+discover	felfedezése	discover	felfedezés	V;IMP;FIN	N;NOM;SG
+roosevelt	roosevelt	roosevelt	roosevelt	PROPN;SG	
+preliminary	előzetes	preliminary	előzetes	ADJ	
+recognize	felismeri	recognize	felismeri	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+arguing	vitatkozni	argue	vitatkozik	N;SG	V;NFIN;ACT
+procedures	eljárás	procedure	eljárás	N;PL	N;NOM;SG
+emotional	érzelmi	emotional	érzelmi	ADJ	N;NOM;SG
+emotional	érzelmes	emotional	érzelmes	ADJ	
+fisher	fisher	fisher	fisher	PROPN;SG	
+demands	követel	demand	követel	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+demands	követelés	demand	követelés	N;PL	N;NOM;SG
+lithuania	litvániában	lithuania	litvánia	PROPN;SG	N;IN+ESS;SG
+lithuania	litvánia	lithuania	litvánia	PROPN;SG	N;NOM;SG
+continent	kontinensen	continent	kontinens	N;SG	ADJ;FRML;SG
+lock	zár	lock	zár	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+warrant	végzés	warrant	végzés	N;SG	
+recurring	ismétlődő	recurre	ismétlődő	N;SG	ADJ;NOM;SG
+overview	áttekintés	overview	áttekintés	N;SG	N;NOM;PL
+wealthy	gazdagok	wealthy	gazdag	ADJ	N;NOM;PL
+eve	éva	eve	év	PROPN;SG	N;NOM;SG
+eve	eve	eve	eve	PROPN;SG	
+independently	önállóan	independently	önálló	ADV	ADJ;FRML;SG
+independently	függetlenül	independently	független	ADV	ADJ;FRML;SG
+slovenia	szlovénia	slovenia	szlovénia	PROPN;SG	
+threats	fenyegetés	threat	fenyegetés	N;PL	N;NOM;SG
+distinctive	megkülönböztető	distinctive	megkülönböztető	ADJ	
+distinctive	jellegzetes	distinctive	jellegzetes	ADJ	
+landmark	nevezetesség	landmark	nevezetesség	N;SG	ADJ;NOM;SG
+controls	ellenőrzések	controls	ellenőrzés	N;SG	N;NOM;PL
+prisoner	rab	prisoner	rab	N;SG	
+prisoner	elítélt	prisoner	elítélt	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+owen	owen	owen	owen	PROPN;SG	
+intervention	intervenciós	intervention	intervenciós	N;SG	ADJ;NOM;SG
+cylinder	hengeres	cylinder	hengeres	N;SG	
+liu	liu	liu	liu	PROPN;SG	
+tested	vizsgált	test	vizsgál	V;PST;V.PTCP	
+renowned	neves	renowned	neves	ADJ	
+shops	boltok	shop	bolt	N;PL	
+epic	epikus	epic	epikus	ADJ	
+specified	megadva	specify	megadva	V;PST;V.PTCP	ADV;V.CVB
+davies	davies	davy	davies	N;PL	
+allan	allan	allan	allan	PROPN;SG	PROPN;NOM;SG
+albanian	albán	albanian	albán	ADJ	
+canyon	kanyon	canyon	kanyon	PROPN;SG	
+canyon	canyon	canyon	canyon	PROPN;SG	
+celebrity	hírességek	celebrity	híresség	N;SG	N;NOM;PL
+louise	louise	louise	louis	PROPN;SG	
+herzegovina	hercegovina	herzegovina	hercegovina	PROPN;SG	
+claude	claude	claude	claud	PROPN;SG	
+fortune	szerencse	fortune	szerencse	N;SG	
+bars	rúd	bar	rúd	N;PL	N;NOM;SG
+bars	rács	bar	rács	N;PL	N;NOM;SG
+cornwall	cornwall	cornwall	cornwall	PROPN;SG	N;NOM;SG
+palmer	palmer	palmer	palmer	PROPN;SG	PROPN;NOM;SG
+tiny	kicsi	tiny	kicsi	ADJ	
+tiny	pici	tiny	pici	ADJ	
+tiny	apró	tiny	apró	ADJ	
+appeals	fellebbezés	appeal	fellebbezés	N;PL	N;NOM;SG
+istanbul	isztambul	istanbul	isztambul	PROPN;SG	N;NOM;SG
+rookie	újonc	rookie	újonc	N;SG	
+expanding	bővülő	expand	bővülő	V;V.MSDR	ADJ;NOM;SG
+calgary	calgary	calgary	calgary	PROPN;SG	N;NOM;SG
+stevens	stevens	steven	stevens	PROPN;SG	
+employee	alkalmazott	employee	alkalmazott	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+employee	alkalmazottak	employee	alkalmazott	N;SG	N;NOM;PL
+yang	yang	yang	yang	PROPN;SG	
+innovation	innovációs	innovation	innovációs	N;SG	ADJ;NOM;SG
+lucas	lucas	luca	lucas	PROPN;SG	
+armenia	örményország	armenia	örményország	PROPN;SG	N;NOM;SG
+proteins	fehérje	protein	fehér	N;PL	N;NOM;SG
+newport	newport	newport	newport	PROPN;SG	
+malta	máltai	malta	máltai	PROPN;SG	ADJ;NOM;SG
+malta	málta	malta	málta	PROPN;SG	PROPN;NOM;SG
+hate	gyűlölet	hate	gyűlölet	V;IND;FIN	N;NOM;SG
+westminster	westminster	westminster	westminster	PROPN;SG	
+julian	julian	julian	julian	PROPN;SG	
+morocco	marokkóban	morocco	marokkó	PROPN;SG	PROPN;IN+ESS;SG
+morocco	marokkó	morocco	marokkó	PROPN;SG	
+aboard	fedélzeten	aboard	fedélzet	ADV	N;ON+ESS;SG
+ani	ani	ani	ani	PROPN;SG	
+contributors	közreműködő	contributor	közreműködő	N;PL	ADJ;NOM;SG
+torpedo	torpedó	torpedo	torpedó	PROPN;SG	N;NOM;SG
+giovanni	giovanni	giovanni	giovan	PROPN;SG	
+chat	chat	chat	chat	N;SG	
+herald	herald	herald	herald	PROPN;SG	N;NOM;SG
+chuck	chuck	chuck	chuck	PROPN;SG	
+pit	verem	pit	verem	N;SG	
+optional	opcionális	optional	opcionális	ADJ	N;NOM;SG
+desk	íróasztal	desk	íróasz	N;SG	
+sprint	sprint	sprint	sprint	PROPN;SG	
+exile	száműzetés	exile	száműzetés	PROPN;SG	N;NOM;SG
+exile	száműzött	exile	száműzött	PROPN;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+surprised	meglepett	surprised	meglep	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+surprised	meglepő	surprised	meglepő	ADJ	
+surprised	meglepve	surprised	meglepve	ADJ	
+biblical	biblia	biblical	biblia	ADJ	N;NOM;SG
+biblical	bibliai	biblical	bibliai	ADJ	
+denis	denis	denis	denis	PROPN;SG	
+alpine	alpesi	alpine	alpesi	PROPN;SG	
+binding	kötelező	bind	kötelező	N;SG	
+indicating	jelezve	indicate	jelezve	V;V.MSDR	ADV;V.CVB
+estonia	észtország	estonia	észtország	PROPN;SG	N;NOM;SG
+estonia	észtországban	estonia	észtország	PROPN;SG	N;IN+ESS;SG
+eating	evés	eat	evés	V;V.MSDR	N;NOM;SG
+eating	enni	eat	ez	V;V.MSDR	
+saving	megtakarítás	save	megtakarítás	V;V.MSDR	N;NOM;SG
+saving	mentés	save	mentés	V;V.MSDR	N;NOM;SG
+chi	chi	chi	chi	PROPN;SG	
+developer	fejlesztő	developer	fejlesztő	N;SG	
+indie	indie	indie	indie	N;SG	
+difficulties	nehézség	difficulty	nehézség	N;PL	N;NOM;SG
+worn	kopott	wear	kop	V;PST;V.PTCP	
+fork	villa	fork	villa	N;SG	
+simpson	simpson	simpson	simpson	PROPN;SG	
+maintaining	fenntartása	maintain	fenntartás	V;V.MSDR	N;NOM;SG
+upcoming	közelgő	upcoming	közelgő	N;SG	ADJ;NOM;SG
+temporarily	ideiglenesen	temporarily	ideiglenes	ADV	ADJ;FRML;SG
+temporarily	átmenetileg	temporarily	átmeneti	ADV	ADJ;FRML;SG
+hotels	szállás	hotel	szállás	N;PL	N;NOM;SG
+edmonton	edmonton	edmonton	edmonton	PROPN;SG	N;NOM;SG
+missionary	misszionárius	missionary	misszionárius	ADJ	N;NOM;SG
+hammer	hammer	hammer	hammer	N;SG	
+solomon	salamon	solomon	salamon	PROPN;SG	
+solomon	solomon	solomon	solom	PROPN;SG	
+ruth	ruth	ruth	ruth	PROPN;SG	
+customs	vám	custom	vám	N;PL	N;NOM;SG
+collect	összegyűjti	collect	összegyűjti	V;IMP;FIN	V;DEF;IND;SG;3;PRS;FIN;ACT
+certificate	tanúsítványok	certificate	tanúsítvány	N;SG	N;NOM;PL
+destination	rendeltetési	destination	rendeltetési	N;SG	ADJ;NOM;SG
+albania	albánia	albania	albánia	PROPN;SG	V;SG;3;NFIN;ACT
+euro	euró	euro	euró	PROPN;SG	N;NOM;SG
+euro	euróban	euro	euró	PROPN;SG	N;IN+ESS;SG
+euro	euro	euro	euro	PROPN;SG	
+constantly	folyamatosan	constantly	folyamatos	ADV	ADJ;FRML;SG
+constantly	állandóan	constantly	állandó	ADV	ADJ;FRML;SG
+survivors	túlélő	survivor	túlélő	N;PL	ADJ;NOM;SG
+cardiff	cardiff	cardiff	cardiff	PROPN;SG	
+blake	blake	blake	blake	PROPN;SG	
+frankfurt	frankfurt	frankfurt	frankfurt	PROPN;SG	N;NOM;SG
+galaxy	galaxis	galaxy	galaxis	PROPN;SG	N;NOM;SG
+galaxy	galaxy	galaxy	galaxy	PROPN;SG	
+ecuador	ecuador	ecuador	ecuador	PROPN;SG	PROPN;NOM;SG
+breeding	tenyésztési	breeding	tenyésztési	N;SG	ADJ;NOM;SG
+legendary	legendás	legendary	legendás	ADJ	
+georgian	grúzia	georgian	grúzia	ADJ	
+georgian	grúz	georgian	grúz	ADJ	
+copenhagen	koppenhága	copenhagen	koppenhág	PROPN;SG	N;NOM;SG
+copenhagen	koppenhágai	copenhagen	koppenhág	PROPN;SG	N;NOM;SG
+trek	trek	trek	trek	PROPN;SG	N;NOM;SG
+arch	ív	arch	ív	PROPN;SG	N;NOM;SG
+arch	arch	arch	arch	PROPN;SG	
+keys	kulcs	key	kulcs	N;PL	N;NOM;SG
+quartet	kvartett	quartet	kvartett	N;SG	V;INDF;IND;SG;3;PST;FIN;ACT
+propaganda	propaganda	propaganda	propaganda	N;SG	
+disk	korong	disk	korong	N;SG	
+funny	vicces	funny	vicces	ADJ	
+meter	mérő	meter	mérő	N;SG	
+graduation	érettségi	graduation	érettségi	N;SG	ADJ;NOM;SG
+seeds	vetőmag	seed	vetőmag	N;PL	N;NOM;SG
+seeds	mag	seed	mag	N;PL	
+lighting	világító	lighting	világító	N;SG	ADJ;NOM;SG
+jennifer	jennifer	jennifer	jennifer	PROPN;SG	N;NOM;SG
+smooth	sima	smooth	sima	ADJ	
+customer	ügyfél	customer	ügyfél	N;SG	
+customer	vevő	customer	vevő	N;SG	ADJ;NOM;SG
+customer	vásárlói	customer	vásárlói	N;SG	N;NOM;PL
+customer	vásárló	customer	vásárló	N;SG	ADJ;NOM;SG
+armstrong	armstrong	armstrong	armstrong	PROPN;SG	
+southwestern	délnyugat	southwestern	délnyug	PROPN;SG	
+philosophical	filozófiai	philosophical	filozófiai	ADJ	N;NOM;SG
+powell	powell	powell	powell	PROPN;SG	
+kills	öl	kill	öl	V;IND;SG;3;PRS;FIN	
+requiring	igénylő	require	igénylő	V;V.MSDR	
+boulevard	boulevard	boulevard	boulevard	PROPN;SG	
+boulevard	körúton	boulevard	körút	PROPN;SG	N;ON+ESS;SG
+boulevard	sugárút	boulevard	sugárú	PROPN;SG	N;NOM;SG
+northeastern	északkelet	northeastern	északkelet	ADJ	N;ON+ESS;SG
+brooks	brooks	brook	brooks	N;PL	
+sending	küldő	send	küldő	V;V.MSDR	
+sending	elküldése	send	elküldés	V;V.MSDR	N;NOM;SG
+sending	küldése	send	küldés	V;V.MSDR	N;NOM;SG
+atomic	atom	atomic	atom	ADJ	N;NOM;SG
+antarctica	antarktisz	antarctica	antarktisz	PROPN;SG	N;NOM;SG
+strikes	lecsap	strike	lecsap	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+reconstruction	újjáépítési	reconstruction	újjáépítési	N;SG	ADJ;NOM;SG
+chronicle	chronicle	chronicle	chronicle	PROPN;SG	
+traveling	utazik	traveling	utazik	N;SG	V;INDF;IND;SG;3;PRS;FIN;ACT
+traveling	utazó	traveling	utazó	N;SG	
+leslie	leslie	leslie	lesl	PROPN;SG	
+ellis	ellis	ellis	ellis	PROPN;SG	
+devon	devon	devon	devon	PROPN;SG	N;NOM;SG
+ghana	ghána	ghana	ghána	PROPN;SG	
+gen	gen	gen	gen	PROPN;SG	
+rebel	felkelő	rebel	felkelő	PROPN;SG	
+rebel	lázadók	rebel	lázadó	PROPN;SG	N;NOM;PL
+rebel	lázadó	rebel	lázadó	PROPN;SG	ADJ;NOM;SG
+duncan	duncan	duncan	duncan	PROPN;SG	
+canon	canon	canon	canon	PROPN;SG	N;NOM;SG
+reformed	református	reform	református	ADJ	N;NOM;SG
+pack	pack	pack	pack	N;SG	
+iceland	izlandi	iceland	izlandi	PROPN;SG	
+iceland	izland	iceland	izland	PROPN;SG	PROPN;NOM;SG
+payment	fizetési	payment	fizetési	N;SG	ADJ;NOM;SG
+payment	fizetség	payment	fizetség	N;SG	
+suburbs	külvárosban	suburb	külváros	N;PL	N;IN+ESS;SG
+mph	mph	mph	mph	N;SG	
+glen	glen	glen	glen	PROPN;SG	
+eugene	eugene	eugene	eug	PROPN;SG	PROPN;NOM;SG
+compromise	kompromisszumos	compromise	kompromisszumos	N;SG	
+uganda	uganda	uganda	uganda	PROPN;SG	PROPN;NOM;SG
+yeah	igen	yeah	igen	INTJ	
+withdraw	visszavonják	withdraw	visszavon	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+holmes	holmes	holm	holmes	PROPN;SG	
+deals	foglalkozik	deal	foglalkozik	N;PL	V;INDF;IND;SG;3;PRS;FIN;ACT
+convert	átalakítás	convert	átalakítás	V;IMP;FIN	N;NOM;SG
+dos	dos	dos	dos	PROPN;SG	
+afternoon	délután	afternoon	délután	N;SG	
+afternoon	délutáni	afternoon	délutáni	N;SG	
+surrey	surrey	surrey	surrey	PROPN;SG	
+lutheran	evangélikus	lutheran	evangélikus	PROPN;SG	N;NOM;SG
+amy	amy	amy	amy	PROPN;SG	N;NOM;SG
+collegiate	collegiate	collegiate	collegiate	N;SG	
+scandal	botrányos	scandal	botrányos	N;SG	ADJ;NOM;SG
+widow	özvegy	widow	özvegy	N;SG	
+swing	swing	swing	swing	N;SG	
+nights	éjszakánként	night	éjszaka	N;PL	N;ABS;SG
+polo	póló	polo	póló	PROPN;SG	N;NOM;SG
+polo	polo	polo	polo	PROPN;SG	
+polo	vízilabda	polo	vízilabda	PROPN;SG	N;NOM;SG
+linda	linda	linda	linda	PROPN;SG	
+adr	adr	adr	adr	PROPN;SG	
+probability	valószínűség	probability	valószínűség	N;SG	
+zhang	zhang	zhang	zhang	PROPN;SG	
+crazy	őrült	crazy	őrült	ADJ	
+sensitive	érzékeny	sensitive	érzékeny	ADJ	
+sensitive	érzékenyek	sensitive	érzékeny	ADJ	N;NOM;PL
+mutual	kölcsönös	mutual	kölcsönös	ADJ	
+rings	gyűrű	ring	gyűrű	N;PL	N;NOM;SG
+millions	milliók	million	millió	N;PL	
+millions	millió	million	millió	N;PL	NUM;NOM;SG
+orlando	orlando	orlando	orlando	PROPN;SG	
+wet	vizes	wet	vizes	ADJ	
+wet	nedves	wet	nedves	ADJ	
+cruise	cruise	cruise	cruise	N;SG	
+henri	henri	henri	henri	PROPN;SG	PROPN;NOM;SG
+publish	kihirdetik	publish	ki+hirdet	V;IMP;FIN	V;DEF;IND;PL;3;PRS;FIN;ACT
+publish	közzététel	publish	közzététel	V;IMP;FIN	N;NOM;SG
+joy	joy	joy	joy	N;SG	
+joy	öröm	joy	öröm	N;SG	
+julia	julia	julia	julia	PROPN;SG	
+julia	júlia	julia	júlia	PROPN;SG	N;NOM;SG
+abstract	elvont	abstract	elvont	N;SG	
+snake	snake	snake	snake	N;SG	
+arsenal	arsenal	arsenal	arsenal	PROPN;SG	N;NOM;SG
+millennium	millennium	millennium	millennium	PROPN;SG	
+assists	segíti	assist	segíti	N;PL	V;DEF;IND;SG;3;PRS;FIN;ACT
+andré	andre	andré	andre	PROPN;SG	PROPN;NOM;SG
+andré	andré	andré	andré	PROPN;SG	
+eurovision	eurovíziós	eurovision	eurovíziós	PROPN;SG	N;NOM;SG
+eurovision	eurovision	eurovision	eurovision	PROPN;SG	N;NOM;SG
+doug	doug	doug	doug	PROPN;SG	
+optical	optikai	optical	optikai	ADJ	N;NOM;SG
+hybrid	hibrid	hybrid	hibrid	PROPN;SG	
+oslo	oslo	oslo	oslo	PROPN;SG	PROPN;NOM;SG
+jamie	jamie	jamie	jamie	PROPN;SG	
+complicated	komplikált	complicated	komplikált	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+complicated	bonyolult	complicated	bonyolult	ADJ	
+nathan	nathan	nathan	nat	PROPN;SG	
+mechanics	mechanika	mechanic	mechanika	N;PL	N;NOM;SG
+bradford	bradford	bradford	bradford	PROPN;SG	
+leon	leon	leon	lesz	PROPN;SG	
+rachel	rachel	rachel	rachel	PROPN;SG	N;NOM;SG
+footage	felvételek	footage	felvétel	N;SG	N;NOM;PL
+strings	szálat	string	szálat	N;PL	N;ACC;SG
+header	fejes	header	fejes	N;SG	
+hood	hood	hood	hood	PROPN;SG	
+hood	csuklyás	hood	csuklyás	PROPN;SG	
+warnings	figyelmeztetés	warning	figyelmeztetés	N;PL	N;NOM;SG
+plains	síkság	plain	síkság	N;PL	N;NOM;SG
+wheels	kerekes	wheel	kerekes	N;PL	
+wheels	kerék	wheel	kerék	N;PL	N;NOM;SG
+ace	ász	ace	ász	N;SG	
+ace	ace	ace	ace	N;SG	
+penn	penn	penn	penn	PROPN;SG	
+andrews	andrews	andrew	andrews	PROPN;SG	
+moderate	mérsékelt	moderate	mérsékel	ADJ	V;INDF;IND;SG;3;PST;FIN;ACT
+stolen	lopott	steal	lopott	V;PST;V.PTCP	
+carol	carol	carol	carol	PROPN;SG	
+canterbury	canterbury	canterbury	canterbury	PROPN;SG	
+midnight	éjfél	midnight	éjfél	PROPN;SG	N;NOM;SG
+midnight	éjfélkor	midnight	éjfélkor	PROPN;SG	
+quarterback	irányító	quarterback	irányító	N;SG	ADJ;NOM;SG
+duchy	hercegség	duchy	hercegség	PROPN;SG	N;NOM;SG
+bailey	bailey	bailey	bailey	PROPN;SG	
+diversity	sokszínű	diversity	sokszínű	N;SG	
+sixteen	tizenhat	sixteen	tizenik		
+repeat	ismétlés	repeat	ismétlés	V;IMP;FIN	N;NOM;SG
+brussels	brüsszelben	brussel	brüsszel	N;PL	N;IN+ESS;SG
+brussels	brüsszeli	brussel	brüsszeli	N;PL	ADJ;NOM;SG
+brussels	brüsszel	brussel	brüsszel	N;PL	N;NOM;SG
+reconnaissance	felderítő	reconnaissance	felderítő	N;SG	ADJ;NOM;SG
+shots	feles	shot	feles	N;PL	
+shots	lövés	shot	lövés	N;PL	N;NOM;SG
+batman	batman	batman	batman	PROPN;SG	N;NOM;SG
+espn	espn	espn	espn	PROPN;SG	PROPN;NOM;SG
+resignation	lemondás	resignation	lemondás	N;SG	
+explaining	elmagyarázni	explain	elmagyaráz	N;SG	V;NFIN;ACT
+tang	tang	tang	tang	PROPN;SG	
+inches	centi	inch	cent	N;PL	N;NOM;SG
+inches	hüvelyk	inch	hüvely	N;PL	N;NOM;SG
+proven	bizonyítottan	prove	bizonyított	V;PST;V.PTCP	ADJ;FRML;SG
+franco	franco	franco	franco	PROPN;SG	
+dying	haldokló	die	haldokló	N;SG	
+dying	haldoklik	die	haldoklik	N;SG	V;DEF;IND;SG;3;PRS;FIN;ACT
+tyler	tyler	tyler	tyler	PROPN;SG	PROPN;NOM;SG
+glenn	glenn	glenn	glenn	PROPN;SG	
+luxembourg	luxemburgi	luxembourg	luxemburgi	PROPN;SG	ADJ;NOM;SG
+luxembourg	luxemburgban	luxembourg	luxemburg	PROPN;SG	N;IN+ESS;SG
+luxembourg	luxemburg	luxembourg	luxemburg	PROPN;SG	
+luxembourg	luxembourg	luxembourg	luxembourg	PROPN;SG	
+colored	színes	color	színes	V;PST;V.PTCP	N;NOM;SG
+duck	kacsa	duck	kacsa	N;SG	
+duck	duck	duck	duck	N;SG	
+porter	porter	porter	porter	PROPN;SG	
+permanently	tartósan	permanently	tartós	ADV	ADJ;FRML;SG
+permanently	véglegesen	permanently	végleges	ADV	ADJ;FRML;SG
+memphis	memphis	memphis	memphis	PROPN;SG	
+salvador	salvador	salvador	salvador	PROPN;SG	
+emma	emmával	emma	emma	PROPN;SG	N;INS;SG
+emma	emma	emma	emma	PROPN;SG	
+gibson	gibson	gibson	gibson	PROPN;SG	
+emerging	feltörekvő	emerge	feltörekvő	N;SG	ADJ;NOM;SG
+mere	puszta	mere	puszta	ADJ	
+macedonia	macedónia	macedonia	macedónia	PROPN;SG	

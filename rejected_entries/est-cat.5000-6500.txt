@@ -1,0 +1,1159 @@
+muusikal	musical	muusika	musical	N;AT+ESS
+;SG	ADJ;SG
+nigeri	niger	niger	niger	N;NOM;SG	ADJ;SG
+rick	rick	rick	rick	N;NOM;SG	
+unenägu	somia	une_nägu	somia	N;NOM;SG	V;IND;SG;3;PRS;FIN
+unenägu	somiar	une_nägu	somiar	N;NOM;SG	V;NFIN
+herakles	hèrcules	heraklema	hèrcula	N;NOM;SG	
+herakles	hercule	heraklema	hercule	N;NOM;SG	PROPN
+vastastikku	mútuament	vastastikku	mútuament	N;PRT;SG	ADV
+andersen	andersen	andersen	andersar	N;NOM;SG	
+michelangelo	michelangelo	michelangelo	michelangelo	N;NOM;SG	ADJ;SG
+võti	tecla	võti	tecla	N;NOM;SG	
+võti	clau	võti	clau	N;NOM;SG	
+väljatöötamine	desenvolupant	välja_töötamine	desenvolupar	N;NOM;SG	V;V.MSDR
+välised	extern	väline	extern	ADJ;NOM;PL	ADJ;MASC;SG
+välised	externa	väline	extern	ADJ;NOM;PL	ADJ;FEM;SG
+baltimore	baltimore	balti_more	baltimore	N;NOM;SG	PROPN
+päevik	journal	päevik	journal	N;NOM;PL	ADJ;SG
+päevik	diari	päevik	diari	N;NOM;PL	N;MASC;SG
+päevik	diari	päevik	diari	N;NOM;PL	N;MASC;SG
+nähtavad	visible	nähtav	visible	ADJ;NOM;PL;PRS;V.PTCP;ACT	ADJ;SG
+emilia	emilia	emilia	emil	N;NOM;SG	
+emilia	emília	emilia	emília	N;NOM;SG	ADJ;FEM;SG
+metallica	metallica	metallica	metallica	N;NOM;SG	
+pidu	party	pidu	party	N;NOM;SG	
+sata	sata	satma	sata	N;NOM;SG	
+sidus	coherent	siduma	coherent	V;IND;SG;3;PST;FIN;ACT	ADJ;SG
+alternatiiv	alternatiu	alternatiiv	alternatiu	N;NOM;SG	ADJ;MASC;SG
+alternatiiv	suplent	alternatiiv	suplent	N;NOM;SG	
+alternatiiv	alternatiu	alternatiiv	alternatiu	N;NOM;SG	ADJ;MASC;SG
+tarn	tarn	tarn	tarn	N;NOM;SG	ADJ;MASC;SG
+geneetika	genètica	geneetika	genètic	N;NOM;SG	ADJ;FEM;SG
+gov	gov	gov	gov	N;NOM;SG	
+adolph	adolph	adolph	adolph	N;NOM;SG	PROPN
+ingel	angel	ingel	angel	N;NOM;SG	
+ingel	àngel	ingel	àngel	N;NOM;SG	
+kohane	correspongui	kohane	correspondre	ADJ;NOM;SG	V;SBJV;SG;3;PRS;FIN
+enrico	enrico	enrico	enrico	N;NOM;SG	PROPN
+cfg	cfg	cfg	cfg	N;NOM;SG	
+vaatas	mirava	vaatama	mirar	V;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+vaatas	vigilat	vaatama	vigilat	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+akna	finestra	aken	finestra	N;GEN;SG	V;IND;SG;3;PRS;FIN
+meelega	deliberadament	meel	deliberadament	N;COM;SG	ADV
+samsung	samsung	samsung	samsung	N;NOM;SG	PROPN
+clemente	clemente	clemente	clemente	N;NOM;SG	PROPN
+pühak	saint	pühak	saint	N;NOM;SG	
+craig	craig	craig	craig	N;NOM;SG	PROPN
+florence	florence	florence	florence	N;NOM;SG	ADJ;FEM;SG
+florence	florència	florence	florència	N;NOM;SG	
+geoloogiline	geològiques	geoloogiline	geològic	ADJ;NOM;SG	ADJ;FEM;PL
+geoloogiline	geològics	geoloogiline	geològic	ADJ;NOM;SG	ADJ;MASC;PL
+sissetulek	ingressos	sisse_tulek	ingrés	N;NOM;SG	N;MASC;PL
+ületanud	excedit	ületama	excedir	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP
+lame	plànols	lame	plànol	N;NOM;SG	N;MASC;PL
+lame	bemoll	lame	bemoll	N;NOM;SG	
+lame	plana	lame	plana	N;NOM;SG	V;IND;SG;3;PRS;FIN
+elena	elena	elena	elè	N;NOM;SG	
+augustin	augustin	augustima	augustar	N;NOM;SG	ADJ;MASC;SG
+võrgus	online	võrk	online	N;IN+ESS;SG	
+hunter	caçador	hunter	caçador	N;NOM;SG	ADJ;MASC;SG
+hunter	hunter	hunter	hunter	N;NOM;SG	
+nõutud	requerit	nõu=tud	requerir	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+nõutud	requerida	nõu=tud	requerit	V;PST;V.PTCP;PASS	ADJ;FEM;SG;V.PTCP
+nõutud	requerits	nõu=tud	requerit	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+han	han	han	haver	N;NOM;SG	V;IND;PL;3;PRS;FIN
+chapelle	chapelle	chapelle	chapelle	N;NOM;PL	
+täide	polls	täis	poll	N;IN+ALL;LGSPEC1;SG	N;MASC;PL
+sauna	sauna	saun	sauna	N;PRT;SG	
+ameeriklane	american	ameeriklane	american	N;NOM;SG	
+ameeriklane	americà	ameeriklane	americà	N;NOM;SG	ADJ;MASC;SG
+meta	meta	meta	meta	N;NOM;SG	
+ragnar	ragnar	ragnar	ragnar	N;NOM;SG	
+julge	negreta	julge	negreta	ADJ;NOM;SG	
+tasane	plànols	tasane	plànol	ADJ;NOM;SG	N;MASC;PL
+tasane	bemoll	tasane	bemoll	ADJ;NOM;SG	
+tasane	plana	tasane	plana	ADJ;NOM;SG	V;IND;SG;3;PRS;FIN
+konkreetsete	específic	konkreetne	específic	ADJ;GEN;PL	ADJ;MASC;SG
+olli	olli	olema	olli	N;NOM;SG	PROPN
+voyager	voyager	voyager	voyager	N;NOM;SG	
+jõulud	nadal	jõulud	Nadal	N;NOM;PL	
+plus	plus	plus	plus	N;NOM;SG	
+baltica	baltica	baltica	baltic	N;NOM;SG	
+nõbu	prima	nõbu	prim	N;NOM;SG	ADJ;FEM;SG
+nõbu	cuz	nõbu	cuz	N;NOM;SG	
+aurora	aurora	aurora	aurora	N;NOM;SG	
+spencer	spencer	spencer	spencer	N;NOM;SG	PROPN
+kõneleja	altaveu	kõneleja	altaveu	N;NOM;SG	
+kõneleja	parlador	kõneleja	parlador	N;NOM;SG	ADJ;MASC;SG
+nokk	bec	nokk	bec	N;NOM;SG	
+jefferson	jefferson	jefferson	jefferson	N;NOM;SG	ADJ;MASC;SG
+kiired	raigs	kiire	raig	ADJ;NOM;PL	N;MASC;PL
+bagdadi	bagdad	bagdadi	bagdad	N;PRT;SG	
+lendavad	volant	lendama	volant	V;IND;PL;3;PRS;FIN;ACT	
+isabel	isabel	isabel	isabel	N;NOM;SG	
+edvard	edvard	edvard	edvard	N;NOM;SG	
+secret	secret	secret	secret	N;NOM;SG	
+kontor	office	kontor	office	N;NOM;SG	
+oskus	habilitat	oskus	habilitat	N;NOM;SG	ADJ;FEM;SG;V.PTCP
+aldo	aldo	aldo	aldo	N;NOM;SG	PROPN
+kattis	cobert	katma	cobert	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+kattis	cobertes	katma	cobert	V;IND;SG;3;PST;FIN;ACT	ADJ;FEM;PL;V.PTCP
+kahur	canó	kahur	canó	N;NOM;SG	
+esitus	actuacions	esitus	actuació	N;NOM;SG	N;FEM;PL
+dante	dante	dante	dante	N;NOM;SG	
+bordeaux	bordeus	bordeaux	bordeu	N;NOM;SG	
+nuku	doll	nukk	doll	N;NOM;SG	
+kaar	arc	kaar	arc	N;NOM;SG	
+kaar	arch	kaar	arch	N;NOM;SG	
+autod	cars	auto	car	N;NOM;PL	ADJ;MASC;PL
+oranž	orange	oranž	orange	N;NOM;SG	
+oranž	taronja	oranž	taronja	N;NOM;SG	
+ideaalne	ideals	ideaalne	ideal	ADJ;NOM;SG	ADJ;PL
+leedulased	lituans	leedulane	lituans	N;NOM;PL	ADJ;MASC;PL
+ani	ani	ani	ani	N;NOM;SG	
+serv	vora	serv	vora	N;NOM;SG	
+serv	edge	serv	edge	N;NOM;SG	
+muster	patró	muster	patró	N;NOM;SG	
+zhang	zhang	zhang	zhang	N;NOM;SG	PROPN
+geoffrey	geoffrey	geoffrey	geoffrey	N;NOM;SG	
+zhou	zhou	zhou	zhou	N;NOM;SG	PROPN
+ainulaadne	úniques	ainu_laadne	únic	ADJ;NOM;SG	ADJ;FEM;PL
+algataja	iniciador	algataja	iniciador	N;NOM;SG	ADJ;MASC;SG
+altari	altar	altar	altar	N;GEN;SG	
+mona	mona	mona	mona	N;NOM;SG	V;IND;SG;3;PRS;FIN
+grey	gris	grey	gris	N;NOM;SG	ADJ;MASC;SG
+grey	grey	grey	grey	N;NOM;SG	
+luca	luca	luca	luca	N;NOM;SG	
+oskused	habilitats	oskus	habilitat	N;NOM;PL	ADJ;FEM;PL;V.PTCP
+oskused	destresa	oskus	destresa	N;NOM;PL	N;FEM;SG
+oskused	habilitat	oskus	habilitat	N;NOM;PL	ADJ;FEM;SG;V.PTCP
+solomon	salomó	solomon	salomó	N;NOM;SG	
+solomon	solomon	solomon	solomon	N;NOM;SG	PROPN
+intervall	interval	intervall	interval	N;NOM;SG	
+osaka	osaka	osakas	osakar	N;NOM;SG	
+hannah	hannah	hannah	hannah	N;NOM;SG	
+trotski	trotski	trotski	trotski	N;NOM;SG	PROPN
+põhjavee	subterrànies	põhja_vee	subterrani	N;NOM;SG	ADJ;FEM;PL
+järjekord	orde	järje_kord	orde	N;NOM;SG	
+järjekord	ordre	järje_kord	ordre	N;NOM;SG	
+franklini	franklin	frankel	franklar	N;SG	
+karistus	càstig	karistus	càstig	N;NOM;SG	
+montgomery	montbui	montgomery	montbui	N;NOM;SG	
+montgomery	montgomery	montgomery	montgomery	N;NOM;SG	
+eripära	especificitats	eri_pära	especificitat	N;NOM;SG	N;FEM;PL
+ilmnes	manifestada	ilmnema	manifestat	V;IND;SG;3;PST;FIN;ACT	ADJ;FEM;SG;V.PTCP
+kuulnud	escoltat	kuulma	escoltar	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP
+benedict	benedict	benedict	benedict	N;NOM;SG	
+terje	terje	terje	terje	N;NOM;SG	
+milton	milton	milton	milton	N;NOM;SG	PROPN
+vinci	vinci	vinci	vinci	N;NOM;SG	
+pol	pol	olema	pol	N;NOM;SG	
+pan	pan	pan	pan	N;NOM;SG	
+reguleeritud	regulat	reguleeri=tud	regulat	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+lendu	vol	lend	voler	N;IN+ALL;LGSPEC1;SG	V;IND;SG;3;PRS;FIN
+augsburgi	augsburg	augsburg	augsburg	N;PRT;SG	PROPN
+stephan	stephan	stephan	stephar	N;NOM;SG	PROPN
+plaanitud	planificat	plaanitud	planificar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+plaanitud	planejat	plaanitud	planejat	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+valle	valle	valle	valle	N;NOM;SG	
+todd	todd	todd	todd	N;NOM;SG	PROPN
+olympic	olympic	olympic	olympic	N;NOM;SG	ADJ;MASC;SG
+olympic	olímpic	olympic	olímpic	N;NOM;SG	ADJ;MASC;SG
+wilde	wilde	wilde	wilde	N;NOM;SG	
+newcastle	newcastle	newcastle	newcastle	N;NOM;SG	
+volinik	comissionat	volinik	comissionat	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+pioneer	pioneer	pioneer	pioneer	N;NOM;SG	PROPN
+ravenna	ravenna	ravendama	ravenna	N;NOM;SG	
+raskused	dificultat	raskus	dificultat	N;NOM;PL	N;FEM;SG
+nael	deté	nael	detenir	N;NOM;SG	V;IND;SG;3;PRS;FIN
+nürnbergi	nuremberg	nürnberg	nuremberg	N;NOM;SG	V;IND;PL;1;PRS;FIN
+eraldunud	unifamiliar	eralduma	unifamiliar	V;PST;V.PTCP;ACT	ADJ;SG
+veerand	trimestre	veerand	trimestre	NUM;NOM;SG	N;MASC;SG
+konstrueeritud	construïts	konstrueeri=tud	construït	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+anglikaani	anglicà	anglikaan	anglicà	N;NOM;SG	ADJ;MASC;SG
+mix	barreja	mix	barrejar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+vari	ombra	vari	ombra	N;NOM;SG	
+vari	shadow	vari	shadow	N;NOM;SG	
+grete	grete	gere	grete	N;NOM;SG	PROPN
+derek	derek	derek	derek	N;NOM;SG	PROPN
+reed	reed	reed	reed	N;NOM;SG	PROPN
+motiiv	característica	motiiv	característic	N;NOM;SG	ADJ;FEM;SG
+björn	bjorn	björn	bjorn	N;NOM;SG	
+björn	björn	björn	björn	N;NOM;SG	PROPN
+adobe	adobe	adobe	adobe	N;NOM;SG	
+oswald	oswald	oswald	oswald	N;NOM;SG	
+galileo	galileu	galileo	galileu	N;NOM;SG	
+kuuli	bala	kuul	bala	N;PRT;SG	
+evelyn	evelyn	evelyn	evelyn	N;NOM;SG	
+serblased	serbis	serblane	serbi	N;NOM;PL	ADJ;MASC;PL
+nahka	pell	nahk	pell	N;PRT;SG	
+hõim	tribu	hõim	tribu	N;NOM;SG	
+haydn	haydn	haydn	haver	N;NOM;SG	
+tiiger	tiger	tiiger	tiger	N;NOM;SG	PROPN
+tiiger	tigre	tiiger	tigre	N;NOM;SG	
+rostovi	rostov	rostov	rostov	ADJ	PROPN
+bahreini	bahrain	bahrein	bahrain	N;PRT;SG	PROPN
+vega	vega	vega	vega	N;NOM;SG	
+küljed	costats	külg	costat	N;NOM;PL	ADJ;MASC;PL;V.PTCP
+winkler	winkler	winkler	winkler	N;NOM;SG	PROPN
+võimed	habilitats	võime	habilitat	N;NOM;PL	ADJ;FEM;PL;V.PTCP
+mägismaa	highlands	mägi_smaa	highlands	N;NOM;SG	ADJ;MASC;PL
+cohen	cohen	cohen	cohen	N;NOM;SG	PROPN
+kartis	temia	kartma	temir	V;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+marilyn	marilyn	marilyn	marilyn	N;NOM;SG	
+osake	partícula	osake	partícula	N;NOM;SG	V;IND;SG;3;PRS;FIN
+sara	sara	sara	sara	N;NOM;SG	
+zeus	zeus	zeus	zeus	N;NOM;SG	
+act	act	act	act	N;NOM;SG	PROPN
+chang	chang	chang	chang	N;NOM;SG	PROPN
+horst	horst	horst	horst	N;NOM;SG	PROPN
+walt	walt	walt	walt	N;NOM;SG	
+harmoonia	harmony	harmoonia	harmony	N;NOM;SG	
+harmoonia	harmonia	harmoonia	harmonia	N;NOM;SG	V;IND;SG;3;PRS;FIN
+harmoonia	harmònics	harmoonia	harmònic	N;NOM;SG	ADJ;MASC;PL
+suhtumist	actituds	suhtumine	actitud	N;PRT;SG	N;FEM;PL
+mahler	mahler	mahler	mahler	N;NOM;SG	PROPN
+muld	sòls	muld	sòls	N;NOM;SG	N;MASC;PL
+pinged	tensió	pinge	tensió	N;NOM;PL	N;FEM;SG
+bock	bock	bock	bock	N;NOM;SG	PROPN
+arve	bill	arve	bill	N;NOM;SG	PROPN
+arve	factura	arve	facturar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+tõstetud	plantejat	tõstma	plantejar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+austin	austin	austin	austar	N;NOM;SG	PROPN
+laser	laser	laser	laser	N;NOM;SG	
+varese	varese	vares	varese	N;NOM;SG	PROPN
+jessica	jessica	jessica	jessicar	N;NOM;SG	
+hardcore	hardcore	hardcore	hardcore	N;NOM;SG	
+marguerite	marguerite	marguer	marguerite	N;NOM;PL	N;FEM;SG
+col	col	col	col	N;NOM;SG	
+molotovi	molotov	molotov	molotov	N;NOM;SG	ADJ;MASC;SG
+õiglus	justicia	õiglus	justicia	N;NOM;SG	
+deutschland	deutschland	deutschland	deutschland	N;NOM;SG	PROPN
+ülalt	top	ülalt	top	ADV	
+formaat	format	formaat	format	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+iru	iru	iru	iru	N;NOM;SG	
+pühitsetud	consagrar	pühitsema	consagrar	ADJ;PST;V.PTCP;PASS	V;NFIN
+carol	carol	carol	carol	N;NOM;SG	
+arktika	àrtic	arktika	àrtic	N;NOM;SG	ADJ;MASC;SG
+locke	locke	locke	locke	N;NOM;SG	
+soomlased	finlandesos	soomlane	finlandès	N;NOM;PL	ADJ;MASC;PL
+minevik	passat	minevik	passat	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+luksemburg	luxemburg	luksemburg	luxemburg	N;NOM;SG	
+gerard	gerard	gerard	gerard	N;NOM;SG	
+lasku	baixen	lasku	baixar	N;PRT;SG	V;IND;PL;3;PRS;FIN
+lepingud	tractats	leping	tractat	N;NOM;PL	ADJ;MASC;PL;V.PTCP
+curie	curie	curie	curie	N;NOM;SG	
+räägi	speak	rääkima	speak	V;IMP;SG;2;PRS;FIN;ACT	N;MASC;SG
+valima	tria	valima	triar	V;IN+ALL;V.CVB;ACT	
+lahkumine	deixant	lahkumine	deixar	N;NOM;SG	V;V.MSDR
+demo	demo	demo	demo	N;NOM;SG	
+ülesehitus	estructura	üle_sehitus	estructurar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+norbert	norbert	norbert	norbert	N;NOM;SG	
+esperanto	esperanto	esperanto	esperantar	N;NOM;SG	V;V.MSDR
+vao	vao	vao	vaure	N;NOM;SG	
+tuuri	tours	tuur	toure	N;PRT;SG	
+laskemoona	municions	laske_moon	munició	N;PRT;SG	N;FEM;PL
+clara	clara	clara	clar	N;NOM;SG	ADJ;FEM;SG
+ekvatoriaal	equatorial	ekvatori_aal	equatorial	N;NOM;SG	ADJ;SG
+ekvatoriaal	equatorials	ekvatori_aal	equatorial	N;NOM;SG	ADJ;PL
+tsivilisatsiooni	custodiaven	tsivilisatsioon	custodiar	N;PRT;SG	V;IND;PL;3;IPFV;FIN
+saun	sauna	saun	sauna	N;NOM;SG	
+komponendi	component	komponent	component	N;GEN;SG	
+kirjutised	escrits	kirjutine	escrit	N;NOM;PL	ADJ;MASC;PL;V.PTCP
+asendus	substitució	asenduma	substitució	V;IND;SG;3;PST;FIN;ACT	N;FEM;SG
+asendus	substitut	asenduma	substitut	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG
+asendus	reemplaça	asenduma	reempllçar	V;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;PRS;FIN
+asendus	substitueix	asenduma	substituir	V;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;PRS;FIN
+davidson	davidson	davidson	davidson	N;NOM;SG	PROPN
+elmo	elmo	elmo	elmo	N;NOM;SG	
+päikest	sol	päike	sol	N;PRT;SG	
+päikest	solana	päike	solana	N;PRT;SG	
+päikest	sunshine	päike	sunshine	N;PRT;SG	
+mõjukas	influents	mõjukas	influent	ADJ;NOM;SG	ADJ;PL
+laua	taula	laud	taula	N;GEN;SG	V;IND;SG;3;PRS;FIN
+laua	quadre	laud	quadre	N;GEN;SG	
+ursula	ursula	ursula	ursula	N;NOM;SG	PROPN
+ursula	úrsula	ursula	úrsula	N;NOM;SG	ADJ;FEM;SG
+allkiri	firma	all_kiri	firma	N;NOM;SG	V;IND;SG;3;PRS;FIN
+maas	down	maas	down	ADV	
+ten	deu	ten	deu	N;NOM;SG	NUM;PL
+mainis	esmentat	mainima	esmentat	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+stepan	stepan	stepan	stepar	N;NOM;SG	PROPN
+xxiii	xxiii	xxiii	xxiiar	N;NOM;SG	
+edwards	edwards	edwards	edward	N;NOM;SG	
+istus	sat	istuma	sat	V;IND;SG;3;PST;FIN;ACT	
+claudio	claudio	claudio	claudio	N;NOM;SG	PROPN
+turner	turner	turner	turner	N;NOM;SG	
+jätkati	continuat	jätkama	continuat	V;IND;PST;FIN;PASS	ADJ;MASC;SG;V.PTCP
+jätkati	continuada	jätkama	continuat	V;IND;PST;FIN;PASS	ADJ;FEM;SG;V.PTCP
+luxembourg	luxemburg	luxembourg	luxemburg	N;NOM;SG	
+piip	bip	piip	bip	N;NOM;SG	
+piip	pipa	piip	pipa	N;NOM;SG	
+tõstmine	veina	tõstmine	veina	N;NOM;SG	
+tõstmine	aixecant	tõstmine	aixecar	N;NOM;SG	V;V.MSDR
+connor	connor	connor	connor	N;NOM;SG	PROPN
+kilogrammi	quilograms	kilo_gramm	quilogram	N;PRT;SG	N;MASC;PL
+baer	baer	baer	baer	N;NOM;SG	
+sas	sas	sa	saser	N;NOM;SG	
+täiustatud	advanced	täiusta=tud	advanced	ADJ;PST;V.PTCP;PASS	
+blu	blu	blu	blu	N;NOM;SG	
+zeusi	zeus	zeus	zeus	N;NOM;SG	
+entomoloog	entomòleg	entomoloog	entomòleg	N;NOM;SG	ADJ;MASC;SG
+kuulis	escoltat	kuulma	escoltar	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+rocca	rocca	rocca	rocca	N;NOM;SG	
+karabahhi	karabakh	karabahh	karabakh	N;NOM;SG	ADJ;SG
+natura	natura	natura	natura	N;NOM;SG	
+blackberry	blackberry	blackberry	blackberry	N;NOM;SG	
+blackberry	móra	blackberry	móra	N;NOM;SG	
+mozilla	mozilla	mozilla	mozilla	N;NOM;SG	
+olivier	olivier	olivier	olivier	N;NOM;SG	
+alexis	alexis	alexis	alexir	N;NOM;SG	
+kohtunud	met	kohtuma	met	V;PST;V.PTCP;ACT	
+legaat	legatus	legaat	legatus	N;NOM;SG	
+mürk	verí	mürk	verí	N;NOM;SG	
+emilie	emilie	emili	emilie	N;NOM;SG	PROPN
+igavesti	forever	igavesti	forever	ADV	PROPN
+heidi	heidi	heidi	heidi	N;NOM;SG	PROPN
+tõlk	traductora	tõlk	traductora	N;NOM;SG	ADJ;FEM;SG
+antonius	antony	antonius	antony	N;NOM;SG	PROPN
+jesse	jesse	jesse	jesse	N;NOM;SG	
+walther	walther	walther	walther	N;NOM;SG	PROPN
+muudatus	esmena	muudatus	esmena	N;NOM;SG	V;IND;SG;3;PRS;FIN
+muudatus	canvia	muudatus	canviar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+muudatus	canvi	muudatus	canvi	N;NOM;SG	
+nõrgad	dèbil	nõrk	dèbil	ADJ;NOM;PL	ADJ;SG
+nõrgad	feble	nõrk	feble	ADJ;NOM;PL	ADJ;SG
+einstein	einstein	einstein	einstir	N;NOM;SG	
+kann	gerro	kann	gerro	N;NOM;SG	
+santi	santi	sant	santar	N;NOM;SG	
+juur	arrel	juur	arrel	N;NOM;SG	
+tundlik	sensibles	tundlik	sensible	ADJ;NOM;SG	ADJ;PL
+elupaikade	hàbitat	elu_paik	hàbitat	N;GEN;PL	N;MASC;SG
+väärib	mereixedores	väärima	mereixedora	V;IND;SG;3;PRS;FIN;ACT	ADJ;FEM;PL
+tõhus	eficients	tõhus	eficient	ADJ;NOM;SG	ADJ;PL
+hingamisteede	respiratori	hingamis_tee	respiratori	N;GEN;PL	ADJ;MASC;SG
+hingamisteede	respiratòria	hingamis_tee	respiratori	N;GEN;PL	ADJ;FEM;SG
+täiendav	addicionals	täiendav	addicional	ADJ;NOM;SG;PRS;V.PTCP;ACT	ADJ;PL
+täiendav	complementaris	täiendav	complementari	ADJ;NOM;SG;PRS;V.PTCP;ACT	ADJ;MASC;PL
+täiendav	complementàries	täiendav	complementari	ADJ;NOM;SG;PRS;V.PTCP;ACT	ADJ;FEM;PL
+ertshertsog	arxiduc	ertshertsog	arxiduc	N;NOM;SG	ADJ;MASC;SG
+janne	janne	jann	janne	N;NOM;SG	PROPN
+tonga	tonga	tong	tonga	ADJ	PROPN
+edit	edita	edit	editar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+gaboni	gabon	gaboni	gabon	ADJ	N;MASC;SG
+doc	doc	doc	doc	N;SG	
+eeldus	premissa	eeldus	premissa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+mitmekordne	múltiples	mitme_kordne	múltiple	ADJ;NOM;SG	
+mitmekordne	múltiple	mitme_kordne	múltiple	ADJ;NOM;SG	
+haute	haute	haut	haute	N;NOM;SG	
+dom	dom	dom	dom	N;NOM;SG	
+girls	xiques	girls	xica	N;NOM;SG	N;FEM;PL
+girls	nenes	girls	nena	N;NOM;SG	N;FEM;PL
+girls	noies	girls	noia	N;NOM;SG	N;FEM;PL
+girls	girls	girls	girl	N;NOM;SG	N;MASC;PL
+césar	césar	césar	césar	N;NOM;SG	
+benedetto	benedetto	benedetto	benedetto	N;NOM;SG	
+nool	arrow	nool	arrow	N;NOM;SG	PROPN
+nool	fletxa	nool	fletxa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+veronika	veronika	veronika	veronikar	N;NOM;SG	
+allveelaeva	submarí	all_vee_laev	submarí	N;PRT;SG	ADJ;MASC;SG
+unikaalne	úniques	unikaalne	únic	ADJ;NOM;SG	ADJ;FEM;PL
+švaabimaa	suàbia	švaabi_maa	suabir	N;NOM;SG	
+kasvatatud	plantejat	kasvatatud	plantejar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+kasvatatud	criats	kasvatatud	criat	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+bluetooth	bluetooth	bluetoot	bluetooth	N;NOM;SG	
+automaatne	auto	automaatne	auto	ADJ;NOM;SG	
+vaene	pobres	vaene	pobre	ADJ;NOM;SG	ADJ;PL
+loomaarst	veterinari	loomaar	veterinari	N;NOM;SG	ADJ;MASC;SG
+loomaarst	veterinari	loomaar	veterinari	N;NOM;SG	ADJ;MASC;SG
+pidamine	mantenint	pidamine	mantenir	N;NOM;SG	V;V.MSDR
+parandamine	millora	parandamine	millorar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+popper	popper	popper	popper	N;NOM;SG	
+hella	hella	hell	hella	N;NOM;SG	
+polüneesia	polinèsia	polüneesia	polinèsia	ADJ	N;FEM;SG
+enrique	enrique	enrique	enrique	N;NOM;SG	PROPN
+tamara	tamara	tamar	tamara	N;NOM;SG	
+rob	rob	rob	rob	N;NOM;SG	PROPN
+basel	basilea	basel	basilea	N;NOM;SG	
+võistleja	aspirant	võistleja	aspirant	N;NOM;SG	ADJ;SG
+betty	betty	betty	betty	N;NOM;SG	PROPN
+kullast	gold	kuld	gold	N;IN+ABL;SG	
+ellis	ellis	ellis	elli	N;NOM;SG	PROPN
+sõrmuse	anell	sõrmus	anell	N;GEN;SG	
+vilistlased	alumni	vilistlane	alumnar	N;NOM;PL	N;MASC;SG
+philips	philips	philips	philip	N;NOM;SG	
+jälgimine	rastrejant	jälgimine	rastrejar	N;NOM;SG	V;V.MSDR
+kurjategija	criminal	kurja_tegija	criminal	N;NOM;SG	ADJ;SG
+kurjategija	penals	kurja_tegija	penal	N;NOM;SG	ADJ;PL
+kurjategija	penal	kurja_tegija	penal	N;NOM;SG	ADJ;SG
+kurjategija	infractor	kurja_tegija	infractor	N;NOM;SG	ADJ;MASC;SG
+teemant	diamond	teema	diamond	N;NOM;SG	
+teemant	diamant	teema	diamant	N;NOM;SG	ADJ;SG
+laava	lava	laav	lava	N;NOM;SG	
+kaitsjad	protectors	kaitsja	protector	N;NOM;PL	ADJ;MASC;PL
+asjaolud	circumstància	asja_olu	circumstància	N;NOM;PL	N;FEM;SG
+nordisk	nordisk	nordisk	nordisk	N;IN+ESS;SG	PROPN
+vask	coure	vask	coure	N;NOM;SG	
+theodore	theodore	theodor	theodore	N;NOM;SG	PROPN
+theodore	teodor	theodor	teodor	N;NOM;SG	
+unistus	somia	unistus	somia	N;NOM;SG	V;IND;SG;3;PRS;FIN
+unistus	somiar	unistus	somiar	N;NOM;SG	V;NFIN
+kvartalis	trimestrals	kvartal	trimestral	N;IN+ESS;SG	ADJ;PL
+kvartalis	trimestral	kvartal	trimestral	N;IN+ESS;SG	ADJ;SG
+córdoba	córdoba	córdoba	córdoba	N;NOM;SG	
+malmö	malmö	malmö	malmö	N;NOM;SG	PROPN
+chuck	chuck	chuck	chuck	N;NOM;SG	
+lambert	lambert	lambert	lambert	N;NOM;SG	
+silvio	silvio	silvio	silvio	N;NOM;SG	PROPN
+vaz	vaz	vaz	vaz	N;NOM;SG	PROPN
+kristian	kristian	kristian	kristir	N;NOM;SG	
+ramón	ramón	ramón	ramón	N;NOM;SG	
+ümmargune	ronda	ümmargune	rondar	ADJ;NOM;SG	V;IND;SG;3;PRS;FIN
+next	pròxima	next	pròxim	N;NOM;SG	ADJ;FEM;SG
+next	següent	next	següent	N;NOM;SG	ADJ;SG
+next	propera	next	proper	N;NOM;SG	ADJ;FEM;SG
+next	next	next	next	N;NOM;SG	
+katki	trencats	katk	trencat	ADV	ADJ;MASC;PL;V.PTCP
+katki	trencat	katk	trencat	ADV	ADJ;MASC;SG;V.PTCP
+taktika	tàctiques	taktika	tàctic	N;NOM;SG	N;FEM;PL
+õigusega	encertadament	õigus	encertadament	N;COM;SG	ADV
+vedel	líquid	vedel	líquid	N;NOM;SG	ADJ;MASC;SG
+vedel	liquid	vedel	liquid	N;NOM;SG	PROPN
+partner	associat	partner	associat	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+alalise	permanents	alaline	permanent	ADJ;GEN;SG	ADJ;PL
+zeit	zeit	zeit	zeit	N;NOM;SG	PROPN
+seadusandlik	legislatura	seadus_andlik	legislatura	ADJ;NOM;SG	N;FEM;SG
+pruunid	marró	pruun	marró	ADJ;NOM;PL	
+pruunid	brown	pruun	brown	ADJ;NOM;PL	PROPN
+allutatud	subordinat	alluta=tud	subordinat	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+allutatud	subordinat	alluta=tud	subordinat	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+vastastikune	mútues	vastastikune	mútua	ADJ;NOM;SG	ADJ;FEM;PL
+vastastikune	mutu	vastastikune	mutu	ADJ;NOM;SG	
+armand	armand	armand	armand	N;NOM;SG	
+bakuu	baku	bakuu	baku	N;NOM;SG	
+ostsid	comprat	ostma	comprar	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+vabanenud	estrenat	vabanenud	estrenar	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP
+vabanenud	estrenats	vabanenud	estrenar	V;PST;V.PTCP;ACT	ADJ;MASC;PL;V.PTCP
+nupp	botó	nupp	botó	N;NOM;SG	
+annie	annie	annie	annie	N;NOM;SG	PROPN
+reich	reich	reich	reich	N;NOM;SG	PROPN
+hillary	hillary	hillary	hillary	N;NOM;SG	
+harvard	harvard	harvar	harvard	N;NOM;SG	
+jyväskylä	jyväskylä	jyväskylä	jyväskylä	N;NOM;SG	
+dong	dong	dong	dong	N;NOM;SG	
+luige	cigne	luige	cigne	N;NOM;SG	
+luige	swan	luige	swan	N;NOM;SG	
+neljakordne	quàdruple	nelja_kordne	quàdruple	ADJ;NOM;SG	
+istanbuli	istanbul	istanbul	istanbul	N;NOM;SG	
+kalevala	kalevala	kale_vala	kalevala	N;NOM;SG	
+peatub	parades	peatuma	parada	V;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+lao	lao	ladu	lao	N;NOM;SG	
+monarh	monarca	monarh	monarca	N;NOM;SG	
+luna	luna	luna	luna	N;NOM;SG	
+heidelbergi	heidelberg	heidelberg	heidelberg	N;NOM;SG	
+hollywoodi	hollywood	hollywood	hollywood	N;PRT;SG	
+lilla	porpra	lilla	porpra	N;NOM;SG	
+lilla	morat	lilla	morar	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+publik	públic	publik	públic	N;NOM;SG	ADJ;MASC;SG
+publik	multitud	publik	multitud	N;NOM;SG	
+lahendamine	dirimir	lahendamine	dirimir	N;NOM;SG	V;NFIN
+kaevatud	cavat	kaevatud	cavar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+lööb	batecs	lööma	batec	V;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+vastavusse	alinea	vastavus	alinea	N;IN+ALL;LGSPEC1;SG	V;IND;SG;3;PRS;FIN
+rubens	rubens	rubens	rubè	N;NOM;SG	
+alias	àlies	alias	àlia	N;NOM;SG	
+identne	idèntiques	identne	idèntic	ADJ;NOM;SG	ADJ;FEM;PL
+hero	heroi	hero	heroi	N;NOM;SG	
+indutseeritud	induït	indutseeri=tud	induir	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+kepler	kepler	kepler	kepler	N;NOM;SG	
+mõrv	assassinat	mõrv	assassinat	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+ahvenamaa	åland	ahvenamaa	åland	N;NOM;SG	ADJ;SG
+esivanemad	avantpassats	esi_vanem	avantpassat	N;NOM;PL	ADJ;MASC;PL;V.PTCP
+armas	lovely	armas	lovely	ADJ;NOM;SG	
+veenis	persuadir	veenma	persuadir	V;IND;SG;3;PST;FIN;ACT	V;NFIN
+õuna	apple	õun	apple	N;PRT;SG	
+château	château	château	château	N;NOM;SG	
+jenny	jenny	jenny	jenny	N;NOM;SG	
+umberto	umberto	umberto	umberto	N;NOM;SG	
+henryk	henryk	henryk	henryk	N;NOM;SG	ADJ;MASC;SG
+pilved	núvol	pilv	núvol	N;NOM;PL	N;MASC;SG
+mer	mer	mer	mer	N;NOM;SG	ADJ;MASC;SG
+lipnik	alferes	lipnik	alfera	N;NOM;SG	
+padova	pàdua	padov	pàdua	N;NOM;SG	
+franki	frank	frank	frank	N;NOM;SG	
+osaleja	participant	osaleja	participar	N;NOM;SG	V;V.MSDR
+reklaam	comercial	reklaam	comercial	N;NOM;SG	ADJ;SG
+reklaam	mercantils	reklaam	mercantil	N;NOM;SG	ADJ;PL
+reklaam	comercials	reklaam	comercial	N;NOM;SG	ADJ;PL
+selma	selma	selm	selma	N;NOM;SG	
+kogemused	experiencia	kogemus	experiencia	N;NOM;PL	N;FEM;SG
+kogemused	experiència	kogemus	experiència	N;NOM;PL	N;FEM;SG
+tagurpidi	reverteix	tagur_pidi	revertir	ADV	V;IND;SG;3;PRS;FIN
+ümar	ronda	ümar	rondar	ADJ;NOM;SG	V;IND;SG;3;PRS;FIN
+genfis	ginebra	genf	ginebrar	N;IN+ESS;SG	
+sünagoog	sinagoga	sünagoog	sinagoga	N;NOM;SG	
+paigal	congelar	paigal	congelar	ADV	V;NFIN
+paigal	quiet	paigal	quiet	ADV	
+lõksu	trampa	lõks	trampa	N;IN+ALL;LGSPEC1;SG	
+lõksu	trap	lõks	trap	N;IN+ALL;LGSPEC1;SG	PROPN
+regulaarne	regulars	regulaarne	regular	ADJ;NOM;SG	ADJ;PL
+regulaarne	regular	regulaarne	regular	ADJ;NOM;SG	
+sümmeetria	simetria	sümmeetria	simetria	N;NOM;SG	V;COND;SG;3;FIN
+teadust	ciències	teadus	ciència	N;PRT;SG	N;FEM;PL
+stig	stig	stig	stig	N;NOM;SG	PROPN
+edith	edith	edith	edith	N;NOM;SG	PROPN
+hahn	hahn	hahn	haver	N;NOM;SG	PROPN
+positiivsed	positiu	positiivne	positiu	ADJ;NOM;PL	ADJ;MASC;SG
+positiivsed	positiva	positiivne	positiu	ADJ;NOM;PL	ADJ;FEM;SG
+valgevenelased	bielorussos	valge_venelane	bielorús	N;NOM;PL	ADJ;MASC;PL
+liepāja	liepāja	liepāja	liepāja	N;NOM;SG	PROPN
+pearl	pearl	pearl	pearl	N;NOM;SG	
+pearl	perla	pearl	perla	N;NOM;SG	V;IND;SG;3;PRS;FIN
+györgy	györgy	györgy	györgy	N;NOM;SG	PROPN
+bissau	bissau	bissau	bissau	N;NOM;SG	ADJ;SG
+janet	janet	jane	janet	N;NOM;SG	
+legendaarne	llegendàries	legendaarne	llegendari	ADJ;NOM;SG	ADJ;FEM;PL
+petra	petra	petar	petra	N;NOM;SG	
+brad	brad	brad	brad	N;NOM;SG	
+kubrick	kubrick	kubrick	kubrick	N;NOM;SG	
+kaksikud	gemini	kaksik	gemini	N;NOM;PL	
+kaksikud	twins	kaksik	twí	N;NOM;PL	
+kaksikud	bessons	kaksik	bessó	N;NOM;PL	ADJ;MASC;PL
+mängitud	tocava	mängi=tud	tocar	ADJ;PST;V.PTCP;PASS	V;IND;SG;3;IPFV;FIN
+seisnes	constava	seisnema	constar	V;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+monroe	monroe	monroe	monroe	N;NOM;SG	PROPN
+tingimusteta	incondicionalment	tingimus	incondicionalment	N;PRIV;PL	ADV
+tingimusteta	incondicional	tingimus	incondicional	N;PRIV;PL	ADJ;SG
+kitsad	estret	kitsas	estret	ADJ;NOM;PL	N;MASC;SG
+nathan	nathan	nathama	nathan	N;NOM;SG	
+nicola	nicola	nicola	nicola	N;NOM;SG	
+hoidja	guardià	hoidja	guardià	N;NOM;SG	ADJ;MASC;SG
+rääkinud	parlat	rääkima	parlar	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP
+renate	renate	rena	renate	N;NOM;SG	PROPN
+plii	plom	plii	plom	N;NOM;SG	
+tais	tailàndia	tais	tailàndia	N;NOM;SG	ADJ;FEM;SG
+liivakivi	gres	liiva_kivi	gres	N;NOM;SG	
+sarnasus	semblança	sarnasus	semblança	N;NOM;SG	V;IND;SG;3;PRS;FIN
+sarnasus	similitud	sarnasus	similitud	N;NOM;SG	V;IND;SG;3;PRS;FIN
+ardo	ardó	ardo	ardó	N;NOM;SG	
+sanders	sanders	sanders	sander	N;NOM;SG	
+vallandati	acomiadat	vallandama	acomiadar	V;IND;PST;FIN;PASS	ADJ;MASC;SG;V.PTCP
+vallandati	disparat	vallandama	disparar	V;IND;PST;FIN;PASS	ADJ;MASC;SG;V.PTCP
+hääldatakse	pronunciat	hääldama	pronunciat	V;IND;PRS;FIN;PASS	ADJ;MASC;SG;V.PTCP
+hääldatakse	pronunciada	hääldama	pronunciat	V;IND;PRS;FIN;PASS	ADJ;FEM;SG;V.PTCP
+patareid	piles	patar	pila	N;PRT;PL	
+tycho	tycho	tycho	tycho	N;NOM;SG	
+raúl	raúl	raúl	raúl	N;NOM;SG	
+hääletus	vota	hääletus	votar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+hääletus	votacions	hääletus	votació	N;NOM;SG	N;FEM;PL
+marcello	marcello	marcello	marcello	N;NOM;SG	
+tähevärav	stargate	tähe_värav	stargate	N;NOM;SG	
+pereira	pereira	pere_ira	pereir	N;NOM;SG	
+toni	toni	toni	toni	N;NOM;SG	
+aianduse	hortícoles	aiandus	hortícola	N;GEN;SG	ADJ;PL
+cannes	canes	cannes	cana	N;NOM;SG	
+dieter	dieter	dieter	dieter	N;NOM;SG	PROPN
+kanalid	canal	kanal	canal	N;NOM;PL	N;MASC;SG
+smirnov	smirnov	smirnov	smirnov	N;NOM;SG	PROPN
+juhend	instruccions	juhend	instrucció	N;NOM;SG	N;FEM;PL
+moe	moe	mood	moe	N;PRT;SG	PROPN
+usbekistani	uzbekistan	usbekistane	uzbekistar	N;SG	ADJ;SG
+osce	osce	osce	osce	N;NOM;SG	ADJ;SG
+pankur	banker	pankur	banker	N;NOM;SG	
+claire	claire	claire	claire	N;NOM;SG	
+stefano	stefano	stefano	stefano	N;NOM;SG	PROPN
+kana	pollastre	kana	pollastre	N;NOM;SG	
+kana	hen	kana	haver	N;NOM;SG	
+täitmine	omplint	täitmine	omplir	N;NOM;SG	V;V.MSDR
+täitmine	rebliment	täitmine	rebliment	N;NOM;SG	ADJ;MASC;SG
+nebraska	nebraska	nebraska	nebraska	N;NOM;SG	
+keeld	veta	keeld	veta	N;NOM;SG	V;IND;SG;3;PRS;FIN
+keeld	ban	keeld	ban	N;NOM;SG	
+täiendavad	addicional	täiendama	addicional	V;IND;PL;3;PRS;FIN;ACT	ADJ;SG
+täiendavad	addicionals	täiendama	addicional	V;IND;PL;3;PRS;FIN;ACT	ADJ;PL
+hart	hart	hart	hart	N;NOM;SG	
+komplekt	estableix	komplekt	establir	N;NOM;SG	V;IND;SG;3;PRS;FIN
+komplekt	kit	komplekt	kit	N;NOM;SG	
+pms	pms	pms	pms		
+kadusid	desaparegut	kaduma	desaparegut	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+abdul	abdul	abdul	abdul	N;NOM;SG	PROPN
+winston	winston	winston	winston	N;NOM;SG	PROPN
+otsad	finalitza	ots	finalitzar	N;NOM;PL	V;IND;SG;3;PRS;FIN
+tundsid	sentia	tundma	sentir	V;IND;PL;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+tundsid	feltre	tundma	feltre	V;IND;PL;3;PST;FIN;ACT	
+pzkpfw	panzer	pzkpfw	panzer	N;NOM;SG	PROPN
+bismarck	bismarck	bismarck	bismarck	N;NOM;SG	
+uks	porta	uks	portar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+wells	pous	wells	pou	N;NOM;SG	N;MASC;PL
+leiutatud	inventat	leiutama	inventar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+susi	susi	susi	susi	N;NOM;SG	
+kõrva	oïda	kõrv	oïda	N;PRT;SG	
+pippin	pippin	pippima	pippi	N;NOM;SG	
+veronica	veronica	veronica	veronica	N;NOM;SG	
+rahaühik	divisa	raha_ühik	divisa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+greg	greg	greg	greg	N;NOM;SG	PROPN
+alto	alto	alto	alto	N;NOM;SG	
+houston	houston	houston	houstó	N;NOM;SG	
+kukub	cascades	kukkuma	cascada	V;IND;SG;3;PRS;FIN;ACT	ADJ;FEM;PL;V.PTCP
+pannoonia	àvars	pannoonia	àvar	N;NOM;SG	N;MASC;PL
+ibrahim	ibrahim	ibrahim	ibrahim	N;NOM;SG	
+küpros	xipre	küpros	xipre	N;NOM;SG	
+louisiana	louisiana	louisia	louisià	N;NOM;SG	ADJ;FEM;SG
+laos	laos	laos	laos	N;NOM;SG	PROPN
+mathias	mathias	mathia	mathia	N;NOM;SG	PROPN
+kehti	aplica	kehtima	aplicar	V;IMP;SG;2;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+paaris	parelles	paar	parella	NUM;IN+ESS;SG	ADJ;FEM;PL
+paaris	parells	paar	parell	NUM;IN+ESS;SG	
+ash	cendra	ash	cendra	N;NOM;SG	
+mauritiuse	maurici	mauritius	maurici	N;PRT;SG	
+süüdistatud	imputats	süüdistama	imputat	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+pavia	pavia	pavi	pavia	ADJ	
+vie	vie	vie	vie	N;NOM;SG	PROPN
+erapooletu	abstenció	era_pooletu	abstenció	ADJ;NOM;SG	N;FEM;SG
+gotha	gotha	gotha	gotha	N;NOM;SG	PROPN
+duke	duke	duke	duke	N;NOM;SG	PROPN
+duke	duc	duke	duc	N;NOM;SG	
+juut	jueva	juut	juevar	N;NOM;SG	ADJ;FEM;SG
+juut	jueu	juut	jueu	N;NOM;SG	ADJ;MASC;SG
+juut	jueu	juut	jueu	N;NOM;SG	ADJ;MASC;SG
+laulda	sing	laulma	sing	V;NFIN	
+cesare	cesare	cesare	cesare	N;NOM;SG	
+ameeriklased	americans	ameeriklane	americà	N;NOM;PL	ADJ;MASC;PL
+kohtuda	conèixer	kohtuma	conèixer	V;NFIN	V;NFIN
+okt	oct	okt	oct	NUM	
+kümned	desenes	kümme	desena	NUM;NOM;PL	N;FEM;PL
+kümned	dotzenes	kümme	dotzena	NUM;NOM;PL	ADJ;FEM;PL
+solanum	solanum	solanum	solanum	N;NOM;SG	PROPN
+kent	kent	kent	kent	N;NOM;SG	PROPN
+tudengid	alumnat	tudeng	alumnat	N;NOM;PL	N;MASC;SG
+quintus	quint	quintus	quint	N;NOM;SG	
+piirkondlikud	regional	piirkondlik	regional	ADJ;NOM;PL	ADJ;SG
+windsor	windsor	windsor	windsor	N;NOM;SG	
+kasvatus	criança	kasvatus	criança	N;NOM;SG	
+kasvatus	educar	kasvatus	educar	N;NOM;SG	V;NFIN
+ari	ari	ari	ari	N;NOM;SG	
+hondurase	hondures	hondurane	hondura	ADJ	N;FEM;PL
+teravilja	cereals	tera_vili	cereal	N;PRT;SG	N;MASC;PL
+hädavajalik	indispensables	häda_vajalik	indispensable	ADJ;NOM;SG	ADJ;PL
+hädavajalik	imprescindibles	häda_vajalik	imprescindible	ADJ;NOM;SG	ADJ;PL
+hädavajalik	essencials	häda_vajalik	essencial	ADJ;NOM;SG	ADJ;PL
+kristin	kristin	kristin	kristar	N;NOM;SG	PROPN
+martino	martino	martino	martino	N;NOM;SG	
+keerukas	complexes	keerukas	complex	ADJ;NOM;SG	ADJ;FEM;PL
+põrgu	hell	põrgu	hell	N;NOM;SG	PROPN
+lucca	lucca	lucca	lucca	N;NOM;SG	
+kollektsioon	recollida	kollektsioon	recollit	N;NOM;SG	ADJ;FEM;SG;V.PTCP
+toetaja	partidari	toetaja	partidari	N;NOM;SG	ADJ;MASC;SG
+bradley	bradley	bradley	bradley	N;NOM;SG	
+dünamo	dinamo	dünamo	dinamo	N;NOM;SG	ADJ;MASC;SG
+porta	porta	porta	portar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+hamiltoni	hamilton	hamilton	hamilton	N;PRT;SG	PROPN
+como	como	como	como	N;NOM;SG	
+potentsiaal	potencials	potentsiaal	potencial	N;NOM;SG	ADJ;PL
+faso	faso	faso	faso	N;NOM;SG	PROPN
+fanny	fanny	fanny	fanny	N;NOM;SG	ADJ;FEM;SG
+sajad	centenars	sada	centenar	NUM;NOM;PL	
+sajad	moltíssims	sada	moltíssim	NUM;NOM;PL	ADJ;MASC;PL
+dis	dis	dis	dis	N	
+clement	clement	clement	clement	N;NOM;SG	
+ühtlane	uniforme	ühtlane	uniforme	ADJ;NOM;SG	
+poodi	compres	pood	compra	N;IN+ALL;LGSPEC1;SG	N;FEM;PL
+poodi	shopping	pood	shopping	N;IN+ALL;LGSPEC1;SG	
+lazio	lazio	lazio	lazio	N;NOM;SG	PROPN
+birger	birger	birger	birger	N;NOM;SG	
+seks	sex	seks	sex	N;NOM;SG	PROPN
+lausanne	lausana	lausanne	lausana	N;NOM;SG	ADJ;FEM;SG
+lausanne	begues	lausanne	bega	N;NOM;SG	
+tausta	antecedents	taust	antecedent	N;PRT;SG	N;MASC;PL
+tausta	fons	taust	fon	N;PRT;SG	N;MASC;PL
+reaalsus	realitat	reaalsus	realitat	N;NOM;SG	
+konfliktid	conflicte	konflikt	conflicte	N;NOM;PL	N;MASC;SG
+julien	julien	julien	juliar	N;NOM;SG	
+phelps	phelps	phelps	phelps	N;NOM;SG	PROPN
+junior	júnior	junior	júnior	N;NOM;SG	
+junior	junior	junior	junior	N;NOM;SG	
+junior	subalterns	junior	subaltern	N;NOM;SG	N;MASC;PL
+sõjalised	militar	sõjaline	militar	ADJ;NOM;PL	ADJ;SG
+salvatore	salvatore	salva_tore	salvatore	N;NOM;SG	
+süüdistus	càrrec	süüdistus	càrrec	N;NOM;SG	
+kartes	tement	kartma	tement	V;V.CVB	
+bussi	bus	buss	bus	N;PRT;SG	
+maadlus	lluita	maadlus	lluitar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+karol	karol	karol	karol	N;NOM;SG	
+bryan	bryan	bryan	bryan	N;NOM;SG	PROPN
+dee	dee	dee	dee	N;NOM;SG	
+palk	sou	palk	sou	N;NOM;SG	
+palk	salaris	palk	salari	N;NOM;SG	N;MASC;PL
+riba	striptease	riba	striptease	N;NOM;SG	
+sojuz	soiuz	sojuz	soiuz	N;NOM;SG	
+levin	levin	levin	levir	N;NOM;SG	PROPN
+pingeid	tensió	pinge	tensió	N;PRT;PL	N;FEM;SG
+nacional	nacional	nacional	nacional	N;NOM;SG	ADJ;SG
+tolly	tolly	tolly	tolly	N;NOM;SG	
+mõistmine	entenent	mõistmine	entendre	N;NOM;SG	V;V.MSDR
+metsik	wild	metsik	wild	N;NOM;SG	PROPN
+metsik	salvatge	metsik	salvatge	N;NOM;SG	
+aacheni	aachen	aachen	aachar	ADJ	
+kalli	abraçada	kallis	abraçat	N;PRT;SG	ADJ;FEM;SG;V.PTCP
+vangid	cons	vang	con	N;NOM;PL	
+sami	sami	sami	sami	N;NOM;SG	
+martha	martha	martama	martha	N;NOM;SG	
+kara	kara	kara	kara	N;NOM;SG	
+diagnostika	diagnòstica	diagnostika	diagnòstic	N;NOM;SG	ADJ;FEM;SG
+diagnostika	diagnòstics	diagnostika	diagnòstic	N;NOM;SG	ADJ;MASC;PL
+cpu	cpu	cpu	cpu	N;NOM;SG	
+füüsilised	físic	füüsiline	físic	ADJ;NOM;PL	ADJ;MASC;SG
+crystal	cristall	crystal	cristall	N;NOM;SG	ADJ;SG
+ustav	fidels	ustav	fidel	N;NOM;SG	ADJ;PL
+ustav	lleials	ustav	lleial	N;NOM;SG	ADJ;PL
+münsteri	münster	münster	münster	N;NOM;SG	PROPN
+vanuatu	vanuatu	vanuatu	vanuatu	N;NOM;SG	ADJ;FEM;SG
+hollywood	hollywood	hollywood	hollywood	N;NOM;SG	
+sobilik	correspongui	sobilik	correspondre	ADJ;NOM;SG	V;SBJV;SG;3;PRS;FIN
+neeru	renal	neer	renal	N;NOM;SG	ADJ;SG
+lilian	lilian	lilian	lilian	N;NOM;SG	PROPN
+mendelssohn	mendelssohn	mendelssohn	mendelssohn	N;NOM;SG	ADJ;SG
+falcon	falcon	falcon	falcon	N;NOM;SG	
+falcon	falcó	falcon	falcó	N;NOM;SG	
+gmbh	gmbh	gmbh	gmbh	N;NOM;SG	PROPN
+holokausti	holocaust	holokaust	holocaust	N;PRT;SG	ADJ;MASC;SG
+hinged	souls	hing	souls	N;NOM;PL	
+kinnitamine	confirmant	kinnitamine	confirmar	N;NOM;SG	V;V.MSDR
+veinid	vi	vein	vi	N;NOM;PL	
+günter	günter	günter	günter	N;NOM;SG	PROPN
+jumalik	adorables	jumalik	adorable	ADJ;NOM;SG	ADJ;PL
+arch	arch	arch	arch	N;NOM;SG	
+suurendamine	augmentant	suurendamine	augmentar	N;NOM;SG	V;V.MSDR
+suurendamine	augmentation	suurendamine	augmentation	N;NOM;SG	
+freeman	freeman	freeman	freeman	N;NOM;SG	
+jõude	inactiu	jõud	inactiu	N;PRT;PL	ADJ;MASC;SG
+uni	dorm	uni	dorm	N;NOM;SG	V;IND;SG;3;PRS;FIN
+uni	dormir	uni	dormir	N;NOM;SG	V;NFIN
+uni	uni	uni	unar	N;NOM;SG	
+alfredo	alfredo	alfredo	alfredo	N;NOM;SG	
+vältimatu	inevitables	vältimatu	inevitable	ADJ;NOM;SG	ADJ;PL
+monica	mònica	monica	mònic	N;NOM;SG	ADJ;FEM;SG
+monica	monica	monica	monicar	N;NOM;SG	
+str	str	str	str	N	
+armastan	amor	armastama	amor	V;IND;SG;1;PRS;FIN;ACT	N;MASC;SG
+kartaago	cartago	kartaago	cartago	N;NOM;SG	ADJ;FEM;SG
+alta	alta	alta	alt	N;NOM;SG	ADJ;FEM;SG
+epideemia	epidèmies	epideemia	epidèmia	N;NOM;SG	N;FEM;PL
+telekommunikatsiooni	telecomunicacions	tele_kommunikatsioon	telecomunicació	N;PRT;SG	N;FEM;PL
+kink	regal	kink	regal	N;NOM;SG	
+tooli	cadira	tool	cadira	N;PRT;SG	
+sonja	sonja	songama	sonja	N;NOM;SG	PROPN
+soojus	calor	soojus	calor	N;NOM;SG	
+grove	grove	grove	grove	N;NOM;SG	
+grove	olivar	grove	olivar	N;NOM;SG	
+hara	hara	hara	hara	N;NOM;SG	
+marche	marche	marche	marche	N;NOM;SG	PROPN
+sark	sark	sark	sark	N;NOM;SG	PROPN
+issand	lord	issand	lord	INTJ	
+issand	senyor	issand	senyor	INTJ	N;MASC;SG
+puudega	discapacitats	puue	discapacitat	N;COM;SG	N;MASC;PL
+puudega	inhabilitat	puue	inhabilitat	N;COM;SG	ADJ;MASC;SG;V.PTCP
+puudega	deshabilitat	puue	deshabilitat	N;COM;SG	ADJ;MASC;SG;V.PTCP
+registreerida	registre	registreerima	registre	V;NFIN	N;MASC;SG
+sõrme	dit	sõrm	dit	N;PRT;SG	ADJ;MASC;SG;V.PTCP
+gertrude	gertrude	gertrude	gertrude	N;NOM;PL	PROPN
+gertrude	gertrudis	gertrude	gertrudi	N;NOM;PL	
+tagasihoidlik	humil	tagasi_hoidlik	humil	ADJ;NOM;SG	
+tagasihoidlik	humils	tagasi_hoidlik	humil	ADJ;NOM;SG	ADJ;PL
+mauri	mauri	maur	maure	N;NOM;SG	
+nano	nano	nano	nano	N;NOM;SG	
+toetamine	recolzant	toetamine	recolzar	N;NOM;SG	V;V.MSDR
+toetamine	suport	toetamine	suport	N;NOM;SG	
+intensiivne	intensius	intensiivne	intensiu	ADJ;NOM;SG	ADJ;MASC;PL
+lahustub	solubles	lahustuma	soluble	V;IND;SG;3;PRS;FIN;ACT	ADJ;PL
+ergo	ergo	ergo	ergo	N;NOM;SG	
+šiauliai	šiauliai	šiauliai	šiauliai	ADJ	
+teadaolevad	conegut	teada_olev	conegut	V;IND;PL;3;PRS;FIN;ACT	ADJ;MASC;SG;V.PTCP
+cash	cash	cash	cash	N;NOM;SG	PROPN
+cash	efectiu	cash	efectiu	N;NOM;SG	ADJ;MASC;SG
+jose	jose	josk	jose	N;NOM;SG	PROPN
+jerome	jerome	jeroma	jerome	N;NOM;SG	PROPN
+beatrice	beatriu	beatrice	beatriu	N;NOM;SG	
+bogdan	bogdan	bogdama	bogdan	N;NOM;SG	
+sülearvuti	portàtil	süle_arvuti	portàtil	N;NOM;SG	ADJ;SG
+teatanud	comunicat	teatama	comunicat	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP
+saag	saw	saag	sawer	N;NOM;SG	
+richter	richter	richter	richter	N;NOM;SG	PROPN
+uskuma	creure	uskuma	creure	V;IN+ALL;V.CVB;ACT	V;NFIN
+mitmuses	plural	mitmus	plural	N;IN+ESS;SG	ADJ;SG
+tolmu	pols	tolm	pol	N;PRT;SG	
+ettevalmistamine	preparant	ette_valmistamine	preparar	N;NOM;SG	V;V.MSDR
+spetsiifilised	específic	spetsiifiline	específic	ADJ;NOM;PL	ADJ;MASC;SG
+steiner	steiner	steiner	steiner	N;NOM;SG	
+marius	marius	marius	mariu	N;NOM;SG	
+sokid	socks	sokk	socks	N;NOM;PL	
+jupiter	júpiter	jupiter	júpiter	N;NOM;SG	
+earl	earl	earl	earl	N;NOM;SG	
+kahjulik	nocius	kahjulik	nociu	ADJ;NOM;SG	ADJ;MASC;PL
+kahjulik	nocives	kahjulik	nociva	ADJ;NOM;SG	ADJ;FEM;PL
+kahjulik	perjudicar	kahjulik	perjudicar	ADJ;NOM;SG	V;NFIN
+hiline	tard	hiline	tard	ADJ;NOM;SG	ADV
+vaidluse	litigi	vaidlus	litigi	N;GEN;SG	
+vaidluse	disputa	vaidlus	disputar	N;GEN;SG	V;IND;SG;3;PRS;FIN
+lou	lou	lou	loure	N;NOM;SG	
+foster	foster	foster	foster	N;NOM;SG	PROPN
+hiroshima	hiroshima	hiroshima	hiroshima	N;NOM;SG	N;PL
+beiträge	beiträge	beiträge	beiträge	N;NOM;SG	
+toro	toro	toro	toro	N;NOM;SG	
+gemini	gemini	gemini	gemini	N;NOM;SG	
+pauline	pauline	pauline	pauline	N;NOM;SG	
+alpha	alpha	alpha	alpha	N;NOM;SG	
+alpha	alfa	alpha	alfa	N;NOM;SG	
+tiberius	tiberi	tiberius	tiberi	N;NOM;SG	
+fraas	frase	fraas	frase	N;NOM;SG	V;IND;SG;3;PRS;FIN
+jamie	jamie	jami	jamie	N;NOM;SG	
+lauter	lauter	lauter	lauter	N;NOM;SG	
+bailey	bailey	bailey	bailey	N;NOM;SG	PROPN
+siluri	depurador	silur	depurador	N;GEN;SG	ADJ;MASC;SG
+sébastien	sébastien	sébastien	sébastir	N;NOM;SG	
+iata	iata	iatama	iata	N;NOM;SG	ADJ;MASC;SG
+machiavelli	maquiavel	machia_vell	maquiavel	N;NOM;SG	ADJ;SG
+vologda	vólogda	vologdama	vólogda	ADJ	
+kits	cabra	kits	cabra	N;NOM;SG	
+juliana	juliana	juliana	julià	N;NOM;SG	ADJ;FEM;SG
+proov	mostra	proov	mostrar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+roosevelt	roosevelt	roosevelt	roosevelt	N;NOM;SG	ADJ;SG
+lionel	lionel	lione	lionel	N;NOM;SG	
+terminal	terminal	terminal	terminal	N;NOM;SG	
+väljakutse	challenge	välja_kutse	challenge	N;NOM;SG	
+eisen	eisen	eisen	eisar	N;NOM;SG	
+gravitatsiooni	gravitatòria	gravitatsioon	gravitatòria	N;PRT;SG	ADJ;FEM;SG
+bernd	bernd	bernd	bernd	N;NOM;SG	PROPN
+mia	mia	mia	mia	N;NOM;SG	PROPN
+hindu	hindú	hind	hindú	N;PRT;SG	ADJ;SG
+ace	as	ace	as	N;NOM;SG	
+ace	ace	ace	ace	N;NOM;SG	PROPN
+eritrea	eritrea	eritrea	eritre	N;NOM;SG	ADJ;FEM;SG
+gertrud	gertrud	gertrud	gertrud	N;NOM;SG	
+tuhk	cendres	tuhk	cendra	N;NOM;SG	
+tuhk	cendra	tuhk	cendra	N;NOM;SG	
+fidži	fiji	fidž	fijar	N;NOM;SG	PROPN
+lääs	oest	lääs	oest	N;NOM;SG	
+cola	cola	cola	cola	N;NOM;SG	
+strateegiline	estratègiques	strateegiline	estratègic	ADJ;NOM;SG	ADJ;FEM;PL
+strateegiline	estratègics	strateegiline	estratègic	ADJ;NOM;SG	ADJ;MASC;PL
+liitlane	aliat	liitlane	aliat	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+gaz	gaz	gaz	gaz	N;NOM;SG	PROPN
+magus	dolços	magus	dolç	ADJ;NOM;SG	N;MASC;PL
+rongid	entrena	rong	entrenar	N;NOM;PL	V;IND;SG;3;PRS;FIN
+irving	irving	irving	irving	N;NOM;SG	PROPN
+rebecca	rebecca	rebecca	rebeccar	N;NOM;SG	
+vastasid	respost	vastama	respondre	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+vastasid	respost	vastama	respondre	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+vastasid	contestat	vastama	contestar	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+vastasid	contestada	vastama	contestat	V;IND;PL;3;PST;FIN;ACT	ADJ;FEM;SG;V.PTCP
+dagmar	dagmar	dagmar	dagmar	N;NOM;SG	PROPN
+elekter	elèctric	elekter	elèctric	N;NOM;SG	ADJ;MASC;SG
+elekter	electric	elekter	electric	N;NOM;SG	PROPN
+karlsson	karlsson	karlsson	karlsson	N;NOM;SG	
+gibraltari	gibraltar	gibraltar	gibraltar	N;PRT;SG	ADJ;SG
+pat	pat	pat	pat	N;NOM;SG	PROPN
+sünonüüm	sinònim	sünonüüm	sinònim	N;NOM;SG	ADJ;MASC;SG
+dominique	dominique	dominique	dominique	N;NOM;SG	
+territoriaalse	territorials	territoriaalne	territorial	ADJ;GEN;SG	ADJ;PL
+ultra	ultra	ultra	ultra	N;NOM;SG	
+ward	ward	ward	ward	N;NOM;SG	PROPN
+bennett	bennett	bennett	bennett	N;NOM;SG	PROPN
+primaarne	primària	primaarne	primària	ADJ;NOM;SG	
+aserbaidžaan	azerbaidjan	aserbaidžaan	azerbaidjar	N;NOM;SG	
+maxwell	maxwell	maxwell	maxwell	N;NOM;SG	
+kasahstan	kazakhstan	kasahstama	kazakhstan	N;NOM;SG	ADJ;SG
+churchill	churchill	churchill	churchill	N;NOM;SG	ADJ;SG
+diplom	diplomat	diplom	diplomar	N;NOM;SG	
+mikael	mikael	mika	mikael	N;NOM;SG	
+dag	dag	dag	dag	N;NOM;SG	PROPN
+kehtetuks	invalidar	kehtetu	invalidar	ADJ;TRANS;SG	V;NFIN
+kopsu	pulmó	kops	pulmó	N;NOM;SG	ADJ;MASC;SG
+puruks	smash	puruks	smash	ADV	
+aken	finestra	aken	finestra	N;NOM;SG	V;IND;SG;3;PRS;FIN
+hills	turons	hills	turó	N;NOM;SG	N;MASC;PL
+isabelle	isabelle	isabelle	isabelle	N;NOM;SG	PROPN
+dumas	dumas	dumas	dumar	N;NOM;SG	
+meele	ment	meel	ment	N;GEN;SG	
+hare	hare	hare	hare	N;NOM;SG	
+pre	pre	pre	pre	N;NOM;SG	
+tor	tor	tor	tor	N;NOM;SG	
+kahn	kahn	kahn	kahn	N;NOM;SG	PROPN
+putnam	putnam	putnam	putnam	N;NOM;SG	PROPN
+lode	lode	lode	lode	N;NOM;SG	
+detaili	detall	detail	detall	N;GEN;SG	
+hoiak	postura	hoiak	postura	N;NOM;SG	V;IND;SG;3;PRS;FIN
+karp	caixa	karp	caixa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+gay	gai	gay	gai	N;NOM;SG	
+gay	gay	gay	gay	N;NOM;SG	
+hoidmine	mantenint	hoidmine	mantenir	N;NOM;SG	V;V.MSDR
+koostisosa	constituent	koosti_sosa	constituent	N;NOM;SG	
+tõmbab	treta	tõmbama	treta	V;IND;SG;3;PRS;FIN;ACT	
+merkel	merkel	merkel	merkel	N;NOM;SG	PROPN
+elise	elise	eline	elise	N;NOM;SG	PROPN
+kong	kong	kong	kong	N;NOM;SG	
+attila	attila	attila	attilar	N;NOM;SG	
+duncan	duncan	duncan	duncar	N;NOM;SG	
+amour	amour	amour	amour	N;NOM;SG	
+lahtised	solta	lahtine	soltar	ADJ;NOM;PL	
+braun	braun	braun	braun	N;NOM;SG	PROPN
+issn	issn	issn	issn	N	
+uuendused	innovació	uuendus	innovació	N;NOM;PL	N;FEM;SG
+kafka	kafka	kafka	kafka	N;NOM;SG	
+vabariiklaste	republicà	vaba_riiklane	republicà	N;GEN;PL	ADJ;MASC;SG
+spetsiifiline	específics	spetsiifiline	específic	ADJ;NOM;SG	ADJ;MASC;PL
+sügavale	deep	sügavale	deep	ADV	PROPN
+sügavale	profunds	sügavale	profund	ADV	ADJ;MASC;PL
+sügavale	profund	sügavale	profund	ADV	ADJ;MASC;SG
+dets	dec	dets	dec	N;NOM;SG	
+ios	ios	ios	ios	N;NOM;SG	
+castel	castel	castel	castel	N;NOM;SG	
+salzburgi	salzburg	salzburg	salzburg	N;NOM;SG	
+stabiilsed	estable	stabiilne	estable	ADJ;NOM;PL	ADJ;SG
+murdoch	murdoch	murdoch	murdoch	N;NOM;SG	PROPN
+alvar	alvar	alvar	alvar	N;NOM;SG	
+vaadeldud	observat	vaadel=dud	observar	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+vaadeldud	observats	vaadel=dud	observat	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+määramata	indefinit	määrama	indefinit	V;PRIV;V.CVB;ACT	ADJ;MASC;SG
+määramata	indefinida	määrama	indefinit	V;PRIV;V.CVB;ACT	ADJ;FEM;SG
+määramata	indefinit	määrama	indefinit	V;PRIV;V.CVB;ACT	ADJ;MASC;SG
+golf	golf	golf	golf	N;NOM;SG	
+jackie	jackie	jackie	jackie	N;NOM;SG	
+käsud	ordres	käsk	ordre	N;NOM;PL	
+käsud	ordres	käsk	ordre	N;NOM;PL	
+blake	blake	blake	blake	N;NOM;SG	
+alu	alu	alu	alu	N;NOM;SG	
+martínez	martínez	martínez	martínez	N;NOM;SG	
+trento	trento	trento	trentar	N;NOM;SG	ADJ;MASC;SG
+kahjustatud	desperfectes	kahjustama	desperfecte	ADJ;PST;V.PTCP;PASS	N;MASC;PL
+côte	côte	côte	côte	N;NOM;SG	PROPN
+ulla	ulla	ulla	ulla	N;NOM;SG	
+lugemist	llegint	lugemine	llegir	N;PRT;SG	V;V.MSDR
+lugemist	lectura	lugemine	lectura	N;PRT;SG	V;IND;SG;3;PRS;FIN
+alejandro	alejandro	alejandro	alejandro	N;NOM;SG	
+bali	bali	bali	bali	N;NOM;SG	
+cdu	cdu	cdu	cdu	PROPN	PROPN
+paranes	curat	paranema	curat	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+hiinlased	xinès	hiinlane	xinès	N;NOM;PL	ADJ;MASC;SG
+hiinlased	xinesos	hiinlane	xinès	N;NOM;PL	ADJ;MASC;PL
+bel	bel	bel	bel	N;NOM;SG	
+suzanne	suzanne	suzanne	suzanne	N;NOM;SG	PROPN
+vastand	reverteix	vastand	revertir	N;NOM;SG	V;IND;SG;3;PRS;FIN
+vastand	oposat	vastand	oposar	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+vastand	contrari	vastand	contrari	N;NOM;SG	ADJ;MASC;SG
+saakašvili	saakaixvili	saakašvili	saakaixvili	N;NOM;SG	
+dwight	dwight	dwight	dwight	N;NOM;SG	PROPN
+perugia	perusa	perugia	perusa	N;NOM;SG	
+andekas	talent	andekas	talent	ADJ;NOM;SG	N;MASC;SG
+cruises	creuers	cruise	creuer	N;NOM;SG	N;MASC;PL
+polo	polo	polo	polo	N;NOM;SG	
+valss	vals	valss	val	N;NOM;SG	
+siil	eriçó	siil	eriçó	N;NOM;SG	
+madison	madison	madison	madison	N;NOM;SG	PROPN
+maran	maran	maran	maran	N;NOM;SG	
+cecilia	cecília	cecilia	cecília	N;NOM;SG	
+cecilia	cecilia	cecilia	cecilia	N;NOM;SG	
+põlve	genoll	põlv	genoll	N;PRT;SG	
+conti	conti	cont	conti	N;NOM;SG	
+brassica	brassica	brassica	brassic	N;NOM;SG	ADJ;FEM;SG
+malaisias	malàisia	malaisia	malàisia	N;IN+ESS;SG	
+ove	ove	ove	ove	N;NOM;SG	
+rikkalik	rich	rikkalik	rich	ADJ;NOM;SG	PROPN
+rikkalik	rics	rikkalik	ric	ADJ;NOM;SG	ADJ;MASC;PL
+stadt	stadt	stadt	stadt	N;NOM;SG	PROPN
+judith	judit	judith	judit	N;NOM;SG	
+judith	judith	judith	judith	N;NOM;SG	
+joanna	joanna	joanna	joanna	N;NOM;SG	ADJ;FEM;SG
+lorraine	lorena	lorraine	lorè	N;NOM;SG	
+hoiatas	avisat	hoiatama	avisar	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+hoiatas	advertit	hoiatama	advertir	V;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+lübeck	lübeck	lübeck	lübeck	N;NOM;SG	PROPN
+arvamused	dictàmens	arvamus	dictamen	N;NOM;PL	ADJ;MASC;PL
+kilo	kilo	kilo	kilo	N;NOM;SG	
+genotsiidi	genocidi	genotsiit	genocidi	N;NOM;SG	ADJ;MASC;SG
+kabe	dames	kabe	dama	N;NOM;SG	N;FEM;PL
+lapi	lapònia	lappima	lapònia	N;NOM;SG	ADJ;FEM;SG
+phoenix	fènix	phoenix	fènix	N;NOM;SG	
+phoenix	phoenix	phoenix	phoenix	N;NOM;SG	
+abdullah	abdullah	abdullah	abdullah	N;NOM;SG	
+julija	yulia	julija	yulia	N;NOM;SG	
+madame	madame	madama	madame	N;NOM;SG	
+funktsionaalne	funcionals	funktsionaalne	funcional	ADJ;NOM;SG	ADJ;PL
+vein	vi	vein	vi	N;NOM;SG	
+esteetika	estètica	esteetika	estètic	N;NOM;SG	ADJ;FEM;SG
+seb	seb	see	seb	N;NOM;SG	PROPN
+malai	malai	malai	malai	N;NOM;SG	ADJ;MASC;SG
+aquila	aquila	aquila	aquil	N;NOM;SG	ADJ;FEM;SG
+salerno	salern	salerno	salern	ADJ	
+togo	togo	togo	togo	N;NOM;SG	PROPN
+emotsioonid	emoció	emotsioon	emoció	N;NOM;PL	N;FEM;SG
+gilles	gilles	gilles	gilla	N;NOM;SG	PROPN
+istub	assegut	istuma	assegut	V;IND;SG;3;PRS;FIN;ACT	ADJ;MASC;SG;V.PTCP
+officinalis	officinalis	officinal	officinali	N;NOM;SG	ADJ;SG
+seaduslik	legals	seaduslik	legal	ADJ;NOM;SG	ADJ;PL
+pühad	festes	püha	festa	ADJ;NOM;PL	N;FEM;PL
+pühad	festius	püha	festiu	ADJ;NOM;PL	N;MASC;PL
+pühad	vacances	püha	vacança	ADJ;NOM;PL	N;FEM;PL
+fide	fide	fide	fide	N;NOM;SG	
+murtud	trencats	murtud	trencat	N;NOM;PL;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+murtud	trencat	murtud	trencat	N;NOM;PL;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+kalamees	pescador	kala_mees	pescador	N;NOM;SG	ADJ;MASC;SG
+boyle	boyle	boyle	boyle	N;NOM;SG	
+andrews	andrews	andrews	andrew	N;NOM;SG	PROPN
+face	cara	face	cara	N;NOM;SG	
+face	face	face	face	N;NOM;SG	
+sprint	sprint	sprint	sprint	N;NOM;SG	
+granada	granada	granama	granada	N;NOM;SG	ADJ;FEM;SG;V.PTCP
+abba	abba	abba	abba	N;NOM;SG	
+piazza	piazza	piazza	piazza	N;NOM;SG	
+lin	lin	lin	ell	N;NOM;SG	PROPN
+larsen	larsen	larsma	larsar	N;NOM;SG	PROPN
+tundlikud	sensible	tundlik	sensible	ADJ;NOM;PL	ADJ;SG
+maraton	marathon	maraton	marathon	N;NOM;SG	
+gates	gates	gates	gata	N;IN+ESS;SG	N;PL
+värviline	multicolor	värvi~line	multicolor	ADJ;NOM;SG	
+atlantic	atlantic	atlantic	atlantic	N;NOM;SG	ADJ;MASC;SG
+atlantic	atlàntic	atlantic	atlàntic	N;NOM;SG	ADJ;MASC;SG
+voolavad	abocat	voolama	abocat	V;IND;PL;3;PRS;FIN;ACT	ADJ;MASC;SG;V.PTCP
+kõver	corba	kõver	corba	N;NOM;SG	V;IND;SG;3;PRS;FIN
+negatiivsed	negatiu	negatiivne	negatiu	ADJ;NOM;PL	ADJ;MASC;SG
+jansen	jansen	jansen	jansar	N;NOM;SG	
+marylandi	maryland	maryland	maryland	N;PRT;SG	ADJ;SG
+sativa	sativa	sativa	satiu	N;NOM;SG	ADJ;FEM;SG
+reid	reid	rina	reid	N;NOM;SG	PROPN
+reid	raid	rina	raid	N;NOM;SG	
+kuldsed	golden	kuldne	goldre	ADJ;NOM;PL	
+mandžuuria	manchurian	mandžuuria	manchurar	N;NOM;SG	
+mandžuuria	manxúria	mandžuuria	manxúria	N;NOM;SG	ADJ;FEM;SG
+mod	mod	mod	mod	N;NOM;SG	
+olsen	olsen	olema	olsar	N;NOM;SG	PROPN
+brescia	brescia	brescia	bresciar	N;NOM;SG	
+maapind	terreny	maa_pind	terreny	N;NOM;SG	
+gaulle	gaulle	gaulle	gaulle	N;NOM;SG	
+adele	adèle	adel	adèle	N;NOM;SG	PROPN
+adele	adele	adel	adele	N;NOM;SG	
+tara	tara	tara	tara	N;NOM;SG	
+tara	tanca	tara	tancar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+kujund	forma	kujund	formar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+sándor	sándor	sándor	sándor	N;NOM;SG	PROPN
+viiskümmend	cinquanta	viis_kümmend	cinquanta	NUM;NOM;SG	
+montpellier	montpeller	montpellier	montpeller	N;NOM;SG	
+harper	harper	harper	harper	N;NOM;SG	PROPN
+sparta	spartan	sparta	spartar	N;NOM;SG	
+nella	nella	nell	nella	N;NOM;SG	
+jäta	excedència	jätma	excedència	V;IMP;SG;2;PRS;FIN;ACT	N;FEM;SG
+sentimeetrit	centímetres	senti_meeter	centímetre	N;PRT;SG	N;MASC;PL
+carnegie	carnegie	carnegie	carnegie	N;NOM;SG	
+holm	holm	holm	holm	N;NOM;SG	
+tuvastati	detectats	tuvastama	detectat	V;IND;PST;FIN;PASS	ADJ;MASC;PL;V.PTCP
+tuvastati	detectat	tuvastama	detectar	V;IND;PST;FIN;PASS	ADJ;MASC;SG;V.PTCP
+tuvastati	identificat	tuvastama	identificat	V;IND;PST;FIN;PASS	ADJ;MASC;SG;V.PTCP
+tuvastati	identificada	tuvastama	identificat	V;IND;PST;FIN;PASS	ADJ;FEM;SG;V.PTCP
+tuvastati	identificats	tuvastama	identificat	V;IND;PST;FIN;PASS	ADJ;MASC;PL;V.PTCP
+uskusid	creien	uskuma	creure	V;IND;PL;3;PST;FIN;ACT	V;IND;PL;3;IPFV;FIN
+uskusid	cregut	uskuma	creure	V;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;V.PTCP
+vastuvõtmine	rebre	vastu_võtmine	rebre	N;NOM;SG	V;NFIN
+sõrmus	anell	sõrmus	anell	N;NOM;SG	
+rodrigo	rodrigo	rodrigo	rodrigar	N;NOM;SG	
+lühendatud	escurçar	lühendama	escurçar	ADJ;PST;V.PTCP;PASS	V;NFIN
+tuur	recorregut	tuur	recorregut	N;NOM;SG	ADJ;MASC;SG;V.PTCP
+sommer	sommer	sommer	sommer	N;NOM;SG	PROPN
+konföderatsioon	confederats	konföderatsioon	confederat	N;NOM;SG	ADJ;MASC;PL;V.PTCP
+fersen	fersen	fersen	fersar	N;NOM;SG	
+girard	girard	girard	girard	N;NOM;SG	
+eleanor	eleanor	eleanor	eleanor	N;NOM;SG	ADJ;FEM;SG
+eleanor	elionor	eleanor	elionor	N;NOM;SG	
+haagi	haia	haa	haver	N;NOM;SG	
+krause	krause	krause	krause	N;NOM;SG	
+nyman	nyman	nyman	nyman	N;NOM;SG	PROPN
+picasso	picasso	picasso	picasso	N;NOM;SG	
+saabuvad	arriben	saabuma	arribar	V;IND;PL;3;PRS;FIN;ACT	V;IND;PL;3;PRS;FIN
+saabuvad	arribin	saabuma	arribar	V;IND;PL;3;PRS;FIN;ACT	V;SBJV;PL;3;PRS;FIN
+tiger	tiger	tiger	tiger	N;NOM;SG	PROPN
+tiger	tigre	tiger	tigre	N;NOM;SG	
+norma	norma	norm	norma	N;NOM;SG	
+bergeni	bergen	bergen	bergen	N;SG	
+lynn	lynn	lynn	lynn	N;NOM;SG	PROPN
+petersen	petersen	petersen	petersar	N;NOM;SG	
+olevik	presents	olevik	present	N;NOM;SG	ADJ;PL
+olevik	present	olevik	present	N;NOM;SG	ADJ;SG
+sumatra	sumatra	sumatr	sumatra	N;NOM;SG	
+donna	donna	dond	donna	N;NOM;SG	
+tanja	tanja	tani	tanja	N;NOM;SG	PROPN
+ülemaailmselt	worldwide	üle_maa_ilmselt	worldwide	ADV	
+matused	funeral	matus	funeral	N;NOM;PL	
+lotus	lotus	lotus	lotu	N;NOM;SG	
+aires	aires	aires	aira	N;NOM;SG	
+varustus	equipaments	varustus	equipament	N;NOM;SG	N;MASC;PL
+jaime	jaime	jaim	jaime	N;NOM;SG	
+rachel	rachel	rachel	rachel	N;NOM;SG	PROPN
+valikuline	selectius	valikuline	selectiu	ADJ;NOM;SG	ADJ;MASC;PL
+valikuline	opcionals	valikuline	opcional	ADJ;NOM;SG	ADJ;PL
+valikuline	facultatius	valikuline	facultatiu	ADJ;NOM;SG	ADJ;MASC;PL
+tehnikaid	tècniques	tehnika	tècnic	N;PRT;PL	ADJ;FEM;PL
+buss	bus	buss	bus	N;NOM;SG	
+detail	detall	detail	detall	N;NOM;SG	
+voroneži	vorónej	voronež	vorónej	ADJ	
+hain	hain	hain	haver	N;NOM;SG	
+raam	marc	raam	marc	N;NOM;SG	
+minimaalselt	mínim	minimaalselt	mínim	ADV	ADJ;MASC;SG
+sõnastatud	formulats	sõnasta=tud	formulat	V;PST;V.PTCP;PASS	ADJ;MASC;PL;V.PTCP
+sõnastatud	formulat	sõnasta=tud	formular	V;PST;V.PTCP;PASS	ADJ;MASC;SG;V.PTCP
+kuulsad	famós	kuulma	famós	ADJ;NOM;PL	ADJ;MASC;SG
+luc	luc	luc	luc	N;NOM;SG	PROPN
+nõutav	requerits	nõutav	requerit	ADJ;NOM;SG;PRS;V.PTCP;ACT	ADJ;MASC;PL;V.PTCP
+btr	btr	btr	btr	N;NOM;SG	
+ando	ando	ando	ando	N;NOM;SG	
+ratsionaalne	racionals	ratsionaalne	racional	ADJ;NOM;SG	ADJ;PL
+kaup	mercaderies	kaup	mercaderia	N;NOM;SG	N;FEM;PL
+kaup	béns	kaup	bé	N;NOM;SG	N;MASC;PL
+kanaari	canàries	kanaar	canari	N;NOM;SG	ADJ;FEM;PL
+kanaari	canari	kanaar	canari	N;NOM;SG	ADJ;MASC;SG
+uri	uri	uri	uri	N;NOM;SG	
+seeme	llavors	seeme	llavors	N;NOM;SG	ADV
+versus	versus	versus	vers	N;NOM;SG	
+berry	berry	berry	berry	N;NOM;SG	
+noir	noir	noir	noir	N;NOM;SG	PROPN
+facebooki	facebook	face_book	facebook	N;PRT;SG	
+oldenburg	oldenburg	oldenburg	oldenburg	N;NOM;SG	PROPN
+jehoova	jehovà	jehoova	jehovà	N;NOM;SG	N;MASC;PL
+jarl	earl	jarl	earl	N;NOM;SG	
+bauska	bauska	bauska	bauska	N;NOM;SG	
+vallikraavi	fossat	valli_kraavi	fossat	N;PRT;SG	ADJ;MASC;SG;V.PTCP
+kadumine	desapareixent	kadumine	desaparèixer	N;NOM;SG	V;V.MSDR
+timori	timor	timor	timor	N;NOM;SG	PROPN
+kuma	resplendor	kuma	resplendor	N;NOM;SG	
+ruslan	ruslan	ruslan	ruslan	N;NOM;SG	
+asendatakse	substituït	asendama	substituir	V;IND;PRS;FIN;PASS	ADJ;MASC;SG;V.PTCP
+retseptori	receptor	retseptor	receptor	N;NOM;SG	ADJ;MASC;SG
+weiss	weiss	weiss	weis	N;NOM;SG	PROPN
+avaldamine	publicant	avaldamine	publicar	N;NOM;SG	V;V.MSDR
+saaja	destinatari	saaja	destinatari	N;NOM;SG	ADJ;MASC;SG
+saaja	receptor	saaja	receptor	N;NOM;SG	ADJ;MASC;SG
+lõputu	infinites	lõputu	infinit	ADJ;NOM;SG	ADJ;FEM;PL
+lõputu	infinits	lõputu	infinit	ADJ;NOM;SG	ADJ;MASC;PL
+lõputu	interminables	lõputu	interminable	ADJ;NOM;SG	ADJ;PL
+kasulikud	útil	kasulik	útil	ADJ;NOM;PL	ADJ;SG
+moses	moses	mosk	mosa	N;NOM;SG	PROPN
+moses	moisès	mosk	moisès	N;NOM;SG	
+ing	ing	ing	ing	N	
+kreem	crema	kreem	crema	N;NOM;SG	
+petro	petro	petro	petro	N;NOM;SG	
+veikko	veikko	veikko	veikko	N;NOM;SG	PROPN
+imelik	strange	imelik	strange	ADJ;NOM;SG	PROPN
+imelik	senars	imelik	senar	ADJ;NOM;SG	
+imelik	senar	imelik	senar	ADJ;NOM;SG	
+matta	bury	matma	bury	V;NFIN	
+lucy	lucy	lucy	lucy	N;NOM;SG	PROPN
+susanna	susanna	susanna	susannar	N;NOM;SG	
+button	botó	button	botó	N;NOM;SG	
+salomon	salomon	salomon	salomon	N;NOM;SG	
+dana	dana	dana	dana	N;NOM;SG	
+pakkumine	tendra	pakkumine	tendra	N;NOM;SG	
+miljoneid	milions	miljon	milió	NUM;PRT;PL	N;MASC;PL
+tšaadi	txad	tšaad	txad	ADJ	N;MASC;SG
+abteilung	abteilung	abteilung	abteilung	N;NOM;SG	
+kolleegium	college	kolleegium	college	N;NOM;SG	
+haagis	remolc	haakima	remolc	N;IN+ESS;SG	
+kannatanud	patit	kannatama	patir	V;PST;V.PTCP;ACT	ADJ;MASC;SG;V.PTCP

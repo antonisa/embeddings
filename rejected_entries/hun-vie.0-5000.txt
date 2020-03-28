@@ -1,0 +1,774 @@
+kategória	loại	kategória	loại		N
+egy	xả	egy	xả	DET;INDF	V
+egy	một	egy	một	DET;INDF	NUM
+egy	one	egy	one	DET;INDF	
+nem	không	nem	không	ADV	;NEG
+nem	ko	nem	ko	ADV	
+ben	ben	ben	ben		N
+ben	crack	ben	crack		N
+volt	nan	van	nan	V;INDF;IND;SG;3;PST;FIN;ACT	N
+volt	aw	van	aw	V;INDF;IND;SG;3;PST;FIN;ACT	
+magyar	magyar	magyar	magyar	ADJ;NOM;SG	N
+magyar	hung	magyar	hung	ADJ;NOM;SG	N
+magyar	hungary	magyar	hungary	ADJ;NOM;SG	N
+meg	meg	meg	meg	PART	
+első	trước	első	trước	ADJ;NOM;SG	
+első	đầu	első	đầu	ADJ;NOM;SG	N
+csak	chỉ	csak	chỉ	ADV	
+csak	duy	csak	duy	ADV	N
+csak	chỉ	csak	chỉ	ADV	
+csak	funny	csak	funny	ADV	N
+még	chính	még	chính	ADV	PART
+még	côn	még	côn	ADV	N
+még	vẫn	még	vẫn	ADV	
+van	đã	van	đã	V;INDF;IND;SG;3;PRS;FIN;ACT	
+település	municipality	település	municipality	N;NOM;SG	
+már	đã	már	đã	ADV	
+mint	như	mint	như	CONJ	CONJ
+mint	thích	mint	thích	CONJ	V
+mint	like	mint	like	CONJ	V
+után	theo	után	theo	ADP	V
+után	sau	után	sau	ADP	N
+további	thêm	további	thêm	N;NOM;SG	V
+nagy	đúc	nagy	đúc	ADJ;NOM;SG	V
+nagy	đại	nagy	đại	ADJ;NOM;SG	N
+nagy	big	nagy	big	ADJ;NOM;SG	
+évek	chèo	év	chèo	N;NOM;PL	V
+klub	club	klub	club	N;NOM;SG	
+több	thêm	több	thêm	DET;INDF	V
+információk	info	információ	info	N;NOM;PL	
+vita	vita	vita	vita	N;NOM;SG	
+budapest	budapest	budapest	budapest	PROPN;NOM;SG	N
+aki	ai	aki	ai	PRO;NOM;SG;3	PROPN
+aki	who	aki	who	PRO;NOM;SG;3	NUM
+ezt	này	ez	này	PRO;ACC;SG;3	PROPN
+itt	đây	itt	đây	ADV	PROPN
+akkor	rồi	akkor	rồi	ADV	CONJ
+amerikai	american	amerikai	american	ADJ;NOM;SG	N
+amerikai	mỹ	amerikai	mỹ	ADJ;NOM;SG	N
+német	đức	német	đức	ADJ;NOM;SG	N
+francia	pháp	francia	pháp		N
+május	may	május	may	N;NOM;SG	ADJ
+kell	nhu	kell	nhu	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+ahol	đâu	ahol	đâu	ADV	PROPN
+csapat	tạo	csapat	tạo	N;NOM;SG	V
+csapat	team	csapat	team	N;NOM;SG	
+amely	mà	amely	mà	PRO;NOM;SG;3	CONJ
+más	khác	más	khác	PRO;NOM;SG;3	ADJ
+más	khác	más	khác	PRO;NOM;SG;3	ADJ
+március	march	március	march	N;NOM;SG	
+augusztus	august	augusztus	august	N;NOM;SG	
+minden	hết	minden	hết	PRO;NOM;SG;3	V
+minden	hết	minden	hết	PRO;NOM;SG;3	V
+minden	mỗi	minden	mỗi	PRO;NOM;SG;3	NUM
+minden	hằng	minden	hằng	PRO;NOM;SG;3	
+ami	ami	ami	ami	PRO;NOM;SG;3	
+ami	mà	ami	mà	PRO;NOM;SG;3	CONJ
+június	june	június	june	N;NOM;SG	
+alatt	dưới	alatt	dưới	ADP	N
+alatt	dưới	alatt	dưới	ADP	N
+alatt	under	alatt	under	ADP	
+megye	quận	megye	quận		N
+megye	hạt	megye	hạt		N
+megye	sở	megye	sở		N
+megye	khu	megye	khu		N
+mert	vì	mert	vì	CONJ	ADP
+később	sau	későn	sau	ADV	N
+jpg	jpg	jpg	jpg		N
+város	by	város	by	N;NOM;SG	
+amikor	khi	amikor	khi	ADV	N
+létrehozott	tạo	létrehozott	tạo	N;ACC;SG	V
+három	tre	három	tre	NUM;NOM;SG	N
+található	nằm	található	nằm	ADJ;NOM;SG	V
+mellett	cạnh	mellett	cạnh	ADP	N
+kép	photo	kép	photo	N;NOM;SG	
+től	khỏi	től	khỏi		V
+től	từ	től	từ		ADP
+lásd	xem	lásd	xem		V
+szent	thánh	szent	thánh		N
+szent	thánh	szent	thánh		N
+angol	british	angol	british		N
+király	awesome	király	awesome		N
+király	ngầu	király	ngầu		N
+király	tuyệt	király	tuyệt		ADJ
+király	mát	király	mát		ADJ
+külső	ngoài	külső	ngoài		N
+ezek	những	ez	những	PRO;NOM;PL;3	DET
+előtt	trước	előtt	trước	ADP	
+mely	mà	mely	mà		CONJ
+nemzeti	gạt	nemzeti	gạt	ADJ;NOM;SG	V
+józsef	józsef	józsef	józsef		
+józsef	giuse	józsef	giuse		N
+józsef	joseph	józsef	joseph		N
+élő	sống	élő	sống		V
+élő	sống	élő	sống		V
+évi	năm	évi	năm		N
+század	ty	század	ty	N;NOM;SG	
+ferenc	phanxicô	ferenc	phanxicô	PROPN;NOM;SG	N
+ferenc	francis	ferenc	francis	PROPN;NOM;SG	
+ferenc	ferenc	ferenc	ferenc	PROPN;NOM;SG	N
+saját	chính	saját	chính	PRO;NOM;SG;3	PART
+ellen	ellen	ellen	ellen	ADP	
+ellen	dũng	ellen	dũng	ADP	N
+ellen	chống	ellen	chống	ADP	V
+sok	nhiều	sok	nhiều		ADJ
+sok	nhiều	sok	nhiều		ADJ
+először	trước	először	trước	ADV	
+először	đầu	először	đầu	ADV	N
+szövetség	covenant	szövetség	covenant	N;NOM;SG	
+része	saga	rész	saga	N;NOM;SG	
+része	part	rész	part	N;NOM;SG	
+jobbra	phải	jobbra	phải	ADV	V
+jobbra	đúng	jobbra	đúng	ADV	ADJ
+olimpiai	olympic	olimpiai	olympic	ADJ;NOM;SG	N
+nagyon	cực	nagyon	cực	ADV	
+nagyon	rất	nagyon	rất	ADV	
+következő	kế	következő	kế		V
+következő	tiếp	következő	tiếp		V
+kis	tiểu	kis	tiểu	ADJ;NOM;SG	
+team	tạo	team	tạo		V
+team	đội	team	đội		N
+team	lớp	team	lớp		N
+néhány	cầy	néhány	cầy	DET;INDF	N
+utolsó	cuối	utolsó	cuối		N
+utolsó	final	utolsó	final		N
+ott	kia	ott	kia	ADV	PROPN
+ott	đó	ott	đó	ADV	PROPN
+volna	tòng	volna	tòng	V;INDF;COND;SG;3;PRS;ACT	N
+volna	cốt	volna	cốt	V;INDF;COND;SG;3;PRS;ACT	N
+legjobb	nhất	jó	nhất		
+európa	âu	európa	âu		N
+hivatkozások	links	hivatkozás	links	N;NOM;PL	
+római	roman	római	roman	ADJ;NOM;SG	N
+római	đế	római	đế	ADJ;NOM;SG	N
+teljes	tổng	teljes	tổng		N
+teljes	say	teljes	say		V
+teljes	đầy	teljes	đầy		ADJ
+egyesült	united	egyesül	united	V;INDF;IND;SG;3;PST;FIN;ACT	N
+egyesült	hoa	egyesül	hoa	V;INDF;IND;SG;3;PST;FIN;ACT	N
+igen	dạ	igen	dạ		N
+halál	chết	halál	chết	N;NOM;SG	V
+bár	bar	bár	bar	CONJ	
+szett	đặt	szett	đặt	N;NOM;SG	V
+szett	set	szett	set	N;NOM;SG	
+készült	chế	készül	chế	V;INDF;IND;SG;3;PST;FIN;ACT	N
+születési	sinh	születési	sinh	ADJ;NOM;SG	V
+film	phim	film	phim	N;NOM;SG	
+film	phim	film	phim	N;NOM;SG	
+from	khỏi	from	khỏi		V
+from	từ	from	từ		ADP
+kapcsolódó	related	kapcsolódó	related	ADJ;NOM;SG	V
+eredeti	gốc	eredeti	gốc	N;NOM;SG	
+míg	phiêu	míg	phiêu	ADV	V
+míg	mens	míg	mens	ADV	
+györgy	george	györgy	george	N;NOM;SG	
+sándor	alexandros	sándor	alexandros		N
+sándor	aleksandr	sándor	aleksandr		N
+sándor	alexander	sándor	alexander		N
+lajos	lajos	lajos	lajos		N
+őket	them	ők	them	PRO;ACC;PL;3	
+őket	cói	ők	cói	PRO;ACC;PL;3	N
+őket	chúng	ők	chúng	PRO;ACC;PL;3	PROPN
+őket	họ	ők	họ	PRO;ACC;PL;3	PROPN
+egész	toàn	egész	toàn		N
+szintén	cũng	szintén	cũng		
+károly	károly	károly	károly	N;NOM;SG	
+károly	charles	károly	charles	N;NOM;SG	
+károly	karl	károly	karl	N;NOM;SG	
+különböző	khác	különböző	khác		ADJ
+péter	phêrô	péter	phêrô		N
+szó	từ	szó	từ	N;NOM;SG	ADP
+kiadó	thuê	kiadó	thuê	N;NOM;SG	V
+női	nữ	női	nữ		N
+junior	nhỏ	junior	nhỏ		ADJ
+junior	junior	junior	junior		N
+wikipédia	wikipedia	wikipédia	wikipedia	N;NOM;SG	V
+mind	hết	mind	hết	CONJ	V
+lenne	tòng	lesz	tòng	V;INDF;COND;SG;3;PRS;FIN;ACT	N
+lenne	cốt	lesz	cốt	V;INDF;COND;SG;3;PRS;FIN;ACT	N
+tól	khỏi	tól	khỏi		V
+tól	từ	tól	từ		ADP
+lap	tờ	lap	tờ	N;NOM;SG	
+orosz	nga	orosz	nga		N
+dél	trưa	dél	trưa		N
+dél	nam	dél	nam		N
+iii	iii	iii	iii		NUM
+egyetlen	đơn	egyetlen	đơn		N
+község	municipality	község	municipality	N;NOM;SG	
+csoport	group	csoport	group	N;NOM;SG	
+most	giờ	most	giờ	ADV	N
+most	ngay	most	ngay	ADV	PART
+ismert	quen	ismert	quen		V
+hosszú	lâu	hosszú	lâu		ADJ
+hosszú	dài	hosszú	dài		ADJ
+hosszú	long	hosszú	long		N
+általában	thuồng	általában	thuồng		V
+általában	thường	általában	thường		
+férfi	hãm	férfi	hãm	N;NOM;SG	V
+férfi	man	férfi	man	N;NOM;SG	
+királyi	royal	királyi	royal		N
+ember	human	ember	human	N;NOM;SG	
+ember	man	ember	man	N;NOM;SG	
+régi	cũ	régi	cũ		ADJ
+régi	tuổi	régi	tuổi		N
+régi	già	régi	già		ADJ
+japán	japan	japán	japan		N
+miután	theo	miután	theo	CONJ	V
+miután	sau	miután	sau	CONJ	N
+egyéb	khác	egyéb	khác		ADJ
+egyéb	khác	egyéb	khác		ADJ
+fontos	trọng	fontos	trọng	ADJ;NOM;SG	
+faj	đua	faj	đua	N;NOM;SG	V
+faj	nhung	faj	nhung	N;NOM;SG	
+állt	sto	áll	sto	V;INDF;IND;SG;3;PST;FIN;ACT	
+mindig	luôn	mindig	luôn	ADV	
+korábbi	cựu	korábbi	cựu	ADJ;NOM;CMPR;SG	N
+korábbi	trước	korábbi	trước	ADJ;NOM;CMPR;SG	
+újra	lại	újra	lại	ADV	
+török	turk	török	turk	ADJ;NOM;SG	
+török	turkish	török	turkish	ADJ;NOM;SG	
+kellett	ấp	kell	ấp	V;INDF;IND;SG;3;PST;FIN;ACT	N
+stadion	stadion	stadion	stadion	N;NOM;SG	
+kisebb	lesser	kis	lesser	ADJ;NOM;CMPR;SG	
+kisebb	minor	kis	minor	ADJ;NOM;CMPR;SG	NUM
+brit	british	brit	british		N
+brit	brit	brit	brit		N
+inkább	thà	inkább	thà	ADV	PART
+kívül	ngoài	kívül	ngoài		N
+álló	stationary	álló	stationary	ADJ;NOM;SG	
+john	gioan	john	gioan		N
+john	john	john	john		N
+körül	khoảng	körül	khoảng	ADP	ADJ
+körül	vòng	körül	vòng	ADP	N
+észak	bắc	észak	bắc		N
+észak	bắc	észak	bắc		N
+mária	chư	mária	chư		N
+mária	maria	mária	maria		N
+helyszín	site	helyszín	site	N;NOM;SG	
+rövid	bài	rövid	bài		N
+rövid	ngắn	rövid	ngắn		ADJ
+rövid	lá	rövid	lá		N
+alá	dưới	alá	dưới	ADP	N
+alá	under	alá	under	ADP	
+fekete	đen	feket	đen		ADJ
+fehér	trắng	fehér	trắng		N
+fehér	bạch	fehér	bạch		N
+miklós	miklós	miklós	miklós		N
+szóló	solo	szóló	solo	ADJ;NOM;SG	
+andrás	andrew	andrás	andrew	PROPN;NOM;SG	
+lista	kê	lista	kê	N;NOM;SG	V
+lista	list	lista	list	N;NOM;SG	ADJ
+többi	nghỉ	többi	nghỉ		V
+budapesti	budapest	budapesti	budapest	ADJ;NOM;SG	N
+országos	gạt	országos	gạt	ADJ;NOM;SG	V
+világ	giới	világ	giới		N
+utca	street	utca	street	N;NOM;SG	
+északi	bắc	északi	bắc		N
+északi	nordic	északi	nordic		N
+északi	bắc	északi	bắc		N
+általános	generic	általános	generic		V
+általános	tướng	általános	tướng		N
+általános	chung	általános	chung		ADJ
+déli	nam	déli	nam		N
+újabb	mơi	új	mơi	ADJ;NOM;CMPR;SG	PART
+keresztül	qua	keresztül	qua	ADP	V
+szemben	ngược	szemben	ngược		V
+külön	skill	kül	skill		N
+nyugati	tây	nyugati	tây		N
+nyugati	tây	nyugati	tây		N
+keleti	đông	keleti	đông		ADJ
+nap	cn	nap	cn	N;NOM;SG	
+nap	day	nap	day	N;NOM;SG	
+nyári	hè	nyári	hè		N
+link	link	link	link		N
+látható	bien	látható	bien	ADJ;NOM;SG	N
+center	tâm	center	tâm		
+mihály	mihály	mihály	mihály		N
+kupa	tách	kupa	tách	N;NOM;SG	V
+terület	loạt	terület	loạt	N;NOM;SG	
+com	com	com	com		N
+lengyel	polish	lengyel	polish		NUM
+azok	những	az	những	PRO;NOM;PL;3	DET
+der	der	der	der		N
+vezető	xế	vezető	xế		N
+zoltán	zoltan	zoltán	zoltan	N;NOM;SG	
+együttes	ensemble	együttes	ensemble		N
+együttes	tham	együttes	tham		V
+elég	đủ	elég	đủ		ADJ
+oldal	page	oldal	page	N;NOM;SG	
+valaki	ai	valaki	ai		PROPN
+usa	kỳ	usa	kỳ		N
+usa	mỹ	usa	mỹ		N
+mikor	khi	mikor	khi	ADV	N
+belső	nội	belső	nội		N
+belső	nội	belső	nội		N
+elmúlt	past	elmúlt	past	V;INDF;IND;SG;3;PST;FIN;ACT	
+túl	quá	túl	quá		
+túl	khoáng	túl	khoáng		N
+színész	diễn	színész	diễn	N;NOM;SG	V
+szabad	free	szabad	free		
+szabad	rảnh	szabad	rảnh		V
+felesége	vơ	fel+eség	vơ	N;NOM;SG	V
+felesége	vk	fel+eség	vk	N;NOM;SG	
+sor	dòng	sor	dòng		N
+sor	hàng	sor	hàng		N
+for	cho	for	cho		V
+iskola	học	iskola	học	N;NOM;SG	V
+összesen	tổng	összesen	tổng		N
+hét	seven	hét	seven	N;NOM;SG	
+hét	bảy	hét	bảy	N;NOM;SG	NUM
+pont	pont	pont	pont		N
+pont	điểm	pont	điểm		N
+pont	chấm	pont	chấm		V
+pont	điểm	pont	điểm		N
+bajnok	champ	bajn	champ	N;NOM;SG	
+bajnok	champion	bajn	champion	N;NOM;SG	V
+állam	bang	állam	bang	N;NOM;SG	
+emberek	hãm	ember	hãm	N;NOM;PL	V
+tartott	chức	tart	chức	V;INDF;IND;SG;3;PST;FIN;ACT	N
+hat	six	hat	six		NUM
+hat	sáu	hat	sáu		NUM
+tett	chế	tesz	chế	V;INDF;IND;SG;3;PST;FIN;ACT	N
+dal	dal	dal	dal	N;NOM;SG	
+dal	dall	dal	dall	N;NOM;SG	NUM
+dal	song	dal	song	N;NOM;SG	CONJ
+közös	chia	közös	chia		V
+közös	chung	közös	chung		ADJ
+közös	tham	közös	tham		V
+folyó	sông	folyó	sông		N
+önálló	lập	önálló	lập		V
+részben	saga	részben	saga	ADV	
+részben	part	részben	part	ADV	
+részben	phần	részben	phần	ADV	N
+ezeket	những	ez	những	PRO;ACC;PL;3	DET
+tamás	thomas	tamás	thomas	N;NOM;SG	
+miért	sao	miért	sao	ADV	PROPN
+birodalom	empire	birodalom	empire	N;NOM;SG	
+megyei	quận	megyei	quận	ADJ;NOM;SG	N
+megyei	hạt	megyei	hạt	ADJ;NOM;SG	N
+alsó	hạ	alsó	hạ		V
+alsó	dưới	alsó	dưới		N
+alsó	bậc	alsó	bậc		N
+alsó	đáy	alsó	đáy		N
+tér	đc	tér	đc	N;NOM;SG	
+tér	square	tér	square	N;NOM;SG	
+tér	vuông	tér	vuông	N;NOM;SG	ADJ
+közel	close	közel	close		V
+közel	đóng	közel	đóng		V
+közel	gần	közel	gần		ADJ
+közel	kín	közel	kín		V
+közel	gần	közel	gần		ADJ
+kör	tròn	kör	tròn	N;NOM;SG	ADJ
+kör	laps	kör	laps	N;NOM;SG	
+york	york	york	york		N
+fiatal	trẻ	fiatal	trẻ		N
+felső	nắp	felső	nắp		N
+felső	đỉnh	felső	đỉnh		N
+arany	vầng	arany	vầng		N
+arany	golden	arany	golden		N
+arany	đỏi	arany	đỏi		V
+arany	vàng	arany	vàng		N
+zenei	nhạc	zenei	nhạc	ADJ;NOM;SG	V
+zenei	musical	zenei	musical	ADJ;NOM;SG	N
+cseh	séc	cseh	séc	ADJ;NOM;SG	N
+attila	attila	attila	attila		N
+minta	sample	minta	sample	N;NOM;SG	
+minta	pattern	minta	pattern	N;NOM;SG	V
+központi	trung	központi	trung	ADJ;NOM;SG	N
+központi	central	központi	central	ADJ;NOM;SG	
+kellene	nên	kell	nên	V;INDF;COND;SG;3;PRS;FIN;ACT	CONJ
+föld	đáp	föld	đáp	N;NOM;SG	V
+world	giới	world	giới		N
+poszt	đăng	poszt	đăng	N;NOM;SG	V
+vörös	đỏ	vörös	đỏ		N
+városi	phố	városi	phố	ADJ;NOM;SG	N
+városi	by	városi	by	ADJ;NOM;SG	
+club	clb	club	clb		N
+gróf	đếm	gróf	đếm		V
+olaszország	italy	olaszország	italy		N
+nevet	cười	név	cười	N;ACC;SG	V
+nevet	cười	név	cười	N;ACC;SG	V
+cím	tựa	cím	tựa	N;NOM;SG	
+szükséges	cần	szükséges	cần	ADJ;NOM;SG	V
+szükséges	thiết	szükséges	thiết	ADJ;NOM;SG	V
+szükséges	ấp	szükséges	ấp	ADJ;NOM;SG	N
+pár	vài	pár	vài		DET
+pár	cặp	pár	cặp		N
+pár	đôi	pár	đôi		NUM
+nyert	won	nyert	won	V;INDF;IND;SG;3;PST;FIN;ACT	
+nyert	thắng	nyert	thắng	V;INDF;IND;SG;3;PST;FIN;ACT	N
+nyert	thắng	nyert	thắng	V;INDF;IND;SG;3;PST;FIN;ACT	N
+egyébként	kẻo	egyébként	kẻo	ADV	V
+hatalmas	massive	hatalmas	massive	ADJ;NOM;SG	
+negyedik	mùng	negyed	mùng		N
+vezetett	led	vezetett	led	V;INDF;IND;SG;3;PST;FIN;ACT	N
+vezetett	tông	vezetett	tông	V;INDF;IND;SG;3;PST;FIN;ACT	N
+társaság	ty	társaság	ty	N;NOM;SG	
+rész	saga	rész	saga	N;NOM;SG	
+rész	part	rész	part	N;NOM;SG	
+rész	tập	rész	tập	N;NOM;SG	
+rész	episode	rész	episode	N;NOM;SG	
+mutatja	khoe	mutat	khoe	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+top	nắp	top	nắp		N
+top	đỉnh	top	đỉnh		N
+mégis	chưa	mégis	chưa	CONJ	
+mégis	vân	mégis	vân	CONJ	N
+mégis	thinh	mégis	thinh	CONJ	
+filmek	phim	film	phim	N;NOM;PL	
+filmek	phim	film	phim	N;NOM;PL	
+ezer	nghìn	ezer	nghìn	NUM;NOM;SG	N
+ezer	ngàn	ezer	ngàn	NUM;NOM;SG	N
+képek	pics	kép	pics	N;NOM;PL	
+nyugat	tây	nyugat	tây		N
+nyugat	tây	nyugat	tây		N
+kelet	đông	kelet	đông		ADJ
+hogyan	bao	hogyan	bao	ADV	
+holland	bản	holland	bản		N
+holland	hoà	holland	hoà		
+holland	dutch	holland	dutch		N
+aztán	rồi	aztán	rồi		CONJ
+vár	castle	vár	castle	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+vár	đài	vár	đài	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+saint	thánh	saint	thánh		N
+erős	mạnh	erős	mạnh		ADJ
+győztes	thang	győztes	thang		N
+győztes	thắng	győztes	thắng		N
+szerb	serbia	szerb	serbia		N
+adatok	dữ	adat	dữ	N;NOM;PL	V
+szép	đẹp	szép	đẹp		ADJ
+közép	trung	közép	trung		N
+közép	giữa	közép	giữa		ADP
+közép	đọng	közép	đọng		V
+közép	mid	közép	mid		N
+természetes	chích	természetes	chích	ADJ;NOM;SG	V
+und	und	und	und		N
+kiemelt	chê	kiemelt	chê	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ
+korai	sớm	korai	sớm		ADJ
+felett	trên	felett	trên	ADP	
+magyarul	hung	magyar	hung		N
+magyarul	hungary	magyar	hungary		N
+egyben	cũng	egyben	cũng	ADV	
+kovács	rèn	kovács	rèn		V
+afrikai	phi	afrikai	phi		N
+független	lập	független	lập		V
+fog	will	fog	will	V;INDF;IND;SG;3;PRS;ACT	
+fog	sẽ	fog	sẽ	V;INDF;IND;SG;3;PRS;ACT	
+fog	muốn	fog	muốn	V;INDF;IND;SG;3;PRS;ACT	V
+fog	răng	fog	răng	V;INDF;IND;SG;3;PRS;ACT	N
+csata	battle	csata	battle	N;NOM;SG	
+érdemes	giá	érdemes	giá	ADJ;NOM;SG	N
+érdemes	worthy	érdemes	worthy	ADJ;NOM;SG	
+játék	chơi	játék	chơi	N;NOM;SG	V
+játék	play	játék	play	N;NOM;SG	V
+játék	chơi	játék	chơi	N;NOM;SG	V
+játék	at	játék	at	N;NOM;SG	
+erzsébet	elizabeth	erzse	elizabeth	N;NOM;SG	
+kereskedelmi	trade	kereskedelmi	trade	ADJ;NOM;SG	N
+london	london	london	london	N;NOM;SG	
+james	james	james	james		N
+kapcsolatban	related	kapcsolat	related	N;IN+ESS;SG	V
+barlang	hang	barlang	hang	N;NOM;SG	
+géza	géza	géza	géza	N;NOM;SG	
+előre	advance	előre	advance		N
+rock	đá	rock	đá		N
+rock	rock	rock	rock		N
+eredetű	vạn	eredetű	vạn		ADJ
+tibor	tibor	tibor	tibor	PROPN;NOM;SG	
+hagyományos	conventional	hagyományos	conventional		ADJ
+des	des	des	des		N
+széles	rộng	széles	rộng	N;NOM;SG	ADJ
+széles	vid	széles	vid	N;NOM;SG	
+széles	rộng	széles	rộng	N;NOM;SG	ADJ
+kiadás	edition	kiadás	edition	N;NOM;SG	
+verseny	đua	verseny	đua	N;NOM;SG	V
+verseny	nhung	verseny	nhung	N;NOM;SG	
+city	phố	city	phố		N
+rossz	xấu	rossz	xấu		ADJ
+rossz	kém	rossz	kém		ADJ
+rossz	khiếp	rossz	khiếp		V
+rossz	tệ	rossz	tệ		N
+rossz	sai	rossz	sai		ADJ
+rossz	lỗi	rossz	lỗi		N
+rossz	nhầm	rossz	nhầm		V
+kéne	nên	kéne	nên	V;INDF;COND;SG;3;PRS;FIN;ACT	CONJ
+test	thân	test	thân	N;NOM;SG	
+test	body	test	body	N;NOM;SG	
+ének	hát	én	hát	N;NOM;SG	V
+igaz	thật	igaz	thật		PART
+igaz	đúng	igaz	đúng		ADJ
+keresztény	nguyen	keresztény	nguyen		N
+gól	đo	gól	đo	N;NOM;SG	V
+polgári	civil	polgári	civil	ADJ;NOM;SG	
+polgári	civic	polgári	civic	ADJ;NOM;SG	N
+célja	aim	cél	aim	N;NOM;SG	
+célja	ngắm	cél	ngắm	N;NOM;SG	V
+célja	nhắm	cél	nhắm	N;NOM;SG	V
+port	bụi	por	bụi		N
+port	chốn	por	chốn		N
+port	cảng	por	cảng		N
+port	cổng	por	cổng		N
+port	port	por	port		N
+port	bột	por	bột		N
+port	phấn	por	phấn		N
+egyéni	singles	egyéni	singles		NUM
+kevés	vài	kevés	vài		DET
+kevés	nhỏ	kevés	nhỏ		ADJ
+uralkodó	symposiachrus	uralkodó	symposiachrus	N;NOM;SG	V
+évad	season	évad	season	N;NOM;SG	
+szezon	season	szez	season	N;NOM;SG	
+emellett	vả	emellett	vả	ADV	ADJ
+zenekar	ban	zenekar	ban	N;NOM;SG	
+zenekar	band	zenekar	band	N;NOM;SG	
+darab	mảnh	darab	mảnh		N
+darab	miếng	darab	miếng		N
+darab	vở	darab	vở		N
+darab	rách	darab	rách		V
+hol	đâu	hol	đâu	ADV	PROPN
+peter	peter	peter	peter	PROPN;NOM;SG	
+peter	phêrô	peter	phêrô	PROPN;NOM;SG	N
+gitár	guitars	gitár	guitars	N;NOM;SG	
+romániai	rumani	romániai	rumani	ADJ;NOM;SG	
+www	www	www	www		N
+kötet	volume	kötet	volume	N;NOM;SG	
+love	yêu	love	yêu		V
+zsigmond	zsigmond	zsigmond	zsigmond		N
+amíg	phiêu	amíg	phiêu	ADV	V
+amíg	mens	amíg	mens	ADV	
+cég	ty	cég	ty	N;NOM;SG	
+persze	hải	persze	hải		N
+henrik	henrik	henrik	henrik	N;NOM;SG	
+henrik	henry	henrik	henry	N;NOM;SG	
+hamarosan	sớm	hamarosan	sớm	ADV	ADJ
+hamarosan	sắp	hamarosan	sắp	ADV	
+kék	xanh	kék	xanh		N
+vége	qua	vég	qua	N;NOM;SG	V
+vége	hết	vég	hết	N;NOM;SG	V
+vége	over	vég	over	N;NOM;SG	
+vége	end	vég	end	N;NOM;SG	
+google	google	google	google		N
+kiváló	đan	kiváló	đan	ADJ;NOM;SG	
+oda	oda	oda	oda		N
+körülbelül	khoảng	körülbelül	khoảng	ADV	ADJ
+körülbelül	về	körülbelül	về	ADV	V
+körülbelül	ban	körülbelül	ban	ADV	
+zöld	lục	zöld	lục		N
+oscar	oscar	oscar	oscar		N
+posta	mail	posta	mail		V
+posta	thư	posta	thư		N
+posta	đăng	posta	đăng		V
+születés	sinh	születés	sinh	N;NOM;SG	V
+sokat	nhiều	sok	nhiều		ADJ
+óra	xem	óra	xem	N;NOM;SG	V
+kiss	hôn	kiss	hôn		V
+tudta	tú	tud	tú	V;DEF;IND;SG;3;PST;FIN;ACT	N
+mások	khác	más	khác		ADJ
+feleségül	marry	feleségül	marry	N;NOM;SG	
+feleségül	cưới	feleségül	cưới	N;NOM;SG	V
+személy	người	személy	người		N
+bécsi	viennese	bécsi	viennese		N
+bécsi	viên	bécsi	viên		N
+vevő	receiver	vevő	receiver	ADJ;NOM;SG	N
+vidék	rural	vidék	rural	N;NOM;SG	NUM
+bajnokok	champs	bajnok	champs	N;NOM;PL	
+evangélikus	evangelical	evangélikus	evangelical	N;NOM;SG	
+helyén	site	hely	site	N;ON+ESS;SG	
+black	đen	black	đen		ADJ
+tartották	chức	tart	chức	V;DEF;IND;PL;3;PST;FIN;ACT	N
+nehéz	nặng	nehéz	nặng		ADJ
+nehéz	cứng	nehéz	cứng		ADJ
+nehéz	khó	nehéz	khó		ADJ
+nehéz	khổ	nehéz	khổ		ADJ
+nehéz	đắng	nehéz	đắng		ADJ
+nehéz	khó	nehéz	khó		ADJ
+nyolc	tám	nyolc	tám		NUM
+nyolc	eight	nyolc	eight		NUM
+döntő	final	döntő	final	ADJ;NOM;SG	N
+képest	so	képest	so		V
+with	với	with	với		ADP
+with	bằng	with	bằng		ADP
+császári	imperial	császári	imperial	ADJ;NOM;SG	N
+duna	danube	duna	danube		N
+duna	donau	duna	donau		N
+utána	theo	utána	theo		V
+utána	sau	utána	sau		N
+zene	nhạc	zene	nhạc	N;NOM;SG	V
+különleges	cống	különleges	cống		N
+kevésbé	bớt	kevésbé	bớt	ADV	V
+kevésbé	ít	kevésbé	ít	ADV	ADJ
+kevésbé	giảm	kevésbé	giảm	ADV	V
+valójában	thực	valójában	thực	N;IN+ESS;SG	V
+közeli	close	közeli	close		V
+közeli	đóng	közeli	đóng		V
+közeli	gần	közeli	gần		ADJ
+közeli	kín	közeli	kín		V
+címe	tựa	cím	tựa	N;NOM;SG	
+néha	đôi	néha	đôi		NUM
+súlyos	nặng	súlyos	nặng		ADJ
+súlyos	bách	súlyos	bách		N
+súlyos	nặng	súlyos	nặng		ADJ
+klasszikus	classic	klasszikus	classic		N
+komoly	bách	komoly	bách		N
+főbb	chính	fő	chính	ADJ;NOM;CMPR;SG	PART
+főbb	main	fő	main	ADJ;NOM;CMPR;SG	N
+románia	rumani	románia	rumani	N;NOM;SG	
+románia	românia	románia	românia	N;NOM;SG	NUM
+alig	khan	alig	khan		V
+miközben	phiêu	miközben	phiêu	ADV	V
+miközben	mens	miközben	mens	ADV	
+patak	luồng	patak	luồng	N;NOM;SG	
+patak	stream	patak	stream	N;NOM;SG	
+kálmán	kálmán	kálmán	kálmán		N
+arab	arab	arab	arab		N
+ezüst	bạc	ezüst	bạc	V;INDF;IND;SG;3;PST;FIN;ACT	N
+belga	bỉ	belga	bỉ		N
+közvetlenül	direct	közvetlen	direct	ADJ;FRML;SG	
+közvetlenül	trực	közvetlen	trực	ADJ;FRML;SG	V
+központ	tâm	központ	tâm	N;NOM;SG	
+los	los	los	los		N
+united	united	united	united		N
+united	hoa	united	hoa		N
+tanács	khuyên	tanács	khuyên	N;NOM;SG	V
+farkas	soi	farkas	soi		V
+farkas	wolf	farkas	wolf		N
+farkas	sói	farkas	sói		N
+esett	ngã	esik	ngã	V;INDF;IND;SG;3;PST;FIN;ACT	N
+férje	husband	fér	husband	N;NOM;SG	
+kanadai	canada	kanadai	canada	ADJ;NOM;SG	N
+kanadai	canadian	kanadai	canadian	ADJ;NOM;SG	N
+sokan	nhiều	sokan	nhiều	ADV	ADJ
+ötödik	fifth	ötödik	fifth	ADJ;NOM;SG	N
+gazdag	vương	gazdag	vương		N
+gazdag	giàu	gazdag	giàu		ADJ
+speciális	cống	speciális	cống	ADJ;NOM;SG	N
+tényleg	thực	tényleg	thực		V
+tényleg	thật	tényleg	thật		PART
+mielőtt	trước	mielőtt	trước	ADV	
+gyors	mau	gyors	mau		ADJ
+gyors	nhanh	gyors	nhanh		ADJ
+gyors	mau	gyors	mau		ADJ
+gyors	nhanh	gyors	nhanh		ADJ
+katalin	catherine	katalin	catherine	N;NOM;SG	
+zsolt	zsolt	zsolt	zsolt	N;NOM;SG	
+rajna	rhine	rajna	rhine		N
+rajna	rhein	rajna	rhein		N
+ford	ford	ford	ford	PROPN;NOM;SG	N
+azonnal	ngay	azonnal	ngay		PART
+azonnal	instant	azonnal	instant		N
+edző	trainer	edző	trainer	N;NOM;SG	
+barokk	baroque	barokk	baroque		N
+sport	sport	sport	sport		N
+kicsit	bit	kicsi	bit		N
+kicsit	cắn	kicsi	cắn		V
+lemez	đĩa	lemez	đĩa	N;NOM;SG	
+lemez	đĩa	lemez	đĩa	N;NOM;SG	
+lemez	đĩa	lemez	đĩa	N;NOM;SG	
+énekes	vocalist	énekes	vocalist	N;NOM;SG	
+koreai	hàn	koreai	hàn		N
+koreai	hàn	koreai	hàn		N
+típus	gõ	típus	gõ	N;NOM;SG	V
+mindent	hết	minden	hết		V
+national	gạt	national	gạt		V
+bíró	ref	bíró	ref		N
+svájci	swiss	svájci	swiss		N
+kizárólag	chỉ	kizárólag	chỉ		
+kizárólag	duy	kizárólag	duy		N
+sárga	vàng	sárga	vàng		N
+sárga	nhát	sárga	nhát		V
+példa	dụ	példa	dụ	N;NOM;SG	V
+mátyás	mathias	mátyás	mathias		N
+mátyás	matthias	mátyás	matthias		N
+piros	đỏ	piros	đỏ		N
+torna	turn	torna	turn	N;NOM;SG	
+fülöp	filip	fülöp	filip		N
+tag	tag	tag	tag	N;NOM;SG	
+kettő	hai	kettő	hai		NUM
+kettő	two	kettő	two		NUM
+tengeri	maritime	tengeri	maritime		N
+tengeri	biển	tengeri	biển		N
+kolozsvári	cluj	kolozsvári	cluj	ADJ;NOM;SG	NUM
+igazi	real	igazi	real		N
+igazi	thực	igazi	thực		V
+igazi	thật	igazi	thật		PART
+igazi	thiệt	igazi	thiệt		PART
+igazi	thật	igazi	thật		PART
+igazi	đúng	igazi	đúng		ADJ
+párizs	paris	párizs	paris	N;NOM;SG	
+brazília	brazil	brazília	brazil		N
+brazília	brasil	brazília	brasil		N
+brazília	brazil	brazília	brazil		N
+brazília	brazilian	brazília	brazilian		N
+kína	china	kína	china	PROPN;NOM;SG	N
+kína	prc	kína	prc	PROPN;NOM;SG	N
+bécs	vienna	bécs	vienna	N;NOM;SG	
+kerület	huyện	kerület	huyện		N
+középső	trung	középső	trung		N
+középső	giữa	középső	giữa		ADP
+középső	đọng	középső	đọng		V
+alacsony	bài	alacsony	bài	ADJ;NOM;SG	N
+alacsony	short	alacsony	short	ADJ;NOM;SG	
+alacsony	lá	alacsony	lá	ADJ;NOM;SG	N
+alacsony	low	alacsony	low	ADJ;NOM;SG	
+közvetlen	trực	közvetlen	trực		V
+mexikói	mễ	mexikói	mễ		N
+majdnem	sắp	majdnem	sắp		
+majdnem	gần	majdnem	gần		ADJ
+eltérő	divergent	eltérő	divergent	ADJ;NOM;SG	N
+hegyi	núi	hegyi	núi		N
+maria	chư	maria	chư		N
+maria	maria	maria	maria		N
+királyné	hậu	király	hậu	N;NOM;SG	
+valódi	real	valódi	real		N
+valódi	thực	valódi	thực		V
+valódi	thật	valódi	thật		PART
+valódi	thiệt	valódi	thiệt		PART
+adó	thuế	adó	thuế		N
+adó	thuế	adó	thuế		N
+hegy	lắp	hegy	lắp	N;NOM;SG	V
+hegy	ngổn	hegy	ngổn	N;NOM;SG	V
+hegy	hill	hegy	hill	N;NOM;SG	
+hegy	hoan	hegy	hoan	N;NOM;SG	
+nobel	nobel	nobel	nobel		N
+gergely	gergely	gergely	gergely		V
+dán	danish	dán	danish		N
+fiú	boy	fiú	boy	N;NOM;SG	
+hát	chà	hát	chà		N
+hát	ừm	hát	ừm		PART
+helyezett	bot	helyez	bot	V;INDF;IND;SG;3;PST;FIN;ACT	N
+egyedül	độc	egyedül	độc		ADJ
+vii	vỉ	vii	vỉ		N
+tábornok	chung	tábornok	chung	N;NOM;SG	ADJ
+rádió	radio	rádió	radio	N;NOM;SG	
+délre	nam	délre	nam	ADV	N
+hajó	ship	hajó	ship	N;NOM;SG	V
+rendszeresen	thường	rendszeres	thường	ADJ;FRML;SG	
+berlin	berlin	berlin	berlin	PROPN;NOM;SG	N
+centiméter	centimet	centiméter	centimet	N;NOM;SG	
+brazil	brazil	brazil	brazil		N
+brazil	brazilian	brazil	brazilian		N
+xii	xii	xii	xii	PROPN;NOM;SG	NUM
+mellé	cạnh	mellé	cạnh	ADP	N
+róma	phòng	róma	phòng		N
+róma	rome	róma	rome		N
+róma	roma	róma	roma		N
+dvd	dvd	dvd	dvd	N;NOM;SG	V
+melyik	mà	melyik	mà		CONJ
+akarsz	muon	akarsz	muon	V;INDF;IND;SG;1;PRS;FIN;ACT	
+alakja	form	alak	form	N;NOM;SG	
+készítette	chế	készít	chế	V;DEF;IND;SG;3;PST;FIN;ACT	N
+elektromos	điện	elektromos	điện		N
+elektromos	điện	elektromos	điện		N
+kémiai	hóa	kémiai	hóa	N;NOM;SG	
+jack	bồi	jack	bồi		V
+tom	tom	tom	tom		N
+golden	vầng	golden	vầng		N
+golden	golden	golden	golden		N
+golden	đỏi	golden	đỏi		V
+székely	székely	székely	székely		V
+szenvedett	led	szenved	led	V;INDF;IND;SG;3;PST;FIN;ACT	N
+vállalat	ty	vállalat	ty	N;NOM;SG	
+joseph	giuse	joseph	giuse		N
+joseph	joseph	joseph	joseph		N
+vonal	line	vonal	line	N;NOM;SG	
+münchen	munchen	münchen	munchen	N;NOM;SG	
+kétszer	twice	két	twice		
+ausztrál	aussie	ausztrál	aussie		N

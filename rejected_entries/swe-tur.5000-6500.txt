@@ -1,0 +1,2649 @@
+idrottare	sporcu	idrottare	sporcu	N;NOM;INDF;MASC+FEM;PL	
+idrottare	atlet	idrottare	atlet	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+gravar	mezar	grav	mezar	N;NOM;INDF;MASC+FEM;PL	
+gravar	graves	grav	graves	N;NOM;INDF;MASC+FEM;PL	
+gravar	mezarları	grav	mezar	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+frivilliga	gönüllü	frivillig	gönüllü	ADJ;NOM;PL	
+frivilliga	gönüllü	frivillig	gönüllü	ADJ;NOM;PL	
+runda	yuvarlak	rund	yuvarlak	ADJ;NOM;PL	
+leconte	leconte	leconte	lecont	N;NOM;INDF;MASC+FEM;SG	
+petersen	petersen	peters	pet	N;NOM;DEF;MASC+FEM;SG	
+carroll	carroll	carroll	carroll	PROPN;NOM	PROPN;NOM;SG;3
+hannover	hanover	hannover	hanover	PROPN;NOM	PROPN;NOM;SG;3
+hannover	hannover	hannover	hannover	PROPN;NOM	PROPN;NOM;SG;3
+palace	saray	palace	saray	N;NOM;INDF;MASC+FEM;SG	
+palace	sarayı	palace	sara	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+värt	değer	värd	değer	ADJ;NOM;INDF;MASC+FEM;SG	
+värt	worth	värd	worth	ADJ;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+hemmet	yuva	hem	yuva	N;NOM;DEF;NEUT;SG	
+hemmet	evde	hem	ev	N;NOM;DEF;NEUT;SG	N;ESS;SG;3
+hemmet	eve	hem	ev	N;NOM;DEF;NEUT;SG	N;DAT;SG;3
+specifikt	spesifik	specifikt	spesifik	ADV	
+specifikt	belirli	specifikt	belirli	ADV	
+specifikt	özellikle	specifikt	özellikle	ADV	
+étienne	étienne	étienne	üt	PROPN;NOM	
+shorts	şort	short	şort	N;NOM;INDF;MASC+FEM;SG	
+astronom	astronom	astronom	astronom	N;NOM;INDF;MASC+FEM;SG	
+anka	eğil	anka	eğil	N;NOM;INDF;MASC+FEM;SG	
+anka	duck	anka	duck	N;NOM;INDF;MASC+FEM;SG	
+patienter	hasta	patient	hasta	N;NOM;INDF;MASC+FEM;PL	
+patienter	hastalara	patient	hasta	N;NOM;INDF;MASC+FEM;PL	N;DAT;PL;3
+palme	palme	palme	palme	PROPN;NOM	
+erfarenheter	deneyimleri	erfarenhet	deneyim	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+erfarenheter	deneyimi	erfarenhet	deney	N;NOM;INDF;MASC+FEM;PL	N;ACC;SG;3
+erfarenheter	tecrübe	erfarenhet	tecrübe	N;NOM;INDF;MASC+FEM;PL	
+erfarenheter	deneyim	erfarenhet	den	N;NOM;INDF;MASC+FEM;PL	
+rat	fare	rat	fare	N;NOM;INDF;MASC+FEM;SG	
+rat	sıçan	rat	sıç	N;NOM;INDF;MASC+FEM;SG	
+renovering	tadilat	renovering	tadilat	N;NOM;INDF;MASC+FEM;SG	
+renovering	yenileme	renovering	yenilem	N;NOM;INDF;MASC+FEM;SG	
+federation	federasyon	federation	federasyon	N;NOM;INDF;MASC+FEM;SG	
+hörnet	köşeye	hörn	köşe	N;NOM;DEF;NEUT;SG	N;DAT;SG;3
+hörnet	köşe	hörn	köşe	N;NOM;DEF;NEUT;SG	
+granada	granada	granad	grana	N;NOM;INDF;MASC+FEM;SG	PROPN;ESS;SG;3
+banor	satır	bana	satır	N;NOM;INDF;MASC+FEM;PL	
+banor	hatları	bana	hat	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+banor	yörüngeleri	bana	yörünge	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+banor	pistlere	bana	pist	N;NOM;INDF;MASC+FEM;PL	N;DAT;PL;3
+banor	kursları	bana	kurs	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+banor	kurs	bana	kurs	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+haag	lahey	haag	lahey	PROPN;NOM	PROPN;NOM;SG;3
+salta	tuzlu	salta	tuzlu	N;NOM;INDF;MASC+FEM;SG	
+salta	tuz	salta	tuz	N;NOM;INDF;MASC+FEM;SG	
+salta	salt	salta	salt	N;NOM;INDF;MASC+FEM;SG	
+salta	tuzu	salta	tuz	N;NOM;INDF;MASC+FEM;SG	
+olga	olga	olg	olga	PROPN;NOM	
+willy	willy	willy	willy	PROPN;NOM	PROPN;NOM;SG;3
+amiral	amiral	amiral	amiral	PROPN;NOM	
+fasaden	cephe	fasa	cephe	N;NOM;DEF;MASC+FEM;SG	
+smala	cılız	smal	cılız	ADJ;NOM;PL	
+smala	sıska	smal	sıska	ADJ;NOM;PL	
+smala	zayıf	smal	zayıf	ADJ;NOM;PL	
+smala	dar	smal	dar	ADJ;NOM;PL	
+variegata	variegata	variegat	variegat	N;NOM;INDF;MASC+FEM;SG	
+march	mart	march	mart	N;NOM;INDF;MASC+FEM;SG	
+march	marş	march	marş	N;NOM;INDF;MASC+FEM;SG	
+march	yürüyüş	march	yürüyüş	N;NOM;INDF;MASC+FEM;SG	
+demo	demo	demo	demo	N;NOM;INDF;MASC+FEM;SG	
+mathias	mathias	mathias	mathias	PROPN;NOM	
+verser	ayetleri	vers	ayet	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+bristol	bristol	bristol	bristol	PROPN;NOM	PROPN;NOM;SG;3
+nedanför	aşağıda	nedanför	aşağı	ADV	ADJ;ESS;SG;3
+nedanför	aşağı	nedanför	aşağ	ADV	
+nedanför	aşağıya	nedanför	aşağı	ADV	ADJ;DAT;SG;3
+nedanför	aşağıdan	nedanför	aşağı	ADV	ADJ;AT+ABL;SG;3
+reticulata	reticulata	reticulat	reticulata	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+vagnar	arabaları	vagna	araba	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+vagnar	arabaları	vagna	araba	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+svante	svante	svante	svant	PROPN;NOM	
+produkt	ürün	produkt	ürün	N;NOM;INDF;MASC+FEM;SG	
+riktade	yönlü	riktad	yönlü	ADJ;NOM;PL;PST;V.PTCP	
+principen	ilke	princip	ilke	N;NOM;DEF;MASC+FEM;SG	
+principen	prensip	princip	prens	N;NOM;DEF;MASC+FEM;SG	
+monroe	monroe	monroe	monroe	PROPN;NOM	PROPN;NOM;SG;3
+macdonald	macdonald	macdonald	macdonald	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+macdonald	mcdonald	macdonald	mcdonald	N;NOM;INDF;MASC+FEM;SG	
+sinensis	sinensis	sinensis	sinensis	N;NOM;INDF;MASC+FEM;SG	
+clements	clements	clement	clements	PROPN;NOM	
+ansluter	bağlanıyor	ansluta	bağla	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+ansluter	bağlama	ansluta	bağlama	V;IND;PRS;FIN;ACT	
+besegra	mağlup	besegra	mağlup	V;IMP;FIN;ACT	ADJ
+besegra	yenilgi	besegra	yenilgi	V;IMP;FIN;ACT	
+reaktion	tepki	reaktion	tepki	N;NOM;INDF;MASC+FEM;SG	
+reaktion	reaksiyon	reaktion	reaksiyon	N;NOM;INDF;MASC+FEM;SG	
+journalisten	gazeteci	journalist	gazeteci	N;NOM;DEF;MASC+FEM;SG	
+journalisten	muhabir	journalist	muhabir	N;NOM;DEF;MASC+FEM;SG	
+butte	butte	butte	butte	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+morrison	morrison	morrison	morrison	PROPN;NOM	
+sällsynta	seyrek	sällsynta	seyrek	ADJ;NOM;PL	
+sällsynta	nadir	sällsynta	nadir	ADJ;NOM;PL	
+sällsynta	ender	sällsynta	ende	ADJ;NOM;PL	
+tabell	tablo	tabell	tablo	N;NOM;INDF;MASC+FEM;SG	
+tabell	sofra	tabell	sofra	N;NOM;INDF;MASC+FEM;SG	
+tabell	masa	tabell	masa	N;NOM;INDF;MASC+FEM;SG	
+utbyte	takas	utbyte	takas	N;NOM;INDF;NEUT;SG	
+fleming	fleming	fleming	fleming	PROPN;NOM	
+stationer	istasyonları	station	ista	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+malin	malin	malin	malin	PROPN;NOM	
+java	java	jav	java	N;NOM;INDF;MASC+FEM;SG	
+definitivt	kesinlikle	definitiv	kesinlik	ADV	N;INS;SG;3
+mördad	öldürülen	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+mördad	öldürüldü	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+mördad	öldürülmüş	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+mördad	öldürüldü	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+mördad	öldürülmüş	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+mördad	öldürdüm	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST;CAUS
+mördad	öldürdü	mörda	öl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;CAUS
+ovanliga	sıradışı	ovanlig	sıra	ADJ;NOM;PL	
+ovanliga	olağandışı	ovanlig	olağan	ADJ;NOM;PL	
+ovanliga	alışılmadık	ovanlig	alış	ADJ;NOM;PL	V;PFV;POT;PL;1;NEG;PST
+stycke	parça	stycke	parça	N;NOM;INDF;NEUT;SG	
+bass	bas	bass	bas	N	
+bass	bass	bass	bass	N	
+grönt	yeşile	grön	yeşil	ADJ;NOM;INDF;NEUT;SG	
+grönt	yeşillik	grön	yeşillik	ADJ;NOM;INDF;NEUT;SG	N;NOM;SG;3
+grönt	green	grön	gre	ADJ;NOM;INDF;NEUT;SG	
+grönt	yeşili	grön	yeşil	ADJ;NOM;INDF;NEUT;SG	ADJ;ACC;SG;3
+holländska	hollandalı	holländsk	hollandal	ADJ;NOM;PL	
+smal	cılız	smal	cılız	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	sıska	smal	sıska	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	zayıf	smal	zayıf	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	dar	smal	dar	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	sıska	smal	sıska	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	slim	smal	slim	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	zayıf	smal	zayıf	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	zayıf	smal	zayıf	ADJ;NOM;INDF;MASC+FEM;SG	
+columbus	columbus	columbus	columbus	PROPN;NOM	PROPN;NOM;SG;3
+columbus	kolomb	columbus	kolomb	PROPN;NOM	
+brandt	brandt	brand	brandt	PROPN;NOM	PROPN;NOM;SG;3
+caesar	caesar	caes	caesar	PROPN;NOM	
+caesar	sezar	caes	sezar	PROPN;NOM	
+pommern	pomerania	pommer	pomerania	PROPN;NOM	
+jessica	jessica	jessic	jessica	N;NOM;INDF;MASC+FEM;SG	
+hjärnan	beyin	hjärna	beyin	N;NOM;DEF;MASC+FEM;SG	
+hjärnan	brain	hjärna	brain	N;NOM;DEF;MASC+FEM;SG	
+grupperna	grupları	grupp	grup	N;NOM;DEF;MASC+FEM;PL	N;ACC;PL;3
+bränsle	yakıt	bränsle	yakıt	N;NOM;INDF;NEUT;SG	
+bränsle	benzin	bränsle	benz	N;NOM;INDF;NEUT;SG	
+bränsle	yakıtlar	bränsle	yakıt	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+sänder	gönderiliyor	sända	gönder	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+sänder	gönderir	sända	gönder	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS
+sålt	satılmış	sålt	sat	V;V.CVB;ACT	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+sålt	satılan	sålt	sat	V;V.CVB;ACT	V;PFV;IND;POS;PRS;V.PTCP;PASS
+sålt	satıldı	sålt	sat	V;V.CVB;ACT	V;PFV;IND;SG;3;POS;PST;PASS
+sålt	satılır	sålt	sat	V;V.CVB;ACT	V;IPFV;IND;SG;3;POS;PASS
+fiktiv	hayali	fiktiv	hayal	ADJ;NOM;INDF;MASC+FEM;SG	
+kris	kriz	kris	kriz	N;NOM;INDF;MASC+FEM;SG	
+kris	kris	kris	kris	N;NOM;INDF;MASC+FEM;SG	
+kritisk	kritik	kritisk	kritik	ADJ;NOM;INDF;MASC+FEM;SG	
+kritisk	eleştirel	kritisk	eleştirel	ADJ;NOM;INDF;MASC+FEM;SG	
+avslutad	tamamlanmış	avsluta	tamamla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+avslutad	tamamlandı	avsluta	tamamla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+avslutad	tamamladım	avsluta	tamamla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+sydöst	southeast	sydöst	southeast	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+sydöst	güneydoğu	sydöst	güneydoğu	N;NOM;INDF;MASC+FEM;SG	
+trøndelag	trøndelag	trøndelag	trøndelag	PROPN;NOM	N;ESS;SG;3
+jerevan	erivan	jerevan	erivan	PROPN;NOM	
+mata	mata	mata	mata	V;IMP;FIN;ACT	
+existens	varoluş	exist	varoluş	N;NOM;INDF;MASC+FEM;SG	
+emilio	emilio	emilio	emilio	PROPN;NOM	PROPN;NOM;SG;3
+low	alçak	low	alçak	N;NOM;INDF;MASC+FEM;SG	
+low	düşük	low	düşük	N;NOM;INDF;MASC+FEM;SG	
+cordillera	cordillera	cordillera	cordil	V;IMP;FIN;ACT	N;ESS;PL;3
+presenteras	sunuldu	presentera	sun	V;IND;PRS;FIN;PASS	V;PFV;IND;SG;3;POS;PST;PASS
+presenteras	sundu	presentera	sun	V;IND;PRS;FIN;PASS	V;PFV;IND;SG;3;POS;PST
+schumann	schumann	schumann	s0humann	PROPN;NOM	N;NOM;SG;3
+stund	anı	stund	an	N;NOM;INDF;MASC+FEM;SG	
+namibia	namibya	namibi	namibya	PROPN;NOM	PROPN;NOM;SG;3
+chefen	şef	chef	şef	N;NOM;DEF;MASC+FEM;SG	
+chefen	reis	chef	reis	N;NOM;DEF;MASC+FEM;SG	
+chefen	patron	chef	patron	N;NOM;DEF;MASC+FEM;SG	
+ríos	ríos	ríos	ríos	PROPN;NOM	
+romarna	romalı	rom	romalı	N;NOM;DEF;MASC+FEM;PL	
+varning	uyarı	varning	uyar	N;NOM;INDF;MASC+FEM;SG	
+varning	alarm	varning	al	N;NOM;INDF;MASC+FEM;SG	
+varning	uyarı	varning	uyar	N;NOM;INDF;MASC+FEM;SG	
+passa	uygun	passa	uygun	V;IMP;FIN;ACT	ADJ
+passa	fit	passa	fit	V;IMP;FIN;ACT	
+flög	uçtu	flög	uç	V;IMP;FIN;ACT	V;PFV;IND;SG;3;POS;PST
+medio	medio	medio	medio	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+förbindelse	bağlayıcı	förbindelse	bağlayıcı	N;NOM;INDF;MASC+FEM;SG	
+mia	mia	ja	mia	PROPN;NOM	
+ljusare	çakmak	ljus	çak	ADJ;NOM;CMPR	
+påverkade	etkiledi	påverka	etkile	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+påverkade	etkilendi	påverka	etkile	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+påverkade	etkilenmiş	påverka	etkile	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+påverkade	etkilenen	påverka	etkile	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+acalypha	acalypha	acalypha	acalypha	V;IMP;FIN;ACT	
+vacker	guzel	vacker	guzel	ADJ;NOM;INDF;MASC+FEM;SG	
+vacker	beautiful	vacker	beautiful	ADJ;NOM;INDF;MASC+FEM;SG	
+vacker	güzelim	vacker	güzelim	ADJ;NOM;INDF;MASC+FEM;SG	
+bevarad	korunmuş	bevara	korun	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+bevarad	muhafaza	bevara	muhafaza	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+principer	ilke	princip	ilke	N;NOM;INDF;MASC+FEM;PL	
+potentilla	potentilla	potentill	potentil	N;NOM;INDF;MASC+FEM;SG	
+administration	idare	administration	idare	N;NOM;INDF;MASC+FEM;SG	
+administration	yönetim	administration	yönetim	N;NOM;INDF;MASC+FEM;SG	
+administration	idari	administration	idari	N;NOM;INDF;MASC+FEM;SG	
+lomas	lomas	loma	lomas	V;NFIN;PASS	PROPN;NOM;SG;3
+monster	canavar	monster	canavar	N;NOM;INDF;NEUT;SG	
+monster	canavarlar	monster	canav	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+fastän	gerçi	fastän	gerçi	ADV	
+short	kisa	short	kisa	N;NOM;INDF;MASC+FEM;SG	
+short	kısa	short	kısa	N;NOM;INDF;MASC+FEM;SG	ADJ
+federala	federal	federal	federal	ADJ;NOM;PL	
+federala	federal	federal	federal	ADJ;NOM;PL	
+federala	federaller	federal	federal	ADJ;NOM;PL	N;NOM;PL;3
+förutsättningar	koşul	förutsättning	koşul	N;NOM;INDF;MASC+FEM;PL	
+förutsättningar	koşulları	förutsättning	koşul	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+betong	somut	betong	somut	N;NOM;INDF;MASC+FEM;SG	
+betong	beton	betong	beton	N;NOM;INDF;MASC+FEM;SG	
+julie	julie	julie	julie	PROPN;NOM	
+derby	derby	derby	derby	N;NOM;INDF;NEUT;SG	
+cornelius	cornelius	cornelius	cornelius	PROPN;NOM	PROPN;NOM;SG;3
+fabrik	fabrikada	fabrik	fabrika	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+fabrik	fabrika	fabrik	fabrika	N;NOM;INDF;MASC+FEM;SG	
+macquart	macquart	macquart	macquart	N;NOM;INDF;MASC+FEM;SG	
+flickr	flickr	flick	flickr	N;NOM;INDF;MASC+FEM;SG	
+underlätta	kolaylaştırmak	underlätta	kolaylaş	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+ahmed	ahmed	ahmed	ahmed	PROPN;NOM	
+ahmed	ahmet	ahmed	ahmet	PROPN;NOM	
+ahmed	ahmet	ahmed	ahmet	PROPN;NOM	
+ahmed	ahmed	ahmed	ahmed	PROPN;NOM	
+weir	weir	weir	weir	PROPN;NOM	
+mott	mott	mott	mott	N;NOM;INDF;MASC+FEM;SG	
+key	key	key	key	N;NOM;INDF;NEUT;SG	
+willow	willow	willow	willow	PROPN;NOM	
+willow	söğüt	willow	söğüt	PROPN;NOM	
+boa	boa	boa	boa	N;NOM;INDF;NEUT;SG	
+test	test	test	test	N;NOM;INDF;NEUT;SG	
+test	deneme	test	deneme	N;NOM;INDF;NEUT;SG	
+test	test	test	test	N;NOM;INDF;NEUT;SG	
+test	testler	test	test	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+test	test	test	test	N;NOM;INDF;NEUT;SG	
+test	deneme	test	deneme	N;NOM;INDF;NEUT;SG	
+test	testler	test	test	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+blockerad	engellenmiş	blockera	engelle	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+blockerad	engellendi	blockera	engelle	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+rosen	rosen	ros	rosen	N;NOM;DEF;MASC+FEM;SG	PROPN;NOM;SG;3
+mälaren	mälaren	mälare	mü	N;NOM;DEF;MASC+FEM;SG	
+curran	curran	curran	curr	N;NOM;DEF;MASC+FEM;SG	
+organist	orgcu	organist	orgcu	N;NOM;INDF;MASC+FEM;SG	
+utförda	gerçekleştirildi	utföra	gerçekleş	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+utförda	gerçekleştirdi	utföra	gerçekleş	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;CAUS
+publicerat	gönderildi	publicerad	gönder	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+publicerat	paylaşılan	publicerad	paylaşı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+publicerat	paylaşıldı	publicerad	paylaş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+publicerat	paylaştı	publicerad	paylaş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+publicerat	yayınlanan	publicerad	yayınla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+publicerat	yayınlanmış	publicerad	yayınla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+publicerat	yayınlandı	publicerad	yayınla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+publicerat	yayımlandı	publicerad	yayımla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+adolph	adolph	adolph	adolph	PROPN;NOM	
+viking	viking	viking	viking	N;NOM;INDF;MASC+FEM;SG	
+viking	vikingler	viking	viking	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+närvaro	katılım	närvaro	katılım	N;NOM;INDF;MASC+FEM;SG	
+närvaro	katılımı	närvaro	katılım	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+närvaro	varlığını	närvaro	varlık	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+närvaro	varlık	närvaro	varlık	N;NOM;INDF;MASC+FEM;SG	
+tillväxt	büyüme	tillväxt	büyü	N;NOM;INDF;MASC+FEM;SG	
+tillväxt	büyümek	tillväxt	büyü	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+salamanca	salamanca	salamanc	salamanca	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+franco	franco	franco	franco	PROPN;NOM	
+kemisk	kimyasal	kemisk	kimyasal	ADJ;NOM;INDF;MASC+FEM;SG	
+kemisk	kimya	kemisk	kimya	ADJ;NOM;INDF;MASC+FEM;SG	
+robot	robot	robot	robot	N;NOM;INDF;MASC+FEM;SG	
+robot	füze	robot	füz	N;NOM;INDF;MASC+FEM;SG	
+olivier	olivier	olivie	olivier	PROPN;NOM	
+vingar	kanat	vinga	kanat	N;NOM;INDF;MASC+FEM;PL	
+vingar	kanatları	vinga	kanat	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+holger	holger	holg	holger	PROPN;NOM	
+landsväg	yol	landsväg	yol	N;NOM;INDF;MASC+FEM;SG	
+landsväg	otoban	landsväg	otoban	N;NOM;INDF;MASC+FEM;SG	
+landsväg	otoyol	landsväg	otoyol	N;NOM;INDF;MASC+FEM;SG	
+nitida	nitida	nitida	niti	N;NOM;INDF;MASC+FEM;SG	
+bros	bros	bros	bros	PROPN;NOM	
+fossil	fosil	fossil	fosil	N;NOM;INDF;MASC+FEM;SG	
+skott	vuruldu	skott	vur	N;NOM;INDF;NEUT;SG	V;PFV;IND;SG;3;POS;PST
+skott	atış	skott	atış	N;NOM;INDF;NEUT;SG	
+skott	vurdu	skott	vur	N;NOM;INDF;NEUT;SG	V;PFV;IND;SG;3;POS;PST
+skott	mermiler	skott	mermi	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+skott	atışlar	skott	atış	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+skott	çekimler	skott	çekim	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+skott	atış	skott	atış	N;NOM;INDF;NEUT;SG	
+ändrar	değişen	ändra	değiş	V;IND;PRS;FIN;ACT	
+ändrar	değiştirme	ändra	değiş	V;IND;PRS;FIN;ACT	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+torres	torres	torres	torres	PROPN;NOM	PROPN;NOM;SG;3
+cold	soğuk	cold	soğuk	N;NOM;INDF;MASC+FEM;SG	ADJ
+cold	soguk	cold	soguk	N;NOM;INDF;MASC+FEM;SG	
+pictures	resimler	pictures	resim	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+pictures	fotoğraflar	pictures	fotoğraf	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+pictures	resimleri	pictures	resim	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+vuxen	yetişkin	vuxen	yetişkin	N;NOM;INDF;MASC+FEM;SG	
+vuxen	büyümüş	vuxen	büyü	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFH;IND;SG;3;POS;PST
+vuxen	büyüdü	vuxen	büyü	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;POS;PST
+vuxen	yetişkin	vuxen	yetişkin	N;NOM;INDF;MASC+FEM;SG	
+namnteckning	imza	namnteckning	imza	N;NOM;INDF;MASC+FEM;SG	
+ciudad	ciudad	ciuda	ciudad	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+blanche	blanche	blanche	blanch	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+samlar	toplama	samla	toplama	V;IND;PRS;FIN;ACT	
+samlar	toplanıyor	samla	topla	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+samlar	toplama	samla	toplama	V;IND;PRS;FIN;ACT	
+samlar	toplantı	samla	toplantı	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+parametrar	parametreleri	parametra	parametre	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+efteråt	sonrası	efteråt	sonra	ADV	
+efteråt	sonrasında	efteråt	sonra	ADV	N;ESS;SG;3
+efteråt	sonrasında	efteråt	sonra	ADV	N;ESS;SG;3
+exil	sürgüne	exil	sürgü	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+exil	sürgün	exil	sürgün	N;NOM;INDF;MASC+FEM;SG	
+exil	sürüldü	exil	sür	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;POS;PST;PASS
+exil	sürgün	exil	sürgün	N;NOM;INDF;MASC+FEM;SG	
+tillgångar	varlıkları	tillgång	varlık	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+tillgångar	varlık	tillgång	varlık	N;NOM;INDF;MASC+FEM;PL	
+tillgångar	varlık	tillgång	varlık	N;NOM;INDF;MASC+FEM;PL	
+sedum	sedum	sedum	sedum	N;NOM;INDF;MASC+FEM;SG	
+konstnärlig	artistik	konstnärlig	artistik	ADJ;NOM;INDF;MASC+FEM;SG	
+jiao	jiao	jiao	jiao	N;NOM;INDF;MASC+FEM;SG	
+fastigheter	binaların	fastighet	bina	N;NOM;INDF;MASC+FEM;PL	N;GEN;PL;3
+fastigheter	mülk	fastighet	mülk	N;NOM;INDF;MASC+FEM;PL	
+fastigheter	mülkiyet	fastighet	mülkiyet	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+fastigheter	emlak	fastighet	emlak	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+fastigheter	gayrimenkul	fastighet	gayrimenkul	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+fastigheter	özellik	fastighet	özellik	N;NOM;INDF;MASC+FEM;PL	
+fastigheter	emlak	fastighet	emlak	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+rodríguez	rodriguez	rodríguez	rodriguez	PROPN;NOM	
+rodríguez	rodríguez	rodríguez	rodríguez	PROPN;NOM	PROPN;NOM;SG;3
+myndigheten	yetkili	myndighet	yetkili	N;NOM;DEF;MASC+FEM;SG	
+myndigheten	otorite	myndighet	otorite	N;NOM;DEF;MASC+FEM;SG	
+myndigheten	yetki	myndighet	yetki	N;NOM;DEF;MASC+FEM;SG	
+handeln	ticaret	handel	ticaret	N;NOM;DEF;MASC+FEM;SG	
+handeln	takas	handel	takas	N;NOM;DEF;MASC+FEM;SG	
+handeln	ticaret	handel	ticaret	N;NOM;DEF;MASC+FEM;SG	
+owen	owen	owen	owen	PROPN;NOM	PROPN;NOM;SG;3
+anda	ruh	anda	ruh	N;NOM;INDF;MASC+FEM;SG	
+anda	candır	anda	candır	N;NOM;INDF;MASC+FEM;SG	
+hjärtat	kardiyak	hjärta	kardiyak	N;NOM;DEF;NEUT;SG	
+hjärtat	kalp	hjärta	kalp	N;NOM;DEF;NEUT;SG	
+hjärtat	gönül	hjärta	gönül	N;NOM;DEF;NEUT;SG	
+hjärtat	kalbi	hjärta	kalbi	N;NOM;DEF;NEUT;SG	ADJ;NOM;SG;3
+hjärtat	yürek	hjärta	yürek	N;NOM;DEF;NEUT;SG	
+psalm	ilahi	psalm	ilahi	N;NOM;INDF;MASC+FEM;SG	
+psalm	ilahi	psalm	ilahi	N;NOM;INDF;MASC+FEM;SG	
+villmanstrand	lappeenranta	villmanstrand	lappeenranta	N;NOM;INDF;MASC+FEM;SG	
+valdemar	valdemar	valdem	valdemar	N;NOM;INDF;MASC+FEM;SG	
+kongressen	kongre	kongress	kongre	N;NOM;DEF;MASC+FEM;SG	
+kongressen	meclis	kongress	meclis	N;NOM;DEF;MASC+FEM;SG	
+esperanza	esperanza	esperan	esperanza	N;NOM;INDF;MASC+FEM;SG	
+bröllop	düğünler	bröllop	düğün	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+bröllop	düğün	bröllop	düğün	N;NOM;INDF;NEUT;SG	
+bröllop	nikah	bröllop	nikah	N;NOM;INDF;NEUT;SG	
+berätta	söyle	berätta	söyle	V;IMP;FIN;ACT	
+berätta	anlat	berätta	anlat	V;IMP;FIN;ACT	
+huila	huila	huila	huila	ADJ;NOM;PL	
+individ	bireysel	individ	bireysel	N;NOM;INDF;MASC+FEM;SG	
+individ	birey	individ	birey	N;NOM;INDF;MASC+FEM;SG	
+ansikte	yüzünü	ansikte	yüz	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+ansikte	yüz	ansikte	yüz	N;NOM;INDF;NEUT;SG	
+ansikte	yüzü	ansikte	yüz	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+ansikte	face	ansikte	face	N;NOM;INDF;NEUT;SG	
+noir	noir	noir	noir	N;NOM;INDF;MASC+FEM;SG	
+praia	praia	praia	praia	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+abel	abel	abel	abel	PROPN;NOM	
+sous	sous	sous	sous	N;NOM;INDF;MASC+FEM;SG	
+hull	gövde	hull	gövde	PROPN;NOM	
+neuquén	neuquén	neuquén	neuç	PROPN;NOM	
+sexuella	cinsel	sexuell	cinsel	ADJ;NOM;PL	
+sexuella	cinsellik	sexuell	cinsellik	ADJ;NOM;PL	N;NOM;SG;3
+sexuella	seksüel	sexuell	seksüel	ADJ;NOM;PL	
+hebreiska	ibranice	hebreisk	ibranice	N;NOM;INDF;MASC+FEM;SG	
+mit	mit	mit	mit	N;NOM;INDF;NEUT;SG	
+mit	mit	mit	mit	N;NOM;INDF;NEUT;SG	
+uppvisar	sergi	uppvisa	sergi	V;IND;PRS;FIN;ACT	
+uppvisar	sergiler	uppvisa	sergi	V;IND;PRS;FIN;ACT	N;NOM;PL;3
+sjönk	battı	sjönk	bat	V;IMP;PST;FIN;ACT	
+pittsburgh	pittsburgh	pittsburgh	pittsburgh	PROPN;NOM	PROPN;NOM;SG;3
+acceptera	kabul	acceptera	kabul	V;IMP;FIN;ACT	N;NOM;SG;3
+gene	gene	gene	gene	PROPN;NOM	ADV
+gene	gen	gene	gen	PROPN;NOM	
+klas	klas	klas	klas	PROPN;NOM	
+dragon	ejder	dragon	eşde	N;NOM;INDF;MASC+FEM;SG	
+dragon	dragon	dragon	dragon	N;NOM;INDF;MASC+FEM;SG	
+tretton	thirteen	tretton	thirte	NUM;NOM	N;NOM;SG;3
+sarawak	sarawak	sarawak	sarawak	PROPN;NOM	PROPN;NOM;SG;3
+fläckar	lekeleri	fläck	leke	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+vernon	vernon	vernon	vernon	PROPN;NOM	PROPN;NOM;SG;3
+lucky	şans	lucky	şans	N;NOM;INDF;MASC+FEM;SG	
+lucky	lucky	lucky	lucky	N;NOM;INDF;MASC+FEM;SG	
+lucky	şanslı	lucky	şanslı	N;NOM;INDF;MASC+FEM;SG	ADJ
+rossi	rossi	rossi	ross	PROPN;NOM	
+maranhão	maranhão	maranhão	maranhão	N;NOM;INDF;MASC+FEM;SG	
+löst	çözüldü	lösa	çözül	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+löst	çözülmüş	lösa	çöz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+löst	çözüldü	lösa	çözül	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+löst	çözülmüş	lösa	çöz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+löst	çözünmüş	lösa	çözün	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+löst	gevşek	lösa	gevşek	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+möts	tanış	möta	tanış	V;IND;PRS;FIN;PASS	
+möts	buluş	möta	buluş	V;IND;PRS;FIN;PASS	
+värnamo	värnamo	värnamo	värnamo	PROPN;NOM	
+kula	sümüklü	kula	sümüklü	N;NOM;INDF;MASC+FEM;SG	
+kula	kursun	kula	kur	N;NOM;INDF;MASC+FEM;SG	
+kula	kurşun	kula	kurşun	N;NOM;INDF;MASC+FEM;SG	
+kula	mermi	kula	mermi	N;NOM;INDF;MASC+FEM;SG	
+vind	rüzgar	vinda	rüzgar	N;NOM;INDF;MASC+FEM;SG	
+vind	rüzgâr	vinda	rüzgâr	N;NOM;INDF;MASC+FEM;SG	
+domen	muhakeme	dom	muhakem	N;NOM;DEF;MASC+FEM;SG	
+domen	hüküm	dom	hüküm	N;NOM;DEF;MASC+FEM;SG	
+domen	yargı	dom	yargı	N;NOM;DEF;MASC+FEM;SG	
+domen	yargılama	dom	yargılama	N;NOM;DEF;MASC+FEM;SG	
+domen	hüküm	dom	hüküm	N;NOM;DEF;MASC+FEM;SG	
+domen	cümle	dom	cümle	N;NOM;DEF;MASC+FEM;SG	
+baltimore	baltimore	baltimore	baltimore	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+mimosa	mimoza	mimos	mimoza	N;NOM;INDF;MASC+FEM;SG	
+alain	alain	alain	alain	PROPN;NOM	
+omsättning	dolaşım	omsättning	dolaşım	N;NOM;INDF;MASC+FEM;SG	
+olav	olav	olav	olav	PROPN;NOM	
+trophy	kupa	trophy	kupa	N;NOM;INDF;MASC+FEM;SG	
+puebla	puebla	puebel	pueb	PROPN;NOM	PROPN;NOM;SG;3
+konstantin	konstantin	konstanti	konstant	PROPN;NOM	
+konstantin	constantine	konstanti	constant	PROPN;NOM	N;DAT;SG;3
+palmas	palmas	palma	palmas	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+kopia	kopya	kopia	kopya	N;NOM;INDF;MASC+FEM;SG	
+kopia	kopyası	kopia	kopya	N;NOM;INDF;MASC+FEM;SG	
+kopia	kopyala	kopia	kopyal	N;NOM;INDF;MASC+FEM;SG	V;PFV;IMP;SG;2;POS;PRS
+koppar	bakır	koppa	bakır	N;NOM;INDF;MASC+FEM;SG	
+koppar	bardaklar	koppa	bardak	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+koppar	bardağı	koppa	bardak	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+rice	pirinç	rice	pirinç	N;NOM;INDF;NEUT;SG	
+prata	konuş	prata	konuş	V;IMP;FIN;ACT	
+prata	konuşmak	prata	konuş	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+prata	talk	prata	talk	V;IMP;FIN;ACT	
+prata	konuşma	prata	konuş	V;IMP;FIN;ACT	
+ringa	ara	ringa	ara	V;FIN;ACT	
+ringa	çağrı	ringa	çağrı	V;FIN;ACT	
+ringa	arama	ringa	ara	V;FIN;ACT	
+ringa	çevir	ringa	çevir	V;FIN;ACT	
+morning	sabahlar	morning	sabah	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+morning	günaydın	morning	günay	N;NOM;INDF;MASC+FEM;SG	
+nordöst	kuzeydoğu	nordös	kuzeydoğu	N;NOM;INDF;MASC+FEM;SG	
+susan	susan	susa	sus	PROPN;NOM	
+asa	asa	asa	asa	PROPN;NOM	
+statligt	state	statlig	state	ADJ;NOM;INDF;NEUT;SG	
+statligt	eyalet	statlig	eyalet	ADJ;NOM;INDF;NEUT;SG	
+statligt	devlet	statlig	devlet	ADJ;NOM;INDF;NEUT;SG	N;NOM;SG;3
+redigering	düzenleme	redigering	düzenle	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+redigering	montaj	redigering	montaj	N;NOM;INDF;MASC+FEM;SG	
+redigering	kurgu	redigering	kurgu	N;NOM;INDF;MASC+FEM;SG	
+nasa	nasa	nasa	nasa	PROPN;NOM	
+brittiskt	britanya	brittisk	britanya	ADJ;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+brittiskt	ingiliz	brittisk	ingiliz	ADJ;NOM;INDF;NEUT;SG	
+brittiskt	ingilizler	brittisk	ingiliz	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL;3
+missade	cevapsız	missad	cevapsız	V;IND;PST;FIN;ACT	ADJ
+erkände	itiraf	erkande	itiraf	V;IND;PST;FIN;ACT	
+cher	cher	cher	cher	V;IMP;FIN;ACT	
+individuellt	bireysel	individuell	bireysel	ADV	
+individuellt	birey	individuell	birey	ADV	
+riktlinjer	kuralları	riktlinje	kural	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+biologiska	biyolojik	biologisk	biyolojik	ADJ;NOM;PL	
+hyde	hyde	hyde	hyde	PROPN;NOM	PROPN;NOM;SG;3
+skickas	gönderildi	skicka	gönder	V;IND;PRS;FIN;PASS	V;PFV;IND;SG;3;POS;PST;PASS
+skickas	gönderdi	skicka	gönder	V;IND;PRS;FIN;PASS	V;PFV;IND;SG;3;POS;PST
+skickas	gönderilmiş	skicka	gönder	V;IND;PRS;FIN;PASS	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+tänder	dişli	tand	dişli	N;NOM;INDF;MASC+FEM;PL	
+trio	üçlü	trio	üçlü	N;NOM;INDF;MASC+FEM;SG	
+snokar	snoop	snoka	snoop	V;IND;PRS;FIN;ACT	
+marx	marx	marx	marx	PROPN;NOM	
+christine	christine	christine	christ	PROPN;NOM	PROPN;DAT;SG;3
+cresson	cresson	cresson	cresson	N;NOM;INDF;MASC+FEM;SG	
+davies	davies	davies	davies	PROPN;NOM	
+önskar	dilek	önska	dilek	V;IND;PRS;FIN;ACT	
+önskar	keske	önska	keske	V;IND;PRS;FIN;ACT	
+önskar	keşke	önska	keşke	V;IND;PRS;FIN;ACT	ADV
+önskar	dilekler	önska	dilek	V;IND;PRS;FIN;ACT	N;NOM;PL;3
+önskar	dilek	önska	dilek	V;IND;PRS;FIN;ACT	
+önskar	dilek	önska	dilek	V;IND;PRS;FIN;ACT	
+unik	benzersiz	unik	benzersiz	ADJ;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;PL;2;POS
+unik	tekil	unik	tekil	ADJ;NOM;INDF;MASC+FEM;SG	
+ltd	ltd	ltd	ltd	PROPN;NOM	
+pardosa	pardosa	pardos	pardos	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+besättningen	tayfa	besättning	tayfa	N;NOM;DEF;MASC+FEM;SG	
+besättningen	ekip	besättning	ekip	N;NOM;DEF;MASC+FEM;SG	
+benny	benny	benny	ben	PROPN;NOM	
+preussiska	prusya	preussisk	prusya	ADJ;NOM;PL	PROPN;NOM;SG;3
+gambia	gambiya	gambi	gambiya	PROPN;NOM	PROPN;NOM;SG;3
+fältet	field	fält	field	N;NOM;DEF;NEUT;SG	
+fältet	tarla	fält	tarla	N;NOM;DEF;NEUT;SG	
+fältet	alan	fält	al	N;NOM;DEF;NEUT;SG	V;PFV;IND;POS;PRS;V.PTCP
+fältet	saha	fält	saha	N;NOM;DEF;NEUT;SG	
+hammer	çekiç	hammer	çekiç	PROPN;NOM	
+hammer	hammer	hammer	hammer	PROPN;NOM	
+hammer	çekici	hammer	çekici	PROPN;NOM	
+network	network	network	network	N;NOM;INDF;NEUT;SG	
+network	ağ	network	ağ	N;NOM;INDF;NEUT;SG	
+smeknamn	nick	smeknamn	nick	N;NOM;INDF;NEUT;SG	
+smeknamn	takma	smeknamn	takma	N;NOM;INDF;NEUT;SG	
+belgrad	belgrad	belgrad	belgrad	N;NOM;INDF;MASC+FEM;SG	
+egyptiska	mısır	egyptisk	mısır	ADJ;NOM;PL	
+egyptiska	mısırlı	egyptisk	mısırlı	ADJ;NOM;PL	
+catharina	catharina	catharina	cathar	PROPN;NOM	N;DAT;SG;3
+grandiflora	grandiflora	grandiflora	grandif	N;NOM;INDF;MASC+FEM;SG	
+tunnel	tüneli	tunnel	tüneli	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+tunnel	tünel	tunnel	tünel	N;NOM;INDF;MASC+FEM;SG	
+orsaka	sebebi	orsak	sebep	V;IMP;NFIN;ACT	
+orsaka	nedeni	orsak	neden	V;IMP;NFIN;ACT	N;NOM;SG;3
+orsaka	çünkü	orsak	çünkü	V;IMP;NFIN;ACT	CONJ
+collection	koleksiyon	collection	koleksiyon	N;NOM;INDF;MASC+FEM;SG	
+collection	toplama	collection	toplama	N;NOM;INDF;MASC+FEM;SG	
+collection	koleksiyonu	collection	koleksiyonu	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+nicolai	nicolai	nicolai	nicolai	PROPN;NOM	PROPN;NOM;SG;3
+mäta	ölçüm	mäta	ölçüm	V;IMP;FIN;ACT	N;NOM;SG;3
+mäta	ölçme	mäta	ölç	V;IMP;FIN;ACT	
+mäta	ölçüm	mäta	ölçüm	V;IMP;FIN;ACT	N;NOM;SG;3
+mäta	ölçme	mäta	ölç	V;IMP;FIN;ACT	
+mäta	ölçü	mäta	ölçü	V;IMP;FIN;ACT	
+köket	mutfağı	kök	mutfak	N;NOM;DEF;NEUT;SG	N;ACC;SG;3
+köket	mutfak	kök	mutfak	N;NOM;DEF;NEUT;SG	
+köket	mutfak	kök	mutfak	N;NOM;DEF;NEUT;SG	
+produktioner	productions	produktion	productions	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+produktioner	prodüksiyon	produktion	prodüksiyon	N;NOM;INDF;MASC+FEM;PL	
+villeneuve	villeneuve	villeneuve	villen	PROPN;NOM	PROPN;NOM;SG;3
+malm	maden	malm	maden	N;NOM;INDF;MASC+FEM;SG	
+pike	pike	pike	pike	PROPN;NOM	
+pike	turna	pike	tur	PROPN;NOM	
+alma	alma	alm	al	PROPN;NOM	
+hat	kin	hat	kin	N;NOM;INDF;NEUT;SG	
+hat	nefret	hat	nefret	N;NOM;INDF;NEUT;SG	
+hat	nefret	hat	nefret	N;NOM;INDF;NEUT;SG	
+portage	portage	portage	portage	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+belle	belle	belle	belle	N;NOM;INDF;NEUT;SG	
+agera	oyunculuk	agera	oyunculuk	V;IMP;FIN;ACT	N;NOM;SG;3
+agera	oyunculuğu	agera	oyunculuk	V;IMP;FIN;ACT	N;NOM;SG;3
+modesta	modesta	modest	modesta	N;NOM;INDF;MASC+FEM;SG	
+vända	ters	vända	ters	V;IMP;FIN;ACT	
+vända	tersine	vända	ters	V;IMP;FIN;ACT	
+gonzález	gonzález	gonzález	gonzález	PROPN;NOM	PROPN;NOM;SG;3
+expressen	ekspres	expresse	ekspres	PROPN;NOM	
+expressen	express	expresse	express	PROPN;NOM	PROPN;NOM;SG;3
+expressen	ifade	expresse	ifade	PROPN;NOM	N;NOM;SG;3
+expressen	ekspresi	expresse	ekspre	PROPN;NOM	N;NOM;SG;3
+mineral	mineral	mineral	mineral	N;NOM;INDF;MASC+FEM;SG	
+mineral	maden	mineral	maden	N;NOM;INDF;MASC+FEM;SG	
+mineral	mineraller	mineral	mineral	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+mineral	mineral	mineral	mineral	N;NOM;INDF;MASC+FEM;SG	
+fylla	dolgu	fylla	dolgu	V;IMP;FIN;ACT	
+fylla	doldurma	fylla	doldurma	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+fylla	dolum	fylla	dolum	V;IMP;FIN;ACT	
+fylla	doldurun	fylla	dol	V;IMP;FIN;ACT	V;PFV;IMP;PL;2;POS;PRS;CAUS
+fylla	doldurma	fylla	doldurma	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+varianten	varyantı	variant	varyantı	N;NOM;DEF;MASC+FEM;SG	
+resultaten	sonuçları	resultat	sonuç	N;NOM;DEF;NEUT;PL	N;ACC;PL;3
+resultaten	sonuç	resultat	sonuç	N;NOM;DEF;NEUT;PL	
+kvarter	engeller	kvarter	engel	N;NOM;INDF;NEUT;PL	
+kvarter	blok	kvarter	blok	N;NOM;INDF;NEUT;PL	
+riktig	real	riktig	real	ADJ;NOM;INDF;MASC+FEM;SG	
+riktig	gercek	riktig	gercek	ADJ;NOM;INDF;MASC+FEM;SG	
+riktig	reel	riktig	reel	ADJ;NOM;INDF;MASC+FEM;SG	
+riktig	gerçek	riktig	gerçek	ADJ;NOM;INDF;MASC+FEM;SG	
+nationer	uluslar	nation	ulus	N;NOM;INDF;MASC+FEM;PL	
+saudiarabien	arabistan	saudiarabien	arabistan	PROPN;NOM	PROPN;NOM;SG;3
+badakhshan	badahşan	badakhshan	badahşan	N;NOM;INDF;MASC+FEM;SG	
+orsaker	nedenleri	orsak	neden	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+orsaker	nedenleri	orsak	neden	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+köpenhamns	kopenhag	köpenhamn	kopenhag	PROPN;GEN	PROPN;NOM;SG;3
+torre	torre	torr	torre	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+populationen	nüfusu	population	nüfus	N;NOM;DEF;MASC+FEM;SG	N;ACC;SG;3
+populationen	nüfus	population	nüfus	N;NOM;DEF;MASC+FEM;SG	
+upplösning	parçalanma	upplösning	parçala	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+upplösning	dağılması	upplösning	dağıl	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+upplösning	çözüm	upplösning	çözüm	N;NOM;INDF;MASC+FEM;SG	
+edge	kenar	edge	kenar	N;NOM;INDF;MASC+FEM;SG	
+edge	edge	edge	edge	N;NOM;INDF;MASC+FEM;SG	
+belgisk	belçikalı	belgisk	belçikalı	ADJ;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+listar	listeleme	lista	listele	V;IND;PRS;FIN;ACT	
+ladda	yükle	ladda	yükle	V;IMP;FIN;ACT	
+ladda	yük	ladda	yük	V;IMP;FIN;ACT	
+konto	hesap	konto	hesap	N;NOM;INDF;NEUT;SG	
+byarna	köyleri	byare	köy	N;NOM;DEF;MASC+FEM;PL	N;ACC;PL;3
+uppenbarligen	besbelli	uppenbarligen	besbelli	ADV	
+uppenbarligen	anlaşılan	uppenbarligen	anlaş	ADV	V;PFV;IND;POS;PRS;V.PTCP;PASS
+uppenbarligen	besbelli	uppenbarligen	besbelli	ADV	
+pete	pete	pete	pete	PROPN;NOM	
+toppar	doruk	toppa	doruk	N;NOM;INDF;MASC+FEM;PL	
+toppar	peaks	toppa	peaks	N;NOM;INDF;MASC+FEM;PL	PROPN;NOM;SG;3
+araneus	araneus	araneus	araneus	N;NOM;INDF;MASC+FEM;SG	
+kirby	kirby	kirby	kirby	PROPN;NOM	
+hood	başlıklı	hood	başlıklı	N;NOM;INDF;MASC+FEM;SG	
+hood	hood	hood	hood	N;NOM;INDF;MASC+FEM;SG	
+rob	soy	rob	soy	PROPN;NOM	
+rob	rob	rob	rob	PROPN;NOM	
+citat	alıntı	cita	al	N;NOM;INDF;NEUT;SG	
+citat	alıntı	cita	al	N;NOM;INDF;NEUT;SG	
+citat	tırnak	cita	tırnak	N;NOM;INDF;NEUT;SG	
+citat	alıntı	cita	al	N;NOM;INDF;NEUT;SG	
+citat	tırnak	cita	tırnak	N;NOM;INDF;NEUT;SG	
+citat	tırnaklar	cita	tırnak	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+citat	alıntılar	cita	alıntı	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+citat	sözler	cita	söz	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+springfield	springfield	springfield	springfield	PROPN;NOM	PROPN;NOM;SG;3
+richmond	richmond	richmond	richmond	PROPN;NOM	PROPN;NOM;SG;3
+vaccinium	vaccinium	vaccinium	vacci	V;IMP;FIN;ACT	N;NOM;SG;3
+zamora	zamora	zamor	zamor	PROPN;NOM	PROPN;NOM;SG;3
+pulchra	pulchra	pulchra	pulchra	N;NOM;INDF;MASC+FEM;SG	
+återkomst	dönüş	återkomst	dönüş	N;NOM;INDF;MASC+FEM;SG	
+återkomst	iade	återkomst	iade	N;NOM;INDF;MASC+FEM;SG	
+minns	unutma	minnas	unut	V;NFIN	
+minns	hatırla	minnas	hatır	V;NFIN	
+federal	federal	federal	federal	N;NOM;INDF;MASC+FEM;SG	
+non	olmayan	non	ol	N;NOM;INDF;NEUT;SG	V;PFV;IND;NEG;PRS;V.PTCP
+rydberg	rydberg	rydberg	rydberg	PROPN;NOM	
+gloria	gloria	glorium	gloria	N;NOM;INDF;MASC+FEM;SG	
+svara	cevap	svara	cevap	V;IMP;FIN;ACT	N;NOM;SG;3
+svara	yanıt	svara	yanıt	V;IMP;FIN;ACT	
+svara	cevapla	svara	cevap	V;IMP;FIN;ACT	N;NOM;SG;3
+svara	cevap	svara	cevap	V;IMP;FIN;ACT	N;NOM;SG;3
+svara	yanıt	svara	yanıt	V;IMP;FIN;ACT	
+svara	cevapla	svara	cevap	V;IMP;FIN;ACT	N;NOM;SG;3
+besöka	ziyaret	besöka	ziyaret	V;IMP;FIN;ACT	N;NOM;SG;3
+besöka	ziyaret	besöka	ziyaret	V;IMP;FIN;ACT	N;NOM;SG;3
+besöka	ziyareti	besöka	ziyaret	V;IMP;FIN;ACT	N;ACC;SG;3
+geschichte	geschichte	geschichte	geschich	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+turneringar	turnuvaları	turnering	turnuva	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+turneringar	turnuva	turnering	tur	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+turneringar	turnuvası	turnering	turnuva	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+turneringar	turnuva	turnering	tur	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+marius	marius	marius	marius	N;NOM;INDF;MASC+FEM;SG	
+sean	sean	sean	sean	PROPN;NOM	
+ägt	ait	äga	ait	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+ronnie	ronnie	ronnie	ronn	PROPN;NOM	
+marcos	markus	marcos	markus	PROPN;NOM	
+marcos	marcos	marcos	marcos	PROPN;NOM	PROPN;NOM;SG;3
+andliga	manevi	andlig	manevi	ADJ;NOM;PL	
+andliga	ruhsal	andlig	ruhsal	ADJ;NOM;PL	
+andliga	ruhani	andlig	ruhani	ADJ;NOM;PL	
+kardinal	kardinal	kardinal	kardinal	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+speciosa	speciosa	specios	specios	N;NOM;INDF;MASC+FEM;SG	
+ghost	ghost	ghost	ghost	N;NOM;INDF;MASC+FEM;SG	
+ghost	hayalet	ghost	hayalet	N;NOM;INDF;MASC+FEM;SG	
+symfoni	senfoni	symfoni	senfoni	N;NOM;INDF;MASC+FEM;SG	
+cesar	cesar	cesa	cesar	PROPN;NOM	
+effektivt	etkili	effektiv	etkili	ADJ;NOM;INDF;NEUT;SG	
+effektivt	etkilidir	effektiv	etkili	ADJ;NOM;INDF;NEUT;SG	
+effektivt	etkin	effektiv	etkin	ADJ;NOM;INDF;NEUT;SG	
+effektivt	verimli	effektiv	verimli	ADJ;NOM;INDF;NEUT;SG	
+effektivt	etkili	effektiv	etkili	ADJ;NOM;INDF;NEUT;SG	
+hubert	hubert	hubert	hubert	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+sirius	sirius	sirius	sirius	PROPN;NOM	
+lopez	lopez	lopez	lopez	N;NOM;DEF;NEUT;SG	
+uppfinnare	mucitler	uppfinnare	mucit	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+uppfinnare	mucit	uppfinnare	mucit	N;NOM;INDF;MASC+FEM;SG	
+kunder	müşteri	kund	müşteri	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+märke	brand	märke	brand	N;NOM;INDF;NEUT;SG	
+märke	marka	märke	marka	N;NOM;INDF;NEUT;SG	
+märke	işaretle	märke	işaret	N;NOM;INDF;NEUT;SG	N;INS;SG;3
+märke	işaret	märke	işaret	N;NOM;INDF;NEUT;SG	
+märke	mark	märke	mark	N;NOM;INDF;NEUT;SG	
+besegrades	mağlup	besegra	mağlup	V;IND;PST;FIN;PASS	ADJ
+maskiner	makine	maskin	makine	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+maskiner	makina	maskin	makina	N;NOM;INDF;MASC+FEM;PL	
+maskiner	makina	maskin	makina	N;NOM;INDF;MASC+FEM;PL	
+maskiner	makine	maskin	makine	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+rick	rick	råck	rick	PROPN;NOM	
+cherry	cherry	cherry	cherry	PROPN;NOM	
+cherry	kiraz	cherry	kiraz	PROPN;NOM	
+cherry	vişne	cherry	viş	PROPN;NOM	
+hagen	hagen	hag	hagen	N;NOM;DEF;MASC+FEM;SG	
+springer	springer	spring	springer	V;IND;PRS;FIN;ACT	
+flavescens	flavescens	flavesc	flavescens	N;NOM;INDF;MASC+FEM;SG	
+militären	askeriye	militär	askeri	N;NOM;DEF;MASC+FEM;SG	N;DAT;SG;3
+militären	ordu	militär	ordu	N;NOM;DEF;MASC+FEM;SG	
+militären	asker	militär	asker	N;NOM;DEF;MASC+FEM;SG	
+militären	askeri	militär	askeri	N;NOM;DEF;MASC+FEM;SG	
+nine	dokuzu	nine	dokuz	N;NOM;INDF;NEUT;SG	
+nine	dokuz	nine	dokuz	N;NOM;INDF;NEUT;SG	
+fyller	dolduruyor	fylla	dol	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;CAUS
+elvis	elvis	elvis	elvis	N;NOM;INDF;MASC+FEM;SG	
+sovjet	sovyetler	sovjet	sovyet	PROPN;NOM	N;NOM;PL;3
+sovjet	sovyet	sovjet	sovyet	PROPN;NOM	
+sovjet	sscb	sovjet	sscb	PROPN;NOM	PROPN;NOM;SG;3
+sovjet	sovyetler	sovjet	sovyet	PROPN;NOM	N;NOM;PL;3
+sovjet	sovyet	sovjet	sovyet	PROPN;NOM	
+cello	çello	cello	çello	N;NOM;INDF;MASC+FEM;SG	
+mähren	moravia	mähr	moravia	PROPN;NOM	PROPN;NOM;SG;3
+candida	candida	candid	candi	N;NOM;INDF;MASC+FEM;SG	
+über	über	über	über	V;IMP;FIN;ACT	
+varma	ilık	varma	ilık	ADJ;NOM;PL	
+varma	sıcacık	varma	sıcacık	ADJ;NOM;PL	
+varma	sıcak	varma	sıcak	ADJ;NOM;PL	
+blockerade	engellenmiş	blockera	engelle	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+blockerade	engellendi	blockera	engelle	ADJ;NOM;PL;PST;V.PTCP	
+haga	haga	hag	haga	PROPN;NOM	
+adelaide	adelaide	adelaide	adelaide	PROPN;NOM	PROPN;ESS;SG;3
+batman	batman	batman	bat	N;NOM;DEF;MASC+FEM;SG	
+batman	yarasa	batman	yara	N;NOM;DEF;MASC+FEM;SG	
+uppvuxen	büyüttü	uppvuxen	büyü	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;CAUS
+ögat	gözün	öga	göz	N;NOM;DEF;NEUT;SG	N;GEN;SG;3
+fångenskap	esir	fångenskap	esir	N;NOM;INDF;NEUT;SG	
+fångenskap	tutsak	fångenskap	tutsak	N;NOM;INDF;NEUT;SG	
+fångenskap	tutsak	fångenskap	tutsak	N;NOM;INDF;NEUT;SG	
+fångenskap	esaret	fångenskap	esaret	N;NOM;INDF;NEUT;SG	
+jordbruket	tarım	jordbruk	tarım	N;NOM;DEF;NEUT;SG	
+jordbruket	tarımsal	jordbruk	tarımsal	N;NOM;DEF;NEUT;SG	
+zaragoza	zaragoza	zaragoz	zaragoz	PROPN;NOM	PROPN;NOM;SG;3
+nixon	nixon	nixon	nixon	PROPN;NOM	
+pulchella	pulchella	pulchell	pulchel	N;NOM;INDF;MASC+FEM;SG	N;INS;SG;3
+technology	teknoloji	technology	teknoloji	N;NOM;INDF;MASC+FEM;SG	
+kommersiell	ticari	kommersiell	ticari	N;NOM;INDF;MASC+FEM;SG	
+kommersiell	reklam	kommersiell	reklam	N;NOM;INDF;MASC+FEM;SG	
+svag	zayıf	svag	zayıf	ADJ;NOM;INDF;MASC+FEM;SG	
+svag	zayıflar	svag	zayıf	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+hidalgo	hidalgo	hidalgo	hidalgo	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+brorson	yeğen	brorson	yeğen	N;NOM;INDF;MASC+FEM;SG	
+femton	fifteen	femton	fifte	NUM;NOM	
+femton	onbeş	femton	onbeş	NUM;NOM	
+virgin	bakire	virgi	bakire	N;NOM;INDF;MASC+FEM;SG	
+virgin	bakir	virgi	bakir	N;NOM;INDF;MASC+FEM;SG	
+ved	odun	ved	odun	N;NOM;INDF;MASC+FEM;SG	
+ved	odun	ved	odun	N;NOM;INDF;MASC+FEM;SG	
+ved	ağaç	ved	ağaç	N;NOM;INDF;MASC+FEM;SG	
+ved	tahta	ved	tahta	N;NOM;INDF;MASC+FEM;SG	
+säljer	sat	sälja	sat	V;IND;PRS;FIN;ACT	
+säljer	satar	sälja	sat	V;IND;PRS;FIN;ACT	
+miljön	çevre	miljö	çevre	N;NOM;DEF;MASC+FEM;SG	
+miljön	ortam	miljö	ortam	N;NOM;DEF;MASC+FEM;SG	
+öppnar	açar	öppna	aç	V;IND;PRS;FIN;ACT	
+öppnar	açılacak	öppna	aç	V;IND;PRS;FIN;ACT	V;PFV;IND;SG;3;POS;FUT;PASS
+öppnar	açılır	öppna	aç	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS;PASS
+öppnar	açılıyor	öppna	aç	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+öppnar	açılan	öppna	aç	V;IND;PRS;FIN;ACT	V;PFV;IND;POS;PRS;V.PTCP;PASS
+öppnar	açılış	öppna	açılış	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+öppnar	açılışı	öppna	açılış	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+öppnar	açılıyor	öppna	aç	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+magic	magic	magic	magic	N;NOM;INDF;MASC+FEM;SG	
+magic	sihirli	magic	sihirli	N;NOM;INDF;MASC+FEM;SG	
+magic	sihir	magic	sihir	N;NOM;INDF;MASC+FEM;SG	
+magic	büyü	magic	büy	N;NOM;INDF;MASC+FEM;SG	
+magic	büyülü	magic	büyül	N;NOM;INDF;MASC+FEM;SG	
+nicolaus	nicolaus	nicolaus	nicolaus	PROPN;NOM	
+önskan	arzu	önskan	arzu	N;NOM;INDF;MASC+FEM;SG	
+önskan	dilek	önskan	dilek	N;NOM;INDF;MASC+FEM;SG	
+önskan	keske	önskan	keske	N;NOM;INDF;MASC+FEM;SG	
+önskan	keşke	önskan	keşke	N;NOM;INDF;MASC+FEM;SG	ADV
+muslimer	müslümanların	muslim	müslüman	N;NOM;INDF;MASC+FEM;PL	N;GEN;PL;3
+muslimer	müslümanlara	muslim	müslüman	N;NOM;INDF;MASC+FEM;PL	N;DAT;PL;3
+muslimer	müslüman	muslim	müslüman	N;NOM;INDF;MASC+FEM;PL	
+strauss	strauss	strauss	strauss	PROPN;NOM	
+innsbruck	innsbruck	innsbruck	innsbruck	PROPN;NOM	PROPN;NOM;SG;3
+illustrationer	çizimler	illustration	çizim	N;NOM;INDF;MASC+FEM;PL	
+seattle	seattle	seattle	seat	PROPN;NOM	PROPN;NOM;SG;3
+idol	idol	idol	idol	N;NOM;INDF;MASC+FEM;SG	
+rymmer	kaçış	rymma	kaçış	V;IND;PRS;FIN;ACT	
+formula	mama	formul	mama	N;NOM;INDF;MASC+FEM;SG	
+formula	formula	formul	formula	N;NOM;INDF;MASC+FEM;SG	
+formula	formül	formul	formül	N;NOM;INDF;MASC+FEM;SG	
+kotka	kotka	kotka	kotka	PROPN;NOM	PROPN;NOM;SG;3
+utlandet	yurtdışı	utland	yurtdışı	N;NOM;DEF;NEUT;SG	
+utlandet	yurtdışında	utland	yurtdışı	N;NOM;DEF;NEUT;SG	N;ESS;SG;3
+asteroid	göktaşı	asteroid	gök	N;NOM;INDF;MASC+FEM;SG	
+utvalda	seçilmiş	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+utvalda	seçilen	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+utvalda	seçildi	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+utvalda	seçilmiş	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+utvalda	seçilen	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+utvalda	seçili	utvalja	seçili	ADJ;NOM;PL;PST;V.PTCP	
+utvalda	seçildi	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+utvalda	seçme	utvalja	seç	ADJ;NOM;PL;PST;V.PTCP	
+militärt	askeriye	militär	askeri	ADJ;NOM;INDF;NEUT;SG	N;DAT;SG;3
+militärt	ordu	militär	ordu	ADJ;NOM;INDF;NEUT;SG	
+militärt	asker	militär	asker	ADJ;NOM;INDF;NEUT;SG	
+militärt	askerlik	militär	askerlik	ADJ;NOM;INDF;NEUT;SG	N;NOM;SG;3
+militärt	askeri	militär	askeri	ADJ;NOM;INDF;NEUT;SG	
+glasgow	glasgow	glasgow	glasgow	PROPN;NOM	PROPN;NOM;SG;3
+greg	greg	greg	greg	PROPN;NOM	
+grunda	yüzeysel	grund	yüzeysel	ADJ;NOM;PL	
+grunda	sığ	grund	sığ	ADJ;NOM;PL	
+rufescens	rufescens	rufesc	rufescens	N;NOM;INDF;MASC+FEM;SG	
+korea	kore	kore	kore	PROPN;NOM	
+loir	loir	loir	i	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+azul	azul	azul	azul	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+allvarliga	şiddetli	allvarlig	şiddetli	ADJ;NOM;PL	
+undervisade	öğretti	undervisa	öğret	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+träffa	tanış	träffa	tanış	V;IMP;FIN;ACT	
+träffa	tanışmak	träffa	tanış	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+träffa	buluş	träffa	buluş	V;IMP;FIN;ACT	
+formosa	formosa	formos	formos	PROPN;NOM	PROPN;NOM;SG;3
+discogs	discogs	discag	discogs	N;MASC+FEM	
+metro	metro	metro	metro	N;NOM;INDF;MASC+FEM;SG	
+sibirien	sibirya	sibirien	sibirya	PROPN;NOM	
+vänder	dönüm	vända	dön	V;IND;PRS;FIN;ACT	
+broadway	broadway	broadway	broadway	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+single	tekli	singel	tekli	N;NOM;INDF;MASC+FEM;SG	
+single	single	singel	sing	N;NOM;INDF;MASC+FEM;SG	
+single	tek	singel	tek	N;NOM;INDF;MASC+FEM;SG	
+single	bekar	singel	bekar	N;NOM;INDF;MASC+FEM;SG	
+palats	saraylar	palats	saray	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+palats	saray	palats	saray	N;NOM;INDF;NEUT;SG	
+palats	sarayı	palats	sara	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+bekant	tanıdık	bekant	tanı	ADJ;NOM;INDF;NEUT;SG	V;PFV;IND;PL;1;POS;PST
+bekant	aşina	bekant	aş	ADJ;NOM;INDF;NEUT;SG	ADV
+bekant	tanıdık	bekant	tanı	ADJ;NOM;INDF;NEUT;SG	V;PFV;IND;PL;1;POS;PST
+arrangemang	ayarlamalar	arrangemang	ayarla	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+arrangemang	düzenlemeleri	arrangemang	düzenle	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+arrangemang	düzenlemeler	arrangemang	düzenle	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+arrangemang	ayarlama	arrangemang	ayarlam	N;NOM;INDF;NEUT;SG	
+arrangemang	düzenleme	arrangemang	düzenle	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+arrangemang	anlaşma	arrangemang	anlaşma	N;NOM;INDF;NEUT;SG	
+föreställningar	performansları	föreställning	performans	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+föreställningar	performans	föreställning	performans	N;NOM;INDF;MASC+FEM;PL	
+spridda	dağılmış	spridd	dağıl	ADJ;NOM;PL;PST;V.PTCP	
+spridda	dağınık	spridd	dağınık	ADJ;NOM;PL;PST;V.PTCP	
+uppdelad	bölündü	uppdela	böl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+uppdelad	bölünmüş	uppdela	böl	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+pär	pär	pär	pär	PROPN;NOM	
+kant	kant	kunna	kant	N;NOM;INDF;MASC+FEM;SG	
+kant	kenar	kunna	kenar	N;NOM;INDF;MASC+FEM;SG	
+kant	edge	kunna	edge	N;NOM;INDF;MASC+FEM;SG	
+kant	sınır	kunna	sınır	N;NOM;INDF;MASC+FEM;SG	
+brunei	brunei	brunei	brunei	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+templet	temple	tempel	temp	N;NOM;DEF;NEUT;SG	PROPN;NOM;SG;3
+fästningen	kale	fästning	kale	N;NOM;DEF;MASC+FEM;SG	
+murcia	murcia	murcia	murcia	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+granit	granit	granit	granit	N;NOM;INDF;MASC+FEM;SG	
+felaktig	yanlis	felaktig	yanlis	ADJ;NOM;INDF;MASC+FEM;SG	
+felaktig	hatalı	felaktig	hatalı	ADJ;NOM;INDF;MASC+FEM;SG	
+felaktig	hatalı	felaktig	hatalı	ADJ;NOM;INDF;MASC+FEM;SG	
+htm	htm	htm	htm	N;NOM;INDF;MASC+FEM;SG	
+lok	lok	lok	lok	N;NOM;INDF;NEUT;SG	
+lok	lokomotif	lok	lokomotif	N;NOM;INDF;NEUT;SG	
+lok	lokomotifler	lok	lokomotif	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+senna	senna	senna	senna	PROPN;NOM	
+inledningsvis	başlangıçta	inledningsvis	başlangıç	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+teologiska	teolojik	teologisk	teolojik	ADJ;NOM;PL	
+senior	kıdemli	senio	kıdemli	N;NOM;INDF;MASC+FEM;SG	
+vuxit	yetişkin	växa	yetişkin	V;V.CVB;ACT	
+ande	ruh	ande	ruh	N;NOM;INDF;MASC+FEM;SG	
+ande	candır	ande	candır	N;NOM;INDF;MASC+FEM;SG	
+davidson	davidson	davidson	davidson	N;NOM;INDF;MASC+FEM;SG	
+tarn	tarn	tarn	tarn	V;IMP;FIN;ACT	
+talare	hoparlör	talare	hopar	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+talare	hoparlör	talare	hopar	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+talare	konuşmacı	talare	konuş	N;NOM;INDF;MASC+FEM;PL	
+talare	konuşmacı	talare	konuş	N;NOM;INDF;MASC+FEM;PL	
+förvaltning	yönetim	förvaltning	yönetim	N;NOM;INDF;MASC+FEM;SG	
+förvaltning	idare	förvaltning	idare	N;NOM;INDF;MASC+FEM;SG	
+förvaltning	yönetim	förvaltning	yönetim	N;NOM;INDF;MASC+FEM;SG	
+förvaltning	idari	förvaltning	idari	N;NOM;INDF;MASC+FEM;SG	
+ornata	ornata	ornat	orna	N;NOM;INDF;MASC+FEM;SG	
+claire	claire	claire	claire	PROPN;NOM	
+kontinenten	kıta	kontinent	kıta	N;NOM;DEF;MASC+FEM;SG	
+bruna	brown	brun	brown	ADJ;NOM;PL	
+bruna	kumral	brun	kumral	ADJ;NOM;PL	
+bruna	kahverengi	brun	kahverengi	ADJ;NOM;PL	
+bruna	esmer	brun	esmer	ADJ;NOM;PL	
+termer	koşul	term	koşul	N;NOM;INDF;MASC+FEM;PL	
+termer	koşulları	term	koşul	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+vision	görme	vision	gör	N;NOM;INDF;MASC+FEM;SG	
+vision	vizyon	vision	vizyon	N;NOM;INDF;MASC+FEM;SG	
+albanska	arnavut	albanska	arnavut	N;NOM;INDF;MASC+FEM;SG	
+albanska	arnavutça	albanska	arnavutça	N;NOM;INDF;MASC+FEM;SG	
+monaco	monaco	monaco	monaco	PROPN;NOM	PROPN;NOM;SG;3
+monaco	monako	monaco	monako	PROPN;NOM	PROPN;NOM;SG;3
+forntida	antik	forntida	antik	ADJ;NOM	
+forntida	kadim	forntida	kadim	ADJ;NOM	
+kunth	kunth	kunth	kunth	N;NOM;INDF;NEUT;SG	
+kejserliga	imparatorluk	kejserlig	imparatorluk	ADJ;NOM;PL	N;NOM;SG;3
+processer	süreç	process	süreç	N;NOM;INDF;MASC+FEM;PL	
+processer	süreçleri	process	süreç	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+fest	parti	fest	parti	N;NOM;INDF;MASC+FEM;SG	
+fest	party	fest	party	N;NOM;INDF;MASC+FEM;SG	
+fest	ziyafet	fest	ziyafet	N;NOM;INDF;MASC+FEM;SG	
+fest	bayram	fest	bayram	N;NOM;INDF;MASC+FEM;SG	
+fest	şölen	fest	şöl	N;NOM;INDF;MASC+FEM;SG	
+brahe	brahe	brahe	brahe	PROPN;NOM	
+underjordisk	yeraltı	underjordisk	yeraltı	ADJ;NOM;INDF;MASC+FEM;SG	
+underjordisk	yeraltında	underjordisk	yeraltı	ADJ;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+underjordisk	yeraltı	underjordisk	yeraltı	ADJ;NOM;INDF;MASC+FEM;SG	
+guangxi	guangxi	guangxi	guangxi	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+fysisk	fiziki	fysisk	fizik	ADJ;NOM;INDF;MASC+FEM;SG	
+fysisk	fiziksel	fysisk	fiziksel	ADJ;NOM;INDF;MASC+FEM;SG	
+benz	benz	benz	benz	PROPN;NOM	
+skyldig	suçluyum	skyldig	suçlu	ADJ;NOM;INDF;MASC+FEM;SG	
+skyldig	suçlu	skyldig	suçlu	ADJ;NOM;INDF;MASC+FEM;SG	
+castro	castro	castro	castro	PROPN;NOM	PROPN;NOM;SG;3
+livstid	toplam	livstid	toplam	N;NOM;INDF;MASC+FEM;SG	
+livstid	life	livstid	life	N;NOM;INDF;MASC+FEM;SG	
+livstid	hayat	livstid	hayat	N;NOM;INDF;MASC+FEM;SG	
+livstid	ömür	livstid	ömür	N;NOM;INDF;MASC+FEM;SG	
+vers	ayetleri	vers	ayet	N;NOM;INDF;MASC+FEM;SG	N;ACC;PL;3
+vers	ayetler	vers	ayet	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+vers	dize	vers	dize	N;NOM;INDF;MASC+FEM;SG	
+empire	empire	empire	empir	N;NOM;INDF;NEUT;SG	
+crow	crow	crow	crow	PROPN;NOM	
+crow	karga	crow	karga	PROPN;NOM	
+interna	dahili	intern	dahil	ADJ;NOM;PL	
+half	yarı	half	yarı	N;NOM;INDF;NEUT;SG	
+half	yarısı	half	yarı	N;NOM;INDF;NEUT;SG	ADJ;NOM;SG;3
+half	yarim	half	yarim	N;NOM;INDF;NEUT;SG	
+half	yarım	half	yarım	N;NOM;INDF;NEUT;SG	
+osäker	kararsız	osäker	kararsız	ADJ;NOM;INDF;MASC+FEM;SG	
+osäker	belirsiz	osäker	belirsiz	ADJ;NOM;INDF;MASC+FEM;SG	
+osäker	kararsız	osäker	kararsız	ADJ;NOM;INDF;MASC+FEM;SG	
+thor	thor	thor	thor	PROPN;NOM	
+halvt	yarı	halv	yarı	ADJ;NOM;INDF;NEUT;SG	
+halvt	yarim	halv	yarim	ADJ;NOM;INDF;NEUT;SG	
+halvt	yarım	halv	yarım	ADJ;NOM;INDF;NEUT;SG	
+pontus	pontus	pontus	pontus	PROPN;NOM	
+pago	pago	pago	pago	PROPN;NOM	PROPN;NOM;SG;3
+dubia	dubia	dubia	dubia	N;NOM;INDF;MASC+FEM;SG	
+pont	pont	pont	pont	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+zheng	zheng	zheng	zheng	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+rain	yağmur	rain	yağmur	N;NOM;INDF;MASC+FEM;SG	
+rain	rain	rain	rain	N;NOM;INDF;MASC+FEM;SG	
+rain	yagmur	rain	yagmur	N;NOM;INDF;MASC+FEM;SG	
+index	endeksleri	index	endeks	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+index	işaret	index	işaret	N;NOM;INDF;NEUT;SG	
+index	indeksler	index	indeks	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+portland	portland	portland	portlan	PROPN;NOM	PROPN;NOM;SG;3
+färdiga	bitmiş	färdig	bit	ADJ;NOM;PL	V;PFV;NFH;IND;SG;3;POS;PST
+färdiga	bitti	färdig	bit	ADJ;NOM;PL	V;PFV;IND;SG;3;POS;PST
+färdiga	bitirdim	färdig	bitir	ADJ;NOM;PL	V;PFV;IND;SG;1;POS;PST
+färdiga	tamamlandı	färdig	tamamla	ADJ;NOM;PL	V;PFV;IND;SG;3;POS;PST;PASS
+färdiga	hazır	färdig	hazır	ADJ;NOM;PL	
+färdiga	hazırız	färdig	hazırız	ADJ;NOM;PL	V;PFV;IMP;PL;2;POS;PRS
+färdiga	hazırım	färdig	hazırım	ADJ;NOM;PL	V;PFV;IND;SG;1;PRS
+färdiga	hazir	färdig	hazir	ADJ;NOM;PL	
+aleppo	halep	aleppo	halep	N;NOM;DEF;MASC+FEM;SG	
+ogooué	ogooué	ogooué	ogooué	N;NOM;INDF;MASC+FEM;SG	
+stop	dur	stop	i	N;NOM;INDF;NEUT;SG	V;PFV;SG;3;PRS
+oceanen	okyanus	ocean	okyanus	N;NOM;DEF;MASC+FEM;SG	
+oceanen	okyanuslar	ocean	okyanus	N;NOM;DEF;MASC+FEM;SG	N;NOM;PL;3
+utskott	komisyon	utskott	komisyon	N;NOM;INDF;NEUT;SG	
+utskott	komiteler	utskott	komite	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+utskott	kurul	utskott	kurul	N;NOM;INDF;NEUT;SG	
+utskott	komite	utskott	komit	N;NOM;INDF;NEUT;SG	
+utskott	heyet	utskott	heyet	N;NOM;INDF;NEUT;SG	
+stiftelse	temel	stiftelse	temel	N;NOM;INDF;MASC+FEM;SG	ADJ
+stiftelse	vakfı	stiftelse	vakıf	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+stiftelse	vakıf	stiftelse	vakıf	N;NOM;INDF;MASC+FEM;SG	
+kriterier	kriterleri	kriterium	kriter	N;NOM;INDF;NEUT;PL	N;ACC;PL;3
+ferguson	ferguson	ferguson	ferguson	PROPN;NOM	
+elektronisk	elektron	elektronisk	elektron	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;SG;3
+elektronisk	elektronik	elektronisk	elektronik	ADJ;NOM;INDF;MASC+FEM;SG	
+brod	brod	brod	brod	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+härskare	hükümdar	härskare	hüküm	N;NOM;INDF;MASC+FEM;PL	
+ansökan	uygulama	ansökan	uygulama	N;NOM;DEF;MASC+FEM;SG	
+ansökan	başvuru	ansökan	başvuru	N;NOM;DEF;MASC+FEM;SG	
+ansökan	uygulamalar	ansökan	uygulama	N;NOM;DEF;MASC+FEM;SG	N;NOM;PL;3
+ansökan	uygulamaları	ansökan	uygulama	N;NOM;DEF;MASC+FEM;SG	N;NOM;PL;3
+nätverket	network	nätverk	network	N;NOM;DEF;NEUT;SG	
+nätverket	ağ	nätverk	ağ	N;NOM;DEF;NEUT;SG	
+hov	toynak	hov	toynak	N;NOM;INDF;NEUT;SG	
+site	sitede	site	site	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+besegrar	yenerse	besegra	yene	V;IND;PRS;FIN;ACT	V;IPFV;COND;SG;3;POS
+jose	jose	jose	jose	PROPN;NOM	PROPN;NOM;SG;3
+jose	josé	jose	josé	PROPN;NOM	PROPN;NOM;SG;3
+ground	zemin	ground	zemin	N	
+peace	huzur	peace	huzur	N;NOM;INDF;NEUT;SG	
+peace	barış	peace	barış	N;NOM;INDF;NEUT;SG	
+hainan	hainan	haina	hainan	PROPN;NOM	PROPN;NOM;SG;3
+lösningar	çözümleri	lösning	çözüm	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+lösningar	çözüm	lösning	çözüm	N;NOM;INDF;MASC+FEM;PL	
+syskon	kardeş	syskon	kardeş	N;NOM;INDF;NEUT;PL	
+skyddade	korunmuş	skydda	korun	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+skyddade	korudu	skydda	koru	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+skyddade	korunuyor	skydda	korun	ADJ;NOM;PL;PST;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS
+skyddade	korumalı	skydda	koru	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IMP;SG;2;POS;PRS
+corner	köşeye	corner	köşe	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+corner	köşe	corner	köşe	N;NOM;INDF;MASC+FEM;SG	
+verlag	verlag	verlag	verlag	N;NOM;INDF;NEUT;SG	
+skriv	yazma	skriv	yazma	V;IMP;FIN;ACT	
+skriv	yazın	skriv	yaz	V;IMP;FIN;ACT	
+skriv	yaz	skriv	yaz	V;IMP;FIN;ACT	
+pilosa	pilosa	pilos	pilos	N;NOM;INDF;MASC+FEM;SG	
+sköld	kalkan	sköld	kalk	N;NOM;INDF;MASC+FEM;SG	
+spider	spider	spida	spider	N;NOM;INDF;MASC+FEM;SG	
+limousin	limuzin	limousin	limuz	N;NOM;INDF;MASC+FEM;SG	N;GEN;SG;3
+limousin	limuzin	limousin	limuz	N;NOM;INDF;MASC+FEM;SG	N;GEN;SG;3
+symboler	sembolleri	symbol	sembol	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+talk	pudra	talk	pudra	N;NOM;INDF;MASC+FEM;SG	
+talk	talk	talk	talk	N;NOM;INDF;MASC+FEM;SG	
+talk	konuş	talk	konuş	N;NOM;INDF;MASC+FEM;SG	
+talk	konuşmak	talk	konuş	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+talk	talk	talk	talk	N;NOM;INDF;MASC+FEM;SG	
+talk	konuşma	talk	konuş	N;NOM;INDF;MASC+FEM;SG	
+utvecklad	gelişmiş	utvecklad	geliş	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+utvecklad	geliştirilmiş	utvecklad	geliş	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+utvecklad	geliştirildi	utvecklad	geliş	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+utvecklad	gelişmiş	utvecklad	geliş	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+utvecklad	evrim	utvecklad	evrim	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+dokumentär	belgesel	dokumentär	belgesel	N;NOM;INDF;MASC+FEM;SG	
+länka	bağ	länka	bağ	V;IMP;FIN;ACT	
+länka	link	länka	link	V;IMP;FIN;ACT	
+länka	bağlantı	länka	bağlantı	V;IMP;FIN;ACT	
+länka	bağlama	länka	bağlama	V;IMP;FIN;ACT	
+sprint	sprint	sprint	sprint	N;NOM;INDF;MASC+FEM;SG	
+townsend	townsend	townsend	townsend	PROPN;NOM	PROPN;NOM;SG;3
+stephens	stephens	stephen	stephens	PROPN;NOM	PROPN;NOM;SG;3
+shanxi	shanxi	shanxi	shan	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+blandade	karışık	blandad	karışık	ADJ;NOM;PL;PST;V.PTCP	
+franskt	fransızlar	fransk	fransız	ADJ;NOM;INDF;NEUT;SG	N;NOM;PL;3
+franskt	fransız	fransk	fransız	ADJ;NOM;INDF;NEUT;SG	
+franskt	fransızca	fransk	fransızca	ADJ;NOM;INDF;NEUT;SG	
+avgå	istifa	avgå	istifa	V;IMP;FIN;ACT	
+tang	tang	tang	tang	N;NOM;INDF;NEUT;SG	
+striata	striata	striat	striata	N;NOM;INDF;MASC+FEM;SG	
+steel	çelik	steel	çelik	PROPN;NOM	
+tecknad	karikatür	tecknad	karikat	N;NOM;INDF;MASC+FEM;SG	
+tecknad	çizgi	tecknad	çizgi	N;NOM;INDF;MASC+FEM;SG	
+abc	abc	abc	abc	N;NOM;INDF;NEUT;SG	
+spirit	ruh	spirit	ruh	N;NOM;INDF;MASC+FEM;SG	
+spirit	candır	spirit	candır	N;NOM;INDF;MASC+FEM;SG	
+atlántico	atlántico	atlántico	atlántico	ADJ;NOM;PL	
+onda	hırçın	onda	hırçın	ADJ;NOM;PL	
+onda	onda	onda	o	ADJ;NOM;PL	
+onda	kötülük	onda	kötülük	ADJ;NOM;PL	N;NOM;SG;3
+onda	kötü	onda	kötü	ADJ;NOM;PL	
+onda	şeytan	onda	şeytan	ADJ;NOM;PL	
+onda	evil	onda	evil	ADJ;NOM;PL	
+onda	şer	onda	şer	ADJ;NOM;PL	
+onda	kötü	onda	kötü	ADJ;NOM;PL	
+flores	flores	flores	flores	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+avsluta	istifa	avsluta	istifa	V;IMP;FIN;ACT	
+avsluta	bitiş	avsluta	bitiş	V;IMP;FIN;ACT	
+avsluta	son	avsluta	son	V;IMP;FIN;ACT	
+avsluta	sonu	avsluta	son	V;IMP;FIN;ACT	
+avsluta	bitiş	avsluta	bitiş	V;IMP;FIN;ACT	
+avsluta	çık	avsluta	çık	V;IMP;FIN;ACT	
+avsluta	çıkışı	avsluta	çıkış	V;IMP;FIN;ACT	N;ACC;SG;3
+avsluta	çıkış	avsluta	çıkış	V;IMP;FIN;ACT	
+teodor	teodor	teoda	teodor	PROPN;NOM	
+berkeley	berkeley	berkeley	berkeley	PROPN;NOM	PROPN;NOM;SG;3
+akustisk	akustik	akustisk	akustik	N;NOM;INDF;MASC+FEM;SG	
+akustisk	akustik	akustisk	akustik	N;NOM;INDF;MASC+FEM;SG	
+management	yönetim	management	yönetim	N;NOM;INDF;NEUT;SG	
+tjeckiska	çek	tjeckisk	çek	N;NOM;INDF;MASC+FEM;SG	
+resterande	kaldı	resterande	kal	ADJ;NOM;PRS;V.PTCP	V;PFV;IND;SG;3;POS;PST
+resterande	kalan	resterande	kal	ADJ;NOM;PRS;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP
+turin	torino	turin	torino	PROPN;NOM	PROPN;NOM;SG;3
+geer	geer	ge	geer	PROPN;NOM	
+forel	forel	forel	forel	ADJ;NOM;INDF;MASC+FEM;SG	
+förbindelser	bağlar	förbindelse	bağla	N;NOM;INDF;MASC+FEM;PL	
+förbindelser	ilişkileri	förbindelse	ilişki	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+dialekter	lehçeleri	dialekt	lehçe	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+tätt	sıkıca	tätt	sıkı	ADV	
+vinden	rüzgar	vind	rüzgar	N;NOM;DEF;MASC+FEM;SG	
+vinden	rüzgâr	vind	rüzgâr	N;NOM;DEF;MASC+FEM;SG	
+bekräftade	doğrulandı	bekräftad	doğrula	V;PST;V.PTCP;ACT	V;PFV;IND;SG;3;POS;PST;PASS
+bekräftade	onaylanmış	bekräftad	onayla	V;PST;V.PTCP;ACT	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+bekräftade	onaylandı	bekräftad	onayla	V;PST;V.PTCP;ACT	V;PFV;IND;SG;3;POS;PST;PASS
+invasion	işgal	invasion	işgal	N;NOM;INDF;MASC+FEM;SG	
+invasion	istila	invasion	istila	N;NOM;INDF;MASC+FEM;SG	
+placera	yer	placera	yer	V;IMP;FIN;ACT	N;NOM;SG;3
+bearbetning	işlenmesi	bearbetning	işle	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+bearbetning	işleme	bearbetning	işle	N;NOM;INDF;MASC+FEM;SG	
+bearbetning	işlem	bearbetning	işlem	N;NOM;INDF;MASC+FEM;SG	
+bearbetning	işleme	bearbetning	işle	N;NOM;INDF;MASC+FEM;SG	
+rosenberg	rosenberg	rosenberg	rosenberg	PROPN;NOM	PROPN;NOM;SG;3
+amy	amy	amy	amy	PROPN;NOM	
+globala	global	global	global	ADJ;NOM;PL	
+globala	evrensel	global	evrensel	ADJ;NOM;PL	
+globala	küresel	global	küresel	ADJ;NOM;PL	
+roth	roth	roth	roth	PROPN;NOM	
+bosatta	yerleşik	bosatt	yerleşik	ADJ;NOM;PL;PST;V.PTCP	
+bosatta	asistan	bosatt	asistan	ADJ;NOM;PL;PST;V.PTCP	
+bosatta	ikamet	bosatt	ikamet	ADJ;NOM;PL;PST;V.PTCP	
+bosatta	sakinleri	bosatt	sakin	ADJ;NOM;PL;PST;V.PTCP	N;ACC;PL;3
+pov	pov	pov	pov	N;NOM;INDF;MASC+FEM;SG	
+ferruginea	ferruginea	ferruginea	ferruginea	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+försvarade	savunmak	försvara	savun	V;IND;PST;V.PTCP;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+igor	igor	igo	igor	PROPN;NOM	
+fiol	keman	fiol	keman	N;NOM;INDF;MASC+FEM;SG	
+hundratals	yüzlük	hundratals	yüzlük	N;NOM;INDF;NEUT;PL	
+hundratals	yüzlerce	hundratals	yüzlerce	N;NOM;INDF;NEUT;PL	NUM
+hundratals	yüzlercesi	hundratals	yüz	N;NOM;INDF;NEUT;PL	NUM
+div	div	div	div	N;NOM;INDF;MASC+FEM;SG	
+gebel	gebel	gebel	gebel	N;NOM;INDF;NEUT;SG	
+begränsat	kısıtlı	begränsad	kısıtlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+begränsat	sınırlı	begränsad	sınırlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+begränsat	kısıtlı	begränsad	kısıtlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+begränsat	sınırlıdır	begränsad	sınırlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+kurs	rota	kurs	rota	N;NOM;INDF;MASC+FEM;SG	
+skickar	gönderir	skicka	gönder	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS
+skickar	gönderiliyor	skicka	gönder	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+dödar	öldürür	döda	öl	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS;CAUS
+dödar	öldürüyor	döda	öl	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;CAUS
+dsc	dsc	dsc	dsc	PROPN;NOM	
+frukt	meyve	frukt	meyve	N;NOM;INDF;MASC+FEM;SG	
+frukt	meyveler	frukt	meyve	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+frukt	meyva	frukt	meyva	N;NOM;INDF;MASC+FEM;SG	
+frukt	meyve	frukt	meyve	N;NOM;INDF;MASC+FEM;SG	
+frukt	meyveler	frukt	meyve	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+frukt	meyva	frukt	meyva	N;NOM;INDF;MASC+FEM;SG	
+smeknamnet	takma	smeknamn	takma	N;NOM;DEF;NEUT;SG	
+lejon	aslan	lejon	aslan	N;NOM;INDF;NEUT;SG	
+lejon	aslanları	lejon	aslan	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL;3
+lejon	aslanlar	lejon	aslan	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL;3
+andrews	andrews	andrews	andrews	PROPN;NOM	PROPN;NOM;SG;3
+glad	mutluluklar	glad	mutluluk	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+glad	happy	glad	happy	ADJ;NOM;INDF;MASC+FEM;SG	
+ryttare	süvari	rytt	süvari	N;NOM;INDF;MASC+FEM;PL	
+ryttare	atlı	rytt	atlı	N;NOM;INDF;MASC+FEM;PL	
+ryttare	atlı	rytt	atlı	N;NOM;INDF;MASC+FEM;PL	
+ryttare	süvari	rytt	süvari	N;NOM;INDF;MASC+FEM;PL	
+ryttare	sürücü	rytt	sürücü	N;NOM;INDF;MASC+FEM;PL	
+ryttare	rider	rytt	rider	N;NOM;INDF;MASC+FEM;PL	
+ryttare	binici	rytt	binici	N;NOM;INDF;MASC+FEM;PL	
+bio	bio	bio	bio	N;NOM;INDF;MASC+FEM;SG	
+bio	biyo	bio	biyo	N;NOM;INDF;MASC+FEM;SG	
+bio	biyografi	bio	biyografi	N;NOM;INDF;MASC+FEM;SG	
+expansion	genişleme	expansion	genişle	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+most	çoğu	most	çok	N;NOM;INDF;MASC+FEM;SG	
+most	çogu	most	çogu	N;NOM;INDF;MASC+FEM;SG	
+natural	doğal	natural	doğal	N;NOM;INDF;MASC+FEM;SG	
+natural	dogal	natural	dogal	N;NOM;INDF;MASC+FEM;SG	
+syndrom	sendromlar	syndrom	sendrom	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+sträckning	stretch	sträckning	stretch	N;NOM;INDF;MASC+FEM;SG	
+sträckning	gerilme	sträckning	ger	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IMP;SG;POS;PRS
+chi	chi	chi	chi	N;NOM;INDF;NEUT;SG	
+court	saray	court	saray	PROPN;NOM	
+court	mahkeme	court	mahkem	PROPN;NOM	
+court	court	court	court	PROPN;NOM	
+svalbard	svalbard	svalbard	svalbard	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+utsikt	görüntüleme	utsikt	görüntüleme	N;NOM;INDF;NEUT;SG	
+utsikt	gör	utsikt	gör	N;NOM;INDF;NEUT;SG	V;PFV;IMP;SG;2;POS;PRS
+älskade	sevdiğini	älskad	sev	ADJ;NOM;PL;PST;V.PTCP	V;PFV;ACC;IND;POS;PST;V.PTCP
+älskade	sevilen	älskad	sev	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+älskade	degerli	älskad	degerli	ADJ;NOM;PL;PST;V.PTCP	
+älskade	değerli	älskad	değerli	ADJ;NOM;PL;PST;V.PTCP	
+älskade	kıymetli	älskad	kıymetli	ADJ;NOM;PL;PST;V.PTCP	
+älskade	sevgili	älskad	sevgili	ADJ;NOM;PL;PST;V.PTCP	
+älskade	sevilen	älskad	sev	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+office	büro	office	büro	N;NOM;INDF;MASC+FEM;SG	
+office	office	office	office	N;NOM;INDF;MASC+FEM;SG	
+office	ofis	office	ofis	N;NOM;INDF;MASC+FEM;SG	
+sköt	vuruldu	sköta	vur	V;IMP;FIN;ACT	V;PFV;IND;SG;3;POS;PST
+sköt	atış	sköta	atış	V;IMP;FIN;ACT	
+sköt	vurdu	sköta	vur	V;IMP;FIN;ACT	V;PFV;IND;SG;3;POS;PST
+given	verildi	given	ver	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+given	verilmiş	given	ver	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+given	verilen	given	ver	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+churchill	churchill	churchill	churchill	PROPN;NOM	PROPN;NOM;SG;3
+nås	ulaşılabilir	nå	ulaş	V;IND;FIN;PASS	V;IPFV;POT;SG;3;POS;PASS
+pund	sterlin	pund	sterlin	N;NOM;INDF;NEUT;SG	
+pund	pound	pund	pound	N;NOM;INDF;NEUT;SG	
+pund	sterlin	pund	sterlin	N;NOM;INDF;NEUT;SG	
+pund	pound	pund	pound	N;NOM;INDF;NEUT;SG	
+pund	kilo	pund	kilo	N;NOM;INDF;NEUT;SG	
+savoie	savoie	savoie	savo	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+parva	parva	parva	parva	N;NOM;INDF;MASC+FEM;SG	
+milton	milton	milton	milton	PROPN;NOM	PROPN;NOM;SG;3
+epirus	epirus	epirus	epirus	PROPN;NOM	
+holmgren	holmgren	holmgren	holmgren	PROPN;NOM	
+svagt	zayıf	svag	zayıf	ADJ;NOM;INDF;NEUT;SG	
+svagt	zayıflar	svag	zayıf	ADJ;NOM;INDF;NEUT;SG	N;NOM;PL;3
+blodet	kan	blod	kan	N;NOM;DEF;NEUT;SG	
+blodet	blood	blod	blood	N;NOM;DEF;NEUT;SG	
+bud	teklifler	bud	teklif	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+bud	teklifleri	bud	teklif	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+bud	bud	bud	bud	N;NOM;INDF;NEUT;SG	
+imperiet	empire	imperi	empir	N;NOM;DEF;NEUT;SG	
+anläggningar	holding	anläggning	hol	N;NOM;INDF;MASC+FEM;PL	
+anläggningar	tesisleri	anläggning	tesis	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+anläggningar	tesis	anläggning	tesis	N;NOM;INDF;MASC+FEM;PL	
+arrangerade	ayarlandı	arrangera	ayarla	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+arrangerade	ayarladı	arrangera	ayarla	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+ingmar	ingmar	ingmar	ingmar	PROPN;NOM	
+xvi	xvi	xvi	öv	PROPN;NOM	
+diplomatiska	diplomatik	diplomatisk	diplomatik	ADJ;NOM;PL	N;NOM;SG;3
+diplomatiska	diplomasi	diplomatisk	diplomasi	ADJ;NOM;PL	N;NOM;SG;3
+invasionen	işgal	invasion	işgal	N;NOM;DEF;MASC+FEM;SG	
+invasionen	istila	invasion	istila	N;NOM;DEF;MASC+FEM;SG	
+förbud	ban	förbud	ban	N;NOM;INDF;NEUT;SG	
+förbud	yasaklama	förbud	yasakla	N;NOM;INDF;NEUT;SG	
+förbud	yasağı	förbud	yasak	N;NOM;INDF;NEUT;SG	
+förbud	yasaklama	förbud	yasakla	N;NOM;INDF;NEUT;SG	
+düsseldorf	düsseldorf	düsseldorf	düsseldorf	PROPN;NOM	PROPN;NOM;SG;3
+inuti	içi	inuti	iç	N;NOM;INDF;MASC+FEM;SG	
+inuti	içeride	inuti	içeri	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+inuti	içinde	inuti	içinde	N;NOM;INDF;MASC+FEM;SG	ADV
+inuti	içerde	inuti	içeri	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+ica	ica	ica	ica	N;NOM;INDF;NEUT;SG	
+läger	kampı	läga	kampı	N;NOM;INDF;MASC+FEM;PL	N;ACC;SG;3
+läger	kamp	läga	kamp	N;NOM;INDF;MASC+FEM;PL	
+läger	kampta	läga	kamp	N;NOM;INDF;MASC+FEM;PL	N;ESS;SG;3
+läger	camp	läga	camp	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+läger	kampları	läga	kamp	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+generationen	nesil	generation	nesil	N;NOM;DEF;MASC+FEM;SG	
+generationen	kuşak	generation	kuşak	N;NOM;DEF;MASC+FEM;SG	
+generationen	nesli	generation	nesli	N;NOM;DEF;MASC+FEM;SG	
+krona	tura	krona	tur	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+krona	kafalar	krona	kafa	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+krona	tacı	krona	tacı	N;NOM;INDF;MASC+FEM;SG	
+krona	taç	krona	taç	N;NOM;INDF;MASC+FEM;SG	
+krona	crown	krona	crown	N;NOM;INDF;MASC+FEM;SG	
+delaware	delaware	delaware	delaware	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+erkännande	ilişkilendirme	erkännande	ilişkilen	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+erkännande	tanıma	erkännande	tanım	N;NOM;INDF;NEUT;SG	
+sjuk	hasta	sjuk	hasta	ADJ;NOM;INDF;MASC+FEM;SG	
+sjuk	hastayım	sjuk	hastayım	ADJ;NOM;INDF;MASC+FEM;SG	V;PFV;OPT;SG;1;POS;PRS
+hämta	yükleme	hämta	yükle	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+hämta	indirme	hämta	in	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+hämta	indirmek	hämta	in	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+hämta	indir	hämta	indir	V;IMP;FIN;ACT	
+träning	antrenman	träning	antrenman	N;NOM;INDF;MASC+FEM;SG	
+träning	eğitimi	träning	eğitim	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+träning	idman	träning	idman	N;NOM;INDF;MASC+FEM;SG	
+träning	antrenman	träning	antrenman	N;NOM;INDF;MASC+FEM;SG	
+träning	egzersiz	träning	egzersiz	N;NOM;INDF;MASC+FEM;SG	
+träning	egzersiz	träning	egzersiz	N;NOM;INDF;MASC+FEM;SG	
+träning	egzersizleri	träning	egzersiz	N;NOM;INDF;MASC+FEM;SG	N;ACC;PL;3
+regn	yağmur	regn	yağmur	N;NOM;INDF;NEUT;SG	
+regn	rain	regn	rain	N;NOM;INDF;NEUT;SG	
+regn	yagmur	regn	yagmur	N;NOM;INDF;NEUT;SG	
+uri	uri	uri	uri	N;NOM;INDF;MASC+FEM;SG	
+utvecklar	geliştirir	utveckla	geliş	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS;CAUS
+utvecklar	geliştirme	utveckla	geliş	V;IND;PRS;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+utvecklar	geliştirmek	utveckla	geliş	V;IND;PRS;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+duke	dük	duke	dük	PROPN;NOM	
+duke	duke	duke	duke	PROPN;NOM	
+rupert	rupert	rupert	rupert	PROPN;NOM	PROPN;NOM;SG;3
+liège	liège	liège	liège	PROPN;NOM	PROPN;NOM;SG;3
+prov	numune	prov	num	N;NOM;INDF;NEUT;SG	N;DAT;SG;3
+prov	örnek	prov	örnek	N;NOM;INDF;NEUT;SG	
+prov	numune	prov	num	N;NOM;INDF;NEUT;SG	N;DAT;SG;3
+prov	örnekleri	prov	örnek	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+prov	örnekler	prov	örnek	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+årsjubileum	yıldönümü	årsjubileum	yıldönüm	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+queens	queens	Pueens	queens	PROPN;NOM	PROPN;NOM;SG;3
+hörn	köşeleri	hörn	köşe	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+hörn	köşe	hörn	köşe	N;NOM;INDF;NEUT;SG	
+hörn	köşeye	hörn	köşe	N;NOM;INDF;NEUT;SG	N;DAT;SG;3
+hörn	köşe	hörn	köşe	N;NOM;INDF;NEUT;SG	
+hanar	erkekler	hane	erkek	N;NOM;INDF;MASC+FEM;PL	ADJ;NOM;PL;3
+ansiktet	yüzünü	ansikt	yüz	N;NOM;DEF;NEUT;SG	N;ACC;SG;3
+ansiktet	yüz	ansikt	yüz	N;NOM;DEF;NEUT;SG	
+ansiktet	yüzü	ansikt	yüz	N;NOM;DEF;NEUT;SG	N;ACC;SG;3
+ansiktet	face	ansikt	face	N;NOM;DEF;NEUT;SG	
+degerfors	degerfors	degerfor	degerfors	PROPN;NOM	
+rey	rey	rey	rey	N;NOM;INDF;NEUT;SG	
+money	para	money	para	N;NOM;INDF;MASC+FEM;SG	
+huang	huang	huang	huang	PROPN;NOM	
+nordic	iskandinav	nordic	iskandinav	PROPN;NOM	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS
+hautes	hautes	haute	hautes	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+hoppa	atlama	hoppa	atla	V;IMP;FIN;ACT	
+hoppa	atla	hoppa	atla	V;IMP;FIN;ACT	
+pressen	press	press	press	N;NOM;DEF;MASC+FEM;SG	
+pressen	basın	press	basın	N;NOM;DEF;MASC+FEM;SG	
+pressen	basin	press	basin	N;NOM;DEF;MASC+FEM;SG	
+pressen	basında	press	bas	N;NOM;DEF;MASC+FEM;SG	N;ESS;SG;3
+pressen	bas	press	bas	N;NOM;DEF;MASC+FEM;SG	
+öppnas	açar	öppna	aç	V;NFIN;PASS	
+teckning	çizim	teckning	çiz	N;NOM;INDF;MASC+FEM;SG	
+teckning	resim	teckning	resim	N;NOM;INDF;MASC+FEM;SG	
+rak	düz	rak	düz	ADJ;NOM;INDF;MASC+FEM;SG	
+basist	basçı	basist	basçı	N;NOM;INDF;MASC+FEM;SG	
+regina	regina	regin	regin	PROPN;NOM	N;DAT;SG;3
+blanchard	blanchard	blanchard	blanchard	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+player	oyuncu	play	oyuncu	N;NOM;INDF;MASC+FEM;PL	
+förvärvade	kazanılan	förvärva	kazan	V;NOM;PL;PST;V.PTCP;ACT	V;PFV;IND;POS;PRS;V.PTCP;PASS
+förvärvade	elde	förvärva	el	V;NOM;PL;PST;V.PTCP;ACT	N;ESS;SG;3
+uppstå	yüksel	uppstå	yüksel	V;IMP;FIN;ACT	
+alpha	alpha	alpha	alpha	PROPN;NOM	
+alpha	alfa	alpha	alfa	PROPN;NOM	
+decennier	onlarca	decennium	onlarca	N;NOM;INDF;NEUT;PL	
+sheffield	sheffield	sheffield	sheffield	PROPN;NOM	PROPN;NOM;SG;3
+observera	not	observera	not	V;IMP;FIN;ACT	
+observera	nota	observera	nota	V;IMP;FIN;ACT	
+observera	gözlemlemek	observera	gözlemle	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+observera	gözlem	observera	gözlem	V;IMP;FIN;ACT	
+läkaren	doctor	läkare	doctor	N;NOM;DEF;MASC+FEM;SG	
+läkaren	doktor	läkare	doktor	N;NOM;DEF;MASC+FEM;SG	
+machine	makina	machine	makina	N;NOM;INDF;NEUT;SG	
+florence	floransa	florence	floransa	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+temple	temple	temple	temp	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+californica	californica	californic	californica	N;NOM;INDF;MASC+FEM;SG	
+förvaras	mağazası	förvara	mağaza	V;IND;PRS;FIN;PASS	N;NOM;SG;3
+förvaras	mağazadan	förvara	mağaza	V;IND;PRS;FIN;PASS	N;AT+ABL;SG;3
+förvaras	dükkan	förvara	dükkan	V;IND;PRS;FIN;PASS	N;NOM;SG;3
+förvaras	store	förvara	store	V;IND;PRS;FIN;PASS	
+förvaras	mağaza	förvara	mağaz	V;IND;PRS;FIN;PASS	N;NOM;SG;3
+recension	inceleme	recension	incele	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+recension	değerlendirme	recension	değerlen	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+recension	gözden	recension	göz	N;NOM;INDF;MASC+FEM;SG	N;AT+ABL;SG;3
+kritiska	kritik	kritisk	kritik	ADJ;NOM;PL	
+kritiska	eleştirel	kritisk	eleştirel	ADJ;NOM;PL	
+neville	neville	neville	nevil	PROPN;NOM	
+gymnastik	jimnastik	gymnastik	jimnastik	N;NOM;INDF;MASC+FEM;SG	
+fröken	miss	fröka	miss	N;NOM;DEF;MASC+FEM;SG	
+fröken	hanım	fröka	hanım	N;NOM;DEF;MASC+FEM;SG	
+fröken	bayan	fröka	bayan	N;NOM;DEF;MASC+FEM;SG	
+fröken	özledim	fröka	özle	N;NOM;DEF;MASC+FEM;SG	V;PFV;IND;SG;1;POS;PST
+betty	betty	betty	bet	PROPN;NOM	
+emilia	emilia	emili	emilia	PROPN;NOM	PROPN;NOM;SG;3
+alonso	alonso	alonso	alonso	PROPN;NOM	
+öga	gözün	öga	göz	N;NOM;INDF;NEUT;SG	N;GEN;SG;3
+birgit	birgit	bir	birgit	PROPN;NOM	PROPN;NOM;SG;3
+ramen	kare	ram	kare	N;NOM;DEF;MASC+FEM;SG	
+maskin	makina	maskin	makina	N;NOM;INDF;MASC+FEM;SG	
+clair	clair	clair	clair	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+superettan	superettan	superettan	superettan	N;NOM;DEF;MASC+FEM;SG	N;AT+ABL;SG;3
+barra	barra	barra	barra	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+cristóbal	cristóbal	cristóbal	cristóbal	PROPN;NOM	
+frön	tohum	frö	tohum	N;NOM;INDF;NEUT;PL	N;NOM;SG;3
+humor	espri	huma	espri	N;NOM;INDF;MASC+FEM;SG	
+humor	mizah	huma	mizah	N;NOM;INDF;MASC+FEM;SG	
+humor	espri	huma	espri	N;NOM;INDF;MASC+FEM;SG	
+humor	mizah	huma	mizah	N;NOM;INDF;MASC+FEM;SG	
+blackburn	blackburn	blackburn	blackburn	PROPN;NOM	PROPN;NOM;SG;3
+dagarna	günlerden	dag	gün	N;NOM;DEF;MASC+FEM;PL	N;AT+ABL;PL;3
+dagarna	günleri	dag	gün	N;NOM;DEF;MASC+FEM;PL	N;ACC;PL;3
+dagarna	günlerce	dag	günlerce	N;NOM;DEF;MASC+FEM;PL	ADV
+schmid	schmid	schmid	schmid	N;NOM;INDF;MASC+FEM;SG	
+rhode	rhode	rhode	rhode	PROPN;NOM	
+dale	dale	dal	dale	PROPN;NOM	
+anti	karşıtı	anti	karşıt	V;IMP;FIN;ACT	
+anti	anti	anti	anti	V;IMP;FIN;ACT	
+schneider	schneider	schneider	schneider	N;NOM;INDF;MASC+FEM;PL	
+distans	mesafeler	distans	mesafe	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+discovery	keşfi	discovery	keşif	N;NOM;INDF;MASC+FEM;SG	
+discovery	keşif	discovery	keşif	N;NOM;INDF;MASC+FEM;SG	
+jungfru	başak	jungfru	başak	N;NOM;INDF;MASC+FEM;SG	
+jungfru	bakire	jungfru	bakire	N;NOM;INDF;MASC+FEM;SG	
+jungfru	bakir	jungfru	bakir	N;NOM;INDF;MASC+FEM;SG	
+jungfru	bakire	jungfru	bakire	N;NOM;INDF;MASC+FEM;SG	
+jungfru	maiden	jungfru	maiden	N;NOM;INDF;MASC+FEM;SG	
+sussex	sussex	sussex	sussex	PROPN;NOM	PROPN;NOM;SG;3
+arrow	ok	arrow	ok	N;NOM;INDF;MASC+FEM;SG	
+arrow	arrow	arrow	arrow	N;NOM;INDF;MASC+FEM;SG	
+atlantic	atlantic	atlantic	atlantic	PROPN;NOM	PROPN;NOM;SG;3
+atlantic	atlantik	atlantic	atlantik	PROPN;NOM	
+mao	mao	mao	mao	N;NOM;INDF;MASC+FEM;SG	
+entre	entre	entre	entre	N;NOM;INDF;MASC+FEM;SG	INTJ
+blom	bloom	blom	bloo	N;NOM;INDF;MASC+FEM;SG	
+netto	net	netto	net	N;NOM;INDF;MASC+FEM;SG	
+netto	ağ	netto	ağ	N;NOM;INDF;MASC+FEM;SG	
+tillfälliga	geçici	tillfällig	geçici	ADJ;NOM;PL	
+tillfälliga	gündelik	tillfällig	gündelik	ADJ;NOM;PL	
+tillfälliga	sıradan	tillfällig	sıradan	ADJ;NOM;PL	
+förekomst	varlığını	förekomst	varlık	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+förekomst	varlık	förekomst	varlık	N;NOM;INDF;MASC+FEM;SG	
+förekomst	varoluş	förekomst	varoluş	N;NOM;INDF;MASC+FEM;SG	
+variabilis	variabilis	variabilis	variabilis	N;NOM;INDF;MASC+FEM;SG	
+niels	niels	niels	niels	PROPN;NOM	PROPN;NOM;SG;3
+reynolds	reynolds	reynold	reynolds	PROPN;NOM	
+sasa	sasa	sasa	sas	PROPN;NOM	
+budskap	ayetleri	budskap	ayet	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+budskap	ayetler	budskap	ayet	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+budskap	ileti	budskap	ilet	N;NOM;INDF;NEUT;SG	
+budskap	mesaj	budskap	mesaj	N;NOM;INDF;NEUT;SG	
+budskap	mesajı	budskap	mesaj	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+budskap	mesajları	budskap	mesaj	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+budskap	mesajlar	budskap	mesaj	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+budskap	mesaj	budskap	mesaj	N;NOM;INDF;NEUT;SG	
+express	ekspres	express	ekspres	PROPN;NOM	
+express	express	express	express	PROPN;NOM	PROPN;NOM;SG;3
+express	ifade	express	ifade	PROPN;NOM	N;NOM;SG;3
+express	ekspresi	express	ekspre	PROPN;NOM	N;NOM;SG;3
+anteckningar	not	anteckning	not	N;NOM;INDF;MASC+FEM;PL	
+anteckningar	notları	anteckning	not	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+björkman	björkman	björkman	björkman	PROPN;NOM	
+vinter	kış	vinter	kış	N;NOM;INDF;MASC+FEM;SG	
+vinter	winter	vinter	winte	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+legenden	efsane	legende	efsane	N;NOM;INDF;NEUT;PL	
+sergej	sergey	sergej	sergey	PROPN;NOM	
+sergej	sergey	sergej	sergey	PROPN;NOM	
+sergej	sergei	sergej	sergei	PROPN;NOM	
+botaniker	botanikçi	botanik	botanikçi	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+översatta	çevrildi	översätta	çevir	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+översatta	çevrilmiş	översätta	çevir	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+lucia	lucia	lucia	lucia	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+seymour	seymour	seymour	seymour	PROPN;NOM	PROPN;NOM;SG;3
+pearl	inci	pearl	inci	N;NOM;INDF;NEUT;SG	
+pearl	pearl	pearl	pearl	N;NOM;INDF;NEUT;SG	
+lea	lea	lea	lea	PROPN;NOM	
+auf	auf	auf	auf	V;IMP;FIN;ACT	
+lange	lange	lange	lange	PROPN;NOM	
+rader	sıra	rad	sıra	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+rader	satır	rad	satır	N;NOM;INDF;MASC+FEM;PL	
+rader	hatları	rad	hat	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+joniska	iyon	jonisk	iyon	ADJ;NOM;PL	
+shadow	gölge	shado	gölge	N;NOM;INDF;MASC+FEM;SG	
+brien	brien	brien	brien	PROPN;NOM	
+territoriet	bölge	territorium	bölge	N;NOM;DEF;NEUT;SG	
+malabo	malabo	malabo	malabo	N;NOM;INDF;MASC+FEM;SG	
+hibiscus	hibiscus	hibiscus	hibiscus	N;NOM;INDF;MASC+FEM;SG	
+förlorar	kaybeder	förlora	kaybet	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS
+förlorar	kaybeder	förlora	kaybet	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS
+valda	seçilmiş	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+valda	seçilen	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+valda	seçildi	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+valda	seçilmiş	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+valda	seçildi	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+valda	seçilmiş	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+valda	seçilen	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+valda	seçili	välja	seçili	ADJ;NOM;PL;PST;V.PTCP	
+valda	seçildi	välja	seç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+dubbelt	ikili	dubbel	ikili	ADJ;NOM;INDF;NEUT;SG	
+dubbelt	çifte	dubbel	çift	ADJ;NOM;INDF;NEUT;SG	
+dubbelt	çift	dubbel	çift	ADJ;NOM;INDF;NEUT;SG	
+dubbelt	duble	dubbel	duble	ADJ;NOM;INDF;NEUT;SG	
+waddington	waddington	waddington	waddington	PROPN;NOM	
+vetenskapen	fen	vetenskap	fen	N;NOM;DEF;MASC+FEM;SG	
+vetenskapen	bilimsel	vetenskap	bilimsel	N;NOM;DEF;MASC+FEM;SG	ADJ
+floder	rivers	flod	rivers	N;NOM;INDF;MASC+FEM;PL	PROPN;NOM;SG;3
+latifolia	latifolia	latifoli	latifolia	N;NOM;INDF;MASC+FEM;SG	
+burke	burke	burke	burke	PROPN;NOM	
+trollhättan	trollhättan	trollhätta	trollhjı	N;NOM;DEF;MASC+FEM;SG	N;AT+ABL;SG;3
+aurora	aurora	auror	auror	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+seal	mühür	seal	mühür	N	
+seal	seal	seal	seal	N	
+seal	fok	seal	fok	N	
+bradley	bradley	bradley	bradley	PROPN;NOM	
+finn	finn	finna	finn	N;NOM;INDF;MASC+FEM;SG	
+buss	otobüsle	buss	otobüsle	N;NOM;INDF;MASC+FEM;SG	N;INS;SG;3
+kolonin	koloni	koloni	koloni	N;NOM;DEF;MASC+FEM;SG	
+kolonin	kolonisi	koloni	koloni	N;NOM;DEF;MASC+FEM;SG	N;ACC;SG;3
+grovt	kabaca	grov	kaba	ADJ;NOM;INDF;NEUT;SG	
+märta	marta	märta	marta	PROPN;NOM	
+märta	martha	märta	martha	PROPN;NOM	
+calvados	calvados	calvados	calvados	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+väggar	duvarları	vägg	duvar	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+väggar	duvar	vägg	duvar	N;NOM;INDF;MASC+FEM;PL	
+région	région	région	région	N;NOM;INDF;NEUT;SG	
+albany	albany	albany	albany	PROPN;NOM	PROPN;NOM;SG;3
+atlantis	atlantis	atlantis	atlantis	N;NOM;INDF;MASC+FEM;SG	
+styrman	dümenci	styrma	dümenci	N;NOM;INDF;MASC+FEM;SG	
+face	yüzünü	face	yüz	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+face	yüz	face	yüz	N;NOM;INDF;MASC+FEM;SG	
+face	yüzü	face	yüz	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+face	face	face	face	N;NOM;INDF;MASC+FEM;SG	
+huambo	huambo	huambo	huambo	PROPN;NOM	
+flygande	uçan	flyga	uç	ADJ;NOM;PRS;V.PTCP	
+flygande	uçuyor	flyga	uç	ADJ;NOM;PRS;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS
+flygande	uçmak	flyga	uç	ADJ;NOM;PRS;V.PTCP	V;PFV;NOM;IND;POS;PRS;V.MSDR
+freeman	freeman	freman	freeman	PROPN;NOM	
+körs	koşar	köra	koş	V;IND;PRS;FIN;PASS	
+palo	palo	palo	palo	PROPN;NOM	PROPN;NOM;SG;3
+porsche	porsche	porsche	porsche	N;NOM;INDF;MASC+FEM;SG	
+bom	bom	bom	bom	PROPN;NOM	
+bom	güm	bom	güm	PROPN;NOM	
+bom	bum	bom	bum	PROPN;NOM	
+bom	boom	bom	boom	PROPN;NOM	
+bom	bom	bom	bom	PROPN;NOM	
+nikolai	nikolai	nikolai	nikolai	PROPN;NOM	PROPN;NOM;SG;3
+nikolai	nikolay	nikolai	nikolay	PROPN;NOM	
+erbjuda	adak	erbjuda	adak	V;IMP;NFIN;ACT	
+kungar	kings	kung	kings	N;NOM;INDF;MASC+FEM;PL	PROPN;NOM;SG;3
+kungar	kralları	kung	kral	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+karel	karel	karel	karel	PROPN;NOM	
+punk	punk	punk	punk	N;NOM;INDF;MASC+FEM;SG	
+punk	serseri	punk	serser	N;NOM;INDF;MASC+FEM;SG	
+provinser	illeri	provins	il	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+drive	drive	drive	driv	N;NOM;INDF;MASC+FEM;SG	
+drive	sür	drive	sür	N;NOM;INDF;MASC+FEM;SG	
+planerad	planlı	planera	planlı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+planerad	planlanan	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+planerad	planlanmış	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+planerad	planlandı	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+planerad	planlı	planera	planlı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+planerad	planlanan	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+planerad	planlanmış	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+planerad	planlandı	planera	planla	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+walt	walt	walt	walt	PROPN;NOM	
+avsett	amaçlı	avse	amaçlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+avsett	niyet	avse	niyet	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+protester	protesto	protest	protesto	N;NOM;INDF;MASC+FEM;PL	
+protester	protesto	protest	protesto	N;NOM;INDF;MASC+FEM;PL	
+betyg	puan	betyg	pu	N;NOM;INDF;NEUT;SG	
+betyg	reyting	betyg	reyting	N;NOM;INDF;NEUT;SG	
+betyg	derecelendirme	betyg	derecelen	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+betyg	beğeni	betyg	beğen	N;NOM;INDF;NEUT;SG	
+betyg	notları	betyg	not	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+betyg	notlar	betyg	not	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+betyg	puan	betyg	pu	N;NOM;INDF;NEUT;SG	
+betyg	reyting	betyg	reyting	N;NOM;INDF;NEUT;SG	
+betyg	puanlar	betyg	puan	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+övrig	diğeri	övrig	diğer	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;SG;3
+övrig	öteki	övrig	öteki	ADJ;NOM;INDF;MASC+FEM;SG	
+övrig	diger	övrig	diger	ADJ;NOM;INDF;MASC+FEM;SG	
+hänvisning	referans	hänvisning	referans	N;NOM;INDF;MASC+FEM;SG	
+hänvisning	gönderme	hänvisning	gönder	N;NOM;INDF;MASC+FEM;SG	
+spara	kaydet	spara	kaydet	V;IMP;FIN;ACT	
+spara	kurtar	spara	kurtar	V;IMP;FIN;ACT	
+spara	tasarruf	spara	tasarruf	V;IMP;FIN;ACT	N;NOM;SG;3
+spara	kurtarmak	spara	kurtar	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+spara	kaydetme	spara	kaydet	V;IMP;FIN;ACT	
+iata	iata	iata	iata	N;NOM;INDF;MASC+FEM;SG	
+nagy	nagy	nagy	nagy	PROPN;NOM	PROPN;NOM;SG;3
+gäster	misafir	gästa	misafir	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+gäster	konuk	gästa	konuk	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+meigen	meigen	meigen	meigen	N;NOM;INDF;MASC+FEM;SG	
+minut	dakika	minut	dakika	N;NOM;INDF;MASC+FEM;SG	
+specifik	spesifik	specifik	spesifik	ADJ;NOM;INDF;MASC+FEM;SG	
+specifik	belirli	specifik	belirli	ADJ;NOM;INDF;MASC+FEM;SG	
+medveten	farkında	medveten	fark	ADJ;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+medveten	bilinçli	medveten	bilinçli	ADJ;NOM;INDF;MASC+FEM;SG	
+akademi	akademide	akademi	akadem	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+ljudet	sound	ljud	sound	N;NOM;DEF;NEUT;SG	
+brooklyn	brooklyn	brooklyn	brooklyn	PROPN;NOM	PROPN;NOM;SG;3
+gradvis	kademeli	gradvis	kademeli	ADV	
+gradvis	aşamalı	gradvis	aşamalı	ADV	
+utgåvor	bültenleri	utgåva	bülten	N;NOM;INDF;MASC+FEM;PL	ADJ;ACC;PL;3
+slutat	durmuş	sluta	dur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+slutat	durdu	sluta	dur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+slutat	durduruldu	sluta	dur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+brunner	brunner	brunna	brunner	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+fortsättning	devamı	fortsättning	devam	N;NOM;INDF;MASC+FEM;SG	
+restaurering	onarım	restaurering	o	N;NOM;INDF;MASC+FEM;SG	
+restaurering	yenileme	restaurering	yenilem	N;NOM;INDF;MASC+FEM;SG	
+eliza	eliza	eliza	eliza	PROPN;NOM	
+tyler	tyler	tyla	iy	PROPN;NOM	
+planerat	planlı	planera	planlı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+planerat	planlanan	planera	planla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+planerat	planlanmış	planera	planla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+planerat	planlandı	planera	planla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+fowler	fowler	folla	fow	PROPN;NOM	
+liberty	özgürlük	liberty	özgürlük	PROPN;NOM	N;NOM;SG;3
+liberty	hürriyet	liberty	hürriyet	PROPN;NOM	N;NOM;SG;3
+liberty	liberty	liberty	liberty	PROPN;NOM	PROPN;NOM;SG;3
+underhåll	geliştirici	underhåll	geliştirici	N;NOM;INDF;NEUT;SG	
+underhåll	bakım	underhåll	bakım	N;NOM;INDF;NEUT;SG	
+stones	taş	ston	taş	PROPN;NOM	
+stones	taşlar	ston	taş	PROPN;NOM	ADJ;NOM;PL;3
+bakterier	bakteri	bakterie	bakteri	N;NOM;INDF;MASC+FEM;PL	
+bakterier	mikrop	bakterie	mikrop	N;NOM;INDF;MASC+FEM;PL	
+dalen	vadi	dal	vadi	N;NOM;DEF;MASC+FEM;SG	
+dalen	valley	dal	valley	N;NOM;DEF;MASC+FEM;SG	PROPN;NOM;SG;3
+dalen	vadisi	dal	vadi	N;NOM;DEF;MASC+FEM;SG	
+fasad	cephe	fasad	cephe	N;NOM;INDF;MASC+FEM;SG	
+fasad	cephe	fasad	cephe	N;NOM;INDF;MASC+FEM;SG	
+senegal	senegal	senegal	senegal	PROPN;NOM	PROPN;NOM;SG;3
+trondheim	trondheim	trondheim	trondh	PROPN;NOM	PROPN;NOM;SG;3
+dar	dar	dar	dar	N;NOM;INDF;NEUT;SG	
+bishop	piskopos	bishop	piskopos	PROPN;NOM	
+bishop	bishop	bishop	bishop	PROPN;NOM	PROPN;NOM;SG;3
+bishop	fil	bishop	fil	PROPN;NOM	
+utöka	uzatmak	utöka	uza	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+utöka	genişleyen	utöka	genişle	V;IMP;FIN;ACT	
+utöka	genişletmek	utöka	genişle	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+anläggning	bitki	anläggning	bitki	N;NOM;INDF;MASC+FEM;SG	
+anläggning	yükleme	anläggning	yükle	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+anläggning	montaj	anläggning	montaj	N;NOM;INDF;MASC+FEM;SG	
+anläggning	tesis	anläggning	tesis	N;NOM;INDF;MASC+FEM;SG	
+anläggning	kurulması	anläggning	kur	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+detalj	detay	detalj	detay	N;NOM;INDF;MASC+FEM;SG	
+detalj	ayrıntı	detalj	ayrıntı	N;NOM;INDF;MASC+FEM;SG	
+detalj	detaylı	detalj	detaylı	N;NOM;INDF;MASC+FEM;SG	
+jobba	çalış	jobba	çalış	V;IMP;FIN;ACT	
+jobba	çalışma	jobba	çalış	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+jobba	iş	jobba	iş	V;IMP;FIN;ACT	N;NOM;SG;3
+jobba	çalışmak	jobba	çalış	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+blume	blume	blume	blum	PROPN;NOM	PROPN;NOM;SG;3
+michail	mikhail	michail	mikhail	PROPN;NOM	
+justice	adalet	justice	adalet	N;NOM;INDF;MASC+FEM;SG	
+nutid	şimdiki	nutid	şimdiki	N;NOM;INDF;MASC+FEM;SG	
+nutid	mevcut	nutid	mevcut	N;NOM;INDF;MASC+FEM;SG	
+pernambuco	pernambuco	pernambuco	pernambuco	PROPN;NOM	PROPN;NOM;SG;3
+summa	toplam	summa	toplam	N;NOM;INDF;MASC+FEM;SG	
+summa	sum	summa	sum	N;NOM;INDF;MASC+FEM;SG	
+summa	toplamı	summa	toplam	N;NOM;INDF;MASC+FEM;SG	
+summa	toplam	summa	toplam	N;NOM;INDF;MASC+FEM;SG	
+signal	sinyal	signal	sinyal	N;NOM;INDF;MASC+FEM;SG	
+signal	işaret	signal	işaret	N;NOM;INDF;MASC+FEM;SG	
+meridionalis	meridionalis	meridionalis	meridionalis	N;NOM;INDF;MASC+FEM;SG	
+britton	britton	britton	britton	N;NOM;INDF;MASC+FEM;SG	
+nederlag	mağlup	nederlag	mağlup	N;NOM;INDF;NEUT;SG	ADJ
+nederlag	yenilgi	nederlag	yenilgi	N;NOM;INDF;NEUT;SG	
+eye	gözün	eye	göz	N;NOM;INDF;MASC+FEM;SG	N;GEN;SG;3
+fördelar	fayda	fördel	fayda	N;NOM;INDF;MASC+FEM;PL	
+fördelar	yararları	fördel	yarar	N;NOM;INDF;MASC+FEM;PL	ADJ;NOM;PL;3
+fördelar	avantajı	fördel	avantajı	N;NOM;INDF;MASC+FEM;PL	
+fördelar	avantajlı	fördel	avantajlı	N;NOM;INDF;MASC+FEM;PL	ADJ
+fördelar	avantaj	fördel	avantaj	N;NOM;INDF;MASC+FEM;PL	
+fördelar	avantaj	fördel	avantaj	N;NOM;INDF;MASC+FEM;PL	
+tillämpas	uygulamalı	tillämpa	uygulamalı	V;IND;PRS;FIN;PASS	
+högkvarter	merkez	högkvart	merkez	N;NOM;INDF;NEUT;SG	
+högkvarter	karargah	högkvart	karargah	N;NOM;INDF;NEUT;SG	
+taxon	takson	taxon	takson	N;NOM;INDF;NEUT;PL	
+marinen	donanma	marin	donan	N;NOM;DEF;MASC+FEM;SG	
+förmögenhet	servet	förmögenhet	servet	N;NOM;INDF;MASC+FEM;SG	
+förmögenhet	talih	förmögenhet	talih	N;NOM;INDF;MASC+FEM;SG	
+förmögenhet	servet	förmögenhet	servet	N;NOM;INDF;MASC+FEM;SG	
+benen	bacak	ben	bacak	N;NOM;DEF;NEUT;SG	
+benen	bacakları	ben	bacak	N;NOM;DEF;NEUT;SG	N;NOM;PL;3
+benen	bacaklar	ben	bacak	N;NOM;DEF;NEUT;SG	N;NOM;PL;3
+djupa	derine	djup	derin	ADJ;NOM;PL	
+djupa	derin	djup	derin	ADJ;NOM;PL	
+djupa	deep	djup	deep	ADJ;NOM;PL	
+djupa	derinden	djup	derin	ADJ;NOM;PL	ADJ;AT+ABL;SG;3
+third	üçüncüsü	third	üçüncü	N;NOM;SG	ADJ;NOM;SG;3
+third	üçüncü	third	üçüncü	N;NOM;SG	
+muhammad	muhammed	muhammad	muhammed	N;NOM;INDF;MASC+FEM;SG	
+bonus	bonus	bonus	bonus	N;NOM;INDF;MASC+FEM;SG	
+bonus	prim	bonus	prim	N;NOM;INDF;MASC+FEM;SG	
+bonus	bonus	bonus	bonus	N;NOM;INDF;MASC+FEM;SG	
+meddelande	haberleşme	meddelande	haberleş	N;NOM;INDF;NEUT;SG	
+meddelande	ileti	meddelande	ilet	N;NOM;INDF;NEUT;SG	
+meddelande	mesaj	meddelande	mesaj	N;NOM;INDF;NEUT;SG	
+meddelande	mesajı	meddelande	mesaj	N;NOM;INDF;NEUT;SG	N;ACC;SG;3
+meddelande	anons	meddelande	anons	N;NOM;INDF;NEUT;SG	
+komplexa	karışık	komplex	karışık	ADJ;NOM;PL	
+komplexa	kompleks	komplex	kompleks	ADJ;NOM;PL	
+paula	paula	paula	paula	N;NOM;INDF;MASC+FEM;SG	
+rincón	rincón	rinca	rinç	N;NOM;INDF;MASC+FEM;SG	
+utökade	uzamış	utöka	uza	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+utökade	genişletilmiş	utöka	genişle	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+dawn	dawn	da	dawn	PROPN;NOM	
+dawn	şafak	da	şafak	PROPN;NOM	
+dawn	seher	da	seher	PROPN;NOM	
+generationer	nesillerdir	generation	nesil	N;NOM;INDF;MASC+FEM;PL	V;IPFV;POT;PL;3;POS
+tjäna	kazan	tjäna	kazan	V;IMP;FIN;ACT	
+tjäna	hizmet	tjäna	hizmet	V;IMP;FIN;ACT	N;NOM;SG;3
+sammanhängande	tutarlı	sammanhängande	tutarlı	ADJ;NOM;PRS;V.PTCP	
+sammanhängande	bitişik	sammanhängande	bitişik	ADJ;NOM;PRS;V.PTCP	
+runeberg	runeberg	runeberg	runeberg	PROPN;NOM	
+bestämmelser	kural	bestämmelse	kural	N;NOM;INDF;MASC+FEM;PL	
+bestämmelser	kuralları	bestämmelse	kural	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+bestämmelser	erzak	bestämmelse	erzak	N;NOM;INDF;MASC+FEM;PL	
+forbes	forbes	forbes	forbes	PROPN;NOM	
+nature	tabiat	nature	tabiat	N;NOM;INDF;MASC+FEM;SG	
+nature	doğa	nature	doğa	N;NOM;INDF;MASC+FEM;SG	
+mozart	mozart	mommor	mozart	PROPN;NOM	
+återställa	yenileme	återställa	yenilem	V;IMP;NFIN;ACT	
+återställa	restore	återställa	restore	V;IMP;NFIN;ACT	
+teman	temalar	teman	tema	N;NOM;INDF;NEUT;PL	
+livsmedel	yiyecek	livsmedel	yiyecek	N;NOM;INDF;NEUT;SG	
+livsmedel	yemekler	livsmedel	yemek	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+livsmedel	gıda	livsmedel	gıda	N;NOM;INDF;NEUT;SG	
+livsmedel	yiyecekler	livsmedel	ye	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL;3
+livsmedel	yemekler	livsmedel	yemek	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+livsmedel	gıda	livsmedel	gıda	N;NOM;INDF;NEUT;SG	
+varvet	tersane	varv	tersane	N;NOM;DEF;NEUT;SG	
+värmdö	sunderland	värmdö	sunderlan	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+fördelade	dağıtılan	fördela	dağıt	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+captain	yüzbaşı	captain	yüzbaşı	N;NOM;INDF;MASC+FEM;SG	
+captain	kaptan	captain	kaptan	N;NOM;INDF;MASC+FEM;SG	
+myspace	myspace	myspace	myspace	N;NOM;INDF;MASC+FEM;SG	
+underhuset	commons	underhus	commons	N;NOM;DEF;NEUT;SG	
+ensamma	yalnız	ensam	yalnız	ADJ;NOM;PL	
+ensamma	yalniz	ensam	yalniz	ADJ;NOM;PL	
+ensamma	yanlız	ensam	yanlız	ADJ;NOM;PL	
+ensamma	yalnızlık	ensam	yalnızlık	ADJ;NOM;PL	N;NOM;SG;3
+ensamma	yalnız	ensam	yalnız	ADJ;NOM;PL	
+mollis	mollis	mollis	mollis	N;NOM;INDF;MASC+FEM;SG	
+fuller	fuller	fuller	ful	PROPN;NOM	
+fuller	dolgun	fuller	dolgun	PROPN;NOM	
+ricardo	ricardo	ricardo	ricardo	N;NOM;INDF;MASC+FEM;SG	
+willem	willem	willem	willem	PROPN;NOM	
+inledning	giriş	inledning	giriş	N;NOM;INDF;MASC+FEM;SG	
+inledning	tanıtım	inledning	tanıtım	N;NOM;INDF;MASC+FEM;SG	
+institution	enstitü	institution	enstit	N;NOM;INDF;MASC+FEM;SG	
+institution	kuruluş	institution	kuruluş	N;NOM;INDF;MASC+FEM;SG	
+institution	kurum	institution	kurum	N;NOM;INDF;MASC+FEM;SG	
+väder	hava	väder	hava	N;NOM;INDF;NEUT;SG	
+sylvia	sylvia	sylvia	sylvia	PROPN;NOM	
+harriet	harriet	harri	harriet	N;NOM;DEF;NEUT;SG	
+gara	gara	gara	gara	N;NOM;INDF;MASC+FEM;SG	
+innehållande	içeren	innehålla	içer	ADJ;NOM;PRS;V.PTCP	
+sveti	sveti	sveti	svet	PROPN;NOM	PROPN;NOM;SG;3
+räkning	fatura	räkning	fatura	N;NOM;INDF;MASC+FEM;SG	
+räkning	bill	räkning	bill	N;NOM;INDF;MASC+FEM;SG	
+boulder	boulder	bould	boul	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+bedömning	değerlendirme	bedömning	değerlen	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+bedömning	değerlendirme	bedömning	değerlen	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+desert	çöl	desera	çöl	N;NOM;INDF;NEUT;SG	
+campus	kampüs	campus	kampüs	N;NOM;INDF;NEUT;SG	
+industrin	sektör	industri	sektör	N;NOM;DEF;MASC+FEM;SG	
+industrin	endüstri	industri	endüstri	N;NOM;DEF;MASC+FEM;SG	
+industrin	sanayii	industri	sanayii	N;NOM;DEF;MASC+FEM;SG	
+industrin	sanayi	industri	sanayi	N;NOM;DEF;MASC+FEM;SG	
+cola	cola	cola	cola	N;NOM;INDF;MASC+FEM;SG	
+cola	kokain	cola	kokain	N;NOM;INDF;MASC+FEM;SG	
+cola	kola	cola	kol	N;NOM;INDF;MASC+FEM;SG	
+cola	cola	cola	cola	N;NOM;INDF;MASC+FEM;SG	
+cola	kola	cola	kol	N;NOM;INDF;MASC+FEM;SG	
+case	case	case	case	N;NOM;INDF;MASC+FEM;SG	
+case	vaka	case	vaka	N;NOM;INDF;MASC+FEM;SG	
+case	dava	case	dava	N;NOM;INDF;MASC+FEM;SG	
+primära	birincil	primär	birincil	ADJ;NOM;PL	
+medborgarskap	milliyet	medborgarskap	milliyet	N;NOM;INDF;NEUT;SG	
+rosea	rosea	rose	rosea	N;NOM;INDF;MASC+FEM;SG	
+bröd	ekmek	bröd	ekmek	N;NOM;INDF;NEUT;SG	
+fas	faz	fas	faz	N;NOM;INDF;MASC+FEM;SG	
+fas	aşama	fas	aşam	N;NOM;INDF;MASC+FEM;SG	
+fas	evre	fas	evre	N;NOM;INDF;MASC+FEM;SG	
+lissabon	lizbon	lissabon	lizbon	PROPN;NOM	PROPN;NOM;SG;3
+markera	işaretle	markera	işaret	V;IMP;FIN;ACT	N;INS;SG;3
+markera	işaret	markera	işaret	V;IMP;FIN;ACT	
+markera	mark	markera	mark	V;IMP;FIN;ACT	
+markera	vurgulama	markera	vurgulama	V;IMP;FIN;ACT	
+markera	seç	markera	seç	V;IMP;FIN;ACT	
+kritiserade	eleştirdi	kritisera	eleştir	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+noterade	alıntı	notera	al	V;IND;PST;V.PTCP;ACT	
+stand	ayağa	stand	ayak	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+stand	stand	stand	stand	N;NOM;INDF;MASC+FEM;SG	
+konrad	konrad	konrad	konrad	PROPN;NOM	PROPN;NOM;SG;3
+chester	chester	chest	chester	PROPN;NOM	PROPN;NOM;SG;3
+patricia	patricia	patricia	patricia	PROPN;NOM	
+kalender	takvimi	kalender	takvim	N;NOM;INDF;NEUT;PL	N;NOM;SG;3
+kalender	takvim	kalender	takvim	N;NOM;INDF;NEUT;PL	
+kurser	kursları	kurs	kurs	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+kurser	kurs	kurs	kurs	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+ovanlig	sıradışı	ovanlig	sıra	ADJ;NOM;INDF;MASC+FEM;SG	
+ovanlig	olağandışı	ovanlig	olağan	ADJ;NOM;INDF;MASC+FEM;SG	
+ovanlig	alışılmadık	ovanlig	alış	ADJ;NOM;INDF;MASC+FEM;SG	V;PFV;POT;PL;1;NEG;PST
+sega	sega	sega	sega	N;NOM;INDF;MASC+FEM;PL	
+edmonton	edmonton	edmonton	edmonton	PROPN;NOM	PROPN;NOM;SG;3
+wallenberg	wallenberg	wallenberg	wallenberg	PROPN;NOM	
+härkomst	iniş	härkomst	iniş	N;NOM;INDF;MASC+FEM;SG	
+antigua	antigua	antigua	antigua	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+lanserade	başlatılan	lansera	başla	V;PST;V.PTCP;ACT	V;PFV;IND;POS;PRS;V.PTCP;PASS
+lanserade	başlattı	lansera	başla	V;PST;V.PTCP;ACT	V;PFV;IND;SG;3;POS;PST;CAUS
+gardner	gardner	gardn	gardner	PROPN;NOM	
+negativt	olumsuz	negativ	olumsuz	ADJ;NOM;INDF;NEUT;SG	
+negativt	negatif	negativ	negatif	ADJ;NOM;INDF;NEUT;SG	
+släkting	akrabalar	släkting	akraba	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+släkting	akraba	släkting	akraba	N;NOM;INDF;MASC+FEM;SG	
+släkting	göreceli	släkting	gör	N;NOM;INDF;MASC+FEM;SG	
+väsby	väsby	väsby	väsby	PROPN;NOM	
+läsaren	okuyucu	läsare	okuyucu	N;NOM;DEF;MASC+FEM;SG	
+läsaren	okur	läsare	oku	N;NOM;DEF;MASC+FEM;SG	
+utmärkelse	ödül	utmärkelse	ödül	N;NOM;INDF;MASC+FEM;SG	
+utmärkelse	ödülü	utmärkelse	ödül	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+ham	jambon	ham	jambon	PROPN;NOM	
+ham	ham	ham	ham	PROPN;NOM	
+sigrid	sigrid	sigrid	sigrid	PROPN;NOM	
+armeniska	ermeni	armenisk	ermen	ADJ;NOM;PL	
+ngc	ngc	ngc	ngc	PROPN;NOM	PROPN;NOM;SG;3
+antônio	antônio	antônio	ant	PROPN;NOM	
+etablerat	kurulmuştur	etablera	kur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;SG;3;POS;PST;PASS
+etablerat	kurulmuş	etablera	kur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+etablerat	kuruldu	etablera	kur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+etablerat	yerleşik	etablera	yerleşik	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+etablerat	kurulan	etablera	kur	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+synpunkter	görüş	synpunkt	görüş	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+synpunkter	yorumları	synpunkt	yorum	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+synpunkter	yorum	synpunkt	yorum	N;NOM;INDF;MASC+FEM;PL	
+flyg	uç	flyg	uç	N;NOM;INDF;NEUT;SG	
+flyg	sinek	flyg	sinek	N;NOM;INDF;NEUT;SG	
+flyg	uçmak	flyg	uç	N;NOM;INDF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+flyg	uçuş	flyg	uçuş	N;NOM;INDF;NEUT;SG	
+flyg	uçuşlar	flyg	uçuş	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+flyg	uçuş	flyg	uçuş	N;NOM;INDF;NEUT;SG	
+ajax	ajax	ajax	aja	PROPN;NOM	
+stärka	güçlendirme	stärka	güçlen	V;NFIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+stärka	güçlendirme	stärka	güçlen	V;NFIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+stärka	güçlendirmek	stärka	güçlen	V;NFIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+enorma	kocaman	enorm	kocaman	ADJ;NOM;PL	
+enorma	devasa	enorm	devasa	ADJ;NOM;PL	
+enorma	büyük	enorm	büyük	ADJ;NOM;PL	
+enorma	devasa	enorm	devasa	ADJ;NOM;PL	
+klaus	klaus	klaus	klaus	PROPN;NOM	
+gang	çete	gang	çete	N;NOM;INDF;MASC+FEM;SG	
+begravningsplats	mezarlıkta	begravningsplats	mezarlık	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+eden	eden	eden	et	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;POS;PRS;V.PTCP
+morton	morton	morton	morton	PROPN;NOM	
+calgary	calgary	calgary	calgary	PROPN;NOM	PROPN;NOM;SG;3
+robotar	füzeleri	robota	füze	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+robotar	füze	robota	füz	N;NOM;INDF;MASC+FEM;PL	
+robotar	robot	robota	robot	N;NOM;INDF;MASC+FEM;PL	
+finansiella	finans	finansiell	finans	ADJ;NOM;PL	
+finansiella	mali	finansiell	mali	ADJ;NOM;PL	
+dawson	dawson	dawson	dawson	PROPN;NOM	
+hertigdömet	düklük	hertigdöm	düklük	N;NOM;DEF;NEUT;SG	
+magna	magna	magen	magna	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+pia	pia	pia	pia	PROPN;NOM	
+devon	devon	devon	devon	PROPN;NOM	
+delägare	ortak	delägare	ortak	N;NOM;INDF;MASC+FEM;PL	ADJ
+delägare	partner	delägare	partner	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+croix	croix	croix	croix	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+kenny	kenny	kenny	kenny	PROPN;NOM	
+mick	mick	måcke	mick	N;NOM;INDF;MASC+FEM;SG	
+bitar	parçaları	bit	parça	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+bitar	parçaları	bit	parça	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+gros	gros	gros	gros	N;NOM;INDF;NEUT;SG	
+ljusa	parlak	ljus	parlak	ADJ;NOM;PL	
+ljusa	aydınlık	ljus	aydınlık	ADJ;NOM;PL	N;NOM;SG;3
+theodore	theodore	theodore	theodore	PROPN;NOM	
+electric	elektrikli	electric	elektrikli	N;NOM;INDF;NEUT;SG	
+edith	edith	edith	edith	PROPN;NOM	
+dynastin	hanedanı	dynastin	hanedan	ADJ;NOM;DEF;RL	N;INS;SG;3
+knapp	düğme	knapp	düğ	N;NOM;INDF;MASC+FEM;SG	
+inter	inter	inter	inte	PROPN;NOM	
+republik	cumhuriyet	republik	cumhuriyet	N;NOM;INDF;MASC+FEM;SG	
+madame	madam	madam	madam	N;NOM;INDF;MASC+FEM;SG	
+madame	madame	madam	madam	N;NOM;INDF;MASC+FEM;SG	
+presentation	sunum	presentation	sun	N;NOM;INDF;MASC+FEM;SG	
+presentation	sunumu	presentation	sun	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+presentation	tanıtım	presentation	tanıtım	N;NOM;INDF;MASC+FEM;SG	
+utgivning	yayınlama	utgivning	yayınla	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+utgivning	yayın	utgivning	yayın	N;NOM;INDF;MASC+FEM;SG	
+förstöra	harabe	förstöra	harabe	V;NFIN;ACT	
+syre	oksijen	syre	oksij	N;NOM;INDF;NEUT;SG	
+lycka	mutluluklar	lycka	mutluluk	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+lycka	mutluluğu	lycka	mutluluk	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+kulturer	kültür	kultur	kültür	N;NOM;INDF;MASC+FEM;PL	
+hawk	hawk	hawk	hawk	N;NOM;INDF;NEUT;SG	
+hawk	şahin	hawk	şahin	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+hawk	atmaca	hawk	at	N;NOM;INDF;NEUT;SG	
+opus	opus	opus	opus	N;NOM;INDF;MASC+FEM;SG	
+slovenska	sloven	slovensk	sloven	ADJ;NOM;PL	PROPN;NOM;SG;3
+slovenska	sloven	slovensk	sloven	ADJ;NOM;PL	PROPN;NOM;SG;3
+tristis	tristis	tristis	tristis	N;NOM;INDF;MASC+FEM;SG	
+befattning	fonksiyon	befattning	fonksiyon	N;NOM;INDF;MASC+FEM;SG	
+befattning	işlev	befattning	işlev	N;NOM;INDF;MASC+FEM;SG	
+befattning	mevki	befattning	mevki	N;NOM;INDF;MASC+FEM;SG	
+befattning	pozisyon	befattning	pozisyon	N;NOM;INDF;MASC+FEM;SG	
+systrar	kız	syster	kız	N;NOM;INDF;MASC+FEM;PL	
+piedras	piedras	piedra	piedras	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+rättegången	duruşma	rättegång	duruş	N;NOM;DEF;MASC+FEM;SG	
+planeras	planlı	planera	planlı	V;IND;PRS;FIN;PASS	
+planeras	planlanmış	planera	planla	V;IND;PRS;FIN;PASS	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+planeras	planlandı	planera	planla	V;IND;PRS;FIN;PASS	V;PFV;IND;SG;3;POS;PST;PASS
+kontroversiella	tartışmalı	kontroversiell	tartış	ADJ;NOM;PL	V;PFV;SG;3;POS;PRS
+manga	manga	manga	manga	N;NOM;INDF;MASC+FEM;SG	
+kommersiellt	ticari	kommersiell	ticari	ADJ;NOM;INDF;NEUT;SG	
+kommersiellt	reklam	kommersiell	reklam	ADJ;NOM;INDF;NEUT;SG	
+accepterade	kabul	acceptera	kabul	ADJ;NOM;PL;PST;V.PTCP	N;NOM;SG;3
+tittar	izlerken	titta	izle	V;IND;PRS;FIN;ACT	V;IPFV;IND;SG;3;POS;V.CVB
+justin	justin	justin	justin	PROPN;NOM	
+orleans	orleans	orleans	orleans	PROPN;NOM	PROPN;NOM;SG;3
+levi	levi	levi	levi	N;NOM;INDF;MASC+FEM;SG	
+istanbul	istanbul	istanbul	istanbul	PROPN;NOM	PROPN;NOM;SG;3
+cut	kesim	cut	kesim	N;NOM;INDF;MASC+FEM;SG	
+cut	kestik	cut	kes	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;PL;1;POS;PST
+cut	kes	cut	kes	N;NOM;INDF;MASC+FEM;SG	
+väggen	duvar	vägg	duvar	N;NOM;DEF;MASC+FEM;SG	
+azt	azt	azt	azt	N;NOM;INDF;MASC+FEM;SG	
+minnet	hatıra	minn	hatıra	N;NOM;DEF;NEUT;SG	
+minnet	anılar	minn	anı	N;NOM;DEF;NEUT;SG	N;NOM;PL;3
+minnet	hatıralar	minn	hatıra	N;NOM;DEF;NEUT;SG	N;NOM;PL;3
+elena	elena	elena	elen	PROPN;NOM	
+westwood	westwood	westwood	westwood	PROPN;NOM	PROPN;NOM;SG;3
+somalia	somali	somali	somali	PROPN;NOM	
+inställning	tutum	inställning	tutum	N;NOM;INDF;MASC+FEM;SG	
+inställning	tavır	inställning	tavır	N;NOM;INDF;MASC+FEM;SG	
+inställning	duruş	inställning	duruş	N;NOM;INDF;MASC+FEM;SG	
+inställning	ayarlama	inställning	ayarlam	N;NOM;INDF;MASC+FEM;SG	
+inställning	yapılandırma	inställning	yapılan	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+santana	santana	santan	santa	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+burgos	burgos	burgos	burgos	PROPN;NOM	PROPN;NOM;SG;3
+mekanisk	mekanik	mekanisk	mekanik	ADJ;NOM;INDF;MASC+FEM;SG	
+hebei	hebei	hebei	hebei	PROPN;NOM	PROPN;NOM;SG;3
+efterföljare	takipçi	efterföljare	takipçi	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+efterföljare	halefi	efterföljare	halef	N;NOM;INDF;MASC+FEM;PL	N;ACC;SG;3
+upptäckten	keşfi	upptäckt	keşif	N;NOM;DEF;MASC+FEM;SG	
+upptäckten	keşif	upptäckt	keşif	N;NOM;DEF;MASC+FEM;SG	
+gansu	kansu	gansu	kansu	PROPN;NOM	PROPN;NOM;SG;3
+artur	arthur	artur	arthur	PROPN;NOM	
+artur	artur	artur	artur	PROPN;NOM	
+mänsklig	insani	mänsklig	insani	ADJ;NOM;INDF;MASC+FEM;SG	
+mänsklig	insan	mänsklig	insan	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;SG;3
+brabham	brabham	brabham	brabham	PROPN;NOM	
+stupade	düşen	stupa	düş	V;IND;PST;FIN;ACT	
+apamea	apamea	apame	apam	N;NOM;INDF;MASC+FEM;SG	
+clubiona	clubiona	clubion	clubion	N;NOM;INDF;MASC+FEM;SG	
+moss	yosun	moss	yosun	N;NOM;INDF;MASC+FEM;SG	
+moss	moss	moss	moss	N;NOM;INDF;MASC+FEM;SG	
+schloss	schloss	schloss	schloss	PROPN;NOM	PROPN;NOM;SG;3
+novell	roman	novell	roman	N;NOM;INDF;MASC+FEM;SG	
+made	yapılmış	made	yap	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+made	yapıldı	made	yap	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;POS;PST;PASS
+register	kayıt	regist	kayıt	N;NOM;INDF;NEUT;SG	
+register	rekorlar	regist	rekor	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+register	kayıtları	regist	kayıt	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+register	kayıtlar	regist	kayıt	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+register	records	regist	records	N;NOM;INDF;NEUT;SG	
+kärnan	çekirdek	kärna	çek	N;NOM;DEF;MASC+FEM;SG	
+kärnan	çekirdek	kärna	çek	N;NOM;DEF;MASC+FEM;SG	
+montanus	montanus	montanus	montanus	N;NOM;INDF;MASC+FEM;SG	
+systems	sistemleri	system	sistem	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+systems	sistemler	system	sistem	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+skapandet	yaratma	skapande	yarat	N;NOM;DEF;NEUT;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+skapandet	oluşturma	skapande	oluş	N;NOM;DEF;NEUT;SG	V;PFV;IND;SG;2;POS;PRS;CAUS
+psykologi	psikoloji	psykologi	psikoloji	N;NOM;INDF;MASC+FEM;SG	
+mini	mini	mini	mini	N;NOM;INDF;MASC+FEM;SG	
+ökande	artıyor	öka	art	ADJ;NOM;PRS;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS
+ökande	artan	öka	art	ADJ;NOM;PRS;V.PTCP	
+ökande	yükselen	öka	yüksel	ADJ;NOM;PRS;V.PTCP	
+ökande	yükseliyor	öka	yüksel	ADJ;NOM;PRS;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS
+ökande	artıyor	öka	art	ADJ;NOM;PRS;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS
+feng	feng	feng	feng	N;NOM;INDF;MASC+FEM;SG	
+släppts	serbest	släppa	serbest	V;V.CVB;PASS	
+mårten	marten	mårt	marten	N;NOM;DEF;MASC+FEM;SG	
+jupiter	jüpiter	jupit	jüpiter	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+jupiter	jupiter	jupit	jupiter	N;NOM;INDF;MASC+FEM;PL	PROPN;NOM;SG;3
+överlevande	kurtulan	överlevande	kurtul	ADJ;NOM;PRS;V.PTCP	
+överlevande	kurtulanlar	överlevande	kurtulan	ADJ;NOM;PRS;V.PTCP	N;NOM;PL;3
+överlevande	kurtulan	överlevande	kurtul	ADJ;NOM;PRS;V.PTCP	
+överlevande	survivor	överlevande	survivor	ADJ;NOM;PRS;V.PTCP	N;NOM;SG;3
+erkänner	tanır	erkänna	tanı	V;IND;PRS;FIN;ACT	
+synliga	görünür	synlig	görün	ADJ;NOM;PL	
+synliga	görülebilir	synlig	gör	ADJ;NOM;PL	V;IPFV;POT;SG;3;POS;PASS
+mattsson	mattsson	mattsson	mattsson	PROPN;NOM	
+selma	selma	selma	selma	PROPN;NOM	
+aus	aus	aus	aus	V;IMP;FIN;ACT	
+nationen	ulus	nation	ulus	N;NOM;DEF;MASC+FEM;SG	
+sålda	satılmış	såld	sat	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+sålda	satılan	såld	sat	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+sålda	satıldı	såld	sat	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+sålda	sattı	såld	sat	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+sålda	satılır	såld	sat	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PASS
+kämpade	dövüştü	kämpa	dövüş	V;IND;PST;FIN;ACT	
+kämpade	savaştı	kämpa	savaş	V;IND;PST;FIN;ACT	
+kuala	kuala	kuala	kual	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+satsa	bahse	satsa	bahse	V;IMP;FIN;ACT	
+satsa	iddaa	satsa	iddaa	V;IMP;FIN;ACT	N;NOM;SG;3
+satsa	bahis	satsa	bahis	V;IMP;FIN;ACT	N;NOM;SG;3
+marknad	pazarı	marknad	pazar	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+marknad	pazar	marknad	pazar	N;NOM;INDF;MASC+FEM;SG	
+marknad	piyasa	marknad	piyas	N;NOM;INDF;MASC+FEM;SG	
+marknad	market	marknad	market	N;NOM;INDF;MASC+FEM;SG	
+pension	emekli	pension	emekli	N;NOM;INDF;MASC+FEM;SG	
+pension	emekli	pension	emekli	N;NOM;INDF;MASC+FEM;SG	
+portal	portal	portal	portal	N;NOM;INDF;MASC+FEM;SG	
+portal	geçit	portal	geçit	N;NOM;INDF;MASC+FEM;SG	
+konservativ	tutucu	konservativ	tutucu	ADJ;NOM;INDF;MASC+FEM;SG	
+konservativ	muhafazakâr	konservativ	muhafazak	ADJ;NOM;INDF;MASC+FEM;SG	
+braun	braun	braun	braun	PROPN;NOM	PROPN;NOM;SG;3
+knuten	düğüm	knyta	düğüm	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+jiang	jiang	jiang	jiang	PROPN;NOM	PROPN;NOM;SG;3
+andrés	andrés	annan	andrés	PROPN;NOM	
+filer	dosya	fil	dosya	N;NOM;INDF;MASC+FEM;PL	
+flykt	kaçmak	flykt	kaç	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+flykt	kaçış	flykt	kaçış	N;NOM;INDF;MASC+FEM;SG	
+flykt	firar	flykt	firar	N;NOM;INDF;MASC+FEM;SG	
+wen	wen	wen	wen	PROPN;NOM	
+humboldt	humboldt	humbold	humboldt	PROPN;NOM	
+belägringen	kuşatma	belägring	kuşat	N;NOM;DEF;MASC+FEM;SG	
+distributör	distribütörü	distributör	distribütötü	N;NOM;INDF;MASC+FEM;SG	N;ACC;SG;3
+distributör	dağıtıcı	distributör	dağıtıcı	N;NOM;INDF;MASC+FEM;SG	
+willie	willie	willie	willie	PROPN;NOM	
+zaire	zaire	zaimen	zaire	PROPN;NOM	PROPN;NOM;SG;3
+interiör	içişleri	interiö	içiş	N;NOM;INDF;MASC+FEM;SG	N;ACC;PL;3
+interiör	iç	interiö	iç	N;NOM;INDF;MASC+FEM;SG	
+passerade	geçmiş	passera	geç	ADJ;NOM;PL;PST;V.PTCP	
+passerade	geçtim	passera	geç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+passerade	geçti	passera	geç	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+moder	ana	moder	ana	N;NOM;INDF;MASC+FEM;SG	
+falla	düşme	falla	düş	V;IMP;FIN;ACT	
+falla	düşüş	falla	düşüş	V;IMP;FIN;ACT	
+falla	güz	falla	güz	V;IMP;FIN;ACT	
+falla	sonbahar	falla	sonbahar	V;IMP;FIN;ACT	
+falla	düşmek	falla	düş	V;IMP;FIN;ACT	
+lincolnshire	lincolnshire	lincolnshire	lincol	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+katedralen	katedral	katedral	katedral	N;NOM;DEF;MASC+FEM;SG	N;ESS;SG;3
+katedralen	katedrali	katedral	katedrali	N;NOM;DEF;MASC+FEM;SG	N;ESS;SG;3
+förbättrade	gelişmiş	förbättrad	geliş	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+förbättrade	geliştirilmiş	förbättrad	geliş	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+webbplatsen	sitede	pebbplats	site	N;NOM;DEF;MASC+FEM;SG	N;ESS;SG;3
+kuk	sik	kuk	sik	N;NOM;INDF;MASC+FEM;SG	
+kuk	dick	kuk	dick	N;NOM;INDF;MASC+FEM;SG	
+kuk	sik	kuk	sik	N;NOM;INDF;MASC+FEM;SG	
+kuk	horoz	kuk	horoz	N;NOM;INDF;MASC+FEM;SG	
+schultz	schultz	schultz	schultz	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+sträckte	gerilmiş	sträcka	ger	V;IND;PST;FIN;ACT	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+provinserna	illeri	provins	il	N;NOM;DEF;MASC+FEM;PL	N;ACC;PL;3
+luna	luna	luna	li	N;NOM;INDF;MASC+FEM;SG	
+behandlade	işlenmiş	behandla	işle	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+halle	halle	halle	hal	PROPN;NOM	
+mottagande	alınıyor	motta	al	ADJ;NOM;PRS;V.PTCP	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+mottagande	karşılama	motta	karşıl	ADJ;NOM;PRS;V.PTCP	
+mottagande	resepsiyon	motta	resepsiyon	ADJ;NOM;PRS;V.PTCP	N;NOM;SG;3
+slåss	kavga	slåss	kavga	V;FIN;PASS	N;NOM;SG;3
+slåss	dövüş	slåss	dövüş	V;FIN;PASS	
+slåss	mücadele	slåss	mücadele	V;FIN;PASS	
+slåss	kavga	slåss	kavga	V;FIN;PASS	N;NOM;SG;3
+slåss	savaş	slåss	savaş	V;FIN;PASS	N;NOM;SG;3
+slåss	dövüşün	slåss	dövüş	V;FIN;PASS	N;NOM;SG;3
+slåss	dövüş	slåss	dövüş	V;FIN;PASS	
+slåss	mücadele	slåss	mücadele	V;FIN;PASS	
+bytt	değiştim	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+bytt	değişti	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+bytt	değişmiş	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+bytt	değişen	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+bytt	değiştirildi	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+bytt	değiştirmiş	byta	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;CAUS
+ideal	idealleri	ideal	ideal	N;NOM;INDF;NEUT;SG	N;ACC;PL;3
+ideal	ideal	ideal	ideal	N;NOM;INDF;NEUT;SG	
+ciliata	ciliata	ciliat	ciliata	N;NOM;INDF;MASC+FEM;SG	N;ESS;SG;3
+israeliska	israilli	israelisk	israilli	ADJ;NOM;PL	
+apollo	apollo	apollo	apollo	N;NOM;INDF;MASC+FEM;SG	
+vienne	vienne	vien	vie	PROPN;NOM	PROPN;NOM;SG;3
+sanningen	hakikat	sanning	hakikat	N;NOM;DEF;MASC+FEM;SG	
+sanningen	gerçekler	sanning	gerçek	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;PL;3
+sanningen	gerçek	sanning	gerçek	N;NOM;DEF;MASC+FEM;SG	
+koordinater	koordinat	koordinat	koordinat	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+benguela	benguela	benguel	bengu	N;NOM;INDF;MASC+FEM;SG	
+svaga	zayıf	svag	zayıf	ADJ;NOM;PL	
+svaga	zayıflar	svag	zayıf	ADJ;NOM;PL	N;NOM;PL;3
+indre	indre	indre	indre	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+tomt	bos	tom	bos	ADJ;NOM;INDF;NEUT;SG	
+tomt	bomboş	tom	bomboş	ADJ;NOM;INDF;NEUT;SG	
+lägenheter	flats	lägenhet	flats	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+lägenheter	daire	lägenhet	daire	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+miquel	miquel	miquel	miquel	PROPN;NOM	
+sojuz	soyuz	sojuz	soyuz	PROPN;NOM	
+truppen	kadro	trupp	kadro	N;NOM;DEF;MASC+FEM;SG	
+truppen	ekip	trupp	ekip	N;NOM;DEF;MASC+FEM;SG	
+truppen	manga	trupp	manga	N;NOM;DEF;MASC+FEM;SG	
+truppen	bölük	trupp	bölük	N;NOM;DEF;MASC+FEM;SG	
+truppen	takım	trupp	takım	N;NOM;DEF;MASC+FEM;SG	
+ace	as	ace	as	N;NOM;INDF;MASC+FEM;SG	
+ace	ace	ace	ace	N;NOM;INDF;MASC+FEM;SG	
+ritat	çizdim	rita	çiz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+ritat	çizdi	rita	çiz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+ritat	drew	rita	drew	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+ritat	çizmiş	rita	çiz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+ritat	çekilmiş	rita	çek	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+ritat	çizilmiş	rita	çiz	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+challenge	meydan	challenge	meydan	N;NOM;INDF;MASC+FEM;SG	
+work	çalış	work	çalış	N;NOM;INDF;MASC+FEM;SG	
+work	çalışma	work	çalış	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+work	çalışmak	work	çalış	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+evolution	evrim	evolution	evrim	N;NOM;INDF;MASC+FEM;SG	
+bestämd	firma	bestämd	firma	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;NOM;SG;3
+bestämd	kararlı	bestämd	kararlı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+guizhou	guizhou	guizhou	guizhou	PROPN;NOM	
+lion	aslan	lion	aslan	N;NOM;INDF;NEUT;SG	
+trummis	davulcu	trummis	davulcu	N;NOM;INDF;MASC+FEM;SG	
+born	doğan	born	doğ	N;NOM;INDF;MASC+FEM;SG	
+born	doğuştan	born	doğuş	N;NOM;INDF;MASC+FEM;SG	N;AT+ABL;SG;3
+born	doğdu	born	doğ	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;POS;PST
+born	doğmuş	born	doğ	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFH;IND;SG;3;POS;PST
+born	doğdum	born	doğ	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;1;POS;PST
+maculatus	maculatus	maculatus	maculatus	N;NOM;INDF;MASC+FEM;SG	
+pinar	pınar	pin	pınar	N;NOM;INDF;MASC+FEM;SG	
+olsen	olsen	ols	ol	N;NOM;DEF;MASC+FEM;SG	V;PFV;SG;2;POS;PRS
+dagbok	günlük	dagbok	günlük	N;NOM;INDF;MASC+FEM;SG	
+dagbok	günlüğü	dagbok	günlük	N;NOM;INDF;MASC+FEM;SG	ADJ;ACC;SG;3
+aaron	harun	aaron	harun	PROPN;NOM	
+aaron	aaron	aaron	aaron	PROPN;NOM	
+fotografi	fotoğraf	fotografi	fotoğraf	N;NOM;INDF;NEUT;SG	
+fotografi	fotoğraf	fotografi	fotoğraf	N;NOM;INDF;NEUT;SG	
+inge	inge	inge	inge	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+karen	karen	kar	karen	PROPN;NOM	
+puy	puy	puy	puy	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+lara	lara	lara	None	N;NOM;INDF;MASC+FEM;SG	
+cinerea	cinerea	cinere	cinerea	N;NOM;INDF;MASC+FEM;SG	
+qinghai	çinghay	qinghai	çinghay	PROPN;NOM	
+bål	gövde	bål	gövde	N;MASC+FEM;SG	
+bål	yumruk	bål	yumruk	N;MASC+FEM;SG	
+bål	yumrukla	bål	yumruk	N;MASC+FEM;SG	ADJ;INS;SG;3
+inkluderade	dâhil	inkludera	dâhil	ADJ;NOM;PL;PST;V.PTCP	
+inkluderade	dahil	inkludera	dahil	ADJ;NOM;PL;PST;V.PTCP	
+nordin	nordin	nordin	nordin	PROPN;NOM	N;GEN;SG;3
+soundtrack	soundtrack	soundtrack	soundtrack	N;NOM;INDF;NEUT;SG	
+hondo	hondo	hondo	hondo	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+plast	plastik	plast	plastik	N;NOM;INDF;MASC+FEM;SG	
+plast	naylon	plast	naylon	N;NOM;INDF;MASC+FEM;SG	
+plast	plastik	plast	plastik	N;NOM;INDF;MASC+FEM;SG	
+laevis	laevis	laevis	laevis	N;NOM;INDF;MASC+FEM;SG	
+litterär	edebi	litterär	et	ADJ;NOM;INDF;MASC+FEM;SG	
+litterär	edebiyat	litterär	edebiyat	ADJ;NOM;INDF;MASC+FEM;SG	N;NOM;SG;3
+magiska	magic	magisk	magic	ADJ;NOM;PL	
+magiska	sihirli	magisk	sihirli	ADJ;NOM;PL	
+magiska	sihir	magisk	sihir	ADJ;NOM;PL	
+magiska	büyü	magisk	büy	ADJ;NOM;PL	
+magiska	büyülü	magisk	büyül	ADJ;NOM;PL	
+agg	kin	agg	kin	N;NOM;INDF;NEUT;SG	
+mörkt	koyu	mörk	koyu	ADJ;NOM;INDF;NEUT;SG	
+mörkt	karanlık	mörk	karanlık	ADJ;NOM;INDF;NEUT;SG	
+mörkt	dark	mörk	dark	ADJ;NOM;INDF;NEUT;SG	
+sinclair	sinclair	sincla	sinc	N;NOM;INDF;MASC+FEM;SG	
+cirkus	sirk	cirkus	sirk	N;NOM;INDF;MASC+FEM;SG	
+lundström	lundström	lundström	linds	N;NOM;INDF;MASC+FEM;SG	
+hastings	hastings	hasting	hastings	PROPN;NOM	PROPN;NOM;SG;3
+poeten	şair	poet	şair	N;NOM;DEF;MASC+FEM;SG	
+islamiska	islami	islamisk	islami	ADJ;NOM;PL	
+islamiska	islamcı	islamisk	islamcı	ADJ;NOM;PL	
+islamiska	islam	islamisk	islam	ADJ;NOM;PL	
+jyväskylä	jyväskylä	jyväskylä	jyväskylä	PROPN;NOM	PROPN;NOM;SG;3
+linder	linder	linder	linde	PROPN;NOM	
+morazán	morazán	moraz	moraz	PROPN;NOM	
+boeing	boeing	boeing	boeing	PROPN;NOM	
+gifter	zehir	gifta	zehir	V;IND;PRS;FIN;ACT	
+gifter	toksin	gifta	toksin	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+grove	grove	grov	grove	PROPN;NOM	PROPN;NOM;SG;3
+nät	net	nät	net	N;NOM;INDF;NEUT;SG	
+nät	ağ	nät	ağ	N;NOM;INDF;NEUT;SG	
+nät	nets	nät	nets	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+nät	ağlar	nät	ağ	N;NOM;INDF;NEUT;SG	
+xiii	xiii	xiii	Eiii	PROPN;NOM	
+inflytelserika	etkili	inflytelserika	etkili	N;NOM;INDF;MASC+FEM;SG	
+inflytelserika	nüfuzlu	inflytelserika	nüfuzlu	N;NOM;INDF;MASC+FEM;SG	
+sonic	sonik	sonic	sonik	PROPN;NOM	
+falkenberg	falkenberg	falkenberg	falkenberg	PROPN;NOM	
+brevis	brevis	brevis	brevis	N;NOM;INDF;MASC+FEM;SG	
+gemenskapen	topluluk	gemenskap	topluluk	N;NOM;DEF;MASC+FEM;SG	
+gemenskapen	toplum	gemenskap	toplum	N;NOM;DEF;MASC+FEM;SG	
+gemenskapen	ümmet	gemenskap	ümmet	N;NOM;DEF;MASC+FEM;SG	
+gemenskapen	cemaat	gemenskap	cemaat	N;NOM;DEF;MASC+FEM;SG	
+bandera	bandera	bandera	bander	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+evil	kötü	evil	kötü	N;NOM;INDF;MASC+FEM;SG	
+evil	şeytan	evil	şeytan	N;NOM;INDF;MASC+FEM;SG	
+evil	evil	evil	evil	N;NOM;INDF;MASC+FEM;SG	
+evil	şer	evil	şer	N;NOM;INDF;MASC+FEM;SG	
+seca	seca	sec	seca	N;NOM;INDF;NEUT;SG	
+nikolaus	nikolaus	nikolaus	nikolaus	PROPN;NOM	PROPN;NOM;SG;3
+självbiografi	otobiyografi	självbiografi	otobiyografi	N;NOM;INDF;MASC+FEM;SG	
+perfekt	kusursuz	perfekt	kusursuz	ADJ;NOM;INDF;NEUT;SG	
+bol	bol	bol	bol	N	
+delia	delia	delia	delia	N;NOM;INDF;MASC+FEM;SG	
+madagascariensis	madagascariensis	madagascariensis	madagascari	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;SG;3
+pero	pero	pero	pero	N;NOM;INDF;MASC+FEM;SG	
+variation	çeşitli	variation	çeşitli	N;NOM;INDF;MASC+FEM;SG	
+variation	varyasyon	variation	varyasyon	N;NOM;INDF;MASC+FEM;SG	
+lämpliga	uygundur	lämplig	uygun	ADJ;NOM;PL	
+pichincha	pichincha	pichincha	pichincha	N;NOM;SG	PROPN;NOM;SG;3
+hoya	hoya	hoya	hoya	V;IMP;FIN;ACT	
+hotellet	otelde	hotell	otel	N;NOM;DEF;NEUT;SG	N;ESS;SG;3
+kommunal	belediye	kommunal	beledi	ADJ;NOM;INDF;MASC+FEM;SG	
+kid	cocuk	kid	cocuk	N;NOM;INDF;MASC+FEM;SG	
+kid	kid	kid	kid	N;NOM;INDF;MASC+FEM;SG	
+populationer	nüfusu	population	nüfus	N;NOM;INDF;MASC+FEM;PL	N;ACC;SG;3
+populationer	nüfus	population	nüfus	N;NOM;INDF;MASC+FEM;PL	
+förhållandevis	nispeten	förhållandevis	nispet	ADV	
+förhållandevis	nispeten	förhållandevis	nispet	ADV	
+tunna	namlu	tun	namlu	ADJ;NOM;PL	N;NOM;SG;3
+tunna	varil	tun	varil	ADJ;NOM;PL	
+tunna	fıçı	tun	fıç	ADJ;NOM;PL	
+tunna	zayıf	tun	zayıf	ADJ;NOM;PL	
+moses	musa	mose	musa	PROPN;NOM	
+moses	moses	mose	moses	PROPN;NOM	PROPN;NOM;SG;3
+varumärke	brand	varumärke	brand	N;NOM;INDF;NEUT;SG	
+varumärke	marka	varumärke	marka	N;NOM;INDF;NEUT;SG	
+varumärke	marka	varumärke	marka	N;NOM;INDF;NEUT;SG	
+rosta	pas	rosta	pas	V;IMP;FIN;ACT	
+stopp	dur	stopp	i	N;NOM;INDF;NEUT;SG	V;PFV;SG;3;PRS
+lyssna	dinle	lyssna	dinle	V;IMP;FIN;ACT	
+brister	eksiklikleri	brist	eksiklik	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+brister	eksiklikleri	brist	eksiklik	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+manhattan	manhattan	manhattan	manhat	N;NOM;DEF;MASC+FEM;SG	N;AT+ABL;SG;3
+utbrytning	ayrılmasına	utbrytning	ayrılma	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+pietro	pietro	pietro	pietro	PROPN;NOM	PROPN;NOM;SG;3
+formella	resmi	formell	resmi	ADJ;NOM;PL	
+clemens	clemens	clem	clemens	PROPN;NOM	PROPN;NOM;SG;3
+terre	terre	terre	terre	N;NOM;INDF;NEUT;SG	INTJ
+mai	mai	mai	mai	N;NOM;INDF;NEUT;SG	
+bortom	ötesinde	bortom	öte	ADP	N;ESS;SG;3
+bortom	ötesi	bortom	öte	ADP	
+bortom	ötesine	bortom	öte	ADP	N;DAT;SG;3
+osu	osu	osu	osu	N;NOM;INDF;NEUT;SG	
+marin	marin	marin	marin	N;NOM;INDF;MASC+FEM;SG	
+marin	marine	marin	marin	N;NOM;INDF;MASC+FEM;SG	
+marin	deniz	marin	deniz	N;NOM;INDF;MASC+FEM;SG	
+marin	denizci	marin	denizci	N;NOM;INDF;MASC+FEM;SG	
+partiklar	parçacıkların	partikel	parçacık	N;NOM;INDF;MASC+FEM;PL	N;GEN;PL;3
+hamra	çekiç	hamra	çekiç	N;NOM;INDF;MASC+FEM;SG	
+hamra	hammer	hamra	hammer	N;NOM;INDF;MASC+FEM;SG	
+hamra	çekici	hamra	çekici	N;NOM;INDF;MASC+FEM;SG	
+sutton	sutton	sutton	sut	PROPN;NOM	PROPN;NOM;SG;3
+nürnberg	nuremberg	nürnberg	nuremberg	PROPN;NOM	PROPN;NOM;SG;3
+julien	julien	julien	julien	PROPN;NOM	
+åldern	age	ålder	age	N;NOM;DEF;MASC+FEM;SG	
+åldern	yaş	ålder	yaş	N;NOM;DEF;MASC+FEM;SG	
+åldern	yaşı	ålder	yaşı	N;NOM;DEF;MASC+FEM;SG	
+söndag	pazar	söndag	pazar	N;NOM;INDF;MASC+FEM;SG	
+cichlidae	cichlidae	cichlidae	cichlidae	V;IMP;FIN;ACT	N;AT+ABL;SG;3
+måns	måns	måns	måns	PROPN;NOM	
+turister	turist	turist	turist	N;NOM;INDF;MASC+FEM;PL	
+udda	garip	udda	garip	N;NOM;INDF;NEUT;SG	
+protest	protesto	protest	protesto	N;NOM;INDF;MASC+FEM;SG	
+simmons	simmons	simmon	simmons	PROPN;NOM	
+nigrescens	nigrescens	nigrescen	nigrescens	N;NOM;INDF;MASC+FEM;SG	
+ouagadougou	ouagadougou	ouagadougou	ouagadougou	PROPN;NOM	
+nan	nan	nan	nan	N;NOM;INDF;NEUT;SG	
+vale	vadi	väla	vadi	N;NOM;INDF;NEUT;SG	
+cooke	cooke	cooke	cooke	PROPN;NOM	
+tocantins	tocantins	tocantin	tocantins	N;NOM;INDF;MASC+FEM;SG	
+radcliffe	radcliffe	radcliffe	radcliff	N;NOM;INDF;MASC+FEM;SG	
+besättning	tayfa	besättning	tayfa	N;NOM;INDF;MASC+FEM;SG	
+besättning	ekip	besättning	ekip	N;NOM;INDF;MASC+FEM;SG	
+gate	gate	gate	gate	N;NOM;INDF;NEUT;SG	
+gate	geçit	gate	geçit	N;NOM;INDF;NEUT;SG	
+aktuellt	güncel	aktuell	güncel	ADJ;NOM;INDF;NEUT;SG	
+aktuellt	akım	aktuell	akım	ADJ;NOM;INDF;NEUT;SG	
+aktuellt	şimdiki	aktuell	şimdiki	ADJ;NOM;INDF;NEUT;SG	
+aktuellt	mevcut	aktuell	mevcut	ADJ;NOM;INDF;NEUT;SG	
+aktuellt	akıntı	aktuell	akıntı	ADJ;NOM;INDF;NEUT;SG	N;NOM;SG;3
+aktuellt	topikal	aktuell	topikal	ADJ;NOM;INDF;NEUT;SG	
+mills	mills	mills	mills	PROPN;NOM	
+mills	değirmen	mills	değir	PROPN;NOM	
+gåva	bağış	gåva	bağış	N;NOM;INDF;MASC+FEM;SG	
+gåva	armağan	gåva	armağan	N;NOM;INDF;MASC+FEM;SG	
+madonna	madonna	madon	madon	PROPN;NOM	
+madonna	meryem	madon	meryem	PROPN;NOM	N;NOM;SG;3
+stock	stok	stock	stok	N;NOM;INDF;MASC+FEM;SG	
+lutea	lutea	lutea	lutea	N;NOM;INDF;MASC+FEM;SG	
+stade	stade	stad	stade	PROPN;NOM	PROPN;NOM;SG;3
+anonym	anonim	anonym	anonim	ADJ;NOM;INDF;MASC+FEM;SG	
+anonym	isimsiz	anonym	isimsiz	ADJ;NOM;INDF;MASC+FEM;SG	
+ulster	ulster	ulst	ulster	PROPN;NOM	PROPN;NOM;SG;3
+antikens	eskiler	antik	eskile	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;PL;3
+antikens	antik	antik	antik	N;GEN;DEF;MASC+FEM;SG	
+antikens	kadim	antik	kadim	N;GEN;DEF;MASC+FEM;SG	
+riley	riley	riley	riley	PROPN;NOM	
+jämföra	karşılaştırma	jämföra	karşılaş	V;IMP;FIN;ACT	N;NOM;SG;3
+jämföra	karşılaştırmak	jämföra	karşılaş	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+jämföra	karşılaştırma	jämföra	karşılaş	V;IMP;FIN;ACT	N;NOM;SG;3
+jämföra	karşılaştırmak	jämföra	karşılaş	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+folkomröstning	referanduma	folkomröstning	referandum	N;NOM;INDF;MASC+FEM;SG	N;DAT;SG;3
+straffar	cezalandırmak	straffa	cezalan	N;NOM;INDF;MASC+FEM;PL	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+straffar	azap	straffa	azap	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+straffar	cezalandırma	straffa	cezalan	N;NOM;INDF;MASC+FEM;PL	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+straffar	cezalandırmak	straffa	cezalan	N;NOM;INDF;MASC+FEM;PL	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+nash	nash	nash	nash	PROPN;NOM	
+campos	campos	campos	campos	PROPN;NOM	PROPN;NOM;SG;3
+christoffer	christopher	christoff	christopher	PROPN;NOM	PROPN;NOM;SG;3
+yan	yan	yan	yan	PROPN;NOM	
+inverkan	çarpışma	inverkan	çarpış	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+inverkan	etki	inverkan	etki	N;NOM;INDF;MASC+FEM;SG	
+inverkan	çarpma	inverkan	çarp	N;NOM;INDF;MASC+FEM;SG	
+inverkan	darbe	inverkan	darbe	N;NOM;INDF;MASC+FEM;SG	
+ruiz	ruiz	ruiz	ruiz	PROPN;NOM	PROPN;NOM;SG;3
+radikala	radikal	radikal	radikal	ADJ;NOM;PL	
+radikala	kökten	radikal	kök	ADJ;NOM;PL	
+radikala	radikaller	radikal	radikal	ADJ;NOM;PL	N;NOM;PL;3
+förståelse	anlama	förståelse	anla	N;NOM;INDF;MASC+FEM;SG	
+förståelse	anlamak	förståelse	anla	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+förståelse	anlayışlı	förståelse	anlayışlı	N;NOM;INDF;MASC+FEM;SG	ADJ
+förståelse	anlayış	förståelse	anlayış	N;NOM;INDF;MASC+FEM;SG	
+hawkins	hawkins	hawkins	hawkins	PROPN;NOM	
+sigfrid	sigfrid	sigfrid	sigfrid	N;NOM;INDF;MASC+FEM;SG	
+berggren	berggren	berggren	berggren	PROPN;NOM	
+konsekvenser	sonuçları	konsekvens	sonuç	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+lupinus	lupinus	lupinus	lip	N;NOM;INDF;MASC+FEM;SG	
+vorarlberg	vorarlberg	vorarlberg	vorarlberg	PROPN;NOM	PROPN;NOM;SG;3
+bermuda	bermuda	bermuda	bermu	PROPN;NOM	
+knox	knox	knox	knox	PROPN;NOM	
+emily	emily	emily	emily	PROPN;NOM	
+studion	stüdyo	studion	stü	N;NOM;DEF;MASC+FEM;SG	
+studion	studio	studion	stu	N;NOM;DEF;MASC+FEM;SG	
+ovata	ovata	ovat	ova	N;NOM;INDF;MASC+FEM;SG	
+kalksten	kireçtaşı	kalkst	kireçtaşı	N;NOM;INDF;MASC+FEM;SG	
+marsch	mart	marsch	mart	N;NOM;INDF;MASC+FEM;SG	
+marsch	marş	marsch	marş	N;NOM;INDF;MASC+FEM;SG	
+marsch	yürüyüş	marsch	yürüyüş	N;NOM;INDF;MASC+FEM;SG	
+övergången	geçiş	övergång	geçiş	N;NOM;DEF;MASC+FEM;SG	
+hendrik	hendrik	hendrik	hendrik	PROPN;NOM	PROPN;NOM;SG;3
+synligt	görünür	synlig	görün	ADJ;NOM;INDF;NEUT;SG	
+synligt	görülebilir	synlig	gör	ADJ;NOM;INDF;NEUT;SG	V;IPFV;POT;SG;3;POS;PASS
+fernández	fernández	fernández	fern	PROPN;NOM	PROPN;NOM;SG;3
+köper	satın	köpa	satın	V;IND;PRS;FIN;ACT	
+köper	alım	köpa	alım	V;IND;PRS;FIN;ACT	
+jamie	jamie	jamie	jamie	PROPN;NOM	
+lugn	sakin	lugn	sakin	ADJ;NOM;INDF;MASC+FEM;SG	
+motion	alıştırma	motion	alış	N;NOM;INDF;MASC+FEM;SG	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+motion	egzersiz	motion	egzersiz	N;NOM;INDF;MASC+FEM;SG	
+bekämpa	savaş	bekämpa	savaş	V;IMP;FIN;ACT	N;NOM;SG;3
+bekämpa	muharebe	bekämpa	muharebe	V;IMP;FIN;ACT	N;NOM;SG;3
+överallt	heryerde	överallt	heryer	ADV	N;ESS;SG;3
+prilep	prilep	prilep	prilep	N;NOM;INDF;MASC+FEM;SG	
+newman	newman	newman	newman	PROPN;NOM	
+flint	flint	flin	flint	PROPN;NOM	PROPN;NOM;SG;3
+skapare	yapıcı	skapare	yapıcı	N;NOM;INDF;MASC+FEM;PL	
+skapare	yaratıcı	skapare	yaratıcı	N;NOM;INDF;MASC+FEM;PL	
+skapare	maker	skapare	maker	N;NOM;INDF;MASC+FEM;PL	
+skapare	yaratıcı	skapare	yaratıcı	N;NOM;INDF;MASC+FEM;PL	
+skapare	yaradan	skapare	yara	N;NOM;INDF;MASC+FEM;PL	N;AT+ABL;SG;3
+skapare	yaratıcısı	skapare	yaratıcı	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+skapare	yaratan	skapare	yarat	N;NOM;INDF;MASC+FEM;PL	
+living	yaşamak	living	yaşa	N;NOM;INDF;MASC+FEM;SG	V;PFV;NOM;IND;POS;PRS;V.MSDR
+living	yaşayan	living	yaşa	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;POS;PRS;V.PTCP
+living	yaşıyorum	living	yaşa	N;NOM;INDF;MASC+FEM;SG	V;PROG;IND;SG;1;POS;INFM;PRS
+flyktingar	mülteci	flykting	mülteci	N;NOM;INDF;MASC+FEM;PL	
+asp	asp	asp	asp	N;NOM;INDF;MASC+FEM;SG	
+globe	küre	globe	küre	N;NOM;INDF;MASC+FEM;SG	
+rijeka	rijeka	rijeka	rijeka	PROPN;NOM	PROPN;NOM;SG;3
+redondo	redondo	redondo	redondo	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+mega	mega	myge	mega	N;NOM;INDF;MASC+FEM;SG	
+islote	águila	islote	águila	N;NOM;INDF;MASC+FEM;SG	
+cáceres	cáceres	ctceres	cáceres	N;NOM;DEF;MASC+FEM;SG	
+wai	wai	wai	wai	N;NOM;INDF;NEUT;SG	
+tina	tina	tin	tina	N;NOM;INDF;MASC+FEM;SG	
+rush	acele	rush	acele	N;NOM;INDF;MASC+FEM;SG	
+rush	rush	rush	rush	N;NOM;INDF;MASC+FEM;SG	
+torbjörn	torbjörn	torbjörn	torbjörn	PROPN;NOM	
+respekt	saygı	respekt	saygı	N;NOM;INDF;MASC+FEM;SG	
+respekt	saygılar	respekt	saygı	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+respekt	saygi	respekt	saygi	N;NOM;INDF;MASC+FEM;SG	
+pyramid	piramit	pyramid	piramit	N;NOM;INDF;MASC+FEM;SG	
+hemland	vatan	hemland	vat	N;NOM;INDF;NEUT;SG	
+troligt	muhtemel	trolig	muhtemel	ADJ;NOM;INDF;NEUT;SG	
+troligt	olası	trolig	olası	ADJ;NOM;INDF;NEUT;SG	
+troligt	muhtemel	trolig	muhtemel	ADJ;NOM;INDF;NEUT;SG	
+graven	mezar	grav	mezar	N;NOM;DEF;MASC+FEM;SG	
+rikard	richard	rikard	richard	N;NOM;INDF;MASC+FEM;SG	
+rosario	rosario	rosario	rosario	PROPN;NOM	PROPN;NOM;SG;3
+darmstadt	darmstadt	darmstadt	darmstadt	PROPN;NOM	PROPN;NOM;SG;3
+ninja	ninja	ninja	ninja	N;NOM;INDF;MASC+FEM;SG	
+mad	deli	mad	deli	N;NOM;INDF;MASC+FEM;SG	
+mad	çılgın	mad	çılgın	N;NOM;INDF;MASC+FEM;SG	
+mad	mad	mad	mad	N;NOM;INDF;MASC+FEM;SG	
+nämndes	bahsedilen	nämna	bahset	V;IND;PST;FIN;PASS	V;PFV;IND;POS;PRS;V.PTCP;PASS
+förbinder	bağlanıyor	förbind	bağla	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+förbinder	bağlama	förbind	bağlama	V;IND;PRS;FIN;ACT	
+prinsen	prens	prins	prens	N;NOM;DEF;MASC+FEM;SG	
+prinsen	prince	prins	prince	N;NOM;DEF;MASC+FEM;SG	
+hämnd	intikam	hämnd	intikam	N;NOM;INDF;MASC+FEM;SG	
+hämnd	intikam	hämnd	intikam	N;NOM;INDF;MASC+FEM;SG	
+hämnd	intikam	hämnd	intikam	N;NOM;INDF;MASC+FEM;SG	
+konkurrens	yarışma	konkurrens	yarış	N;NOM;INDF;MASC+FEM;SG	
+konkurrens	rekabet	konkurrens	rekabet	N;NOM;INDF;MASC+FEM;SG	
+konkurrens	rakip	konkurrens	rakip	N;NOM;INDF;MASC+FEM;SG	
+ris	pirinç	ris	pirinç	N;NOM;INDF;NEUT;SG	
+upptäcka	tespit	upptäcka	tespit	V;IMP;FIN;ACT	
+upptäcka	keşfetmek	upptäcka	keşfet	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+upptäcka	keşfedin	upptäcka	keşfe	V;IMP;FIN;ACT	N;GEN;SG;3
+upptäcka	keşfet	upptäcka	keşfet	V;IMP;FIN;ACT	
+upptäcka	keşfetmek	upptäcka	keşfet	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+astronomi	astronomi	astronomi	astronomi	N;NOM;INDF;MASC+FEM;SG	
+mjölk	süt	mjölk	süt	N;NOM;INDF;MASC+FEM;SG	
+mjölk	milk	mjölk	milk	N;NOM;INDF;MASC+FEM;SG	
+mjölk	sütlü	mjölk	sütlü	N;NOM;INDF;MASC+FEM;SG	
+emi	emi	emi	emi	N;NOM;INDF;NEUT;SG	
+industrier	endüstri	industri	endüstri	N;NOM;INDF;MASC+FEM;PL	
+industrier	sanayi	industri	sanayi	N;NOM;INDF;MASC+FEM;PL	
+avesta	avesta	avesta	avesta	PROPN;NOM	
+damm	toz	damm	toz	N;NOM;INDF;MASC+FEM;SG	
+damm	dam	damm	dam	N;NOM;INDF;MASC+FEM;SG	
+damm	baraj	damm	baraj	N;NOM;INDF;MASC+FEM;SG	
+damm	damm	damm	damm	N;NOM;INDF;MASC+FEM;SG	
+chilensis	chilensis	chilensis	chilensis	N;NOM;INDF;MASC+FEM;SG	
+dröm	rüya	dröm	rüya	N;NOM;INDF;MASC+FEM;SG	
+dröm	düş	dröm	düş	N;NOM;INDF;MASC+FEM;SG	
+dröm	hayal	dröm	hayal	N;NOM;INDF;MASC+FEM;SG	
+dröm	dream	dröm	dream	N;NOM;INDF;MASC+FEM;SG	
+smärta	acı	smärta	acı	N;NOM;INDF;MASC+FEM;SG	
+smärta	aci	smärta	aci	N;NOM;INDF;MASC+FEM;SG	
+smärta	ağrı	smärta	ağrı	N;NOM;INDF;MASC+FEM;SG	
+sør	sør	si	sør	N;NOM;INDF;MASC+FEM;SG	
+yves	yves	yves	yves	PROPN;NOM	
+viborg	viborg	viborg	viborg	PROPN;NOM	PROPN;NOM;SG;3
+broder	kardeş	brod	kardeş	N;NOM;INDF;MASC+FEM;SG	
+broder	birader	brod	birader	N;NOM;INDF;MASC+FEM;SG	
+broder	kardes	brod	kardes	N;NOM;INDF;MASC+FEM;SG	
+broder	abi	brod	abi	N;NOM;INDF;MASC+FEM;SG	
+ávila	ávila	ávila	ávila	ADJ;NOM;DEF;SG	
+kingston	kingston	kingston	kingston	PROPN;NOM	PROPN;NOM;SG;3
+lynch	linç	lynch	linç	PROPN;NOM	
+lynch	lynch	lynch	lynch	PROPN;NOM	
+presenterar	hediye	presentera	hedi	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+presenterar	sunar	presentera	sunar	V;IND;PRS;FIN;ACT	N;NOM;SG;3
+presenterar	hediyeleri	presentera	hediye	V;IND;PRS;FIN;ACT	N;ACC;PL;3
+presenterar	hediyeler	presentera	hediye	V;IND;PRS;FIN;ACT	N;NOM;PL;3
+jeanne	jeanne	jea	Teanne	PROPN;NOM	
+halsen	boğaz	hals	boğaz	N;NOM;DEF;MASC+FEM;SG	
+halsen	gırtlak	hals	gırtlak	N;NOM;DEF;MASC+FEM;SG	
+startat	başladık	starta	başla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;1;POS;PST
+startat	başladı	starta	başla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+startat	başladım	starta	başla	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+echo	eko	echo	eko	N;NOM;INDF;NEUT;SG	
+echo	yankı	echo	yankı	N;NOM;INDF;NEUT;SG	
+echo	echo	echo	echo	N;NOM;INDF;NEUT;SG	
+fuktiga	nemli	fuktig	nemli	ADJ;NOM;PL	
+fuktiga	nemli	fuktig	nemli	ADJ;NOM;PL	
+fuktiga	nemli	fuktig	nemli	ADJ;NOM;PL	
+fuktiga	nemli	fuktig	nemli	ADJ;NOM;PL	
+flight	uçuş	flight	uçuş	N;NOM;INDF;MASC+FEM;SG	
+sonja	sonya	sonja	sonya	PROPN;NOM	
+sonja	sonja	sonja	sonja	PROPN;NOM	
+manche	manche	manche	manch	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+linux	linux	linux	lin	N;NOM;INDF;NEUT;SG	
+flygbolag	airlines	flygbolag	airlines	N;NOM;INDF;NEUT;PL	N;NOM;SG;3
+flygbolag	havayolu	flygbolag	havayolu	N;NOM;INDF;NEUT;PL	N;NOM;SG;3
+flygbolag	havayolu	flygbolag	havayolu	N;NOM;INDF;NEUT;PL	N;NOM;SG;3
+jordanien	ürdün	jordanie	ürdün	PROPN;NOM	
+jordanien	jordan	jordanie	jordan	PROPN;NOM	
+döma	yargılamak	döma	yargıla	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nyberg	nyberg	nyberg	nyberg	PROPN;NOM	
+lyfta	kaldırın	lyfta	kal	V;IMP;NFIN;ACT	V;PFV;IMP;PL;2;POS;PRS;CAUS
+lyfta	kaldırma	lyfta	kaldırma	V;IMP;NFIN;ACT	
+lyfta	yükseliş	lyfta	yükseliş	V;IMP;NFIN;ACT	
+lyfta	kaldır	lyfta	kal	V;IMP;NFIN;ACT	
+lyfta	kaldırma	lyfta	kaldırma	V;IMP;NFIN;ACT	
+lyfta	kaldırmak	lyfta	kal	V;IMP;NFIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+publicera	post	publicera	post	V;IMP;FIN;ACT	
+publicera	gönderi	publicera	gönder	V;IMP;FIN;ACT	N;NOM;SG;3
+publicera	yayıncılık	publicera	yayıncılık	V;IMP;FIN;ACT	N;NOM;SG;3
+publicera	yayınlama	publicera	yayınla	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+publicera	yayın	publicera	yayın	V;IMP;FIN;ACT	
+publicera	yayınla	publicera	yayın	V;IMP;FIN;ACT	
+publicera	yayınlama	publicera	yayınla	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+publicera	yayınlamak	publicera	yayınla	V;IMP;FIN;ACT	V;PFV;NOM;IND;POS;PRS;V.MSDR
+mello	mello	mello	mello	N;NOM;INDF;MASC+FEM;SG	
+passera	pas	passera	pas	V;IMP;FIN;ACT	
+passera	geçiş	passera	geçiş	V;IMP;FIN;ACT	
+elliott	elliott	elliott	elliott	PROPN;NOM	
+kirk	kirk	kirk	kirk	PROPN;NOM	
+isabel	isabel	isabel	isabel	PROPN;NOM	PROPN;NOM;SG;3
+minutus	minutus	minutus	minutus	N;NOM;INDF;MASC+FEM;SG	
+klein	klein	klei	kle	PROPN;NOM	
+geografisk	coğrafi	geografisk	coğrafi	ADJ;NOM;INDF;MASC+FEM;SG	
+geografisk	coğrafi	geografisk	coğrafi	ADJ;NOM;INDF;MASC+FEM;SG	
+akademin	akademide	akademin	akadem	N;NOM;DEF;MASC+FEM;SG	N;ESS;SG;3
+stridsvagnar	tankları	stridsvagen	tank	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+dömd	mahkum	dömd	mahkum	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+dömd	mahkum	dömd	mahkum	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+dömd	lanetlenmiş	dömd	lanetle	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+uppfattar	algıladığı	uppfatta	algıla	V;IND;PRS;FIN;ACT	V;PFV;IND;POS;PST;V.PTCP
+forever	sonsuza	forever	sonsuz	N;NOM;INDF;MASC+FEM;SG	ADJ;DAT;SG;3
+forever	ebediyen	forever	ebe	N;NOM;INDF;MASC+FEM;SG	
+pumila	pumila	pumil	pumila	N;NOM;INDF;MASC+FEM;SG	
+fokuserar	duruluyor	fokusera	dur	V;IND;PRS;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+ocean	okyanus	ocean	okyanus	N;NOM;INDF;MASC+FEM;SG	
+ocean	okyanuslar	ocean	okyanus	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+orsa	orsa	orsa	orsa	PROPN;NOM	
+buken	karnı	buk	karın	N;NOM;DEF;MASC+FEM;SG	
+buken	karın	buk	kar	N;NOM;DEF;MASC+FEM;SG	
+paolo	paulo	paolo	paulo	PROPN;NOM	PROPN;NOM;SG;3
+paolo	paolo	paolo	paolo	PROPN;NOM	PROPN;NOM;SG;3
+delat	paylaştım	delad	paylaş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+delat	paylaşılan	delad	paylaşı	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+delat	paylaşıldı	delad	paylaş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+delat	paylaştı	delad	paylaş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+delat	bölündü	delad	böl	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+delat	bölünmüş	delad	böl	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+stream	akış	stream	akış	N;NOM;INDF;MASC+FEM;SG	
+stream	irmak	stream	irmak	N;NOM;INDF;MASC+FEM;SG	
+stream	akım	stream	akım	N;NOM;INDF;MASC+FEM;SG	
+stream	dere	stream	dere	N;NOM;INDF;MASC+FEM;SG	
+magasin	dergi	magasin	dergi	N;NOM;INDF;NEUT;SG	
+magasin	magazin	magasin	magazin	N;NOM;INDF;NEUT;SG	
+magasin	depo	magasin	depo	N;NOM;INDF;NEUT;SG	
+magasin	ambar	magasin	ambar	N;NOM;INDF;NEUT;SG	
+kill	öldür	kill	öl	N;NOM;INDF;MASC+FEM;SG	
+kill	öldürün	kill	öl	N;NOM;INDF;MASC+FEM;SG	V;PFV;IMP;PL;2;POS;PRS
+lennon	lennon	lennon	lennon	PROPN;NOM	PROPN;NOM;SG;3
+hedlund	hedlund	hedlund	hedlun	PROPN;NOM	
+atp	atp	atp	atp	N;NOM;INDF;MASC+FEM;SG	
+aurea	aurea	auren	aurea	N;NOM;INDF;MASC+FEM;SG	
+sekund	ikinci	sekund	ikinci	N;NOM;INDF;MASC+FEM;SG	ADJ
+sekund	ikincisi	sekund	ikinci	N;NOM;INDF;MASC+FEM;SG	NUM;NOM;SG;3
+cecil	cecil	cecil	cecil	PROPN;NOM	
+drivande	sürüklenen	drivande	sürükle	ADJ;NOM;PRS;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+sal	sal	sal	sal	N;NOM;INDF;MASC+FEM;SG	
+anatomi	anatomi	anatomi	anatomi	N;NOM;INDF;MASC+FEM;SG	
+enrico	enrico	enrico	enrico	PROPN;NOM	
+laurence	laurence	laurence	laurence	PROPN;NOM	
+spets	spitz	spets	spitz	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+spets	ipucu	spets	ipuç	N;NOM;INDF;MASC+FEM;SG	
+spets	ihbar	spets	ihbar	N;NOM;INDF;MASC+FEM;SG	
+spets	dantelli	spets	dantelli	N;NOM;INDF;MASC+FEM;SG	
+sjuka	hasta	sjuk	hasta	ADJ;NOM;PL	
+sjuka	hastayım	sjuk	hastayım	ADJ;NOM;PL	V;PFV;OPT;SG;1;POS;PRS
+föraren	sürücü	föraren	sürücü	N;NOM;DEF;MASC+FEM;SG	
+föraren	şoför	föraren	şoför	N;NOM;DEF;MASC+FEM;SG	
+föraren	şöför	föraren	şöför	N;NOM;DEF;MASC+FEM;SG	
+heights	yüksekten	heights	yüksek	N;NOM;INDF;NEUT;SG	ADV
+heights	heights	heights	heights	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+reaktioner	tepki	reaktion	tepki	N;NOM;INDF;MASC+FEM;PL	
+reaktioner	reaksiyon	reaktion	reaksiyon	N;NOM;INDF;MASC+FEM;PL	
+vunna	kazanılan	vunna	kazan	ADJ;NOM;PL	V;PFV;IND;POS;PRS;V.PTCP;PASS
+vunna	kazandı	vunna	kazan	ADJ;NOM;PL	V;PFV;IND;SG;3;POS;PST
+vunna	won	vunna	won	ADJ;NOM;PL	
+flyr	kaçan	flyr	kaç	V;IMP;FIN;ACT	
+flyr	kaçış	flyr	kaçış	V;IMP;FIN;ACT	
+flyr	kaçıyor	flyr	kaç	V;IMP;FIN;ACT	V;PROG;IND;SG;3;POS;INFM;PRS
+zoo	hayvanat	zoo	hayvanat	N;NOM;INDF;NEUT;SG	ADJ;NOM;SG;3
+isère	isère	isère	isère	N;NOM;INDF;MASC+FEM;SG	
+skadad	yaralandı	skada	yarala	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+skadad	yaralılar	skada	yaralı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;NOM;PL;3
+skadad	yaralı	skada	yaralı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+skadad	hasarlı	skada	hasarlı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+skadad	hasar	skada	hasar	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+skadad	zarar	skada	zarar	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+skadad	yaralandı	skada	yarala	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+skadad	yaralılar	skada	yaralı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;NOM;PL;3
+skadad	yaralı	skada	yaralı	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+navy	donanma	navy	donan	N;NOM;INDF;NEUT;SG	
+pacifica	pacifica	pacific	pacifica	PROPN;NOM	N;NOM;SG;3
+lynn	lynn	lynn	li	PROPN;NOM	PROPN;NOM;SG;3
+clayton	clayton	clayton	clay	PROPN;NOM	PROPN;NOM;SG;3
+eugene	eugene	eugene	eugen	PROPN;NOM	PROPN;NOM;SG;3
+stam	kabile	stam	kabile	N;NOM;INDF;MASC+FEM;SG	
+bussar	otobüs	buss	otobüs	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+mänskligheten	insanlığı	mänsklighet	insanlık	N;NOM;DEF;MASC+FEM;SG	N;ACC;SG;3
+skal	shell	skal	shell	N;NOM;INDF;NEUT;SG	
+skal	kabuk	skal	kabuk	N;NOM;INDF;NEUT;SG	
+skal	kabukları	skal	kabuk	N;NOM;INDF;NEUT;SG	N;NOM;PL;3
+skal	kabuk	skal	kabuk	N;NOM;INDF;NEUT;SG	
+markerar	seçtiği	markera	seç	V;IND;PRS;FIN;ACT	V;PFV;IND;POS;PST;V.PTCP
+markerar	seçer	markera	seç	V;IND;PRS;FIN;ACT	
+cuba	küba	cuba	küba	N;NOM;INDF;MASC+FEM;SG	
+shannon	shannon	shannon	shan	PROPN;NOM	
+genetiska	genetik	genetisk	genetik	ADJ;NOM;PL	
+rapporter	raporları	rapport	rapor	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+dahlgren	dahlgren	dahlgr	dahlgren	PROPN;NOM	
+bark	bark	bark	bark	N;NOM;INDF;MASC+FEM;SG	
+concepción	concepción	concepción	concepci	N;NOM;INDF;MASC+FEM;SG	PROPN;NOM;SG;3
+strålning	radyasyon	strålning	radyasyon	N;NOM;INDF;MASC+FEM;SG	
+windsor	windsor	pindsor	windsor	PROPN;NOM	PROPN;NOM;SG;3
+violinist	keman	violinist	keman	N;NOM;INDF;MASC+FEM;SG	
+violinist	kemancı	violinist	kemancı	N;NOM;INDF;MASC+FEM;SG	
+atlético	atlético	atlético	atlético	PROPN;NOM	N;NOM;SG;3
+tillgängligt	mevcuttur	tillgänglig	mevcut	ADJ;NOM;INDF;NEUT;SG	
+tillgängligt	müsait	tillgänglig	müsait	ADJ;NOM;INDF;NEUT;SG	
+tillgängligt	mevcut	tillgänglig	mevcut	ADJ;NOM;INDF;NEUT;SG	
+tillgängligt	kullanılabilir	tillgänglig	kullan	ADJ;NOM;INDF;NEUT;SG	V;IPFV;POT;SG;3;POS;PASS
+tillgängligt	ulaşılabilir	tillgänglig	ulaş	ADJ;NOM;INDF;NEUT;SG	V;IPFV;POT;SG;3;POS;PASS
+tillgängligt	erişilebilir	tillgänglig	eriş	ADJ;NOM;INDF;NEUT;SG	V;IPFV;POT;SG;3;POS
+subsp	subsp	subsp	subsp	N;NOM;INDF;MASC+FEM;SG	
+dialekt	lehçe	dialekt	lehçe	N;NOM;INDF;MASC+FEM;SG	
+dialekt	aksan	dialekt	aksan	N;NOM;INDF;MASC+FEM;SG	
+dialekt	aksanı	dialekt	aksan	N;NOM;INDF;MASC+FEM;SG	
+picta	picta	picta	picta	N;NOM;INDF;MASC+FEM;SG	
+bundesliga	bundesliga	bundeslig	bundesliga	N;NOM;INDF;MASC+FEM;SG	
+suppleant	alternatif	suppleant	alternatif	N;NOM;INDF;MASC+FEM;SG	
+freiburg	freiburg	freiburg	freiburg	PROPN;NOM	PROPN;NOM;SG;3
+fienden	düşman	fiende	düşman	N;NOM;DEF;MASC+FEM;SG	
+tredjedel	üçüncüsü	tredjedel	üçüncü	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;SG;3
+tredjedel	üçüncü	tredjedel	üçüncü	N;NOM;INDF;MASC+FEM;SG	
+koyukuk	koyukuk	koyukuk	koyukuk	N;NOM;INDF;MASC+FEM;SG	
+teresa	teresa	teresa	teresa	PROPN;NOM	PROPN;NOM;SG;3
+ness	ness	ness	ness	PROPN;NOM	PROPN;NOM;SG;3
+url	adres	url	adres	N;NOM;INDF;MASC+FEM;SG	
+distribution	dağılımı	distribution	dağılım	N;NOM;INDF;MASC+FEM;SG	
+distribution	dağıtım	distribution	dağıt	N;NOM;INDF;MASC+FEM;SG	
+kräva	gerektirir	kräva	gerek	V;IMP;NFIN;ACT	V;IPFV;IND;SG;3;POS;CAUS
+kräva	talep	kräva	talep	V;IMP;NFIN;ACT	
+parentes	parantez	parente	parantez	N	
+parentes	parantez	parente	parantez	N	
+dynamo	dinamo	dynamu	dinamo	PROPN;NOM	N;NOM;SG;3
+lucy	lucy	lucy	lucy	N;NOM;INDF;MASC+FEM;SG	
+fyr	feneri	fyr	fener	N;NOM;INDF;MASC+FEM;SG	
+animerade	animasyon	animera	animasyon	ADJ;NOM;PL;PST;V.PTCP	
+pierce	pierce	pierce	pierce	PROPN;NOM	PROPN;NOM;SG;3
+socker	şeker	socker	şeker	N;NOM;INDF;NEUT;SG	
+socker	şekerli	socker	şekerli	N;NOM;INDF;NEUT;SG	
+socker	seker	socker	sek	N;NOM;INDF;NEUT;SG	
+fuente	fuente	fuent	fuent	N;NOM;INDF;NEUT;SG	PROPN;NOM;SG;3
+tillverkat	yapılmış	tillverkad	yap	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+tillverkat	yapıldı	tillverkad	yap	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+tillverkat	imal	tillverkad	imal	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+tillverkat	üretilen	tillverkad	üre	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+tillverkat	üretilmiş	tillverkad	üre	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+bolton	bolton	bolton	bolton	PROPN;NOM	PROPN;NOM;SG;3
+syntes	sentez	synas	sentez	V;IND;PST;FIN	N;NOM;SG;3
+bysantinska	bizans	bysantinsk	bizans	ADJ;NOM;PL	
+åtvidabergs	åtvidabergs	åtvidaberg	åtvidabergs	PROPN;GEN	N;ESS;SG;3
+paraíba	paraíba	paratb	paraíba	N;NOM;INDF;MASC+FEM;SG	
+hänvisar	atıfta	hänvisa	atıf	V;IND;PRS;FIN;ACT	N;ESS;SG;3
+intermedius	intermedius	intermedius	inte	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;NEG;PST
+richter	richter	richt	rich	PROPN;NOM	
+barr	iğneler	barr	iğne	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+barr	barr	barr	barr	N;NOM;INDF;MASC+FEM;SG	
+beat	alt	bea	alt	N;NOM;INDF;NEUT;SG	
+alexis	alexis	alexis	alexis	PROPN;NOM	PROPN;NOM;SG;3
+nisse	elf	nisse	elf	PROPN;NOM	
+ändring	değişim	ändring	değişim	N;NOM;INDF;MASC+FEM;SG	
+ändring	değiştir	ändring	değiş	N;NOM;INDF;MASC+FEM;SG	
+ändring	değiştirme	ändring	değiş	N;NOM;INDF;MASC+FEM;SG	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+tagen	alınmış	tagen	al	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;PASS
+tagen	alındı	tagen	al	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+tagen	alınan	tagen	al	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;POS;PRS;V.PTCP;PASS
+tagen	aldı	tagen	al	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+tagen	alınır	tagen	al	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PASS
+abraxas	abraxas	abraxa	abraxas	V;IND;PRS;FIN;PASS	
+slagen	dövülmüş	slag	döv	N;NOM;DEF;MASC+FEM;SG	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+slagen	dayak	slag	dayak	N;NOM;DEF;MASC+FEM;SG	
+arbetsgivare	işveren	arbetsgivare	işver	N;NOM;INDF;MASC+FEM;PL	
+juryn	jüri	juryn	jüri	N;NOM;DEF;MASC+FEM;SG	
+slavar	köle	slava	köle	N;NOM;INDF;MASC+FEM;PL	
+slavar	köleleri	slava	köle	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+innebandy	florbol	innebandy	florbol	N;NOM;INDF;MASC+FEM;SG	
+angela	angela	angela	angela	N;NOM;INDF;MASC+FEM;SG	
+produkten	ürün	produkt	ürün	N;NOM;DEF;MASC+FEM;SG	
+uppskattas	takdir	uppskatta	takdir	V;NFIN;PASS	
+katt	kediler	katt	kedi	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+katt	kedi	katt	kedi	N;NOM;INDF;MASC+FEM;SG	
+katt	kedi	katt	kedi	N;NOM;INDF;MASC+FEM;SG	
+katt	cat	katt	cat	N;NOM;INDF;MASC+FEM;SG	
+representation	temsili	representation	temsili	N;NOM;INDF;MASC+FEM;SG	
+representation	temsil	representation	temsil	N;NOM;INDF;MASC+FEM;SG	
+logan	logan	loga	logan	N;NOM;DEF;MASC+FEM;SG	PROPN;NOM;SG;3
+dunn	dunn	du	dun	PROPN;NOM	PROPN;NOM;SG;3
+lärt	öğrendim	lära	öğren	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+lärt	öğrendi	lära	öğren	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+lärt	öğrenmiş	lära	öğren	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+lärt	öğretti	lära	öğret	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+organismer	organizma	organism	organizma	N;NOM;INDF;MASC+FEM;PL	
+osäkert	belirsiz	osäker	belirsiz	ADJ;NOM;INDF;NEUT;SG	
+osäkert	kararsız	osäker	kararsız	ADJ;NOM;INDF;NEUT;SG	
+fenomenet	fenomen	fenomen	fenomen	N;NOM;DEF;NEUT;SG	
+fenomenet	olgu	fenomen	olgu	N;NOM;DEF;NEUT;SG	
+ändrat	değiştim	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;1;POS;PST
+ändrat	değişti	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST
+ändrat	değişmiş	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+ändrat	değişen	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+ändrat	değiştirildi	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+ändrat	değiştirilmiş	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+ändrat	modifiye	ändra	modif	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	N;DAT;SG;3
+ändrat	değiştirilmiş	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+ändrat	değiştirildi	ändra	değiş	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;POS;PST;PASS
+råkade	kazara	råka	kazara	V;IND;PST;FIN;ACT	
+råkade	yanlışlıkla	råka	yanlışlık	V;IND;PST;FIN;ACT	N;INS;SG;3
+råkade	kazayla	råka	kaza	V;IND;PST;FIN;ACT	N;INS;SG;3
+skribent	yazar	skribent	yazar	ADJ;NOM;INDF;MASC+FEM;SG	
+karibiska	karayip	karibisk	karay	ADJ;NOM;PL	ADV
+karibiska	karayipler	karibisk	karayip	ADJ;NOM;PL	N;NOM;PL;3
+cheng	cheng	cheng	cheng	PROPN;NOM	
+martha	martha	martha	martha	PROPN;NOM	
+lägenhet	düz	lägenhet	düz	N;NOM;INDF;MASC+FEM;SG	
+lägenhet	yassı	lägenhet	yass	N;NOM;INDF;MASC+FEM;SG	
+lägenhet	daireler	lägenhet	daire	N;NOM;INDF;MASC+FEM;SG	N;NOM;PL;3
+fond	fon	fond	fon	N;NOM;INDF;MASC+FEM;SG	
+fond	fonu	fond	fonu	N;NOM;INDF;MASC+FEM;SG	
+iriska	irlandalı	irisk	irlandal	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;SG;3;POS;PRS;PASS
+fjorton	fourteen	fjorton	fourteen	NUM;NOM	N;NOM;SG;3
+ont	kötülük	ond	kötülük	ADJ;NOM;INDF;NEUT;SG	N;NOM;SG;3
+ont	kötü	ond	kötü	ADJ;NOM;INDF;NEUT;SG	
+ont	şeytan	ond	şeytan	ADJ;NOM;INDF;NEUT;SG	
+ont	evil	ond	evil	ADJ;NOM;INDF;NEUT;SG	
+ont	şer	ond	şer	ADJ;NOM;INDF;NEUT;SG	
+ont	zarar	ond	zarar	ADJ;NOM;INDF;NEUT;SG	
+kapital	başkent	kapital	başkent	N;NOM;INDF;NEUT;SG	
+kapital	sermaye	kapital	sermaye	N;NOM;INDF;NEUT;SG	
+preston	preston	preston	preston	PROPN;NOM	PROPN;NOM;SG;3
+école	école	école	école	N;NOM;INDF;MASC+FEM;SG	
+sally	sally	sally	sally	PROPN;NOM	
+scania	scania	scania	scani	PROPN;NOM	N;NOM;SG;3
+årlig	yıllık	årlig	yıllık	ADJ;NOM;INDF;MASC+FEM;SG	
+årlig	senelik	årlig	senelik	ADJ;NOM;INDF;MASC+FEM;SG	
+årlig	yıllık	årlig	yıllık	ADJ;NOM;INDF;MASC+FEM;SG	
+årlig	senelik	årlig	senelik	ADJ;NOM;INDF;MASC+FEM;SG	
+ockupationen	işgal	ockupation	işgal	N;NOM;DEF;MASC+FEM;SG	
+ockupationen	meslek	ockupation	meslek	N;NOM;DEF;MASC+FEM;SG	
+strikt	katı	strikt	kat	ADJ;NOM;INDF;MASC+FEM;SG	
+intäkter	gelir	intäkt	gel	N;NOM;INDF;MASC+FEM;PL	
+intäkter	kazanç	intäkt	kazanç	N;NOM;INDF;MASC+FEM;PL	N;NOM;SG;3
+intäkter	gelir	intäkt	gel	N;NOM;INDF;MASC+FEM;PL	
+intäkter	gelirleri	intäkt	gelir	N;NOM;INDF;MASC+FEM;PL	N;ACC;PL;3
+intäkter	geliri	intäkt	gel	N;NOM;INDF;MASC+FEM;PL	
+guvernören	vali	guvernör	vali	N;NOM;DEF;MASC+FEM;SG	
+avancerad	ilerlemiş	avancerad	ilerle	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;SG;3;POS;PST
+avancerad	ileri	avancerad	ileri	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+avancerad	gelişmiş	avancerad	geliş	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;NFH;IND;POS;PST;V.PTCP
+dong	dong	dong	dong	N;NOM;INDF;MASC+FEM;SG	
+underjordiska	yeraltı	underjordisk	yeraltı	ADJ;NOM;PL	
+underjordiska	yeraltında	underjordisk	yeraltı	ADJ;NOM;PL	N;ESS;SG;3

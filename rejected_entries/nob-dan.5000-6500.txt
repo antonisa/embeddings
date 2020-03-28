@@ -1,0 +1,2076 @@
+omvendt	reverse	omvendt	reverse	ADJ;INDF;NEUT;SG	
+omvendt	bakgear	omvendt	bakgear	ADJ;INDF;NEUT;SG	N;INDF;NEUT;SG
+omvendt	baglæns	omvendt	baglæn	ADJ;INDF;NEUT;SG	ADV
+omvendt	bak	omvendt	bak	ADJ;INDF;NEUT;SG	
+omvendt	vende	omvendt	vende	ADJ;INDF;NEUT;SG	V;NFIN;ACT
+even	selv	even	selv	N;INDF;MASC;SG	PRO
+silva	silva	silv	silva	N;INDF;MASC;SG	
+strategi	strategien	strategi	strategi	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+bird	bird	bird	bird	N	
+koloni	kolonien	koloni	kolonie	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+basel	basel	basel	basel	N;INDF;MASC;SG	
+rhinen	rhin	rhin	rhin	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+gjennomsnitt	gennemsnitlige	gjennomsnitt	gennemsnitlig	N;INDF;NEUT;SG	ADJ;PL
+gjennomsnitt	gennemsnitlig	gjennomsnitt	gennemsnitlig	N;INDF;NEUT;SG	ADJ;INDF;MASC+FEM;SG
+styrtet	styrtede	styrte	styrte	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+than	end	than	end	N;INDF	ADP
+amerikanerne	amerikanerne	amerikanern	amerikaner	ADJ;PL	N;DEF;MASC+FEM;PL
+amerikanerne	amerikanere	amerikanern	amerikaner	ADJ;PL	N;INDF;MASC+FEM;PL
+trekkes	trukket	trekkes	trække	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+trekkes	tegnet	trekkes	tegne	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+trekkes	draget	trekkes	drage	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+kassel	kassel	kassel	kassel	N;INDF;MASC;SG	
+komposisjoner	sammensætninger	komposisjon	sammensætning	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+begreper	koncepter	begrepe	koncept	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+begreper	begreberne	begrepe	begreb	N;INDF;NEUT;SG	N;DEF;NEUT;PL
+begreper	begreber	begrepe	begreb	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+nominasjoner	nomineringer	nominasjon	nominering	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+behandle	forarbejdning	behandle	forarbejdning	V;IMP;NFIN	N;INDF;MASC+FEM;SG
+behandle	behandler	behandle	behandle	V;IMP;NFIN	V;IND;PRS;FIN;ACT
+nyeste	nyeste	ny	ny	N;INDF;MASC;SG	ADJ;DEF;RL
+nyeste	senest	ny	senest	N;INDF;MASC;SG	ADV;RL
+nyeste	seneste	ny	sen	N;INDF;MASC;SG	ADJ;DEF;RL
+diana	diana	dian	diana	N;INDF;FEM;SG	
+ligget	ligget	ligg	ligge	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+usd	usd	usd	usd	N	
+rovdyr	rovdyr	rovdyr	rovdyr	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+rovdyr	rovdyr	rovdyr	rovdyr	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+mitchell	mitchell	mitchell	mitchell	PROPN	
+zimbabwe	zimbabwe	zimbabwe	zimbabwe	N;INDF;NEUT;SG	
+zimbabwe	zimbabwiske	zimbabwe	zimbabwisk	N;INDF;NEUT;SG	ADJ;PL
+delstat	state	delstat	state	N;INDF;MASC;SG	
+estisk	estiske	estisk	estisk	ADJ;INDF;NEUT;SG	ADJ;PL
+gjennomgått	revideret	gjennomgå	revidere	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+gjennomgått	gennemgået	gjennomgå	gennemgå	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+gjennomgått	gennemset	gjennomgå	gennemset	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+andreassen	andreassen	andreass	andreasse	N;DEF;MASC;SG	PROPN
+houston	houston	houston	houston	PROPN	
+retter	kurserne	rette	kurs	N;INDF;MASC;PL	N;DEF;MASC+FEM;PL
+retter	opvask	rette	opvask	N;INDF;MASC;PL	N;INDF;MASC+FEM;SG
+blokkert	blokeret	blokkere	blokere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+blokkert	blokerede	blokkere	blokere	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+blokkert	spærret	blokkere	spærre	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+flyter	flydende	flyte	flydende	N;INDF;NEUT;SG	ADJ
+flyter	flyder	flyte	flyde	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+flyter	svæver	flyte	svæve	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+flyter	svævende	flyte	svævende	N;INDF;NEUT;SG	ADJ
+flyter	flyder	flyte	flyde	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+flyter	svæve	flyte	svæve	N;INDF;NEUT;SG	V;NFIN;ACT
+flyter	flyde	flyte	flyde	N;INDF;NEUT;SG	V;NFIN;ACT
+flyter	flyder	flyte	flyde	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+flyter	strømme	flyte	strømme	N;INDF;NEUT;SG	V;NFIN;ACT
+flyter	flyder	flyte	flyde	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+singh	singh	singh	singh	N;INDF;MASC;SG	
+styrket	forstærket	styrke	forstærke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+styrket	styrket	styrke	styrke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+fridtjof	fridtjof	fridtjof	fridtjof	ADJ;INDF;NEUT;SG	
+organisere	organisering	organisere	organisering	V;NFIN	N;INDF;MASC+FEM;SG
+porto	porto	porto	porto	N;INDF;NEUT;SG	
+olga	olga	olg	olga	N;INDF;FEM;SG	
+kingdom	kongeriget	kingdom	kongerig	N;INDF;MASC;SG	N;DEF;NEUT;SG
+unødvendig	unødvendige	unødvendig	unødvendig	ADJ;INDF;NEUT;SG	ADJ;PL
+unødvendig	unødig	unødvendig	unødig	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+normale	normalt	normal	normalt	ADJ;PL	ADV
+normale	normal	normal	normal	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+territoriet	område	territorium	område	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+territoriet	territorium	territorium	territorium	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+butikk	shop	butikk	shop	N;INDF;MASC;SG	
+butikk	shoppe	butikk	shoppe	N;INDF;MASC;SG	V;NFIN;ACT
+butikk	opbevares	butikk	opbevare	N;INDF;MASC;SG	V;IND;PRS;FIN;PASS
+foretrekker	foretrækker	foretrekke	foretrække	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+foretrekker	fortrækker	foretrekke	fortrække	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+foretrekker	foretrækker	foretrekke	foretrække	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+foretrekker	foretrække	foretrekke	foretrække	N;INDF;MASC;PL	V;NFIN;ACT
+banks	bankerne	banks	bank	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+banks	banker	banks	bank	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+banks	bankers	banks	bank	N;INDF;MASC;SG	N;GEN;INDF;MASC+FEM;PL
+planlagte	planlagte	planleggje	planlægge	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+planlagte	planlagt	planleggje	planlægge	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+yang	yang	yang	yang	N;INDF;MASC;SG	
+merkelig	besynderligt	merkelig	besynderligt	ADJ;INDF;NEUT;SG	ADV
+merkelig	besynderligt	merkelig	besynderligt	ADJ;INDF;NEUT;SG	ADV
+merkelig	ulige	merkelig	ulig	ADJ;INDF;NEUT;SG	ADJ;PL
+mislykket	mislykket	mislykk	mislykke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+mislykket	fejlede	mislykk	fejle	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+mislykket	mislykkedes	mislykk	mislykkes	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+mislykket	fejlet	mislykk	fejle	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+mislykket	mislykket	mislykk	mislykke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+snitt	krydset	snitt	kryds	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+basen	base	base	base	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+basen	basis	base	basis	N;DEF;MASC;SG	
+palestinske	palæstina	palestinsk	palæstina	ADJ;PL	N;INDF;MASC+FEM;SG
+palestinske	palæstinensisk	palestinsk	palæstinensisk	ADJ;PL	ADJ;INDF;SG
+palestinske	palæstinensere	palestinsk	palæstinensere	ADJ;PL	N;INDF;MASC+FEM;PL
+mandat	mandatet	mandat	mandat	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+ansikt	ansigterne	ansikt	ansigt	N;INDF;NEUT;SG	N;DEF;NEUT;PL
+ansikt	ansigter	ansikt	ansigt	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+ansikt	ansigtet	ansikt	ansigt	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+maryland	maryland	maryland	maryland	N;INDF;MASC;SG	
+tusenvis	tusindvis	tusenvis	tusindvis	N	ADV
+lærde	lærde	lære	lærde	V;IND;PST;FIN	ADJ;PL
+lærde	akademikere	lære	akademiker	V;IND;PST;FIN	N;INDF;MASC+FEM;PL
+zevs	zeus	zevs	zeus	N;INDF;MASC;SG	
+fløyte	fløjten	fløyte	fløjt	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+syndrom	syndromet	syndrom	syndrom	N;INDF;MASC;SG	N;DEF;NEUT;SG
+kirsten	kirsten	kirsten	kirsten	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+koloniene	kolonier	kolonie	kolonie	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+innvilget	bevilgede	innvilg	bevilge	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+innvilget	ydet	innvilg	yde	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+innvilget	tildelt	innvilg	tildele	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+innvilget	bevilget	innvilg	bevilge	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+innvilget	indrømmet	innvilg	indrømme	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+kunder	kunderne	kunde	kunde	N;INDF;MASC;PL	N;DEF;MASC+FEM;PL
+kunder	klienterne	kunde	klient	N;INDF;MASC;PL	N;DEF;MASC+FEM;PL
+aserbajdsjan	aserbajdsjan	aserbajdsjan	aserbajdsjan	N;INDF;NEUT;SG	
+nürnberg	nürnberg	nürnberg	nürnberg	N	
+kampanje	fremme	kampanje	fremme	N;INDF;MASC;SG	ADV
+kampanje	kampagnen	kampanje	kampagne	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+boris	boris	boris	boris	N;INDF;MASC;SG	
+ryddet	ryddet	rydde	ryd	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+ryddet	renset	rydde	rense	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+ryddet	renses	rydde	rense	N;DEF;NEUT;SG	V;IND;PRS;FIN;PASS
+ryddet	rengjort	rydde	rengjort	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+ryddet	renset	rydde	rense	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+porter	porte	porter	porte	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+porter	portene	porter	port	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+java	java	jave	java	N;DEF;NEUT;SG	N;INDF;MASC+FEM;SG
+stoltenberg	stoltenberg	stoltenberg	stoltenberg	N;INDF;MASC;SG	
+björn	björn	björn	björn	PROPN	N;INDF;NEUT;SG
+divisjoner	divisioner	divisjon	division	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+divisjoner	afdelinger	divisjon	afdeling	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+karakterisert	karakteriseret	karakterisere	karakterisere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+realiteten	realitet	realitet	realitet	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+realiteten	realiteter	realitet	realiteter	N;DEF;MASC;SG	N;INDF;MASC+FEM;PL
+realiteten	reality	realitet	reality	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+realiteten	virkelighed	realitet	virkelighed	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+dommere	dommere	dommere	dommer	V;NFIN	N;INDF;MASC+FEM;PL
+dommere	dommernes	dommere	dommer	V;NFIN	N;GEN;DEF;MASC+FEM;PL
+dommere	dommerne	dommere	dom	V;NFIN	N;DEF;MASC+FEM;PL
+samles	samle	samles	samle	N;INDF;MASC;SG	V;NFIN;ACT
+samles	saml	samles	saml	N;INDF;MASC;SG	V;IMP
+trek	trek	trek	trek	N	
+franco	franco	franco	franco	N	
+utnyttet	udnyttede	utnytt	udnytte	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+utnyttet	udnyttet	utnytt	udnytte	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+foster	foster	foster	foste	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+foster	fosteret	foster	foster	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+foster	foster	foster	foste	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+foster	fostret	foster	foste	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+legendariske	legendarisk	legendarisk	legendarisk	ADJ;PL	ADV
+jin	jin	jin	jin	NUM;PL	
+hevet	opvokset	hev	opvokset	N;DEF;NEUT;SG	ADJ;INDF;SG
+hevet	hævet	hev	hæve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hevet	opdraget	hev	opdrage	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hevet	opdrættet	hev	opdrætte	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hevet	rejst	hev	rejse	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+shah	shah	shah	shah	N	
+über	über	über	über	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+birdlife	birdlife	birdlife	birdlife	N;INDF;MASC;SG	
+digitalt	digitale	digital	digital	ADJ;INDF;NEUT;SG	ADJ;PL
+digitalt	digital	digital	digital	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+avbrutt	annullerede	avbru	annullere	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+avbrutt	aflyst	avbru	aflyse	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+avbrutt	annulleret	avbru	annullere	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+avbrutt	annullerede	avbru	annullere	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+avbrutt	aflyst	avbru	aflyse	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+avbrutt	aflyste	avbru	aflyste	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+avbrutt	annulleret	avbru	annullere	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+avbrutt	afbrød	avbru	afbryde	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+avbrutt	afbrudt	avbru	afbryde	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+avbrutt	afbrudt	avbru	afbryde	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+luigi	luigi	luigi	luigi	N;INDF;MASC;SG	
+variasjoner	variationer	variasjon	variation	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+variasjoner	varianter	variasjon	variant	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+legend	legenden	legend	legende	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+legend	legende	legend	lege	N;INDF;NEUT;SG	V;PRS;V.PTCP
+legend	legender	legend	legende	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+malcolm	malcolm	malcolm	malcolm	N;INDF;MASC;SG	
+mod	forsvarsministeriet	mod	forsvarsministerium	N;INDF;MASC;SG	N;DEF;NEUT;SG
+flikvinger	takvingefamilien	flikvinger	takvingefamilie	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+rund	budrunde	rund	budrunde	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+rund	rundt	rund	rundt	ADJ;INDF;SG	ADV
+rund	runde	rund	runde	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+rund	omgang	rund	omgang	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+løftet	ophævet	løft	ophæve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+løftet	løftede	løft	løfte	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+inntekt	indtægter	inntekt	indtægte	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+inntekt	indtægterne	inntekt	indtægt	N;INDF;FEM;SG	N;DEF;MASC+FEM;PL
+inntekt	indkomster	inntekt	indkomst	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+inntekt	indtægter	inntekt	indtægte	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+raf	raf	raf	raf	N	PROPN
+terrenget	terræn	terreng	terræn	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+slam	smække	slam	smække	N;INDF;NEUT;SG	V;NFIN;ACT
+atlantic	atlantic	atlantic	atlantic	N;INDF;MASC;SG	
+atlantic	atlanterhavet	atlantic	atlanterhavet	N;INDF;MASC;SG	N;DEF;NEUT;SG
+atlantic	atlantisk	atlantic	atlantisk	N;INDF;MASC;SG	ADJ;INDF;SG
+div	div	div	dive	N;INDF	
+gjeld	gæld	gjelde	gæld	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+gjeld	gælden	gjelde	gælde	V;IND;PRS;FIN	N;DEF;MASC+FEM;SG
+gjeld	gæld	gjelde	gæld	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+hobbs	hobbs	hobbs	hobbs	PROPN	
+sittet	siddende	sittet	sidde	N;INDF;MASC;SG	V;PRS;V.PTCP
+sittet	sidder	sittet	sidde	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+sittet	sat	sittet	sætte	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+sittet	siddet	sittet	sidde	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+sittet	sad	sittet	sidde	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+opprinnelsen	oprindelse	opprinnels	oprindelse	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+sheffield	sheffield	sheffialde	sheffield	N;INDF;MASC;SG	
+württemberg	württemberg	württemberg	württemberg	N;INDF;NEUT;SG	
+tel	tel	telje	tel	N;INDF;MASC;SG	
+departement	afdelingen	departement	afdeling	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+departement	ministeriet	departement	ministerium	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+kjæreste	kæresten	kjæreste	kæreste	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kjæreste	kæreste	kjæreste	kær	N;INDF;MASC;SG	ADJ;DEF;RL
+kjæreste	kæresten	kjæreste	kæreste	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kjæreste	kæreste	kjæreste	kær	N;INDF;MASC;SG	ADJ;DEF;RL
+mikhail	mikhail	mikhail	mikhail	N;INDF;MASC;SG	PROPN
+forekomster	forekomster	forekomster	forekomst	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+avhandlingen	afhandling	avhandling	afhandling	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+miste	taber	miste	tabe	ADJ;INDF;SG;V.PTCP	V;IND;PRS;FIN;ACT
+miste	mister	miste	miste	ADJ;INDF;SG;V.PTCP	V;IND;PRS;FIN;ACT
+miste	tabe	miste	tabe	ADJ;INDF;SG;V.PTCP	V;NFIN;ACT
+box	box	box	box	N	
+enorm	enormt	enorm	enormt	ADJ;INDF;SG	ADV
+enorm	kæmpestort	enorm	kæmpestort	ADJ;INDF;SG	ADV
+enorm	enorme	enorm	enorm	ADJ;INDF;SG	ADJ;PL
+enorm	enormt	enorm	enormt	ADJ;INDF;SG	ADV
+primære	primært	primær	primært	ADJ;PL	ADV
+primære	primær	primær	primær	ADJ;PL	N;INDF;NEUT;SG
+torp	torp	torp	torp	N;INDF;MASC;SG	
+poul	poul	poul	poul	N;INDF;MASC;SG	PROPN
+angola	angolas	angol	angolas	N;INDF;NEUT;SG	
+angola	angola	angol	angola	N;INDF;NEUT;SG	PROPN
+varmt	hot	varm	hot	ADJ;INDF;NEUT;SG	N;INDF;NEUT;SG
+varmt	varme	varm	varme	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+varmt	varme	varm	varme	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+varmt	varmer	varm	varm	ADJ;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+halsen	hals	hals	hals	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+halsen	svælg	hals	svælg	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+halsen	strube	hals	strube	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+biter	bide	bite	bide	N;INDF;MASC;SG	V;NFIN;ACT
+biter	bider	bite	bide	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+biter	bidder	bite	bid	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+biter	bider	bite	bide	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+biter	stykker	bite	stykke	N;INDF;MASC;SG	N;INDF;NEUT;PL
+biter	brikker	bite	brik	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+biter	stumper	bite	stump	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+seine	vod	sein	vod	ADJ;PL	N;INDF;NEUT;SG
+seine	seine	sein	seine	ADJ;PL	N;INDF;MASC+FEM;SG
+uenig	uenige	uenig	uenig	ADJ;INDF;NEUT;SG	ADJ;PL
+avla	tog	avle	tage	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+blomstene	blomster	blomst	blomst	N;DEF;FEM;PL	N;INDF;NEUT;PL
+paraguay	paraguay	paraguay	paraguay	N;INDF;MASC;SG	
+protester	protesterne	protester	protest	N;INDF;NEUT;SG	N;DEF;MASC+FEM;PL
+protester	protester	protester	protest	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+protester	demonstrationer	protester	demonstration	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+båret	båret	bår	bære	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gress	pot	gress	pot	N;INDF;MASC;SG	
+haag	hague	haag	hague	N;INDF;MASC;SG	
+haag	haag	haag	haag	N;INDF;MASC;SG	
+sahara	sahara	sahar	sahara	N;INDF;MASC;SG	
+barndom	barndommen	barndom	barndom	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+dedikert	dedikerede	dedikere	dedikere	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+dedikert	tilegnet	dedikere	tilegne	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+dedikert	dedikeret	dedikere	dedikere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+renessansen	renæssance	renessanse	renæssance	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+nagano	nagano	nagano	nagano	N;INDF;MASC;SG	
+ulv	wolf	ulv	wolf	N;INDF;MASC;SG	
+ulv	ulven	ulv	ulv	N;INDF;MASC;SG	N;DEF;NEUT;SG
+ulv	ulve	ulv	ulv	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+utmerkelse	tildelinger	utmerkelse	tildeling	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+utmerkelse	awards	utmerkelse	award	N;INDF;MASC;SG	
+utmerkelse	tilslag	utmerkelse	tilslag	N;INDF;MASC;SG	
+medarbeidere	arbejdstagere	medarbeidere	arbejdstager	V;NFIN	N;INDF;MASC+FEM;PL
+medarbeidere	medarbejdere	medarbeidere	medarbejder	V;NFIN	N;INDF;MASC+FEM;PL
+medarbeidere	lønmodtagere	medarbeidere	lønmodtager	V;NFIN	N;INDF;MASC+FEM;PL
+medarbeidere	associerede	medarbeidere	associere	V;NFIN	ADJ;PL
+medarbeidere	kollegaer	medarbeidere	kollega	V;NFIN	N;INDF;MASC+FEM;PL
+medarbeidere	kolleger	medarbeidere	kollega	V;NFIN	N;INDF;MASC+FEM;PL
+farget	farvet	farg	farve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+farget	farvede	farg	farvet	N;DEF;NEUT;SG	ADJ;PL
+ted	ted	ted	ted	N;INDF;MASC;SG	
+dick	dick	dick	dick	N;INDF;MASC;SG	
+folkeavstemning	folkeafstemningen	folkeavstemning	folkeafstemning	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+lidelse	lidende	lidelse	lide	N;INDF;MASC;SG	V;PRS;V.PTCP
+lidelse	lidelser	lidelse	lidelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+mislyktes	mislykket	mislyktes	mislykke	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+mislyktes	fejlede	mislyktes	fejle	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+mislyktes	mislykkedes	mislyktes	mislykkes	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+mislyktes	fejlet	mislyktes	fejle	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sub	sub	sub	sub	N	
+kontrast	kontrasten	kontrast	kontrast	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+separat	separat	separat	separat	ADJ;INDF;NEUT;SG	ADV
+separat	separat	separat	separat	ADJ;INDF;NEUT;SG	ADV
+separat	adskilt	separat	adskille	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+separat	separate	separat	separat	ADJ;INDF;NEUT;SG	N;INDF;NEUT;SG
+konferansen	konference	konferanse	konference	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+hunter	jægeren	hunter	jæger	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+hunter	hunter	hunter	hunte	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+isabella	isabella	isabella	isabella	N;DEF;FEM;SG	
+alberto	alberto	alberto	alberto	N;INDF;MASC;SG	
+fan	ventilator	fan	ventilator	ADJ;INDF;SG	N;INDF;NEUT;SG
+fan	fan	fan	fan	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+befolket	befolkede	befolkt	befolke	N;DEF;NEUT;SG	V;PL;PST;V.PTCP
+befolket	beboet	befolkt	bebo	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+befolket	befolket	befolkt	befolk	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjøs	sea	sjøs	sea	N;INDF;MASC;SG	
+sjøs	havet	sjøs	hav	N;INDF;MASC;SG	N;DEF;NEUT;SG
+motivet	motiv	motiv	motiv	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+eter	spis	eter	spise	N;INDF;NEUT;SG	V;IMP
+eter	spiser	eter	spise	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+eter	æd	eter	æd	N;INDF;NEUT;SG	V;IMP
+eter	spise	eter	spise	N;INDF;NEUT;SG	V;NFIN;ACT
+rase	racen	rase	race	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kristendom	kristendommen	kristendom	kristendom	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+institusjon	institutionen	institusjon	institution	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+namsos	namsos	namsos	namsos	N;INDF;MASC;SG	
+lena	lena	lene	lena	N;INDF;FEM;SG	
+høydepunkt	fremhæve	høydepunkt	fremhæve	N;INDF;NEUT;SG	V;NFIN;ACT
+høydepunkt	fremhævet	høydepunkt	fremhæve	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+nancy	nancy	nancy	nancy	N	
+keeper	vogter	keeper	vogte	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+bent	bent	bente	bente	N;INDF;MASC;SG	PROPN
+bent	bøjet	bente	byje	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+protest	indsigelser	protest	indsigelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+protest	indvendinger	protest	indvending	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+protest	protestere	protest	protestere	N;INDF;MASC;SG	V;NFIN;ACT
+protest	protester	protest	protest	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+endt	endt	ende	ende	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+endt	afsluttet	ende	afslutte	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+endt	sluttede	ende	slutte	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+endt	afsluttede	ende	afslutte	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+troen	overbevisning	tro	overbevisning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+troen	tro	tro	tro	N;DEF;MASC;SG	V;NFIN;ACT
+konsentrert	koncentrerede	konsentrere	koncentrere	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+konsentrert	koncentreret	konsentrere	koncentrere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+konsentrert	fokuseret	konsentrere	fokusere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+verre	dårligere	verre	dårlig	ADJ;CMPR	ADV;CMPR
+doktor	lægen	doktor	læge	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+doktor	doctor	doktor	doctor	N;INDF;FEM;SG	
+moldova	moldovas	moldov	moldovas	N;DEF;FEM;SG	
+moldova	moldova	moldov	moldova	N;DEF;FEM;SG	
+male	male	male	male	N;INDF;NEUT;SG	V;NFIN;ACT
+tette	tilstoppet	tett	tilstop	ADJ;PL	N;DEF;NEUT;SG
+danskene	danskere	danske	dansker	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+kanadisk	canadiske	kanadisk	canadisk	ADJ;INDF;NEUT;SG	ADJ;PL
+kanadisk	canadier	kanadisk	canadie	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+overlevd	overlevet	overleve	overleve	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+overlevd	overlevede	overleve	overleve	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+hud	skin	hud	skin	N;INDF;NEUT;SG	
+hud	huden	hud	huden	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+olof	olof	olof	olof	N;INDF;MASC;SG	PROPN
+innflytelsesrike	indflydelsesrig	innflytelsesrik	indflydelsesrig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+sarajevo	sarajevo	sarajevo	sarajevo	N;INDF;MASC;SG	
+bologna	bologna	bologn	bologna	N;DEF;FEM;SG	PROPN
+meksikansk	mexicanske	meksikansk	mexicansk	ADJ;INDF;SG	ADJ;PL
+meksikansk	mexicaner	meksikansk	mexicaner	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+effektive	effektiv	effektiv	effektiv	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+effektive	effektivt	effektiv	effektiv	ADJ;PL	ADJ;INDF;NEUT;SG
+effektive	effektiv	effektiv	effektiv	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+effektive	effektivt	effektiv	effektiv	ADJ;PL	ADJ;INDF;NEUT;SG
+søsken	søskende	søsken	søskende	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+søsken	søskende	søsken	søskende	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+plasseringer	praktikophold	plasseringe	praktikophold	N;INDF;FEM;PL	N;INDF;NEUT;SG
+holdeplass	stationen	holdeplass	station	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+manuskript	manuskriptet	manuskript	manuskript	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+run	kør	run	kør	N;INDF;SG	V;IMP
+run	løbe	run	løbe	N;INDF;SG	V;NFIN;ACT
+run	run	run	run	N;INDF;SG	
+run	kørt	run	køre	N;INDF;SG	V;INDF;SG;PST;V.PTCP
+femti	halvtreds	femti	halvtreds	NUM;PL	ADV
+femti	fifty	femti	fifty	NUM;PL	
+oregon	oregon	oregon	oregon	N;INDF;NEUT;SG	
+beklager	undskyld	beklager	undskylde	N;INDF;FEM;PL	N;INDF;NEUT;SG
+unik	entydigt	unik	entydig	ADJ;INDF;SG	ADV
+unik	unikke	unik	unik	ADJ;INDF;SG	ADJ;PL
+innvandrere	immigranter	innvandrere	immigrant	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+innvandrere	indvandrere	innvandrere	indvandrer	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+innvandrere	indvandrerne	innvandrere	indvandrer	N;INDF;FEM;SG	N;DEF;MASC+FEM;PL
+samarbeider	samarbejdsvillig	samarbeide	samarbejdsvillig	V;IND;PRS;FIN	ADJ;INDF;MASC+FEM;SG
+samarbeider	samarbejdende	samarbeide	samarbejdende	V;IND;PRS;FIN	ADJ
+samarbeider	samarbejdsvillige	samarbeide	samarbejdsvillig	V;IND;PRS;FIN	ADJ;PL
+vakker	smukke	vakker	smukke	ADJ;INDF;SG	ADJ;PL
+vakker	smukkeste	vakker	smuk	ADJ;INDF;SG	ADJ;DEF;RL
+stiger	stiger	stige	stige	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+stiger	stigende	stige	stige	N;INDF;MASC;SG	V;PRS;V.PTCP
+stiger	stiger	stige	stige	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+kommunistisk	kommunist	kommunistisk	kommunist	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+kommunistisk	kommunistiske	kommunistisk	kommunistisk	ADJ;INDF;NEUT;SG	ADJ;PL
+kommunistisk	kommunistisk	kommunistisk	kommunistisk	ADJ;INDF;NEUT;SG	ADV
+kommunistisk	kommunister	kommunistisk	kommunist	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kanten	rand	kant	rand	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+kanten	kant	kant	kant	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+kanten	edge	kant	edge	N;DEF;MASC;SG	
+relasjoner	relationer	relasjon	relation	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+relasjoner	relationer	relasjon	relation	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+relasjoner	forbindelserne	relasjon	forbindelse	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+relasjoner	forbindelser	relasjon	forbindelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+bus	bussen	bus	bus	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+besetning	besætningen	besetning	besætning	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+besetning	crew	besetning	crew	N;INDF;FEM;SG	
+julian	julian	julian	julian	N;INDF;MASC;SG	
+kobber	kobber	kobbe	kobber	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+rør	rør	rør	røre	N;INDF;NEUT;SG	V;IMP
+rør	pipe	rør	pipe	N;INDF;NEUT;SG	
+rør	rør	rør	røre	N;INDF;NEUT;SG	V;IMP
+rør	rør	rør	røre	N;INDF;NEUT;SG	V;IMP
+rør	piber	rør	pibe	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kritiserte	kritiserede	kritisere	kritisere	ADJ;PL;V.PTCP	V;IND;PST;FIN;ACT
+kritiserte	kritiseret	kritisere	kritisere	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+edwin	edwin	edwin	edwin	N;INDF;MASC;SG	
+vill	vilde	vill	vild	ADJ;INDF;SG	ADJ;PL
+vill	wild	vill	wild	ADJ;INDF;SG	
+antiokia	antioch	antiokia	antioch	N;INDF;MASC;SG	
+jagerfly	boksere	jagerfly	bokser	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+jagerfly	krigere	jagerfly	krig	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+jagerfly	kæmpere	jagerfly	kæmper	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+hale	halen	hale	han	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ireland	irland	ireland	irland	N;INDF;NEUT;SG	PROPN
+bebodd	beboede	beby	beboed	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+bebodd	beboet	beby	bebo	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+mestere	mestre	mestere	mester	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+mestere	vindere	mestere	vinder	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+intellektuelle	intellektuel	intellektuell	intellektuel	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+intellektuelle	intellektuelt	intellektuell	intellektuelt	ADJ;PL	ADV
+adrian	adrian	adrian	adrian	N;INDF;MASC;SG	
+bosetninger	forlig	bosetning	forlig	N;INDF;FEM;PL	N;INDF;NEUT;SG
+rydde	rene	rydde	ren	V;NFIN	ADJ;PL
+rydde	ren	rydde	ren	V;NFIN	ADJ;INDF;MASC+FEM;SG
+rydde	rent	rydde	ren	V;NFIN	ADJ;INDF;NEUT;SG
+rydde	clean	rydde	clean	V;NFIN	
+prøvd	forsøgt	prøve	forsøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+prøvd	forsøgte	prøve	forsøge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+prøvd	prøvet	prøve	prøve	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+prøvd	forsøgt	prøve	forsøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+prøvd	forsøgte	prøve	forsøge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+prøvd	prøvede	prøve	prøve	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+carsten	carsten	carst	carsten	N;INDF;MASC;SG	PROPN
+pistol	gun	pistol	gun	N;INDF;MASC;SG	
+pistol	våben	pistol	våben	N;INDF;MASC;SG	N;INDF;NEUT;PL
+fisher	fisher	fisher	fishe	PROPN	N;INDF;MASC+FEM;SG
+primær	primære	primær	primær	N;INDF;MASC;SG	ADJ;PL
+primær	primært	primær	primært	N;INDF;MASC;SG	ADV
+odense	odense	odense	odense	N;INDF;MASC;SG	PROPN
+strategiske	strategisk	strategisk	strategisk	ADJ;PL	ADV
+rico	rico	rico	rico	N;INDF;MASC;SG	PROPN
+thoresen	thoresen	thoresen	thores	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+skjell	granater	skjell	granat	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+skjell	skaller	skjell	skalle	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+skjell	patroner	skjell	patron	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+oppmerksom	opmærksomt	oppmerksom	opmærksomt	N;INDF;MASC;SG	ADV
+oppmerksom	opmærksom	oppmerksom	opmærksom	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+oppmerksom	opmærksomme	oppmerksom	opmærksom	N;INDF;MASC;SG	ADJ;PL
+blogg	bloggen	blogg	blog	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ansiktet	ansigt	ansikt	ansigt	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+ansiktet	fjæs	ansikt	fjæs	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+ansiktet	face	ansikt	face	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+say	sig	say	sig	N	PRO;ACC;3;REFL
+beat	slået	beit	slå	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+beat	slå	beit	slå	N;INDF;MASC;SG	V;NFIN;ACT
+jomfru	jomfru	jomfru	jomfru	N;INDF;FEM;SG	ADJ;INDF;MASC+FEM;SG
+jomfru	virgin	jomfru	virgin	N;INDF;FEM;SG	
+jomfru	jomfru	jomfru	jomfru	N;INDF;FEM;SG	ADJ;INDF;MASC+FEM;SG
+ferdige	færdig	ferdig	færdig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+ferdige	færdigt	ferdig	færdig	ADJ;PL	ADJ;INDF;NEUT;SG
+ferdige	afsluttet	ferdig	afslutte	ADJ;PL	V;INDF;SG;PST;V.PTCP
+ferdige	afsluttede	ferdig	afslutte	ADJ;PL	V;IND;PST;FIN;ACT
+camilla	camilla	camille	camilla	N;INDF;FEM;SG	
+bagdad	baghdad	bagdad	baghdad	N;INDF;MASC;SG	
+bagdad	bagdad	bagdad	bagdad	N;INDF;MASC;SG	
+elst	elst	gla	elst	N	
+sum	summen	sum	sum	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ruiner	ruin	ruine	ruin	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+ruiner	ruinerne	ruine	ruin	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+fabrikk	factory	fabrikk	factory	N;INDF;MASC;SG	
+designer	designe	designer	designe	N;INDF;MASC;SG	V;NFIN;ACT
+sjuende	syvende	sjuende	syvende	N;INDF;MASC;SG	ADJ
+tyskere	tyskere	tyskere	tysker	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+tyskere	tyskerne	tyskere	tysker	N;INDF;FEM;SG	N;DEF;MASC+FEM;PL
+small	small	small	small	N;INDF;NEUT;SG	
+small	små	small	lille	N;INDF;NEUT;SG	ADJ;PL
+small	småt	small	småt	N;INDF;NEUT;SG	ADV
+small	lille	small	lille	N;INDF;NEUT;SG	ADJ;SG
+elektroniske	elektronisk	elektronisk	elektronisk	ADJ;PL	ADV
+ronny	ron	ronny	ron	N;INDF;MASC;SG	
+ronny	ronny	ronny	ronny	N;INDF;MASC;SG	
+skytter	skytten	skytte	skytte	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+familiene	familier	familie	familie	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+inspirerte	inspirerede	inspirere	inspirere	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+inspirerte	inspireret	inspirere	inspirere	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+rick	rick	rick	rick	N;INDF;MASC;SG	
+perry	perry	perry	perry	PROPN	
+helene	helena	helene	helena	N;DEF;FEM;PL	N;DEF;MASC+FEM;SG
+helene	helen	helene	hel	N;DEF;FEM;PL	N;DEF;MASC+FEM;SG
+hart	hart	hart	hart	N;INDF;MASC;SG	
+opposisjon	oppositionen	opposisjon	opposition	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+seven	syv	seve	syv	N;INDF;NEUT;SG	NUM
+farlige	farlig	farlig	farlig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+farlige	farligt	farlig	farlig	ADJ;PL	ADJ;INDF;NEUT;SG
+bachelor	polterabend	bachelor	polterabend	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+sean	sean	sean	sean	N;INDF;MASC;SG	
+helle	helle	helle	helle	N;INDF;FEM;SG	
+anmeldelse	gennemgå	anmeldelse	gennemgå	N;INDF;MASC;SG	V;NFIN;ACT
+anmeldelse	gennemse	anmeldelse	gennemse	N;INDF;MASC;SG	
+konsekvens	konsekvenserne	konsekvens	konsekvens	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+konsekvens	konsekvenser	konsekvens	konsekvens	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+konsekvens	følgerne	konsekvens	folger	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+hop	hop	hop	hop	N;INDF;MASC;SG	V;IMP
+gjest	gæsten	gjest	gæsten	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+aage	aage	aage	aage	N;INDF;MASC;SG	
+pearl	perlen	pearl	perlen	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+negativt	negativt	negativ	negativt	ADJ;INDF;NEUT;SG	ADV
+negativt	negative	negativ	negativ	ADJ;INDF;NEUT;SG	ADJ;PL
+böhmen	bøhmen	böhm	bøhme	N;INDF;MASC;SG	PROPN
+irish	irske	irish	irsk	N	ADJ;PL
+irish	irish	irish	irish	N	
+hrsg	hrsg	hrsg	hrsg	N;INDF;MASC;SG	
+oval	ovale	oval	ovale	N;INDF;MASC;SG	ADJ;PL
+fis	prutte	fis	prutte	N;INDF;MASC;SG	V;NFIN;ACT
+fis	prutter	fis	prutte	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+lagre	gemme	lagre	gemme	N;INDF;NEUT;SG	V;NFIN;ACT
+lagre	gem	lagre	gem	N;INDF;NEUT;SG	V;IMP
+lagre	spar	lagre	spar	N;INDF;NEUT;SG	V;IMP
+arkansas	arkansas	arkansas	arkansa	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+kyst	kyster	kyst	kyste	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kyst	coast	kyst	coast	N;INDF;NEUT;SG	
+deltagere	deltagere	deltagere	deltager	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+deltagere	deltagerne	deltagere	deltager	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+orleans	orleans	orleans	orlean	N;INDF;MASC;SG	
+splittet	divideret	splitt	dividere	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+splittet	opdelt	splitt	opdele	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+splittet	splittet	splitt	splitte	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+varm	hot	varm	hot	ADJ;INDF;SG	N;INDF;NEUT;SG
+varm	varme	varm	varme	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+varm	varme	varm	varme	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+varm	varmer	varm	varm	ADJ;INDF;SG	V;IND;PRS;FIN;ACT
+massakren	massakrer	massakre	massakre	N;DEF;MASC;SG	N;INDF;MASC+FEM;PL
+massakren	massakre	massakre	massakre	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+mekanisk	mekaniske	mekanisk	mekanisk	ADJ;INDF;NEUT;SG	ADJ;PL
+mekanisk	mekanisk	mekanisk	mekanisk	ADJ;INDF;NEUT;SG	ADV
+helgen	weekenden	helg	weekend	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+helgen	saint	helg	saint	N;INDF;MASC;SG	
+terreng	terrænet	terreng	terræn	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+mason	mason	mason	mason	N;INDF;MASC;SG	
+uro	uroligheder	uro	urolighed	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+arkeologisk	arkæologiske	arkeologisk	arkæologisk	ADJ;INDF;NEUT;SG	ADJ;PL
+arkeologisk	arkæologisk	arkeologisk	arkæologisk	ADJ;INDF;NEUT;SG	ADV
+xiv	xiv	xiv	xiv	N;INDF;MASC	
+gatene	gader	gate	gade	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+stord	stord	stord	stord	N;INDF;NEUT;SG	
+tunisia	tunesien	tunisi	tunesien	N;INDF;MASC;SG	PROPN
+annonsert	meddelt	annonsere	meddele	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+annonsert	annoncerede	annonsere	annoncere	ADJ;INDF;SG;V.PTCP	V;IND;PST;FIN;ACT
+annonsert	annonceret	annonsere	annoncere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+annonsert	bekendtgjort	annonsere	bekendtgøre	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+annonsert	bebudet	annonsere	bebude	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+annonsert	meddelte	annonsere	meddele	ADJ;INDF;SG;V.PTCP	V;IND;PST;FIN;ACT
+annonsert	annoncerede	annonsere	annoncere	ADJ;INDF;SG;V.PTCP	V;IND;PST;FIN;ACT
+annonsert	annonceret	annonsere	annoncere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+balkan	balkanlandene	balkan	balkanland	N;INDF;MASC;SG	N;DEF;NEUT;PL
+balkan	balkan	balkan	balkan	N;INDF;MASC;SG	
+balkan	balkan	balkan	balkan	N;INDF;MASC;SG	
+kommersielt	kommercielt	kommersiel	kommercielt	ADJ;INDF;NEUT;SG	ADV
+kommersielt	kommercielle	kommersiel	kommerciel	ADJ;INDF;NEUT;SG	ADJ;PL
+frittstående	selvstændigt	frittstående	selvstændigt	N;INDF;NEUT;SG	ADJ;INDF;NEUT;SG
+frittstående	enkeltstående	frittstående	enkeltstående	N;INDF;NEUT;SG	ADJ
+stabile	stabil	stabil	stabil	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+stabile	stald	stabil	stald	ADJ;PL	N;INDF;MASC+FEM;SG
+stabile	stabilt	stabil	stabil	ADJ;PL	ADJ;INDF;NEUT;SG
+fangene	indsatte	fange	indsætte	N;DEF;MASC;PL	V;PL;PST;V.PTCP
+fangene	fanger	fange	fange	N;DEF;MASC;PL	N;INDF;MASC+FEM;PL
+fangene	fængslede	fange	fængsel	N;DEF;MASC;PL	V;PL;PST;V.PTCP
+berit	berit	berit	berit	N;INDF;FEM;SG	
+parentes	parentes	parentes	parente	N;INDF;NEUT;SG	V;NFIN;PASS
+parentes	parenteser	parentes	parentes	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+parentes	parentes	parentes	parente	N;INDF;NEUT;SG	V;NFIN;PASS
+fornøyd	tilfredse	fornøyd	tilfreds	ADJ;INDF;SG	ADJ;PL
+fornøyd	tilfredsstillet	fornøyd	tilfredsstillet	ADJ;INDF;SG	V;INDF;SG;PST;V.PTCP
+fornøyd	tillykke	fornøyd	tillykke	ADJ;INDF;SG	N;INDF;NEUT;SG
+fornøyd	glade	fornøyd	glad	ADJ;INDF;SG	ADJ;PL
+fornøyd	happy	fornøyd	happy	ADJ;INDF;SG	
+nettverket	net	nettverk	ne	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+nettverket	network	nettverk	network	N;DEF;NEUT;SG	
+nettverket	netværk	nettverk	netværk	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+gerais	gerais	gerais	gerais	N;INDF;SG	
+cover	dække	cove	dække	N;INDF;MASC;SG	V;NFIN;ACT
+cover	dæk	cove	dæk	N;INDF;MASC;SG	N;INDF;NEUT;PL
+santo	santo	santo	santo	N;INDF;NEUT;SG	
+ryttere	ryttere	ryttere	ryttere	V;NFIN	N;INDF;MASC+FEM;PL
+ryttere	ryttere	ryttere	ryttere	V;NFIN	N;INDF;MASC+FEM;PL
+deltaker	deltager	deltaker	deltage	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+deltaker	deltager	deltaker	deltage	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+hanssen	hanssen	hansse	hanssen	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+filosofen	filosof	filosof	filosof	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+gjenopprettet	genvundet	gjenopprett	genvund	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	inddrevet	gjenopprett	inddreve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	genoprettet	gjenopprett	genoprettet	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	gendannet	gjenopprett	gendann	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	genetableret	gjenopprett	genetableret	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	genindsat	gjenopprett	genindsætte	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+gjenopprettet	genskabt	gjenopprett	genskabt	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+forent	forenet	forent	forenet	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+forent	forenet	forent	forenet	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+forent	united	forent	united	N;INDF;MASC;SG	
+forent	forenede	forent	forene	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+randi	randi	randi	randi	N;INDF;FEM;SG	
+nedgang	afslå	nedgang	afslå	N;INDF;MASC;SG	V;NFIN;ACT
+federation	føderationen	federation	føderation	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+isaac	isaac	isaac	isaac	N;INDF;MASC;SG	
+skeptisk	skeptiske	skeptisk	skeptisk	ADJ;INDF;SG	ADJ;PL
+skeptisk	skeptiske	skeptisk	skeptisk	ADJ;INDF;SG	ADJ;PL
+skeptisk	skepsis	skeptisk	skepsis	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+gata	gade	gate	gade	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+gata	street	gate	stre	N;DEF;FEM;SG	N;INDF;NEUT;SG
+powell	powell	powell	powell	N;INDF;MASC;SG	
+scotland	skotland	scotland	skotland	N;INDF;NEUT;SG	PROPN
+albumene	album	albume	album	N;DEF;FEM;PL	N;INDF;NEUT;SG
+albumene	albummer	albume	albumme	N;DEF;FEM;PL	N;INDF;NEUT;PL
+klatre	klatre	klatre	klat	N;INDF;FEM;SG	V;NFIN;ACT
+sjanse	chancer	sjanse	chance	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+stanset	standset	stanse	standse	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+stanset	stoppede	stanse	stoppe	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+sakte	langsomt	sakte	langsomt	ADJ;INDF;NEUT;SG	ADV
+halve	halvt	halv	halv	ADJ;DEF;SG	ADJ;INDF;NEUT;SG
+halve	halvleg	halv	halvleg	ADJ;DEF;SG	N;INDF;MASC+FEM;SG
+halve	halvdelen	halv	halvdel	ADJ;DEF;SG	N;DEF;MASC+FEM;SG
+halve	halv	halv	halv	ADJ;DEF;SG	ADJ;INDF;MASC+FEM;SG
+skritt	træd	skritt	træd	N;INDF;NEUT;SG	V;IMP
+castilla	castilien	castille	castilie	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+castilla	castilla	castille	castilla	N;INDF;NEUT;SG	
+castilla	castilla	castille	castilla	N;INDF;NEUT;SG	
+organisk	organisk	organisk	organisk	ADJ;INDF;NEUT;SG	ADV
+organisk	organiske	organisk	organisk	ADJ;INDF;NEUT;SG	ADJ;PL
+organisk	økologisk	organisk	økologisk	ADJ;INDF;NEUT;SG	ADV
+organisk	økologiske	organisk	økologisk	ADJ;INDF;NEUT;SG	ADJ;PL
+hundrevis	hundredevis	hundrevis	hundredevis	N	ADV
+hundrevis	hundredvis	hundrevis	hundredvis	N	ADV
+søsteren	sister	søster	siste	N;DEF;MASC;SG	
+søsteren	søster	søster	søster	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+bratt	stejlt	bratt	stejlt	ADJ;INDF;NEUT;SG	ADV
+bratt	stejle	bratt	stejl	ADJ;INDF;NEUT;SG	ADJ;PL
+rot	roden	rot	roden	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+rot	root	rot	root	N;INDF;NEUT;SG	
+rot	rodfæstet	rot	rodfæstet	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+rot	forankret	rot	forankre	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+røa	røa	røe	røa	N;INDF;FEM;SG	
+palmer	palmer	palme	palme	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+kjerne	core	kjerne	core	N;INDF;MASC;SG	
+kjerne	kernen	kjerne	kerne	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kjerne	kernen	kjerne	kerne	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+dømte	dømt	dømme	dømme	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+dømte	dømte	dømme	dømme	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+dømte	bedømt	dømme	bedømme	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+dømte	dømt	dømme	dømme	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+dømte	bedømmes	dømme	bedømme	ADJ;PL;V.PTCP	V;IND;PRS;FIN;PASS
+opplevd	oplevet	oppleve	opleve	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+opplevd	oplevede	oppleve	opleve	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+opplevd	opleves	oppleve	opleve	ADJ;INDF;NEUT;SG;V.PTCP	V;NFIN;PASS
+made	made	made	made	N;INDF;SG	
+made	lavet	made	lave	N;INDF;SG	V;INDF;SG;PST;V.PTCP
+made	foretaget	made	foretage	N;INDF;SG	V;INDF;SG;PST;V.PTCP
+skuespillerinnen	skuespiller	skuespillerinn	skuespiller	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+skuespillerinnen	skuespillerinde	skuespillerinn	skuespillerinde	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+tjue	twenty	tjue	twenty	NUM;PL	
+eksport	eksportere	eksport	eksportere	N;INDF;MASC;SG	V;NFIN;ACT
+eksport	eksporterer	eksport	eksportere	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+eksport	eksportere	eksport	eksportere	N;INDF;MASC;SG	V;NFIN;ACT
+sonja	sonja	sonj	sonja	N;INDF;FEM;SG	
+mozart	mozart	mozar	mozart	N;INDF;MASC;SG	
+opprettholdt	bibeholdt	oppretthold	bibeholde	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+opprettholdt	vedligeholdt	oppretthold	vedligeholdt	N;INDF;NEUT;SG	V;PL;PST;V.PTCP
+opprettholdt	fastholdt	oppretthold	fastholde	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+opprettholdt	bevarede	oppretthold	bevare	N;INDF;NEUT;SG	V;PL;PST;V.PTCP
+opprettholdt	opretholdt	oppretthold	opretholde	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+leon	leon	leon	leon	N;INDF;NEUT;SG	
+tsjekkiske	tjekkisk	tsjekkisk	tjekkisk	ADJ;PL	ADJ;INDF;SG
+prinsen	fyrste	prins	fyrste	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+prinsen	prince	prins	prince	N;DEF;MASC;SG	
+prinsen	prins	prins	prins	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+skulpturer	skulpturer	skulpture	skulptur	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+skulpturer	skulpturer	skulpture	skulptur	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+brekke	bryde	brekke	bryde	N;INDF;NEUT;SG	V;NFIN;ACT
+brekke	bræk	brekke	bræk	N;INDF;NEUT;SG	V;IMP
+brekke	bryd	brekke	bryd	N;INDF;NEUT;SG	V;IMP
+brekke	break	brekke	break	N;INDF;NEUT;SG	
+brekke	brekke	brekke	brekke	N;INDF;NEUT;SG	
+brekke	bryder	brekke	bryde	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+grey	gråt	grey	grå	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+grey	grå	grey	grå	N;INDF;MASC;SG	ADJ;INDF;SG
+grey	grey	grey	grey	N;INDF;MASC;SG	
+valencia	valencia	valencium	valencia	N;DEF;MASC;SG	PROPN
+innsiden	indvendigt	innside	indvendig	N;DEF;MASC;SG	ADV
+innsiden	indenfor	innside	indenfor	N;DEF;MASC;SG	ADV
+innsiden	inde	innside	inde	N;DEF;MASC;SG	ADV
+innsiden	indvendig	innside	indvendig	N;DEF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+innsiden	indeni	innside	indeni	N;DEF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+bryst	bryster	bryste	bryst	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+bryst	brysterne	bryste	bryst	N;INDF;FEM;SG	N;DEF;MASC+FEM;PL
+pike	pike	pike	pike	N;INDF;MASC;SG	
+analyser	analyserer	analyse	analysere	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+analyser	analysere	analyse	analysere	N;INDF;FEM;PL	V;NFIN;ACT
+analyser	analyserer	analyse	analysere	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+analyser	analysere	analyse	analysere	N;INDF;FEM;PL	V;NFIN;ACT
+hersket	regeret	herske	regere	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hersket	regerede	herske	regere	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+sørger	sorg	sørge	sorg	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+sådan	sådan	sådan	sådan	N;INDF;MASC;SG	ADV
+sektor	sektoren	sektor	sektor	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+krysse	kryds	krysse	kryds	V;NFIN	N;INDF;NEUT;SG
+krysse	kors	krysse	kors	V;NFIN	N;INDF;NEUT;SG
+krysse	cross	krysse	cross	V;NFIN	
+låt	song	låt	song	N;INDF;MASC;SG	
+ettertiden	eftertiden	ettertid	eftertid	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+montana	montana	montan	montana	N;DEF;MASC;SG	
+serbiske	serbisk	serbisk	serbisk	ADJ;PL	ADJ;INDF;SG
+presenterer	introduktion	presentere	introduktion	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+beleiret	belejret	beleir	belejre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+ghana	ghana	ghan	ghana	PROPN	PROPN
+forhindret	forhindres	forhindr	forhindre	N;DEF;NEUT;SG	V;NFIN;PASS
+forhindret	forhindrede	forhindr	forhindre	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+forhindret	forhindret	forhindr	forhindre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+forhindret	hindret	forhindr	hindre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+tallinn	tallinn	tallinn	tallinn	N;INDF;NEUT;SG	
+stafetten	relæ	stafett	relæ	N;DEF;MASC;SG	N;INDF;NEUT;SG
+rapporter	rapporter	rapport	rapport	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+rapporter	anmelde	rapport	anmelde	N;INDF;NEUT;SG	V;NFIN;ACT
+rapporter	beretninger	rapport	beretning	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+rapporter	indberetninger	rapport	indberetning	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+rapporter	betænkninger	rapport	betænkning	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+rapporter	rapporter	rapport	rapport	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+romantisk	romantiske	romantisk	romantisk	ADJ;INDF;NEUT;SG	ADJ;PL
+romantisk	romantisk	romantisk	romantisk	ADJ;INDF;NEUT;SG	ADV
+romantisk	romantiker	romantisk	romantiker	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+romantisk	romantik	romantisk	romantik	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+kosovo	kosovo	kosovo	kosovo	PROPN	PROPN
+mind	mind	mind	mind	N;INDF;SG	
+mind	sindet	mind	sinde	N;INDF;SG	N;DEF;NEUT;SG
+avansert	avancerede	avansere	avanceret	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+avansert	avanceret	avansere	avanceret	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+avansert	fremskreden	avansere	fremskrede	ADJ;INDF;SG;V.PTCP	N;DEF;MASC+FEM;SG
+henviser	henvise	henvise	henvise	N;INDF;FEM;SG	V;NFIN;ACT
+henviser	henvis	henvise	henvis	N;INDF;FEM;SG	V;IMP
+begrense	begrænsende	begrense	begrænsende	N;INDF;MASC;SG	V;PRS;V.PTCP
+søstre	sisters	søstre	sisters	ADJ;PL	
+søstre	søstre	søstre	søster	ADJ;PL	N;INDF;MASC+FEM;PL
+søstre	søstrene	søstre	søster	ADJ;PL	N;DEF;MASC+FEM;PL
+bestemmelser	forordninger	bestemmelse	forordning	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+bestemmelser	regulativer	bestemmelse	regulativ	N;INDF;MASC;SG	N;INDF;NEUT;PL
+bestemmelser	hensættelser	bestemmelse	hensættelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+bestemmelser	bestemmelser	bestemmelse	bestemmelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+munnen	mund	munn	mund	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+verdensbasis	verdensomspændende	verdensbasis	verdensomspændende	N;INDF;MASC;SG	ADJ
+rasende	rasende	rasende	rasende	N;INDF;MASC;SG	ADJ
+rasende	rasende	rasende	rasende	N;INDF;MASC;SG	ADJ
+ofre	ofre	ofre	offer	V;NFIN	N;INDF;NEUT;PL
+ofre	ofrene	ofre	offer	V;NFIN	N;DEF;NEUT;PL
+siri	siri	siri	siri	N;INDF;FEM;SG	
+kjøper	købers	kjøpe	købe	V;IND;PRS;FIN	N;GEN;INDF;MASC+FEM;SG
+kjøper	køb	kjøpe	køb	V;IND;PRS;FIN	N;INDF;NEUT;SG
+uka	ugen	uka	uge	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+offer	ofrene	offer	offer	N;INDF;NEUT;PL	N;DEF;NEUT;PL
+offer	offeret	offer	offer	N;INDF;NEUT;PL	N;DEF;NEUT;SG
+offer	ofret	offer	ofre	N;INDF;NEUT;PL	V;INDF;SG;PST;V.PTCP
+offer	skadelidte	offer	skadelidt	N;INDF;NEUT;PL	N;INDF;MASC+FEM;SG
+offer	offer	offer	offer	N;INDF;NEUT;PL	N;INDF;NEUT;SG
+fana	fana	fane	fana	N;DEF;FEM;SG	
+plyndret	plyndrede	plyndre	plyndre	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+plyndret	plyndret	plyndre	plyndre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hanna	hanna	hanne	hanna	N;DEF;FEM;SG	
+pat	pat	pat	pat	N;INDF;MASC;SG	
+holmes	holmes	holmes	holme	N;INDF;MASC;SG	V;NFIN;PASS
+columbus	columbus	columbus	columbus	N;INDF;MASC;SG	
+testet	testet	test	test	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+testet	testede	test	teste	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+testet	afprøvet	test	afprøve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+testet	prøvet	test	prøve	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+besøke	besøg	besøke	besøg	V;NFIN	N;INDF;NEUT;SG
+besøke	visit	besøke	visit	V;NFIN	N;INDF;MASC+FEM;SG
+væske	flydende	væske	flydende	N;INDF;FEM;SG	ADJ
+odda	odda	odd	odda	N;INDF;NEUT;SG	
+materiell	materiale	materiell	materiale	ADJ;INDF;SG	N;INDF;NEUT;SG
+materiell	materiel	materiell	materiel	ADJ;INDF;SG	N;INDF;NEUT;SG
+materiell	materialer	materiell	materiale	ADJ;INDF;SG	N;INDF;NEUT;PL
+materiell	materiale	materiell	materiale	ADJ;INDF;SG	N;INDF;NEUT;SG
+suite	suiten	suit	suiten	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+falske	falsk	falsk	falsk	ADJ;PL	ADJ;INDF;SG
+stora	stora	stor	stora	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+sichuan	sichuan	sichuan	sichuan	PROPN	
+ulrich	ulrich	ulrich	ulrich	N	
+fekter	sværdkæmper	fekter	sværdkæmpe	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+spirit	spirit	spirit	spirit	N;INDF;MASC;SG	
+variasjon	variationer	variasjon	variation	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+variasjon	sort	variasjon	sort	N;INDF;MASC;SG	ADJ;INDF;SG
+mrs	fru	mrs	frue	N;INDF;MASC;SG	
+spesialisert	specialiseret	spesialisere	specialisere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+spesialisert	specialiserede	spesialisere	specialisere	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+skatter	skatten	skatter	skat	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+skatter	skatter	skatter	skatter	N;INDF;FEM;PL	ADV
+skatter	afgifter	skatter	afgift	N;INDF;FEM;PL	ADV
+plasseringen	placering	plassering	placering	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+skillet	sondring	skill	sondring	N;DEF;NEUT;SG	N;INDF;MASC+FEM;SG
+harvey	harvey	harvey	harv	N;INDF;MASC;SG	
+hestesport	equestrian	hestesport	equestrian	N;INDF;NEUT;SG	
+stipend	stipendier	stipend	stipendie	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+stipend	legater	stipend	legat	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+stipend	stipendiet	stipend	stipendium	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+kairo	kairo	kairo	kairo	N;INDF;NEUT;SG	
+veiledning	vejledningen	veiledning	vejledning	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+bakterier	bakterie	bakterium	bakterie	N;INDF;MASC;PL	N;INDF;MASC+FEM;SG
+hand	hand	hand	hand	N;INDF;FEM;SG	
+logo	logoet	logo	logo	N;INDF;MASC;SG	N;DEF;NEUT;SG
+miami	miami	miami	miami	N	
+kalender	kalenderen	kalende	kalender	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+kalender	kalender	kalende	kalende	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+dekk	dækkene	dekk	dakk	N;INDF;NEUT;SG	N;DEF;MASC+FEM;PL
+dekk	dæk	dekk	dæk	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+dekk	dække	dekk	dække	N;INDF;NEUT;SG	V;NFIN;ACT
+dekk	dæk	dekk	dæk	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+dekk	dækket	dekk	dække	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+dekk	dæk	dekk	dæk	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+bomber	bomberne	bombe	bombe	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+portretter	portrætter	portrette	portrætte	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+utløste	udløst	utløse	udløse	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+utløste	udløste	utløse	udløse	ADJ;PL;V.PTCP	V;PST;V.PTCP
+utløste	udløses	utløse	udløse	ADJ;PL;V.PTCP	V;IND;PRS;FIN;PASS
+spesifikt	specifikt	spesifikk	specifikt	ADJ;INDF;NEUT;SG	ADV
+spesifikt	specifikke	spesifikk	specifikke	ADJ;INDF;NEUT;SG	ADJ;PL
+spesifikt	specifikt	spesifikk	specifikt	ADJ;INDF;NEUT;SG	ADV
+uttrykt	udtrykt	uttrykkje	udtrykke	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+mats	måtter	mats	måtte	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+sint	sint	sint	sin	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+sint	vrede	sint	vred	ADJ;INDF;SG	ADJ;PL
+iranske	iransk	iransk	iransk	ADJ;PL	ADJ;INDF;SG
+kreta	kreta	krete	kreta	N;DEF;FEM;SG	
+ønskelig	ønskes	ønskelig	ønske	N;INDF;MASC;SG	V;IND;PRS;FIN;PASS
+ønskelig	ønskede	ønskelig	ønske	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+ønskelig	begærede	ønskelig	begære	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+ønskelig	ønsket	ønskelig	ønske	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+ønskelig	begæret	ønskelig	begære	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+ønskelig	ønskeligt	ønskelig	ønskeligt	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+ønskelig	ønskelige	ønskelig	ønskelig	N;INDF;MASC;SG	ADJ;PL
+ønskelig	ønskværdig	ønskelig	ønskværdig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+ønskelig	ønskværdigt	ønskelig	ønskværdigt	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+ønskelig	ønskelig	ønskelig	ønskelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+child	child	child	child	N	
+progressiv	gradvis	progressiv	gradvis	ADJ;INDF;NEUT;SG	ADV
+progressiv	progressive	progressiv	progressive	ADJ;INDF;NEUT;SG	ADJ;PL
+progressiv	progressivt	progressiv	progressivt	ADJ;INDF;NEUT;SG	ADV
+bratte	stejlt	bratt	stejlt	ADJ;PL	ADV
+bratte	stejl	bratt	stejl	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+peters	peters	peter	peters	N;INDF;MASC;SG	
+elseif	elseif	elseif	elseif	N;INDF;MASC;SG	
+rammer	rammer	ramme	ramme	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+rammer	stel	ramme	stel	N;INDF;FEM;PL	N;INDF;NEUT;SG
+kapital	hovedstaden	kapital	hovedstad	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kapital	kapitalen	kapital	kapital	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+kamera	kameraet	kamera	kamera	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+gibraltar	gibraltar	gibralt	gibraltar	N;INDF;MASC;SG	ADJ;INDF;SG
+gibraltar	gibraltars	gibralt	gibraltar	N;INDF;MASC;SG	PROPN;GEN
+fullføre	udfyldes	fullføre	udfylde	V;IMP;NFIN	V;IND;PRS;NFIN;PASS
+fullføre	fuldstændig	fullføre	fuldstændig	V;IMP;NFIN	ADV
+fullføre	komplet	fullføre	komplet	V;IMP;NFIN	ADJ;INDF;SG
+fullføre	udfyldelse	fullføre	udfyldelse	V;IMP;NFIN	N;INDF;MASC+FEM;SG
+roberto	roberto	roberto	roberto	ADJ;INDF;SG;V.PTCP	
+hen	høne	hen	høne	ADP	N;INDF;MASC+FEM;SG
+augusta	augusta	august	augusta	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+xiii	xiii	xiii	xiii	N;INDF;MASC;SG	NUM
+ankomst	ankomsten	ankomst	ankomst	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ankomst	eta	ankomst	eta	N;INDF;MASC;SG	
+ankomst	ankomster	ankomst	ankomst	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+skriv	skriver	skrive	skrive	V;IMP;FIN	V;IND;PRS;FIN;ACT
+skriv	type	skrive	type	V;IMP;FIN	N;INDF;MASC+FEM;SG
+fyret	fyr	fyr	fyr	N;DEF;NEUT;SG	N;INDF;MASC+FEM;SG
+fyret	fyrtårn	fyr	fyrtårn	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+trives	trives	trives	trives	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+fett	fed	fett	fed	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fett	fedt	fett	fedt	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+fett	fede	fett	fed	N;INDF;MASC;SG	ADJ;PL
+sortland	sortland	sortland	sortland	N;INDF;MASC;SG	
+betaling	betalingen	betaling	betaling	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+betaling	betalinger	betaling	betaling	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+betaling	udbetalinger	betaling	udbetaling	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+hindret	forhindres	hindret	forhindre	N;DEF;NEUT;SG	V;NFIN;PASS
+hindret	forhindrede	hindret	forhindre	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+hindret	forhindret	hindret	forhindre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hindret	hindret	hindret	hindre	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+blokkering	blokerende	blokkering	blokerende	N;INDF;FEM;SG	V;PRS;V.PTCP
+blokkering	blokerer	blokkering	blokere	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+blokkering	blokere	blokkering	blok	N;INDF;FEM;SG	V;NFIN;ACT
+blokkering	bloker	blokkering	bloke	N;INDF;FEM;SG	N;INDF;NEUT;PL
+blokkering	blokere	blokkering	blok	N;INDF;FEM;SG	V;NFIN;ACT
+blokkering	block	blokkering	block	N;INDF;FEM;SG	
+vilkår	udtryk	vilkår	udtryk	N;INDF;NEUT;PL	N;INDF;NEUT;SG
+bølger	bølgerne	bølge	bolger	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+masters	masters	masters	mast	N;INDF;NEUT;SG	N;GEN;INDF;MASC+FEM;PL
+masters	mestre	masters	mester	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+palass	paladser	palass	paladse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+palass	paladset	palass	palads	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+eine	eine	eine	ein	NUM;DEF;SG	
+banker	bankerne	bank	bank	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+banker	banks	bank	banks	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+begått	forpligtet	begå	forpligte	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+begått	begået	begå	begå	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+begått	engageret	begå	engagere	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+begått	engagerede	begå	engagere	ADJ;INDF;NEUT;SG	V;PL;PST;V.PTCP
+begått	forpligtede	begå	forpligte	ADJ;INDF;NEUT;SG	V;PL;PST;V.PTCP
+milton	milton	milton	milton	N;INDF;NEUT;SG	
+ruta	route	rute	route	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+ruta	rute	rute	rute	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+problematisk	problematiske	problematisk	problematisk	ADJ;INDF;NEUT;SG	ADJ;PL
+forsiktig	blidt	forsiktig	blidt	ADJ;INDF;NEUT;SG	ADV
+forsiktig	forsigtigt	forsiktig	forsigtig	ADJ;INDF;NEUT;SG	ADV
+gyldig	gyldige	gyldig	gyldig	ADJ;INDF;NEUT;SG	ADJ;PL
+leire	clay	leire	clay	N;INDF;MASC;SG	
+tykk	fyldig	tykk	fyldig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+tykk	tykt	tykk	tyk	N;INDF;MASC;SG	ADV
+tykk	tykke	tykk	tyk	N;INDF;MASC;SG	ADJ;PL
+tykk	tyk	tykk	tyk	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+naval	naval	naval	naval	N;INDF;MASC;SG	
+vanskeligheter	vanskelighed	vanskeligheter	vanskelighed	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+vanskeligheter	sværhedsgrad	vanskeligheter	sværhedsgrad	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+kontroversielle	kontroversiel	kontroversiell	kontroversiel	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+kontroversielle	omstridt	kontroversiell	omstridt	ADJ;PL	ADJ;INDF;SG
+kontroversielle	kontroversielt	kontroversiell	kontroversielt	ADJ;PL	ADJ;INDF;NEUT;SG
+lin	lin	lin	lin	N;INDF;MASC;SG	
+kraften	kraft	kraft	kraft	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+kraften	tving	kraft	tving	N;DEF;MASC;SG	V;IMP
+kraften	force	kraft	force	N;DEF;MASC;SG	
+nba	nba	nba	nba	N;INDF;MASC;SG	
+fylte	fyldt	fylle	fylde	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+fylte	fyldte	fylle	fylde	ADJ;PL;V.PTCP	V;PST;V.PTCP
+fylte	udfyldt	fylle	udfylde	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+fornuftig	fornuftige	fornuftig	fornuftig	ADJ;INDF;NEUT;SG	ADJ;PL
+fornuftig	rimelige	fornuftig	rimelig	ADJ;INDF;NEUT;SG	ADJ;PL
+kanter	kanter	kante	kant	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kanter	kanterne	kante	kant	N;INDF;NEUT;SG	N;DEF;MASC+FEM;PL
+beskrivelsen	beskrivelse	beskrivels	beskrivelse	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+mesa	mesa	myse	mesa	N;INDF;NEUT;SG	
+sevilla	sevilla	seville	sevilla	N;INDF;MASC;SG	PROPN
+sevilla	sevilla	seville	sevilla	N;INDF;MASC;SG	PROPN
+innspilling	optager	innspilling	optage	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+forklart	forklarede	forklare	forklare	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+forklart	forklaret	forklare	forklare	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+trygg	sikre	trygg	sikre	ADJ;INDF;SG	V;NFIN;ACT
+trygg	safe	trygg	safe	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+handle	shop	handle	shop	V;NFIN	
+handle	butik	handle	butik	V;NFIN	N;INDF;MASC+FEM;SG
+handle	forretning	handle	forretning	V;NFIN	N;INDF;MASC+FEM;SG
+handle	retsakt	handle	retsakt	V;NFIN	N;INDF;MASC+FEM;SG
+handle	akt	handle	akt	V;NFIN	N;INDF;MASC+FEM;SG
+handle	act	handle	act	V;NFIN	N;INDF;MASC+FEM;SG
+heidi	heidi	heid	heidi	N;FEM	
+sitat	citerer	sitat	citere	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+register	registrer	register	registre	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+register	register	register	regist	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+register	registret	register	registret	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+knight	springer	knigh	springe	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+vegas	vegas	veg	vegas	N	
+avløst	lettet	avløse	lette	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+avløst	lettede	avløse	lette	ADJ;INDF;SG;V.PTCP	V;IND;PST;FIN;ACT
+lovlig	lovlige	lovlig	lovlig	ADJ;INDF;NEUT;SG	ADJ;PL
+lovlig	juridiske	lovlig	juridisk	ADJ;INDF;NEUT;SG	ADJ;PL
+lovlig	lovlige	lovlig	lovlig	ADJ;INDF;NEUT;SG	ADJ;PL
+lovlig	lovlig	lovlig	lovlig	ADJ;INDF;NEUT;SG	ADV
+rovers	rovers	rovers	rove	N;INDF;MASC;SG	N;GEN;INDF;MASC+FEM;PL
+beslutning	afgørelsen	beslutning	afgørelse	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+sainte	sainte	sain	saint	N;INDF;MASC;SG	
+yuan	yuan	yuan	yuan	N;INDF;MASC;SG	
+six	seks	six	seks	N	NUM
+six	six	six	six	N	
+fotnoter	fodnoterne	fotnot	fodnot	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+fotnoter	fodnoter	fotnot	fodnote	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+ward	ward	ward	ward	PROPN	
+kjære	honey	kjære	hon	N	
+kjære	dear	kjære	dear	N	
+kjære	kære	kjære	kære	N	ADJ;DEF;SG
+speed	speed	speed	speed	N;INDF;MASC;SG	
+speed	hastigheden	speed	hastighed	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+creek	creek	creek	creek	N;INDF;NEUT;SG	
+erlend	erlend	erlend	erlend	N;INDF;MASC;SG	
+troll	trolde	troll	trolde	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+peak	peak	peak	peak	N;INDF;NEUT;SG	
+varierte	varieret	variere	variere	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+varierte	varierede	variere	variere	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+note	bemærk	note	bemærke	N;INDF;MASC;SG	V;IMP
+behandler	forarbejdning	behandle	forarbejdning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+behandler	godter	behandle	godt	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+ekstreme	ekstrem	ekstrem	ekstrem	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+ekstreme	ekstremt	ekstrem	ekstremt	ADJ;PL	ADJ;INDF;SG
+skall	shell	skall	shell	N;INDF;MASC;SG	
+skall	skal	skall	skulle	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+flying	flyve	flying	flyve	N;INDF;FEM;SG	V;NFIN;ACT
+flying	flying	flying	flying	N;INDF;FEM;SG	
+flying	flyver	flying	flyve	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+flying	flyvende	flying	flyvende	N;INDF;FEM;SG	ADJ
+hoppe	spring	hoppe	spring	N;INDF;FEM;SG	
+hoppe	hoppe	hoppe	hoppe	N;INDF;FEM;SG	V;NFIN;ACT
+hoppe	hop	hoppe	hop	N;INDF;FEM;SG	V;IMP
+hoppe	springe	hoppe	springe	N;INDF;FEM;SG	V;NFIN;ACT
+seattle	seattle	seattle	seattle	N;INDF;NEUT;SG	
+innover	indlands	innover	indlands	ADP	
+innover	indenlandsk	innover	indenlandsk	ADP	ADV
+innover	indad	innover	indad	ADP	ADV
+innover	indad	innover	indad	ADP	ADV
+geologiske	geologisk	geologisk	geologisk	ADJ;PL	ADV
+hjul	hjul	hjul	hjul	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+hjul	hjulet	hjul	hjæle	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+hjul	hjul	hjul	hjul	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+hjul	hjulene	hjul	hjæl	N;INDF;NEUT;SG	N;DEF;MASC+FEM;PL
+atitle	atitle	atitl	atitle	N;INDF;MASC;SG	
+beskrivelser	beskrivelser	beskrivelser	beskrivelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+beskrivelser	betegnelser	beskrivelser	betegnelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+prinsipp	princip	prinsipp	princip	N;INDF;NEUT;PL	N;INDF;NEUT;SG
+prinsipp	principielt	prinsipp	principielt	N;INDF;NEUT;PL	ADV
+prinsipp	princippet	prinsipp	princip	N;INDF;NEUT;PL	N;DEF;NEUT;SG
+prinsipp	principperne	prinsipp	princip	N;INDF;NEUT;PL	N;DEF;MASC+FEM;PL
+delhi	delhi	delhi	delhi	N	PROPN
+landevei	motorvejen	landevei	motorvej	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+fiende	fjenden	fiende	fjende	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+fiende	fjendtlig	fiende	fjendtlig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fiende	fjender	fiende	fjende	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+volda	volda	vold	volda	N;INDF;NEUT;SG	
+østlig	østlig	østlig	østlig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+østlig	østlige	østlig	østlig	N;INDF;MASC;SG	ADJ;PL
+vitne	vidner	vitne	vidne	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+vitne	vidnerne	vitne	vidne	N;INDF;NEUT;SG	N;DEF;NEUT;PL
+vitne	vidnet	vitne	vidne	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+vitne	vidner	vitne	vidne	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+håndverk	craft	håndverk	craft	N;INDF;NEUT;SG	
+ivrig	ivrige	ivrig	ivrig	ADJ;INDF;SG	ADJ;PL
+västra	västra	västre	västra	N;INDF;MASC;SG	
+heaven	himmel	heav	himmel	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+heaven	heaven	heav	heaven	N;DEF;MASC;SG	
+rikeste	rigeste	rikeste	rig	N;INDF;MASC;SG	ADJ;DEF;RL
+undersøkt	undersøgte	undersøkje	undersøge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+undersøkt	efterforsket	undersøkje	efterforske	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+undersøkt	undersøgt	undersøkje	undersøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+undersøkt	undersøgte	undersøkje	undersøge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+undersøkt	undersøgt	undersøkje	undersøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+undersøkt	udforsket	undersøkje	udforsket	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+sjøsatt	igangsat	sjøsatt	igangsætte	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjøsatt	lanceret	sjøsatt	lancere	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjøsatt	iværksat	sjøsatt	iværksætte	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+maría	maría	maria	maría	N;DEF;FEM;SG	
+gylne	gylden	gyle	gyld	ADJ;PL	N;DEF;MASC+FEM;SG
+gylne	gyldent	gyle	gylden	ADJ;PL	ADJ;INDF;NEUT;SG
+gylne	golden	gyle	gold	ADJ;PL	N;DEF;MASC+FEM;SG
+cdu	cdu	cdu	cdu	N	
+utgiver	udgiver	utgive	udgive	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+utgiver	udgivere	utgive	udgiver	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+utgiver	forlæggere	utgive	forlægger	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+øyeblikk	moments	øyeblikk	moment	N;INDF;MASC;SG	
+øyeblikk	øjeblikke	øyeblikk	øjeblik	N;INDF;MASC;SG	N;INDF;NEUT;PL
+øyeblikk	instant	øyeblikk	instant	N;INDF;MASC;SG	
+øyeblikk	øjeblikkelig	øyeblikk	øjeblikkelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+øyeblikk	øjeblikkeligt	øyeblikk	øjeblikkelig	N;INDF;MASC;SG	ADV
+utfordringer	udfordringerne	utfordring	udfordring	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+eksistere	eksisterer	eksistere	eksistere	V;IMP;NFIN	V;IND;PRS;FIN;ACT
+eksistere	findes	eksistere	findes	V;IMP;NFIN	V;IND;PRS;FIN;ACT
+lei	lei	lei	lei	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+produksjoner	produktioner	produksjon	produktion	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+uganda	uganda	uganda	uganda	N;DEF;NEUT;SG	PROPN
+blanke	skinnende	blank	skinne	ADJ;PL	V;PRS;V.PTCP
+flatt	lejlighed	flat	lejlighed	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+flatt	fladt	flat	fladt	ADJ;INDF;NEUT;SG	ADV
+flatt	flade	flat	flad	ADJ;INDF;NEUT;SG	ADJ;PL
+elite	eliten	elite	elit	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+teigen	teigen	teig	teig	N;DEF;MASC;SG	
+seksten	sixteen	seksten	sixteen	NUM;PL	
+riga	riga	rige	riga	N;INDF;NEUT;SG	
+ahmed	ahmed	ahmed	ahmed	N;INDF;MASC;SG	PROPN
+tegneserier	tegneserier	tegneserie	tegneseri	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+woods	woods	woods	woods	N;INDF;NEUT;SG	
+woods	skoven	woods	skov	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+woods	skove	woods	skov	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+nacional	nacional	nacional	nacional	N	
+andresen	andresen	andresen	andrese	N;INDF;MASC;SG	PROPN
+representasjon	repræsentationen	representasjon	repræsentation	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+stabil	stald	stabil	stald	ADJ;INDF;SG	N;INDF;MASC+FEM;SG
+stabil	stabile	stabil	stabil	ADJ;INDF;SG	ADJ;PL
+kjøp	købe	kjøp	købe	N;INDF;NEUT;SG	V;NFIN;ACT
+kjøp	købes	kjøp	købe	N;INDF;NEUT;SG	V;IND;PRS;NFIN;PASS
+kjøp	køber	kjøp	købe	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+owen	owen	owen	owen	PROPN	
+bretagne	brittany	bretage	brittany	N;INDF;FEM;SG	
+bros	bros	bros	bros	N;INDF;MASC;SG	
+herskere	magthavere	herskere	magthaver	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+herskere	herskere	herskere	herskere	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+tykke	fyldig	tykke	fyldig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+tykke	tykt	tykke	tyk	N;INDF;MASC;SG	ADV
+tykke	tykke	tykke	tyk	N;INDF;MASC;SG	ADJ;PL
+tykke	tyk	tykke	tyk	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+jiang	jiang	jiang	jiang	N;INDF;NEUT;SG	
+tomme	tommer	tom	tom	ADJ;PL	N;INDF;MASC+FEM;PL
+tomme	tomt	tom	tom	ADJ;PL	ADJ;INDF;NEUT;SG
+tomme	tom	tom	tom	ADJ;PL	
+cat	cat	cat	cat	N;INDF;SG	
+cat	katten	cat	kat	N;INDF;SG	N;DEF;MASC+FEM;SG
+coast	coast	co	coast	N	
+fyller	fyldning	fylle	fyldning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+fyller	påfyldning	fylle	påfyldning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+fyller	opfyldning	fylle	opfyldning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+fyller	udfyldning	fylle	udfyldning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+ketil	ketil	ketil	ketil	N;INDF;MASC;SG	
+fortjener	fortjent	fortjene	fortjene	V;IND;PRS;FIN	V;INDF;SG;PST;V.PTCP
+before	inden	brfor	inden	N;INDF;NEUT;SG	ADV
+before	før	brfor	før	N;INDF;NEUT;SG	ADV
+mektig	mægtige	mektig	mægtig	ADJ;INDF;NEUT;SG	ADJ;PL
+mektig	kraftigt	mektig	kraftigt	ADJ;INDF;NEUT;SG	ADV
+mektig	magtfulde	mektig	magtfulde	ADJ;INDF;NEUT;SG	ADJ;PL
+mektig	stærkt	mektig	stærkt	ADJ;INDF;NEUT;SG	ADV
+avslutte	afslut	avslutte	afslut	N;INDF;NEUT;SG	V;IMP
+avslutte	færdiggør	avslutte	færdiggøre	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+kontoret	kontor	kontor	kontor	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+kontoret	embede	kontor	embed	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+kontoret	office	kontor	office	N;DEF;NEUT;SG	
+sporene	sporer	spor	spore	N;DEF;FEM;PL	V;IND;PRS;FIN;ACT
+sporene	spurs	spor	spurs	N;DEF;FEM;PL	
+eugene	eugene	euge	eug	N;DEF;FEM;SG	N;DEF;MASC+FEM;PL
+maur	ant	maur	ant	N;INDF;NEUT;PL	
+maur	myre	maur	myre	N;INDF;NEUT;PL	N;INDF;MASC+FEM;SG
+maur	ant	maur	ant	N;INDF;NEUT;PL	
+bombefly	bombemanden	bombefly	bombemand	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+bombefly	bomber	bombefly	bombe	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+boks	box	boks	box	N;INDF;MASC;SG	
+clarke	clarke	clarke	clarke	N;INDF;MASC;SG	
+bård	bård	bård	bård	N;MASC	
+fattig	fattige	fattig	fattig	ADJ;INDF;NEUT;SG	ADJ;PL
+segl	sæler	segl	sæle	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+segl	seals	segl	seals	N;INDF;NEUT;SG	
+fisker	fiske	fiske	fisk	N;INDF;MASC;SG	V;NFIN;ACT
+floyd	floyd	floyd	floyd	N;INDF;NEUT;SG	
+århus	århus	århus	århus	N;INDF;NEUT;SG	PROPN
+århus	aarhus	århus	aarhus	N;INDF;NEUT;SG	PROPN
+opprettes	opretter	opprettes	oprette	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+opprettes	skaber	opprettes	skabe	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+opprettes	oprettede	opprettes	oprette	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+opprettes	skabt	opprettes	skabe	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+opprettes	oprettet	opprettes	oprette	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+frø	frø	frø	frø	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+frø	seed	frø	seed	N;INDF;NEUT;SG	
+frø	frø	frø	frø	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+frø	fro	frø	fro	N;INDF;NEUT;SG	
+mercury	mercury	mercury	mercury	N;INDF;MASC;SG	
+utvist	ekskluderet	utvise	ekskludere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+utvist	bortvist	utvise	bortvist	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+utvist	udvist	utvise	udvise	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+maksimalt	maksimum	maksimal	maksimum	ADJ;INDF;NEUT;SG	N;INDF;NEUT;SG
+maksimalt	maksimalt	maksimal	maksimalt	ADJ;INDF;NEUT;SG	ADV
+paolo	paolo	paolo	paolo	N;INDF;MASC;SG	
+massiv	massive	massiv	massive	ADJ;INDF;SG	ADJ;PL
+simpson	simpson	simpson	simpson	N;INDF;MASC;SG	
+earl	earl	earl	earl	N;INDF;MASC;SG	
+rogers	rogers	rogers	roge	N;INDF;NEUT;SG	N;GEN;INDF;MASC+FEM;PL
+salget	salg	salg	salg	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+kobayashi	kobayashi	kobayashi	kobayashi	N;INDF;MASC;SG	
+produsenten	producent	produsent	producent	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+produsenten	producer	produsent	producer	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+rafael	rafael	rafael	rafael	N;INDF;MASC;SG	
+rafael	rafael	rafael	rafael	N;INDF;MASC;SG	
+regime	regimet	regime	regime	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+regime	styret	regime	styre	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+overrasket	overrasket	overraske	overraske	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+overrasket	forbavset	overraske	forbavse	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+overrasket	overraskede	overraske	overraske	N;DEF;NEUT;SG	V;PL;PST;V.PTCP
+opplevelser	oplevelser	opplevelser	oplevelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+opplevelser	erfaringer	opplevelser	erfaring	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+tiger	tigeren	tiger	tiger	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ost	oste	vit	oste	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+nordmøre	nordmøre	nordmøre	nordmøre	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+hoel	hoel	hoel	hoel	N;INDF;NEUT;SG	
+brygge	molen	brygge	mole	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+brygge	kaj	brygge	kaj	N;INDF;FEM;SG	PROPN
+brygge	brygge	brygge	brygge	N;INDF;FEM;SG	
+ambassaden	ambassade	ambassad	ambassade	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+eduard	eduard	eduard	eduard	N;INDF;MASC;SG	
+intervjuer	interview	intervjue	interview	N;INDF;FEM;PL	N;INDF;NEUT;SG
+intervjuer	interviewer	intervjue	interviewe	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+intervjuer	interviewer	intervjue	interviewe	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+intervjuer	interviewe	intervjue	interviewe	N;INDF;FEM;PL	V;NFIN;ACT
+madison	madison	madison	madison	N;INDF;MASC;SG	
+konsekvent	overensstemmende	konsekvent	overensstemmende	ADJ;INDF;NEUT;SG	V;PRS;V.PTCP
+village	village	village	villag	N;INDF;MASC;SG	
+village	landsbyen	village	landsby	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+elektrisitet	el	elektrisitet	el	N;INDF;MASC;SG	
+same	samme	same	samme	DET;DEF	ADJ
+glemt	glemte	glemme	glemme	ADJ;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+glemt	glemt	glemme	glemme	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+glemt	glemte	glemme	glemme	ADJ;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+glemt	glemt	glemme	glemme	ADJ;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+bue	buk	bue	buk	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+bokstavelig	bogstaveligt	bokstavelig	bogstaveligt	N;INDF;MASC;SG	ADV
+bokstavelig	bogstaveligt	bokstavelig	bogstaveligt	N;INDF;MASC;SG	ADV
+dypere	dybere	dypere	dybere	N;INDF;MASC;SG	ADV;CMPR
+systems	systemerne	systems	system	N;INDF;SG	N;DEF;NEUT;PL
+systems	systemer	systems	system	N;INDF;SG	N;INDF;NEUT;PL
+romantiske	romantisk	romantisk	romantisk	ADJ;PL	ADV
+romantiske	romantiker	romantisk	romantiker	ADJ;PL	N;INDF;MASC+FEM;SG
+romantiske	romantik	romantisk	romantik	ADJ;PL	N;INDF;MASC+FEM;SG
+sykler	cykler	sykle	cykle	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+sykler	cykler	sykle	cykle	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+sykler	cyklerne	sykle	cykle	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+sykler	cykle	sykle	cykle	N;INDF;MASC;SG	V;NFIN;ACT
+fond	fonden	fond	fond	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+pokémon	pokemon	pokémon	pokemon	N;INDF;MASC;SG	
+johanna	johanna	johanna	johanna	N;INDF;FEM;SG	
+philipp	philipp	philipp	philipp	N;INDF;MASC;SG	
+kjemper	kæmper	kjempe	kæmpe	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+slank	slank	slank	slank	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+slank	slanke	slank	slank	N;INDF;MASC;SG	ADJ;PL
+uheldig	uheldige	uheldig	uheldig	ADJ;INDF;NEUT;SG	ADJ;PL
+uheldig	uheldige	uheldig	uheldig	ADJ;INDF;NEUT;SG	ADJ;PL
+unesco	unesco	unesco	unesco	N	
+cecilie	cecilie	cecilie	cecilie	N;INDF;MASC;SG	
+knust	knust	knuse	knust	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	knuste	knuse	knuse	ADJ;INDF;NEUT;SG;V.PTCP	V;PST;V.PTCP
+knust	smadret	knuse	smadret	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	sønderknust	knuse	sønderknust	ADJ;INDF;NEUT;SG;V.PTCP	N;INDF;MASC+FEM;SG
+knust	hærget	knuse	hærget	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	knust	knuse	knust	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	knuste	knuse	knuse	ADJ;INDF;NEUT;SG;V.PTCP	V;PST;V.PTCP
+knust	brækket	knuse	brække	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	ødelagt	knuse	ødelægge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	brudt	knuse	bryde	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	knækket	knuse	knække	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+knust	smadrede	knuse	smadre	ADJ;INDF;NEUT;SG;V.PTCP	V;PST;V.PTCP
+knust	smadret	knuse	smadret	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+seile	sejle	seil	sejle	N;INDF;FEM;SG	V;NFIN;ACT
+seile	sejlet	seil	sejle	N;INDF;FEM;SG	V;INDF;SG;PST;V.PTCP
+solheim	solheim	solheim	solheim	PROPN	N;INDF;MASC+FEM;SG
+oppfunnet	opfundet	oppfunn	opfinde	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+oppfunnet	opfandt	oppfunn	opfinde	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+konservativ	konservativt	konservativ	konservativt	ADJ;INDF;SG	ADV
+konservativ	konservative	konservativ	konservativ	ADJ;INDF;SG	ADJ;PL
+histoire	histoire	histoire	histoir	N;INDF;MASC;SG	
+andorra	andorra	andorre	andorra	N;INDF;FEM;SG	
+falsk	falsk	falsk	falsk	N;INDF;MASC;SG	ADJ;INDF;SG
+falsk	falske	falsk	falsk	N;INDF;MASC;SG	ADJ;PL
+falsk	falsk	falsk	falsk	N;INDF;MASC;SG	ADJ;INDF;SG
+falsk	falske	falsk	falsk	N;INDF;MASC;SG	ADJ;PL
+munk	munken	munk	munk	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+munk	monk	munk	monk	N;INDF;MASC;SG	
+sivertsen	sivertsen	sivertsen	sivertsen	N;DEF;MASC;SG	PROPN
+mali	mali	mali	mali	N;INDF;NEUT;SG	PROPN
+hals	halsen	hals	hals	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+hals	halsen	hals	hals	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+hals	nakken	hals	nakke	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+formue	formuen	formue	formue	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+fet	fed	fet	fed	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fet	dristige	fet	dristig	N;INDF;MASC;SG	ADJ;PL
+fet	dristig	fet	dristig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fet	modig	fet	modig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fet	fed	fet	fed	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+fet	fedt	fet	fedt	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+fet	fede	fet	fed	N;INDF;MASC;SG	ADJ;PL
+hjembyen	hjemby	hjemby	hjemby	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+summen	sum	sum	sum	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+inter	inter	inter	inter	N	
+spinner	spinde	spinner	spinde	N;INDF;FEM;PL	V;NFIN;ACT
+spinner	spinding	spinner	spinding	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+spinner	spinder	spinner	spinde	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+spinner	spinder	spinner	spinde	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+spinner	snurrer	spinner	snurre	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+nikolai	nikolaj	nikolai	nikolaj	N;INDF;MASC;SG	
+nikolai	nikolai	nikolai	nikolai	N;INDF;MASC;SG	
+waters	farvande	waters	farvand	N;INDF;MASC;SG	N;INDF;NEUT;PL
+waters	vandområder	waters	vandområde	N;INDF;MASC;SG	N;INDF;NEUT;PL
+hydrogen	brint	hydrog	brint	N;DEF;MASC;SG	N;INDF;NEUT;SG
+hydrogen	hydrogen	hydrog	hydrogen	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+tester	test	tester	test	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	prøvning	tester	prøvning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	test	tester	test	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	afprøvning	tester	afprøvning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	testning	tester	testning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	prøvning	tester	prøvning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tester	tester	tester	test	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+curtis	curtis	curtis	curtis	N;INDF;MASC;SG	
+ukrainske	ukrainsk	ukrainsk	ukrainsk	ADJ;PL	ADJ;INDF;SG
+without	uden	without	uden	N;INDF;NEUT;SG	ADV
+nøyaktige	nøjagtig	nøyaktig	nøjagtig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+nøyaktige	korrekt	nøyaktig	korrekt	ADJ;PL	ADJ;INDF;SG
+nøyaktige	præcis	nøyaktig	præcis	ADJ;PL	ADV
+castro	castros	castro	castros	N;INDF;MASC;SG	
+castro	castro	castro	castro	N;INDF;MASC;SG	
+himmel	heaven	himmel	heaven	N;INDF;MASC;SG	
+himmel	himlen	himmel	himmel	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+himmel	himmelen	himmel	himmel	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+himmel	sky	himmel	sky	N;INDF;MASC;SG	
+himmel	himlen	himmel	himmel	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+phoenix	phoenix	phoenix	phoenix	N	
+rob	rob	rob	rob	PROPN	
+rob	røver	rob	røve	PROPN	N;INDF;MASC+FEM;SG
+rob	røve	rob	røve	PROPN	V;NFIN;ACT
+rca	rca	rca	rca	N;INDF	
+westwood	westwood	westwood	westwood	N;INDF;SG	
+gudinne	gudinden	gudinne	gudinde	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+urter	krydderurter	urter	krydderurter	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+urter	urter	urter	urt	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+omgivelser	omgivelserne	omgivelser	omgivelse	N;INDF;MASC;PL	N;DEF;MASC+FEM;PL
+filosofisk	filosofiske	filosofisk	filosofisk	ADJ;INDF;NEUT;SG	ADJ;PL
+filosofisk	filosofisk	filosofisk	filosofisk	ADJ;INDF;NEUT;SG	ADV
+erstatter	udskiftning	erstatter	udskiftning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+erstatter	erstatter	erstatter	erstatte	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+erstatter	afløser	erstatter	afløser	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+erstatter	erstatte	erstatter	erstatte	N;INDF;FEM;PL	V;NFIN;ACT
+erstatter	erstatter	erstatter	erstatte	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+erstatter	udskiftning	erstatter	udskiftning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+erstatter	afløsning	erstatter	afløsning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+erstatter	afløser	erstatter	afløser	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+erstatter	erstatning	erstatter	erstatning	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+skarp	sharp	skarp	sharp	ADJ;INDF;SG	
+skarp	skarpe	skarp	skarp	ADJ;INDF;SG	ADJ;PL
+skarp	skarpt	skarp	skarpt	ADJ;INDF;SG	ADV
+slåss	kæmpe	slåss	kæmpe	N;INDF;MASC;SG	ADJ
+slåss	slås	slåss	slås	N;INDF;MASC;SG	V;NFIN;PASS
+slåss	kæmper	slåss	kæmpe	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+slåss	kampe	slåss	kamp	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+marcel	marcel	marcel	marcel	N;INDF;MASC;SG	
+overgrep	mishandling	overgrep	mishandling	N;INDF;NEUT;PL	N;INDF;MASC+FEM;SG
+overgrep	misbrug	overgrep	misbrug	N;INDF;NEUT;PL	N;INDF;NEUT;SG
+overgrep	overgreb	overgrep	overgreb	N;INDF;NEUT;PL	N;INDF;NEUT;SG
+gaver	præsenterer	gaver	præsentere	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+marseille	marseille	marseill	marseille	N;INDF;MASC;SG	
+marseille	marseille	marseill	marseille	N;INDF;MASC;SG	
+player	spilleren	play	spiller	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+player	spiller	play	spille	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+player	afspiller	play	afspille	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+oluf	oluf	oluf	oluf	N;MASC	PROPN
+lidelser	strabadser	lidelser	strabads	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+utah	utah	utah	utah	PROPN	
+drøm	drømme	drøm	drøm	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+drøm	dream	drøm	dream	N;INDF;MASC;SG	
+drøm	drømmer	drøm	drømme	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+auto	automatisk	auto	automatisk	N;INDF;MASC;SG	ADJ;INDF;SG
+lind	lind	lind	lind	PROPN	
+uci	uci	uci	uci	N	PROPN
+utøverne	atleter	utøverne	atlet	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+utøverne	sportsfolk	utøverne	sportsfolk	N;INDF;MASC;SG	N;INDF;NEUT;PL
+tilbudet	tilbyde	tilbud	tilbyde	N;DEF;NEUT;SG	V;NFIN;ACT
+tilbudet	tilbud	tilbud	tilbud	N;DEF;NEUT;SG	N;INDF;NEUT;PL
+kamerun	cameroun	kamerun	cameroun	N;INDF;NEUT;SG	
+ferguson	ferguson	ferguson	ferguson	N;INDF;MASC;SG	
+ferdigheter	kompetencer	ferdighet	kompetence	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+fremmed	fremmede	fremmed	fremmed	N;INDF;MASC;SG	ADJ;PL
+fremmed	fremmed	fremmed	fremmed	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+stjernene	stjerner	stjerne	stjerne	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+stjernene	stars	stjerne	stars	N;DEF;FEM;PL	N;INDF;NEUT;SG
+command	kommandoen	command	kommando	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+command	command	command	command	N;INDF;MASC;SG	
+tolkes	fortolkes	tolke	fortolke	N;INDF;MASC;SG	V;IND;PRS;FIN;PASS
+tolkes	tolket	tolke	tolke	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+tolkes	fortolkede	tolke	fortolke	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+tolkes	fortolket	tolke	fortolke	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+signal	signalet	signal	signal	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+españa	españa	espaze	españa	N;INDF;MASC;SG	
+kaster	smider	kaste	smide	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+kaster	smide	kaste	smide	N;INDF;FEM;PL	V;NFIN;ACT
+kaster	kaster	kaste	kaste	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+kaster	kaster	kaste	kaste	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+løpere	løbere	løpere	løber	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+oppdage	detektion	oppdage	detektion	V;NFIN	N;INDF;MASC+FEM;SG
+tilnærming	tilgangen	tilnærming	tilgang	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+jylland	jylland	jylland	jylland	N;INDF;MASC;SG	
+jylland	jyske	jylland	jysk	N;INDF;MASC;SG	ADJ;DEF;SG
+utslipp	udledninger	utslipp	udledning	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+utslipp	emissioner	utslipp	emission	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+busser	busser	busse	bus	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+busser	busserne	busse	bus	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+zhou	zhou	zhou	zhou	N;INDF;SG	
+verb	verber	verb	verber	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+satse	væddemål	satse	væddemål	V;NFIN	N;INDF;NEUT;SG
+satse	bet	satse	bet	V;NFIN	N;INDF;NEUT;SG
+løve	løven	løve	løv	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+interesserte	interesserede	interessere	interessere	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+interesserte	interesseret	interessere	interessere	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+alpine	alperne	alpine	alperne	ADJ;PL	N;DEF;MASC+FEM;PL
+alpine	alpine	alpine	alpine	ADJ;PL	
+nattfly	noctuidae	nattfly	noctuidae	N;INDF;NEUT;SG	
+grov	forværret	grov	forværre	ADJ;INDF;SG	V;INDF;SG;PST;V.PTCP
+grov	grove	grov	grov	ADJ;INDF;SG	ADJ;PL
+grov	groft	grov	groft	ADJ;INDF;SG	ADV
+margin	margen	margin	marg	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+dødelig	dødelig	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+dødelig	dødbringende	dødelig	dødbringende	N;INDF;MASC;SG	V;PRS;V.PTCP
+dødelig	dødelige	dødelig	dødelig	N;INDF;MASC;SG	ADJ;PL
+dødelig	dødeligt	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+dødelig	dødbringende	dødelig	dødbringende	N;INDF;MASC;SG	V;PRS;V.PTCP
+dødelig	dødelig	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+dødelig	dødelige	dødelig	dødelig	N;INDF;MASC;SG	ADJ;PL
+dødelig	dødeligt	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+dødelig	dødelig	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+dødelig	fatalt	dødelig	fatale	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+dødelig	fatal	dødelig	fatal	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+dødelig	fatale	dødelig	fatale	N;INDF;MASC;SG	
+dødelig	dødeligt	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+dødelig	dødelig	dødelig	dødelig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+dødelig	dødelige	dødelig	dødelig	N;INDF;MASC;SG	ADJ;PL
+krise	kriser	krise	krise	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+krise	krisen	krise	kris	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+vurderte	nominel	vurdere	nominel	V;IND;PST;FIN	ADJ;INDF;MASC+FEM;SG
+vinduer	vinduer	vindu	vindue	N;INDF;MASC;SG	N;INDF;NEUT;PL
+vinduer	vinduerne	vindu	vindue	N;INDF;MASC;SG	N;DEF;NEUT;PL
+vinduer	ruder	vindu	ruder	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+plukket	pillet	plukk	pillet	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+plukket	plukket	plukk	plikke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+plukket	plukkede	plukk	plukke	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+plukket	plukket	plukk	plikke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+dong	dong	dong	dong	N;INDF;MASC;SG	
+krogh	krogh	krogh	krogh	N;INDF;FEM;SG	
+next	næste	next	næste	N	ADJ
+ottar	ottar	ottar	ottar	N;INDF;MASC;SG	
+modifisert	modificerede	modifisere	modificere	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+modifisert	ændret	modifisere	ændre	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+modifisert	modificeret	modifisere	modificeret	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+modifisert	ombygget	modifisere	ombygge	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+sofie	sofie	sofie	sofie	N;INDF;FEM;SG	
+sammenslåingen	sammenfletning	sammenslåing	sammenfletning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+sammenslåingen	fletning	sammenslåing	fletning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+sammenslåingen	flet	sammenslåing	flet	N;DEF;MASC;SG	N;INDF;NEUT;SG
+sammenslåingen	flette	sammenslåing	flet	N;DEF;MASC;SG	V;NFIN;ACT
+sammenslåingen	fusionere	sammenslåing	fusionere	N;DEF;MASC;SG	V;NFIN;ACT
+sammenslåingen	fletning	sammenslåing	fletning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+sammenslåingen	sammensmeltning	sammenslåing	sammensmeltning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+øivind	øivind	øivind	øivind	N;INDF;MASC;SG	
+temple	templet	temple	temple	N;INDF;MASC;SG	N;DEF;NEUT;SG
+temple	temple	temple	templ	N;INDF;MASC;SG	
+vellykkede	vellykket	vellykkede	vellykket	N;INDF;MASC;SG	ADJ;INDF;SG
+vellykkede	succesfuld	vellykkede	succesfuld	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+vellykkede	succesrig	vellykkede	succesrig	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+internt	interne	intern	interne	ADJ;INDF;NEUT;SG	ADJ;PL
+internt	internt	intern	internt	ADJ;INDF;NEUT;SG	ADV
+internt	indvendigt	intern	indvendig	ADJ;INDF;NEUT;SG	ADV
+internt	internt	intern	internt	ADJ;INDF;NEUT;SG	ADV
+søkt	anvendte	søkje	anvende	ADJ;INDF;NEUT;SG;V.PTCP	V;PL;PST;V.PTCP
+søkt	anvendt	søkje	anvende	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+søkt	ansøgt	søkje	ansøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+søkt	ansøgte	søkje	ansøge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+søkt	søgte	søkje	søge	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+søkt	søgt	søkje	søge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+søkt	gennemsøgt	søkje	gennemsøge	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+søkt	ledt	søkje	ledt	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+due	dove	due	dove	N;INDF;FEM;SG	
+innlandet	bagland	innland	bagland	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+krigene	krige	krig	krig	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+krigene	wars	krig	wars	N;DEF;FEM;PL	N;INDF;MASC+FEM;SG
+jung	jung	jung	jung	N;INDF;MASC;SG	
+richards	richards	richards	richard	N;INDF;NEUT;SG	
+guyana	guyana	guyyn	guyana	N;INDF;MASC;SG	PROPN
+guyana	guyana	guyyn	guyana	N;INDF;MASC;SG	PROPN
+notert	bemærkede	notere	bemærket	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+notert	bemærket	notere	bemærke	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+notert	noterede	notere	notere	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+notert	noteret	notere	notere	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+clara	clara	clare	clara	PROPN	
+harper	harper	harpe	harpe	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+tunneler	tunnellerne	tunnele	tunnel	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+tunneler	tunnelerne	tunnele	tunnel	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+control	control	control	control	N	
+kid	knægten	kid	knægt	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+elin	elin	elin	elin	N;INDF;MASC;SG	
+queens	dronninger	que	dronning	N;GEN;DEF;MASC;SG	N;INDF;MASC+FEM;PL
+kulturelt	kulturelt	kulturell	kulturelt	ADJ;INDF;NEUT;SG	ADV
+gun	gun	gun	gun	N	
+enger	græsgange	enge	græsgang	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+yale	yale	yale	yale	N;INDF;NEUT;SG	ADJ;INDF;MASC+FEM;SG
+ifk	ifk	ifk	ifk	N;INDF;NEUT;SG	PROPN
+brød	brødet	brød	bryde	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+bestilt	bestilt	bestille	bestille	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bestilt	booket	bestille	booke	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bestilt	bogført	bestille	bogføre	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bestilt	reserveret	bestille	reservere	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bestilt	bestilt	bestille	bestille	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bestilt	bestilte	bestille	bestille	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+bestilt	bestilles	bestille	bestille	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PRS;FIN;PASS
+forekomme	forekomme	forekomme	forekomme	ADJ;PL	V;NFIN;ACT
+nebraska	nebraska	nebraske	nebraska	N;DEF;FEM;SG	
+brakt	bragt	bryke	bringe	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+brakt	bragte	bryke	bringe	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+brakt	medbragte	bryke	medbringe	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+skoger	skov	skoge	skov	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+skoger	woods	skoge	woods	N;INDF;FEM;PL	
+skoger	skoven	skoge	skov	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+skoger	skov	skoge	skov	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+skoger	skovene	skoge	skov	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+slovakisk	slovakiske	slovakisk	slovakisk	ADJ;INDF;NEUT;SG	ADJ;PL
+slovakisk	slovakiske	slovakisk	slovakisk	ADJ;INDF;NEUT;SG	ADJ;PL
+sapporo	sapporo	sapporo	sapporo	N;INDF;NEUT;SG	
+trenge	behov	trenge	behov	V;IMP;NFIN	N;INDF;NEUT;SG
+stol	stolen	stol	stol	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+midlertidige	midlertidig	midlertidig	midlertidig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+midlertidige	midlertidigt	midlertidig	midlertidigt	ADJ;PL	ADV
+omgivelsene	omgivelser	omgivelse	omgivelse	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+bryllup	bryllupper	bryllup	brylluppe	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+bryllup	wedding	bryllup	wedding	N;INDF;MASC;SG	
+bowie	bowie	bowie	bowie	N;INDF;MASC;SG	
+kiel	kiel	kiel	kiel	N;INDF;MASC;SG	PROPN
+kontakter	kontakter	kontakt	kontakt	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kontakter	kontaktpersoner	kontakt	kontaktperson	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kontakter	kontaktlinser	kontakt	kontaktlins	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+norwich	norwich	norwich	norwich	N	
+newman	newman	newman	newman	N;INDF;MASC;SG	
+størrelser	størrelser	størrelser	størrelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+aviation	luftfarten	aviation	luftfart	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+aviation	aviation	aviation	aviation	N;INDF;NEUT;SG	
+nevada	nevada	nevad	nevada	N;INDF;NEUT;SG	
+ulykke	ulykker	ulykke	ulykke	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+tillate	tillad	tillate	tillad	ADJ;INDF;NEUT;SG;V.PTCP	V;IMP
+tillate	tillad	tillate	tillad	ADJ;INDF;NEUT;SG;V.PTCP	V;IMP
+tillate	tillader	tillate	tillade	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PRS;FIN;ACT
+tillate	tilladelse	tillate	tilladelse	ADJ;INDF;NEUT;SG;V.PTCP	N;INDF;MASC+FEM;SG
+oddvar	oddvar	oddvar	oddvar	PROPN	
+limited	limited	limited	limited	N;INDF;MASC;SG	
+limited	begrænsede	limited	begrænse	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+limited	begrænset	limited	begrænse	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+initiativet	initiativ	initiativ	initiativ	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+legeme	body	legeme	body	N;INDF;NEUT;SG	
+legeme	kroppen	legeme	krop	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+nature	naturen	nature	natur	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+nature	nature	nature	natur	N;INDF;MASC;SG	
+thorvald	thorvald	thorvald	thorvald	N;INDF;NEUT;SG	
+lilla	lilla	lille	lilla	N;DEF;FEM;SG	
+utlendinger	udlændinge	utlendinger	udlænding	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+hytte	sommerhuset	hytte	sommerhuset	N;INDF;FEM;SG	N;DEF;NEUT;SG
+hytte	kabinen	hytte	kabine	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+religiøst	religiøst	religiøs	religiøst	ADJ;INDF;NEUT;SG	ADV
+religiøst	religiøst	religiøs	religiøst	ADJ;INDF;NEUT;SG	ADV
+religiøst	religiøse	religiøs	religiøs	ADJ;INDF;NEUT;SG	ADJ;PL
+kaffe	kaffen	kaffe	kaffe	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+hjemmesiden	hjemmeside	hjemmeside	hjemmeside	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+hjemmesiden	startside	hjemmeside	startside	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+skyldig	skyldige	skyldig	skyldig	ADJ;INDF;NEUT;SG	ADJ;PL
+dam	dam	dam	dam	N;INDF;MASC;SG	
+dam	dammen	dam	dam	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+dam	dam	dam	dam	N;INDF;MASC;SG	
+dam	dam	dam	dam	N;INDF;MASC;SG	
+dam	dæmningen	dam	dæmning	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+nanjing	nanjing	nanjing	nanjing	N;INDF;FEM;SG	
+gallia	gallien	gallia	gallien	PROPN	PROPN
+operation	operationen	operation	operation	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+keramikk	keramiske	keramikk	keramisk	N;INDF;NEUT;SG	ADJ;PL
+keramikk	keramisk	keramikk	keramisk	N;INDF;NEUT;SG	ADJ;INDF;SG
+fiendtlige	fjendtlig	fiendtlige	fjendtlig	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+fiendtlige	fjendtligt	fiendtlige	fjendtlig	ADJ;PL	ADJ;INDF;NEUT;SG
+slektning	relativ	slektning	relativ	N;INDF;MASC;SG	ADV
+nominerte	nominerede	nominere	nominere	ADJ;PL;V.PTCP	V;PL;PST;V.PTCP
+volvo	volvo	volvo	volvo	N;INDF;MASC;SG	
+guitar	guitaren	guit	guitar	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+sinn	mind	sinn	mind	N;INDF;NEUT;SG	
+sinn	sindet	sinn	sinde	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+kampanjen	kampagne	kampanje	kampagne	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+vogner	stridsvogne	vogn	stridsvogn	N;INDF;FEM;PL	ADJ;PL
+vogner	vognene	vogn	vogn	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+registrere	register	registrere	regist	V;NFIN	N;INDF;MASC+FEM;PL
+registrere	registret	registrere	registret	V;NFIN	N;DEF;NEUT;SG
+lam	lamb	lam	lamb	N;INDF;NEUT;SG	
+wade	wade	wade	wade	N;INDF;MASC;SG	
+hedret	beæret	hedr	beære	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hedret	beæret	hedr	beære	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hedret	æret	hedr	ær	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+måles	målte	måle	måle	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+måles	målt	måle	måle	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+daily	daglige	daily	daglig	N;INDF;MASC;SG	ADJ;PL
+daily	dagligt	daily	dagligt	N;INDF;MASC;SG	ADV
+daily	daily	daily	daily	N;INDF;MASC;SG	
+daily	daglig	daily	daglig	N;INDF;MASC;SG	ADV
+fenomener	fænomen	fenomen	fænomen	N;INDF;MASC;PL	N;INDF;NEUT;SG
+betraktelig	betragteligt	betraktelig	betragtelig	N;INDF;MASC;SG	ADV
+betraktelig	betydeligt	betraktelig	betydeligt	N;INDF;MASC;SG	ADV
+betraktelig	betydeligt	betraktelig	betydeligt	N;INDF;MASC;SG	ADV
+betraktelig	markant	betraktelig	markant	N;INDF;MASC;SG	ADJ;INDF;SG
+betraktelig	signifikant	betraktelig	signifikant	N;INDF;MASC;SG	ADJ;INDF;SG
+lesning	læser	lesning	læse	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+lesning	læse	lesning	læse	N;INDF;FEM;SG	V;NFIN;ACT
+verdifulle	værdifuld	verdifull	værdifuld	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+verdifulle	værdifuldt	verdifull	værdifuld	ADJ;PL	ADJ;INDF;NEUT;SG
+drivstoff	brændstoffer	drivstoff	brændstof	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+følelse	føler	følelse	føle	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+åpnes	åbnes	åpes	åbne	N;INDF;MASC;SG	V;IND;PRS;FIN;PASS
+åpnes	åbner	åpes	åbne	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+lorenzo	lorenzo	lorenzo	lorenzo	N;DEF;MASC;SG	
+#dfffdf	#dfffdf	pdfffdf	#dfffdf	N;INDF;MASC;SG	
+medium	mellemstor	medium	mellemstor	N;INDF;NEUT;SG	ADJ;INDF;MASC+FEM;SG
+medium	mediet	medium	medie	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+felder	felder	felde	felde	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+beveget	flyttede	beveg	flytte	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+beveget	bevæget	beveg	bevæget	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+beveget	flyttet	beveg	flytte	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+jubileum	årsdagen	jubileum	årsdag	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+jubileum	bryllupsdagen	jubileum	bryllupsdag	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+oppnevnt	udnævnt	oppnevne	udnævne	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+oppnevnt	udnævnte	oppnevne	udnævne	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PST;FIN;ACT
+oppnevnt	udpeget	oppnevne	udpege	ADJ;INDF;NEUT;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+oppnevnt	udnævnes	oppnevne	udnævne	ADJ;INDF;NEUT;SG;V.PTCP	V;IND;PRS;FIN;PASS
+arna	arna	arnan	arna	PROPN	
+hovedkvarteret	hovedkontor	hovedkvarter	hovedkontor	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+hovedkvarteret	hovedkvarter	hovedkvarter	hovedkvarter	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+hovedkvarteret	hovedsæde	hovedkvarter	hovedsæde	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+batteri	batteriet	batteri	batterium	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+underliggende	underliggende	underliggende	underliggende	N;INDF;MASC;SG	ADJ
+underliggende	tilgrundliggende	underliggende	tilgrundliggende	N;INDF;MASC;SG	ADJ
+underliggende	bagvedliggende	underliggende	bagvedliggende	N;INDF;MASC;SG	ADJ
+monumentet	monument	monument	monument	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+bønn	beder	bønn	bede	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+bønn	bede	bønn	bede	N;INDF;MASC;SG	V;NFIN;ACT
+bønn	bønnen	bønn	bann	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+holdninger	holdningerne	holdninger	holdning	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+kriminelle	forbrydere	kriminell	forbryder	ADJ;PL	N;INDF;MASC+FEM;PL
+kriminelle	forbryderne	kriminell	forbryde	ADJ;PL	N;DEF;MASC+FEM;PL
+innså	indset	innså	indse	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+innså	realiseret	innså	realisere	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+innså	indså	innså	indså	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+innså	realiserede	innså	realisere	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+innså	realiseret	innså	realisere	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+innså	indså	innså	indså	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+trust	trust	trust	trust	N;INDF;MASC;SG	
+trust	stole	trust	stol	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+joel	joel	joel	joel	N;INDF;MASC;SG	
+høyder	heights	høyde	heights	N;INDF;MASC;PL	N;INDF;MASC+FEM;SG
+tomt	tomme	tomt	tom	N;INDF;FEM;SG	ADJ;PL
+tomt	tomt	tomt	tom	N;INDF;FEM;SG	ADJ;INDF;NEUT;SG
+tomt	tom	tomt	tom	N;INDF;FEM;SG	
+tomt	tomt	tomt	tom	N;INDF;FEM;SG	ADJ;INDF;NEUT;SG
+tomt	blankt	tomt	blankt	N;INDF;FEM;SG	ADJ;INDF;NEUT;SG
+tomt	blanke	tomt	blanke	N;INDF;FEM;SG	ADJ;PL
+tomt	blank	tomt	blank	N;INDF;FEM;SG	ADJ;INDF;MASC+FEM;SG
+ruud	ruud	ruud	ruud	PROPN	N;INDF;MASC+FEM;SG
+påstått	påståede	påstå	påstå	ADJ;INDF;SG;V.PTCP	V;PL;PST;V.PTCP
+påstått	påstået	påstå	påstå	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+auguste	auguste	august	auguste	ADJ;PL	
+must	må	must	måtte	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+must	skal	must	skulle	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+steffen	steffen	steff	steffe	N;DEF;MASC;SG	
+benny	benny	benny	benny	N;INDF;NEUT;SG	
+garcía	garcía	garcpe	garcía	N;DEF;FEM;SG	
+essex	essex	essex	essex	PROPN	N;INDF;MASC+FEM;SG
+presidenter	formænd	president	formænd	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+presidenter	præsidenter	president	præsident	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+reform	reformer	reform	reform	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+reform	reformen	reform	reformen	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+egon	egon	egon	egon	N;INDF;MASC;SG	
+eli	eli	eli	eli	N;INDF;FEM;SG	
+anmeldelser	anmeldelser	anmeldelse	anmeldelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+prisene	priser	prise	pris	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+mus	mouse	mus	mouse	N;INDF;FEM;SG	
+mus	musen	mus	mus	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+norton	norton	norton	norton	N;INDF;MASC;SG	
+amalie	amalie	amalie	amalie	N;INDF;FEM;SG	
+ellevte	eleventh	elleve	eleventh	ADJ;DEF;SG	
+ten	ten	ten	ten	N	
+ten	ti	ten	ti	N	NUM
+amerikanere	amerikanerne	amerikanere	amerikaner	N;INDF;MASC;SG	N;DEF;MASC+FEM;PL
+amerikanere	amerikanere	amerikanere	amerikaner	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+prestasjoner	resultater	prestasjon	resultat	N;INDF;MASC;SG	N;INDF;NEUT;PL
+prestasjoner	bedrifter	prestasjon	bedrifter	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+scandinavian	skandinavisk	scandinavian	skandinavisk	N;INDF;MASC;SG	ADJ;INDF;SG
+scandinavian	skandinavien	scandinavian	skandinavien	N;INDF;MASC;SG	
+scandinavian	skandinaviske	scandinavian	skandinavisk	N;INDF;MASC;SG	ADJ;PL
+prosjektene	projekter	prosjekt	projekt	N;DEF;FEM;PL	N;INDF;NEUT;PL
+komponenter	bestanddele	komponenter	bestanddel	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+komponenter	komponenterne	komponenter	komponent	N;INDF;NEUT;SG	N;DEF;MASC+FEM;PL
+komponenter	komponenter	komponenter	komponent	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+born	born	barn	born	N;INDF;NEUT;PL	
+born	fødte	barn	føde	N;INDF;NEUT;PL	V;IND;PST;FIN;ACT
+born	født	barn	føde	N;INDF;NEUT;PL	V;INDF;SG;PST;V.PTCP
+xvi	xvi	xvi	xvi	N	
+reservoaret	reservoir	reservoar	reservoir	N;DEF;NEUT;SG	N;INDF;MASC+FEM;SG
+tretti	thirty	tretti	thirty	NUM;PL	
+måne	månen	måne	mån	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+måne	moon	måne	moon	N;INDF;MASC;SG	
+primitive	primitiv	primitiv	primitiv	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+primitive	primitivt	primitiv	primitivt	ADJ;PL	ADJ;INDF;NEUT;SG
+inviterte	indbudt	invitere	indbudt	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+inviterte	inviteret	invitere	invitere	ADJ;PL;V.PTCP	V;INDF;SG;PST;V.PTCP
+inviterte	inviterede	invitere	invitere	ADJ;PL;V.PTCP	V;IND;PST;FIN;ACT
+fat	fed	fat	fed	N;INDF;NEUT;SG	ADJ;INDF;MASC+FEM;SG
+fat	fedt	fat	fedt	N;INDF;NEUT;SG	ADJ;INDF;NEUT;SG
+fat	fede	fat	fed	N;INDF;NEUT;SG	ADJ;PL
+kirka	kirken	kirk	kirk	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+krag	krag	krag	krag	N;INDF;MASC;SG	PROPN
+davies	davies	davies	davie	N;INDF;MASC;SG	
+bern	bern	bern	bern	PROPN	N;INDF;MASC+FEM;SG
+bonn	bonn	bonn	bonn	N;INDF;NEUT;SG	PROPN
+ris	rice	ris	rice	N;INDF;MASC;SG	
+forårsaker	årsagerne	forårsak	årsag	N;INDF;FEM;PL	N;DEF;MASC+FEM;PL
+akter	agter	akter	agte	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+olsson	olsson	olsson	olsson	N;INDF;MASC;SG	
+helga	helga	helg	helga	N;DEF;FEM;SG	N;INDF;MASC+FEM;SG
+myten	myter	myte	myte	N;DEF;MASC;SG	N;INDF;MASC+FEM;PL
+myten	myte	myte	myte	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+datamaskin	computeren	datamaskin	computer	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+alfonso	alfonso	alfonso	alfonso	N;INDF;MASC;SG	
+alfonso	alphonso	alfonso	alphonso	N;INDF;MASC;SG	
+sikt	aim	sikt	aim	N;INDF;FEM;SG	
+lagring	lager	lagring	lage	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+lagring	gemmer	lagring	gemme	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+lagring	redde	lagring	redde	N;INDF;FEM;SG	V;NFIN;ACT
+lagring	besparelser	lagring	besparelse	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+fremtid	fremtidig	fremtid	fremtidig	N;INDF;FEM;SG	ADJ;INDF;MASC+FEM;SG
+fremtid	fremtidige	fremtid	fremtidig	N;INDF;FEM;SG	ADJ;PL
+fremtid	fremtiden	fremtid	fremtid	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+fremtid	kommende	fremtid	komme	N;INDF;FEM;SG	V;PRS;V.PTCP
+fremtid	fremover	fremtid	fremover	N;INDF;FEM;SG	ADV
+fremtid	futures	fremtid	future	N;INDF;FEM;SG	V;NFIN;PASS
+fattigdom	fattigdommen	fattigdom	fattigdom	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+utsiden	udenfor	utside	udenfor	N;DEF;MASC;SG	ADV
+utsiden	udvendig	utside	udvendig	N;DEF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+utsiden	udvendigt	utside	udvendig	N;DEF;MASC;SG	ADV
+prefektur	præfekturet	prefektur	præfektur	N;INDF;MASC;SG	N;DEF;NEUT;SG
+stubb	stubb	stubb	stubb	N;INDF;MASC;SG	
+eritrea	eritrea	eritrea	eritrea	N;INDF;NEUT;SG	
+begynnelse	begynder	begynnelse	begynde	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+begynnelse	begyndelsen	begynnelse	begyndelse	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+intel	efterretninger	intel	efterretning	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+intel	intel	intel	intel	N;INDF;MASC;SG	
+borger	statsborger	borg	statsborger	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+borger	borgeren	borg	borger	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+bryan	bryan	bryan	bryan	N;INDF;MASC;SG	
+dragon	drage	dragon	drage	N;INDF;MASC;SG	V;NFIN;ACT
+dragon	dragen	dragon	drag	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+dragon	dragon	dragon	dragon	N;INDF;MASC;SG	
+leveres	leveret	levere	levere	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+leveres	afleveret	levere	aflevere	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+leveres	leverede	levere	levere	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+leveres	afgivet	levere	afgive	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+leveres	leveres	levere	levere	N;INDF;NEUT;SG	V;IND;PRS;FIN;PASS
+magic	magic	magic	magic	N	
+magic	magiske	magic	magisk	N	ADJ;PL
+magic	magisk	magic	magisk	N	ADJ;INDF;SG
+third	tredje	third	tredje	N	ADJ
+kartlagt	kortlagt	kartlegge	kortlagt	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+fossil	fossiler	fossil	fossil	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+fossil	fossile	fossil	fossile	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+greg	greg	greg	greg	N;INDF;MASC;SG	
+enkleste	lettest	enkleste	lettest	N;INDF;FEM;SG	ADJ;RL
+enkleste	nemmeste	enkleste	nem	N;INDF;FEM;SG	ADJ;DEF;RL
+enkleste	nemmest	enkleste	nem	N;INDF;FEM;SG	ADJ;RL
+enkleste	letteste	enkleste	let	N;INDF;FEM;SG	ADJ;DEF;RL
+enkleste	enkleste	enkleste	enkel	N;INDF;FEM;SG	ADJ;DEF;RL
+nøytrale	neutral	nøytral	neutral	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+nøytrale	neutralt	nøytral	neutralt	ADJ;PL	ADJ;INDF;NEUT;SG
+perfekt	perfekte	perfekt	perfekt	ADJ;INDF;NEUT;SG	ADJ;PL
+perfekt	perfect	perfekt	perfect	ADJ;INDF;NEUT;SG	
+atmosfære	atmosfæren	atmosfære	atmosfær	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+besatt	besat	besatt	besætte	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+besatt	besatte	besatt	besætte	N;INDF;MASC;SG	V;PST;FIN;ACT
+besatt	besat	besatt	besætte	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+besatt	besatte	besatt	besætte	N;INDF;MASC;SG	V;PST;FIN;ACT
+utkast	kladder	utkast	kladde	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+kommunistene	kommunister	kommunist	kommunist	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+sjekk	check	sjekk	check	V;IMP;FIN	N;INDF;MASC+FEM;SG
+gjensidig	gensidigt	gjensidig	gensidigt	ADJ;INDF;NEUT;SG	ADV
+gjensidig	gensidige	gjensidig	gensidig	ADJ;INDF;NEUT;SG	ADJ;PL
+edit	redigere	edit	redig	N;INDF;NEUT;SG	V;NFIN;ACT
+edit	rediger	edit	redig	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+edit	redigér	edit	redigér	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+bis	bis	bis	bis		
+pradesh	pradesh	pradesh	pradesh	N	
+fjerner	fjerne	fjerne	fjerne	N;INDF;FEM;PL	V;NFIN;ACT
+fjerner	fjernelse	fjerne	fjernelse	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+fjerner	fjerner	fjerne	fjerne	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+fjerner	fjerner	fjerne	fjerne	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+rachel	rachael	rachel	rachael	N;INDF;MASC;SG	
+læring	lærer	læring	lære	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+jong	jong	jong	jong	N;INDF;MASC;SG	
+levninger	forbliver	levning	forblive	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+igor	igor	igor	igor	N;INDF;MASC;SG	
+krevende	krævende	krevende	krævende	N;INDF;FEM;SG	ADJ
+krevende	forlanger	krevende	forlange	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+karakterer	karakterer	karaktere	karakter	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+karakterer	kvaliteter	karaktere	kvalitet	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+marion	marion	marion	marion	N;INDF;MASC;SG	
+grenoble	grenoble	grenoble	grenoble	N;INDF;MASC;SG	
+islamsk	islamiske	islamsk	islamisk	ADJ;INDF;NEUT;SG	ADJ;PL
+lübeck	lübeck	lübeck	lübeck	N;INDF;MASC;SG	
+tørr	tørre	tørr	tør	ADJ;INDF;SG	ADJ;PL
+tørr	tør	tørr	turde	ADJ;INDF;SG	V;IND;PRS;FIN;ACT
+rykter	rygterne	rykte	rygte	N;INDF;NEUT;PL	N;DEF;NEUT;PL
+diskuteres	drøftet	diskutere	drøfte	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+diskuteres	diskuterede	diskutere	diskutere	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+diskuteres	drøftede	diskutere	drøfte	N;INDF;NEUT;SG	V;IND;PST;FIN;ACT
+diskuteres	diskuteret	diskutere	diskutere	N;INDF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+mesopotamia	mesopotamien	mesopotamia	mesopotami	N;DEF;NEUT;PL	N;DEF;MASC+FEM;SG
+genetisk	genetiske	genetisk	genetisk	ADJ;INDF;NEUT;SG	ADJ;PL
+unix	unix	unix	unix	N;INDF;NEUT;SG	
+teologisk	teologisk	teologisk	teologisk	ADJ;INDF;NEUT;SG	ADV
+mulighetene	muligheder	mulighet	mulighed	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+grafikk	grafisk	grafikk	grafisk	N;INDF;MASC;SG	ADV
+sjekket	markeret	sjekk	markere	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjekket	tjekket	sjekk	tjekke	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjekket	tjekkede	sjekk	tjekke	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+sjekket	checket	sjekk	checket	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+sjekket	kontrolleret	sjekk	kontrollere	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+bearbeidet	forarbejdet	bearbeid	forarbejde	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+bearbeidet	behandlet	bearbeid	behandle	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+bearbeidet	behandlede	bearbeid	behandle	N;DEF;NEUT;SG	V;PL;PST;V.PTCP
+bearbeidet	bearbejdet	bearbeid	bearbejde	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+bearbeidet	forarbejdede	bearbeid	forarbejde	N;DEF;NEUT;SG	V;PL;PST;V.PTCP
+aksjon	foranstaltninger	aksjon	foranstaltning	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+finans	finansiere	finans	finansiere	N;INDF;MASC;SG	V;NFIN;ACT
+finans	finans	finans	finans	N;INDF;MASC;SG	
+finans	finanser	finans	finanser	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+reality	virkeligheden	reality	virkelighed	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+reality	realiteter	reality	realiteter	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+ferge	færgen	ferge	færgen	N;INDF;SG	N;DEF;MASC+FEM;SG
+trygt	sikre	trygg	sikre	ADJ;INDF;NEUT;SG	V;NFIN;ACT
+trygt	safe	trygg	safe	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+innehar	besidder	innehor	besidde	V;IMP;FIN	V;IND;PRS;FIN;ACT
+innehar	besidder	innehor	besidde	V;IMP;FIN	V;IND;PRS;FIN;ACT
+omringet	omringet	omring	omringe	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+omringet	omgivet	omring	omgive	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+umeå	umeå	umeå	umeå	N;INDF;MASC;SG	
+copa	copa	cope	copa	N;INDF;NEUT;SG	
+nominasjon	nomineringer	nominasjon	nominering	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+kriminalitet	forbrydelser	kriminalitet	forbrydelse	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+hengende	hænger	hengende	hænge	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+hengende	hængende	hengende	hænge	N;INDF;NEUT;SG	V;PRS;V.PTCP
+hengende	hang	hengende	hænge	N;INDF;NEUT;SG	V;IMP
+beholder	containere	beholder	containere	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+beholder	container	beholder	contain	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+hvile	hvile	hvile	hvile	N;INDF;MASC;SG	V;NFIN;ACT
+avgjørelsen	afgørelse	avgjørels	afgørelse	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+avgjørelsen	beslutning	avgjørels	beslutning	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+motors	motorer	motors	motor	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+motors	motors	motors	motors	N;INDF;MASC;SG	
+stasjonene	stationer	stasjon	station	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+folketinget	parlament	folketing	parlament	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+anonyme	anonym	anonym	anonym	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+anonyme	anonymt	anonym	anonymt	ADJ;PL	ADV
+turer	rider	ture	rid	N;INDF;MASC;PL	V;IND;PRS;FIN;ACT
+turer	trips	ture	trips	N;INDF;MASC;PL	
+høylandet	højland	høyland	højland	N;DEF;NEUT;SG	N;INDF;NEUT;SG
+ark	arken	ark	ark	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+hviler	hvilende	hvile	hvilende	N;INDF;MASC;SG	V;PRS;V.PTCP
+hviler	hviler	hvile	hvile	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+erobring	erobringer	erobring	erobring	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+rikdom	rigdomme	rikdom	rigdom	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+hårete	behårede	hårete	behåre	ADJ;INDF;NEUT;SG	ADJ;PL
+verft	skibsværftet	verft	skibsværftet	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+plattformen	perron	plattform	perron	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+plattformen	platform	plattform	platform	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+hunt	jagten	hunt	jagt	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+hunt	hunt	hunt	hun	N;INDF;MASC;SG	
+hunt	jage	hunt	jage	N;INDF;MASC;SG	V;NFIN;ACT
+langsomt	langsomt	langsom	langsomt	ADJ;INDF;NEUT;SG	ADV
+chuck	chuck	chuck	chuck	N;INDF;MASC;SG	
+aspekter	aspekter	aspekter	aspekt	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+budskap	beskeder	budskap	besked	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+budskap	beskeden	budskap	beskeden	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+murphy	murphy	murphy	murphy	N;INDF;MASC;SG	
+canal	kanalen	canal	kanal	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+ajax	ajax	ajax	ajax	N;INDF;MASC;SG	PROPN
+fortsettelse	fortsatte	fortsettelse	fortsætte	N;INDF;MASC;SG	V;PST;V.PTCP
+fortsettelse	fortsættes	fortsettelse	fortsætte	N;INDF;MASC;SG	V;IND;PRS;FIN;PASS
+fortsettelse	fortsat	fortsettelse	fortsat	N;INDF;MASC;SG	ADV
+omar	omar	omar	omar	N;INDF;MASC;SG	PROPN
+gjennomgang	gennemgå	gjennomgang	gennemgå	N;INDF;MASC;SG	V;NFIN;ACT
+gjennomgang	gennemse	gjennomgang	gennemse	N;INDF;MASC;SG	
+kinoer	biografer	kino	biograf	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+kinoer	teatre	kino	teater	N;INDF;MASC;SG	N;INDF;NEUT;PL
+kinoer	biografer	kino	biograf	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+andrews	andrews	andrews	andrews	N;INDF;NEUT;SG	
+bryggeri	bryggeriet	bryggeri	bryggeri	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+terror	terroren	terror	terror	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+monster	uhyre	monster	uhyre	N;INDF;NEUT;SG	ADV
+novgorod	novgorod	novgorod	novgorod	N;INDF;NEUT;SG	
+hentes	hentede	hente	hente	N;INDF;MASC;SG	V;IND;PST;FIN;ACT
+hentes	hentet	hente	hente	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+hentes	hentes	hente	hente	N;INDF;MASC;SG	V;IND;PRS;NFIN;PASS
+hentes	henter	hente	hente	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+hentes	hentet	hente	hente	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+hentes	hentes	hente	hente	N;INDF;MASC;SG	V;IND;PRS;NFIN;PASS
+rein	tøjler	rein	tøjel	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+rein	tøjle	rein	tøjle	N;INDF;MASC;SG	V;NFIN;ACT
+rein	rene	rein	ren	N;INDF;MASC;SG	ADJ;PL
+rein	rens	rein	rense	N;INDF;MASC;SG	V;IMP
+rein	ren	rein	ren	N;INDF;MASC;SG	ADJ;INDF;MASC+FEM;SG
+rein	rent	rein	ren	N;INDF;MASC;SG	ADJ;INDF;NEUT;SG
+rein	clean	rein	clean	N;INDF;MASC;SG	
+postnummer	postnummer	postnumme	postnumme	N;INDF;FEM;PL	N;INDF;NEUT;SG
+tibetansk	tibetanske	tibetansk	tibetansk	N;INDF;MASC;SG	ADJ;PL
+pels	fur	pelse	fur	N;INDF;MASC;SG	
+framgang	fremskridt	framgang	fremskridt	N;INDF;MASC;SG	N;INDF;NEUT;PL
+wei	wei	wei	wei	PROPN	
+overskrift	overskriften	overskrift	overskrift	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+tilpasse	tilpas	tilpasse	tilpas	V;NFIN	ADJ;INDF;SG
+tilpasse	tilpas	tilpasse	tilpas	V;NFIN	ADJ;INDF;SG
+erfarne	erfaren	erfarne	erfare	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+erfarne	oplevet	erfarne	opleve	ADJ;PL	V;INDF;SG;PST;V.PTCP
+erfarne	oplevede	erfarne	opleve	ADJ;PL	V;IND;PST;FIN;ACT
+erfarne	opleves	erfarne	opleve	ADJ;PL	V;NFIN;PASS
+kryss	krydset	kryss	kryds	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+kryss	cross	kryss	cross	N;INDF;NEUT;SG	
+kryss	krydse	kryss	krydse	N;INDF;NEUT;SG	V;NFIN;ACT
+kryss	krydser	kryss	krydse	N;INDF;NEUT;SG	V;IND;PRS;FIN;ACT
+starr	starr	starr	starr	N;INDF;MASC;SG	
+bureau	præsidiet	bureau	præsidi	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+bureau	bureauet	bureau	bureau	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+stuping	dykker	stuping	dykke	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+word	ord	word	ord	N;INDF;NEUT;SG	N;INDF;NEUT;PL
+word	ordet	word	ord	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+fødselen	fødsler	fødsel	fødsel	N;DEF;MASC;SG	N;INDF;MASC+FEM;PL
+fødselen	fødsel	fødsel	fødsel	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+forbedring	forbedringer	forbedring	forbedring	N;INDF;FEM;SG	N;INDF;MASC+FEM;PL
+tau	rebet	tau	rebet	N;INDF;NEUT;SG	N;DEF;NEUT;SG
+andrej	andrej	andrej	andreje	N;INDF;MASC;SG	
+andrej	andrej	andrej	andreje	N;INDF;MASC;SG	
+andrej	andrei	andrej	andrei	N;INDF;MASC;SG	
+lien	lien	lien	lie	N;DEF;MASC;SG	
+guardian	vogter	guardian	vogte	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+bucurești	bukarest	bucurești	bukarest	N;INDF;MASC;SG	ADJ;RL
+oppfylt	indfriet	oppfylle	indfri	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+oppfylt	opfyldt	oppfylle	opfylde	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+bembidion	bembidion	bembidion	bembidion	N;INDF;MASC;SG	
+planlegger	planlægning	planleggje	planlægning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+planlegger	planlægningen	planleggje	planlægning	V;IND;PRS;FIN	N;DEF;MASC+FEM;SG
+planlegger	planlægning	planleggje	planlægning	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+planlegger	planerne	planleggje	plan	V;IND;PRS;FIN	N;DEF;MASC+FEM;PL
+planlegger	planer	planleggje	plan	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+kledd	påklædt	kledd	påklædt	ADJ;INDF;SG	V;INDF;SG;PST;V.PTCP
+kledd	klædt	kledd	klæde	ADJ;INDF;SG	V;INDF;SG;PST;V.PTCP
+mohamed	mohamed	mohamed	mohamed	N;INDF;MASC;SG	
+pågår	igangværende	pågå	igangværende	V;IND;PRS;FIN	ADJ
+pågår	løbende	pågå	løbende	V;IND;PRS;FIN	ADJ
+estimert	skønnet	estimere	skønne	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+estimert	anslået	estimere	anslå	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+estimert	estimeret	estimere	estimere	ADJ;INDF;SG;V.PTCP	V;INDF;SG;PST;V.PTCP
+duke	duke	duke	duke	N;INDF;NEUT;SG	
+fuktig	fugtige	fuktig	fugtig	ADJ;INDF;NEUT;SG	ADJ;PL
+fokusere	fokusering	fokusere	fokusering	V;NFIN	N;INDF;MASC+FEM;SG
+hjulpet	hjulpet	hjulp	hjælpe	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+hjulpet	hjalp	hjulp	hjælpe	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+nou	nou	nou	nou	N;INDF;MASC;SG	
+mannlig	hankøn	mannlig	hankøn	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+mannlig	mænd	mannlig	mand	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+mannlig	mand	mannlig	mand	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+mannlig	mandlige	mannlig	mandlig	ADJ;INDF;NEUT;SG	ADJ;PL
+isu	isu	isu	isu	N	
+albrecht	albrecht	albrecht	albrecht	N	
+detaljerte	detaljeret	detaljert	detaljeret	ADJ;PL	V;INDF;SG;PST;V.PTCP
+utenlands	udlandet	utenlands	udland	N;INDF;MASC;SG	N;DEF;NEUT;SG
+utenlands	udland	utenlands	udland	N;INDF;MASC;SG	N;INDF;NEUT;PL
+tegne	tegne	ta	tegne	N;INDF;FEM;SG	V;NFIN;ACT
+tegne	henlede	ta	henle	N;INDF;FEM;SG	V;NFIN;ACT
+tegne	tegner	ta	tegne	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+tegne	tegne	ta	tegne	N;INDF;FEM;SG	V;NFIN;ACT
+smalere	snævrere	smalere	snævrere	V;NFIN	ADJ;CMPR
+aksjer	delinger	aksjer	deling	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+aksjer	aktier	aksjer	aktie	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+aksjer	andele	aksjer	anden	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+liège	liège	liège	liège	N;INDF;NEUT;SG	
+liège	liège	liège	liège	N;INDF;NEUT;SG	
+antydet	antydede	antyd	antyde	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+antydet	hentydede	antyd	hentyde	N;DEF;NEUT;SG	V;IND;PST;FIN;ACT
+varig	varige	varig	varig	ADJ;INDF;NEUT;SG	ADJ;PL
+varig	varende	varig	vare	ADJ;INDF;NEUT;SG	V;PRS;V.PTCP
+varig	varige	varig	varig	ADJ;INDF;NEUT;SG	ADJ;PL
+skyter	skyder	skyte	skyde	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+skyter	skyder	skyte	skyde	N;INDF;MASC;SG	V;IND;PRS;FIN;ACT
+ulrik	ulrik	ulrik	ulrik	N;INDF;MASC;SG	PROPN
+kansler	forbundskansler	kansle	forbundskansel	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+kansler	kansler	kansle	kansel	N;INDF;FEM;PL	N;INDF;MASC+FEM;SG
+kansler	kansleren	kansle	kansler	N;INDF;FEM;PL	N;DEF;MASC+FEM;SG
+skarpe	skarp	skarp	skarp	ADJ;PL	ADJ;INDF;MASC+FEM;SG
+skarpe	sharp	skarp	sharp	ADJ;PL	
+skarpe	skarpt	skarp	skarpt	ADJ;PL	ADV
+klinisk	klinisk	klinisk	klinisk	ADJ;INDF;NEUT;SG	ADV
+klinisk	kliniske	klinisk	klinisk	ADJ;INDF;NEUT;SG	ADJ;PL
+videoen	video	video	video	N;DEF;MASC;SG	N;INDF;MASC+FEM;SG
+flytting	flytter	flytting	flytte	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+flytting	flytte	flytting	flytte	N;INDF;FEM;SG	V;NFIN;ACT
+aberdeen	aberdeen	aberde	aberdeen	N;DEF;MASC;SG	
+rømme	flygte	rømme	flygte	N;INDF;FEM;SG	V;NFIN;ACT
+rømme	undslippe	rømme	undslippe	N;INDF;FEM;SG	V;NFIN;ACT
+kraków	krakow	kraków	krakow	N;INDF;MASC;SG	
+kraków	krakow	kraków	krakow	N;INDF;MASC;SG	
+tinn	tin	tinn	tin	N;INDF;MASC;SG	
+shaw	shaw	shaw	shaw	N;INDF;MASC;SG	
+psykologisk	psykologisk	psykologisk	psykologisk	ADJ;INDF;NEUT;SG	ADV
+psykologisk	psykologiske	psykologisk	psykologisk	ADJ;INDF;NEUT;SG	ADJ;PL
+psykologisk	psykiske	psykologisk	psykisk	ADJ;INDF;NEUT;SG	ADJ;PL
+irving	irving	irving	irving	N;INDF;MASC;SG	
+cleveland	cleveland	cleveland	cleveland	N;INDF;NEUT;SG	
+målene	målsætninger	mål	målsætning	N;DEF;FEM;PL	N;INDF;MASC+FEM;PL
+målene	mål	mål	mål	N;DEF;FEM;PL	N;INDF;NEUT;SG
+målene	goals	mål	goals	N;DEF;FEM;PL	
+målene	mål	mål	mål	N;DEF;FEM;PL	N;INDF;NEUT;SG
+vokaler	vokaler	vokale	vokale	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+labour	arbejderpartiet	labour	arbejderparti	N;INDF;MASC;SG	N;DEF;NEUT;SG
+helten	helt	helt	helt	N;DEF;MASC;SG	ADV
+helten	hero	helt	hero	N;DEF;MASC;SG	
+hardy	hardy	hardy	hardy	N;INDF;MASC;SG	
+raser	racer	raser	race	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+avslutning	slutter	avslutning	slutte	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+française	française	française	française	N;INDF;MASC;SG	ADJ;PL
+underholdning	underholdende	underholdning	underholde	N;INDF;FEM;SG	V;PRS;V.PTCP
+underholdning	underholder	underholdning	underholde	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+viborg	viborg	viborg	viborg	N;INDF;MASC;SG	
+dagbok	tidende	dagbok	tidende	N;INDF;FEM;SG	V;PRS;V.PTCP
+dagbok	dagbogen	dagbok	dagbog	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+ankommer	ankommer	ankommer	ankomme	N;INDF;SG	V;IND;PRS;FIN;ACT
+ankommer	ankommer	ankommer	ankomme	N;INDF;SG	V;IND;PRS;FIN;ACT
+ankommer	ankommer	ankommer	ankomme	N;INDF;SG	V;IND;PRS;FIN;ACT
+ankommer	ankomme	ankommer	ankomme	N;INDF;SG	V;NFIN;ACT
+trondheims	trondheims	trondheims	trondheim	N;INDF;NEUT;SG	
+aurdal	aurdal	aurdal	aurdal	N;INDF;MASC;SG	
+bevissthet	kendskab	bevissthet	kendskab	ADJ;INDF;NEUT;SG	N;INDF;NEUT;SG
+bevissthet	bevidsthed	bevissthet	bevidsthed	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+bevissthet	bevidstgørelse	bevissthet	bevidstgørelse	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+bevissthet	bevidstheden	bevissthet	bevidsthed	ADJ;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+bevissthet	bevidsthed	bevissthet	bevidsthed	ADJ;INDF;NEUT;SG	N;INDF;MASC+FEM;SG
+mystiske	mystic	mystisk	mystic	ADJ;PL	
+look	se	look	se	N;INDF;MASC;SG	V;NFIN;ACT
+yunnan	yunnan	yunnan	yunnan	N;INDF;NEUT;SG	
+kirkenes	kirkenes	kirkenes	kirk	N;DEF;MASC;SG	N;GEN;DEF;NEUT;PL
+forbød	forbudte	forbød	forbudte	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+forbød	forbudt	forbød	forbudt	N;INDF;MASC;SG	ADJ;INDF;SG
+forbrytelser	forbrydelser	forbrytelser	forbrydelse	N;INDF;NEUT;SG	N;INDF;MASC+FEM;PL
+landing	lander	landing	land	N;INDF;FEM;SG	V;IND;PRS;FIN;ACT
+toulouse	toulouse	toulouse	toulous	N;INDF;MASC;SG	
+sandvika	sandvika	sandvika	sandvika	N;DEF;FEM;SG	
+intern	interne	intern	interne	ADJ;INDF;SG	ADJ;PL
+intern	internt	intern	internt	ADJ;INDF;SG	ADV
+utrolig	fantastiske	utrolig	fantastisk	ADJ;INDF;NEUT;SG	ADJ;PL
+utrolig	ufatteligt	utrolig	ufatteligt	ADJ;INDF;NEUT;SG	ADV
+orlando	orlando	orlando	orlando	N;INDF;MASC;SG	
+flyplasser	lufthavnene	flyplasse	lufthavn	N;INDF;FEM;PL	N;DEF;NEUT;PL
+antok	formodede	antok	formode	N;INDF;MASC;SG	V;PL;PST;V.PTCP
+antok	antages	antok	antage	N;INDF;MASC;SG	V;NFIN;PASS
+antok	antaget	antok	antage	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+antok	formodet	antok	formode	N;INDF;MASC;SG	N;DEF;NEUT;SG
+antok	påtaget	antok	påtage	N;INDF;MASC;SG	V;INDF;SG;PST;V.PTCP
+tyler	tylers	tyle	tyle	N;INDF;MASC;SG	N;GEN;INDF;MASC+FEM;PL
+lucy	lucy	lucy	lucy	N;INDF;SG	
+burton	burton	burton	burton	N;INDF;MASC;SG	
+psykolog	psykologen	psykolog	psykolog	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+brenner	brænding	brenner	brænding	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+brenner	brenner	brenner	bren	V;IND;PRS;FIN	N;INDF;MASC+FEM;SG
+brenner	forbrændinger	brenner	forbrænding	V;IND;PRS;FIN	N;INDF;MASC+FEM;PL
+brenner	brandsår	brenner	brandsår	V;IND;PRS;FIN	N;INDF;NEUT;PL
+skandinavisk	skandinavien	skandinavisk	skandinavien	ADJ;INDF;NEUT;SG	
+skandinavisk	skandinaviske	skandinavisk	skandinavisk	ADJ;INDF;NEUT;SG	ADJ;PL
+prima	prima	prima	prima	N;INDF;MASC;SG	
+ullevaal	ullevaal	ullevaal	ullevaal	N;INDF;MASC;SG	
+dyre	dyrt	dyr	dyr	ADJ;PL	ADJ;INDF;NEUT;SG
+elsket	elsket	elske	elske	N;DEF;NEUT;SG	V;INDF;SG;PST;V.PTCP
+elsket	elskede	elske	elske	N;DEF;NEUT;SG	V;DEF;SG;PST;V.PTCP
+bente	bente	bente	bente	N;INDF;FEM;SG	
+duck	and	duck	and	N;INDF;MASC;SG	
+duck	ænder	duck	ænder	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+duck	duck	duck	duck	N;INDF;MASC;SG	
+kontekst	konteksten	kontekst	kontekst	N;INDF;FEM;SG	N;DEF;MASC+FEM;SG
+tegneserie	tegneserier	tegneserie	tegneseri	N;INDF;MASC;SG	N;INDF;NEUT;PL
+tegneserie	tegnefilm	tegneserie	tegnefilm	N;INDF;MASC;SG	N;INDF;MASC+FEM;PL
+zum	zum	zum	zum	N;INDF	
+huang	huang	huang	huang	PROPN	
+alexandre	alexandre	alexandre	alexandre	N	
+berntsen	berntsen	bernts	bernts	N;INDF;MASC;SG	N;DEF;MASC+FEM;SG
+purple	lilla	purple	lilla	N;INDF;NEUT;SG	
+oder	oder	oder	oder	N;INDF;NEUT;SG	
+likeledes	tilsvarende	likeledes	tilsvarende	N;INDF;MASC;SG	ADJ
+trim	øvelsen	trim	øvelse	N;INDF;NEUT;SG	N;DEF;MASC+FEM;SG
+trim	udøve	trim	udøve	N;INDF;NEUT;SG	V;NFIN;ACT
+somalia	somalia	somalia	somalia	N;INDF;MASC;SG	
+bennett	bennett	bennett	bennett	N;INDF;MASC;SG	PROPN
+topper	topper	toppe	top	N;INDF;FEM;PL	V;IND;PRS;FIN;ACT
+signaler	signalerne	signale	signal	N;INDF;FEM;SG	N;DEF;NEUT;PL
+signaler	signaler	signale	signal	N;INDF;FEM;SG	N;INDF;NEUT;PL

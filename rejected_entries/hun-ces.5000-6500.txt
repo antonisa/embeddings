@@ -1,0 +1,2474 @@
+hajós	námořník	hajós	námořník		N;ANIM;NOM;MASC;SG;POS
+hajós	lodi	hajós	loď		N;DAT;FEM;SG;POS
+hajós	loď	hajós	loď		N;NOM;FEM;SG;POS
+hajós	člun	hajós	člun		N;INAN;NOM;MASC;SG;POS
+felajánlotta	nabízené	felajánl	nabízený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+felajánlotta	nabízená	felajánl	nabízený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+felajánlotta	nabízených	felajánl	nabízený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;GEN;MASC;PL;POS
+megegyező	totožné	megegyező	totožný		ADJ;NOM;MASC;PL;POS
+megegyező	shodné	megegyező	shodný		ADJ;NOM;NEUT;SG;POS
+megegyező	identické	megegyező	identický		ADJ;NOM;NEUT;PL;POS
+emlékezetes	nezapomenutelný	emlékezetes	zapomenutelný		ADJ;INAN;NOM;MASC;SG;NEG
+elment	pryč	elment	pryč	V;INDF;IND;SG;3;PST;FIN;ACT	ADV
+amazon	amazon	amaz	amazon		N;INAN;NOM;MASC;SG;POS
+pokémon	pokémon	pokém	pokémon		N;NOM;MASC;SG;POS
+pokémon	pokémonů	pokém	pokémon		N;ANIM;GEN;MASC;PL;POS
+innsbruck	innsbruck	innsbruck	innsbruck	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+dobott	kopačky	dob	kopačka	V;INDF;IND;SG;3;PST;FIN;ACT	N;NOM;FEM;PL;POS
+néztem	sledoval	néz	sledovat	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+néma	tichá	néma	tichý		ADJ;NOM;FEM;SG;POS
+néma	tichý	néma	tichý		ADJ;ANIM;NOM;MASC;SG;POS
+néma	němý	néma	němý		N;INAN;NOM;MASC;SG;POS
+monica	monika	monica	monika		N;NOM;FEM;SG;POS
+monica	monica	monica	monica		PROPN;NOM;FEM;SG;POS
+fájdalom	bolesti	fájdalom	bolest	N;NOM;SG	N;NOM;FEM;PL;POS
+fehérek	bílí	fehér	bílý	N;NOM;PL	ADJ;ANIM;NOM;MASC;PL;POS
+alakulat	corps	alakulat	corps	N;NOM;SG	PROPN;MASC;SG;POS
+csaták	bitev	csaták	bitva	N;NOM;PL	N;GEN;FEM;PL;POS
+foglaló	záloha	foglaló	záloha		N;NOM;FEM;SG;POS
+foglaló	vklad	foglaló	vklad		N;INAN;NOM;MASC;SG;POS
+meglátogatta	navštívila	meg+lát	navštívit	V;DEF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+meglátogatta	navštívili	meg+lát	navštívit	V;DEF;IND;SG;3;PST;FIN;ACT	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP;ACT
+geometria	geometrické	geometria	geometrický	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+domináns	dominantní	domináns	dominantní		ADJ;NOM;MASC;SG;POS
+költségek	nákladů	költség	náklad	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+költségek	nákladů	költség	náklad	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+költségek	cena	költség	cena	N;NOM;PL	N;NOM;FEM;SG;POS
+elhagyott	opuštěné	el+hagyott	opuštěný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+elhagyott	opuštěná	el+hagyott	opuštěný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+elhagyott	opuštěný	el+hagyott	opuštěný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+sergio	sergio	sergio	sergio		PROPN;ANIM;NOM;MASC;SG;POS
+szikla	boulderu	szikla	boulder	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+szikla	cliff	szikla	cliff	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+szikla	skály	szikla	skála	N;NOM;SG	N;NOM;FEM;PL;POS
+szikla	skalní	szikla	skalní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+menekülő	únik	menekülő	únik		N;INAN;NOM;MASC;SG;POS
+mecset	mešity	mecset	mešita	N;NOM;SG	N;NOM;FEM;PL;POS
+leggazdagabb	nejbohatších	nagy	bohatý	ADJ;NOM;RL;SG	ADJ;ANIM;GEN;RL;MASC;PL;POS
+richter	richter	richter	richter		PROPN;ANIM;NOM;MASC;SG;POS
+pascal	pascal	pascal	pascat		N;ANIM;NOM;MASC;SG;POS
+láthatatlan	neviditelní	láthatatlan	viditelný	ADJ;NOM;SG	ADJ;ANIM;NOM;MASC;PL;NEG
+birkózás	wrestling	birkózás	wrestling	N;NOM;SG	PROPN;INAN;MASC;SG;POS
+férj	manžela	férj	manžel	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+férj	manželi	férj	manžel	N;NOM;SG	N;ANIM;INS;MASC;PL;POS
+warren	warrena	warren	warren		N;ANIM;ACC;MASC;SG;POS
+warren	warren	warren	warren		PROPN;ANIM;NOM;MASC;SG;POS
+szuper	pecka	szuper	pecka		N;NOM;FEM;SG;POS
+szuper	úžasný	szuper	úžasný		ADJ;INAN;NOM;MASC;SG;POS
+szuper	super	szuper	super		N;MASC;SG;POS
+szuper	paráda	szuper	paráda		N;NOM;FEM;SG;POS
+szuper	super	szuper	super		N;MASC;SG;POS
+bond	bonde	bond	bond		N;INAN;NOM;MASC;SG;POS
+bond	kauce	bond	kauce		N;NOM;FEM;SG;POS
+bond	pouto	bond	pouto		N;NOM;NEUT;SG;POS
+bond	bond	bond	bond		PROPN;ANIM;NOM;MASC;SG;POS
+infravörös	infračervené	infravörös	infračervený	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+tunézia	tunisko	tunézia	tunisko	N;NOM;SG	PROPN;NOM;NEUT;SG;POS
+tunézia	tunisko	tunézia	tunisko	N;NOM;SG	PROPN;NOM;NEUT;SG;POS
+tunézia	tuniský	tunézia	tuniský	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+minőség	kvality	minőség	kvalita	N;NOM;SG	N;NOM;FEM;PL;POS
+minőség	kvalitní	minőség	kvalitní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+minőség	kvalitu	minőség	kvalita	N;NOM;SG	N;ACC;FEM;SG;POS
+nézet	zobrazit	néz	zobrazit	N;NOM;SG	V;PFV;POS;NFIN
+szakértők	specialisty	szakértő	specialista	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+szakértők	odborníky	szakértő	odborník	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+szigeteket	ostrovů	sziget	ostrov	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+szigeteket	ostrovy	sziget	ostrov	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+páncélozott	obrněné	páncélozott	obrněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+páncélozott	obrněná	páncélozott	obrněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+racionális	racionálně	racionális	racionálně	ADJ;NOM;SG	ADV;POS
+meghaladta	překročení	meg+halad	překročení	V;DEF;IND;SG;3;PST;FIN;ACT	N;NOM;NEUT;SG;POS
+meghaladta	překročena	meg+halad	překročený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+fejedelmi	knížecí	fejedelmi	knížecí		ADJ;NOM;MASC;SG;POS
+szalon	salónu	szalon	salón	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+kevesen	málokdo	kevés	málokdo	ADV	PRO;ANIM;NOM;MASC
+megnyitás	úvodní	megnyitás	úvodní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+massa	massa	massa	masso	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+támad	útoky	támad	útok	V;INDF;IND;SG;3;PRS;FIN;ACT	N;INAN;NOM;MASC;PL;POS
+nyíl	šipku	nyíl	šipka	N;NOM;SG	N;ACC;FEM;SG;POS
+nyíl	arrow	nyíl	arrow	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+koch	koch	koch	kdo		PROPN;ANIM;NOM;MASC;SG;POS
+törekvés	ambice	törekvés	ambice	N;NOM;SG	N;NOM;FEM;PL;POS
+unit	jednotka	únit	jednotka		N;NOM;FEM;SG;POS
+unit	unit	únit	unit		PROPN;NOM;MASC;SG;POS
+füst	kouřit	füst	kouřit	N;NOM;SG	V;IPFV;POS;NFIN
+cbs	cbs	cbs	cbs	N;NOM;SG	PROPN;MASC;SG;POS
+brüsszeli	bruselu	brüsszeli	brusel	ADJ;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+brüsszeli	brusel	brüsszeli	brus	ADJ;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+kimagasló	vynikající	kimagasló	vynikající		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+hibákat	chyby	hiba	chyba	N;ACC;PL	N;NOM;FEM;PL;POS
+hibákat	chyb	hiba	chyba	N;ACC;PL	N;GEN;FEM;PL;POS
+hibákat	omyly	hiba	omyl	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+hibákat	chyby	hiba	chyba	N;ACC;PL	N;NOM;FEM;PL;POS
+hibákat	chyb	hiba	chyba	N;ACC;PL	N;GEN;FEM;PL;POS
+hibákat	omyly	hiba	omyl	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+doo	doo	doo	doo		PROPN;NOM;MASC;SG;POS
+beszéde	řeči	beszéd	řeč	N;NOM;SG	N;NOM;FEM;PL;POS
+esp	esp	esp	esp		PROPN;NOM;MASC;SG;POS
+kent	kenta	ken	kenta		N;ANIM;ACC;MASC;SG;POS
+kent	kent	ken	kent		PROPN;ANIM;NOM;MASC;SG;POS
+meuse	meuse	meuse	meuse	PROPN;NOM;SG	PROPN;NOM;MASC;SG;POS
+cole	cole	cole	cole		PROPN;ANIM;NOM;MASC;SG;POS
+cole	cola	cole	cola		PROPN;NOM;FEM;SG;POS
+folyóiratok	periodik	folyóirat	periodikum	N;NOM;PL	N;GEN;FEM;PL;POS
+meyer	meyer	meyer	meyer		PROPN;ANIM;NOM;MASC;SG;POS
+kérés	požádat	kérés	požádat	N;NOM;SG	V;PFV;POS;NFIN
+narancs	oranžová	narancs	oranžový	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+narancs	orange	narancs	orange	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+narancs	oranžový	narancs	oranžový	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+narancs	oranžové	narancs	oranžový	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+narancs	pomeranče	narancs	pomeranč	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+guadalajara	guadalajara	guadalaj	guadalajar	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+örökre	navždy	örök	navždy		ADV
+örökre	forever	örök	forever		N;NOM;MASC;SG;POS
+örökre	navěky	örök	navěky		N;INAN;NOM;MASC;PL;POS
+egyszerűsített	zjednodušené	egyszerűsít	zjednodušený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+egyszerűsített	zjednodušený	egyszerűsít	zjednodušený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+kognitív	kognitivní	kognitív	kognitivní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+kognitív	poznávací	kognitív	poznávací	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+szabálytalan	nepravidelný	szabálytalan	pravidelný		ADJ;INAN;NOM;MASC;SG;NEG
+irányítás	kontrolní	irányítás	kontrolní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+irányítás	kontrolu	irányítás	kontrola	N;NOM;SG	N;ACC;FEM;SG;POS
+zaragoza	zaragoza	zaragoza	zaragoza	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+kígyó	hada	kígyó	had	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+kígyó	hadí	kígyó	hadit	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+lanka	lanky	lanka	lanka		PROPN;NOM;FEM;SG;POS
+trevor	trevor	trevor	trevor	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+remete	samotář	remete	samotář		N;ANIM;NOM;MASC;SG;POS
+remete	poustevník	remete	poustevník		N;ANIM;NOM;MASC;SG;POS
+építő	stavitel	építő	stavitel	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+luc	luc	luc	luc		PROPN;ANIM;NOM;MASC;SG;POS
+luc	luca	luc	luca		PROPN;ANIM;NOM;MASC;SG;POS
+kevert	smíšená	kevert	smíšený		ADJ;NOM;FEM;SG;POS
+kevert	smíšené	kevert	smíšený		ADJ;NOM;NEUT;SG;POS
+kevert	smíšený	kevert	smíšený		ADJ;INAN;NOM;MASC;SG;POS
+ásványi	minerální	ásványi	minerální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+mérnökök	inženýrů	mérnök	inženýr	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+gyalog	noha	gyalog	noha		N;NOM;FEM;SG;POS
+gyalog	nohu	gyalog	noha		N;ACC;FEM;SG;POS
+gyalog	chodit	gyalog	chodit		V;IPFV;POS;NFIN
+gyalog	chůze	gyalog	chůze		N;NOM;FEM;SG;POS
+gyalog	chození	gyalog	chození		N;NOM;NEUT;SG;POS
+gyalog	pěšák	gyalog	pěšák		N;ANIM;NOM;MASC;SG;POS
+gyalog	procházka	gyalog	procházka		N;ANIM;NOM;FEM;SG;POS
+gyalog	chodit	gyalog	chodit		V;IPFV;POS;NFIN
+gyalog	chůze	gyalog	chůze		N;NOM;FEM;SG;POS
+gyalog	pěšky	gyalog	pěšky		N;INAN;NOM;MASC;PL;POS
+doboz	krabici	doboz	krabice	N;NOM;SG	N;ACC;FEM;SG;POS
+churchill	churchill	churchill	churchill		N;ANIM;NOM;MASC;SG;POS
+teljesül	splněno	teljesül	splněný	V;INDF;IND;SG;3;PRS;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+szörnyű	strašné	szörnyű	strašný		ADJ;NOM;NEUT;SG;POS
+szörnyű	hrozný	szörnyű	hrozný		ADJ;INAN;NOM;MASC;SG;POS
+szörnyű	strašné	szörnyű	strašný		ADJ;NOM;NEUT;SG;POS
+szörnyű	strašný	szörnyű	strašný		ADJ;INAN;NOM;MASC;SG;POS
+szörnyű	strašné	szörnyű	strašný		ADJ;NOM;NEUT;SG;POS
+önkormányzatok	obcí	önkormányzat	obec	N;NOM;PL	N;INS;FEM;SG;POS
+magyarázatot	vysvětlení	magyarázat	vysvětlení	N;ACC;SG	N;NOM;NEUT;SG;POS
+magyarázatot	vysvětlení	magyarázat	vysvětlení	N;ACC;SG	N;NOM;NEUT;SG;POS
+magyarázatot	vysvětlivky	magyarázat	vysvětlivka	N;ACC;SG	N;NOM;FEM;PL;POS
+classic	klasika	classic	klasik		N;NOM;FEM;SG;POS
+classic	classic	classic	classic		N;INAN;NOM;MASC;SG;POS
+classic	klasické	classic	klasický		ADJ;NOM;MASC;SG;POS
+classic	klasická	classic	klasický		ADJ;NOM;FEM;SG;POS
+classic	klasický	classic	klasický		ADJ;INAN;NOM;MASC;SG;POS
+wood	dřevo	wood	dřevo		N;NOM;NEUT;SG;POS
+wood	dřeva	wood	dřevo		N;NOM;NEUT;PL;POS
+mátrix	matrice	mátrix	matrika	N;NOM;SG	N;NOM;FEM;PL;POS
+global	celosvětová	global	celosvětový		ADJ;NOM;FEM;SG;POS
+global	global	global	global		PROPN;INAN;NOM;MASC;SG;POS
+global	globální	global	globální		ADJ;NOM;MASC;SG;POS
+könyvtári	knihovny	könyvtári	knihovna	N;NOM;SG	N;NOM;FEM;PL;POS
+könyvtári	knihovně	könyvtári	knihovna	N;NOM;SG	N;DAT;FEM;SG;POS
+könyvtári	knihovnu	könyvtári	knihovna	N;NOM;SG	N;ACC;FEM;SG;POS
+fenyő	pinus	fenyő	pinus		N;INAN;NOM;MASC;SG;POS
+fenyő	borovice	fenyő	borovice		N;NOM;FEM;SG;POS
+fenyő	pine	fenyő	pin		PROPN;ANIM;NOM;MASC;SG;POS
+fenyő	borovice	fenyő	borovice		N;NOM;FEM;SG;POS
+weiss	weiss	weiss	weiss		PROPN;ANIM;NOM;MASC;SG;POS
+felette	výše	felet	výše	PRO;NOM;SG;3	N;NOM;FEM;SG;POS
+felette	nad	felet	nad	PRO;NOM;SG;3	
+koncertek	koncertů	koncer	koncert	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+austin	austin	austin	austina		PROPN;ANIM;NOM;MASC;SG;POS
+indítás	spustit	indítás	spustit	N;NOM;SG	V;PFV;POS;NFIN
+feloszlott	rozpuštěna	feloszlott	rozpuštěný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+statisztikák	statistika	statisztika	statistika	N;NOM;PL	N;NOM;FEM;SG;POS
+statisztikák	statistika	statisztika	statistika	N;NOM;PL	N;NOM;FEM;SG;POS
+kilátás	zobrazit	kilátás	zobrazit	N;NOM;SG	V;PFV;POS;NFIN
+sophie	sophie	sophie	sophie		PROPN;NOM;FEM;SG;POS
+sophie	sophii	sophie	sophie		N;NOM;FEM;SG;POS
+etióp	etiopské	etióp	etiopský		ADJ;NOM;MASC;SG;POS
+barlangok	jeskyně	barlangok	jeskyně	N;NOM;PL	N;NOM;FEM;SG;POS
+barlangok	jeskyní	barlangok	jeskyně	N;NOM;PL	N;INS;FEM;SG;POS
+utazik	cestování	utazik	cestování	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+schneider	schneider	schneider	schneider	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+élve	živá	élve	živý		ADJ;NOM;FEM;SG;POS
+élve	živý	élve	živý		ADJ;INAN;NOM;MASC;SG;POS
+borbély	holič	borbély	holič		N;ANIM;NOM;MASC;SG;POS
+edwards	edwards	edwards	edwards		PROPN;ANIM;NOM;MASC;SG;POS
+leszármazottai	potomků	le+származott	potomek	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+bella	bello	bella	bello		PROPN;ANIM;NOM;MASC;SG;POS
+bella	bella	bella	bello		N;NOM;FEM;SG;POS
+adatlap	profilu	adatlap	profil	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+tevékenységek	činnost	tevékenység	činnost	N;NOM;PL	N;NOM;FEM;SG;POS
+tevékenységek	činnosti	tevékenység	činnost	N;NOM;PL	N;NOM;FEM;SG;POS
+tevékenységek	aktivitu	tevékenység	aktivita	N;NOM;PL	N;ACC;FEM;SG;POS
+tevékenységek	činnost	tevékenység	činnost	N;NOM;PL	N;NOM;FEM;SG;POS
+tevékenységek	aktivita	tevékenység	aktivita	N;NOM;PL	N;NOM;FEM;SG;POS
+harcosok	bojovníků	harcos	bojovník	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+harcosok	bojovníků	harcos	bojovník	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+harcosok	bojovníky	harcos	bojovník	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+orvostudomány	léky	orvostudomány	lék	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+germain	germain	germain	germain	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+láz	horečky	láz	horečka	N;NOM;SG	N;NOM;FEM;PL;POS
+láz	horečku	láz	horečka	N;NOM;SG	N;ACC;FEM;SG;POS
+jonas	jonas	jonas	jonas		PROPN;ANIM;NOM;MASC;SG;POS
+szárnya	wing	szárny	wing	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+növekedés	zvýšit	növekedés	zvýšit	N;NOM;SG	V;PFV;POS;NFIN
+tanulás	studuje	tanulás	studovat	N;NOM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+tanulás	studijní	tanulás	studijní	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+tanulás	studovat	tanulás	studovat	N;NOM;SG	V;IPFV;POS;NFIN
+tanulás	studie	tanulás	studie	N;NOM;SG	N;NOM;FEM;PL;POS
+egyenlet	rovnici	egyenlet	rovnice	N;NOM;SG	N;ACC;FEM;SG;POS
+flash	blesk	flash	blesk		N;INAN;NOM;MASC;SG;POS
+flash	flash	flash	flash		N;NOM;MASC;SG;POS
+flash	záblesk	flash	záblesk		N;INAN;NOM;MASC;SG;POS
+computer	počítačová	computer	počítačový		ADJ;NOM;FEM;SG;POS
+computer	počítač	computer	počítač		N;INAN;NOM;MASC;SG;POS
+computer	počítače	computer	počítač		N;INAN;NOM;MASC;PL;POS
+computer	počítači	computer	počítač		N;INAN;NOM;MASC;PL;POS
+toszkána	toskánsku	toszkána	toskánsko	N;NOM;SG	N;DAT;NEUT;SG;POS
+moto	moto	moto	moto		N;NOM;MASC;SG;POS
+una	una	una	una		PROPN;NOM;FEM;SG;POS
+ismételten	opakovaně	ismételt	opakovaně	ADJ;FRML;SG	ADV;POS
+okos	chytré	okos	chytrý		ADJ;NOM;NEUT;SG;POS
+okos	chytrý	okos	chytrý		ADJ;ANIM;NOM;MASC;SG;POS
+okos	chytrá	okos	chytrý		ADJ;NOM;FEM;SG;POS
+okos	chytré	okos	chytrý		ADJ;NOM;NEUT;SG;POS
+okos	smart	okos	smart		N;INAN;NOM;MASC;SG;POS
+okos	chytrý	okos	chytrý		ADJ;ANIM;NOM;MASC;SG;POS
+élesen	ostře	éles	ostře	ADJ;FRML;SG	ADV;POS
+élesen	prudce	éles	prudce	ADJ;FRML;SG	ADV;POS
+mélység	hloubku	mélység	hloubka	N;NOM;SG	N;ACC;FEM;SG;POS
+mélység	hloubky	mélység	hloubka	N;NOM;SG	N;NOM;FEM;PL;POS
+lane	lane	lane	lane		PROPN;NOM;MASC;SG;POS
+lane	pruh	lane	pruh		N;INAN;NOM;MASC;SG;POS
+személyisége	osobnosti	személyiség	osobnost	N;NOM;SG	N;NOM;FEM;PL;POS
+atlas	atlas	atlas	atlas		N;INAN;NOM;MASC;SG;POS
+kalózok	piráty	kalóz	pirát	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+isère	isère	isere	isère		PROPN;FEM;SG;POS
+brad	brada	brad	brada	PROPN;NOM;SG	N;NOM;FEM;SG;POS
+brad	brad	brad	brad	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+kapcsolódott	připojené	kapcsolódott	připojený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+kapcsolódott	připojen	kapcsolódott	připojený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+kapcsolódott	připojeno	kapcsolódott	připojený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+kapcsolódott	spojené	kapcsolódott	spojený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+kapcsolódott	propojené	kapcsolódott	propojený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+problémás	problematické	problémás	problematický		ADJ;NOM;NEUT;SG;POS
+problémás	problémový	problémás	problémový		ADJ;INAN;NOM;MASC;SG;POS
+problémás	problémové	problémás	problémový		ADJ;NOM;NEUT;SG;POS
+alexandre	alexandre	alexand	alexandre	N;ON+ALL;SG	PROPN;ANIM;NOM;MASC;SG;POS
+fehéroroszország	bělorusko	fehéroroszország	bělorusko	N;NOM;SG	PROPN;NOM;NEUT;SG;POS
+fehéroroszország	běloruské	fehéroroszország	běloruský	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+versailles	versailles	versailles	versailles		PROPN;INAN;NOM;MASC;SG;POS
+sainte	sainte	sainte	sainte		PROPN;NOM;FEM;SG;POS
+tények	faktů	tény	fakt	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+tények	fakty	tény	fakt	N;NOM;PL	N;INAN;INS;MASC;PL;POS
+gironde	gironde	girond	gironde	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+ger	ger	ger	ger		PROPN;ANIM;NOM;MASC;SG;POS
+bass	bass	bass	bass		PROPN;INAN;NOM;MASC;SG;POS
+bass	basy	bass	basa		N;NOM;FEM;PL;POS
+spirituális	duchovní	spirituális	duchovní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+spirituális	duševní	spirituális	duševní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+spirituális	spirituální	spirituális	spirituální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+sekély	povrchní	sekély	povrchní		ADJ;NOM;MASC;SG;POS
+kulcs	klíče	kulcs	klíč	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kulcs	klávesy	kulcs	klávesa	N;NOM;SG	N;NOM;FEM;PL;POS
+kulcs	klíčky	kulcs	klíček	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kulcs	klíče	kulcs	klíč	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kulcs	klíčové	kulcs	klíčový	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+kulcs	klíčová	kulcs	klíčový	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+ajánlatot	nabídnout	ajánlat	nabídnout	N;ACC;SG	V;PFV;POS;NFIN
+ajánlatot	nabídka	ajánlat	nabídka	N;ACC;SG	N;NOM;FEM;SG;POS
+újonc	nováček	újonc	nováček		N;ANIM;NOM;MASC;SG;POS
+újonc	nováček	újonc	nováček		N;ANIM;NOM;MASC;SG;POS
+újonc	nováček	újonc	nováček		N;ANIM;NOM;MASC;SG;POS
+újonc	bažant	újonc	bažant		N;ANIM;NOM;MASC;SG;POS
+hannover	hannover	hannover	hannovra		PROPN;INAN;NOM;MASC;SG;POS
+schiller	schiller	schiller	schiller		N;ANIM;NOM;MASC;SG;POS
+leone	leone	lesz	leone		PROPN;NOM;MASC;SG;POS
+lmbt	lgbt	lmb	lgbt		PROPN;MASC;SG;POS
+jövőbeli	budoucnosti	jövőbeli	budoucnost	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+jövőbeli	budoucnost	jövőbeli	budoucnost	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+kezeli	rukojeti	kezeli	rukojeť	V;DEF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+kezeli	kliky	kezeli	klika	V;DEF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+asszonyok	ženské	asszony	ženský	N;NOM;PL	ADJ;NOM;NEUT;SG;POS
+asszonyok	ženský	asszony	ženský	N;NOM;PL	ADJ;INAN;NOM;MASC;SG;POS
+asszonyok	dámské	asszony	dámský	N;NOM;PL	ADJ;NOM;MASC;SG;POS
+jogszabályok	právo	jogszabály	právo	N;NOM;PL	N;NOM;NEUT;SG;POS
+jogszabályok	zákon	jogszabály	zákon	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+jogszabályok	law	jogszabály	law	N;NOM;PL	PROPN;ANIM;NOM;MASC;SG;POS
+jogszabályok	legislativa	jogszabály	legislativa	N;NOM;PL	N;NOM;FEM;SG;POS
+jogszabályok	zákonů	jogszabály	zákon	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+legendája	legend	legenda	legenda	N;NOM;SG	N;GEN;FEM;PL;POS
+chuck	chuck	chuck	chuck		PROPN;ANIM;NOM;MASC;SG;POS
+planet	planetu	planet	planeta		N;ACC;FEM;SG;POS
+planet	planet	planet	planeta		N;GEN;FEM;PL;POS
+planet	planeta	planet	planeta		N;NOM;FEM;SG;POS
+planet	planetě	planet	planeta		N;DAT;FEM;SG;POS
+mer	mer	mer	mer		PROPN;NOM;MASC;SG;POS
+megközelítőleg	přibližné	megközelítőleg	přibližný	ADJ;FRML;SG	ADJ;NOM;NEUT;SG;POS
+megközelítőleg	přibližně	megközelítőleg	přibližně	ADJ;FRML;SG	ADV;POS
+torres	torresová	torres	torresový		ADJ;NOM;FEM;SG;POS
+hong	hong	hong	hong		PROPN;NOM;MASC;SG;POS
+indre	indre	indre	indre		PROPN;NOM;MASC;SG;POS
+miles	miles	miles	miles		PROPN;ANIM;NOM;MASC;SG;POS
+miles	kilometry	miles	kilometr		N;INAN;NOM;MASC;PL;POS
+miles	mil	miles	milión		N;INAN;MASC;POS
+miles	míle	miles	míla		N;NOM;FEM;PL;POS
+gees	gees	gees	gees	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+műveletek	operace	művelet	operace	N;NOM;PL	N;NOM;FEM;SG;POS
+műveletek	akce	művelet	akce	N;NOM;PL	N;NOM;FEM;SG;POS
+szenátus	senátu	szenátus	senát	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+rendezvények	akce	rendezvény	akce	N;NOM;PL	N;NOM;FEM;SG;POS
+rendezvények	událostí	rendezvény	událost	N;NOM;PL	N;INS;FEM;SG;POS
+humanista	humanista	humanista	humanista		N;ANIM;NOM;MASC;SG;POS
+festői	malebné	festői	malebný	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+festői	malebné	festői	malebný	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+aragón	aragón	aragó	aragón		PROPN;NOM;FEM;SG;POS
+nancy	nancy	nancy	nanc		PROPN;NOM;FEM;SG;POS
+filmeket	filmy	film	film	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+filmeket	kina	film	kino	N;ACC;PL	N;NOM;NEUT;PL;POS
+filmeket	filmy	film	film	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+mesterek	masters	mester	master	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+mesterek	mistrů	mester	mistr	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+mesterek	mistry	mester	mistr	N;NOM;PL	N;ANIM;INS;MASC;PL;POS
+anita	anita	anita	anita	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+lausanne	lausanne	laus	lausanne		PROPN;NOM;FEM;SG;POS
+készülék	spotřebiče	készülék	spotřebič	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+készülék	přístroje	készülék	přístroj	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+hétvégén	víkendy	hétvég	víkend	N;ON+ESS;SG	N;INAN;NOM;MASC;PL;POS
+hétvégén	víkendové	hétvég	víkendový	N;ON+ESS;SG	ADJ;NOM;MASC;PL;POS
+hétvégén	víkend	hétvég	víkend	N;ON+ESS;SG	N;INAN;NOM;MASC;SG;POS
+házas	manželé	házas	manžel		N;ANIM;NOM;MASC;PL;POS
+házas	vdaná	házas	vdaný		ADJ;NOM;FEM;SG;POS
+házas	ženatý	házas	ženatý		ADJ;ANIM;NOM;MASC;SG;POS
+tirol	tirol	tirol	tirol	PROPN;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+extrém	extrémní	extrém	extrémní		ADJ;NOM;MASC;SG;POS
+extrém	krajní	extrém	krajní		ADJ;NOM;MASC;SG;POS
+aug	aug	aug	aug	N;NOM;SG	PROPN;MASC;SG;POS
+márka	značky	márka	značka	N;NOM;SG	N;NOM;FEM;PL;POS
+terra	terra	terra	terr		N;NOM;FEM;SG;POS
+sawyer	sawyer	sawyer	sawyer	PROPN;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+birkózó	wrestling	birkózó	wrestling	N;NOM;SG	PROPN;INAN;MASC;SG;POS
+vladimir	vladimír	vladimir	vladimír		PROPN;ANIM;NOM;MASC;SG;POS
+vladimir	vladimir	vladimir	vladimir		PROPN;ANIM;NOM;MASC;SG;POS
+atom	atomová	atom	atomový	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+atom	atomové	atom	atomový	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+atom	atomový	atom	atomový	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+menő	hustý	menő	hustý		ADJ;INAN;NOM;MASC;SG;POS
+menő	pohoda	menő	pohoda		N;NOM;FEM;SG;POS
+menő	super	menő	super		N;MASC;SG;POS
+janus	janus	janus	janus		N;ANIM;NOM;MASC;SG;POS
+szabványos	standardní	szabványos	standardní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+októberi	říjen	októberi	říjen	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+októberi	října	októberi	říjen	ADJ;NOM;SG	N;INAN;GEN;MASC;SG;POS
+arabul	arabský	arab	arabský		ADJ;INAN;NOM;MASC;SG;POS
+arabul	arabské	arab	arabský		ADJ;NOM;MASC;PL;POS
+arabul	arabsky	arab	arabsky		ADV;POS
+milliméter	milimetrů	milliméter	milimetr	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+kábel	kabely	kábel	kabel	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kábel	kabelová	kábel	kabelový	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+kábel	kabelové	kábel	kabelový	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+büntetést	potrestán	büntetés	potrestaný	N;ACC;SG	ADJ;MASC;SG;POS;V.PTCP;PASS
+nyak	krku	nyak	krk	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+légitársaság	aerolinky	légitársaság	aerolinka	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+légitársaság	aerolinky	légitársaság	aerolinka	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+légitársaság	airlines	légitársaság	airlines	N;NOM;SG	PROPN;INAN;MASC;SG;POS
+többségi	většina	többségi	většina	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+többségi	většiny	többségi	většina	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+spears	spears	spears	spears	N;NOM;SG	PROPN;FEM;SG;POS
+univerzum	vesmíru	univerzum	vesmír	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+indulás	odjezdu	indulás	odjezd	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+kenny	kennyho	kenny	kenny		N;ANIM;ACC;MASC;SG;POS
+kenny	kenny	kenny	kenna		PROPN;ANIM;NOM;MASC;SG;POS
+jakob	jakob	ja	jakob		PROPN;ANIM;NOM;MASC;SG;POS
+műholdas	družice	műholdas	družice		N;NOM;FEM;PL;POS
+műholdas	satelitní	műholdas	satelitní		ADJ;NOM;MASC;SG;POS
+műholdas	satelit	műholdas	satelit		N;INAN;NOM;MASC;SG;POS
+gyümölcs	plody	gyümölcs	plod	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+model	model	model	model		N;INAN;NOM;MASC;SG;POS
+model	vzor	model	vzor		N;INAN;NOM;MASC;SG;POS
+model	modelka	model	modelka		N;NOM;FEM;SG;POS
+elisabeth	alžběta	elisabeth	alžběta		N;NOM;FEM;SG;POS
+elisabeth	elisabeth	elisabeth	elisabeth		N;NOM;FEM;SG;POS
+specifikus	specifické	specifikus	specifický	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+diktatúra	diktatury	diktatúra	diktatura	N;NOM;SG	N;NOM;FEM;PL;POS
+projektek	projektů	projek	projekt	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+oldódik	rozpustný	oldódik	rozpustný	V;INDF;IND;SG;3;PRS;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+#fff	#fff	#fff	#fff		PROPN;NOM;MASC;SG;POS
+holló	crow	holló	crow	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+anti	anti	anti	anti		PROPN;NOM;MASC;SG;POS
+hírességek	celebrita	híresség	celebrita	N;NOM;PL	N;NOM;FEM;SG;POS
+hírességek	celebrit	híresség	celebrita	N;NOM;PL	N;GEN;FEM;PL;POS
+auguste	auguste	auguste	augost		PROPN;ANIM;NOM;MASC;SG;POS
+werder	werder	werder	werder	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+térbeli	prostorových	térbeli	prostorový	ADJ;NOM;SG	ADJ;GEN;MASC;PL;POS
+hetente	týdenní	hetenik	týdenní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+hetente	týdně	hetenik	týdně	N;NOM;SG	ADV
+köd	mlhu	köd	mlha	N;NOM;SG	N;ACC;FEM;SG;POS
+köd	mlhy	köd	mlha	N;NOM;SG	N;NOM;FEM;PL;POS
+köd	mlhu	köd	mlha	N;NOM;SG	N;ACC;FEM;SG;POS
+köd	mlhy	köd	mlha	N;NOM;SG	N;NOM;FEM;PL;POS
+köd	mlhoviny	köd	mlhovina	N;NOM;SG	N;NOM;FEM;PL;POS
+tang	tang	tang	tang		PROPN;ANIM;NOM;MASC;SG;POS
+demográfiai	obyvatelstvo	demográfiai	obyvatelstvo	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+demográfiai	demografie	demográfiai	demografie	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+demográfiai	demografické	demográfiai	demografický	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+mostanában	nedávno	mostanában	nedávno	N;IN+ESS;SG	ADV
+kompatibilis	slučitelné	kompatibilis	slučitelný	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+kompatibilis	kompatibilní	kompatibilis	kompatibilní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+edge	hraně	edge	hrana		N;DAT;FEM;SG;POS
+edge	okraj	edge	okraj		N;INAN;NOM;MASC;SG;POS
+edge	edge	edge	edge		PROPN;INAN;NOM;MASC;SG;POS
+fokozott	zvýšený	fokozik	zvýšený		ADJ;INAN;NOM;MASC;SG;POS
+fokozott	zvýšená	fokozik	zvýšený		ADJ;NOM;FEM;SG;POS
+fokozott	zvýšení	fokozik	zvýšení		N;NOM;NEUT;SG;POS
+fokozott	zvýšené	fokozik	zvýšený		ADJ;NOM;NEUT;SG;POS
+jam	džem	jam	dem		N;INAN;NOM;MASC;SG;POS
+jam	jam	jam	jam		N;NOM;MASC;SG;POS
+creek	potoka	cr	potok		N;INAN;NOM;MASC;SG;POS
+creek	potok	cr	potok		N;INAN;NOM;MASC;SG;POS
+creek	creek	cr	creek		N;INAN;NOM;MASC;SG;POS
+ajánlom	doporučujeme	ajánlom	doporučovat	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IPFV;IND;PL;1;POS;PRS;FIN;ACT
+sarki	lední	sarki	lední		ADJ;ANIM;NOM;MASC;SG;POS
+sarki	polární	sarki	polární		ADJ;NOM;MASC;SG;POS
+figyelmeztetés	výstrahy	figyelmeztetés	výstraha	N;NOM;SG	N;NOM;FEM;PL;POS
+narancssárga	oranžová	narancssárga	oranžový		ADJ;NOM;FEM;SG;POS
+narancssárga	pomeranč	narancssárga	pomeranč		N;INAN;NOM;MASC;SG;POS
+narancssárga	orange	narancssárga	orange		PROPN;INAN;NOM;MASC;SG;POS
+narancssárga	oranžový	narancssárga	oranžový		ADJ;INAN;NOM;MASC;SG;POS
+narancssárga	oranžové	narancssárga	oranžový		ADJ;NOM;NEUT;SG;POS
+meggyilkolták	zavražděný	meggyilkolta	zavražděný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS
+meggyilkolták	zavražděna	meggyilkolta	zavražděný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+meggyilkolták	zavražděná	meggyilkolta	zavražděný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+meggyilkolták	zavražděn	meggyilkolta	zavražděný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+scooby	scooby	scooby	scooba		N;NOM;MASC;PL;POS
+lent	níže	lesz	nízko		ADV;CMPR;POS
+lent	podpalubí	lesz	podpalubí		N;NOM;NEUT;SG;POS
+lent	přízemí	lesz	přízemí		N;NOM;NEUT;SG;POS
+lent	dole	lesz	důl		N;INAN;NOM;MASC;SG;POS
+boldogság	šťastný	boldogság	šťastný	N;NOM;SG	ADJ;ANIM;NOM;MASC;SG;POS
+boldogság	šťastná	boldogság	šťastný	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+szög	úhlu	szög	úhel	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+megválasztott	zvolen	megválasztott	zvolený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+megválasztott	zvolená	megválasztott	zvolený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+megválasztott	zvolený	megválasztott	zvolený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS
+időszakos	pravidelné	időszakos	pravidelný	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+időszakos	intermitentní	időszakos	intermitentní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+julian	julian	julian	julian		PROPN;ANIM;NOM;MASC;SG;POS
+julian	juliana	julian	julian		N;NOM;FEM;SG;POS
+julian	juliane	julian	julian		N;NOM;MASC;SG;POS
+vienne	vienne	vien	vienne	PROPN;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+trombita	trumpetu	trombita	trumpet		N;ACC;FEM;SG;POS
+trombita	trubka	trombita	trubka		N;NOM;FEM;SG;POS
+pan	pánev	pan	pánev		N;NOM;FEM;SG;POS
+pan	pan	pan	pan		N;ANIM;NOM;MASC;SG;POS
+péntek	pátku	pén	pátek		N;INAN;GEN;MASC;SG;POS
+péntek	pátek	pén	pátek		N;INAN;NOM;MASC;SG;POS
+moldova	moldavsko	moldova	moldavský		ADJ;POS
+monumentális	monumentální	monumentális	monumentální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+bányászati	těžba	bányászati	těžba	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+poroszország	prusko	poroszország	pruský	N;NOM;SG	ADJ;POS
+korrekt	správné	korrekt	správný		ADJ;NOM;NEUT;SG;POS
+korrekt	správná	korrekt	správný		ADJ;NOM;FEM;SG;POS
+korrekt	opravte	korrekt	opravit		V;PFV;IMP;PL;2;POS;FIN
+korrekt	správně	korrekt	správně		ADV;POS
+korrekt	fér	korrekt	fér		INTJ
+korrekt	spravedlivý	korrekt	spravedlivý		ADJ;INAN;NOM;MASC;SG;POS
+korrekt	férové	korrekt	férový		ADJ;NOM;NEUT;SG;POS
+korrekt	spravedlivé	korrekt	spravedlivý		ADJ;NOM;NEUT;SG;POS
+korrekt	veletrh	korrekt	veletrh		N;INAN;NOM;MASC;SG;POS
+annie	annie	az	annie	PROPN;NOM;SG	PROPN;FEM;SG;POS
+kalauz	průvodci	kalauz	průvodce	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+kalauz	průvodčí	kalauz	průvodčí	N;NOM;SG	ADJ;ANIM;NOM;MASC;SG;POS
+vasutak	železnice	vasú	železnice	N;NOM;PL	N;NOM;FEM;SG;POS
+vasutak	železnic	vasú	železnice	N;NOM;PL	N;GEN;FEM;PL;POS
+vizsgált	testovány	vizsgál	testovaný		ADJ;INAN;PL;POS;V.PTCP;PASS
+vizsgált	zkoumáno	vizsgál	zkoumaný		ADJ;NEUT;SG;POS;V.PTCP;PASS
+vizsgált	vyšetřoval	vizsgál	vyšetřovat		V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+tölgy	oak	tölgy	oak	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+tölgy	dubu	tölgy	dub	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+tojás	vejce	tojás	vejce	N;NOM;SG	N;NOM;NEUT;PL;POS
+tojás	vajec	tojás	vejce	N;NOM;SG	N;GEN;NEUT;PL;POS
+tojás	vajíčka	tojás	vajíčko	N;NOM;SG	N;NOM;NEUT;PL;POS
+tojás	vejce	tojás	vejce	N;NOM;SG	N;NOM;NEUT;PL;POS
+megszállt	posedlá	megszállt	posedlat		ADJ;NOM;FEM;SG;POS
+megszállt	posedlý	megszállt	posedlý		ADJ;ANIM;NOM;MASC;SG;POS
+megszállt	obsazeno	megszállt	obsazený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+megszállt	obsazený	megszállt	obsazený		ADJ;INAN;NOM;MASC;SG;POS
+megszállt	okupované	megszállt	okupovaný		ADJ;NOM;NEUT;SG;POS
+megszállt	obsazené	megszállt	obsazený		ADJ;NOM;NEUT;SG;POS
+klorid	chloridy	klorid	chlorid	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+mialatt	zatímco	mialatt	zatímco	ADV	CONJ
+fix	opravit	fix	opravit		V;PFV;POS;NFIN
+fix	napravit	fix	napravit		V;PFV;POS;NFIN
+fix	stanovena	fix	stanovený		ADJ;POS;V.PTCP;PASS
+fix	pevná	fix	pevný		ADJ;NOM;FEM;SG;POS
+fix	pevné	fix	pevný		ADJ;NOM;MASC;PL;POS
+fix	fixní	fix	fixní		ADJ;NOM;MASC;SG;POS
+homok	písku	hom	písek	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+homok	sands	hom	sands	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+csók	polibky	csók	polibka	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+csók	pusinky	csók	pusinka	N;NOM;SG	N;NOM;FEM;PL;POS
+csók	pusu	csók	pus	N;NOM;SG	N;ACC;FEM;SG;POS
+csók	kiss	csók	kiss	N;NOM;SG	PROPN;MASC;SG;POS
+veszteségeket	ztrát	veszteség	ztráta	N;ACC;PL	N;GEN;FEM;PL;POS
+veszteségeket	ztráty	veszteség	ztráta	N;ACC;PL	N;NOM;FEM;PL;POS
+spontán	spontánní	spontán	spontánní		ADJ;NOM;MASC;SG;POS
+spontán	spontánně	spontán	spontánně		ADV;POS
+spontán	spontánně	spontán	spontánně		ADV;POS
+derby	derby	derby	derby		N;NEUT;POS
+evolúció	evoluci	evolúció	evoluce	N;NOM;SG	N;ACC;FEM;SG;POS
+evolúció	evoluční	evolúció	evoluční	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+szurkolók	fanoušky	szurkoló	fanoušek	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+üzemeltető	operátor	üzemeltető	operátor	V;INDF;IND;SG;3;PST;FIN;ACT	N;INAN;NOM;MASC;SG;POS
+üzemeltető	provozovatel	üzemeltető	provozovatel	V;INDF;IND;SG;3;PST;FIN;ACT	N;ANIM;NOM;MASC;SG;POS
+conrad	conrada	conrad	conrada		N;ANIM;NOM;MASC;SG;POS
+conrad	conrad	conrad	conrad		PROPN;ANIM;NOM;MASC;SG;POS
+analízis	analýzy	analízis	analýza	N;NOM;SG	N;NOM;FEM;PL;POS
+mongólia	mongolsko	mongólia	mongolský		PROPN;NOM;NEUT;SG;POS
+luna	luna	luna	luna		N;NOM;FEM;SG;POS
+privát	soukromé	priva	soukromý		ADJ;NOM;MASC;SG;POS
+privát	privátní	priva	privátní		ADJ;NOM;MASC;SG;POS
+privát	soukromá	priva	soukromý		ADJ;NOM;FEM;SG;POS
+privát	soukromý	priva	soukromý		ADJ;INAN;NOM;MASC;SG;POS
+kezdetek	počátek	kezdet	počátek	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+kezdetek	začátek	kezdet	začátek	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+bizonyítani	prokázání	bizonyít	prokázání	V;NFIN;ACT	N;NOM;NEUT;SG;POS
+bizonyítani	dokazování	bizonyít	dokazování	V;NFIN;ACT	N;NOM;NEUT;SG;POS
+szülő	rodiče	szülő	rodič	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+harvey	harveyho	harvey	harvey		N;ANIM;GEN;MASC;SG;POS
+harvey	harvey	harvey	harvey		PROPN;ANIM;NOM;MASC;SG;POS
+áruház	obchodu	áruház	obchod	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+jackie	jackie	jacki	jackie	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+atlanta	atlantě	atlan	atlant		PROPN;DAT;FEM;SG;POS
+atlanta	atlanty	atlan	atlant		PROPN;NOM;FEM;PL;POS
+koordináta	koordinovat	koordináta	koordinovat	N;NOM;SG	V;POS;NFIN
+claudius	claudius	claudius	claudius		N;ANIM;NOM;MASC;SG;POS
+átadott	převedeny	átadott	převedený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;PL;POS;V.PTCP;PASS
+átadott	přeložen	átadott	přeložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+átadott	převedené	átadott	převedený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+potenciális	potenciál	potenciális	potenciál		N;INAN;NOM;MASC;SG;POS
+potenciális	potenciální	potenciális	potenciální		ADJ;NOM;MASC;SG;POS
+lambert	lambert	lamber	lambert		N;ANIM;NOM;MASC;SG;POS
+utasok	cestující	utas	cestující	N;NOM;PL	ADJ;ANIM;IPFV;NOM;MASC;PL;POS;PRS;V.PTCP;ACT
+utasok	cestujících	utas	cestující	N;NOM;PL	ADJ;ANIM;IPFV;GEN;MASC;PL;POS;PRS;V.PTCP;ACT
+utasok	cestujícím	utas	cestující	N;NOM;PL	ADJ;IPFV;INS;MASC;PL;POS;PRS;V.PTCP;ACT
+utasok	cestující	utas	cestující	N;NOM;PL	ADJ;ANIM;IPFV;NOM;MASC;PL;POS;PRS;V.PTCP;ACT
+eltávolították	odstraněno	el+távolít	odstraněný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+eltávolították	odstraněna	el+távolít	odstraněný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+eltávolították	odebráno	el+távolít	odebraný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+eltávolították	odstraněny	el+távolít	odstraněný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;INAN;PL;POS;V.PTCP;PASS
+hamburger	hamburgery	hamburger	hamburger	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+hamburger	hamburgery	hamburger	hamburger	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+szál	vlákna	szál	vlákno	N;NOM;SG	N;NOM;NEUT;PL;POS
+szál	nitě	szál	nit	N;NOM;SG	N;NOM;FEM;PL;POS
+szál	vlákna	szál	vlákno	N;NOM;SG	N;NOM;NEUT;PL;POS
+szál	nitě	szál	nit	N;NOM;SG	N;NOM;FEM;PL;POS
+centrum	centre	centrum	centre	N;NOM;SG	PROPN;NOM;MASC;SG;POS
+fát	dřevo	fát	dřevo	N;ACC;SG	N;NOM;NEUT;SG;POS
+fát	dřeva	fát	dřevo	N;ACC;SG	N;NOM;NEUT;PL;POS
+keserű	hořké	keserű	hořký		ADJ;NOM;NEUT;SG;POS
+kutatói	výzkumník	kutató	výzkumník	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+kutatói	výzkumných	kutató	výzkumný	N;NOM;PL	ADJ;GEN;MASC;PL;POS
+lennon	lennon	lesz	lennon		PROPN;ANIM;NOM;MASC;SG;POS
+broadway	broadwayi	broadway	broadway	N;NOM;SG	N;DAT;FEM;SG;POS
+értelmező	interpretační	értelmező	interpretační	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+értelmező	interpretační	értelmező	interpretační	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+bomba	bomba	bomba	bomba		N;NOM;FEM;SG;POS
+bomba	bomby	bomba	bomba		N;NOM;FEM;PL;POS
+tudatosan	vědomě	tudatos	vědomě	ADJ;FRML;SG	ADV;POS
+tudatosan	vědomě	tudatos	vědomě	ADJ;FRML;SG	ADV;POS
+pérez	pérez	pérez	pérez		PROPN;ANIM;NOM;MASC;SG;POS
+abraham	abraham	abraha	abraham		N;ANIM;NOM;MASC;SG;POS
+szerencsétlen	neštěstí	szerencsétlen	neštěstí		N;NOM;NEUT;SG;POS
+szerencsétlen	nešťastné	szerencsétlen	šťastný		ADJ;NOM;NEUT;SG;NEG
+szerencsétlen	nešťastná	szerencsétlen	šťastný		ADJ;NOM;FEM;SG;NEG
+felszerelve	namontováno	felszerelve	namontovaný	ADV;V.CVB	ADJ;NEUT;SG;POS;V.PTCP;PASS
+felszerelve	vybaveni	felszerelve	vybavený	ADV;V.CVB	ADJ;ANIM;MASC;PL;POS;V.PTCP;PASS
+felszerelve	vybavené	felszerelve	vybavený	ADV;V.CVB	ADJ;NOM;MASC;PL;POS
+felszerelve	vybavená	felszerelve	vybavený	ADV;V.CVB	ADJ;NOM;FEM;SG;POS
+felszerelve	vybaveno	felszerelve	vybavený	ADV;V.CVB	ADJ;NEUT;SG;POS;V.PTCP;PASS
+madagaszkár	madagaskaru	madagaszkár	madagaskar	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+gene	gene	gene	gene		PROPN;ANIM;NOM;MASC;SG;POS
+gene	gen	gene	gen		N;INAN;NOM;MASC;SG;POS
+oslo	oslo	oslo	osel	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+oslo	osla	oslo	osel	PROPN;NOM;SG	PROPN;ANIM;GEN;MASC;SG;POS
+csonka	redukované	csonka	redukovaný		ADJ;NOM;NEUT;SG;POS
+krakkó	krakov	krakkó	krakov	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+krakkó	krakov	krakkó	krakov	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+diploma	stupně	diploma	stupeň	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+egyetértés	dohoda	egyetértés	dohoda		N;NOM;FEM;SG;POS
+egyetértés	dohodou	egyetértés	dohoda		N;INS;FEM;SG;POS
+egyetértés	porozumění	egyetértés	porozumění		N;NOM;NEUT;SG;POS
+egyetértés	pochopení	egyetértés	pochopení		N;NOM;NEUT;SG;POS
+egyetértés	chápání	egyetértés	chápání		N;NOM;NEUT;SG;POS
+egyetértés	konsensus	egyetértés	konsensus		N;INAN;NOM;MASC;SG;POS
+egyetértés	shoda	egyetértés	shoda		N;NOM;FEM;SG;POS
+egyetértés	konsenzus	egyetértés	konsens		N;INAN;NOM;MASC;SG;POS
+egyetértés	konsensu	egyetértés	konsensus		N;INAN;GEN;MASC;SG;POS
+megoldások	řešení	megoldás	řešení	N;NOM;PL	N;NOM;NEUT;SG;POS
+hetes	sedm	hetes	sedm	N;NOM;SG	NUM;NOM;SG
+lucia	lucie	lucia	lucie		N;NOM;FEM;SG;POS
+lucia	lucia	lucia	lucio		PROPN;NOM;FEM;SG;POS
+fészek	hnízda	fész	hnízdo	N;NOM;SG	N;NOM;NEUT;PL;POS
+ars	ars	ars	ars		PROPN;NOM;MASC;SG;POS
+pat	pata	pat	pata		N;NOM;FEM;SG;POS
+pat	pat	pat	pat		PROPN;ANIM;NOM;MASC;SG;POS
+propaganda	propaganda	propaganda	propaganda		N;NOM;FEM;SG;POS
+botrány	skandální	botrány	skandální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+botrány	skandály	botrány	skandál	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+botrány	skandální	botrány	skandální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+webber	webber	webber	webber	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+szilveszter	sylvester	szilveszter	sylvester		N;ANIM;NOM;MASC;SG;POS
+santo	santo	santo	santo		PROPN;NOM;NEUT;SG;POS
+tök	dýně	tök	dýň		N;NOM;FEM;SG;POS
+sheffield	sheffieldu	sheffield	sheffield	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+joel	joel	joel	jít		PROPN;ANIM;NOM;MASC;SG;POS
+janeiro	janeiro	janeiro	janeiro	V;DEF;IND;SG;3;PRS;FIN;ACT	PROPN;NOM;NEUT;SG;POS
+ipa	npp	ipa	npp		N;NOM;FEM;SG;POS
+gót	goth	gó	goth		N;INAN;NOM;MASC;SG;POS
+végrehajtási	vymáhání	végrehajtási	vymáhání	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+végrehajtási	vynucování	végrehajtási	vynucování	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+végrehajtási	prosazování	végrehajtási	prosazování	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+tengerentúli	zámořských	tengerentúli	zámořský	ADJ;NOM;SG	ADJ;GEN;MASC;PL;POS
+tengerentúli	zámoří	tengerentúli	zámoří	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+asszisztensek	asistenty	assziszten	asistent	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+düsseldorf	düsseldorf	düsseldorf	düsseldorf		PROPN;INAN;NOM;MASC;SG;POS
+düsseldorf	düsseldorfu	düsseldorf	düsseldorf		PROPN;INAN;GEN;MASC;SG;POS
+termelt	vyrobené	termelt	vyrobený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;PL;POS
+termelt	vyrobeno	termelt	vyrobený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+csarnok	haly	csarnok	hala	N;NOM;SG	N;NOM;FEM;PL;POS
+csarnok	halle	csarnok	hallo	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+csarnok	hall	csarnok	hallo	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+spider	pavouk	spider	pavouk		N;INAN;NOM;MASC;SG;POS
+spider	pavoučí	spider	pavoučit		ADJ;NOM;MASC;SG;POS
+spider	spider	spider	spider		N;INAN;NOM;MASC;SG;POS
+interaktív	interaktivní	interaktív	interaktivní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+sex	sexu	sex	sex	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+feltöltött	nahráli	feltöltött	nahrát	V;INDF;IND;SG;3;PST;FIN;ACT	V;ANIM;MASC;PL;POS;PST;V.PTCP;ACT
+feltöltött	nahrané	feltöltött	nahraný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+feltöltött	nahraný	feltöltött	nahraný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+autóval	auto	autó	auto	N;INS;SG	N;NOM;NEUT;SG;POS
+autóval	automobil	autó	automobil	N;INS;SG	N;INAN;NOM;MASC;SG;POS
+autóval	vůz	autó	vůz	N;INS;SG	N;INAN;NOM;MASC;SG;POS
+autóval	car	autó	car	N;INS;SG	PROPN;ANIM;NOM;MASC;SG;POS
+paramount	paramount	paramoun	paramount		N;INAN;NOM;MASC;SG;POS
+hivatkozást	link	hivatkozás	link	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+hivatkozást	odkaz	hivatkozás	odkaz	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+hivatkozást	souvislost	hivatkozás	souvislost	N;ACC;SG	N;NOM;FEM;SG;POS
+alkotók	tvůrců	alkotó	tvůrce	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+csomag	zabalit	csomag	zabalit	N;NOM;SG	V;PFV;POS;NFIN
+csomag	sbalit	csomag	sbalit	N;NOM;SG	V;PFV;POS;NFIN
+kai	kai	kai	kai		PROPN;ANIM;NOM;MASC;SG;POS
+kazahsztán	kazachstán	kaza+hsz	kazachstán		N;INAN;NOM;MASC;SG;POS
+puy	puy	puy	puy		PROPN;NOM;MASC;SG;POS
+utazási	cestovat	utazási	cestovat	N;NOM;SG	V;IPFV;POS;NFIN
+utazási	cestovní	utazási	cestovní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+linnaeus	linnaeus	linnaeus	linnaeus	PROPN;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+radioaktív	radioaktivní	radioaktív	radioaktivní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+jamaica	jamajky	jamaica	jamajka		PROPN;NOM;FEM;PL;POS
+vallott	přiznala	vallott	přiznat	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+kopasz	plešatý	kopasz	plešatý		ADJ;ANIM;NOM;MASC;SG;POS
+kaukázusi	kavkazu	kaukázusi	kavkaz	ADJ;NOM;SG	N;INAN;GEN;MASC;SG;POS
+kaukázusi	běloch	kaukázusi	bělo	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+bokor	křoví	bokor	křoví		N;NOM;NEUT;SG;POS
+bokor	keře	bokor	keř		N;NOM;FEM;PL;POS
+bokor	křoví	bokor	křoví		N;NOM;NEUT;SG;POS
+bokor	bush	bokor	bush		PROPN;ANIM;NOM;MASC;SG;POS
+bokor	bushe	bokor	být		N;ANIM;ACC;MASC;SG;POS
+bokor	keř	bokor	keř		N;INAN;NOM;MASC;SG;POS
+bokor	bushova	bokor	bushový		N;NOM;FEM;SG;POS
+bokor	keř	bokor	keř		N;INAN;NOM;MASC;SG;POS
+egységesen	jednotně	egységes	jednotně	ADJ;FRML;SG	ADV;POS
+bónusz	bonus	bónusz	bonus		N;INAN;NOM;MASC;SG;POS
+bónusz	prémie	bónusz	prémie		N;NOM;FEM;PL;POS
+bónusz	bonusy	bónusz	bonus		N;INAN;NOM;MASC;PL;POS
+bónusz	příplatek	bónusz	příplatek		N;INAN;NOM;MASC;SG;POS
+bónusz	bonusy	bónusz	bonus		N;INAN;NOM;MASC;PL;POS
+bónusz	prémie	bónusz	prémie		N;NOM;FEM;PL;POS
+amy	amy	amy	amy	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+jelentéktelen	bezvýznamný	jelentéktelen	bezvýznamný		ADJ;INAN;NOM;MASC;SG;POS
+jelentéktelen	bezvýznamná	jelentéktelen	bezvýznamný		ADJ;NOM;FEM;SG;POS
+jelentéktelen	bezvýznamné	jelentéktelen	bezvýznamný		ADJ;NOM;NEUT;SG;POS
+jelentéktelen	bezvýznamný	jelentéktelen	bezvýznamný		ADJ;INAN;NOM;MASC;SG;POS
+jelentéktelen	bezvýznamné	jelentéktelen	bezvýznamný		ADJ;NOM;NEUT;SG;POS
+alpha	alpha	alpha	alpha		PROPN;NOM;MASC;SG;POS
+alpha	alfa	alpha	alfa		PROPN;NOM;FEM;SG;POS
+sör	pivní	sör	pivní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+hughes	hughes	hughes	hughes		PROPN;ANIM;NOM;MASC;SG;POS
+morva	moravské	morva	moravský		ADJ;NOM;FEM;SG;POS
+jake	jake	jake	jako		PROPN;ANIM;NOM;MASC;SG;POS
+jake	jaka	jake	jako		N;NOM;FEM;SG;POS
+sorba	fronta	sor	fronta	N;IN+ALL;SG	N;NOM;FEM;SG;POS
+sorba	fronty	sor	fronta	N;IN+ALL;SG	N;NOM;FEM;PL;POS
+sorba	frontu	sor	fronta	N;IN+ALL;SG	N;ACC;FEM;SG;POS
+hopkins	hopkins	hopkins	hopkins		PROPN;ANIM;NOM;MASC;SG;POS
+stark	starka	stark	starka	PROPN;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+stark	stark	stark	stark	PROPN;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+olivier	olivier	olivier	olivier		PROPN;ANIM;NOM;MASC;SG;POS
+ned	ned	ned	ned		PROPN;NOM;MASC;SG;POS
+ned	neda	ned	neda		N;NOM;MASC;SG;POS
+gks	gks	gks	gks		PROPN;INAN;NOM;MASC;SG;POS
+niger	niger	niger	nigr		PROPN;INAN;NOM;MASC;SG;POS
+megjelölt	označené	megjelölt	označený		ADJ;NOM;MASC;PL;POS
+megjelölt	označen	megjelölt	označený		ADJ;MASC;SG;POS;V.PTCP;PASS
+megjelölt	označený	megjelölt	označený		ADJ;INAN;NOM;MASC;SG;POS
+megjelölt	označeno	megjelölt	označený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+megjelölt	označeny	megjelölt	označený		ADJ;INAN;PL;POS;V.PTCP;PASS
+megjelölt	označená	megjelölt	označený		ADJ;NOM;FEM;SG;POS
+megjelölt	označené	megjelölt	označený		ADJ;NOM;MASC;PL;POS
+megjelölt	označeno	megjelölt	označený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+szemét	odpad	szem	odpad	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+szemét	odpadky	szem	odpadka	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+szemét	smetí	szem	smetí	N;ACC;SG	N;NOM;NEUT;SG;POS
+szemét	odpadky	szem	odpadka	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+szemét	smetí	szem	smetí	N;ACC;SG	N;NOM;NEUT;SG;POS
+szemét	odpad	szem	odpad	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+szemét	odpadky	szem	odpadka	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+szemét	smetí	szem	smetí	N;ACC;SG	N;NOM;NEUT;SG;POS
+lakás	plochý	lakás	plochý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+lakás	ploché	lakás	plochý	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+lakás	plochá	lakás	plochat	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+trilógia	trilogii	trilógia	trilogie	N;NOM;SG	N;ACC;FEM;SG;POS
+dakota	dakota	dakota	dakota		N;NOM;FEM;SG;POS
+szombaton	sobotu	szombat	sobota	N;ON+ESS;SG	N;ACC;FEM;SG;POS
+szombaton	sobota	szombat	sobota	N;ON+ESS;SG	N;NOM;FEM;SG;POS
+szombaton	sobotní	szombat	sobotní	N;ON+ESS;SG	ADJ;NOM;MASC;SG;POS
+évenként	každoroční	évenkén	každoroční	N;ABS;SG	ADJ;NOM;MASC;SG;POS
+évenként	ročně	évenkén	ročně	N;ABS;SG	ADV;POS
+évenként	roční	évenkén	roční	N;ABS;SG	ADJ;NOM;MASC;SG;POS
+évenként	každoročně	évenkén	každoročně	N;ABS;SG	ADV;POS
+koncepció	pojem	koncepció	pojem		N;INAN;NOM;MASC;SG;POS
+koncepció	konceptu	koncepció	koncept		N;INAN;GEN;MASC;SG;POS
+koncepció	koncept	koncepció	koncept		N;INAN;NOM;MASC;SG;POS
+koncepció	koncepce	koncepció	koncepce		N;NOM;FEM;SG;POS
+koncepció	pojetí	koncepció	pojetí		N;NOM;NEUT;SG;POS
+jeanne	joan	jelenik	joan		PROPN;NOM;FEM;SG;POS
+jeanne	jeanne	jelenik	jeanne		PROPN;NOM;FEM;SG;POS
+átalakított	upravený	átalakított	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+átalakított	změněno	átalakított	změněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+átalakított	modifikované	átalakított	modifikovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+átalakított	upraveno	átalakított	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+átalakított	upravené	átalakított	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+átalakított	upravená	átalakított	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+átalakított	přizpůsobené	átalakított	přizpůsobený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+átalakított	upravená	átalakított	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+előnyös	výhodné	előnyös	výhodný		ADJ;NOM;NEUT;SG;POS
+előnyös	prospěšné	előnyös	prospěšný		ADJ;NOM;NEUT;SG;POS
+előnyös	přínosné	előnyös	přínosný		ADJ;NOM;NEUT;SG;POS
+előnyös	výhodné	előnyös	výhodný		ADJ;NOM;NEUT;SG;POS
+előnyös	výhodná	előnyös	výhodný		ADJ;NOM;FEM;SG;POS
+törlése	smazat	törlés	smazat	N;NOM;SG	N;ACC;FEM;SG;POS
+törlése	odstranit	törlés	odstranit	N;NOM;SG	V;PFV;POS;NFIN
+törlése	vymazat	törlés	vymazat	N;NOM;SG	V;PFV;POS;NFIN
+alább	podpalubí	alá	podpalubí	ADV	N;NOM;NEUT;SG;POS
+bizonyítékok	důkaz	bizonyítékok	důkaz	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+bsc	bsc	bsc	bsc		N;INAN;NOM;MASC;SG;POS
+ávila	ávila	ávila	ávit		PROPN;NOM;FEM;SG;POS
+eduardo	eduardo	eduardo	eduardo		PROPN;ANIM;NOM;MASC;SG;POS
+simpson	simpsonová	simpson	simpsonový		ADJ;NOM;FEM;SG;POS
+simpson	simpson	simpson	simpson		PROPN;ANIM;NOM;MASC;SG;POS
+nílus	nilu	nílus	nila		N;INAN;GEN;MASC;SG;POS
+élőlény	organismu	élőlény	organismus	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+orange	oranžová	orang	oranžový		ADJ;NOM;FEM;SG;POS
+orange	pomeranč	orang	pomeranč		N;INAN;NOM;MASC;SG;POS
+orange	orange	orang	orange		PROPN;INAN;NOM;MASC;SG;POS
+orange	oranžový	orang	oranžový		ADJ;INAN;NOM;MASC;SG;POS
+orange	oranžové	orang	oranžový		ADJ;NOM;NEUT;SG;POS
+számláló	pult	számláló	pult		N;INAN;NOM;MASC;SG;POS
+elkerülése	vyhnout	elkerülés	vyhnout	N;NOM;SG	V;POS;NFIN
+konszenzus	konsensu	konszenzus	konsensus	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+michelle	michelle	michelle	michelle	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+paula	paulo	paula	paulo		PROPN;NOM;NEUT;SG;POS
+paula	paula	paula	paulo		N;ANIM;ACC;MASC;SG;POS
+gerhard	gerhard	gerhard	gerhard		PROPN;ANIM;NOM;MASC;SG;POS
+kapcsolatai	spojení	kapcsolat	spojení	N;NOM;PL	N;NOM;NEUT;SG;POS
+közreműködő	přispěvatelem	közreműködő	přispěvatel	ADJ;NOM;SG	N;ANIM;INS;MASC;SG;POS
+közreműködő	přispěvatelé	közreműködő	přispěvatel	ADJ;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+nicaragua	nikaragui	nicarag	nikarague	N;NOM;SG	PROPN;DAT;FEM;SG;POS
+castro	castro	castro	castro		PROPN;ANIM;NOM;MASC;SG;POS
+rhône	rhône	rhône	rhknout		PROPN;INAN;NOM;MASC;SG;POS
+mobile	mobil	mobile	mobil		N;INAN;NOM;MASC;SG;POS
+mobile	mobilní	mobile	mobilní		ADJ;NOM;MASC;SG;POS
+glenn	glenn	glenn	glenn		PROPN;ANIM;NOM;MASC;SG;POS
+stein	stein	stein	stein		PROPN;ANIM;NOM;MASC;SG;POS
+gombák	plíseň	gomba	plíseň	N;NOM;PL	N;NOM;FEM;SG;POS
+gombák	houba	gomba	houba	N;NOM;PL	N;NOM;FEM;SG;POS
+ablakok	oken	ablak	okno	N;NOM;PL	N;GEN;NEUT;PL;POS
+brno	brna	brno	brno	PROPN;NOM;SG	PROPN;NOM;NEUT;SG;POS
+brno	brno	brno	brno	PROPN;NOM;SG	PROPN;NOM;NEUT;SG;POS
+armstrong	armstrong	armstrong	armstrong		PROPN;ANIM;NOM;MASC;SG;POS
+törvénytelen	nelegitimní	törvénytelen	legitimní		ADJ;NOM;MASC;SG;NEG
+törvénytelen	nezákonné	törvénytelen	zákonný		ADJ;NOM;NEUT;SG;NEG
+törvénytelen	protiprávní	törvénytelen	protiprávní		ADJ;NOM;MASC;SG;POS
+aranyos	roztomilý	aranyos	roztomilý		ADJ;INAN;NOM;MASC;SG;POS
+aranyos	roztomilé	aranyos	roztomilý		ADJ;NOM;NEUT;SG;POS
+aranyos	roztomilá	aranyos	roztomilý		ADJ;NOM;FEM;SG;POS
+próbáltam	zkoušela	próbál	zkoušet	V;INDF;IND;SG;1;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+próbáltam	zkusila	próbál	zkusit	V;INDF;IND;SG;1;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+próbáltam	zkoušeli	próbál	zkoušet	V;INDF;IND;SG;1;PST;FIN;ACT	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP;ACT
+palermo	palermu	palermo	palerma		PROPN;INAN;DAT;MASC;SG;POS
+bezárt	uzavřené	bezárt	uzavřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+bezárt	zavřeno	bezárt	zavřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+bezárt	uzavřený	bezárt	uzavřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+bezárt	zavřené	bezárt	zavřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+csökkentése	omezit	csökkentés	omezit	N;NOM;SG	V;PFV;POS;NFIN
+csökkentése	snížit	csökkentés	snížit	N;NOM;SG	V;PFV;POS;NFIN
+rain	deště	rain	déšť		N;INAN;NOM;MASC;SG;POS
+rain	déšť	rain	déšť		N;INAN;NOM;MASC;SG;POS
+rain	rain	rain	rain		PROPN;INAN;NOM;MASC;SG;POS
+auto	auto	auto	auto		N;NOM;NEUT;SG;POS
+auto	automatický	auto	automatický		ADJ;INAN;NOM;MASC;SG;POS
+auto	automatické	auto	automatický		ADJ;NOM;NEUT;SG;POS
+auto	automatická	auto	automatický		ADJ;NOM;FEM;SG;POS
+auto	automaticky	auto	automaticky		ADV;POS
+freddie	freddie	freddie	freddie		N;ANIM;NOM;MASC;SG;POS
+freddie	freddieho	freddie	freddie		N;GEN;MASC;SG;POS
+esküvő	svatbu	esküvő	svatba	N;NOM;SG	N;ACC;FEM;SG;POS
+esküvő	svatební	esküvő	svatební	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+esküvő	svatby	esküvő	svatba	N;NOM;SG	N;NOM;FEM;PL;POS
+hudson	hudson	huds	hudson		PROPN;ANIM;NOM;MASC;SG;POS
+utcák	ulice	utca	ulice	N;NOM;PL	N;NOM;FEM;SG;POS
+utcák	ulic	utca	ulice	N;NOM;PL	N;GEN;FEM;PL;POS
+technikailag	technicky	technikai	technicky	ADJ;FRML;SG	ADV;POS
+perui	peruánské	perui	peruánský		ADJ;NOM;NEUT;SG;POS
+perui	peru	perui	per		PROPN;NEUT;POS
+társaságok	korporace	társaság	korporace	N;NOM;PL	N;NOM;FEM;SG;POS
+kiadások	utrácení	kiadás	utrácení	N;NOM;PL	N;NOM;NEUT;SG;POS
+kiadások	výdaj	kiadás	výdaj	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+hollywoodi	hollywood	hollywoodi	hollywood		N;NOM;FEM;SG;POS
+hollywoodi	hollywoodu	hollywoodi	hollywood		N;INAN;GEN;MASC;SG;POS
+divat	módní	divat	módní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+divat	fashion	divat	fashion	N;NOM;SG	PROPN;NOM;MASC;SG;POS
+divat	módy	divat	móda	N;NOM;SG	N;NOM;FEM;PL;POS
+christoph	christoph	christoph	christopha		PROPN;ANIM;NOM;MASC;SG;POS
+nicole	nicol	nicole	nicola		PROPN;NOM;FEM;SG;POS
+nicole	nicole	nicole	nicole		PROPN;NOM;FEM;SG;POS
+nepál	nepálu	nepál	pál	PROPN;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+deux	deux	deux	deux		PROPN;NOM;MASC;SG;POS
+távközlési	telecom	távközlési	telecom	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+kocsik	aut	kocsik	auto	N;NOM;PL	N;GEN;NEUT;PL;POS
+kocsik	vozů	kocsik	vůz	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+professzionális	profesionál	professzionális	profesionál	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+houston	houston	houst	houston		PROPN;INAN;NOM;MASC;SG;POS
+houston	houstonu	houst	houston		N;INAN;GEN;MASC;SG;POS
+ulrich	ulrich	ulrich	ulrich		PROPN;ANIM;NOM;MASC;SG;POS
+működés	fungující	működés	fungující	N;NOM;SG	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+lika	lika	lika	lika	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+istennő	bohyni	istennő	bohyně	N;NOM;SG	N;ACC;FEM;SG;POS
+hidak	mostů	híd	most	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+kultúrák	kultury	kultúra	kultura	N;NOM;PL	N;NOM;FEM;SG;POS
+kultúrák	kultur	kultúra	kultura	N;NOM;PL	N;GEN;FEM;PL;POS
+lombard	lombard	lombard	lombard		PROPN;INAN;NOM;MASC;SG;POS
+waters	vody	waters	voda		N;NOM;FEM;PL;POS
+fbi	fbi	fbi	fbi	N;NOM;SG	PROPN;NOM;MASC;SG;POS
+későn	zpoždění	későn	zpoždění		N;NOM;NEUT;SG;POS
+későn	pozdní	későn	pozdní		ADJ;NOM;MASC;SG;POS
+későn	pozdě	későn	pozdě		ADV;POS
+vert	vert	ver	vert	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN;INAN;NOM;MASC;SG;POS
+cape	cape	cap	cap		PROPN;NOM;MASC;SG;POS
+cape	mys	cap	mys		N;INAN;NOM;MASC;SG;POS
+cape	plášť	cap	plášť		N;INAN;NOM;MASC;SG;POS
+kimondottan	konkrétně	kimond	konkrétně	ADJ;FRML;SG	ADV;POS
+kimondottan	specificky	kimond	specificky	ADJ;FRML;SG	ADV;POS
+kimondottan	výslovně	kimond	výslovně	ADJ;FRML;SG	ADV;POS
+kiadatlan	nezveřejněné	kiadatlan	zveřejněný		ADJ;NOM;NEUT;SG;NEG
+kiadatlan	nepublikované	kiadatlan	publikovaný		ADJ;NOM;NEUT;SG;NEG
+vilma	vilma	vilma	vilma		N;NOM;FEM;SG;POS
+lili	lilie	lili	lilie		N;NOM;FEM;SG;POS
+lili	lily	lili	lil		PROPN;FEM;SG;POS
+lili	lili	lili	lít		PROPN;NOM;FEM;SG;POS
+harald	harald	harald	harald		PROPN;ANIM;NOM;MASC;SG;POS
+plus	plus	plus	plus		N;INAN;NOM;MASC;SG;POS
+plus	navíc	plus	navíc		ADV
+érvénytelen	neplatná	érvénytelen	platný		ADJ;NOM;FEM;SG;NEG
+érvénytelen	neplatný	érvénytelen	platný		ADJ;INAN;NOM;MASC;SG;NEG
+érvénytelen	neplatné	érvénytelen	platný		ADJ;NOM;NEUT;SG;NEG
+kövér	tlustý	kövér	tlustý		ADJ;ANIM;NOM;MASC;SG;POS
+kövér	tuk	kövér	tuk		N;INAN;NOM;MASC;SG;POS
+kövér	tučný	kövér	tučný		ADJ;INAN;NOM;MASC;SG;POS
+kövér	tuky	kövér	tuk		N;INAN;NOM;MASC;PL;POS
+kövér	tlustá	kövér	tlustý		ADJ;NOM;FEM;SG;POS
+nézett	vypadala	nézett	vypadat	V;INDF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+kínál	nabídky	kínál	nabídka	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+kolostorban	klášter	kolostor	klášter	N;IN+ESS;SG	N;INAN;NOM;MASC;SG;POS
+kerék	kolečka	kerék	kolečka	N;NOM;SG	N;NOM;NEUT;PL;POS
+kerék	koly	kerék	kolo	N;NOM;SG	N;INS;NEUT;PL;POS
+kerék	kol	kerék	kolo	N;NOM;SG	N;GEN;NEUT;PL;POS
+kerék	kola	kerék	kolo	N;NOM;SG	N;NOM;NEUT;PL;POS
+fejlesztések	vylepšení	fejlesztés	vylepšení	N;NOM;PL	N;NOM;NEUT;SG;POS
+fejlesztések	zlepšení	fejlesztés	zlepšení	N;NOM;PL	N;NOM;NEUT;SG;POS
+fejlesztések	zdokonalení	fejlesztés	zdokonalení	N;NOM;PL	N;NOM;NEUT;SG;POS
+fejlesztések	vylepšení	fejlesztés	vylepšení	N;NOM;PL	N;NOM;NEUT;SG;POS
+fejlesztések	vylepšení	fejlesztés	vylepšení	N;NOM;PL	N;NOM;NEUT;SG;POS
+fejlesztések	vývoj	fejlesztés	vývoj	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+kártya	karet	kártya	karta	N;NOM;SG	N;GEN;FEM;PL;POS
+kártya	karty	kártya	karta	N;NOM;SG	N;NOM;FEM;PL;POS
+kártya	vizitky	kártya	vizitka	N;NOM;SG	N;NOM;FEM;PL;POS
+kártya	kartu	kártya	karta	N;NOM;SG	N;ACC;FEM;SG;POS
+tankönyv	učebnice	tankönyv	učebnice	N;NOM;SG	N;NOM;FEM;PL;POS
+tankönyv	učebnici	tankönyv	učebnice	N;NOM;SG	N;ACC;FEM;SG;POS
+instrumentális	instrumentální	instrumentális	instrumentální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+holmes	holmes	holmes	holmes		N;INAN;NOM;MASC;SG;POS
+holmes	holmese	holmes	holmes		N;ANIM;ACC;MASC;SG;POS
+kötés	závazná	kötés	závazný	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+kötés	závazný	kötés	závazný	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+kötés	závazné	kötés	závazný	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+kötés	plete	kötés	plést	N;NOM;SG	V;IND;SG;3;POS;PRS;FIN;ACT
+kötés	bond	kötés	bond	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+tulajdonság	nemovitosti	tulajdonság	nemovitost	N;NOM;SG	N;NOM;FEM;PL;POS
+tulajdonság	vlastnosti	tulajdonság	vlastnost	N;NOM;SG	N;NOM;FEM;PL;POS
+tulajdonság	nemovitosti	tulajdonság	nemovitost	N;NOM;SG	N;NOM;FEM;PL;POS
+légkör	atmosféru	légkör	atmosféra	N;NOM;SG	N;ACC;FEM;SG;POS
+légkör	atmosféry	légkör	atmosféra	N;NOM;SG	N;NOM;FEM;PL;POS
+légkör	atmosférický	légkör	atmosférický	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+kurd	kurdské	kurd	kurdský		ADJ;NOM;NEUT;SG;POS
+kurd	kurdů	kurd	kurd		N;ANIM;GEN;MASC;PL;POS
+mainz	mainz	mainz	mainz		PROPN;INAN;NOM;MASC;SG;POS
+orne	orne	or	orno		PROPN;INAN;NOM;MASC;SG;POS
+terveket	návrhy	terv	návrh	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+terveket	vzory	terv	vzor	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+varázsló	čaroději	varázsló	čaroděj	N;NOM;SG	N;ANIM;DAT;MASC;PL;POS
+heinz	heinz	heinz	heinz		PROPN;ANIM;NOM;MASC;SG;POS
+sárgás	nažloutlá	sárgás	nažloutlý		ADJ;NOM;FEM;SG;POS
+nyelveket	jazyky	nyelv	jazyk	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+nyelveket	jazyků	nyelv	jazyk	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+felmérés	průzkumy	felmérés	průzkum	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+caf	caf	caf	caf	N;NOM;PL	PROPN;FEM;POS
+eugène	eugène	euget	eugène		PROPN;ANIM;NOM;MASC;SG;POS
+gyanús	podezřelé	gyanús	podezřelý		ADJ;NOM;NEUT;PL;POS
+gyanús	podezřelý	gyanús	podezřelý		ADJ;ANIM;NOM;MASC;SG;POS
+gyanús	podezřelá	gyanús	podezřelý		ADJ;NOM;FEM;SG;POS
+gyanús	podezřelý	gyanús	podezřelý		ADJ;ANIM;NOM;MASC;SG;POS
+henger	válce	henger	válka	N;NOM;SG	N;DAT;FEM;SG;POS
+műsorok	ukazuje	műsor	ukazovat	N;NOM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+műsorok	zobrazí	műsor	zobrazit	N;NOM;PL	V;PFV;IND;SG;3;POS;PRS;FIN;ACT
+venezia	venezia	venezia	venézium		N;NOM;FEM;SG;POS
+csökkenő	sestupně	csökkenő	sestupně	ADJ;NOM;SG	ADV;POS
+todd	todd	todd	todd		PROPN;ANIM;NOM;MASC;SG;POS
+parma	parma	parma	parma		PROPN;ANIM;NOM;MASC;SG;POS
+infrastruktúra	infrastruktury	infrastruktúra	infrastruktura	N;NOM;SG	N;NOM;FEM;PL;POS
+infrastruktúra	infrastrukturu	infrastruktúra	infrastruktura	N;NOM;SG	N;ACC;FEM;SG;POS
+seattle	seattle	seattle	seattle	N;NOM;SG	PROPN;NOM;MASC;SG;POS
+seattle	seattlu	seattle	seattlum	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+fegyvereket	zbraně	fegyver	zbraň	N;ACC;PL	N;NOM;FEM;PL;POS
+vágy	touhy	vágy	touha	N;NOM;SG	N;NOM;FEM;PL;POS
+vágy	touhu	vágy	touha	N;NOM;SG	N;ACC;FEM;SG;POS
+vágy	touhy	vágy	touha	N;NOM;SG	N;NOM;FEM;PL;POS
+romboló	torpédoborec	romboló	torpédoborec		N;INAN;NOM;MASC;SG;POS
+romboló	ničitel	romboló	ničitel		N;ANIM;NOM;MASC;SG;POS
+ugrás	skočit	ugrás	skočit	N;NOM;SG	V;PFV;POS;NFIN
+homo	homo	homo	homo		N;INAN;NOM;MASC;SG;POS
+hibrid	hybridy	hibrid	hybrid		N;INAN;NOM;MASC;PL;POS
+hibrid	hybrid	hibrid	hybrid		N;INAN;NOM;MASC;SG;POS
+hibrid	hybridní	hibrid	hybridní		ADJ;NOM;MASC;SG;POS
+dráva	dráva	dráva	dráva		N;NOM;FEM;SG;POS
+bon	bon	bon	bon		PROPN;ANIM;NOM;MASC;SG;POS
+robbie	robbieho	robbi	robbie		N;ANIM;ACC;MASC;SG;POS
+robbie	robbie	robbi	robbie		PROPN;ANIM;NOM;MASC;SG;POS
+morris	morris	morris	morris		PROPN;ANIM;NOM;MASC;SG;POS
+morris	morrise	morris	morrise		N;ANIM;ACC;MASC;SG;POS
+europa	europa	europa	europa		N;NOM;FEM;SG;POS
+cukor	bonbóny	cukor	bonbón	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+cukor	sladkosti	cukor	sladkost	N;NOM;SG	N;NOM;FEM;PL;POS
+cukor	cukru	cukor	cukr	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+terhes	těhotná	terhes	těhotný		ADJ;NOM;FEM;SG;POS
+terhes	těhotné	terhes	těhotný		ADJ;NOM;NEUT;SG;POS
+érvek	argumentace	érv	argumentace	N;NOM;PL	N;NOM;FEM;SG;POS
+városokat	velkoměsta	város	velkoměsto	N;ACC;PL	N;NOM;NEUT;PL;POS
+városokat	měst	város	město	N;ACC;PL	N;GEN;NEUT;PL;POS
+városokat	města	város	město	N;ACC;PL	N;NOM;NEUT;PL;POS
+mdf	mdf	mdf	mdf	PROPN;NOM;SG	PROPN;FEM;POS
+tömör	kompaktní	tömör	kompaktní		ADJ;NOM;MASC;SG;POS
+tömör	solidní	tömör	solidní		ADJ;NOM;MASC;SG;POS
+tömör	pevná	tömör	pevný		ADJ;NOM;FEM;SG;POS
+tömör	pevné	tömör	pevný		ADJ;NOM;MASC;PL;POS
+tömör	pevný	tömör	pevný		ADJ;INAN;NOM;MASC;SG;POS
+tömör	stručné	tömör	stručný		ADJ;NOM;NEUT;PL;POS
+tömör	stručné	tömör	stručný		ADJ;NOM;NEUT;PL;POS
+tömör	stručná	tömör	stručný		ADJ;NOM;FEM;SG;POS
+áthelyezték	přemístěna	át+helyez	přemístěný	V;DEF;IND;PL;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+anhalt	anhaltsko	anhal	anhaltský	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN;NOM;NEUT;SG;POS
+kórházi	nemocnice	kórházi	nemocnice		N;NOM;FEM;SG;POS
+kórházi	nemocnici	kórházi	nemocnice		N;DAT;FEM;SG;POS
+kórházi	nemocniční	kórházi	nemocniční		ADJ;NOM;MASC;SG;POS
+ita	ita	ita	ita		PROPN;MASC;SG;POS
+víztározó	zvodně	víztározó	zvodně	ADJ;NOM;SG	ADV;POS
+víztározó	přehrada	víztározó	přehrada	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+víztározó	nádrž	víztározó	nádrž	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+roth	roth	roth	roth		PROPN;ANIM;NOM;MASC;SG;POS
+csont	kosti	csont	kost	N;NOM;SG	N;NOM;FEM;PL;POS
+csont	kostí	csont	kost	N;NOM;SG	N;INS;FEM;SG;POS
+csont	kosti	csont	kost	N;NOM;SG	N;NOM;FEM;PL;POS
+csont	kostí	csont	kost	N;NOM;SG	N;INS;FEM;SG;POS
+csont	bone	csont	bon	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+bennett	bennett	bennett	bennett		PROPN;ANIM;NOM;MASC;SG;POS
+arizona	arizoně	arizona	arizoň		PROPN;DAT;FEM;SG;POS
+arizona	arizona	arizona	arizon		PROPN;NOM;FEM;SG;POS
+arizona	arizony	arizona	arizon		PROPN;NOM;FEM;SG;POS
+baseball	baseball	baseball	baseball		N;INAN;NOM;MASC;SG;POS
+egyezik	zápasy	egyezik	zápas	V;INDF;IND;SG;3;PRS;FIN;ACT	N;INAN;NOM;MASC;PL;POS
+egyezik	shody	egyezik	shoda	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+egyezik	zápalky	egyezik	zápalek	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+egyezik	zápas	egyezik	zápas	V;INDF;IND;SG;3;PRS;FIN;ACT	N;INAN;NOM;MASC;SG;POS
+egyezik	utkání	egyezik	utkání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+egyezik	shoda	egyezik	shoda	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+bolond	blázen	bolond	blázen		N;ANIM;NOM;MASC;SG;POS
+kínaiak	čínský	kínai	čínský	N;NOM;PL	ADJ;INAN;NOM;MASC;SG;POS
+kínaiak	čínská	kínai	čínský	N;NOM;PL	ADJ;NOM;FEM;SG;POS
+kínaiak	číňan	kínai	číňan	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+kínaiak	čína	kínai	čína	N;NOM;PL	PROPN;NOM;FEM;SG;POS
+kínaiak	čínské	kínai	čínský	N;NOM;PL	ADJ;NOM;NEUT;SG;POS
+tibet	tibetu	tibet	tibet		N;INAN;DAT;MASC;SG;POS
+őszintén	upřímně	őszintén	upřímně		ADV;POS
+őszintén	čestně	őszintén	čestně		ADV;POS
+őszintén	poctivě	őszintén	poctivě		ADV;POS
+toyota	toyota	toyota	toyotý	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+ovális	oválné	ovális	oválný		ADJ;NOM;MASC;PL;POS
+megosztott	sdílený	megosztott	sdílený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+megosztott	sdílené	megosztott	sdílený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+megosztott	rozdělený	megosztott	rozdělený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+megosztott	rozdělené	megosztott	rozdělený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+megosztott	rozdělená	megosztott	rozdělený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+megosztott	rozdělena	megosztott	rozdělený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+tematikus	tematické	tematikus	tematický	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+követői	sledující	követő	sledující	N;NOM;PL	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+egyenlítői	rovníkové	egyenlítő	rovníkový	N;NOM;PL	ADJ;NOM;FEM;PL;POS
+napokban	dní	nap	den	N;IN+ESS;PL	N;INAN;GEN;MASC;PL;POS
+napokban	dnů	nap	den	N;IN+ESS;PL	N;INAN;GEN;MASC;PL;POS
+napokban	dny	nap	den	N;IN+ESS;PL	N;INAN;NOM;MASC;PL;POS
+munkahelyek	zaměstnání	munkahely	zaměstnání	N;NOM;PL	N;NOM;NEUT;SG;POS
+munkahelyek	pracoviště	munkahely	pracoviště	N;NOM;PL	N;NOM;NEUT;SG;POS
+hanna	hannah	hanna	hannah		N;NOM;FEM;SG;POS
+hanna	hana	hanna	hana		PROPN;NOM;FEM;SG;POS
+hanna	hanno	hanna	hanno		PROPN;ANIM;NOM;MASC;SG;POS
+hanna	hannu	hanna	hann		N;ACC;FEM;SG;POS
+hanna	hanna	hanna	hanna		N;NOM;FEM;SG;POS
+halottak	mrtvá	halott	mrtvý	N;NOM;PL	ADJ;NOM;FEM;SG;POS
+halottak	mrtvý	halott	mrtvý	N;NOM;PL	ADJ;ANIM;NOM;MASC;SG;POS
+halottak	mrtví	halott	mrtvý	N;NOM;PL	ADJ;ANIM;NOM;MASC;PL;POS
+burton	burton	burt	burton		N;ANIM;NOM;MASC;SG;POS
+nacionalista	nacionalistické	nacionalista	nacionalistický	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+csatornák	kanálů	csator	kanál	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+kezelő	operátor	kezelő	operátor	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+kezelő	provozovatel	kezelő	provozovatel	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+kezelő	správce	kezelő	správce	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+kezelő	manažer	kezelő	manažer	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+kezelő	spojka	kezelő	spojka	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+vatikáni	vatikánu	vatikáni	vatikán		N;INAN;GEN;MASC;SG;POS
+vatikáni	vatikán	vatikáni	vatikán		PROPN;INAN;NOM;MASC;SG;POS
+módszertani	metodické	módszert	metodický	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+porsche	porsche	porsche	porsche	N;NOM;SG	PROPN;INAN;MASC;POS
+haiti	haiti	haiti	hait	N;NOM;SG	PROPN;NEUT;POS
+hírhedt	neblaze	hír	blaze		ADV;POS
+tokiói	tokiu	tokiói	tokium	ADJ;NOM;SG	PROPN;DAT;NEUT;SG;POS
+tokiói	tokio	tokiói	tokio	ADJ;NOM;SG	PROPN;NOM;NEUT;SG;POS
+józan	střízlivý	józan	střízlivý		ADJ;INAN;NOM;MASC;SG;POS
+költség	nákladů	költség	náklad	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+költség	náklady	költség	náklad	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+költség	nákladů	költség	náklad	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+költség	náklady	költség	náklad	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+ricardo	ricardo	ricardo	ricardo		PROPN;ANIM;NOM;MASC;SG;POS
+részleteket	podrobnosti	részlet	podrobnost	N;ACC;PL	N;NOM;FEM;PL;POS
+részleteket	detaily	részlet	detail	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+mel	mel	mel	mel		PROPN;ANIM;NOM;MASC;SG;POS
+mel	mela	mel	mela		PROPN;NOM;FEM;SG;POS
+alpesi	alpské	alpesi	alpský		ADJ;NOM;MASC;SG;POS
+törtek	frakce	tört	frakce	V;INDF;IND;PL;3;PST;FIN;ACT	N;NOM;FEM;SG;POS
+galamb	holubice	galamb	holubika		N;NOM;FEM;SG;POS
+galamb	holub	galamb	holub		N;ANIM;NOM;MASC;SG;POS
+galamb	holuba	galamb	holuba		N;ANIM;ACC;MASC;SG;POS
+szervező	promotér	szervező	promotér		N;ANIM;NOM;MASC;SG;POS
+szervező	organizátor	szervező	organizátor		N;ANIM;NOM;MASC;SG;POS
+szervező	organizátor	szervező	organizátor		N;ANIM;NOM;MASC;SG;POS
+elpusztította	zničeno	elpusztít	zničený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+elpusztította	zničen	elpusztít	zničený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+elpusztította	zničena	elpusztít	zničený	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+követelt	požadovala	követelt	požadovat	V;INDF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+követelt	požadovali	követelt	požadovat	V;INDF;IND;SG;3;PST;FIN;ACT	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP;ACT
+serena	sereno	serena	serno		PROPN;ANIM;NOM;MASC;SG;POS
+serena	serena	serena	serna		N;NOM;FEM;SG;POS
+vosges	vosges	vosges	vosges	PROPN;NOM;SG	PROPN;MASC;SG;POS
+felipe	felipe	félip	felipe	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+hirdetett	povýšen	hirdet	povýšený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+logó	loga	logó	logo	N;NOM;SG	N;NOM;NEUT;PL;POS
+katalógus	katalogy	katalógus	katalog	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+katalógus	katalogu	katalógus	katalog	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+katalógus	katalogu	katalógus	katalog	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+platform	plošina	platform	plošina		N;NOM;FEM;SG;POS
+platform	nástupiště	platform	nástupiště		N;NOM;NEUT;SG;POS
+platform	platforma	platform	platforma		N;NOM;FEM;SG;POS
+platform	platformy	platform	platforma		N;NOM;FEM;PL;POS
+platform	platformu	platform	platforma		N;ACC;FEM;SG;POS
+platform	plošiny	platform	plošin		N;NOM;FEM;PL;POS
+platform	nástupiště	platform	nástupiště		N;NOM;NEUT;SG;POS
+platform	platformy	platform	platforma		N;NOM;FEM;PL;POS
+nyelvtan	gramatiku	nyelvtan	gramatika	N;NOM;SG	N;ACC;FEM;SG;POS
+kollektív	kolektivu	kollektív	kolektiv		N;INAN;GEN;MASC;SG;POS
+kollektív	kolektivní	kollektív	kolektivní		ADJ;NOM;MASC;SG;POS
+hazafias	vlastenecké	hazafias	vlastenecký		ADJ;NOM;MASC;PL;POS
+rogers	rogers	rogers	rogers		PROPN;ANIM;NOM;MASC;SG;POS
+tudor	tudor	tudor	tudor		PROPN;ANIM;NOM;MASC;SG;POS
+jefferson	jefferson	jeffers	jefferson		PROPN;ANIM;NOM;MASC;SG;POS
+meghívást	pozvání	meghívás	pozvání	N;ACC;SG	N;NOM;NEUT;SG;POS
+meghívást	pozvat	meghívás	pozvat	N;ACC;SG	V;POS;NFIN
+meghívást	pozvánka	meghívás	pozvánka	N;ACC;SG	N;NOM;FEM;SG;POS
+meghívást	pozvání	meghívás	pozvání	N;ACC;SG	N;NOM;NEUT;SG;POS
+meghívást	pozvánka	meghívás	pozvánka	N;ACC;SG	N;NOM;FEM;SG;POS
+feladatai	úkolů	feladat	úkol	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+glasgow	glasgow	glasgow	glasgow	N;NOM;SG	PROPN;NOM;NEUT;SG;POS
+suriname	surinam	suriname	surinam	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+bauer	bauer	bauer	baura		PROPN;ANIM;NOM;MASC;SG;POS
+muzulmán	muslim	muzulom	muslit		N;ANIM;NOM;MASC;SG;POS
+muzulmán	muslimské	muzulom	muslimský		ADJ;NOM;MASC;PL;POS
+fajták	plemen	fajta	plemen	N;NOM;PL	N;GEN;FEM;PL;POS
+hivatkozásokat	odkazy	hivatkozás	odkaz	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+hivatkozásokat	reference	hivatkozás	reference	N;ACC;PL	N;NOM;FEM;PL;POS
+montana	montana	mont	montana		N;NOM;FEM;SG;POS
+stratégia	strategii	stratégia	strategie	N;NOM;SG	N;ACC;FEM;SG;POS
+nélkülözhetetlen	zásadní	nélkülözhetetlen	zásadní		ADJ;NOM;MASC;SG;POS
+nélkülözhetetlen	nezbytné	nélkülözhetetlen	zbytný		ADJ;NOM;NEUT;SG;NEG
+nélkülözhetetlen	podstatné	nélkülözhetetlen	podstatný		ADJ;NOM;NEUT;SG;POS
+biztonság	bezpečnostní	biztonság	bezpečnostní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+biztonság	bezpečné	biztonság	bezpečný	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+biztonság	bezpečná	biztonság	bezpečný	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+biztonság	bezpečný	biztonság	bezpečný	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+len	lnu	len	len		N;INAN;NOM;MASC;SG;POS
+len	len	len	len		PROPN;MASC;SG;POS
+len	len	len	len		PROPN;MASC;SG;POS
+struktúra	struktury	struktúra	struktura	N;NOM;SG	N;NOM;FEM;PL;POS
+struktúra	strukturu	struktúra	struktura	N;NOM;SG	N;ACC;FEM;SG;POS
+ismétlődő	duplikát	ismétlődő	duplikát	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+ismétlődő	opakované	ismétlődő	opakovaný	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+ismétlődő	opakované	ismétlődő	opakovaný	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+felvételeket	kazety	felvétel	kazeta	N;ACC;PL	N;NOM;FEM;PL;POS
+felvételeket	nahrávky	felvétel	nahrávka	N;ACC;PL	N;NOM;FEM;PL;POS
+felvételeket	pásky	felvétel	páska	N;ACC;PL	N;NOM;FEM;PL;POS
+felvételeket	nahrávky	felvétel	nahrávka	N;ACC;PL	N;NOM;FEM;PL;POS
+bűnös	vinný	bűnös	vinný		ADJ;INAN;NOM;MASC;SG;POS
+bűnös	vinen	bűnös	vinný		ADJ;ANIM;MASC;SG;POS
+bűnös	vinná	bűnös	vinný		ADJ;NOM;FEM;SG;POS
+bűnös	hříšník	bűnös	hříšník		N;ANIM;NOM;MASC;SG;POS
+elsődlegesen	primárně	elsődlegesen	primárně	ADJ;FRML;SG	ADV;POS
+kiejtés	výslovnost	kiejtés	výslovnost		N;NOM;FEM;SG;POS
+kén	síry	kén	síra	N;NOM;SG	N;NOM;FEM;PL;POS
+admirális	admirál	admirális	admirál		N;ANIM;NOM;MASC;SG;POS
+tarka	pied	tarka	pied		PROPN;ANIM;NOM;MASC;SG;POS
+váltakozó	střídavě	váltakozó	střídavě		ADV;POS
+mérhető	měřitelné	mérhető	měřitelný		ADJ;NOM;NEUT;SG;POS
+puha	měkký	puha	měkký		ADJ;INAN;NOM;MASC;SG;POS
+puha	měkká	puha	měkký		ADJ;NOM;FEM;SG;POS
+puha	jemné	puha	jemný		ADJ;NOM;NEUT;SG;POS
+puha	měkké	puha	měkký		ADJ;NOM;MASC;PL;POS
+zavaros	zmatená	zavaros	zmatený		ADJ;NOM;FEM;SG;POS
+zavaros	zmatený	zavaros	zmatený		ADJ;ANIM;NOM;MASC;SG;POS
+zavaros	zmatení	zavaros	zmatení		N;NOM;NEUT;SG;POS
+zavaros	zakalené	zavaros	zakalený		ADJ;NOM;NEUT;SG;POS
+zavaros	matoucí	zavaros	matoucí		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+liechtenstein	lichtenštejnsko	liechtenstein	lichtenštejnský	N;NOM;SG	ADJ;POS
+jessica	jessicu	jessica	jessice	N;NOM;SG	N;ACC;FEM;SG;POS
+hubert	hubert	huber	hubert		PROPN;ANIM;NOM;MASC;SG;POS
+gers	gers	gers	gers		PROPN;INAN;NOM;MASC;SG;POS
+hitte	věřila	hit	věřit	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+hitte	věřili	hit	věřit	V;DEF;IND;SG;3;PRS;FIN;ACT	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP;ACT
+hitte	věřil	hit	věřit	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+rap	rap	rap	rap		N;INAN;NOM;MASC;SG;POS
+januárban	lednu	január	leden	N;IN+ESS;SG	N;INAN;DAT;MASC;SG;POS
+januárban	leden	január	leden	N;IN+ESS;SG	N;INAN;NOM;MASC;SG;POS
+januárban	ledna	január	leden	N;IN+ESS;SG	N;INAN;GEN;MASC;SG;POS
+sértő	urážlivý	sértő	urážlivý		ADJ;INAN;NOM;MASC;SG;POS
+sértő	urážlivé	sértő	urážlivý		ADJ;NOM;NEUT;SG;POS
+sértő	útočný	sértő	útočný		ADJ;INAN;NOM;MASC;SG;POS
+sértő	urážka	sértő	urážka		N;NOM;FEM;SG;POS
+sértő	urážlivý	sértő	urážlivý		ADJ;INAN;NOM;MASC;SG;POS
+sértő	urážlivé	sértő	urážlivý		ADJ;NOM;NEUT;SG;POS
+iowa	iowě	iowa	Iowa		PROPN;MASC;SG;POS
+medina	medina	medina	medina		N;NOM;FEM;SG;POS
+törvényeket	zákonů	törvény	zákon	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+törvényeket	zákony	törvény	zákon	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+kölcsön	vypůjčil	kölcsön	vypůjčit	N;NOM;SG	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+kölcsön	půjčil	kölcsön	půjčit	N;NOM;SG	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+kölcsön	úvěry	kölcsön	úvěr	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kölcsön	půjčky	kölcsön	půjčka	N;NOM;SG	N;NOM;FEM;PL;POS
+kölcsön	půjčku	kölcsön	půjčka	N;NOM;SG	N;ACC;FEM;SG;POS
+kölcsön	půjčky	kölcsön	půjčka	N;NOM;SG	N;NOM;FEM;PL;POS
+kölcsön	výpůjční	kölcsön	výpůjční	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+kölcsön	půjčit	kölcsön	půjčit	N;NOM;SG	V;PFV;POS;NFIN
+kölcsön	půjčovat	kölcsön	půjčovat	N;NOM;SG	V;IPFV;POS;NFIN
+clarke	clarke	clarke	clarke		PROPN;ANIM;NOM;MASC;SG;POS
+kezdeményezés	iniciativy	kezdeményezés	iniciativa	N;NOM;SG	N;NOM;FEM;PL;POS
+kezdeményezés	iniciativu	kezdeményezés	iniciativa	N;NOM;SG	N;ACC;FEM;SG;POS
+túlélte	přežili	túlél	přežít	V;DEF;IND;SG;3;PST;FIN;ACT	V;ANIM;MASC;PL;POS;PST;V.PTCP;ACT
+túlélte	přežily	túlél	přežít	V;DEF;IND;SG;3;PST;FIN;ACT	V;INAN;PL;POS;PST;V.PTCP;ACT
+túlélte	přežila	túlél	přežít	V;DEF;IND;SG;3;PST;FIN;ACT	V;POS;PST;V.PTCP;ACT
+régiók	region	régió	region	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+régiók	regionu	régió	region	N;NOM;PL	N;INAN;DAT;MASC;SG;POS
+régiók	oblast	régió	oblast	N;NOM;PL	N;NOM;FEM;SG;POS
+régiók	kraj	régió	kraj	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+módosult	pozměněný	módosul	pozměněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+módosult	změněné	módosul	změněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+módosult	změněno	módosul	změněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+módosult	změněn	módosul	změněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+módosult	pozměněn	módosul	pozměněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+módosult	upravený	módosul	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+módosult	změněno	módosul	změněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+módosult	modifikované	módosul	modifikovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+módosult	upraveno	módosul	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+módosult	upravené	módosul	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+módosult	upravená	módosul	upravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+hallgatta	poslouchala	hallgat	poslouchat	V;DEF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+marton	marton	marton	marton		PROPN;ANIM;NOM;MASC;SG;POS
+randy	randy	randy	rand		PROPN;ANIM;NOM;MASC;SG;POS
+randy	randyho	randy	randy		N;ANIM;GEN;MASC;SG;POS
+ferde	šikmé	ferde	šikmý		ADJ;NOM;NEUT;SG;POS
+ontario	ontario	ontario	ontario	PROPN;NOM;SG	PROPN;NOM;NEUT;SG;POS
+esély	šanci	esély	šance	N;NOM;SG	N;ACC;FEM;SG;POS
+szárnyas	okřídlený	szárnyas	okřídlený		ADJ;INAN;NOM;MASC;SG;POS
+ünnepség	oslavy	ünnepség	oslava	N;NOM;SG	N;NOM;FEM;PL;POS
+ünnepség	oslavu	ünnepség	oslava	N;NOM;SG	N;ACC;FEM;SG;POS
+kaliforniában	kalifornie	kalifornia	kalifornie	N;IN+ESS;SG	PROPN;NOM;FEM;SG;POS
+kaliforniában	californie	kalifornia	californie	N;IN+ESS;SG	N;NOM;FEM;SG;POS
+kaliforniában	california	kalifornia	californium	N;IN+ESS;SG	PROPN;NOM;FEM;SG;POS
+rossi	rossi	rossi	ross		PROPN;ANIM;NOM;MASC;SG;POS
+temetkezési	funebrák	temetkezési	funebrák	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+bis	bis	bis	bis		N;FEM;POS
+kibocsátott	emitované	kibocsátott	emitovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+kibocsátott	vydané	kibocsátott	vydaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+kibocsátott	vydaná	kibocsátott	vydaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+kibocsátott	vydáno	kibocsátott	vydaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+kibocsátott	vydaný	kibocsátott	vydaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+kibocsátott	emitované	kibocsátott	emitovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+kibocsátott	emitovaných	kibocsátott	emitovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;GEN;MASC;PL;POS
+laboratóriumi	laboratoře	laboratóriumi	laboratoř	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+laboratóriumi	laboratoř	laboratóriumi	laboratoř	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+berg	berg	berg	berg		PROPN;ANIM;NOM;MASC;SG;POS
+állampolgár	občana	állampolgár	občan	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+albrecht	albrecht	albrecht	albrecht		PROPN;ANIM;NOM;MASC;SG;POS
+gomba	houby	gomba	houba	N;NOM;SG	N;NOM;FEM;PL;POS
+gomba	houby	gomba	houba	N;NOM;SG	N;NOM;FEM;PL;POS
+gomba	houby	gomba	houba	N;NOM;SG	N;NOM;FEM;PL;POS
+szavazott	hlasovala	szavazott	hlasovat	V;INDF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+szavazott	zvolen	szavazott	zvolený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+nyelveken	jazyky	nyelv	jazyk	N;ON+ESS;PL	N;INAN;NOM;MASC;PL;POS
+nyelveken	jazyků	nyelv	jazyk	N;ON+ESS;PL	N;INAN;GEN;MASC;PL;POS
+biztosítva	pojištěný	biztosítva	pojištěný	ADV;V.CVB	ADJ;INAN;NOM;MASC;SG;POS
+afganisztán	afghánistán	afganiszta	afghánistán	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+afganisztán	afghánistánu	afganiszta	afghánistán	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+steiner	steiner	steiner	steiner		PROPN;ANIM;NOM;MASC;SG;POS
+állítólagos	údajný	állítólagos	údajný		ADJ;INAN;NOM;MASC;SG;POS
+állítólagos	údajné	állítólagos	údajný		ADJ;NOM;NEUT;SG;POS
+állítólagos	údajného	állítólagos	údajný		ADJ;ANIM;GEN;MASC;SG;POS
+genova	genova	genova	genovo		N;NOM;FEM;SG;POS
+világosabb	jasněji	világos	jasně	ADJ;NOM;CMPR;SG	ADV;CMPR;POS
+világosabb	zapalovač	világos	zapalovač	ADJ;NOM;CMPR;SG	N;INAN;NOM;MASC;SG;POS
+visszafelé	pozpátku	visszafelé	pozpátku		N;INAN;GEN;MASC;SG;POS
+visszafelé	vzad	visszafelé	vzad		N;NOM;FEM;SG;POS
+ptolemaiosz	ptolemaios	ptolemaiosz	ptolemaios	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+cliff	útes	cliff	útes		N;INAN;NOM;MASC;SG;POS
+cliff	cliff	cliff	cliff		PROPN;ANIM;NOM;MASC;SG;POS
+memorial	memorial	memorial	memorial	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+memorial	pamětní	memorial	pamětní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+nicola	nicola	nicola	nicola		PROPN;ANIM;NOM;MASC;SG;POS
+képviselt	představoval	képvisel	představovat		V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+egyenletes	rovnoměrně	egyenletes	rovnoměrně		ADV;POS
+egyenletes	stabilní	egyenletes	stabilní		ADJ;NOM;MASC;SG;POS
+leveleket	dopisy	levél	dopis	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+leveleket	písmena	levél	písmeno	N;ACC;PL	N;NOM;NEUT;PL;POS
+leveleket	písmen	levél	písmeno	N;ACC;PL	N;NOM;NEUT;PL;POS
+brecht	brecht	brecht	brecht		N;INAN;NOM;MASC;SG;POS
+martínez	martínez	martínez	martínez		PROPN;ANIM;NOM;MASC;SG;POS
+antarktisz	antarktidě	antarktisz	antarktida	N;NOM;SG	N;DAT;FEM;SG;POS
+üzemeltetett	provozované	üzemeltet	provozovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+beavatkozás	zásahy	beavatkozás	zásah	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+beavatkozás	intervenční	beavatkozás	intervenční	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+karcsú	štíhlá	karcsú	štíhlý		ADJ;NOM;FEM;SG;POS
+karcsú	slim	karcsú	slim		PROPN;NOM;MASC;SG;POS
+karcsú	štíhlá	karcsú	štíhlý		ADJ;NOM;FEM;SG;POS
+karcsú	štíhlé	karcsú	štíhlý		ADJ;NOM;NEUT;SG;POS
+tanít	vyučování	tanít	vyučování	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+tanít	učení	tanít	učení	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+tanít	výuka	tanít	výuka	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+tanít	výuky	tanít	výuka	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+kétséges	pochybovat	kétséges	pochybovat	ADJ;NOM;SG	V;IPFV;POS;NFIN
+kétséges	pochyby	kétséges	pochyba	ADJ;NOM;SG	N;NOM;FEM;PL;POS
+kétséges	pochybnost	kétséges	pochybnost	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+kétséges	pochybnosti	kétséges	pochybnost	ADJ;NOM;SG	N;NOM;FEM;PL;POS
+dobó	nadhazovač	dobó	nadhazovač		N;ANIM;NOM;MASC;SG;POS
+dobó	džbán	dobó	džbán		N;INAN;NOM;MASC;SG;POS
+technikák	technik	technika	technik	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+átjáró	brána	átjáró	braný	N;NOM;SG	ADJ;POS;V.PTCP;PASS
+leslie	leslie	lesl	leslie		PROPN;ANIM;NOM;MASC;SG;POS
+pusztító	torpédoborec	pusztító	torpédoborec	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+pusztító	ničitel	pusztító	ničitel	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+bolygók	planet	bolygó	planeta	N;NOM;PL	N;GEN;FEM;PL;POS
+pearl	pearl	pearl	pearl		PROPN;INAN;NOM;MASC;SG;POS
+pearl	perlu	pearl	perl		N;ACC;FEM;SG;POS
+pearl	perla	pearl	perla		N;NOM;FEM;SG;POS
+átdolgozott	revidované	átdolgozott	revidovaný		ADJ;NOM;NEUT;SG;POS
+rétegek	vrstev	réteg	vrstva	N;NOM;PL	N;GEN;FEM;PL;POS
+álma	snít	álma	snít	N;NOM;SG	V;POS;NFIN
+álma	dream	álma	dream	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+essen	essen	essen	essen	V;INDF;IMP;SG;3;PRS;FIN;ACT	PROPN;NOM;MASC;SG;POS
+feldolgozó	procesor	feldolgozó	procesor	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+elena	elena	elena	elena		PROPN;NOM;FEM;SG;POS
+konferencián	konference	konferencia	konference	N;ON+ESS;SG	N;NOM;FEM;SG;POS
+konferencián	konferenční	konferencia	konferenční	N;ON+ESS;SG	ADJ;NOM;MASC;SG;POS
+konferencián	konferenci	konferencia	konference	N;ON+ESS;SG	N;ACC;FEM;SG;POS
+telek	pozemky	tél	pozemek	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+sűrűsége	hustotu	sűrűség	hustota	N;NOM;SG	N;ACC;FEM;SG;POS
+par	par	par	par		N;NOM;FEM;SG;POS
+dôme	dôme	dem	dcm		PROPN;INAN;NOM;MASC;SG;POS
+singer	zpěvačka	singer	zpěvačka		N;NOM;FEM;SG;POS
+singer	zpěvák	singer	zpěvák		N;ANIM;NOM;MASC;SG;POS
+lejárt	vypršela	lejárt	vypršet	V;INDF;IND;SG;3;PST;FIN;ACT	V;POS;PST;V.PTCP;ACT
+zambia	zambie	zambia	zambie		PROPN;NOM;FEM;SG;POS
+leon	leona	lesz	leon		N;NOM;FEM;SG;POS
+leon	leone	lesz	leone		PROPN;NOM;MASC;SG;POS
+leon	leon	lesz	leon		PROPN;ANIM;NOM;MASC;SG;POS
+laosz	laosu	laosz	laos	PROPN;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+verset	báseň	vers	báseň	N;ACC;SG	N;NOM;FEM;SG;POS
+casa	casa	casa	casa		PROPN;NOM;FEM;SG;POS
+vezetni	drive	vezet	drive	V;NFIN;ACT	PROPN;INAN;NOM;MASC;SG;POS
+rico	rico	rico	rico		PROPN;ANIM;NOM;MASC;SG;POS
+haydn	haydn	haydn	haydn		N;ANIM;NOM;MASC;SG;POS
+felhasználás	použijte	felhasználás	použít	N;NOM;SG	V;PFV;IMP;PL;2;POS;FIN
+felhasználás	použít	felhasználás	použít	N;NOM;SG	V;POS;NFIN
+felhasználás	spotřebu	felhasználás	spotřeba	N;NOM;SG	N;ACC;FEM;SG;POS
+korong	disk	korong	disk		N;INAN;NOM;MASC;SG;POS
+korong	puk	korong	puk		N;INAN;NOM;MASC;SG;POS
+korong	disk	korong	disk		N;INAN;NOM;MASC;SG;POS
+korong	kotouče	korong	kotouč		N;INAN;NOM;MASC;PL;POS
+hűséges	věrní	hűséges	věrní	ADJ;NOM;SG	ADJ;ANIM;NOM;MASC;PL;POS
+hűséges	věrní	hűséges	věrní	ADJ;NOM;SG	ADJ;ANIM;NOM;MASC;PL;POS
+elektronikai	elektronika	elektronikai	elektronika	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+elektronikai	elektroniky	elektronikai	elektronika	ADJ;NOM;SG	N;NOM;FEM;PL;POS
+venezuelai	venezuele	venezuelai	venezuel	ADJ;NOM;SG	N;DAT;FEM;SG;POS
+venezuelai	venezuely	venezuelai	venezuel	ADJ;NOM;SG	PROPN;NOM;FEM;SG;POS
+paradicsom	rajčata	paradicsom	rajče	N;NOM;SG	N;NOM;NEUT;PL;POS
+paradicsom	rajčata	paradicsom	rajče	N;NOM;SG	N;NOM;NEUT;PL;POS
+fenntartása	zachovávat	fenntartás	zachovávat	N;NOM;SG	V;IPFV;POS;NFIN
+fenntartása	zachovat	fenntartás	zachovat	N;NOM;SG	V;POS;NFIN
+fenntartása	udržovat	fenntartás	udržovat	N;NOM;SG	V;IPFV;POS;NFIN
+fenyegető	hrozivý	fenyegető	hrozivý		ADJ;INAN;NOM;MASC;SG;POS
+fenyegető	hrozivé	fenyegető	hrozivý		ADJ;NOM;NEUT;SG;POS
+fenyegető	vyhrožování	fenyegető	vyhrožování		N;NOM;NEUT;SG;POS
+fenyegető	vyhrožoval	fenyegető	vyhrožovat		V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+fenyegető	ohrožující	fenyegető	ohrožující		ADJ;IPFV;NOM;FEM;SG;POS;PRS;V.PTCP;ACT
+házigazda	hostitele	házigazda	hostitel	N;NOM;SG	N;ANIM;ACC;MASC;PL;POS
+házigazda	hostitelský	házigazda	hostitelský	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+harmadszor	třetí	harmadszor	třetí		ADJ;NOM;MASC;SG
+federico	federico	federico	federico		PROPN;ANIM;NOM;MASC;SG;POS
+növelése	zvýšit	növelés	zvýšit	N;NOM;SG	V;PFV;POS;NFIN
+emily	emily	emily	emil		N;NOM;FEM;SG;POS
+hbo	hbo	hbo	hbo	N;NOM;SG	PROPN;MASC;SG;POS
+szingapúr	singapuru	szingapúr	singapura	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+szingapúr	singapur	szingapúr	singapur	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+eredményezett	vyústila	eredményezett	vyústit	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+giacomo	giacomo	giacomo	giacomo		PROPN;ANIM;NOM;MASC;SG;POS
+oszlopok	pilířů	oszlop	pilíř	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+martina	martina	martina	martina		N;NOM;FEM;SG;POS
+darwin	darwin	darwin	dawwin		PROPN;ANIM;NOM;MASC;SG;POS
+domenico	domenico	domenico	domenico		PROPN;ANIM;NOM;MASC;SG;POS
+küld	odeslání	küld	odeslání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+küld	odesílání	küld	odesílání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+küld	posílám	küld	posílat	V;INDF;IND;SG;3;PRS;FIN;ACT	V;IPFV;IND;SG;1;POS;PRS;FIN;ACT
+küld	zaslání	küld	zaslání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+küld	pošlete	küld	poslat	V;INDF;IND;SG;3;PRS;FIN;ACT	V;PFV;IMP;PL;2;POS;FIN
+küld	pošli	küld	pojít	V;INDF;IND;SG;3;PRS;FIN;ACT	V;IND;SG;1;POS;PRS;FIN;ACT
+doug	doug	doug	doug		PROPN;ANIM;NOM;MASC;SG;POS
+lakók	nájemníky	lakó	nájemník	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+republikánus	republikáni	republikánus	republikán	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+republikánus	republikánské	republikánus	republikánský	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+rosszindulatú	urážlivý	rosszindulatú	urážlivý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+rosszindulatú	škodlivý	rosszindulatú	škodlivý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+rosszindulatú	zhoubný	rosszindulatú	zhoubný	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+rosszindulatú	maligní	rosszindulatú	maligní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+arabok	araby	arab	araba	N;NOM;PL	N;ANIM;INS;MASC;PL;POS
+elemzés	analýzy	elemzés	analýza	N;NOM;SG	N;NOM;FEM;PL;POS
+tehetségét	talenty	tehetség	talent	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+tehetségét	talent	tehetség	talent	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+tehetségét	nadání	tehetség	nadání	N;ACC;SG	N;NOM;NEUT;SG;POS
+veronika	veronika	veronika	veronika		N;NOM;FEM;SG;POS
+nomád	kočovný	nomád	kočovný		ADJ;INAN;NOM;MASC;SG;POS
+nomád	nomád	nomád	nomáda		N;NOM;FEM;SG;POS
+járvány	moru	járvány	mor	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+megfigyelő	pozorovatele	megfigyelő	pozorovatel	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+lille	lille	lille	lille	PROPN;NOM;SG	PROPN;NEUT;SG;POS
+vicces	vtipné	vicces	vtipný		ADJ;NOM;NEUT;PL;POS
+vicces	sranda	vicces	sranda		N;NOM;FEM;SG;POS
+vicces	povedený	vicces	povedený		ADJ;INAN;NOM;MASC;SG;POS
+hónapok	měsíců	hónap	měsíc	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+hónapok	měsících	hónap	měsíc	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+laurent	laurent	laurent	laurent		PROPN;ANIM;NOM;MASC;SG;POS
+alkalmazza	zaměstnávají	alkalmaz	zaměstnávat	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+válás	rozvody	válás	rozvod	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+chan	chan	chan	chan	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+másképpen	jinak	másképpen	jinak		ADV
+halászat	rybolovu	halász	rybolov	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+évkönyv	ročenky	évkönyv	ročenka	N;NOM;SG	N;NOM;FEM;PL;POS
+évkönyv	ročenku	évkönyv	ročenek	N;NOM;SG	N;ACC;FEM;SG;POS
+neill	neill	neill	neill		PROPN;ANIM;NOM;MASC;SG;POS
+lánc	řetězů	lánc	řetěz		N;INAN;GEN;MASC;PL;POS
+lánc	řetězy	lánc	řetěz		N;INAN;NOM;MASC;PL;POS
+lánc	řetězce	lánc	řetězec		N;INAN;NOM;MASC;PL;POS
+lánc	řetězu	lánc	řetěz		N;INAN;GEN;MASC;SG;POS
+lánc	řetízek	lánc	řetízek		N;INAN;NOM;MASC;SG;POS
+lánc	řetěz	lánc	řetěz		N;INAN;NOM;MASC;SG;POS
+lánc	řetězec	lánc	řetězec		N;INAN;NOM;MASC;SG;POS
+oxid	oxidu	oxid	oxid	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+illetékes	kompetentní	illetékes	kompetentní		ADJ;NOM;MASC;SG;POS
+illetékes	příslušný	illetékes	příslušný		ADJ;INAN;NOM;MASC;SG;POS
+illetékes	příslušné	illetékes	příslušný		ADJ;NOM;MASC;PL;POS
+fortuna	fortuna	fortuna	fortuna		N;NOM;FEM;SG;POS
+nielsen	nielsen	niels	nielsen		PROPN;ANIM;NOM;MASC;SG;POS
+leeds	leeds	leeds	leeds	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+vega	vega	vega	vega		PROPN;NOM;MASC;SG;POS
+vega	veze	vega	vézt		V;IND;SG;3;POS;PRS;FIN;ACT
+vega	vegan	vega	vegan		N;INAN;NOM;MASC;SG;POS
+befejeződött	dokončeno	befejeződik	dokončený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+befejeződött	ukončeno	befejeződik	ukončený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+befejeződött	dokončené	befejeződik	dokončený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+befejeződött	dokončen	befejeződik	dokončený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+befejeződött	dokončena	befejeződik	dokončený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+boris	boris	boris	boris		PROPN;ANIM;NOM;MASC;SG;POS
+kliens	klienta	kliens	klient	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+koalíció	koalici	koalíció	koalice	N;NOM;SG	N;ACC;FEM;SG;POS
+tűzoltó	hasič	tűzoltó	hasič	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+tűzoltó	hasič	tűzoltó	hasič	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+szex	sexu	szex	sex	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+nagyobbak	větší	nagy	velký	ADV	ADJ;NOM;CMPR;MASC;SG;POS
+nagyobbak	větších	nagy	velký	ADV	ADJ;GEN;CMPR;MASC;PL;POS
+nagyobbak	větší	nagy	velký	ADV	ADJ;NOM;CMPR;MASC;SG;POS
+utazók	cestovatel	utazó	cestovatel	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+utazók	cestující	utazó	cestující	N;NOM;PL	ADJ;ANIM;IPFV;NOM;MASC;PL;POS;PRS;V.PTCP;ACT
+kőolaj	oleje	kőolaj	olej	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+kőolaj	ropné	kőolaj	ropný	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+kőolaj	ropný	kőolaj	ropný	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+kőolaj	ropná	kőolaj	ropný	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+spin	spin	spin	spin		N;INAN;NOM;MASC;SG;POS
+hasonlóképpen	podobně	hasonlóképpen	podobně		ADV;POS
+hasonlóképpen	obdobně	hasonlóképpen	obdobně		ADV;POS
+krónikus	chronická	krónikus	chronický	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+krónikus	chronickou	krónikus	chronický	N;NOM;SG	ADJ;ACC;FEM;SG;POS
+krónikus	chronické	krónikus	chronický	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+mónika	monica	mónika	monica	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+logikus	logicky	logikus	logicky		ADV;POS
+logikus	logické	logikus	logický		ADJ;NOM;NEUT;SG;POS
+logikus	logický	logikus	logický		ADJ;INAN;NOM;MASC;SG;POS
+logikus	logická	logikus	logický		ADJ;NOM;FEM;SG;POS
+utasítások	návod	utasítás	návod	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+kertészeti	zahradnictví	kertészeti	zahradnictví		N;NOM;NEUT;SG;POS
+kertészeti	zahradnictví	kertészeti	zahradnictví		N;NOM;NEUT;SG;POS
+kertészeti	zahradničení	kertészeti	zahradničení		N;NOM;NEUT;SG;POS
+hasi	břišní	hasi	břišní	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+hasi	břicha	hasi	břicho	N;NOM;SG	N;NOM;NEUT;PL;POS
+jürgen	jürgen	jürgen	jürgen		PROPN;ANIM;NOM;MASC;SG;POS
+vád	nálože	vád	nálož		N;NOM;FEM;PL;POS
+vád	obvinění	vád	obvinění		N;NOM;NEUT;SG;POS
+vád	poplatky	vád	poplatek		N;INAN;NOM;MASC;PL;POS
+vád	obžaloba	vád	obžaloba		N;NOM;FEM;SG;POS
+vád	žaloba	vád	žaloba		N;NOM;FEM;SG;POS
+vád	stíhání	vád	stíhání		N;NOM;NEUT;SG;POS
+vád	obvinění	vád	obvinění		N;NOM;NEUT;SG;POS
+végrehajtása	provádět	végrehajtás	provádět	N;NOM;SG	V;IPFV;POS;NFIN
+ellenálló	rezistentní	ellenálló	rezistentní		ADJ;NOM;MASC;SG;POS
+ellenálló	odolnost	ellenálló	odolnost		N;NOM;FEM;SG;POS
+ellenálló	odboj	ellenálló	odboj		N;INAN;NOM;MASC;SG;POS
+ellenálló	odpor	ellenálló	odpor		N;INAN;NOM;MASC;SG;POS
+ellenálló	rezistence	ellenálló	rezistence		N;NOM;FEM;SG;POS
+lucy	lucy	lucy	luc		PROPN;NOM;FEM;SG;POS
+liter	litrů	liter	l`litr	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+liter	litry	liter	l`litr	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+dylan	dylan	dylan	dylan		N;ANIM;NOM;MASC;SG;POS
+dylan	dylana	dylan	dylan		N;ANIM;ACC;MASC;SG;POS
+derek	dereka	derek	dereka		N;ANIM;ACC;MASC;SG;POS
+derek	derek	derek	derek		PROPN;ANIM;NOM;MASC;SG;POS
+camp	kemp	camp	kemp		N;INAN;NOM;MASC;SG;POS
+camp	camp	camp	camp		N;INAN;NOM;MASC;SG;POS
+camp	tábor	camp	tábor		N;INAN;NOM;MASC;SG;POS
+dublin	dublinu	dublin	dublina	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+dublin	dublin	dublin	dublina	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+kontinensen	kontinentu	kontinens	kontinent	ADJ;FRML;SG	N;INAN;GEN;MASC;SG;POS
+kontinensen	kontinent	kontinens	kontinent	ADJ;FRML;SG	N;INAN;NOM;MASC;SG;POS
+eltávolítása	odstranit	eltávolítás	odstranit	N;NOM;SG	V;PFV;POS;NFIN
+eltávolítása	odebrat	eltávolítás	odebrat	N;NOM;SG	V;POS;NFIN
+nyíló	kvete	nyíló	kvést		V;IND;SG;3;POS;PRS;FIN;ACT
+országszerte	celostátní	országszerte	celostátní	ADV	ADJ;NOM;MASC;SG;POS
+kritikát	kritika	kritika	kritika	N;ACC;SG	N;NOM;FEM;SG;POS
+kritikát	kritiky	kritika	kritika	N;ACC;SG	N;NOM;FEM;PL;POS
+kritikát	kritika	kritika	kritika	N;ACC;SG	N;NOM;FEM;SG;POS
+merőleges	kolmo	merőleges	kolmo		N;DAT;FEM;SG;POS
+nevezetesen	jmenovitě	nevezetesen	jmenovitě		ADV;POS
+sütő	kamna	sütő	kamna	N;NOM;SG	N;NOM;NEUT;PL;POS
+sütő	troubu	sütő	trouba	N;NOM;SG	N;ACC;FEM;SG;POS
+sütő	trouby	sütő	trouba	N;NOM;SG	N;NOM;FEM;PL;POS
+kinga	král	kinga	král		N;ANIM;NOM;MASC;SG;POS
+kinga	king	kinga	king		PROPN;ANIM;NOM;MASC;SG;POS
+kinga	krále	kinga	král		N;ANIM;ACC;MASC;SG;POS
+kinga	králi	kinga	král		N;ANIM;DAT;MASC;SG;POS
+karen	karen	kar	kárný		PROPN;NOM;FEM;SG;POS
+vista	vista	vista	vista		N;NOM;MASC;SG;POS
+tulajdon	majetek	tulajdon	majetek		N;INAN;NOM;MASC;SG;POS
+tulajdon	nemovitost	tulajdon	nemovitost		N;NOM;FEM;SG;POS
+tulajdon	nemovitosti	tulajdon	nemovitost		N;NOM;FEM;PL;POS
+tulajdon	vlastnost	tulajdon	vlastnost		N;NOM;FEM;SG;POS
+hódító	dobyvatel	hódító	dobyvatel		N;ANIM;NOM;MASC;SG;POS
+hódító	dobývání	hódító	dobývání		N;NOM;NEUT;SG;POS
+lábát	nohy	lába	noha	N;ACC;SG	N;NOM;FEM;PL;POS
+lábát	nožičky	lába	nožička	N;ACC;SG	N;NOM;FEM;PL;POS
+lábát	nožky	lába	nožka	N;ACC;SG	N;NOM;FEM;PL;POS
+lábát	noha	lába	noha	N;ACC;SG	N;NOM;FEM;SG;POS
+lábát	etapa	lába	etapa	N;ACC;SG	N;NOM;FEM;SG;POS
+lábát	noze	lába	noha	N;ACC;SG	N;DAT;FEM;SG;POS
+amanda	amanda	amanda	amanda		N;NOM;FEM;SG;POS
+cleveland	clevelandu	cleveland	cleveland		N;INAN;GEN;MASC;SG;POS
+cleveland	cleveland	cleveland	cleveland		N;INAN;NOM;MASC;SG;POS
+folytatás	obnovit	folytatás	obnovit	N;NOM;SG	V;PFV;POS;NFIN
+folytatás	pokračovat	folytatás	pokračovat	N;NOM;SG	V;IPFV;POS;NFIN
+folytatás	pokračujte	folytatás	pokračovat	N;NOM;SG	V;PFV;IMP;PL;2;POS;FIN
+folytatás	pokračoval	folytatás	pokračovat	N;NOM;SG	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+folytatás	pokračovalo	folytatás	pokračovat	N;NOM;SG	V;IPFV;NEUT;SG;POS;PST;V.PTCP;ACT
+folytatás	pokračovala	folytatás	pokračovat	N;NOM;SG	V;IPFV;POS;PST;V.PTCP;ACT
+hittem	věřila	hit	věřit	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+hittem	věřili	hit	věřit	V;DEF;IND;SG;1;PRS;FIN;ACT	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP;ACT
+hittem	věřil	hit	věřit	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+hittem	myšlenka	hit	myšlenka	V;DEF;IND;SG;1;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+hittem	myslel	hit	myslet	V;DEF;IND;SG;1;PRS;FIN;ACT	V;MASC;SG;POS;PST;V.PTCP;ACT
+fasiszta	fašistické	fasiszta	fašistický		ADJ;NOM;NEUT;SG;POS
+célokat	cíle	cél	cíl	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+célokat	branky	cél	branka	N;ACC;PL	N;NOM;FEM;PL;POS
+célokat	góly	cél	gól	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+gregory	gregory	gregory	gregor		PROPN;ANIM;NOM;MASC;SG;POS
+dominikai	dominikánské	dominikai	dominikánský		ADJ;NOM;NEUT;SG;POS
+dominikai	dominika	dominikai	dominika		N;NOM;FEM;SG;POS
+kocka	geek	kocka	geek		N;INAN;NOM;MASC;SG;POS
+kocka	kostku	kocka	kostka		N;ACC;FEM;SG;POS
+kocka	kostka	kocka	kostka		N;NOM;FEM;SG;POS
+kocka	kostky	kocka	kostka		N;NOM;FEM;PL;POS
+örülök	potěšení	örül	potěšení	V;DEF;IND;SG;1;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+örülök	rozkoš	örül	rozkoš	V;DEF;IND;SG;1;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+befejezetlen	nedokončené	befejezetlen	dokončený		ADJ;NOM;NEUT;SG;NEG
+befejezetlen	neúplná	befejezetlen	úplný		ADJ;NOM;FEM;SG;NEG
+befejezetlen	nedokončené	befejezetlen	dokončený		ADJ;NOM;NEUT;SG;NEG
+befejezetlen	neúplné	befejezetlen	úplný		ADJ;NOM;NEUT;SG;NEG
+februárban	února	február	únor	N;IN+ESS;SG	N;INAN;GEN;MASC;SG;POS
+februárban	únor	február	únor	N;IN+ESS;SG	N;INAN;NOM;MASC;SG;POS
+detroit	detroitu	detroit	detroit		PROPN;INAN;GEN;MASC;SG;POS
+detroit	detroit	detroit	detroit		PROPN;INAN;NOM;MASC;SG;POS
+intézkedések	opatření	intézkedés	opatření	N;NOM;PL	N;NOM;NEUT;SG;POS
+intézkedések	akce	intézkedés	akce	N;NOM;PL	N;NOM;FEM;SG;POS
+konfliktusok	konfliktů	konfliktus	konflikt	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+konfliktusok	rozpor	konfliktus	rozpor	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+konfliktusok	střet	konfliktus	střet	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+konfliktusok	konfliktu	konfliktus	konflikt	N;NOM;PL	N;INAN;GEN;MASC;SG;POS
+konfliktusok	konflikt	konfliktus	konflikt	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+adriai	jadranu	adriai	jadran	ADJ;NOM;SG	N;INAN;DAT;MASC;SG;POS
+eindhoven	eindhoven	eindhoven	eindhovna	PROPN;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+fehérje	proteiny	fehér	protein	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+fehérje	bílkoviny	fehér	bílkovina	N;NOM;SG	N;NOM;FEM;PL;POS
+fehérje	bílkovin	fehér	bílkovina	N;NOM;SG	N;GEN;FEM;PL;POS
+fehérje	proteinů	fehér	protein	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+fehérje	bílkovin	fehér	bílkovina	N;NOM;SG	N;GEN;FEM;PL;POS
+fehérje	proteiny	fehér	protein	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+fehérje	bílkoviny	fehér	bílkovina	N;NOM;SG	N;NOM;FEM;PL;POS
+eltérések	rozdílů	eltérés	rozdíl	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+vitákat	debaty	vita	debata	N;ACC;PL	N;NOM;FEM;PL;POS
+vitákat	rozpravy	vita	rozprava	N;ACC;PL	N;NOM;FEM;PL;POS
+ókor	starověku	ókor	starověk	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+haut	haut	haut	haut		PROPN;INAN;NOM;MASC;SG;POS
+részecske	částečky	részecske	částečka	N;NOM;SG	N;NOM;FEM;PL;POS
+részecske	částic	részecske	částice	N;NOM;SG	N;GEN;FEM;PL;POS
+szabályozó	regulátor	szabályozó	regulátor	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+molekula	molekulární	molekula	molekulární	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+molekula	molekuly	molekula	molekula	N;NOM;SG	N;NOM;FEM;PL;POS
+elegáns	elegantně	elegáns	elegantně	ADJ;NOM;SG	ADV;POS
+elegáns	šik	elegáns	šik	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+cáceres	cáceres	cáceres	cáceres		PROPN;INAN;NOM;MASC;SG;POS
+vegas	vegas	vegas	vegas		PROPN;NOM;MASC;SG;POS
+donna	donna	donna	donna		N;NOM;FEM;SG;POS
+abd	abd	abd	abd		PROPN;ANIM;NOM;MASC;SG;POS
+bekezdés	paragraf	bekezdés	paragraf		N;INAN;NOM;MASC;SG;POS
+bekezdés	odstavec	bekezdés	odstavec		N;INAN;NOM;MASC;SG;POS
+bekezdés	odstavce	bekezdés	odstavec		N;INAN;NOM;MASC;PL;POS
+bekezdés	odstavce	bekezdés	odstavec		N;INAN;NOM;MASC;PL;POS
+bekezdés	odstavců	bekezdés	odstavec		N;INAN;GEN;MASC;PL;POS
+nyilas	střelec	nyilas	střelec		N;ANIM;NOM;MASC;SG;POS
+természetfeletti	nadpřirozené	természetfelett	nadpřirozený	ADJ;NOM;SG	ADJ;NOM;NEUT;PL;POS
+rocky	rockyho	rocky	rocky		N;ANIM;GEN;MASC;SG;POS
+rocky	rocky	rocky	rock		N;NOM;MASC;PL;POS
+intelligencia	inteligenci	intelligencia	inteligence	N;NOM;SG	N;ACC;FEM;SG;POS
+megfogalmazott	formulovány	megfogalmazott	formulovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;PL;POS;V.PTCP;PASS
+fan	fanynka	fan	fanynka		N;NOM;FEM;SG;POS
+fan	fan	fan	fan		PROPN;NOM;MASC;SG;POS
+fan	větrák	fan	větrák		N;INAN;NOM;MASC;SG;POS
+fan	fanoušek	fan	fanoušek		N;ANIM;NOM;MASC;SG;POS
+fan	fanda	fan	fanda		N;ANIM;NOM;MASC;SG;POS
+kellően	dostatečně	kellő	dostatečně	ADJ;FRML;SG	ADV;POS
+fogak	zubů	fog	zub	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+vizsgálati	otestovat	vizsgálati	otestovat	N;NOM;SG	V;PFV;POS;NFIN
+vizsgálati	zkoušky	vizsgálati	zkouška	N;NOM;SG	N;NOM;FEM;PL;POS
+rákok	korýšů	rák	korýš	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+vaszilij	vasilij	vaszilij	vasilij		N;ANIM;NOM;MASC;SG;POS
+fertőző	infekční	fertőző	infekční	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+fertőző	nakažlivá	fertőző	nakažlivý	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+fertőző	nakažlivé	fertőző	nakažlivý	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+fertőző	nakažlivá	fertőző	nakažlivý	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+képregények	komiks	képregény	komiks	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+fertőzött	nakažený	fertőz	nakažený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS
+fertőzött	infikované	fertőz	infikovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+fertőzött	nakažení	fertőz	nakažení	V;INDF;IND;SG;3;PST;FIN;ACT	N;NOM;NEUT;SG;POS
+fertőzött	nakažených	fertőz	nakažený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;ANIM;GEN;MASC;PL;POS
+fertőzött	infikovaných	fertőz	infikovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;GEN;MASC;PL;POS
+fertőzött	kontaminované	fertőz	kontaminovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;PL;POS
+mondatok	frází	mondat	fráze	N;NOM;PL	N;INS;FEM;SG;POS
+mondatok	vět	mondat	věta	N;NOM;PL	N;GEN;FEM;PL;POS
+aligha	sotva	aligha	sotva		ADV
+aligha	stěží	aligha	stěží		ADV
+naruto	naruto	naruto	naruto		N;NOM;MASC;SG;POS
+brescia	brescia	brescia	brescio		PROPN;NOM;FEM;SG;POS
+baltimore	baltimoru	baltimore	baltimor	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+baltimore	baltimore	baltimore	baltimore	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+ming	ming	ming	ming		PROPN;ANIM;NOM;MASC;SG;POS
+kertek	gardens	ker	gardens	N;NOM;PL	PROPN;NOM;MASC;SG;POS
+tizenhét	seventeen	tizenh	seventeen		PROPN;MASC;SG;POS
+tizenhét	sedmnáct	tizenh	sedmnáct		NUM;NOM;SG
+zavart	zmatky	zavart	zmatek		N;INAN;NOM;MASC;PL;POS
+zavart	zmatení	zavart	zmatení		N;NOM;NEUT;SG;POS
+zavart	zmatek	zavart	zmatek		N;INAN;NOM;MASC;SG;POS
+zavart	narušený	zavart	narušený		ADJ;INAN;NOM;MASC;SG;POS
+zavart	zmatená	zavart	zmatený		ADJ;NOM;FEM;SG;POS
+zavart	zmatený	zavart	zmatený		ADJ;ANIM;NOM;MASC;SG;POS
+zavart	zmatení	zavart	zmatení		N;NOM;NEUT;SG;POS
+molekulák	molekul	molekula	molekula	N;NOM;PL	N;GEN;FEM;PL;POS
+jin	jine	jin	jine		ADJ;NOM;MASC;SG;POS
+jin	jin	jin	jin		PROPN;ANIM;NOM;MASC;SG;POS
+jin	jina	jin	jin		N;NOM;FEM;SG;POS
+technológiák	technologie	technológia	technologie	N;NOM;PL	N;NOM;FEM;SG;POS
+iratok	dokumentů	irat	dokument	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+jesse	jesseho	jesse	jesse		N;ANIM;ACC;MASC;SG;POS
+jesse	jesse	jesse	jesse		PROPN;ANIM;NOM;MASC;SG;POS
+szebb	hezčí	szebb	šezčit		ADJ;NOM;MASC;SG;POS
+szebb	krásnější	szebb	krásný		ADJ;NOM;CMPR;MASC;SG;POS
+szebb	příjemnější	szebb	příjemný		ADJ;NOM;CMPR;MASC;SG;POS
+szebb	milejší	szebb	milejší		ADJ;NOM;CMPR;MASC;SG;POS
+szebb	hezčí	szebb	šezčit		ADJ;NOM;MASC;SG;POS
+évtizedben	desetiletí	évtized	desetiletí	N;IN+ESS;SG	N;NOM;NEUT;PL;POS
+évtizedben	dekády	évtized	dekáda	N;IN+ESS;SG	N;NOM;FEM;PL;POS
+illő	montáž	illő	montáž		N;NOM;FEM;SG;POS
+politikailag	politicky	politikai	politicky		ADV;POS
+platón	platón	platón	platón		N;ANIM;NOM;MASC;SG;POS
+csatolt	připojené	csatolt	připojený		ADJ;NOM;MASC;PL;POS
+csatolt	připojeno	csatolt	připojený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+steel	ocelový	steel	ocelový		ADJ;INAN;NOM;MASC;SG;POS
+steel	ocel	steel	ocel		N;NOM;FEM;SG;POS
+kanári	kanárských	kanári	kanárský		ADJ;GEN;MASC;PL;POS
+mason	masona	mason	mason		N;ANIM;ACC;MASC;SG;POS
+mason	mason	mason	mason		PROPN;ANIM;NOM;MASC;SG;POS
+case	case	case	casa		PROPN;NOM;MASC;SG;POS
+case	případě	case	případ		N;INAN;DAT;MASC;SG;POS
+case	pouzdro	case	pouzdro		N;NOM;NEUT;SG;POS
+case	případ	case	případ		N;INAN;NOM;MASC;SG;POS
+edwin	edwin	edwin	edwin		PROPN;ANIM;NOM;MASC;SG;POS
+méhek	včel	méhek	včel	N;NOM;PL	N;ANIM;GEN;MASC;PL;POS
+méhek	včelí	méhek	včele	N;NOM;PL	ADJ;NOM;MASC;SG;POS
+eklektikus	eklektický	eklektikus	eklektický	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+viva	viva	viva	viva		PROPN;NOM;FEM;SG;POS
+viva	vivo	viva	vivo		PROPN;NOM;MASC;SG;POS
+aux	aux	aux	aux		PROPN;INAN;NOM;MASC;SG;POS
+jeremy	jeremy	jeremy	jerem		PROPN;ANIM;NOM;MASC;SG;POS
+jeremy	jeremyho	jeremy	jeremy		N;ANIM;ACC;MASC;SG;POS
+tárolt	uloženy	tárolt	uložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;PL;POS;V.PTCP;PASS
+tárolt	uložený	tárolt	uložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+tárolt	uložené	tárolt	uložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+tárolt	uložen	tárolt	uložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+tárolt	uloženo	tárolt	uložený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+termés	plodiny	termés	plodina	N;NOM;SG	N;NOM;FEM;PL;POS
+termés	sklizně	termés	sklizeň	N;NOM;SG	N;NOM;FEM;PL;POS
+termés	plodin	termés	plodina	N;NOM;SG	N;GEN;FEM;PL;POS
+termés	plodiny	termés	plodina	N;NOM;SG	N;NOM;FEM;PL;POS
+kertben	zahrady	kert	zahrada	N;IN+ESS;SG	N;NOM;FEM;PL;POS
+kertben	zahrada	kert	zahrada	N;IN+ESS;SG	N;NOM;FEM;SG;POS
+kertben	zahradní	kert	zahradní	N;IN+ESS;SG	ADJ;NOM;MASC;SG;POS
+akkumulátorok	baterie	akkumulátor	baterie	N;NOM;PL	N;NOM;FEM;SG;POS
+jelzés	signalizační	jelzés	signalizační	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+kiszolgáló	serveru	kiszolgáló	server		N;INAN;GEN;MASC;SG;POS
+kiszolgáló	server	kiszolgáló	server		N;INAN;NOM;MASC;SG;POS
+líbiai	libyjské	líbiai	libyjský	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+kecske	kozí	kecske	kozit		ADJ;NOM;MASC;SG;POS
+kecske	koza	kecske	koza		N;NOM;FEM;SG;POS
+kecske	kozel	kecske	kozel		N;ANIM;NOM;MASC;SG;POS
+kecske	kozy	kecske	koza		N;NOM;FEM;PL;POS
+hívők	věřící	hívő	věřící	N;NOM;PL	ADJ;ANIM;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+antwerpen	antverpách	antperp	antverpa	N;NOM;SG	N;DAT;FEM;PL;POS
+napoli	neapol	napoli	neapol	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+napoli	napoli	napoli	napole	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+gondok	problémů	gond	problém	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+huber	huber	huber	huber		PROPN;ANIM;NOM;MASC;SG;POS
+etikai	etické	etikai	etický		ADJ;NOM;NEUT;SG;POS
+etikai	etický	etikai	etický		ADJ;INAN;NOM;MASC;SG;POS
+etikai	etiku	etikai	etika		N;ACC;FEM;SG;POS
+etikai	etika	etikai	etika		N;NOM;FEM;SG;POS
+etikai	etický	etikai	etický		ADJ;INAN;NOM;MASC;SG;POS
+mccartney	mccartney	mccartney	mccartney		PROPN;ANIM;NOM;MASC;SG;POS
+sötétség	temnoty	sötétség	temnota	N;NOM;SG	N;NOM;FEM;PL;POS
+sötétség	temnotu	sötétség	temnota	N;NOM;SG	N;ACC;FEM;SG;POS
+foster	fosterová	foster	fosterový	PROPN;NOM;SG	ADJ;NOM;FEM;SG;POS
+foster	foster	foster	foster	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+búr	búrské	búr	búrský		ADJ;NOM;NEUT;SG;POS
+enrique	enrique	enrió	enrique		PROPN;ANIM;NOM;MASC;SG;POS
+dom	dome	dom	dome		PROPN;INAN;NOM;MASC;SG;POS
+dom	dom	dom	dom		PROPN;INAN;NOM;MASC;SG;POS
+duncan	duncana	duncan	duncan		N;ANIM;ACC;MASC;SG;POS
+duncan	duncan	duncan	duncan		PROPN;ANIM;NOM;MASC;SG;POS
+amphibia	amphibia	amphibia	amphibia	PROPN;NOM;SG	N;NOM;FEM;SG;POS
+hansen	hansen	hans	hansený		PROPN;ANIM;NOM;MASC;SG;POS
+guido	guido	guido	guido		N;MASC;POS
+nyújtó	poskytující	nyújtó	poskytující		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+ügyes	chytré	ügyes	chytrý		ADJ;NOM;NEUT;SG;POS
+ügyes	chytrý	ügyes	chytrý		ADJ;ANIM;NOM;MASC;SG;POS
+szegények	chudák	szegény	chudák	N;NOM;PL	N;ANIM;NOM;MASC;SG;POS
+berkeley	berkeley	berkeley	berkeley		PROPN;NOM;FEM;SG;POS
+végzetes	smrtelná	végzetes	smrtelný		ADJ;NOM;FEM;SG;POS
+végzetes	smrtelný	végzetes	smrtelný		ADJ;INAN;NOM;MASC;SG;POS
+végzetes	smrtelné	végzetes	smrtelný		ADJ;NOM;NEUT;SG;POS
+végzetes	fatální	végzetes	fatální		ADJ;NOM;MASC;SG;POS
+email	email	email	email		N;INAN;NOM;MASC;SG;POS
+megerősítve	potvrzené	megerősítve	potvrzený	ADV;V.CVB	ADJ;NOM;NEUT;PL;POS
+megerősítve	potvrzen	megerősítve	potvrzený	ADV;V.CVB	ADJ;MASC;SG;POS;V.PTCP;PASS
+megerősítve	potvrzena	megerősítve	potvrzený	ADV;V.CVB	ADJ;POS;V.PTCP;PASS
+megerősítve	potvrzeno	megerősítve	potvrzený	ADV;V.CVB	ADJ;NEUT;SG;POS;V.PTCP;PASS
+megerősítve	potvrzuji	megerősítve	potvrzovat	ADV;V.CVB	V;IPFV;IND;SG;1;POS;PRS;FIN;ACT
+megerősítve	potvrzující	megerősítve	potvrzující	ADV;V.CVB	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+megerősítve	potvrzuji	megerősítve	potvrzovat	ADV;V.CVB	V;IPFV;IND;SG;1;POS;PRS;FIN;ACT
+megerősítve	potvrzení	megerősítve	potvrzení	ADV;V.CVB	N;NOM;NEUT;SG;POS
+megerősítve	potvrdit	megerősítve	potvrdit	ADV;V.CVB	V;PFV;POS;NFIN
+bűncselekmények	zločin	bűncselekmény	zločin	N;NOM;PL	N;INAN;NOM;MASC;SG;POS
+bűncselekmények	kriminalita	bűncselekmény	kriminalita	N;NOM;PL	N;NOM;FEM;SG;POS
+térképek	map	térkép	mapa	N;NOM;PL	N;GEN;FEM;PL;POS
+zeusz	die	zeusz	die		ADJ;POS
+zeusz	zeus	zeusz	zeus		N;ANIM;NOM;MASC;SG;POS
+zeusz	dia	zeusz	dia		PROPN;ANIM;NOM;MASC;SG;POS
+curtis	curtis	curtis	curtis		PROPN;ANIM;NOM;MASC;SG;POS
+lőszer	střeliva	lőszer	střelivo	N;NOM;SG	N;NOM;NEUT;PL;POS
+lőszer	munici	lőszer	munice	N;NOM;SG	N;ACC;FEM;SG;POS
+lőszer	munici	lőszer	munice	N;NOM;SG	N;ACC;FEM;SG;POS
+phillips	phillips	phillips	phillips		PROPN;ANIM;NOM;MASC;SG;POS
+jelentések	vykazování	jelentés	vykazování	N;NOM;PL	N;NOM;NEUT;SG;POS
+jelentések	hlášení	jelentés	hlášení	N;NOM;PL	N;NOM;NEUT;SG;POS
+jelentések	nahlášení	jelentés	nahlášení	N;NOM;PL	N;NOM;NEUT;SG;POS
+jelentések	hlášení	jelentés	hlášení	N;NOM;PL	N;NOM;NEUT;SG;POS
+megszálló	okupační	megszálló	okupační		ADJ;NOM;MASC;SG;POS
+rajzolt	drew	rajzolt	drew	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN;ANIM;NOM;MASC;SG;POS
+megmutatta	ukázala	meg+mutat	ukázat	V;DEF;IND;SG;3;PST;FIN;ACT	V;POS;PST;V.PTCP;ACT
+elkészítése	přípravu	elkészítés	příprava	N;NOM;SG	N;ACC;FEM;SG;POS
+főnix	phoenixu	főnix	phoenix	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+főnix	phoenix	főnix	phoenix	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+grey	šedá	grey	šedý		ADJ;NOM;FEM;SG;POS
+grey	grey	grey	grey		PROPN;ANIM;NOM;MASC;SG;POS
+grey	šedé	grey	šedý		ADJ;NOM;NEUT;SG;POS
+grey	greyová	grey	greyový		ADJ;NOM;FEM;SG;POS
+grey	šedý	grey	šedý		ADJ;INAN;NOM;MASC;SG;POS
+grey	šedivý	grey	šedivý		ADJ;ANIM;NOM;MASC;SG;POS
+michelangelo	michelangelo	michelangelo	michelangel		N;ANIM;NOM;MASC;SG;POS
+forever	navždy	forever	navždy		ADV
+forever	forever	forever	forever		N;NOM;MASC;SG;POS
+forever	navěky	forever	navěky		N;INAN;NOM;MASC;PL;POS
+liu	liou	liu	lia		PROPN;ANIM;NOM;MASC;SG;POS
+liu	liu	liu	lium		PROPN;ANIM;NOM;MASC;SG;POS
+tisztek	důstojníky	tiszt	důstojník	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+legkevésbé	nejméně	kevésbé	málo		ADV;RL;POS
+osztva	rozdělený	osztva	rozdělený	ADV;V.CVB	ADJ;INAN;NOM;MASC;SG;POS
+osztva	rozdělené	osztva	rozdělený	ADV;V.CVB	ADJ;NOM;NEUT;SG;POS
+osztva	rozdělená	osztva	rozdělený	ADV;V.CVB	ADJ;NOM;FEM;SG;POS
+osztva	rozdělena	osztva	rozdělený	ADV;V.CVB	ADJ;POS;V.PTCP;PASS
+érme	mince	érer	mince	N;NOM;SG	N;NOM;FEM;PL;POS
+érme	mincí	érer	mince	N;NOM;SG	N;INS;FEM;SG;POS
+érme	minci	érer	mince	N;NOM;SG	N;ACC;FEM;SG;POS
+érme	mince	érer	mince	N;NOM;SG	N;NOM;FEM;PL;POS
+antonius	antonius	antonius	antonius		N;ANIM;NOM;MASC;SG;POS
+ötvenes	padesátky	ötvenes	padesátka	N;NOM;SG	N;NOM;FEM;PL;POS
+protokoll	protokolu	protokoll	protokol	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+sajnálom	promiňte	sajnál	prominout	V;DEF;IND;SG;1;PRS;FIN;ACT	V;PFV;IMP;PL;2;POS;FIN
+sajnálom	promiň	sajnál	promiň	V;DEF;IND;SG;1;PRS;FIN;ACT	INTJ
+asztalos	tesař	asztalos	tesař		N;ANIM;NOM;MASC;SG;POS
+asztalos	tesařství	asztalos	tesařství		N;NOM;NEUT;SG;POS
+mérési	měření	mérési	měření	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+névleges	hodnocen	névleges	hodnocený	N;NOM;SG	ADJ;MASC;SG;POS;V.PTCP;PASS
+névleges	jmenovité	névleges	jmenovitý	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+névleges	jmenovitý	névleges	jmenovitý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+névleges	nominální	névleges	nominální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+szabályzat	pravidla	szabályzat	pravidlo	N;NOM;SG	N;NOM;NEUT;PL;POS
+szabályzat	předpisy	szabályzat	předpis	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+fájlok	souborů	fájl	soubor	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+ardennes	ardennes	ardennes	ardennes		PROPN;INAN;NOM;MASC;SG;POS
+harag	hněvu	harag	hněv	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+morrison	morrison	morrison	morrison		PROPN;ANIM;NOM;MASC;SG;POS
+hullámok	vln	hullám	vlna	N;NOM;PL	N;GEN;FEM;PL;POS
+jogszabály	právo	jogszabály	právo		N;NOM;NEUT;SG;POS
+jogszabály	zákon	jogszabály	zákon		N;INAN;NOM;MASC;SG;POS
+jogszabály	law	jogszabály	law		PROPN;ANIM;NOM;MASC;SG;POS
+jogszabály	legislativa	jogszabály	legislativa		N;NOM;FEM;SG;POS
+mérték	sazba	mér	sazba		N;NOM;FEM;SG;POS
+mérték	míra	mér	míra		N;NOM;FEM;SG;POS
+mérték	měřeno	mér	měřený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+mérték	měřené	mér	měřený		ADJ;NOM;NEUT;SG;POS
+mérték	naměřené	mér	naměřený		ADJ;NOM;MASC;PL;POS
+mérték	měřená	mér	měřený		ADJ;NOM;FEM;SG;POS
+mérték	opatření	mér	opatření		N;NOM;NEUT;SG;POS
+mérték	změřit	mér	změřit		V;PFV;POS;NFIN
+romlott	zhoršila	romlik	zhoršit	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+romlott	zkažená	romlik	zkažený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+primitív	primitivní	primitív	primitivní		ADJ;NOM;MASC;SG;POS
+elvek	zásadami	elvek	zásada	N;NOM;PL	N;INS;FEM;PL;POS
+tengerpart	pláži	tengerpart	pláž	N;NOM;SG	N;DAT;FEM;SG;POS
+tengerpart	pláže	tengerpart	pláž	N;NOM;SG	N;NOM;FEM;PL;POS
+tengerpart	pláže	tengerpart	pláž	N;NOM;SG	N;NOM;FEM;PL;POS
+tengerpart	pláží	tengerpart	pláž	N;NOM;SG	N;INS;FEM;SG;POS
+műszer	přístroje	műszer	přístroj	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+villeneuve	villeneuve	villeneuv	villeneuve	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+üresen	prázdné	üres	prázdný	ADJ;FRML;SG	ADJ;NOM;NEUT;SG;POS
+üresen	prázdná	üres	prázdný	ADJ;FRML;SG	ADJ;NOM;FEM;SG;POS
+üresen	prázdno	üres	prázdno	ADJ;FRML;SG	N;NOM;NEUT;SG;POS
+üresen	prázdný	üres	prázdný	ADJ;FRML;SG	ADJ;INAN;NOM;MASC;SG;POS
+üresen	vyprázdnit	üres	vyprázdnit	ADJ;FRML;SG	V;PFV;POS;NFIN
+üresen	prázdné	üres	prázdný	ADJ;FRML;SG	ADJ;NOM;NEUT;SG;POS
+üresen	prázdný	üres	prázdný	ADJ;FRML;SG	ADJ;INAN;NOM;MASC;SG;POS
+üresen	prázdno	üres	prázdno	ADJ;FRML;SG	N;NOM;NEUT;SG;POS
+izom	svalů	izom	sval	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+izom	svaly	izom	sval	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+izom	svaly	izom	sval	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+bizonyított	prokázané	bizonyított	prokázaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+bizonyított	prokázána	bizonyított	prokázaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+bizonyított	prokázáno	bizonyított	prokázaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+képzési	trénink	képzési	trénink	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+képzési	výcvik	képzési	výcvik	ADJ;NOM;SG	N;INAN;NOM;MASC;SG;POS
+képzési	školení	képzési	školení	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+ismételt	opakované	ismételt	opakovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+párbeszéd	dialogu	párbeszéd	dialog	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+párbeszéd	dialogy	párbeszéd	dialog	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+veszett	vztekliny	veszett	vzteklina	V;INDF;IND;SG;3;PST;FIN;ACT	N;NOM;FEM;PL;POS
+veszett	vzteklinu	veszett	vzteklina	V;INDF;IND;SG;3;PST;FIN;ACT	N;ACC;FEM;SG;POS
+líbia	libyjské	líb	libyjský	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+líbia	libye	líb	libye	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+líbia	libyi	líb	libye	N;NOM;SG	N;DAT;FEM;SG;POS
+hills	hills	hills	hills		PROPN;INAN;NOM;MASC;SG;POS
+hills	kopců	hills	kopec		N;INAN;GEN;MASC;PL;POS
+hills	kopce	hills	kopec		N;INAN;NOM;MASC;PL;POS
+fedezett	pokryté	fedezett	pokrytý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+fedezett	krytý	fedezett	krytý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+fedezett	kryté	fedezett	krytý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+fedezett	pokrytý	fedezett	pokrytý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+fedezett	zajištěné	fedezett	zajištěný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+gran	gran	gran	gran		PROPN;NOM;MASC;SG;POS
+zsoldos	žoldák	zsoldos	žoldák		N;ANIM;NOM;MASC;SG;POS
+rossini	rossini	rossini	rossine		N;INAN;NOM;MASC;SG;POS
+kiegészítés	doplňují	kiegészítés	doplňovat	N;NOM;SG	V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+kiegészítés	doplňovat	kiegészítés	doplňovat	N;NOM;SG	V;IPFV;POS;NFIN
+kiegészítés	doplnit	kiegészítés	doplnit	N;NOM;SG	V;PFV;POS;NFIN
+kiegészítés	doplňková	kiegészítés	doplňkový	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+égő	hořák	égő	hořák		N;INAN;NOM;MASC;SG;POS
+égő	pálení	égő	pálení		N;NOM;NEUT;SG;POS
+égő	hořící	égő	hořící		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+égő	hoří	égő	hořet		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+címeket	názvy	cím	název	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+címeket	tituly	cím	titul	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+amsterdam	amsterdam	amsterdam	amsterdam	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+amsterdam	amsterdamu	amsterdam	amsterdam	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+nigel	nigel	nigel	nigle		PROPN;ANIM;NOM;MASC;SG;POS
+közvetett	nepřímý	közvetett	přímý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;NEG
+közvetett	nepřímé	közvetett	přímý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;NEG
+közvetett	nepřímé	közvetett	přímý	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;NEG
+büszke	pyšný	büszke	pyšný		ADJ;ANIM;NOM;MASC;SG;POS
+büszke	hrdá	büszke	hrdý		ADJ;NOM;FEM;SG;POS
+büszke	pyšná	büszke	pyšný		ADJ;NOM;FEM;SG;POS
+büszke	hrdí	büszke	hrdý		ADJ;ANIM;NOM;MASC;PL;POS
+büszke	hrdý	büszke	hrdý		ADJ;ANIM;NOM;MASC;SG;POS
+mia	mia	mia	miu		PROPN;NOM;FEM;SG;POS
+mia	miu	mia	miue		PROPN;FEM;SG;POS
+mia	mio	mia	mio		N;NOM;MASC;SG;POS
+orleans	orleans	orleans	orleans	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+dinoszaurusz	dinosauři	dinoszaurusz	dinosaur	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+dinoszaurusz	dinosaura	dinoszaurusz	dinosaur	N;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+eredményezte	vyústila	eredményez	vyústit	V;DEF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+xxx	xxx	xxx	xxx	N;NOM;SG	PROPN;MASC;SG;POS
+kambodzsa	kambodži	kambodzs	kambodž		N;DAT;FEM;SG;POS
+yonne	yonne	yonne	Yonne	PROPN;NOM;SG	PROPN;NOM;MASC;SG;POS
+forgács	hobliny	forgács	hoblina		N;NOM;FEM;PL;POS
+kifejtett	vyjádřené	kifejtett	vyjádřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;PL;POS
+kifejtett	vyjádřila	kifejtett	vyjádřit	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+kifejtett	vyjádřeno	kifejtett	vyjádřený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+bristol	bristol	bristol	bristol		N;INAN;NOM;MASC;SG;POS
+gyümölcsök	ovoce	gyümölcs	ovoce	N;NOM;PL	N;NOM;NEUT;SG;POS
+gyümölcsök	ovoce	gyümölcs	ovoce	N;NOM;PL	N;NOM;NEUT;SG;POS
+gyárban	továrně	gyár	továrna	N;IN+ESS;SG	N;DAT;FEM;SG;POS
+gyárban	továrna	gyár	továrna	N;IN+ESS;SG	N;NOM;FEM;SG;POS
+bretagne	bretagne	bretag	bretagnout		PROPN;NOM;FEM;SG;POS
+moss	mech	moss	mech		N;INAN;NOM;MASC;SG;POS
+moss	moss	moss	moss		PROPN;ANIM;NOM;MASC;SG;POS
+énekelni	zpívání	énekel	zpívání	V;NFIN;ACT	N;NOM;NEUT;SG;POS
+énekelni	zpěv	énekel	zpěv	V;NFIN;ACT	N;INAN;NOM;MASC;SG;POS
+anders	anders	anders	anders	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+téglalap	obdélník	téglalap	obdélník		N;INAN;NOM;MASC;SG;POS
+téglalap	obdélníkové	téglalap	obdélníkový		ADJ;NOM;MASC;PL;POS
+líra	lir	líra	lira	N;NOM;SG	N;GEN;FEM;PL;POS
+líra	lir	líra	lira	N;NOM;SG	N;GEN;FEM;PL;POS
+feleségek	manželek	fel+eség	manželka	N;NOM;PL	N;GEN;FEM;PL;POS
+olvasott	čtěte	olvasot	číst	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;IMP;PL;2;POS;FIN
+bolton	bolton	bolton	bolton		N;INAN;NOM;MASC;SG;POS
+milton	milton	milton	milton		PROPN;ANIM;NOM;MASC;SG;POS
+napokon	dní	nap	den	N;ON+ESS;PL	N;INAN;GEN;MASC;PL;POS
+napokon	dnů	nap	den	N;ON+ESS;PL	N;INAN;GEN;MASC;PL;POS
+napokon	dny	nap	den	N;ON+ESS;PL	N;INAN;NOM;MASC;PL;POS
+nagyok	velký	nagy	velký	N;NOM;PL	ADJ;INAN;NOM;MASC;SG;POS
+nagyok	velké	nagy	velký	N;NOM;PL	ADJ;NOM;MASC;PL;POS
+nagyok	velká	nagy	velký	N;NOM;PL	ADJ;NOM;FEM;SG;POS
+nagyok	velký	nagy	velký	N;NOM;PL	ADJ;INAN;NOM;MASC;SG;POS
+nagyok	velké	nagy	velký	N;NOM;PL	ADJ;NOM;MASC;PL;POS
+nagyok	velká	nagy	velký	N;NOM;PL	ADJ;NOM;FEM;SG;POS
+nagyok	big	nagy	big	N;NOM;PL	ADJ;POS
+zimbabwe	zimbabwe	zimbabwe	zimbabwe		PROPN;NOM;NEUT;SG;POS
+csupasz	holý	csupasz	holý		ADJ;ANIM;NOM;MASC;SG;POS
+csupasz	holou	csupasz	holý		ADJ;ACC;FEM;SG;POS
+csupasz	holé	csupasz	holý		ADJ;NOM;NEUT;SG;POS
+csupasz	holá	csupasz	holý		ADJ;NOM;FEM;SG;POS
+garcia	garcia	garcia	garcia		PROPN;ANIM;NOM;MASC;SG;POS
+repül	moucha	repül	moucha	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+repül	leť	repül	leť	V;INDF;IND;SG;3;PRS;FIN;ACT	INTJ
+repül	létání	repül	létání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+repül	létající	repül	létající	V;INDF;IND;SG;3;PRS;FIN;ACT	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+repül	lítání	repül	lítání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+sullivan	sullivan	sullivan	sullivan		PROPN;ANIM;NOM;MASC;SG;POS
+sullivan	sullivanová	sullivan	sullivanový		ADJ;NOM;FEM;SG;POS
+airways	airways	airways	airways	N;NOM;SG	PROPN;INAN;MASC;SG;POS
+érzelmek	pocitů	érzelem	pocit	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+galaxy	galaxií	galaxy	galaxie		N;INS;FEM;SG;POS
+galaxy	galaxie	galaxy	galaxie		N;NOM;FEM;SG;POS
+galaxy	galaxii	galaxy	galaxie		N;ACC;FEM;SG;POS
+galaxy	galaxy	galaxy	galax		N;INAN;NOM;MASC;PL;POS
+jung	jung	jung	jung		PROPN;ANIM;NOM;MASC;SG;POS
+dallam	melody	dallam	meloda	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+dallam	melodie	dallam	melodie	N;NOM;SG	N;NOM;FEM;PL;POS
+dallam	melodie	dallam	melodie	N;NOM;SG	N;NOM;FEM;PL;POS
+dallam	melodii	dallam	melodie	N;NOM;SG	N;ACC;FEM;SG;POS
+helyzetű	znevýhodněných	helyzetű	znevýhodněný	ADJ;NOM;SG	ADJ;GEN;MASC;PL;POS
+helyzetű	znevýhodněné	helyzetű	znevýhodněný	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+kívánok	přání	kíván	přání	V;INDF;IND;SG;1;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+kívánok	přejí	kíván	přát	V;INDF;IND;SG;1;PRS;FIN;ACT	V;IND;PL;3;POS;PRS;FIN;ACT
+kívánok	přejeme	kíván	přát	V;INDF;IND;SG;1;PRS;FIN;ACT	V;IND;PL;1;POS;PRS;FIN;ACT
+sandra	sandro	sand	sandro		PROPN;ANIM;NOM;MASC;SG;POS
+sandra	sandra	sand	sandra		N;NOM;FEM;SG;POS
+sebész	chirurgové	sebész	chirurg	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+folyami	řece	folyami	řeka	N;NOM;SG	N;DAT;FEM;SG;POS
+folyami	river	folyami	rivr	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+málna	maliny	mál	malina	N;NOM;SG	N;NOM;FEM;PL;POS
+málna	malinový	mál	malinový	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+övé	její	övé	jeho	V;DEF;IND;SG;3;PRS;FIN;ACT	DET;NOM;FEM;SG;3
+regina	regina	regina	regina		PROPN;NOM;FEM;SG;POS
+simone	simone	simone	simone		PROPN;NOM;FEM;SG;POS
+gyermekkori	malička	gyermekkori	malička		N;NOM;FEM;SG;POS
+gyermekkori	dětství	gyermekkori	dětství		N;NOM;NEUT;SG;POS
+richards	richards	richards	richards		PROPN;ANIM;NOM;MASC;SG;POS
+koronázás	korunovaci	koronázás	korunovace	N;NOM;SG	N;ACC;FEM;SG;POS
+pozíciók	pozic	pozíció	pozice	N;NOM;PL	N;GEN;FEM;PL;POS
+pozíciók	pozice	pozíció	pozice	N;NOM;PL	N;NOM;FEM;SG;POS
+órák	hodin	óra	hodina	N;NOM;PL	N;GEN;FEM;PL;POS
+órák	hodinek	óra	hodinky	N;NOM;PL	N;GEN;FEM;PL;POS
+marion	marion	marion	marion		PROPN;NOM;FEM;SG;POS
+taxon	taxonu	taxon	taxon	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+tizennyolc	osmnáct	tizennyolc	osmnáct		NUM;NOM;SG
+lev	lev	lev	lev		N;ANIM;NOM;MASC;SG;POS
+christina	kristýna	christina	kristýna		N;NOM;FEM;SG;POS
+christina	christina	christina	christina		N;NOM;FEM;SG;POS
+helmut	helmut	helmut	helmut		PROPN;ANIM;NOM;MASC;SG;POS
+említ	zmínky	említ	zmínka	V;DEF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+nathan	nathana	nat	nathana		N;ANIM;ACC;MASC;SG;POS
+nathan	nathan	nat	nathana		PROPN;ANIM;NOM;MASC;SG;POS
+nero	nero	nero	nero		PROPN;ANIM;NOM;MASC;SG;POS
+szabadalmi	patentu	szabadalmi	patent	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+fenntartott	vyhrazeno	fenntartott	vyhrazený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+fenntartott	vyhrazené	fenntartott	vyhrazený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+fenntartott	vyhrazena	fenntartott	vyhrazený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+museo	museo	museo	museo		N;NOM;FEM;SG;POS
+toledo	toledo	toledo	toledo		PROPN;NOM;NEUT;SG;POS
+petri	petri	petri	petri		PROPN;ANIM;NOM;MASC;SG;POS
+tévedés	chybu	tévedés	chyba	N;NOM;SG	N;ACC;FEM;SG;POS
+claudia	claudia	claudia	claudium	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+ágak	poboček	ág	pobočka	N;NOM;PL	N;GEN;FEM;PL;POS
+bern	bern	bern	bern		PROPN;INAN;NOM;MASC;SG;POS
+gard	gard	gard	gard	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+klubok	klubů	klub	klub	N;NOM;PL	N;INAN;GEN;MASC;PL;POS
+braun	braun	braun	braun		PROPN;ANIM;NOM;MASC;SG;POS
+aude	aude	aude	aude		PROPN;NOM;FEM;SG;POS
+megújult	obnovené	megújul	obnovený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+megújult	obnovena	megújul	obnovený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+megmenteni	záchrana	megment	záchrana	V;NFIN;ACT	N;NOM;FEM;SG;POS
+megmenteni	ukládání	megment	ukládání	V;NFIN;ACT	N;NOM;NEUT;SG;POS
+megmenteni	úspory	megment	úspora	V;NFIN;ACT	N;NOM;FEM;PL;POS
+megmenteni	záchranu	megment	záchrana	V;NFIN;ACT	N;ACC;FEM;SG;POS
+megmenteni	uložení	megment	uložení	V;NFIN;ACT	N;NOM;NEUT;SG;POS
+kivételek	výjimkou	kivétel	výjimka	N;NOM;PL	N;INS;FEM;SG;POS
+kivételek	výjimku	kivétel	výjimka	N;NOM;PL	N;ACC;FEM;SG;POS
+kivételek	výjimka	kivétel	výjimka	N;NOM;PL	N;NOM;FEM;SG;POS
+rajongó	fanynka	rajongó	fanynka		N;NOM;FEM;SG;POS
+rajongó	fan	rajongó	fan		PROPN;NOM;MASC;SG;POS
+rajongó	větrák	rajongó	větrák		N;INAN;NOM;MASC;SG;POS
+rajongó	fanoušek	rajongó	fanoušek		N;ANIM;NOM;MASC;SG;POS
+rajongó	fanda	rajongó	fanda		N;ANIM;NOM;MASC;SG;POS
+hozzáférhető	dostupné	hozzáférhető	dostupný	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+válaszokat	odpovědi	válasz	odpověď	N;ACC;PL	N;NOM;FEM;PL;POS
+válaszokat	reakce	válasz	reakce	N;ACC;PL	N;NOM;FEM;SG;POS
+válaszokat	odezvy	válasz	odezva	N;ACC;PL	N;NOM;FEM;PL;POS
+válaszokat	odpovědi	válasz	odpověď	N;ACC;PL	N;NOM;FEM;PL;POS
+fogyasztása	spotřebu	fogyasztás	spotřeba	N;NOM;SG	N;ACC;FEM;SG;POS
+jeleket	signály	jelek	signál	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+jeleket	signálů	jelek	signál	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+iskolákban	škol	iskola	škola	N;IN+ESS;PL	N;GEN;FEM;PL;POS
+iskolákban	školy	iskola	škola	N;IN+ESS;PL	N;NOM;FEM;PL;POS
+állatkert	zoo	állatker	ZOO	N;NOM;SG	PROPN;FEM;POS
+günther	günther	günther	günther		N;ANIM;NOM;MASC;SG;POS
+chase	honička	chase	honička		N;NOM;FEM;SG;POS
+chase	chase	chase	chasa		PROPN;ANIM;NOM;MASC;SG;POS
+szenegál	senegalu	szenegál	senegal		PROPN;INAN;GEN;MASC;SG;POS
+metropolitan	metropolitní	metropolitan	metropolitní		ADJ;NOM;MASC;SG;POS
+judo	judo	judo	judo		N;NOM;NEUT;SG;POS
+díszlet	sady	díszlet	sada	N;NOM;SG	N;NOM;FEM;PL;POS
+díszlet	soupravy	díszlet	souprava	N;NOM;SG	N;NOM;FEM;PL;POS
+díszlet	nastavuje	díszlet	nastavovat	N;NOM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+duke	duke	duke	duke		PROPN;ANIM;NOM;MASC;SG;POS
+duke	vévoda	duke	vévoda		N;ANIM;NOM;MASC;SG;POS
+ellátás	zásoby	ellátás	zásoba	N;NOM;SG	N;NOM;FEM;PL;POS
+ellátás	dodávky	ellátás	dodávka	N;NOM;SG	N;NOM;FEM;PL;POS
+gedeon	gideon	gedeon	gideon		PROPN;ANIM;NOM;MASC;SG;POS
+ruhát	oděv	ruha	oděv	N;ACC;SG	N;INAN;NOM;MASC;SG;POS
+ruhát	šaty	ruha	šat	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+ruhát	oděvy	ruha	oděv	N;ACC;SG	N;INAN;NOM;MASC;PL;POS
+ruhát	oblečení	ruha	oblečení	N;ACC;SG	N;NOM;NEUT;SG;POS
+rákos	rakovinné	rákos	rakovinný		ADJ;NOM;NEUT;SG;POS
+rákos	rakovina	rákos	rakovina		N;NOM;FEM;SG;POS
+rákos	rakovinu	rákos	rakovina		N;ACC;FEM;SG;POS
+rákos	rakoviny	rákos	rakovina		N;NOM;FEM;PL;POS
+far	daleko	far	daleko		ADV;POS
+alabama	alabamě	alabam	alabamě		PROPN;DAT;FEM;SG;POS
+teatro	teatro	teatro	teatro		PROPN;NOM;NEUT;SG;POS
+merész	odvážné	merész	odvážný		ADJ;NOM;NEUT;SG;POS
+merész	odvážná	merész	odvážný		ADJ;NOM;FEM;SG;POS
+merész	smělý	merész	smělý		ADJ;ANIM;NOM;MASC;SG;POS
+merész	odvážný	merész	odvážný		ADJ;INAN;NOM;MASC;SG;POS
+merész	odvážné	merész	odvážný		ADJ;NOM;NEUT;SG;POS
+josh	joshe	josh	joshě		N;ANIM;ACC;MASC;SG;POS
+josh	josh	josh	josh		PROPN;ANIM;NOM;MASC;SG;POS
+dohány	tabáku	dohány	tabák		N;INAN;GEN;MASC;SG;POS
+dohány	tabák	dohány	tabák		N;INAN;NOM;MASC;SG;POS
+elkészített	připravené	elkészített	připravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+elkészített	připraveno	elkészített	připravený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+nbc	nbc	nbc	nbc	N;NOM;SG	PROPN;FEM;POS
+lemondását	odstoupení	lemondás	odstoupení	N;ACC;SG	N;NOM;NEUT;SG;POS
+lemondását	rezignace	lemondás	rezignace	N;ACC;SG	N;NOM;FEM;SG;POS
+univerzális	univerzální	univerzális	univerzální		ADJ;NOM;MASC;SG;POS
+platina	platiny	platina	platina		N;NOM;FEM;PL;POS
+powell	powell	powell	powell		PROPN;ANIM;NOM;MASC;SG;POS
+nyitó	otevírání	nyitó	otevírání		N;NOM;NEUT;SG;POS
+nyitó	úvodní	nyitó	úvodní		ADJ;NOM;MASC;SG;POS
+nyitó	otevření	nyitó	otevření		N;NOM;NEUT;SG;POS
+nyitó	zahájení	nyitó	zahájení		N;NOM;NEUT;SG;POS
+szerencse	jmění	szerencse	jmění		N;NOM;NEUT;SG;POS
+szerencse	štěstěna	szerencse	štěstěna		N;NOM;FEM;SG;POS
+szerencse	lucky	szerencse	lucky		N;NOM;FEM;SG;POS
+szerencse	štěstí	szerencse	štěstí		N;NOM;NEUT;SG;POS
+szerencse	štěstí	szerencse	štěstí		N;NOM;NEUT;SG;POS
+termékeket	přípravky	termék	přípravek	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+termékeket	produktů	termék	produkt	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+termékeket	výrobky	termék	výrobek	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+termékeket	produkty	termék	produkt	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+szalag	pásku	szalag	páska	N;NOM;SG	N;ACC;FEM;SG;POS
+szalag	pásky	szalag	páska	N;NOM;SG	N;NOM;FEM;PL;POS
+szalag	stuhu	szalag	stuh	N;NOM;SG	N;ACC;FEM;SG;POS
+szalag	striptýz	szalag	striptý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+szalag	svléknout	szalag	svléknout	N;NOM;SG	V;PFV;POS;NFIN
+vágás	úpravy	vágás	úprava	N;NOM;SG	N;NOM;FEM;PL;POS
+vágás	jatka	vágás	jatka	N;NOM;SG	N;NOM;NEUT;PL;POS
+vágás	porážku	vágás	porážka	N;NOM;SG	N;ACC;FEM;SG;POS
+vágás	škrty	vágás	škrt	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+vágás	řezy	vágás	řez	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+felismerhető	rozpoznatelné	felismerhető	rozpoznatelný	ADJ;NOM;SG	ADJ;NOM;NEUT;PL;POS
+felismerhető	rozpoznatelné	felismerhető	rozpoznatelný	ADJ;NOM;SG	ADJ;NOM;NEUT;PL;POS
+testek	těl	tesik	tělo	N;NOM;PL	N;GEN;NEUT;PL;POS
+qui	qui	qui	qui		PROPN;ANIM;NOM;MASC;SG;POS
+manhattan	manhattanu	manhat	manhattan	V;INDF;POT;SG;3;PST;FIN;ACT	N;INAN;DAT;MASC;SG;POS
+manhattan	manhattan	manhat	manhattan	V;INDF;POT;SG;3;PST;FIN;ACT	N;INAN;NOM;MASC;SG;POS
+tisztviselő	oficiální	tisztviselő	oficiální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+tisztviselő	úřední	tisztviselő	úřední	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+vancouver	vancouveru	vancouver	vancouver	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+állatorvos	veterináři	állatorvos	veterinář	N;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+állatorvos	veterinární	állatorvos	veterinární	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+szabályozása	regulovat	szabályozás	regulovat	N;NOM;SG	V;IPFV;POS;NFIN
+szabályozása	regulaci	szabályozás	regulace	N;NOM;SG	N;ACC;FEM;SG;POS
+brüsszelben	bruselu	brüsszel	brusel	N;IN+ESS;SG	PROPN;INAN;GEN;MASC;SG;POS
+brüsszelben	brusel	brüsszel	brus	N;IN+ESS;SG	PROPN;INAN;NOM;MASC;SG;POS
+eugene	eugene	eug	eugene	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+konstantinápoly	konstantinopole	konstantinápoly	konstantinopole	N;NOM;SG	N;GEN;FEM;SG;POS
+fogadó	moderátor	fogadó	moderátor		N;ANIM;NOM;MASC;SG;POS
+fogadó	hostitel	fogadó	hostitel		N;ANIM;NOM;MASC;SG;POS
+fogadó	hostitele	fogadó	hostitel		N;ANIM;ACC;MASC;PL;POS
+fogadó	hostitelský	fogadó	hostitelský		ADJ;INAN;NOM;MASC;SG;POS
+fogadó	hostinec	fogadó	hostinec		N;INAN;NOM;MASC;SG;POS
+fogadó	inn	fogadó	Inn		N;INAN;NOM;MASC;SG;POS
+fogadó	přijímače	fogadó	přijímač		N;INAN;NOM;MASC;PL;POS
+fogadó	příjemce	fogadó	příjemce		N;ANIM;NOM;MASC;SG;POS
+fogadó	přijímač	fogadó	přijímač		N;INAN;NOM;MASC;SG;POS
+szándékos	úmyslné	szándékos	úmyslný		ADJ;NOM;NEUT;SG;POS
+szándékos	úmyslné	szándékos	úmyslný		ADJ;NOM;NEUT;SG;POS
+hívő	věřící	hívő	věřící	N;NOM;SG	ADJ;ANIM;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+abdul	abdul	azdul	abdul		PROPN;ANIM;NOM;MASC;SG;POS
+app	app	app	app	N;NOM;SG	PROPN;MASC;SG;POS
+app	aplikaci	app	aplikace	N;NOM;SG	N;ACC;FEM;SG;POS
+íze	chutná	íze	chutnat	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+túlélő	přeživší	túlélő	přeživší	ADJ;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+túlélő	přežívá	túlélő	přežívat	ADJ;NOM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+túlélő	přežití	túlélő	přežití	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+túlélő	přeživší	túlélő	přeživší	ADJ;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+túlélő	survivor	túlélő	survivor	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+graf	graf	graf	graf		N;INAN;NOM;MASC;SG;POS
+tengerparton	pláži	tengerpart	pláž	N;ON+ESS;SG	N;DAT;FEM;SG;POS
+tengerparton	pláže	tengerpart	pláž	N;ON+ESS;SG	N;NOM;FEM;PL;POS
+tengerparton	pláž	tengerpart	pláž	N;ON+ESS;SG	N;NOM;FEM;SG;POS
+kristályos	crystal	kristályos	crystat	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+kristályos	křišťálové	kristályos	křišťál	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+kristályos	krystalický	kristályos	krystalický	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+xavier	xavier	xavier	xavier	PROPN;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+csúnya	ošklivý	csúny	ošklivý		ADJ;INAN;NOM;MASC;SG;POS
+csúnya	ošklivá	csúny	ošklivý		ADJ;NOM;FEM;SG;POS
+csúnya	ošklivé	csúny	ošklivý		ADJ;NOM;NEUT;SG;POS
+viszonylagos	příbuzná	viszonylagos	příbuzná		N;NOM;FEM;SG;POS
+viszonylagos	relativně	viszonylagos	relativně		ADV;POS
+viszonylagos	relativní	viszonylagos	relativní		ADJ;NOM;MASC;SG;POS
+viszonylagos	příbuzný	viszonylagos	příbuzný		N;ANIM;NOM;MASC;SG;POS
+oregon	oregonu	oregon	oregon		PROPN;INAN;DAT;MASC;SG;POS
+sztár	star	sztár	star	N;NOM;SG	PROPN;NOM;MASC;SG;POS
+kevesebbet	méně	kevesebb	málo		ADV;CMPR;POS
+kevesebbet	míň	kevesebb	málo		ADV;POS
+silvio	silvio	silvio	silvio		PROPN;ANIM;NOM;MASC;SG;POS
+egyensúly	zůstatku	egyensúly	zůstatek	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+egyensúly	rovnováhu	egyensúly	rovnováha	N;NOM;SG	N;ACC;FEM;SG;POS
+egyensúly	rovnováhy	egyensúly	rovnováha	N;NOM;SG	N;NOM;FEM;PL;POS
+xxii	xxii	xxii	xxie		N;NOM;MASC;SG;POS
+orlando	orlando	orlando	orlando		N;INAN;NOM;MASC;SG;POS
+june	červen	june	červen		N;INAN;NOM;MASC;SG;POS
+june	června	june	červen		N;INAN;GEN;MASC;SG;POS
+bernhard	bernhard	bernhard	bernhard		PROPN;ANIM;NOM;MASC;SG;POS
+jevgenyij	jevgenij	jevgenyij	jevgenij		PROPN;ANIM;NOM;MASC;SG;POS
+megegyezés	vypořádání	megegyezés	vypořádání		N;NOM;NEUT;SG;POS
+megegyezés	zúčtování	megegyezés	zúčtování		N;NOM;NEUT;SG;POS
+megegyezés	vyrovnání	megegyezés	vyrovnání		N;NOM;NEUT;SG;POS
+megegyezés	urovnání	megegyezés	urovnání		N;NOM;NEUT;SG;POS
+megegyezés	dohoda	megegyezés	dohoda		N;NOM;FEM;SG;POS
+megegyezés	dohodou	megegyezés	dohoda		N;INS;FEM;SG;POS
+megegyezés	uspořádání	megegyezés	uspořádání		N;NOM;NEUT;SG;POS
+megegyezés	ujednání	megegyezés	ujednání		N;NOM;NEUT;SG;POS
+felépített	postavena	felépít	postavený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+felépített	postavená	felépít	postavený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+felépített	postaven	felépít	postavený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG;POS;V.PTCP;PASS
+felépített	postavené	felépít	postavený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+felépített	postaveno	felépít	postavený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+összefüggés	souvislosti	összefüggés	souvislost	N;NOM;SG	N;NOM;FEM;PL;POS
+összefüggés	kontextu	összefüggés	kontext	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+barcelonai	barceloně	barcelonai	barcelon	V;DEF;IND;PL;3;PRS;FIN;ACT	N;DAT;FEM;SG;POS
+barcelonai	barcelona	barcelonai	barcelona	V;DEF;IND;PL;3;PRS;FIN;ACT	PROPN;NOM;FEM;SG;POS
+vándor	poutník	vándor	poutník		N;ANIM;NOM;MASC;SG;POS
+ingatlan	nemovitosti	ingatlan	nemovitost	N;NOM;SG	N;NOM;FEM;PL;POS
+ital	nápoje	ital	nápoj	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+ital	pít	ital	pít	N;NOM;SG	V;POS;NFIN
+ital	nápoje	ital	nápoj	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+sovány	hubený	sovány	hubený		ADJ;ANIM;NOM;MASC;SG;POS
+sovány	hubená	sovány	hubený		ADJ;NOM;FEM;SG;POS
+sovány	tenké	sovány	tenký		ADJ;NOM;NEUT;PL;POS
+sovány	tenká	sovány	tenký		ADJ;NOM;FEM;SG;POS
+sovány	tenký	sovány	tenký		ADJ;INAN;NOM;MASC;SG;POS
+sovány	hubená	sovány	hubený		ADJ;NOM;FEM;SG;POS
+olcsóbb	levněji	olcsó	levně	ADJ;NOM;CMPR;SG	ADV;CMPR;POS
+ciudad	ciudad	ciudad	ciudad		PROPN;NOM;FEM;SG;POS
+krónikák	kronik	krónika	kronik	N;NOM;PL	N;GEN;FEM;PL;POS
+hajóval	lodi	hajó	loď	N;INS;SG	N;DAT;FEM;SG;POS
+hajóval	loď	hajó	loď	N;INS;SG	N;NOM;FEM;SG;POS
+szintetikus	syntetický	szintetikus	syntetický	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+szintetikus	syntetická	szintetikus	syntetický	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+szintetikus	syntetické	szintetikus	syntetický	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+kézikönyv	příručku	kézikönyv	příručka	N;NOM;SG	N;ACC;FEM;SG;POS
+kézikönyv	ruční	kézikönyv	ruční	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+kézikönyv	manuální	kézikönyv	manuální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+raf	raf	raf	raf	N;NOM;SG	PROPN;FEM;POS
+dio	dio	dio	dio		PROPN;ANIM;NOM;MASC;SG;POS
+tobago	tobago	tobago	tobago	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+adler	adler	adler	adler		PROPN;ANIM;NOM;MASC;SG;POS
+gmbh	gmbh	gmbh	gmbh	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN;FEM;POS
+jet	jet	jet	jet		V;POS;NFIN
+zen	zen	zen	zen		PROPN;ANIM;NOM;MASC;SG;POS
+bika	bull	bika	být	N;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+alkalmaz	zaměstnávají	alkalmaz	zaměstnávat	V;INDF;IND;SG;3;PRS;FIN;ACT	V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+szatirikus	satirický	szatirikus	satirický	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+hangos	nahlas	hangos	nahlas		ADV
+hangos	hlasitý	hangos	hlasitý		ADJ;INAN;NOM;MASC;SG;POS
+hangos	hlasitě	hangos	hlasitě		ADV;POS
+hangos	hlasité	hangos	hlasitý		ADJ;NOM;NEUT;SG;POS
+hangos	hlučné	hangos	hlučný		ADJ;NOM;NEUT;SG;POS
+hangos	hlučný	hangos	hlučný		ADJ;INAN;NOM;MASC;SG;POS
+mono	mono	mono	mono		PROPN;NOM;MASC;SG;POS
+lars	lars	lars	lars		PROPN;ANIM;NOM;MASC;SG;POS
+polo	polo	polo	Polo		PROPN;NOM;NEUT;SG;POS
+tank	tanku	tank	tank		N;INAN;DAT;MASC;SG;POS
+tank	tank	tank	tank		N;INAN;NOM;MASC;SG;POS
+tank	nádrž	tank	nádrž		N;NOM;FEM;SG;POS
+tao	tao	tao	tao		PROPN;ANIM;NOM;MASC;SG;POS
+érzés	pocit	érzés	pocit		N;INAN;NOM;MASC;SG;POS
+deutsch	deutsch	deutsch	deuts		PROPN;INAN;NOM;MASC;SG;POS
+pillanat	chvíle	pillan	chvíle	N;NOM;SG	N;NOM;FEM;PL;POS
+ártatlan	nevinná	ártatlan	vinný		ADJ;NOM;FEM;SG;NEG
+ártatlan	nevinní	ártatlan	vinný		ADJ;ANIM;NOM;MASC;PL;NEG
+ártatlan	nevinný	ártatlan	vinný		ADJ;ANIM;NOM;MASC;SG;NEG
+vigyázz	sledujte	vigyázz	sledovat	V;DEF;IND;SG;1;PRS;FIN;ACT	V;PFV;IMP;PL;2;POS;FIN
+vigyázz	hodinky	vigyázz	hodinky	V;DEF;IND;SG;1;PRS;FIN;ACT	N;NOM;FEM;PL;POS
+kaiser	kaiser	kaiser	kaiser		PROPN;ANIM;NOM;MASC;SG;POS
+tanul	studium	tanul	studium	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+tanul	učení	tanul	učení	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+tanul	výuka	tanul	výuka	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG;POS
+incidens	incidenty	incidens	incident	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+díszítő	okrasné	díszítő	okrasný	ADJ;NOM;SG	ADJ;NOM;MASC;PL;POS
+nicolae	nicolae	nicolae	nicolae		PROPN;ANIM;NOM;MASC;SG;POS
+butler	butler	butler	butler		PROPN;ANIM;NOM;MASC;SG;POS
+butler	komorník	butler	komorník		N;ANIM;NOM;MASC;SG;POS
+butler	sluha	butler	sluha		N;ANIM;NOM;MASC;SG;POS
+dale	dale	dale	daleko	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+roosevelt	roosevelt	roosevelt	roosevelt		N;ANIM;NOM;MASC;SG;POS
+kézműves	řemeslníci	kézműves	řemeslník	ADJ;NOM;SG	N;ANIM;NOM;MASC;PL;POS
+kézműves	řemesla	kézműves	řemeslo	ADJ;NOM;SG	N;NOM;NEUT;PL;POS
+kézműves	plavidlo	kézműves	plavidlo	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+kézműves	řemeslo	kézműves	řemeslo	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+kézműves	plavidla	kézműves	plavidlo	ADJ;NOM;SG	N;NOM;NEUT;PL;POS
+kézműves	řemesla	kézműves	řemeslo	ADJ;NOM;SG	N;NOM;NEUT;PL;POS
+michele	michele	michele	michel		PROPN;ANIM;NOM;MASC;SG;POS
+föderáció	federaci	föderáció	federace	N;NOM;SG	N;ACC;FEM;SG;POS
+chen	chen	chen	chen		PROPN;ANIM;NOM;MASC;SG;POS
+enzim	enzymů	enzik	enzym	N;NOM;SG	N;INAN;GEN;MASC;PL;POS
+enzim	enzymy	enzik	enzym	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+enzim	enzymu	enzik	enzym	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+enzim	enzymy	enzik	enzym	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+robbant	explodovala	robban	explodovat	V;INDF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+halvány	bledě	halvány	bledě		ADV;POS
+halvány	bledá	halvány	bledat		ADJ;NOM;FEM;SG;POS
+halvány	bledý	halvány	bledý		ADJ;ANIM;NOM;MASC;SG;POS
+tárgyalt	vyjednávací	tárgyal	vyjednávací	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;SG;POS
+táplálék	jídla	táplálék	jídlo	N;NOM;SG	N;NOM;NEUT;PL;POS
+táplálék	potraviny	táplálék	potravina	N;NOM;SG	N;NOM;FEM;PL;POS
+funkciók	funkcí	funkció	funkce	N;NOM;PL	N;INS;FEM;SG;POS
+funkciók	funkce	funkció	funkce	N;NOM;PL	N;NOM;FEM;SG;POS
+funkciók	funkčnost	funkció	funkčnost	N;NOM;PL	N;NOM;FEM;SG;POS
+funkciók	funkčnosti	funkció	funkčnost	N;NOM;PL	N;NOM;FEM;SG;POS
+funkciók	funkce	funkció	funkce	N;NOM;PL	N;NOM;FEM;SG;POS
+promóciós	promo	promóciós	promo	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+promóciós	propagace	promóciós	propagace	ADJ;NOM;SG	N;NOM;FEM;SG;POS
+promóciós	povýšení	promóciós	povýšení	ADJ;NOM;SG	N;NOM;NEUT;SG;POS
+promóciós	propagaci	promóciós	propagace	ADJ;NOM;SG	N;ACC;FEM;SG;POS
+palmer	palmera	palmer	palmera	PROPN;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+palmer	palmer	palmer	palmer	PROPN;NOM;SG	PROPN;ANIM;NOM;MASC;SG;POS
+edzés	praxi	edzés	praxe	N;NOM;SG	N;ACC;FEM;SG;POS
+edzés	tréninky	edzés	trénink	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+tmb	tmb	tmb	tmb		N;INAN;NOM;MASC;SG;POS
+fuvola	flétnu	fuvola	flétna	N;NOM;SG	N;ACC;FEM;SG;POS
+zita	zita	zita	zita	N;NOM;SG	PROPN;NOM;FEM;SG;POS
+próba	otestovat	pró	otestovat	N;NOM;SG	V;PFV;POS;NFIN
+próba	zkoušky	pró	zkouška	N;NOM;SG	N;NOM;FEM;PL;POS
+win	win	win	win		PROPN;NOM;MASC;SG;POS
+win	výhra	win	výhra		N;NOM;FEM;SG;POS
+win	vyhrát	win	vyhrát		V;POS;NFIN
+hangokat	zvuky	hang	zvuk	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+hangokat	hlasy	hang	hlas	N;ACC;PL	N;INAN;NOM;MASC;PL;POS
+hangokat	hlasů	hang	hlas	N;ACC;PL	N;INAN;GEN;MASC;PL;POS
+fellini	fellini	fellini	fellini		N;ANIM;NOM;MASC;SG;POS
+angela	angelo	angela	angelo		PROPN;ANIM;NOM;MASC;SG;POS
+angela	angelu	angela	angela		N;ACC;FEM;SG;POS
+angela	angela	angela	angela		N;NOM;FEM;SG;POS
+öröm	joy	öröm	joj		PROPN;NOM;FEM;SG;POS
+öröm	radosti	öröm	radost		N;NOM;FEM;SG;POS
+öröm	radost	öröm	radost		N;NOM;FEM;SG;POS
+öröm	potěšení	öröm	potěšení		N;NOM;NEUT;SG;POS
+öröm	rozkoš	öröm	rozkoš		N;NOM;FEM;SG;POS
+madridi	madrid	madridi	madrid		PROPN;INAN;NOM;MASC;SG;POS
+madridi	madridu	madridi	madrida		PROPN;INAN;GEN;MASC;SG;POS
+faji	rasové	faji	rasový		ADJ;NOM;FEM;SG;POS
+texasi	texasu	texasi	texas		PROPN;INAN;GEN;MASC;SG;POS
+texasi	texas	texasi	texas		PROPN;INAN;NOM;MASC;SG;POS
+összecsapás	clash	összecsapás	clash	N;NOM;SG	PROPN;INAN;MASC;SG;POS
+összecsapás	konfrontaci	összecsapás	konfrontace	N;NOM;SG	N;ACC;FEM;SG;POS
+közzétett	zveřejněné	közzétett	zveřejněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+közzétett	zveřejněno	közzétett	zveřejněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+közzétett	zveřejněné	közzétett	zveřejněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+közzétett	zveřejněno	közzétett	zveřejněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NEUT;SG;POS;V.PTCP;PASS
+közzétett	zveřejněna	közzétett	zveřejněný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;POS;V.PTCP;PASS
+közzétett	vydané	közzétett	vydaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+gyakorlatok	cvičení	gyakorlat	cvičení	N;NOM;PL	N;NOM;NEUT;SG;POS
+gyakorlatok	praxe	gyakorlat	praxe	N;NOM;PL	N;NOM;FEM;SG;POS
+kozák	kozák	koza	kozák		N;ANIM;NOM;MASC;SG;POS
+reformok	reformu	reform	reforma	N;NOM;PL	N;ACC;FEM;SG;POS
+reformok	reformovat	reform	reformovat	N;NOM;PL	V;PFV;POS;NFIN
+reformok	reforma	reform	reforma	N;NOM;PL	N;NOM;FEM;SG;POS
+társult	přidružené	társul	přidružený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+társult	související	társul	související	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+társult	společník	társul	společník	V;INDF;IND;SG;3;PST;FIN;ACT	N;ANIM;NOM;MASC;SG;POS
+diamond	diamantový	diamond	diamantový		ADJ;INAN;NOM;MASC;SG;POS
+diamond	diamond	diamond	diamond		PROPN;ANIM;NOM;MASC;SG;POS
+diamond	diamantové	diamond	diamantový		ADJ;NOM;NEUT;SG;POS
+diamond	diamant	diamond	diamant		N;INAN;NOM;MASC;SG;POS
+termelő	produktivní	termelő	produktivní		ADJ;NOM;MASC;SG;POS
+termelő	pěstitele	termelő	pěstitel		N;ANIM;ACC;MASC;PL;POS
+termelő	producent	termelő	producent		N;ANIM;NOM;MASC;SG;POS
+termelő	výrobce	termelő	výrobce		N;ANIM;NOM;MASC;SG;POS
+facto	facto	facto	facto		N;NEUT;POS
+chapman	chapman	chapman	chapman		PROPN;ANIM;NOM;MASC;SG;POS
+millennium	tisíciletí	millennium	tisíciletí		N;NOM;NEUT;SG;POS
+bosszú	pomstu	bosszú	pomsta	N;NOM;SG	N;ACC;FEM;SG;POS
+cicero	cicero	cicero	cicero		PROPN;ANIM;NOM;MASC;SG;POS
+tisztelet	úctu	tisztelet	úcta	N;NOM;SG	N;ACC;FEM;SG;POS
+tisztelet	respektovat	tisztelet	respektovat	N;NOM;SG	V;IPFV;POS;NFIN
+tisztelet	respektu	tisztelet	respekt	N;NOM;SG	N;INAN;DAT;MASC;SG;POS
+betöltötte	naplněný	betöltöt	naplněný	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+betöltötte	naplněná	betöltöt	naplněný	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+betöltötte	plněné	betöltöt	plněný	V;DEF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;MASC;PL;POS
+burkina	burkina	burkina	burkina	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN;NOM;FEM;SG;POS
+irma	irma	irma	irma	PROPN;NOM;SG	PROPN;NOM;FEM;SG;POS
+dalmát	dalmatin	dalmát	dalmatin		N;ANIM;NOM;MASC;SG;POS
+galériában	galerie	galéria	galerie	N;IN+ESS;SG	N;NOM;FEM;SG;POS
+galériában	fotogalerie	galéria	fotogalerie	N;IN+ESS;SG	N;NOM;FEM;SG;POS
+galériában	galerii	galéria	galerie	N;IN+ESS;SG	N;ACC;FEM;SG;POS
+közvetítő	zprostředkovatel	közvetítő	zprostředkovatel	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+közvetítő	makléř	közvetítő	makléř	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+közvetítő	prostředník	közvetítő	prostředník	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+közvetítő	zprostředkovatel	közvetítő	zprostředkovatel	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+közvetítő	zprostředkovatele	közvetítő	zprostředkovatel	ADJ;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+közvetítő	prostředník	közvetítő	prostředník	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+közvetítő	prostředník	közvetítő	prostředník	ADJ;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+terápiás	terapeutické	terápiás	terapeutický	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+terápiás	léčebné	terápiás	léčebný	N;NOM;SG	ADJ;NOM;MASC;PL;POS
+miranda	miranda	miranda	miranda		N;NOM;FEM;SG;POS
+hülye	blbý	hülye	blbý		ADJ;ANIM;NOM;MASC;SG;POS
+hülye	hloupý	hülye	hloupý		ADJ;ANIM;NOM;MASC;SG;POS
+fejes	záhlaví	fejes	záhlaví		N;NOM;NEUT;SG;POS
+fejes	hlavičku	fejes	hlavička		N;ACC;FEM;SG;POS
+fejes	hlavička	fejes	hlavička		N;NOM;FEM;SG;POS
+örökké	navždy	örökké	navždy		ADV
+örökké	forever	örökké	forever		N;NOM;MASC;SG;POS
+örökké	navěky	örökké	navěky		N;INAN;NOM;MASC;PL;POS
+kukorica	kukuřici	kukorica	kukuřice	N;NOM;SG	N;ACC;FEM;SG;POS
+damon	damon	damon	damon	PROPN;NOM;SG	N;ANIM;NOM;MASC;SG;POS
+damon	damona	damon	damon	PROPN;NOM;SG	N;ANIM;ACC;MASC;SG;POS
+tulajdonosai	vlastníky	tulajdonos	vlastník	N;NOM;PL	N;ANIM;ACC;MASC;PL;POS
+szerelvény	vlakem	szerelvény	vlak	N;NOM;SG	N;INAN;INS;MASC;SG;POS
+szerelvény	vlaku	szerelvény	vlak	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+domain	domény	domain	doména		N;NOM;FEM;PL;POS
+helena	helena	helena	helený		PROPN;NOM;FEM;SG;POS
+reakciók	reakce	reakció	reakce	N;NOM;PL	N;NOM;FEM;SG;POS
+reakciók	reakční	reakció	reakční	N;NOM;PL	ADJ;NOM;MASC;SG;POS
+reakciók	reakce	reakció	reakce	N;NOM;PL	N;NOM;FEM;SG;POS
+rövidített	zkrácení	rövidít	zkrácení	V;INDF;IND;SG;3;PST;FIN;ACT	N;NOM;NEUT;SG;POS
+rövidített	zkrácené	rövidít	zkrácený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+elsüllyedt	potopila	elsüllyed	potopit	V;INDF;IND;SG;3;PST;FIN;ACT	V;PFV;POS;PST;V.PTCP;ACT
+elsüllyedt	potopené	elsüllyed	potopený	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+bejegyzett	zapsaný	bejegyzett	zapsaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS
+bejegyzett	registrované	bejegyzett	registrovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS
+bejegyzett	zapsané	bejegyzett	zapsaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;NEUT;PL;POS
+bejegyzett	registrovaná	bejegyzett	registrovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS
+bejegyzett	registrovaný	bejegyzett	registrovaný	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS
+asztali	stůl	asztali	stůl		N;INAN;NOM;MASC;SG;POS
+asztali	tabulka	asztali	tabulka		N;NOM;FEM;SG;POS
+asztali	stolek	asztali	stolek		N;INAN;NOM;MASC;SG;POS
+asztali	plocha	asztali	plocha		N;NOM;FEM;SG;POS
+asztali	plochy	asztali	plocha		N;NOM;FEM;PL;POS
+káosz	chaosu	káosz	chaos	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+hyde	hyde	hyd	hyde		PROPN;ANIM;NOM;MASC;SG;POS
+állva	stojící	állva	stojící		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+állva	stání	állva	stání		N;NOM;NEUT;SG;POS
+hajnalban	svítání	hajnal	svítání	N;IN+ESS;SG	N;NOM;NEUT;SG;POS
+hajnalban	dawn	hajnal	dawn	N;IN+ESS;SG	PROPN;NOM;FEM;SG;POS
+hajnalban	úsvit	hajnal	úsvit	N;IN+ESS;SG	N;INAN;NOM;MASC;SG;POS
+őszinte	upřímné	őszinte	upřímný		ADJ;NOM;NEUT;SG;POS
+őszinte	upřímná	őszinte	upřímný		ADJ;NOM;FEM;SG;POS
+őszinte	upřímný	őszinte	upřímný		ADJ;INAN;NOM;MASC;SG;POS
+őszinte	upřímná	őszinte	upřímný		ADJ;NOM;FEM;SG;POS
+őszinte	čestný	őszinte	čestný		ADJ;ANIM;NOM;MASC;SG;POS
+őszinte	upřímný	őszinte	upřímný		ADJ;INAN;NOM;MASC;SG;POS
+meteor	meteorit	meteor	meteorit		N;INAN;NOM;MASC;SG;POS
+meteor	meteor	meteor	meteor		N;INAN;NOM;MASC;SG;POS
+meteor	meteorit	meteor	meteorit		N;INAN;NOM;MASC;SG;POS
+szertartás	rituály	szertartás	rituál	N;NOM;SG	N;INAN;NOM;MASC;PL;POS
+szertartás	rituální	szertartás	rituální	N;NOM;SG	ADJ;NOM;MASC;SG;POS
+fájdalmas	bolestivý	fájdalmas	bolestivý		ADJ;INAN;NOM;MASC;SG;POS
+fájdalmas	bolestivá	fájdalmas	bolestivý		ADJ;NOM;FEM;SG;POS
+fájdalmas	bolestné	fájdalmas	bolestné		ADJ;NOM;NEUT;SG;POS
+fájdalmas	bolestivé	fájdalmas	bolestivý		ADJ;NOM;NEUT;SG;POS
+színtelen	bezbarvý	színtelen	bezbarvý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+színtelen	bezbarvý	színtelen	bezbarvý	N;NOM;SG	ADJ;INAN;NOM;MASC;SG;POS
+alkalmanként	příležitostné	alkalman	příležitostný	N;ABS;SG	ADJ;NOM;NEUT;SG;POS
+alkalmanként	příležitostně	alkalman	příležitostně	N;ABS;SG	ADV;POS
+alkalmanként	občas	alkalman	občas	N;ABS;SG	ADV
+alkalmanként	příležitostně	alkalman	příležitostně	N;ABS;SG	ADV;POS
+menekülés	utéct	menekülés	utéci	N;NOM;SG	V;POS;NFIN
+rev	rev	rev	rev		N;MASC;SG;POS
+elvis	elvis	elvis	elvis		PROPN;ANIM;NOM;MASC;SG;POS
+elvis	elvise	elvis	elvise		N;ANIM;NOM;MASC;SG;POS
+befolyás	ovlivnit	befolyás	ovlivnit	N;NOM;SG	V;PFV;POS;NFIN
+befolyás	vlivu	befolyás	vliv	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+számol	počítám	számol	počítat	V;INDF;IND;SG;3;PRS;FIN;ACT	V;IPFV;IND;SG;1;POS;PRS;FIN;ACT
+számol	počítání	számol	počítání	V;INDF;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG;POS
+trió	trio	trió	trio		N;NOM;NEUT;SG;POS
+javítás	opravy	javítás	oprava	N;NOM;SG	N;NOM;FEM;PL;POS
+javítás	opravit	javítás	opravit	N;NOM;SG	V;PFV;POS;NFIN
+javítás	opravy	javítás	oprava	N;NOM;SG	N;NOM;FEM;PL;POS
+feltételes	podmíněné	feltételes	podmíněný		ADJ;NOM;NEUT;SG;POS
+feltételes	podmínečné	feltételes	podmínečný		ADJ;NOM;NEUT;SG;POS
+ich	ich	ich	ich		PROPN;MASC;SG;POS
+befolyással	ovlivnit	befolyás	ovlivnit	N;INS;SG	V;PFV;POS;NFIN
+befolyással	vliv	befolyás	vliv	N;INS;SG	N;INAN;NOM;MASC;SG;POS
+befolyással	vlivu	befolyás	vliv	N;INS;SG	N;INAN;GEN;MASC;SG;POS
+lisszabon	lisabonská	lisszú	lisabonský	N;NOM;SG	ADJ;NOM;FEM;SG;POS
+lisszabon	lisabon	lisszú	lisabon	N;NOM;SG	PROPN;INAN;NOM;MASC;SG;POS
+lisszabon	lisabonské	lisszú	lisabonský	N;NOM;SG	ADJ;NOM;NEUT;SG;POS
+lisszabon	lisabonu	lisszú	lisabon	N;NOM;SG	PROPN;INAN;GEN;MASC;SG;POS
+bevált	pracovala	bevált	pracovat	V;INDF;IND;SG;3;PST;FIN;ACT	V;IPFV;POS;PST;V.PTCP;ACT
+meggyilkolt	zavražděný	meggyilkolt	zavražděný		ADJ;ANIM;NOM;MASC;SG;POS
+meggyilkolt	zavražděna	meggyilkolt	zavražděný		ADJ;POS;V.PTCP;PASS
+meggyilkolt	zavražděná	meggyilkolt	zavražděný		ADJ;NOM;FEM;SG;POS
+meggyilkolt	zavražděn	meggyilkolt	zavražděný		ADJ;MASC;SG;POS;V.PTCP;PASS
+oldalsó	boční	oldalsó	boční		ADJ;NOM;MASC;SG;POS
+oldalsó	postranní	oldalsó	postranní		ADJ;NOM;MASC;SG;POS
+humor	humoru	humor	humor	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+humor	humoru	humor	humor	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+félre	stranou	félre	strana		N;INS;FEM;SG;POS
+vonattal	vlakem	vonat	vlak	N;NOM;SG	N;INAN;INS;MASC;SG;POS
+vonattal	vlaku	vonat	vlak	N;NOM;SG	N;INAN;GEN;MASC;SG;POS
+ronnie	ronnieho	ronnie	ronnie		PROPN;ANIM;NOM;MASC;SG;POS
+ronnie	ronnie	ronnie	ronnie		PROPN;ANIM;NOM;MASC;SG;POS
+meta	meta	meta	meta		N;NOM;FEM;SG;POS
+baptiste	baptiste	baptiste	baptiste		PROPN;ANIM;NOM;MASC;SG;POS
+duó	dvojka	duó	dvojka		N;NOM;FEM;SG;POS
+duó	duo	duó	duo		N;NOM;NEUT;SG;POS
+pet	pet	pet	pet		PROPN;POS
+pet	zvířátko	pet	zvířátko		N;NOM;NEUT;SG;POS
+pet	mazlíček	pet	mazlíček		N;ANIM;NOM;MASC;SG;POS
+csecsemő	nemluvně	csecsemő	nemluvně	N;NOM;SG	ADV;NEG
+utah	utahu	ut	utaha		PROPN;INAN;GEN;MASC;SG;POS
+mélységben	hloubky	mélység	hloubka	N;IN+ESS;SG	N;NOM;FEM;PL;POS
+átlátszó	průhledné	átlátszó	průhledný		ADJ;NOM;NEUT;SG;POS
+átlátszó	průhledný	átlátszó	průhledný		ADJ;INAN;NOM;MASC;SG;POS
+átlátszó	transparentní	átlátszó	transparentní		ADJ;NOM;MASC;SG;POS
+operát	opera	opera	opera	N;ACC;SG	N;NOM;FEM;SG;POS
+operát	opery	opera	opera	N;ACC;SG	N;NOM;FEM;PL;POS

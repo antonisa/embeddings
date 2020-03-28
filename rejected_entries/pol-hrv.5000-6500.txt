@@ -1,0 +1,2361 @@
+warren	warrena	warren	warren	PROPN;NOM;MASC;SG	N;ACC;MASC;SG
+warren	warren	warren	warren	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+castle	castle	castło	castle		ADP
+castle	dvorac	castło	dvorac		N;NOM;MASC;SG
+castle	zamak	castło	zamak		N;NOM;MASC;SG
+uda	bedra	udać	bedar	V;PFV;IND;SG;3;FUT;FIN;ACT	N;NOM;FEM;PL
+uda	bedro	udać	bedro	V;PFV;IND;SG;3;FUT;FIN;ACT	N;ACC;FEM;SG
+uda	bedra	udać	bedar	V;PFV;IND;SG;3;FUT;FIN;ACT	N;NOM;FEM;PL
+algierii	alžirske	algieria	alžirski	PROPN;GEN;FEM;SG	ADJ;NOM;FEM;PL
+algierii	alžiru	algieria	alžira	PROPN;GEN;FEM;SG	N;DAT;MASC;SG
+loty	letove	lot	let	N;NOM;MASC;PL	N;ACC;MASC;PL
+loty	letova	lot	let	N;NOM;MASC;PL	N;GEN;MASC;PL
+współczesna	moderni	współczesny	moderan	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+współczesna	moderna	współczesny	moderan	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;SG
+współczesna	moderne	współczesny	moderan	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+współczesna	moderno	współczesny	moderno	N;NOM;FEM;SG	ADV
+współczesna	suvremena	współczesny	suvremen	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;SG
+współczesna	suvremene	współczesny	suvremen	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+współczesna	suvremeni	współczesny	suvremen	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+psy	psima	pies	pas	N;NOM;MASC;PL	N;INS;MASC;PL
+psy	pasa	pies	pas	N;NOM;MASC;PL	N;NOM;MASC;SG
+psy	psa	pies	pas	N;NOM;MASC;PL	N;ANIM;ACC;MASC;SG
+psy	pas	pies	pas	N;NOM;MASC;PL	N;NOM;MASC;SG
+psy	dog	pies	dog	N;NOM;MASC;PL	N;NOM;MASC;SG
+psy	psu	pies	pas	N;NOM;MASC;PL	N;DAT;MASC;SG
+poetów	pjesnici	poet	pjesnik	N;GEN;MASC;PL	N;NOM;MASC;PL
+poetów	pjesnika	poet	pjesnik	N;GEN;MASC;PL	N;ANIM;ACC;MASC;SG
+liczyć	grof	liczyć	grof	V;IPFV;NFIN;ACT	N;NOM;MASC;SG
+liczyć	računajući	liczyć	računajuć	V;IPFV;NFIN;ACT	ADV;RL;PRS;V.CVB
+liczyć	brojanje	liczyć	brojanje	V;IPFV;NFIN;ACT	N;NOM;NEUT;SG
+portrety	portreta	portret	portret	N;NOM;MASC;PL	N;GEN;MASC;SG
+portrety	portrete	portret	portreta	N;NOM;MASC;PL	N;ACC;FEM;PL
+ofiarą	žrtva	ofiara	žrtva	N;INS;FEM;SG	N;NOM;FEM;SG
+pomiaru	mjerenje	pomiar	mjerenje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+pomiaru	mjerenje	pomiar	mjerenje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+pomiaru	mjerenja	pomiar	mjerenje	N;GEN;MASC;SG	N;NOM;NEUT;PL
+osobowości	osobnosti	osobowość	osobnost	N;GEN;FEM;SG	N;NOM;FEM;PL
+osobowości	osobnost	osobowość	osobnost	N;GEN;FEM;SG	N;NOM;FEM;SG
+osobowości	osobnosti	osobowość	osobnost	N;GEN;FEM;SG	N;NOM;FEM;PL
+osobowości	ličnost	osobowość	ličnost	N;GEN;FEM;SG	N;NOM;FEM;SG
+seulu	seoulu	seul	seoul	PROPN;NOM;MASC;SG	N;DAT;NEUT;SG
+poprzednie	bivši	poprzednie	bivši		ADJ;NOM;DEF;MASC;SG
+poprzednie	prethodni	poprzednie	prethodan		ADJ;NOM;DEF;MASC;SG
+poprzednie	prethodna	poprzednie	prethodan		ADJ;NOM;DEF;FEM;SG
+maryland	maryland	maryland	maryland	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+electric	električna	electric	električan		ADJ;NOM;DEF;FEM;SG
+electric	električni	electric	električan		ADJ;NOM;DEF;MASC;SG
+królową	queen	królowa	queen	N;INS;FEM;SG	ADP
+królową	matica	królowa	matica	N;INS;FEM;SG	N;NOM;FEM;SG
+królową	kraljice	królowa	kraljica	N;INS;FEM;SG	N;NOM;FEM;PL
+królową	kraljica	królowa	kraljica	N;INS;FEM;SG	N;NOM;FEM;SG
+komentarze	komentarima	komentarz	komentar	N;NOM;MASC;PL	N;DAT;MASC;PL
+komentarze	komentare	komentarz	komentar	N;NOM;MASC;PL	N;ACC;MASC;PL
+komentarze	komentara	komentarz	komentar	N;NOM;MASC;PL	N;GEN;MASC;PL
+keith	keith	keith	keith	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+naczynia	posuđe	naczynie	posuđe	N;NOM;NEUT;PL	N;NOM;NEUT;SG
+zastąpić	zamjeni	zastąpić	zamjena	V;PFV;NFIN;ACT	N;DAT;FEM;SG
+zastąpić	zamijenjena	zastąpić	zamijeniti	V;PFV;NFIN;ACT	ADJ;NOM;DEF;FEM;SG;V.PTCP
+zastąpić	zamijenjen	zastąpić	zamijeniti	V;PFV;NFIN;ACT	ADJ;NOM;INDF;MASC;SG;V.PTCP;PASS
+zastąpić	zamjena	zastąpić	zamjena	V;PFV;NFIN;ACT	N;NOM;FEM;SG
+reakcje	reakcija	reakcja	reakcija	N;NOM;FEM;PL	N;NOM;FEM;SG
+ekipa	tim	ekipa	taj	N;NOM;FEM;SG	DET;INS;NEUT;SG
+ekipa	posadi	ekipa	posada	N;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+piętrze	sprat	piętro	sprat	N;ACC;NEUT;SG	N;NOM;MASC;SG
+piętrze	kat	piętro	kat	N;ACC;NEUT;SG	N;NOM;MASC;SG
+reklamy	oglase	reklama	oglasiti	N;ACC;FEM;SG	N;ACC;MASC;PL
+reklamy	oglasi	reklama	oglas	N;ACC;FEM;SG	N;NOM;MASC;PL
+reklamy	oglašavanje	reklama	oglašavanje	N;ACC;FEM;SG	N;NOM;NEUT;SG
+reklamy	oglašavanja	reklama	oglašavanje	N;ACC;FEM;SG	N;NOM;NEUT;PL
+odznaki	značke	odznak	znački	V;IPFV;IND;SG;3;FIN;ACT	N;NOM;FEM;PL
+kent	kenta	kent	kenta	PROPN;NOM;MASC;SG	N;ACC;MASC;SG
+kent	kent	kent	kent	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+mali	mali	mala	mali		ADJ;NOM;DEF;MASC;SG
+początkowa	inicijali	początkowy	inicijala	ADJ;NOM;FEM;SG	N;NOM;MASC;PL
+pacific	pacifiku	pacifica	pacifika	N;NOM;MASC;SG	N;DAT;MASC;SG
+ralph	ralph	ralph	ralph	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+todd	todd	todd	todd	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+joan	joan	joan	joan	PROPN;NOM;MASC;SG	PROPN;NOM;FEM;SG
+encyklopedyczna	enciklopedijski	encyklopycyczny	enciklopedijski	ADJ;NOM;FEM;SG	ADV
+global	globalno	global	globalan		ADV
+karla	karla	karla	karlo		N;NOM;MASC;SG
+karla	karl	karla	karl		PROPN;NOM;MASC;SG
+ośrodki	centre	ośrodek	centar	N;NOM;MASC;PL	N;ACC;MASC;PL
+ośrodki	centara	ośrodek	centar	N;NOM;MASC;PL	N;GEN;MASC;PL
+ośrodki	centara	ośrodek	centar	N;NOM;MASC;PL	N;GEN;MASC;PL
+stwierdzenie	izjavu	stwierdzenie	izjava	N;NOM;NEUT;SG	N;ACC;FEM;SG
+zwalczania	iskorjenjivanja	zwalczać	iskorjenjivanje	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;NEUT;SG
+zwalczania	borbeno	zwalczać	borbeno	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	ADJ;NOM;NEUT;SG
+autonomii	autonomiju	autonomia	autonomija	N;GEN;FEM;SG	N;ACC;FEM;SG
+fotografie	fotografija	fotografia	fotografija	N;NOM;FEM;PL	N;NOM;FEM;SG
+zależne	ovisni	zależny	ovisni	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+zależne	podružnice	zależny	podružnica	ADJ;NOM;NEUT;SG	N;NOM;FEM;PL
+niszczyciele	razarača	niszczyciel	razarač	N;NOM;MASC;PL	N;ACC;MASC;SG
+owoców	voće	owóc	voće	N;GEN;MASC;PL	N;NOM;NEUT;SG
+owoców	voce	owóc	vociti	N;GEN;MASC;PL	N;NOM;FEM;SG
+owoców	voćni	owóc	voćni	N;GEN;MASC;PL	ADV
+owoców	plod	owóc	plod	N;GEN;MASC;PL	N;NOM;MASC;SG
+owoców	voće	owóc	voće	N;GEN;MASC;PL	N;NOM;NEUT;SG
+owoców	plodovi	owóc	plod	N;GEN;MASC;PL	N;NOM;MASC;PL
+owoców	voce	owóc	vociti	N;GEN;MASC;PL	N;NOM;FEM;SG
+męski	mužjak	męski	mužjak	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+męski	muškarac	męski	muškarac	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+chińskich	kinezi	chiński	kineg	ADJ;GEN;MASC;PL	N;NOM;MASC;PL
+chińskich	kinesko	chiński	kineski	ADJ;GEN;MASC;PL	ADJ;NOM;NEUT;SG
+chińskich	kineski	chiński	kineski	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;MASC;SG
+chińskich	kinez	chiński	kinez	ADJ;GEN;MASC;PL	N;NOM;MASC;SG
+chińskich	kineska	chiński	kineski	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;SG
+uznawane	prepoznao	uznawać	prepoznati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+uznawane	prepoznala	uznawać	prepoznati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;FEM;SG;PST;V.PTCP;ACT
+uznawane	prepoznali	uznawać	prepoznati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;PL;PST;V.PTCP;ACT
+uznawane	prepoznao	uznawać	prepoznati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+organizmów	organizmi	organizm	organizam	N;GEN;MASC;PL	N;NOM;MASC;PL
+używanie	koristeći	używać	koristiti	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	ADV;RL
+cząstek	čestice	cząstka	čestica	N;GEN;FEM;PL	N;NOM;FEM;PL
+cząstek	čestica	cząstka	čestica	N;GEN;FEM;PL	N;NOM;FEM;SG
+xxx	xxx	xxx	xxx		NUM
+duchu	duh	duch	duh	N;ACC;MASC;SG	N;NOM;MASC;SG
+duchu	ghost	duch	ghost	N;ACC;MASC;SG	ADP
+duchu	duh	duch	duh	N;ACC;MASC;SG	N;NOM;MASC;SG
+duchu	duše	duch	duša	N;ACC;MASC;SG	N;NOM;FEM;PL
+komputerów	računala	komputer	računalo	N;GEN;MASC;PL	N;NOM;NEUT;PL
+amt	amt	amt	amt		PROPN;NOM;MASC;SG
+niebo	raja	niebo	raj	N;NOM;NEUT;SG	N;GEN;MASC;SG
+niebo	nebu	niebo	nebo	N;NOM;NEUT;SG	N;DAT;MASC;SG
+niebo	sky	niebo	sky	N;NOM;NEUT;SG	PROPN;NOM;MASC;SG
+kłopoty	nevolje	kłopot	nevolja	N;ACC;MASC;PL	N;NOM;FEM;PL
+kłopoty	problemi	kłopot	problem	N;ACC;MASC;PL	N;NOM;MASC;PL
+kłopoty	nevolja	kłopot	nevolja	N;ACC;MASC;PL	N;NOM;FEM;SG
+kłopoty	nevolje	kłopot	nevolja	N;ACC;MASC;PL	N;NOM;FEM;PL
+cleveland	clevelandu	cleveland	clevelanda	N;NOM;MASC;SG	N;DAT;MASC;SG
+kampanię	kampanje	kampania	kampanja	N;ACC;FEM;SG	N;NOM;FEM;PL
+kampanię	kampanja	kampania	kampanja	N;ACC;FEM;SG	N;NOM;FEM;SG
+tłumaczy	translators	tłumaczyć	translators	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;MASC;SG
+piątej	peta	piąty	peti	ADJ;GEN;FEM;SG	ADJ;NOM;FEM;SG
+piątej	peto	piąty	peti	ADJ;GEN;FEM;SG	ADJ;NOM;NEUT;SG
+piątej	peti	piąty	peti	ADJ;GEN;FEM;SG	ADJ;NOM;MASC;SG
+wood	drvena	wood	drven		ADJ;NOM;DEF;FEM;SG
+wood	drva	wood	drvo		N;NOM;NEUT;PL
+wood	wood	wood	wood		PROPN;NOM;MASC;SG
+wood	drvo	wood	drvo		N;NOM;NEUT;SG
+odkryte	otkrio	odkryć	otkriti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+odkryte	otkriveni	odkryć	otkriti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+mont	mont	mont	mont		N;NOM;MASC;SG
+tlenu	kisik	tlen	kisik	N;GEN;MASC;SG	N;NOM;MASC;SG
+franciszkanów	franjevački	franciszkan	franjevački	N;ACC;MASC;PL	ADJ;NOM;DEF;MASC;SG
+classic	klasična	classicie	klasičan		ADJ;NOM;DEF;FEM;SG
+classic	klasično	classicie	klasičan		ADV
+classic	klasični	classicie	klasičan		ADJ;NOM;DEF;MASC;SG
+pat	zastoj	pat	zastoj		N;NOM;MASC;SG
+pat	pat	pat	pat		PROPN;NOM;MASC;SG
+solidarność	solidarnosti	solidarność	solidarnost	N;NOM;FEM;SG	N;NOM;FEM;PL
+castro	castro	castro	castro	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+zalecenia	preporuka	zalecenie	preporuka	N;NOM;NEUT;PL	N;NOM;FEM;SG
+zalecenia	preporuku	zalecenie	preporuka	N;NOM;NEUT;PL	N;ACC;FEM;SG
+roberts	roberts	roberts	roberts	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+róża	ruža	róża	ruž		N;NOM;FEM;SG
+róża	rose	róża	rose		N;NOM;FEM;SG
+róża	rosa	róża	rosa		N;NOM;FEM;SG
+armaty	top	armata	top	N;ACC;FEM;SG	N;NOM;MASC;SG
+armaty	topovi	armata	top	N;ACC;FEM;SG	N;NOM;MASC;PL
+armaty	topove	armata	top	N;ACC;FEM;SG	N;ACC;MASC;PL
+armaty	topova	armata	top	N;ACC;FEM;SG	N;GEN;MASC;PL
+jung	jung	junga	jung	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+dowody	dokaz	dowód	dokaz	N;NOM;MASC;PL	N;NOM;MASC;SG
+dowody	dokaz	dowód	dokaz	N;NOM;MASC;PL	N;NOM;MASC;SG
+ósemka	osam	ósemka	osam	N;NOM;FEM;SG	NUM
+obsługiwane	podržavao	obsługiwać	podržavati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+obsługiwane	podržava	obsługiwać	podržavati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;IND;SG;3;PRS;FIN
+obsługiwane	operirao	obsługiwać	operirati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+impreza	party	impreza	Party	N;NOM;FEM;SG	PROPN;NOM;MASC;SG
+uszkodzony	oštećeni	uszkodzić	oštećen	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+administratorem	admin	administrator	admin	N;INS;MASC;SG	N;NOM;MASC;SG
+administratorem	administrator	administrator	administrator	N;INS;MASC;SG	N;NOM;MASC;SG
+administratorem	administratora	administrator	administrator	N;INS;MASC;SG	N;ANIM;ACC;MASC;SG
+administratorem	administrator	administrator	administrator	N;INS;MASC;SG	N;NOM;MASC;SG
+airways	airways	airways	airways		N;NOM;MASC;SG
+trofeum	trofej	trofeum	trofej	N;ACC;MASC;SG	N;NOM;MASC;SG
+mandatu	mandat	mandat	mandat	N;GEN;MASC;SG	N;NOM;MASC;SG
+legia	legija	legia	legija		N;NOM;FEM;SG
+legia	legia	legia	legia		N;NOM;MASC;SG
+pfalz	pfalz	pfalzyć	pfalz	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+zabrze	zabrze	zabrze	zabrz	PROPN;NOM;MASC;SG	
+iran	iranu	iran	irana	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+iran	irana	iran	irana	PROPN;NOM;MASC;SG	N;GEN;MASC;SG
+iran	iran	iran	iran	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+icao	icao	icao	ica		N;NOM;MASC;SG
+han	hana	han	hana	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+han	han	han	han	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+pisanie	pišem	pisać	pisati	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;1;PRS;FIN
+pisanie	pisem	pisać	pis	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;1;PRS;FIN
+olympic	olimpijski	olympic	olimpijski		ADV
+olympic	olympic	olympic	olympic		ADP
+słownika	rječnik	słownik	rječnik	N;GEN;MASC;SG	N;NOM;MASC;SG
+dochód	prihodi	dochód	prihod	N;NOM;MASC;SG	N;NOM;MASC;PL
+dochód	prihodi	dochód	prihod	N;NOM;MASC;SG	N;NOM;MASC;PL
+dochód	primanja	dochód	primanje	N;NOM;MASC;SG	N;NOM;NEUT;PL
+winter	zime	winter	zima		N;NOM;FEM;PL
+winter	zima	winter	zima		N;NOM;FEM;SG
+winter	zimi	winter	zim		ADV
+poprawki	korekcije	poprawka	korekcija	N;ACC;FEM;PL	N;NOM;FEM;PL
+poprawki	amandmana	poprawka	amandman	N;ACC;FEM;PL	N;GEN;MASC;PL
+poprawki	revizije	poprawka	revizija	N;ACC;FEM;PL	N;NOM;FEM;PL
+samolotem	zrakoplov	samolot	zrakoplov	N;INS;MASC;SG	N;NOM;MASC;SG
+samolotem	avion	samolot	avion	N;INS;MASC;SG	N;NOM;MASC;SG
+samolotem	zrakoplov	samolot	zrakoplov	N;INS;MASC;SG	N;NOM;MASC;SG
+samolotem	avion	samolot	avion	N;INS;MASC;SG	N;NOM;MASC;SG
+zhang	zhang	zhang	zhang	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+anioł	anđela	anioł	anđeo	N;NOM;MASC;SG	N;ACC;MASC;SG
+anioł	angel	anioł	angel	N;NOM;MASC;SG	ADP
+seattle	seattle	seatle	settlli	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+nadawania	emitiranje	nadawać	emitiranje	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;NEUT;SG
+zbędne	nepotrebno	zbędny	nepotreban	ADJ;NOM;NEUT;SG	ADV
+zbędne	nepotrebne	zbędny	nepotreban	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+zawartych	zaključio	zawrzeć	zaključiti	ADJ;PFV;GEN;MASC;PL;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+dzieciństwie	djetinjstvo	dzieciństwo	djetinjstvo	N;DAT;NEUT;SG	N;NOM;NEUT;SG
+dzieciństwie	djetinjstva	dzieciństwo	djetinjstvo	N;DAT;NEUT;SG	N;NOM;NEUT;PL
+santo	santo	santo	santo	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+bristol	bristol	bristol	bristol	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+centralna	središnje	centralny	središnji	ADJ;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+centralna	central	centralny	central	ADJ;NOM;FEM;SG	N;NOM;MASC;SG
+mosty	mostove	most	most	N;NOM;MASC;PL	N;ACC;MASC;PL
+mosty	mostova	most	most	N;NOM;MASC;PL	N;GEN;MASC;PL
+traci	traci	tracić	traka	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DAT;FEM;SG
+działki	zavjere	działka	zavjera	N;ACC;FEM;PL	N;NOM;FEM;PL
+działki	parcele	działka	parcela	N;ACC;FEM;PL	N;NOM;FEM;PL
+działki	parcele	działka	parcela	N;ACC;FEM;PL	N;NOM;FEM;PL
+działki	parcela	działka	parcela	N;ACC;FEM;PL	N;NOM;FEM;SG
+działki	zavjeru	działka	zavjera	N;ACC;FEM;PL	N;ACC;FEM;SG
+działki	zavjera	działka	zavjera	N;ACC;FEM;PL	N;NOM;FEM;SG
+działki	zemljište	działka	zemljište	N;ACC;FEM;PL	N;NOM;NEUT;SG
+działki	parcela	działka	parcela	N;ACC;FEM;PL	N;NOM;FEM;SG
+krajowym	domaći	krajowy	domaći	ADJ;INS;MASC;SG	ADJ;NOM;DEF;MASC;SG
+krajowym	domaće	krajowy	domaći	ADJ;INS;MASC;SG	ADJ;NOM;DEF;FEM;PL
+krajowym	domaća	krajowy	domaći	ADJ;INS;MASC;SG	ADJ;NOM;DEF;FEM;SG
+gilbert	gilbert	gilbert	gilbert	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+równanie	jednadžbe	równać	jednadžba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+równanie	jednadžbe	równać	jednadžba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+davisa	davis	davisa	davis		PROPN;NOM;MASC;SG
+rzekomo	navodno	rzekomo	navodno	N;DAT;FEM;PL	ADV
+więzień	zatvorenik	więzienie	zatvoren	N;GEN;NEUT;PL	N;NOM;MASC;SG
+więzień	zatvorenik	więzienie	zatvoren	N;GEN;NEUT;PL	N;NOM;MASC;SG
+poinformował	informirani	poinformować	informirati	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;MASC;PL;V.PTCP
+jasno	bistar	jasno	bistar	ADV	ADJ;NOM;INDF;MASC;SG
+jasno	bright	jasno	bright	ADV	ADP
+kuba	kubu	kuba	kub	PROPN;NOM;MASC;SG	N;ACC;FEM;SG
+kuba	kube	kuba	kubiti	PROPN;NOM;MASC;SG	N;NOM;FEM;PL
+kuba	kubi	kuba	kubiti	PROPN;NOM;MASC;SG	N;DAT;FEM;SG
+kuba	kuba	kuba	kub	PROPN;NOM;MASC;SG	PROPN;NOM;FEM;SG
+utc	utc	utco	utc		PROPN;NOM;MASC;SG
+felix	felix	felix	felix	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+aktualne	struja	aktualny	struja	ADJ;NOM;NEUT;SG	N;NOM;FEM;SG
+franka	frank	franek	frank		PROPN;NOM;MASC;SG
+dachau	dachau	dachau	dachau	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+przemiany	transformacija	przemiać	transformacija	N;ACC;FEM;SG	N;NOM;FEM;SG
+dziwne	čudno	dziwny	čudno	ADJ;NOM;NEUT;SG	ADV
+dziwne	čudno	dziwny	čudno	ADJ;NOM;NEUT;SG	ADV
+dziwne	čudno	dziwny	čudno	ADJ;NOM;NEUT;SG	ADV
+zagraniczne	strani	zagraniczny	strana	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+wyrzutni	lanser	wyrzutniać	lanser	V;IPFV;IND;SG;FIN;ACT	N;NOM;MASC;SG
+wyrzutni	pokretač	wyrzutniać	pokretač	V;IPFV;IND;SG;FIN;ACT	N;NOM;MASC;SG
+turynie	torinu	turyn	torina	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+recenzji	kritike	recenzja	kritika	V;IPFV;IND;SG;2;FIN;ACT	N;NOM;FEM;PL
+brzegi	rubove	brzeg	rub	N;NOM;MASC;PL	N;ACC;MASC;PL
+urban	urbana	urbany	urban		ADJ;NOM;DEF;FEM;SG
+fotograf	fotografa	fotograf	fotograf	N;NOM;MASC;SG	N;ANIM;ACC;MASC;SG
+zaatakował	napadnuti	zaatakować	napadnuti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zaatakował	napadnut	zaatakować	napadnut	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP
+zaatakował	napadnuta	zaatakować	napasti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;FEM;SG;V.PTCP
+zaatakował	napadnuti	zaatakować	napadnuti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zaatakował	napadnut	zaatakować	napadnut	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP
+zaatakował	napadnuta	zaatakować	napasti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;FEM;SG;V.PTCP
+turystyczna	turističko	turystyczny	turistički	ADJ;NOM;FEM;SG	ADV
+turystyczna	turista	turystyczny	turist	ADJ;NOM;FEM;SG	N;GEN;MASC;PL
+turystyczna	turist	turystyczny	turist	ADJ;NOM;FEM;SG	N;NOM;MASC;SG
+turystyczna	turistički	turystyczny	turistički	ADJ;NOM;FEM;SG	ADV
+symboli	simboli	symbolia	simbol		N;NOM;MASC;PL
+podania	prijave	podać	prijava	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;FEM;PL
+podania	aplikacije	podać	aplikacija	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;FEM;PL
+zabił	ubijen	zabić	ubiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+korporacji	korporacija	korporacja	korporacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+korporacji	korporacije	korporacja	korporacija	N;GEN;FEM;SG	N;NOM;FEM;PL
+korporacji	korporacija	korporacja	korporacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+ludzkości	čovječanstvo	ludzkość	čovječanstvo	N;GEN;FEM;SG	N;NOM;NEUT;SG
+ludzkości	ljudskost	ludzkość	ljudskost	N;GEN;FEM;SG	N;NOM;FEM;SG
+ludzkości	humanost	ludzkość	humanost	N;GEN;FEM;SG	N;NOM;FEM;SG
+ludzkości	čovječanstvo	ludzkość	čovječanstvo	N;GEN;FEM;SG	N;NOM;NEUT;SG
+twierdza	tvrđava	twierdzać	tvrđava		N;NOM;FEM;SG
+twierdza	utvrda	twierdzać	utvrda		N;NOM;FEM;SG
+obserwacje	promatranje	obserwacja	promatranje	N;NOM;FEM;PL	N;NOM;NEUT;SG
+satelity	sateliti	satelita	satelit	N;ACC;FEM;PL	N;NOM;MASC;PL
+satelity	satelitski	satelita	satelitski	N;ACC;FEM;PL	ADJ;NOM;DEF;MASC;SG
+satelity	satelitska	satelita	satelitski	N;ACC;FEM;PL	ADJ;NOM;DEF;FEM;SG
+satelity	satelit	satelita	satelit	N;ACC;FEM;PL	N;NOM;MASC;SG
+szyi	vrat	szyi	vrat		N;NOM;MASC;SG
+młodzi	mladi	młody	mlad	N;NOM;MASC;PL	ADJ;NOM;DEF;MASC;PL
+młodzi	mlad	młody	mlad	N;NOM;MASC;PL	ADJ;NOM;INDF;MASC;SG
+młodzi	mlada	młody	mlad	N;NOM;MASC;PL	ADJ;NOM;FEM;SG
+młodzi	mlade	młody	mlad	N;NOM;MASC;PL	ADJ;ACC;DEF;MASC;PL
+młodzi	mlado	młody	mlado	N;NOM;MASC;PL	ADJ;NOM;NEUT;SG
+akademickich	akademske	akademicki	akademski	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;PL
+akademickich	akademski	akademicki	akademski	ADJ;GEN;MASC;PL	ADV
+stalina	staljin	stalina	staljin		N;NOM;MASC;SG
+borys	boris	borys	boris	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+uznana	prepoznao	uznać	prepoznati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+uznana	prepoznala	uznać	prepoznati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;FEM;SG;PST;V.PTCP;ACT
+uznana	prepoznali	uznać	prepoznati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;PL;PST;V.PTCP;ACT
+uznana	prepoznao	uznać	prepoznati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+tożsamość	identitet	tożsamość	identitet	N;ACC;FEM;SG	N;NOM;MASC;SG
+machine	machine	machina	machina		PROPN;NOM;MASC;SG
+machine	stroj	machina	stroj		N;NOM;MASC;SG
+machine	mašina	machina	mašina		N;NOM;FEM;SG
+machine	masina	machina	masina		N;NOM;FEM;SG
+składników	sastojci	składnik	sastojac	N;GEN;MASC;PL	N;NOM;MASC;PL
+sławy	slava	sława	slava		N;NOM;FEM;SG
+sławy	slave	sława	slava		N;NOM;FEM;PL
+sławy	slavu	sława	slava		N;ACC;FEM;SG
+wykonawcy	izvođač	wykonawca	izvođač	N;NOM;MASC;PL	N;NOM;MASC;SG
+beta	beta	bet	beta		N;NOM;FEM;SG
+rodríguez	rodriguez	rodríguez	rodriguez	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+rodríguez	rodríguez	rodríguez	rodríguez	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+zysk	zarade	zysk	zarada	N;NOM;MASC;SG	N;NOM;FEM;PL
+zysk	zarade	zysk	zarada	N;NOM;MASC;SG	N;NOM;FEM;PL
+ring	prsten	ring	prsten		N;NOM;MASC;SG
+instruktor	instruktora	instruktor	instruktor	N;NOM;MASC;SG	N;ANIM;ACC;MASC;SG
+iata	iata	iato	iata		N;NOM;FEM;SG
+wykonywanie	nastupa	wykonywać	nastupati	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PRS;FIN
+resztki	ostaci	resztka	ostatak	N;ACC;FEM;PL	N;NOM;MASC;PL
+resztki	ostatci	resztka	ostatak	N;ACC;FEM;PL	N;NOM;MASC;PL
+zagrożony	prijetio	zagrożyć	prijetiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+zagrożony	prijeti	zagrożyć	prijetiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;IND;SG;3;PRS;FIN
+martínez	martínez	martrnez	martínez	PROPN;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+dzieciństwa	djetinjstvo	dzieciństwo	djetinjstvo	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+dzieciństwa	djetinjstva	dzieciństwo	djetinjstvo	N;GEN;NEUT;SG	N;NOM;NEUT;PL
+portów	lukama	port	luka	N;GEN;MASC;PL	N;INS;FEM;PL
+nicholas	nikolas	nicholas	nikolas	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+nicholas	nikola	nicholas	nikola	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+nicholas	nicholas	nicholas	nicholas	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+nicholas	nikole	nicholas	nikola	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+mateusza	matthew	mateusz	matthew	N;ACC;MASC;SG	N;NOM;MASC;SG
+mateusza	matej	mateusz	matej	N;ACC;MASC;SG	PROPN;NOM;MASC;SG
+punk	punk	punk	punk		N;NOM;MASC;SG
+brać	uzmi	brać	uzmi	V;IPFV;NFIN;ACT	INTJ
+specjalistów	specijalisti	specjalista	specijalist	N;ACC;MASC;PL	N;NOM;MASC;PL
+specjalistów	profesionalci	specjalista	profesionalac	N;ACC;MASC;PL	N;NOM;MASC;PL
+spencer	spencer	spencer	spencer	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+spencer	spenser	spencer	spenser	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+wiatru	vetar	wiatr	vetar	N;GEN;MASC;SG	N;NOM;MASC;SG
+wiatru	vjetar	wiatr	vjetar	N;GEN;MASC;SG	N;NOM;MASC;SG
+syberii	sibir	syberia	sibir	N;GEN;FEM;SG	N;NOM;MASC;SG
+syberii	sibiru	syberia	sibir	N;GEN;FEM;SG	N;DAT;MASC;SG
+przedstawiciela	predstavnica	przedstawiciel	predstavnica	N;ACC;MASC;SG	N;NOM;FEM;SG
+przedstawiciela	predstavnik	przedstawiciel	predstavnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+piwo	pivu	piwo	piv	N;NOM;NEUT;SG	N;DAT;MASC;SG
+piwo	pive	piwo	piviti	N;NOM;NEUT;SG	N;NOM;FEM;PL
+piwo	pive	piwo	piviti	N;NOM;NEUT;SG	N;NOM;FEM;PL
+arystokrata	aristokrata	arystokrata	aristokrat	N;NOM;MASC;SG	N;ACC;MASC;SG
+kultur	kulture	kultur	kultura		N;NOM;FEM;PL
+willi	willi	willa	willa	N;GEN;FEM;SG	PROPN;NOM;MASC;SG
+willi	vili	willa	vila	N;GEN;FEM;SG	N;DAT;FEM;SG
+willi	vile	willa	mnle	N;GEN;FEM;SG	N;NOM;FEM;PL
+katastrof	katastrofe	katastrofa	katastrofa	N;GEN;FEM;PL	N;NOM;FEM;PL
+komenda	naredba	komenda	naredba		N;NOM;FEM;SG
+atlantic	atlantic	atlantic	atlantic		N;NOM;MASC;SG
+atlantic	atlantik	atlantic	atlantik		N;NOM;MASC;SG
+uni	uni	unia	uni		N;NOM;MASC;SG
+pokonać	beat	pokonać	beat	V;PFV;NFIN;ACT	ADP
+pokonać	poraz	pokonać	poraz	V;PFV;NFIN;ACT	N;NOM;MASC;SG
+pokonać	porazi	pokonać	poraziti	V;PFV;NFIN;ACT	N;NOM;MASC;PL
+pokonać	poraza	pokonać	poraz	V;PFV;NFIN;ACT	N;GEN;MASC;SG
+age	dob	age	dob		N;NOM;FEM;SG
+age	godine	age	godina		N;GEN;FEM;SG
+age	dobi	age	dob		N;DAT;FEM;SG
+age	godište	age	godište		N;NOM;NEUT;SG
+rysunek	sliku	rysunek	slika	N;NOM;MASC;SG	N;ACC;FEM;SG
+widząc	vidjevši	widzieć	vidjeti	V;IPFV;PRS;V.CVB;ACT	ADV;PRS;V.CVB
+panorama	panorama	panoram	panora	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL
+gitarze	gitaru	gitarz	gitara	V;IPFV;IND;SG;PRS;FIN;ACT	N;ACC;FEM;SG
+gitarze	gitare	gitarz	gitara	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;FEM;PL
+gitarze	gitara	gitarz	gitar	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;FEM;SG
+dole	dno	dół	dno	V;PFV;IND;SG;PRS;FIN;ACT	N;NOM;NEUT;SG
+marsa	marsa	marsa	marsa		N;GEN;MASC;SG
+marsa	mars	marsa	mars		N;NOM;MASC;SG
+podpis	naslov	podpis	naslov	N;ACC;MASC;SG	N;NOM;MASC;SG
+podpis	potpis	podpis	potpis	N;ACC;MASC;SG	N;NOM;MASC;SG
+znajomości	veze	znajomość	veza	N;GEN;FEM;SG	N;NOM;FEM;PL
+nigerii	nigerijski	nigeria	nigerijski		ADJ;NOM;DEF;MASC;SG
+nigerii	nigeriji	nigeria	nigerij		N;DAT;FEM;SG
+potencjał	potencijalna	potencjać	potencijalan	N;ACC;MASC;SG	ADJ;NOM;DEF;FEM;SG
+potencjał	potencijalni	potencjać	potencijalan	N;ACC;MASC;SG	ADJ;NOM;DEF;MASC;SG
+potencjał	potencijal	potencjać	potencijal	N;ACC;MASC;SG	N;NOM;MASC;SG
+włoskie	talijan	włoski	talijan	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+xbox	xbox	xbox	xbox		PROPN;NOM;MASC;SG
+wirginia	virginiji	wirginia	virginija		N;DAT;FEM;SG
+wirginia	virginia	wirginia	virgina		PROPN;NOM;FEM;SG
+wirginia	virginiju	wirginia	virgin		N;ACC;FEM;SG
+dick	dick	dick	dick	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+dick	kurac	dick	kurac	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+konie	konje	koń	konje	N;NOM;MASC;PL	N;ACC;MASC;PL
+konie	konjima	koń	konj	N;NOM;MASC;PL	N;DAT;MASC;PL
+konie	konj	koń	konj	N;NOM;MASC;PL	N;NOM;MASC;SG
+konie	konju	koń	konj	N;NOM;MASC;PL	N;DAT;MASC;SG
+konie	konja	koń	konj	N;NOM;MASC;PL	N;ACC;MASC;SG
+agresji	agresija	agresja	agresija	N;GEN;FEM;SG	N;NOM;FEM;SG
+agresji	agresivnost	agresja	agresivnost	N;GEN;FEM;SG	N;NOM;FEM;SG
+kiss	poljubac	kiss	poljubac		N;NOM;MASC;SG
+kiss	pusa	kiss	pus		N;NOM;FEM;SG
+kiss	kiss	kiss	kiss		ADP
+kiss	ljubim	kiss	ljubiti		V;IND;SG;1;PRS;FIN
+rezerw	pričuve	rezerw	pričuva		N;NOM;FEM;PL
+rezerw	pričuva	rezerw	pričuva		N;NOM;FEM;SG
+rezerw	rezerve	rezerw	rezerva		N;NOM;FEM;PL
+kolejność	naruči	kolejność	naručiti	N;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+imigrantów	imigranti	imigrant	imigrant	N;GEN;MASC;PL	N;NOM;MASC;PL
+imigrantów	imigrante	imigrant	imigrant	N;GEN;MASC;PL	N;ACC;MASC;PL
+imigrantów	imigrant	imigrant	imigrant	N;GEN;MASC;PL	N;NOM;MASC;SG
+angelo	angelo	angelo	angelo		N;NOM;MASC;SG
+mostów	mostove	most	most	N;GEN;MASC;PL	N;ACC;MASC;PL
+mostów	mostovi	most	most	N;GEN;MASC;PL	N;NOM;MASC;PL
+petra	petru	petr	petar	PROPN;NOM;FEM;SG	N;DAT;MASC;SG
+petra	petra	petr	petar	PROPN;NOM;FEM;SG	N;NOM;MASC;SG
+bułgaria	bugarskoj	bułgarium	bugarski	N;NOM;FEM;SG	ADJ;DAT;FEM;SG
+bułgaria	bugarska	bułgarium	bugarski	N;NOM;FEM;SG	ADJ;NOM;FEM;SG
+straße	straße	stras	straka	INTJ	N;NOM;MASC;SG
+kopia	kopiraj	kopia	kopiraj	N;NOM;FEM;SG	INTJ
+bogate	rich	bogaty	rich	ADJ;NOM;NEUT;SG	ADP
+odziedziczył	nasljedno	odziedziczyć	nasljedno	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADV
+delegacji	delegacija	delegacja	delegacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+delegacji	izaslanstvo	delegacja	izaslanstvo	N;GEN;FEM;SG	N;NOM;NEUT;SG
+delegacji	izaslanstva	delegacja	izaslanstvo	N;GEN;FEM;SG	N;NOM;NEUT;PL
+ems	ems	ems	ems		PROPN;NOM;MASC;SG
+chelsea	chelsea	chelsie	chelse		N;ACC;MASC;SG
+wątek	konac	wątek	konac	N;ACC;MASC;SG	N;NOM;MASC;SG
+wątek	nit	wątek	nit	N;ACC;MASC;SG	
+związani	vezana	związać	vezan	ADJ;NOM;MASC;PL	ADJ;NOM;DEF;FEM;SG
+nigdzie	nigdje	nigdzie	nigdje		ADV
+ograniczone	ograničene	ograniczyć	ograničen	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL;V.PTCP
+amerykanów	amerikanci	amerykanin	amerikanac	N;GEN;MASC;PL	N;NOM;MASC;PL
+dowolny	bilo	dowolny	biti	ADJ;NOM;MASC;SG	V;NEUT;SG;PST;V.PTCP;ACT
+sosnowiec	sosnowiec	sosnowiec	sosnowiec		ADV
+alfons	alfonso	alfons	alfonso	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+alfons	makro	alfons	makro	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+alfons	svodnik	alfons	svodnik	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+amerykanin	američki	amerykanin	američki	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+amerykanin	american	amerykanin	american	N;NOM;MASC;SG	ADP
+amerykanin	američka	amerykanin	američki	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+teorie	teorija	teoria	teorija	N;NOM;FEM;PL	N;NOM;FEM;SG
+hierarchii	hijerarhiji	hierarchia	hijerarhija	N;GEN;FEM;SG	N;DAT;FEM;SG
+centralne	središnje	centralny	središnji	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+centralne	central	centralny	central	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+porsche	porsche	porscha	porscha		N;NOM;MASC;SG
+emilia	emilia	emilia	emili	PROPN;NOM;FEM;SG	PROPN;NOM;MASC;SG
+emilia	emilie	emilia	emilia	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+powiązane	povezani	powiązać	povezan	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL
+powiązane	spojeni	powiązać	spojen	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+powiązane	povezani	powiązać	povezan	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL
+bolszewików	boljševici	bolszewik	boljševica	N;ACC;MASC;PL	N;NOM;MASC;PL
+milion	milijun	milion	milijun		N;NOM;MASC;SG
+etiopii	etiopiji	etiopia	etiopija		N;DAT;FEM;SG
+etiopii	etiopski	etiopia	etiopski		ADJ;NOM;DEF;MASC;SG
+doświadczeń	iskustava	doświadczenie	iskustvo	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+doświadczeń	iskustvima	doświadczenie	iskustvo	N;GEN;NEUT;PL	N;DAT;NEUT;PL
+doświadczeń	iskustva	doświadczenie	iskustvo	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+otwór	rupu	otwór	rupa	N;NOM;MASC;SG	N;ACC;FEM;SG
+justyna	justine	justyn	justina	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+justyna	justin	justyn	justin	PROPN;NOM;FEM;SG	N;NOM;MASC;SG
+justyna	justina	justyn	justina	PROPN;NOM;FEM;SG	N;ACC;MASC;SG
+propagandy	propagandu	propaganda	propaganda	N;GEN;FEM;SG	N;ACC;FEM;SG
+propagandy	propaganda	propaganda	propaganda	N;GEN;FEM;SG	N;NOM;FEM;SG
+odpowiedzialność	odgovornosti	odpowiedzialność	odgovornost	N;NOM;FEM;SG	N;NOM;FEM;PL
+odpowiedzialność	odgovornosti	odpowiedzialność	odgovornost	N;NOM;FEM;SG	N;NOM;FEM;PL
+odpowiedzialność	odgovornosti	odpowiedzialność	odgovornost	N;NOM;FEM;SG	N;NOM;FEM;PL
+police	policija	polic	policija		N;NOM;FEM;SG
+bundesligi	bundesliga	bundesliga	bundesliga	N;ACC;MASC;PL	N;NOM;FEM;SG
+dysku	disk	dysk	disk	N;GEN;MASC;SG	N;NOM;MASC;SG
+hokej	hokeju	hok	hokej	N;NOM;MASC;SG	N;DAT;MASC;SG
+liu	liu	liel	liu	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+wyjaśnienia	objašnjenja	wyjaśnienie	objašnjenje	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+ołeksandr	oleksandr	ołeksandr	oleksandr	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+okrążenia	krugova	okrążyć	krug	N;NOM;NEUT;PL	N;GEN;MASC;PL
+okrążenia	krilo	okrążyć	krilo	N;NOM;NEUT;PL	N;NOM;NEUT;SG
+współrzędnych	koordinate	współrzędny	koordinat	ADJ;GEN;MASC;PL	N;NOM;FEM;PL
+marynarzy	mornare	marynarz	mornar	N;GEN;MASC;PL	N;NOM;FEM;PL
+marynarzy	mornari	marynarz	mornar	N;GEN;MASC;PL	N;NOM;MASC;PL
+marynarzy	pomorci	marynarz	pomorac	N;GEN;MASC;PL	N;NOM;MASC;PL
+avenue	avenije	avenu	avenija		N;NOM;FEM;PL
+avenue	avenue	avenu	avenue		N;NOM;MASC;SG
+avenue	avenija	avenu	avenija		N;NOM;FEM;SG
+gustav	gustav	gustav	gustav	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+mobile	mobilni	mobil	mobilan		ADJ;NOM;DEF;MASC;SG
+mobile	mobitel	mobil	mobitel		N;NOM;MASC;SG
+filadelfii	philly	filadelfia	philly	PROPN;NOM;MASC;SG	
+filadelfii	philadelphiji	filadelfia	philadelphija	PROPN;NOM;MASC;SG	N;DAT;FEM;SG
+filadelfii	philadelphia	filadelfia	philadelphia	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+poczta	objavi	poczta	objaviti	N;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+wenus	venera	wenus	venera		N;NOM;FEM;SG
+graf	graf	grafa	graf		N;NOM;MASC;SG
+cosworth	cosworth	coswory	cosworth		N;NOM;MASC;SG
+funduszu	fond	fundusz	fond	N;GEN;MASC;SG	N;NOM;MASC;SG
+felipe	felipe	felipy	felipa	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+wyróżnić	vrhunac	wyróżnić	vrhunac	V;PFV;NFIN;ACT	N;NOM;MASC;SG
+zurychu	zurichu	zurych	zurich	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+pasażerski	putnik	pasażerski	putnik	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+pasażerski	putnika	pasażerski	putnik	ADJ;NOM;MASC;SG	N;ACC;MASC;SG
+cia	cia	cia	cia		N;NOM;MASC;SG
+cia	cia	cia	cia		N;NOM;MASC;SG
+cia	cla	cia	cl		N;NOM;MASC;SG
+pojedynczy	single	pojedynczy	single	ADJ;NOM;MASC;SG	ADP
+pojedynczy	samac	pojedynczy	samac	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+pojedynczy	singl	pojedynczy	singl	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+sprinter	sprinter	sprinter	sprinter		N;NOM;MASC;SG
+ból	bolovi	ból	bol	N;NOM;MASC;SG	N;NOM;MASC;PL
+rgb	rgb	rgba	rgb		N
+pierwotne	primarno	pierwotny	primarno	ADJ;NOM;NEUT;SG	ADV
+grobu	grob	grób	grob	N;GEN;MASC;SG	N;NOM;MASC;SG
+grobu	groba	grób	grob	N;GEN;MASC;SG	N;ACC;MASC;SG
+kupił	kupljen	kupić	kupiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+kupił	kupljeno	kupić	kupljen	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS
+kupił	kupljena	kupić	kupiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;FEM;SG;V.PTCP
+justin	justin	justin	justin	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+justin	justina	justin	justina	PROPN;NOM;MASC;SG	N;ACC;MASC;SG
+beck	beck	beck	beck	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+beck	bek	beck	bek	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+true	istinito	true	istinit		ADJ;NOM;DEF;NEUT;SG
+true	istina	true	istina		N;NOM;FEM;SG
+ginie	gina	ginąć	gina	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;SG
+collegium	collegium	collegium	collegium		ADP
+indianapolis	indianapolisu	indianapolis	indianapolis	N;NOM;MASC;SG	N;DAT;MASC;SG
+kadetów	kadeti	kadeta	kadet	N;GEN;MASC;PL	N;NOM;MASC;PL
+sprawdzone	provjerio	sprawdzić	provjeriti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+sprawdzone	provjereno	sprawdzić	provjeren	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADV
+sprawdzone	provjereno	sprawdzić	provjeren	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADV
+sprawdzone	testirao	sprawdzić	testirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+sprawdzone	testirali	sprawdzić	testirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;PL;PST;V.PTCP;ACT
+żużlu	speedway	żużel	speedway		N;NOM;MASC;SG
+rzymskie	roman	rzymski	roman	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+rzymskie	romane	rzymski	roman	ADJ;NOM;NEUT;SG	N;ACC;MASC;PL
+hampshire	hampshire	hampshiry	hampshire		N;NOM;MASC;SG
+motywy	recitala	motyw	recitati	N;NOM;MASC;PL	N;ACC;MASC;SG
+motywy	motive	motyw	motiv	N;NOM;MASC;PL	N;ACC;MASC;PL
+motywy	motiva	motyw	motiv	N;NOM;MASC;PL	N;NOM;MASC;SG
+tras	ruta	tras	ruta	N;GEN;FEM;PL	N;NOM;FEM;SG
+tras	rute	tras	ruta	N;GEN;FEM;PL	N;NOM;FEM;PL
+hart	hart	hart	hart		PROPN;NOM;MASC;SG
+khan	khan	khana	khan	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+khan	kan	khana	kan	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+luca	luca	luca	luc	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+akademickie	akademske	akademicki	akademski	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+akademickie	akademski	akademicki	akademski	ADJ;NOM;NEUT;SG	ADV
+dialogi	dijaloge	dialoga	dijalog	N;NOM;MASC;PL	N;ACC;MASC;PL
+aparatu	kameru	aparat	kamera	N;GEN;MASC;SG	N;ACC;FEM;SG
+aparatu	fotoaparat	aparat	fotoaparat	N;GEN;MASC;SG	N;NOM;MASC;SG
+aparatu	kamera	aparat	kamera	N;GEN;MASC;SG	N;NOM;FEM;SG
+aparatu	kamere	aparat	kamera	N;GEN;MASC;SG	N;NOM;FEM;PL
+przywilej	privilegije	przywilej	privilegija	N;ACC;MASC;SG	N;NOM;FEM;PL
+przywilej	privilegija	przywilej	privilegija	N;ACC;MASC;SG	N;NOM;FEM;SG
+przywilej	povlastica	przywilej	povlastica	N;ACC;MASC;SG	N;NOM;FEM;SG
+przywilej	privilegije	przywilej	privilegija	N;ACC;MASC;SG	N;NOM;FEM;PL
+przywilej	povlastice	przywilej	povlastica	N;ACC;MASC;SG	N;NOM;FEM;PL
+przywilej	privilegija	przywilej	privilegija	N;ACC;MASC;SG	N;NOM;FEM;SG
+sri	sri	srać	sri	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+lekki	svjetlo	lekki	svjetlo	ADJ;NOM;MASC;SG	N;NOM;NEUT;SG
+lekki	svijetlo	lekki	svijetlo	ADJ;NOM;MASC;SG	ADV
+lekki	svjetlost	lekki	svjetlost	ADJ;NOM;MASC;SG	N;NOM;FEM;SG
+karaibów	karibima	karaib	karib	N;GEN;MASC;PL	N;DAT;MASC;PL
+karaibów	kariba	karaib	kariba	N;GEN;MASC;PL	N;GEN;MASC;SG
+konserwatorium	konzervatoriju	konserwatorium	konzervatorij	N;ACC;NEUT;SG	N;DAT;MASC;SG
+roll	roll	roll	roll		N;NOM;MASC;SG
+uchodźców	izbjeglica	uchodźca	izbjeglica	N;ACC;MASC;PL	N;GEN;MASC;PL
+uchodźców	izbjeglica	uchodźca	izbjeglica	N;ACC;MASC;PL	N;GEN;MASC;PL
+uchodźców	izbjeglice	uchodźca	izbjeglica	N;ACC;MASC;PL	N;NOM;MASC;PL
+owoc	voćni	owoc	voćni	N;NOM;MASC;SG	ADV
+empire	empire	empir	empir		ADP
+empire	carstva	empir	carstvo		N;NOM;NEUT;PL
+empire	carstvo	empir	carstvo		N;NOM;NEUT;SG
+empire	imperija	empir	imperija		N;GEN;MASC;SG
+pióra	olovke	pióra	olovka	N;ACC;NEUT;PL	N;NOM;FEM;PL
+pióra	pera	pióra	perati	N;ACC;NEUT;PL	N;NOM;MASC;SG
+pióra	perje	pióra	perje	N;ACC;NEUT;PL	N;NOM;NEUT;SG
+ski	ski	skiot	ski		PROPN;NOM;MASC;SG
+okręgów	okruga	okręg	okruga	N;GEN;MASC;PL	N;GEN;MASC;SG
+regularne	redovito	regularny	redovito	ADJ;NOM;NEUT;SG	ADV
+regularne	redovno	regularny	redovno	ADJ;NOM;NEUT;SG	ADV
+break	break	break	break		ADP
+break	slomi	break	sloma		V;IMP;SG;2;PRS;FIN
+break	slomiti	break	slomiti		V;NFIN
+break	prekid	break	prekid		N;NOM;MASC;SG
+druku	ispis	druk	ispis	N;GEN;MASC;SG	N;NOM;MASC;SG
+zasoby	resurs	zasóba	resurs	N;NOM;MASC;PL	N;NOM;MASC;SG
+zasoby	resursa	zasóba	resurs	N;NOM;MASC;PL	N;GEN;MASC;SG
+ran	rana	rana	rana		N;NOM;FEM;SG
+ran	rane	rana	rani		N;NOM;FEM;PL
+objętości	količina	objętość	količina	N;GEN;FEM;SG	N;NOM;FEM;SG
+objętości	volumen	objętość	volumen	N;GEN;FEM;SG	N;NOM;MASC;SG
+objętości	svezaka	objętość	svezak	N;GEN;FEM;SG	N;GEN;MASC;PL
+radosław	radosław	radosław	radosław	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+czystości	čistoća	czystość	čistoća	N;GEN;FEM;SG	N;NOM;FEM;SG
+oskar	oscar	oskar	oscar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+oskar	oskar	oskar	oskar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+oskar	oskar	oskar	oskar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+szczęścia	sreća	szczęście	sreća	N;GEN;NEUT;SG	N;NOM;FEM;SG
+szczęścia	sreća	szczęście	sreća	N;GEN;NEUT;SG	N;NOM;FEM;SG
+szczęścia	sreću	szczęście	sreća	N;GEN;NEUT;SG	N;ACC;FEM;SG
+modlitwa	molitve	modlitwa	molitva	N;NOM;FEM;SG	N;NOM;FEM;PL
+modlitwa	molitvu	modlitwa	molitva	N;NOM;FEM;SG	N;ACC;FEM;SG
+marine	marine	mariny	marina		N;NOM;FEM;PL
+marine	marinac	mariny	marinac		N;NOM;MASC;SG
+tymczasowy	privremeno	tymczasowy	privremeno	ADJ;NOM;MASC;SG	ADV
+satelita	satelitski	satelita	satelitski	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+satelita	satelitska	satelita	satelitski	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+pérez	pérez	porez	pérez	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+przykładów	primjeri	przykład	primjer	N;GEN;MASC;PL	N;NOM;MASC;PL
+przykładów	primjere	przykład	primjer	N;GEN;MASC;PL	N;ACC;MASC;PL
+era	epoha	era	epoha		N;NOM;FEM;SG
+era	ere	era	era		N;NOM;FEM;SG
+era	era	era	era		N;NOM;FEM;SG
+lang	lang	lang	lang		N;NOM;MASC;SG
+królowie	kraljeva	król	kralj	N;NOM;MASC;PL	N;GEN;MASC;PL
+pascal	pascal	pascal	pascal		N;NOM;MASC;SG
+szóste	šesta	szósty	šesta		ADJ;NOM;FEM;SG
+szóste	sixth	szósty	sixth		ADP
+szóste	šesto	szósty	šesti		ADJ;NOM;NEUT;SG
+szóste	šesti	szósty	šesti		ADJ;NOM;MASC;SG
+pomógł	pomogli	pomóc	pomoći	V;PFV;MASC;IND;SG;PST;FIN;ACT	V;MASC;PL;PST;V.PTCP;ACT
+gridcolor	gridcolor	gridcolor	gridcolor		N;NOM;MASC;SG
+teatrów	kazališta	teatr	kazalište	N;GEN;MASC;PL	N;NOM;NEUT;PL
+teatrów	kazališta	teatr	kazalište	N;GEN;MASC;PL	N;NOM;NEUT;PL
+koń	konju	koń	konj	N;NOM;MASC;SG	N;DAT;MASC;SG
+koń	konja	koń	konj	N;NOM;MASC;SG	N;ACC;MASC;SG
+pacjenta	pacijent	pacjent	pacijent	N;ACC;MASC;SG	N;NOM;MASC;SG
+pacjenta	strpljiv	pacjent	strpljiv	N;ACC;MASC;SG	ADJ;NOM;INDF;MASC;SG
+pacjenta	pacijentica	pacjent	pacijentica	N;ACC;MASC;SG	N;NOM;FEM;SG
+potrzebna	treba	potrzebny	trebati	ADJ;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+potrzebna	trebam	potrzebny	trebati	ADJ;NOM;FEM;SG	V;IND;SG;1;PRS;FIN
+potrzebna	potrebni	potrzebny	potreban	ADJ;NOM;FEM;SG	ADJ;NOM;DEF;MASC;PL
+uderzenie	udri	uderzenie	udra	N;NOM;NEUT;SG	INTJ
+popełnił	počinjen	popełnić	počiniti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+popełnił	predan	popełnić	predan	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP
+piaski	sands	piasek	sands		N;NOM;MASC;SG
+annie	eni	annie	enaj		PROPN;NOM;MASC;SG
+annie	annie	annie	anni		N;NOM;FEM;SG
+secret	tajno	secret	tajno		ADV
+secret	tajni	secret	tajan		ADJ;NOM;DEF;MASC;SG
+secret	tajna	secret	tajna		N;NOM;FEM;SG
+polecenia	naredbe	polecenie	naredba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+fortu	tvrđava	fort	tvrđava	N;GEN;MASC;SG	N;NOM;FEM;SG
+fortu	utvrda	fort	utvrda	N;GEN;MASC;SG	N;NOM;FEM;SG
+fortu	fort	fort	fort	N;GEN;MASC;SG	N;NOM;MASC;SG
+aleksandrii	aleksandriji	aleksandria	aleksandrija	N;GEN;FEM;SG	N;DAT;FEM;SG
+sainte	sainte	sainty	saint	V;IPFV;IND;SG;2;PRS;FIN;ACT	N;NOM;FEM;SG
+środowisk	okruženja	środowisko	okruženje	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+ska	ska	sko	ska		N;NOM;MASC;SG
+zaangażowany	uključeni	zaangażować	uključiti	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zaangażowany	počinio	zaangażować	počiniti	ADJ;NOM;MASC;SG	V;MASC;SG;PST;V.PTCP;ACT
+pomiarów	mjere	pomiar	mjera	N;GEN;MASC;PL	N;NOM;FEM;PL
+pomiarów	mjerenja	pomiar	mjerenje	N;GEN;MASC;PL	N;NOM;NEUT;PL
+renesansu	renesanse	renesans	renesanse	N;GEN;MASC;SG	N;NOM;FEM;PL
+częste	zajednički	częsty	zajednički		ADV
+częste	zajedničko	częsty	zajednički		ADJ;NOM;DEF;NEUT;SG
+częste	zajednička	częsty	zajednički		ADJ;NOM;DEF;FEM;SG
+częste	česte	częsty	čest		N;NOM;FEM;PL
+jelita	crijeva	jelita	crijevo		N;NOM;NEUT;SG
+jelita	crijeva	jelita	crijevo		N;NOM;NEUT;SG
+jelita	crijeva	jelita	crijevo		N;NOM;NEUT;SG
+jelita	crijeva	jelita	crijevo		N;NOM;NEUT;SG
+zdrowie	zdravstveni	zdrowie	zdravstven	N;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;SG
+cbs	cbs	cbs	cbs		N;NOM;MASC;SG
+rolnicze	poljoprivredne	rolniczy	poljoprivredan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+partnerem	partner	partner	partner	N;INS;MASC;SG	N;NOM;MASC;SG
+partnerem	partnera	partner	partner	N;INS;MASC;SG	N;ANIM;ACC;MASC;SG
+partnerem	partnerica	partner	partnerica	N;INS;MASC;SG	N;NOM;FEM;SG
+partnerem	partneru	partner	partner	N;INS;MASC;SG	N;DAT;MASC;SG
+przedstawiono	predstavljen	przedstawić	predstaviti	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+honoru	časti	honor	čast	N;GEN;MASC;SG	N;NOM;FEM;PL
+honoru	čast	honor	čast	N;GEN;MASC;SG	N;NOM;FEM;SG
+honoru	cast	honor	cast	N;GEN;MASC;SG	ADP
+honoru	čast	honor	čast	N;GEN;MASC;SG	N;NOM;FEM;SG
+honoru	časti	honor	čast	N;GEN;MASC;SG	N;NOM;FEM;PL
+square	trgu	squary	trg		N;DAT;MASC;SG
+square	trg	squary	trg		N;NOM;MASC;SG
+square	kvadrat	squary	kvadrat		N;NOM;MASC;SG
+odrębne	odvoji	odrębny	odvojiti	ADJ;NOM;NEUT;SG	V;IND;SG;3;PRS;FIN
+odrębne	odvojeno	odrębny	odvojeno	ADJ;NOM;NEUT;SG	ADV
+odrębne	odvojeni	odrębny	odvojen	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+odrębne	razdvoji	odrębny	razdvojiti	ADJ;NOM;NEUT;SG	V;IND;SG;3;PRS;FIN
+obydwa	oboje	obydwa	oboje	V;IPFV;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+czaszki	lubanje	czaszki	lubanja	N;ACC;FEM;PL	N;NOM;FEM;PL
+czaszki	lubanja	czaszki	lubanje	N;ACC;FEM;PL	N;NOM;NEUT;SG
+czaszki	lubanje	czaszki	lubanja	N;ACC;FEM;PL	N;NOM;FEM;PL
+czaszki	lubanju	czaszki	lubanj	N;ACC;FEM;PL	N;ACC;NEUT;SG
+fischer	fischer	fischer	fischer		PROPN;NOM;MASC;SG
+białek	proteini	białek	protein		N;NOM;MASC;PL
+publiczny	javnost	publiczny	javnost	ADJ;NOM;MASC;SG	N;NOM;FEM;SG
+publiczny	javno	publiczny	javno	ADJ;NOM;MASC;SG	ADV
+mail	mail	mail	mail		N;NOM;MASC;SG
+mail	pošta	mail	pošta		N;NOM;FEM;SG
+tronie	prijestolje	trona	prijestolje	N;DAT;MASC;SG	N;NOM;NEUT;SG
+tronie	tron	trona	tron	N;DAT;MASC;SG	N;NOM;MASC;SG
+kogo	tko	kto	tko	PRO;ACC;MASC;SG	PRO;NOM;MASC
+kogo	ko	kto	ko	PRO;ACC;MASC;SG	
+kogo	koji	kto	koji	PRO;ACC;MASC;SG	DET;NOM;MASC;SG
+kogo	koja	kto	koji	PRO;ACC;MASC;SG	DET;NOM;FEM;SG
+francuz	francuza	francuz	francuz	N;NOM;MASC;SG	N;ACC;MASC;SG
+heaven	raja	heaven	raj		N;GEN;MASC;SG
+heaven	raj	heaven	raj		N;NOM;MASC;SG
+heaven	nebesa	heaven	nebes		N;NOM;MASC;SG
+heaven	nebo	heaven	nebo		N;NOM;NEUT;SG
+cen	cen	cen	cen		N
+rozkładu	raspadanje	rozkład	raspadanje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+rozkładu	raspadanja	rozkład	raspadanje	N;GEN;MASC;SG	N;NOM;NEUT;PL
+piła	pila	pić	pila		V;FEM;SG;PST;V.PTCP;ACT
+piła	pije	pić	piti		V;IND;SG;3;PRS;FIN
+piła	pijem	pić	pijem		V;IND;SG;1;PRS;FIN
+piła	pili	pić	pila		V;MASC;PL;PST;V.PTCP;ACT
+piła	popio	pić	popio		V;MASC;SG;PST;V.PTCP;ACT
+piła	popili	pić	popiti		V;MASC;PL;PST;V.PTCP;ACT
+piła	pio	pić	pio		V;MASC;SG;PST;V.PTCP;ACT
+piła	vidio	pić	vidjeti		V;MASC;SG;PST;V.PTCP;ACT
+śniegu	snijeg	śnieg	snijeg	N;GEN;MASC;SG	N;NOM;MASC;SG
+damian	damian	damian	damian	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+istoty	bića	istota	biće	N;ACC;FEM;SG	N;NOM;FEM;SG
+istoty	stvorenja	istota	stvorenje	N;ACC;FEM;SG	N;NOM;NEUT;PL
+istoty	bića	istota	biće	N;ACC;FEM;SG	N;NOM;FEM;SG
+ołtarzu	oltaru	ołtarz	oltar	N;INS;MASC;SG	N;DAT;MASC;SG
+ołtarzu	oltar	ołtarz	oltar	N;INS;MASC;SG	N;NOM;MASC;SG
+toledo	toledu	toledo	toled		N;DAT;MASC;SG
+cannes	cannesu	cannes	cannes		N;DAT;MASC;SG
+geschichte	geschichte	geschicht	geschicht		ADP
+gospodarstwo	farmu	gospodarstwo	farma	N;NOM;NEUT;SG	N;ACC;FEM;SG
+gospodarstwo	farme	gospodarstwo	farma	N;NOM;NEUT;SG	N;NOM;FEM;PL
+gospodarstwo	farmi	gospodarstwo	farma	N;NOM;NEUT;SG	N;DAT;FEM;SG
+czwartego	četvrti	czwarty	četvrti	ADJ;ACC;MASC;SG	ADJ;NOM;MASC;SG
+czwartego	četvrta	czwarty	četvrt	ADJ;ACC;MASC;SG	ADJ;NOM;FEM;SG
+czwartego	četvrto	czwarty	četvrti	ADJ;ACC;MASC;SG	ADJ;NOM;NEUT;SG
+wiosce	selo	wioska	selo	N;DAT;FEM;SG	N;NOM;NEUT;SG
+teologiczne	teološkog	teologiczny	teološki	ADJ;NOM;NEUT;SG	ADJ;GEN;DEF;MASC;SG
+ograniczona	ograničene	ograniczony	ograničen	ADJ;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL;V.PTCP
+dem	dem	dem	dem		ADP
+management	uprava	management	uprava		N;NOM;FEM;SG
+management	upravljanje	management	upravljanje		N;NOM;NEUT;SG
+management	menadžment	management	menadžment		N;NOM;MASC;SG
+split	split	split	split		PROPN;NOM;MASC;SG
+przeżył	preživjeli	przeżyć	preživjeti	V;PFV;MASC;IND;SG;PST;FIN;ACT	V;MASC;PL;PST;V.PTCP;ACT
+sosna	bor	sosna	bor		N;NOM;MASC;SG
+paragwaju	paragvaju	paragwaj	paragvati	N;GEN;MASC;SG	N;DAT;MASC;SG
+bunt	pobune	bunt	pobuna	N;NOM;MASC;SG	N;NOM;FEM;PL
+pete	pete	pete	pete	PROPN;NOM;MASC;SG	ADJ;NOM;FEM;PL
+pete	pit	pete	pit	PROPN;NOM;MASC;SG	
+suche	suha	suchy	suh		ADJ;NOM;DEF;FEM;SG
+suche	suhi	suchy	suhi		ADJ;NOM;DEF;MASC;SG
+suche	suho	suchy	suho		N;NOM;NEUT;SG
+ward	ward	warda	ward	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+baz	baz	baza	baz		N;NOM;MASC;SG
+owłosione	dlakava	owłosić	dlakav	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;NOM;FEM;SG
+owłosione	dlakave	owłosić	dlakav	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;NOM;FEM;PL
+owłosione	dlakavi	owłosić	dlakav	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;NOM;MASC;PL
+promieniowanie	radijacije	promieniować	radijacija	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;NOM;FEM;PL
+struga	strugi	struga	struga		N;NOM;FEM;SG
+eduardo	eduardo	eduardo	eduardo	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+sweet	slatki	sweet	slatka		ADJ;NOM;DEF;MASC;SG
+sweet	slatko	sweet	slatko		N;NOM;NEUT;SG
+sweet	slatka	sweet	sladak		ADJ;NOM;DEF;FEM;SG
+sweet	milina	sweet	milina		N;NOM;FEM;SG
+skierowane	režirao	skierować	režirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+kolorów	boje	kolor	boja	N;GEN;MASC;PL	N;NOM;FEM;PL
+fernández	fernández	fernndez	fernández	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+zapewnienia	osigurati	zapewnić	osigurati	N;GEN;NEUT;SG	V;NFIN
+watson	watson	watson	watson		PROPN;NOM;MASC;SG
+wprowadzona	uveo	wprowadzić	uvesti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+wprowadzona	uvela	wprowadzić	uvesti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;FEM;SG;PST;V.PTCP;ACT
+wprowadzona	predstavio	wprowadzić	predstaviti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+zwrot	otplate	zwrot	otplata	N;NOM;MASC;SG	N;NOM;FEM;PL
+białoruś	bjelorusiji	białoruś	bjelorusija		N;DAT;FEM;SG
+socjalistyczna	socijalista	socjalistyczny	socijalist	ADJ;NOM;FEM;SG	N;ACC;MASC;SG
+socjalistyczna	socijalisti	socjalistyczny	socijalist	ADJ;NOM;FEM;SG	N;NOM;MASC;PL
+czołg	tenk	czołg	tenk	N;ACC;MASC;SG	N;NOM;MASC;SG
+czołg	spremnik	czołg	spremnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+czołg	tank	czołg	tank	N;ACC;MASC;SG	N;NOM;MASC;SG
+zboczach	padinama	zboczyć	padina	N;GEN;MASC;PL	N;INS;FEM;PL
+słowackiej	slovački	słowacki	slovački	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;MASC;SG
+połączona	spojeni	połączyć	spojen	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+patrol	patrole	patrol	patrola	N;NOM;MASC;SG	N;NOM;FEM;PL
+oznaczony	označeni	oznaczyć	označiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+control	nadzor	control	nadzor		N;NOM;MASC;SG
+control	kontrola	control	kontrola		N;NOM;FEM;SG
+chóru	zbor	chór	zbor		N;NOM;MASC;SG
+chóru	refren	chór	refren		N;NOM;MASC;SG
+starcia	sukobi	starcie	sukob	N;NOM;NEUT;SG	N;NOM;MASC;PL
+starcia	sukobima	starcie	sukob	N;NOM;NEUT;SG	N;INS;MASC;PL
+stacjonował	stacioniran	stacjonować	stacionirati	V;IPFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP
+maroka	marokanski	marok	marokanski	PROPN;GEN;MASC;SG	ADV
+athletic	atletski	athletic	atletski		ADV
+aresztowania	hapšenja	aresztowanie	hapšenje	N;GEN;NEUT;SG	N;NOM;NEUT;PL
+aresztowania	uhićenja	aresztowanie	uhićenje	N;GEN;NEUT;SG	N;NOM;NEUT;PL
+okien	windows	okno	windows		N;NOM;MASC;SG
+okien	prozori	okno	prozor		N;NOM;MASC;PL
+okien	prozore	okno	prozor		N;ACC;MASC;PL
+bogato	bogato	bogato	bogato		ADJ;NOM;DEF;NEUT;SG
+karen	karen	karen	karen	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+reorganizacji	reorganizacija	reorganizacja	reorganizacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+reorganizacji	preustroj	reorganizacja	preustroj	N;GEN;FEM;SG	N;NOM;MASC;SG
+odpowiedni	primjereno	odpowiedni	primjereno	ADJ;NOM;MASC;SG	ADV
+śledztwo	istrage	śledztwo	istraga	N;NOM;NEUT;SG	N;NOM;FEM;PL
+wrc	wrc	wrzeć	wrc		PROPN;NOM;MASC;SG
+praktyczny	praktično	praktyczny	praktično	ADJ;NOM;MASC;SG	ADV
+praktyczny	praktične	praktyczny	praktičan	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+ograniczony	ograničene	ograniczyć	ograničen	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL;V.PTCP
+lewo	lijevo	lewo	lijevo		ADV
+lewo	lijeva	lewo	lijevo		N;NOM;FEM;SG
+dno	dno	dno	dno		N;NOM;NEUT;SG
+kopenhadze	kopenhagenu	kopenhadz	kopenhagen	PROPN;DAT;MASC;SG	N;DAT;FEM;SG
+wyścigi	utrka	wyścig	utrka	N;NOM;MASC;PL	N;NOM;FEM;SG
+gracze	igrača	gracz	igrač	N;NOM;MASC;PL	N;ACC;MASC;SG
+holland	holland	holland	holland		N;NOM;FEM;SG
+halle	halle	hall	halla		PROPN;NOM;MASC;SG
+dotarły	stiglo	dotrzeć	stići	V;PFV;FEM;IND;PL;PST;FIN;ACT	V;NEUT;SG;PST;V.PTCP;ACT
+dotarły	stigao	dotrzeć	stići	V;PFV;FEM;IND;PL;PST;FIN;ACT	V;MASC;SG;PST;V.PTCP;ACT
+dotarły	stigla	dotrzeć	stići	V;PFV;FEM;IND;PL;PST;FIN;ACT	V;FEM;SG;PST;V.PTCP;ACT
+sumy	zbroj	suma	zbroj		N;NOM;MASC;SG
+sumy	sum	suma	sum		ADP
+sumy	suma	suma	suma		N;NOM;FEM;SG
+bractwa	bratstva	bractwo	bratstvo	N;ACC;NEUT;SG	N;NOM;NEUT;PL
+bractwa	bratstva	bractwo	bratstvo	N;ACC;NEUT;SG	N;NOM;NEUT;PL
+bractwa	bratstvo	bractwo	bratstvo	N;ACC;NEUT;SG	N;NOM;NEUT;SG
+bractwa	bratstva	bractwo	bratstvo	N;ACC;NEUT;SG	N;NOM;NEUT;PL
+bractwa	bratstvo	bractwo	bratstvo	N;ACC;NEUT;SG	N;NOM;NEUT;SG
+tajemnica	tajno	tajemnica	tajno	N;NOM;FEM;SG	ADV
+tajemnica	tajni	tajemnica	tajan	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+targ	tržnici	targa	tržnik	N;NOM;MASC;SG	N;DAT;FEM;SG
+targ	tržnicu	targa	tržnica	N;NOM;MASC;SG	N;ACC;FEM;SG
+targ	tržnice	targa	tržnica	N;NOM;MASC;SG	N;NOM;FEM;PL
+targ	tržištu	targa	tržište	N;NOM;MASC;SG	N;DAT;NEUT;SG
+połączony	povezani	połączyć	povezan	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL
+połączony	spojeni	połączyć	spojen	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+kraina	land	kraina	land	N;NOM;FEM;SG	ADP
+szeregi	redove	szereg	red	N;ACC;MASC;SG	N;ACC;MASC;PL
+szeregi	serije	szereg	serija	N;ACC;MASC;SG	N;NOM;FEM;PL
+szeregi	serija	szereg	serija	N;ACC;MASC;SG	N;NOM;FEM;SG
+potrzebny	treba	potrzebny	trebati	ADJ;NOM;MASC;SG	V;IND;SG;3;PRS;FIN
+potrzebny	trebam	potrzebny	trebati	ADJ;NOM;MASC;SG	V;IND;SG;1;PRS;FIN
+potrzebny	potrebni	potrzebny	potreban	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;MASC;PL
+mig	mig	mig	mig		N;NOM;MASC;SG
+oryginalna	izvorno	oryginalny	izvorno	ADJ;NOM;FEM;SG	ADV
+oryginalna	originalno	oryginalny	originalan	ADJ;NOM;FEM;SG	ADV
+oryginalna	original	oryginalny	original	ADJ;NOM;FEM;SG	N;NOM;MASC;SG
+kanały	kanale	kanał	kanal	N;NOM;MASC;PL	N;ACC;MASC;PL
+kanały	kanal	kanał	kanal	N;NOM;MASC;PL	N;NOM;MASC;SG
+kanały	channel	kanał	channel	N;NOM;MASC;PL	N;NOM;MASC;SG
+konklawe	konklava	konklawy	konklava	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+zoo	zoo	zoo	zoo		N;NOM;MASC;SG
+pokryta	pokriveni	pokryć	pokriti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+turner	turner	turner	turner		N;NOM;MASC;SG
+ambasady	ambasade	ambasada	ambasada	N;GEN;FEM;SG	N;NOM;FEM;PL
+ambasady	veleposlanstva	ambasada	veleposlanstvo	N;GEN;FEM;SG	N;NOM;NEUT;PL
+ambasady	veleposlanstvo	ambasada	veleposlanstvo	N;GEN;FEM;SG	N;NOM;NEUT;SG
+jefferson	jefferson	jefferson	jefferson	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+spartak	spartak	spartak	spartak		N;NOM;MASC;SG
+partner	partnera	partner	partner	N;NOM;MASC;SG	N;ANIM;ACC;MASC;SG
+partner	partneru	partner	partner	N;NOM;MASC;SG	N;DAT;MASC;SG
+transmisji	prijenos	transmisja	prijenos	N;GEN;FEM;SG	N;NOM;MASC;SG
+transmisji	emitiranje	transmisja	emitiranje	N;GEN;FEM;SG	N;NOM;NEUT;SG
+teodora	teodora	teodor	teodor		N;NOM;FEM;SG
+albrecht	albrecht	albrecht	albrecht	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+kolonie	kolonije	kolonie	kolonija	N;NOM;FEM;SG	N;NOM;FEM;PL
+joão	joao	joão	joao	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+heinz	heinz	heinz	heinz	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+regulamin	propis	regulamin	propis	N;ACC;MASC;SG	N;NOM;MASC;SG
+regulamin	propisi	regulamin	propis	N;ACC;MASC;SG	N;NOM;MASC;PL
+rachel	rachel	rachel	rachel	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+flotylli	flotile	flotylla	flotiti	N;GEN;FEM;SG	N;NOM;FEM;PL
+wenecja	veneciji	wenecja	venecija	N;NOM;FEM;SG	N;DAT;FEM;SG
+wenecja	venecije	wenecja	venecija	N;NOM;FEM;SG	N;NOM;FEM;PL
+wenecja	veneciju	wenecja	venecija	N;NOM;FEM;SG	N;ACC;FEM;SG
+bei	bei	być	bei		ADP
+skarb	dragocjena	skarb	dragocjen	N;ACC;MASC;SG	ADJ;NOM;DEF;FEM;SG
+skarb	dragocjeno	skarb	dragocjeno	N;ACC;MASC;SG	ADJ;NOM;DEF;NEUT;SG
+skarb	dragocjeni	skarb	dragocjen	N;ACC;MASC;SG	ADJ;NOM;DEF;MASC;SG
+skarb	dragocjen	skarb	dragocjen	N;ACC;MASC;SG	ADJ;NOM;INDF;MASC;SG
+skarb	blaga	skarb	blago	N;ACC;MASC;SG	N;NOM;FEM;SG
+skarb	blago	skarb	blago	N;ACC;MASC;SG	N;NOM;NEUT;SG
+ogrody	gardens	ogród	gardens	N;NOM;MASC;PL	N;NOM;MASC;SG
+ogrody	vrtove	ogród	vrt	N;NOM;MASC;PL	N;ACC;MASC;PL
+piąta	peta	piąty	peti		ADJ;NOM;FEM;SG
+piąta	peto	piąty	peti		ADJ;NOM;NEUT;SG
+piąta	peti	piąty	peti		ADJ;NOM;MASC;SG
+pamiętnik	journal	pamiętnik	journal	N;ACC;MASC;SG	ADP
+pamiętnik	dnevnik	pamiętnik	dnevnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+pamiętnik	dnevnik	pamiętnik	dnevnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+stawu	ribnjak	staw	ribnjak	N;GEN;MASC;SG	N;NOM;MASC;SG
+stawu	bare	staw	bara	N;GEN;MASC;SG	N;NOM;FEM;SG
+stawu	pond	staw	pond	N;GEN;MASC;SG	PROPN;NOM;MASC;SG
+procedury	procedura	procedura	procedura	N;ACC;FEM;PL	N;NOM;FEM;SG
+procedury	procedure	procedura	procedura	N;ACC;FEM;PL	N;NOM;FEM;PL
+procedury	postupak	procedura	postupak	N;ACC;FEM;PL	N;NOM;MASC;SG
+procedury	procedura	procedura	procedura	N;ACC;FEM;PL	N;NOM;FEM;SG
+procedury	zahvat	procedura	zahvat	N;ACC;FEM;PL	N;NOM;MASC;SG
+procedury	procedure	procedura	procedura	N;ACC;FEM;PL	N;NOM;FEM;PL
+disco	disco	disco	disco		N;NOM;MASC;SG
+disco	disko	disco	disko		N;NOM;MASC;SG
+barona	barone	barona	barona	N;ACC;MASC;SG	N;NOM;MASC;SG
+barona	barun	barona	barun	N;ACC;MASC;SG	N;NOM;MASC;SG
+barona	baron	barona	baron	N;ACC;MASC;SG	N;NOM;MASC;SG
+sumę	zbroj	suma	zbroj	N;ACC;FEM;SG	N;NOM;MASC;SG
+sumę	sum	suma	sum	N;ACC;FEM;SG	ADP
+sumę	suma	suma	suma	N;ACC;FEM;SG	N;NOM;FEM;SG
+uczestniczyło	sudjelovali	uczestniczyć	sudjelovati	V;IPFV;NEUT;IND;SG;PST;FIN;ACT	V;MASC;PL;PST;V.PTCP;ACT
+prawny	pravno	prawny	pravan	ADJ;NOM;MASC;SG	ADV
+prawny	legalno	prawny	legalno	ADJ;NOM;MASC;SG	ADV
+cząsteczki	molekula	cząsteczka	molekul	N;NOM;FEM;PL	N;NOM;FEM;SG
+cząsteczki	čestica	cząsteczka	čestica	N;NOM;FEM;PL	N;NOM;FEM;SG
+fair	pošteno	fair	pošteno		ADV
+fair	sajam	fair	sajam		N;NOM;MASC;SG
+czysto	vedro	czysto	vedro		ADJ;NOM;NEUT;SG
+czysto	jasno	czysto	jasno		ADV
+czysto	čisto	czysto	čist		ADV
+radnych	vijećnici	radny	vijećnica	N;GEN;MASC;PL	N;NOM;MASC;PL
+plemiona	plemena	plemię	pleme	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+nadzwyczajny	izvanredno	nadzwyczajny	izvanredno	ADJ;NOM;MASC;SG	ADV
+linda	linda	linda	linda	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+musical	glazbeni	musical	glazben	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+virginia	virginiji	virginia	virginija		N;DAT;FEM;SG
+virginia	virginia	virginia	virgina		PROPN;NOM;FEM;SG
+virginia	virginiju	virginia	virgin		N;ACC;FEM;SG
+mistrzowie	masters	mistrz	masters	N;NOM;MASC;PL	N;NOM;MASC;SG
+drewno	drvena	drewno	drven	N;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;SG
+drewno	drva	drewno	drvo	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+drewno	wood	drewno	wood	N;NOM;NEUT;SG	PROPN;NOM;MASC;SG
+salvador	salvador	salvador	salvador	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+islam	islama	islam	isla	N;NOM;MASC;SG	N;NOM;FEM;PL
+bloków	blokove	blok	blok	N;GEN;MASC;PL	N;ACC;MASC;PL
+bloków	blokovi	blok	blok	N;GEN;MASC;PL	N;NOM;MASC;PL
+wagner	wagnera	wagner	wagner	PROPN;NOM;MASC;SG	N;ANIM;ACC;MASC;SG
+wagner	wagner	wagner	wagner	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+prasa	press	prasa	press	N;NOM;FEM;SG	ADP
+prasa	pritisnite	prasa	pritisnuti	N;NOM;FEM;SG	V;IMP;PL;2;FIN
+prasa	pritisni	prasa	pritisan	N;NOM;FEM;SG	V;IMP;SG;2;PRS;FIN
+prasa	novinari	prasa	novinar	N;NOM;FEM;SG	N;NOM;MASC;PL
+eso	eso	eso	eso	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+stevens	stevens	stevens	stevens	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+kapitał	kapitala	kapitał	kapital	N;ACC;MASC;SG	N;GEN;MASC;SG
+kapitał	kapital	kapitał	kapital	N;ACC;MASC;SG	N;NOM;MASC;SG
+monica	monica	monica	monica	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;NOM;FEM;SG
+monica	monika	monica	monik	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;NOM;FEM;SG
+galaktyki	galaksije	galaktyk	galaksija	N;ACC;FEM;PL	N;NOM;FEM;PL
+galaktyki	galaksija	galaktyk	galaksija	N;ACC;FEM;PL	N;NOM;FEM;SG
+galaktyki	galaksije	galaktyk	galaksija	N;ACC;FEM;PL	N;NOM;FEM;PL
+galaktyki	galaksiji	galaktyk	galaksija	N;ACC;FEM;PL	N;DAT;FEM;SG
+galaktyki	galaksija	galaktyk	galaksija	N;ACC;FEM;PL	N;NOM;FEM;SG
+galaktyki	galaxy	galaktyk	galaxy	N;ACC;FEM;PL	PROPN;NOM;MASC;SG
+galaktyki	galaksiju	galaktyk	galaksija	N;ACC;FEM;PL	N;ACC;FEM;SG
+aktualny	struja	aktualny	struja	ADJ;NOM;MASC;SG	N;NOM;FEM;SG
+kontrola	revizije	kontrola	revizija	N;NOM;FEM;SG	N;NOM;FEM;PL
+typowo	tipični	typowo	tipičan		ADJ;NOM;DEF;MASC;SG
+typowo	tipičan	typowo	tipičan		ADJ;NOM;INDF;MASC;SG
+typowo	tipično	typowo	tipično		ADV
+warunek	stanje	warunek	stanje	N;ACC;MASC;SG	N;NOM;NEUT;SG
+warunek	uvjet	warunek	uvjet	N;ACC;MASC;SG	N;NOM;MASC;SG
+zawieszenia	suspenzije	zawiesić	suspenzija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+naftowej	sirove	naftowy	sirov	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;FEM;PL
+koleje	željeznice	kolej	željeznica	N;NOM;FEM;SG	N;NOM;FEM;PL
+koleje	željeznice	kolej	željeznica	N;NOM;FEM;SG	N;NOM;FEM;PL
+stowarzyszeń	asocijacije	stowarzyszenie	asocijacija	N;GEN;NEUT;PL	N;NOM;FEM;PL
+stowarzyszeń	udruge	stowarzyszenie	udruga	N;GEN;NEUT;PL	N;NOM;FEM;PL
+zagrożonych	ugrožena	zagrożyć	ugroziti	ADJ;PFV;GEN;MASC;PL;POS;V.PTCP;PASS	ADJ;NOM;DEF;FEM;SG;V.PTCP
+działka	zavjeru	działko	zavjera	N;NOM;FEM;SG	N;ACC;FEM;SG
+rozwiązany	raspuštene	rozwiązać	raspustiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;FEM;PL;V.PTCP
+rozwiązany	riješio	rozwiązać	riješiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+znaczny	značajne	znaczny	značajan	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+znaczny	značajno	znaczny	značajno	ADJ;NOM;MASC;SG	ADV
+floryda	floridu	floryd	florida		N;ACC;FEM;SG
+floryda	floridi	floryd	florida		N;DAT;FEM;SG
+floryda	florida	floryd	florid		N;NOM;MASC;SG
+księżnej	vojvotkinja	księżny	vojvotkinja	ADJ;GEN;FEM;SG	N;NOM;FEM;SG
+geograficzny	geographic	geograficzny	geographic	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+geograficzny	geografski	geograficzny	geografski	ADJ;NOM;MASC;SG	ADV
+autobus	autobusom	autobus	autobus	N;NOM;MASC;SG	N;INS;MASC;SG
+wirnika	rotor	wirnik	rotor	N;ACC;MASC;SG	N;NOM;MASC;SG
+właścicielami	vlasnici	właściciel	vlasnik	N;INS;MASC;PL	N;NOM;MASC;PL
+wewnętrzny	unutarnje	wewnętrzny	unutarnji	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+jeana	jean	jeany	jean		PROPN;NOM;MASC;SG
+jeana	žan	jeany	žan		N;NOM;MASC;SG
+sex	seks	sex	seks		N;NOM;MASC;SG
+sex	seksa	sex	seks		N;GEN;MASC;SG
+sex	sex	sex	sex		N;NOM;MASC;SG
+samców	mužjaci	samc	mužjak		N;NOM;MASC;PL
+zbrodnie	zločini	zbrodnie	zločin	N;NOM;FEM;SG	N;NOM;MASC;PL
+zbrodnie	zločine	zbrodnie	zločin	N;NOM;FEM;SG	N;ACC;MASC;PL
+filharmonii	filharmonije	filharmonia	filharmonija	N;GEN;MASC;SG	N;NOM;FEM;PL
+row	redak	row	redak		N;NOM;MASC;SG
+row	red	row	red		N;NOM;MASC;SG
+wewnętrzna	unutarnje	wewnętrzny	unutarnji	ADJ;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+podróże	putovanja	podróż	putovanje	N;ACC;FEM;PL	N;NOM;NEUT;PL
+podróże	putovanje	podróż	putovanje	N;ACC;FEM;PL	N;NOM;NEUT;SG
+podróże	putujem	podróż	putovati	N;ACC;FEM;PL	V;IND;SG;1;PRS;FIN
+podróże	putuje	podróż	putovati	N;ACC;FEM;PL	V;IND;SG;3;PRS;FIN
+podróże	putujući	podróż	putovati	N;ACC;FEM;PL	ADV;RL;V.CVB
+podróże	putuje	podróż	putovati	N;ACC;FEM;PL	V;IND;SG;3;PRS;FIN
+podróże	putovanja	podróż	putovanje	N;ACC;FEM;PL	N;NOM;NEUT;PL
+podróże	putujem	podróż	putovati	N;ACC;FEM;PL	V;IND;SG;1;PRS;FIN
+podróże	putujemo	podróż	putovati	N;ACC;FEM;PL	V;IND;PL;1;PRS;FIN
+pokrywy	pokriva	pokrywy	pokrivati	N;ACC;FEM;PL	V;IND;SG;3;PRS;FIN
+umieszczenie	stavljajući	umieszczenie	stavljati	N;PFV;NOM;NEUT;SG;POS;V.MSDR	ADV;RL
+twierdzenia	tvrdi	twierdzić	tvrditi	N;NOM;NEUT;PL	V;IND;SG;3;PRS;FIN
+aglomeracji	aglomeracija	aglomeracja	aglomeracija	N;GEN;FEM;SG	N;NOM;FEM;SG
+pokrewne	povezano	pokrewny	povezan		ADJ;NOM;DEF;NEUT;SG;V.PTCP
+artystyczna	umjetnički	artystyczny	umjetnički	ADJ;NOM;FEM;SG	ADV
+alessandro	alessandro	alessandro	alessandro	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+pogoń	potjeri	pogonić	potjeriti		N;INS;MASC;PL
+pogoń	potjera	pogonić	potjera		V;IND;SG;3;PRS;FIN
+pogoń	potjera	pogonić	potjera		V;IND;SG;3;PRS;FIN
+pogoń	chase	pogonić	chase		PROPN;NOM;MASC;SG
+postawy	stav	postawa	stav	N;GEN;FEM;SG	N;NOM;MASC;SG
+postawy	stavovi	postawa	stav	N;GEN;FEM;SG	N;NOM;MASC;PL
+postawy	stavove	postawa	stav	N;GEN;FEM;SG	N;ACC;MASC;PL
+postawy	držanje	postawa	držanje	N;GEN;FEM;SG	N;NOM;NEUT;SG
+kasy	novac	kasa	novac	N;ACC;FEM;SG	N;NOM;MASC;SG
+kasy	lova	kasa	lov	N;ACC;FEM;SG	N;GEN;MASC;SG
+kasy	pare	kasa	para	N;ACC;FEM;SG	N;NOM;FEM;PL
+kasy	love	kasa	lova	N;ACC;FEM;SG	N;NOM;MASC;SG
+kasy	blagajni	kasa	blagajna	N;ACC;FEM;SG	N;DAT;FEM;SG
+kasy	gotovina	kasa	gotovina	N;ACC;FEM;SG	N;NOM;MASC;SG
+kasy	cash	kasa	cash	N;ACC;FEM;SG	N;NOM;MASC;SG
+klaus	klaus	klaus	klaus	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+klaus	klausa	klaus	klausa	PROPN;NOM;MASC;SG	N;ACC;MASC;SG
+studenci	studentima	student	student	N;NOM;MASC;PL	N;DAT;MASC;PL
+studenci	učenik	student	učenik	N;NOM;MASC;PL	N;NOM;MASC;SG
+studenci	studentica	student	studentica	N;NOM;MASC;PL	N;NOM;FEM;SG
+studenci	student	student	student	N;NOM;MASC;PL	N;NOM;MASC;SG
+zęby	zube	ząb	zub	N;NOM;MASC;PL	N;ACC;MASC;PL
+duszy	duša	dusza	duša	N;GEN;FEM;SG	N;NOM;FEM;SG
+duszy	soul	dusza	soul	N;GEN;FEM;SG	ADP
+przeznaczeniem	sudbine	przeznaczenie	sudbina	N;INS;NEUT;SG	N;NOM;FEM;PL
+przeznaczeniem	destiny	przeznaczenie	destiny	N;INS;NEUT;SG	ADP
+przeznaczeniem	sudbina	przeznaczenie	sudbina	N;INS;NEUT;SG	N;NOM;FEM;SG
+finały	finale	finały	finale	N;NOM;MASC;PL	N;NOM;NEUT;SG
+irlandia	irsku	irlandia	irski	N;NOM;FEM;SG	ADJ;ACC;DEF;FEM;SG
+irlandia	irska	irlandia	irski	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;SG
+irlandia	irske	irlandia	irski	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+zeszyt	bilježnica	zeszyt	bilježnica	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;FEM;SG
+zeszyt	notes	zeszyt	notes	V;IPFV;IND;SG;PRS;FIN;ACT	ADP
+zeszyt	bilježnicu	zeszyt	bilježnica	V;IPFV;IND;SG;PRS;FIN;ACT	N;ACC;FEM;SG
+act	akt	act	akt		N;NOM;MASC;SG
+act	čin	act	čin		N;NOM;MASC;SG
+nationale	nationale	nationale	national		ADP
+skała	rock	skała	rock	N;NOM;FEM;SG	ADP
+ponownego	ponavljanje	ponowny	ponavljanje	ADJ;ACC;MASC;SG	N;NOM;NEUT;SG
+leonarda	leonarda	leonard	leonard		N;ACC;MASC;SG
+leonarda	leonard	leonard	leonard		N;NOM;MASC;SG
+łaski	mercy	łaska	mercy	N;ACC;FEM;SG	PROPN;NOM;MASC;SG
+łaski	milosrđe	łaska	milosrđ	N;ACC;FEM;SG	N;NOM;NEUT;SG
+łaski	milost	łaska	milost	N;ACC;FEM;SG	N;NOM;FEM;SG
+łaski	grace	łaska	grac	N;ACC;FEM;SG	N;NOM;FEM;SG
+łaski	milost	łaska	milost	N;ACC;FEM;SG	N;NOM;FEM;SG
+wykorzystane	korištene	wykorzystać	koristiti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;FEM;PL;V.PTCP
+zamieszkania	nastambi	zamieszkanie	nastamba	N;GEN;NEUT;SG	N;INS;FEM;PL
+nina	nina	nina	nin	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+nina	ninu	nina	nin	PROPN;NOM;FEM;SG	N;ACC;FEM;SG
+nina	nine	nina	niniti	PROPN;NOM;FEM;SG	PROPN;NOM;MASC;SG
+wyświęcony	zaređen	wyświęcić	zaređen	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	N;NOM;MASC;SG
+montana	montana	montany	montan		PROPN;NOM;MASC;SG
+montana	montanu	montany	montana		N;DAT;MASC;SG
+hansen	hansen	hansen	hansen		PROPN;NOM;MASC;SG
+eyes	oci	eyes	oko		N;NOM;MASC;PL
+eyes	oči	eyes	oko		N;NOM;FEM;PL
+terytoriów	teritorije	terytoria	teritorij	N;GEN;NEUT;PL	N;ACC;MASC;PL
+terytoriów	teritorija	terytoria	teritorij	N;GEN;NEUT;PL	N;GEN;MASC;SG
+ochotników	dobrovoljaca	ochotnik	dobrovoljac	N;ACC;MASC;PL	N;GEN;MASC;PL
+ochotników	dobrovoljci	ochotnik	dobrovoljci	N;ACC;MASC;PL	N;NOM;MASC;PL
+ochotników	volonteri	ochotnik	volonter	N;ACC;MASC;PL	N;NOM;MASC;PL
+pojęć	koncepti	pojęć	koncept	N;GEN;NEUT;PL	N;NOM;MASC;PL
+circle	krug	circle	krug		N;NOM;MASC;SG
+absolwentów	alumni	absolwent	aluman	N;ACC;MASC;PL	ADJ;NOM;DEF;MASC;SG
+absolwentów	diplomira	absolwent	diplomirati	N;ACC;MASC;PL	V;IND;SG;3;PRS;FIN
+dłuższe	duze	długi	duz	ADJ;NOM;CMPR;NEUT;SG	ADJ;NOM;DEF;NEUT;SG
+dłuższe	duže	długi	dug	ADJ;NOM;CMPR;NEUT;SG	ADV;CMPR
+dłuższe	dulje	długi	dugo	ADJ;NOM;CMPR;NEUT;SG	ADV;CMPR
+równania	jednadžbe	równać	jednadžba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+auf	auf	auf	auf		ADP
+imdb	imdb	imdb	imdb		PROPN;NOM;MASC;SG
+gilles	gilles	gilles	gilles	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+senat	senatu	senat	senat		N;DAT;MASC;SG
+senat	senat	senat	senat		N;NOM;MASC;SG
+zaproszenie	pozovite	zaprosić	pozvoviti	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IMP;PL;2;FIN
+zaproszenie	pozivnicu	zaprosić	pozivnica	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;ACC;FEM;SG
+zaproszenie	poziv	zaprosić	poziv	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INAN;ACC;MASC;SG
+zamiar	namjera	zamiar	namjera	V;PFV;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+zamiar	namjera	zamiar	namjera	V;PFV;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+zamiar	namjere	zamiar	namjera	V;PFV;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+podwozie	šasiju	podwóź	šasija	N;NOM;MASC;SG	N;ACC;FEM;SG
+iranie	iranu	iran	irana		N;DAT;MASC;SG
+iranie	irana	iran	irana		N;GEN;MASC;SG
+iranie	iran	iran	iran		PROPN;NOM;MASC;SG
+lane	lane	lany	lan		N;NOM;FEM;SG
+minas	minas	minas	minas		PROPN;NOM;FEM;SG
+reggae	reggae	reggać	regga		N;NOM;MASC;SG
+zębów	zube	ząb	zub	N;GEN;MASC;PL	N;ACC;MASC;PL
+zębów	zubi	ząb	zub	N;GEN;MASC;PL	N;NOM;MASC;PL
+dziesiątki	desetke	dziesiątka	desetak		NUM
+dziesiątki	desetine	dziesiątka	desetina		N;NOM;FEM;PL
+dziesiątki	deseci	dziesiątka	desetak		NUM;NOM;PL
+dziesiątki	desetke	dziesiątka	desetak		NUM
+dziesiątki	desetine	dziesiątka	desetina		N;NOM;FEM;PL
+orbicie	orbitu	orbić	orbita	N;DAT;FEM;SG	N;ACC;FEM;SG
+aten	atenu	aten	atena	PROPN;NOM;NEUT;SG	N;ACC;FEM;SG
+aten	atene	aten	aten	PROPN;NOM;NEUT;SG	N;NOM;FEM;PL
+aten	ateni	aten	atena	PROPN;NOM;NEUT;SG	PROPN;DAT;FEM;SG
+aten	atena	aten	atena	PROPN;NOM;NEUT;SG	N;NOM;FEM;SG
+lars	lars	lars	lars	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+ter	ter	ter	ter		INTJ
+fikcyjna	izmišljeni	fikcyjny	izmišliti	ADJ;NOM;FEM;SG	ADJ;NOM;DEF;MASC;PL;V.PTCP
+full	pun	full	pun		ADJ;NOM;INDF;MASC;SG
+full	full	full	full		N;NOM;MASC;SG
+full	puna	full	pun		ADJ;NOM;DEF;FEM;SG
+full	puni	full	pun		ADJ;NOM;DEF;MASC;SG
+odra	ospice	odra	ospicati		N;NOM;FEM;PL
+odra	boginje	odra	boginja		N;NOM;FEM;PL
+afryka	afrike	afryka	afrika		N;NOM;FEM;PL
+afryka	afrika	afryka	afrika		N;NOM;FEM;SG
+afryka	afrički	afryka	afrički		ADJ;NOM;DEF;MASC;SG
+afryka	afrička	afryka	afrički		ADJ;NOM;DEF;FEM;SG
+opublikowano	objavljeno	opublikować	objaviti	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;NEUT;SG;V.PTCP;PASS
+opublikowano	objavljen	opublikować	objaviti	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+opublikowano	objavljeno	opublikować	objaviti	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;NEUT;SG;V.PTCP;PASS
+opublikowano	objavljeni	opublikować	objaviti	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;DEF;MASC;PL;V.PTCP
+monet	kovanice	monet	kovanica	N;GEN;FEM;PL	N;NOM;FEM;PL
+monet	novčići	monet	novčići	N;GEN;FEM;PL	N;NOM;MASC;PL
+monet	kovanica	monet	kovanica	N;GEN;FEM;PL	N;NOM;FEM;SG
+monet	monet	monet	monet	N;GEN;FEM;PL	N;NOM;MASC;SG
+lufy	bačve	lufa	bačvi	N;GEN;FEM;PL	N;NOM;FEM;PL
+lufy	bure	lufa	bura	N;GEN;FEM;PL	N;NOM;FEM;PL
+lufy	cijev	lufa	cijev	N;GEN;FEM;PL	N;NOM;FEM;SG
+lufy	bačva	lufa	bačva	N;GEN;FEM;PL	N;NOM;FEM;SG
+kosmiczny	kozmičke	kosmiczny	kozmički	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+money	novac	money	novac		N;NOM;MASC;SG
+money	lova	money	lov		N;GEN;MASC;SG
+money	pare	money	para		N;NOM;FEM;PL
+money	love	money	lova		N;NOM;MASC;SG
+korzyść	korist	korzyść	korist	N;NOM;FEM;SG	N;ACC;FEM;SG
+bakterii	bakterijski	bakteria	bakterijski		ADV
+bakterii	bakterija	bakteria	bakterija		N;NOM;FEM;SG
+bakterii	bakterije	bakteria	bakterija		N;NOM;FEM;PL
+gospodarcza	ekonomski	gospodarczy	ekonomski	ADJ;NOM;FEM;SG	ADV
+gospodarcza	gospodarski	gospodarczy	gospodarski	ADJ;NOM;FEM;SG	ADV
+gospodarcza	gospodarske	gospodarczy	gospodarski	ADJ;NOM;FEM;SG	ADJ;NOM;FEM;PL
+texas	teksas	texas	teksas		N;NOM;MASC;SG
+texas	texas	texas	texas		PROPN;NOM;MASC;SG
+heavy	teška	heav	težak		ADJ;NOM;DEF;FEM;SG
+heavy	težak	heav	težak		ADJ;NOM;INDF;MASC;SG
+heavy	teški	heav	težak		ADJ;NOM;DEF;MASC;SG
+słowian	slaveni	słowiać	slaven		N;NOM;MASC;PL
+jake	jake	jaki	jak		ADJ;NOM;DEF;FEM;PL
+terytoria	teritorije	terytoria	teritorij	N;NOM;NEUT;PL	N;ACC;MASC;PL
+terytoria	teritorija	terytoria	teritorij	N;NOM;NEUT;PL	N;GEN;MASC;SG
+terytoria	teritoriji	terytoria	teritorij	N;NOM;NEUT;PL	N;DAT;MASC;SG
+terytoria	teritorij	terytoria	teritorij	N;NOM;NEUT;PL	N;NOM;MASC;SG
+terytoria	teritorija	terytoria	teritorij	N;NOM;NEUT;PL	N;GEN;MASC;SG
+algorytm	algoritam	algoryt	algoritam	N;ACC;MASC;SG	N;NOM;MASC;SG
+koronę	kruna	korona	kruna	N;ACC;FEM;SG	N;NOM;FEM;SG
+koronę	crown	korona	crown	N;ACC;FEM;SG	ADP
+wróć	povratak	wróć	povratak	V;PFV;IMP;SG;2;FIN;ACT	N;NOM;MASC;SG
+kamienie	kamenje	kamień	kamenje	N;NOM;MASC;PL	N;NOM;NEUT;SG
+kamienie	stone	kamień	ston	N;NOM;MASC;PL	ADP
+kamienie	kamen	kamień	kamen	N;NOM;MASC;PL	N;NOM;MASC;SG
+kamienie	kamena	kamień	kamen	N;NOM;MASC;PL	N;NOM;FEM;SG
+kamienie	kamenje	kamień	kamenje	N;NOM;MASC;PL	N;NOM;NEUT;SG
+honor	časti	honor	čast		N;NOM;FEM;PL
+honor	čast	honor	čast		N;NOM;FEM;SG
+honor	cast	honor	cast		ADP
+honor	čast	honor	čast		N;NOM;FEM;SG
+honor	časti	honor	čast		N;NOM;FEM;PL
+umiera	umiranje	umierać	umiranje	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG
+przemysłowe	industrijski	przemysłowy	industrijski	ADJ;NOM;NEUT;SG	ADV
+zbiorniki	tenkove	zbiornik	tenk	N;NOM;MASC;PL	N;ACC;MASC;PL
+iras	iras	iras	iras		N;NOM;MASC;SG
+sprzedano	prodan	sprzedać	prodati	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+sprzedano	prodano	sprzedać	prodano	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;NEUT;SG;V.PTCP;PASS
+chen	chen	chen	chen	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+konkursy	natjecanjima	konkurs	natjecanje	N;NOM;MASC;PL	N;DAT;NEUT;PL
+tygodniach	tjedne	tydzień	tjedan	N;GEN;MASC;PL	N;NOM;FEM;PL
+tygodniach	tjedni	tydzień	tjedni	N;GEN;MASC;PL	ADJ;NOM;MASC;SG
+tygodniach	nedelje	tydzień	nedelje	N;GEN;MASC;PL	N;NOM;FEM;PL
+zen	zen	zen	zen		PROPN;NOM;MASC;SG
+ewakuacji	evakuacija	ewakuacja	evakuacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+ewakuacji	evakuaciju	ewakuacja	evakuacija	N;GEN;FEM;SG	N;ACC;FEM;SG
+jürgen	jürgen	jürgen	jürgen	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+wymiar	dimenzije	wymiar	dimenzija	N;NOM;MASC;SG	N;NOM;FEM;PL
+web	web	web	web		N;NOM;MASC;SG
+connecticut	connecticut	connecticut	connecticut		N;NOM;FEM;SG
+connecticut	connecticutu	connecticut	connecticut		N;ACC;FEM;SG
+rolnictwo	poljoprivredne	rolnictwo	poljoprivredan	N;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+rolnictwo	poljoprivredu	rolnictwo	poljoprivreda	N;NOM;NEUT;SG	N;ACC;FEM;SG
+rolnictwo	poljoprivrede	rolnictwo	poljoprivreda	N;NOM;NEUT;SG	N;NOM;FEM;PL
+rolnictwo	poljoprivredi	rolnictwo	poljoprivreda	N;NOM;NEUT;SG	N;DAT;FEM;SG
+zmieniona	izmijenjeni	zmienić	izmijeniti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+simone	simone	simon	simon	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+juniors	juniori	juniors	junior	PROPN;NOM;MASC;SG	N;NOM;MASC;PL
+poezja	poezija	poezja	poezija		N;NOM;FEM;SG
+poezja	poeziju	poezja	poezija		N;ACC;FEM;SG
+poezja	poezije	poezja	poezija		N;NOM;FEM;PL
+litwa	litve	litwa	litav		N;NOM;FEM;PL
+pokład	palubi	pokład	paluba	N;NOM;MASC;SG	N;DAT;FEM;SG
+sprzeciw	oporbene	sprzeciw	oporben	N;NOM;MASC;SG	ADJ;NOM;FEM;PL
+atlanta	atlantu	atlant	atlant	N;NOM;MASC;SG	N;ACC;FEM;SG
+atlanta	atlante	atlant	atlant	N;NOM;MASC;SG	N;NOM;FEM;PL
+sól	salt	sól	salt		PROPN;NOM;MASC;SG
+sól	sol	sól	sol		N;NOM;FEM;SG
+sól	soli	sól	soljeti		N;NOM;FEM;PL
+traktować	poslastica	traktować	poslastica	V;IPFV;NFIN;ACT	N;NOM;FEM;SG
+kolonię	kolonije	kolonia	kolonija	N;ACC;FEM;SG	N;NOM;FEM;PL
+kolonię	kolonija	kolonia	kolonija	N;ACC;FEM;SG	N;NOM;FEM;SG
+opady	padalina	opad	padalina	N;NOM;MASC;PL	N;NOM;FEM;SG
+słowacja	slovačka	słowacja	slovački	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;SG
+odchodzi	ostavljajući	odchodzić	ostavijati	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADV;RL
+odchodzi	odlazak	odchodzić	odlazak	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;MASC;SG
+usuwanie	brišem	usuwać	bristi	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;1;PRS;FIN
+klein	klein	klein	klein		PROPN;NOM;MASC;SG
+poczucie	osjetilo	poczucie	osjetiti	N;NOM;NEUT;SG	V;NEUT;SG;PST;V.PTCP;ACT
+rany	rana	rana	rana	N;ACC;FEM;SG	N;NOM;FEM;SG
+rany	rane	rana	rani	N;ACC;FEM;SG	N;NOM;FEM;PL
+substancje	supstanca	substancja	supstanca	N;NOM;FEM;PL	N;NOM;FEM;SG
+substancje	tvar	substancja	tvar	N;NOM;FEM;PL	N;NOM;FEM;SG
+publikowane	objavljeni	publikować	objaviti	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+ogromny	massive	ogromny	massiv	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+działek	parcele	działka	parcela	N;GEN;FEM;PL	N;NOM;FEM;PL
+nagrodzony	nagrađeni	nagrodzić	nagraditi	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+oczywiste	očigledno	oczywisty	očigledan	V;IPFV;IND;SG;PRS;FIN;ACT	ADV
+oczywiste	očito	oczywisty	očito	V;IPFV;IND;SG;PRS;FIN;ACT	ADV
+fotografia	fotografiju	fotografia	fotografija	N;NOM;FEM;SG	N;ACC;FEM;SG
+fotografia	foto	fotografia	foto	N;NOM;FEM;SG	
+gmt	gmt	gętić	gmt	PROPN;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+przekierowanie	preusmjeriti	przekierować	preusmjeriti	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;NFIN
+przekierowanie	preusmjeri	przekierować	preusmjer	N;PFV;NOM;NEUT;SG;POS;V.MSDR	
+przekierowanie	preusmjerio	przekierować	preusmjeriti	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;MASC;SG;PST;V.PTCP;ACT
+ted	ted	ted	ted		PROPN;NOM;MASC;SG
+zdecydowała	odlučili	zdecydować	odlučiti	V;PFV;FEM;IND;SG;PST;FIN;ACT	V;MASC;PL;PST;V.PTCP;ACT
+zdecydowała	odlučeno	zdecydować	odlučiti	V;PFV;FEM;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS
+belgradzie	beograd	belgrad	beograd	PROPN;DAT;MASC;SG	PROPN;NOM;MASC;SG
+tkanki	tkiva	tkanka	tkiv	N;ACC;FEM;PL	N;GEN;MASC;SG
+tkanki	tkivo	tkanka	tkivo	N;ACC;FEM;PL	N;NOM;NEUT;SG
+tkanki	tkiva	tkanka	tkiv	N;ACC;FEM;PL	N;GEN;MASC;SG
+tkanki	maramice	tkanka	maramica	N;ACC;FEM;PL	N;NOM;FEM;PL
+podstawowego	osnovno	podstawowy	osnovno	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;NEUT;SG
+podstawowego	osnovne	podstawowy	osnovan	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;FEM;PL
+podstawowego	osnove	podstawowy	osnova	ADJ;ACC;MASC;SG	N;NOM;FEM;PL
+podstawowego	osnovni	podstawowy	osnovan	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;MASC;SG
+skuteczność	učinkovitosti	skuteczność	učinkovitost	N;NOM;FEM;SG	N;NOM;FEM;PL
+erich	erich	erich	erich	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+dama	gospa	dam	gospa		N;NOM;FEM;SG
+dama	dama	dam	dama		N;NOM;FEM;SG
+dama	damo	dam	damo		V;IND;PL;1;PRS;FIN
+władcą	vladara	władca	vladar	N;INS;MASC;SG	N;ACC;MASC;SG
+władcą	vladar	władca	vladar	N;INS;MASC;SG	N;NOM;MASC;SG
+przyjęte	prihvatio	przyjąć	prihvatiti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+przyjęte	usvojila	przyjąć	usvojiti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;FEM;SG;PST;V.PTCP;ACT
+bloki	blokove	blok	blok	N;NOM;MASC;PL	N;ACC;MASC;PL
+niska	niski	niska	nisk		ADJ;NOM;DEF;MASC;SG
+niska	niska	niska	nizak		ADJ;NOM;DEF;FEM;SG
+niska	nisko	niska	nisko		ADV
+niska	nizak	niska	niz		N;NOM;MASC;SG
+twierdzą	tvrdnja	twierdzić	tvrdnja	V;IPFV;IND;PL;3;PRS;FIN;ACT	N;NOM;FEM;SG
+testament	zavjet	testament	zavjet	N;ACC;MASC;SG	N;NOM;MASC;SG
+berg	berg	berg	berg	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+mitsubishi	mitsubishi	mitsubisha	mitsubish		N;NOM;MASC;SG
+oklahoma	oklahoma	oklahy	oklah	N;NOM;NEUT;SG	PROPN;NOM;MASC;SG
+oklahoma	oklahomi	oklahy	oklah	N;NOM;NEUT;SG	N;INS;FEM;SG
+konkretne	specifične	konkretny	specifičan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+konkretne	konkretno	konkretny	konkretno	ADJ;NOM;NEUT;SG	ADV
+konkretne	beton	konkretny	beton	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+konkretne	betona	konkretny	beton	ADJ;NOM;NEUT;SG	N;GEN;MASC;SG
+konflikty	sukoba	konflikt	sukob	N;NOM;MASC;PL	N;GEN;MASC;SG
+konflikty	sukoba	konflikt	sukob	N;NOM;MASC;PL	N;GEN;MASC;SG
+konflikty	sukob	konflikt	sukob	N;NOM;MASC;PL	N;NOM;MASC;SG
+konflikty	konflikt	konflikt	konflikt	N;NOM;MASC;PL	N;NOM;MASC;SG
+kings	kraljevi	kings	kralj		N;NOM;MASC;PL
+kings	kraljeva	kings	kralj		N;GEN;MASC;PL
+dokładne	precizni	dokładny	precizan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+dokładne	precizno	dokładny	precizno	ADJ;NOM;NEUT;SG	ADV
+mianowicie	naime	mianowicie	naime	ADV	PART
+podziemia	podzemna	podziemiać	podzeman		ADJ;NOM;DEF;FEM;SG
+podziemia	podzemlje	podziemiać	podzemlje		N;NOM;NEUT;SG
+podziemia	podzemlje	podziemiać	podzemlje		N;NOM;NEUT;SG
+skrzyżowanie	raskrižju	skrzyżowanie	raskrižje	N;NOM;NEUT;SG	N;DAT;NEUT;SG
+skrzyżowanie	junction	skrzyżowanie	junction	N;NOM;NEUT;SG	PROPN;NOM;MASC;SG
+poprawę	unaprjeđenje	poprawa	unaprjeđenje	N;ACC;FEM;SG	N;NOM;NEUT;SG
+poprawę	poboljšanje	poprawa	poboljšanje	N;ACC;FEM;SG	N;NOM;NEUT;SG
+architektów	arhitekti	architekt	arhitekt	N;ACC;MASC;PL	N;NOM;MASC;PL
+muza	muza	muza	muz		N;NOM;FEM;SG
+czytać	pročitaj	czytać	pročitaj	V;IPFV;NFIN;ACT	INTJ
+czytać	čitaj	czytać	čitaj	V;IPFV;NFIN;ACT	N;NOM;MASC;SG
+organizatorów	organizatori	organizator	organizator	N;ACC;MASC;PL	N;NOM;MASC;PL
+organizatorów	organizatori	organizator	organizator	N;ACC;MASC;PL	N;NOM;MASC;PL
+spada	falls	spadać	falls	V;IPFV;IND;SG;3;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+dramatyczny	dramatično	dramatyczny	dramatičan	ADJ;NOM;MASC;SG	ADV
+siódmego	sedmi	siódmy	sedmi	N;GEN;MASC;SG	ADJ;NOM;MASC;SG
+siódmego	sedmo	siódmy	sedmo	N;GEN;MASC;SG	ADJ;NOM;NEUT;SG
+siódmego	sedma	siódmy	sedma	N;GEN;MASC;SG	ADJ;NOM;FEM;SG
+zapasy	opskrba	zapas	opskrba	N;NOM;MASC;PL	N;NOM;FEM;SG
+zapasy	hrvanje	zapas	hrvanje	N;NOM;MASC;PL	N;NOM;NEUT;SG
+żyły	vene	żyły	vena	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;NOM;FEM;PL
+żyły	žile	żyły	žila	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;NOM;FEM;PL
+żyły	venu	żyły	vena	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;ACC;FEM;SG
+żyły	žila	żyły	žila	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;NOM;FEM;SG
+żyły	vena	żyły	vena	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;NOM;FEM;SG
+donieck	donjeck	donieck	donjeck	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+cesarzem	car	cesarz	car	N;INS;MASC;SG	N;NOM;MASC;SG
+cesarzem	care	cesarz	car	N;INS;MASC;SG	ADP
+organiczny	organski	organiczny	organski	ADJ;NOM;MASC;SG	ADV
+chrześcijaństwo	kršćanstva	chrześcijaństwo	kršćanstvo	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+make	make	maka	maka		ADP
+make	napraviti	maka	napraviti		V;NFIN
+make	napravi	maka	napraviti		V;IND;SG;3;PRS;FIN
+instrukcji	upute	instrukcja	uputa	N;GEN;FEM;SG	N;NOM;FEM;PL
+instrukcji	instrukcije	instrukcja	instrukcija	N;GEN;FEM;SG	N;NOM;FEM;PL
+hope	nada	hopy	nada		N;NOM;FEM;SG
+hope	nade	hopy	nada		N;NOM;FEM;PL
+zgoda	dogovoreno	zgoda	dogovoren	N;NOM;FEM;SG	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS
+face	licem	faka	licem		N;INS;NEUT;SG
+face	faca	faka	facati		N;NOM;FEM;SG
+face	lice	faka	lice		N;NOM;NEUT;SG
+face	face	faka	faca		N;NOM;FEM;PL
+opada	falls	opadać	falls	V;IPFV;IND;SG;3;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+genewie	ženevi	genew	ženev	N;NOM;MASC;SG	N;DAT;FEM;SG
+ojców	očeve	ojciec	očeva	N;ACC;MASC;PL	N;NOM;FEM;PL
+ojców	očevi	ojciec	očeva	N;ACC;MASC;PL	N;NOM;MASC;PL
+ojców	tate	ojciec	tatiti	N;ACC;MASC;PL	N;NOM;FEM;PL
+ojców	očevi	ojciec	očeva	N;ACC;MASC;PL	N;NOM;MASC;PL
+zapewnienie	osigurati	zapewnić	osigurati	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;NFIN
+barwa	boje	barwa	boja	N;NOM;FEM;SG	N;NOM;FEM;PL
+barwa	boje	barwa	boja	N;NOM;FEM;SG	N;NOM;FEM;PL
+wspomnień	sjećanja	wspomnienie	sjećanje	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+wspomnień	uspomene	wspomnienie	uspomena	N;GEN;NEUT;PL	N;NOM;FEM;PL
+wspomnień	uspomena	wspomnienie	uspomen	N;GEN;NEUT;PL	N;NOM;FEM;SG
+inżynieria	inženjeri	inżynierie	inženjer	N;NOM;FEM;SG	N;NOM;MASC;PL
+turbo	turbo	turbo	turbo		N;NOM;MASC;SG
+radnego	vijećnik	radny	vijećnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+sale	prodaju	sala	prodaja	N;NOM;FEM;PL	N;ACC;FEM;SG
+sale	prodaja	sala	prodaja	N;NOM;FEM;PL	N;NOM;FEM;SG
+literaturę	književnosti	literatura	književnost	N;ACC;FEM;SG	N;NOM;FEM;PL
+literaturę	literature	literatura	literatura	N;ACC;FEM;SG	N;NOM;FEM;PL
+literaturę	književnost	literatura	književnost	N;ACC;FEM;SG	N;NOM;FEM;SG
+dat	dat	dat	dati		V;NFIN
+siatkówki	mrežnice	siatkówka	mrežnica	N;NOM;FEM;SG	N;NOM;FEM;PL
+siatkówki	mrežnice	siatkówka	mrežnica	N;NOM;FEM;SG	N;NOM;FEM;PL
+siatkówki	mrežnice	siatkówka	mrežnica	N;NOM;FEM;SG	N;NOM;FEM;PL
+siatkówki	odbojku	siatkówka	odbojka	N;NOM;FEM;SG	N;ACC;FEM;SG
+roślinności	vegetacije	roślinność	vegetacija	N;GEN;FEM;SG	N;NOM;FEM;PL
+design	dizajn	design	dizajn		N;NOM;MASC;SG
+concacaf	concacaf	concacaf	concacaf	N;GEN;MASC;SG	N;NOM;MASC;SG
+maks	max	maks	max		PROPN;NOM;MASC;SG
+maks	maks	maks	maks		N;NOM;MASC;SG
+doradcą	savjetnik	doradca	savjetnik	N;INS;MASC;SG	N;NOM;MASC;SG
+buffalo	bizone	buffalo	bizon	N;NOM;MASC;SG	N;ACC;MASC;PL
+buffalo	bizona	buffalo	bizon	N;NOM;MASC;SG	N;ACC;MASC;SG
+prawdopodobieństwo	vjerojatnosti	prawdopodobieństwo	vjerojatnost	N;NOM;NEUT;SG	N;NOM;FEM;PL
+hetman	hetman	hetman	hetman		N;NOM;MASC;SG
+zwłoki	leševi	zwłoki	leš	N;ACC;NEUT;PL	N;NOM;MASC;PL
+zwłoki	trupla	zwłoki	trup	N;ACC;NEUT;PL	N;NOM;NEUT;PL
+zwłoki	truplo	zwłoki	truplo	N;ACC;NEUT;PL	N;NOM;NEUT;SG
+zwłoki	leš	zwłoki	leš	N;ACC;NEUT;PL	N;NOM;MASC;SG
+pokoleń	generacija	pokolenie	generacija		N;NOM;FEM;SG
+pokoleń	generacije	pokolenie	generacija		N;NOM;FEM;PL
+pokoleń	generacijama	pokolenie	generacija		N;INS;FEM;PL
+odkryć	otkrića	odkryć	otkriće	V;PFV;NFIN;ACT	N;NOM;NEUT;PL
+odkryć	otkrij	odkryć	otkrij	V;PFV;NFIN;ACT	INTJ
+stężenie	koncentracije	stężyć	koncentracija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+zrobione	napravio	zrobić	napraviti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+zrobione	gotovo	zrobić	gotovo	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADV
+rozbił	razbijena	rozbić	razbiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;FEM;SG;V.PTCP
+rozbił	razbijen	rozbić	razbiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+rozbił	razbijeno	rozbić	razbititi	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS
+inżynierów	inženjeri	inżynier	inženjer	N;ACC;MASC;PL	N;NOM;MASC;PL
+bonaparte	bonaparte	bonaparty	bonapart		N;NOM;MASC;SG
+odwołany	otkazao	odwołać	otkazati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+żyła	venu	żyć	vena	V;IPFV;FEM;IND;SG;PST;FIN;ACT	N;ACC;FEM;SG
+żyła	žila	żyć	žila	V;IPFV;FEM;IND;SG;PST;FIN;ACT	N;NOM;FEM;SG
+żyła	vena	żyć	vena	V;IPFV;FEM;IND;SG;PST;FIN;ACT	N;NOM;FEM;SG
+zjednoczenie	ujedinjenja	zjednoczenie	ujedinjenje	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;NOM;NEUT;PL
+wnioski	zahtjeve	wniosek	zahtjev	N;NOM;MASC;PL	N;ACC;MASC;PL
+wnioski	zahtjeva	wniosek	zahtjev	N;NOM;MASC;PL	N;GEN;MASC;PL
+wnioski	zaključak	wniosek	zaključak	N;NOM;MASC;PL	N;NOM;MASC;SG
+wnioski	zaključke	wniosek	zaključak	N;NOM;MASC;PL	N;ACC;MASC;PL
+podłoża	podlogama	podłoże	podloga		N;INS;FEM;PL
+rak	raka	rak	rak	N;NOM;MASC;SG	N;GEN;MASC;SG
+luksemburga	luksemburg	luksemburga	luksemburg	N;GEN;MASC;SG	N;NOM;MASC;SG
+radiowy	radio	radiowy	raditi	ADJ;NOM;MASC;SG	V;MASC;SG;PST;V.PTCP;ACT
+emi	emi	em	emi		N;NOM;MASC;SG
+somerset	somerset	somerset	somerset	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;MASC;SG
+atlantyku	atlantic	atlantyk	atlantic	N;GEN;MASC;SG	N;NOM;MASC;SG
+atlantyku	atlantik	atlantyk	atlantik	N;GEN;MASC;SG	N;NOM;MASC;SG
+pytaj	pitajte	pytać	pitati	V;IPFV;IMP;SG;2;FIN;ACT	V;IMP;PL;2;FIN
+pytaj	pitaj	pytać	pitaj	V;IPFV;IMP;SG;2;FIN;ACT	INTJ
+ronald	ronalda	ronald	ronald	N;NOM;MASC;SG	N;ANIM;ACC;MASC;SG
+parki	parka	park	park	N;NOM;MASC;PL	N;GEN;MASC;SG
+parki	park	park	park	N;NOM;MASC;PL	N;NOM;MASC;SG
+parki	parkova	park	park	N;NOM;MASC;PL	N;GEN;MASC;PL
+parki	parkovima	park	park	N;NOM;MASC;PL	N;DAT;MASC;PL
+parki	parkove	park	park	N;NOM;MASC;PL	N;ACC;MASC;PL
+parki	parks	park	parks	N;NOM;MASC;PL	ADP
+konstrukcje	struktura	konstrukcja	struktura	N;NOM;FEM;PL	N;NOM;FEM;SG
+hong	hong	hong	hong	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+rain	kiša	raina	kiša		N;NOM;FEM;SG
+jam	džem	ja	džem		N;NOM;MASC;SG
+jam	pekmez	ja	pekmez		N;NOM;MASC;SG
+połączyć	spajanje	połączyć	spajanje	V;PFV;NFIN;ACT	N;NOM;NEUT;SG
+pozytywne	pozitivni	pozytywny	pozitivan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+pozytywne	pozitivno	pozytywny	pozitivno	ADJ;NOM;NEUT;SG	ADV
+pętli	petlje	pętla	petlja		N;NOM;FEM;SG
+pętli	petlja	pętla	petlja		N;NOM;FEM;SG
+pętli	petlje	pętla	petlja		N;NOM;FEM;SG
+historie	priče	histora	priča	N;NOM;FEM;SG	N;NOM;FEM;PL
+historie	price	histora	price	N;NOM;FEM;SG	N;NOM;FEM;PL
+sheffield	sheffield	sheffield	sheffield	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+intensywnie	napeto	intensywnie	napet	ADV	ADJ;NOM;DEF;NEUT;SG
+intensywnie	intenzivna	intensywnie	intenzivan	ADV	ADJ;NOM;DEF;FEM;SG
+intensywnie	intenzivan	intensywnie	intenzivan	ADV	ADJ;NOM;INDF;MASC;SG
+niepełnosprawnych	onemogućen	niepełnosprawny	onemogućen	ADJ;GEN;MASC;PL	ADJ;NOM;MASC;SG;V.PTCP
+niepełnosprawnych	invalid	niepełnosprawny	invalid	ADJ;GEN;MASC;PL	N;NOM;MASC;SG
+przejęcia	akvizicije	przejąć	akvizicija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+libii	libiji	libić	libija	PROPN;GEN;FEM;SG	N;DAT;FEM;SG
+fizyka	fiziku	fizyk	fizik		N;ACC;FEM;SG
+fizyka	fizika	fizyk	fizik		N;NOM;FEM;SG
+islamu	islama	islam	isla		N;NOM;FEM;PL
+islamu	islam	islam	islam		N;NOM;MASC;SG
+naczelnik	upravitelju	naczelnik	upravitelj	N;NOM;MASC;SG	N;DAT;MASC;SG
+sporów	sporova	spór	spor		N;GEN;MASC;PL
+jeremy	jeremy	jeremć	jeremy	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+nagrobek	grobnica	nagrobek	grobnica	N;ACC;MASC;SG	N;NOM;FEM;SG
+nagrobek	tombstone	nagrobek	tombston	N;ACC;MASC;SG	PROPN;NOM;MASC;SG
+haiti	haiti	haiti	hait		PROPN;NOM;MASC;SG
+haiti	haićanski	haiti	haićanski		ADJ;NOM;DEF;MASC;SG
+calcio	calcio	calcio	calciti	INTJ	N;NOM;MASC;SG
+przekształcenia	transformacije	przekształcenie	transformacija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+dłoni	dlan	dłoń	dlan	N;GEN;FEM;SG	N;NOM;MASC;SG
+dłoni	palm	dłoń	palm	N;GEN;FEM;SG	PROPN;NOM;MASC;SG
+wiara	vjere	wiara	vjera	N;NOM;FEM;SG	N;NOM;FEM;PL
+wiara	vjeru	wiara	vjera	N;NOM;FEM;SG	N;ACC;FEM;SG
+jesień	jesen	jesień	jesen		N;ACC;FEM;SG
+jesień	jeseni	jesień	jesen		N;GEN;FEM;SG
+jesień	jesen	jesień	jesen		N;ACC;FEM;SG
+jesień	pad	jesień	pad		N;NOM;MASC;SG
+walczących	zaraćenih	walczyć	zaratiti	ADJ;IPFV;ACC;MASC;PL;POS;V.PTCP;ACT	ADJ;GEN;DEF;MASC;PL
+rejestracji	registracije	rejestracja	registracija	N;GEN;FEM;SG	N;NOM;FEM;PL
+rejestracji	registracija	rejestracja	registracija	N;GEN;FEM;SG	N;NOM;FEM;SG
+rejestracji	registraciju	rejestracja	registracija	N;GEN;FEM;SG	N;ACC;FEM;SG
+rejestracji	registracije	rejestracja	registracija	N;GEN;FEM;SG	N;NOM;FEM;PL
+myślenia	razmišljam	myślenie	razmišljati	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;1;PRS;FIN
+myślenia	misleći	myślenie	misliti	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	ADV;RL;V.CVB
+myślenia	mislio	myślenie	misliti	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;MASC;SG;PST;V.PTCP;ACT
+zmiennych	varijable	zmienny	varijable	ADJ;GEN;MASC;PL	N;NOM;FEM;PL
+prześladowań	progon	prześladowanie	progon	N;GEN;NEUT;PL	N;NOM;MASC;SG
+pułków	pukovnije	pułka	pukovnija	N;GEN;MASC;PL	N;NOM;FEM;PL
+kolorado	colorada	kolorado	colorad		N;GEN;MASC;SG
+kolorado	colorado	kolorado	colorado		PROPN;NOM;MASC;SG
+bezpośredni	izravno	bezpośredni	izravno		ADV
+bezpośredni	direktno	bezpośredni	direktno		ADV
+bezpośredni	izravna	bezpośredni	izravan		ADJ;NOM;DEF;FEM;SG
+bezpośredni	direct	bezpośredni	direct		N;NOM;MASC;SG
+błony	membrane	błon	membrana		N;NOM;FEM;PL
+derby	derby	derba	derby		PROPN;NOM;MASC;SG
+derby	derbi	derba	derba		N;NOM;MASC;SG
+głębokie	duboko	głęboki	duboko	ADJ;NOM;NEUT;SG	ADV
+pieszych	pješaka	pieszy	pješak		N;GEN;MASC;PL
+pieszych	pješaka	pieszy	pješak		N;GEN;MASC;PL
+laurent	laurent	laurent	laurent	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+przedstawiona	predstavio	przedstawić	predstaviti	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+plakat	postera	plakat	poster	N;NOM;MASC;SG	N;ACC;MASC;SG
+inicjatywa	inicijative	inicjatywa	inicijativa	N;NOM;FEM;SG	N;NOM;FEM;PL
+inicjatywa	inicijativu	inicjatywa	inicijativa	N;NOM;FEM;SG	N;ACC;FEM;SG
+palermo	palermo	palermo	palermo	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+cole	cole	cól	col		N;NOM;MASC;SG
+cole	kol	cól	kol		N
+kulturowe	kulturne	kulturowy	kulturan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+mma	mma	mma	mi		PROPN;NOM;MASC;SG
+prywatny	privatno	prywatny	privatno	ADJ;NOM;MASC;SG	ADV
+prywatny	private	prywatny	privati	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+usuwania	odlaganje	usuwać	odlaganje	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;NEUT;SG
+gil	gil	gil	gil	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+boliwii	bolivijske	boliwia	bolivijski		ADJ;NOM;DEF;FEM;PL
+boliwii	boliviji	boliwia	bolivija		N;DAT;FEM;SG
+wyrażenia	fraze	wyrażenie	fraza	N;NOM;NEUT;SG	N;NOM;FEM;PL
+wyrażenia	izrazi	wyrażenie	izraz	N;NOM;NEUT;SG	N;NOM;MASC;PL
+gazy	plinova	gaz	plin	N;NOM;MASC;PL	N;GEN;MASC;SG
+gazy	plinove	gaz	plin	N;NOM;MASC;PL	N;ACC;MASC;PL
+gazy	gazu	gaz	gaza	N;NOM;MASC;PL	N;ACC;FEM;SG
+gazy	gazi	gaz	gaziti	N;NOM;MASC;PL	V;IND;SG;3;PRS;FIN
+nasion	sjemenke	nasiono	sjemenk		N;NOM;FEM;PL
+nasion	sjeme	nasiono	saj		N;NOM;NEUT;SG
+nasion	seme	nasiono	seme		N;NOM;NEUT;SG
+nasion	sjeme	nasiono	saj		N;NOM;NEUT;SG
+flora	flora	flor	flora		N;NOM;FEM;SG
+śródziemnego	mediterana	śródziemny	mediteran	ADJ;ACC;MASC;SG	N;GEN;MASC;SG
+śródziemnego	mediteranske	śródziemny	mediteranski	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;FEM;PL
+siódme	sedmi	siódmy	sedmi		ADJ;NOM;MASC;SG
+siódme	sedmo	siódmy	sedmo		ADJ;NOM;NEUT;SG
+siódme	sedma	siódmy	sedma		ADJ;NOM;FEM;SG
+starsza	starješina	stary	starješina	ADJ;NOM;CMPR;FEM;SG	N;NOM;FEM;SG
+esp	esp	espy	esp		N;MASC;SG
+porównania	usporedbu	porównanie	usporedba	N;NOM;NEUT;SG	N;ACC;FEM;SG
+porównania	usporedbe	porównanie	usporedba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+porównania	usporedbe	porównanie	usporedba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+phillips	phillips	phillips	phillips	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+jiří	jiří	jiří	jiří	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+seine	seine	seiny	seinuti		N;NOM;MASC;SG
+antwerpii	antwerpenu	antwerpia	antwerpen	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+münchen	münchen	münchen	münchen	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+poczęcia	začeće	począć	začeće	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+zarzut	molbu	zarzut	molba	N;NOM;MASC;SG	N;ACC;FEM;SG
+ustaw	postavi	ustawa	postav	V;IPFV;IMP;SG;2;FIN;ACT	V;IND;SG;3;PRS;FIN
+ustaw	set	ustawa	set	V;IPFV;IMP;SG;2;FIN;ACT	N;NOM;MASC;SG
+ustaw	komplet	ustawa	komplet	V;IPFV;IMP;SG;2;FIN;ACT	N;NOM;MASC;SG
+palace	palači	palak	palača	N;NOM;MASC;SG	N;DAT;FEM;SG
+sztuczne	umjetno	sztuczny	umjetno	ADJ;NOM;NEUT;SG	ADV
+baltimore	baltimore	baltimor	baltimor	N;NOM;MASC;SG	N;NOM;FEM;PL
+uwięziony	zarobljeni	uwięzić	zarobiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+ogrodzie	vrta	ogród	vrt	N;DAT;MASC;SG	N;GEN;MASC;SG
+ogrodzie	garden	ogród	garden	N;DAT;MASC;SG	N;NOM;MASC;SG
+ogrodzie	vrt	ogród	vrt	N;DAT;MASC;SG	N;NOM;MASC;SG
+robertson	robertson	robertson	robertson	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+apple	apple	appo	apple		PROPN;NOM;MASC;SG
+apple	jabuka	appo	jabuka		N;NOM;FEM;SG
+iwona	yvonne	iwon	yvonni	PROPN;NOM;FEM;SG	PROPN;NOM;MASC;SG
+galaktyk	galaksije	galaktyk	galaksija	N;GEN;MASC;PL	N;NOM;FEM;PL
+galaktyk	galaksija	galaktyk	galaksija	N;GEN;MASC;PL	N;NOM;FEM;SG
+wiosna	proljeće	wiosna	proljeće		N;NOM;NEUT;SG
+wiosna	proljeća	wiosna	proljeće		N;NOM;NEUT;PL
+rządowe	vlada	rządowy	vlada	ADJ;NOM;NEUT;SG	N;NOM;FEM;SG
+rządowe	vlade	rządowy	vlada	ADJ;NOM;NEUT;SG	N;NOM;FEM;PL
+śpiewa	pjevanje	śpiewać	pjevanje	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG
+śpiewa	pjevam	śpiewać	pjevati	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;1;PRS;FIN
+śpiewa	pjevajući	śpiewać	pjevati	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADV;RL
+przekonany	uvjereni	przekonany	uvjeren	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL
+przekonany	uvjerio	przekonany	uvjeriti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+kaliber	kalibra	kaliber	kalibar		N;NOM;MASC;SG
+kaliber	kalibar	kaliber	kalibar		N;NOM;MASC;SG
+kaliber	kalibra	kaliber	kalibar		N;NOM;MASC;SG
+bibliotekę	knjižnica	biblioteka	knjižnica	N;ACC;FEM;SG	N;NOM;FEM;SG
+bibliotekę	biblioteka	biblioteka	biblioteka	N;ACC;FEM;SG	N;NOM;FEM;SG
+moritz	moritz	moritz	moritz	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+din	din	din	din		N;NOM;MASC;SG
+mohamed	mohamed	mohamed	mohamed	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+osobowość	osobnosti	osobowość	osobnost	N;NOM;FEM;SG	N;NOM;FEM;PL
+zarejestrowany	registrirani	zarejestrować	registriran	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zależność	ovisnosti	zależność	ovisnost	N;NOM;FEM;SG	N;NOM;FEM;PL
+child	djete	child	dijete		N;NOM;NEUT;SG
+child	dete	child	deti		N;NOM;NEUT;SG
+child	dijete	child	dijete		N;NOM;NEUT;SG
+oddanie	posvetu	oddanie	posvet	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;ACC;FEM;SG
+podejścia	prilazi	podejść	prilaziti	N;GEN;NEUT;SG	V;IND;SG;3;PRS;FIN
+podejścia	pristup	podejść	pristup	N;GEN;NEUT;SG	N;NOM;MASC;SG
+podejścia	pristupi	podejść	pristupiti	N;GEN;NEUT;SG	N;NOM;MASC;SG
+okładki	cover	okładka	cover	N;ACC;FEM;PL	N;NOM;MASC;SG
+okładki	zaklon	okładka	zaklon	N;ACC;FEM;PL	N;NOM;MASC;SG
+okładki	pokriva	okładka	pokrivati	N;ACC;FEM;PL	V;IND;SG;3;PRS;FIN
+podmiot	entiteta	podmiot	entitet	N;NOM;MASC;SG	N;GEN;MASC;SG
+url	url	urla	url		N;NOM;MASC;SG
+rzymian	rimljanima	rzymianin	rimljan		ADJ;INS;DEF;MASC;PL
+rzymian	rimljani	rzymianin	rimljan		ADJ;NOM;DEF;MASC;PL;V.PTCP
+zaproszony	pozvani	zaprosić	pozvati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zbiorowe	kolektiv	zbiorowy	kolektiv	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+reprezentujący	zastupa	reprezentować	zastup	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;IND;SG;3;PRS;FIN
+reprezentujący	predstavljajući	reprezentować	predstavljati	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	ADV;RL
+reprezentujący	predstavlja	reprezentować	predstavljati	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;IND;SG;3;PRS;FIN
+wież	kule	wież	kula	N;GEN;FEM;PL	N;NOM;FEM;PL
+ostro	grubi	ostro	grub		ADJ;NOM;DEF;MASC;SG
+ostro	grubo	ostro	grubo		ADV
+ostro	gruba	ostro	grub		ADJ;NOM;DEF;FEM;SG
+ostro	grub	ostro	grub		ADJ;NOM;INDF;MASC;SG
+kość	kosti	kość	kost	N;NOM;FEM;SG	N;NOM;FEM;PL
+kość	bone	kość	bona	N;NOM;FEM;SG	ADP
+sucha	suha	suchy	suh		ADJ;NOM;DEF;FEM;SG
+sucha	suhi	suchy	suhi		ADJ;NOM;DEF;MASC;SG
+sucha	suho	suchy	suho		N;NOM;NEUT;SG
+lokomotywy	lokomotiva	lokomotywa	lokomotiv	N;ACC;FEM;PL	N;NOM;FEM;SG
+lokomotywy	lokomotive	lokomotywa	lokomotiva	N;ACC;FEM;PL	N;NOM;FEM;PL
+zagrzeb	zagreb	zagrzeb	zagreb	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+bibliotek	knjižnice	bibliotek	knjižnica	N;GEN;FEM;PL	N;NOM;FEM;PL
+bibliotek	biblioteke	bibliotek	biblioteka	N;GEN;FEM;PL	N;NOM;FEM;PL
+tomáš	tomáš	tomry	toma	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+stawy	barama	stawa	baram	N;NOM;MASC;PL	N;INS;FEM;PL
+stawy	bare	stawa	bara	N;NOM;MASC;PL	N;NOM;FEM;SG
+stawy	zglobove	stawa	zglob	N;NOM;MASC;PL	N;ACC;MASC;PL
+skamieniałości	fosila	skamieniałość	fositi	N;ACC;FEM;PL	N;GEN;MASC;SG
+księżniczki	princeza	księżniczka	princez	N;GEN;FEM;SG	N;NOM;FEM;SG
+księżniczki	princess	księżniczka	princess	N;GEN;FEM;SG	ADP
+księżniczki	princeze	księżniczka	princeza	N;GEN;FEM;SG	N;NOM;FEM;PL
+kopiowania	kopiranje	kopiować	kopiranje	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;NOM;NEUT;SG
+kopiowania	kopira	kopiować	kopir	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PRS;FIN
+techniczna	tehnički	techniczny	tehnički	ADJ;NOM;FEM;SG	ADV
+świadomość	svijesti	świadomość	svijest	N;NOM;FEM;SG	N;DAT;FEM;SG
+miles	milje	miles	milje		N;NOM;FEM;SG
+miles	miles	miles	miles		ADP
+miles	milja	miles	milj		N;NOM;MASC;SG
+mongolii	mongoliji	mongolia	mongolija		N;DAT;FEM;SG
+smak	okusa	smak	okus	N;NOM;MASC;SG	N;GEN;MASC;SG
+smak	okusi	smak	okus	N;NOM;MASC;SG	N;NOM;MASC;PL
+smak	okusa	smak	okus	N;NOM;MASC;SG	N;GEN;MASC;SG
+utrata	gubljenje	utratać	gubljenje	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG
+utrata	gubitak	utratać	gubitak	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;MASC;SG
+utrata	gubitka	utratać	gubitak	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;ACC;MASC;SG
+weber	weber	weber	weber		PROPN;NOM;MASC;SG
+zatwierdzony	odobrio	zatwierdzić	odobriti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+michelle	michelle	michelle	michella	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+baden	baden	baden	baden		PROPN;NOM;MASC;SG
+przestępstwa	zločini	przestępstwo	zločin	N;NOM;NEUT;SG	N;NOM;MASC;PL
+przestępstwa	zločine	przestępstwo	zločin	N;NOM;NEUT;SG	N;ACC;MASC;PL
+alma	alma	alma	alma		N;NOM;FEM;SG
+ostre	oštar	ostry	oštar		ADJ;NOM;INDF;MASC;SG
+ostre	oštri	ostry	oštar		ADJ;NOM;DEF;MASC;SG
+ostre	oštro	ostry	oštro		ADV
+ostre	oštra	ostry	oštar		ADJ;NOM;DEF;FEM;SG
+ostre	sharp	ostry	sharp		ADP
+ostre	akutna	ostry	akutan		ADJ;NOM;DEF;FEM;SG
+luftwaffe	luftwaffe	luftwaffe	luftwaffa		N;NOM;MASC;SG
+szybkość	brzina	szybkość	brzina	N;ACC;FEM;SG	N;NOM;FEM;SG
+podgatunki	podvrsta	podgatunka	podvrst	N;NOM;MASC;PL	N;NOM;FEM;SG
+pytań	pitanja	pytanie	pitanje	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+software	softver	softwary	softver		N;NOM;MASC;SG
+software	software	softwary	softwar		N;NOM;MASC;SG
+zatopiony	potonuo	zatopić	potonuti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+zatopiony	potopljeni	zatopić	potopiti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+wiktorii	viktorija	wiktoria	viktorija	N;GEN;FEM;SG	N;NOM;FEM;SG
+wiktorii	victoria	wiktoria	victor	N;GEN;FEM;SG	N;NOM;MASC;SG
+giorgio	giorgio	giorgio	giorgiti		PROPN;NOM;MASC;SG
+alejandro	alejandro	alejandro	alejandro	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+sandra	sandra	sandra	sandar	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+wallace	wallace	wallace	wallac		N;NOM;MASC;SG
+wellington	wellington	wellington	wellington		N;NOM;MASC;SG
+następna	sljedeća	następny	sljedeći		ADJ;NOM;DEF;FEM;SG
+wyroby	članke	wyrób	članak	N;NOM;MASC;PL	N;ACC;MASC;PL
+wyroby	proizvode	wyrób	proizvod	N;NOM;MASC;PL	N;ACC;MASC;PL
+strategii	strategije	strategia	strategija	N;GEN;FEM;SG	N;NOM;FEM;PL
+strategii	strategije	strategia	strategija	N;GEN;FEM;SG	N;NOM;FEM;PL
+strategii	strategiju	strategia	strategija	N;GEN;FEM;SG	N;ACC;FEM;SG
+strategii	strategija	strategia	strategija	N;GEN;FEM;SG	N;NOM;FEM;SG
+świeckich	sekularna	świecki	sekularan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;SG
+emmy	emmy	emmy	emmy	V;IPFV;IND;SG;1;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+emmy	emi	emmy	emi	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;NOM;MASC;SG
+nadzoru	nadzor	nadzór	nadzor	N;GEN;MASC;SG	N;NOM;MASC;SG
+nadzoru	nadgledanje	nadzór	nadgledanje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+nadzoru	nadzor	nadzór	nadzor	N;GEN;MASC;SG	N;NOM;MASC;SG
+satelitarne	satelit	satelitarny	satelit	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+zabawy	zabavno	zabawa	zabavno	N;ACC;FEM;SG	ADV
+zabawy	zabava	zabawa	zabava	N;ACC;FEM;SG	N;NOM;FEM;SG
+zabawy	zabavna	zabawa	zabavan	N;ACC;FEM;SG	ADJ;NOM;DEF;FEM;SG
+tajemnicy	tajnovitost	tajemnica	tajnovitost	N;GEN;FEM;SG	N;NOM;FEM;SG
+tajemnicy	tajnost	tajemnica	tajnost	N;GEN;FEM;SG	N;NOM;FEM;SG
+operatora	operater	operator	operater	N;ACC;MASC;SG	N;NOM;MASC;SG
+ćwiczeń	vježbe	ćwiczenie	vježba	N;GEN;NEUT;PL	N;NOM;FEM;PL
+nico	nico	nico	nico		N;NOM;MASC;SG
+wymiana	zamjenu	wymianać	zamjena	N;NOM;FEM;SG	N;ACC;FEM;SG
+przeznaczenia	sudbine	przeznaczenie	sudbina	N;GEN;NEUT;SG	N;NOM;FEM;PL
+przeznaczenia	destiny	przeznaczenie	destiny	N;GEN;NEUT;SG	ADP
+przeznaczenia	sudbina	przeznaczenie	sudbina	N;GEN;NEUT;SG	N;NOM;FEM;SG
+przeznaczenia	sudbina	przeznaczenie	sudbina	N;GEN;NEUT;SG	N;NOM;FEM;SG
+łuk	arch	łuk	arch	N;NOM;MASC;SG	ADP
+lucie	lucie	luto	luka	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+atlancie	atlanta	atlant	atlant	N;DAT;MASC;SG	N;NOM;MASC;SG
+atlancie	atlantu	atlant	atlant	N;DAT;MASC;SG	N;ACC;FEM;SG
+atlancie	atlante	atlant	atlant	N;DAT;MASC;SG	N;NOM;FEM;PL
+smoka	zmaju	smoka	zma	N;ACC;MASC;SG	N;DAT;MASC;SG
+smoka	zmaj	smoka	zmaj	N;ACC;MASC;SG	N;NOM;MASC;SG
+smoka	dragon	smoka	dragon	N;ACC;MASC;SG	ADP
+opisano	opisano	opisać	opisati	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS
+opisano	opisan	opisać	opisati	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+opisano	opisana	opisać	opisati	V;PFV;IND;0;PST;FIN;ACT	ADJ;NOM;DEF;FEM;SG;V.PTCP
+kwatera	odaje	kwater	odavati	N;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+kwatera	četvrtine	kwater	četvrtina	N;NOM;FEM;SG	N;NOM;FEM;PL
+tajne	tajno	tajny	tajno		ADV
+tajne	tajni	tajny	tajan		ADJ;NOM;DEF;MASC;SG
+tajne	tajna	tajny	tajna		N;NOM;FEM;SG
+tajne	povjerljivo	tajny	povjerljiv		ADV
+julius	julius	julius	julius	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+julius	julije	julius	julija	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+ciepło	toplina	ciepło	toplina		N;NOM;FEM;SG
+ciepło	vrućina	ciepło	vrućina		N;NOM;FEM;SG
+ciepło	topline	ciepło	toplina		N;NOM;FEM;PL
+ciepło	grijanje	ciepło	grijanje		N;NOM;NEUT;SG
+ciepło	topla	ciepło	topao		ADJ;NOM;DEF;FEM;SG
+ciepło	topao	ciepło	topasti		V;MASC;SG;PST;V.PTCP;ACT
+ciepło	tople	ciepło	topao		ADJ;NOM;DEF;FEM;PL
+ciepło	toplo	ciepło	toplo		ADJ;NOM;DEF;NEUT;SG
+ciepło	toplina	ciepło	toplina		N;NOM;FEM;SG
+ciepło	toplinu	ciepło	toplina		N;ACC;FEM;SG
+alexandre	alexandre	alexandre	alexanda	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+rozwiązać	odlučnost	rozwiązać	odlučnost	V;PFV;NFIN;ACT	N;NOM;FEM;SG
+aniołów	anđeli	anioł	anđeo	N;GEN;MASC;PL	N;NOM;MASC;PL
+gość	posjetitelja	gość	posjetitelj	V;IPFV;IND;SG;PST;FIN;ACT	N;GEN;MASC;PL
+gość	posjetitelj	gość	posjetitelj	V;IPFV;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+gość	tip	gość	tip	V;IPFV;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+gość	guy	gość	guy	V;IPFV;IND;SG;PST;FIN;ACT	PROPN;NOM;MASC;SG
+gość	momak	gość	momak	V;IPFV;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+gość	gost	gość	gost	V;IPFV;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+fale	vala	fala	val	N;NOM;FEM;PL	N;GEN;MASC;SG
+fale	val	fala	val	N;NOM;FEM;PL	N;NOM;MASC;SG
+fale	valove	fala	val	N;NOM;FEM;PL	N;ACC;MASC;PL
+statut	statuti	statut	statuti	N;NOM;MASC;SG	N;NOM;MASC;PL
+dochodów	prihod	dochód	prihod	N;GEN;MASC;PL	N;NOM;MASC;SG
+dochodów	prihodi	dochód	prihod	N;GEN;MASC;PL	N;NOM;MASC;PL
+dochodów	primanja	dochód	primanje	N;GEN;MASC;PL	N;NOM;NEUT;PL
+dochodów	dohodak	dochód	dohodak	N;GEN;MASC;PL	N;NOM;MASC;SG
+szerokiej	široka	szeroki	širok	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;FEM;SG
+dyplomatyczne	diplomatski	dyplomatyczny	diplomatski	ADJ;NOM;NEUT;SG	ADV
+częstotliwość	frekvencije	częstotliwość	frekvencija	N;NOM;FEM;SG	N;NOM;FEM;PL
+częstotliwość	frekvenciju	częstotliwość	frekvencija	N;NOM;FEM;SG	N;ACC;FEM;SG
+too	previše	too	previše		ADV
+too	previse	too	previs		N;NOM;MASC;SG
+matematyka	matematiku	matematyka	matematika	N;NOM;FEM;SG	N;ACC;FEM;SG
+matematyka	matematički	matematyka	matematički	N;NOM;FEM;SG	ADV
+matematyka	matematike	matematyka	matematika	N;NOM;FEM;SG	N;NOM;FEM;PL
+matematyka	matematički	matematyka	matematički	N;NOM;FEM;SG	ADV
+matematyka	matematiku	matematyka	matematika	N;NOM;FEM;SG	N;ACC;FEM;SG
+wbc	wbc	wbiąć	wbc		PROPN;NOM;MASC;SG
+rydze	rigi	ryda	riga		PROPN;DAT;FEM;SG
+wiarę	vjere	wiara	vjera	N;ACC;FEM;SG	N;NOM;FEM;PL
+wiarę	vjera	wiara	vjera	N;ACC;FEM;SG	N;NOM;FEM;SG
+kostki	gležanj	kostka	gležanj		N;NOM;MASC;SG
+kostki	kocke	kostka	kocka		N;NOM;FEM;PL
+kostki	kockice	kostka	kockica		N;NOM;FEM;PL
+kostki	bokser	kostka	bokser		N;NOM;MASC;SG
+kostki	zglobovi	kostka	zglob		N;NOM;MASC;PL
+rozbudowa	produžetak	rozbudowy	produžetak		N;NOM;MASC;SG
+rozbudowa	proširenje	rozbudowy	proširenje		N;NOM;NEUT;SG
+rozbudowa	širi	rozbudowy	širiti		V;IND;SG;3;PRS;FIN
+rozbudowa	proširenja	rozbudowy	proširenje		N;NOM;NEUT;PL
+rozbudowa	širenje	rozbudowy	širenje		N;NOM;NEUT;SG
+rozbudowa	proširenje	rozbudowy	proširenje		N;NOM;NEUT;SG
+nowoczesne	moderan	nowoczesny	moderan	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+nowoczesne	moderne	nowoczesny	moderan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+nowoczesne	moderno	nowoczesny	moderno	ADJ;NOM;NEUT;SG	ADV
+emily	emili	emil	emititi	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+emily	emily	emil	emily	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN;NOM;FEM;SG
+ostateczny	ultimate	ostateczny	ultimati	ADJ;NOM;MASC;SG	N;ACC;MASC;PL
+fin	fin	fina	fin		ADJ;NOM;INDF;MASC;SG
+clinton	clinton	clinton	clinton	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+eduard	eduard	eduard	eduard	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+ukraińców	ukrajinci	ukrainiec	ukrajinak	N;ACC;MASC;PL	N;NOM;MASC;PL
+rejestr	registrirati	rejestr	registrirati	N;NOM;MASC;SG	V;NFIN
+karpaty	karpati	karpata	karpat		N;NOM;MASC;PL
+koch	koch	koch	koch	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+rzadkie	rijetki	rzadki	rijedak	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+rzadkie	rijetko	rzadki	rijetko	ADJ;NOM;NEUT;SG	ADV
+rzadkie	retko	rzadki	retko	ADJ;NOM;NEUT;SG	ADV
+rzadkie	rijetke	rzadki	rijedak	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+syntezy	sinteza	syntez	sintez		N;NOM;FEM;SG
+bellona	bellona	bellon	bellon		N;NOM;MASC;SG
+przemysłowy	industrijski	przemysłowy	industrijski	ADJ;NOM;MASC;SG	ADV
+słup	polu	słup	pola	N;NOM;MASC;SG	N;DAT;MASC;SG
+słup	poljak	słup	poljak	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+doradca	savjetnice	doradca	savjetnica	N;NOM;MASC;SG	N;NOM;FEM;PL
+uderzył	udri	uderzyć	udra	V;PFV;MASC;IND;SG;PST;FIN;ACT	INTJ
+uderzył	hit	uderzyć	hit	V;PFV;MASC;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+audi	audi	audia	auditi		N;NOM;MASC;SG
+nsdap	nsdap	nsdapyp	nsdap	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+rejs	krstarenja	rejs	krstarenje	N;NOM;MASC;SG	N;NOM;NEUT;PL
+arabii	arabiji	arabia	arabija	PROPN;GEN;FEM;SG	N;DAT;FEM;SG
+arabii	arabije	arabia	arabija	PROPN;GEN;FEM;SG	N;NOM;FEM;PL
+panie	gospode	pan	gospoda		N;NOM;MASC;SG
+panie	dame	pan	dama		N;NOM;FEM;PL
+kong	kong	kong	kong	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+tradycję	tradicije	tradycja	tradicija	N;ACC;FEM;SG	N;NOM;FEM;PL
+tradycję	tradicija	tradycja	tradicija	N;ACC;FEM;SG	N;NOM;FEM;SG
+cali	cali	cala	cal		N;NOM;MASC;SG
+cali	inča	cala	inč		N;NOM;MASC;SG
+edgar	edgare	edgar	edgar	PROPN;NOM;MASC;SG	N;NOM;FEM;PL
+edgar	edgar	edgar	edgar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+twoja	tvoje	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;FEM;PL;1
+twoja	vaš	twój	vaš	DET;NOM;FEM;SG;2	DET;NOM;MASC;SG;1
+twoja	tvoj	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;MASC;SG;1
+twoja	vaše	twój	vaš	DET;NOM;FEM;SG;2	DET;NOM;FEM;SG;1
+twoja	tvoja	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;FEM;SG;1
+twoja	vaša	twój	vaš	DET;NOM;FEM;SG;2	DET;NOM;FEM;SG;1
+twoja	tvoje	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;FEM;PL;1
+twoja	tvoj	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;MASC;SG;1
+twoja	tvoja	twój	tvoj	DET;NOM;FEM;SG;2	DET;NOM;FEM;SG;1
+clausura	clausura	clausura	clausura	N;ACC;MASC;SG	N;NOM;FEM;SG
+jensen	jensen	jensen	jensen	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+fia	fia	fia	fia		N;NOM;MASC;SG
+przegrana	porazi	przegrać	poraziti	N;NOM;FEM;SG	N;NOM;MASC;PL
+przegrana	poraza	przegrać	poraz	N;NOM;FEM;SG	N;GEN;MASC;SG
+przegrana	gubi	przegrać	gubiti	N;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+potomków	potomci	potomek	potomac	N;ACC;MASC;PL	N;NOM;MASC;PL
+potomków	potomci	potomek	potomac	N;ACC;MASC;PL	N;NOM;MASC;PL
+england	engleske	england	engleski		ADJ;NOM;DEF;FEM;PL
+england	englesku	england	engleski		ADJ;ACC;DEF;FEM;SG
+england	engleska	england	engleski		ADJ;NOM;DEF;FEM;SG
+dee	dee	dee	dee		PROPN;NOM;MASC;SG
+sprzeczne	suprotno	sprzeczny	suprotno		ADV
+sprzeczne	kontradiktorne	sprzeczny	kontradiktoran		ADJ;NOM;DEF;FEM;PL
+renata	renata	renata	renat	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+współzałożycielem	suutemeljitelj	współzałożyciel	suutemeljitelj	N;INS;MASC;SG	N;NOM;MASC;SG
+płock	płock	płock	płock		N;NOM;MASC;SG
+asystenta	pomoćnik	asystent	pomoćnik	N;ACC;MASC;SG	N;NOM;MASC;SG
+asystenta	pomoćnica	asystent	pomoćnica	N;ACC;MASC;SG	N;NOM;FEM;SG
+asystenta	asistent	asystent	asistent	N;ACC;MASC;SG	N;NOM;MASC;SG
+podkategorii	podkategorije	podkategoria	podkategorija	N;GEN;FEM;SG	N;NOM;FEM;PL
+podkategorii	potkategorija	podkategoria	potkategorija	N;GEN;FEM;SG	N;NOM;FEM;SG
+traktuje	poslastice	traktować	poslastica	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL
+dialogu	dijalog	dialog	dijalog	N;GEN;MASC;SG	N;NOM;MASC;SG
+missisipi	mississippi	missisipa	mississipp		PROPN;NOM;MASC;SG
+powodując	uzrokujući	powodować	uzrokovati	V;IPFV;PRS;V.CVB;ACT	ADV;RL
+christine	christine	christiny	christina	N;NOM;FEM;SG	N;NOM;FEM;PL
+marynarka	navy	marynarka	navy	N;NOM;FEM;SG	PROPN;NOM;MASC;SG
+marynarka	mornarice	marynarka	mornarica	N;NOM;FEM;SG	N;NOM;FEM;PL
+marynarka	mornarički	marynarka	mornarički	N;NOM;FEM;SG	ADV
+marynarka	jaknu	marynarka	jakna	N;NOM;FEM;SG	N;ACC;FEM;SG
+stężenia	koncentracije	stężyć	koncentracija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+polo	polo	polo	polo		N;NOM;MASC;SG
+czynne	aktivne	czynny	aktivan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+czynne	aktivno	czynny	aktivno	ADJ;NOM;NEUT;SG	ADV
+odbiór	preko	odbiór	preko	N;NOM;MASC;SG	ADP;GEN
+odbiór	primamo	odbiór	primati	N;NOM;MASC;SG	V;IND;PL;1;PRS;FIN
+odbiór	prijam	odbiór	prijam	N;NOM;MASC;SG	N;INAN;ACC;MASC;SG
+represji	represije	represja	represija	N;GEN;FEM;SG	N;NOM;FEM;PL
+czeskie	češke	czeski	češki	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+ashley	ashley	ashley	ashley	PROPN;NOM;FEM;SG	PROPN;NOM;MASC;SG
+obywatele	građanima	obywatele	građanin	N;NOM;MASC;PL	N;DAT;MASC;PL
+obywatele	nacionalno	obywatele	nacionalan	N;NOM;MASC;PL	ADJ;NOM;NEUT;SG
+obywatele	državljana	obywatele	državljanin	N;NOM;MASC;PL	N;GEN;MASC;PL
+obywatele	nacionalne	obywatele	nacionalan	N;NOM;MASC;PL	ADJ;NOM;DEF;FEM;PL
+obywatele	državno	obywatele	državno	N;NOM;MASC;PL	ADJ;NOM;DEF;NEUT;SG
+obywatele	državljanin	obywatele	državljanin	N;NOM;MASC;PL	N;NOM;MASC;SG
+obywatele	građanin	obywatele	građanin	N;NOM;MASC;PL	N;NOM;MASC;SG
+salon	salona	salon	salon	N;NOM;MASC;SG	N;ACC;MASC;SG
+ain	ain	ain	ain	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+mięsa	mesa	mięso	meso	N;GEN;NEUT;SG	N;NOM;NEUT;PL
+mięsa	meso	mięso	meso	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+speedway	speedway	speedway	speedway		N;NOM;MASC;SG
+mechaniczne	mehanički	mechaniczny	mehanički	ADJ;NOM;NEUT;SG	ADV
+nbc	nbc	nbc	nbc		PROPN;NOM;MASC;SG
+wasilij	vasilij	wasilać	vasiti	PROPN;NOM;MASC;SG	N;NOM;MASC;PL
+mauzoleum	mauzolej	mauzoleum	mauzolej		N;NOM;MASC;SG
+butler	butler	butler	butler		N;NOM;MASC;SG
+butler	batler	butler	batler		N;NOM;MASC;SG
+liczebności	izobilju	liczebność	izobilje	N;GEN;FEM;SG	N;DAT;NEUT;SG
+liczebności	obilje	liczebność	obilje	N;GEN;FEM;SG	N;NOM;FEM;SG
+obserwuje	promatranje	obserwować	promatranje	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG
+obserwuje	gledam	obserwować	gledati	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;1;PRS;FIN
+obserwuje	gledamo	obserwować	gledati	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;PL;1;PRS;FIN
+obserwuje	gledajući	obserwować	gledati	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADV;RL
+obserwuje	gledanje	obserwować	gledanje	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;NEUT;SG
+tunezji	tuniski	tunezja	tuniski	PROPN;GEN;FEM;SG	ADV
+samuela	samuel	samuel	samuel	N;GEN;MASC;SG	N;NOM;MASC;SG
+paliwo	goriva	paliwo	gorivo	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+piłsudski	piłsudski	piłsudski	piłsudski	ADJ;NOM;MASC;SG	ADV
+skuteczności	učinkovitost	skuteczność	učinkovitost	N;GEN;FEM;SG	N;NOM;FEM;SG
+skuteczności	efikasnost	skuteczność	efikasnost	N;GEN;FEM;SG	N;NOM;FEM;SG
+zatrudnienia	zaposlenje	zatrudnienie	zaposlenje	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+zatrudnienia	zapošljavanje	zatrudnienie	zapošljavanje	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+ren	ren	ren	ren		N;NOM;MASC;SG
+ren	rajna	ren	rajna		N;NOM;FEM;SG
+grey	sivo	grać	sivo		ADJ;NOM;NEUT;SG
+grey	siva	grać	siv		N;NOM;FEM;SG
+grey	grey	grać	grey		PROPN;NOM;MASC;SG
+grey	sivi	grać	siv		ADJ;NOM;DEF;MASC;SG
+tokyo	tokyo	tokyo	tokyo		PROPN;NOM;MASC;SG
+tokyo	tokiju	tokyo	tok		N;DAT;MASC;SG
+tokyo	tokio	tokyo	tokiti		PROPN;NOM;MASC;SG
+kolumbia	columbia	kolumbia	columbia	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;MASC;SG
+kolumbia	kolumbiju	kolumbia	kolumbija	V;IPFV;IND;SG;PRS;FIN;ACT	N;ACC;FEM;SG
+kolumbia	kolumbija	kolumbia	kolumbija	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;FEM;SG
+kolumbia	kolumbiji	kolumbia	kolumbija	V;IPFV;IND;SG;PRS;FIN;ACT	N;DAT;FEM;SG
+cameron	cameron	cameron	cameron	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+piw	piva	piw	pivo		N;NOM;NEUT;SG
+piw	pive	piw	piviti		N;NOM;FEM;PL
+motorsport	motorsport	motorsport	motorsport	V;IPFV;IND;SG;2;PRS;FIN;ACT	N;NOM;MASC;SG
+germain	germain	germain	germain		PROPN;NOM;MASC;SG
+glenn	glen	glenny	glen	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+glenn	glenn	glenny	glenn	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+treningi	trening	trening	trening	N;NOM;MASC;PL	N;NOM;MASC;SG
+treningi	obuka	trening	obuka	N;NOM;MASC;PL	N;NOM;FEM;SG
+treningi	treniranje	trening	treniranje	N;NOM;MASC;PL	N;NOM;NEUT;SG
+treningi	treninge	trening	trening	N;NOM;MASC;PL	N;ACC;MASC;PL
+leeds	leeds	leeds	leeds	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+kwiat	cvijeta	kwiat	cvijet	N;NOM;MASC;SG	N;GEN;MASC;SG
+wieki	vijeku	wiek	vijek	N;ACC;MASC;PL	N;DAT;MASC;SG
+wieki	stoljeća	wiek	stoljeće	N;ACC;MASC;PL	N;NOM;NEUT;PL
+aaron	aaron	aaron	aaron	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+aaron	aron	aaron	aron	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+operacyjnych	operativni	operacyjny	operativan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;MASC;SG
+operacyjnych	operativne	operacyjny	operativan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;PL
+operacyjnych	operativna	operacyjny	operativan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;SG
+council	vijeće	council	vijeće		N;NOM;NEUT;SG
+council	vijeća	council	vijeće		N;NOM;NEUT;PL
+camp	logor	campa	logor		N;NOM;MASC;SG
+camp	kamp	campa	kamp		N;NOM;MASC;SG
+camp	camp	campa	camp		PROPN;NOM;MASC;SG
+fabio	fabio	fabio	fabiti	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+fabio	fábio	fabio	fábio	PROPN;NOM;MASC;SG	
+komiksów	stripove	komiks	strip	N;GEN;MASC;PL	N;ACC;MASC;PL
+komiksów	stripovi	komiks	strip	N;GEN;MASC;PL	N;NOM;MASC;PL
+mann	mann	mann	mann	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+zwykły	redovito	zwykły	redovito	ADJ;NOM;MASC;SG	ADV
+zwykły	redovno	zwykły	redovno	ADJ;NOM;MASC;SG	ADV
+misje	pohode	misja	pohoditi	N;NOM;FEM;PL	N;ACC;MASC;PL
+misje	misijama	misja	misija	N;NOM;FEM;PL	N;INS;FEM;PL
+misje	zadatak	misja	zadatak	N;NOM;FEM;PL	N;NOM;MASC;SG
+misje	misija	misja	misija	N;NOM;FEM;PL	N;NOM;FEM;SG
+rycerzy	vitezovi	rycerz	vitez	N;ACC;MASC;PL	N;NOM;MASC;PL
+demokratów	demokrati	demokrat	demokrati	N;ACC;MASC;PL	N;NOM;MASC;PL
+demokratów	demokrata	demokrat	demokrat	N;ACC;MASC;PL	N;ACC;MASC;SG
+pokonany	poraženi	pokonać	poraziti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+charków	harkiv	chark	harkiv	PROPN;NOM;MASC;SG	ADJ;NOM;MASC;SG
+norm	norme	norma	norma		N;NOM;FEM;PL
+norm	standarde	norma	standard		N;ACC;MASC;PL
+norm	standardi	norma	standard		N;NOM;MASC;PL
+norm	standarda	norma	standard		N;GEN;MASC;PL
+norm	standardima	norma	standard		N;INS;MASC;PL
+norm	norma	norma	norma		N;NOM;FEM;SG
+norm	norme	norma	norma		N;NOM;FEM;PL
+norm	norm	norma	norm		N;NOM;MASC;SG
+peugeot	peugeot	peugeot	peugeot		N;NOM;MASC;SG
+standardy	standarde	standard	standard	N;NOM;MASC;PL	N;ACC;MASC;PL
+standardy	standarda	standard	standard	N;NOM;MASC;PL	N;GEN;MASC;PL
+standardy	standardima	standard	standard	N;NOM;MASC;PL	N;INS;MASC;PL
+węgiel	ugljika	węgiel	ugljik	N;NOM;MASC;SG	N;GEN;MASC;SG
+bass	bas	bass	bas		PROPN;NOM;MASC;SG
+bass	bass	bass	bass		N;NOM;MASC;SG
+automatyczna	automatski	automatyczny	automatski	ADJ;NOM;FEM;SG	ADV
+automatyczna	automatsko	automatyczny	automatski	ADJ;NOM;FEM;SG	ADV
+aspekty	aspekte	aspekt	aspekt	N;NOM;MASC;PL	N;ACC;MASC;PL
+aspekty	aspekt	aspekt	aspekt	N;NOM;MASC;PL	N;NOM;MASC;SG
+prosto	ravno	prosto	ravan		ADV
+prezentacji	prezentacije	prezentacja	prezentacija	N;GEN;FEM;SG	N;NOM;FEM;PL
+prezentacji	predstavljanje	prezentacja	predstavljanje	N;GEN;FEM;SG	N;NOM;NEUT;SG
+prezentacji	prezentacija	prezentacja	prezentacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+prezentacji	prezentacije	prezentacja	prezentacija	N;GEN;FEM;SG	N;NOM;FEM;PL
+stefano	stefano	stefać	stefano	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+domeny	domena	domen	domena		N;NOM;FEM;SG
+pracujący	radim	pracować	raditi	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;IND;SG;1;PRS;FIN
+wzory	modele	wzór	model	N;NOM;MASC;PL	N;ACC;MASC;PL
+wzory	uzorke	wzór	uzorka	N;NOM;MASC;PL	N;ACC;MASC;PL
+podlaski	podlaski	podlaski	podlazak	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+zatonął	potopljen	zatonąć	potopiti	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;NOM;MASC;SG;V.PTCP;PASS
+strunowce	svitkovci	strunowiec	svitkovac		N;NOM;MASC;PL
+joel	joel	joel	joel	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+porównanie	usporedbu	porównać	usporedba	N;NOM;NEUT;SG	N;ACC;FEM;SG
+porównanie	usporedbe	porównać	usporedba	N;NOM;NEUT;SG	N;NOM;FEM;PL
+porównanie	usporedi	porównać	usporediti	N;NOM;NEUT;SG	V;IND;SG;3;PRS;FIN
+porównanie	usporedite	porównać	usporediti	N;NOM;NEUT;SG	V;IMP;PL;2;FIN
+porównanie	usporediti	porównać	usporediti	N;NOM;NEUT;SG	V;NFIN
+dell	dell	dell	dell		N;NOM;MASC;SG
+ewy	eva	ewy	eva		PROPN;NOM;FEM;SG
+ewy	eve	ewy	eva		N;NOM;FEM;SG
+fra	fra	frać	fra		PROPN;NOM;MASC;SG
+osobisty	osobno	osobisty	osobno	ADJ;NOM;MASC;SG	ADV
+prezydenckie	predsjednički	prezydencki	predsjednički	ADJ;NOM;NEUT;SG	ADV
+carmen	karmen	carmen	karmen	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+carmen	carmen	carmen	carmen	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+montgomery	montgomery	montgomer	montgomery	N;ACC;MASC;SG	N;NOM;MASC;SG
+kompozytorów	skladatelja	kompozytor	skladatelj	N;GEN;MASC;PL	N;ANIM;ACC;MASC;SG
+oun	cns	oun	cns		N;NOM;MASC;SG
+jądro	kernel	jądro	kernel		N;NOM;MASC;SG
+jądro	nucleus	jądro	nucleus		N;NOM;MASC;SG
+jądro	testis	jądro	testis		N;NOM;MASC;SG
+jądro	core	jądro	cora		N;NOM;MASC;SG
+jądro	jezgro	jądro	jezgro		N;NOM;NEUT;SG
+jądro	jezgra	jądro	jezgra		N;NOM;FEM;SG
+następcę	nasljednik	następca	nasljednik	N;ACC;MASC;SG	N;NOM;MASC;SG
+salomona	solomon	salomon	solomon		N;INS;MASC;SG
+pearl	pearl	pearl	pearl		N;NOM;MASC;SG
+pearl	biser	pearl	biser		N;NOM;MASC;SG
+pearl	bisera	pearl	biser		N;ACC;MASC;SG
+wiktoria	viktorija	wiktoria	viktorija	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+wiktoria	victoria	wiktoria	victor	PROPN;NOM;FEM;SG	N;NOM;MASC;SG
+przodków	preci	przodek	prek	N;ACC;MASC;PL	N;NOM;MASC;PL
+przodków	precima	przodek	prek	N;ACC;MASC;PL	N;INS;MASC;PL
+przodków	predak	przodek	predak	N;ACC;MASC;PL	N;NOM;MASC;SG
+chińskie	kinezi	chiński	kineg	ADJ;NOM;NEUT;SG	N;NOM;MASC;PL
+chińskie	kinez	chiński	kinez	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+kielicha	kalež	kielicha	kalež		N;NOM;MASC;SG
+lodu	led	lód	led	N;GEN;MASC;SG	N;NOM;MASC;SG
+lodu	ice	lód	ice	N;GEN;MASC;SG	N;NOM;MASC;SG
+liber	liber	liber	liber		N;NOM;MASC;SG
+przydatne	korisne	przydatny	koristan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;FEM;PL
+przydatne	korisni	przydatny	koristan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+jowisza	jupiter	jowiszo	jupiter	N;ACC;MASC;SG	N;NOM;MASC;SG
+zaangażowanie	zaruke	zaangażowanie	zaruke	N;NOM;NEUT;SG	N;NOM;FEM;PL
+rzemiosła	obrt	rzemieść	obrt	V;PFV;FEM;IND;SG;PST;FIN;ACT	N;NOM;MASC;SG
+rozszerzenie	proširenja	rozszerzenie	proširenje	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+rozszerzenie	proširenja	rozszerzenie	proširenje	N;NOM;NEUT;SG	N;NOM;NEUT;PL
+mercury	živa	mercura	živ		ADJ;NOM;DEF;FEM;SG
+mercury	merkur	mercura	merkur		N;NOM;MASC;SG
+konsulat	konzulata	konsulat	konzult	N;NOM;MASC;SG	N;ACC;MASC;SG
+turków	turaka	turek	turak	N;ACC;MASC;PL	N;GEN;MASC;PL
+turków	turci	turek	turac	N;ACC;MASC;PL	N;NOM;MASC;PL
+turków	turcima	turek	turac	N;ACC;MASC;PL	N;DAT;MASC;PL
+prezentowane	izdvojene	prezentować	izdvojen	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;FEM;PL;V.PTCP
+prezentowane	predstavio	prezentować	predstaviti	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+kazań	propovijedi	kazanie	propovijed	N;GEN;NEUT;PL	N;NOM;FEM;PL
+kazań	kazan	kazanie	kazan	N;GEN;NEUT;PL	N;NOM;MASC;SG
+uroczyste	svečano	uroczysty	svečano	ADJ;NOM;NEUT;SG	ADV
+greckie	grk	grecki	grk	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+venus	venera	venus	venera		N;NOM;FEM;SG
+homo	homo	homo	homo		N;NOM;MASC;SG
+herbie	herbie	herba	herbit	V;IPFV;IND;SG;1;PRS;FIN;ACT	
+wien	wien	wien	wien	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+bergen	bergen	bergen	bergen	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+estádio	estádio	estádio	estadio	PROPN;NOM;NEUT;SG	N;NOM;MASC;SG
+ciemne	tamno	ciemny	tamno	ADJ;NOM;NEUT;SG	ADV
+ciemne	mrak	ciemny	mrak	ADJ;NOM;NEUT;SG	N;NOM;MASC;SG
+wymagane	tražio	wymagać	tražiti	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+metry	metara	metr	metar	N;ACC;MASC;SG	N;GEN;MASC;PL
+toma	toma	toma	taj		N;NOM;MASC;SG
+bomba	bomba	bomba	bomba		N;NOM;FEM;SG
+tunelu	tunel	tunel	tunel	N;GEN;MASC;SG	N;NOM;MASC;SG
+ekspertów	eksperti	ekspert	ekspert	N;ACC;MASC;PL	N;NOM;MASC;PL
+ekspertów	stručnjaci	ekspert	stručnjak	N;ACC;MASC;PL	N;NOM;MASC;PL
+ekspertów	stručnjak	ekspert	stručnjak	N;ACC;MASC;PL	N;NOM;MASC;SG
+ekspertów	ekspert	ekspert	ekspert	N;ACC;MASC;PL	N;NOM;MASC;SG
+sparta	sparta	sparty	spart		N;NOM;FEM;SG
+ziemskiego	zemaljski	ziemski	zemaljski	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;MASC;SG
+dorosłe	odraslima	dorosły	odrastao	V;PFV;NEUT;IND;SG;PST;FIN;ACT	ADJ;INS;DEF;MASC;PL
+dorosłe	odrasli	dorosły	odrastao	V;PFV;NEUT;IND;SG;PST;FIN;ACT	ADJ;NOM;DEF;MASC;PL
+ściana	zida	ściana	zid	N;NOM;FEM;SG	N;GEN;MASC;SG
+konstytucyjnego	ustavne	konstytucyjny	ustavan	ADJ;ACC;MASC;SG	ADJ;NOM;FEM;PL
+konstytucyjnego	ustavno	konstytucyjny	ustavno	ADJ;ACC;MASC;SG	ADV
+konstytucyjnego	ustavni	konstytucyjny	ustavan	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;MASC;SG
+newton	newton	newton	newton	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+pzl	pzl	pzl	pzl		N;NOM;FEM;SG
+personelu	osoblje	personel	osoblje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+personelu	osoblje	personel	osoblje	N;GEN;MASC;SG	N;NOM;NEUT;SG
+con	con	con	con		ADP
+wiązanie	obvezujući	wiązanie	obvezivati	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	ADV;RL
+emanuel	emanuel	emanuel	emanuel	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+dublin	dublinu	dublina	dublina	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+dublin	dublin	dublina	dublin	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+przeglądu	osvrt	przegląd	osvrt	N;GEN;MASC;SG	N;NOM;MASC;SG
+przeglądu	pregled	przegląd	pregled	N;GEN;MASC;SG	N;NOM;MASC;SG
+andre	andre	andra	andar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+andre	andre	andra	andar	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+andre	andré	andra	andré	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+niebie	raja	niebo	raj	N;DAT;NEUT;SG	N;GEN;MASC;SG
+niebie	raj	niebo	raj	N;DAT;NEUT;SG	N;NOM;MASC;SG
+niebie	nebesa	niebo	nebes	N;DAT;NEUT;SG	N;NOM;MASC;SG
+niebie	nebo	niebo	nebo	N;DAT;NEUT;SG	N;NOM;NEUT;SG
+niebie	neba	niebo	nebo	N;DAT;NEUT;SG	N;NOM;MASC;SG
+niebie	sky	niebo	sky	N;DAT;NEUT;SG	PROPN;NOM;MASC;SG
+niebie	nebo	niebo	nebo	N;DAT;NEUT;SG	N;NOM;NEUT;SG
+nocny	noćne	nocny	noćan	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+nocny	noć	nocny	noć	ADJ;NOM;MASC;SG	N;NOM;FEM;SG
+nocny	noći	nocny	noć	ADJ;NOM;MASC;SG	N;GEN;FEM;SG
+nocny	noc	nocny	noc	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+gleb	tla	gleb	tlo		N;NOM;NEUT;SG
+umysłu	um	umysł	um	N;GEN;MASC;SG	N;NOM;MASC;SG
+josh	josh	josh	josh	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+gwatemali	gvatemali	gwatemać	gvatemati	V;IPFV;MASC;IND;PL;PST;FIN;ACT	N;DAT;FEM;SG
+gwatemali	gvatemalski	gwatemać	gvatemalski	V;IPFV;MASC;IND;PL;PST;FIN;ACT	ADV
+sądy	pravosuđe	sąd	pravosuđe	N;NOM;MASC;PL	N;NOM;NEUT;SG
+sądy	sudove	sąd	sud	N;NOM;MASC;PL	N;ACC;MASC;PL
+sądy	sudova	sąd	sud	N;NOM;MASC;PL	N;GEN;MASC;PL
+sądy	sudovima	sąd	sud	N;NOM;MASC;PL	N;DAT;MASC;PL
+jasności	jasnoću	jasność	jasnoća	N;GEN;FEM;SG	N;ACC;FEM;SG
+traktowane	tretirao	traktować	tretirati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+traktowane	tretirani	traktować	tretirati	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+sobota	subotu	sobota	subota		N;ACC;FEM;SG
+sobota	subota	sobota	subota		N;NOM;FEM;SG
+zajęte	zauzet	zajęty	zauzeti		ADJ;NOM;INDF;MASC;SG;V.PTCP
+zajęte	zauzeto	zajęty	zauzeto		ADJ;NOM;DEF;NEUT;SG
+wrogów	neprijatelji	wróg	neprijatelj	N;ACC;MASC;PL	N;NOM;MASC;PL
+chirurgii	kirurgija	chirurgia	kirurgija	N;GEN;FEM;SG	N;NOM;FEM;SG
+chirurgii	operacija	chirurgia	operacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+chirurgii	kirurški	chirurgia	kirurški	N;GEN;FEM;SG	ADV
+uczucia	osjećaje	uczucie	osjećati	N;NOM;NEUT;PL	N;ACC;MASC;PL
+elektronów	elektrona	elektron	elektron	N;GEN;MASC;PL	N;GEN;MASC;SG
+nintendo	nintendo	nintendo	nintendo		N;NOM;MASC;SG
+filozoficzne	filozofski	filozoficzny	filozofski	ADJ;NOM;NEUT;SG	ADV
+armstrong	armstrong	armstrong	armstrong		N;NOM;MASC;SG
+cezar	cezar	cezar	cezar	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;MASC;SG
+zainteresowań	interesi	zainteresowanie	interes	N;GEN;NEUT;PL	N;NOM;MASC;PL
+zainteresowań	interese	zainteresowanie	interes	N;GEN;NEUT;PL	N;ACC;MASC;PL
+klasycznego	klasične	klasyczny	klasičan	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;FEM;PL
+klasycznego	klasična	klasyczny	klasičan	ADJ;ACC;MASC;SG	ADJ;NOM;DEF;FEM;SG
+podłogi	podovi	podłoga	pod	N;ACC;FEM;SG	N;NOM;MASC;PL
+podłogi	podove	podłoga	pod	N;ACC;FEM;SG	N;ACC;MASC;PL
+podłogi	parket	podłoga	parket	N;ACC;FEM;SG	N;NOM;MASC;SG
+komety	komet	kometa	komet		N;NOM;MASC;SG
+komety	kometa	kometa	kometa		N;NOM;MASC;SG
+lahti	lahti	lahta	lahta	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+boca	boca	boca	boca	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+boca	boki	boca	boka	PROPN;NOM;MASC;SG	PROPN;DAT;FEM;SG
+piasku	pijesak	piasek	pijesak	N;GEN;MASC;SG	N;NOM;MASC;SG
+piasku	sand	piasek	sand	N;GEN;MASC;SG	ADP
+piasku	pješčana	piasek	pješčan	N;GEN;MASC;SG	N;NOM;FEM;SG
+oznaczone	označeni	oznaczyć	označiti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+nestor	nestor	nestor	nestor	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+sodu	natrij	sód	natrij		N;NOM;MASC;SG
+leśnictwa	šumarstva	leśnictwo	šumarstvo	N;GEN;NEUT;SG	N;NOM;NEUT;PL
+tempo	pace	tempo	pac	N;NOM;NEUT;SG	ADP
+językowej	jezična	językowy	jezičan	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;FEM;SG
+konfrontacji	suočavanje	konfrontacja	suočavanje	N;GEN;FEM;SG	N;NOM;NEUT;SG
+volkswagen	volkswagen	volkswagen	volkswagen		N;NOM;MASC;SG
+zrozumienia	shvaćanje	zrozumienie	shvaćanje	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+zrozumienia	razumijevanje	zrozumienie	razumijevanje	N;GEN;NEUT;SG	N;NOM;NEUT;SG
+ronnie	roni	ronnąć	ron	ADV	V;IND;SG;3;PRS;FIN
+ronnie	ronnie	ronnąć	ronni	ADV	N;NOM;MASC;SG
+przeznaczenie	sudbine	przeznaczenie	sudbina	N;NOM;NEUT;SG	N;NOM;FEM;PL
+przeznaczenie	destiny	przeznaczenie	destiny	N;NOM;NEUT;SG	ADP
+przeznaczenie	svrhu	przeznaczenie	svrha	N;NOM;NEUT;SG	N;ACC;FEM;SG
+biblia	biblije	biblia	biblije	N;NOM;FEM;SG	N;NOM;FEM;PL
+biblia	bibliju	biblia	biblije	N;NOM;FEM;SG	N;ACC;FEM;SG
+naród	nacije	naród	nacija	N;NOM;MASC;SG	N;NOM;FEM;PL
+soczi	sočiju	soczeć	sočija	PROPN;NOM;MASC;SG	N;DAT;MASC;SG
+liderów	vođe	lider	vođa	N;GEN;MASC;PL	N;NOM;MASC;PL
+liderów	lideri	lider	lider	N;GEN;MASC;PL	N;NOM;MASC;PL
+liderów	čelnici	lider	čelnik	N;GEN;MASC;PL	N;NOM;MASC;PL
+warta	vrijedno	warta	vrijedno		ADJ;NOM;DEF;NEUT;SG
+warta	vrijedi	warta	vrijediti		V;IND;SG;3;PRS;FIN
+zmienione	izmijenjeni	zmienić	izmijeniti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zmienione	modificirani	zmienić	modificiran	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zmienione	izmijenjeni	zmienić	izmijeniti	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+sin	grijeha	sin	grijeha		N;ACC;MASC;SG
+sin	grijeh	sin	grijeh		N;NOM;MASC;SG
+sin	greh	sin	greh		N;NOM;MASC;SG
+paryskiej	pariški	paryski	pariški	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;MASC;SG
+meyer	meyer	meyer	meyer		PROPN;NOM;MASC;SG
+rozpoznanie	dijagnoze	rozpoznać	dijagnoza	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;NOM;FEM;PL
+scalemajor	scalemajor	scalemajor	scalemajor		N;NOM;MASC;SG
+timeaxis	timeaxis	timeaxis	timeaxis		N;NOM;MASC;SG
+dale	dale	dal	dati		V;FEM;PL;PST;V.PTCP;ACT
+potrzebuje	potreban	potrzebować	potreban	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADJ;NOM;INDF;MASC;SG
+potrzebuje	potrebna	potrzebować	potreban	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADJ;NOM;DEF;FEM;SG
+potrzebuje	potrebno	potrzebować	potreban	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADJ;NOM;DEF;NEUT;SG
+potrzebuje	trebam	potrzebować	trebati	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;1;PRS;FIN
+potrzebuje	potrebe	potrzebować	potreba	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;NOM;FEM;PL
+forever	zauvijek	forever	zauvijek		N;NOM;MASC;SG
+cat	mačak	cat	mačak		N;NOM;MASC;SG
+cat	macka	cat	macka		N;NOM;FEM;SG
+cat	mačka	cat	mačak		N;NOM;FEM;SG
+cat	cat	cat	cat		ADP
+zwykłych	obična	zwykły	običan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;SG
+zwykłych	obični	zwykły	običan	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;MASC;SG
+zwykłych	običan	zwykły	običan	ADJ;GEN;MASC;PL	ADJ;NOM;INDF;MASC;SG
+wydawcy	urednici	wydawca	urednik	N;NOM;MASC;SG	N;NOM;MASC;PL
+wydawcy	izdavača	wydawca	izdavač	N;NOM;MASC;SG	N;ACC;MASC;SG
+episkopatu	episkopalna	episkopat	episkopalan	N;ACC;MASC;SG	ADJ;NOM;DEF;FEM;SG
+freedom	slobode	freed	sloboda		N;NOM;FEM;PL
+freedom	sloboda	freed	sloboda		N;NOM;FEM;SG
+freedom	slobodu	freed	sloboda		N;ACC;FEM;SG
+delegatów	delegati	delegat	delegati	N;GEN;MASC;PL	N;NOM;MASC;PL
+imagesize	imagesize	imagesiza	imagesiza		N;NOM;MASC;SG
+yang	jang	yang	jang	V;IPFV;IND;SG;2;PRS;FIN;ACT	N;NOM;MASC;SG
+yang	yang	yang	yang	V;IPFV;IND;SG;2;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+fabrykę	tvornica	fabryka	tvornica	N;ACC;FEM;SG	N;NOM;FEM;SG
+fabrykę	fabrike	fabryka	fabrika	N;ACC;FEM;SG	N;NOM;FEM;PL
+fabrykę	tvornici	fabryka	tvornica	N;ACC;FEM;SG	N;DAT;FEM;SG
+fabrykę	tvornice	fabryka	tvornica	N;ACC;FEM;SG	N;NOM;FEM;PL
+ekran	platno	ekran	platno	N;NOM;MASC;SG	ADJ;NOM;NEUT;SG
+burbon	bourbon	burbon	bourbon		N;NOM;MASC;SG
+burbon	burbona	burbon	burbon		N;NOM;MASC;SG
+sal	sala	sal	salo		N;NOM;FEM;SG
+sal	sale	sal	saliti		N;NOM;FEM;PL
+sal	sal	sal	sal		PROPN;NOM;MASC;SG
+plotarea	plotarea	plotar	plotare		N;ACC;MASC;SG
+lucy	lucy	lucy	lucy		PROPN;NOM;MASC;SG
+sebastiana	sebastian	sebastiany	sebastian	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	N;NOM;MASC;SG
+sebastiana	sebastiana	sebastiany	sebastian	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	N;ACC;MASC;SG
+allan	allan	allan	allan	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+ostry	oštar	ostry	oštar		ADJ;NOM;INDF;MASC;SG
+ostry	oštri	ostry	oštar		ADJ;NOM;DEF;MASC;SG
+ostry	oštro	ostry	oštro		ADV
+ostry	oštra	ostry	oštar		ADJ;NOM;DEF;FEM;SG
+ostry	sharp	ostry	sharp		ADP
+ostry	akutna	ostry	akutan		ADJ;NOM;DEF;FEM;SG
+berger	berger	berger	berger	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+równoległy	paralelni	równolec	paralelan		ADJ;NOM;DEF;MASC;SG
+równoległy	paralelno	równolec	paralelno		ADV
+równoległy	paralelne	równolec	paralelan		ADJ;NOM;DEF;FEM;PL
+wells	wales	wells	wales	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+wells	wellsa	wells	wells	PROPN;NOM;MASC;SG	N;GEN;MASC;SG
+wells	wells	wells	wells	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+wells	bunara	wells	bunar	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+organizacyjnych	organizacijske	organizacyjny	organizacijski	ADJ;GEN;MASC;PL	ADJ;NOM;DEF;FEM;PL
+fizyczna	fizički	fizyczny	fizički	ADJ;NOM;FEM;SG	ADV
+możliwy	moguce	możliwy	moguc	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+ekspozycja	izlaganja	ekspozycja	izlaganje	N;NOM;FEM;SG	N;NOM;NEUT;PL
+ekspozycja	izloženosti	ekspozycja	izloženost	N;NOM;FEM;SG	N;NOM;FEM;PL
+konsul	konzul	konsul	konzul		N;NOM;MASC;SG
+rebelianci	pobunjenicima	rebeliant	pobunjenik	N;NOM;MASC;PL	N;DAT;MASC;PL
+clarke	clarke	clarka	clarke		PROPN;NOM;MASC;SG
+ograniczeń	ograničenja	ograniczenie	ograničenje	N;GEN;NEUT;PL	N;NOM;NEUT;PL
+krążek	pak	krążek	pak	N;NOM;MASC;SG	PART
+alain	alain	alain	alain	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+astronomii	astronomiju	astronomia	astronomija		N;ACC;FEM;SG
+protesty	protest	protest	protest	N;NOM;MASC;PL	N;NOM;MASC;SG
+protesty	prosvjed	protest	prosvjed	N;NOM;MASC;PL	N;NOM;MASC;SG
+protesty	protesta	protest	protest	N;NOM;MASC;PL	N;GEN;MASC;SG
+protesty	prosvjede	protest	prosvjed	N;NOM;MASC;PL	N;ACC;MASC;PL
+protesty	prosvjeda	protest	prosvjed	N;NOM;MASC;PL	N;GEN;MASC;SG
+siedliska	stanište	siedlisko	stanište	N;NOM;NEUT;PL	N;NOM;NEUT;SG
+ciemności	tamu	ciemność	tama	N;GEN;FEM;SG	N;ACC;FEM;SG
+ciemności	tama	ciemność	tama	N;GEN;FEM;SG	N;NOM;FEM;SG
+ciemności	mrak	ciemność	mrak	N;GEN;FEM;SG	N;NOM;MASC;SG
+ciemności	tame	ciemność	tama	N;GEN;FEM;SG	N;NOM;FEM;SG
+ahmed	ahmed	ahmed	ahmed	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+ahmed	ahmad	ahmed	ahmad	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+tatry	tatre	tatry	tatar		N;NOM;MASC;PL
+anatolij	anatolij	anatolać	anatolij	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+płótnie	platno	płótno	platno	N;ACC;NEUT;SG	ADJ;NOM;NEUT;SG
+gerhard	gerhard	gerhard	gerhard	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+generacja	generacije	generacja	generacija	N;NOM;FEM;SG	N;NOM;FEM;PL
+modyfikacji	modifikacija	modyfikacja	modifikacija	N;GEN;FEM;SG	N;NOM;FEM;SG
+modyfikacji	modifikacije	modyfikacja	modifikacija	N;GEN;FEM;SG	N;NOM;FEM;PL
+współautorem	koautor	współautor	koautor	N;INS;MASC;SG	N;NOM;MASC;SG
+karate	karate	karat	karata		N;NOM;FEM;SG
+przybyła	stigli	przybyły	stići	V;PFV;FEM;IND;SG;PST;FIN;ACT	V;MASC;PL;PST;V.PTCP;ACT
+kapitału	kapital	kapitał	kapital	N;GEN;MASC;SG	N;NOM;MASC;SG
+harvey	harvey	harvea	harvey	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+płatki	žitarica	płatek	žitarica	N;NOM;MASC;PL	N;NOM;FEM;SG
+krytykę	kritika	krytyka	kritika	N;ACC;FEM;SG	N;NOM;FEM;SG
+krytykę	kritike	krytyka	kritika	N;ACC;FEM;SG	N;NOM;FEM;PL
+krytykę	kritika	krytyka	kritika	N;ACC;FEM;SG	N;NOM;FEM;SG
+olympique	olympique	olympino	olympišue		N;NOM;MASC;SG
+eugene	eugene	eugen	eugen	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+wspomniany	spomenuo	wspomnieć	spomenuti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;PST;V.PTCP;ACT
+burza	oluje	burza	oloj	N;NOM;FEM;SG	N;NOM;FEM;PL
+burza	storm	burza	storm	N;NOM;FEM;SG	ADP
+najbliższych	najbliže	bliski	dlizak	ADJ;ACC;CMPR;MASC;PL	ADJ;NOM;DEF;RL;FEM;SG
+najbliższych	najbliža	bliski	dlizak	ADJ;ACC;CMPR;MASC;PL	ADJ;NOM;DEF;RL;FEM;SG
+najbliższych	najbliži	bliski	blizak	ADJ;ACC;CMPR;MASC;PL	ADJ;NOM;DEF;RL;MASC;SG
+tragedii	tragedije	tragedia	tragedija	N;GEN;FEM;SG	N;NOM;FEM;PL
+tragedii	tragedije	tragedia	tragedija	N;GEN;FEM;SG	N;NOM;FEM;PL
+tragedii	tragedija	tragedia	tragedija	N;GEN;FEM;SG	N;NOM;FEM;SG
+wystawę	izložba	wystawa	izložba	N;ACC;FEM;SG	N;NOM;FEM;SG
+edwards	edwards	edwards	edwards	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+nowoczesny	moderan	nowoczesny	moderan	ADJ;NOM;MASC;SG	N;NOM;MASC;SG
+nowoczesny	moderne	nowoczesny	moderan	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+nowoczesny	moderno	nowoczesny	moderno	ADJ;NOM;MASC;SG	ADV
+nowoczesny	suvremene	nowoczesny	suvremen	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+grobie	grobnica	grób	grobnica	N;DAT;MASC;SG	N;NOM;FEM;SG
+grobie	grob	grób	grob	N;DAT;MASC;SG	N;NOM;MASC;SG
+grobie	groba	grób	grob	N;DAT;MASC;SG	N;ACC;MASC;SG
+louisa	louisa	louis	louis		N;ANIM;ACC;MASC;SG
+utah	utah	utah	utah	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+guillermo	guillermo	guillermo	guillerm	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+dochody	prihod	dochód	prihod	N;NOM;MASC;PL	N;NOM;MASC;SG
+dochody	dohodak	dochód	dohodak	N;NOM;MASC;PL	N;NOM;MASC;SG
+dochody	zarada	dochód	zarada	N;NOM;MASC;PL	N;NOM;FEM;SG
+dochody	prihod	dochód	prihod	N;NOM;MASC;PL	N;NOM;MASC;SG
+ruth	ruth	ruth	ruth	PROPN;NOM;FEM;SG	PROPN;NOM;FEM;SG
+ruth	rut	ruth	rut	PROPN;NOM;FEM;SG	N;NOM;FEM;SG
+piętra	podovi	piętro	pod	N;NOM;NEUT;SG	N;NOM;MASC;PL
+piętra	podove	piętro	pod	N;NOM;NEUT;SG	N;ACC;MASC;PL
+tango	tanga	tango	tang		N;NOM;MASC;SG
+tango	tango	tango	tango		N;NOM;MASC;SG
+zorganizowane	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowane	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowane	organizirane	zorganizować	organizirati	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;FEM;PL;V.PTCP
+szerzej	širi	szeroko	širiti	ADV;CMPR	V;IND;SG;3;PRS;FIN
+bukareszcie	bukurešta	bukareszt	bukurešt	N;NOM;MASC;SG	N;GEN;NEUT;SG
+skłodowskiej	skłodowska	skłodowski	skzodowski	ADJ;GEN;FEM;SG	ADJ;NOM;DEF;FEM;SG
+przyjaźń	prijateljstva	przyjaźń	prijateljstvo	N;NOM;FEM;SG	N;NOM;NEUT;PL
+gotowy	spremni	gotowy	spreman	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;MASC;PL
+franków	franaka	franek	franak	N;ACC;MASC;PL	N;NOM;MASC;SG
+cywilów	civili	cywil	civila	N;ACC;MASC;PL	N;NOM;MASC;PL
+med	med	med	med		N;NOM;MASC;SG
+body	body	bód	body		PROPN;NOM;MASC;SG
+body	telo	bód	telo		N;NOM;NEUT;SG
+body	tijelo	bód	tijelo		N;NOM;NEUT;SG
+higgins	higgins	higgins	higgins	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+archeologii	arheologija	archeologia	arheologija	N;GEN;FEM;SG	N;NOM;FEM;SG
+archeologii	arheologiju	archeologia	arheologija	N;GEN;FEM;SG	N;ACC;FEM;SG
+zarejestrowane	registrirani	zarejestrować	registriran	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+crystal	kristal	crystal	kristal		N;NOM;MASC;SG
+crystal	kristalno	crystal	kristalno		ADV
+crystal	kristalna	crystal	kristalan		ADJ;NOM;DEF;FEM;SG
+crystal	crystal	crystal	crystal		ADP
+dzwon	bell	dzwon	bell	N;NOM;MASC;SG	PROPN;NOM;MASC;SG
+marcelo	marcelo	marcelo	marcelo	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+uzupełnienia	upotpuniti	uzupełnić	upotpuniti	N;PFV;GEN;NEUT;SG;POS;V.MSDR	V;NFIN
+toro	toro	toro	toro		PROPN;NOM;MASC;SG
+lampy	lampu	lampa	lampa	N;ACC;FEM;PL	N;ACC;FEM;SG
+lampy	svjetiljka	lampa	svjetiljka	N;ACC;FEM;PL	N;NOM;FEM;SG
+lampy	lampa	lampa	lampa	N;ACC;FEM;PL	N;NOM;FEM;SG
+lampy	svjetiljke	lampa	svjetiljka	N;ACC;FEM;PL	N;NOM;FEM;PL
+lampy	lampe	lampa	lampa	N;ACC;FEM;PL	N;NOM;FEM;PL
+dzwony	zvona	dzwon	zvon	N;NOM;MASC;PL	N;NOM;FEM;SG
+wad	defekata	wada	defekt		N;GEN;MASC;SG
+wad	poroka	wada	poroka		N;GEN;MASC;SG
+wad	poroke	wada	porok		N;ACC;MASC;PL
+wad	porocima	wada	porok		N;DAT;MASC;PL
+zakup	kupnje	zakup	kupnja	N;NOM;MASC;SG	N;NOM;FEM;PL
+zakup	kupovine	zakup	kupovina	N;NOM;MASC;SG	N;NOM;FEM;PL
+curtis	curtis	curtis	curtis		PROPN;NOM;MASC;SG
+spirit	duh	spirit	duh		N;NOM;MASC;SG
+spirit	duše	spirit	duša		N;NOM;FEM;PL
+zorganizowany	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowany	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowany	organizirane	zorganizować	organizirati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;FEM;PL;V.PTCP
+gazet	novine	gazeta	novina	N;GEN;FEM;PL	N;NOM;FEM;PL
+lin	lin	lin	lin		PROPN;NOM;MASC;SG
+lin	užad	lin	užad		N;NOM;FEM;SG
+leslie	leslie	lasnąć	leslia	V;IPFV;IND;SG;2;PRS;FIN;ACT	PROPN;NOM;MASC;SG
+lima	lima	lima	lima		N;GEN;MASC;SG
+głosi	propovijeda	głos	propovijed		V;IND;SG;3;PRS;FIN
+singles	singla	singles	sing		N;NOM;MASC;SG
+naprzeciw	nasuprot	naprzeciw	nasuprot		N;NOM;MASC;SG
+naprzeciw	suprotno	naprzeciw	suprotno		ADV
+garcia	garcia	garcia	garki	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+garcia	garcía	garcia	garca	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+zimbabwe	zimbabve	zimbabwy	zimbabav		N;NOM;FEM;SG
+bach	bach	bach	bach	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+rhein	rhein	rhein	rhein	PROPN;NOM;MASC;SG	PROPN;NOM;MASC;SG
+bird	ptica	bird	ptica	V;IPFV;IND;SG;PRS;FIN;ACT	N;NOM;FEM;SG
+bird	bird	bird	bird	V;IPFV;IND;SG;PRS;FIN;ACT	ADP
+pokolenie	generacije	pokolenie	generacija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+pokolenie	generacije	pokolenie	generacija	N;NOM;NEUT;SG	N;NOM;FEM;PL
+pokolenie	generacijama	pokolenie	generacija	N;NOM;NEUT;SG	N;INS;FEM;PL
+uzbrojony	naoružani	uzbroić	naoružati	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+gun	pištolj	guna	pištolj		N;NOM;MASC;SG
+gun	puška	guna	puška		N;NOM;FEM;SG
+brody	brade	broda	brada		N;NOM;FEM;PL
+brody	brody	broda	brody		PROPN;NOM;MASC;SG
+palma	palma	palmo	palma		N;NOM;MASC;SG
+zimy	zime	zima	zima	N;ACC;FEM;SG	N;NOM;FEM;PL
+zimy	zima	zima	zima	N;ACC;FEM;SG	N;NOM;FEM;SG
+zimy	zimi	zima	zim	N;ACC;FEM;SG	ADV
+zimy	zime	zima	zima	N;ACC;FEM;SG	N;NOM;FEM;PL
+zimy	winters	zima	winters	N;ACC;FEM;SG	ADP
+six	šest	six	šest		NUM
+poziomy	vodoravno	poziom	vodoravno	N;NOM;MASC;PL	ADV
+poziomy	razina	poziom	razina	N;NOM;MASC;PL	N;NOM;FEM;SG
+męczennika	mučenik	męczennik	mučenik	N;ACC;MASC;SG	N;NOM;MASC;SG
+ustalenie	uspostaviti	ustalenie	uspostaviti	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;NFIN
+ustalenie	uspostavi	ustalenie	uspostava	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DAT;FEM;SG
+wyjazd	ostavljajući	wyjazd	ostavijati	N;NOM;MASC;SG	ADV;RL
+chana	chan	chany	chan		ADP
+discovery	otkrića	discover	otkriće		N;NOM;NEUT;PL
+discovery	otkriće	discover	otkriće		N;NOM;NEUT;SG
+discovery	discovery	discover	discovery		N;NOM;MASC;SG
+rozdzielczości	rezolucija	rozdzielczość	rezolucija	N;GEN;FEM;SG	N;NOM;FEM;SG
+rozdzielczości	rezolucije	rozdzielczość	rezolucija	N;GEN;FEM;SG	N;NOM;FEM;PL
+zera	nule	zera	nula		N;GEN;FEM;SG
+zera	nule	zera	nula		N;GEN;FEM;SG
+dekady	desetljeća	dekada	desetljeće		N;NOM;NEUT;PL
+dekady	desetljećima	dekada	desetljeće		N;DAT;NEUT;PL
+dekady	desetljeća	dekada	desetljeće		N;NOM;NEUT;PL
+dekady	desetljeće	dekada	desetljeće		N;NOM;NEUT;SG
+zmniejszenia	smanji	zmniejszyć	smanjiti	N;PFV;GEN;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PRS;FIN
+pełen	pun	pełen	pun	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+pełen	puna	pełen	pun	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+pełen	puni	pełen	pun	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+wodoru	vodik	wodor	vodik	N;ACC;MASC;SG	N;NOM;MASC;SG
+mika	mike	mika	mika	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+mika	mića	mika	mić	PROPN;NOM;MASC;SG	PROPN;NOM;FEM;SG
+mika	mica	mika	mic	PROPN;NOM;MASC;SG	N;NOM;FEM;SG
+mika	mika	mika	mik	PROPN;NOM;MASC;SG	N;NOM;MASC;SG
+niebezpieczne	opasni	niebezpieczny	opasan	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+niebezpieczne	opasno	niebezpieczny	opasno	ADJ;NOM;NEUT;SG	ADV
+zorganizowana	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowana	organizirani	zorganizować	organizirati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;DEF;MASC;PL;V.PTCP
+zorganizowana	organizirane	zorganizować	organizirati	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;NOM;FEM;PL;V.PTCP
+otoczenie	okruženju	otoczyć	okruženje	N;NOM;NEUT;SG	N;DAT;NEUT;SG
+otoczenie	okruženju	otoczyć	okruženje	N;NOM;NEUT;SG	N;DAT;NEUT;SG
+otoczenie	ambijenta	otoczyć	ambijent	N;NOM;NEUT;SG	N;ACC;MASC;SG
+wizji	vizije	wizja	vizjeti	N;GEN;FEM;SG	N;NOM;FEM;PL
+wizji	vizijama	wizja	vizija	N;GEN;FEM;SG	N;INS;FEM;PL
+wizji	vizija	wizja	vizija	N;GEN;FEM;SG	N;NOM;FEM;SG
+wizji	viziju	wizja	vizija	N;GEN;FEM;SG	N;ACC;FEM;SG
+wizji	vid	wizja	vid	N;GEN;FEM;SG	N;NOM;MASC;SG
+bojowników	borci	bojownik	borac	N;ACC;MASC;PL	N;NOM;MASC;PL
+bojowników	militanata	bojownik	militant	N;ACC;MASC;PL	N;GEN;MASC;PL
+frekwencja	odaziva	frekwencja	odaziv	N;NOM;FEM;SG	N;GEN;MASC;SG

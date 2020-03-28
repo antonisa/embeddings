@@ -1,0 +1,2340 @@
+tanımlama	meghatározás	tanımla	meghatározás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+tanımlama	meghatározása	tanımla	meghatározás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+tanımlama	meghatározó	tanımla	meghatározó	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+tanımlama	azonosítás	tanımla	azonosítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+tanımlama	azonosító	tanımla	azonosító	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+tanımlama	megnevezés	tanımla	megnevezés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+tanımlama	leírása	tanımla	leírás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+tanımlama	leírás	tanımla	leírás	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+disiplin	fegyelmi	dis	fegyelmi	N;NOM;SG;3	
+tutulması	napfogyatkozás	tut	napfogyatkozás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;NOM;SG
+jedi	jedik	jedi	jedik		N;NOM;PL
+torres	torres	torres	torres	PROPN;NOM;SG;3	
+genişletilmiş	bővült	genişle	bővül	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+genişletilmiş	kiterjesztett	genişle	kiterjesztett	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+genişletilmiş	kibővített	genişle	kibővít	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kompleks	összetett	kompleks	összetett		V;INDF;IND;SG;3;PST;FIN;ACT
+lazio	lazio	lazio	lazio	PROPN;NOM;SG;3	N;NOM;SG
+nevada	nevada	neva	nevad	PROPN;NOM;SG;3	
+eskimo	eszkimók	eskimo	eszkimó		N;NOM;PL
+eskimo	eszkimó	eskimo	eszkimó		N;NOM;SG
+eskimo	eszkimó	eskimo	eszkimó		N;NOM;SG
+ekvador	ecuador	ekvador	ecuador	PROPN;NOM;SG;3	PROPN;NOM;SG
+çeşitlilik	sokszínű	çeşitlilik	sokszínű	N;NOM;SG;3	
+çeşitlilik	fajta	çeşitlilik	fajta	N;NOM;SG;3	
+barselona	barcelonában	barselon	barcelon	PROPN;NOM;SG;3	N;IN+ESS;SG
+barselona	barcelonai	barselon	barcelonai	PROPN;NOM;SG;3	V;DEF;IND;PL;3;PRS;FIN;ACT
+barselona	barcelona	barselon	barcelona	PROPN;NOM;SG;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+çekilmesi	visszavonásáról	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+çekilmesi	visszavonás	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;NOM;SG
+çekilmesi	visszavonása	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;NOM;SG
+fosil	kövületek	fosil	kövület		N;NOM;PL
+fosil	fosszilis	fosil	fosszilis		N;NOM;SG
+silindir	hengeres	sil	hengeres	V;PFV;IND;SG;3;POS;PST;PASS	
+silindir	henger	sil	henger	V;PFV;IND;SG;3;POS;PST;PASS	N;NOM;SG
+silindir	palackok	sil	palack	V;PFV;IND;SG;3;POS;PST;PASS	N;NOM;PL
+silindir	henger	sil	henger	V;PFV;IND;SG;3;POS;PST;PASS	N;NOM;SG
+market	zöldséges	market	zöldséges		ADJ;NOM;SG
+market	piac	market	piac		N;NOM;SG
+market	piaci	market	piaci		N;NOM;SG
+market	market	market	mark		N;NOM;SG
+nitelikli	minősített	nitelikli	minősít		V;INDF;IND;SG;3;PST;FIN;ACT
+nitelikli	képzett	nitelikli	képzett		V;INDF;IND;SG;3;PST;FIN;ACT
+nitelikli	képesített	nitelikli	képesít		V;INDF;IND;SG;3;PST;FIN;ACT
+azalır	csökken	azal	csökken	V;IPFV;IND;SG;3;POS	V;INDF;IND;SG;3;PRS;FIN;ACT
+nbc	nbc	nbc	nbc		N;NOM;SG
+milyonlarca	milliók	milyonlarca	millió	NUM	
+yaratmak	létrehozása	yarat	létrehozás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+yaratmak	létrehozva	yarat	létrehozva	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+savcı	ügyész	savcı	ügyész		N;NOM;SG
+savcı	főügyész	savcı	főügyész		N;NOM;SG
+winter	tél	winte	tél	PROPN;NOM;SG;3	N;NOM;SG
+winter	téli	winte	téli	PROPN;NOM;SG;3	
+winter	télen	winte	tél	PROPN;NOM;SG;3	
+israilli	izraeliek	israilli	izraeli		N;NOM;PL
+iade	visszatér	iade	visszatér		V;INDF;IND;SG;3;PRS;FIN;ACT
+iade	visszatérés	iade	visszatérés		N;NOM;SG
+iade	vissza	iade	vissza		ADV
+iade	visszatér	iade	visszatér		V;INDF;IND;SG;3;PRS;FIN;ACT
+iade	kiadatási	iade	kiadatási		N;NOM;SG
+maggie	maggie	maggie	maggie		PROPN;NOM;SG
+bıçak	penge	bıçak	penge		N;NOM;SG
+bıçak	pengét	bıçak	peng		N;ACC;SG
+bıçak	kés	bıçak	kés		N;NOM;SG
+bıçak	kések	bıçak	kések		N;NOM;PL
+bıçak	kés	bıçak	kés		N;NOM;SG
+bıçak	kést	bıçak	kést		N;ACC;SG
+bıçak	késsel	bıçak	kés		N;NOM;SG
+kararları	határozatok	karar	határozat	N;ACC;PL;3	N;NOM;PL
+kararları	állásfoglalások	karar	állásfoglalás	N;ACC;PL;3	N;NOM;PL
+kararları	döntések	karar	döntés	N;ACC;PL;3	N;NOM;PL
+kararları	határozatok	karar	határozat	N;ACC;PL;3	N;NOM;PL
+kaldırmak	eltávolítása	kal	eltávolítás	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+kaldırmak	emelő	kal	emelő	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	
+kaldırmak	emelés	kal	emelés	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+desteklenen	támogatott	destekle	támogat	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+nietzsche	nietzsche	nietzsche	nietzsche		N;NOM;SG
+komut	parancsok	komut	parancsok		N;NOM;PL
+komut	parancsol	komut	parancsol		V;INDF;IND;SG;3;PRS;FIN;ACT
+komut	parancsnokság	komut	parancsnokság		N;NOM;SG
+komut	parancs	komut	parancs		N;NOM;SG
+görüşme	interjú	görüşme	interjú		N;NOM;SG
+lima	lima	lima	lima	PROPN;NOM;SG;3	
+baltimore	baltimore	baltimore	baltimore	PROPN;NOM;SG;3	N;NOM;SG
+pazarı	piac	pazar	piac	N;ACC;SG;3	N;NOM;SG
+pazarı	piaci	pazar	piaci	N;ACC;SG;3	N;NOM;SG
+pazarı	market	pazar	mark	N;ACC;SG;3	N;NOM;SG
+diferansiyel	differenciál	diferansiyel	differencial	N;NOM;SG;3	
+aydınlık	light	aydınlık	light	N;NOM;SG;3	
+aydınlık	fényt	aydınlık	fény	N;NOM;SG;3	N;ACC;SG
+aydınlık	fényes	aydınlık	fényes	N;NOM;SG;3	
+maryland	maryland	marylan	maryland	PROPN;NOM;SG;3	
+glory	dicsőség	glory	dicsőség		N;NOM;SG
+sorar	kérdi	sor	kérdi		V;DEF;IND;SG;3;PRS;FIN;ACT
+sorar	kérdezi	sor	kérdez		V;DEF;IND;SG;3;PRS;FIN;ACT
+brad	brad	brad	brad		PROPN;NOM;SG
+kilit	zár	kilit	zár		V;INDF;IND;SG;3;PRS;FIN;ACT
+kilit	zárat	kilit	zárat		N;ACC;SG
+kilit	lakat	kilit	lakat		N;NOM;SG
+kilit	zár	kilit	zár		V;INDF;IND;SG;3;PRS;FIN;ACT
+kilit	zárak	kilit	zárak		N;NOM;PL
+kıdemli	rangidős	kıdemli	rangidős		N;NOM;SG
+kıdemli	rangidős	kıdemli	rangidős		N;NOM;SG
+kıdemli	végzős	kıdemli	végzős		N;NOM;SG
+sektörü	ágazat	sektör	ágazat		N;NOM;SG
+sektörü	szektor	sektör	szektor		N;NOM;SG
+miles	mérföld	miles	mérföld		N;NOM;SG
+tecrübeli	tapasztaltak	tecrübeli	tapasztal		V;INDF;IND;PL;3;PST;FIN;ACT
+tecrübeli	gyakorlott	tecrübeli	gyakorlott		V;INDF;IND;SG;3;PST;FIN;ACT
+borç	adósság	borç	adósság		N;NOM;SG
+borç	tartozás	borç	tartozás		N;NOM;SG
+borç	adósságok	borç	adósság		N;NOM;PL
+borç	tartozások	borç	tartozás		N;NOM;PL
+borç	kölcsön	borç	kölcsön		N;NOM;SG
+borç	tartozás	borç	tartozás		N;NOM;SG
+borç	adósság	borç	adósság		N;NOM;SG
+borç	tartozások	borç	tartozás		N;NOM;PL
+borç	adóssága	borç	adósság		N;NOM;SG
+aralıklarla	időközönként	aralık	időközön	N;INS;PL;3	N;ABS;SG
+çekme	vontató	çek	vontató		N;NOM;SG
+claire	claire	claire	clai		N;NOM;SG
+spurs	spurs	spurs	spurs	PROPN;NOM;SG;3	N;NOM;SG
+çifti	páros	çift	páros	ADJ;NOM;SG;3	
+çifti	pár	çift	pár	ADJ;NOM;SG;3	
+tanık	tanúk	tanık	tanúk		N;NOM;PL
+tanık	szemtanúk	tanık	szemtanú		N;NOM;PL
+tanık	szemtanú	tanık	szemtanú		N;NOM;SG
+tanık	tanú	tanık	tanú		N;NOM;SG
+belarus	fehéroroszország	belarus	fehéroroszország	PROPN;NOM;SG;3	N;NOM;SG
+belarus	belarusz	belarus	belarusz	PROPN;NOM;SG;3	
+periyodik	időszakos	periyodik	időszakos		N;NOM;SG
+çömlek	kerámia	çömlek	kerámia		N;NOM;SG
+asistanı	asszisztens	asistan	asszisztens	N;ACC;SG;3	N;NOM;SG
+asistanı	segéd	asistan	segéd	N;ACC;SG;3	
+aileleri	családok	aile	családok	N;ACC;PL;3	N;NOM;PL
+boğa	bika	boğa	bika		N;NOM;SG
+oranları	arányok	oran	arány	N;ACC;PL;3	N;NOM;PL
+oranları	árfolyamok	oran	árfolyam	N;ACC;PL;3	N;NOM;PL
+oranları	arányok	oran	arány	N;ACC;PL;3	N;NOM;PL
+norveçli	norvégia	norveçli	norvégia		N;NOM;SG
+arıcılık	méhészeti	arıcılık	méhészeti	N;NOM;SG;3	ADJ;NOM;SG
+mutfak	konyha	mutfak	konyha		N;NOM;SG
+mutfak	konyha	mutfak	konyha		N;NOM;SG
+mutfak	konyhában	mutfak	konyha		N;IN+ESS;SG
+carolina	carolina	carol	carolina	PROPN;NOM;SG;3	
+carolina	karolina	carol	karolina	PROPN;NOM;SG;3	
+okumak	olvasott	oku	olvasot	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;INDF;IND;SG;3;PST;FIN;ACT
+okumak	olvasás	oku	olvasás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+sembol	jelkép	sembol	jelkép		N;NOM;SG
+sembol	szimbólum	sembol	szimbólum		N;IN+ABL;SG
+christina	christina	christin	christina	PROPN;DAT;SG;3	
+uzmanlık	szakértelemmel	uzmanlık	szakértelem	N;NOM;SG;3	N;INS;SG
+keşfi	felfedezés	keşif	felfedezés		N;NOM;SG
+keşfi	discovery	keşif	discovery		N;NOM;SG
+chaplin	chaplin	chaplin	chaplin		N;NOM;SG
+foster	foster	foster	foster	PROPN;NOM;SG;3	PROPN;NOM;SG
+fotoğrafçı	fotós	fotoğrafçı	fotós		N;NOM;SG
+fotoğrafçı	fényképész	fotoğrafçı	fényképész		N;NOM;SG
+grönland	grönland	grönla	grönland		N;NOM;SG
+şimdiden	máris	şimdiden	máris	ADV	
+soykırım	népirtás	soykırım	népirtás		N;NOM;SG
+soykırım	holokauszt	soykırım	holokausz		N;NOM;SG
+ibm	ibm	ibm	ibm		N;NOM;SG
+faith	hitem	faith	hít		N;NOM;SG
+faith	hit	faith	hi		N;NOM;SG
+faith	hittel	faith	hit		N;INS;SG
+faith	hitet	faith	hít		N;ACC;SG
+key	kulcsfontosságú	key	kulcsfontosságú		ADJ;NOM;SG
+key	kulcs	key	kulcs		N;NOM;SG
+peri	nimfa	peri	nimfa		N;NOM;SG
+peri	tündér	peri	tündér		N;NOM;SG
+çizim	vázlat	çiz	vázlat		N;NOM;SG
+çizim	rajza	çiz	rajza		N;NOM;SG
+çizim	rajz	çiz	rajz		N;NOM;SG
+çizim	rajzol	çiz	rajzol		V;INDF;IND;SG;3;PRS;FIN;ACT
+ihracat	export	ihracat	export		N;NOM;SG
+ihracat	kivitel	ihracat	kivitel		N;NOM;SG
+ihracat	exportálni	ihracat	exportál		V;NFIN;ACT
+ihracat	export	ihracat	export		N;NOM;SG
+ihracat	kivitel	ihracat	kivitel		N;NOM;SG
+ihracat	kiviteli	ihracat	kiviteli		N;NOM;SG
+simetrik	szimmetrikus	simetrik	szimmetrikus		ADJ;NOM;SG
+infaz	kivégezték	infaz	ki+végez		V;DEF;IND;PL;3;PST;FIN;ACT
+infaz	kivégzés	infaz	kivégzés		N;NOM;SG
+infaz	végrehajtás	infaz	végrehajtás		N;NOM;SG
+infaz	kivitelezés	infaz	kivitelezés		N;NOM;SG
+infaz	kivégzések	infaz	kivégzés		N;NOM;PL
+yüzük	gyűrűt	yüzük	gyűrű	N;NOM;SG;3	N;ACC;SG
+yüzük	gyűrűvel	yüzük	gyűrű	N;NOM;SG;3	N;INS;SG
+yüzük	ring	yüzük	ring	N;NOM;SG;3	
+yüzük	gyűrűs	yüzük	gyűrűs	N;NOM;SG;3	
+yüzük	gyűrűket	yüzük	gyűrű	N;NOM;SG;3	N;ACC;PL
+yüzük	gyűrűk	yüzük	gyűrűk	N;NOM;SG;3	N;NOM;PL
+deneyimi	élmény	deney	élmény	N;ACC;SG;3	N;NOM;SG
+deneyimi	tapasztalat	deney	tapasztalat	N;ACC;SG;3	N;NOM;SG
+deneyimi	tapasztalatok	deney	tapasztalat	N;ACC;SG;3	N;NOM;PL
+deneyimi	tapasztalattal	deney	tapasztalat	N;ACC;SG;3	N;INS;SG
+genişleme	bővítési	genişle	bővítési	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+genişleme	bővítés	genişle	bővítés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+genişleme	tágulás	genişle	tágulás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+genişleme	terjeszkedés	genişle	terjeszkedés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+genişleme	bővítés	genişle	bővítés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+bağlanmış	csatolt	bağla	csatolt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	csatolva	bağla	csatolva	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+bağlanmış	kapcsolódott	bağla	kapcsolódott	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+bağlanmış	kapcsolt	bağla	kapcsolt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	összekapcsolt	bağla	összekapcsolt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	kapcsolatban	bağla	kapcsolat	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N;IN+ESS;SG
+bağlanmış	kapcsolt	bağla	kapcsolt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	kapcsolódott	bağla	kapcsolódott	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+bağlanmış	kapcsolódó	bağla	kapcsolódó	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADJ;NOM;SG
+bağlanmış	összekapcsolt	bağla	összekapcsolt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	döntetlen	bağla	döntetlen	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N;NOM;SG
+bağlanmış	kötve	bağla	kötve	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+bağlanmış	köt	bağla	köt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PRS;FIN;ACT
+bağlanmış	kötve	bağla	kötve	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+aramaya	keresés	ara	keresés	V;PFV;DAT;IND;POS;PRS;V.MSDR	
+yanlışlıkla	véletlenül	yanlışlık	véletlenül	N;INS;SG;3	
+lezbiyen	leszbikus	lezbiyen	leszbikus		N;NOM;SG
+lezbiyen	leszbikusok	lezbiyen	leszbikus		N;NOM;PL
+tutsak	fogoly	tutsak	fogoly		N;NOM;SG
+tutsak	elítélt	tutsak	elítélt		V;INDF;IND;SG;3;PST;FIN;ACT
+tutsak	fogságban	tutsak	fogság		N;IN+ESS;SG
+tutsak	fogoly	tutsak	fogoly		N;NOM;SG
+tutsak	rabok	tutsak	rab		N;NOM;PL
+tutsak	foglyok	tutsak	fogyy		N;NOM;PL
+tutsak	fogságban	tutsak	fogság		N;IN+ESS;SG
+sonsuza	örökre	sonsuz	örök	ADJ;DAT;SG;3	
+sonsuza	forever	sonsuz	forever	ADJ;DAT;SG;3	
+sonsuza	mindörökké	sonsuz	mindörökké	ADJ;DAT;SG;3	
+sonsuza	örökké	sonsuz	örökké	ADJ;DAT;SG;3	
+protokolü	protokoll	protokolü	protokoll	N;ACC;SG;3	N;NOM;SG
+protokolü	jegyzőkönyv	protokolü	jegyzőkönyv	N;ACC;SG;3	N;NOM;SG
+haiti	haiti	hait	haiti		N;NOM;SG
+haiti	haiti	hait	haiti		N;NOM;SG
+üçüncüsü	harmadik	üçüncü	harmadik	ADJ;NOM;SG;3	
+üçüncüsü	harmadszor	üçüncü	harmadszor	ADJ;NOM;SG;3	
+buluşma	találka	buluş	találka	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	randevú	buluş	randevú	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	dátum	buluş	dátum	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	időpont	buluş	időpont	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	gyűlés	buluş	gyűlés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	találkozás	buluş	találkozás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	találkozó	buluş	találkozó	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+buluşma	megbeszélés	buluş	megbeszélés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+kazanma	győzelem	kazan	győzelem		N;NOM;SG
+fikirler	vélemény	fikir	vélemény	N;NOM;PL;3	
+liderlik	vezetői	liderlik	vezető	N;NOM;SG;3	N;NOM;PL
+temelde	lényegében	temel	lényeg	ADJ;ESS;SG;3	N;IN+ESS;SG
+temelde	alapvetően	temel	alapvető	ADJ;ESS;SG;3	ADJ;FRML;SG
+temelde	lényegében	temel	lényeg	ADJ;ESS;SG;3	N;IN+ESS;SG
+temelde	alapvetően	temel	alapvető	ADJ;ESS;SG;3	ADJ;FRML;SG
+temelde	gyakorlatilag	temel	gyakorlati	ADJ;ESS;SG;3	ADJ;FRML;SG
+jimnastik	tornász	jimnastik	tornász		N;NOM;SG
+jimnastik	torna	jimnastik	torna		N;NOM;SG
+jimnastik	tornász	jimnastik	tornász		N;NOM;SG
+jimnastik	torna	jimnastik	torna		N;NOM;SG
+sağlanan	megadott	sağla	megadott	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+sağlanan	feltéve	sağla	feltév	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+sağlanan	szolgáltatott	sağla	szolgáltatott	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+garcia	garcia	garcia	garcia	PROPN;NOM;SG;3	
+sembolik	szimbolikusan	sembolik	szimbolikus		ADJ;FRML;SG
+sembolik	szimbolikus	sembolik	szimbolikus		ADJ;NOM;SG
+minimum	minimum	minim	minimum	N;NOM;SG;3	
+minimum	minimális	minim	minimális	N;NOM;SG;3	
+minimum	legkisebb	minim	kevés	N;NOM;SG;3	ADJ;NOM;RL;SG
+minimum	minimálisan	minim	minimális	N;NOM;SG;3	
+minimum	minimális	minim	minimális	N;NOM;SG;3	
+minimum	minimálisan	minim	minimális	N;NOM;SG;3	
+cbs	cbs	cbs	cbs		N;NOM;SG
+asistan	lakos	asistan	lakos		N;NOM;SG
+asistan	asszisztens	asistan	asszisztens		N;NOM;SG
+parametre	paraméterek	parametre	paraméter	N;NOM;SG;3	N;NOM;PL
+karşılaşma	mérkőzés	karşılaşma	mérkőzés		N;NOM;SG
+karşılaşma	egyezés	karşılaşma	egyezés		N;NOM;SG
+karşılaşma	találat	karşılaşma	találat		N;NOM;SG
+karşılaşma	meccs	karşılaşma	meccs		N;NOM;SG
+karşılaşma	gyufa	karşılaşma	gyufa		N;NOM;SG
+karşılaşma	egyezik	karşılaşma	egyezik		V;INDF;IND;SG;3;PRS;FIN;ACT
+karşılaşma	találkozások	karşılaşma	találkozás		N;NOM;PL
+karşılaşma	találkozás	karşılaşma	találkozás		N;NOM;SG
+bitkisel	gyógynövény	bitkisel	gyógynövény		N;NOM;SG
+bitkisel	zöldség	bitkisel	zöldség		N;NOM;SG
+bitkisel	növényi	bitkisel	növényi		N;NOM;SG
+bitkisel	vegetatív	bitkisel	vegetatív		N;NOM;SG
+sedan	szedán	sedan	szedán	PROPN;NOM;SG;3	N;NOM;SG
+önerisi	javaslat	öneri	javaslat	N;NOM;SG;3	N;NOM;SG
+veronica	veronica	veronica	veronica		N;NOM;SG
+nötron	neutronok	nötron	neutron	N;NOM;SG;3	N;NOM;PL
+derinliği	mélység	derinlik	mélység	N;ACC;SG;3	N;NOM;SG
+beğeni	besorolás	beğen	besorolás		N;NOM;SG
+beğeni	minősítés	beğen	minősítés		N;NOM;SG
+beğeni	minősítési	beğen	minősítési		ADJ;NOM;SG
+beğeni	szereti	beğen	szeret		V;DEF;IND;SG;3;PRS;FIN;ACT
+beğeni	kedveli	beğen	kedveli		V;DEF;IND;SG;3;PRS;FIN;ACT
+beğeni	elismerést	beğen	elismerés		N;ACC;SG
+beğeni	elismerés	beğen	elismerés		N;NOM;SG
+şifreleme	kódolás	şifrele	kódolás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+şifreleme	titkosítás	şifrele	titkosítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+şifreleme	titkosítási	şifrele	titkosítási	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+şifreleme	kriptográfiai	şifrele	kriptográfiai	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+şifreleme	kriptográfia	şifrele	kriptográfia	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+wales	wales	wales	wales	PROPN;NOM;SG;3	
+fetih	hódítás	fetih	hódítás		N;NOM;SG
+kulüpleri	klubok	kulüp	klub	N;ACC;PL;3	N;NOM;PL
+beyan	nyilatkozat	beyan	nyilatkozat		N;NOM;SG
+beyan	nyilatkozata	beyan	nyilatkozat		N;NOM;SG
+beyan	kimutatás	beyan	kimutatás		N;NOM;SG
+beyan	állítás	beyan	állítás		N;NOM;SG
+beyan	kijelentés	beyan	kijelentés		N;NOM;SG
+beyan	nyilatkozat	beyan	nyilatkozat		N;NOM;SG
+beyan	nyilatkozata	beyan	nyilatkozat		N;NOM;SG
+taklit	utánozni	taklit	utánoz		V;NFIN;ACT
+taklit	utánzat	taklit	utánzat		N;NOM;SG
+chan	chan	chan	chan		PROPN;NOM;SG
+yakalandı	elkapott	yakala	elkapott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+yakalandı	fogott	yakala	fogott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+yakalandı	kifogott	yakala	kifogott	V;PFV;IND;SG;3;POS;PST;PASS	
+yakalandı	elfogott	yakala	elfogott	V;PFV;IND;SG;3;POS;PST;PASS	
+yakalandı	elfogták	yakala	el+fog	V;PFV;IND;SG;3;POS;PST;PASS	V;DEF;IND;PL;3;PST;FIN;ACT
+çekimler	feles	çekim	feles	N;NOM;PL;3	
+çekimler	lövés	çekim	lövés	N;NOM;PL;3	N;NOM;SG
+kaybeder	veszít	kaybet	veszít	V;IPFV;IND;SG;3;POS	V;INDF;IND;SG;3;PRS;FIN;ACT
+milletvekilleri	törvényhozók	milletvekili	törvényhozó	N;NOM;PL;3	N;NOM;PL
+mevsim	szezonális	mevsim	szezonális		ADJ;NOM;SG
+mevsim	szezont	mevsim	szezont		N;ACC;SG
+mevsim	idény	mevsim	idény		N;NOM;SG
+mevsim	évszak	mevsim	évszú		N;NOM;SG
+mevsim	évad	mevsim	évad		N;NOM;SG
+mevsim	szezon	mevsim	szez		N;NOM;SG
+mevsim	évszakok	mevsim	évszak		N;NOM;PL
+mevsim	évszak	mevsim	évszú		N;NOM;SG
+videoları	videók	video	videó	N;ACC;PL;3	N;NOM;PL
+analitik	analitikai	analitik	analitikai		N;NOM;SG
+bulma	megtalálni	bul	meg+talál		V;NFIN;ACT
+bulma	megállapítás	bul	megállapítás		N;NOM;SG
+bahreyn	bahrein	bahrey	bahrein	PROPN;NOM;SG;3	N;NOM;SG
+atp	atp	atp	atp		N;NOM;PL
+turne	turné	tur	tur		N;NOM;SG
+turne	túra	tur	túra		N;NOM;SG
+kaydedilen	rögzített	kaydet	rögzített	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedilen	rögzítve	kaydet	rögzítve	V;PFV;IND;POS;PRS;V.PTCP;PASS	N;NOM;SG
+kaydedilen	regisztrált	kaydet	regisztrált	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedilen	nyilvántartott	kaydet	nyilvántartott	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedilen	megmentette	kaydet	megment	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;DEF;IND;SG;3;PST;FIN;ACT
+kaydedilen	mentve	kaydet	mentve	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADV;V.CVB
+kaydedilen	mentett	kaydet	mentett	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+sipariş	rendelésére	sipariş	rendelés	N;NOM;SG;3	N;ON+ALL;SG
+sipariş	parancsok	sipariş	parancsok	N;NOM;SG;3	N;NOM;PL
+sipariş	megrendelések	sipariş	megrendelés	N;NOM;SG;3	N;NOM;PL
+sipariş	parancsot	sipariş	parancsot	N;NOM;SG;3	N;ACC;SG
+ağaçlar	fákon	ağaç	fakon	N;NOM;PL;3	N;ON+ESS;SG
+ağaçlar	fák	ağaç	fák	N;NOM;PL;3	
+ağaçlar	fákat	ağaç	faka	N;NOM;PL;3	N;ACC;SG
+bern	bern	bern	bern	PROPN;NOM;SG;3	
+bulanık	elmosódott	bulanık	elmosódott		V;INDF;IND;SG;3;PST;FIN;ACT
+bulanık	elmosódott	bulanık	elmosódott		V;INDF;IND;SG;3;PST;FIN;ACT
+ispat	bizonyítani	ispat	bizonyít		V;NFIN;ACT
+gözlemci	megfigyelő	gözlemci	megfigyelő		N;NOM;SG
+gözlemci	megfigyelői	gözlemci	megfigyelő		N;NOM;PL
+gözlemci	megfigyelők	gözlemci	megfigyelő		N;NOM;PL
+gerilla	gerillák	geril	gerilla		N;NOM;PL
+toplamak	gyűjtés	topla	gyűjtés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+dolaşım	keringési	dolaşım	keringési		N;NOM;SG
+dolaşım	keringő	dolaşım	keringő		ADJ;NOM;SG
+anlamsız	értelmetlen	anlamsız	értelmetlen	ADJ	
+anlamsız	értelmetlen	anlamsız	értelmetlen	ADJ	
+anlamsız	jelentéktelen	anlamsız	jelentéktelen	ADJ	
+bataklık	marsh	bataklık	marsh	N;NOM;SG;3	
+katılacak	szakorvos	kat	szakorvos	V;PFV;IND;SG;3;POS;FUT;PASS	N;NOM;SG
+palermo	palermo	palermo	palermo	PROPN;NOM;SG;3	
+katılımı	részvétel	katılım	részvétel	N;ACC;SG;3	N;NOM;SG
+katılımı	jelenlét	katılım	jelenl	N;ACC;SG;3	N;NOM;SG
+katılımı	részvétel	katılım	részvétel	N;ACC;SG;3	N;NOM;SG
+blackburn	blackburn	blackburn	blackbur	PROPN;NOM;SG;3	N;NOM;SG
+eklenmiş	hozzáadott	ekle	hozzáad	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+eklenmiş	felvéve	ekle	félvev	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+farkında	tudatában	fark	tudat	N;ESS;SG;3	N;IN+ESS;SG
+farkında	tisztában	fark	tiszta	N;ESS;SG;3	ADV
+asi	lázadók	asi	lázadó		N;NOM;PL
+asi	lázadó	asi	lázadó		ADJ;NOM;SG
+tyler	tyler	iy	tyler		PROPN;NOM;SG
+ilaçlar	orvosság	ilaç	orvosság	N;NOM;PL;3	N;NOM;SG
+ilaçlar	gyógyszert	ilaç	gyógyszert	N;NOM;PL;3	N;ACC;SG
+ilaçlar	gyógyszer	ilaç	gyógyszer	N;NOM;PL;3	N;NOM;SG
+ilaçlar	orvostudomány	ilaç	orvostudomány	N;NOM;PL;3	N;NOM;SG
+ilaçlar	tablettákat	ilaç	tabletta	N;NOM;PL;3	N;ACC;PL
+ilaçlar	tabletták	ilaç	tablet	N;NOM;PL;3	V;DEF;IND;PL;3;PST;FIN;ACT
+yahudilere	zsidók	yahudi	zsidó	N;DAT;PL;3	N;NOM;PL
+yasadışı	illegálisan	yasa	illegális		ADJ;FRML;SG
+viking	vikingek	viking	viking		N;NOM;PL
+medeni	polgári	meden	polgári		ADJ;NOM;SG
+medeni	civilizált	meden	civilizált		V;INDF;IND;SG;3;PST;FIN;ACT
+medeni	civilizált	meden	civilizált		V;INDF;IND;SG;3;PST;FIN;ACT
+riski	kockázat	riski	kockázat		N;NOM;SG
+riski	kockázatos	riski	kockázatos		ADJ;NOM;SG
+quebec	quebec	quebec	quebec	PROPN;NOM;SG;3	PROPN;NOM;SG
+teşhis	azonosítani	teşhis	azonosít	N;NOM;SG;3	V;NFIN;ACT
+teşhis	azonosítható	teşhis	azonosítható	N;NOM;SG;3	ADJ;NOM;SG
+piknik	piknik	piknik	piknik	N;NOM;SG;3	
+thunder	villám	thunder	villám		N;NOM;SG
+thunder	mennydörgés	thunder	mennydörgés		N;NOM;SG
+yaklaşan	közelgő	yaklaş	közelgő	V;PFV;IND;POS;PRS;V.PTCP	ADJ;NOM;SG
+hayvanat	állatkert	hayvanat	állatker	ADJ;NOM;SG;3	N;NOM;SG
+hayvanat	állatkertben	hayvanat	állatkert	ADJ;NOM;SG;3	N;IN+ESS;SG
+başlatıldı	kezdeményezett	başla	kezdeményez	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+iğne	tűt	iğne	tűt	N;NOM;SG;3	N;ACC;SG
+iğne	tűket	iğne	tűket	N;NOM;SG;3	N;ACC;PL
+iğne	tűk	iğne	tűk	N;NOM;SG;3	N;NOM;PL
+dokuma	szőtt	dokum	szőtt		V;INDF;IND;SG;3;PST;FIN;ACT
+dokuma	szőni	dokum	sző		V;NFIN;ACT
+dokuma	szövés	dokum	szövés		N;NOM;SG
+eşsiz	egyedülálló	eşsiz	egyedülálló	ADJ	
+eşsiz	páratlan	eşsiz	páratlan	ADJ	
+eşsiz	egyedi	eşsiz	egyedi	ADJ	
+eşsiz	páratlan	eşsiz	páratlan	ADJ	
+katılımcılar	résztvevőknek	katılımcı	résztvevő	N;NOM;PL;3	N;DAT;PL
+katılımcılar	résztvevő	katılımcı	résztvevő	N;NOM;PL;3	
+ellen	ellen	el	ellen		ADP
+deve	tevék	deve	tevék		N;NOM;PL
+granada	granada	grana	granada	PROPN;ESS;SG;3	
+vokalist	énekes	vokalist	énekes		N;NOM;SG
+selahaddin	szaladin	selahaddi	szaladin		N;NOM;SG
+mercury	mercury	mercury	mercury	PROPN;NOM;SG;3	
+mercury	higany	mercury	higany	PROPN;NOM;SG;3	N;NOM;SG
+pearl	gyöngy	pearl	gyöngy		N;NOM;SG
+kaplar	konténer	kap	konténer	N;NOM;PL;3	N;NOM;SG
+harfler	leveleket	harf	levél	N;NOM;PL;3	N;ACC;PL
+taşlar	stones	taş	stones	ADJ;NOM;PL;3	N;NOM;SG
+taşlar	kövek	taş	köv	ADJ;NOM;PL;3	N;NOM;PL
+taşlar	kövek	taş	köv	ADJ;NOM;PL;3	N;NOM;PL
+taşlar	sziklák	taş	szik	ADJ;NOM;PL;3	N;NOM;PL
+hesaplama	számítástechnikai	hesaplama	számítástechnikai	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+hesaplama	számítási	hesaplama	számítási	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+hesaplama	számítások	hesaplama	számítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+hesaplama	számítás	hesaplama	számítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+hesaplama	számítás	hesaplama	számítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+hesaplama	számítások	hesaplama	számítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+hesaplama	számításokat	hesaplama	számítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ACC;PL
+ekvator	ecuador	ekvator	ecuador		PROPN;NOM;SG
+ekler	növeli	ek	növel		V;DEF;IND;SG;3;PRS;FIN;ACT
+çarpan	szorzó	çarp	szorzó		N;NOM;SG
+laurent	laurent	laurent	laurent	PROPN;NOM;SG;3	
+motorları	hajtóművek	motor	hajtómű	N;ACC;PL;3	N;NOM;PL
+motorları	hajtómű	motor	hajtómű	N;ACC;PL;3	N;NOM;SG
+motorları	motorok	motor	motor	N;ACC;PL;3	N;NOM;PL
+touch	érintés	touch	érintés		N;NOM;SG
+kürek	evezés	kürek	evezés		N;NOM;SG
+kürek	lapát	kürek	lapát		N;NOM;SG
+kürek	sort	kürek	sor		N;ACC;SG
+simpsonlar	simpsons	simpson	simpsons	N;NOM;PL;3	
+bilbao	bilbao	bilbao	bilbao	PROPN;NOM;SG;3	N;NOM;SG
+bahçeleri	kertek	bahçe	ker	N;ACC;PL;3	N;NOM;PL
+takas	kereskedés	takas	kereskedés		N;NOM;SG
+takas	csere	takas	csere		N;NOM;SG
+takas	kereskedelem	takas	kereskedelem		N;NOM;SG
+takas	kereskedelmi	takas	kereskedelmi		ADJ;NOM;SG
+takas	kereskedés	takas	kereskedés		N;NOM;SG
+takas	csere	takas	csere		N;NOM;SG
+takas	csere	takas	csere		N;NOM;SG
+cola	kóla	cola	kóla		N;NOM;SG
+cola	kóla	cola	kóla		N;NOM;SG
+dul	özvegye	dul	özvegy		N;NOM;SG
+xxx	xxx	xxx	xxx		N;NOM;SG
+bolton	bolton	bolton	bolton	PROPN;NOM;SG;3	
+romen	románia	romen	románia		N;NOM;SG
+romen	romániai	romen	romániai		ADJ;NOM;SG
+komplo	cselekmény	komplo	cselekmény		N;NOM;SG
+komplo	összeesküvés	komplo	összeesküvés		N;NOM;SG
+açıklamalar	magyarázat	açıkla	magyarázat	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+açıklamalar	magyarázatot	açıkla	magyarázat	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ACC;SG
+açıklamalar	leírások	açıkla	leírás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+store	áruház	store	áruház		N;NOM;SG
+store	üzlet	store	üzlet		N;NOM;SG
+store	bolt	store	bolt		N;NOM;SG
+seine	seine	sein	seine	PROPN;NOM;SG;3	
+iletim	átvitel	iletim	átvitel		N;NOM;SG
+iletim	továbbítás	iletim	továbbítás		N;NOM;SG
+iletim	adás	iletim	adás		N;NOM;SG
+iletim	átviteli	iletim	átviteli		ADJ;NOM;SG
+hawks	hawks	hawks	hawks	PROPN;NOM;SG;3	PROPN;NOM;SG
+beatles	beatles	beatles	beatles		N;NOM;SG
+başrolde	szereplők	başrol	szereplő	N;ESS;SG;3	N;NOM;PL
+başrolde	főszereplő	başrol	főszereplő	N;ESS;SG;3	N;NOM;SG
+başrolde	főszerepben	başrol	főszerep	N;ESS;SG;3	N;IN+ESS;SG
+kumaş	szövetek	kumaş	szövet		N;NOM;PL
+kumaş	szövet	kumaş	szövet		N;NOM;SG
+kumaş	szövetek	kumaş	szövet		N;NOM;PL
+kumaş	szövet	kumaş	szövet		N;NOM;SG
+reaksiyon	reagálás	reaksiyon	reagálás		N;NOM;SG
+reaksiyon	reakció	reaksiyon	reakció		N;NOM;SG
+reaksiyon	reakciók	reaksiyon	reakció		N;NOM;PL
+düsseldorf	düsseldorf	düsseldorf	düsseldorf	PROPN;NOM;SG;3	
+verlag	verlag	verlag	verlag		V;INDF;IND;SG;3;PRS;FIN;ACT
+sınav	vizsgák	sınav	vizsga	N;NOM;SG;3	N;NOM;PL
+tarama	böngészés	tarama	böngészés		N;NOM;SG
+tüyleri	tollak	tüy	tollak	ADJ;NOM;PL;3	N;NOM;PL
+tüyleri	toll	tüy	toll	ADJ;NOM;PL;3	N;NOM;SG
+donetsk	doneck	donetsk	donec	PROPN;NOM;SG;3	N;NOM;SG
+evcil	pet	evcil	pet	N;NOM;SG;3	
+evcil	kisállat	evcil	kisállat	N;NOM;SG;3	
+evcil	szelíd	evcil	szelíd	N;NOM;SG;3	
+evcil	háziasított	evcil	háziasított	N;NOM;SG;3	V;INDF;IND;SG;3;PST;FIN;ACT
+nathan	nathan	nathan	nat	PROPN;NOM;SG;3	
+satürn	szaturnusz	satürn	szaturnusz		N;NOM;SG
+karesi	négyzetes	kare	négyzetes		ADJ;NOM;SG
+karesi	tér	kare	tér		N;NOM;SG
+komisyon	bizottságok	komisyon	bizottság		N;NOM;PL
+komisyon	jutalék	komisyon	jutalék		N;NOM;SG
+komisyon	bizottság	komisyon	bizottság		N;NOM;SG
+komisyon	jutalék	komisyon	jutalék		N;NOM;SG
+komisyon	jutalékot	komisyon	jutalék		N;ACC;SG
+komisyon	bróker	komisyon	bróker		N;NOM;SG
+favori	kedvencem	favori	kedvencem		N;NOM;SG
+favori	kedvencem	favori	kedvencem		N;NOM;SG
+şef	szakács	şef	szakács		N;NOM;SG
+şef	séf	şef	séf		N;NOM;SG
+şef	főnök	şef	főnök		N;NOM;SG
+vergisi	adó	vergi	adó	N;NOM;SG;3	
+vergisi	adózás	vergi	adózás	N;NOM;SG;3	N;NOM;SG
+vergisi	adók	vergi	adó	N;NOM;SG;3	N;NOM;PL
+telgraf	távirat	telgraf	távir		N;NOM;SG
+telgraf	táviratot	telgraf	távirat		N;ACC;SG
+leone	leone	leone	lesz	PROPN;NOM;SG;3	
+arayan	hívó	ara	hívó	V;PFV;IND;POS;PRS;V.PTCP	
+ilim	tudás	ilim	tudás		N;NOM;SG
+ilim	ismeretek	ilim	ismeret		N;NOM;PL
+bond	kötés	bond	kötés		N;NOM;SG
+bond	kötvény	bond	kötvény		N;NOM;SG
+bond	kötelék	bond	kötelék		N;NOM;SG
+gözde	kedvencem	gözde	kedvencem		N;NOM;SG
+tecrübe	élmény	tecrübe	élmény		N;NOM;SG
+tecrübe	tapasztalat	tecrübe	tapasztalat		N;NOM;SG
+tecrübe	tapasztalatok	tecrübe	tapasztalat		N;NOM;PL
+tecrübe	tapasztalattal	tecrübe	tapasztalat		N;INS;SG
+andromeda	androméda	androme	androméda		N;NOM;SG
+nokia	nokia	nokia	nokia		N;NOM;SG
+çiçekler	virág	çiçek	virág	N;NOM;PL;3	N;NOM;SG
+çiçekler	virágot	çiçek	virág	N;NOM;PL;3	N;ACC;SG
+stargate	csillagkapu	stargate	csillagkapu		N;NOM;SG
+zoolog	zoológus	zoolog	zoológus		N;NOM;SG
+dalları	ágak	dal	ág	N;NOM;PL;3	N;NOM;PL
+dalları	fiókok	dal	fiók	N;NOM;PL;3	N;NOM;PL
+durak	megáll	durak	megáll		V;INDF;IND;SG;3;PRS;FIN;ACT
+stark	stark	stark	stark		PROPN;NOM;SG
+kızılötesi	infravörös	kızılöte	infravörös	N;NOM;SG;3	N;NOM;SG
+soğutma	hűtés	soğut	hűtés		N;NOM;SG
+momentum	lendületet	momentum	lendület	N;NOM;SG;3	N;ACC;SG
+ocl	felsővezeték	ocl	fel+sővez		N;NOM;SG
+nereye	hol	nere	hol	PRO;DAT;SG;3	ADV
+nereye	ahol	nere	ahol	PRO;DAT;SG;3	ADV
+step	lépés	step	lépés		N;NOM;SG
+step	lépcső	step	lépcső		N;NOM;SG
+dale	dale	dale	dale		PROPN;NOM;SG
+inanılmaz	hihetetlen	inan	hihetetlen	V;IPFV;IND;NEG;V.PTCP;PASS	
+inanılmaz	hihetetlen	inan	hihetetlen	V;IPFV;IND;NEG;V.PTCP;PASS	
+damar	erek	damar	er		N;NOM;PL
+damar	véna	damar	véna		N;NOM;SG
+damar	érrendszeri	damar	érrendszeri		N;NOM;SG
+rumen	románia	rumen	románia		N;NOM;SG
+rumen	romániai	rumen	romániai		ADJ;NOM;SG
+arya	arya	arya	azya		PROPN;NOM;SG
+lane	lane	la	lane	PROPN;NOM;SG;3	
+lane	sáv	la	sáv	PROPN;NOM;SG;3	N;NOM;SG
+feminist	feministák	feminist	feminista		N;NOM;PL
+feminist	feminista	feminist	feminista		N;NOM;SG
+organları	szervek	organ	szerv	N;NOM;PL;3	N;NOM;PL
+doğumu	születés	doğum	születés	N;ACC;SG;3	N;NOM;SG
+doğumu	születési	doğum	születési	N;ACC;SG;3	ADJ;NOM;SG
+doğumu	szülés	doğum	szülés	N;ACC;SG;3	N;NOM;SG
+mühimmat	lőszer	mühimmat	lőszer		N;NOM;SG
+mühimmat	lőszerek	mühimmat	lőszer		N;NOM;PL
+mühimmat	lőszert	mühimmat	lőszer		N;ACC;SG
+mühimmat	lőszerek	mühimmat	lőszer		N;NOM;PL
+louise	louise	loui	louis	PROPN;NOM;SG;3	
+myspace	myspace	myspace	myspace		N;NOM;SG
+ikmal	utánpótlás	ikmal	utánpótlás		N;NOM;SG
+izlenen	figyelt	izle	figyelt	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+izlenen	néztem	izle	néz	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;DEF;IND;SG;1;PRS;FIN;ACT
+izlenen	nézte	izle	néz	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;DEF;IND;SG;3;PST;FIN;ACT
+stand	állj	stand	állj		V;INDF;IMP;SG;1;PRS;FIN;ACT
+notları	megjegyzések	not	megjegyzés	N;ACC;PL;3	N;NOM;PL
+notları	feljegyzések	not	feljegyzés	N;ACC;PL;3	N;NOM;PL
+notları	jegyzetek	not	jegyzet	N;ACC;PL;3	N;NOM;PL
+notları	jegyzet	not	jegyzet	N;ACC;PL;3	N;NOM;SG
+kavramları	fogalmak	kavram	fogalom	N;ACC;PL;3	N;NOM;PL
+kavramları	elképzelések	kavram	elképzelés	N;ACC;PL;3	N;NOM;PL
+zıt	ellentétek	zıt	ellentét		N;NOM;PL
+gonzález	gonzález	gonzález	gonzález	PROPN;NOM;SG;3	
+helikopter	helikopterek	helikopter	helikopter	N;NOM;SG;3	N;NOM;PL
+yatılı	beszállás	yatılı	beszállás		N;NOM;SG
+yatılı	bentlakásos	yatılı	bentlakásos		N;NOM;SG
+yatılı	fekvőbeteg	yatılı	fekvőbeteg		N;NOM;SG
+kılavuzu	kalauz	kılavuz	kalauz	N;ACC;SG;3	N;NOM;SG
+kılavuzu	útmutató	kılavuz	útmutató	N;ACC;SG;3	N;NOM;SG
+yetenekleri	képességeit	yetenek	képesség	N;NOM;PL;3	N;ACC;PL
+yetenekleri	képességek	yetenek	képesség	N;NOM;PL;3	N;NOM;PL
+yetenekleri	tehetségét	yetenek	tehetség	N;NOM;PL;3	N;ACC;SG
+masal	mese	masal	mese		N;NOM;SG
+masal	mesebeli	masal	mesebeli		ADJ;NOM;SG
+masal	mese	masal	mese		N;NOM;SG
+masal	tündérmese	masal	tündérmes		N;NOM;SG
+masal	sztori	masal	sztori		N;NOM;SG
+masal	történet	masal	történet		N;NOM;SG
+masal	története	masal	történet		N;NOM;SG
+masal	mese	masal	mese		N;NOM;SG
+dinlenme	szabadidő	dinlen	szabadidő	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	
+dinlenme	kikapcsolódás	dinlen	kikapcsolódás	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;NOM;SG
+dinlenme	pihenés	dinlen	pihenés	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;NOM;SG
+dinlenme	többi	dinlen	többi	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	
+dinlenme	pihenő	dinlen	pihenő	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	
+heinz	heinz	heinz	heinz	PROPN;NOM;SG;3	
+tatmin	elégedettség	tatmin	elégedettség		N;NOM;SG
+britney	britney	britney	britney		N;NOM;SG
+porsche	porsche	porsche	porsche		N;NOM;SG
+eğlenceli	móka	eğlenceli	móka	ADJ	N;NOM;SG
+eğlenceli	szórakozás	eğlenceli	szórakozás	ADJ	N;NOM;SG
+ekseni	tengely	ekseni	tengely		N;NOM;SG
+enzim	enzimek	enzi	enzim		N;NOM;PL
+enzim	enzim	enzi	enzik		N;NOM;SG
+enzim	enzim	enzi	enzik		N;NOM;SG
+seti	szett	set	szett		N;NOM;SG
+seti	beállítva	set	beállítva		ADV;V.CVB
+seti	forgatás	set	forgatás		N;NOM;SG
+makina	gépezet	makina	gépezet		N;NOM;SG
+makina	gép	makina	gép		N;NOM;SG
+makina	gépezet	makina	gépezet		N;NOM;SG
+makina	gépek	makina	gép		N;NOM;PL
+makina	gép	makina	gép		N;NOM;SG
+makina	gépekkel	makina	gép		N;INS;PL
+makina	gépek	makina	gép		N;NOM;PL
+makina	gép	makina	gép		N;NOM;SG
+tolkien	tolkien	tolkien	tolkien		N;NOM;SG
+sır	titkai	sır	titkai		N;NOM;PL
+sır	titok	sır	titok		N;NOM;SG
+sır	titkok	sır	titk		N;NOM;PL
+sır	titkokat	sır	titk		N;ACC;PL
+sır	titok	sır	titok		N;NOM;SG
+boyutları	méretek	boyut	méret	N;ACC;PL;3	N;NOM;PL
+boyutları	méretei	boyut	méretei	N;ACC;PL;3	N;NOM;PL
+kıyıları	shores	kıyı	shores	N;ACC;PL;3	
+kıyıları	partok	kıyı	part	N;ACC;PL;3	N;NOM;PL
+taşınan	elköltözött	taşı	elköltözött	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+taşınan	költözött	taşı	költözött	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+rush	rohanás	rush	rohanás		N;NOM;SG
+bilinçli	tudatos	bilinçli	tudatos		ADJ;NOM;SG
+yasağı	tilalmak	yasak	tilalom		N;NOM;PL
+andre	andre	andre	andre		PROPN;NOM;SG
+andre	andre	andre	andre		PROPN;NOM;SG
+roller	szerepei	rol	szerep		N;NOM;PL
+bull	bika	bull	bika		N;NOM;SG
+alüminyum	alumínium	alüm	alumínium	N;NOM;SG;3	N;NOM;SG
+alüminyum	alumínium	alüm	alumínium	N;NOM;SG;3	N;NOM;SG
+odaklı	koncentrált	odaklı	koncentrált		V;INDF;IND;SG;3;PST;FIN;ACT
+odaklı	összpontosított	odaklı	összpontosított		V;INDF;IND;SG;3;PST;FIN;ACT
+italia	italia	italia	italia	PROPN;NOM;SG;3	
+helena	helena	helen	helena	PROPN;NOM;SG;3	
+tartışmaları	beszélgetések	tartış	beszélgetés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+tartışmaları	megbeszélések	tartış	megbeszélés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+tartışmaları	viták	tartış	vita	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+katliam	mészárlás	katlia	mészárlás		N;NOM;SG
+katliam	vérfürdő	katlia	vérfürdő		N;NOM;SG
+katliam	mészárlás	katlia	mészárlás		N;NOM;SG
+katliam	vágás	katlia	vágás		N;NOM;SG
+katliam	vérontás	katlia	vérontás		N;NOM;SG
+katliam	mészárlás	katlia	mészárlás		N;NOM;SG
+katliam	vérfürdő	katlia	vérfürdő		N;NOM;SG
+varsayılan	alapértelmezés	varsa	alapértelmezés		N;NOM;SG
+varsayılan	alapértelmezett	varsa	alapértelmezett		N;ACC;SG
+lanka	lanka	lanka	lanka	PROPN;NOM;SG;3	
+wade	wade	wade	wade		N;NOM;SG
+kodları	kódok	kod	kód	N;ACC;PL;3	N;NOM;PL
+yapıcı	készítő	yapıcı	készítő		ADJ;NOM;SG
+iowa	iowa	iowa	iowa	PROPN;NOM;SG;3	
+çember	kör	çember	kör		N;NOM;SG
+çember	kört	çember	kör		N;ACC;SG
+lehçesi	dialektus	lehçe	dialektus	N;NOM;SG;3	N;NOM;SG
+isfahan	iszfahán	isfahan	iszfahán		N;NOM;SG
+karaciğer	máj	karaciğer	máj		N;NOM;SG
+hatalar	hibákat	hata	hiba	N;NOM;PL;3	N;ACC;PL
+hatalar	hibákat	hata	hiba	N;NOM;PL;3	N;ACC;PL
+atanmış	hozzárendelve	atan	hozzárendelve	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+atanmış	kijelölt	atan	kijelölt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+atanmış	kijelölt	atan	kijelölt	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+atanmış	kinevezett	atan	kinevezett	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+málaga	málaga	málaga	málag	PROPN;NOM;SG;3	N;NOM;SG
+diamond	diamond	diamond	diamond	N;NOM;SG;3	
+tanımlanmış	meghatározott	tanımla	meghatározott	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+tanımlanmış	meghatározva	tanımla	meghatározva	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+tanımlanmış	azonosított	tanımla	azonosított	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+tanımlanmış	azonosítva	tanımla	azonosítva	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+litre	literes	litre	literes		N;NOM;SG
+litre	liter	litre	liter		N;NOM;SG
+litre	literes	litre	literes		N;NOM;SG
+litre	liter	litre	liter		N;NOM;SG
+litre	literes	litre	literes		N;NOM;SG
+litre	liter	litre	liter		N;NOM;SG
+meşru	törvényes	meşru	törvényes		ADJ;NOM;SG
+meşru	törvényes	meşru	törvényes		ADJ;NOM;SG
+kaçmak	szökés	kaç	szökés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+kaçmak	menekülés	kaç	menekülés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+asal	fővezér	asal	fővezér		N;NOM;SG
+asal	elsődleges	asal	elsődleges		ADJ;NOM;SG
+radyoaktif	radioaktív	radyoaktif	radioaktív		N;NOM;SG
+öyküler	történeteket	öykü	történet	N;NOM;PL;3	N;ACC;PL
+iskandinav	skandináv	iskandinav	skandináv	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	
+iskandinav	északi	iskandinav	északi	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	
+iskandinav	skandináv	iskandinav	skandináv	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	
+kronik	krónikus	kronik	krónikus		N;NOM;SG
+yarışmaları	versenyek	yarış	verseny	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+osetya	oszétia	osetya	oszétia	PROPN;NOM;SG;3	
+çim	füvet	çim	füv		N;ACC;SG
+işadamı	üzletember	işadam	üzletember	N;NOM;SG;3	
+maría	maría	maría	maría	PROPN;NOM;SG;3	
+taşınabilir	hordozható	taşı	hordozható	V;IPFV;IND;SG;3;POS;PASS	ADJ;NOM;SG
+balıkçı	halászok	balıkçı	halász		N;NOM;PL
+bitkileri	üzemek	bitki	üz	N;ACC;PL;3	N;NOM;PL
+bitkileri	növények	bitki	növény	N;ACC;PL;3	N;NOM;PL
+bitkileri	növény	bitki	növény	N;ACC;PL;3	N;NOM;SG
+niyet	szándék	niyet	szándék		N;NOM;SG
+niyet	szándéka	niyet	szándék		N;NOM;SG
+niyet	szándék	niyet	szándék		N;NOM;SG
+niyet	szándéka	niyet	szándék		N;NOM;SG
+niyet	tervezett	niyet	tervezett		V;INDF;IND;SG;3;PST;FIN;ACT
+niyet	szándékolt	niyet	szándékolt		V;INDF;IND;SG;3;PST;FIN;ACT
+niyet	szándékai	niyet	szándék		N;NOM;PL
+niyet	szándék	niyet	szándék		N;NOM;SG
+kaçış	kitörés	kaçış	kitörés		N;NOM;SG
+kaçış	megszökni	kaçış	meg+szök		V;NFIN;ACT
+kaçış	menekülés	kaçış	menekülés		N;NOM;SG
+kaçış	szökés	kaçış	szökés		N;NOM;SG
+kaçış	menekülés	kaçış	menekülés		N;NOM;SG
+kaçış	megszökni	kaçış	meg+szök		V;NFIN;ACT
+solomon	salamon	solomon	salamon	PROPN;NOM;SG;3	
+solomon	solomon	solomon	solom	PROPN;NOM;SG;3	
+heyet	felhatalmazás	heyet	felhatalmazás		N;NOM;SG
+heyet	küldöttség	heyet	küldöttség		N;NOM;SG
+heyet	bizottság	heyet	bizottság		N;NOM;SG
+heyet	küldöttségek	heyet	küldöttség		N;NOM;PL
+dresden	dresden	dre	dresden	PROPN;AT+ABL;SG;3	
+vancouver	vancouver	vancouver	vancouver	PROPN;NOM;SG;3	N;NOM;SG
+kawasaki	kawasaki	kawasaki	kawasaki		N;NOM;PL
+eylemleri	műveletek	eylem	művelet	N;ACC;PL;3	N;NOM;PL
+eylemleri	fellépések	eylem	fellépés	N;ACC;PL;3	N;NOM;PL
+eylemleri	akciók	eylem	akció	N;ACC;PL;3	N;NOM;PL
+eylemleri	intézkedések	eylem	intézkedés	N;ACC;PL;3	N;NOM;PL
+eylemleri	cselekvések	eylem	cselekvés	N;ACC;PL;3	N;NOM;PL
+rotterdam	rotterdam	rotter	rotterdam	PROPN;NOM;SG;3	N;NOM;SG
+uganda	uganda	uga	uganda	PROPN;NOM;SG;3	PROPN;NOM;SG
+lópez	lópez	lipez	lópez	PROPN;NOM;SG;3	
+württemberg	württemberg	württemberg	württemberg	PROPN;NOM;SG;3	N;NOM;SG
+karikatür	képregények	karikat	képregény		N;NOM;PL
+karikatür	képregény	karikat	képregény		N;NOM;SG
+karikatür	képregényeket	karikat	képregény		N;ACC;PL
+karikatür	komikus	karikat	komikus		N;NOM;SG
+karikatür	képregény	karikat	képregény		N;NOM;SG
+karikatür	rajzfilm	karikat	rajzfilm		N;NOM;SG
+karikatür	rajzfilm	karikat	rajzfilm		N;NOM;SG
+karikatür	rajzfilmeket	karikat	rajzfilm		N;ACC;PL
+masaüstü	asztal	masaüst	asz		N;NOM;SG
+zirve	csúcstalálkozó	zirve	csúcstalálkozó		N;NOM;SG
+armağan	ajándék	armağan	ajándék		N;NOM;SG
+müfettişliği	felügyelőség	müfettişlik	felügyelőség	N;NOM;SG;3	N;NOM;SG
+gelişmekte	feltörekvő	geliş	feltörekvő	V;PROG;IND;SG;3;POS;FORM;PRS	ADJ;NOM;SG
+gelişmekte	fejlődő	geliş	fejlődő	V;PROG;IND;SG;3;POS;FORM;PRS	ADJ;NOM;SG
+gelişmekte	fejlesztése	geliş	fejlesztés	V;PROG;IND;SG;3;POS;FORM;PRS	N;NOM;SG
+yansıtan	fényvisszaverő	yansı	fényvisszaverő	V;PFV;IND;POS;PRS;V.PTCP;CAUS	N;NOM;SG
+yansıtan	tükröző	yansı	tükröző	V;PFV;IND;POS;PRS;V.PTCP;CAUS	ADJ;NOM;SG
+azaltmak	csökkentése	azal	csökkentés	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+azaltmak	csökkentik	azal	csökkent	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;DEF;IND;PL;3;PRS;FIN;ACT
+azaltmak	csökkenteni	azal	csökkent	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;NFIN;ACT
+azaltmak	csökkentse	azal	csökkent	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;DEF;IND;SG;3;PRS;FIN;ACT
+werder	werder	werder	werder	PROPN;NOM;SG;3	N;NOM;SG
+atlantis	atlantisz	atlantis	atlantisz		N;NOM;SG
+satıldı	eladva	sat	eladva	V;PFV;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+satıldı	eladott	sat	eladott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+satıldı	elkelt	sat	elkelt	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+atölyesi	műhely	atölye	műhely	N;NOM;SG;3	N;NOM;SG
+beslenir	táplálja	besle	táplál	V;IPFV;IND;SG;3;POS;PASS	V;DEF;IND;SG;3;PRS;FIN;ACT
+beslenir	táplálkozik	besle	táplálkozik	V;IPFV;IND;SG;3;POS;PASS	V;INDF;IND;SG;3;PRS;FIN;ACT
+üstte	felül	üst	felül	ADJ;ESS;SG;3	
+üstte	top	üst	top	ADJ;ESS;SG;3	
+üstte	csúcs	üst	csúcs	ADJ;ESS;SG;3	
+üstte	felső	üst	felső	ADJ;ESS;SG;3	
+üstte	legfelső	üst	legfelső	ADJ;ESS;SG;3	
+ihmal	mulasztás	ihmal	mulasztás		N;NOM;SG
+ihmal	elhanyagolt	ihmal	elhanyagolt		V;INDF;IND;SG;3;PST;FIN;ACT
+ihmal	elhanyagolja	ihmal	elhanyagol		V;DEF;IND;SG;3;PRS;FIN;ACT
+ihmal	gondatlanság	ihmal	gondatlanság		N;NOM;SG
+geometri	geometria	geometri	geometria		N;NOM;SG
+chiba	chiba	chiba	chiba	PROPN;NOM;SG;3	
+görkemli	fenséges	görkemli	fenséges		ADJ;NOM;SG
+görkemli	dicsőséges	görkemli	dicsőséges		ADJ;NOM;SG
+ekledi	felvéve	ekle	félvev	V;PFV;IND;SG;3;POS;PST	
+seyir	navigációs	seyir	navigációs		ADJ;NOM;SG
+seyir	navigáció	seyir	navigáció		N;NOM;SG
+rolleri	szerepei	rol	szerep	N;ACC;PL;3	N;NOM;PL
+kaydedildi	rögzített	kaydet	rögzített	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedildi	rögzítve	kaydet	rögzítve	V;PFV;IND;SG;3;POS;PST;PASS	N;NOM;SG
+kaydedildi	regisztrált	kaydet	regisztrált	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedildi	nyilvántartott	kaydet	nyilvántartott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kaydedildi	megmentette	kaydet	megment	V;PFV;IND;SG;3;POS;PST;PASS	V;DEF;IND;SG;3;PST;FIN;ACT
+kaydedildi	mentve	kaydet	mentve	V;PFV;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+kaydedildi	mentett	kaydet	mentett	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+kalanlar	maradék	kalan	maradék	N;NOM;PL;3	
+kalanlar	maradékot	kalan	maradék	N;NOM;PL;3	N;ACC;SG
+ritim	ritmus	ritim	ritmus		N;NOM;SG
+cnn	cnn	cin	cnn		N;NOM;SG
+mount	mount	mount	mount	PROPN;NOM;SG;3	N;NOM;SG
+mount	hegy	mount	hegy	PROPN;NOM;SG;3	N;NOM;SG
+danışman	tanácsadó	danış	tanácsadó		ADJ;NOM;SG
+danışman	tanácsadó	danış	tanácsadó		ADJ;NOM;SG
+danışman	tanácsadó	danış	tanácsadó		ADJ;NOM;SG
+kırgız	kirgiz	kırgız	kirgiz		N;NOM;SG
+sertifika	tanúsítványok	sertifika	tanúsítvány	N;NOM;SG;3	N;NOM;PL
+sertifika	igazolások	sertifika	igazolás	N;NOM;SG;3	N;NOM;PL
+sertifika	bizonyítványok	sertifika	bizonyítvány	N;NOM;SG;3	N;NOM;PL
+sertifika	tanúsítványok	sertifika	tanúsítvány	N;NOM;SG;3	N;NOM;PL
+sertifika	tanúsítványt	sertifika	tanúsítvány	N;NOM;SG;3	N;ACC;SG
+dinar	dinár	dinar	dinár		N;NOM;SG
+dinar	dinár	dinar	dinár		N;NOM;SG
+kirli	kosz	kirli	kosz		N;NOM;SG
+dağıtımı	terjesztés	dağıt	terjesztés	N;NOM;SG;3	N;NOM;SG
+dağıtımı	eloszlás	dağıt	eloszlás	N;NOM;SG;3	N;NOM;SG
+dağıtımı	elosztás	dağıt	elosztás	N;NOM;SG;3	N;NOM;SG
+dağıtımı	forgalmazási	dağıt	forgalmazási	N;NOM;SG;3	ADJ;NOM;SG
+dağıtımı	forgalmazás	dağıt	forgalmazás	N;NOM;SG;3	N;NOM;SG
+deutsche	deutsche	deutsche	deutsche	PROPN;NOM;SG;3	
+foton	fotonok	foton	foton		N;NOM;PL
+foton	foton	foton	fot		N;NOM;SG
+objektif	objektív	objektif	objektív		N;NOM;SG
+objektif	lencse	objektif	lencs		N;NOM;SG
+objektif	objektív	objektif	objektív		N;NOM;SG
+objektif	cél	objektif	cél		N;NOM;SG
+objektif	célkitűzés	objektif	célkitűzés		N;NOM;SG
+tanzanya	tanzánia	tanzan	tanzánia	PROPN;NOM;SG;3	N;NOM;SG
+zaragoza	zaragoza	zaragoz	zaragoza	PROPN;NOM;SG;3	N;NOM;SG
+korur	megvédi	koru	megvédi	V;IPFV;IND;SG;3;POS	V;DEF;IND;SG;3;PRS;FIN;ACT
+korur	védi	koru	védi	V;IPFV;IND;SG;3;POS	V;DEF;IND;SG;3;PRS;FIN;ACT
+korur	véd	koru	véd	V;IPFV;IND;SG;3;POS	V;INDF;IND;SG;3;PRS;FIN;ACT
+illeri	tartományok	il	tartomány	N;ACC;PL;3	N;NOM;PL
+aç	nyitva	aç	nyitva		ADV;V.CVB
+sözcükler	szavakat	sözcük	szó	N;NOM;PL;3	N;ACC;PL
+kayıplar	veszteség	kayıp	veszteség	N;NOM;PL;3	N;NOM;SG
+kayıplar	veszteségeket	kayıp	veszteség	N;NOM;PL;3	N;ACC;PL
+delhi	delhi	delhi	delhi	PROPN;NOM;SG;3	N;NOM;SG
+bağırsak	bél	bağır	bél	V;PFV;PL;1;POS;PRS	N;NOM;SG
+bağırsak	vastagbél	bağır	vastagbél	V;PFV;PL;1;POS;PRS	N;NOM;SG
+bağırsak	bél	bağır	bél	V;PFV;PL;1;POS;PRS	N;NOM;SG
+bağırsak	belek	bağır	ő	V;PFV;PL;1;POS;PRS	N;NOM;SG
+kalacak	marad	kal	marad	V;PFV;IND;SG;3;POS;FUT	V;INDF;IND;SG;3;PRS;FIN;ACT
+jeoloji	geológiai	jeoloji	geológiai		ADJ;NOM;SG
+jeoloji	geológia	jeoloji	geológia		N;NOM;SG
+bilhassa	különösen	bilhassa	különös		ADJ;FRML;SG
+bilhassa	különösen	bilhassa	különös		ADJ;FRML;SG
+gençleri	tinik	genç	tinik	ADJ;ACC;PL;3	N;NOM;PL
+gençleri	tinédzserek	genç	tinédzser	ADJ;ACC;PL;3	N;NOM;PL
+gençleri	tizenéves	genç	tizenéves	ADJ;ACC;PL;3	N;NOM;SG
+rom	rom	rom	rom		N;NOM;SG
+rom	rumot	rom	rum		N;ACC;SG
+rom	rum	rom	rum		N;NOM;SG
+devasa	hatalmas	devasa	hatalmas		ADJ;NOM;SG
+devasa	óriási	devasa	óriási		ADJ;NOM;SG
+devasa	gigantikus	devasa	gigantikus		ADJ;NOM;SG
+devasa	masszív	devasa	masszív		ADJ;NOM;SG
+devasa	hatalmas	devasa	hatalmas		ADJ;NOM;SG
+ghost	szellem	ghost	szellem		N;NOM;SG
+düşüş	csökken	düşüş	csökken		V;INDF;IND;SG;3;PRS;FIN;ACT
+düşüş	csökkenés	düşüş	csökkenés		N;NOM;SG
+düşüş	csökkenés	düşüş	csökkenés		N;NOM;SG
+düşüş	visszaesés	düşüş	visszaesés		N;NOM;SG
+düşüş	esés	düşüş	esés		N;NOM;SG
+düşüş	zuhanás	düşüş	zuhanás		N;NOM;SG
+düşüş	ősszel	düşüş	ősszel		ADV
+vekil	régens	vekil	régens		N;NOM;SG
+vekil	proxy	vekil	proxy		N;NOM;SG
+vekil	megbízott	vekil	meg+bízik		V;INDF;IND;SG;3;PST;FIN;ACT
+kalsiyum	kalcium	kalsiyum	kalcium		N;NOM;SG
+ideoloji	ideológia	ideoloji	ideológia		N;NOM;SG
+önemsiz	jelentéktelen	önemsiz	jelentéktelen	ADJ	
+önemsiz	lényegtelen	önemsiz	lényegtelen	ADJ	
+önemsiz	jelentéktelen	önemsiz	jelentéktelen	ADJ	
+koy	rakd	koy	rakd	V;PFV;IMP;SG;2;POS;PRS	V;DEF;IMP;SG;1;PRS;FIN;ACT
+plaka	rendszám	plaka	rendszám		N;NOM;SG
+plaka	tányér	plaka	tányér		N;NOM;SG
+plaka	lemezek	plaka	lemez		N;NOM;PL
+plaka	tányér	plaka	tányér		N;NOM;SG
+plaka	lemez	plaka	lemez		N;NOM;SG
+plaka	tányért	plaka	tány		N;ACC;SG
+metropolitan	fővárosi	metropolitan	fővárosi		ADJ;NOM;SG
+kapıları	kapuk	kapı	kap	N;ACC;PL;3	N;NOM;PL
+kapıları	gates	kapı	gates	N;ACC;PL;3	
+kapıları	kapu	kapı	kapu	N;ACC;PL;3	N;NOM;SG
+kapıları	ajtó	kapı	ajtó	N;ACC;PL;3	N;NOM;SG
+kapıları	ajtók	kapı	ajtó	N;ACC;PL;3	N;NOM;PL
+slogan	mottója	slogan	mottó		N;NOM;SG
+hero	hős	hero	hős		N;NOM;SG
+şahit	tanúk	şahit	tanúk		N;NOM;PL
+şahit	szemtanúk	şahit	szemtanú		N;NOM;PL
+şahit	szemtanú	şahit	szemtanú		N;NOM;SG
+şahit	tanú	şahit	tanú		N;NOM;SG
+vfl	vfl	vfl	vfl		N;NOM;SG
+tez	szakdolgozat	tez	szakdolgozat		N;NOM;SG
+mevki	állás	mevki	állás		N;NOM;SG
+mevki	pozíció	mevki	pozíció		N;NOM;SG
+mevki	álláspont	mevki	álláspont		N;NOM;SG
+homo	buzi	homo	buzi		N;NOM;SG
+homo	homokos	homo	homokos		N;NOM;SG
+diskografisi	diszkográfia	diskografi	diszkográfia	N;NOM;SG;3	N;NOM;SG
+kullanışlı	kényelmes	kullanışlı	kényelmes		ADJ;NOM;SG
+kullanışlı	praktikus	kullanışlı	praktikus		ADJ;NOM;SG
+keşfedildi	felfedezte	keşfet	felfedez	V;PFV;IND;SG;3;POS;PST;PASS	V;DEF;IND;SG;3;PST;FIN;ACT
+keşfedildi	felfedezett	keşfet	felfedezett	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+pul	bélyeg	pul	bélyeg		N;NOM;SG
+pul	bélyegző	pul	bélyegző		N;NOM;SG
+pul	pecsét	pul	pecsé		N;NOM;SG
+pul	bélyeg	pul	bélyeg		N;NOM;SG
+pul	bélyegző	pul	bélyegző		N;NOM;SG
+pul	bélyegeket	pul	bélyeg		N;ACC;PL
+pul	bélyeget	pul	bélyeget		N;ACC;SG
+pul	mérleg	pul	mérleg		N;NOM;SG
+gözlemevi	obszervatórium	gözlemevi	obszervatórium		N;NOM;SG
+pazartesi	hétfőn	pazartesi	hétfő		N;ON+ESS;SG
+hamlet	hamlet	hamlet	hamlet		N;NOM;SG
+trick	trükk	trick	trükk		N;NOM;SG
+mississippi	mississippi	mississippi	mississippi	N;NOM;SG;3	
+mağarası	barlang	mağara	barlang	N;NOM;SG;3	N;NOM;SG
+mağarası	barlangot	mağara	barlangot	N;NOM;SG;3	N;ACC;SG
+marina	marina	marina	marina	N;DAT;SG;3	
+marina	kikötő	marina	kikötő	N;DAT;SG;3	N;NOM;SG
+spesifik	specifikus	spesifik	specifikus		ADJ;NOM;SG
+bilinç	tudatosság	bilinç	tudatosság		N;NOM;SG
+bilinç	tudat	bilinç	tudat		N;NOM;SG
+bilinç	eszméletét	bilinç	eszmélet		N;ACC;SG
+bilinç	tudata	bilinç	tudat		N;NOM;SG
+ideolojik	ideológiai	ideolojik	ideológiai		ADJ;NOM;SG
+sms	sms	sms	sms		N;NOM;SG
+hendek	árok	hendek	ár		N;NOM;SG
+hendek	árok	hendek	ár		N;NOM;SG
+hendek	várárok	hendek	várár		N;NOM;PL
+eğri	eger	eğri	eger		PROPN;NOM;SG
+eğri	kanyar	eğri	kanyar		N;NOM;SG
+odun	tűzifát	odun	tűzifa		N;ACC;SG
+odun	fát	odun	fát		N;ACC;SG
+rahatsızlık	kellemetlen	rahatsızlık	kellemetlen	N;NOM;SG;3	
+panorama	panorama	panor	panoram	N;NOM;SG;3	
+adlar	neveket	ad	nevék	N;NOM;PL;3	N;ACC;PL
+bira	sör	bira	sör		N;NOM;SG
+bira	sört	bira	sört		N;ACC;SG
+bmw	bmw	bmw	bmw	N;NOM;SG;3	PROPN;NOM;SG
+yurtdışı	nemzetközi	yurtdışı	nemzetközi		ADJ;NOM;SG
+yurtdışı	tengerentúli	yurtdışı	tengerentúli		ADJ;NOM;SG
+yurtdışı	külföldre	yurtdışı	külföld		N;ON+ALL;SG
+denetleme	audit	denetle	audi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ACC;SG
+denetleme	ellenőrzési	denetle	ellenőrzési	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+denetleme	ellenőrzés	denetle	ellenőrzés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+denetleme	vizsgálat	denetle	vizsgálat	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+denetleme	ellenőrzési	denetle	ellenőrzési	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+denetleme	ellenőrzés	denetle	ellenőrzés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+timberlake	timberlake	timberlake	timberlake		N;NOM;SG
+basında	media	bas	media	N;ESS;SG;3	
+basında	média	bas	média	N;ESS;SG;3	N;NOM;SG
+işlev	függvény	işlev	függvény		N;NOM;SG
+işlev	funkció	işlev	funkció		N;NOM;SG
+çevrede	körül	çevre	körül	N;ESS;SG;3	ADP
+çevrede	körbe	çevre	kör	N;ESS;SG;3	ADV
+armut	körte	armut	kör		N;NOM;SG
+armut	körte	armut	kör		N;NOM;SG
+ayağı	gyalog	ayak	gyalog	N;NOM;SG;3	
+ayağı	láb	ayak	láb	N;NOM;SG;3	N;NOM;SG
+mekân	helyszín	mekân	helyszín		N;NOM;SG
+atlantic	atlanti	atlantic	atlanti	PROPN;NOM;SG;3	
+sorumluluğu	felelősség	sorumluluk	felelősség	N;ACC;SG;3	N;NOM;SG
+evlat	fiú	evlat	fiú		N;NOM;SG
+evlat	fiam	evlat	fia		N;NOM;SG
+evlat	fiuk	evlat	fiuk		N;NOM;SG
+string	string	string	string		N;NOM;SG
+gündelik	alkalmi	gündelik	alkalmi		ADJ;NOM;SG
+gündelik	laza	gündelik	laza		ADJ;NOM;SG
+gündelik	hétköznapi	gündelik	hétköznapi		ADJ;NOM;SG
+üretir	generál	üretir	generál	V;IPFV;IND;SG;3;POS;CAUS	V;INDF;IND;SG;3;PRS;FIN;ACT
+üretir	termel	üretir	termel	V;IPFV;IND;SG;3;POS;CAUS	V;INDF;IND;SG;3;PRS;FIN;ACT
+kızılderilileri	indiánok	kızılderili	indián	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+kızılderilileri	indiaiak	kızılderili	indiai	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+basılmış	nyomtatott	basıl	nyomtatott	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+basılmış	nyomott	basıl	nyomott	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+orantılı	arányos	orantılı	arányos		ADJ;NOM;SG
+gurur	büszkeség	gurur	büszkeség		N;NOM;SG
+başlıyor	kezdem	başla	kezdem	V;PROG;IND;SG;3;POS;INFM;PRS	V;DEF;IND;SG;1;PRS;FIN;ACT
+başlıyor	kezdő	başla	kezdő	V;PROG;IND;SG;3;POS;INFM;PRS	
+başlıyor	kezdve	başla	kezdv	V;PROG;IND;SG;3;POS;INFM;PRS	N;ON+ESS;SG
+kesintisiz	zavartalan	kesintisiz	zavartalan	ADJ	
+edmund	edmund	ed	edmund		PROPN;NOM;SG
+restorasyon	helyreállítási	restorasyon	helyreállítási	N;NOM;SG;3	ADJ;NOM;SG
+ziyareti	látogató	ziyaret	látogató	N;ACC;SG;3	ADJ;NOM;SG
+ziyareti	látogatás	ziyaret	látogatás	N;ACC;SG;3	N;NOM;SG
+ziyareti	látogatóban	ziyaret	látogató	N;ACC;SG;3	N;IN+ESS;SG
+delil	bizonyíték	delil	bizonyíték		N;NOM;SG
+delil	bizonyítás	delil	bizonyítás		N;NOM;SG
+delil	bizonyíték	delil	bizonyíték		N;NOM;SG
+delil	bizonyítékok	delil	bizonyítékok		N;NOM;PL
+kentler	kenték	kent	ken	N;NOM;PL;3	V;DEF;IND;PL;3;PST;FIN;ACT
+kentler	városokat	kent	város	N;NOM;PL;3	N;ACC;PL
+kurtarır	megmenti	kurtar	megment	V;IPFV;IND;SG;3;POS	V;DEF;IND;SG;3;PRS;FIN;ACT
+izole	szigetelt	izole	szigetelt		V;INDF;IND;SG;3;PST;FIN;ACT
+izole	elszigeteltség	izole	elszigeteltség		N;NOM;SG
+izole	izolálni	izole	izolál		V;NFIN;ACT
+izole	elkülönített	izole	elkülönít		V;INDF;IND;SG;3;PST;FIN;ACT
+izole	elszigetelt	izole	elszigetelt		V;INDF;IND;SG;3;PST;FIN;ACT
+senatör	szenátor	senatör	szenátor		N;NOM;SG
+varisi	örökös	vari	örökös	N;NOM;SG;3	
+olgun	lejárat	olgun	lejár		N;NOM;SG
+olgun	megérett	olgun	meg+ér		V;INDF;IND;SG;3;PST;FIN;ACT
+olgun	érettebb	olgun	éret		ADJ;NOM;CMPR;SG
+kendimi	magam	kendi	maga	PRO;ACC;SG;1;REFL	
+kabuğu	héj	kabuk	héj	N;NOM;SG;3	N;NOM;SG
+kabuğu	shell	kabuk	shell	N;NOM;SG;3	
+kabuğu	kagyló	kabuk	kagyló	N;NOM;SG;3	
+suzuki	suzuki	suzuki	suzuki		N;NOM;SG
+toplandı	beszedett	topla	beszedett	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	begyűjtött	topla	begyűjtött	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összeszedett	topla	összeszedett	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összegyűjtött	topla	összegyűjtött	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	gyűjtött	topla	gyűjt	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összegyűlt	topla	összegyűlt	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összegyűjtött	topla	összegyűjtött	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összegyűlt	topla	összegyűlt	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+toplandı	összeállított	topla	összeállított	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+fischer	fischer	fischer	fischer	PROPN;NOM;SG;3	
+honduras	honduras	honduras	honduras	PROPN;NOM;SG;3	
+cesaret	bátorság	cesaret	bátorság		N;NOM;SG
+cesaret	bátorság	cesaret	bátorság		N;NOM;SG
+bristol	bristol	bristol	bristol	PROPN;NOM;SG;3	
+endişe	szorongás	endiş	szorongás		N;NOM;SG
+endişe	aggodalom	endiş	aggodalom		N;NOM;SG
+endişe	aggódom	endiş	aggód		V;DEF;IND;SG;1;PRS;FIN;ACT
+endişe	aggódik	endiş	aggódik		V;INDF;IND;SG;3;PRS;FIN;ACT
+endişe	aggódj	endiş	agyód		V;DEF;IND;PL;3;PRS;FIN;ACT
+endişe	aggodalmát	endiş	aggodalom		N;ACC;SG
+endişe	aggodalom	endiş	aggodalom		N;NOM;SG
+sánchez	sánchez	sánchez	sánc	PROPN;NOM;SG;3	
+vicente	vicente	vicen	vicen	PROPN;NOM;SG;3	
+öğle	ebéd	öğle	ebéd		N;NOM;SG
+öğle	délben	öğle	délben		N;IN+ESS;SG
+pistons	pistons	pistons	pistons		N;NOM;SG
+pen	pen	pen	pen		PROPN;NOM;SG
+pen	tollat	pen	tollat		N;ACC;SG
+pen	toll	pen	toll		N;NOM;SG
+durur	megáll	dur	megáll	V;IPFV;IND;SG;3;POS	V;INDF;IND;SG;3;PRS;FIN;ACT
+storm	vihar	stor	vihar		N;NOM;SG
+oyuncak	játékszer	oyuncak	játékszer	N;NOM;SG;3	
+oyuncak	játékok	oyuncak	játék	N;NOM;SG;3	N;NOM;PL
+kaş	szemöldök	kaş	szemöld		N;NOM;SG
+kaş	izmok	kaş	izmok		N;NOM;PL
+kaş	izom	kaş	izom		N;NOM;SG
+kaş	szemöldök	kaş	szemöld		N;NOM;SG
+kaş	szemöldök	kaş	szemöld		N;NOM;SG
+salzburg	salzburg	salzburg	salzburg	PROPN;NOM;SG;3	
+leicester	leicester	leicester	leicester	PROPN;NOM;SG;3	N;NOM;SG
+taşkent	taskent	taşkent	tasken	PROPN;NOM;SG;3	
+won	nyert	won	nyert		V;INDF;IND;SG;3;PST;FIN;ACT
+nepal	nepál	nepal	nepál	PROPN;NOM;SG;3	PROPN;NOM;SG
+nepal	nepáli	nepal	nepáli	PROPN;NOM;SG;3	
+problemler	probléma	problem	probléma	N;NOM;PL;3	N;NOM;SG
+problemler	problémákat	problem	probléma	N;NOM;PL;3	N;ACC;PL
+problemler	problémákkal	problem	probléma	N;NOM;PL;3	N;INS;PL
+mezhep	szekta	mezhep	szekta		N;NOM;SG
+sao	sao	sao	sao	PROPN;NOM;SG;3	
+parantez	zárójelben	parantez	zárójel		N;IN+ESS;SG
+şerit	sáv	şerit	sáv		N;NOM;SG
+şerit	sávot	şerit	sáv		N;ACC;SG
+şerit	szalagot	şerit	szalag		N;ACC;SG
+şerit	szalag	şerit	szalag		N;NOM;SG
+şerit	sáv	şerit	sáv		N;NOM;SG
+şerit	szalag	şerit	szalag		N;NOM;SG
+zevk	gyönyör	zevk	gyönyör		N;NOM;SG
+zevk	élvezet	zevk	élvezet		N;NOM;SG
+zevk	örülök	zevk	örül		V;DEF;IND;SG;1;PRS;FIN;ACT
+zevk	élvezet	zevk	élvezet		N;NOM;SG
+bird	madár	bird	madár		N;NOM;SG
+atıp	szónoklat	at	szónoklat	V;PFV;IND;POS;PRS;V.CVB	N;NOM;SG
+açılışı	megnyitás	açılış	megnyitás	N;NOM;SG;3	N;NOM;SG
+açılışı	nyitás	açılış	nyitás	N;NOM;SG;3	N;NOM;SG
+açılışı	megnyitó	açılış	megnyitó	N;NOM;SG;3	N;NOM;SG
+açılışı	nyitó	açılış	nyitó	N;NOM;SG;3	
+açılışı	nyílás	açılış	nyílás	N;NOM;SG;3	N;NOM;SG
+hakimiyet	dominanciáját	hakimiyet	dominancia	N;DAT;SG;3	N;ACC;SG
+hakimiyet	dominium	hakimiyet	dominium	N;DAT;SG;3	N;NOM;SG
+waters	vizei	waters	viz		N;NOM;PL
+waters	vizek	waters	víz		N;NOM;PL
+atın	gipsz	at	gipsz		N;NOM;SG
+atın	dob	at	dob		V;INDF;IND;SG;3;PRS;FIN;ACT
+atın	dobd	at	dobd		V;DEF;IMP;SG;2;PRS;FIN;ACT
+atın	dobás	at	dobás		N;NOM;SG
+kopyası	másolat	kopya	másolat		N;NOM;SG
+kopyası	másolatot	kopya	másolat		N;ACC;SG
+katsayısı	együttható	katsayı	együttható	N;NOM;SG;3	ADJ;NOM;SG
+sirius	sirius	sirius	sirius		N;NOM;SG
+bangladeş	banglades	bangladeş	banglades	N;NOM;SG;3	
+nakliye	rakomány	nakil	rakomány		N;NOM;SG
+nakliye	hajózás	nakil	hajózás		N;NOM;SG
+nakliye	szállítás	nakil	szállítás		N;NOM;SG
+nakliye	hajózási	nakil	hajózási		ADJ;NOM;SG
+nakliye	közlekedés	nakil	közlekedés		N;NOM;SG
+nakliye	fuvarozás	nakil	fuvarozás		N;NOM;SG
+nakliye	szállítás	nakil	szállítás		N;NOM;SG
+nakliye	közlekedési	nakil	közlekedési		ADJ;NOM;SG
+sektör	ágazat	sektör	ágazat		N;NOM;SG
+sektör	szektor	sektör	szektor		N;NOM;SG
+sektör	ágazat	sektör	ágazat		N;NOM;SG
+sektör	iparág	sektör	iparág		N;NOM;SG
+sektör	ipar	sektör	ipar		N;NOM;SG
+arabası	szekér	araba	szekér	N;NOM;SG;3	
+arabası	kosár	araba	kosár	N;NOM;SG;3	
+arabası	kocsit	araba	kocsi	N;NOM;SG;3	N;ACC;SG
+büyüklük	nagyság	büyüklük	nagyság	N;NOM;SG;3	
+büyüklük	nagyság	büyüklük	nagyság	N;NOM;SG;3	
+kıyamet	végítélet	kıyamet	végítélet		N;NOM;SG
+kıyamet	apokalipszis	kıyamet	apokalipszis		N;NOM;SG
+kepler	kepler	kep	kepler	N;NOM;PL;3	N;NOM;SG
+yem	takarmány	ye	takarmány		N;NOM;SG
+yem	etesd	ye	etesd		V;DEF;IMP;SG;1;PRS;FIN;ACT
+yem	takarmányok	ye	takarmány		N;NOM;PL
+yem	csali	ye	csali		N;NOM;SG
+yem	takarmány	ye	takarmány		N;NOM;SG
+yem	csali	ye	csali		N;NOM;SG
+yem	takarmány	ye	takarmány		N;NOM;SG
+terörist	terrorista	terörist	terrorista		N;NOM;SG
+terörist	terroristák	terörist	terrorista		N;NOM;PL
+terörist	terroristák	terörist	terrorista		N;NOM;PL
+ahlaki	morális	ahlaki	morális		ADJ;NOM;SG
+ahlaki	erkölcs	ahlaki	erkölcs		N;NOM;SG
+tabur	zászlóalj	tabur	zászlóalj		N;NOM;SG
+kategorileri	kategória	kategori	kategória	N;ACC;PL;3	
+kategorileri	kategóriák	kategori	kategória	N;ACC;PL;3	N;NOM;PL
+kostüm	jelmezt	kostüm	jelmez		N;ACC;SG
+kostüm	jelmez	kostüm	jelmez		N;NOM;SG
+kostüm	jelmezes	kostüm	jelmezes		N;NOM;SG
+kostüm	jelmez	kostüm	jelmez		N;NOM;SG
+kostüm	jelmezek	kostüm	jelem		N;NOM;PL
+tavır	magatartás	tavır	magatartás		N;NOM;SG
+tavır	hozzáállás	tavır	hozzáállás		N;NOM;SG
+anlık	pillanatnyi	anlık	pillanatnyi		ADJ;NOM;SG
+anlık	pillanatnyi	anlık	pillanatnyi		ADJ;NOM;SG
+mode	mód	mode	mód		N;NOM;SG
+mode	üzemmód	mode	üzemmód		N;NOM;SG
+gür	bozontos	gür	bozontos		N;NOM;SG
+buyuk	nagyok	buyuk	nagy		N;NOM;PL
+buyuk	nagy	buyuk	nagy		ADJ;NOM;SG
+oturum	ülés	oturum	ülés		N;NOM;SG
+arkası	mögötte	arka	mögöt	N;NOM;SG;3	
+arkası	mögött	arka	mögött	N;NOM;SG;3	ADP
+harper	harper	harper	harper		PROPN;NOM;SG
+tamamıyla	teljesen	tamam	teljes	ADJ;INS;SG;3	ADJ;FRML;SG
+tamamıyla	teljesen	tamam	teljes	ADJ;INS;SG;3	ADJ;FRML;SG
+teatro	teatro	teatro	teatro	PROPN;NOM;SG;3	
+yaratıcısı	alkotó	yaratıcı	alkotó	N;NOM;SG;3	
+yaratıcısı	teremtő	yaratıcı	teremtő	N;NOM;SG;3	
+maiden	hajadon	maiden	hajad		N;NOM;SG
+maiden	leány	maiden	leány		N;NOM;SG
+maiden	leánykori	maiden	leánykori		N;NOM;SG
+şikago	chicagóban	şikago	chicagó		N;IN+ESS;SG
+şikago	chicagói	şikago	chicagó		N;NOM;SG
+arşivlenmiş	archivált	arşivle	archivált	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+alba	alba	alba	alba	PROPN;NOM;SG;3	
+aletleri	eszközök	alet	eszköz	N;ACC;PL;3	N;NOM;PL
+aletleri	műszerek	alet	műszer	N;ACC;PL;3	N;NOM;PL
+louisiana	louisiana	loui	louisiana	PROPN;NOM;SG;3	
+istekleri	kérelmek	istek	kérelem	N;ACC;PL;3	N;NOM;PL
+istekleri	kéri	istek	kéri	N;ACC;PL;3	V;DEF;IND;SG;3;PRS;FIN;ACT
+istekleri	kérések	istek	kérés	N;ACC;PL;3	N;NOM;PL
+cümleler	kifejezéseket	cümle	kifejezés	N;NOM;PL;3	N;ACC;PL
+cümleler	mondat	cümle	mondat	N;NOM;PL;3	N;NOM;SG
+döngü	galéria	döngü	galéria		N;NOM;SG
+döngü	hurok	döngü	hur		N;NOM;SG
+döngü	ciklus	döngü	ciklus		N;NOM;SG
+döngü	ciklusban	döngü	ciklus		N;IN+ESS;SG
+uçaklar	légijármű	uçak	légijármű	N;NOM;PL;3	N;NOM;SG
+uçaklar	repülőgép	uçak	repülőgép	N;NOM;PL;3	N;NOM;SG
+uçaklar	repülőket	uçak	repülő	N;NOM;PL;3	N;ACC;PL
+atılmış	dobták	at	dob	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;DEF;IND;PL;3;PST;FIN;ACT
+atılmış	dobott	at	dob	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+atılmış	dobta	at	dob	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;DEF;IND;SG;3;PST;FIN;ACT
+vurgu	hangsúly	vurgu	hangsúly		N;NOM;SG
+vurgu	hangsúlyt	vurgu	hangsúly		N;ACC;SG
+odaları	helyiségek	oda	helyiség	N;ACC;PL;3	N;NOM;PL
+odaları	szoba	oda	szoba	N;ACC;PL;3	N;NOM;SG
+odaları	szobákban	oda	szoba	N;ACC;PL;3	N;IN+ESS;PL
+odaları	szobák	oda	szoba	N;ACC;PL;3	N;NOM;PL
+sergei	sergei	sergei	sergei		N;NOM;SG
+tekne	csónak	tekne	csó		N;NOM;SG
+tekne	hajó	tekne	hajó		N;NOM;SG
+sıralı	szekvenciális	sıralı	szekvenciális		N;NOM;SG
+sıralı	szekvencia	sıralı	szekvencia		N;NOM;SG
+sıralı	sorrend	sıralı	sorrend		N;NOM;SG
+komşuları	szomszédok	komşu	szomszéd	ADJ;NOM;PL;3	N;NOM;PL
+komşuları	szomszédokkal	komşu	szomszéd	ADJ;NOM;PL;3	N;INS;PL
+komşuları	szomszédok	komşu	szomszéd	ADJ;NOM;PL;3	N;NOM;PL
+gezgin	utazó	gezgin	utazó	N;NOM;SG;3	
+gezgin	utazó	gezgin	utazó	N;NOM;SG;3	
+gezgin	utazók	gezgin	utazó	N;NOM;SG;3	N;NOM;PL
+gezgin	vándor	gezgin	vándor	N;NOM;SG;3	
+tuzlu	sós	tuzlu	sós		N;NOM;SG
+tuzlu	sózva	tuzlu	sózva		ADV;V.CVB
+tuzlu	sós	tuzlu	sós		N;NOM;SG
+adayları	jelöltek	aday	jelöl	N;NOM;PL;3	N;NOM;PL
+adayları	jelöltek	aday	jelöl	N;NOM;PL;3	N;NOM;PL
+adayları	jelentkezők	aday	jelentkező	N;NOM;PL;3	N;NOM;PL
+adayları	pályázók	aday	pályázó	N;NOM;PL;3	N;NOM;PL
+oğul	fiam	oğul	fia		N;NOM;SG
+oğul	fiuk	oğul	fiuk		N;NOM;SG
+bilgisayarlar	számítógép	bilgisayar	számítógép	N;NOM;PL;3	N;NOM;SG
+nine	nagyi	nine	nagyi		N;NOM;SG
+nine	nagyi	nine	nagyi		N;NOM;SG
+sınırlar	határokat	sınır	határ	N;NOM;PL;3	N;ACC;PL
+sınırlar	határokon	sınır	határ	N;NOM;PL;3	N;ON+ESS;PL
+sınırlar	határokon	sınır	határ	N;NOM;PL;3	N;ON+ESS;PL
+ifadeleri	kimutatások	ifade	ki+mutatás	N;ACC;PL;3	N;NOM;PL
+ifadeleri	állítások	ifade	állítás	N;ACC;PL;3	N;NOM;PL
+ifadeleri	nyilatkozatok	ifade	nyilatkozat	N;ACC;PL;3	N;NOM;PL
+kolonisi	kolónia	koloni	kolónia	N;ACC;SG;3	N;NOM;SG
+kolonisi	telep	koloni	telep	N;ACC;SG;3	N;NOM;SG
+zeka	értelem	zeka	értel		N;NOM;SG
+zeka	hírszerzés	zeka	hírszerzés		N;NOM;SG
+zeka	intelligencia	zeka	intelligencia		N;NOM;SG
+yıldönümü	évfordulók	yıldönüm	évforduló	N;ACC;SG;3	N;NOM;PL
+yıldönümü	évforduló	yıldönüm	évforduló	N;ACC;SG;3	N;NOM;SG
+yıldönümü	évfordulója	yıldönüm	évforduló	N;ACC;SG;3	N;NOM;SG
+yıldönümü	évfordulót	yıldönüm	évforduló	N;ACC;SG;3	N;ACC;SG
+girişimleri	kezdeményezések	girişim	kezdeményezés	N;ACC;PL;3	N;NOM;PL
+girişimleri	kísérletek	girişim	kísérlet	N;ACC;PL;3	N;NOM;PL
+buldum	megtalált	bul	meg+talál	V;PFV;IND;SG;1;POS;PST	V;INDF;IND;SG;3;PST;FIN;ACT
+buldum	talált	bul	talál	V;PFV;IND;SG;1;POS;PST	V;INDF;IND;SG;3;PST;FIN;ACT
+dalgalar	hullám	dalga	hullám	N;NOM;PL;3	N;NOM;SG
+nantes	nantes	nantes	nantes	PROPN;NOM;SG;3	N;NOM;SG
+musevi	zsidók	musevi	zsidó		N;NOM;PL
+flüt	fuvola	flüt	fuvola		N;NOM;SG
+salı	kedden	salı	kedd		N;ON+ESS;SG
+bölük	század	bölük	század		N;NOM;SG
+bölük	társaság	bölük	társaság		N;NOM;SG
+bölük	vállalat	bölük	vállalat		N;NOM;SG
+bölük	cég	bölük	cég		N;NOM;SG
+bölük	század	bölük	század		N;NOM;SG
+bölük	brigád	bölük	brigád		N;NOM;SG
+bölük	osztag	bölük	osztag		N;NOM;SG
+bismarck	bismarck	bismarck	bismarck	PROPN;NOM;SG;3	
+tohum	mag	tohum	mag	N;NOM;SG;3	
+tohum	magvak	tohum	magv	N;NOM;SG;3	N;NOM;PL
+tohum	mag	tohum	mag	N;NOM;SG;3	
+tohum	magok	tohum	magok	N;NOM;SG;3	N;NOM;PL
+mutluluk	boldogságot	mutluluk	boldogság	N;NOM;SG;3	N;ACC;SG
+tayfun	tájfun	tayfun	tájfun		N;NOM;SG
+molekül	molekulák	molekül	molekula	N;NOM;SG;3	N;NOM;PL
+madencilik	bányászati	madencilik	bányászati	N;NOM;SG;3	ADJ;NOM;SG
+madencilik	bányász	madencilik	bányász	N;NOM;SG;3	
+madencilik	bányász	madencilik	bányász	N;NOM;SG;3	
+papaz	lelkész	papaz	lelkész		N;NOM;SG
+papaz	tiszteletes	papaz	tiszteletes		N;NOM;SG
+papaz	pap	papaz	pap		N;NOM;SG
+papaz	lelkész	papaz	lelkész		N;NOM;SG
+con	átverés	con	átverés	INTJ	N;NOM;SG
+con	con	con	con	INTJ	
+queens	queens	queens	queens	PROPN;NOM;SG;3	PROPN;NOM;SG
+yayıldı	terjed	yay	terjed	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PRS;FIN;ACT
+terminal	terminál	terminal	terminál		N;NOM;SG
+terminal	terminálok	terminal	terminál		N;NOM;PL
+bilişsel	kognitív	bilişsel	kognitív		N;NOM;SG
+yanma	égésű	yan	égésű		N;NOM;SG
+yanma	égés	yan	égés		N;NOM;SG
+diger	más	diger	más		PRO;NOM;SG;3
+diger	másoknak	diger	más		PRO;DAT;PL;3
+fiil	ige	fiil	ige		N;NOM;SG
+fiil	igét	fiil	igét		N;ACC;SG
+voldemort	voldemort	voldemort	voldemort	N;NOM;SG;3	
+sakatlık	kár	sakatlık	kár	N;NOM;SG;3	
+ima	ima	ima	ima		N;NOM;SG
+owen	owen	owen	owen	PROPN;NOM;SG;3	
+yayılması	terjed	yay	terjed	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;INDF;IND;SG;3;PRS;FIN;ACT
+magazin	magazin	magazin	magazin		N;NOM;SG
+magazin	tár	magazin	tár		N;NOM;SG
+magazin	újság	magazin	újság		N;NOM;SG
+magazin	magazinok	magazin	magazik		N;NOM;PL
+magazin	magazinokat	magazin	magazin		N;ACC;PL
+tüketim	fogyasztása	tüket	fogyasztás		N;NOM;SG
+tüketim	fogyasztás	tüket	fogyasztás		N;NOM;SG
+tüketim	fogyasztásra	tüket	fogyasztás		N;ON+ALL;SG
+tüketim	felhasználás	tüket	felhasználás		N;NOM;SG
+frankenstein	frankenstein	frankens	frankenstein	N;NOM;SG;3	N;NOM;PL
+fener	lámpás	fener	lámpás	N;NOM;SG;3	
+saraybosna	szarajevó	saraybo	szarajevó	PROPN;NOM;SG;3	N;NOM;SG
+değerlendirilir	értékelt	değerlen	értékel	V;IPFV;IND;SG;3;POS;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+azalma	csökkentést	azal	csökkentés		N;ACC;SG
+azalma	csökkentése	azal	csökkentés		N;NOM;SG
+azalma	csökkenés	azal	csökkenés		N;NOM;SG
+azalma	csökkentés	azal	csökkentés		N;NOM;SG
+azalma	csökken	azal	csökken		V;INDF;IND;SG;3;PRS;FIN;ACT
+azalma	csökkenés	azal	csökkenés		N;NOM;SG
+patent	szabadalmak	patent	szabadalom	N;NOM;SG;3	N;NOM;PL
+oya	szavazatok	oya	szavazat		N;NOM;PL
+gauss	gauss	gauss	gauss		N;NOM;SG
+lori	lóri	None	lóri		N;NOM;SG
+basılı	nyomtatott	basılı	nyomtatott		V;INDF;IND;SG;3;PST;FIN;ACT
+basılı	nyomott	basılı	nyomott		V;INDF;IND;SG;3;PST;FIN;ACT
+jam	lekvár	jam	lekvár		N;NOM;SG
+düzenle	edit	düzen	edit	N;INS;SG;3	N;NOM;SG
+düzenle	módosítás	düzen	módosítás	N;INS;SG;3	N;NOM;SG
+düzenle	szerkesztés	düzen	szerkesztés	N;INS;SG;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+düzenle	szerkesztése	düzen	szerkesztés	N;INS;SG;3	N;NOM;SG
+düzenle	módosítható	düzen	módosítható	N;INS;SG;3	ADJ;NOM;SG
+düzenle	módosítani	düzen	módosít	N;INS;SG;3	V;NFIN;ACT
+düzenle	módosítás	düzen	módosítás	N;INS;SG;3	N;NOM;SG
+dağıstan	dagesztán	dağıs	dageszta		N;NOM;SG
+mantıksal	logikai	mantıksal	logikai	ADJ	N;NOM;SG
+mantıksal	logikus	mantıksal	logikus	ADJ	
+mantıksal	logika	mantıksal	logika	ADJ	N;NOM;SG
+mantıksal	logikai	mantıksal	logikai	ADJ	N;NOM;SG
+atomik	atom	atomik	atom	ADJ	N;NOM;SG
+tuzla	tuzla	tuz	tuzla		PROPN;NOM;SG
+bölünmüş	osztva	böl	osztva	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	ADV;V.CVB
+bölünmüş	megosztott	böl	megosztott	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+bölünmüş	megosztva	böl	megosztva	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	ADV;V.CVB
+bölünmüş	osztott	böl	osztott	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+crown	koronát	crown	korona		N;ACC;SG
+crown	korona	crown	korona		N;NOM;SG
+mineral	ásványi	mineral	ásványi		N;NOM;SG
+mineral	ásványok	mineral	ásvány		N;NOM;PL
+ortaklaşa	közösen	ortaklaşa	közös		ADJ;FRML;SG
+eşdeğer	egyenértékű	eşdeğer	egyenértékű		ADJ;NOM;SG
+eşdeğer	megfelelője	eşdeğer	megfelelő		N;NOM;SG
+tuğla	tégla	tuğ	tégla		N;NOM;SG
+tuğla	tégla	tuğ	tégla		N;NOM;SG
+brandenburg	brandenburg	brandenburg	brandenburg	PROPN;NOM;SG;3	
+milton	milton	milton	milton	PROPN;NOM;SG;3	
+kap	tároló	kap	tároló		ADJ;NOM;SG
+kap	tartály	kap	tartály		N;NOM;SG
+kap	konténer	kap	konténer		N;NOM;SG
+lois	lois	lois	lois		N;NOM;SG
+saçma	nevetséges	saç	nevetséges		ADJ;NOM;SG
+tate	tate	tate	tate		N;NOM;SG
+bakkal	fűszeres	bakkal	fűszeres		N;NOM;SG
+bakkal	zöldséges	bakkal	zöldséges		ADJ;NOM;SG
+idrar	vizeletben	idrar	vizelet	N;NOM;SG;3	N;IN+ESS;SG
+finaller	döntő	final	döntő	N;NOM;PL;3	ADJ;NOM;SG
+maliyet	költségek	maliyet	költség	N;NOM;SG;3	N;NOM;PL
+maliyet	költségek	maliyet	költség	N;NOM;SG;3	N;NOM;PL
+muhasebe	számviteli	muhasebe	számviteli		ADJ;NOM;SG
+muhasebe	könyvelés	muhasebe	könyvelés		N;NOM;SG
+muhasebe	elszámolás	muhasebe	elszámolás		N;NOM;SG
+muhasebe	könyvelő	muhasebe	könyvelő		N;NOM;SG
+paylaştı	közös	paylaş	közös	V;PFV;IND;SG;3;POS;PST	
+paylaştı	megosztva	paylaş	megosztva	V;PFV;IND;SG;3;POS;PST	ADV;V.CVB
+leopold	leopold	leopold	leopold	PROPN;NOM;SG;3	
+eleştirmeni	kritikus	eleştir	kritikus	V;PFV;ACC;IND;POS;PRS;V.MSDR	
+mektuplar	leveleket	mektup	levél	N;NOM;PL;3	N;ACC;PL
+sindirim	emésztési	sindir	emésztési		N;NOM;SG
+sindirim	emésztési	sindir	emésztési		N;NOM;SG
+sindirim	emésztőrendszeri	sindir	emésztőrendszeri		N;NOM;SG
+motorlar	motors	motor	motors	N;NOM;PL;3	N;NOM;SG
+motorlar	hajtómű	motor	hajtómű	N;NOM;PL;3	N;NOM;SG
+pancar	cékla	pancar	cékla		N;NOM;SG
+pancar	répa	pancar	répa		N;NOM;SG
+pancar	cukorrépa	pancar	cukorrépa		N;NOM;SG
+pancar	cékla	pancar	cékla		N;NOM;SG
+tacikistan	tádzsikisztán	tacikistan	tádzsikisztán	PROPN;NOM;SG;3	N;NOM;SG
+sacramento	sacramento	sacramento	sacramento	PROPN;NOM;SG;3	
+büyükler	vének	büyük	vén	ADJ;NOM;PL;3	N;NOM;PL
+büyükler	felnőtt	büyük	felnőtt	ADJ;NOM;PL;3	
+büyükler	felnőtteknek	büyük	felnőtt	ADJ;NOM;PL;3	N;DAT;PL
+büyükler	felnőttek	büyük	felnőt	ADJ;NOM;PL;3	N;NOM;PL
+dolgu	töltelék	dolgu	töltelék		N;NOM;SG
+solar	napenergia	solar	napenergia		N;NOM;SG
+aydınlatma	megvilágítás	aydınlat	megvilágítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+aydınlatma	megvilágosodás	aydınlat	megvilágosodás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+aydınlatma	világító	aydınlat	világító	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;SG
+aydınlatma	világítás	aydınlat	világítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+aydınlatma	villámlás	aydınlat	villámlás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+atık	pazarlás	atık	pazarlás		N;NOM;SG
+atık	hulladék	atık	hulladék		N;NOM;SG
+atık	hulladékok	atık	hulladék		N;NOM;PL
+atık	szennyvíz	atık	szennyvíz		N;NOM;SG
+taşınır	mozog	taşı	mozog	V;IPFV;IND;SG;3;POS;PASS	V;INDF;IND;SG;3;PRS;FIN;ACT
+seth	seth	seth	seth		PROPN;NOM;SG
+caroline	caroline	carol	caroline	N;DAT;SG;3	
+unix	unix	unix	unix		N;NOM;SG
+manço	manco	manço	manco	PROPN;NOM;SG;3	
+boşnak	bosznia	boşnak	bosznia		N;NOM;SG
+boşnak	boszniai	boşnak	boszniai		ADJ;NOM;SG
+temsili	képviselet	temsili	képviselet		N;NOM;SG
+temsili	képviselete	temsili	képviselet		N;NOM;SG
+temsili	képviselni	temsili	képvisel		V;NFIN;ACT
+temsili	képviseletében	temsili	képviselet		N;IN+ESS;SG
+telaffuz	kiejtés	telaffuz	kiejtés	N;NOM;SG;3	
+telaffuz	kiejteni	telaffuz	ki+ejt	N;NOM;SG;3	V;NFIN;ACT
+kaplama	bevonat	kapla	bevonat		N;NOM;SG
+kaplama	furnér	kapla	furnér		N;NOM;SG
+yasalar	törvényeket	yasa	törvény	N;NOM;PL;3	N;ACC;PL
+standartları	standardok	standart	standard	ADJ;NOM;PL;3	N;NOM;PL
+standartları	előírások	standart	előírás	ADJ;NOM;PL;3	N;NOM;PL
+standartları	szabványok	standart	szabvány	ADJ;NOM;PL;3	N;NOM;PL
+eleman	elemet	eleman	elem		N;ACC;SG
+eleman	elem	eleman	elem		N;NOM;SG
+dün	tegnapi	dün	tegnapi	N;NOM;SG;3	
+dün	tegnap	dün	tegnap	N;NOM;SG;3	
+tanıttı	bevezetett	tanı	bevezetett	V;PFV;IND;SG;3;POS;PST;CAUS	V;INDF;IND;SG;3;PST;FIN;ACT
+tanıttı	bemutatott	tanı	bemutatott	V;PFV;IND;SG;3;POS;PST;CAUS	V;INDF;IND;SG;3;PST;FIN;ACT
+vaftiz	keresztelő	vaftiz	keresztelő		N;NOM;SG
+vaftiz	keresztelő	vaftiz	keresztelő		N;NOM;SG
+gelecekteki	jövőbeli	gel	jövőbeli	V;PFV;IND;SG;3;POS;FUT	ADJ;NOM;SG
+gelecekteki	jövő	gel	jövő	V;PFV;IND;SG;3;POS;FUT	ADJ;NOM;SG
+telli	string	telli	string		N;NOM;SG
+benzin	benzol	benz	benzol		N;NOM;SG
+benzin	benzin	benz	benzin		N;NOM;SG
+benzin	benzin	benz	benzin		N;NOM;SG
+benzin	gázolaj	benz	gázolaj		N;NOM;SG
+benzin	benzin	benz	benzin		N;NOM;SG
+benzin	gáz	benz	gáz		N;NOM;SG
+benzin	tüzelőanyag	benz	tüzelőanyag		N;NOM;SG
+benzin	üzemanyag	benz	üzemanyag		N;NOM;SG
+uzunlukta	hossza	uzunluk	hosszú	N;ESS;SG;3	N;NOM;SG
+uzunlukta	hossz	uzunluk	hossz	N;ESS;SG;3	
+uzunlukta	hosszúság	uzunluk	hosszúság	N;ESS;SG;3	N;NOM;SG
+açıklık	elszámolási	açıklık	elszámolási	N;NOM;SG;3	ADJ;NOM;SG
+açıklık	egyértelműség	açıklık	egyértelműség	N;NOM;SG;3	
+bağımsızlığı	függetlenség	bağımsızlık	függetlenség	N;ACC;SG;3	N;NOM;SG
+hunt	vadászat	hunt	vadászat		N;NOM;SG
+hunt	vadászatot	hunt	vadászat		N;ACC;SG
+bastia	bastia	bastia	bastia	PROPN;NOM;SG;3	PROPN;NOM;SG
+niçin	miért	niçin	miért		ADV
+nagoya	nagoya	nago	nagoy	PROPN;NOM;SG;3	
+rodríguez	rodríguez	rodríguez	rodríguez	PROPN;NOM;SG;3	N;NOM;SG
+ulaşılabilir	elérhető	ulaş	elérhető	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;SG
+ulaşılabilir	hozzáférhető	ulaş	hozzáférhető	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;SG
+ulaşılabilir	megközelíthető	ulaş	megközelíthető	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;SG
+ulaşılabilir	érhető	ulaş	érhető	V;IPFV;POT;SG;3;POS;PASS	V;INDF;POT;SG;3;PRS;FIN;ACT
+zorluk	nehézségek	zorluk	nehézség	N;NOM;SG;3	N;NOM;PL
+zorluk	nehézséget	zorluk	nehézség	N;NOM;SG;3	N;ACC;SG
+zorluk	nehézségekkel	zorluk	nehézség	N;NOM;SG;3	N;INS;PL
+zorluk	nehézségek	zorluk	nehézség	N;NOM;SG;3	N;NOM;PL
+zorluk	nehézségei	zorluk	nehézség	N;NOM;SG;3	N;NOM;PL
+wells	wells	wells	wells	PROPN;NOM;SG;3	
+gömülü	eltemetve	göm	eltemetve		N;NOM;SG
+gömülü	beágyazott	göm	be+ágyaz		N;NOM;SG
+simgeler	szimbólum	simge	szimbólum	N;NOM;PL;3	N;IN+ABL;SG
+spencer	spencer	spencer	spencer	PROPN;NOM;SG;3	
+düşünceler	gondolat	düşünce	gondolat	N;NOM;PL;3	N;NOM;SG
+saatler	órákban	saat	óra	N;NOM;PL;3	N;IN+ESS;PL
+saatler	óra	saat	óra	N;NOM;PL;3	N;NOM;SG
+foto	fényképek	foto	fénykép		N;NOM;PL
+foto	kép	foto	kép		N;NOM;SG
+foto	fénykép	foto	fénykép		N;NOM;SG
+foto	fotó	foto	fotó		N;NOM;SG
+kabuk	héj	kabuk	héj		N;NOM;SG
+kabuk	kagylókat	kabuk	kagyló		N;ACC;PL
+kabuk	kagylók	kabuk	kagyló		N;NOM;PL
+stalingrad	sztálingrád	stalingrad	sztálingrád		N;NOM;SG
+kutlu	áldott	kutlu	áldott		V;INDF;IND;SG;3;PST;FIN;ACT
+marş	himnuszt	marş	himnusz		N;ACC;SG
+marş	himnusz	marş	himnusz		N;NOM;SG
+marş	március	marş	március		N;NOM;SG
+marş	márciusi	marş	márciusi		ADJ;NOM;SG
+gömüldü	eltemetve	göm	eltemetve	V;PFV;IND;SG;3;POS;PST;PASS	N;NOM;SG
+joker	joker	joker	joker		N;NOM;SG
+siena	siena	sinna	siena	PROPN;NOM;SG;3	
+melez	hibridek	melez	hibrid		N;NOM;PL
+yeryüzü	föld	yeryüzü	föld		N;NOM;SG
+jpeg	jpeg	jpeg	jpeg		N;NOM;SG
+bağlılık	hűség	bağlılık	hűség	N;NOM;SG;3	
+sınırlıdır	korlátolt	sınırlı	korlátolt		V;INDF;IND;SG;3;PST;FIN;ACT
+işsizlik	munkanélküli	işsizlik	munkanélküli	N;NOM;SG;3	
+ihtiyaçları	kell	ihtiyaç	kell	N;NOM;PL;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+ihtiyaçları	szükséglet	ihtiyaç	szükséglet	N;NOM;PL;3	N;NOM;SG
+ihtiyaçları	szükségletek	ihtiyaç	szükséglet	N;NOM;PL;3	N;NOM;PL
+fiyatı	árak	fiyat	ár	N;ACC;SG;3	N;NOM;PL
+fiyatı	ár	fiyat	ár	N;ACC;SG;3	
+fiyatı	ára	fiyat	ár	N;ACC;SG;3	N;NOM;SG
+ekimi	transzplantáció	ekim	transzplantáció	N;NOM;SG;3	N;NOM;SG
+ekimi	átültetés	ekim	átültetés	N;NOM;SG;3	N;NOM;SG
+kombine	együttesen	kombine	együttes		ADJ;FRML;SG
+kombine	kombinált	kombine	kombinált		V;INDF;IND;SG;3;PST;FIN;ACT
+kombine	kombináció	kombine	kombináció		N;NOM;SG
+eğitimci	oktató	eğitimci	oktató		N;NOM;SG
+led	vezetett	i	vezetett		V;INDF;IND;SG;3;PST;FIN;ACT
+led	led	i	led		N;NOM;SG
+çocukluğu	gyermekkori	çocukluk	gyermekkori	N;NOM;SG;3	
+çocukluğu	gyerekkori	çocukluk	gyerekkori	N;NOM;SG;3	ADJ;NOM;SG
+gerçi	habár	gerçi	habár		CONJ
+gerçi	bár	gerçi	bár		CONJ
+gerçi	habár	gerçi	habár		CONJ
+gerçi	bár	gerçi	bár		CONJ
+belirtildi	megadott	belir	megadott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+belirtildi	meghatározott	belir	meghatározott	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+belirtildi	megadva	belir	megadva	V;PFV;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+lorentz	lorentz	lorentz	lorentz	N;NOM;SG;3	
+uzlaşma	megbékélés	uzlaş	megbékélés	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+uzlaşma	egyeztetés	uzlaş	egyeztetés	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+uzlaşma	egyeztetés	uzlaş	egyeztetés	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+uzlaşma	egyeztető	uzlaş	egyeztető	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+uzlaşma	egyetértés	uzlaş	egyetértés	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+uzlaşma	konszenzus	uzlaş	konszenzus	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+uzlaşma	kompromisszum	uzlaş	kompromisszum	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+uzlaşma	kompromisszumot	uzlaş	kompromisszum	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ACC;SG
+uzlaşma	kompromisszumos	uzlaş	kompromisszumos	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+kâr	profit	kâr	profit		N;NOM;SG
+kâr	haszon	kâr	hasz		N;NOM;SG
+kâr	nyereség	kâr	nyereség		N;NOM;SG
+kâr	profit	kâr	profit		N;NOM;SG
+kâr	haszon	kâr	hasz		N;NOM;SG
+kâr	nyereség	kâr	nyereség		N;NOM;SG
+çaylak	noob	çaylak	noob		N;NOM;SG
+mayo	fürdőruha	mayo	fürdőru		N;NOM;SG
+mayo	fürdőruha	mayo	fürdőru		N;NOM;SG
+mühendisleri	mérnökök	mühendis	mérnök	N;ACC;PL;3	N;NOM;PL
+güvence	biztosítékot	güvence	biztosíték		N;ACC;SG
+güvence	bizonyosság	güvence	bizonyosság		N;NOM;SG
+kökleri	gyökerek	kök	gyöker	N;NOM;PL;3	N;NOM;PL
+freud	freud	freud	freud		N;NOM;SG
+kına	henna	kına	hén		N;NOM;SG
+döngüsü	hurok	döngü	hur	N;NOM;SG;3	N;NOM;SG
+döngüsü	ciklus	döngü	ciklus	N;NOM;SG;3	N;NOM;SG
+döngüsü	ciklusban	döngü	ciklus	N;NOM;SG;3	N;IN+ESS;SG
+met	találkozott	met	találkozik		V;INDF;IND;SG;3;PST;FIN;ACT
+met	találkoztunk	met	találkozik		V;INDF;IND;PL;1;PST;FIN;ACT
+met	találkoztam	met	találkozik		V;INDF;IND;SG;1;PST;FIN;ACT
+met	metamfetamin	met	metamfetamin		N;NOM;SG
+mevlana	rumi	mevlan	rumi		N;NOM;SG
+ronaldo	ronaldo	ronal	ronaldo		N;NOM;SG
+dostlar	haverok	dost	haver	ADJ;NOM;PL;3	
+dostlar	barátokkal	dost	barát	ADJ;NOM;PL;3	N;INS;PL
+dostlar	barátok	dost	barát	ADJ;NOM;PL;3	N;NOM;PL
+dostlar	barátaim	dost	barát	ADJ;NOM;PL;3	N;NOM;PL
+dostlar	ismerősök	dost	ismerős	ADJ;NOM;PL;3	N;NOM;PL
+dostlar	nagymenők	dost	nagymenő	ADJ;NOM;PL;3	N;NOM;PL
+juliet	júlia	juliet	júlia		N;NOM;SG
+sarhoş	részeges	sarhoş	részeges		ADJ;NOM;SG
+yankı	visszhang	yankı	visszhang		N;NOM;SG
+yankı	visszhang	yankı	visszhang		N;NOM;SG
+keşiş	monk	keşiş	monk		N;NOM;SG
+keşiş	szerzetes	keşiş	szerzetes		N;NOM;SG
+temsilci	képviselő	temsilci	képviselő		N;NOM;SG
+temsilci	ügynök	temsilci	ügynök		N;NOM;SG
+yaratır	létrehoz	yarat	létre+hoz	V;IPFV;IND;SG;3;POS	V;INDF;POT;SG;3;PRS;FIN;ACT
+yaratır	teremt	yarat	teremt	V;IPFV;IND;SG;3;POS	V;INDF;IND;SG;3;PRS;FIN;ACT
+sansür	cenzúra	sansür	cenzúra		N;NOM;SG
+durağan	istálló	durağan	istálló	ADJ	N;NOM;SG
+resimli	illusztrált	resimli	illusztrált		V;INDF;IND;SG;3;PST;FIN;ACT
+faktör	faktor	faktör	faktor		N;NOM;SG
+faktör	tényező	faktör	tényező		N;NOM;SG
+sevinç	örömöt	sevinç	öröm		N;ACC;SG
+canlılar	teremtmények	canlı	teremtmény	ADJ;NOM;PL;3	N;NOM;PL
+canlılar	lények	canlı	lény	ADJ;NOM;PL;3	N;NOM;PL
+yayıncı	kiadó	yayıncı	kiadó		N;NOM;SG
+yayıncı	műsorszolgáltató	yayıncı	műsorszolgáltató		ADJ;NOM;SG
+tazminat	kompenzáció	tazminat	kompenzáció		N;NOM;SG
+tazminat	kártérítés	tazminat	kártérítés		N;NOM;SG
+tazminat	károkozás	tazminat	károkozás		N;NOM;SG
+tazminat	károk	tazminat	kár		N;NOM;PL
+tazminat	kártérítés	tazminat	kártérítés		N;NOM;SG
+dışarıda	kint	dışarı	kint	N;ESS;SG;3	
+dışarıda	kívül	dışarı	kívül	N;ESS;SG;3	
+joão	joão	joão	joão	PROPN;NOM;SG;3	
+manzara	tájak	manzara	tájak	N;NOM;SG;3	N;NOM;PL
+banks	bankokkal	banks	bank		N;INS;PL
+banks	bankok	banks	bank		N;NOM;PL
+sitede	helyszín	site	helyszín	N;ESS;SG;3	N;NOM;SG
+sitede	helyén	site	hely	N;ESS;SG;3	N;ON+ESS;SG
+sitede	webhely	site	webhely	N;ESS;SG;3	N;NOM;SG
+göçmenler	migráns	göçmen	migráns	ADJ;NOM;PL;3	N;NOM;SG
+göçmenler	bevándorlók	göçmen	bevándorló	ADJ;NOM;PL;3	N;NOM;PL
+göçmenler	migránsok	göçmen	migráns	ADJ;NOM;PL;3	N;NOM;PL
+göçmenler	bevándorlók	göçmen	bevándorló	ADJ;NOM;PL;3	N;NOM;PL
+yerleştirilmiş	ültetett	yerleş	ültetik	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+yerleştirilmiş	beültetett	yerleş	beültetett	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+doom	végzet	doom	végzet		N;NOM;SG
+lynn	lynn	li	lynn	PROPN;NOM;SG;3	
+anlayış	betekintést	anlayış	betekintés		N;ACC;SG
+anlayış	megértés	anlayış	megértés		N;NOM;SG
+anlayış	megértést	anlayış	megértés		N;ACC;SG
+görünmez	láthatatlan	görün	láthatatlan	V;IPFV;IND;SG;3;NEG	ADJ;NOM;SG
+görünmez	láthatatlanok	görün	láthatatlan	V;IPFV;IND;SG;3;NEG	ADJ;NOM;PL
+bileşenleri	alkatrész	bileş	alkatrész	N;ACC;PL;3	N;NOM;SG
+bileşenleri	komponensek	bileş	komponens	N;ACC;PL;3	N;NOM;PL
+bileşenleri	alkatrészek	bileş	alkatrész	N;ACC;PL;3	N;NOM;PL
+bileşenleri	összetevők	bileş	összetevő	N;ACC;PL;3	N;NOM;PL
+imkansız	lehetetlen	imkânsız	lehetetlen	ADJ	
+değirmen	malom	değir	malom		N;NOM;SG
+sawyer	sawyer	sawyer	sawyer		PROPN;NOM;SG
+inanan	hívő	inan	hívő		N;NOM;SG
+powell	powell	powell	powell	PROPN;NOM;SG;3	
+valilik	kormányzó	valilik	kormányzó	N;NOM;SG;3	ADJ;NOM;SG
+pensilvanya	pennsylvania	pensilvanya	pennsylvania	PROPN;NOM;SG;3	V;SG;3;NFIN;ACT
+belirleyici	döntő	belirleyici	döntő		ADJ;NOM;SG
+belirleyici	meghatározó	belirleyici	meghatározó		ADJ;NOM;SG
+kil	agyag	kil	agyag		N;NOM;SG
+ölümsüz	élőhalott	ölümsüz	élőhalott	ADJ	
+ölümsüz	halhatatlanok	ölümsüz	halhatatlan	ADJ	N;NOM;PL
+ölümsüz	halhatatlan	ölümsüz	halhatatlan	ADJ	N;NOM;SG
+kanye	kanye	kany	kany		N;NOM;SG
+masum	ártatlanok	masum	ártatlan		N;NOM;PL
+masum	ártatlanok	masum	ártatlan		N;NOM;PL
+okyanusya	óceánia	okyanusya	óceánia	N;NOM;SG;3	V;SG;3;NFIN;ACT
+truva	trójai	truv	tró		N;NOM;PL
+okuyucu	olvasó	okuyucu	olvasó		N;NOM;SG
+binaların	épületek	bina	épület	N;GEN;PL;3	N;NOM;PL
+yorkshire	yorkshire	yorkshire	yorkshire	PROPN;NOM;SG;3	
+drive	vezetni	driv	vezet		V;NFIN;ACT
+drive	vezess	driv	vezess		V;DEF;IND;PL;3;PRS;FIN;ACT
+drive	meghajtó	driv	meghajtó		N;NOM;SG
+limon	citromos	limon	citromos		N;NOM;SG
+limon	citrom	limon	citrom		N;NOM;SG
+limon	citrom	limon	citrom		N;NOM;SG
+valentine	valentin	valent	valentin	N;NOM;SG;3	
+valentine	bálint	valent	bálint	N;NOM;SG;3	
+valentine	valentine	valent	valentine	N;NOM;SG;3	
+yazıcı	nyomtató	yazıcı	nyomtató		N;NOM;SG
+yazıcı	nyomtatók	yazıcı	nyomtató		N;NOM;PL
+karayip	karibi	karay	karibi	ADV	ADJ;NOM;SG
+şampiyona	bajnokság	şampiyon	bajnokság	N;DAT;SG;3	N;NOM;SG
+stereo	sztereó	stereo	sztereó		N;NOM;SG
+sinek	repülni	sinek	repül		V;NFIN;ACT
+sinek	repülés	sinek	repülés		N;NOM;SG
+sinek	repül	sinek	repül		V;INDF;IND;SG;3;PRS;FIN;ACT
+sinek	repülj	sinek	repül		V;DEF;IMP;SG;2;PRS;FIN;ACT
+sinek	legyek	sinek	lesz		V;INDF;IND;SG;1;PRS;FIN;ACT
+yarbay	ezredes	yarbay	ezredes		N;NOM;SG
+tutarlı	következetesen	tutarlı	következetes		ADJ;FRML;SG
+mitoloji	mitológia	mitoloji	mitológia		N;NOM;SG
+anlaşılan	látszólag	anlaş	látszólag	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+tükenmiş	kiégett	tüken	kiégett	V;PFV;NFH;IND;POS;PST;V.PTCP	
+anderlecht	anderlecht	anderlecht	anderlecht	PROPN;NOM;SG;3	N;NOM;SG
+çorba	levest	çorb	levés	N;NOM;SG;3	N;ACC;SG
+çorba	levesek	çorb	levés	N;NOM;SG;3	N;NOM;PL
+carey	carey	carey	carey		N;NOM;SG
+motors	motors	motors	motors	PROPN;NOM;SG;3	N;NOM;SG
+motors	motorok	motors	motor	PROPN;NOM;SG;3	N;NOM;PL
+suçlar	bűnözés	suç	bűnözés	N;NOM;PL;3	N;NOM;SG
+suçlar	bűn	suç	bűn	N;NOM;PL;3	N;NOM;SG
+suçlar	bűntény	suç	bűntény	N;NOM;PL;3	N;NOM;SG
+suçlar	bűncselekmény	suç	bűncselekmény	N;NOM;PL;3	N;NOM;SG
+büyücü	mágus	büyücü	mágus		N;NOM;SG
+büyücü	varázsló	büyücü	varázsló		N;NOM;SG
+koku	szag	koku	szag		N;NOM;SG
+koku	illat	koku	illat		N;NOM;SG
+koku	illata	koku	illat		N;NOM;SG
+koku	szag	koku	szag		N;NOM;SG
+koku	illat	koku	illat		N;NOM;SG
+koku	illatok	koku	illat		N;NOM;PL
+koku	illat	koku	illat		N;NOM;SG
+kamyon	teherautó	kamyon	teherautó		N;NOM;SG
+kamyon	kamion	kamyon	kamion		N;NOM;SG
+kamyon	teherautók	kamyon	teherautó		N;NOM;PL
+kamyon	teherautó	kamyon	teherautó		N;NOM;SG
+kırılma	fénytörés	kır	fénytörés	V;PFV;NOM;IMP;POS;PRS;PASS	N;NOM;SG
+ayakları	lábak	ayak	láb	N;NOM;PL;3	N;NOM;PL
+ayakları	láb	ayak	láb	N;NOM;PL;3	N;NOM;SG
+ruanda	ruanda	rua	ruanda		PROPN;NOM;SG
+yıkılmış	feldúlt	yık	feldúlt	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	
+minsk	minszk	minsk	minszk	PROPN;NOM;SG;3	PROPN;NOM;SG
+işlevsel	működőképes	işlevsel	működőképes	ADJ	N;NOM;SG
+rehber	kalauz	rehber	kalauz		N;NOM;SG
+rehber	útmutató	rehber	útmutató		N;NOM;SG
+davranışı	viselkedése	davranış	viselkedés	N;ACC;SG;3	N;NOM;SG
+davranışı	magatartás	davranış	magatartás	N;ACC;SG;3	N;NOM;SG
+davranışı	viselkedés	davranış	viselkedés	N;ACC;SG;3	N;NOM;SG
+birleştirme	egyesülni	birleş	egyesül	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;NFIN;ACT
+birleştirme	egyesülő	birleş	egyesülő	V;PFV;IMP;SG;2;NEG;PRS;CAUS	ADJ;NOM;SG
+birleştirme	kombinálni	birleş	kombinál	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;NFIN;ACT
+birleştirme	egyesítés	birleş	egyesítés	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;NOM;SG
+birleştirme	egyesülés	birleş	egyesülés	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;NOM;SG
+sonuncu	utoljára	sonuncu	utoljára		ADV
+sonuncu	utolsónak	sonuncu	utolsó		ADV
+marksizm	marxizmus	marksizm	marxizmus		N;NOM;SG
+sloganı	mottója	slogan	mottó	N;ACC;SG;3	N;NOM;SG
+uzatma	meghosszabbítás	uza	meghosszabbítás	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+uzatma	kiterjesztés	uza	kiterjesztés	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+uzatma	kiterjesztése	uza	kiterjesztés	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+uzatma	bővítés	uza	bővítés	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+çalma	lejátszás	çal	lejátszás		N;NOM;SG
+çalma	lop	çal	lop		V;INDF;IND;SG;3;PRS;FIN;ACT
+çalma	lopni	çal	lop		V;NFIN;ACT
+çalma	ellopni	çal	ellop		V;NFIN;ACT
+derinlik	mélységben	derinlik	mélység	N;NOM;SG;3	N;IN+ESS;SG
+masalı	mese	masal	mese	N;ACC;SG;3	N;NOM;SG
+geliri	bevétel	gel	bevétel		N;NOM;SG
+geliri	bevételek	gel	bevétel		N;NOM;PL
+kısımlar	szelvény	kısım	szelvény	N;NOM;PL;3	N;NOM;SG
+brugge	brugge	brugge	brugge	PROPN;NOM;SG;3	PROPN;NOM;SG
+yaratık	szörnyeteg	yarat	szörnyeteg		N;NOM;SG
+yaratık	vadállat	yarat	vadállat		N;NOM;SG
+yaratık	fenevad	yarat	fenevad		N;NOM;SG
+yaratık	lény	yarat	lény		N;NOM;SG
+yaratık	teremtmény	yarat	teremtmény		N;NOM;SG
+tardis	tardis	tardis	tardis		N;NOM;SG
+denklemleri	egyenletek	denklem	egyenlet	N;ACC;PL;3	N;NOM;PL
+brandon	brandon	bra	brandon	PROPN;NOM;SG;3	
+gidiyor	megyek	git	megy	V;PROG;IND;SG;3;POS;INFM;PRS	V;INDF;IND;SG;1;PRS;FIN;ACT
+dinin	vallás	din	vallás	N;GEN;SG;3	N;NOM;SG
+paradise	paradise	paradise	paradis	N;NOM;SG;3	
+önlemler	óvintézkedéseket	önlem	óvintézkedés	ADJ;NOM;PL;3	N;ACC;PL
+önlemler	elővigyázatosság	önlem	elővigyázatosság	ADJ;NOM;PL;3	N;NOM;SG
+önlemler	intézkedések	önlem	intézkedés	ADJ;NOM;PL;3	N;NOM;PL
+önlemler	intézkedésekre	önlem	intézkedés	ADJ;NOM;PL;3	N;ON+ALL;PL
+clarke	clarke	clarke	clarke	PROPN;NOM;SG;3	
+clinton	clinton	clinton	clint	PROPN;NOM;SG;3	N;NOM;SG
+barra	barra	barra	bazra	PROPN;NOM;SG;3	
+öncelik	elsőbbséget	öncelik	elsőbbség	N;NOM;SG;3	N;ACC;SG
+fernández	fernández	fern	fernández	PROPN;NOM;SG;3	
+başlamak	kezdő	başla	kezdő	V;PFV;NOM;IND;POS;PRS;V.MSDR	
+başlamak	kezdve	başla	kezdv	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ON+ESS;SG
+editor	szerkesztője	et	szerkesztő		N;NOM;SG
+editor	szerkesztő	et	szerkesztő		N;NOM;SG
+makul	méltányos	makul	méltányos		N;NOM;SG
+css	css	css	css		N;NOM;SG
+sanayii	ágazat	sanayii	ágazat		N;NOM;SG
+sanayii	iparág	sanayii	iparág		N;NOM;SG
+sanayii	ipar	sanayii	ipar		N;NOM;SG
+sanayii	ipari	sanayii	ipari		ADJ;NOM;SG
+jackie	jackie	jackie	jacki		N;NOM;SG
+tropik	trópusi	tropik	trópusi		N;NOM;SG
+tropik	trópusi	tropik	trópusi		N;NOM;SG
+komünizm	kommunizmus	komün	kommunizmus		N;NOM;SG
+hokeyi	hoki	hoke	hoki	N;NOM;SG;3	
+varlıklı	gazdagok	varlıklı	gazdag		N;NOM;PL
+buffalo	bölény	buffalo	bölény	PROPN;NOM;SG;3	N;NOM;SG
+buffalo	bivaly	buffalo	bivaly	PROPN;NOM;SG;3	
+buffalo	buffalo	buffalo	buffalo	PROPN;NOM;SG;3	
+sahneler	díszlet	sahne	díszlet	N;NOM;PL;3	N;NOM;SG
+sahneler	táj	sahne	táj	N;NOM;PL;3	N;NOM;SG
+habsburg	habsburg	habsburg	habsburg	PROPN;NOM;SG;3	N;NOM;SG
+funk	funk	funk	funk		N;NOM;SG
+uygulanabilir	végrehajtható	uygula	végrehajtható	V;IPFV;POT;SG;3;POS;PASS	
+uygulanabilir	alkalmazandó	uygula	alkalmazandó	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;SG
+uygulanabilir	alkalmazható	uygula	alkalmazható	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;SG
+bakımı	karbantartási	bakım	karbantartási	N;NOM;SG;3	ADJ;NOM;SG
+bakımı	karbantartó	bakım	karbantartó	N;NOM;SG;3	N;NOM;SG
+bakımı	karbantartás	bakım	karbantartás	N;NOM;SG;3	N;NOM;SG
+ömürlü	tartós	ömürlü	tartós	ADJ	
+ömürlü	maradandó	ömürlü	maradandó	ADJ	
+iddialar	követelés	iddia	követelés	N;NOM;PL;3	N;NOM;SG
+iddialar	állításokat	iddia	állítás	N;NOM;PL;3	N;ACC;PL
+yasaklandı	tiltott	yasakla	tilt		V;INDF;IND;SG;3;PST;FIN;ACT
+yasaklandı	tiltott	yasakla	tilt		V;INDF;IND;SG;3;PST;FIN;ACT
+knicks	knicks	knicks	knicks		N;NOM;SG
+altta	alja	altta	al		N;NOM;SG
+altta	fenék	altta	fene		N;NOM;SG
+eczacılık	gyógyszerek	eczacılık	gyógyszer	N;NOM;SG;3	N;NOM;PL
+eczacılık	gyógyszertárban	eczacılık	gyógyszertár	N;NOM;SG;3	N;IN+ESS;SG
+havayolları	légitársaság	havayol	légitársaság	N;NOM;PL;3	N;NOM;SG
+havayolları	légitársaságok	havayol	légitársaság	N;NOM;PL;3	N;NOM;PL
+havayolları	airlines	havayol	airlines	N;NOM;PL;3	N;NOM;SG
+havayolları	légitársaság	havayol	légitársaság	N;NOM;PL;3	N;NOM;SG
+kullanın	használat	kullan	használat	V;PFV;IMP;PL;2;POS;PRS	N;NOM;SG
+kullanın	használata	kullan	használat	V;PFV;IMP;PL;2;POS;PRS	N;NOM;SG
+kullanın	felhasználás	kullan	felhasználás	V;PFV;IMP;PL;2;POS;PRS	N;NOM;SG
+kalbi	szívem	kalbi	szívem	ADJ;NOM;SG;3	V;DEF;IND;SG;1;PRS;FIN;ACT
+kalbi	szívvel	kalbi	szív	ADJ;NOM;SG;3	
+kalbi	szív	kalbi	szív	ADJ;NOM;SG;3	N;NOM;SG
+andorra	andorra	andorra	andor	PROPN;NOM;SG;3	PROPN;NOM;SG
+çıktılar	kimeneti	çık	kimeneti	V;PFV;IND;PL;3;POS;PST	N;NOM;SG
+çıktılar	kibocsátás	çık	kibocsátás	V;PFV;IND;PL;3;POS;PST	N;NOM;SG
+çıktılar	kimenő	çık	kimenő	V;PFV;IND;PL;3;POS;PST	N;NOM;SG
+eşitliği	egyenlőség	eşitlik	egyenlőség	N;ACC;SG;3	N;NOM;SG
+tecavüz	erőszak	tecavüz	erősz		N;NOM;SG
+tecavüz	megerőszakolta	tecavüz	megerőszakolta		V;DEF;IND;SG;3;PST;FIN;ACT
+tecavüz	megerőszakolt	tecavüz	meg+erőszakol		V;INDF;IND;SG;3;PST;FIN;ACT
+tecavüz	megerőszakolták	tecavüz	meg+erőszakol		V;DEF;IND;PL;3;PST;FIN;ACT
+vazgeçilmez	elengedhetetlen	vazgeç	elengedhetetlen	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;SG
+vazgeçilmez	nélkülözhetetlen	vazgeç	nélkülözhetetlen	V;IPFV;IND;NEG;V.PTCP;PASS	
+rich	gazdagok	rich	gazdag		N;NOM;PL
+defne	öböl	defne	öböl		N;NOM;SG
+konuşur	beszél	konuş	beszél		V;INDF;IND;SG;3;PRS;FIN;ACT
+konuşur	beszél	konuş	beszél		V;INDF;IND;SG;3;PRS;FIN;ACT
+afgan	afgánok	afgan	afoán		N;NOM;PL
+phillips	phillips	phillips	phillips	PROPN;NOM;SG;3	
+tablolar	asztal	tablo	asz	N;NOM;PL;3	N;NOM;SG
+tablolar	táblázat	tablo	táblázat	N;NOM;PL;3	N;NOM;SG
+deposu	adattár	depo	adattár	N;NOM;SG;3	N;NOM;SG
+jamaika	jamaica	jamaika	jamaica	PROPN;NOM;SG;3	
+jamaika	jamaikai	jamaika	jamaikai	PROPN;NOM;SG;3	N;NOM;SG
+otorite	hatóság	otorite	hatóság		N;NOM;SG
+hindu	hinduk	hin	hind		N;NOM;PL
+butler	komornyik	butle	komornyik		N;NOM;SG
+floyd	floyd	floyd	floyd		N;NOM;SG
+bulvarı	körúton	bulvar	körút		N;ON+ESS;SG
+bulvarı	sugárút	bulvar	sugárú		N;NOM;SG
+bulvarı	sugárút	bulvar	sugárú		N;NOM;SG
+komutanları	parancsnokok	komutan	parancsnok	N;ACC;PL;3	N;NOM;PL
+enfeksiyon	fertőzések	enfeksiyon	fertőzés		N;NOM;PL
+enfeksiyon	fertőzés	enfeksiyon	fertőzés		N;NOM;SG
+enfeksiyon	fertőzések	enfeksiyon	fertőzés		N;NOM;PL
+enfeksiyon	fertőzés	enfeksiyon	fertőzés		N;NOM;SG
+pietro	pietro	pietro	pietro	PROPN;NOM;SG;3	
+luftwaffe	luftwaffe	luftwaffe	luftwaffe		N;NOM;SG
+çoktan	már	çok	már	ADJ;AT+ABL;SG;3	ADV
+çoktan	máris	çok	máris	ADJ;AT+ABL;SG;3	
+düğüm	csomópont	düğüm	csomópont		N;NOM;SG
+düğüm	csomót	düğüm	csomó		N;ACC;SG
+düzenlemeleri	módosítások	düzenle	módosítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+düzenlemeleri	módosításai	düzenle	módosítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+düzenlemeleri	módosításokkal	düzenle	módosítás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INS;PL
+düzenlemeleri	megállapodások	düzenle	megállapodás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;PL
+formül	képlet	formül	képlet		N;NOM;SG
+dominik	dominik	dominik	dominik	N;NOM;SG;3	
+dominik	dominikai	dominik	dominikai	N;NOM;SG;3	
+dominik	dominikai	dominik	dominikai	N;NOM;SG;3	
+dominik	dominika	dominik	dominika	N;NOM;SG;3	
+dominik	dominic	dominik	dominic	N;NOM;SG;3	PROPN;NOM;SG
+inek	stréber	inek	stréber		N;IN+ESS;SG
+inek	tehén	inek	téhe		N;NOM;SG
+inek	tehenek	inek	tehen		N;NOM;PL
+inek	stréber	inek	stréber		N;IN+ESS;SG
+inek	tehenet	inek	tehen		N;ACC;SG
+inek	tehén	inek	téhe		N;NOM;SG
+creek	creek	creek	cr	N;NOM;SG;3	
+görüntüleme	megtekintés	görüntüleme	megtekintés		N;NOM;SG
+görüntüleme	megtekintés	görüntüleme	megtekintés		N;NOM;SG
+görüntüleme	megtekintése	görüntüleme	megtekintés		N;NOM;SG
+görüntüleme	képalkotó	görüntüleme	képalkotó		N;NOM;SG
+avantaj	előnyök	avantaj	előnyök		N;NOM;PL
+avantaj	előnyei	avantaj	előnyei		N;NOM;PL
+avantaj	előny	avantaj	előny		N;NOM;SG
+ulrich	ulrich	ulrich	ulrich	PROPN;NOM;SG;3	
+burkina	burkina	burkina	burkina		V;INDF;IND;SG;3;PRS;FIN;ACT
+via	via	via	via	PROPN;NOM;SG;3	
+gerçeklik	hitelességét	gerçeklik	hitelesség	N;NOM;SG;3	N;ACC;SG
+temple	templom	temp	templom	PROPN;NOM;SG;3	N;NOM;SG
+temple	szentély	temp	szentély	PROPN;NOM;SG;3	N;NOM;SG
+temple	temploma	temp	temploma	PROPN;NOM;SG;3	N;NOM;SG
+temple	temple	temp	temple	PROPN;NOM;SG;3	
+emil	emil	emil	emil		PROPN;NOM;SG
+soldan	bal	sol	bal	ADJ;AT+ABL;SG;3	
+soldan	balra	sol	balra	ADJ;AT+ABL;SG;3	
+onarım	javítási	o	javítási		N;NOM;SG
+onarım	javítást	o	javítás		N;ACC;SG
+onarım	javításra	o	javítás		N;ON+ALL;SG
+onarım	javítás	o	javítás		N;NOM;SG
+onarım	javítások	o	javítás		N;NOM;PL
+onarım	javítás	o	javítás		N;NOM;SG
+onarım	helyreállítási	o	helyreállítási		ADJ;NOM;SG
+onarım	helyreállítása	o	helyreállítás		N;NOM;SG
+günlükler	naplók	günlük	napló	ADJ;NOM;PL;3	N;NOM;PL
+forbes	forbes	forbes	forbes		N;NOM;SG
+kullanılmaz	használhatatlan	kullan	használhatatlan	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;SG
+ücreti	díj	ücret	díj		N;NOM;SG
+ücreti	díjazás	ücret	díjazás		N;NOM;SG
+ücreti	költség	ücret	költség		N;NOM;SG
+ücreti	költségek	ücret	költség		N;NOM;PL
+kabak	squash	kabak	stus		N;NOM;SG
+arayüzü	interfész	arayüz	interfész	N;ACC;SG;3	N;NOM;SG
+hammer	kalapács	hammer	kalapács		N;NOM;SG
+capitol	capitol	capitol	capitol	PROPN;NOM;SG;3	
+kardinal	bíboros	kardinal	bíboros	N;DAT;SG;3	
+dei	dei	de	dei	PROPN;NOM;SG;3	
+enflasyon	inflációs	enflasyon	inflációs		ADJ;NOM;SG
+enflasyon	infláció	enflasyon	infláció		N;NOM;SG
+forumu	fórumon	foru	fórum	N;NOM;SG;3	N;ON+ESS;SG
+hedefleri	célkitűzések	hedef	célkitűzés	N;NOM;PL;3	N;NOM;PL
+hedefleri	célokat	hedef	cél	N;NOM;PL;3	N;ACC;PL
+hedefleri	célok	hedef	cél	N;NOM;PL;3	N;NOM;PL
+nord	nord	nord	nord	PROPN;NOM;SG;3	
+sakız	rágógumi	sakız	rágógumi		N;NOM;SG
+denizaşırı	tengerentúli	denizaşır	tengerentúli		ADJ;NOM;SG
+christine	krisztina	christ	krisztina	PROPN;DAT;SG;3	N;NOM;SG
+christine	christine	christ	christine	PROPN;DAT;SG;3	
+freiburg	freiburg	freiburg	freiburg	PROPN;NOM;SG;3	N;NOM;SG
+lejyon	légió	lejyon	légió		N;NOM;SG
+gate	kapu	gate	kapu		N;NOM;SG
+gate	kaput	gate	kap		N;ACC;SG
+dell	dell	dell	dell		PROPN;NOM;SG
+grove	grove	grove	grove	PROPN;NOM;SG;3	
+adriyatik	adriai	adriyatik	adriai	N;NOM;SG;3	ADJ;NOM;SG
+adriyatik	adria	adriyatik	adria	N;NOM;SG;3	
+ofis	hivatalok	ofis	hivatal		N;NOM;PL
+ofis	irodák	ofis	iroda		N;NOM;PL
+ofis	hivatal	ofis	hivatal		N;NOM;SG
+ofis	iroda	ofis	iroda		N;NOM;SG
+ret	elutasítás	ret	elutasítás		N;NOM;SG
+reel	valós	reel	valós		ADJ;NOM;SG
+akut	akut	akut	akut		N;NOM;SG
+connor	connor	connor	connor		N;NOM;SG
+istikrarlı	következetes	istikrarlı	következetes	ADJ	
+istikrarlı	istálló	istikrarlı	istálló	ADJ	N;NOM;SG
+acımasız	kegyetlen	acımasız	kegyetlen	ADJ	
+acımasız	könyörtelen	acımasız	könyörtelen	ADJ	
+acımasız	kegyetlen	acımasız	kegyetlen	ADJ	
+acımasız	kegyetlenség	acımasız	kegyetlenség	ADJ	N;NOM;SG
+acımasız	könyörtelen	acımasız	könyörtelen	ADJ	
+acımasız	könyörtelen	acımasız	könyörtelen	ADJ	
+alım	vegyél	alım	vegyél		V;INDF;IMP;SG;1;PRS;FIN;ACT
+alım	venni	alım	vesz		V;NFIN;ACT
+alım	vásárol	alım	vásárol		V;INDF;IND;SG;3;PRS;FIN;ACT
+alım	megvásárolni	alım	meg+vásárol		V;NFIN;ACT
+hacim	kötet	hacim	kötet		N;NOM;SG
+hacim	térfogat	hacim	térfog		N;NOM;SG
+hacim	mennyiség	hacim	mennyiség		N;NOM;SG
+çıkarılmış	kivont	çıkar	kivont	V;PFV;NFH;IND;SG;3;POS;PST;PASS	
+hemşire	ápoló	hemşire	ápoló	N;NOM;SG;3	ADJ;NOM;SG
+duncan	duncan	duncan	duncan	PROPN;NOM;SG;3	
+afet	kábító	afet	kábító		ADJ;NOM;SG
+afet	bombázó	afet	bombázó		N;NOM;SG
+afet	kataklizma	afet	kataklizma		N;NOM;SG
+afet	katasztrófa	afet	katasztrófa		N;NOM;SG
+afet	katasztrófa	afet	katasztrófa		N;NOM;SG
+işlenmiş	feldolgozott	işle	feldolgozott	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	
+stüdyosu	studio	stüdyo	studio	N;NOM;SG;3	
+sığ	sekélyes	sığ	sekélyes		ADJ;NOM;SG
+analog	analóg	analog	analóg		N;NOM;SG
+halktan	közember	halk	közember	N;AT+ABL;SG;3	
+canavar	szörnyeteg	canavar	szörnyeteg		N;NOM;SG
+canavar	vadállat	canavar	vadállat		N;NOM;SG
+canavar	fenevad	canavar	fenevad		N;NOM;SG
+canavar	szörnyeteg	canavar	szörnyeteg		N;NOM;SG
+canavar	szörny	canavar	szörny		N;NOM;SG
+bozuklukları	rendellenességek	bozukluk	rendellenesség	N;ACC;PL;3	N;NOM;PL
+fazladan	extra	fazladan	extra	ADV	
+court	bíróság	court	bíróság		N;NOM;SG
+court	udvar	court	udvar		N;NOM;SG
+court	számvevőszék	court	számvevőszék		N;NOM;SG
+elbise	ruhák	elbise	ru	N;NOM;SG;3	N;NOM;PL
+elbise	ruhákat	elbise	ruha	N;NOM;SG;3	N;ACC;PL
+elbise	ruhák	elbise	ru	N;NOM;SG;3	N;NOM;PL
+elbise	ruhát	elbise	ruha	N;NOM;SG;3	N;ACC;SG
+kestane	gesztenye	kestan	geszteny	N;NOM;SG;3	
+normandiya	normandie	normandiya	normandie	N;NOM;SG;3	
+yonca	lóhere	yonca	lóher		N;NOM;SG
+yonca	lucerna	yonca	lucer		N;NOM;SG
+ekolojik	ökológiai	ekolojik	ökológiai		ADJ;NOM;SG
+yükseliş	emelkedés	yükseliş	emelkedés		N;NOM;SG
+yükseliş	emelkedés	yükseliş	emelkedés		N;NOM;SG
+yükseliş	emelés	yükseliş	emelés		N;NOM;SG
+yükseliş	felemelkedés	yükseliş	felemelkedés		N;NOM;SG
+yürüyen	séta	yürü	séta	V;PFV;IND;POS;PRS;V.PTCP	N;NOM;SG
+yürüyen	gyalog	yürü	gyalog	V;PFV;IND;POS;PRS;V.PTCP	
+tüp	tubus	tüp	tubus		N;NOM;SG
+tüp	cső	tüp	cső		N;NOM;SG
+tango	tangó	tango	tangó		N;NOM;SG
+profil	adatlap	profil	adatlap		N;NOM;SG
+profil	profil	profil	profil		N;NOM;SG
+temalı	témájú	temal	témájú		ADP
+uyan	felébred	uyan	felébred		V;DEF;IND;SG;3;PRS;FIN;ACT
+ilanı	nyilatkozat	ilan	nyilatkozat	N;ACC;SG;3	N;NOM;SG
+ilanı	nyilatkozata	ilan	nyilatkozat	N;ACC;SG;3	N;NOM;SG
+güvercin	galamb	güvercin	galamb	N;NOM;SG;3	
+güvercin	galambok	güvercin	galambok	N;NOM;SG;3	
+güvercin	galamb	güvercin	galamb	N;NOM;SG;3	
+palazzo	palazzo	palazzo	palazzo	N;NOM;SG;3	
+meyveler	bogyókat	meyve	bogyó	N;NOM;PL;3	N;ACC;PL
+meyveler	bogyó	meyve	bogyó	N;NOM;PL;3	N;NOM;SG
+meyveler	gyümölcs	meyve	gyümölcs	N;NOM;PL;3	N;NOM;SG
+meyveler	gyümölcsöt	meyve	gyümölcsöt	N;NOM;PL;3	N;ACC;SG
+meyveler	gyümölcs	meyve	gyümölcs	N;NOM;PL;3	N;NOM;SG
+görünüşü	megjelenés	görünüş	megjelenés	N;NOM;SG;3	N;NOM;SG
+seçenek	döntés	seçenek	döntés		N;NOM;SG
+seçenek	opció	seçenek	opció		N;NOM;SG
+seçenek	lehetőség	seçenek	lehetőség		N;NOM;SG
+seçenek	opciók	seçenek	opció		N;NOM;PL
+seçenek	beállítások	seçenek	beállítás		N;NOM;PL
+seçenek	lehetőségek	seçenek	lehetőség		N;NOM;PL
+vatandaş	állampolgárok	vatandaş	állampolgár		N;NOM;PL
+vatandaş	polgárok	vatandaş	polgár		N;NOM;PL
+vatandaş	állampolgár	vatandaş	állampolgár		N;NOM;SG
+vatandaş	polgárok	vatandaş	polgár		N;NOM;PL
+windsor	windsor	windsor	windsor	PROPN;NOM;SG;3	
+theodor	theodor	theodor	theodor	PROPN;NOM;SG;3	
+havuzu	medence	havuz	medence	N;NOM;SG;3	N;NOM;SG
+havuzu	biliárd	havuz	biliárd	N;NOM;SG;3	N;NOM;SG
+eindhoven	eindhoven	eindhoven	eindhoven	PROPN;NOM;SG;3	PROPN;NOM;SG
+faktörü	faktor	faktörü	faktor	N;ACC;SG;3	N;NOM;SG
+faktörü	tényező	faktörü	tényező	N;ACC;SG;3	N;NOM;SG
+ayrılma	szétválasztás	ayrıl	szétválasztás		N;NOM;SG
+öldürme	gyilkol	öl	gyilkol	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;INDF;IND;SG;3;PRS;FIN;ACT
+öldürme	gyilkolás	öl	gyilkolás	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;NOM;SG
+çamur	iszap	çamur	iszap		N;NOM;SG
+çamur	iszap	çamur	iszap		N;NOM;SG
+çamur	sár	çamur	sár		N;NOM;SG
+çamur	agyag	çamur	agyag		N;NOM;SG
+koşu	futás	koşu	futás		N;NOM;SG
+koşu	fut	koşu	fut		V;INDF;IND;SG;3;PRS;FIN;ACT
+koşu	futok	koşu	fut		V;INDF;IND;SG;1;PRS;FIN;ACT
+sürümleri	változatok	sürüm	változat	N;ACC;PL;3	N;NOM;PL
+modu	mód	modu	mód		N;NOM;SG
+modu	üzemmód	modu	üzemmód		N;NOM;SG
+kit	készlet	kit	készlet		N;NOM;SG
+juniors	juniors	juniors	juniors	PROPN;NOM;SG;3	N;NOM;SG
+çimento	cement	çimento	cement		N;NOM;SG
+katedral	katedrális	katedral	katedrális	N;ESS;SG;3	N;NOM;SG
+manken	minta	manken	minta		N;NOM;SG
+manken	modell	manken	modell		N;NOM;SG
+kaos	káosz	kaos	káosz		N;NOM;SG
+paylaşım	megosztás	paylaşım	megosztás	N;NOM;SG;3	
+paylaşım	megosztás	paylaşım	megosztás	N;NOM;SG;3	
+etkiledi	befolyásolták	etkile	befolyásol	V;PFV;IND;SG;3;POS;PST	V;DEF;IND;PL;3;PST;FIN;ACT
+savaştı	harcolt	savaş	harcol		V;INDF;IND;SG;3;PST;FIN;ACT
+savaştı	küzdött	savaş	küzdött		V;INDF;IND;SG;3;PST;FIN;ACT
+kaçınılmaz	elkerülhetetlen	kaçınılmaz	elkerülhetetlen	ADJ	
+kaçınılmaz	elkerülhetetlen	kaçınılmaz	elkerülhetetlen	ADJ	
+kaçınılmaz	elkerülhetetlen	kaçınılmaz	elkerülhetetlen	ADJ	
+kaçınılmaz	elkerülhetetlen	kaçınılmaz	elkerülhetetlen	ADJ	
+kıbrıslı	ciprusi	kıbrıslı	ciprusi		ADJ;NOM;SG
+dişli	felszerelés	dişli	felszerelés		N;NOM;SG
+dişli	fogaskerekek	dişli	fogasker		N;NOM;PL
+dişli	fogat	dişli	fog		N;ACC;SG
+dişli	fogak	dişli	fog		N;NOM;PL
+aids	aids	aids	aids		N;NOM;SG
+aids	aids	aids	aids		N;NOM;SG
+anders	anders	anders	anders		PROPN;NOM;SG
+marilyn	marilyn	marilyn	marilyn		N;NOM;SG
+talepleri	követel	talep	követel	N;NOM;PL;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+talepleri	követelés	talep	követelés	N;NOM;PL;3	N;NOM;SG
+talepleri	követelések	talep	követelés	N;NOM;PL;3	N;NOM;PL
+talepleri	igények	talep	igény	N;NOM;PL;3	N;NOM;PL
+azalan	csökkenő	azal	csökkenő		ADJ;NOM;SG
+hamburger	hamburger	hamburger	hamburger		N;NOM;SG
+hamburger	hamburger	hamburger	hamburger		N;NOM;SG
+hamburger	hamburger	hamburger	hamburger		N;NOM;SG
+hamburger	hamburger	hamburger	hamburger		N;NOM;SG
+olgu	jelenség	olgu	jelenség		N;NOM;SG
+sapma	eltérés	sap	eltérés		N;NOM;SG
+sapma	alakváltozás	sap	alakváltozás		N;NOM;SG
+küp	kockák	küp	kocka		N;NOM;PL
+asgari	legkisebb	asgari	kevés		ADJ;NOM;RL;SG
+metz	metz	metz	metz	PROPN;NOM;SG;3	
+memeli	emlősök	memel	emlős		N;NOM;PL
+memeli	emlős	memel	emlős		N;NOM;SG
+memeli	emlősök	memel	emlős		N;NOM;PL
+memeli	emlős	memel	emlős		N;NOM;SG
+memeli	emlősök	memel	emlős		N;NOM;PL
+bekliyorum	vár	bekle	vár	V;PROG;IND;SG;1;POS;INFM;PRS	V;INDF;IND;SG;3;PRS;FIN;ACT
+bekliyorum	várakozás	bekle	várakozás	V;PROG;IND;SG;1;POS;INFM;PRS	N;NOM;SG
+bekliyorum	várunk	bekle	vár	V;PROG;IND;SG;1;POS;INFM;PRS	V;INDF;IND;PL;1;PRS;FIN;ACT
+göstergesi	mutató	gösterge	mutató	N;NOM;SG;3	
+kıyafet	ruhák	kıyafet	ru	N;NOM;SG;3	N;NOM;PL
+kıyafet	ruhák	kıyafet	ru	N;NOM;SG;3	N;NOM;PL
+kıyafet	ruhát	kıyafet	ruha	N;NOM;SG;3	N;ACC;SG
+aria	aria	aria	aria	PROPN;NOM;SG;3	
+girdiler	bejegyzések	gir	bejegyzés	V;PFV;IND;PL;3;POS;PST	N;NOM;PL
+çekilme	visszavonásáról	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+çekilme	visszavonás	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;NOM;SG
+çekilme	visszavonása	çek	visszavonás	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;NOM;SG
+gökyüzü	égbolt	gökyüzü	égbol		N;NOM;SG
+gökyüzü	égbolt	gökyüzü	égbol		N;NOM;SG
+tüneli	alagút	tüneli	alagút	N;ACC;SG;3	N;NOM;SG
+aranan	akartam	ara	akar		V;INDF;IND;SG;1;PST;FIN;ACT
+yenileme	helyreállítási	yenilem	helyreállítási		ADJ;NOM;SG
+yenileme	helyreállítása	yenilem	helyreállítás		N;NOM;SG
+yenileme	felújítás	yenilem	felújítás		N;NOM;SG
+yenileme	felújítás	yenilem	felújítás		N;NOM;SG
+alfonso	alfonso	alfonso	alfonso	PROPN;NOM;SG;3	PROPN;NOM;SG
+nottingham	nottingham	nottingham	nottingham	PROPN;NOM;SG;3	N;NOM;SG
+davranışlar	magatartás	davranış	magatartás	N;NOM;PL;3	N;NOM;SG
+davranışlar	viselkedés	davranış	viselkedés	N;NOM;PL;3	N;NOM;SG
+davranışlar	viselkedése	davranış	viselkedés	N;NOM;PL;3	N;NOM;SG
+davranışlar	magatartás	davranış	magatartás	N;NOM;PL;3	N;NOM;SG
+davranışlar	viselkedés	davranış	viselkedés	N;NOM;PL;3	N;NOM;SG
+cromwell	cromwell	cromwell	cromwell	PROPN;NOM;SG;3	
+finanse	finanszírozás	finanse	finanszírozás		N;NOM;SG
+finanse	pénzügyi	finanse	pénzügyi		ADJ;NOM;SG
+finanse	pénzügyek	finanse	pénzügy		N;NOM;PL
+finanse	finanszírozás	finanse	finanszírozás		N;NOM;SG
+finanse	finanszírozott	finanse	finanszírozott		V;INDF;IND;SG;3;PST;FIN;ACT
+taksi	taxi	taksi	taxi		N;NOM;SG
+taksi	taxiba	taksi	taxiba		N;IN+ALL;SG
+taksi	taxi	taksi	taxi		N;NOM;SG
+taksi	taxit	taksi	taxit		N;ACC;SG
+demiryolları	vasút	demiryol	vasút	N;NOM;PL;3	N;NOM;SG
+demiryolları	vasutak	demiryol	vasú	N;NOM;PL;3	N;NOM;PL
+mülteci	menekült	mülteci	menekült		V;INDF;IND;SG;3;PST;FIN;ACT
+mülteci	menekültek	mülteci	menekült		N;NOM;PL
+soyuz	szojuz	soyuz	szojuz		N;NOM;SG
+mafya	maffia	mafya	maffia		N;NOM;SG
+mafya	maffia	mafya	maffia		N;NOM;SG
+liberty	szabadság	liberty	szabadság	PROPN;NOM;SG;3	N;NOM;SG
+carmen	carmen	carmen	carmen	PROPN;NOM;SG;3	
+bakteriler	baktérium	bakter	baktérium	N;NOM;PL;3	N;NOM;SG
+mozambik	mozambik	mozambik	mozambik	PROPN;NOM;SG;3	PROPN;NOM;SG
+faso	faso	faso	faso		PROPN;NOM;SG
+carroll	carroll	carroll	carroll	PROPN;NOM;SG;3	
+chase	hajsza	chase	hajszú	PROPN;NOM;SG;3	N;NOM;SG
+chase	üldözés	chase	üldözés	PROPN;NOM;SG;3	N;NOM;SG
+chase	chase	chase	chase	PROPN;NOM;SG;3	
+içecek	igyál	iç	igyál	V;PFV;IND;POS;FUT	V;INDF;IND;SG;3;PRS;FIN;ACT
+içecek	ital	iç	ital	V;PFV;IND;POS;FUT	N;NOM;SG
+içecek	igy	iç	igy	V;PFV;IND;POS;FUT	
+içecek	ital	iç	ital	V;PFV;IND;POS;FUT	N;NOM;SG
+içecek	italok	iç	ital	V;PFV;IND;POS;FUT	N;NOM;PL
+içecek	italok	iç	ital	V;PFV;IND;POS;FUT	N;NOM;PL
+içecek	italt	iç	ital	V;PFV;IND;POS;FUT	N;ACC;SG
+içecek	iszik	iç	iszik	V;PFV;IND;POS;FUT	V;INDF;IND;SG;3;PRS;FIN;ACT
+içecek	ital	iç	ital	V;PFV;IND;POS;FUT	N;NOM;SG
+nar	gránátalma	nar	gránátalom		N;NOM;SG
+ithaf	elkötelezettség	ithaf	elkötelezettség		N;NOM;SG
+spiral	spirál	spiral	spirál		N;NOM;SG
+çarpma	szorzás	çarp	szorzás		N;NOM;SG
+çarpma	ütközés	çarp	ütközés		N;NOM;SG
+çarpma	becsapódás	çarp	becsapódás		N;NOM;SG
+çarpma	hatás	çarp	hatás		N;NOM;SG
+çarpma	hatása	çarp	hatás		N;NOM;SG
+enstitü	intézet	enstit	intézet		N;NOM;SG
+enstitü	intézmény	enstit	intézmény		N;NOM;SG
+enstitü	intézmény	enstit	intézmény		N;NOM;SG
+enstitü	intézmények	enstit	intézmény		N;NOM;PL
+anal	anális	anal	anális		ADJ;NOM;SG
+haz	gyönyör	haz	gyönyör		N;NOM;SG
+haz	élvezet	haz	élvezet		N;NOM;SG
+haz	örülök	haz	örül		V;DEF;IND;SG;1;PRS;FIN;ACT
+aylar	hónap	ay	hónap		N;NOM;SG
+aylar	hónapokig	ay	hónap		N;PL
+aylar	hónapok	ay	hónap		N;NOM;PL
+ocean	óceán	ocean	óceán	N;NOM;SG;3	
+ocean	ocean	ocean	ocean	N;NOM;SG;3	
+bildiri	nyilatkozat	bildiri	nyilatkozat		N;NOM;SG
+bildiri	nyilatkozata	bildiri	nyilatkozat		N;NOM;SG
+çizgiler	csíkos	çizgi	csíkos	N;NOM;PL;3	
+çizgiler	csíkokat	çizgi	csík	N;NOM;PL;3	N;ACC;PL
+mülkiyet	tulajdon	mülkiyet	tulajdon	N;NOM;SG;3	
+mülkiyet	ingatlanok	mülkiyet	ingatlan	N;NOM;SG;3	N;NOM;PL
+mülkiyet	tulajdonosi	mülkiyet	tulajdonosi	N;NOM;SG;3	ADJ;NOM;SG
+tramvay	villamosok	tramvay	villamos	N;NOM;SG;3	N;NOM;PL
+ithal	import	ithal	import		N;NOM;SG
+ithal	importált	ithal	importált		V;INDF;IND;SG;3;PST;FIN;ACT
+ithal	behozott	ithal	be+hoz		V;INDF;IND;SG;3;PST;FIN;ACT
+ithal	import	ithal	import		N;NOM;SG
+ithal	behozatal	ithal	behozatal		N;NOM;SG
+ithal	importálása	ithal	importálás		N;NOM;SG
+monako	monaco	monako	monaco	PROPN;NOM;SG;3	
+romanlar	roma	roman	roma	N;NOM;PL;3	
+romanlar	regényeket	roman	regény	N;NOM;PL;3	N;ACC;PL
+romanlar	regény	roman	regény	N;NOM;PL;3	N;NOM;SG
+tedarik	ellátási	tedarik	ellátási	N;NOM;SG;3	ADJ;NOM;SG
+tedarik	közbeszerzési	tedarik	közbeszerzési	N;NOM;SG;3	ADJ;NOM;SG
+şiddeti	erőszakos	şiddet	erőszakos	N;NOM;SG;3	ADJ;NOM;SG
+faiz	érdeklődés	faiz	érdeklődés		N;NOM;SG
+faiz	kamat	faiz	kamat		N;NOM;SG
+faiz	kamatok	faiz	kamat		N;NOM;PL
+sembolize	szimbolizálja	sembolize	szimbolizál		V;DEF;IND;SG;3;PRS;FIN;ACT
+çalışanları	alkalmazottak	çalışan	alkalmazott	N;ACC;PL;3	N;NOM;PL
+çalışanları	munkavállalók	çalışan	munkavállaló	N;ACC;PL;3	N;NOM;PL
+çalışanları	foglalkoztatottak	çalışan	foglalkozik	N;ACC;PL;3	V;INDF;IND;PL;3;PST;FIN;ACT
+çalışanları	munkatársak	çalışan	munkatárs	N;ACC;PL;3	N;NOM;PL
+namibya	namíbia	namibya	namíbia	PROPN;NOM;SG;3	
+liège	liège	liège	lisz	PROPN;NOM;SG;3	PROPN;NOM;SG
+survivor	túlélő	survivor	túlélő	N;NOM;SG;3	ADJ;NOM;SG
+şer	gonoszság	şer	gonoszság		N;NOM;SG
+yakalanan	elkapott	yakala	elkapott	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+yakalanan	fogott	yakala	fogott	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+yakalanan	kifogott	yakala	kifogott	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+yakalanan	elfogott	yakala	elfogott	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+yakalanan	elfogták	yakala	el+fog	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;DEF;IND;PL;3;PST;FIN;ACT
+çikolata	csokoládét	çikolata	csokolád		N;ACC;SG
+çikolata	csokoládé	çikolata	csokoládé		N;NOM;SG
+çikolata	csoki	çikolata	csoki		N;NOM;SG
+çikolata	csokoládé	çikolata	csokoládé		N;NOM;SG
+kenarları	szélek	kenar	szél	ADJ;NOM;PL;3	N;NOM;PL
+kayıpları	veszteségek	kayıp	veszteség	N;ACC;PL;3	N;NOM;PL
+kayıpları	veszteség	kayıp	veszteség	N;ACC;PL;3	N;NOM;SG
+balta	fejsze	balta	fejsze		N;NOM;SG
+balta	tengelyek	balta	tengely		N;NOM;PL
+balta	fejsze	balta	fejsze		N;NOM;SG
+izi	ujjlenyomat	izi	ujjlenyom		N;NOM;SG
+izi	nyomtatás	izi	nyomtatás		N;NOM;SG
+ortası	középre	orta	közép		N;ON+ALL;SG
+vakum	szívás	vakum	szívás		N;NOM;SG
+vakum	porszívó	vakum	porszívó		N;NOM;SG
+vakum	vákuum	vakum	vákuum		N;NOM;SG
+mainz	mainz	mainz	mainz	PROPN;NOM;SG;3	
+minogue	minogue	minogue	minogue		N;NOM;SG
+içeriğe	tartalma	içerik	tartalom	N;DAT;SG;3	N;NOM;SG
+içeriğe	tartalom	içerik	tartalom	N;DAT;SG;3	N;NOM;SG
+giorgio	giorgio	giorgio	giorgio	PROPN;NOM;SG;3	
+vida	csavar	vida	csavar		N;NOM;SG
+vida	csavar	vida	csavar		N;NOM;SG
+montpellier	montpellier	montpelli	montpellier	PROPN;NOM;SG;3	N;NOM;SG
+geleceğin	jövőbeli	gelecek	jövőbeli	ADJ;GEN;SG;3	ADJ;NOM;SG
+geleceğin	jövő	gelecek	jövő	ADJ;GEN;SG;3	ADJ;NOM;SG
+şapka	kalap	şapka	kalap		N;NOM;SG
+şapka	kalapot	şapka	kalap		N;ACC;SG
+şapka	sapka	şapka	sapka		N;NOM;SG
+şapka	kalap	şapka	kalap		N;NOM;SG
+şapka	sapka	şapka	sapka		N;NOM;SG
+şapka	kalapot	şapka	kalap		N;ACC;SG
+maine	maine	maine	maine	PROPN;NOM;SG;3	
+hapishane	börtönökben	hapishan	börtönök		N;IN+ESS;SG
+hapishane	börtönök	hapishan	börtönök		N;NOM;PL
+hapishane	börtön	hapishan	börtön		N;NOM;SG
+hapishane	börtönbe	hapishan	börtön		N;IN+ALL;SG
+hapishane	börtön	hapishan	börtön		N;NOM;SG
+hapishane	börtönben	hapishan	börtönben		N;IN+ESS;SG
+yakınlığı	közelség	yakınlık	közelség	N;NOM;SG;3	N;NOM;SG
+churchill	churchill	churchill	churchill	PROPN;NOM;SG;3	
+karakol	állomás	karakol	állomás		N;NOM;SG
+karakol	pályaudvar	karakol	pályaudvar		N;NOM;SG
+karakol	helyőrség	karakol	helyőrség		N;NOM;SG
+tenten	tintin	tent	tint		N;NOM;SG
+lastik	gumi	lastik	gumi		N;NOM;SG
+lastik	gumik	lastik	gumik		N;NOM;PL
+unutulmaz	emlékezetes	unut	emlékezetes	V;IPFV;IND;NEG;V.PTCP;PASS	
+unutulmaz	felejthetetlen	unut	felejthetetlen	V;IPFV;IND;NEG;V.PTCP;PASS	N;NOM;SG
+limit	korlátok	limit	korlát		N;NOM;PL
+limit	korlátozások	limit	korlátozás		N;NOM;PL
+limit	határok	limit	határ		N;NOM;PL
+limit	határértékek	limit	határérték		N;NOM;PL
+limit	határ	limit	határ		N;NOM;SG
+limit	határérték	limit	határérték		N;NOM;SG
+limit	korlát	limit	korlát		N;NOM;SG
+private	magán	privat	maga	N;NOM;SG;3	
+private	privát	privat	priva	N;NOM;SG;3	
+namaz	imát	namaz	imát	N;NOM;SG;3	N;ACC;SG
+ileriye	előre	ileri	előre	ADJ;DAT;SG;3	
+şimdilerde	napjainkban	şimdi	nap	N;ESS;PL;3	N;IN+ESS;PL
+şimdilerde	manapság	şimdi	manapság	N;ESS;PL;3	
+kılıçbalığı	kardhal	kılıçbalık	kard	N;NOM;SG;3	
+alejandro	alejandro	alejandro	alejand		N;NOM;SG
+lancaster	lancaster	lancaster	lancaster	PROPN;NOM;SG;3	
+dizini	könyvtár	diz	Könyvtár	N;ACC;SG;3	N;NOM;SG
+dizini	könyvtárban	diz	könyvtár	N;ACC;SG;3	N;IN+ESS;SG
+dizini	könyvtár	diz	Könyvtár	N;ACC;SG;3	N;NOM;SG
+dizini	dosszié	diz	dosszié	N;ACC;SG;3	N;NOM;SG
+dizini	mappa	diz	mappa	N;ACC;SG;3	N;NOM;SG
+çarşı	pláza	çarşı	pláza		N;NOM;SG
+çarşı	bevásárlóközpont	çarşı	bevásárlóközpon		N;NOM;PL
+gabon	gabon	gabon	gabon	PROPN;NOM;SG;3	
+teorileri	elméletek	teori	elmélet	N;ACC;PL;3	N;NOM;PL
+kesilir	csonka	kes	csonka	V;IPFV;IND;SG;3;POS;PASS	
+istasyonları	állomások	ista	állomás	N;ACC;PL;3	N;NOM;PL
+diyalog	párbeszédre	diyalog	párbeszéd		N;ON+ALL;SG
+diyalog	párbeszéd	diyalog	párbeszéd		N;NOM;SG
+tufan	árvíz	tuf	árvíz		N;NOM;SG
+tufan	özönvíz	tuf	özönvíz		N;NOM;SG
+seçtiği	kiválasztja	seç	ki+választ	V;PFV;IND;POS;PST;V.PTCP	V;DEF;IND;SG;3;PRS;FIN;ACT
+aralıksız	nonstop	aralıksız	nonstop	ADJ	
+aramak	hívás	ara	hívás	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;NOM;SG
+val	val	val	val	INTJ	
+kapitalist	kapitalista	kapitalist	kapitalista		N;NOM;SG
+torpido	torpedó	torpido	torpedó		N;NOM;SG
+mülk	ingatlan	mülk	ingatlan		N;NOM;SG
+mülk	ingatlanok	mülk	ingatlan		N;NOM;PL
+mülk	tulajdonság	mülk	tulajdonság		N;NOM;SG
+lucia	lucia	lucia	lucia	PROPN;NOM;SG;3	
+yenilik	innovációk	yenilik	innováció	N;NOM;SG;3	N;NOM;PL
+yenilik	innovációs	yenilik	innovációs	N;NOM;SG;3	ADJ;NOM;SG
+örtülü	fedett	örtül	fedett	N;NOM;SG;3	
+örtülü	lefedett	örtül	lefed	N;NOM;SG;3	V;INDF;IND;SG;3;PST;FIN;ACT
+örtülü	fedezett	örtül	fedezett	N;NOM;SG;3	V;INDF;IND;SG;3;PST;FIN;ACT
+örtülü	borított	örtül	borít	N;NOM;SG;3	V;INDF;IND;SG;3;PST;FIN;ACT
+örtülü	implicit	örtül	implicit	N;NOM;SG;3	
+saldıran	támadó	sal	támadó	V;PFV;IND;POS;PRS;V.PTCP;CAUS	
+ikram	bánik	ikram	bánik	N;NOM;SG;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+helyum	hélium	helyu	hélium		N;NOM;SG
+ebeveyn	nevelés	ebevey	nevelés		N;NOM;SG
+ebeveyn	szülői	ebevey	szülői		N;NOM;SG
+ebeveyn	szülei	ebevey	szül		N;NOM;PL
+ebeveyn	szülők	ebevey	szülő		N;NOM;PL
+ebeveyn	szüleim	ebevey	szül		N;NOM;PL
+ebeveyn	anyavállalat	ebevey	anyavállalat		N;NOM;SG
+ebeveyn	szülői	ebevey	szülői		N;NOM;SG
+ebeveyn	szülő	ebevey	szülő		N;NOM;SG
+ebeveyn	szülői	ebevey	szülői		N;NOM;SG
+ashley	ashley	ashley	ashley	PROPN;NOM;SG;3	
+levha	lap	levha	lap		N;NOM;SG
+levha	lepedő	levha	lepedő		N;NOM;SG
+levha	tányér	levha	tányér		N;NOM;SG
+levha	lemez	levha	lemez		N;NOM;SG
+levha	tányért	levha	tány		N;ACC;SG
+avcılık	vadászik	avcılık	vadászik	N;NOM;SG;3	V;INDF;IND;SG;3;PRS;FIN;ACT
+avcılık	vadászni	avcılık	vadász	N;NOM;SG;3	V;NFIN;ACT
+avcılık	vadász	avcılık	vadász	N;NOM;SG;3	
+bear	medve	bear	medve	INTJ	N;NOM;SG
+bear	bear	bear	bear	INTJ	
+bear	mackó	bear	mackó	INTJ	N;NOM;SG
+bear	maci	bear	maci	INTJ	N;NOM;SG
+adımlar	lépcső	adım	lépcső	N;NOM;PL;3	N;NOM;SG
+adımlar	lépés	adım	lépés	N;NOM;PL;3	N;NOM;SG
+adımlar	lépéseket	adım	lépés	N;NOM;PL;3	N;ACC;PL
+damla	csepp	dam	csepp		N;NOM;SG
+damla	csepp	dam	csepp		N;NOM;SG
+damla	csepp	dam	csepp		N;NOM;SG
+hazırlandı	felkészült	hazırla	felkészült	V;PFV;IND;SG;3;POS;PST;PASS	
+hazırlandı	elkészítve	hazırla	elkészítve	V;PFV;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+hazırlandı	előkészítve	hazırla	előkészítve	V;PFV;IND;SG;3;POS;PST;PASS	ADV;V.CVB
+hazırlandı	elkészített	hazırla	elkészített	V;PFV;IND;SG;3;POS;PST;PASS	V;INDF;IND;SG;3;PST;FIN;ACT
+keşke	kívánom	keşke	kíván	ADV	V;DEF;IND;SG;1;PRS;FIN;ACT
+keşke	kívánság	keşke	kívánság	ADV	N;NOM;SG
+keşke	bárcsak	keşke	bárcsak	ADV	
+söyle	mondd	söyle	mondd		V;DEF;IMP;SG;1;PRS;FIN;ACT
+söyle	mondd	söyle	mondd		V;DEF;IMP;SG;1;PRS;FIN;ACT
+asır	évszázad	asır	évszázad		N;NOM;SG
+asır	század	asır	század		N;NOM;SG
+anarşist	anarchisták	anarşist	anarchista		N;NOM;PL
+southampton	southampton	southa	southampton	PROPN;NOM;SG;3	N;NOM;SG
+kademeli	fokozatosan	kademeli	fokozatos		ADJ;FRML;SG
+kademeli	fokozatos	kademeli	fokozatos		ADJ;NOM;SG
+reformu	reformok	reform	reform	N;NOM;SG;3	N;NOM;PL
+reformu	reform	reform	reform	N;NOM;SG;3	
+pusu	csapda	pus	csapda		N;NOM;SG
+pusu	rajtaütés	pus	rajtaütés		N;NOM;SG
+ruhani	spirituális	ruhani	spirituális		N;NOM;SG
+santo	santo	santo	santo	PROPN;NOM;SG;3	
+yüzünü	arc	yüz	arc	N;ACC;SG;3	N;NOM;SG
+yüzünü	arca	yüz	az	N;ACC;SG;3	N;NOM;SG
+gsm	gsm	gsm	gsm		N;NOM;SG
+statü	állapot	stat	állap		N;NOM;SG
+statü	státusz	stat	státusz		N;NOM;SG
+gözlemler	észrevétel	gözlem	észrevétel	N;NOM;PL;3	N;NOM;SG
+zone	övezet	zone	övezet		N;NOM;SG
+zone	zóna	zone	zóna		N;NOM;SG
+münchen	münchen	münchen	münchen	PROPN;NOM;SG;3	N;NOM;SG
+pornografik	pornográf	pornografik	pornográf	ADJ	
+beethoven	beethoven	beethoven	beethov	PROPN;NOM;SG;3	
+evre	szakasz	evre	szakasz		N;NOM;SG
+evre	fázis	evre	fázis		N;NOM;SG
+evre	szakaszok	evre	szakasz		N;NOM;PL
+katman	réteg	kat	réteg		N;NOM;SG
+katman	rétegek	kat	réteg		N;NOM;PL
+katman	réteg	kat	réteg		N;NOM;SG
+vitamini	vitaminok	vitam	vitamin	N;NOM;SG;3	N;NOM;PL
+vitamini	vitamin	vitam	vitami	N;NOM;SG;3	N;NOM;SG
+oturdu	ültem	otur	ül	V;PFV;IND;SG;3;POS;PST	V;INDF;IND;SG;1;PST;FIN;ACT
+atlar	lovakat	at	lovak	N;NOM;PL;3	N;ACC;PL
+zehir	méreg	zehir	méreg		N;NOM;SG
+zehir	méreg	zehir	méreg		N;NOM;SG
+küfür	káromkodás	küfür	káromkodás	N;NOM;SG;3	N;NOM;SG
+küfür	istenkáromlás	küfür	istenkáromlás	N;NOM;SG;3	N;NOM;SG
+küfür	káromkodás	küfür	káromkodás	N;NOM;SG;3	N;NOM;SG
+küfür	káromkodás	küfür	káromkodás	N;NOM;SG;3	N;NOM;SG
+hogwarts	roxfort	hogoarts	ro7for		N;NOM;SG
+çalar	játszik	çal	játszik		V;INDF;IND;SG;3;PRS;FIN;ACT
+çalar	lop	çal	lop		V;INDF;IND;SG;3;PRS;FIN;ACT
+ataları	őseink	ata	őseink	N;NOM;PL;3	N;NOM;PL
+ataları	ősök	ata	ősök	N;NOM;PL;3	N;NOM;PL
+tabanca	pistols	tabanca	pistols		N;NOM;SG
+tabanca	pisztoly	tabanca	pisztoly		N;NOM;SG
+tabanca	pisztoly	tabanca	pisztoly		N;NOM;SG
+tabanca	fegyver	tabanca	fegyver		N;NOM;SG
+tabanca	pisztoly	tabanca	pisztoly		N;NOM;SG
+tabanca	revolver	tabanca	revolver		ADV;V.CVB
+togo	togo	togo	togo	PROPN;NOM;SG;3	
+gran	gran	gran	gran	PROPN;NOM;SG;3	
+destiny	végzet	dest	végzet		N;NOM;SG
+destiny	sors	dest	sors		N;NOM;SG
+montgomery	montgomery	montgomery	montgomery	PROPN;NOM;SG;3	
+fiili	ige	fiili	ige		N;NOM;SG
+fiili	igét	fiili	igét		N;ACC;SG

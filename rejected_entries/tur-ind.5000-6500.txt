@@ -1,0 +1,2869 @@
+dedektif	detective	dedek	detective		PROPN
+dedektif	detektif	dedek	detektif		N;SG
+saklı	tersembunyi	saklı	tersembunyi		V;SG;PASS
+saklı	bathin	saklı	bathin		N;SG
+saklı	disembunyikan	saklı	disembunyikan		V;SG;PASS
+saklı	hidden	saklı	hidden		PROPN
+faaliyetler	kegiatan	faaliyet	kegiatan	N;NOM;PL;3	N;SG
+faaliyetler	aktifitas	faaliyet	aktifitas	N;NOM;PL;3	N;SG
+faaliyetler	aktivitas	faaliyet	aktivitas	N;NOM;PL;3	PROPN;SG
+gezegenler	planet	gezegen	planet	N;NOM;PL;3	N;SG
+bileşik	komposit	bileşik	komposit		N;SG
+bileşik	senyawa	bileşik	senyawa		N;SG
+jessica	jessica	jessica	jessica		PROPN
+express	ekspres	express	ekspres	PROPN;NOM;SG;3	N;SG
+express	express	express	express	PROPN;NOM;SG;3	PROPN
+express	ungkapkan	express	ungkapkan	PROPN;NOM;SG;3	V;SG;ACT
+express	mengungkapkan	express	menungkapkan	PROPN;NOM;SG;3	V;SG;ACT
+jefferson	jefferson	jefferson	jefferson	PROPN;NOM;SG;3	PROPN
+berkeley	berkeley	berkeley	berkeley	PROPN;NOM;SG;3	PROPN
+tuhaf	aneh	tuhaf	aneh	N;NOM;SG;3	ADJ;SG
+tuhaf	strange	tuhaf	strange	N;NOM;SG;3	PROPN
+tuhaf	aneh	tuhaf	aneh	N;NOM;SG;3	ADJ;SG
+tuhaf	weird	tuhaf	weird	N;NOM;SG;3	PROPN
+tuhaf	aneh	tuhaf	aneh	N;NOM;SG;3	ADJ;SG
+tuhaf	ganjil	tuhaf	ganjil	N;NOM;SG;3	PROPN;SG
+tuhaf	aneh	tuhaf	aneh	N;NOM;SG;3	ADJ;SG
+şüpheli	dicurigai	şüpheli	dicurigai		V;SG;PASS
+şüpheli	diduga	şüpheli	diduga		ADP;SG;PASS
+şüpheli	tersangka	şüpheli	tersangka		ADP;SG;PASS
+şüpheli	mencurigakan	şüpheli	mencurigakan		V;SG;ACT
+şüpheli	tersangka	şüpheli	tersangka		ADP;SG;PASS
+şüpheli	meragukan	şüpheli	menragukan		V;SG;ACT
+şüpheli	diragukan	şüpheli	diragukan		V;SG;PASS
+şüpheli	ragu	şüpheli	ragu		ADJ;SG
+hâkim	judge	hâkim	judge		PROPN
+hâkim	menghakimi	hâkim	menhakimi		V;SG;ACT
+hâkim	hakim	hâkim	hakim		N;SG
+oregon	oregon	oregon	oregon	PROPN;NOM;SG;3	PROPN
+basket	basketball	basket	basketball	N;NOM;SG;3	PROPN
+basket	hoops	basket	hoops	N;NOM;SG;3	PROPN
+marcel	marcel	marcel	marcel		PROPN
+aaron	aaron	aaron	aaron		PROPN
+açı	angle	aç	angle		N
+açı	sudut	aç	sudut		N;SG
+anma	mengenang	an	menkenang		V;SG;ACT
+anma	memorial	an	menporial		PROPN
+leonardo	leonardo	leonar	leonardo		PROPN
+evans	evans	evans	evans		PROPN
+gustav	gustav	gustav	gustav	PROPN;NOM;SG;3	PROPN
+insani	kemanusiaan	insani	kemanusiaan		N;SG
+insani	manusiawi	insani	manusiawi		N
+insani	manusia	insani	manusia		N;SG
+insani	human	insani	human		PROPN
+camp	camp	camp	camp	N;NOM;SG;3	PROPN
+evil	kejahatan	evil	kejahatan		N;SG
+evil	jahat	evil	jahat		ADJ;SG
+evil	evil	evil	evil		PROPN
+toulouse	toulouse	toulouse	toulouse	PROPN;NOM;SG;3	PROPN
+etkileyici	mengesankan	etkileyici	menkesankan		V;SG;ACT
+etkileyici	menawan	etkileyici	mentawan		V;SG;ACT
+etkileyici	apik	etkileyici	apik		ADJ;SG;ACT
+toplar	meriam	top	meriam		N;SG
+toplar	cannon	top	cannon		PROPN
+toplar	bola	top	bola		N;SG
+toplar	balls	top	balls		PROPN
+abhazya	abkhazia	abhazya	abkhazia	N;NOM;SG;3	PROPN
+kabilesi	tribe	kabile	tribe	N;NOM;SG;3	PROPN
+rafael	raphael	rafael	raphael	PROPN;NOM;SG;3	PROPN
+rafael	halmahera	rafael	halmahera	PROPN;NOM;SG;3	PROPN
+rafael	rafael	rafael	rafael	PROPN;NOM;SG;3	PROPN
+khan	khan	khan	khan		PROPN
+tahsin	tahsin	tahs	tahsin		PROPN
+basra	basra	basra	basra		PROPN
+temsilcileri	perwakilan	temsilci	perwakilan	N;NOM;PL;3	N;SG
+temsilcileri	perwakilan	temsilci	perwakilan	N;NOM;PL;3	N;SG
+bireyler	individu	birey	individu	N;NOM;PL;3	N;SG
+bilal	bilal	bilal	bilal		PROPN
+yetki	otorisasi	yetki	otorisasi		N;SG
+yetki	otoritas	yetki	otoritas		N;SG
+yetki	kewenangan	yetki	kewenangan		N;SG
+yetki	authority	yetki	authority		PROPN
+yetki	otorisasi	yetki	otorisasi		N;SG
+yetki	resmi	yetki	resmi		ADJ;SG
+söğüt	willow	söğüt	willow		PROPN
+sakinleri	penduduk	sakin	penduduk	N;ACC;PL;3	N;SG
+sakinleri	warga	sakin	warga	N;ACC;PL;3	N;SG
+sakinleri	penghuni	sakin	penhuni	N;ACC;PL;3	N;SG
+ceo	ceo	ceo	ceo		PROPN
+benz	benz	benz	benz		PROPN
+necip	najib	nec	najib		PROPN
+integral	integral	integral	integral		N
+detayları	perincian	detay	penrincian	N;NOM;PL;3	N;SG
+detayları	rincian	detay	rincian	N;NOM;PL;3	N;SG
+detayları	detil	detay	detil	N;NOM;PL;3	ADJ;SG
+detayları	detail	detay	detail	N;NOM;PL;3	
+lens	lensa	lens	lensa		N;SG
+lens	lens	lens	lens		PROPN
+hubble	hubble	hubble	hubble		N
+amaçları	tujuan	amaç	tujuan	N;ACC;PL;3	N;SG
+amaçları	objektif	amaç	objektif	N;ACC;PL;3	ADJ
+teker	roda	teker	roda		N;SG
+bafta	bafta	bafta	bafta		N
+izleyici	penampil	izleyici	pentampil		N;SG
+izleyici	pemirsa	izleyici	penpirsa		N;SG
+izleyici	penonton	izleyici	pentonton		N;SG
+izleyici	watcher	izleyici	watcher		PROPN
+izleyici	pemirsa	izleyici	penpirsa		N;SG
+izleyici	penonton	izleyici	pentonton		N;SG
+izleyici	tracker	izleyici	tracker		PROPN
+izleyici	pelacak	izleyici	penlacak		N;SG
+saldırgan	bermusuhan	saldırgan	bermusuhan		V;SG;ACT
+saldırgan	memusuhi	saldırgan	menpusuhi		V;SG;ACT
+saldırgan	permusuhan	saldırgan	permusuhan		N;SG
+saldırgan	ofensif	saldırgan	ofensif		N;SG
+saldırgan	menyinggung	saldırgan	mensinggung		V;SG;ACT
+saldırgan	menghina	saldırgan	menhina		V;SG;ACT
+saldırgan	serangan	saldırgan	serangan		N;SG
+saldırgan	menyerang	saldırgan	menserang		V;SG;ACT
+saldırgan	mengganggu	saldırgan	menganggu		V;SG;ACT
+saldırgan	penyerangnya	saldırgan	penserang		N;SG
+saldırgan	penyerang	saldırgan	penserang		N;SG
+saldırgan	agresif	saldırgan	agresif		ADJ;SG
+oldid	oldid	ol	oldid		PROPN
+nişancı	shooter	nişancı	shooter	N;NOM;SG;3	PROPN
+dörtlü	quad	dörtlü	quad		PROPN
+dörtlü	berempat	dörtlü	berempat		PROPN;SG
+dörtlü	kuartet	dörtlü	kuartet		N;SG
+proton	proton	proton	proton		N;SG
+proton	proton	proton	proton		N;SG
+tamamlanmış	selesai	tamamla	selesai	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADV;SG
+tamamlanmış	melengkapi	tamamla	menlengkapi	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+tamamlanmış	lengkapi	tamamla	lengkapi	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+tamamlanmış	selesaikan	tamamla	selesaikan	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+tamamlanmış	komplit	tamamla	komplit	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADJ;SG
+tamamlanmış	lengkap	tamamla	lengkap	V;PFV;NFH;IND;SG;3;POS;PST;PASS	ADJ;SG
+tilki	fox	tilki	fox		PROPN
+tilki	rubah	tilki	rubah		N
+süleymaniye	sulaymaniyah	süleyman	sulaymaniyah	V;PFV;DAT;IND;POS;PRS;V.MSDR	N
+perküsyon	perkusi	perküsyon	perkusi		N
+kayıtlar	pendaftaran	kayıt	pendaftaran	N;NOM;PL;3	N;SG
+kayıtlar	catatan	kayıt	catatan	N;NOM;PL;3	N;SG
+kayıtlar	rekor	kayıt	rekor	N;NOM;PL;3	N;SG
+kayıtlar	records	kayıt	records	N;NOM;PL;3	PROPN
+engebeli	bergelombang	engebel	bergelombang		V;SG;ACT
+hamam	hamam	hamam	hamam		PROPN
+hamam	hammam	hamam	hammam		PROPN
+hamam	sauna	hamam	sauna		N;SG
+tropikal	tropical	tropikal	tropical	N;NOM;SG;3	PROPN
+bang	bang	bang	bang		PROPN
+gotik	goth	gotik	goth		PROPN
+gotik	goth	gotik	goth		PROPN
+gotik	gotik	gotik	gotik		N
+gotik	gothic	gotik	gothic		PROPN
+yenişehir	yenişehir	yenişehir	yenişehir	PROPN;NOM;SG;3	PROPN
+jst	jst	jst	jst		PROPN
+makedon	makedonia	makedon	makedonia		PROPN
+wembley	wembley	wembley	wembley	PROPN;NOM;SG;3	PROPN
+mantar	jamur	mantar	jamur		N;SG
+mantar	jamur	mantar	jamur		N;SG
+mantar	jamur	mantar	jamur		N;SG
+mantar	gabus	mantar	gabus		N;SG
+mantar	cork	mantar	cork		PROPN
+gösteriler	penampilan	göster	pentampilan	N;NOM;PL;3	N;SG
+gösteriler	pertunjukan	göster	pertunjukan	N;NOM;PL;3	N;SG
+gösteriler	demonstrasi	göster	demonstrasi	N;NOM;PL;3	N;SG
+hope	harapan	hope	harapan		N;SG
+hope	asa	hope	asa		PROPN;SG
+hope	hope	hope	hope		PROPN
+deneyimli	mengalami	deneyimli	menalami		V;SG;ACT
+deneyimli	berpengalaman	deneyimli	berpengalaman		V;SG;ACT
+nedenleri	alasan	neden	alasan	N;ACC;PL;3	N;SG
+nedenleri	penyebabnya	neden	pensebab	N;ACC;PL;3	N;SG
+nedenleri	penyebab	neden	pensebab	N;ACC;PL;3	N;SG
+nedenleri	menyebabkan	neden	mensebabkan	N;ACC;PL;3	V;SG;ACT
+zara	zara	zara	zara		PROPN
+dosyaları	berkas	dosya	berkas	N;NOM;PL;3	N;SG
+dosyaları	file	dosya	file	N;NOM;PL;3	N;SG
+hart	hart	hart	hart		PROPN
+özbek	uzbekistan	özbek	uzbekistan		N
+yatak	ranjang	yatak	ranjang	N;NOM;SG;3	PROPN;SG
+yatak	bed	yatak	bed	N;NOM;SG;3	PROPN
+yatak	ranjang	yatak	ranjang	N;NOM;SG;3	PROPN;SG
+tünel	tunnel	tünel	tunnel		N
+tünel	terowongan	tünel	terowongan		N;SG
+tünel	terowongan	tünel	terowongan		N;SG
+armstrong	armstrong	armstrong	armstrong		PROPN
+hamile	hamil	hamile	hamil		PROPN;SG
+satılan	sold	sat	sold	V;PFV;IND;POS;PRS;V.PTCP;PASS	PROPN
+robbie	robbie	robbie	robbie		PROPN
+akrabalık	nasab	akrabalık	nasab	N;NOM;SG;3	PROPN
+akrabalık	kinship	akrabalık	kinship	N;NOM;SG;3	PROPN
+amino	amino	amino	amino		N
+allan	allan	allan	allan		PROPN
+gore	kebrutalan	gore	kebrutalan		N;SG
+gore	gore	gore	gore		PROPN
+temizlik	membersihkan	temizlik	menbersihkan	N;NOM;SG;3	V;SG;ACT
+temizlik	membersihkan	temizlik	menbersihkan	N;NOM;SG;3	V;SG;ACT
+kapanış	penutup	kapa	pentutup	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+kapanış	penutupan	kapa	pentutupan	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+kapanış	penutupan	kapa	pentutupan	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+kapanış	menutup	kapa	mentutup	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;SG;ACT
+kapanış	closing	kapa	closing	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	PROPN
+kapanış	epilog	kapa	epilog	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N
+galeri	galeri	galer	galeri		N;SG
+galeri	gallery	galer	gallery		PROPN
+dilek	wish	dilek	wish		PROPN
+dilek	berharap	dilek	berharap		V;SG;ACT
+dilek	dilek	dilek	dilek		PROPN
+dilek	berharap	dilek	berharap		V;SG;ACT
+nintendo	nintendo	nintendo	nintendo	PROPN;NOM;SG;3	N
+trans	kesurupan	trans	kesurupan		N;SG
+trans	kerasukan	trans	kerasukan		N;SG
+trans	trans	trans	trans		PROPN
+trans	trans	trans	trans		PROPN
+çiftliği	ranch	çiftlik	ranch	N;ACC;SG;3	PROPN
+zirvesi	summit	zirve	summit	N;NOM;SG;3	PROPN
+mountain	mountain	mountain	mountain	N;NOM;SG;3	PROPN
+hugh	hugh	hugh	hugh		PROPN
+orleans	orleans	orleans	orleans	PROPN;NOM;SG;3	PROPN
+kanıtlar	bukti	kanıt	bukti	N;NOM;PL;3	N;SG
+diana	diana	dian	diana		PROPN
+barok	barok	barok	barok		N
+ud	lute	ud	lute		N
+maraş	maras	maraş	maras		PROPN
+gnu	gnu	gn	gnu		PROPN
+wien	wien	wien	wien	PROPN;NOM;SG;3	PROPN
+wien	wina	wien	wina	PROPN;NOM;SG;3	PROPN
+pete	pete	pete	pete		PROPN
+tanıtımı	berpromosi	tanıtım	berpromosi	N;NOM;SG;3	V;SG;ACT
+tanıtımı	mempromosikan	tanıtım	menpromosikan	N;NOM;SG;3	V;SG;ACT
+tanıtımı	dipromosikan	tanıtım	dipromosikan	N;NOM;SG;3	V;SG;PASS
+tanıtımı	mempromosikannya	tanıtım	menpromosikan	N;NOM;SG;3	V;SG;ACT
+tanıtımı	promosikan	tanıtım	promosikan	N;NOM;SG;3	V;SG;ACT
+tanıtımı	promote	tanıtım	promote	N;NOM;SG;3	PROPN
+tanıtımı	mempromosikan	tanıtım	menpromosikan	N;NOM;SG;3	V;SG;ACT
+glasgow	glasgow	glasgow	glasgow	PROPN;NOM;SG;3	PROPN
+duvarları	tembok	duvar	tembok	N;ACC;PL;3	N;SG
+duvarları	dinding	duvar	dinding	N;ACC;PL;3	N;SG
+lille	lille	lille	lille	PROPN;NOM;SG;3	PROPN
+sevda	rpp	sevda	rpp		N;SG
+sevda	love	sevda	love		PROPN
+sevda	cintai	sevda	cintai		V;SG;ACT
+sevda	cinta	sevda	cinta		N;SG
+tören	upacara	tör	upacara		N;SG
+tören	ritual	tör	ritual		N
+çekirdeği	core	çekir	core	N;NOM;SG;3	PROPN
+çekirdeği	inti	çekir	inti	N;NOM;SG;3	PROPN;SG
+çekirdeği	kada	çekir	kada	N;NOM;SG;3	PROPN
+çankaya	çankaya	çankaya	çankaya	PROPN;NOM;SG;3	PROPN
+bayat	apek	bayat	apek		PROPN
+bayat	basi	bayat	basi		ADJ;SG
+bayat	basi	bayat	basi		ADJ;SG
+memphis	memphis	memphis	menphis	PROPN;NOM;SG;3	PROPN
+müslümanların	muslim	müslüman	muslim	N;GEN;PL;3	N;SG
+cadı	penyihir	cadı	pensihir		N;SG
+cadı	witch	cadı	witch		PROPN
+patlayıcı	peledak	patlayıcı	penledak		N;SG
+patlayıcı	peledak	patlayıcı	penledak		N;SG
+ufuk	cakrawala	ufuk	cakrawala		N;SG
+ufuk	skyline	ufuk	skyline		PROPN
+ufuk	cakrawala	ufuk	cakrawala		N;SG
+ufuk	ufuk	ufuk	ufuk		PROPN
+ufuk	horizon	ufuk	horizon		PROPN
+kader	destiny	kader	destiny		PROPN
+kader	takdir	kader	takdir		N;SG
+kader	nasib	kader	nasib		N;SG
+kader	takdir	kader	takdir		N;SG
+werner	werner	werner	werner	PROPN;NOM;SG;3	PROPN
+nihai	ultimate	nihai	ultimate		PROPN
+erich	erich	erich	erich		PROPN
+nem	kelembaban	nem	kelembaban		N;SG
+nem	kelembaban	nem	kelembaban		N;SG
+çılgın	gila	çılgın	gila		ADJ;SG
+çılgın	wild	çılgın	wild		PROPN
+çılgın	liar	çılgın	liar		N;SG
+çılgın	crazy	çılgın	crazy		PROPN
+çılgın	gila	çılgın	gila		ADJ;SG
+çılgın	mad	çılgın	mad		PROPN
+çılgın	marah	çılgın	marah		ADJ;SG
+çılgın	gila	çılgın	gila		ADJ;SG
+üstünlük	superior	üstünlük	superior	N;NOM;SG;3	PROPN
+üstünlük	unggul	üstünlük	unggul	N;NOM;SG;3	ADJ;SG
+yarıda	terganggu	yarı	terganggu	N;ESS;SG;3	V;SG;PASS
+radar	sonar	radar	sonar		N
+radar	radar	radar	radar		N
+porno	porno	porno	porno		N;SG
+porno	pornografi	porno	pornografi		N
+porno	porno	porno	porno		N;SG
+porno	porn	porno	porn		PROPN
+pol	pol	pol	pol		PROPN
+hayati	vital	hayati	vital		N
+hayati	hayati	hayati	hayati		N;SG
+madison	madison	madison	madison	PROPN;NOM;SG;3	PROPN
+patinaj	skating	patinaj	skating	N;NOM;SG;3	PROPN
+patinaj	berseluncur	patinaj	berseluncur	N;NOM;SG;3	PROPN;SG;ACT
+tang	tang	tang	tang		PROPN
+kürtler	kurdi	kürt	kurdi	N;NOM;PL;3	PROPN
+belgeler	dokumen	belge	dokumen	N;NOM;PL;3	N;SG
+belgeler	dokumen	belge	dokumen	N;NOM;PL;3	N;SG
+belgeler	dokumentasi	belge	dokumentasi	N;NOM;PL;3	N;SG
+roland	roland	roland	roland		PROPN
+uçar	lalat	uç	lalat		N;SG
+adın	nama	ad	nama		N;SG
+kobe	kobe	kobe	kobe	PROPN;NOM;SG;3	PROPN
+wanderers	pengembara	wanderers	penkembara	PROPN;NOM;SG;3	N;SG
+garcía	garcia	garc	garcia	PROPN;NOM;SG;3	PROPN
+garcía	garcía	garc	garcía	PROPN;NOM;SG;3	PROPN
+taktik	taktik	taktik	taktik		N;SG
+taktik	taktik	taktik	taktik		N;SG
+taktik	taktis	taktik	taktis		N;SG
+dst	dst	dst	dst		PROPN
+talat	talat	talat	talat		PROPN
+geyik	elk	geyik	elk	N;NOM;SG;3	PROPN
+geyik	moose	geyik	moose	N;NOM;SG;3	PROPN
+geyik	deer	geyik	deer	N;NOM;SG;3	PROPN
+siteleri	situs	site	situs	N;ACC;PL;3	N;SG
+siteleri	website	site	website	N;ACC;PL;3	N;SG
+noktalar	dots	nokta	dots	N;NOM;PL;3	PROPN
+noktalar	noktah	nokta	noktah	N;NOM;PL;3	N;SG
+noktalar	titik	nokta	titik	N;NOM;PL;3	N;SG
+noktalar	poin	nokta	poin	N;NOM;PL;3	N;SG
+noktalar	bintik	nokta	bintik	N;NOM;PL;3	N;SG
+yuva	home	yuva	home		PROPN
+yuva	rumah	yuva	rumah		N;SG
+yuva	pulang	yuva	pulang		V;SG;ACT
+yuva	sarang	yuva	sarang		N;SG
+yuva	nest	yuva	nest		PROPN
+uzayı	ruang	uza	ruang		N;SG
+uzayı	spasi	uza	spasi		N
+uzayı	space	uza	space		PROPN
+uzayı	angkasa	uza	angkasa		N;SG
+por	por	por	por		PROPN
+montana	montana	monta	montana		PROPN
+orda	ada	ora	ada	N;ESS;SG;3	V;SG
+ovacık	ovacık	ovacık	ovacık	N;NOM;SG;3	PROPN
+nesli	generation	nesli	generation		PROPN
+nesli	generasi	nesli	generasi		N;SG
+koltuk	seat	koltuk	seat	N;NOM;SG;3	PROPN
+yara	scar	yara	scar		PROPN
+yara	parut	yara	parut		N;SG
+yara	cedera	yara	cedera		N;SG
+yara	melukai	yara	menlukai		V;SG;ACT
+yara	cidera	yara	cidera		N;SG
+yara	luka	yara	luka		N;SG
+birleşmesi	merger	birleş	merger	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+kayak	ski	kayak	ski	N;NOM;SG;3	PROPN
+kayak	kayak	kayak	kayak	N;NOM;SG;3	PART
+kayak	ski	kayak	ski	N;NOM;SG;3	PROPN
+kayak	ski	kayak	ski	N;NOM;SG;3	PROPN
+kayak	berseluncur	kayak	berseluncur	N;NOM;SG;3	PROPN;SG;ACT
+icd	icd	icd	icd		PROPN
+alabama	alabama	alaba	alabama	PROPN;NOM;SG;3	PROPN
+çevreleyen	sekitarnya	çevrele	sekitar	V;PFV;IND;POS;PRS;V.PTCP	N
+çevreleyen	seputar	çevrele	seputar	V;PFV;IND;POS;PRS;V.PTCP	
+cole	cole	cole	cole		PROPN
+akif	akif	akif	akif		PROPN
+bombası	granat	bomba	granat		PROPN
+montreal	montreal	montreal	montreal	PROPN;NOM;SG;3	PROPN
+masters	masters	masters	masters		PROPN
+masters	master	masters	master		PROPN
+fikirleri	opini	fikir	opini	N;NOM;PL;3	N;SG
+fikirleri	pendapat	fikir	pendapat	N;NOM;PL;3	N;SG
+fikirleri	gagasan	fikir	gagasan	N;NOM;PL;3	N;SG
+fikirleri	ide	fikir	ide	N;NOM;PL;3	N;SG
+politikalar	kebijakan	politika	kebijakan	N;NOM;PL;3	N;SG
+engeller	rintangan	engel	rintangan		N;SG
+engeller	blok	engel	blok		N;SG
+engeller	pemblokiran	engel	penblokiran		N;SG
+engeller	blokir	engel	blokir		PROPN;SG;ACT
+engeller	hambatan	engel	hambatan		N;SG
+engeller	rintangan	engel	rintangan		N;SG
+lorenzo	lorenzo	lorenzo	lorenzo	PROPN;NOM;SG;3	PROPN
+cehennem	hell	cehenne	hell	N;NOM;SG;3	PROPN
+cehennem	neraka	cehenne	neraka	N;NOM;SG;3	PROPN;SG
+cehennem	inferno	cehenne	inferno	N;NOM;SG;3	PROPN
+çarpışma	impact	çarpış	impact	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+çarpışma	dampak	çarpış	dampak	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+çarpışma	benturan	çarpış	benturan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+çarpışma	bentrokan	çarpış	bentrokan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+çarpışma	clash	çarpış	clash	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+çarpışma	tabrakan	çarpış	tabrakan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+atmosfer	atmosfer	atmosfer	atmosfer		N;SG
+atmosfer	atmosfer	atmosfer	atmosfer		N;SG
+atmosfer	suasana	atmosfer	suasana		N;SG
+atmosfer	atmosfir	atmosfer	atmosfir		N;SG
+kompozisyon	essay	kompozisyon	essay	N;NOM;SG;3	PROPN
+walt	walt	walt	walt		PROPN
+primera	primera	primer	primera	PROPN;NOM;SG;3	N
+grace	grace	grace	grace		PROPN
+grace	rahmat	grace	rahmat		N;SG
+haberleşme	komunikasi	haberleş	komunikasi		N;SG
+haberleşme	telekomunikasi	haberleş	telekomunikasi		N
+haberleşme	telekomunikasi	haberleş	telekomunikasi		N
+haberleşme	komunikasi	haberleş	komunikasi		N;SG
+haberleşme	communications	haberleş	communications		PROPN
+cena	cena	cena	cena		PROPN
+vandal	vandal	vandal	vandal		PROPN
+sportif	sporty	sportif	sporty		N
+jung	jeong	jung	jeong		PROPN
+jung	jung	jung	jung		PROPN
+sihirli	sihir	sihirli	sihir		N;SG
+sihirli	ajaib	sihirli	ajaib		ADJ;SG
+sihirli	magic	sihirli	magic		PROPN
+sihirli	sulap	sihirli	sulap		N;SG
+sihirli	ajaib	sihirli	ajaib		ADJ;SG
+sihirli	magis	sihirli	magis		N
+korsan	hacker	kors	hacker	V;PFV;SG;2;POS;PRS	N;SG
+korsan	peretas	kors	peretas	V;PFV;SG;2;POS;PRS	N;SG
+korsan	pirate	kors	pirate	V;PFV;SG;2;POS;PRS	PROPN
+korsan	pembajak	kors	penbajak	V;PFV;SG;2;POS;PRS	N;SG
+korsan	pirates	kors	pirates	V;PFV;SG;2;POS;PRS	PROPN
+korsan	perompak	kors	penrompak	V;PFV;SG;2;POS;PRS	N
+church	gereja	church	gereja	PROPN;NOM;SG;3	N;SG
+church	church	church	church	PROPN;NOM;SG;3	PROPN
+ot	panci	ot	panci		N;SG
+ot	pot	ot	pot		N
+ot	periuk	ot	periuk		N
+ot	rumput	ot	rumput		N;SG
+ot	grass	ot	grass		PROPN
+ot	rerumputan	ot	rerumputan		N;SG
+ot	ganja	ot	ganja		N
+ot	gulma	ot	gulma		N;SG
+izleri	trek	iz	trek	N;ACC;PL;3	PROPN
+everton	everton	everton	everton		N
+fukuoka	fukuoka	fukuoka	fukuoka	PROPN;NOM;SG;3	PROPN
+wagner	wagner	wagner	wagner	PROPN;NOM;SG;3	PROPN
+marvel	marvel	marvel	marvel		PROPN
+split	belah	split	belah	PROPN;NOM;SG;3	
+split	pecah	split	pecah	PROPN;NOM;SG;3	V;SG;ACT
+split	split	split	split	PROPN;NOM;SG;3	PROPN
+split	pisah	split	pisah	PROPN;NOM;SG;3	N;SG;ACT
+necmettin	necmettin	necmet	necmettin		PROPN
+olympique	olympique	olympique	olympique	PROPN;NOM;SG;3	PROPN
+tugay	brigade	tugay	brigade		PROPN
+markası	brand	marka	brand	N;NOM;SG;3	PROPN
+kinetik	kinetik	kinetik	kinetik		N;SG
+öldürdü	dibunuh	öl	dibunuh	V;PFV;IND;SG;3;POS;PST;CAUS	V;SG;PASS
+öldürdü	tewas	öl	tewas	V;PFV;IND;SG;3;POS;PST;CAUS	ADJ;SG
+öldürdü	terbunuh	öl	terbunuh	V;PFV;IND;SG;3;POS;PST;CAUS	V;SG;PASS
+fransızlar	prancis	fransız	prancis	N;NOM;PL;3	PROPN;SG
+fransızlar	perancis	fransız	perancis	N;NOM;PL;3	PROPN;SG
+esen	bertiup	es	bertiup		PROPN;SG;ACT
+esen	meniup	es	mentiup		V;SG;ACT
+esen	hembusan	es	hembusan		N;SG
+esen	berhembus	es	berhembus		V;SG;ACT
+rosa	rosa	rosa	rosa	PROPN;NOM;SG;3	PROPN
+self	diri	self	diri		N;SG
+self	self	self	self		PROPN
+ein	ein	ein	ein	INTJ	PROPN
+iddiaları	tuduhannya	iddia	tuduhan	N;NOM;PL;3	N;SG
+bakteri	bakteri	bakteri	bakteri		N;SG
+bakteri	bakteri	bakteri	bakteri		N;SG
+özlem	kerinduan	özlem	kerinduan		N;SG
+özlem	merindu	özlem	menrindu		PROPN
+özlem	kerinduan	özlem	kerinduan		N;SG
+özlem	keinginan	özlem	keinginan		N;SG
+özlem	ngidam	özlem	ngidam		N
+tekil	keunikan	tekil	keunikan		N;SG
+tekil	unik	tekil	unik		ADJ;SG
+tekil	unique	tekil	unique		PROPN
+tekil	tunggal	tekil	tunggal		ADJ;SG
+url	url	url	url	N;NOM;SG;3	PROPN
+abdi	abdi	abdi	abdi		PROPN
+leningrad	leningrad	leningrad	leningrad		PROPN
+castle	kastil	cast	kastil		N
+castle	istana	cast	istana		N;SG
+castle	castle	cast	castle		PROPN
+castle	benteng	cast	benteng		N
+rain	xiaoyu	rain	xiaoyu		PROPN
+rain	hujan	rain	hujan		N;SG
+rain	rain	rain	rain		PROPN
+eugene	eugene	eugen	eugene	PROPN;NOM;SG;3	PROPN
+çakmak	ringan	çak	ringan		ADJ;SG
+çakmak	pemantik	çak	penmantik		N;SG
+evrimsel	evolusioner	evrimsel	evolusioner		N;SG
+spin	berputar	spin	berputar		V;SG;ACT
+spin	spin	spin	spin		PROPN
+spin	putar	spin	putar		N;SG
+kaldırma	menghapus	kaldırma	menhapus		V;SG;ACT
+kaldırma	angkat	kaldırma	angkat		N;SG;ACT
+kaldırma	lift	kaldırma	lift		N
+kaldırma	mengangkatnya	kaldırma	menangkat		V;SG;ACT
+kaldırma	mengangkat	kaldırma	menangkat		V;SG;ACT
+kaldırma	penghilangan	kaldırma	penhilangan		N;SG
+kaldırma	penghapusan	kaldırma	penhapusan		N;SG
+emmanuel	emmanuel	emmanuel	emmanuel		PROPN
+gregory	gregory	gregory	gregory		PROPN
+gregory	gregorius	gregory	gregorius		PROPN
+aşı	vaksin	aş	vaksin		N;SG
+aşı	inokulasi	aş	inokulasi		N;SG
+aşı	vaksin	aş	vaksin		N;SG
+emiri	emiri	emir	emiri		PROPN
+feneri	mercusuar	fener	mercusuar		N
+atanan	ditugaskan	ata	ditugaskan		V;SG;PASS
+atanan	ditetapkan	ata	ditetapkan		V;SG;PASS
+atanan	ditunjuk	ata	ditunjuk		V;SG;PASS
+esasen	dasarnya	esasen	dasar		N;SG
+ahlak	vice	ahlak	vice	N;NOM;SG;3	PROPN
+dimitri	dmitry	dimitri	dmitry		PROPN
+dimitri	dmitri	dimitri	dmitri		PROPN
+dimitri	dimitri	dimitri	dimitri		PROPN
+duyuruldu	mengumumkan	duyur	menumumkan	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+duyuruldu	umumkan	duyur	umumkan	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+malmö	malmö	malmö	malmö	PROPN;NOM;SG;3	PROPN
+sözde	dugaan	söz	dugaan		N;SG
+sözde	diduga	söz	diduga		ADP;SG;PASS
+şiddetle	sangat	şiddet	sangat	N;INS;SG;3	ADV
+şiddetle	kuat	şiddet	kuat	N;INS;SG;3	ADJ;SG
+ajan	agen	aj	agen		PROPN;SG
+ajan	agen	aj	agen		PROPN;SG
+ajan	agent	aj	agent		PROPN
+harrison	harrison	harrison	harrison	PROPN;NOM;SG;3	PROPN
+yasin	yasin	yasin	yasin		PROPN
+kaçak	runner	kaçak	runner		PROPN
+kaçak	pelari	kaçak	pelari		N;SG
+kaçak	buronan	kaçak	buronan		N
+kaçak	pelarian	kaçak	penlarian		N;SG
+çevirmen	penerjemah	çevir	penterjemah		N;SG
+çevirmen	penerjemah	çevir	penterjemah		N;SG
+çevirmen	translation	çevir	translation		PROPN
+çevirmen	terjemahan	çevir	terjemahan		N;SG
+çevirmen	penerjemahan	çevir	penterjemahan		N;SG
+korunma	perlindungan	korun	perlindungan		N;SG
+korunma	proteksi	korun	proteksi		N;SG
+işçiler	pekerja	işçi	pekerja	N;NOM;PL;3	N;SG
+işçiler	karyawan	işçi	karyawan	N;NOM;PL;3	N;MASC;SG
+devil	setan	devil	setan		PROPN;SG
+devil	iblis	devil	iblis		PROPN;SG
+devil	devil	devil	devil		PROPN
+connecticut	connecticut	connecticut	connecticut		PROPN
+uyku	tidur	uyku	tidur		N;SG;ACT
+uyku	sleep	uyku	sleep		PROPN
+uyku	tidur	uyku	tidur		N;SG;ACT
+uyku	sleeping	uyku	sleeping		PROPN
+meksikalı	meksiko	meksikalı	meksiko		PROPN;SG
+tanıma	pengakuan	tanım	penakuan		N;SG
+colin	collin	colin	collin		PROPN
+colin	colin	colin	colin		PROPN
+golcü	scorer	golcü	scorer		N
+kubbe	kubah	kubbe	kubah		N
+kubbe	dome	kubbe	dome		PROPN
+rakam	digit	rakam	digit		N;SG
+rakam	digit	rakam	digit		N;SG
+rakam	angka	rakam	angka		N;SG
+rakam	nomor	rakam	nomor		N;SG
+rakam	bilangan	rakam	bilangan		N;SG
+rakam	nomer	rakam	nomer		PROPN;SG
+rakam	bilangan	rakam	bilangan		N;SG
+jules	jules	jules	jules		PROPN
+görüşmeler	interview	görüşme	interview	N;NOM;PL;3	PROPN
+görüşmeler	wawancara	görüşme	wawancara	N;NOM;PL;3	N;SG
+görüşmeler	diskusi	görüşme	diskusi	N;NOM;PL;3	N;SG
+görüşmeler	rapat	görüşme	rapat	N;NOM;PL;3	N;SG
+görüşmeler	pertemuan	görüşme	pertemuan	N;NOM;PL;3	N;SG
+imal	diproduksi	imal	diproduksi		V;SG;PASS
+patrik	patriarkh	patrik	patriarkh		N
+marsilya	marseille	marsilya	marseille	N;NOM;SG;3	PROPN
+marsilya	marseille	marsilya	marseille	N;NOM;SG;3	PROPN
+asil	mulia	asil	mulia		ADJ;SG
+asil	noble	asil	noble		PROPN
+sürpriz	kejutan	sürpriz	kejutan		N;SG
+hotspur	hotspur	hotspur	hotspur	PROPN;NOM;SG;3	N
+esnek	fleksibel	esnek	fleksibel		ADJ;SG
+esnek	fleksibilitas	esnek	fleksibilitas		N
+esnek	fleksibel	esnek	fleksibel		ADJ;SG
+esnek	elastis	esnek	elastis		N
+esnek	flex	esnek	flex		PROPN
+cameron	cameron	cameron	cameron	PROPN;NOM;SG;3	PROPN
+lopez	lopez	lopez	lopez		PROPN
+rıfat	rifat	rıfat	rifat	PROPN;NOM;SG;3	PROPN
+şikâyet	pengaduan	şikâyet	penaduan		N;SG
+şikâyet	keluhan	şikâyet	keluhan		N;SG
+şikâyet	komplain	şikâyet	komplain		N;SG
+kalıntılar	residu	kalıntı	residu	N;NOM;PL;3	N;SG
+kalıntılar	puing	kalıntı	puing	N;NOM;PL;3	N;SG
+günah	dosa	günah	dosa		N;SG
+günah	sin	günah	sin		PROPN
+günah	dosa	günah	dosa		N;SG
+mide	perutnya	mide	perut		N;SG
+mide	lambung	mide	lambung		N;SG
+mide	perut	mide	perut		N;SG
+parma	parma	parma	parma	PROPN;NOM;SG;3	PROPN
+mehdi	mehdi	mehdi	mehdi		PROPN
+denizci	pelaut	denizci	penlaut		N;SG
+denizci	sailor	denizci	sailor		PROPN
+denizci	pelaut	denizci	penlaut		N;SG
+denizci	marinir	denizci	marinir		N
+denizci	marine	denizci	marine		PROPN
+denizci	laut	denizci	laut		N;SG
+denizci	kelautan	denizci	kelautan		N;SG
+denizci	pelaut	denizci	penlaut		N;SG
+denizci	seaman	denizci	seaman		PROPN
+rika	rika	rika	rika	PROPN;NOM;SG;3	PROPN
+joel	joel	joel	joel		PROPN
+bulgur	bulgur	bulgur	bulgur	N;NOM;SG;3	PROPN
+yazıyor	penulisan	yaz	pentulisan	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+elena	elena	elen	elena		PROPN
+elena	yelena	elen	yelena		PROPN
+volga	volga	volga	volga		PROPN
+kanatlı	bersayap	kanatlı	bersayap		PROPN;SG;ACT
+vestfalya	westfalen	vestfalya	westfalen	PROPN;NOM;SG;3	PROPN
+crystal	kristal	crystal	kristal	PROPN;NOM;SG;3	N;SG
+crystal	crystal	crystal	crystal	PROPN;NOM;SG;3	PROPN
+julian	julian	julian	julian		PROPN
+pasaportu	passport	pasaport	passport	N;ACC;SG;3	PROPN
+duyarlı	responsif	duyarlı	responsif		ADJ;SG
+duyarlı	tanggap	duyarlı	tanggap		N;SG;ACT
+duyarlı	peka	duyarlı	peka		ADJ;SG
+duyarlı	sensitif	duyarlı	sensitif		ADJ;SG
+şampiyonları	juara	şampiyon	juara	N;NOM;PL;3	N;SG
+fritz	fritz	fritz	fritz	PROPN;NOM;SG;3	PROPN
+etken	factor	etken	factor		PROPN
+etken	faktor	etken	faktor		N;SG
+depo	gudang	depo	gudang		N;SG
+depo	penyimpanan	depo	pensimpanan		N;SG
+depo	repositori	depo	repositori		N;SG
+nişan	aim	nişan	aim		PROPN
+nişan	bidik	nişan	bidik		PROPN;SG
+nişan	april	nişan	april		PROPN;SG
+nişan	keterlibatan	nişan	keterlibatan		N;SG
+nişan	engagement	nişan	engagement		PROPN
+nişan	pertunangan	nişan	pertunangan		N;SG
+nişan	interaksi	nişan	interaksi		N;SG
+emine	emine	em	emine		PROPN
+burton	burton	burton	burton		PROPN
+stanford	stanford	stanford	stanford	PROPN;NOM;SG;3	PROPN
+hac	ziarah	hac	ziarah		N
+hac	haji	hac	haji		PROPN
+planlı	terjadwal	planlı	terjadwal		V;SG;PASS
+planlı	dijadwalkan	planlı	dijadwalkan		V;SG;PASS
+planlı	merencanakan	planlı	menrencanakan		V;SG;ACT
+planlı	terencana	planlı	terrencana		V;SG;PASS
+planlı	direncanakan	planlı	direncanakan		V;SG;PASS
+çerçeve	framework	çerçev	framework	N;NOM;SG;3	PROPN
+çerçeve	menjebak	çerçev	menjebak	N;NOM;SG;3	V;SG;ACT
+artı	ditambah	artı	ditambah		V;SG;PASS
+artı	plus	artı	plus		PROPN
+protokol	protokol	protokol	protokol		N;SG
+edinburgh	edinburgh	edinburgh	edinburgh	PROPN;NOM;SG;3	PROPN
+tanımlama	definisinya	tanımla	definisi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	definisi	tanımla	definisi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	identifikasi	tanımla	identifikasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	uraian	tanımla	uraian	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	deskripsi	tanımla	deskripsi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	keterangan	tanımla	keterangan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tanımlama	karakterisasi	tanımla	karakterisasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+rovers	rovers	rovers	rovers		N
+tutulması	gerhana	tut	gerhana	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N
+tutulması	gerhana	tut	gerhana	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N
+tutulması	eclipse	tut	eclipse	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	PROPN
+jedi	jedi	jedi	jedi		PROPN
+torres	torres	torres	torres	PROPN;NOM;SG;3	PROPN
+genişletilmiş	perluasan	genişle	perluasan	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG
+genişletilmiş	mengembang	genişle	menkembang	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	PROPN;SG;ACT
+genişletilmiş	memperluas	genişle	menperluas	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;SG;ACT
+kompleks	komplek	kompleks	komplek		N;SG
+kompleks	complex	kompleks	complex		PROPN
+kompleks	rumit	kompleks	rumit		ADJ;SG
+kompleks	kompleks	kompleks	kompleks		N;SG
+lazio	lazio	lazio	lazio	PROPN;NOM;SG;3	PROPN
+nevada	nevada	neva	nevada	PROPN;NOM;SG;3	PROPN
+irfan	irfan	irfan	irfan		PROPN
+eskimo	eskimo	eskimo	eskimo		PROPN
+eskimo	eskimo	eskimo	eskimo		PROPN
+eskimo	inuit	eskimo	inuit		PROPN
+eskimo	iglo	eskimo	iglo		N;SG
+ekvador	ekuador	ekvador	ekuador	PROPN;NOM;SG;3	PROPN;SG
+çeşitlilik	variety	çeşitlilik	variety	N;NOM;SG;3	PROPN
+sankt	sankt	sankt	sankt	PROPN;NOM;SG;3	N
+barselona	barcelona	barselon	barcelona	PROPN;NOM;SG;3	PROPN
+çekilmesi	penarikan	çek	pentarikan	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+fosil	fosil	fosil	fosil		N;SG
+fosil	fossil	fosil	fossil		PROPN
+fosil	fosil	fosil	fosil		N;SG
+hüsrev	khosrau	hüsrev	khosrau		PROPN
+tevrat	taurat	tevrat	taurat		PROPN;SG
+silindir	silinder	sil	silinder	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+silindir	cylinder	sil	cylinder	V;PFV;IND;SG;3;POS;PST;PASS	PROPN
+silindir	silinder	sil	silinder	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+market	grosir	market	grosir		N;SG
+market	pasar	market	pasar		N;SG
+milas	milas	milas	milas	PROPN;NOM;SG;3	PROPN
+chi	chi	chi	chi		PROPN;SG;ACT
+chi	khi	chi	khi		PROPN
+nitelikli	berkualitas	nitelikli	berkualitas		V;SG;ACT
+nitelikli	berkualifikasi	nitelikli	berkualifikasi		V;SG;ACT
+şii	syiah	şii	syiah		PROPN;SG
+defteri	notebook	defteri	notebook	N;NOM;SG;3	PROPN
+nbc	nbc	nbc	nbc		PROPN
+milyonlarca	jutaan	milyonlarca	jutaan	NUM	N;SG
+milyonlarca	berjuta	milyonlarca	berjuta	NUM	PROPN;SG;ACT
+dâhil	disertakan	dâhil	disertakan		V
+dâhil	termasuk	dâhil	termasuk		V
+dâhil	menyertakan	dâhil	menyertakan		V
+dâhil	diikutsertakan	dâhil	diikutsertakan		V;SG;PASS
+savcı	jaksa	savcı	jaksa		N;SG
+winter	winter	winte	winter	PROPN;NOM;SG;3	PROPN
+iade	pengembalian	iade	penkembalian		N;SG
+iade	mengembalikan	iade	menkembalikan		V;SG;ACT
+iade	kembali	iade	kembali		V;SG;ACT
+iade	return	iade	return		PROPN
+iade	ekstradisi	iade	ekstradisi		N
+sola	kiri	sola	kiri		N;SG
+sola	tersisa	sola	tersisa		V;SG;PASS
+maggie	maggie	maggie	maggie		PROPN
+bıçak	blade	bıçak	blade		PROPN
+bıçak	pisau	bıçak	pisau		N;SG
+bıçak	pisau	bıçak	pisau		N;SG
+bıçak	knife	bıçak	knife		PROPN
+nikola	nicola	nikol	nicola		PROPN
+nikola	nikola	nikol	nikola		PROPN
+hıristiyanlık	kristen	hıristiyanlık	kristen	N;NOM;SG;3	PROPN;SG
+kararları	resolusi	karar	resolusi	N;ACC;PL;3	N;SG
+kararları	keputusan	karar	keputusan	N;ACC;PL;3	N;SG
+kaldırmak	menghapus	kal	menhapus	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;SG;ACT
+kaldırmak	mengangkatnya	kal	menangkat	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;SG;ACT
+kaldırmak	mengangkat	kal	menangkat	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;SG;ACT
+nietzsche	nietzsche	nietzsche	nietzsche		N
+ntv	ntv	itv	ntv		PROPN
+komut	perintah	komut	perintah		N;SG
+komut	perintah	komut	perintah		N;SG
+komut	komando	komut	komando		PROPN;SG
+yöneticiler	manajer	yönetici	manajer	N;NOM;PL;3	N;SG
+yöneticiler	pengelola	yönetici	penkelola	N;NOM;PL;3	N;SG
+yöneticiler	direksi	yönetici	direksi	N;NOM;PL;3	N;SG
+yöneticiler	sutradara	yönetici	sutradara	N;NOM;PL;3	N;SG
+yöneticiler	pengurus	yönetici	penurus	N;NOM;PL;3	N;SG
+yöneticiler	administrator	yönetici	administrator	N;NOM;PL;3	N;SG
+yöneticiler	penguasa	yönetici	penkuasa	N;NOM;PL;3	N;SG
+yöneticiler	admin	yönetici	admin	N;NOM;PL;3	PROPN
+yöneticiler	pengurus	yönetici	penurus	N;NOM;PL;3	N;SG
+yöneticiler	eksekutif	yönetici	eksekutif	N;NOM;PL;3	N;SG
+kayalık	rocky	kayalık	rocky		PROPN
+görüşme	perundingan	görüşme	penrundingan		N;SG
+görüşme	interview	görüşme	interview		PROPN
+görüşme	wawancarai	görüşme	wawancarai		V;SG;ACT
+görüşme	wawancara	görüşme	wawancara		N;SG
+statik	static	statik	static		PROPN
+statik	statik	statik	statik		N;SG
+statik	statis	statik	statis		N;SG
+lima	lima	lima	lima	PROPN;NOM;SG;3	NUM
+baltimore	baltimore	baltimore	baltimore	PROPN;NOM;SG;3	PROPN
+aydınlık	light	aydınlık	light	N;NOM;SG;3	PROPN
+aydınlık	terang	aydınlık	terang	N;NOM;SG;3	ADJ;SG
+aydınlık	ringan	aydınlık	ringan	N;NOM;SG;3	ADJ;SG
+aydınlık	terang	aydınlık	terang	N;NOM;SG;3	ADJ;SG
+aydınlık	bright	aydınlık	bright	N;NOM;SG;3	PROPN
+aydınlık	cerah	aydınlık	cerah	N;NOM;SG;3	ADJ;SG
+bizanslılar	bizantium	bizanslı	bizantium	N;NOM;PL;3	PROPN
+bergama	bergama	berga	bergama		PROPN;SG
+ine	ine	in	ine		PROPN
+felix	felix	felix	felix		PROPN
+neolitik	neolitik	neolitik	neolitik		PROPN
+maryland	maryland	marylan	maryland	PROPN;NOM;SG;3	PROPN
+glory	kemuliaan	glory	kemuliaan		N;SG
+glory	glory	glory	glory		PROPN
+sorar	bertanya	sor	bertanya		V;SG;ACT
+brad	brad	brad	brad		PROPN
+hakkari	hakkari	hakkari	hakkari	N;NOM;SG;3	
+randy	randy	randy	randy		PROPN
+kilit	lock	kilit	lock		PROPN
+kilit	mengunci	kilit	menkunci		V;SG;ACT
+kilit	kunci	kilit	kunci		N;SG
+kilit	gembok	kilit	gembok		N;SG
+kilit	mengunci	kilit	menkunci		V;SG;ACT
+kilit	penguncian	kilit	penuncian		N;SG
+kilit	gembok	kilit	gembok		N;SG
+kıdemli	senioritas	kıdemli	senioritas		N
+kıdemli	senior	kıdemli	senior		N;SG
+fethiye	fethiye	fethi	fethiye	PROPN;NOM;SG;3	PROPN
+sektörü	sektor	sektör	sektor		N;SG
+igor	egor	igor	egor		PROPN
+igor	igor	igor	igor		PROPN
+miles	miles	miles	miles		PROPN
+miles	mil	miles	mil		N;SG
+hatice	khadijah	hatice	khadijah		PROPN
+tecrübeli	mengalami	tecrübeli	menalami		V;SG;ACT
+tecrübeli	berpengalaman	tecrübeli	berpengalaman		V;SG;ACT
+borç	utang	borç	utang		N;SG
+borç	hutang	borç	hutang		N;SG
+borç	pinjaman	borç	pinjaman		N;SG
+borç	utang	borç	utang		N;SG
+borç	hutang	borç	hutang		N;SG
+yönetmenlik	menyutradarai	yönetmenlik	mensutradarai	N;NOM;SG;3	V;SG;ACT
+yönetmenlik	mengarahkan	yönetmenlik	menkarahkan	N;NOM;SG;3	V;SG;ACT
+çekme	derek	çek	derek		N
+çekme	towing	çek	towing		N
+viktor	viktor	viktor	viktor		PROPN
+sincan	xinjiang	sincan	xinjiang	PROPN;NOM;SG;3	PROPN;SG
+claire	claire	claire	claire		PROPN
+étienne	étienne	üt	étienne		PROPN
+spurs	spurs	spurs	spurs	PROPN;NOM;SG;3	N
+çifti	sepasang	çift	sepasang	ADJ;NOM;SG;3	
+çifti	pasangan	çift	pasangan	ADJ;NOM;SG;3	N;SG
+çifti	pair	çift	pair	ADJ;NOM;SG;3	PROPN
+çifti	couple	çift	couple	ADJ;NOM;SG;3	PROPN
+tanık	saksi	tanık	saksi		N;SG
+tanık	saksi	tanık	saksi		N;SG
+tanık	disaksikan	tanık	disaksikan		V;SG;PASS
+tanık	menyaksikan	tanık	mensaksikan		V;SG;ACT
+hafız	hafiz	hafız	hafiz		PROPN
+hafız	hafidz	hafız	hafidz		PROPN
+belarus	belarus	belarus	belarus	PROPN;NOM;SG;3	PROPN
+belarus	belarusia	belarus	belarusia	PROPN;NOM;SG;3	PROPN
+periyodik	periodik	periyodik	periodik		N
+periyodik	berkala	periyodik	berkala		PROPN;SG;ACT
+çömlek	tembikar	çömlek	tembikar		N;SG
+çömlek	keramik	çömlek	keramik		N;SG
+aileleri	keluarga	aile	keluarga	N;ACC;PL;3	N;SG
+falcon	elang	falcon	elang		N
+falcon	falcon	falcon	falcon		N
+jamie	jamie	jamie	jamie		PROPN
+boğa	taurus	boğa	taurus		N;SG
+boğa	banteng	boğa	banteng		N;SG
+boğa	bull	boğa	bull		PROPN
+oranları	harga	oran	harga	N;ACC;PL;3	N;SG
+oranları	tarif	oran	tarif	N;ACC;PL;3	N;SG
+sporcular	atlet	sporcu	atlet	N;NOM;PL;3	N;SG
+sporcular	atlit	sporcu	atlit	N;NOM;PL;3	N;SG
+sporcular	olahragawan	sporcu	olahragawan	N;NOM;PL;3	N;SG
+norveçli	norwegia	norveçli	norwegia		PROPN
+mutfak	masakan	mutfak	masakan		N;SG
+mutfak	kitchen	mutfak	kitchen		PROPN
+mutfak	dapur	mutfak	dapur		N
+eleştirmen	kritikus	eleştir	kritikus		N;SG
+eleştirmen	kritik	eleştir	kritik		N;SG
+gilbert	gilbert	gilbert	gilbert		PROPN
+spartak	spartak	spartak	spartak		PROPN
+carolina	carolina	carol	carolina	PROPN;NOM;SG;3	PROPN
+carolina	carolina	carol	carolina	PROPN;NOM;SG;3	PROPN
+cihazlar	perangkat	cihaz	perangkat	N;NOM;PL;3	N;SG
+janet	janet	janet	janet		PROPN
+okumak	read	oku	read	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+okumak	pembacaan	oku	penbacaan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+okumak	bacaan	oku	bacaan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+okumak	reading	oku	reading	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+ural	ural	ural	ural		PROPN
+sembol	simbol	sembol	simbol		N;SG
+sembol	chevron	sembol	chevron		PROPN
+christina	christina	christin	christina	PROPN;DAT;SG;3	PROPN
+bildirir	beritahukan	bil	beritahukan	V;IPFV;IND;SG;3;POS;CAUS	V;SG;ACT
+uzmanlık	khusus	uzmanlık	khusus	N;NOM;SG;3	ADJ;SG
+mesih	mesias	mesih	mesias		PROPN
+keşfi	temuan	keşif	temuan		N;SG
+keşfi	penemuan	keşif	pentemuan		N;SG
+keşfi	discovery	keşif	discovery		PROPN
+chaplin	chaplin	chaplin	chaplin		PROPN
+tay	colt	tay	colt		N
+tay	tay	tay	tay		PROPN
+olivier	olivier	olivier	olivier		PROPN
+çete	geng	çete	geng		N;SG
+çete	gang	çete	gang		N
+foster	foster	foster	foster	PROPN;NOM;SG;3	PROPN
+foster	foster	foster	foster	PROPN;NOM;SG;3	PROPN
+foster	memupuk	foster	menpupuk	PROPN;NOM;SG;3	V;SG;ACT
+fotoğrafçı	photographer	fotoğrafçı	photographer		N
+fotoğrafçı	fotografer	fotoğrafçı	fotografer		N;SG
+grönland	greenland	grönla	greenland		PROPN
+soykırım	genosida	soykırım	genosida		N;SG
+soykırım	holocaust	soykırım	holocaust		PROPN
+ibm	ibm	ibm	ibm		PROPN
+faith	faith	faith	faith		PROPN
+faith	iman	faith	iman		N;SG
+faith	keyakinan	faith	keyakinan		N;SG
+faith	keimanan	faith	keimanan		N;SG
+key	kunci	key	kunci		N;SG
+key	key	key	key		PROPN
+peri	nimfa	peri	nimfa		N
+peri	peri	peri	penri		N;SG
+peri	fairy	peri	fairy		PROPN
+çizim	sketch	çiz	sketch		PROPN
+çizim	sketsa	çiz	sketsa		N;SG
+çizim	gambar	çiz	gambar		N;SG
+çizim	menggambar	çiz	mengambar		V;SG;ACT
+ihracat	ekspor	ihracat	ekspor		N;SG
+ihracat	ekspor	ihracat	ekspor		N;SG
+shane	shane	shane	shane		PROPN
+simetrik	simetris	simetrik	simetris		N;SG
+mah	mah	mah	mah	PROPN;NOM;SG;3	PROPN
+infaz	eksekusi	infaz	eksekusi		N;SG
+infaz	dieksekusi	infaz	dieksekusi		V;SG;PASS
+infaz	eksekusi	infaz	eksekusi		N;SG
+infaz	pelaksanaan	infaz	penlaksanaan		N;SG
+yüzük	ring	yüzük	ring	N;NOM;SG;3	PROPN
+yüzük	rings	yüzük	rings	N;NOM;SG;3	PROPN
+genişleme	pembesaran	genişle	penbesaran	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+genişleme	pelebaran	genişle	penlebaran	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+genişleme	perluasan	genişle	perluasan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+genişleme	ekspansi	genişle	ekspansi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+tekke	tekke	tekke	tekke		PROPN
+bağlanmış	lampirkan	bağla	lampirkan	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+bağlanmış	terlampir	bağla	terlampir	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N
+bağlanmış	bound	bağla	bound	V;PFV;NFH;IND;SG;3;POS;PST;PASS	PROPN
+aramaya	mencari	ara	mencari	V;PFV;DAT;IND;POS;PRS;V.MSDR	PROPN;SG;ACT
+aramaya	pencarian	ara	pencarian	V;PFV;DAT;IND;POS;PRS;V.MSDR	N;SG
+yanlışlıkla	keliru	yanlışlık	keliru	N;INS;SG;3	ADJ;SG
+lezbiyen	lesbi	lezbiyen	lesbi		PROPN
+lezbiyen	dyke	lezbiyen	dyke		PROPN
+lezbiyen	gili	lezbiyen	gili		PROPN
+lezbiyen	lesbian	lezbiyen	lesbian		PROPN
+lezbiyen	lesbian	lezbiyen	lesbian		PROPN
+tutsak	tawanan	tutsak	tawanan		N;SG
+tutsak	tahanan	tutsak	tahanan		N;SG
+tutsak	tawan	tutsak	tawan		PROPN;SG
+tutsak	tawanan	tutsak	tawanan		N;SG
+tutsak	tahanan	tutsak	tahanan		N;SG
+tutsak	narapidana	tutsak	narapidana		N
+tutsak	penangkaran	tutsak	pentangkaran		N;SG
+sonsuza	forever	sonsuz	forever	ADJ;DAT;SG;3	PROPN
+sonsuza	selamanya	sonsuz	selama	ADJ;DAT;SG;3	N;SG
+emily	emily	emily	emily		PROPN
+haiti	haiti	hait	haiti		N
+haiti	haiti	hait	haiti		N
+üçüncüsü	sepertiga	üçüncü	sepertiga	ADJ;NOM;SG;3	NUM
+üçüncüsü	ketiga	üçüncü	ketiga	ADJ;NOM;SG;3	NUM
+buluşma	tanggal	buluş	tanggal	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG;ACT
+buluşma	tgl	buluş	tgl	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+buluşma	rapat	buluş	rapat	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+buluşma	meeting	buluş	meeting	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+buluşma	pertemuan	buluş	pertemuan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+kazanma	memenangkan	kazan	menmenangkan		V;SG;ACT
+korkut	menakuti	korkut	mentakuti		V;SG;ACT
+korkut	takut	korkut	takut		ADJ;SG
+korkut	scare	korkut	scare		PROPN
+fikirler	opini	fikir	opini	N;NOM;PL;3	N;SG
+fikirler	pendapat	fikir	pendapat	N;NOM;PL;3	N;SG
+fikirler	gagasan	fikir	gagasan	N;NOM;PL;3	N;SG
+fikirler	ide	fikir	ide	N;NOM;PL;3	N;SG
+liderlik	memimpin	liderlik	menpimpin	N;NOM;SG;3	V;SG;ACT
+temelde	dasarnya	temel	dasar	ADJ;ESS;SG;3	N;SG
+jimnastik	senam	jimnastik	senam		N;SG
+sağlanan	asalkan	sağla	asalkan	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+garcia	garcia	garcia	garcia	PROPN;NOM;SG;3	PROPN
+sembolik	simbolis	sembolik	simbolis		ADJ;SG
+sembolik	simbolik	sembolik	simbolik		N;SG
+sembolik	simbolis	sembolik	simbolis		ADJ;SG
+minimum	minimum	minim	minimum	N;NOM;SG;3	ADJ;SG
+minimum	minimal	minim	minimal	N;NOM;SG;3	ADJ;SG
+minimum	minimal	minim	minimal	N;NOM;SG;3	ADJ;SG
+minimum	minim	minim	minim	N;NOM;SG;3	ADJ;SG
+cbs	cbs	cbs	cbs		PROPN
+cbs	gis	cbs	gis		PROPN
+yen	yen	yen	yen		PROPN
+joey	joey	joey	joey		PROPN
+asistan	penduduk	asistan	penduduk		N;SG
+asistan	resident	asistan	resident		N
+asistan	residen	asistan	residen		N
+asistan	pembantu	asistan	penbantu		N;SG
+asistan	asisten	asistan	asisten		N;SG
+karşılaşma	korek	karşılaşma	korek		N;SG;ACT
+karşılaşma	cocok	karşılaşma	cocok		ADJ;SG
+karşılaşma	pertandingan	karşılaşma	pertandingan		N;SG
+karşılaşma	kecocokan	karşılaşma	kecocokan		N;SG
+bitkisel	herbal	bitkisel	herbal		N;SG
+bitkisel	sayuran	bitkisel	sayuran		N;SG
+bitkisel	nabati	bitkisel	nabati		N;SG
+bitkisel	sayur	bitkisel	sayur		N;SG
+bitkisel	vegetatif	bitkisel	vegetatif		N
+sedan	sedan	sedan	sedan	PROPN;NOM;SG;3	N;SG
+sedan	sedan	sedan	sedan	PROPN;NOM;SG;3	N;SG
+topluluklar	komunitas	topluluk	komunitas	N;NOM;PL;3	N;SG
+topluluklar	masyarakat	topluluk	masyarakat	N;NOM;PL;3	N;SG
+veronica	veronica	veronica	veronica		PROPN
+hentbol	handball	hentbol	handball	N;NOM;SG;3	PROPN
+hentbol	hantam	hentbol	hantam	N;NOM;SG;3	ADJ;SG
+derinliği	mendalam	derinlik	mendalam	N;ACC;SG;3	V;SG;ACT
+beğeni	peringkat	beğen	peringkat		N;SG
+beğeni	penilaian	beğen	pennilaian		N;SG
+beğeni	rating	beğen	rating		N
+beğeni	suka	beğen	suka		V;SG
+beğeni	menyukai	beğen	mensukai		V;SG;ACT
+beğeni	sukanya	beğen	suka		N;SG
+beğeni	kesukaan	beğen	kesukaan		N;SG
+beğeni	penghargaan	beğen	penhargaan		N;SG
+beğeni	apresiasi	beğen	apresiasi		N;SG
+şifreleme	enkripsi	şifrele	enkripsi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+şifreleme	kripto	şifrele	kripto	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+şifreleme	kriptografi	şifrele	kriptografi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+galileo	galileo	gal	galileo		PROPN
+chuck	chuck	chuck	chuck		PROPN
+goethe	goethe	goethe	goethe		PROPN
+wales	wales	wales	wales	PROPN;NOM;SG;3	PROPN
+kadı	qadhi	kadı	qadhi		PROPN
+fetih	penaklukan	fetih	pentaklukan		N;SG
+fetih	menaklukan	fetih	mentaklukan		V;SG;ACT
+fetih	menaklukkan	fetih	mentaklukkan		V;SG;ACT
+kulüpleri	klub	kulüp	klub	N;ACC;PL;3	N;SG
+kulüpleri	club	kulüp	club	N;ACC;PL;3	PROPN
+kulüpleri	keriting	kulüp	keriting	N;ACC;PL;3	N;SG
+beyan	pernyataan	beyan	pernyataan		N;SG
+beyan	deklarasi	beyan	deklarasi		N;SG
+engellendi	memblokir	engelle	menblokir		V;SG;ACT
+engellendi	diblokir	engelle	diblokir		N
+engellendi	diblok	engelle	diblok		PROPN
+engellendi	blokir	engelle	blokir		PROPN;SG;ACT
+engellendi	terblokir	engelle	terblokir		V;SG;PASS
+taklit	peniruan	taklit	pentiruan		N;SG
+taklit	penyamaran	taklit	pensamaran		N;SG
+taklit	meniru	taklit	mentiru		V;SG;ACT
+taklit	tiru	taklit	tiru		V;SG;ACT
+taklit	imitasi	taklit	imitasi		N
+taklit	tiruan	taklit	tiruan		N;SG
+chan	chan	chan	chan		PROPN
+aras	aras	aras	aras		N;SG
+yakalandı	ketahuan	yakala	ketahuan	V;PFV;IND;SG;3;POS;PST;PASS	
+çekimler	tembakan	çekim	tembakan	N;NOM;PL;3	N;SG
+çekimler	shots	çekim	shots	N;NOM;PL;3	PROPN
+kaybeder	kehilangan	kaybet	kehilangan	V;IPFV;IND;SG;3;POS	N;SG
+milletvekilleri	deputi	milletvekili	deputi	N;NOM;PL;3	N;SG
+milletvekilleri	mps	milletvekili	mps	N;NOM;PL;3	PROPN
+mevsim	musiman	mevsim	musiman		N;SG
+mevsim	season	mevsim	season		PROPN
+mevsim	musim	mevsim	musim		N;SG
+mevsim	musimnya	mevsim	musim		N;SG
+mevsim	seasons	mevsim	seasons		PROPN
+mevsim	musim	mevsim	musim		N;SG
+videoları	videonya	video	video	N;ACC;PL;3	N;SG
+videoları	video	video	video	N;ACC;PL;3	N;SG
+videoları	videos	video	videos	N;ACC;PL;3	PROPN
+analitik	analytical	analitik	analytical		PROPN
+bulma	menemukan	bul	mentemukan		V;SG;ACT
+bulma	bulma	bul	bulma		PROPN
+bahreyn	bahrain	bahrey	bahrain	PROPN;NOM;SG;3	PROPN;SG
+sarp	curam	sarp	curam		N
+maccabi	maccabi	maccabi	maccabi		PROPN
+atp	atp	atp	atp		PROPN
+turne	tour	tur	tour		PROPN
+turne	tur	tur	tur		N
+turne	wisata	tur	wisata		N;SG
+turne	touring	tur	touring		N
+kaydedilen	merekam	kaydet	menrekam	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;SG;ACT
+sipariş	memesan	sipariş	menpesan	N;NOM;SG;3	V;SG;ACT
+sipariş	order	sipariş	order	N;NOM;SG;3	PROPN
+ağaçlar	pepohonan	ağaç	pepohonan	N;NOM;PL;3	N;SG
+ağaçlar	pohon	ağaç	pohon	N;NOM;PL;3	N;SG
+bern	bern	bern	bern	PROPN;NOM;SG;3	PROPN
+bulanık	fuzzy	bulanık	fuzzy		PROPN
+bulanık	kabur	bulanık	kabur		V;SG
+bulanık	dikaburkan	bulanık	dikaburkan		V;SG;PASS
+bulanık	kabur	bulanık	kabur		V;SG
+ispat	buktikan	ispat	buktikan		V;SG;ACT
+gözlemci	pengamat	gözlemci	pengamat		N;SG
+gözlemci	observer	gözlemci	observer		PROPN
+gerilla	gerilyawan	geril	gerilyawan		N;MASC;SG
+gerilla	gerilya	geril	gerilya		N
+gerilla	gerilya	geril	gerilya		N
+dolaşım	sirkulasi	dolaşım	sirkulasi		N;SG
+dolaşım	peredaran	dolaşım	peredaran		N;SG
+dolaşım	roaming	dolaşım	roaming		PROPN
+anlamsız	gunanya	anlamsız	guna	ADJ	N;SG
+bataklık	swampy	bataklık	swampy	N;NOM;SG;3	PROPN
+bataklık	paya	bataklık	paya	N;NOM;SG;3	PROPN
+bataklık	marsh	bataklık	marsh	N;NOM;SG;3	PROPN
+katılacak	menghadiri	kat	menhadiri	V;PFV;IND;SG;3;POS;FUT;PASS	V;SG;ACT
+palermo	palermo	palermo	palermo	PROPN;NOM;SG;3	PROPN
+göller	lakes	göl	lakes	N;NOM;PL;3	PROPN
+göller	danau	göl	danau	N;NOM;PL;3	N;SG
+blackburn	blackburn	blackburn	blackburn	PROPN;NOM;SG;3	PROPN
+eklenmiş	menambahkan	ekle	mentambahkan	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+çar	tsar	çar	tsar		PROPN
+farkında	menyadari	fark	mensadari	N;ESS;SG;3	V;SG;ACT
+farkında	sadar	fark	sadar	N;ESS;SG;3	;SG
+asi	rebel	asi	rebel		PROPN
+asi	pemberontak	asi	penberontak		N;SG
+greg	greg	greg	greg		PROPN
+tyler	tyler	iy	tyler		PROPN
+ilaçlar	kedokteran	ilaç	kedokteran	N;NOM;PL;3	N;SG
+ilaçlar	obat	ilaç	obat	N;NOM;PL;3	N;SG
+ilaçlar	pil	ilaç	pil	N;NOM;PL;3	N;SG
+nielsen	nielsen	niel	nielsen		PROPN
+yahudilere	yahudi	yahudi	yahudi	N;DAT;PL;3	PROPN;SG
+yasadışı	illegal	yasa	illegal		PROPN
+yasadışı	ilegal	yasa	ilegal		N;SG
+yasadışı	terlarang	yasa	terlarang		PROPN;SG;PASS
+viking	viking	viking	viking		PROPN
+gps	gps	gps	gps	N;NOM;SG;3	PROPN
+medeni	civil	meden	civil		PROPN
+medeni	sipil	meden	sipil		ADJ;SG
+medeni	perdata	meden	perdata		N
+medeni	beradab	meden	beradab		V;SG;ACT
+fiziki	jasmani	fizik	jasmani		N
+fiziki	fisik	fizik	fisik		N;SG
+riski	resiko	riski	resiko		N;SG
+riski	risiko	riski	risiko		PROPN;SG
+quebec	quebec	quebec	quebec	PROPN;NOM;SG;3	PROPN
+teşhis	mengidentifikasi	teşhis	menidentifikasi	N;NOM;SG;3	V;SG;ACT
+tavşan	wabbit	tavşan	wabbit		PROPN
+tavşan	hare	tavşan	hare		PROPN
+tavşan	kelinci	tavşan	kelinci		N
+tavşan	kelinci	tavşan	kelinci		N
+tavşan	bunny	tavşan	bunny		PROPN
+tavşan	kelinci	tavşan	kelinci		N
+tavşan	rabbit	tavşan	rabbit		PROPN
+thunder	guntur	thunder	guntur		PROPN
+thunder	guruh	thunder	guruh		PROPN;SG
+thunder	thunder	thunder	thunder		PROPN
+thunder	petir	thunder	petir		N;SG
+yaklaşan	mendatang	yaklaş	mendatang	V;PFV;IND;POS;PRS;V.PTCP	ADJ;SG
+hayvanat	zoo	hayvanat	zoo	ADJ;NOM;SG;3	PROPN
+köprülü	köprülü	köprülü	köprülü		PROPN
+luigi	luigi	luigi	luigi		PROPN
+iğne	sematkan	iğne	sematkan	N;NOM;SG;3	
+iğne	pin	iğne	pin	N;NOM;SG;3	PROPN
+dokuma	tenun	dokum	tenun		N
+dokuma	menenun	dokum	mentenun		PROPN
+dokuma	menganyam	dokum	menanyam		V;SG;ACT
+dokuma	menenun	dokum	mentenun		PROPN
+dokuma	tenun	dokum	tenun		N
+eşsiz	tergantikan	eşsiz	tergantikan	ADJ	V;SG;PASS
+eşsiz	keunikan	eşsiz	keunikan	ADJ	N;SG
+eşsiz	unique	eşsiz	unique	ADJ	PROPN
+nicole	nicole	nicol	nicole		PROPN
+katılımcılar	peserta	katılımcı	peserta	N;NOM;PL;3	N;SG
+katılımcılar	partisipan	katılımcı	partisipan	N;NOM;PL;3	N;SG
+katılımcılar	peserta	katılımcı	peserta	N;NOM;PL;3	N;SG
+ellen	ellen	el	ellen		PROPN
+deve	unta	deve	unta		N;SG
+deve	unta	deve	unta		N;SG
+deve	camel	deve	camel		PROPN
+granada	granada	grana	granada	PROPN;ESS;SG;3	PROPN
+vokalist	vokalis	vokalist	vokalis		N;SG
+vokalist	vokal	vokalist	vokal		N;SG
+wesley	wesley	wesley	wesley		PROPN
+selahaddin	saladin	selahaddi	saladin		PROPN
+ameliyat	bedah	ameliyat	bedah	N;NOM;SG;3	PROPN
+mercury	mercury	mercury	mercury	PROPN;NOM;SG;3	PROPN
+mercury	merkuri	mercury	merkuri	PROPN;NOM;SG;3	N;SG
+mercury	merkurius	mercury	merkurius	PROPN;NOM;SG;3	N;SG
+mercury	raksa	mercury	raksa	PROPN;NOM;SG;3	N;SG
+pearl	pearl	pearl	pearl		PROPN
+pearl	mutiara	pearl	mutiara		N;SG
+beckett	beckett	beckett	beckett		PROPN
+kaplar	kontainer	kap	kontainer	N;NOM;PL;3	N;SG
+kaplar	wadah	kap	wadah	N;NOM;PL;3	N;SG
+harfler	letters	harf	letters	N;NOM;PL;3	PROPN
+harfler	huruf	harf	huruf	N;NOM;PL;3	N;SG
+taşlar	batu	taş	batu	ADJ;NOM;PL;3	N;SG
+taşlar	batuan	taş	batuan	ADJ;NOM;PL;3	N;SG
+taşlar	rocks	taş	rocks	ADJ;NOM;PL;3	PROPN
+hesaplama	komputasi	hesaplama	komputasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	komputer	hesaplama	komputer	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	kalkulasi	hesaplama	kalkulasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	perhitungan	hesaplama	perhitungan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	penghitungan	hesaplama	penhitungan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	perhitungan	hesaplama	perhitungan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	kalkulasi	hesaplama	kalkulasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+madagaskar	madagaskar	madagaskar	madagaskar	N;NOM;SG;3	PROPN
+madagaskar	madagascar	madagaskar	madagascar	N;NOM;SG;3	PROPN
+cohen	cohen	cohen	cohen		PROPN
+ekvator	khatulistiwa	ekvator	khatulistiwa		N
+ekvator	ekuador	ekvator	ekuador		PROPN;SG
+anayasal	konstitusional	anayasal	konstitusional		N
+jonas	jonas	jonas	jonas		PROPN
+ekler	menambahkan	ek	mentambahkan		V;SG;ACT
+ekler	penambahan	ek	pentambahan		N;SG
+karen	karen	karen	karen		PROPN
+pascal	pascal	pascal	pascal		PROPN;SG
+çarpan	pengganda	çarp	penganda		N;SG
+esp	eta	esp	eta		PROPN
+esp	esp	esp	esp		PROPN
+laurent	laurent	laurent	laurent	PROPN;NOM;SG;3	PROPN
+motorları	mesin	motor	mesin	N;ACC;PL;3	N;SG
+nazif	nazif	nazif	nazif		PROPN
+touch	touch	touch	touch		PROPN
+touch	sentuhan	touch	sentuhan		N;SG
+discovery	discovery	discovery	discovery	N;NOM;SG;3	PROPN
+kürek	mendayung	kürek	mendayung		V;SG;ACT
+kürek	sekop	kürek	sekop		N;SG
+kürek	dayung	kürek	dayung		N;SG
+kürek	dayung	kürek	dayung		N;SG
+kürek	baris	kürek	baris		N;SG
+kürek	row	kürek	row		PROPN
+simpsonlar	simpsons	simpson	simpsons	N;NOM;PL;3	PROPN
+bilbao	bilbao	bilbao	bilbao	PROPN;NOM;SG;3	PROPN
+bahçeleri	gardens	bahçe	gardens	N;ACC;PL;3	PROPN
+bahçeleri	kebun	bahçe	kebun	N;ACC;PL;3	N;SG
+lütfi	lutfi	lütfi	lutfi		PROPN
+takas	barter	takas	barter		PROPN;SG
+takas	dagang	takas	dagang		PROPN;SG;ACT
+takas	berdagang	takas	berdagang		V;SG;ACT
+takas	perdagangan	takas	perdagangan		N;SG
+takas	trade	takas	trade		PROPN
+takas	perdagangan	takas	perdagangan		N;SG
+takas	trading	takas	trading		N
+takas	swap	takas	swap		PROPN
+takas	barter	takas	barter		PROPN;SG
+takas	tukar	takas	tukar		N;SG;ACT
+takas	exchange	takas	exchange		PROPN
+takas	pertukaran	takas	pertukaran		N;SG
+takas	bursa	takas	bursa		N;SG
+cola	coke	cola	coke		PROPN
+cola	kokain	cola	kokain		N
+cola	kola	cola	kola		PROPN
+cola	cola	cola	cola		PROPN
+cola	kola	cola	kola		PROPN
+yalancı	pembohong	yalancı	penbohong		N;SG
+yalancı	pendusta	yalancı	pendusta		N
+yalancı	pembohong	yalancı	penbohong		N;SG
+yalancı	pendusta	yalancı	pendusta		N
+dul	duda	dul	duda		N;SG
+dul	janda	dul	janda		N;SG
+dul	menjanda	dul	menjanda		V;SG;ACT
+dul	duda	dul	duda		N;SG
+dul	janda	dul	janda		N;SG
+xxx	wkwkwk	xxx	wkwkwk		PROPN
+bolton	bolton	bolton	bolton	PROPN;NOM;SG;3	PROPN
+romen	rumania	romen	rumania		PROPN;SG
+komplo	plot	komplo	plot		N
+komplo	alur	komplo	alur		N;SG
+komplo	makar	komplo	makar		N;SG
+komplo	persekongkolan	komplo	persekongkolan		N
+komplo	konspirasi	komplo	konspirasi		N;SG
+komplo	merencanakan	komplo	menrencanakan		V;SG;ACT
+komplo	menjebak	komplo	menjebak		V;SG;ACT
+césar	césar	césar	césar		PROPN
+ergün	ergun	ergün	ergun		PROPN
+açıklamalar	keterangan	açıkla	keterangan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+açıklamalar	penjelasan	açıkla	penjelasan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+açıklamalar	deskripsi	açıkla	deskripsi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+store	simpan	store	simpan		N;SG;ACT
+store	toko	store	toko		N;SG
+seine	seine	sein	seine	PROPN;NOM;SG;3	PROPN
+galya	gaul	gal	gaul		N;SG;ACT
+galya	galia	gal	galia		PROPN;SG
+iletim	transmisi	iletim	transmisi		N;SG
+hawks	elang	hawks	elang	PROPN;NOM;SG;3	N
+hawks	hawks	hawks	hawks	PROPN;NOM;SG;3	PROPN
+hamit	hamit	hamit	hamit		PROPN
+beatles	beatles	beatles	beatles		PROPN
+başrolde	bintangi	başrol	bintangi	N;ESS;SG;3	V;SG;ACT
+başrolde	dibintangi	başrol	dibintangi	N;ESS;SG;3	V;SG;PASS
+başrolde	membintangi	başrol	menbintangi	N;ESS;SG;3	V;SG;ACT
+kumaş	kain	kumaş	kain		N;SG
+kumaş	kain	kumaş	kain		N;SG
+kumaş	kain	kumaş	kain		N;SG
+reaksiyon	reaksi	reaksiyon	reaksi		N;SG
+reaksiyon	tanggapan	reaksiyon	tanggapan		N;SG
+odak	fokus	odak	fokus		N;SG
+odak	focus	odak	focus		PROPN
+odak	fokus	odak	fokus		N;SG
+düsseldorf	düsseldorf	düsseldorf	düsseldorf	PROPN;NOM;SG;3	PROPN
+sınav	quiz	sınav	quiz	N;NOM;SG;3	PROPN
+sınav	menguji	sınav	menkuji	N;NOM;SG;3	V;SG;ACT
+sınav	uji	sınav	uji	N;NOM;SG;3	PROPN;SG
+sınav	test	sınav	test	N;NOM;SG;3	PROPN
+tarama	memindai	tarama	menpindai		V;SG;ACT
+tarama	pemindaian	tarama	penpindaian		N;SG
+tarama	menjelajah	tarama	menjelajah		V;SG;ACT
+tarama	menjelajahi	tarama	menjelajahi		V;SG;ACT
+tarama	browsing	tarama	browsing		PROPN
+tarama	memindai	tarama	menpindai		V;SG;ACT
+tarama	pindai	tarama	pindai		N;SG
+tüyleri	bulu	tüy	bulu	ADJ;NOM;PL;3	N;SG
+donetsk	donetsk	donetsk	donetsk	PROPN;NOM;SG;3	N
+evcil	pet	evcil	pet	N;NOM;SG;3	PROPN
+evcil	tame	evcil	tame	N;NOM;SG;3	PROPN
+evcil	dijinakkan	evcil	dijinakkan	N;NOM;SG;3	V;SG;PASS
+nathan	nathan	nathan	nathan	PROPN;NOM;SG;3	PROPN
+kenneth	kenneth	kenneth	kenneth		PROPN
+fisher	fisher	fishe	fisher		PROPN
+satürn	saturn	satürn	saturn		PROPN
+satürn	saturnus	satürn	saturnus		N;SG
+sorunlu	bermasalah	sorunlu	bermasalah		V;SG;ACT
+sorunlu	bermasalah	sorunlu	bermasalah		V;SG;ACT
+karesi	square	kare	square		PROPN
+karesi	persegi	kare	persegi		N;SG
+karesi	kuadrat	kare	kuadrat		N;SG
+komisyon	komisi	komisyon	komisi		N;SG
+komisyon	komisi	komisyon	komisi		N;SG
+komisyon	pialang	komisyon	pialang		N;SG
+komisyon	broker	komisyon	broker		N;SG
+favori	favourite	favori	favourite		PROPN
+favori	favorit	favori	favorit		N;SG
+favori	favorite	favori	favorite		PROPN
+favori	kesukaan	favori	kesukaan		N;SG
+favori	terfavorit	favori	terfavorit		ADJ;RL;SG;PASS
+favori	favorit	favori	favorit		N;SG
+şef	chef	şef	chef		PROPN
+şef	koki	şef	koki		N
+şef	chief	şef	chief		PROPN
+şef	ketua	şef	ketua		N;SG
+şef	kepala	şef	kepala		N;SG
+vergisi	tax	vergi	tax	N;NOM;SG;3	PROPN
+telgraf	telegram	telgraf	telegram		PROPN
+telgraf	telegraf	telgraf	telegraf		N
+telgraf	telegraph	telgraf	telegraph		PROPN
+leone	leone	leone	leone	PROPN;NOM;SG;3	PROPN
+parsons	parsons	parsons	parsons		PROPN
+herkül	hercules	herkül	hercules		PROPN
+arayan	pemanggil	ara	penpanggil	V;PFV;IND;POS;PRS;V.PTCP	N;SG
+arayan	penelpon	ara	pentelpon	V;PFV;IND;POS;PRS;V.PTCP	N;SG
+arayan	penelepon	ara	pentelepon	V;PFV;IND;POS;PRS;V.PTCP	N;SG
+ilim	pengetahuan	ilim	pengetahuan		N;SG
+ilim	knowledge	ilim	knowledge		PROPN
+bond	ikatan	bond	ikatan		N;SG
+bond	obligasi	bond	obligasi		N;SG
+bond	bond	bond	bond		PROPN
+yuri	yuri	yuri	yuri		PROPN
+gözde	favorite	gözde	favorite		PROPN
+gözde	kesukaan	gözde	kesukaan		N;SG
+gözde	terfavorit	gözde	terfavorit		ADJ;RL;SG;PASS
+gözde	favorit	gözde	favorit		N;SG
+tecrübe	pengalaman	tecrübe	pengalaman		N;SG
+lahana	kale	lahana	kale	N;NOM;SG;3	PROPN
+andromeda	andromeda	androme	andromeda		PROPN
+nokia	nokia	nokia	nokia		PROPN
+çiçekler	bunganya	çiçek	bunga	N;NOM;PL;3	N;SG
+çiçekler	bunga	çiçek	bunga	N;NOM;PL;3	N;SG
+stargate	stargate	stargate	stargate		PROPN
+gridcolor	gridcolor	gridco	gridcolor		PROPN
+dalları	cabang	dal	cabang	N;NOM;PL;3	N;SG
+dalları	ranting	dal	ranting	N;NOM;PL;3	N;SG
+dalları	percabangan	dal	percabangan	N;NOM;PL;3	N;SG
+dalları	branch	dal	branch	N;NOM;PL;3	PROPN
+dalları	dahan	dal	dahan	N;NOM;PL;3	N;SG
+stark	stark	stark	stark		PROPN
+kızılötesi	infrared	kızılöte	infrared	N;NOM;SG;3	PROPN
+soğutma	pendingin	soğut	pendingin		N;SG
+soğutma	pendinginan	soğut	pendinginan		N;SG
+soğutma	mendinginkan	soğut	mendinginkan		V;SG;ACT
+soğutma	pendingin	soğut	pendingin		N;SG
+soğutma	pendinginan	soğut	pendinginan		N;SG
+abbasi	abbasi	abba	abbasi		PROPN
+nereye	mana	nere	mana	PRO;DAT;SG;3	ADP;SG
+nereye	dimana	nere	dimana	PRO;DAT;SG;3	ADV
+step	step	step	step		PROPN
+step	langkah	step	langkah		N;SG
+step	melangkah	step	menlangkah		V;SG;ACT
+dale	dale	dale	dale		PROPN
+inanılmaz	menakjubkan	inan	mentakjubkan	V;IPFV;IND;NEG;V.PTCP;PASS	V;SG;ACT
+inanılmaz	amazing	inan	amazing	V;IPFV;IND;NEG;V.PTCP;PASS	PROPN
+inanılmaz	incredible	inan	incredible	V;IPFV;IND;NEG;V.PTCP;PASS	PROPN
+damar	pembuluh	damar	pembuluh		N;SG
+damar	urat	damar	urat		PROPN;SG
+damar	vena	damar	vena		N
+damar	urat	damar	urat		PROPN;SG
+damar	vena	damar	vena		N
+damar	vaskular	damar	vaskular		N
+rumen	rumania	rumen	rumania		PROPN;SG
+erbil	arbil	erbil	arbil		PROPN
+mürettebat	crew	mürettebat	crew	N;NOM;SG;3	PROPN
+riley	riley	riley	riley		PROPN
+göreceli	relatif	gör	relatif		ADV;SG
+mercan	karang	mercan	karang		N;SG
+mercan	coral	mercan	coral		PROPN
+mercan	koral	mercan	koral		N
+mercan	marjan	mercan	marjan		PROPN
+arya	arya	arya	arya		PROPN
+lane	lane	la	lane	PROPN;NOM;SG;3	PROPN
+lang	lang	lang	lang		PROPN
+feminist	feminis	feminist	feminis		N;SG
+organları	organ	organ	organ	N;NOM;PL;3	N;SG
+doğumu	lahir	doğum	lahir	N;ACC;SG;3	V;SG;ACT
+mühimmat	munition	mühimmat	munition		PROPN
+mühimmat	amunisinya	mühimmat	amunisinya		N;SG
+mühimmat	amunisi	mühimmat	amunisi		N;SG
+mühimmat	amunisi	mühimmat	amunisi		N;SG
+louise	louise	loui	louise	PROPN;NOM;SG;3	PROPN
+galiçya	galisia	galiçya	galisia	N;NOM;SG;3	PROPN
+myspace	myspace	myspace	myspace		PROPN
+ikmal	memasok	ikmal	menpasok		V;SG;ACT
+yugoslav	yugoslavia	yugoslav	yugoslavia		PROPN
+stand	stand	stand	stand		PROPN
+stand	berdiri	stand	berdiri		V;SG;ACT
+notları	catatan	not	catatan	N;ACC;PL;3	N;SG
+notları	notes	not	notes	N;ACC;PL;3	PROPN
+maltepe	maltepe	maltepe	maltepe	PROPN;NOM;SG;3	PROPN
+ebru	ebru	ebru	ebru		PROPN
+kavramları	konsep	kavram	konsep	N;ACC;PL;3	N;SG
+blake	blake	blake	blake		PROPN
+mad	mad	mad	mad		PROPN
+mad	marah	mad	marah		ADJ;SG
+mad	gila	mad	gila		ADJ;SG
+ece	ece	ece	ece		PROPN
+zıt	kebalikan	zıt	kebalikan		N;SG
+zıt	berlawanan	zıt	berlawanan		V;SG;ACT
+gonzález	gonzález	gonzález	gonzález	PROPN;NOM;SG;3	PROPN
+klaus	klaus	klaus	klaus		PROPN
+koch	koch	koch	koch		PROPN
+yatılı	boarding	yatılı	boarding		PROPN
+mig	mig	mig	mig		PROPN
+yetenekleri	kemampuan	yetenek	kemampuan	N;NOM;PL;3	N;SG
+yetenekleri	bakat	yetenek	bakat	N;NOM;PL;3	N;SG
+yetenekleri	talenta	yetenek	talenta	N;NOM;PL;3	N;SG
+yetenekleri	bakatnya	yetenek	bakat	N;NOM;PL;3	N;SG
+zaza	zaza	zaza	zaza		PROPN
+atı	ati	at	ati		PROPN
+masal	tale	masal	tale		PROPN
+masal	dongeng	masal	dongeng		N;SG
+masal	kisah	masal	kisah		N;SG
+masal	dongeng	masal	dongeng		N;SG
+masal	cerita	masal	cerita		N;SG
+masal	story	masal	story		PROPN
+masal	berita	masal	berita		N;SG
+masal	kisah	masal	kisah		N;SG
+luk	luk	lik	luk		PROPN
+dinlenme	rekreasi	dinlen	rekreasi	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+dinlenme	istirahat	dinlen	istirahat	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+dinlenme	beristirahat	dinlen	beristirahat	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	V;SG;ACT
+mhz	mhz	mhz	mhz		PROPN
+heinz	heinz	heinz	heinz	PROPN;NOM;SG;3	PROPN
+tatmin	kepuasan	tatmin	kepuasan		N;SG
+tatmin	memuaskan	tatmin	menpuaskan		V;SG;ACT
+tatmin	puas	tatmin	puas		ADJ;SG
+britney	britney	britney	britney		PROPN
+porsche	porsche	porsche	porsche		N
+eğlenceli	asyik	eğlenceli	asyik	ADJ	N;SG
+eğlenceli	fun	eğlenceli	fun	ADJ	PROPN
+eğlenceli	seru	eğlenceli	seru	ADJ	PROPN;SG
+eğlenceli	menyenangkan	eğlenceli	mensenangkan	ADJ	V;SG;ACT
+eğlenceli	kesenangan	eğlenceli	kesenangan	ADJ	N;SG
+malcolm	malcolm	malcolm	malcolm		N
+kentucky	kentucky	kentucky	kentucky		PROPN
+ekseni	sumbu	ekseni	sumbu		N;SG
+ekseni	axis	ekseni	axis		PROPN
+enzim	enzim	enzi	enzim		N;SG
+enzim	enzim	enzi	enzim		N;SG
+seti	tetapkan	set	tetapkan		V;SG;ACT
+seti	set	set	set		PROPN;SG
+seti	setel	set	setel		N;SG;ACT
+seti	seti	set	seti		PROPN
+meral	meral	meral	meral		PROPN
+makina	mesin	makina	mesin		N;SG
+makina	mesin	makina	mesin		N;SG
+makina	mesin	makina	mesin		N;SG
+tasarımcı	perancang	tasarımcı	penrancang		N;SG
+tasarımcı	designer	tasarımcı	designer		N
+tasarımcı	desainer	tasarımcı	desainer		N;SG
+kaide	qaeda	kaide	qaeda		PROPN
+tolkien	tolkien	tolkien	tolkien		PROPN
+jesse	jesse	jesse	jesse		PROPN
+sır	rahasia	sır	rahasia		N;SG
+sır	rahasia	sır	rahasia		N;SG
+sır	secret	sır	secret		PROPN
+boyutları	dimensi	boyut	dimensi	N;ACC;PL;3	N;SG
+aman	aman	aman	aman		ADJ;SG
+deneyler	percobaan	deney	percobaan	N;NOM;PL;3	N;SG
+deneyler	eksperimen	deney	eksperimen	N;NOM;PL;3	N;SG
+six	six	six	six		PROPN
+six	enam	six	enam		NUM
+rush	rush	rush	rush		PROPN
+yasağı	pelarangan	yasak	penlarangan		N;SG
+andre	andre	andre	andre		PROPN
+andre	andré	andre	andré		PROPN
+roller	roller	rol	roller		N
+roller	peran	rol	peran		N;SG
+bull	banteng	bull	banteng		N;SG
+bull	bull	bull	bull		PROPN
+hani	hani	hani	hani		PROPN
+edwards	edwards	edwar	edwards		PROPN
+odaklı	fokus	odaklı	fokus		N;SG
+odaklı	terfokus	odaklı	terfokus		V;SG;PASS
+italia	italia	italia	italia	PROPN;NOM;SG;3	PROPN
+helena	helena	helen	helena	PROPN;NOM;SG;3	PROPN
+tartışmaları	diskusi	tartış	diskusi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+doğuş	doğuş	doğuş	doğuş		PROPN
+katliam	pembantaian	katlia	penbantaian		N;SG
+katliam	jagal	katlia	jagal		N;SG
+katliam	pembantaian	katlia	penbantaian		N;SG
+katliam	pembantaian	katlia	penbantaian		N;SG
+varsayılan	default	varsa	default		PROPN;SG
+varsayılan	baku	varsa	baku		ADJ;SG
+varsayılan	bawaan	varsa	bawaan		N;SG
+varsayılan	standar	varsa	standar		ADJ;SG
+lanka	lanka	lanka	lanka	PROPN;NOM;SG;3	PROPN
+wade	wade	wade	wade		PROPN
+kodları	kode	kod	kode	N;ACC;PL;3	N;SG
+holmes	holmes	holmes	holmes		PROPN
+yapıcı	konstruktif	yapıcı	konstruktif		N;SG
+yapıcı	pembuat	yapıcı	penbuat		N;SG
+yapıcı	pencipta	yapıcı	pencipta		N;SG
+yapıcı	maker	yapıcı	maker		PROPN
+yapıcı	konstruktif	yapıcı	konstruktif		N;SG
+iowa	iowa	iowa	iowa	PROPN;NOM;SG;3	PROPN
+çember	lingkar	çember	lingkar		N;SG;ACT
+çember	circle	çember	circle		PROPN
+çember	lingkaran	çember	lingkaran		N;SG
+lehçesi	amoy	lehçe	amoy	N;NOM;SG;3	PROPN
+isfahan	isfahan	isfahan	isfahan		PROPN;SG
+karaciğer	hati	karaciğer	hati		N;SG
+karaciğer	liver	karaciğer	liver		PROPN
+hatalar	kesalahan	hata	kesalahan	N;NOM;PL;3	N;SG
+hatalar	galat	hata	galat	N;NOM;PL;3	PROPN
+hatalar	error	hata	error	N;NOM;PL;3	PROPN
+hatalar	kesalahan	hata	kesalahan	N;NOM;PL;3	N;SG
+hatalar	serangga	hata	serangga	N;NOM;PL;3	N;SG
+hatalar	bug	hata	bug	N;NOM;PL;3	PROPN
+málaga	málaga	málaga	málaga	PROPN;NOM;SG;3	PROPN
+itici	pengusir	itici	penusir		N;SG
+itici	penolak	itici	pentolak		N;SG
+itici	pemaksa	itici	penpaksa		N;SG
+itici	pusher	itici	pusher		PROPN
+itici	menjijikkan	itici	menjijikkan		V;SG;ACT
+diamond	diamond	diamond	diamond	N;NOM;SG;3	PROPN
+diamond	intan	diamond	intan	N;NOM;SG;3	PROPN
+baki	baki	baki	baki		N;SG
+dame	dame	dame	dame		PROPN
+tanımlanmış	identifikasi	tanımla	identifikasi	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N;SG
+tanımlanmış	mengidentifikasi	tanımla	menidentifikasi	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;SG;ACT
+litre	liter	litre	liter		N;SG
+litre	liter	litre	liter		N;SG
+litre	liter	litre	liter		N;SG
+litre	liter	litre	liter		N;SG
+çalışkan	rajin	çalışkan	rajin		ADJ;SG
+meşru	legit	meşru	legit		ADJ
+bankacılık	banking	bankacılık	banking	N;NOM;SG;3	PROPN
+kaçmak	escape	kaç	escape	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+asal	prime	asal	prime		PROPN
+asal	perdana	asal	perdana		ADJ;SG
+radyoaktif	radioaktif	radyoaktif	radioaktif		N
+öyküler	tales	öykü	tales	N;NOM;PL;3	PROPN
+öyküler	dongeng	öykü	dongeng	N;NOM;PL;3	N;SG
+öyküler	cerita	öykü	cerita	N;NOM;PL;3	N;SG
+öyküler	stories	öykü	stories	N;NOM;PL;3	PROPN
+yale	yale	yale	yale		PROPN
+iskandinav	nordik	iskandinav	nordik	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	PROPN
+iskandinav	nordic	iskandinav	nordic	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	PROPN
+iskandinav	skandinavia	iskandinav	skandinavia	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	PROPN;SG
+kronik	kronik	kronik	kronik		PROPN
+kronik	kronis	kronik	kronis		N;SG
+yarışmaları	kontes	yarış	kontes	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+yarışmaları	lomba	yarış	lomba	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+facto	facto	facto	facto		PROPN
+osetya	ossetia	osetya	ossetia	PROPN;NOM;SG;3	PROPN
+çim	rumput	çim	rumput		N;SG
+çim	rumput	çim	rumput		N;SG
+çim	grass	çim	grass		PROPN
+çim	rerumputan	çim	rerumputan		N;SG
+taşınabilir	portable	taşı	portable	V;IPFV;IND;SG;3;POS;PASS	N
+taşınabilir	portabel	taşı	portabel	V;IPFV;IND;SG;3;POS;PASS	N
+sn	detik	sn	detik		N;SG
+sn	sec	sn	sec		PROPN
+balıkçı	nelayan	balıkçı	nelayan		N;SG
+balıkçı	pemancing	balıkçı	penpancing		N;SG
+balıkçı	fisher	balıkçı	fisher		PROPN
+balıkçı	nelayan	balıkçı	nelayan		N;SG
+bitkileri	tanaman	bitki	tanaman	N;ACC;PL;3	N;SG
+bitkileri	tumbuhan	bitki	tumbuhan	N;ACC;PL;3	N;SG
+niyet	niat	niyet	niat		N;SG
+niyet	niat	niyet	niat		N;SG
+niyet	intent	niyet	intent		PROPN
+niyet	dimaksudkan	niyet	dimaksudkan		V;SG;PASS
+niyet	ditujukan	niyet	ditujukan		V;SG;PASS
+niyet	niat	niyet	niat		N;SG
+mansur	mansur	mansur	mansur		PROPN
+kaçış	breakout	kaçış	breakout		PROPN
+kaçış	kabur	kaçış	kabur		V;SG
+kaçış	escape	kaçış	escape		PROPN
+solomon	solomon	solomon	solomon	PROPN;NOM;SG;3	PROPN
+solomon	salomo	solomon	salomo	PROPN;NOM;SG;3	PROPN
+solomon	sulaiman	solomon	sulaiman	PROPN;NOM;SG;3	PROPN;SG
+heyet	delegasi	heyet	delegasi		N;SG
+heyet	komite	heyet	komite		N;SG
+heyet	panitia	heyet	panitia		N;SG
+productions	productions	productions	productions	N;NOM;SG;3	PROPN
+dresden	dresden	dre	dresden	PROPN;AT+ABL;SG;3	PROPN
+vancouver	vancouver	vancouver	vancouver	PROPN;NOM;SG;3	PROPN
+kampanya	campaign	kampanya	campaign	N;NOM;SG;3	PROPN
+davud	david	davud	david		PROPN
+hughes	hughes	hughes	hughes		PROPN
+kawasaki	kawasaki	kawasaki	kawasaki		N
+eylemleri	tindakan	eylem	tindakan	N;ACC;PL;3	N;SG
+eylemleri	aksi	eylem	aksi	N;ACC;PL;3	N;SG
+rotterdam	rotterdam	rotter	rotterdam	PROPN;NOM;SG;3	PROPN
+pat	tepuk	pat	tepuk		N;SG
+pat	pat	pat	pat		PROPN
+uganda	uganda	uga	uganda	PROPN;NOM;SG;3	PROPN;SG
+tanrılar	dewa	tanrı	dewa	N;NOM;PL;3	N;SG
+lópez	lópez	lipez	lópez	PROPN;NOM;SG;3	PROPN
+württemberg	württemberg	württemberg	württemberg	PROPN;NOM;SG;3	PROPN
+karikatür	komik	karikat	komik		N
+karikatür	komik	karikat	komik		N
+karikatür	comic	karikat	comic		PROPN
+karikatür	karikatur	karikat	karikatur		N;SG
+karikatür	kartun	karikat	kartun		N;SG
+karikatür	cartoon	karikat	cartoon		PROPN
+karikatür	kartun	karikat	kartun		N;SG
+lucky	beruntung	lucky	beruntung		ADJ;SG
+lucky	mujur	lucky	mujur		ADJ;SG
+lucky	lucky	lucky	lucky		PROPN
+lucky	beruntungnya	lucky	beruntung		N;SG
+masaüstü	desktop	masaüst	desktop		N;SG
+masaüstü	dekstop	masaüst	dekstop		N
+masaüstü	desktop	masaüst	desktop		N;SG
+alpha	alpha	alpha	alpha		PROPN
+alpha	alfa	alpha	alfa		PROPN
+zirve	ktt	zirve	ktt		N;SG
+zirve	summit	zirve	summit		PROPN
+zirve	peak	zirve	peak		PROPN
+zirve	puncak	zirve	puncak		N;SG
+armağan	hadiah	armağan	hadiah		N;SG
+armağan	pemberian	armağan	penberian		N;SG
+armağan	kado	armağan	kado		N;SG
+avn	avn	avn	avn		PROPN
+yansıtan	mencerminkan	yansı	mencerminkan	V;PFV;IND;POS;PRS;V.PTCP;CAUS	V;SG;ACT
+yansıtan	merefleksikan	yansı	menrefleksikan	V;PFV;IND;POS;PRS;V.PTCP;CAUS	V;SG;ACT
+azaltmak	kurangi	azal	kurangi	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;SG;ACT
+azaltmak	mengurangi	azal	menkurangi	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;SG;ACT
+werder	werder	werder	werder	PROPN;NOM;SG;3	PROPN
+atlantis	atlantis	atlantis	atlantis		N;SG
+satıldı	sold	sat	sold	V;PFV;IND;SG;3;POS;PST;PASS	PROPN
+atölyesi	workshop	atölye	workshop	N;NOM;SG;3	PROPN
+beslenir	feed	besle	feed	V;IPFV;IND;SG;3;POS;PASS	PROPN
+beslenir	kabar	besle	kabar	V;IPFV;IND;SG;3;POS;PASS	N;SG
+beslenir	feeds	besle	feeds	V;IPFV;IND;SG;3;POS;PASS	PROPN
+beslenir	asupan	besle	asupan	V;IPFV;IND;SG;3;POS;PASS	N;SG
+üstte	puncak	üst	puncak	ADJ;ESS;SG;3	N;SG
+angela	angela	angela	angela		PROPN
+ihmal	kelalaian	ihmal	kelalaian		N;SG
+ihmal	terabaikan	ihmal	terabaikan		V;SG;PASS
+ihmal	diabaikan	ihmal	diabaikan		V;SG;PASS
+ihmal	kelalaian	ihmal	kelalaian		N;SG
+ihmal	kelalaian	ihmal	kelalaian		N;SG
+geometri	geometri	geometri	geometri		N
+chiba	chiba	chiba	chiba	PROPN;NOM;SG;3	PROPN;SG
+görkemli	megah	görkemli	megah		PROPN;SG
+görkemli	mulia	görkemli	mulia		ADJ;SG
+engeli	unblock	engel	unblock		PROPN
+ers	ers	ers	ers		PROPN
+seyir	navigasi	seyir	navigasi		N;SG
+seyir	menjelajah	seyir	menjelajah		V;SG;ACT
+rolleri	peran	rol	peran	N;ACC;PL;3	N;SG
+kaydedildi	merekam	kaydet	menrekam	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+kalanlar	sisa	kalan	sisa	N;NOM;PL;3	N;SG
+ritim	ritme	ritim	ritme		N;SG
+ritim	irama	ritim	irama		N;SG
+ritim	rhythm	ritim	rhythm		PROPN
+cnn	cnn	cin	cnn		PROPN
+mount	gunung	mount	gunung	PROPN;NOM;SG;3	N;SG
+mount	mount	mount	mount	PROPN;NOM;SG;3	PROPN
+mount	kait	mount	kait	PROPN;NOM;SG;3	N;SG
+danışman	penasihat	danış	penasihat		N;SG
+danışman	konsultan	danış	konsultan		N;SG
+danışman	penasihat	danış	penasihat		N;SG
+danışman	penasehat	danış	pennasehat		N;SG
+danışman	konselor	danış	konselor		N;SG
+danışman	penasehat	danış	pennasehat		N;SG
+kırgız	kirgiz	kırgız	kirgiz		PROPN
+dinar	dinar	dinar	dinar		N
+dinar	dinar	dinar	dinar		N
+kirli	kotor	kirli	kotor		ADJ;SG
+kirli	jorok	kirli	jorok		ADJ;SG
+kirli	dirty	kirli	dirty		PROPN
+kirli	najis	kirli	najis		N
+mir	mir	mir	mir		PROPN
+deutsche	deutsche	deutsche	deutsche	PROPN;NOM;SG;3	PROPN
+foton	foton	foton	foton		N;SG
+foton	foton	foton	foton		N;SG
+objektif	lensa	objektif	lensa		N;SG
+objektif	lens	objektif	lens		PROPN
+objektif	obyektif	objektif	obyektif		ADJ
+objektif	tujuan	objektif	tujuan		N;SG
+objektif	objektif	objektif	objektif		ADJ
+tanzanya	tanzania	tanzan	tanzania	PROPN;NOM;SG;3	PROPN
+zaragoza	zaragoza	zaragoz	zaragoza	PROPN;NOM;SG;3	PROPN
+troll	troll	troll	troll		N
+troll	provokator	troll	provokator		N;SG
+troll	troll	troll	troll		N
+troll	provokator	troll	provokator		N;SG
+illeri	propinsi	il	propinsi	N;ACC;PL;3	N;SG
+illeri	provinsi	il	provinsi	N;ACC;PL;3	PROPN;SG
+aç	buka	aç	buka		V;SG;ACT
+aç	open	aç	open		PROPN
+aç	terbuka	aç	terbuka		V;SG
+sözcükler	kata	sözcük	kata	N;NOM;PL;3	N;SG
+tiberius	tiberius	tiberius	tiberius		PROPN
+incir	figs	incir	figs		PROPN
+incir	gbr	incir	gbr		PROPN
+kayıplar	kerugian	kayıp	kerugian	N;NOM;PL;3	N;SG
+kayıplar	korban	kayıp	korban	N;NOM;PL;3	N;SG
+delhi	delhi	delhi	delhi	PROPN;NOM;SG;3	PROPN
+dana	doel	dan	doel		PROPN
+dana	dana	dan	dana		N;SG
+bağırsak	usus	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	ususnya	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	usus	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	usus	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	usus	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	ususnya	bağır	usus	V;PFV;PL;1;POS;PRS	N;SG
+jeoloji	geologis	jeoloji	geologis		N
+jeoloji	geologi	jeoloji	geologi		N
+dem	dem	de	dem		PROPN
+bilhassa	terutama	bilhassa	terutama		ADV;RL;SG
+bilhassa	khususnya	bilhassa	khususnya		ADV
+bilhassa	terutama	bilhassa	terutama		ADV;RL;SG
+gençleri	remaja	genç	remaja	ADJ;ACC;PL;3	N;SG
+rom	rom	rom	rom		PROPN
+rom	rum	rom	rum		PROPN
+sofia	sofia	sofia	sofia		PROPN
+grey	kelabu	grey	kelabu		N
+grey	grey	grey	grey		PROPN
+köşk	mansion	köşk	mansion		N
+gerede	gerede	gere	gerede		PROPN
+devasa	raksasa	devasa	raksasa		N;SG
+devasa	besaran	devasa	besaran		N;SG
+devasa	masif	devasa	masif		ADJ;SG
+devasa	massive	devasa	massive		PROPN
+ghost	ghost	ghost	ghost		PROPN
+ghost	hantu	ghost	hantu		N;SG
+dre	dre	dre	dre		PROPN
+düşüş	merosot	düşüş	merosot		ADJ;SG
+düşüş	kemerosotan	düşüş	kemerosotan		N;SG
+düşüş	kurangi	düşüş	kurangi		V;SG;ACT
+düşüş	mengurangi	düşüş	menkurangi		V;SG;ACT
+düşüş	menurun	düşüş	menturun		V;SG;ACT
+düşüş	berkurang	düşüş	berkurang		V;SG;ACT
+düşüş	penurunan	düşüş	penturunan		N;SG
+düşüş	tolak	düşüş	tolak		N;SG;ACT
+düşüş	fall	düşüş	fall		PROPN
+düşüş	jatuh	düşüş	jatuh		V;SG;ACT
+vekil	bupati	vekil	bupati		N
+vekil	proxy	vekil	proxy		N
+vekil	proksi	vekil	proksi		N;SG
+vekil	deputi	vekil	deputi		N;SG
+kalsiyum	kalsium	kalsiyum	kalsium		N
+rocky	rocky	rocky	rocky		PROPN
+ideoloji	ideologi	ideoloji	ideologi		N
+koy	put	koy	put	V;PFV;IMP;SG;2;POS;PRS	PROPN
+plaka	pelat	plaka	pelat		N;SG
+plaka	plat	plaka	plat		N
+plaka	piring	plaka	piring		N;SG
+plaka	lempeng	plaka	lempeng		N
+plaka	pelat	plaka	pelat		N;SG
+plaka	plat	plaka	plat		N
+vista	vista	vista	vista		PROPN
+levi	lewi	levi	lewi		PROPN
+levi	levi	levi	levi		PROPN
+alışık	aih	alışık	aih	ADJ	PROPN
+muhsin	muhsin	muhi	muhsin		PROPN
+metropolitan	metropolitan	metropolitan	metropolitan		N;SG
+kapıları	gates	kapı	gates	N;ACC;PL;3	PROPN
+kapıları	gerbang	kapı	gerbang	N;ACC;PL;3	N;SG
+kapıları	pintu	kapı	pintu	N;ACC;PL;3	N;SG
+kapıları	doors	kapı	doors	N;ACC;PL;3	PROPN
+slogan	slogan	slogan	slogan		N;SG
+slogan	motto	slogan	motto		PROPN
+slogan	moto	slogan	moto		PROPN
+slogan	slogan	slogan	slogan		N;SG
+slogan	slogannya	slogan	slogan		N;SG
+hero	hero	hero	hero		PROPN
+hero	pahlawan	hero	pahlawan		N;SG
+rex	rex	rex	rex		PROPN
+yeşilyurt	yeşilyurt	yeşilyurt	yeşilyurt	PROPN;NOM;SG;3	PROPN
+şahit	saksi	şahit	saksi		N;SG
+şahit	disaksikan	şahit	disaksikan		V;SG;PASS
+şahit	menyaksikan	şahit	mensaksikan		V;SG;ACT
+şahit	saksi	şahit	saksi		N;SG
+vfl	vfl	vfl	vfl		PROPN
+tez	disertasi	tez	disertasi		N
+tez	tez	tez	tez		PROPN
+tez	skripsi	tez	skripsi		N;SG
+tez	tesis	tez	tesis		N;SG
+mevki	posisi	mevki	posisi		N;SG
+mevki	jabatan	mevki	jabatan		N;SG
+lil	lil	lil	lil		PROPN
+lionel	lionel	lionel	lionel		N
+mısırlı	mesir	mısırlı	mesir		PROPN;SG
+homo	homo	homo	homo		PROPN
+kullanışlı	nyaman	kullanışlı	nyaman		ADJ;SG
+kullanışlı	berguna	kullanışlı	berguna		V;SG;ACT
+kullanışlı	bermanfaat	kullanışlı	bermanfaat		V;SG;ACT
+kullanışlı	handy	kullanışlı	handy		PROPN
+kullanışlı	berguna	kullanışlı	berguna		V;SG;ACT
+drake	drake	drake	drake		PROPN
+keşfedildi	menemukan	keşfet	mentemukan	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+keşfedildi	ketahuan	keşfet	ketahuan	V;PFV;IND;SG;3;POS;PST;PASS	
+pul	stempel	pul	stempel		N;SG
+pul	cap	pul	cap		N
+pul	perangko	pul	perangko		N
+pul	perangko	pul	perangko		N
+pul	stempel	pul	stempel		N;SG
+pul	timbangan	pul	timbangan		N;SG
+pul	sisik	pul	sisik		N
+gözlemevi	observatorium	gözlemevi	observatorium		PROPN
+kangal	kangal	kangal	kangal	N;NOM;SG;3	PROPN
+panathinaikos	panathinaikos	panathinaikos	panathinaikos	PROPN;NOM;SG;3	N
+earl	earl	earl	earl		PROPN
+pazartesi	senin	pazartesi	senin		PROPN;SG
+pazartesi	senin	pazartesi	senin		PROPN;SG
+hamlet	hamlet	hamlet	hamlet		PROPN
+muammer	muammar	muammer	muammar		PROPN;SG
+trick	trick	trick	trick		PROPN
+trick	trik	trick	trik		N;SG
+eintracht	eintracht	eintracht	eintracht	PROPN;NOM;SG;3	N
+dante	dante	dant	dante		PROPN
+mississippi	mississippi	mississippi	mississippi	N;NOM;SG;3	PROPN
+mağarası	cave	mağara	cave	N;NOM;SG;3	PROPN
+marina	marina	marina	marina	N;DAT;SG;3	PROPN
+spesifik	spesifik	spesifik	spesifik		ADJ;SG
+spesifik	tertentu	spesifik	tertentu		DET
+spesifik	khusus	spesifik	khusus		ADJ;SG
+bilinç	kesadaran	bilinç	kesadaran		N;SG
+ideolojik	ideologis	ideolojik	ideologis		N
+etli	berdaging	etli	berdaging		V;SG;ACT
+etli	berdaging	etli	berdaging		V;SG;ACT
+sms	sms	sms	sms		PROPN
+hendek	selokan	hendek	selokan		N;SG
+hendek	parit	hendek	parit		N;SG
+hendek	palung	hendek	palung		N;SG
+hendek	parit	hendek	parit		N;SG
+hendek	parit	hendek	parit		N;SG
+eğri	eger	eğri	eger		PROPN
+eğri	bengkok	eğri	bengkok		PROPN
+eğri	kurva	eğri	kurva		N
+eğri	curve	eğri	curve		PROPN
+nesneler	obyek	nesne	obyek	N;NOM;PL;3	N;SG
+nesneler	objek	nesne	objek	N;NOM;PL;3	N;SG
+nesneler	benda	nesne	benda	N;NOM;PL;3	N;SG
+odun	kayu	odun	kayu		N;SG
+odun	wood	odun	wood		PROPN
+odun	kayu	odun	kayu		N;SG
+içten	ikhlas	içten	ikhlas		N;SG
+içten	tulus	içten	tulus		ADJ;SG
+içten	candid	içten	candid		PROPN
+linda	linda	linda	linda		PROPN
+adlar	nama	ad	nama	N;NOM;PL;3	N;SG
+adlar	names	ad	names	N;NOM;PL;3	PROPN
+adlar	mamang	ad	mamang	N;NOM;PL;3	PROPN
+bira	beer	bira	beer		PROPN
+bira	bir	bira	bir		N;SG
+bira	ale	bira	ale		PROPN
+bira	bir	bira	bir		N;SG
+bmw	bmw	bmw	bmw	N;NOM;SG;3	PROPN
+yang	yang	yang	yang		PRO
+yurtdışı	internasional	yurtdışı	internasional		ADJ;SG
+yurtdışı	international	yurtdışı	international		N
+yurtdışı	mancanegara	yurtdışı	mancanegara		N
+yurtdışı	perantauan	yurtdışı	perantauan		N
+denetleme	audit	denetle	audit	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+denetleme	inspeksi	denetle	inspeksi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N
+timberlake	timberlake	timberlake	timberlake		PROPN
+basında	press	bas	press	N;ESS;SG;3	PROPN
+shaw	shaw	shaw	shaw		PROPN
+işlev	fungsi	işlev	fungsi		N;SG
+çevrede	seputar	çevre	seputar	N;ESS;SG;3	
+çevrede	sekitar	çevre	sekitar	N;ESS;SG;3	ADP
+mikro	mikro	mikro	mikro		N;SG
+mikro	micro	mikro	micro		PROPN
+armut	pir	armut	pir		N;SG
+armut	pear	armut	pear		N
+armut	pir	armut	pir		N;SG
+hopkins	hopkins	hopkins	hopkins		PROPN
+ayağı	foot	ayak	foot	N;NOM;SG;3	PROPN
+atlantic	atlantic	atlantic	atlantic	PROPN;NOM;SG;3	PROPN
+atlantic	atlantik	atlantic	atlantik	PROPN;NOM;SG;3	N;SG
+evlat	boy	evlat	boy		PROPN
+evlat	bocah	evlat	bocah		N
+evlat	nak	evlat	nak		PART
+evlat	nak	evlat	nak		PART
+evlat	putra	evlat	putra		N;SG
+evlat	son	evlat	son		PROPN
+evlat	anak	evlat	anak		N;SG
+string	untaian	string	untaian		N;SG
+string	string	string	string		N
+gündelik	kasual	gündelik	kasual		ADJ;SG
+gündelik	santai	gündelik	santai		N
+gündelik	casual	gündelik	casual		N
+üretir	menghasilkan	üretir	menhasilkan	V;IPFV;IND;SG;3;POS;CAUS	V;SG;ACT
+üretir	memproduksi	üretir	menproduksi	V;IPFV;IND;SG;3;POS;CAUS	V;SG;ACT
+kızılderilileri	indian	kızılderili	indian	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+çevik	ampek	çevik	ampek		PROPN
+çevik	gesit	çevik	gesit		ADJ;SG
+çevik	gesit	çevik	gesit		ADJ;SG
+bach	bach	bach	bach		PROPN
+orantılı	proporsional	orantılı	proporsional		ADJ;SG
+gurur	kebanggaan	gurur	kebanggaan		N;SG
+gurur	pride	gurur	pride		PROPN
+gurur	kesombongan	gurur	kesombongan		N;SG
+gurur	bangga	gurur	bangga		ADJ;SG
+gurur	proud	gurur	proud		PROPN
+başlıyor	starting	başla	starting	V;PROG;IND;SG;3;POS;INFM;PRS	PROPN
+edmund	edmund	ed	edmund		PROPN
+humus	hummus	humus	hummus		PROPN
+andronikos	andronikos	andronikos	andronikos		PROPN
+ziyareti	mengunjungi	ziyaret	menkunjungi	N;ACC;SG;3	V;SG;ACT
+ziyareti	berkunjung	ziyaret	berkunjung	N;ACC;SG;3	V;SG;ACT
+sergio	sergio	sergio	sergio		PROPN
+delil	buktinya	delil	bukti		N;SG
+delil	bukti	delil	bukti		N;SG
+delil	pembuktian	delil	penbuktian		N;SG
+delil	bukti	delil	bukti		N;SG
+kentler	kota	kent	kota	N;NOM;PL;3	N;SG
+izole	terisolasi	izole	terisolasi		V;SG;PASS
+izole	isolasi	izole	isolasi		N;SG
+izole	mengisolasi	izole	menisolasi		V;SG;ACT
+izole	terasing	izole	terasing		V;SG;PASS
+izole	terisolasi	izole	terisolasi		V;SG;PASS
+senatör	senator	senatör	senator		N
+tiger	tiger	tiger	tiger		PROPN
+tiger	harimau	tiger	harimau		N
+tiger	macan	tiger	macan		PROPN;SG
+turbo	turbocharged	turbo	turbocharged		N
+turbo	turbo	turbo	turbo		PROPN
+olgun	kedewasaan	olgun	kedewasaan		N;SG
+olgun	kematangan	olgun	kematangan		N;SG
+olgun	mellow	olgun	mellow		PROPN
+olgun	sendu	olgun	sendu		N;SG
+olgun	masak	olgun	masak		PROPN;SG;ACT
+olgun	matang	olgun	matang		ADJ;SG
+olgun	dewasa	olgun	dewasa		ADJ;SG
+olgun	matang	olgun	matang		ADJ;SG
+kendimi	myself	kendi	myself	PRO;ACC;SG;1;REFL	PROPN
+kendimi	diri	kendi	diri	PRO;ACC;SG;1;REFL	N;SG
+topal	lemas	topal	lemas		ADJ;SG
+topal	gimp	topal	gimp		PROPN
+topal	lumpuh	topal	lumpuh		ADJ;SG
+topal	loyo	topal	loyo		ADJ;SG
+topal	lame	topal	lame		PROPN
+maymun	monkey	maymun	monkey	N;NOM;SG;3	PROPN
+maymun	ape	maymun	ape	N;NOM;SG;3	PROPN
+kabuğu	shell	kabuk	shell	N;NOM;SG;3	PROPN
+kabuğu	kerang	kabuk	kerang	N;NOM;SG;3	PROPN
+suzuki	suzuki	suzuki	suzuki		N
+toplandı	berkumpul	topla	berkumpul	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+merzifon	merzifon	merzifon	merzifon		PROPN
+fischer	fischer	fischer	fischer	PROPN;NOM;SG;3	PROPN
+ayrık	diskret	ayrık	diskret		N
+honduras	honduras	honduras	honduras	PROPN;NOM;SG;3	PROPN
+cesaret	guts	cesaret	guts		PROPN
+cesaret	keberanian	cesaret	keberanian		N;SG
+cesaret	berani	cesaret	berani		ADJ;SG
+cesaret	dare	cesaret	dare		PROPN
+cesaret	keberanian	cesaret	keberanian		N;SG
+bristol	bristol	bristol	bristol	PROPN;NOM;SG;3	PROPN
+giles	giles	gil	giles		PROPN
+endişe	kecemasan	endiş	kecemasan		N;SG
+endişe	kegelisahan	endiş	kegelisahan		N;SG
+endişe	khawatir	endiş	khawatir		ADJ;SG
+endişe	peduli	endiş	peduli		ADJ;SG
+endişe	prihatin	endiş	prihatin		N;SG
+endişe	cemas	endiş	cemas		PROPN;SG
+endişe	khawatir	endiş	khawatir		ADJ;SG
+endişe	kekhawatiran	endiş	kekhawatiran		N;SG
+endişe	khawatir	endiş	khawatir		ADJ;SG
+endişe	cemas	endiş	cemas		PROPN;SG
+endişe	kekhawatiran	endiş	kekhawatiran		N;SG
+endişe	khawatir	endiş	khawatir		ADJ;SG
+endişe	kekhawatiran	endiş	kekhawatiran		N;SG
+endişe	keprihatinan	endiş	keprihatinan		N;SG
+schmidt	schmidt	schmidt	schmidt		PROPN
+sánchez	sánchez	sánchez	sánchez	PROPN;NOM;SG;3	PROPN
+çoğul	jamak	çoğul	jamak		ADJ;SG
+vicente	vicente	vicen	vicente	PROPN;NOM;SG;3	PROPN
+öğle	siang	öğle	siang		N;SG
+pistons	pistons	pistons	pistons		PROPN
+pistons	piston	pistons	piston		N
+pen	pen	pen	pen		PROPN
+pen	pulpen	pen	pulpen		N
+pen	pena	pen	pena		PROPN;SG
+storm	badai	stor	badai		PROPN;SG
+storm	storm	stor	storm		PROPN
+oyuncak	toy	oyuncak	toy	N;NOM;SG;3	PROPN
+kaş	surprise	kaş	surprise		PROPN
+kaş	alis	kaş	alis		N;SG
+kaş	berotot	kaş	berotot		V;SG;ACT
+kaş	muscle	kaş	muscle		PROPN
+kaş	otot	kaş	otot		N;SG
+kaş	alis	kaş	alis		N;SG
+kaş	alis	kaş	alis		N;SG
+gabler	gabler	gab	gabler		PROPN
+herodot	herodotus	herodot	herodotus		PROPN
+köfte	bakso	köft	bakso	N;NOM;SG;3	PROPN
+köfte	bakso	köft	bakso	N;NOM;SG;3	PROPN
+salzburg	salzburg	salzburg	salzburg	PROPN;NOM;SG;3	PROPN
+leicester	leicester	leicester	leicester	PROPN;NOM;SG;3	PROPN
+ward	ward	ward	ward		PROPN
+ward	bangsal	ward	bangsal		N
+taşkent	tashkent	taşkent	tashkent	PROPN;NOM;SG;3	PROPN
+won	won	won	won		PROPN
+won	dimenangkan	won	dimenangkan		V;SG;PASS
+nepal	nepal	nepal	nepal	PROPN;NOM;SG;3	PROPN
+nepal	nepal	nepal	nepal	PROPN;NOM;SG;3	PROPN
+problemler	masalah	problem	masalah	N;NOM;PL;3	N;SG
+mezhep	sekte	mezhep	sekte		N
+mezhep	pemujaan	mezhep	penpujaan		N;SG
+mezhep	kultus	mezhep	kultus		N
+sao	sao	sao	sao	PROPN;NOM;SG;3	PROPN
+parantez	kurung	parantez	kurung		PROPN
+şerit	lane	şerit	lane		PROPN
+şerit	stripe	şerit	stripe		N
+şerit	pita	şerit	pita		N;SG
+şerit	ribbon	şerit	ribbon		N
+şerit	strip	şerit	strip		N
+zevk	kesenangan	zevk	kesenangan		N;SG
+zevk	kenikmatan	zevk	kenikmatan		N;SG
+anlamları	makna	anlam	makna	N;ACC;PL;3	N;SG
+bird	bird	bird	bird		PROPN
+bird	burung	bird	burung		N;SG
+açılışı	opening	açılış	opening	N;NOM;SG;3	PROPN
+açılışı	membuka	açılış	menbuka	N;NOM;SG;3	V;SG;ACT
+fra	fra	fra	fra		PROPN
+waters	waters	waters	waters		PROPN
+waters	perairan	waters	perairan		N;SG
+waters	air	waters	air		N;SG
+jeremy	jeremy	jeremy	jeremy		PROPN
+ilhak	pencaplokan	ilhak	pencaplokan	N;NOM;SG;3	PROPN
+atın	cor	at	cor		PROPN
+atın	dilemparkan	at	dilemparkan		V;SG;PASS
+atın	pemeran	at	penperan		N;SG
+atın	cast	at	cast		PROPN
+atın	melemparkan	at	menlemparkan		V;SG;ACT
+atın	melempar	at	menlempar		V;SG;ACT
+atın	lemparan	at	lemparan		N;SG
+atın	lempar	at	lempar		PROPN;SG;ACT
+atın	throw	at	throw		PROPN
+kopyası	menyalin	kopya	mensalin		V;SG;ACT
+kopyası	copy	kopya	copy		PROPN
+kopyası	salin	kopya	salin		N;SG;ACT
+kopyası	salinan	kopya	salinan		N;SG
+keşfetti	ketahuan	keşfet	ketahuan	V;PFV;IND;SG;3;POS;PST	
+bennett	bennett	bennett	bennett		PROPN
+sirius	sirius	sirius	sirius		PROPN
+bangladeş	bangladesh	bangladeş	bangladesh	N;NOM;SG;3	PROPN
+nakliye	pengangkutan	nakil	penangkutan		N;SG
+nakliye	angkutan	nakil	angkutan		N;SG
+nakliye	pengiriman	nakil	penkiriman		N;SG
+nakliye	perkapalan	nakil	perkapalan		N;SG
+nakliye	transportasi	nakil	transportasi		N;SG
+nakliye	transpor	nakil	transpor		N;SG
+nakliye	angkut	nakil	angkut		N;SG;ACT
+nakliye	transport	nakil	transport		PROPN
+nakliye	pengangkutan	nakil	penangkutan		N;SG
+sektör	sektor	sektör	sektor		N;SG
+sektör	industri	sektör	industri		N;SG
+büyüklük	size	büyüklük	size	N;NOM;SG;3	PROPN
+kıyamet	kiamat	kıyamet	kiamat		PROPN
+kıyamet	armageddon	kıyamet	armageddon		PROPN
+kıyamet	apocalypse	kıyamet	apocalypse		N
+kıyamet	kiamat	kıyamet	kiamat		PROPN
+kepler	kepler	kep	kepler	N;NOM;PL;3	PROPN
+toros	toros	toros	toros		PROPN
+yem	pakan	ye	pakan		N;SG
+yem	feed	ye	feed		PROPN
+yem	kabar	ye	kabar		N;SG
+yem	umpan	ye	umpan		N;SG
+yem	pakan	ye	pakan		N;SG
+yem	umpan	ye	umpan		N;SG
+yem	bait	ye	bait		N;SG
+yem	hijauan	ye	hijauan		N;SG
+terörist	teroris	terörist	teroris		N;SG
+terörist	teroris	terörist	teroris		N;SG
+şakir	shakir	şakir	shakir		PROPN
+ahlaki	akhlak	ahlaki	akhlak		N;SG
+ahlaki	moral	ahlaki	moral		N;SG
+tabur	batalyon	tabur	batalyon		N
+tabur	batalion	tabur	batalion		N
+kategorileri	kategori	kategori	kategori	N;ACC;PL;3	PROPN;SG
+bulgular	temuan	bulgu	temuan	N;NOM;PL;3	N;SG
+senfonik	simfoni	senfonik	simfoni		N;SG
+ormanlar	hutan	orman	hutan	N;NOM;PL;3	N;SG
+kostüm	kostum	kostüm	kostum		N;SG
+kostüm	costume	kostüm	costume		PROPN
+kostüm	kostum	kostüm	kostum		N;SG
+weber	weber	weber	weber		PROPN
+tavır	sikapnya	tavır	sikap		N;SG
+tavır	attitude	tavır	attitude		PROPN
+tavır	sikap	tavır	sikap		N;SG
+pasif	pasif	pasif	pasif		ADJ;SG
+anlık	instan	anlık	instan		ADJ;SG
+anlık	instant	anlık	instant		PROPN
+mode	moda	mode	moda		N;SG
+mode	modus	mode	modus		N;SG
+mode	mode	mode	mode		PROPN
+gür	subur	gür	subur		ADJ;SG
+gür	lebat	gür	lebat		ADJ;SG
+fourier	fourier	fourier	fourier		N
+buyuk	big	buyuk	big		PROPN
+buyuk	besar	buyuk	besar		ADJ;SG
+oturum	sesi	oturum	sesi		N;SG
+oturum	session	oturum	session		PROPN
+oymak	ukir	oy	ukir		N;SG;ACT
+oymak	mengukir	oy	menkukir		V;SG;ACT
+arkası	dibelakang	arka	dibelakang	N;NOM;SG;3	ADP;SG;PASS
+arkası	behind	arka	behind	N;NOM;SG;3	PROPN
+harper	harper	harper	harper		PROPN
+tamamıyla	seutuhnya	tamam	seutuh	ADJ;INS;SG;3	N;SG
+tamamıyla	sepenuhnya	tamam	sepenuhnya	ADJ;INS;SG;3	ADV
+result	gumpalan	result	gumpalan		N;SG
+yaratıcısı	creator	yaratıcı	creator	N;NOM;SG;3	PROPN
+maiden	maiden	maiden	maiden		PROPN
+şikago	chicago	şikago	chicago		PROPN
+arşivlenmiş	arsip	arşivle	arsip	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG
+gölbaşı	gölbaşı	gölbaşı	gölbaşı	N;NOM;SG;3	PROPN
+curtis	curtis	curtis	curtis		PROPN
+alba	alba	alba	alba	PROPN;NOM;SG;3	PROPN
+ayrılık	putus	ayrılık	putus	N;NOM;SG;3	ADJ;SG
+ayrılık	berpisah	ayrılık	berpisah	N;NOM;SG;3	V;SG;ACT
+aletleri	instrumen	alet	instrumen	N;ACC;PL;3	N;SG
+louisiana	louisiana	loui	louisiana	PROPN;NOM;SG;3	PROPN
+istekleri	permintaan	istek	permintaan	N;ACC;PL;3	N;SG
+kabileler	suku	kabile	suku	N;NOM;PL;3	N;SG
+cümleler	terjemahan	cümle	terjemahan	N;NOM;PL;3	N;SG
+cümleler	kalimatnya	cümle	kalimat	N;NOM;PL;3	N;SG
+cümleler	kalimat	cümle	kalimat	N;NOM;PL;3	N;SG
+thomson	dupont	thomson	dupont		PROPN
+thomson	thomson	thomson	thomson		PROPN
+döngü	carousel	döngü	carousel		PROPN
+döngü	korsel	döngü	korsel		PROPN;SG
+döngü	loop	döngü	loop		N
+döngü	daur	döngü	daur		N;SG
+döngü	siklus	döngü	siklus		N;SG
+döngü	cycle	döngü	cycle		PROPN
+uçaklar	pesawat	uçak	pesawat	N;NOM;PL;3	N;SG
+uçaklar	aircraft	uçak	aircraft	N;NOM;PL;3	PROPN
+uçaklar	pesawat	uçak	pesawat	N;NOM;PL;3	N;SG
+vurgu	penekanan	vurgu	pentekanan		N;SG
+vurgu	ditekankan	vurgu	ditekankan		V;SG;PASS
+lucius	lucius	lucius	lucius		N
+lynch	lynch	lynch	lynch		PROPN
+odaları	ruangan	oda	ruangan	N;ACC;PL;3	N;SG
+odaları	kamar	oda	kamar	N;ACC;PL;3	N;SG
+odaları	forum	oda	forum	N;ACC;PL;3	PROPN
+sergei	sergei	sergei	sergei		PROPN
+tekne	berperahu	tekne	berperahu		V;SG;ACT
+tekne	kapal	tekne	kapal		N;SG
+tekne	perahu	tekne	perahu		N;SG
+tekne	boat	tekne	boat		PROPN
+klein	klein	kle	klein		PROPN
+sıralı	urutan	sıralı	urutan		N;SG
+ita	ita	ita	ita		PROPN
+komşuları	tetangga	komşu	tetangga	ADJ;NOM;PL;3	N;SG
+komşuları	tetangga	komşu	tetangga	ADJ;NOM;PL;3	N;SG
+tuzlu	asin	tuzlu	asin		N;SG
+tuzlu	asin	tuzlu	asin		N;SG
+adayları	nominasi	aday	nominasi	N;NOM;PL;3	N;SG
+adayları	calon	aday	calon	N;NOM;PL;3	N;SG
+adayları	kandidat	aday	kandidat	N;NOM;PL;3	N;SG
+mesele	masalah	mesele	masalah		N;SG
+mesele	isu	mesele	isu		N;SG
+oğul	nak	oğul	nak		PART
+oğul	putra	oğul	putra		N;SG
+oğul	son	oğul	son		PROPN
+oğul	anak	oğul	anak		N;SG
+bilgisayarlar	komputer	bilgisayar	komputer	N;NOM;PL;3	N;SG
+faktörler	faktor	faktör	faktor	N;NOM;PL;3	N;SG
+nine	nana	nine	nana		PROPN
+nine	granny	nine	granny		PROPN
+elmalı	apel	el	apel		N;SG
+elmalı	apple	el	apple		PROPN
+sınırlar	batas	sınır	batas	N;NOM;PL;3	N;SG
+sınırlar	perbatasan	sınır	perbatasan	N;NOM;PL;3	N;SG
+zeka	kecerdasan	zeka	kecerdasan		N;SG
+zeka	intelijen	zeka	intelijen		N;SG
+zeka	kepandaian	zeka	kepandaian		N;SG
+zeka	wit	zeka	wit		PROPN
+sınıflar	kelas	sınıf	kelas	N;NOM;PL;3	N;SG
+gibson	gibson	gibson	gibson		PROPN
+gibson	gibson	gibson	gibson		PROPN
+porter	porter	porter	porter		PROPN
+batum	batumi	batum	batumi		PROPN
+girişimleri	inisiatif	girişim	inisiatif	N;ACC;PL;3	N;SG
+girişimleri	upaya	girişim	upaya	N;ACC;PL;3	N;SG
+dalgalar	riak	dalga	riak	N;NOM;PL;3	PROPN
+dalgalar	gelombang	dalga	gelombang	N;NOM;PL;3	PROPN;SG
+dalgalar	ombaknya	dalga	ombak	N;NOM;PL;3	N;SG
+dalgalar	ombak	dalga	ombak	N;NOM;PL;3	PROPN
+nantes	nantes	nantes	nantes	PROPN;NOM;SG;3	PROPN
+musevi	yahudi	musevi	yahudi		PROPN;SG
+musevi	ibrani	musevi	ibrani		N
+nat	nat	nat	nat		PROPN
+antonius	antony	antonius	antony		PROPN
+antonius	antonius	antonius	antonius		PROPN
+antonius	antonius	antonius	antonius		PROPN
+riko	riko	riko	riko	PROPN;NOM;SG;3	PROPN
+riko	rico	riko	rico	PROPN;NOM;SG;3	PROPN
+spider	laba	spider	laba		N;SG
+spider	spider	spider	spider		PROPN
+flüt	flute	flüt	flute		PROPN
+flüt	suling	flüt	suling		N
+flüt	seruling	flüt	seruling		N
+harap	bobrok	harap	bobrok		ADJ;SG
+salı	tuesday	salı	tuesday		N
+salı	tue	salı	tue		PROPN
+atmak	lempar	at	lempar	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN;SG;ACT
+bölük	skuadron	bölük	skuadron		N;SG
+bölük	perusahaan	bölük	perusahaan		N;SG
+bölük	company	bölük	company		PROPN
+bölük	skuad	bölük	skuad		N;SG
+bölük	squad	bölük	squad		N
+bölük	regu	bölük	regu		N;SG
+bölük	pasukan	bölük	pasukan		N;SG
+bismarck	bismarck	bismarck	bismarck	PROPN;NOM;SG;3	PROPN
+manet	manet	manet	manet		PROPN
+tohum	seed	tohum	seed	N;NOM;SG;3	PROPN
+mutluluk	happiness	mutluluk	happiness	N;NOM;SG;3	PROPN
+tayfun	taufan	tayfun	taufan		N;SG
+tayfun	typhoon	tayfun	typhoon		N
+tayfun	topan	tayfun	topan		N;SG
+dalgası	surge	dalga	surge	N;NOM;SG;3	PROPN
+madencilik	menambang	madencilik	mentambang	N;NOM;SG;3	V;SG;ACT
+papaz	vikaris	papaz	vikaris		N
+papaz	imam	papaz	imam		N;SG
+papaz	pendeta	papaz	pendeta		N;SG
+papaz	priest	papaz	priest		PROPN
+papaz	pendeta	papaz	pendeta		N;SG
+papaz	pastor	papaz	pastor		N
+con	con	con	con	INTJ	PROPN
+edwin	edwin	et	edwin		PROPN
+queens	queens	queens	queens	PROPN;NOM;SG;3	PROPN
+yayıldı	menyebar	yay	mensebar	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+yayıldı	sebarkan	yay	sebarkan	V;PFV;IND;SG;3;POS;PST;PASS	V;SG;ACT
+yayıldı	sebar	yay	sebar	V;PFV;IND;SG;3;POS;PST;PASS	N;SG;ACT
+yayıldı	penyebaran	yay	pensebaran	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+terminal	terminal	terminal	terminal		N
+terminal	terminal	terminal	terminal		N
+bilişsel	kognitif	bilişsel	kognitif		N
+yanma	pembakaran	yan	penbakaran		N;SG
+yanma	terbakar	yan	terbakar		V;SG;PASS
+yanma	membakar	yan	menbakar		V;SG;ACT
+yanma	pembakaran	yan	penbakaran		N;SG
+yanma	burning	yan	burning		PROPN
+diger	lain	diger	lain		ADJ;SG
+diger	lainnya	diger	lainnya		N
+diger	lain	diger	lain		ADJ;SG
+diger	lainnya	diger	lainnya		N
+fiil	predikat	fiil	predikat		N
+voldemort	voldemort	voldemort	voldemort	N;NOM;SG;3	PROPN
+sakatlık	melukai	sakatlık	menlukai	N;NOM;SG;3	V;SG;ACT
+sakatlık	cacat	sakatlık	cacat	N;NOM;SG;3	PROPN;SG
+ima	ima	ima	ima		PROPN
+ima	menyiratkan	ima	mensiratkan		V;SG;ACT
+ima	tersirat	ima	tersirat		V;SG;PASS
+owen	owen	owen	owen	PROPN;NOM;SG;3	PROPN
+sophie	sophie	sophie	sophie		PROPN
+yayılması	menyebar	yay	mensebar	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;SG;ACT
+yayılması	menyebarkan	yay	mensebarkan	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;SG;ACT
+magazin	majalah	magazin	majalah		N;SG
+magazin	majalah	magazin	majalah		N;SG
+tüketim	konsumsi	tüket	konsumsi		N;SG
+frankenstein	frankenstein	frankens	frankenstein	N;NOM;SG;3	PROPN
+saraybosna	sarajevo	saraybo	sarajevo	PROPN;NOM;SG;3	PROPN
+azalma	pengurangan	azal	penkurangan		N;SG
+azalma	kurangi	azal	kurangi		V;SG;ACT
+azalma	mengurangi	azal	menkurangi		V;SG;ACT
+azalma	menurun	azal	menturun		V;SG;ACT
+azalma	berkurang	azal	berkurang		V;SG;ACT
+azalma	penurunan	azal	penturunan		N;SG
+dosyalar	berkas	dosya	berkas	N;NOM;PL;3	N;SG
+dosyalar	file	dosya	file	N;NOM;PL;3	N;SG
+tara	tara	tara	tara		PROPN
+tara	memindai	tara	menpindai		V;SG;ACT
+tara	pindai	tara	pindai		N;SG
+oya	suara	oya	suara		PROPN;SG
+oya	voting	oya	voting		PROPN;SG
+gauss	gaussian	gauss	gaussian		N;SG
+gauss	gauss	gauss	gauss		PROPN
+lori	lori	None	lori		N
+basılı	dicetak	basılı	dicetak		V;SG;PASS
+atıfta	merujuk	atıf	menrujuk	N;ESS;SG;3	V;SG;ACT
+atıfta	mengacu	atıf	menacu	N;ESS;SG;3	V;SG;ACT
+jam	macet	jam	macet		PROPN;SG
+jam	selai	jam	selai		N;SG
+düzenle	edit	düzen	edit	N;INS;SG;3	PROPN
+düzenle	ubah	düzen	ubah	N;INS;SG;3	V;SG;ACT
+düzenle	memodifikasi	düzen	menmodifikasi	N;INS;SG;3	V;SG;ACT
+dağıstan	dagestan	dağıs	dagestan		PROPN
+mantıksal	logika	mantıksal	logika	ADJ	N;SG
+morrison	morrison	morrison	morrison		PROPN
+atomik	atomic	atomik	atomic	ADJ	PROPN
+tuzla	tuzla	tuz	tuzla		PROPN
+telekomünikasyon	telecom	telekomünikasyon	telecom	N;NOM;SG;3	PROPN
+bölünmüş	belah	böl	belah	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	
+bölünmüş	pecah	böl	pecah	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;SG;ACT
+bölünmüş	split	böl	split	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	PROPN
+bölünmüş	pisah	böl	pisah	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG;ACT
+crown	mahkota	crown	mahkota		N
+crown	crown	crown	crown		PROPN
+mineral	mineral	mineral	mineral		N
+mineral	mineral	mineral	mineral		N
+eşdeğer	setara	eşdeğer	setara		ADJ;SG
+eşdeğer	ekuivalen	eşdeğer	ekuivalen		N
+tuğla	bata	tuğ	bata		PROPN;SG
+tuğla	brick	tuğ	brick		PROPN
+tuğla	bata	tuğ	bata		PROPN;SG
+ekşi	sour	ekşi	sour		PROPN
+brandenburg	brandenburg	brandenburg	brandenburg	PROPN;NOM;SG;3	PROPN
+milton	milton	milton	milton	PROPN;NOM;SG;3	PROPN
+kap	ambil	kap	ambil		V;SG;ACT
+kap	grab	kap	grab		PROPN
+kap	kap	kap	kap		PROPN;SG
+kap	kontainer	kap	kontainer		N;SG
+kap	wadah	kap	wadah		N;SG
+lois	lois	lois	lois		PROPN
+saçma	konyol	saç	konyol		ADJ;SG
+saçma	menggelikan	saç	mengelikan		V;SG;ACT
+saçma	absurd	saç	absurd		ADJ;SG
+tate	tate	tate	tate		PROPN
+bakkal	belanjaan	bakkal	belanjaan		N;SG
+bakkal	grosir	bakkal	grosir		N;SG
+idrar	urine	idrar	urine	N;NOM;SG;3	PROPN
+finaller	finals	final	finals	N;NOM;PL;3	PROPN
+muhasebe	accounting	muhasebe	accounting		N
+muhasebe	akunting	muhasebe	akunting		N;SG
+muhasebe	akuntansi	muhasebe	akuntansi		N;SG
+muhasebe	akuntan	muhasebe	akuntan		N;SG
+muhasebe	agresif	muhasebe	agresif		ADJ;SG
+paylaştı	shared	paylaş	shared	V;PFV;IND;SG;3;POS;PST	PROPN
+leopold	leopold	leopold	leopold	PROPN;NOM;SG;3	PROPN
+eleştirmeni	kritikus	eleştir	kritikus	V;PFV;ACC;IND;POS;PRS;V.MSDR	N;SG
+eleştirmeni	kritik	eleştir	kritik	V;PFV;ACC;IND;POS;PRS;V.MSDR	N;SG
+mektuplar	letters	mektup	letters	N;NOM;PL;3	PROPN
+mektuplar	huruf	mektup	huruf	N;NOM;PL;3	N;SG
+sindirim	pencernaan	sindir	pencernaan		N;SG
+sindirim	pencernaan	sindir	pencernaan		N;SG
+tüccar	pedagang	tüccar	pedagang		N;SG
+tüccar	pedagang	tüccar	pedagang		N;SG
+tüccar	trader	tüccar	trader		N
+motorlar	motors	motor	motors	N;NOM;PL;3	PROPN
+motorlar	motor	motor	motor	N;NOM;PL;3	N;SG
+motorlar	mesin	motor	mesin	N;NOM;PL;3	N;SG
+pancar	bit	pancar	bit		PROPN
+pancar	bit	pancar	bit		PROPN
+tacikistan	tajikistan	tacikistan	tajikistan	PROPN;NOM;SG;3	PROPN
+sacramento	sacramento	sacramento	sacramento	PROPN;NOM;SG;3	PROPN
+büyükler	sesepuh	büyük	sesepuh	ADJ;NOM;PL;3	N
+büyükler	tetua	büyük	tetua	ADJ;NOM;PL;3	N
+büyükler	penatua	büyük	penatua	ADJ;NOM;PL;3	N
+büyükler	dewasa	büyük	dewasa	ADJ;NOM;PL;3	ADJ;SG
+dolgu	padding	dolgu	padding		PROPN
+dolgu	isian	dolgu	isian		N;SG
+dolgu	filler	dolgu	filler		PROPN;SG
+dolgu	pengisi	dolgu	penisi		N;SG
+dolgu	isian	dolgu	isian		N;SG
+dolgu	mengisi	dolgu	menisi		V;SG;ACT
+dolgu	menyumbat	dolgu	mensumbat		V;SG;ACT
+tba	tba	tba	tba		PROPN
+solar	surya	solar	surya		N
+solar	solar	solar	solar		PROPN
+aydınlatma	pencahayaan	aydınlat	pencahayaan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+aydınlatma	pencahayaan	aydınlat	pencahayaan	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+aydınlatma	lighting	aydınlat	lighting	V;PFV;NOM;IND;POS;PRS;V.MSDR	N
+wolfsburg	wolfsburg	wolfsburg	wolfsburg	PROPN;NOM;SG;3	PROPN
+sağlama	checksum	sağla	checksum		N
+soprano	sopran	soprano	sopran		N
+atık	limbah	atık	limbah		N;SG
+atık	pemborosan	atık	penborosan		N;SG
+atık	wastewater	atık	wastewater		PROPN
+brooks	brooks	brooks	brooks		PROPN
+ibp	ibp	ibp	ibp		PROPN
+taşınır	moves	taşı	moves	V;IPFV;IND;SG;3;POS;PASS	PROPN
+taşımak	carry	taşı	carry	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+seth	seth	seth	seth		PROPN
+caroline	caroline	carol	caroline	N;DAT;SG;3	PROPN
+unix	unix	unix	unix		N
+devir	rpm	devir	rpm		PROPN
+manço	manco	manço	manco	PROPN;NOM;SG;3	PROPN
+abdul	abdul	abdul	abdul		PROPN
+gözlü	bermata	gözlü	bermata		V;SG;ACT
+boşnak	bosnia	boşnak	bosnia		PROPN
+boşnak	bosniak	boşnak	bosniak		PROPN
+temsili	perwakilan	temsili	perwakilan		N;SG
+temsili	representasi	temsili	representasi		N;SG
+temsili	mewakili	temsili	menwakili		V;SG;ACT
+yazlık	pondok	yazlık	pondok	N;NOM;SG;3	PROPN
+nasır	nasir	nasır	nasir		PROPN
+nasır	nasser	nasır	nasser		PROPN
+kaplama	cladding	kapla	cladding		PROPN
+kaplama	casing	kapla	casing		N
+kaplama	coating	kapla	coating		N
+kaplama	pelapis	kapla	pelapis		N;SG
+kaplama	veneer	kapla	veneer		N
+niyazi	niyazi	niyazi	niyazi		PROPN
+standartları	standar	standart	standar	ADJ;NOM;PL;3	ADJ;SG
+eleman	unsur	eleman	unsur		N;SG
+eleman	elemen	eleman	elemen		N;SG
+dün	kemaren	dün	kemaren	N;NOM;SG;3	PROPN
+dün	yesterday	dün	yesterday	N;NOM;SG;3	PROPN
+dün	kemarin	dün	kemarin	N;NOM;SG;3	
+rossi	rossi	ross	rossi		PROPN
+tanıttı	diperkenalkan	tanı	diperkenalkan	V;PFV;IND;SG;3;POS;PST;CAUS	V;SG;PASS
+tanıttı	memperkenalkan	tanı	menperkenalkan	V;PFV;IND;SG;3;POS;PST;CAUS	V;SG;ACT
+tanıttı	dikenalkan	tanı	dikenalkan	V;PFV;IND;SG;3;POS;PST;CAUS	V;SG;PASS
+vaftiz	pembaptisan	vaftiz	penbaptisan		N
+vaftiz	dibaptiskan	vaftiz	dibaptiskan		N
+vaftiz	dibaptis	vaftiz	dibaptis		N
+vaftiz	pembaptisan	vaftiz	penbaptisan		N
+vaftiz	baptis	vaftiz	baptis		N
+vaftiz	baptisan	vaftiz	baptisan		N
+vaftiz	pembaptisan	vaftiz	penbaptisan		N
+xander	xander	xander	xander		PROPN
+vfb	vfb	vfb	vfb		PROPN
+gelecekteki	future	gel	future	V;PFV;IND;SG;3;POS;FUT	PROPN
+laz	laz	laz	laz		PROPN
+telli	untaian	telli	untaian		N;SG
+telli	string	telli	string		N
+bari	bari	bari	bari		PROPN
+memorial	memorial	memorial	menporial	N;NOM;SG;3	PROPN
+benzin	benzena	benz	benzena		N;SG
+benzin	bensin	benz	bensin		N;SG
+benzin	bensin	benz	bensin		N;SG
+benzin	gas	benz	gas		N;SG
+benzin	bbm	benz	bbm		PROPN
+uzunlukta	panjang	uzunluk	panjang	N;ESS;SG;3	ADJ;SG
+naruto	naruto	naruto	naruto		PROPN
+bağımsızlığı	merdeka	bağımsızlık	merdeka	N;ACC;SG;3	PROPN;SG
+bağımsızlığı	independence	bağımsızlık	independence	N;ACC;SG;3	PROPN
+hunt	berburu	hunt	berburu		V;SG;ACT
+hunt	hunt	hunt	hunt		PROPN
+bastia	bastia	bastia	bastia	PROPN;NOM;SG;3	PROPN
+niçin	kenapa	niçin	kenapa		ADV
+niçin	mengapa	niçin	mengapa		ADV
+niçin	why	niçin	why		PROPN
+nagoya	nagoya	nago	nagoya	PROPN;NOM;SG;3	PROPN
+wells	sumur	wells	sumur	PROPN;NOM;SG;3	N;SG
+wells	wells	wells	wells	PROPN;NOM;SG;3	PROPN
+huzur	ketenangan	huzur	ketenangan		N;SG
+huzur	damai	huzur	damai		ADJ;SG
+huzur	kedamaian	huzur	kedamaian		N;SG
+huzur	peace	huzur	peace		PROPN
+huzur	perdamaian	huzur	perdamaian		N;SG
+huzur	ketenangan	huzur	ketenangan		N;SG
+huzur	serenity	huzur	serenity		PROPN
+huzur	damai	huzur	damai		ADJ;SG
+gömülü	dimakamkan	göm	dimakamkan		V;SG;PASS
+gömülü	dikuburkan	göm	dikuburkan		V;SG;PASS
+gömülü	terkubur	göm	terkubur		V;SG;PASS
+gömülü	dikubur	göm	dikubur		V;SG;PASS
+gömülü	tertanam	göm	tertanam		V;SG;PASS
+gömülü	terbenam	göm	terbenam		V;SG;PASS
+gömülü	disematkan	göm	disematkan		V;SG;PASS
+gömülü	sematan	göm	sematan		N;SG
+gömülü	ditempelkan	göm	ditempelkan		V;SG;PASS
+simgeler	simbol	simge	simbol	N;NOM;PL;3	N;SG
+spencer	spencer	spencer	spencer	PROPN;NOM;SG;3	PROPN
+mia	mia	mia	mia		PROPN
+düşünceler	pemikiran	düşünce	penpikiran	N;NOM;PL;3	N;SG
+düşünceler	fikiran	düşünce	fikiran	N;NOM;PL;3	N;SG
+düşünceler	pikiran	düşünce	pikiran	N;NOM;PL;3	N;SG
+saatler	jam	saat	jam	N;NOM;PL;3	N;SG
+saatler	arloji	saat	arloji	N;NOM;PL;3	N;SG
+rauf	rauf	rauf	rauf		PROPN
+swing	ayunkan	swing	ayunkan		N;SG;ACT
+swing	ayun	swing	ayun		N;SG
+swing	ayunan	swing	ayunan		N;SG
+swing	swing	swing	swing		PROPN
+foto	photo	foto	photo		PROPN
+foto	foto	foto	foto		PROPN;SG
+kabuk	tempurung	kabuk	tempurung		N;SG
+kabuk	cangkang	kabuk	cangkang		N;SG
+kabuk	shell	kabuk	shell		PROPN
+kabuk	kerang	kabuk	kerang		PROPN
+kabuk	kerak	kabuk	kerak		N;SG
+kabuk	cangkang	kabuk	cangkang		N;SG
+kabuk	selongsong	kabuk	selongsong		N
+kabuk	kerang	kabuk	kerang		PROPN
+stalingrad	stalingrad	stalingrad	stalingrad		PROPN
+biçimli	berbentuk	biçimli	berbentuk		V;SG;ACT
+birleştiren	menggabungkan	birleş	mengabungkan	V;PFV;IND;POS;PRS;V.PTCP;CAUS	V;SG;ACT
+birleştiren	combining	birleş	combining	V;PFV;IND;POS;PRS;V.PTCP;CAUS	PROPN
+kutlu	diberkati	kutlu	diberkati		V;SG;PASS
+kutlu	diberkahi	kutlu	diberkahi		V;SG;PASS
+kutlu	blessed	kutlu	blessed		PROPN
+kutlu	terberkati	kutlu	terberkati		PROPN;SG;PASS
+salim	salim	salim	salim		PROPN
+kabine	lemari	kabin	lemari	N;NOM;SG;3	PROPN
+marş	march	marş	march		PROPN
+marş	maret	marş	maret		N;SG
+joker	joker	joker	joker		N
+siena	siena	sinna	siena	PROPN;NOM;SG;3	PROPN
+melez	hibrida	melez	hibrida		N;SG
+melez	hybrid	melez	hybrid		PROPN
+melez	hibrida	melez	hibrida		N;SG
+melez	hybrid	melez	hybrid		PROPN
+derek	derek	derek	derek		N
+kuzu	lamb	kuz	lamb		PROPN
+kuzu	domba	kuz	domba		N;SG
+yeryüzü	bumi	yeryüzü	bumi		N;SG
+yeryüzü	earth	yeryüzü	earth		PROPN
+jpeg	jpeg	jpeg	jpeg		PROPN;SG
+yar	yar	yar	yar		PROPN
+sınırlıdır	limited	sınırlı	limited		PROPN
+sınırlıdır	terbatas	sınırlı	terbatas		V;SG
+sınırlıdır	dibatasi	sınırlı	dibatasi		V;SG;PASS
+çiftçilik	bertani	çiftçilik	bertani	N;NOM;SG;3	PROPN;SG;ACT
+ihtiyaçları	kebutuhan	ihtiyaç	kebutuhan	N;NOM;PL;3	N;SG
+fiyatı	price	fiyat	price	N;ACC;SG;3	PROPN
+kombine	digabungkan	kombine	digabungkan		V;SG;PASS
+kombine	berpadu	kombine	berpadu		V;SG;ACT
+kombine	kombinasi	kombine	kombinasi		N;SG
+kombine	dikombinasikan	kombine	dikombinasikan		V;SG;PASS
+kombine	gabungan	kombine	gabungan		N;SG
+kombine	kombinasi	kombine	kombinasi		N;SG
+eğitimci	pendidik	eğitimci	pendidik		N;SG
+bakmak	mencari	bak	mencari	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN;SG;ACT
+sunderland	sunderland	sunderlan	sunderland	PROPN;NOM;SG;3	N
+oruç	berpuasa	oruç	berpuasa		V;SG;ACT
+oruç	puasa	oruç	puasa		PROPN;SG
+gerçi	meskipun	gerçi	meskipun		CONJ
+gerçi	walaupun	gerçi	walaupun		CONJ
+gerçi	though	gerçi	though		PROPN
+gerçi	meskipun	gerçi	meskipun		CONJ
+gerçi	walaupun	gerçi	walaupun		CONJ
+gerçi	meski	gerçi	meski		CONJ
+belirtildi	dispesifikasikan	belir	dispesifikasikan	V;PFV;IND;SG;3;POS;PST;PASS	N
+lorentz	lorentz	lorentz	lorentz	N;NOM;SG;3	PROPN
+uzlaşma	rekonsiliasi	uzlaş	rekonsiliasi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N
+uzlaşma	konsensus	uzlaş	konsensus	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	kompromi	uzlaş	kompromi	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+kâr	profit	kâr	profit		PROPN
+kâr	laba	kâr	laba		N;SG
+kâr	keuntungan	kâr	keuntungan		N;SG
+kâr	profit	kâr	profit		PROPN
+leslie	leslie	lesli	leslie		PROPN
+fonu	fund	fonu	fund		PROPN
+fonu	dana	fonu	dana		N;SG
+çaylak	pemula	çaylak	pemula		N;SG
+çaylak	newbie	çaylak	newbie		PROPN
+çaylak	pemula	çaylak	pemula		N;SG
+çaylak	rookie	çaylak	rookie		PROPN
+mayo	renang	mayo	renang		N;SG
+mayo	swimsuit	mayo	swimsuit		N
+mühendisleri	insinyur	mühendis	insinyur	N;ACC;PL;3	N;SG
+kökleri	akar	kök	akar	N;NOM;PL;3	N;SG
+ortaklık	partnership	ortaklık	partnership	N;NOM;SG;3	PROPN
+ortaklık	amang	ortaklık	amang	N;NOM;SG;3	PROPN
+freud	freudian	freud	freudian		N
+freud	freud	freud	freud		PROPN
+kına	henna	kına	henna		PROPN
+döngüsü	cycle	döngü	cycle	N;NOM;SG;3	PROPN
+met	mets	met	mets		PROPN
+met	met	met	met		PROPN
+met	bertemu	met	bertemu		V;SG;ACT
+met	shabu	met	shabu		N
+met	sabu	met	sabu		PROPN
+mevlana	rumi	mevlan	rumi		PROPN
+ronaldo	ronaldo	ronal	ronaldo		N
+dostlar	teman	dost	teman	ADJ;NOM;PL;3	N;SG
+dostlar	friends	dost	friends	ADJ;NOM;PL;3	PROPN
+dostlar	berteman	dost	berteman	ADJ;NOM;PL;3	V;SG;ACT
+stevens	stevens	stevens	stevens		PROPN
+juliet	juliet	juliet	juliet		PROPN
+sarhoş	mabuk	sarhoş	mabuk		PROPN;SG
+sarhoş	drunk	sarhoş	drunk		PROPN
+yankı	gema	yankı	gema		PROPN
+yankı	gaungnya	yankı	gaung		N;SG;ACT
+yankı	gema	yankı	gema		PROPN
+yankı	gaung	yankı	gaung		PROPN;SG;ACT
+yankı	echo	yankı	echo		PROPN
+sergiler	pameran	sergi	pameran	N;NOM;PL;3	N;SG
+sergiler	pameran	sergi	pameran	N;NOM;PL;3	N;SG
+keşiş	friar	keşiş	friar		PROPN
+keşiş	biksu	keşiş	biksu		N
+keşiş	rahib	keşiş	rahib		N;SG
+keşiş	biarawan	keşiş	biarawan		N
+keşiş	monk	keşiş	monk		PROPN
+temsilci	rep	temsilci	rep		PROPN
+temsilci	perwakilan	temsilci	perwakilan		N;SG
+temsilci	agen	temsilci	agen		PROPN;SG
+temsilci	agent	temsilci	agent		PROPN
+sansür	sensor	sansür	sensor		N;SG
+sansür	penyensoran	sansür	pensensoran		N;SG
+resimli	illustrated	resimli	illustrated		PROPN
+resimli	ilustrasi	resimli	ilustrasi		N;SG
+resimli	digambarkan	resimli	digambarkan		V;SG;PASS
+resimli	bergambar	resimli	bergambar		V;SG;ACT
+pir	pir	pir	pir		N;SG
+strauss	strauss	strauss	strauss		PROPN
+faktör	factor	faktör	factor		PROPN
+faktör	faktor	faktör	faktor		N;SG
+sevinç	joy	sevinç	joy		PROPN
+sevinç	sukacita	sevinç	sukacita		N;SG
+canlılar	makhluk	canlı	makhluk	ADJ;NOM;PL;3	N;SG
+canlılar	mahluk	canlı	mahluk	ADJ;NOM;PL;3	N;SG
+yayıncı	penerbit	yayıncı	penterbit		N;SG
+yayıncı	penyiar	yayıncı	pennyiar		N;SG
+tazminat	reparasi	tazminat	reparasi		N;SG
+tazminat	kompensasi	tazminat	kompensasi		N;SG
+tazminat	pesangon	tazminat	pesangon		N
+tazminat	kerusakan	tazminat	kerusakan		N;SG
+dışarıda	luar	dışarı	luar	N;ESS;SG;3	ADJ;SG
+dışarıda	diluar	dışarı	diluar	N;ESS;SG;3	ADP;SG;PASS
+joão	joão	joão	joão	PROPN;NOM;SG;3	PROPN
+manzara	tumbang	manzara	tumbang	N;NOM;SG;3	V;SG;ACT
+manzara	melihat	manzara	menlihat	N;NOM;SG;3	V;SG;ACT
+manzara	lihat	manzara	lihat	N;NOM;SG;3	V;SG;ACT
+banks	banks	banks	banks		PROPN
+banks	bank	banks	bank		N;SG
+sitede	site	site	site	N;ESS;SG;3	PROPN
+göçmenler	migran	göçmen	migran	ADJ;NOM;PL;3	N;SG
+göçmenler	imigran	göçmen	imigran	ADJ;NOM;PL;3	N;SG
+düğünler	pernikahan	düğün	pernikahan	N;NOM;PL;3	N;SG
+doom	azab	doom	azab		N;SG
+doom	malapetaka	doom	malapetaka		N;SG
+lynn	lynn	li	lynn	PROPN;NOM;SG;3	PROPN
+amt	amt	amt	amt		PROPN
+jake	jake	jake	jake		PROPN
+eduardo	eduardo	et	eduardo		PROPN
+anlayış	wawasan	anlayış	wawasan		N;SG
+anlayış	insight	anlayış	insight		PROPN
+anlayış	pengertian	anlayış	pengertian		N;SG
+anlayış	pemahaman	anlayış	penpahaman		N;SG
+anlayış	memahami	anlayış	menpahami		V;SG;ACT
+bileşenleri	komponen	bileş	komponen	N;ACC;PL;3	N;SG
+imkansız	impossible	imkânsız	impossible	ADJ	PROPN
+değirmen	mill	değir	mill		PROPN
+değirmen	penggilingan	değir	pengilingan		N;SG
+değirmen	pemintalan	değir	penpintalan		N
+değirmen	mills	değir	mills		PROPN
+sawyer	sawyer	sawyer	sawyer		PROPN
+inanan	beriman	inan	berriman		PROPN;SG;ACT
+powell	powell	powell	powell	PROPN;NOM;SG;3	PROPN
+valilik	gubernuran	valilik	gubernuran	N;NOM;SG;3	PROPN;SG
+valilik	gubernur	valilik	gubernur	N;NOM;SG;3	PROPN;SG
+pensilvanya	pennsylvania	pensilvanya	pennsylvania	PROPN;NOM;SG;3	PROPN
+belirleyici	menentukan	belirleyici	mententukan		V;SG;ACT
+kil	clay	kil	clay		PROPN
+ölümsüz	abadi	ölümsüz	abadi	ADJ	PROPN;SG
+kanye	kanye	kany	kanye		PROPN
+masum	polos	masum	polos		PROPN;SG
+masum	lugu	masum	lugu		ADJ;SG
+masum	innocent	masum	innocent		PROPN
+truva	troy	truv	troy		PROPN
+truva	troya	truv	troya		PROPN
+truva	trojan	truv	trojan		N
+truva	troya	truv	troya		PROPN
+yaya	yaya	yaya	yaya		PROPN
+yaya	pedestrian	yaya	pedestrian		N
+yiyen	pemakan	yiyen	penpakan		N;SG
+yiyen	kirik	yiyen	kirik		N
+yiyen	pelahap	yiyen	penlahap		N;SG
+anavatan	motherland	anavat	motherland		PROPN
+okuyucu	pembaca	okuyucu	penbaca		N;SG
+okuyucu	reader	okuyucu	reader		PROPN
+binaların	bangunan	bina	bangunan	N;GEN;PL;3	N;SG
+binaların	gedung	bina	gedung	N;GEN;PL;3	N;SG
+euler	euler	eu	euler		PROPN
+yorkshire	yorkshire	yorkshire	yorkshire	PROPN;NOM;SG;3	PROPN
+drive	kandar	driv	kandar		PROPN
+drive	mengemudi	driv	menkemudi		V;SG;ACT
+drive	drive	driv	drive		PROPN
+hannibal	hannibal	hannibal	hannibal		PROPN
+limon	lemony	limon	lemony		PROPN
+limon	lemon	limon	lemon		N;SG
+limon	lemon	limon	lemon		N;SG
+limon	kapur	limon	kapur		N
+limon	limau	limon	limau		PROPN
+limon	lime	limon	lime		PROPN
+valentine	valentine	valent	valentine	N;NOM;SG;3	PROPN
+filip	philip	fil	philip		PROPN
+filip	philipp	fil	philipp		PROPN
+filip	filip	fil	filip		PROPN
+yazıcı	percetakan	yazıcı	percetakan		N;SG
+yazıcı	pencetak	yazıcı	pencetak		N;SG
+yazıcı	printer	yazıcı	printer		N
+yazıcı	yeoman	yazıcı	yeoman		PROPN
+yazıcı	percetakan	yazıcı	percetakan		N;SG
+yazıcı	pencetak	yazıcı	pencetak		N;SG
+yazıcı	printer	yazıcı	printer		N
+fıkıh	fikih	fıkıh	fikih		N
+başakşehir	başakşehir	başakşehir	başakşehir	N;NOM;SG;3	PROPN
+karayip	karibia	karay	karibia	ADV	PROPN;SG
+karayip	caribbean	karay	caribbean	ADV	PROPN
+stereo	stereo	stereo	stereo		PROPN
+sinek	terbang	sinek	terbang		N;SG;ACT
+sinek	lalat	sinek	lalat		N;SG
+sinek	fly	sinek	fly		PROPN
+sinek	lalat	sinek	lalat		N;SG
+yarbay	kolonel	yarbay	kolonel		N;SG
+yarbay	colonel	yarbay	colonel		PROPN
+tutarlı	konsisten	tutarlı	konsisten		ADJ;SG
+tutarlı	koheren	tutarlı	koheren		ADJ;SG
+mussolini	mussolini	mussol	mussolini		PROPN
+mecnun	majnu	mecnun	majnu		PROPN
+mitoloji	mitologi	mitoloji	mitologi		N
+anlaşılan	rupanya	anlaş	rupa	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADV;SG
+anlaşılan	ternyata	anlaş	ternyata	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADV;RL;SG
+tükenmiş	lelah	tüken	lelah	V;PFV;NFH;IND;POS;PST;V.PTCP	
+tükenmiş	kelelahan	tüken	kelelahan	V;PFV;NFH;IND;POS;PST;V.PTCP	N;SG
+tükenmiş	habis	tüken	habis	V;PFV;NFH;IND;POS;PST;V.PTCP	;SG
+anderlecht	anderlecht	anderlecht	anderlecht	PROPN;NOM;SG;3	PROPN
+carey	carey	carey	carey		PROPN
+coruña	coruña	coru	coruña		PROPN
+auf	auf	auf	auf		PROPN
+fermi	fermi	fermi	fermi		PROPN
+motors	motors	motors	motors	PROPN;NOM;SG;3	PROPN
+motors	motor	motors	motor	PROPN;NOM;SG;3	N;SG
+sally	sally	sally	sally		PROPN
+suçlar	kejahatan	suç	kejahatan	N;NOM;PL;3	N;SG
+suçlar	kriminalitas	suç	kriminalitas	N;NOM;PL;3	N;SG
+suçlar	kejahatan	suç	kejahatan	N;NOM;PL;3	N;SG
+suçlar	kriminal	suç	kriminal	N;NOM;PL;3	N;SG
+suçlar	crime	suç	crime	N;NOM;PL;3	PROPN
+büyücü	warlock	büyücü	warlock		N
+büyücü	necromancer	büyücü	necromancer		PROPN
+büyücü	penyihir	büyücü	pensihir		N;SG
+büyücü	wizard	büyücü	wizard		PROPN
+koku	penciuman	koku	penciuman		N;SG
+koku	bau	koku	bau		PROPN;SG
+koku	bau	koku	bau		PROPN;SG
+koku	penciuman	koku	penciuman		N;SG
+koku	wangi	koku	wangi		PROPN;SG
+koku	aroma	koku	aroma		N;SG
+koku	parfum	koku	parfum		N;SG
+koku	wewangian	koku	wewangian		N;SG
+koku	keharuman	koku	keharuman		N;SG
+koku	wangi	koku	wangi		PROPN;SG
+umman	oman	umman	oman		PROPN
+kamyon	truk	kamyon	truk		N;SG
+kamyon	truck	kamyon	truck		PROPN
+kamyon	truk	kamyon	truk		N;SG
+kamyon	truck	kamyon	truck		PROPN
+çatalca	çatalca	çatalca	çatalca		PROPN
+kırılma	breaking	kır	breaking	V;PFV;NOM;IMP;POS;PRS;PASS	PROPN
+kırılma	pembiasan	kır	penbiasan	V;PFV;NOM;IMP;POS;PRS;PASS	N;SG
+ayakları	feet	ayak	feet	N;NOM;PL;3	PROPN
+ayakları	kaki	ayak	kaki	N;NOM;PL;3	N;SG
+ruanda	rwanda	rua	rwanda		PROPN
+minsk	minsk	minsk	minsk	PROPN;NOM;SG;3	PROPN
+işlevsel	fungsional	işlevsel	fungsional	ADJ	N
+rehber	pedoman	rehber	pedoman		N;SG
+rehber	panduan	rehber	panduan		N;SG
+rehber	pemandu	rehber	penpandu		N;SG
+birleştirme	gabung	birleş	gabung	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	gabungkan	birleş	gabungkan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	menggabungkan	birleş	mengabungkan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	penggabungan	birleş	pengabungan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+birleştirme	menggabungkan	birleş	mengabungkan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	penggabungan	birleş	pengabungan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+birleştirme	gabungkan	birleş	gabungkan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	menggabungkan	birleş	mengabungkan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;SG;ACT
+birleştirme	unifikasi	birleş	unifikasi	V;PFV;IMP;SG;2;NEG;PRS;CAUS	PROPN
+birleştirme	penyatuan	birleş	pensatuan	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+sonuncu	last	sonuncu	last		PROPN
+sonuncu	terakhir	sonuncu	terakhir		ADJ;RL;SG
+marksizm	marxisme	marksizm	marxisme		N
+sloganı	motto	slogan	motto	N;ACC;SG;3	PROPN
+sloganı	moto	slogan	moto	N;ACC;SG;3	PROPN
+calcio	calcio	calcio	calcio	PROPN;NOM;SG;3	PROPN
+interwiki	interwiki	interwiki	interwiki		PROPN
+uzatma	ekstensi	uza	ekstensi	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N
+çalma	pemutaran	çal	penputaran		N;SG
+çalma	memutar	çal	menputar		V;SG;ACT
+çalma	putar	çal	putar		N;SG
+çalma	mencuri	çal	mencuri		V;SG;ACT
+çalma	curi	çal	curi		V;SG;ACT
+derinlik	mendalam	derinlik	mendalam	N;NOM;SG;3	V;SG;ACT
+koza	kepompong	koza	kepompong		PROPN
+koza	kepompong	koza	kepompong		PROPN
+masalı	tale	masal	tale	N;ACC;SG;3	PROPN
+tamer	tamer	tamer	tamer		PROPN
+kısımlar	bagian	kısım	bagian	N;NOM;PL;3	N;SG
+brugge	brugge	brugge	brugge	PROPN;NOM;SG;3	PROPN
+kazanç	profit	kazanç	profit	N;NOM;SG;3	PROPN
+kazanç	bati	kazanç	bati	N;NOM;SG;3	PROPN
+kazanç	gain	kazanç	gain	N;NOM;SG;3	PROPN
+kazanç	profit	kazanç	profit	N;NOM;SG;3	PROPN
+hardy	hardy	hardy	hardy		PROPN
+kel	botak	kel	botak		PROPN;SG
+kel	kel	kel	kel		PROPN
+gebze	gebze	gebze	gebze	PROPN;NOM;SG;3	PROPN
+yaratık	beast	yarat	beast		PROPN
+yaratık	binatang	yarat	binatang		N;SG
+yaratık	sangar	yarat	sangar		N
+yaratık	alien	yarat	alien		PROPN
+yaratık	makhluk	yarat	makhluk		N;SG
+yaratık	mahluk	yarat	mahluk		N;SG
+alessandro	alessandro	alessandro	alessandro		PROPN
+denklemleri	persamaan	denklem	persamaan	N;ACC;PL;3	N;SG
+brandon	brandon	bra	brandon	PROPN;NOM;SG;3	PROPN
+auguste	auguste	auguste	auguste		N
+theodore	theodore	theodore	theodore		PROPN
+gidiyor	leaving	git	leaving	V;PROG;IND;SG;3;POS;INFM;PRS	PROPN
+paradise	firdaus	paradise	firdaus	N;NOM;SG;3	PROPN
+paradise	surga	paradise	surga	N;NOM;SG;3	PROPN;SG
+paradise	paradise	paradise	paradise	N;NOM;SG;3	PROPN
+önlemler	pencegahan	önlem	pencegahan	ADJ;NOM;PL;3	N;SG
+önlemler	mengukur	önlem	menukur	ADJ;NOM;PL;3	V;SG;ACT
+clarke	clarke	clarke	clarke	PROPN;NOM;SG;3	PROPN
+clinton	clinton	clinton	clinton	PROPN;NOM;SG;3	PROPN
+barra	barra	barra	barra	PROPN;NOM;SG;3	PROPN
+neill	neill	neill	neill		PROPN
+fernández	fernández	fern	fernández	PROPN;NOM;SG;3	PROPN
+goya	goya	goy	goya		PROPN
+başlamak	starting	başla	starting	V;PFV;NOM;IND;POS;PRS;V.MSDR	PROPN
+editor	penyunting	et	penyunting		N
+editor	redaksi	et	redaksi		PROPN
+editor	editor	et	editor		N
+makul	beralasan	makul	beralasan		V;SG;ACT
+makul	wajar	makul	wajar		ADJ;SG
+css	css	css	css		N
+sanayii	industri	sanayii	industri		N;SG
+sanayii	industri	sanayii	industri		N;SG
+sanayii	industrial	sanayii	industrial		PROPN
+duff	duff	duff	duff		PROPN
+jackie	jackie	jackie	jackie		PROPN
+tropik	tropical	tropik	tropical		PROPN
+tropik	tropis	tropik	tropis		N;SG
+tropik	tropic	tropik	tropic		PROPN
+komünizm	komunisme	komün	komunisme		N;SG
+hokeyi	hockey	hoke	hockey	N;NOM;SG;3	PROPN
+berk	berk	berk	berk		PROPN
+buffalo	kerbau	buffalo	kerbau	PROPN;NOM;SG;3	N
+buffalo	cengkeh	buffalo	cengkeh	PROPN;NOM;SG;3	N;SG
+buffalo	buffalo	buffalo	buffalo	PROPN;NOM;SG;3	PROPN
+sahneler	pemandangan	sahne	penpandangan	N;NOM;PL;3	N;SG
+sahneler	adegan	sahne	adegan	N;NOM;PL;3	N;SG
+habsburg	habsburg	habsburg	habsburg	PROPN;NOM;SG;3	N
+funk	funk	funk	funk		PROPN
+uygulanabilir	berlaku	uygula	berlaku	V;IPFV;POT;SG;3;POS;PASS	V;SG;ACT
+iddialar	klaim	iddia	klaim	N;NOM;PL;3	N;SG
+iddialar	mengklaim	iddia	menklaim	N;NOM;PL;3	V;SG;ACT
+iddialar	tuduhannya	iddia	tuduhan	N;NOM;PL;3	N;SG
+yasaklandı	banned	yasakla	banned		PROPN
+yasaklandı	dilarang	yasakla	dilarang		V;SG;PASS
+yasaklandı	terlarang	yasakla	terlarang		PROPN;SG;PASS
+yasaklandı	dilarang	yasakla	dilarang		V;SG;PASS
+knicks	knicks	knicks	knicks		PROPN
+altta	bawah	altta	bawah		N;SG
+altta	terbawah	altta	terbawah		ADP;RL;SG
+altta	bottom	altta	bottom		PROPN
+discogs	discogs	discogs	discogs		PROPN
+havayolları	airline	havayol	airline	N;NOM;PL;3	PROPN
+kullanın	menggunakan	kullan	mengunakan	V;PFV;IMP;PL;2;POS;PRS	V;SG;ACT
+kullanın	gunakan	kullan	gunakan	V;PFV;IMP;PL;2;POS;PRS	V;SG;ACT
+kullanın	pakai	kullan	pakai	V;PFV;IMP;PL;2;POS;PRS	V;SG;ACT
+kullanın	penggunaan	kullan	pengunaan	V;PFV;IMP;PL;2;POS;PRS	N;SG
+kalbi	hati	kalbi	hati	ADJ;NOM;SG;3	N;SG
+kalbi	heart	kalbi	heart	ADJ;NOM;SG;3	PROPN
+kalbi	jantung	kalbi	jantung	ADJ;NOM;SG;3	N;SG
+malik	malik	malik	malik		PROPN
+kupalar	mug	kupa	mug	N;NOM;PL;3	PROPN
+andorra	andorra	andorra	andorra	PROPN;NOM;SG;3	PROPN
+çıktılar	output	çık	output	V;PFV;IND;PL;3;POS;PST	N
+çıktılar	keluaran	çık	keluaran	V;PFV;IND;PL;3;POS;PST	N;SG
+çıktılar	output	çık	output	V;PFV;IND;PL;3;POS;PST	N
+çıktılar	keluaran	çık	keluaran	V;PFV;IND;PL;3;POS;PST	N;SG
+eflak	wallachia	eflak	wallachia		N
+seyrek	jarang	seyrek	jarang		ADV
+seyrek	jarang	seyrek	jarang		ADV
+seyrek	langka	seyrek	langka		N;SG
+seyrek	rare	seyrek	rare		PROPN
+seyrek	jarang	seyrek	jarang		ADV
+seyrek	sparse	seyrek	sparse		PROPN
+tecavüz	memperkosa	tecavüz	menperkosa		V;SG;ACT
+tecavüz	perkosa	tecavüz	perkosa		PROPN;SG;ACT
+tecavüz	pemerkosaan	tecavüz	penperkosaan		N;SG
+tecavüz	pemerkosaan	tecavüz	penperkosaan		N;SG
+tecavüz	perkosaan	tecavüz	perkosaan		N;SG
+tecavüz	diperkosa	tecavüz	diperkosa		V;SG;PASS
+rich	rich	rich	rich		PROPN
+rich	kaya	rich	kaya		ADJ;SG
+defne	laurel	defne	laurel		PROPN
+defne	teluk	defne	teluk		N;SG
+defne	bay	defne	bay		PROPN
+konuşur	perundingan	konuş	penrundingan		N;SG
+konuşur	pembicaraan	konuş	penbicaraan		N;SG
+afgan	afganistan	afgan	afganistan		N;SG
+afgan	afghanistan	afgan	afghanistan		N;SG
+afgan	afganistan	afgan	afganistan		N;SG
+afgan	afghan	afgan	afghan		N
+afgan	afghan	afgan	afghan		N
+dino	dino	dino	dino		PROPN
+phillips	phillips	phillips	phillips	PROPN;NOM;SG;3	PROPN
+bask	basque	bask	basque		PROPN
+tablolar	meja	tablo	meja	N;NOM;PL;3	N;SG
+tablolar	tabel	tablo	tabel	N;NOM;PL;3	N;SG
+tablolar	bagan	tablo	bagan	N;NOM;PL;3	N;SG
+tablolar	lukisan	tablo	lukisan	N;NOM;PL;3	N;SG
+jamaika	jamaika	jamaika	jamaika	PROPN;NOM;SG;3	N;SG
+jamaika	jamaica	jamaika	jamaica	PROPN;NOM;SG;3	PROPN
+jamaika	jamaika	jamaika	jamaika	PROPN;NOM;SG;3	N;SG
+otorite	otoritas	otorite	otoritas		N;SG
+otorite	kewenangan	otorite	kewenangan		N;SG
+otorite	authority	otorite	authority		PROPN
+hindu	hindu	hin	hindu		PROPN
+hindu	hindustan	hin	hindustan		N
+hindu	hindustani	hin	hindustani		PROPN
+hindu	hindu	hin	hindu		PROPN
+butler	butler	butle	butler		PROPN

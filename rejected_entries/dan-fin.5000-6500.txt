@@ -1,0 +1,1814 @@
+algeriet	algeria	algeri	algeri	N;DEF;NEUT;SG	PROPN;NOM;SG
+mus	hiiret	mus	hiiri	N;INDF;MASC+FEM;SG	N;NOM;PL
+mus	hiirillä	mus	hiiri	N;INDF;MASC+FEM;SG	N;AT+ESS
+;PL
+mus	hiiriä	mus	hiiri	N;INDF;MASC+FEM;SG	N;PRT;PL
+über	über	über	über	V;IND;PST;FIN;ACT	INTJ
+cleveland	cleveland	cleveland	cleveland		N;NOM;SG
+jer	jer	I	jer	PRO;ACC;MASC+FEM;PL;2	N;NOM;SG
+ingrid	ingrid	ingrid	ingrid	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+vanskelig	vaikeat	vanskelig	vaikea	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+holmes	holmes	holme	holmes	V;NFIN;PASS	N;NOM;SG
+anbefalede	suositeltava	anbefale	suositeltava	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+anbefalede	suositus	anbefale	suositus	V;IND;PST;FIN;ACT	N;NOM;SG
+anbefalede	suositellaan	anbefale	suositella	V;IND;PST;FIN;ACT	V;IND;PRS;FIN;PASS
+anbefalede	suositeltu	anbefale	suositella	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+marker	fields	mark	fields	N;INDF;MASC+FEM;PL	N;NOM;SG
+marker	merkkaa	mark	merkka	N;INDF;MASC+FEM;PL	V;IMP;SG;2;FIN;ACT
+marker	merkitse	mark	merkitä	N;INDF;MASC+FEM;PL	V;IMP;SG;2;FIN;ACT
+marker	merkki	mark	merkki	N;INDF;MASC+FEM;PL	N;NOM;SG
+marker	mark	mark	mark	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+ted	ted	ted	ted		PROPN;NOM;SG
+ted	tedin	ted	teddä		N;GEN;SG
+tree	puu	tree	puu		N;NOM;SG
+tree	puuta	tree	puu		N;PRT;SG
+tree	puun	tree	puu		N;GEN;SG
+tree	tre	tree	tre		INTJ
+porto	porto	porto	porto		PROPN;NOM;SG
+porto	porto	porto	porto		PROPN;NOM;SG
+enkel	yksinkertaiset	enkel	yksinkertainen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+balkan	balkanin	balkan	balkan		N;GEN;SG
+balkan	balkanin	balkan	balkan		N;GEN;SG
+tilbagevendende	toistuva	tilbagevendende	toistua	V;PRS;V.PTCP	ADJ;NOM;SG
+tilbagevendende	toistuva	tilbagevendende	toistua	V;PRS;V.PTCP	ADJ;NOM;SG
+svaret	vastaa	svar	vastata	N;DEF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+svaret	vastata	svar	vastata	N;DEF;NEUT;SG	V;SG;NFIN;ACT
+edgar	edgar	edgar	edgar		N;NOM;SG
+angels	enkelit	angels	enkeli	N;INDF;MASC+FEM;SG	N;NOM;PL
+angels	enkeleitä	angels	enkeli	N;INDF;MASC+FEM;SG	N;PRT;PL
+dæk	rengas	dæk	rengas	N;INDF;NEUT;PL	N;NOM;SG
+dæk	renkaan	dæk	rengas	N;INDF;NEUT;PL	N;GEN;SG
+dæk	väsy	dæk	väsy	N;INDF;NEUT;PL	ADJ;NOM;SG
+dæk	kannella	dæk	kannella	N;INDF;NEUT;PL	N;AT+ESS
+;SG
+dæk	kannen	dæk	kansi	N;INDF;NEUT;PL	N;GEN;SG
+dæk	kansi	dæk	kansi	N;INDF;NEUT;PL	N;NOM;SG
+dæk	kansi	dæk	kansi	N;INDF;NEUT;PL	N;NOM;SG
+dæk	kattaa	dæk	kattaa	N;INDF;NEUT;PL	V;IND;SG;3;PRS;FIN;ACT
+dæk	kannen	dæk	kansi	N;INDF;NEUT;PL	N;GEN;SG
+dæk	suojaa	dæk	suoja	N;INDF;NEUT;PL	V;IMP;SG;2;FIN;ACT
+dæk	rengas	dæk	rengas	N;INDF;NEUT;PL	N;NOM;SG
+dæk	renkaan	dæk	rengas	N;INDF;NEUT;PL	N;GEN;SG
+nhl	nhl	nhl	nhl	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+drømme	unta	drøm	uni	N;INDF;MASC+FEM;PL	N;PRT;SG
+drømme	uni	drøm	uni	N;INDF;MASC+FEM;PL	N;NOM;SG
+drømme	haaveilla	drøm	haaveilla	N;INDF;MASC+FEM;PL	V;SG;NFIN;ACT
+drømme	dream	drøm	dream	N;INDF;MASC+FEM;PL	
+drømme	unelma	drøm	unelma	N;INDF;MASC+FEM;PL	N;NOM;SG
+drømme	unta	drøm	uni	N;INDF;MASC+FEM;PL	N;PRT;SG
+drømme	haaveilla	drøm	haaveilla	N;INDF;MASC+FEM;PL	V;SG;NFIN;ACT
+kanten	edge	kant	edge	N;DEF;MASC+FEM;SG	
+neil	neilin	neil	neili		PROPN;GEN;SG
+neil	neil	neil	neil		PROPN;NOM;SG
+duo	duo	duo	duoda		N;NOM;SG
+hjulpet	auttoivat	hjælpe	auttaa	V;INDF;SG;PST;V.PTCP	V;IND;PL;3;PST;FIN;ACT
+registrerede	rekisteröity	registrere	rekisteröidä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+registrerede	kirjattu	registrere	kirjata	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+registrerede	rekisteröityä	registrere	rekisteröityä	V;PL;PST;V.PTCP	V;PRT;SG;V.PTCP;PASS
+eyes	silmiä	eyes	silmä		N;PRT;PL
+eyes	katse	eyes	katse		N;NOM;SG
+eyes	silmät	eyes	silmä		N;NOM;PL
+estisk	viron	estisk	viro	ADJ;INDF;SG	N;GEN;SG
+estisk	viro	estisk	viro	ADJ;INDF;SG	N;NOM;SG
+maryland	marylandin	maryland	marylandi		N;GEN;SG
+bemærkelsesværdige	huomattava	bemærkelsesværdig	huomattava	ADJ;PL	ADJ;NOM;SG
+bemærkelsesværdige	huomattavaa	bemærkelsesværdig	huomattava	ADJ;PL	ADJ;PRT;SG
+bemærkelsesværdige	merkittävä	bemærkelsesværdig	merkittävä	ADJ;PL	ADJ;NOM;SG
+bemærkelsesværdige	merkittävää	bemærkelsesværdig	merkittävä	ADJ;PL	ADJ;PRT;SG
+bemærkelsesværdige	huomattava	bemærkelsesværdig	huomattava	ADJ;PL	ADJ;NOM;SG
+bemærkelsesværdige	huomionarvoista	bemærkelsesværdig	huomio#narva	ADJ;PL	ADJ;PRT;SG
+skulpturer	veistos	skulptur	veistos	N;INDF;MASC+FEM;PL	N;NOM;SG
+brande	tuli	brand	tulla	N;INDF;MASC+FEM;PL	V;IND;SG;0;PST;FIN;ACT
+brande	tulipalo	brand	tuli#palo	N;INDF;MASC+FEM;PL	N;NOM;SG
+control	ohjaus	control	ohjaus		N;NOM;SG
+control	määräysvalta	control	määräys#valta		N;NOM;SG
+control	hallitse	control	hallita		V;IMP;SG;2;FIN;ACT
+control	hallinta	control	hallinta		N;NOM;SG
+control	valvonta	control	valvonta		N;NOM;SG
+eduard	eduard	eduard	eduard		N;NOM;SG
+oklahoma	oklahoma	oklahoma	okla#homa		
+sjæl	soul	sjæl	soul	N;INDF;MASC+FEM;SG	
+grafisk	graafinen	grafisk	graafinen	ADV	ADJ;NOM;SG
+grafisk	graafinen	grafisk	graafinen	ADV	ADJ;NOM;SG
+grafisk	grafiikka	grafisk	grafiikka	ADV	N;NOM;SG
+flot	hienot	flot	hieno	ADJ;INDF;SG	ADJ;NOM;PL
+flot	komeita	flot	komea	ADJ;INDF;SG	ADJ;PRT;PL
+kritiserede	arvosteltu	kritisere	arvostella	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+sierra	sierra	sierra	sierra		N;NOM;SG
+frigivet	vapautuu	frigiv	vapautua	V;INDF;SG;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+nazistiske	natsi	nazistisk	natsi	ADJ;PL	N;NOM;SG
+aktion	toimi	aktion	toimia	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+aktion	toimia	aktion	toimia	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+tung	raskaat	tung	raskas	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+tung	tung	tung	tung	ADJ;INDF;MASC+FEM;SG	PROPN;NOM;SG
+byzantinske	bysantin	byzantinsk	bysantti	ADJ;PL	N;GEN;SG
+forventet	odotettavissa	forvente	odottaa	V;INDF;SG;PST;V.PTCP	V;IN+ESS;PL;V.PTCP;PASS
+forventet	odotetaan	forvente	odottaa	V;INDF;SG;PST;V.PTCP	V;IND;PRS;FIN;PASS
+harrison	harrisonin	harrison	harrison		N;GEN;SG
+harrison	harrison	harrison	harriso		N;NOM;SG
+gaza	gazassa	gaza	gaza	PROPN	N;IN+ESS;SG
+gaza	gazan	gaza	gaza	PROPN	N;GEN;SG
+grey	harmaita	grey	harmaa		ADJ;PRT;PL
+grey	harmaata	grey	harmaa		ADJ;PRT;SG
+grey	harmaa	grey	harmaa		ADJ;NOM;SG
+grey	grey	grey	grey		
+pyrénées	pyrénées	pyrknée	pyrénées	N;GEN;INDF;MASC+FEM;PL	N;NOM;SG
+aires	aires	aires	aires	PROPN	
+raf	raf	raf	raf	PROPN	N;NOM;SG
+sigt	tähtää	sigt	tähdätä	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+sigt	tähdätä	sigt	tähdätä	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+kirk	kirk	kirk	kirke		PROPN;NOM;SG
+lodret	pystysuunnassa	loder	pystysuunta	ADJ;INDF;SG	N;IN+ESS;SG
+essays	esseitä	essay	esse	N;INDF;NEUT;SG	N;PRT;PL
+racing	kilpa	racing	kilpa		N;NOM;SG
+racing	kisaa	racing	kisa		N;PRT;SG
+racing	racing	racing	racing		N;NOM;SG
+jamie	jamie	jamie	jamie		PROPN;NOM;SG
+kontrollerede	ohjattu	kontrollere	ohjata	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+kontrollerede	valvottu	kontrollere	valvoa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+kontrollerede	hallittu	kontrollere	hallita	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+kontrollerede	hallinnassa	kontrollere	hallinta	V;PL;PST;V.PTCP	N;IN+ESS;SG
+autoritet	valtuudet	autoritet	valtuus	N;INDF;MASC+FEM;SG	N;NOM;PL
+hunter	metsästäjä	hunte	metsästäjä	N;INDF;MASC+FEM;PL	N;NOM;SG
+hunter	hunter	hunte	hunter	N;INDF;MASC+FEM;PL	N;NOM;SG
+hunter	saalistaja	hunte	saalistaja	N;INDF;MASC+FEM;PL	N;NOM;SG
+elskede	rakkaan	elske	rakas	V;DEF;SG;PST;V.PTCP	ADJ;GEN;SG
+dramatiske	dramaattinen	dramatisk	dramaattinen	ADJ;PL	ADJ;NOM;SG
+dramatiske	dramaattista	dramatisk	dramaattinen	ADJ;PL	ADJ;PRT;SG
+farlig	vaaralliset	farlig	vaarallinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+farlig	vaarallisten	farlig	vaarallinen	ADJ;INDF;MASC+FEM;SG	ADJ;GEN;PL
+farlig	vaaralliset	farlig	vaarallinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+kontroversielle	kiistanalainen	kontroversiel	kiistanalainen	ADJ;PL	ADJ;NOM;SG
+kontroversielle	ristiriitainen	kontroversiel	risti#riitainen	ADJ;PL	ADJ;NOM;SG
+kontroversielle	kiistanalaista	kontroversiel	kiistanalainen	ADJ;PL	ADJ;PRT;SG
+revolutionære	vallankumouksellinen	revolutionær	vallan#kumouksellinen	ADJ;PL	ADJ;NOM;SG
+woman	nainen	woman	nainen		N;NOM;SG
+philippe	philippe	philippe	phili		PROPN;NOM;SG
+fugl	bird	fugl	bird	N;INDF;MASC+FEM;SG	
+udenlandsk	ulkomaan	udenlandsk	ulko#maa	ADJ;INDF;SG	N;GEN;SG
+udenlandsk	ulkomaiset	udenlandsk	ulko#mainen	ADJ;INDF;SG	ADJ;NOM;PL
+heaven	taivaaseen	heaven	taivas		N;IN+ALL;SG
+heaven	taivas	heaven	taivas		N;NOM;SG
+heaven	taivaan	heaven	taivas		N;GEN;SG
+istanbul	istanbulin	istanbul	istanbuli	PROPN	N;GEN;SG
+download	lataus	download	lataus	V;IMP	N;NOM;SG
+sammenstød	yhteenottoja	sammenstød	yhteen#otto	N;INDF;NEUT;SG	N;PRT;PL
+sammenstød	clash	sammenstød	clash	N;INDF;NEUT;SG	
+sammenstød	törmäykset	sammenstød	törmäys	N;INDF;NEUT;SG	N;NOM;PL
+inter	inter	inter	inter		PROPN;NOM;SG
+jagerfly	hävittäjiä	jagerfly	hävittäjä	N;INDF;MASC+FEM;SG	N;PRT;PL
+jagerfly	taistelijoita	jagerfly	taistelija	N;INDF;MASC+FEM;SG	N;PRT;PL
+jagerfly	hävittäjät	jagerfly	hävittäjä	N;INDF;MASC+FEM;SG	N;NOM;PL
+pacific	tyyni	pacific	tyyni		N;NOM;SG
+pacific	tyynenmeren	pacific	tyyni#meri		N;GEN;SG
+pacific	pacific	pacific	pacific		
+borger	kansalaisena	borger	kansalainen	N;INDF;MASC+FEM;SG	ADJ;FRML;SG
+forhindrede	estettiin	forhindre	estää	V;IND;PST;FIN;ACT	V;IND;PST;FIN;PASS
+engel	angel	engel	angel	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+erich	erich	erich	erich	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+myter	myytti	myte	myyttää	N;INDF;MASC+FEM;PL	N;NOM;SG
+frivillig	vapaaehtoiset	frivillig	vapaa#ehtoinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+frivillig	vapaaehtoistyö	frivillig	vapaa#ehtois#työ	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+frivillig	vapaaehtoiset	frivillig	vapaa#ehtoinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+egon	egon	egon	ego		N;GEN;SG
+sting	stitch	sting	stitch	N;INDF;MASC+FEM;SG	
+sting	pistää	sting	pistää	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+sting	tikkejä	sting	tikki	N;INDF;MASC+FEM;SG	N;PRT;PL
+asiatiske	aasian	asiatisk	aasia	ADJ;PL	N;GEN;SG
+asiatiske	aasialainen	asiatisk	aasialainen	ADJ;PL	ADJ;NOM;SG
+sweet	makea	swe	makea		ADJ;NOM;SG
+sweet	sweet	swe	sweet		
+sweet	makeaa	swe	makea		ADJ;PRT;SG
+sweet	suloinen	swe	suloinen		ADJ;NOM;SG
+ler	nauraa	le	nauraa	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+ler	clay	le	clay	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+jagten	metsästää	jagt	metsästää	N;DEF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+jagten	hunt	jagt	hunt	N;DEF;MASC+FEM;SG	PROPN;NOM;SG
+jagten	metsästämässä	jagt	metsästää	N;DEF;MASC+FEM;SG	V;IN+ESS;SG;NFIN;ACT
+bevidsthed	tajuihinsa	bevidsthed	taju	N;INDF;MASC+FEM;SG	N;IN+ALL;PL
+bevidsthed	tietoinen	bevidsthed	tietoinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+bevidsthed	tajuissaan	bevidsthed	taju	N;INDF;MASC+FEM;SG	N;IN+ESS;PL
+sproglige	kielellisen	sproglig	kielellinen	ADJ;PL	ADJ;GEN;SG
+udkæmpet	taistellut	udkæmpe	taistella	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+houston	houston	houston	housto		N;NOM;SG
+houston	houstoniin	houston	housto		N;IN+ALL;SG
+houston	houstonin	houston	houstoni		N;GEN;SG
+anmodning	pyytää	anmodning	pyytää	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+anmodning	pyydä	anmodning	pyydä	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+flandern	flanders	flande	flanders	N;INDF;MASC+FEM;PL	N;NOM;SG
+flandern	flanderin	flande	flanderi	N;INDF;MASC+FEM;PL	N;GEN;SG
+cbs	cbs	cbs	cbs	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+cbs	keskuspankit	cbs	keskus#pankki	N;INDF;MASC+FEM;SG	N;NOM;PL
+fremstiller	valmistaja	fremstille	valmistaja	V;IND;PRS;FIN;ACT	N;NOM;SG
+fremstiller	valmistajan	fremstille	valmistaja	V;IND;PRS;FIN;ACT	N;GEN;SG
+toner	väriaine	tone	väri#aine	N;INDF;MASC+FEM;PL	N;NOM;SG
+behandle	herkku	behandle	herkku	V;NFIN;ACT	N;NOM;SG
+patent	patenttien	patent	patentti	N;INDF;NEUT;SG	N;GEN;PL
+patent	patentit	patent	patentti	N;INDF;NEUT;SG	N;NOM;PL
+patent	patentteja	patent	patentti	N;INDF;NEUT;SG	N;PRT;PL
+owen	owen	owen	owe		PROPN;NOM;SG
+owen	owenin	owen	owen		N;GEN;SG
+rafael	raphael	rafael	raphael		N;NOM;SG
+rafael	rafael	rafael	rafael		PROPN;NOM;SG
+rafael	rafael	rafael	rafael		PROPN;NOM;SG
+kæden	ketjut	kæde	ketju	N;DEF;MASC+FEM;SG	N;NOM;PL
+skatter	veroja	skatter	vero	ADV	N;PRT;PL
+skatter	verot	skatter	vero	ADV	N;NOM;PL
+ravn	raven	ravn	ravi	N;INDF;MASC+FEM;SG	
+alabama	alabaman	alabama	alabama		N;GEN;SG
+væbnede	aseellinen	væbne	aseellinen	ADJ;PL	ADJ;NOM;SG
+væbnede	viritetty	væbne	virittää	ADJ;PL	V;NOM;SG;V.PTCP;PASS
+væbnede	aseistettu	væbne	aseistaa	ADJ;PL	V;NOM;SG;V.PTCP;PASS
+undersøgt	opinnot	undersøge	opinto	V;INDF;SG;PST;V.PTCP	N;NOM;PL
+organiske	orgaaninen	organisk	orgaaninen	ADJ;PL	ADJ;NOM;SG
+organiske	orgaanista	organisk	orgaani	ADJ;PL	ADJ;PRT;SG
+organiske	luonnonmukainen	organisk	luonnon#mukainen	ADJ;PL	ADJ;NOM;SG
+newton	newton	newton	newto		N;NOM;SG
+michelle	michelle	michel	mich	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+michelle	michellen	michel	michellen	N;INDF;MASC+FEM;SG	INTJ
+olga	olga	olga	olga		N;NOM;SG
+romantisk	romanttista	romantisk	romanttinen	ADV	ADJ;PRT;SG
+romantisk	romanttinen	romantisk	romanttinen	ADV	ADJ;NOM;SG
+romantisk	romantikko	romantisk	romantikko	ADV	N;NOM;SG
+blind	sokeita	blind	sokea	ADJ;INDF;MASC+FEM;SG	N;PRT;PL
+sevilla	sevilla	sevilla	sevilla	PROPN	N;NOM;SG
+sevilla	sevillan	sevilla	seviltaa	PROPN	N;GEN;SG
+mel	jauhoja	mel	jauha	N;INDF;MASC+FEM;SG	N;PRT;PL
+mel	jauhot	mel	jauho	N;INDF;MASC+FEM;SG	N;NOM;PL
+mel	mel	mel	mellä	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+ronnie	ronnie	ronnie	ronnie		N;NOM;SG
+opvarmning	lämpenee	opvarmning	lämmetä	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+køb	ostaa	køb	ostaa	N;INDF;NEUT;SG	V;SG;FIN;ACT
+køb	osta	køb	ostaa	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+køb	ostetaan	køb	ostaa	N;INDF;NEUT;SG	V;IND;PRS;FIN;PASS
+køb	ostaa	køb	ostaa	N;INDF;NEUT;SG	V;SG;FIN;ACT
+køb	osta	køb	ostaa	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+køb	ostokset	køb	ostos	N;INDF;NEUT;SG	N;NOM;PL
+køb	ostot	køb	osto	N;INDF;NEUT;SG	N;NOM;PL
+køb	hankinnat	køb	hankinta	N;INDF;NEUT;SG	N;NOM;PL
+køb	ostamassa	køb	ostaa	N;INDF;NEUT;SG	V;IN+ESS;SG;NFIN;ACT
+køb	ostaa	køb	ostaa	N;INDF;NEUT;SG	V;SG;FIN;ACT
+statistisk	tilastollinen	statistisk	tilastollinen	ADV	ADJ;NOM;SG
+statistisk	tilasto	statistisk	tilasto	ADV	N;NOM;SG
+separat	erilliset	separat	erillinen	ADV	ADJ;NOM;PL
+separat	erillinen	separat	erillinen	ADV	ADJ;NOM;SG
+pearl	pearl	pearl	pearl	N;INDF;MASC+FEM;SG	
+trykte	painettu	trykte	painaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+godkendte	hyväksytty	godkende	hyväksyä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+godkendte	hyväksynyt	godkende	hyväksyä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+permanente	pysyvää	permanent	pysyvä	ADJ;PL	ADJ;PRT;SG
+permanente	vakituinen	permanent	vakituinen	ADJ;PL	ADJ;NOM;SG
+permanente	pysyvä	permanent	pysyvä	ADJ;PL	ADJ;NOM;SG
+fisker	kalojen	fisker	kala	N;INDF;MASC+FEM;SG	N;GEN;PL
+fisker	kalastaa	fisker	kalastaa	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+dygtige	taitava	dygtig	taitava	ADJ;PL	ADJ;NOM;SG
+dygtige	lahjakas	dygtig	lahjakas	ADJ;PL	ADJ;NOM;SG
+oldenburg	oldenburg	oldenburg	oldenburg		
+beton	konkreettinen	beton	konkreettinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+beton	konkreettista	beton	konkreettinen	N;INDF;MASC+FEM;SG	ADJ;PRT;SG
+beton	konkreettisia	beton	konkreettinen	N;INDF;MASC+FEM;SG	ADJ;PRT;PL
+beton	konkreettiset	beton	konkreettinen	N;INDF;MASC+FEM;SG	ADJ;NOM;PL
+mandat	valtuudet	mandat	valtuus	N;INDF;NEUT;SG	N;NOM;PL
+dortmund	dortmund	dortmund	dortmund	PROPN	
+kæde	ketjut	kæde	ketju	N;INDF;MASC+FEM;SG	N;NOM;PL
+police	poliisit	police	poliisi	N;INDF;MASC+FEM;SG	N;NOM;PL
+dragon	lohikäärme	dragon	lohi#käärme		N;NOM;SG
+dragon	lohikäärmeen	dragon	lohi#käärme		N;GEN;SG
+dragon	dragon	dragon	dragon		
+rede	valmisteltu	rede	valmistella	N	V;NOM;SG;V.PTCP;PASS
+rede	valmistettu	rede	valmistaa	N	V;NOM;SG;V.PTCP;PASS
+rede	valmistetut	rede	valmistaa	N	V;NOM;PL;V.PTCP;PASS
+chopin	chopin	chopin	chop		N;GEN;SG
+drab	tappaa	drab	tappaa	N;INDF;NEUT;SG	V;IND;SG;PRS;FIN;ACT
+gad	gad	gide	gad	V;IND;PST;FIN;ACT	N;NOM;SG
+dale	dale	dal	dale	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+pedro	pedro	pedro	pedro		PROPN;NOM;SG
+barry	barry	barry	barry		PROPN;NOM;SG
+barry	barryn	barry	barry		N;GEN;SG
+allieret	liittoutuneiden	alliere	liittoutuneet	V;INDF;SG;PST;V.PTCP	V;GEN;PL;V.PTCP;ACT
+allieret	liittoutuneet	alliere	liittoutua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+allieret	liittolainen	alliere	liittolainen	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+allieret	ally	alliere	ally	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+judas	juudas	judas	juudas		N;NOM;SG
+lufthavne	lentokenttä	lufthavne	lento#kenttä	N;INDF;MASC+FEM;PL	N;NOM;SG
+lufthavne	lentokentälle	lufthavne	lento#kenttä	N;INDF;MASC+FEM;PL	N;AT+ALL;SG
+lufthavne	lentoasema	lufthavne	lento#asema	N;INDF;MASC+FEM;PL	N;NOM;SG
+small	pieni	small	pieni		ADJ;NOM;SG
+small	pienet	small	pieni		ADJ;NOM;PL
+kentucky	kentucky	kentucky	kentucky		
+afløser	korvataan	afløser	korvata	N;INDF;MASC+FEM;SG	V;IND;PRS;FIN;PASS
+afløser	korvaava	afløser	korvata	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;ACT
+proteiner	proteiini	protein	prote	N;INDF;NEUT;PL	N;NOM;SG
+proteiner	proteiinia	protein	proteiini	N;INDF;NEUT;PL	N;PRT;SG
+proteiner	proteiinin	protein	proteiini	N;INDF;NEUT;PL	N;GEN;SG
+simpson	simpsonin	simpson	simpsoni		N;GEN;SG
+simpson	simpson	simpson	simpso		N;NOM;SG
+nepal	nepalin	nepal	nepali	PROPN	N;GEN;SG
+påstand	vaatia	påstand	vaatia	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+amy	amy	amy	amy	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+walk	kävellä	walk	kävellä		V;SG;NFIN;ACT
+walk	kävely	walk	kävely		N;NOM;SG
+opdagelsesrejsende	explorer	opdagelsesrejsende	explorer	ADJ	N;NOM;SG
+opdagelsesrejsende	tutkimusmatkailijoita	opdagelsesrejsende	tutkimus#matkailija	ADJ	N;PRT;PL
+rick	rick	rick	rick		PROPN;NOM;SG
+neutrale	puolueeton	neutral	puolueeton	ADJ;PL	ADJ;NOM;SG
+neutrale	neutraali	neutral	neutraali	ADJ;PL	ADJ;NOM;SG
+rob	rob	rob	rob		PROPN;NOM;SG
+rob	ryöstää	rob	ryöstää		V;IND;SG;3;PRS;FIN;ACT
+omfattet	sisällytetty	omfatte	sisällyttää	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;PASS
+omfattet	sisältyy	omfatte	sisältyä	N;DEF;NEUT;SG	V;IND;SG;3;PRS;FIN;ACT
+omfattet	katettu	omfatte	kattaa	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;PASS
+omfattet	kattoi	omfatte	kattaa	N;DEF;NEUT;SG	V;IND;SG;3;PST;FIN;ACT
+omfattet	peitetty	omfatte	peittää	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;PASS
+kriminelle	rikollista	kriminel	rikollinen	ADJ;PL	ADJ;PRT;SG
+kriminelle	rikollinen	kriminel	rikollinen	ADJ;PL	ADJ;NOM;SG
+cæsar	caesar	cæsar	caesar	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+regelmæssige	säännöllisesti	regelmæssig	säännöllisesti	ADJ;PL	ADV
+regelmæssige	tavallinen	regelmæssig	tavallinen	ADJ;PL	ADJ;NOM;SG
+regelmæssige	säännöllinen	regelmæssig	säännöllinen	ADJ;PL	ADJ;NOM;SG
+cypern	kypros	cypern	kypros	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+halve	puoliskot	halv	puolisko	ADJ;PL	N;NOM;PL
+mitsubishi	mitsubishi	mitsubishi	mitsubishi		N;NOM;SG
+skarpe	terävää	skarp	terävä	ADJ;PL	ADJ;PRT;SG
+skarpe	sharp	skarp	sharp	ADJ;PL	PROPN;NOM;SG
+skarpe	terävä	skarp	terävä	ADJ;PL	ADJ;NOM;SG
+kriminalitet	rikokset	kriminalitet	rikos	N;INDF;MASC+FEM;SG	N;NOM;PL
+kriminalitet	rikoksia	kriminalitet	rikos	N;INDF;MASC+FEM;SG	N;PRT;PL
+kriminalitet	rikokset	kriminalitet	rikos	N;INDF;MASC+FEM;SG	N;NOM;PL
+batteri	patterit	batteri	patteri	N;INDF;NEUT;SG	N;NOM;PL
+batteri	paristot	batteri	paristo	N;INDF;NEUT;SG	N;NOM;PL
+batteri	akut	batteri	akut	N;INDF;NEUT;SG	N;NOM;PL
+omkostninger	maksaa	omkostning	maksaa	N;INDF;MASC+FEM;PL	V;IND;SG;3;PRS;FIN;ACT
+omkostninger	hinta	omkostning	hinta	N;INDF;MASC+FEM;PL	N;NOM;SG
+omkostninger	kustannus	omkostning	kustannus	N;INDF;MASC+FEM;PL	N;NOM;SG
+mur	wall	mur	wall	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+motors	moottorit	motors	moottori		N;NOM;PL
+motors	motors	motors	motors		PROPN;NOM;SG
+passede	hyväkuntoinen	passe	hyväkuntoinen	V;IND;PST;FIN;ACT	ADJ;NOM;SG
+passede	sovi	passe	sovi	V;IND;PST;FIN;ACT	V;IMP;SG;2;FIN;ACT
+cia	cia	cia	cia		N;NOM;SG
+cia	cia	cia	cia		N;NOM;SG
+cia	cla	cia	cla		N;NOM;SG
+forberede	valmistellaan	forbere	valmistella	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+richmond	richmond	richmond	richmond	N;INDF;NEUT;SG	PROPN;NOM;SG
+lissabon	lissabon	lissabon	lissabo		N;NOM;SG
+lissabon	lissabonin	lissabon	lissabon		N;GEN;SG
+lissabon	lissabonissa	lissabon	lissabon		N;IN+ESS;SG
+grace	armo	grace	armo		N;NOM;SG
+grace	armon	grace	armo		N;GEN;SG
+grace	grace	grace	grace		PROPN;NOM;SG
+tusind	tuhat	tusind	tuhat	N;INDF;NEUT;SG	NUM;NOM;SG
+tusind	tuhatta	tusind	tuhat	N;INDF;NEUT;SG	NUM;PRT;SG
+tusind	tuhansia	tusind	tuhat	N;INDF;NEUT;SG	NUM;PRT;PL
+templet	temple	temple	temple	N;DEF;NEUT;SG	
+håbet	toivoen	håb	toivoa	N;DEF;NEUT;SG	V;INS;SG;NFIN;ACT
+håbet	toivottavasti	håb	toivottavasti	N;DEF;NEUT;SG	ADV
+håbet	toivoi	håb	toivoa	N;DEF;NEUT;SG	V;IND;SG;3;PST;FIN;ACT
+reform	uudistetaan	reform	uudistaa	N;INDF;MASC+FEM;SG	V;IND;PRS;FIN;PASS
+reform	uudistukset	reform	uudistus	N;INDF;MASC+FEM;SG	N;NOM;PL
+psykisk	meedio	psykisk	meedio	ADJ;INDF;SG	N;NOM;SG
+psykisk	psyykkiset	psykisk	psyykkinen	ADJ;INDF;SG	ADJ;NOM;PL
+psykisk	psykiatria	psykisk	psykiatri	ADJ;INDF;SG	N;PRT;SG
+psykisk	henkistä	psykisk	henkinen	ADJ;INDF;SG	N;PRT;SG
+psykisk	henkisesti	psykisk	henkisesti	ADJ;INDF;SG	ADV
+clara	clara	clara	clara		INTJ
+hoteller	hotellia	hotel	hotelli	N;INDF;NEUT;PL	N;PRT;SG
+ward	ward	ward	ward		PROPN;NOM;SG
+ward	osastolla	ward	osasto		N;AT+ESS
+;SG
+modtagelse	saava	modtagelse	saada	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;ACT
+modtagelse	vastaanottavat	modtagelse	vastaanottaa	N;INDF;MASC+FEM;SG	V;IND;PL;3;PRS;FIN;ACT
+modtagelse	vastaanottava	modtagelse	vastaanottaa	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;ACT
+support	tue	support	tukea	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+hævet	kasvatit	hæve	kasvatti	V;INDF;SG;PST;V.PTCP	N;NOM;PL
+manuelt	käyttöohje	manuel	käyttö#ohje	ADJ;INDF;SG	N;NOM;SG
+manuelt	käsikirjan	manuel	käsi#kirja	ADJ;INDF;SG	N;GEN;SG
+manuelt	käsikirja	manuel	käsi#kirja	ADJ;INDF;SG	N;NOM;SG
+manuelt	käsin	manuel	käsi	ADJ;INDF;SG	N;INS;PL
+manuelt	manuaalisesti	manuel	manuaalisesti	ADJ;INDF;SG	ADV
+inn	majatalo	inn	maja#talo		N;NOM;SG
+magic	taikaa	magic	taikaa		N;PRT;SG
+magic	magic	magic	magic		
+magic	taikuutta	magic	taikuus		N;PRT;SG
+magic	taikuus	magic	taikuus		N;NOM;SG
+magic	taika	magic	taika		N;NOM;SG
+racer	racer	race	racer	N;INDF;MASC+FEM;PL	N;NOM;SG
+specialiseret	erikoistuneet	specialisere	erikoistua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+specialiseret	erikoistuneet	specialisere	erikoistua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+voice	ääntä	voice	ääni		N;PRT;SG
+voice	äänen	voice	ääni		N;GEN;SG
+voice	ääni	voice	ääni		N;NOM;SG
+øre	korvat	øre	korva	N;INDF;MASC+FEM;SG	N;NOM;PL
+øre	korvia	øre	korva	N;INDF;MASC+FEM;SG	N;PRT;PL
+øre	korvien	øre	korva	N;INDF;MASC+FEM;SG	N;GEN;PL
+walt	walt	walt	walt		PROPN;NOM;SG
+hudson	hudson	hudson	hudson		
+schwerin	schwerin	schwerin	schwer	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+rapporterede	ilmoitettu	rapportere	ilmoittaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+rapporterede	raportoitu	rapportere	raportoida	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+rapporterede	ilmoitetut	rapportere	ilmoittaa	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+elben	elbe	elben	elbe	PROPN	N;NOM;SG
+karsten	karsten	karsten	karsi	N;DEF;MASC+FEM;SG	PROPN;NOM;SG
+triple	kolminkertainen	triple	kolmin#kertainen		ADJ;NOM;SG
+triple	triple	triple	triple		
+klassificeret	salaista	klassificere	salainen	V;INDF;SG;PST;V.PTCP	ADJ;PRT;SG
+klassificeret	salainen	klassificere	salainen	V;INDF;SG;PST;V.PTCP	ADJ;NOM;SG
+sædvanlige	tavallinen	sædvanlig	tavallinen	ADJ;PL	ADJ;NOM;SG
+sædvanlige	tavallista	sædvanlig	tavallinen	ADJ;PL	ADJ;PRT;SG
+sædvanlige	tavanomainen	sædvanlig	tavan#omainen	ADJ;PL	ADJ;NOM;SG
+produktet	tuotteet	produkt	tuote	N;DEF;NEUT;SG	N;NOM;PL
+taber	häviäjä	tabe	hävi#äijä	V;IND;PRS;FIN;ACT	N;NOM;SG
+taber	häviä	tabe	hävi	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+tropiske	trooppinen	tropisk	trooppinen	ADJ;PL	ADJ;NOM;SG
+hand	käsi	hand	käsi		N;NOM;SG
+hand	käden	hand	käsi		N;GEN;SG
+indstilling	asetukset	indstilling	asetus	N;INDF;MASC+FEM;SG	N;NOM;PL
+munch	munchin	munch	munch		N;GEN;SG
+busk	bush	busk	bush	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+rapporter	kertomus	rapport	kertomus	N;INDF;MASC+FEM;PL	N;NOM;SG
+rapporter	mietinnön	rapport	mietintö	N;INDF;MASC+FEM;PL	N;GEN;SG
+rapporter	raportin	rapport	raportti	N;INDF;MASC+FEM;PL	N;GEN;SG
+rapporter	raportti	rapport	raportti	N;INDF;MASC+FEM;PL	N;NOM;SG
+kompleks	monimutkaiset	kompleks	monimutkainen	ADJ;INDF;SG	ADJ;NOM;PL
+fænomener	ilmiötä	fænomene	ilmiö	N;INDF;NEUT;PL	N;PRT;SG
+wallace	wallace	wallace	wallace	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+redigere	edit	redig	edit	V;NFIN;ACT	N;NOM;SG
+redigere	muokkaa	redig	muokka	V;NFIN;ACT	N;NOM;SG
+glenn	glenn	glenn	glenn		N;NOM;SG
+eksport	vie	eksport	vie	N;INDF;MASC+FEM;SG	INTJ
+lært	oppi	lære	oppia	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+lært	oppineet	lære	oppia	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+nedsatte	alentunut	nedsat	alentua	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+nedsatte	vähentynyt	nedsat	vähentyä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+nedsatte	alennettu	nedsat	alentaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+spurgte	pyydetty	spørge	pyytää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+spurgte	kysyttiin	spørge	kysyä	V;IND;PST;FIN;ACT	V;IND;PST;FIN;PASS
+spurgte	kysytty	spørge	kysyä	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+kørsel	ajettu	kørsel	ajaa	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;PASS
+kørsel	ajaa	kørsel	ajaa	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+symboliserer	symboloi	symbolisere	symboloida	V;IND;PRS;FIN;ACT	V;IND;SG;3;PST;FIN;ACT
+legendariske	legendaarinen	legendarisk	legendaarinen	ADJ;PL	ADJ;NOM;SG
+memorial	muistomerkki	memorial	muisto#merkki		N;NOM;SG
+memorial	memorial	memorial	memorial		N;NOM;SG
+udtrykker	ilmaistaan	udtrykke	ilmaista	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+polo	polo	polo	polo	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+frugter	hedelmä	frugte	hedelmä	N;INDF;MASC+FEM;PL	N;NOM;SG
+tunesien	tunisia	tunesien	tuninen	PROPN	N;NOM;PL
+tunesien	tunisian	tunesien	tunisia	PROPN	N;GEN;SG
+tunesien	tunisian	tunesien	tunisia	PROPN	N;GEN;SG
+hood	hood	hood	hood	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+anklager	syyttäjä	anklage	syyttäjä	N;INDF;MASC+FEM;PL	N;NOM;SG
+peters	peters	peters	peters		PROPN;NOM;SG
+venezuela	venezuelan	venezuela	vene#zuela		N;GEN;SG
+venezuela	venezuelan	venezuela	vene#zuela		N;GEN;SG
+alexandria	alexandria	alexandria	alexandr		PROPN;NOM;SG
+ride	ratsastus	ride	ratsastus	V;NFIN;ACT	N;NOM;SG
+ride	kyyti	ride	kyyti	V;NFIN;ACT	N;NOM;SG
+ride	kyytiä	ride	kyyti	V;NFIN;ACT	N;PRT;SG
+forklarede	selitetty	forklare	selittää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+arrangement	järjestelyt	arrangement	järjestely	N;INDF;NEUT;SG	N;NOM;PL
+ridge	ridge	ridge	ridge		PROPN;NOM;SG
+classic	klassinen	classic	klassinen		ADJ;NOM;SG
+classic	classic	classic	classic		N;NOM;SG
+classic	klassista	classic	klassinen		ADJ;PRT;SG
+classic	klassikko	classic	klassikko		N;NOM;SG
+ritualer	rituaali	ritual	rituaali	N;INDF;NEUT;PL	N;NOM;SG
+sekund	toisena	sekund	toinen	N;INDF;NEUT;SG	ADJ;FRML;SG
+sekund	toiseksi	sekund	toinen	N;INDF;NEUT;SG	ADJ;TRANS;SG
+sekund	toinen	sekund	toinen	N;INDF;NEUT;SG	PRO;NOM;SG
+newcastle	newcastlen	newcastel	newcaste		PROPN;GEN;SG
+ontario	ontarion	ontario	ontario		N;GEN;SG
+åndelige	henkinen	åndelig	henkinen	ADJ;PL	ADJ;NOM;SG
+åndelige	henkistä	åndelig	henkinen	ADJ;PL	N;PRT;SG
+åndelige	hengellinen	åndelig	hengellinen	ADJ;PL	ADJ;NOM;SG
+panzer	panzer	panze	panzer	N;INDF;MASC+FEM;PL	N;NOM;SG
+iversen	iversen	iversen	iversen		N;NOM;SG
+særskilt	erikseen	særskilt	erikseen	ADJ;INDF;SG	ADV
+særskilt	erikseen	særskilt	erikseen	ADJ;INDF;SG	ADV
+særskilt	erilliset	særskilt	erillinen	ADJ;INDF;SG	ADJ;NOM;PL
+højdepunkt	korostaa	højdepunkt	korostaa	N;INDF;NEUT;SG	V;IND;SG;3;PRS;FIN;ACT
+højdepunkt	korosta	højdepunkt	korko	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+kommunistisk	kommunisti	kommunistisk	kommunisti	ADV	N;NOM;SG
+kommunistisk	kommunistinen	kommunistisk	kommunistinen	ADV	ADJ;NOM;SG
+kommunistisk	kommunistit	kommunistisk	kommunisti	ADV	N;NOM;PL
+sko	kengän	sko	kenkä	N;INDF;MASC+FEM;PL	N;GEN;SG
+sko	kenkä	sko	kenkä	N;INDF;MASC+FEM;PL	N;NOM;SG
+lider	kärsi	lide	kärsiä	V;IND;PRS;FIN;ACT	V;IND;SG;3;PST;FIN;ACT
+bakken	hill	bakke	hillemmäk	N;DEF;MASC+FEM;SG	PROPN;NOM;SG
+track	jäljittää	track	jäljittää		V;SG;NFIN;ACT
+track	radan	track	rata		N;GEN;SG
+track	rataa	track	rata		N;PRT;SG
+track	raita	track	raita		N;NOM;SG
+track	rata	track	rata		N;NOM;SG
+intelligens	älykkyys	intellig	älykkyys	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+intelligens	tiedustelu	intellig	tiedustelu	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+intelligens	älyä	intellig	elyä	N;GEN;INDF;MASC+FEM;SG	N;PRT;SG
+intelligens	tiedustelupalvelu	intellig	tiedustelu#palvelu	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+eastwood	eastwood	eastwood	eastwood		PROPN;NOM;SG
+virus	virukset	virus	virus	N;INDF;MASC+FEM;SG	N;NOM;PL
+virus	viruksia	virus	virus	N;INDF;MASC+FEM;SG	N;PRT;PL
+virus	virukset	virus	virus	N;INDF;MASC+FEM;SG	N;NOM;PL
+virus	virusten	virus	virus	N;INDF;MASC+FEM;SG	N;GEN;PL
+marcel	marcel	marcel	marcel		PROPN;NOM;SG
+leonard	leonard	leonard	leonard		N;NOM;SG
+halle	halle	halle	halle	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+birger	birger	birger	birger	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+seattle	seattlen	seattle	seattie		N;GEN;SG
+seattle	seattle	seattle	seada		
+mozart	mozart	mozart	mozart		PROPN;NOM;SG
+korstog	ristiretkiä	korstog	risti#retki	N;INDF;NEUT;SG	N;PRT;PL
+evil	pahaa	evil	paha		ADJ;PRT;SG
+evil	ilkeä	evil	ilkeä		ADJ;NOM;SG
+evil	paha	evil	paha		ADJ;NOM;SG
+evil	pahuus	evil	pahuus		N;NOM;SG
+dylan	dylan	dylan	dyla		N;NOM;SG
+gæst	vierasta	gæst	vieras	N;INDF;MASC+FEM;SG	ADJ;PRT;SG
+statsborger	kansalaista	statsborger	kansalainen	ADJ;INDF;MASC+FEM;SG	N;PRT;SG
+statsborger	kansalainen	statsborger	kansalainen	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+definerer	määrittele	definere	määritellä	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+definerer	määritä	definere	määrittää	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+definerer	määritellään	definere	määritellä	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+definerer	määritellään	definere	määritellä	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+ugift	naimaton	ugift	naimaton	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+brasilianske	brasilian	brasiliansk	brasilia	ADJ;PL	N;GEN;SG
+zulu	zulu	zulu	zulu		N;NOM;SG
+beat	hakata	beat	hakata	N;INDF;NEUT;SG	V;SG;NFIN;ACT
+beat	hakkaa	beat	hakata	N;INDF;NEUT;SG	V;IMP;SG;2;PRS;FIN;ACT
+gradvis	asteittainen	gradvis	asteittainen	ADV	ADJ;NOM;SG
+gradvis	asteittainen	gradvis	asteittainen	ADV	ADJ;NOM;SG
+winter	talven	winter	talvi		N;GEN;SG
+winter	talvi	winter	talvi		N;NOM;SG
+winter	winter	winter	winter		
+winter	talvella	winter	talvi		N;AT+ESS
+;SG
+gert	gert	gern	gert		PROPN;NOM;SG
+peace	rauhaa	peace	rauha		N;PRT;SG
+peace	peace	peace	peace		
+peace	rauha	peace	rauha		N;NOM;SG
+ralph	ralph	ralph	ralph		PROPN;NOM;SG
+percussion	lyömäsoittimet	percussion	lyömäsoitin	N;INDF;MASC+FEM;SG	N;NOM;PL
+matcher	ottelut	matcher	ottelu	V;IND;PRS;FIN;ACT	N;NOM;PL
+matcher	tulitikkuja	matcher	tuli#tikku	V;IND;PRS;FIN;ACT	N;PRT;PL
+matcher	täsmää	matcher	täsmä	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+matcher	samanlaiset	matcher	samanlainen	V;IND;PRS;FIN;ACT	ADJ;NOM;PL
+matcher	täsmää	matcher	täsmä	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+matcher	vastaavuus	matcher	vastaavuus	V;IND;PRS;FIN;ACT	N;NOM;SG
+matcher	vastaavuus	matcher	vastaavuus	V;IND;PRS;FIN;ACT	N;NOM;SG
+matcher	täsmää	matcher	täsmä	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+matcher	ottelu	matcher	ottelu	V;IND;PRS;FIN;ACT	N;NOM;SG
+medmindre	ellei	medmindre	jos#ei	ADV	V;SG;3;NEG;FIN;ACT
+vedrører	huolia	vedrøre	huoli	V;IND;PRS;FIN;ACT	N;PRT;PL
+vedrører	huolet	vedrøre	huoli	V;IND;PRS;FIN;ACT	N;NOM;PL
+tilbyde	tarjoaminen	tilbyde	tarjoaminen	V;NFIN;ACT	N;NOM;SG
+tilbyde	tarjous	tilbyde	tarjous	V;NFIN;ACT	N;NOM;SG
+tilbyde	tarjouksen	tilbyde	tarjous	V;NFIN;ACT	N;GEN;SG
+hope	toivoa	hope	toivo		N;PRT;SG
+hope	toivo	hope	toivo		N;NOM;SG
+hope	toivottavasti	hope	toivottavasti		ADV
+regelmæssigt	tavallinen	regelmæssigt	tavallinen	ADV	ADJ;NOM;SG
+regelmæssigt	säännöllinen	regelmæssigt	säännöllinen	ADV	ADJ;NOM;SG
+regelmæssigt	säännölliset	regelmæssigt	säännöllinen	ADV	ADJ;NOM;PL
+rigdom	rikkaudet	rigdom	rikkaus	N;INDF;MASC+FEM;SG	N;NOM;PL
+nævne	maininta	nævne	maininta	V;NFIN;ACT	N;NOM;SG
+finansieret	rahoittaa	finansiere	rahoittaa	V;INDF;SG;PST;V.PTCP	V;IND;SG;PRS;FIN;ACT
+akt	toimi	akt	toimia	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+personale	henkilöstö	personal	henkilöstö	ADJ;PL	N;NOM;SG
+personale	henkilöstön	personal	henkilöstö	ADJ;PL	N;GEN;SG
+personale	henkilökunta	personal	henkilö#kunta	ADJ;PL	N;NOM;SG
+personale	henkilöstö	personal	henkilöstö	ADJ;PL	N;NOM;SG
+personale	henkilöstön	personal	henkilöstö	ADJ;PL	N;GEN;SG
+personale	henkilökunta	personal	henkilö#kunta	ADJ;PL	N;NOM;SG
+kaster	heitto	kaste	heitto	V;IND;PRS;FIN;ACT	N;NOM;SG
+happy	hyvää	happy	hyvä		ADJ;PRT;SG
+happy	onnellinen	happy	onnellinen		ADJ;NOM;SG
+happy	tyytyväinen	happy	tyytyväinen		ADJ;NOM;SG
+happy	iloinen	happy	iloinen		ADJ;NOM;SG
+ansøgning	sovellukset	ansøgning	sovellus	N;INDF;MASC+FEM;SG	N;NOM;PL
+ansøgning	hakemukset	ansøgning	hakemus	N;INDF;MASC+FEM;SG	N;NOM;PL
+ansøgning	sovellusten	ansøgning	soveltus	N;INDF;MASC+FEM;SG	N;GEN;PL
+ansøgning	sovelluksia	ansøgning	sovellus	N;INDF;MASC+FEM;SG	N;PRT;PL
+command	komento	command	komento		N;NOM;SG
+command	komentoa	command	komento		N;PRT;SG
+command	komennon	command	komento		N;GEN;SG
+joakim	joakim	joakim	joakim		PROPN;NOM;SG
+joakim	roope	joakim	roope		N;NOM;SG
+hemmelig	salaisuuden	hemmelig	salaisuus	ADJ;INDF;MASC+FEM;SG	N;GEN;SG
+hemmelig	salaisuus	hemmelig	salaisuus	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+følges	seurasi	følges	seurata	V;NFIN;PASS	V;IND;SG;3;PST;FIN;ACT
+følges	seurannut	følges	seurata	V;NFIN;PASS	V;NOM;SG;V.PTCP;ACT
+følges	seurasin	følges	seurata	V;NFIN;PASS	V;IND;SG;1;PST;FIN;ACT
+bue	arc	bue	arc	N;INDF;MASC+FEM;SG	
+bue	arch	bue	arch	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+bue	kumartaa	bue	kumartaa	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+christoph	christoph	christoph	christoph	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+udtalelser	lausumat	udtalelse	lausua	N;INDF;MASC+FEM;PL	V;NOM;PL;V.PTCP;ACT
+simpsons	simpsonit	simpsons	simpsoni	N;GEN;INDF;MASC+FEM;SG	N;NOM;PL
+simpsons	simpson	simpsons	simpso	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+bryggeri	brewer	bryggeri	brewer	N;INDF;NEUT;SG	PROPN;NOM;SG
+madison	madison	madison	madison		N;NOM;SG
+sørger	sure	sørge	surra	V;IND;PRS;FIN;ACT	INTJ
+sørger	suru	sørge	suru	V;IND;PRS;FIN;ACT	N;NOM;SG
+sørger	surun	sørge	suru	V;IND;PRS;FIN;ACT	N;GEN;SG
+sørger	sure	sørge	surra	V;IND;PRS;FIN;ACT	INTJ
+sørger	sureva	sørge	sureva	V;IND;PRS;FIN;ACT	N;NOM;SG
+atlético	atlético	atlético	atlético	N;INDF;MASC+FEM;SG	
+blom	blom	blom	blom	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+indtaget	ottaa	indtage	ottaa	V;INDF;SG;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+indtaget	saanti	indtage	saanti	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+indtaget	kulutetaan	indtage	kuluttaa	V;INDF;SG;PST;V.PTCP	V;IND;PRS;FIN;PASS
+devil	paholainen	devil	paholainen		N;NOM;SG
+devil	piru	devil	piru		INTJ
+devil	devil	devil	devil		
+ungdoms	nuoret	ungdom	nuori	N;GEN;INDF;MASC+FEM;SG	N;NOM;PL
+ungdoms	nuorisoa	ungdom	nuoriso	N;GEN;INDF;MASC+FEM;SG	N;PRT;SG
+ungdoms	nuoriso	ungdom	nuoriso	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+ungdoms	nuoruus	ungdom	nuoruus	N;GEN;INDF;MASC+FEM;SG	N;NOM;SG
+søgning	etsi	søgning	etsiä	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+søgning	etsii	søgning	etsiä	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+søgning	etsitään	søgning	etsiä	N;INDF;MASC+FEM;SG	V;IND;PRS;FIN;PASS
+vidne	todistajat	vidne	todistaja	N;INDF;NEUT;SG	N;NOM;PL
+ombord	aluksella	ombord	alus	ADV	N;AT+ESS
+;SG
+ombord	kyydissä	ombord	kyydissä	ADV	N;IN+ESS;SG
+seksuel	sukupuoli	seksuel	suku#puoli	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+landede	purettu	lande	purkaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+foretrak	suosi	foretrak	suosia	V;IND;PST;FIN;ACT	V;IMP;SG;2;FIN;ACT
+beskeden	viesti	beskeden	viesti	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+beskeden	viestiä	beskeden	viesti	ADJ;INDF;MASC+FEM;SG	N;PRT;SG
+beskeden	viestin	beskeden	viesti	ADJ;INDF;MASC+FEM;SG	N;GEN;SG
+lead	lyijyä	lead	lyijyä		N;PRT;SG
+lead	johda	lead	johtaa		V;IMP;SG;2;FIN;ACT
+lead	lyijy	lead	lyijy		N;NOM;SG
+lead	johtaa	lead	johtaa		V;IND;SG;3;PRS;FIN;ACT
+krydsere	risteilijää	krydser	risteilijä	N;INDF;NEUT;PL	N;PRT;SG
+montana	montana	montana	monta		PRO;NOM;SG
+brock	brock	brock	brock	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+falsk	väärät	falsk	väärä	ADJ;INDF;SG	ADJ;NOM;PL
+falsk	väärennös	falsk	väärennös	ADJ;INDF;SG	N;NOM;SG
+falsk	teko	falsk	teko	ADJ;INDF;SG	N;NOM;SG
+falsk	väärennetty	falsk	väärentää	ADJ;INDF;SG	V;NOM;SG;V.PTCP;PASS
+falsk	tekaistu	falsk	tekaista	ADJ;INDF;SG	V;NOM;SG;V.PTCP;PASS
+observeret	todetut	observere	todeta	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+observeret	havaitut	observere	havaita	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+nash	nash	nash	nash	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+pil	nuoli	pil	nuoli	V;IMP	N;NOM;SG
+moral	moraalinen	moral	moraalinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+moral	moraalista	moral	moraali	N;INDF;MASC+FEM;SG	ADJ;PRT;SG
+moral	moraalista	moral	moraali	N;INDF;MASC+FEM;SG	ADJ;PRT;SG
+gilbert	gilbert	gilbert	gilbert	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+dokumenteret	todistetusti	dokumenteret	todistetusti	V;INDF;SG;PST;V.PTCP	ADV
+kosovo	kosovossa	kosovo	koso#vossa	PROPN	N;IN+ESS;SG
+kosovo	kosovon	kosovo	koso#von	PROPN	N;GEN;SG
+kosovo	kosovo	kosovo	kosovo	PROPN	N;NOM;SG
+nacional	nacional	nacional	nacional		N;FRML;SG
+afvikles	vakiintunut	afvikle	vakiintua	V;IND;PRS;FIN;PASS	V;NOM;SG;V.PTCP;ACT
+strengt	tiukat	strengt	tiukka	ADV	ADJ;NOM;PL
+strengt	tiukkaa	strengt	tiukka	ADV	ADJ;PRT;SG
+strengt	tiukka	strengt	tiukka	ADV	ADJ;NOM;SG
+strengt	ankara	strengt	ankara	ADV	ADJ;NOM;SG
+torino	torino	torino	torino	PROPN	N;NOM;SG
+torino	torinon	torino	torino	PROPN	N;GEN;SG
+akustisk	kuultavissa	akustisk	kuulla	ADJ;INDF;SG	V;IN+ESS;PL;V.PTCP;PASS
+massive	massiivinen	massive	massiivinen	ADJ;PL	ADJ;NOM;SG
+massive	valtava	massive	valtava	ADJ;PL	ADJ;NOM;SG
+leveres	toimitettiin	levere	toimittaa	V;IND;PRS;FIN;PASS	V;IND;PST;FIN;PASS
+kyster	rannikolla	kyste	rannikko	N;INDF;MASC+FEM;PL	N;AT+ESS
+;SG
+kyster	rannikko	kyste	rannikko	N;INDF;MASC+FEM;PL	N;NOM;SG
+frisk	tuoreet	frisk	tuore	ADJ;INDF;SG	ADJ;NOM;PL
+stabil	talli	stabil	talli	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+stabil	vakaat	stabil	vakaa	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+germain	germain	germain	germa	N;INDF;NEUT;SG	
+seat	istuin	seat	istua	N;INDF;MASC+FEM;SG	V;IND;SG;1;PST;FIN;ACT
+anime	anime	anim	anime		
+ask	kysyä	ask	kysyä		V;SG;NFIN;ACT
+ask	kysy	ask	kysyä		V;IMP;SG;2;FIN;ACT
+ask	pyydä	ask	pyydä		V;IMP;SG;2;FIN;ACT
+ask	tuhka	ask	tuhka		N;NOM;SG
+ask	ash	ask	ash		PROPN;NOM;SG
+ask	tuhkaa	ask	tuhka		N;PRT;SG
+limited	limited	limited	limited		
+limited	rajattu	limited	rajata		V;NOM;SG;V.PTCP;PASS
+limited	rajoitettu	limited	rajoittaa		V;NOM;SG;V.PTCP;PASS
+limited	rajallinen	limited	rajallinen		ADJ;NOM;SG
+murphy	murphy	murphy	murphy		N;NOM;SG
+murphy	murphyn	murphy	murphy		N;GEN;SG
+analyser	analytics	analyse	analytics	N;INDF;MASC+FEM;PL	N;NOM;SG
+analyser	analyysi	analyse	analyysi	N;INDF;MASC+FEM;PL	N;NOM;SG
+analyser	analysointi	analyse	analysointi	N;INDF;MASC+FEM;PL	N;NOM;SG
+analyser	analyysin	analyse	analyysi	N;INDF;MASC+FEM;PL	N;GEN;SG
+faxe	faksi	faxe	faksi		N;NOM;SG
+diamond	timantti	diamond	timantti		N;NOM;SG
+diamond	timanttia	diamond	timantti		N;PRT;SG
+diamond	diamond	diamond	diamond		N;NOM;SG
+diamond	timantin	diamond	timantti		N;GEN;SG
+detaljeret	yksityiskohtainen	detaljeret	yksityis#kohtainen	V;INDF;SG;PST;V.PTCP	ADJ;NOM;SG
+detaljeret	yksityiskohtaiset	detaljeret	yksityis#kohtainen	V;INDF;SG;PST;V.PTCP	ADJ;NOM;PL
+bekendte	tutut	bekendt	tuttu	N;INDF;MASC+FEM;PL	ADJ;NOM;PL
+bekendte	tuttavat	bekendt	tuttaa	N;INDF;MASC+FEM;PL	ADJ;NOM;PL
+mærker	marks	mærke	marks	N;INDF;NEUT;PL	N;NOM;SG
+edge	reuna	edge	reuna		N;NOM;SG
+edge	edge	edge	edge		
+edge	reunan	edge	reuna		N;GEN;SG
+jürgen	jürgen	jürg	jürki	N;DEF;MASC+FEM;SG	PROPN;NOM;SG
+jürgen	jurgen	jürg	jurki	N;DEF;MASC+FEM;SG	
+læsere	lukija	læser	lukija	N;INDF;MASC+FEM;PL	N;NOM;SG
+knight	knight	knight	knight	N;INDF;MASC+FEM;SG	
+tilgængeligt	saatavissa	tilgængeligt	saada	ADJ;INDF;NEUT;SG	V;IN+ESS;PL;V.PTCP;PASS
+tilgængeligt	käytettävissä	tilgængeligt	käyttää	ADJ;INDF;NEUT;SG	V;IN+ESS;PL;V.PTCP;PASS
+tilgængeligt	tarjolla	tilgængeligt	tarjolla	ADJ;INDF;NEUT;SG	ADV
+tilgængeligt	saatavilla	tilgængeligt	saada	ADJ;INDF;NEUT;SG	V;AT+ESS
+;PL;V.PTCP;PASS
+tilgængeligt	saatavana	tilgængeligt	saada	ADJ;INDF;NEUT;SG	V;FRML;SG;V.PTCP;PASS
+tungt	raskaat	tungt	raskas	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+smukt	kaunotar	smuk	kaunotar	ADJ;INDF;NEUT;SG	N;NOM;SG
+smukt	kauniit	smuk	kaunis	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+hugh	hugh	hugh	hugh		PROPN;NOM;SG
+ryg	takaisin	ryg	takaisin	N;INDF;MASC+FEM;SG	ADV
+ryg	taaksepäin	ryg	taaksepäin	N;INDF;MASC+FEM;SG	ADV
+ryg	polttaa	ryg	polttaa	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+ryg	polta	ryg	polta	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+faldende	putoaminen	falde	putoaminen	V;PRS;V.PTCP	N;NOM;SG
+faldende	laskussa	falde	lasku	V;PRS;V.PTCP	N;IN+ESS;SG
+forstad	lähiöissä	forstad	lähiö	N;INDF;MASC+FEM;SG	N;IN+ESS;PL
+ram	ram	ram	ram		N;NOM;SG
+ram	pässi	ram	pässi		N;NOM;SG
+uro	levottomuuksia	uro	levottomuus	N;INDF;MASC+FEM;SG	N;PRT;PL
+trusler	uhka	trusel	uhka	N;INDF;MASC+FEM;PL	N;NOM;SG
+trusler	uhkaus	trusel	uhkaus	N;INDF;MASC+FEM;PL	N;NOM;SG
+trusler	uhkaa	trusel	uhata	N;INDF;MASC+FEM;PL	V;IND;SG;3;PRS;FIN;ACT
+trusler	uhka	trusel	uhka	N;INDF;MASC+FEM;PL	N;NOM;SG
+lau	lau	lau	lau		N;NOM;SG
+willy	willy	willy	willy		N;NOM;SG
+eminem	eminem	eminem	eminem		N;NOM;SG
+coast	rannikolla	coast	rannikko		N;AT+ESS
+;SG
+coast	rannikko	coast	rannikko		N;NOM;SG
+fjernsyn	televisioiden	fjernsyn	televisia	N;INDF;NEUT;SG	N;GEN;PL
+ture	trips	tur	trips	N;INDF;MASC+FEM;PL	
+leon	leon	leon	leo		
+forstået	ymmärtää	forstå	ymmärtää	V;INDF;SG;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+brygge	brew	brygge	brew		N;NOM;SG
+opfandt	keksitty	opfinde	keksiä	V;IND;PST;FIN;ACT	N;NOM;SG
+opfandt	keksittiin	opfinde	keksiä	V;IND;PST;FIN;ACT	V;IND;PST;FIN;PASS
+denis	denis	denis	denis		PROPN;NOM;SG
+logik	looginen	logik	looginen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+latinsk	latinaa	latinsk	latina	ADJ;INDF;SG	N;PRT;SG
+forbliver	jäännökset	forblive	jäännös	V;IND;PRS;FIN;ACT	N;NOM;PL
+ruiner	pilaa	ruin	pilata	N;INDF;MASC+FEM;PL	V;IND;SG;2;PRS;FIN;ACT
+investeringer	sijoitus	investering	sijoitus	N;INDF;MASC+FEM;PL	N;NOM;SG
+investeringer	investointi	investering	investointi	N;INDF;MASC+FEM;PL	N;NOM;SG
+israelsk	israelin	israelsk	israeli	ADJ;INDF;SG	N;GEN;SG
+israelsk	israelilaiset	israelsk	israe#lilainen	ADJ;INDF;SG	N;NOM;PL
+israelsk	israelin	israelsk	israeli	ADJ;INDF;SG	N;GEN;SG
+israelsk	israel	israelsk	israel	ADJ;INDF;SG	N;NOM;SG
+israelsk	israelista	israelsk	israelinen	ADJ;INDF;SG	N;IN+ABL;SG
+israelsk	israelissa	israelsk	israeli	ADJ;INDF;SG	N;IN+ESS;SG
+skåret	sirpale	skære	sirpale	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+lane	lanen	lane	lani		N;GEN;SG
+lane	lane	lane	lane		N;NOM;SG
+tusindvis	tuhannet	tusindvis	tuhat	ADV	N;NOM;PL
+tusindvis	tuhansia	tusindvis	tuhat	ADV	NUM;PRT;PL
+fjernede	poistetut	fjerne	poistaa	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+fjernede	poistettiin	fjerne	poistaa	V;IND;PST;FIN;ACT	V;IND;PST;FIN;PASS
+fjernede	poistettu	fjerne	poistaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+ulykker	vahinko	ulykke	vahinko	N;INDF;MASC+FEM;PL	N;NOM;SG
+ulykker	tapaturma	ulykke	tapa#turma	N;INDF;MASC+FEM;PL	N;NOM;SG
+ulykker	onnettomuus	ulykke	onnettomuus	N;INDF;MASC+FEM;PL	N;NOM;SG
+pete	pete	pete	pete	PROPN	PROPN;NOM;SG
+pete	peten	pete	peten	PROPN	N;GEN;SG
+nicholas	nicholas	nicholas	nicholas		PROPN;NOM;SG
+mann	mann	mann	manta	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+beograd	belgradin	beograd	belgrad		N;GEN;SG
+omgivende	ympäröivän	omgive	ympäröidä	ADJ	V;GEN;SG;V.PTCP;ACT
+omgivende	ympäröivä	omgive	ympäröidä	ADJ	V;NOM;SG;V.PTCP;ACT
+ost	juustoja	ost	juusto	N;INDF;MASC+FEM;SG	N;PRT;PL
+troen	faith	tro	faith	N;DEF;MASC+FEM;SG	
+troen	uskoa	tro	uskoa	N;DEF;MASC+FEM;SG	V;SG;NFIN;ACT
+troen	usko	tro	uskoa	N;DEF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+add	lisää	add	lisää	N;INDF;NEUT;SG	ADV
+add	lisätä	add	lisätä	N;INDF;NEUT;SG	V;SG;NFIN;ACT
+lara	lara	lara	lara	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+overveje	harkittava	overveje	harkittava	V;NFIN;ACT	V;NOM;SG;V.PTCP;PASS
+lettisk	latvia	lettisk	latvi	ADJ;INDF;SG	N;NOM;SG
+lettisk	latvian	lettisk	latvi	ADJ;INDF;SG	N;GEN;SG
+svækket	heikentää	svæk	heikentää	V;INDF;SG;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+svækket	heikkenee	svæk	heiketä	V;INDF;SG;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+est	est	est	est		N;NOM;SG
+arkiver	arkisto	arkive	arkisto	N;INDF;NEUT;PL	N;NOM;SG
+bekostning	kulu	bekostning	kulua	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+udgår	poistetut	udgå	poistaa	V;IND;PRS;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+udgår	poistettiin	udgå	poistaa	V;IND;PRS;FIN;ACT	V;IND;PST;FIN;PASS
+udgår	poistettu	udgå	poistaa	V;IND;PRS;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+åbnes	avautuu	åbne	avautua	V;IND;PRS;FIN;PASS	V;IND;SG;3;PRS;FIN;ACT
+åbnes	aukeaa	åbne	aueta	V;IND;PRS;FIN;PASS	V;IND;SG;3;PRS;FIN;ACT
+piper	piper	pipe	piper	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+palads	palace	palads	palace	N;INDF;NEUT;SG	
+opdagelse	löytöjä	opdagelse	löytö	N;INDF;MASC+FEM;SG	N;PRT;PL
+botaniske	kasvitieteellinen	botanisk	kasvi#tieteellinen	ADJ;PL	ADJ;NOM;SG
+diskuteres	kyseenalainen	diskutere	kyseenalainen	V;NFIN;PASS	ADJ;NOM;SG
+helen	helen	hel	heli	N;DEF;MASC+FEM;SG	PROPN;NOM;SG
+uffe	uffe	uffe	uffe	PROPN	N;NOM;SG
+españa	españa	españa	españa		
+child	lasta	child	lapsi		N;PRT;SG
+child	lapsen	child	lapsi		N;GEN;SG
+child	lapsi	child	lapsi		N;NOM;SG
+krim	krimin	krim	krimi	PROPN	N;GEN;SG
+krim	krimin	krim	krimi	PROPN	N;GEN;SG
+misbrug	väärinkäytön	misbrug	väärin#käyttö	N;INDF;NEUT;SG	ADJ;GEN;SG
+misbrug	väärinkäytön	misbrug	väärin#käyttö	N;INDF;NEUT;SG	ADJ;GEN;SG
+misbrug	väärinkäytökset	misbrug	väärin#käytös	N;INDF;NEUT;SG	N;NOM;PL
+misbrug	väärinkäytökset	misbrug	väärin#käytös	N;INDF;NEUT;SG	N;NOM;PL
+misbrug	väärinkäytöksiä	misbrug	väärin#käytös	N;INDF;NEUT;SG	N;PRT;PL
+kulturelt	kulttuurinen	kulturelt	kulttuurinen	ADV	ADJ;NOM;SG
+savage	savage	savage	savage		
+fastsat	kiinteät	fastsætte	kiinteä	V;INDF;SG;PST;V.PTCP	ADJ;NOM;PL
+fastsat	kiinteän	fastsætte	kiinteä	V;INDF;SG;PST;V.PTCP	ADJ;GEN;SG
+fastsat	kiinteä	fastsætte	kiinteä	V;INDF;SG;PST;V.PTCP	ADJ;NOM;SG
+hercegovina	hertsegovina	hercegovina	hertsegöva		PROPN;NOM;SG
+foretrukne	suosi	foretrukne	suosia	ADJ;PL	V;IMP;SG;2;FIN;ACT
+amerikaner	amerikkalainen	amerikaner	amerikkalainen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+amerikaner	amerikkalaiset	amerikaner	amerikkalainen	N;INDF;MASC+FEM;SG	N;NOM;PL
+amerikaner	american	amerikaner	america	N;INDF;MASC+FEM;SG	
+erkendelse	tunnustavat	erkendelse	tunnustaa	N;INDF;MASC+FEM;SG	V;IND;PL;3;PRS;FIN;ACT
+abel	abel	abel	abel	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+peer	peer	peer	peer	N;INDF;MASC+FEM;SG	
+helsingfors	helsingissä	helsingfors	helsinki	N;INDF;NEUT;SG	PROPN;IN+ESS;SG
+helsingfors	helsingin	helsingfors	helsinki	N;INDF;NEUT;SG	PROPN;GEN;SG
+vindende	voitto	vinde	voitto	V;PRS;V.PTCP	N;NOM;SG
+vindende	voitolla	vinde	voitolla	V;PRS;V.PTCP	N;AT+ESS
+;SG
+vindende	voittaminen	vinde	voittaminen	V;PRS;V.PTCP	N;NOM;SG
+six	kuusi	six	kuusi		NUM;NOM;SG
+six	kuudes	six	kuudes		ADJ;NOM;SG
+adrian	adrian	adrian	adria		
+svalbard	svalbard	svalbard	svalbard		N;NOM;SG
+discovery	löytö	discovery	löytö		N;NOM;SG
+discovery	löytöjä	discovery	löytö		N;PRT;PL
+avenue	avenue	avenue	avetua		N;NOM;SG
+spencer	spencerin	spence	spencer	N;INDF;MASC+FEM;SG	PROPN;GEN;SG
+spencer	spencer	spence	spencer	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+born	syntynyt	born	syntyä		V;NOM;SG;V.PTCP;ACT
+born	syntyneet	born	syntyä		V;NOM;PL;V.PTCP;ACT
+born	syntyi	born	syntyä		V;IND;SG;3;PST;FIN;ACT
+alberto	alberto	alberto	alberto		PROPN;NOM;SG
+logisk	loogisesti	logisk	loogisesti	ADJ;INDF;SG	ADV
+logisk	logiikkaa	logisk	logiikka	ADJ;INDF;SG	N;PRT;SG
+logisk	logiikan	logisk	logiikka	ADJ;INDF;SG	N;GEN;SG
+logisk	logiikka	logisk	logiikka	ADJ;INDF;SG	N;NOM;SG
+udstedt	myönnetyt	udstedt	myöntää	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+udstedt	annetut	udstedt	antaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+philipp	philipp	philipp	philipp		PROPN;NOM;SG
+erhvervet	saavutetut	erhvervet	saavuttaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+velegnet	sopivan	velegnet	sopia	ADJ;INDF;SG	V;GEN;SG;V.PTCP;ACT
+velegnet	sopivat	velegnet	sopiva	ADJ;INDF;SG	ADJ;NOM;PL
+velegnet	soveltuva	velegnet	soveltua	ADJ;INDF;SG	V;NOM;SG;V.PTCP;ACT
+himmel	sky	himmel	sky	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+wang	wang	wang	wang		PROPN;NOM;SG
+ansvarlige	vastuullinen	ansvarlig	vastuullinen	ADJ;PL	ADJ;NOM;SG
+ansvarlige	vastuussa	ansvarlig	vastuu	ADJ;PL	N;IN+ESS;SG
+ansvarlige	vastuuntuntoinen	ansvarlig	vastuuntuntoinen	ADJ;PL	ADJ;NOM;SG
+redskaber	vaihde	redskab	vaihde	N;INDF;NEUT;PL	N;NOM;SG
+redskaber	vaihdetta	redskab	vaihda	N;INDF;NEUT;PL	N;PRT;SG
+blik	eye	blik	eye	N;INDF;NEUT;SG	
+blik	silmät	blik	silmä	N;INDF;NEUT;SG	N;NOM;PL
+christie	christie	christie	christie	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+påstod	haettu	påstå	hakea	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+påstod	väitetty	påstå	väittää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+greg	greg	greg	greg		PROPN;NOM;SG
+bestemmelse	päättäväinen	bestemmelse	päättäväinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+roberts	roberts	rober	roberts	N;GEN;INDF;MASC+FEM;SG	PROPN;NOM;SG
+unger	unger	unge	unger	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+udøvende	toimeenpano	udøvende	toimeen#pano	ADJ	N;NOM;SG
+udøvende	toimeenpaneva	udøvende	toimeen#pane	ADJ	N;NOM;SG
+udøvende	executive	udøvende	executive	ADJ	N;NOM;SG
+serbiske	serbia	serbisk	serbi	ADJ;PL	PROPN;NOM;SG
+serbiske	serbian	serbisk	serbia	ADJ;PL	N;GEN;SG
+ferie	lomat	ferie	loma	N;INDF;MASC+FEM;SG	N;NOM;PL
+freedom	vapauden	freedom	vapaus		N;GEN;SG
+freedom	vapautta	freedom	vapaus		N;PRT;SG
+freedom	vapaus	freedom	vapaus		N;NOM;SG
+freedom	vapauteen	freedom	vapaus		N;IN+ALL;SG
+botanisk	kasvitieteellinen	botanisk	kasvi#tieteellinen	ADV	ADJ;NOM;SG
+polens	puola	polen	puola	N;GEN;DEF;MASC+FEM;SG	PROPN;NOM;SG
+polens	puolaa	polen	puola	N;GEN;DEF;MASC+FEM;SG	N;PRT;SG
+passager	matkustajat	passager	matkustaja	N;INDF;MASC+FEM;SG	N;NOM;PL
+pol	pol	pol	pol		N;NOM;SG
+burma	burma	burma	burma		N;NOM;SG
+burma	burmassa	burma	burma		N;IN+ESS;SG
+burma	burman	burma	burma		N;GEN;SG
+tchad	chad	tchad	chad	PROPN	PROPN;NOM;SG
+sammenbrud	romahtaa	sammenbrud	romahtaa	N;INDF;NEUT;SG	V;IND;SG;3;PRS;FIN;ACT
+facto	facto	facto	facto	ADJ;INDF;SG	N;NOM;SG
+udpegede	nimetty	udpege	nimetä	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+udpegede	nimetyt	udpege	nimetty	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+tænkte	ajatus	tænke	ajatus	V;IND;PST;FIN;ACT	N;NOM;SG
+tænkte	ajattelun	tænke	ajattelu	V;IND;PST;FIN;ACT	N;GEN;SG
+tænkte	ajattelu	tænke	ajattelu	V;IND;PST;FIN;ACT	N;NOM;SG
+tænkte	miettii	tænke	miettiä	V;IND;PST;FIN;ACT	V;IND;SG;3;PRS;FIN;ACT
+tænkte	ajattelua	tænke	ajattelu	V;IND;PST;FIN;ACT	N;PRT;SG
+erklærer	julistetaan	erklære	julistaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+erklærer	julistetaan	erklære	julistaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+slås	taistelut	slås	taistelu	V;NFIN;PASS	N;NOM;PL
+slås	taistella	slås	taistella	V;NFIN;PASS	V;SG;NFIN;ACT
+slås	taistelevat	slås	taistella	V;NFIN;PASS	V;IND;PL;3;PRS;FIN;ACT
+kold	kyl	kold	kyllä	ADJ;INDF;MASC+FEM;SG	ADV
+relevans	merkityksellinen	relevans	merkityksellinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+tjekkiske	tsekin	tjekkisk	tse	ADJ;PL	N;GEN;SG
+tjekkiske	tšekin	tjekkisk	tše	ADJ;PL	N;GEN;SG
+krisen	kriisit	kris	kriisi	N;DEF;MASC+FEM;SG	N;NOM;PL
+palæstinensiske	palestiinan	palæstinensisk	palestiina	ADJ;PL	N;GEN;SG
+palæstinensiske	palestiinalaiset	palæstinensisk	palestiinalainen	ADJ;PL	N;NOM;PL
+wiener	wiener	wiener	wiener	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+wiener	wien	wiener	wien	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+wiener	wienin	wiener	wien	N;INDF;MASC+FEM;SG	PROPN;GEN;SG
+wiener	wienissä	wiener	wieni	N;INDF;MASC+FEM;SG	PROPN;IN+ESS;SG
+spd	spd	spd	spd		
+syriske	syyria	syrisk	syyri	ADJ;PL	N;NOM;SG
+syriske	syyrian	syrisk	syyri	ADJ;PL	N;GEN;SG
+matthias	matthias	matthias	matthias		PROPN;NOM;SG
+moss	moss	moss	moss		PROPN;NOM;SG
+anvendelser	käyttää	anvendelse	käyttää	N;INDF;MASC+FEM;PL	V;IND;SG;PRS;FIN;ACT
+face	kasvot	face	kasvot	N;INDF;NEUT;SG	N;NOM;PL
+face	face	face	face	N;INDF;NEUT;SG	
+kontrolleret	hallinnassa	kontrollere	hallinta	V;INDF;SG;PST;V.PTCP	N;IN+ESS;SG
+break	riko	break	riko		V;IMP;SG;2;FIN;ACT
+break	rikkoa	break	rikkoa		V;SG;NFIN;ACT
+break	tauko	break	tauko		N;NOM;SG
+done	tehty	done	tehdä		V;NOM;SG;V.PTCP;PASS
+done	done	done	done		
+hertz	hertz	hertz	hertz	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+nancy	nancyn	nancy	nancy		N;GEN;SG
+nancy	nancy	nancy	nancy		PROPN;NOM;SG
+glee	glee	gle	glee	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+gotisk	gothic	gotisk	gothic	ADJ;INDF;SG	
+spirit	hengen	spirit	henki		N;GEN;SG
+spirit	henki	spirit	henki		N;NOM;SG
+fed	rohkeat	fed	rohkea	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+fed	rasvaa	fed	rasva	ADJ;INDF;MASC+FEM;SG	N;PRT;SG
+fed	rasva	fed	rasva	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+fed	läski	fed	läski	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+iss	iss	iss	iss	N;INDF;NEUT;SG	PROPN;NOM;SG
+tusinder	tuhansia	tusinde	tuhat	N;INDF;NEUT;PL	NUM;PRT;PL
+shepherd	shepherd	shepherd	shepherd		N;NOM;SG
+shepherd	paimen	shepherd	paimen		N;NOM;SG
+thompson	thompson	thompson	thompso		PROPN;NOM;SG
+thompson	thompsonin	thompson	thompsoni		PROPN;GEN;SG
+daily	päivittäistä	daily	päivittäinen		ADJ;PRT;SG
+daily	päivittäin	daily	päivittäin		ADV
+daily	päivittäiset	daily	päivittäinen		ADJ;NOM;PL
+daily	päivittäinen	daily	päivittäinen		ADJ;NOM;SG
+sagn	legendoja	sagn	legendo	N;INDF;NEUT;SG	N;PRT;PL
+dårligere	pahempaa	dårlig	paha	ADV;CMPR	ADJ;PRT;CMPR;SG
+dårligere	huonompi	dårlig	huono	ADV;CMPR	ADJ;NOM;CMPR;SG
+dårligere	pahempi	dårlig	paha	ADV;CMPR	ADJ;NOM;CMPR;SG
+alpes	alpes	alpes	alpes	N;INDF;MASC+FEM;SG	
+nature	luonnosta	natur	luonnos		N;IN+ABL;SG
+nature	luonne	natur	luonne		N;NOM;SG
+nature	luontoa	natur	luonto		N;PRT;SG
+nature	luonto	natur	luonto		N;NOM;SG
+aktuelt	tämänhetkiset	aktuel	tämänhetkinen	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+aktuelt	nykyiset	aktuel	nykyinen	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+speed	nopeus	speed	nopeus		N;NOM;SG
+speed	speed	speed	speed		
+speed	nopeutta	speed	nopeus		N;PRT;SG
+speed	vauhti	speed	vauhti		N;NOM;SG
+argentinske	argentiina	argentinsk	argentiina	ADJ;PL	N;IN+ALL;SG
+argentinske	argentiinan	argentinsk	argentiina	ADJ;PL	N;GEN;SG
+zagreb	zagrebin	zagreb	zagreb		PROPN;GEN;SG
+tilfældigt	satunnaista	tilfældigt	satuntainen	ADV	ADJ;PRT;SG
+tilfældigt	satunnainen	tilfældigt	satunnainen	ADV	ADJ;NOM;SG
+tilfældigt	satunnaisia	tilfældigt	satunnainen	ADV	ADJ;PRT;PL
+tilfældigt	sattuma	tilfældigt	sattuma	ADV	N;NOM;SG
+tilfældigt	sattumaa	tilfældigt	sattuma	ADV	N;PRT;SG
+oder	oder	oder	oder		
+turner	turner	turner	turner	N;INDF;MASC+FEM;SG	
+primitive	alkukantainen	primitiv	alku#kantainen	ADJ;PL	ADJ;NOM;SG
+wing	siipi	wing	siipi		N;NOM;SG
+wing	siiven	wing	siivi		N;GEN;SG
+wing	wing	wing	wing		PROPN;NOM;SG
+nytte	hyöty	nytte	hyöty	V;NFIN;ACT	N;NOM;SG
+joan	johanna	joan	johanna		PROPN;NOM;SG
+joan	joan	joan	joka		PROPN;NOM;SG
+afhængige	riippuvainen	afhængig	riippuvainen	ADJ;PL	ADJ;NOM;SG
+afhængige	riippuvainen	afhængig	riippuvainen	ADJ;PL	ADJ;NOM;SG
+afhængige	koukussa	afhængig	koukku	ADJ;PL	N;IN+ESS;SG
+dirty	likaista	dirty	likainen		ADJ;PRT;SG
+dirty	likainen	dirty	likainen		ADJ;NOM;SG
+dirty	likaiset	dirty	likainen		ADJ;NOM;PL
+skyder	ammuskelua	skyde	ammuskelu	V;IND;PRS;FIN;ACT	N;PRT;SG
+skyder	ammuskelu	skyde	ammuskelu	V;IND;PRS;FIN;ACT	N;NOM;SG
+skyder	ampuminen	skyde	ampuminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+skyder	ampuminen	skyde	ampuminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+skyder	potkut	skyde	potku	V;IND;PRS;FIN;ACT	N;NOM;PL
+præsenterede	esitellyt	præsentere	esitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+præsenterede	esitelty	præsentere	esitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+præsenterede	esitti	præsentere	esittää	V;PL;PST;V.PTCP	V;IND;SG;3;PST;FIN;ACT
+bin	bin	bin	bin		PROPN;NOM;SG
+floyd	floyd	floyd	floyd		PROPN;NOM;SG
+hegn	aitojen	hegn	aito	N;INDF;NEUT;SG	ADJ;GEN;PL
+hegn	aitoja	hegn	aito	N;INDF;NEUT;SG	ADJ;PRT;PL
+liège	liege	liège	liege		N;NOM;SG
+liège	liège	liège	liège		N;NOM;SG
+lilla	violetti	lilla	violetti		N;NOM;SG
+bros	bros	bros	bros		
+groft	rankka	groft	rankka	ADV	ADJ;NOM;SG
+groft	rankkaa	groft	rankka	ADV	ADJ;PRT;SG
+groft	karkea	groft	karkea	ADV	ADJ;NOM;SG
+groft	karkea	groft	karkea	ADV	ADJ;NOM;SG
+krydset	ylitti	kryds	ylittää	N;DEF;NEUT;SG	V;IND;SG;3;PST;FIN;ACT
+krydset	ylitetty	kryds	ylittää	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;PASS
+overdrev	liioiteltua	overdrev	liioitella	N;INDF;NEUT;SG	V;PRT;SG;V.PTCP;PASS
+overdrev	liioiteltuja	overdrev	liioitella	N;INDF;NEUT;SG	V;PRT;PL;V.PTCP;PASS
+iowa	iowa	iowa	iowa		
+gennemgang	tarkistaa	gennemgang	tarkistaa	N;INDF;MASC+FEM;SG	V;IND;SG;FIN;ACT
+drager	leijoja	drage	leija	V;IND;PRS;FIN;ACT	N;PRT;PL
+drager	lohikäärmeet	drage	lohi#käärme	V;IND;PRS;FIN;ACT	N;NOM;PL
+drager	lohikäärmeitä	drage	lohi#käärme	V;IND;PRS;FIN;ACT	N;PRT;PL
+butler	butler	butle	butler	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+arrangerede	järjestetty	arrangere	järjestää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+kvaliteten	laadukas	kvalitet	laadukas	N;DEF;MASC+FEM;SG	ADJ;NOM;SG
+pablo	pablo	pablo	pablo		PROPN;NOM;SG
+split	jako	split	jako		N;NOM;SG
+split	jaettu	split	jakaa		V;NOM;SG;V.PTCP;PASS
+begrænsninger	rajoitus	begrænsning	rajoitus	N;INDF;MASC+FEM;PL	N;NOM;SG
+begrænsninger	rajoittaminen	begrænsning	rajoittaminen	N;INDF;MASC+FEM;PL	N;NOM;SG
+gaver	esittelee	gave	esitellä	N;INDF;MASC+FEM;PL	V;IND;SG;3;PRS;FIN;ACT
+oplevelse	kokemukset	oplevelse	kokemus	N;INDF;MASC+FEM;SG	N;NOM;PL
+oplevelse	kokemuksia	oplevelse	kokemus	N;INDF;MASC+FEM;SG	N;PRT;PL
+mystiske	salaperäinen	mystisk	sala#peräinen	ADJ;PL	ADJ;NOM;SG
+mystiske	mystinen	mystisk	mystinen	ADJ;PL	ADJ;NOM;SG
+mystiske	mystinen	mystisk	mystinen	ADJ;PL	ADJ;NOM;SG
+mystiske	mystic	mystisk	mystic	ADJ;PL	
+mystiske	mystinen	mystisk	mystinen	ADJ;PL	ADJ;NOM;SG
+sri	sri	sri	sri	PROPN	PROPN;NOM;SG
+filosofisk	filosofinen	filosofisk	filosofinen	ADV	ADJ;NOM;SG
+glade	hyvää	glad	hyvä	ADJ;PL	ADJ;PRT;SG
+glade	onnellinen	glad	onnellinen	ADJ;PL	ADJ;NOM;SG
+glade	tyytyväinen	glad	tyytyväinen	ADJ;PL	ADJ;NOM;SG
+glade	iloinen	glad	iloinen	ADJ;PL	ADJ;NOM;SG
+cola	kokaiinia	cola	kokaiini		N;PRT;SG
+cola	kokaiini	cola	kokaini		N;NOM;SG
+cola	cola	cola	cola		N;NOM;SG
+queens	queens	que	queens	N;GEN;DEF;MASC+FEM;SG	
+moser	moser	mose	moser	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+afsluttende	viimeistely	afslutte	viimeistely	V;PRS;V.PTCP	N;NOM;SG
+afsluttende	sulkeminen	afslutte	sulkeminen	V;PRS;V.PTCP	N;NOM;SG
+afsluttende	lopullinen	afslutte	lopullinen	V;PRS;V.PTCP	ADJ;NOM;SG
+afsluttende	finaali	afslutte	finaali	V;PRS;V.PTCP	N;NOM;SG
+emilie	emilie	emilie	emilie		N;NOM;SG
+utah	utah	utah	utah		PROPN;NOM;SG
+karakterer	merkkiä	karakter	merkki	N;INDF;MASC+FEM;PL	N;PRT;SG
+joint	yhteinen	joint	yhteinen		ADJ;NOM;SG
+joint	yhteisen	joint	yhteinen		ADJ;GEN;SG
+ondt	pahaa	ondt	paha	ADV	ADJ;PRT;SG
+ondt	ilkeä	ondt	ilkeä	ADV	ADJ;NOM;SG
+ondt	paha	ondt	paha	ADV	ADJ;NOM;SG
+ondt	pahuus	ondt	pahuus	ADV	N;NOM;SG
+ondt	satuttaa	ondt	satuttaa	ADV	V;IND;SG;PRS;FIN;ACT
+ondt	loukkaantunut	ondt	loukkaantua	ADV	V;NOM;SG;V.PTCP;ACT
+ondt	julma	ondt	julma	ADV	ADJ;NOM;SG
+ondt	julmaa	ondt	julma	ADV	ADJ;PRT;SG
+ondt	julman	ondt	julma	ADV	ADJ;GEN;SG
+avanceret	kehittyneet	avanceret	kehittyä	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+udsatte	lykätty	udsat	lykätä	ADJ;PL	V;NOM;SG;V.PTCP;PASS
+udsatte	lykättiin	udsat	lykätä	ADJ;PL	V;IND;PST;FIN;PASS
+udsatte	lykätty	udsat	lykätä	ADJ;PL	V;NOM;SG;V.PTCP;PASS
+udsatte	haavoittuvainen	udsat	haavoittuvainen	ADJ;PL	ADJ;NOM;SG
+udsatte	haavoittuva	udsat	haavoittua	ADJ;PL	ADJ;NOM;SG
+craig	craig	craig	craig		PROPN;NOM;SG
+craig	craigin	craig	craig		N;GEN;SG
+stjernen	star	stjerne	star	N;DEF;MASC+FEM;SG	
+stjernen	tähdellä	stjerne	tähdellä	N;DEF;MASC+FEM;SG	ADV
+bonn	bonnissa	bonn	bont	PROPN	N;IN+ESS;SG
+bonn	bonnin	bonn	bonn	PROPN	N;GEN;SG
+smal	rajaa	smal	raja	ADJ;INDF;MASC+FEM;SG	N;PRT;SG
+mekaniske	mekaanisen	mekanisk	mekaaninen	ADJ;PL	ADJ;GEN;SG
+mekaniske	mekaaninen	mekanisk	mekaaninen	ADJ;PL	ADJ;NOM;SG
+litterær	kirjallisuus	litterær	kirjallisuus	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+litterær	kirjallisuuden	litterær	kirjallisuus	ADJ;INDF;MASC+FEM;SG	N;GEN;SG
+gener	riesa	gen	riesa	N;INDF;NEUT;PL	N;NOM;SG
+flytning	liikkuvat	flytning	liikkua	N;INDF;MASC+FEM;SG	V;IND;PL;3;PRS;FIN;ACT
+flytning	liikkuu	flytning	liikkua	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+undersøgte	tutkittu	undersøge	tutkia	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+undersøgte	tarkasteltu	undersøge	tarkastella	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+undersøgte	tutkittu	undersøge	tutkia	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+mexicansk	meksikolaista	mexicansk	meksi#kolainen	ADJ;INDF;SG	N;PRT;SG
+mexicansk	meksikon	mexicansk	meksikko	ADJ;INDF;SG	N;GEN;SG
+jung	jung	jung	jung		N;NOM;SG
+sheffield	sheffield	sheffield	sheffield		PROPN;NOM;SG
+offensiven	loukkaava	offensiv	loukkata	N;DEF;MASC+FEM;SG	V;NOM;SG;V.PTCP;ACT
+offensiven	loukkaavaa	offensiv	loukkaava	N;DEF;MASC+FEM;SG	V;PRT;SG;V.PTCP;ACT
+truman	truman	truman	truma		N;NOM;SG
+harbor	harborin	harbor	harbori		N;GEN;SG
+anerkende	tunnusta	anerkende	tuntu	V;NFIN;ACT	N;PRT;SG
+anerkende	tunnustettava	anerkende	tunnustaa	V;NFIN;ACT	V;NOM;SG;V.PTCP;PASS
+anerkende	tunnustettava	anerkende	tunnustaa	V;NFIN;ACT	V;NOM;SG;V.PTCP;PASS
+påstande	saatavat	påstande	saada	N;INDF;MASC+FEM;PL	V;NOM;PL;V.PTCP;PASS
+påstande	väittää	påstande	väittää	N;INDF;MASC+FEM;PL	V;IND;SG;3;PRS;FIN;ACT
+riges	reich	rig	reich	ADJ;GEN	N;NOM;SG
+kigger	katselin	kigge	katsella	V;IND;PRS;FIN;ACT	V;IND;SG;1;PST;FIN;ACT
+wisconsin	wisconsin	wisconsin	wiscons	N;INDF;NEUT;SG	
+crystal	crystal	crystal	crystal		N;NOM;SG
+crystal	kristalli	crystal	kristalli		N;NOM;SG
+crystal	kristallin	crystal	kristalli		N;GEN;SG
+sid	sid	sid	sid	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+homo	homo	homo	homo		N;NOM;SG
+malcolm	malcolm	malcolm	malcolm		PROPN;NOM;SG
+perfekt	täydelliset	perfekt	täydellinen	ADJ;INDF;SG	ADJ;NOM;PL
+fugtige	kosteaa	fugtig	kostea	ADJ;PL	ADJ;PRT;SG
+fugtige	kostea	fugtig	kostea	ADJ;PL	ADJ;NOM;SG
+fugtige	kosteaa	fugtig	kostea	ADJ;PL	ADJ;PRT;SG
+fugtige	kostea	fugtig	kostea	ADJ;PL	ADJ;NOM;SG
+cat	kissa	cat	kissa		N;NOM;SG
+cat	kissaa	cat	kissaa		N;PRT;SG
+cat	kissan	cat	kissa		N;GEN;SG
+sild	silliä	sild	silli	N;INDF;MASC+FEM;PL	N;PRT;SG
+sild	sillin	sild	silli	N;INDF;MASC+FEM;PL	N;GEN;SG
+udfald	tulosten	udfald	tulos	N;INDF;NEUT;SG	N;GEN;PL
+wanderers	wanderers	wandere	wanderers	N;INDF;MASC+FEM;SG	
+commonwealth	yhteisö	commonwealth	yhteisö		N;NOM;SG
+kunstig	keinotekoista	kunstig	keino#teko	ADJ;INDF;MASC+FEM;SG	N;PRT;SG
+kunstig	keinotekoisia	kunstig	keino#tekoinen	ADJ;INDF;MASC+FEM;SG	ADJ;PRT;PL
+dos	dos	dos	dos		PROPN;NOM;SG
+oregon	oregonin	oregon	oregon		N;GEN;SG
+bordeaux	bordeaux	bordeaux	bordeaux		
+earl	earl	earl	earl		PROPN;NOM;SG
+earl	jaarli	earl	jaarli		N;NOM;SG
+bæres	kulunut	bære	kulua	V;IND;PRS;FIN;PASS	V;NOM;SG;V.PTCP;ACT
+bæres	kuluneet	bære	kulua	V;IND;PRS;FIN;PASS	V;NOM;PL;V.PTCP;ACT
+mistanke	epäilyksiä	mistanke	epäilys	N;INDF;MASC+FEM;SG	N;PRT;PL
+mistanke	epäilykset	mistanke	epäilys	N;INDF;MASC+FEM;SG	N;NOM;PL
+mistanke	epäilyt	mistanke	epäily	N;INDF;MASC+FEM;SG	N;NOM;PL
+mistanke	epäilty	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;PASS
+mistanke	epäilyttävä	mistanke	epäilyttävä	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+mistanke	epäilee	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+mistanke	epäillään	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;IND;PRS;FIN;PASS
+mistanke	epäilty	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;PASS
+mistanke	epäillään	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;IND;PRS;FIN;PASS
+mistanke	epäiltiin	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;IND;PST;FIN;PASS
+mistanke	epäillyt	mistanke	epäillä	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;ACT
+mistanke	epäilykset	mistanke	epäilys	N;INDF;MASC+FEM;SG	N;NOM;PL
+mistanke	epäilyt	mistanke	epäily	N;INDF;MASC+FEM;SG	N;NOM;PL
+digitalt	digitaalisesti	digitalt	digitaalisesti	ADJ;INDF;NEUT;SG	ADV
+digitalt	digital	digitalt	digital	ADJ;INDF;NEUT;SG	
+digitalt	digitaaliset	digitalt	digitaalinen	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+antager	oletetaan	antage	olettaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+antager	oletetaan	antage	olettaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+svømmer	uinti	svømme	uinti	V;IND;PRS;FIN;ACT	N;NOM;SG
+svømmer	pelastaja	svømme	pelastaja	V;IND;PRS;FIN;ACT	N;NOM;SG
+svømmer	uimari	svømme	uimari	V;IND;PRS;FIN;ACT	N;NOM;SG
+afgrænset	rajoittuvat	afgrænse	rajoittua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+brændende	polttaminen	brænde	polttaminen	V;PRS;V.PTCP	N;NOM;SG
+friends	ystävät	friends	ystävä	V;PRS;V.PTCP	N;NOM;PL
+friends	ystäviä	friends	ystävä	V;PRS;V.PTCP	N;PRT;PL
+friends	kavereita	friends	kaveri	V;PRS;V.PTCP	N;PRT;PL
+friends	kaverit	friends	kaveri	V;PRS;V.PTCP	N;NOM;PL
+gemt	piilossa	gemme	piilo	V;INDF;SG;PST;V.PTCP	N;IN+ESS;SG
+gemt	tallennetut	gemme	tallentaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+tang	pihdit	tang	pihdi	N;INDF;MASC+FEM;SG	N;NOM;PL
+opretter	luo	oprette	luo	V;IND;PRS;FIN;ACT	ADV
+opretter	luominen	oprette	luominen	V;IND;PRS;FIN;ACT	N;NOM;SG
+opretter	luodaan	oprette	luoda	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+opretter	luoja	oprette	luoja	V;IND;PRS;FIN;ACT	N;NOM;SG
+midterste	keskimmäinen	midter	keskimmäinen	ADJ;DEF;RL	ADJ;NOM;SG
+midterste	lähi	midter	lähi	ADJ;DEF;RL	INTJ
+midterste	keski	midter	keski	ADJ;DEF;RL	N;NOM;SG
+forkerte	väärä	forkert	väärä	ADJ;PL	ADJ;NOM;SG
+forkerte	väärin	forkert	väärin	ADJ;PL	ADV
+forkerte	vikaa	forkert	vika	ADJ;PL	N;PRT;SG
+affald	jätteet	affald	jäte	N;INDF;NEUT;SG	N;NOM;PL
+affald	jätteet	affald	jäte	N;INDF;NEUT;SG	N;NOM;PL
+suzuki	suzuki	suzuki	suzua		N;NOM;SG
+jelena	jelena	jelena	jelena		N;NOM;SG
+medina	medina	medina	medina		N;NOM;SG
+konrad	konrad	konrad	konrad		N;NOM;SG
+kæmpet	taistellut	kæmpe	taistella	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+arkiveret	arkistoidut	arkivere	arkistoida	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+demonstrationer	mielenosoitus	demonstration	mielen#osoitus	N;INDF;MASC+FEM;PL	N;NOM;SG
+larsson	larsson	larsson	larsso		N;NOM;SG
+bemærkede	merkille	bemærket	merkki	V;IND;PST;FIN;ACT	N;AT+ALL;SG
+bemærkede	huomioitu	bemærket	huomioida	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+sorg	suree	sorg	surra	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+olof	olof	olof	olof	PROPN	PROPN;NOM;SG
+wulff	wulff	wulff	wulff		PROPN;NOM;SG
+smed	seppä	smide	seppä	V;IND;PST;FIN;ACT	N;NOM;SG
+absolutte	absoluuttinen	absolutte	absoluuttinen	ADJ;PL	ADJ;NOM;SG
+absolutte	ehdoton	absolutte	ehdoton	ADJ;PL	ADJ;NOM;SG
+aske	tuhkat	aske	tuhkka	N;INDF;NEUT;SG	N;NOM;PL
+aske	ash	aske	ash	N;INDF;NEUT;SG	PROPN;NOM;SG
+davies	davies	davie	davies		N;NOM;SG
+sår	haavat	sår	haava	N;INDF;NEUT;SG	N;NOM;PL
+sår	haavoja	sår	haava	N;INDF;NEUT;SG	N;PRT;PL
+trine	kati	trine	kati		PROPN;NOM;SG
+trine	kate	trine	kate		PROPN;NOM;SG
+money	raha	money	raha		N;NOM;SG
+money	rahat	money	raha		N;NOM;PL
+money	rahaa	money	raha		N;PRT;SG
+knut	knut	knut	knut		PROPN;NOM;SG
+leeds	leeds	leeds	leeds		PROPN;NOM;SG
+protein	proteiineja	protein	proteiini	N;INDF;NEUT;SG	N;PRT;PL
+protein	proteiineja	protein	proteiini	N;INDF;NEUT;SG	N;PRT;PL
+roberto	roberto	roberto	roberto		PROPN;NOM;SG
+genetisk	geneettisesti	genetisk	geneettisesti	ADJ;INDF;SG	ADV
+tømmer	puutavaran	tømme	puu#tavara	N;INDF;MASC+FEM;PL	N;GEN;SG
+intellektuelle	älymystön	intellektuel	älymystö	ADJ;PL	N;GEN;SG
+intellektuelle	henkisen	intellektuel	henkinen	ADJ;PL	ADJ;GEN;SG
+hellig	pyhä	hellig	pyhä	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+hellig	pyhitetty	hellig	pyhittää	ADJ;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;PASS
+tempo	astelee	tempo	astella	N;INDF;NEUT;SG	V;IND;SG;3;PRS;FIN;ACT
+ibm	ibm	ibm	ibm	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+vang	vang	vang	vang	N;INDF;NEUT;SG	INTJ
+berkeley	berkeley	berkeley	berkeley		N;NOM;SG
+indkomst	tuotot	indkomst	tuotto	N;INDF;MASC+FEM;SG	N;NOM;PL
+indkomst	tulot	indkomst	tulo	N;INDF;MASC+FEM;SG	N;NOM;PL
+björn	björn	björn	björn	N;INDF;NEUT;SG	PROPN;NOM;SG
+faldne	kaatunut	falden	kaatua	ADJ;PL	V;NOM;SG;V.PTCP;ACT
+faldne	langennut	falden	langennut	ADJ;PL	ADJ;NOM;SG
+faldne	putosi	falden	pudota	ADJ;PL	V;IND;SG;3;PST;FIN;ACT
+faldne	pudonnut	falden	pudota	ADJ;PL	V;NOM;SG;V.PTCP;ACT
+faldne	kaatui	falden	kaatua	ADJ;PL	V;IND;SG;3;PST;FIN;ACT
+tegneserie	piirretty	tegneserie	piirtää	N;INDF;MASC+FEM;SG	V;NOM;SG;V.PTCP;PASS
+forever	ikuinen	foreve	ikuinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+forever	ikuisesti	foreve	ikuisesti	N;INDF;MASC+FEM;SG	ADV
+omar	omar	omar	omar	PROPN	N;NOM;SG
+omar	omarin	omar	omari	PROPN	ADJ;GEN;SG
+blok	estä	blok	estää	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+blok	korttelin	blok	kortteli	N;INDF;MASC+FEM;SG	V;IND;SG;1;PST;FIN;ACT
+klinisk	kliiniset	klinisk	kliininen	ADV	ADJ;NOM;PL
+klinisk	kliininen	klinisk	kliininen	ADV	ADJ;NOM;SG
+gult	keltaisia	gult	keltainen	ADJ;INDF;NEUT;SG	ADJ;PRT;PL
+gult	keltaiset	gult	keltainen	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+palme	palm	palme	palm	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+opad	nousevaan	opad	nousta	ADV	V;IN+ALL;SG;V.PTCP;ACT
+opad	nouseva	opad	nousta	ADV	V;NOM;SG;V.PTCP;ACT
+airways	airways	airway	airways		N;NOM;SG
+maksimalt	maksimi	maksimalt	maksi#mi	ADV	N;NOM;SG
+maksimalt	suurin	maksimalt	suuri	ADV	ADJ;NOM;RL;SG
+maksimalt	enimmäismäärä	maksimalt	enimmäis#määrä	ADV	N;NOM;SG
+hør	pellava	høre	peltova	V;IMP	N;NOM;SG
+patienten	potilaat	patient	potilas	N;DEF;MASC+FEM;SG	N;NOM;PL
+købes	ostaa	købe	ostaa	V;IND;PRS;NFIN;PASS	V;SG;FIN;ACT
+købes	osta	købe	ostaa	V;IND;PRS;NFIN;PASS	V;IMP;SG;2;FIN;ACT
+købes	osti	købe	ostaa	V;IND;PRS;NFIN;PASS	V;IND;SG;3;PST;FIN;ACT
+købes	osti	købe	ostaa	V;IND;PRS;NFIN;PASS	V;IND;SG;3;PST;FIN;ACT
+gotha	gotha	gotha	gotha		N;NOM;SG
+forbeholdt	varatut	forbeholde	varata	V;INDF;SG;PST;V.PTCP	N;NOM;PL
+hjalmar	hjalmar	hjalmar	hjalmar		N;NOM;SG
+salvador	salvador	salvador	salvador		N;NOM;SG
+duke	herttua	duke	herttua		N;NOM;SG
+duke	duke	duke	duke		PROPN;NOM;SG
+isaac	isaac	isaac	isaac		N;NOM;SG
+myspace	myspace	myspace	myspace	N;INDF;NEUT;SG	PROPN;NOM;SG
+step	astu	step	astua	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+forhandle	neuvottelu	forhandle	neuvottelu	V;NFIN;ACT	N;NOM;SG
+forhandle	neuvotteluja	forhandle	neuvottelu	V;NFIN;ACT	N;PRT;PL
+forhandle	neuvottelut	forhandle	neuvottelu	V;NFIN;ACT	N;NOM;PL
+lis	liz	lis	liz		PROPN;NOM;SG
+lis	liisa	lis	liisa		N;NOM;SG
+lis	lis	lis	lis		N;NOM;SG
+pour	kaada	pour	kaataa		V;IMP;SG;2;FIN;ACT
+pour	kaataa	pour	kaataa		V;SG;NFIN;ACT
+pour	kaadetaan	pour	kaataa		V;IND;PRS;FIN;PASS
+indtjening	ansiot	indtjening	ansio	N;INDF;MASC+FEM;SG	N;NOM;PL
+indtjening	tuotot	indtjening	tuotto	N;INDF;MASC+FEM;SG	N;NOM;PL
+indtjening	voitot	indtjening	voitto	N;INDF;MASC+FEM;SG	N;NOM;PL
+indtjening	tulot	indtjening	tulo	N;INDF;MASC+FEM;SG	N;NOM;PL
+tyk	paksut	tyk	paksu	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+påvirkede	vaikutti	påvirke	vaikuttaa	V;PL;PST;V.PTCP	V;IND;SG;3;PST;FIN;ACT
+påvirkede	vaikuttanut	påvirke	vaikuttaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+påvirkede	vaikuttanut	påvirke	vaikuttaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+påvirkede	vaikutti	påvirke	vaikuttaa	V;PL;PST;V.PTCP	V;IND;SG;3;PST;FIN;ACT
+grafik	graafinen	grafik	graafinen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+forældet	vanhentuneet	forælde	vanhentua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+forældet	vanhentuneita	forælde	vanhentua	V;INDF;SG;PST;V.PTCP	V;PRT;PL;V.PTCP;ACT
+forældet	vanhentuneet	forælde	vanhentua	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;ACT
+fantasi	fantasia	fantasi	fantanen	N;INDF;MASC+FEM;SG	N;PRT;PL
+rostock	rostock	rostock	rostock	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+mos	moss	mos	moss	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+farvel	hyvästi	farvel	hyvästää	N;INDF;NEUT;SG	ADV
+specialiserede	erikoistunut	specialisere	erikoistua	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+specialiserede	erikoistunut	specialisere	erikoistua	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+geologisk	geologinen	geologisk	geologinen	ADV	ADJ;NOM;SG
+jin	jin	jin	jin		PROPN;NOM;SG
+vandret	horisontaalinen	vandret	horisontaalinen	V;INDF;SG;PST;V.PTCP	ADJ;NOM;SG
+vandret	vaakatasossa	vandret	vaaka#taso	V;INDF;SG;PST;V.PTCP	N;IN+ESS;SG
+vandret	vaaka	vandret	vaaka	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+isle	isle	isle	isle	N;INDF;MASC+FEM;SG	
+homoseksuelle	homoja	homoseksuel	homo	ADJ;PL	N;PRT;PL
+homoseksuelle	homot	homoseksuel	homo	ADJ;PL	N;NOM;PL
+homoseksuelle	homoseksuaali	homoseksuel	homo#seksuaali	ADJ;PL	N;NOM;SG
+homoseksuelle	homot	homoseksuel	homo	ADJ;PL	N;NOM;PL
+homoseksuelle	homoseksuaalien	homoseksuel	homo#seksuaali	ADJ;PL	N;GEN;PL
+ukrainsk	ukraina	ukrainsk	ukraina	ADJ;INDF;SG	N;NOM;SG
+ukrainsk	ukrainan	ukrainsk	ukraina	ADJ;INDF;SG	N;GEN;SG
+tanzania	tansanian	tanzania	tansania		N;GEN;SG
+miguel	miguel	miguel	miguel		PROPN;NOM;SG
+miguel	miguelin	miguel	migueli		V;IND;SG;1;PST;FIN;ACT
+clinton	clinton	clinton	clinton		N;NOM;SG
+clinton	clintonin	clinton	clinton		N;GEN;SG
+uddrag	otteita	uddrag	ote	N;INDF;NEUT;SG	N;PRT;PL
+uddrag	pura	uddrag	pura	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+uddrag	otteita	uddrag	ote	N;INDF;NEUT;SG	N;PRT;PL
+rimelig	melko	rimelig	melko	ADJ;INDF;MASC+FEM;SG	ADV
+rimelig	fair	rimelig	fair	ADJ;INDF;MASC+FEM;SG	
+rimelig	kohtuulliset	rimelig	kohtuullinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+lander	lander	land	lander	V;IND;PRS;FIN;ACT	N;NOM;SG
+lander	purkaminen	land	purkaminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+lander	laskeutuminen	land	laskeutuminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+lander	lasku	land	lasku	V;IND;PRS;FIN;ACT	N;NOM;SG
+lander	maa	land	maa	V;IND;PRS;FIN;ACT	N;NOM;SG
+lander	maata	land	maa	V;IND;PRS;FIN;ACT	N;PRT;SG
+kids	lapsia	kids	lapsi	N;INDF;NEUT;SG	N;PRT;PL
+kids	lapset	kids	lapsi	N;INDF;NEUT;SG	N;NOM;PL
+hang	hung	hænge	hung	V;IMP	PROPN;NOM;SG
+hang	roikkuu	hænge	roikkua	V;IMP	V;IND;SG;3;PRS;FIN;ACT
+ålborg	aalborg	ålborg	aalborg		
+mai	mai	mai	mai		INTJ
+fjerner	poistetaan	fjerne	poistaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+tænkning	miettii	tænkning	miettiä	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+village	kylän	villag	kylä		N;GEN;SG
+village	kylä	villag	kylä		N;NOM;SG
+village	kylässä	villag	kylä		N;IN+ESS;SG
+village	kyl	villag	kyllä		ADV
+straffe	seuraamus	straffe	seuraamus	N;INDF;MASC+FEM;PL	N;NOM;SG
+straffe	rangaistus	straffe	rangaistus	N;INDF;MASC+FEM;PL	N;NOM;SG
+straffe	rangaista	straffe	rangainen	N;INDF;MASC+FEM;PL	V;SG;NFIN;ACT
+straffe	rangaistuksen	straffe	rangaistus	N;INDF;MASC+FEM;PL	N;GEN;SG
+straffe	rangaistusta	straffe	rangaistus	N;INDF;MASC+FEM;PL	N;PRT;SG
+straffe	rangaistus	straffe	rangaistus	N;INDF;MASC+FEM;PL	N;NOM;SG
+fladt	litteä	fladt	litteä	ADV	ADJ;NOM;SG
+fladt	tasainen	fladt	tasainen	ADV	ADJ;NOM;SG
+raw	raakana	raw	raaka		ADJ;FRML;SG
+raw	raaka	raw	raaka		ADJ;NOM;SG
+raw	raa	raw	raa		N;NOM;SG
+psykiske	psykologinen	psykisk	psykologinen	ADJ;PL	ADJ;NOM;SG
+psykiske	henkinen	psykisk	henkinen	ADJ;PL	ADJ;NOM;SG
+psykiske	henkistä	psykisk	henkinen	ADJ;PL	N;PRT;SG
+psykiske	psyykkinen	psykisk	psyykkinen	ADJ;PL	ADJ;NOM;SG
+georgien	georgiassa	georgi	georgia	PROPN	N;IN+ESS;SG
+georgien	georgian	georgi	georgia	PROPN	N;GEN;SG
+georgien	georgia	georgi	georg	PROPN	N;NOM;SG
+georgien	georgiaa	georgi	georgia	PROPN	N;PRT;SG
+jefferson	jefferson	jefferson	jefferson	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+aps	llc	aps	llc	N;INDF;NEUT;SG	PROPN;NOM;SG
+francesco	francesco	francesco	francesco	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+kommercielt	kaupallista	kommercielt	kaupallinen	ADV	ADJ;PRT;SG
+kommercielt	kaupalliset	kommercielt	kaupallinen	ADV	ADJ;NOM;PL
+kommercielt	kaupallinen	kommercielt	kaupallinen	ADV	ADJ;NOM;SG
+ørkenen	desert	ørken	desert	N;DEF;MASC+FEM;SG	
+hurtigste	nopeimmin	hurtigst	nopeasti	ADJ;DEF;RL	ADV;CMPR
+monroe	monroen	monroe	monroen		N;GEN;SG
+monroe	monroe	monroe	monroe		N;NOM;SG
+ssr	ssr	ssr	ssr	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+connecticut	connecticut	connecticut	connecticut	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+gibraltar	gibraltarin	gibraltar	gibraltari	ADJ;INDF;SG	N;GEN;SG
+américa	américa	américa	américa		
+kristina	kristina	kristina	kristina		N;NOM;SG
+pittsburgh	pittsburgh	pittsburgh	pittsburgh		
+produktioner	productions	produktion	productions	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+dawn	dawn	dawn	dawn	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+gennemsnitlig	keskiarvo	gennemsnitlig	keski#arvo	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+mile	kilometrin	mil	kilo#metri		N;GEN;SG
+mile	mailin	mil	maili		N;GEN;SG
+mile	mailia	mil	maili		N;PRT;SG
+bristol	bristol	bristol	bristol		N;NOM;SG
+blokere	estäminen	blok	estäminen	V;NFIN;ACT	N;NOM;SG
+blokere	esto	blok	esto	V;NFIN;ACT	N;NOM;SG
+blokere	estämistä	blok	estäminen	V;NFIN;ACT	N;PRT;SG
+blokere	esto	blok	esto	V;NFIN;ACT	N;NOM;SG
+blokere	block	blok	block	V;NFIN;ACT	N;NOM;SG
+rimeligt	kohtuudella	rimelig	kohtuus	ADJ;INDF;NEUT;SG	N;AT+ESS
+;SG
+rimeligt	fair	rimelig	fair	ADJ;INDF;NEUT;SG	
+rimeligt	kohtuulliset	rimelig	kohtuullinen	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+stab	puukottaa	stab	puukottaa	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+forberedt	valmistetut	forberede	valmistaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+negativt	kielteinen	negativt	kielteinen	ADV	ADJ;NOM;SG
+negativt	negatiiviset	negativt	negatiivinen	ADV	ADJ;NOM;PL
+negativt	negatiivinen	negativt	negatiivinen	ADV	ADJ;NOM;SG
+kompliceret	monimutkaiset	kompliceret	monimutkainen	ADJ;INDF;SG	ADJ;NOM;PL
+kompliceret	monimutkaiset	kompliceret	monimutkainen	ADJ;INDF;SG	ADJ;NOM;PL
+bonus	bonukset	bonus	bonus	N;INDF;MASC+FEM;SG	N;NOM;PL
+ghana	ghana	ghana	ghana	PROPN	PROPN;NOM;SG
+giuseppe	giuseppe	giuseppe	giusippe	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+østlig	itä	østlig	itä	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+oplyst	valaistu	oplyse	valaista	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+gemme	säästä	gemme	sää	V;NFIN;ACT	N;IN+ABL;SG
+jeanne	jeanne	jeanne	jeanne	N;INDF;MASC+FEM;SG	
+serv	palvele	serv	palvele	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+serv	palvella	serv	palvi	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+skovene	metsä	skov	metsä	N;DEF;MASC+FEM;PL	N;NOM;SG
+mon	mon	mon	mon	ADV	INTJ
+mon	ihmettelee	mon	ihmetellä	ADV	V;IND;SG;3;PRS;FIN;ACT
+mon	ihme	mon	ihme	ADV	N;NOM;SG
+mon	ihmetellä	mon	ihmetellä	ADV	V;SG;NFIN;ACT
+lily	lilyn	lily	lily		N;GEN;SG
+lily	lily	lily	lily		
+medie	tiedotusvälineet	medie	tiedotus#väline	N;INDF;NEUT;SG	N;NOM;PL
+medie	tiedotusvälineiden	medie	tiedotus#väline	N;INDF;NEUT;SG	N;GEN;PL
+medie	keskikokoinen	medie	keski#kokoinen	N;INDF;NEUT;SG	ADJ;NOM;SG
+gene	gene	gene	gene	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+fisher	fisher	fishe	fisher	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+styr	ohjata	styr	ohjata	N;INDF;NEUT;SG	V;SG;NFIN;ACT
+styr	ohjaa	styr	ohjata	N;INDF;NEUT;SG	V;IND;SG;2;PRS;FIN;ACT
+fester	fester	fest	fester	N;INDF;MASC+FEM;PL	N;NOM;SG
+fester	juhlimassa	fest	juhlia	N;INDF;MASC+FEM;PL	V;IN+ESS;SG;NFIN;ACT
+udnyttede	hyödynnetty	udnytte	hyödyntää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+udnyttede	hyödynnetty	udnytte	hyödyntää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+håkon	haakon	håkon	haakko		N;NOM;SG
+bøde	sakot	bøde	sakko	N;INDF;MASC+FEM;SG	N;NOM;PL
+bøde	sakkoja	bøde	sakko	N;INDF;MASC+FEM;SG	N;PRT;PL
+beholder	pitäminen	beholde	pitäminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+beholder	säiliö	beholde	säiliö	V;IND;PRS;FIN;ACT	N;NOM;SG
+beholder	kontti	beholde	kontti	V;IND;PRS;FIN;ACT	N;NOM;SG
+mallorca	mallorcan	mallorca	mallorca		
+mallorca	mallorca	mallorca	mallorca		
+dogg	dogg	dogg	dogg		PROPN;NOM;SG
+severin	severin	severin	severi	N;INDF;MASC+FEM;SG	V;IND;SG;1;PRS;FIN;ACT
+madonna	madonna	madonna	madontaa		N;NOM;SG
+skinner	skinner	skinne	skinner	V;IND;PRS;FIN;ACT	N;NOM;SG
+skinner	kiskot	skinne	kisko	V;IND;PRS;FIN;ACT	N;NOM;PL
+hjort	peura	hjort	peura		N;NOM;SG
+hjort	hirvi	hjort	hirvi		N;NOM;SG
+hjort	peuran	hjort	peura		N;GEN;SG
+rapporteret	ilmoitetut	rapportere	ilmoittaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+puerto	puerto	puerto	puerto		PROPN;NOM;SG
+annie	annien	annie	anti	N;INDF;MASC+FEM;SG	N;GEN;PL
+stabile	vakaa	stabil	vakaa	ADJ;PL	ADJ;NOM;SG
+stabile	talli	stabil	talli	ADJ;PL	N;NOM;SG
+regnede	sataa	regne	sataa	V;IND;PST;FIN;ACT	N;PRT;SG
+internt	sisäistä	internt	sisäinen	ADV	ADJ;PRT;SG
+internt	sisäisen	internt	sisäinen	ADV	ADJ;GEN;SG
+internt	sisäinen	internt	sisäinen	ADV	ADJ;NOM;SG
+internt	sisäiset	internt	sisäinen	ADV	ADJ;NOM;PL
+betjent	kyttä	betjene	kyttä	ADJ;INDF;SG	N;NOM;SG
+betjent	poliisi	betjene	poliisi	ADJ;INDF;SG	N;NOM;SG
+betjent	upseeri	betjene	upseeri	ADJ;INDF;SG	N;NOM;SG
+betjent	virkailija	betjene	virkailija	ADJ;INDF;SG	N;NOM;SG
+betjent	konstaapeli	betjene	konstaapeli	ADJ;INDF;SG	N;NOM;SG
+udstedte	annettu	udstedt	antaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+udstedte	myönnetyt	udstedt	myöntää	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+udstedte	annetut	udstedt	antaa	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+udstedte	myönnetty	udstedt	myöntää	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+horne	horne	horne	horne		N;NOM;SG
+identiske	identtinen	identisk	identtinen	ADJ;PL	ADJ;NOM;SG
+udtrykke	ilmaista	udtrykke	ilmaista	V;NFIN;ACT	N;PRT;SG
+udtrykke	express	udtrykke	express	V;NFIN;ACT	N;NOM;SG
+husk	muista	husk	muu	V;IMP	PRO;IN+ABL;PL
+hvile	lepo	hvile	lepo	V;NFIN;ACT	N;NOM;SG
+hvile	lepoa	hvile	lepo	V;NFIN;ACT	N;PRT;SG
+challenge	haastaa	challenge	haastaa	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+challenge	haasteet	challenge	haaste	N;INDF;MASC+FEM;SG	N;NOM;PL
+metaller	metalli	metal	metalli	N;INDF;NEUT;PL	N;NOM;SG
+metaller	metal	metal	metal	N;INDF;NEUT;PL	
+metaller	metallia	metal	metalli	N;INDF;NEUT;PL	N;PRT;SG
+metaller	metallinen	metal	metallinen	N;INDF;NEUT;PL	ADJ;NOM;SG
+tilskud	tuet	tilskud	tuki	N;INDF;NEUT;SG	N;NOM;PL
+tilskud	avustukset	tilskud	avustus	N;INDF;NEUT;SG	N;NOM;PL
+tilskud	tukia	tilskud	tuki	N;INDF;NEUT;SG	N;PRT;PL
+tilskud	avustuksia	tilskud	avustus	N;INDF;NEUT;SG	N;PRT;PL
+tilskud	avustukset	tilskud	avustus	N;INDF;NEUT;SG	N;NOM;PL
+tilskud	myöntää	tilskud	myöntää	N;INDF;NEUT;SG	V;SG;NFIN;ACT
+tilskud	myöntää	tilskud	myöntää	N;INDF;NEUT;SG	V;SG;NFIN;ACT
+tilskud	grant	tilskud	grant	N;INDF;NEUT;SG	PROPN;NOM;SG
+gorm	gorm	gorm	gorm		N;NOM;SG
+bern	bern	bern	bern	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+graf	graf	graf	graf	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+cook	cook	cook	cook		PROPN;NOM;SG
+cook	kokki	cook	kokki		N;NOM;SG
+trøndelag	trøndelag	trøndelag	trøndelag		N;NOM;SG
+somalia	somalian	somalia	somalia		N;GEN;SG
+somalia	somaliassa	somalia	somalia		N;IN+ESS;SG
+kære	rakkaat	kære	rakas	ADJ;DEF;SG	ADJ;NOM;PL
+kære	rakas	kære	rakas	ADJ;DEF;SG	N;NOM;SG
+udløbet	vanhentunut	udløb	vanhentua	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;ACT
+udløbet	vanhentuneet	udløb	vanhentua	N;DEF;NEUT;SG	V;NOM;PL;V.PTCP;ACT
+udløbet	päättynyt	udløb	päättyä	N;DEF;NEUT;SG	V;NOM;SG;V.PTCP;ACT
+kunstige	keinotekoista	kunstig	keino#teko	ADJ;PL	N;PRT;SG
+kunstige	keinotekoinen	kunstig	keino#tekoinen	ADJ;PL	ADJ;NOM;SG
+vinci	vinci	vinci	vinci		PROPN;NOM;SG
+afc	afc	afc	afc	PROPN	N;NOM;SG
+guddommelige	jumalainen	guddommelig	jumalainen	ADJ;PL	ADJ;NOM;SG
+guddommelige	jumalallinen	guddommelig	jumalallinen	ADJ;PL	ADJ;NOM;SG
+forsinket	myöhäinen	forsinke	myöhäinen	V;INDF;SG;PST;V.PTCP	ADJ;NOM;SG
+forsinket	myöhässä	forsinke	myöhässä	V;INDF;SG;PST;V.PTCP	ADV
+forsinket	myöhään	forsinke	myöhään	V;INDF;SG;PST;V.PTCP	ADV
+forsinket	viivästyminen	forsinke	viivästyminen	V;INDF;SG;PST;V.PTCP	N;NOM;SG
+baltimore	baltimoren	baltimor	baltimori		N;GEN;SG
+baltimore	baltimoressa	baltimor	baltimori		N;IN+ESS;SG
+franco	franco	franco	franco		N;NOM;SG
+innovation	innovaatiot	innovation	innovaatio	N;INDF;MASC+FEM;SG	N;NOM;PL
+vogn	vaunut	vogn	vaunu	N;INDF;MASC+FEM;SG	N;NOM;PL
+vogn	kärryt	vogn	kärry	N;INDF;MASC+FEM;SG	N;NOM;PL
+vogn	vaunut	vogn	vaunu	N;INDF;MASC+FEM;SG	N;NOM;PL
+nilsson	nilsson	nilsson	nilssoan		N;NOM;SG
+ski	sukset	ski	sussi	N;INDF;NEUT;SG	N;NOM;PL
+ski	ski	ski	ski	N;INDF;NEUT;SG	PROPN;NOM;SG
+ski	hiihtämään	ski	hiihtää	N;INDF;NEUT;SG	V;IN+ALL;SG;NFIN;ACT
+gear	varusteet	gear	varuste	N;INDF;MASC+FEM;SG	N;NOM;PL
+gear	rattaat	gear	ratas	N;INDF;MASC+FEM;SG	N;NOM;PL
+vega	vega	vega	vega	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+forrest	forrest	forrest	forrest		
+kfum	ymca	kfum	ymca	N;INDF;NEUT;SG	PROPN;NOM;SG
+porte	gates	porte	gates	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+gregor	gregor	gregor	gregor	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+gregor	gregory	gregor	gregory	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+nordlig	pohjoinen	nordlig	pohjoinen	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+nordlig	pohjois	nordlig	pohjois	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+øde	autio	øde	autio	ADJ	N;NOM;SG
+øde	autio	øde	autio	ADJ	N;NOM;SG
+dkk	dkk	dek	dkk		V;IND;SG;3;PRS;FIN;ACT
+westminster	westminster	westminst	westminster	N;INDF;MASC+FEM;SG	
+doctor	tohtori	doctor	tohtori		N;NOM;SG
+doctor	lääkäri	doctor	lääkäri		N;NOM;SG
+definere	määritellään	definere	määritellä	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+undgik	vältetään	undgå	välttää	V;IND;PST;FIN;ACT	V;IND;PRS;FIN;PASS
+bistand	tuet	bistand	tuki	N;INDF;MASC+FEM;SG	N;NOM;PL
+telefon	puhelimitse	telefon	puheli#mitse	N;INDF;MASC+FEM;SG	N;NOM;PL
+dæmningen	dam	dæmning	dam	N;DEF;MASC+FEM;SG	
+brænde	polttopuita	brænde	poltto#puu	V;NFIN;ACT	N;PRT;PL
+brænde	pala	brænde	pala	V;NFIN;ACT	N;NOM;SG
+brænde	poltetaan	brænde	polttaa	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+brænde	polttaminen	brænde	polttaminen	V;NFIN;ACT	N;NOM;SG
+brænde	poltetaan	brænde	polttaa	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+mercury	elohopea	mercury	elohopea		N;NOM;SG
+mercury	elohopeaa	mercury	elohopea		N;PRT;SG
+ulf	ulf	ulf	ulf	PROPN	PROPN;NOM;SG
+markus	markus	markus	markus		PROPN;NOM;SG
+masters	mestarit	mast	mestari	N;GEN;INDF;MASC+FEM;PL	N;NOM;PL
+masters	masters	mast	masters	N;GEN;INDF;MASC+FEM;PL	N;NOM;SG
+masters	päälliköt	mast	päällikkö	N;GEN;INDF;MASC+FEM;PL	N;NOM;PL
+moralsk	moraalinen	moralsk	moraalinen	ADV	ADJ;NOM;SG
+moralsk	moraali	moralsk	moraali	ADV	N;NOM;SG
+moralsk	moraalista	moralsk	moraali	ADV	ADJ;PRT;SG
+intern	sisäiset	intern	sisäinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+afrikansk	afrikkalaiset	afrikansk	afrikka#lainen	ADJ;INDF;SG	N;NOM;PL
+afrikansk	afrikka	afrikansk	afrikka	ADJ;INDF;SG	N;NOM;SG
+afrikansk	afrikan	afrikansk	afrikka	ADJ;INDF;SG	N;GEN;SG
+givne	annettu	givn	antaa	ADJ;PL	V;NOM;SG;V.PTCP;PASS
+givne	annetut	givn	antaa	ADJ;PL	V;NOM;PL;V.PTCP;PASS
+efterår	pudota	efterår	pudota	N;INDF;NEUT;SG	V;IMP;SG;2;NFIN;ACT
+efterår	kaatuu	efterår	kaatua	N;INDF;NEUT;SG	V;IND;SG;3;PRS;FIN;ACT
+efterår	kaadu	efterår	kaatua	N;INDF;NEUT;SG	V;IMP;SG;2;FIN;ACT
+reserveret	varatut	reservere	varata	V;INDF;SG;PST;V.PTCP	N;NOM;PL
+helikopter	helikopterit	helikopter	helikopteri	N;INDF;MASC+FEM;SG	N;NOM;PL
+helikopter	helikopterit	helikopter	helikopteri	N;INDF;MASC+FEM;SG	N;NOM;PL
+helikopter	helikoptereita	helikopter	helikopteri	N;INDF;MASC+FEM;SG	N;PRT;PL
+pigerne	girls	pige	girls	N;DEF;MASC+FEM;PL	
+stanford	stanford	stanford	stanford	N;INDF;MASC+FEM;SG	
+emily	emilyn	emily	emily		N;GEN;SG
+emily	emily	emily	emily		N;NOM;SG
+hukommelse	muistin	hukommelse	muistaa	N;INDF;MASC+FEM;SG	V;IND;SG;1;PST;FIN;ACT
+hukommelse	muistot	hukommelse	muisto	N;INDF;MASC+FEM;SG	N;NOM;PL
+exchange	mkt	exchange	mutno#matti		N;NOM;SG
+exchange	vaihtaa	exchange	vaihtaa		V;SG;NFIN;ACT
+exchange	vaihtoon	exchange	vaihto		N;IN+ALL;SG
+exchange	vaihto	exchange	vaihto		N;NOM;SG
+exchange	vaihtaminen	exchange	vaihtaminen		N;NOM;SG
+stormen	storm	stor	storm	N;DEF;MASC+FEM;SG	
+behandlede	käsitellyt	behandle	käsitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+behandlede	hoidettu	behandle	hoitaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+behandlede	käsitelty	behandle	käsitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+behandlede	käsitellyt	behandle	käsitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+behandlede	käsitelty	behandle	käsitellä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+behandlede	jalostettu	behandle	jalostaa	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+phillips	phillips	phillips	phillips	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+beverly	beverly	beverly	beverly		PROPN;NOM;SG
+said	sanoi	said	sanoa		V;IND;SG;3;PST;FIN;ACT
+living	elävä	living	elää	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+living	elää	living	elää	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+living	elävät	living	elää	N;INDF;MASC+FEM;SG	V;IND;PL;3;PRS;FIN;ACT
+heidelberg	heidelberg	heidelberg	heidelberg	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+heide	heide	heide	heide	N;INDF;MASC+FEM;SG	INTJ
+relativ	suhteellista	relativ	suhteellinen	ADV	ADJ;PRT;SG
+relativ	suhteellinen	relativ	suhteellinen	ADV	ADJ;NOM;SG
+relativ	sukulainen	relativ	sukulainen	ADV	N;NOM;SG
+klippe	kallio	klippe	kallio	V;NFIN;ACT	N;NOM;SG
+klippe	kallion	klippe	kallio	V;NFIN;ACT	N;GEN;SG
+klippe	cliff	klippe	cliff	V;NFIN;ACT	PROPN;NOM;SG
+klippe	kallio	klippe	kallio	V;NFIN;ACT	N;NOM;SG
+klippe	kivi	klippe	kivi	V;NFIN;ACT	N;NOM;SG
+klippe	rock	klippe	rock	V;NFIN;ACT	
+powell	powell	powell	powell		PROPN;NOM;SG
+nba	nba	nba	nba		N;NOM;SG
+foster	foster	foste	foster	N;INDF;MASC+FEM;PL	PROPN;NOM;SG
+foster	kasvatus	foste	kasvatus	N;INDF;MASC+FEM;PL	N;NOM;SG
+foster	kasvatti	foste	kasvattaa	N;INDF;MASC+FEM;PL	V;IND;SG;3;PST;FIN;ACT
+foster	sikiön	foste	sikiö	N;INDF;MASC+FEM;PL	N;GEN;SG
+foster	sikiö	foste	sikiö	N;INDF;MASC+FEM;PL	N;NOM;SG
+forudgående	aikaisemmat	forudgående	aikainen	ADJ	ADJ;NOM;CMPR;PL
+hedenske	pakana	hedensk	pakana	ADJ;PL	N;NOM;SG
+hedenske	pakana	hedensk	pakana	ADJ;PL	N;NOM;SG
+stød	iskut	stød	isku	N;INDF;NEUT;SG	N;NOM;PL
+koncentrerede	tiivistetty	koncentrere	tiivistää	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+koncentrerede	keskittynyt	koncentrere	keskittyä	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+koncentrerede	keskitetty	koncentrere	keskitetty	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+weber	weber	weber	weber	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+overføre	lataaminen	overføre	lataaminen	V;NFIN;ACT	N;NOM;SG
+overføre	ladataan	overføre	ladata	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+overføre	lataus	overføre	lataus	V;NFIN;ACT	N;NOM;SG
+kraftigere	voimakkaampi	kraftigere	voimakas	ADV;CMPR	ADJ;NOM;CMPR;SG
+kraftigere	vahvemman	kraftigere	vahva	ADV;CMPR	ADJ;GEN;CMPR;SG
+kraftigere	vahvempi	kraftigere	vahva	ADV;CMPR	ADJ;NOM;CMPR;SG
+kraftigere	vahvempaa	kraftigere	vahva	ADV;CMPR	ADJ;PRT;CMPR;SG
+kasakhstan	kazakstanin	kasakhstan	kazaksta		N;GEN;SG
+memphis	memphis	memphis	memphis		
+sullivan	sullivan	sullivan	sulla	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+sullivan	sullivanin	sullivan	sulliva	N;INDF;MASC+FEM;SG	ADJ;GEN;SG
+garde	garde	gard	garde	N;INDF;MASC+FEM;SG	
+cherokee	cherokee	cherokee	cherokee		N;NOM;SG
+knyttede	solmittu	knytte	solmia	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;PASS
+unik	yksilölliset	unik	yksilöllinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+nevada	nevadan	nevada	nevata		N;GEN;SG
+professionelt	ammatti	professionelt	ammatti	ADJ;INDF;NEUT;SG	N;NOM;SG
+professionelt	ammattilainen	professionelt	ammattilainen	ADJ;INDF;NEUT;SG	N;NOM;SG
+professionelt	ammattimaisesti	professionelt	ammattimaisesti	ADJ;INDF;NEUT;SG	ADV
+sandt	true	sinde	true	ADJ;INDF;NEUT;SG	N;NOM;SG
+dækning	kattaa	dækning	kattaa	N;INDF;MASC+FEM;SG	V;IND;SG;3;PRS;FIN;ACT
+dækning	suojaa	dækning	suoja	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+tyler	tyler	tyle	tyler	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+lovet	lupasivat	love	luvata	V;INDF;SG;PST;V.PTCP	V;IND;PL;3;PST;FIN;ACT
+moralske	moraalinen	moralsk	moraalinen	ADJ;PL	ADJ;NOM;SG
+moralske	moraali	moralsk	moraali	ADJ;PL	N;NOM;SG
+moralske	moraalista	moralsk	moraali	ADJ;PL	ADJ;PRT;SG
+bohr	bohr	bohr	bohr		PROPN;NOM;SG
+antoine	antoine	antoin	antaa		N;NOM;SG
+gallien	gallialainen	gallien	gallialainen	PROPN	ADJ;NOM;SG
+mazda	mazda	mazda	mazta		N;NOM;SG
+jam	hilloa	jam	hiltoa		N;PRT;SG
+nathan	nathanin	nathan	natha		N;GEN;SG
+nathan	nathan	nathan	narha		PROPN;NOM;SG
+ulovligt	laittomat	ulovlig	laiton	ADJ;INDF;NEUT;SG	ADJ;NOM;PL
+virgin	neitsyen	virgin	neitsyä		V;INS;SG;NFIN;ACT
+virgin	neitsyt	virgin	neitsyä		N;NOM;SG
+panama	panama	panama	panama	PROPN	N;NOM;SG
+della	della	della	della		
+byder	tarjous	byde	tarjous	V;IND;PRS;FIN;ACT	N;NOM;SG
+byder	tarjoaminen	byde	tarjoaminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+byder	tarjoukset	byde	tarjous	V;IND;PRS;FIN;ACT	N;NOM;PL
+byder	tarjouksia	byde	tarjous	V;IND;PRS;FIN;ACT	N;PRT;PL
+appel	valitukset	appel	valitus	N;INDF;MASC+FEM;SG	N;NOM;PL
+australiens	australiaan	australie	australi	N;GEN;DEF;MASC+FEM;SG	N;IN+ALL;SG
+australiens	australia	australie	australia	N;GEN;DEF;MASC+FEM;SG	N;NOM;SG
+merlin	merlin	merlin	merli		N;NOM;SG
+skærm	valvo	skærm	valvo	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+skærm	valvoa	skærm	valvoa	N;INDF;MASC+FEM;SG	V;SG;NFIN;ACT
+evigt	ikuinen	evigt	ikuinen	N;INDF;NEUT;SG	ADJ;NOM;SG
+evigt	ikuista	evigt	iku	N;INDF;NEUT;SG	ADJ;PRT;SG
+evigt	ikuisen	evigt	ikuinen	N;INDF;NEUT;SG	ADJ;GEN;SG
+savnede	kaivannut	savne	kaivata	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+savnede	kadonnut	savne	kadota	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+savnede	kadoksissa	savne	kadoksissa	V;PL;PST;V.PTCP	ADV
+savnede	puuttuu	savne	puuttua	V;PL;PST;V.PTCP	V;IND;SG;3;PRS;FIN;ACT
+rumænske	romanian	rumænsk	romania	ADJ;PL	N;GEN;SG
+rumænske	romania	rumænsk	romania	ADJ;PL	N;NOM;SG
+animal	eläin	animal	eläin		N;NOM;SG
+animal	eläintä	animal	eläin		N;PRT;SG
+animal	eläimet	animal	eläin		N;NOM;PL
+animal	eläinten	animal	eläin		N;GEN;PL
+fortiden	mennyttä	fortid	mennyt	N;DEF;MASC+FEM;SG	ADJ;PRT;SG
+fortiden	menneet	fortid	mennä	N;DEF;MASC+FEM;SG	V;NOM;PL;V.PTCP;ACT
+fortiden	ohi	fortid	ohi	N;DEF;MASC+FEM;SG	ADV
+nutidige	nykyaikainen	nutidig	nykyaikainen	ADJ;PL	ADJ;NOM;SG
+hardcore	hardcore	hardcore	hardcore		N;NOM;SG
+modstanderen	vastustajat	modstander	vastustaja	N;DEF;MASC+FEM;SG	N;NOM;PL
+vildt	wild	vildt	wild	ADJ;INDF;NEUT;SG	
+vildt	peliä	vildt	peli	ADJ;INDF;NEUT;SG	N;PRT;SG
+vildt	pelin	vildt	peli	ADJ;INDF;NEUT;SG	N;GEN;SG
+vildt	peli	vildt	peli	ADJ;INDF;NEUT;SG	N;NOM;SG
+vildt	crazy	vildt	crazy	ADJ;INDF;NEUT;SG	
+indgreb	häiriöitä	indgreb	häiriö	N;INDF;NEUT;SG	N;PRT;PL
+indgreb	häiriöt	indgreb	häiriö	N;INDF;NEUT;SG	N;NOM;PL
+brænder	palaa	brænde	palata	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+brænder	polta	brænde	polta	V;IND;PRS;FIN;ACT	V;IMP;SG;2;FIN;ACT
+brænder	pala	brænde	pala	V;IND;PRS;FIN;ACT	N;NOM;SG
+brænder	poltetaan	brænde	polttaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+brænder	burns	brænde	burns	V;IND;PRS;FIN;ACT	PROPN;NOM;SG
+brænder	palovammoja	brænde	palo#vamma	V;IND;PRS;FIN;ACT	N;PRT;PL
+brænder	polttaminen	brænde	polttaminen	V;IND;PRS;FIN;ACT	N;NOM;SG
+brænder	poltetaan	brænde	polttaa	V;IND;PRS;FIN;ACT	V;IND;PRS;FIN;PASS
+konsekvent	johdonmukaisesti	konsekvent	johdon#mukaisesti	ADJ;INDF;NEUT;SG	ADV
+konsekvent	johdonmukaisesti	konsekvent	johdon#mukaisesti	ADJ;INDF;NEUT;SG	ADV
+reddede	pelastettiin	redde	pelastaa	V;IND;PST;FIN;ACT	V;IND;PST;FIN;PASS
+reddede	pelastettu	redde	pelastaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+reddede	tallennettu	redde	tallentaa	V;IND;PST;FIN;ACT	V;NOM;SG;V.PTCP;PASS
+reddede	tallennetut	redde	tallentaa	V;IND;PST;FIN;ACT	V;NOM;PL;V.PTCP;PASS
+glass	lasi	glass	lasi		N;NOM;SG
+glass	lasia	glass	lasi		N;PRT;SG
+glass	lasin	glass	lasi		N;GEN;SG
+glass	lasista	glass	lasi		N;IN+ABL;PL
+glass	lasinen	glass	lasinen		ADJ;NOM;SG
+sekundære	toissijainen	sekundær	toissijainen	ADJ;PL	ADJ;NOM;SG
+serbisk	serbia	serbisk	serbi	ADJ;INDF;SG	PROPN;NOM;SG
+serbisk	serbian	serbisk	serbia	ADJ;INDF;SG	N;GEN;SG
+zeus	zeus	zeus	zeus		N;NOM;SG
+zeus	zeuksen	zeus	zeus		N;GEN;SG
+blokeret	tukossa	blokere	tukossa	V;INDF;SG;PST;V.PTCP	N;IN+ESS;SG
+hoppe	hyppy	hoppe	hyppy	V;NFIN;ACT	N;NOM;SG
+hoppe	tamma	hoppe	tamma	V;NFIN;ACT	N;NOM;SG
+hoppe	hyppy	hoppe	hyppy	V;NFIN;ACT	N;NOM;SG
+nashville	nashville	nashville	nashville		
+rasende	raivoissaan	rasende	raivoissaan	ADJ	ADV
+rasende	raivostutti	rasende	raivostuttaa	ADJ	V;IND;SG;3;PST;FIN;ACT
+edwards	edwards	edwards	edwards		N;NOM;SG
+bær	marjoja	bære	marja	N;INDF;MASC+FEM;SG	N;PRT;PL
+bær	marjat	bære	marjat	N;INDF;MASC+FEM;SG	N;NOM;PL
+bær	marja	bære	marja	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+bær	berry	bære	berry	N;INDF;MASC+FEM;SG	PROPN;NOM;SG
+pagasts	seurakunta	pagasts	seura#kunta	ADJ;INDF;MASC+FEM;SG	N;NOM;SG
+omgivelserne	ympäristössä	omgivelse	ympäristö	N;DEF;MASC+FEM;PL	N;IN+ESS;SG
+blande	sekoitus	blande	sekoitus	V;NFIN;ACT	N;NOM;SG
+blande	sekoitetaan	blande	sekoittaa	V;NFIN;ACT	V;IND;PRS;FIN;PASS
+blande	sekoittaminen	blande	sekoittaminen	V;NFIN;ACT	N;NOM;SG
+redskab	varusteet	redskab	varuste	N;INDF;NEUT;SG	N;NOM;PL
+vellykket	menestys	vellykket	menestys	ADJ;INDF;SG	N;NOM;SG
+vellykket	onnistui	vellykket	onnistua	ADJ;INDF;SG	V;IND;SG;3;PST;FIN;ACT
+vellykket	menestynyt	vellykket	menestyä	ADJ;INDF;SG	V;NOM;SG;V.PTCP;ACT
+vellykket	onnistunut	vellykket	onnistua	ADJ;INDF;SG	V;NOM;SG;V.PTCP;ACT
+vellykket	onnistuneesti	vellykket	onnistuneesti	ADJ;INDF;SG	ADV
+vellykket	menestyksekkäästi	vellykket	menestyksekkäästi	ADJ;INDF;SG	ADV
+borte	mennyt	borte	mennä	ADV	V;NOM;SG;V.PTCP;ACT
+psykologisk	psykologinen	psykologisk	psykologinen	ADV	ADJ;NOM;SG
+stjålet	varastetut	stjæle	varastaa	V;INDF;SG;PST;V.PTCP	V;NOM;PL;V.PTCP;PASS
+variable	muuttujaa	variable	muuttuja	ADJ;PL	N;PRT;SG
+variable	vaihteleva	variable	vaihdella	ADJ;PL	V;NOM;SG;V.PTCP;ACT
+variable	muuttuja	variable	muuttuja	ADJ;PL	N;NOM;SG
+variable	muuttujan	variable	muuttuja	ADJ;PL	N;GEN;SG
+variable	muuttuva	variable	muuttua	ADJ;PL	V;NOM;SG;V.PTCP;ACT
+variable	muuttujat	variable	muuttuja	ADJ;PL	N;NOM;PL
+bekendtgørelse	huomaa	bekendtgørelse	huomata	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+gejstlige	papiston	gejstlig	papisto	ADJ;PL	N;GEN;SG
+flying	lentäminen	flying	lentäminen		N;NOM;SG
+flying	lentävä	flying	lentää		V;NOM;SG;V.PTCP;ACT
+flying	lentää	flying	lentää		V;IND;SG;3;PRS;FIN;ACT
+flying	lentävät	flying	lentää		V;IND;PL;3;PRS;FIN;ACT
+bradley	bradley	bradley	bradley		PROPN;NOM;SG
+woods	metsää	woods	metsä		N;PRT;SG
+woods	metsään	woods	metsä		N;IN+ALL;SG
+woods	metsä	woods	metsä		N;NOM;SG
+woods	woods	woods	woods		PROPN;NOM;SG
+woods	metsät	woods	metsä		N;NOM;PL
+indian	intialainen	indian	intialainen	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+ligheder	samankaltaisuus	lighed	samankaltaisuus	N;INDF;MASC+FEM;PL	N;NOM;SG
+toulouse	toulouse	toulous	toulous		N;NOM;SG
+fjern	poistaa	fjern	poistaa	V;IMP	V;IND;SG;PRS;FIN;ACT
+økologisk	ekologinen	økologisk	ekologinen	ADV	ADJ;NOM;SG
+økologisk	ekologiset	økologisk	ekologinen	ADV	ADJ;NOM;PL
+økologisk	orgaaninen	økologisk	orgaaninen	ADV	ADJ;NOM;SG
+økologisk	orgaanista	økologisk	orgaani	ADV	ADJ;PRT;SG
+økologisk	orgaaniset	økologisk	orgaaninen	ADV	ADJ;NOM;PL
+økologisk	luonnonmukainen	økologisk	luonnon#mukainen	ADV	ADJ;NOM;SG
+utrecht	utrecht	utrecht	utrecht	N;INDF;NEUT;SG	
+parentes	suluissa	parente	sulu	V;NFIN;PASS	N;IN+ESS;PL
+usædvanlige	epätavallinen	usædvanlig	epätavallinen	ADJ;PL	ADJ;NOM;SG
+usædvanlige	erikoinen	usædvanlig	erikoinen	ADJ;PL	ADJ;NOM;SG
+usædvanlige	epätavallista	usædvanlig	epä#tavallinen	ADJ;PL	ADJ;PRT;SG
+igor	igor	igor	igor		PROPN;NOM;SG
+kollektiv	kommuuni	kollektiv	kommu	ADJ;INDF;SG	N;NOM;SG
+kollektiv	kunta	kollektiv	kunta	ADJ;INDF;SG	N;NOM;SG
+egnede	sopivan	egne	sopia	V;PL;PST;V.PTCP	V;GEN;SG;V.PTCP;ACT
+egnede	sopivat	egne	sopiva	V;PL;PST;V.PTCP	ADJ;NOM;PL
+egnede	soveltuva	egne	soveltua	V;PL;PST;V.PTCP	V;NOM;SG;V.PTCP;ACT
+egnede	sopiva	egne	sopiva	V;PL;PST;V.PTCP	ADJ;NOM;SG
+zero	zero	zero	zero		
+zero	nolla	zero	nolla		N;NOM;SG
+bløde	pehmeää	blød	pehmeä	ADJ;PL	ADJ;PRT;SG
+bløde	pehmeä	blød	pehmeä	ADJ;PL	ADJ;NOM;SG
+giftige	myrkyllinen	giftig	myrkyllinen	ADJ;PL	ADJ;NOM;SG
+giftige	myrkyllistä	giftig	myrkyllinen	ADJ;PL	ADJ;PRT;SG
+giftige	myrkyllinen	giftig	myrkyllinen	ADJ;PL	ADJ;NOM;SG
+giftige	myrkyllistä	giftig	myrkyllinen	ADJ;PL	ADJ;PRT;SG
+værelser	makuuhuonetta	værelse	makuu#huone	N;INDF;MASC+FEM;PL	N;PRT;SG
+værelser	huonetta	værelse	huone	N;INDF;MASC+FEM;PL	N;PRT;SG
+stejle	jyrkkä	stejl	jyrkkä	ADJ;PL	ADJ;NOM;SG
+behold	säilytä	behold	säilyttää	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+behold	pidä	behold	pitää	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+sprint	sprint	sprinte	sprint		N;NOM;SG
+beregning	laskelmat	beregning	laskelma	N;INDF;MASC+FEM;SG	N;NOM;PL
+beregning	laskettaessa	beregning	laskea	N;INDF;MASC+FEM;SG	V;IN+ESS;NFIN;PASS
+roms	roomaa	roms	rooma	PROPN;GEN	N;PRT;SG
+roms	roomaan	roms	rooma	PROPN;GEN	N;IN+ALL;SG
+roms	rooman	roms	rooma	PROPN;GEN	N;GEN;SG
+roms	rooma	roms	rooma	PROPN;GEN	PROPN;NOM;SG
+monark	monarch	monark	monarch	N;INDF;MASC+FEM;SG	
+håret	hiukset	hår	hius	N;DEF;NEUT;SG	N;NOM;PL
+håret	hiuksia	hår	hius	N;DEF;NEUT;SG	N;PRT;PL
+specifik	erityiset	specifik	erityinen	ADJ;INDF;MASC+FEM;SG	ADJ;NOM;PL
+specifik	erityisiä	specifik	erityinen	ADJ;INDF;MASC+FEM;SG	ADJ;PRT;PL
+spektrum	taajuuksien	spektrum	taajuus	N;INDF;NEUT;SG	N;GEN;PL
+kenny	kenny	kenny	kennä		N;NOM;SG
+pleje	huolehtiva	pleje	huolehtia	N;INDF;MASC+FEM;SG	ADJ;NOM;SG
+pleje	välitä	pleje	välittää	N;INDF;MASC+FEM;SG	V;IMP;SG;2;FIN;ACT
+carbon	hiilen	carbon	hiili		N;GEN;SG
+carbon	hiili	carbon	hiili		N;NOM;SG
+carbon	hiiltä	carbon	hiiltää		N;PRT;SG
+velkendt	tutut	velkendt	tuttu	ADJ;INDF;SG	ADJ;NOM;PL
+velkendt	tuttuja	velkendt	tuttu	ADJ;INDF;SG	N;PRT;PL
+segl	sinetit	segl	sinett	N;INDF;NEUT;SG	N;NOM;PL
+lover	lupauksia	love	lupaus	V;IND;PRS;FIN;ACT	N;PRT;PL
+lover	lupaukset	love	lupaus	V;IND;PRS;FIN;ACT	N;NOM;PL
+lover	lupaus	love	lupaus	V;IND;PRS;FIN;ACT	N;NOM;SG
+lover	lupaa	love	lupa	V;IND;PRS;FIN;ACT	N;PRT;SG
+lover	lupaava	love	lupaava	V;IND;PRS;FIN;ACT	ADJ;NOM;SG
+rover	rover	rove	rover	N;INDF;MASC+FEM;SG	

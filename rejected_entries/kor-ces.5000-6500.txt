@@ -1,0 +1,2259 @@
+스티븐스	steven	스티븐스	stevnout	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+스티븐스	stevens	스티븐스	stevens	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+바꾸기	přepínač	바꾸+기	přepínač	V	N;INAN;NOM;MASC;SG;POS
+바꾸기	výměna	바꾸+기	výměna	V	N;NOM;FEM;SG;POS
+바꾸기	změna	바꾸+기	změna	V	N;NOM;FEM;SG;POS
+바꾸기	změny	바꾸+기	změna	V	N;NOM;FEM;PL;POS
+카운트다운	odpočítávání	카운트+답+ㄴ	odpočítávání		N;NOM;NEUT;SG;POS
+카운트다운	odpočet	카운트+답+ㄴ	odpočet		N;INAN;NOM;MASC;SG;POS
+분홍색	pink	분홍색	pink		ADJ;POS
+분홍색	růžový	분홍색	růžový		ADJ;INAN;NOM;MASC;SG;POS
+분홍색	růžová	분홍색	růžový		ADJ;NOM;FEM;SG;POS
+분홍색	růžové	분홍색	růžový		ADJ;NOM;NEUT;SG;POS
+요리사	cook	요리사	cook		PROPN;ANIM;NOM;MASC;SG;POS
+요리사	vařit	요리사	vařit		V;IPFV;POS;NFIN
+요리사	kuchař	요리사	kuchař		N;ANIM;NOM;MASC;SG;POS
+요리사	kuchařka	요리사	kuchařka		N;NOM;FEM;SG;POS
+요리사	šéfkuchař	요리사	šéfkuchař		N;ANIM;NOM;MASC;SG;POS
+요리사	kuchař	요리사	kuchař		N;ANIM;NOM;MASC;SG;POS
+할당된	přiděleno	할당+되+ㄴ	přidělený	V	ADJ;NEUT;SG;POS;V.PTCP;PASS
+할당된	přidělená	할당+되+ㄴ	přidělený	V	ADJ;NOM;FEM;SG;POS
+할당된	přidělen	할당+되+ㄴ	přidělený	V	ADJ;MASC;SG;POS;V.PTCP;PASS
+할당된	přidělený	할당+되+ㄴ	přidělený	V	ADJ;INAN;NOM;MASC;SG;POS
+할당된	přidělené	할당+되+ㄴ	přidělený	V	ADJ;NOM;NEUT;SG;POS
+말하기	mluvení	말하+기	mluvení	V	N;NOM;NEUT;SG;POS
+헤더	záhlaví	헤더	záhlaví		N;NOM;NEUT;SG;POS
+헤더	hlavičku	헤더	hlavička		N;ACC;FEM;SG;POS
+헤더	hlavička	헤더	hlavička		N;NOM;FEM;SG;POS
+헤더	heather	헤더	heather		PROPN;NOM;FEM;SG;POS
+헤더	záhlaví	헤더	záhlaví		N;NOM;NEUT;SG;POS
+헤더	hlavičky	헤더	hlavička		N;NOM;FEM;PL;POS
+십자	křížem	십자	kříž		N;INAN;INS;MASC;SG;POS
+십자	křížek	십자	křížek		N;INAN;NOM;MASC;SG;POS
+십자	kříž	십자	kříž		N;INAN;NOM;MASC;SG;POS
+십자	přejít	십자	přejít		V;POS;NFIN
+십자	cross	십자	cross		PROPN;INAN;NOM;MASC;SG;POS
+레일	železniční	레일	železniční	N	ADJ;NOM;FEM;SG;POS
+카스트로	castro	카스트+로	castro		PROPN;ANIM;NOM;MASC;SG;POS
+라이스	rýži	라이스	rýže		N;ACC;FEM;SG;POS
+라이스	rýže	라이스	rýže		N;NOM;FEM;SG;POS
+사춘기	dospívající	사춘기	dospívající		ADJ;ANIM;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+사춘기	pubertální	사춘기	pubertální		ADJ;NOM;MASC;SG;POS
+사춘기	puberty	사춘기	pubert		N;NOM;FEM;PL;POS
+사춘기	dospívání	사춘기	dospívání		N;NOM;NEUT;SG;POS
+베넷	bennett	베넷	bennett		PROPN;ANIM;NOM;MASC;SG;POS
+후드	hood	후드	hood		PROPN;ANIM;NOM;MASC;SG;POS
+페인	payne	페인	paynout		PROPN;ANIM;NOM;MASC;SG;POS
+페인	paine	페인	paine		PROPN;ANIM;NOM;MASC;SG;POS
+요셉	joseph	요셉	joseph		PROPN;ANIM;NOM;MASC;SG;POS
+요셉	josef	요셉	josef		PROPN;ANIM;NOM;MASC;SG;POS
+프론티어	hranice	프론티어	hranice		N;NOM;FEM;SG;POS
+디아블로	diablo	디아블+로	diablo	ADV	N;NOM;NEUT;SG;POS
+불안	nejistý	불안	jistý	N	ADJ;INAN;NOM;MASC;SG;NEG
+불안	nejistá	불안	jistý	N	ADJ;NOM;FEM;SG;NEG
+불안	nespolehlivé	불안	spolehlivý	N	ADJ;NOM;NEUT;SG;NEG
+퀸즈	královny	퀸즈	královna		N;NOM;FEM;PL;POS
+퀸즈	queensu	퀸즈	Ťueensus		N;INAN;GEN;MASC;SG;POS
+퀸즈	queens	퀸즈	queens		PROPN;INAN;NOM;MASC;SG;POS
+터미네이터	terminátor	터미레이터	terminátor		N;INAN;NOM;MASC;SG;POS
+일렉트로니카	electronica	일렉트로니카	electronica		N;NOM;FEM;SG;POS
+인문학	humanitních	인문학	humanitní	N	ADJ;GEN;MASC;PL;POS
+채소	zeleninové	채소	zeleninový	N	ADJ;NOM;MASC;SG;POS
+스트라스부르	štrasburku	스트라스부르	štrasburk	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+키르기스스탄	kyrgyzstánu	키르기스스탄	kyrgyzstán	PROPN	N;INAN;GEN;MASC;SG;POS
+무라타	murata	무라타	murata		N;ANIM;NOM;MASC;SG;POS
+이끼	moss	이끼	moss	N	PROPN;ANIM;NOM;MASC;SG;POS
+바트	bart	바트	barta		PROPN;ANIM;NOM;MASC;SG;POS
+시리우스	sirius	시리우스	sirius	PROPN	N;ANIM;NOM;MASC;SG;POS
+킹스턴	kingston	킹스턴	kingston		N;INAN;NOM;MASC;SG;POS
+협조	spolupracovat	협조	spolupracovat	N	V;IPFV;POS;NFIN
+부활절	velikonoční	부활절	velikonoční	N	ADJ;NOM;MASC;SG;POS
+랄프	ralpha	랄프	ralpha		N;ANIM;ACC;MASC;SG;POS
+랄프	ralph	랄프	ralph		PROPN;ANIM;NOM;MASC;SG;POS
+클릭	klikněte	클릭	kliknout	N	V;PFV;IMP;PL;2;POS;FIN
+하디	hardy	하디	hard		PROPN;ANIM;NOM;MASC;SG;POS
+직물	textilní	직물	textilní	N	ADJ;NOM;MASC;SG;POS
+직물	textilních	직물	textilní	N	ADJ;GEN;MASC;PL;POS
+파스타	těstoviny	파스타	těstovina		N;NOM;FEM;PL;POS
+다스	darth	다스	darth		N;ANIM;NOM;MASC;SG;POS
+북서	northwestern	북서	northwestern		N;INAN;NOM;MASC;SG;POS
+북서	severozápadní	북서	severozápadní		ADJ;NOM;MASC;SG;POS
+북서	severozápadním	북서	severozápadní		ADJ;INS;MASC;SG;POS
+북서	severozápadní	북서	severozápadní		ADJ;NOM;MASC;SG;POS
+페르시아어	perské	페르시아어	perský	PROPN	ADJ;NOM;NEUT;SG;POS
+노르딕	severské	노르딕	severský		ADJ;NOM;NEUT;SG;POS
+매리너스	námořníci	매리너스	námořník		N;ANIM;NOM;MASC;PL;POS
+매리너스	mariners	매리너스	mariners		N;INAN;NOM;MASC;SG;POS
+플랜	plánovat	플랜	plánovat		V;IPFV;POS;NFIN
+플랜	naplánovat	플랜	naplánovat		V;PFV;POS;NFIN
+플랜	plán	플랜	plán		N;INAN;NOM;MASC;SG;POS
+플랜	plánů	플랜	plán		N;INAN;GEN;MASC;PL;POS
+플랜	plány	플랜	plán		N;INAN;NOM;MASC;PL;POS
+의미있는	smysluplné	의미있+는	smysluplný		ADJ;NOM;NEUT;SG;POS
+신용	úvěrové	신용	úvěrový	N	ADJ;NOM;NEUT;SG;POS
+신용	kreditní	신용	kreditní	N	ADJ;NOM;MASC;SG;POS
+미아	mia	미+아	miu		PROPN;NOM;FEM;SG;POS
+미아	miu	미+아	miue		PROPN;FEM;SG;POS
+미아	mio	미+아	mio		N;NOM;MASC;SG;POS
+야채	zeleninové	야채	zeleninový	N	ADJ;NOM;MASC;SG;POS
+적분	nedílnou	적분	nedílný	N	ADJ;INS;FEM;SG;POS
+삼각주	delta	삼각주	delta	PROPN	N;NOM;FEM;SG;POS
+사각형	náměstí	사각형	náměstí		N;NOM;NEUT;SG;POS
+사각형	čtverec	사각형	čtverec		N;INAN;NOM;MASC;SG;POS
+사각형	čtyřúhelník	사각형	čtyřúhelník		N;INAN;NOM;MASC;SG;POS
+사각형	obdélník	사각형	obdélník		N;INAN;NOM;MASC;SG;POS
+사각형	obdélníkové	사각형	obdélníkový		ADJ;NOM;MASC;PL;POS
+청소	čisté	청소	čistý	N	ADJ;NOM;NEUT;SG;POS
+청소	vyčistit	청소	vyčistit	N	V;PFV;POS;NFIN
+청소	čistý	청소	čistý	N	ADJ;INAN;NOM;MASC;SG;POS
+청소	čistá	청소	čistý	N	ADJ;NOM;FEM;SG;POS
+거기	tam	거기	tam		ADV
+중등	sekundární	중등	sekundární	N	ADJ;NOM;MASC;SG;POS
+베이시스트	basista	베이시스트	basista	PROPN	N;ANIM;NOM;MASC;SG;POS
+캐롤	carol	캐롤	carol		PROPN;NOM;FEM;SG;POS
+캐롤	carroll	캐롤	carroll		PROPN;ANIM;NOM;MASC;SG;POS
+캐롤	carole	캐롤	carole		PROPN;FEM;POS
+엘리	ellie	엘리	ellie		PROPN;FEM;SG;POS
+엘리	eli	엘리	eli		PROPN;ANIM;NOM;MASC;SG;POS
+부채	dluhy	부채	dluh		N;INAN;NOM;MASC;PL;POS
+부채	pasiva	부채	pasivo		N;NOM;NEUT;PL;POS
+부채	závazky	부채	závazek		N;INAN;NOM;MASC;PL;POS
+부채	dluhy	부채	dluh		N;INAN;NOM;MASC;PL;POS
+부채	dluh	부채	dluh		N;INAN;NOM;MASC;SG;POS
+부채	zadlužení	부채	zadlužení		N;NOM;NEUT;SG;POS
+체리	cherry	체리	cherry		N;NEUT;POS
+체리	třešně	체리	třešně		N;NOM;FEM;PL;POS
+체리	třešeň	체리	třešeň		N;NOM;FEM;SG;POS
+체리	třešně	체리	třešně		N;NOM;FEM;PL;POS
+퍼텐셜	potenciální	퍼텐셜	potenciální	N	ADJ;NOM;MASC;SG;POS
+생각하기	mysli	생각+하+기	mysl	V	N;DAT;FEM;SG;POS
+버섯	houby	버섯	houba		N;NOM;FEM;PL;POS
+버섯	houby	버섯	houba		N;NOM;FEM;PL;POS
+버섯	houba	버섯	houba		N;NOM;FEM;SG;POS
+파이팅	boj	파이팅	boj		N;INAN;NOM;MASC;SG;POS
+파이팅	boje	파이팅	boj		N;INAN;NOM;MASC;PL;POS
+튀니스	tunisu	튀니스	tunis	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+매력	okouzlující	매력	okouzlující	N	ADJ;NOM;MASC;SG;POS
+태양광	sluneční	태양광	sluneční	N	ADJ;NOM;FEM;SG;POS
+태양광	solární	태양광	solární	N	ADJ;NOM;MASC;SG;POS
+선진	rozvinutých	선진	rozvinutý		ADJ;GEN;MASC;PL;POS
+선진	rozvinuté	선진	rozvinutý		ADJ;NOM;NEUT;SG;POS
+선진	vyvinutá	선진	vyvinutý		ADJ;NOM;FEM;SG;POS
+선진	vyvinut	선진	vyvinutý		ADJ;MASC;SG;POS;V.PTCP;PASS
+선진	vyvinuté	선진	vyvinutý		ADJ;NOM;NEUT;PL;POS
+선진	vyvinutý	선진	vyvinutý		ADJ;INAN;NOM;MASC;SG;POS
+타카기	takagi	타카기	takagi		N;NOM;MASC;SG;POS
+조건부	podmíněné	조건부	podmíněný		ADJ;NOM;NEUT;SG;POS
+조건부	podmínečné	조건부	podmínečný		ADJ;NOM;NEUT;SG;POS
+메세지	zpráva	메세지	zpráva		N;NOM;FEM;SG;POS
+메세지	poselství	메세지	poselství		N;NOM;NEUT;SG;POS
+메세지	zprávu	메세지	zpráva		N;ACC;FEM;SG;POS
+메세지	vzkaz	메세지	vzkaz		N;INAN;NOM;MASC;SG;POS
+아우디	audi	아우디	Audi	N	PROPN;FEM;POS
+비엔나	vídni	비엔나	vídeň	PROPN	PROPN;DAT;FEM;SG;POS
+비엔나	vídeň	비엔나	vídeň	PROPN	PROPN;NOM;FEM;SG;POS
+예의	zdvořilé	예의	zdvořilý	N	ADJ;NOM;NEUT;SG;POS
+예의	slušný	예의	slušný	N	ADJ;INAN;NOM;MASC;SG;POS
+예의	zdvořilý	예의	zdvořilý	N	ADJ;ANIM;NOM;MASC;SG;POS
+예의	slušné	예의	slušný	N	ADJ;NOM;NEUT;SG;POS
+예의	zdvořilé	예의	zdvořilý	N	ADJ;NOM;NEUT;SG;POS
+노리치	norwich	노리치	norwich	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+받았습니다	přijata	받+았+습니다	přijatý	V	ADJ;POS;V.PTCP;PASS
+받았습니다	přijaté	받+았+습니다	přijatý	V	ADJ;NOM;NEUT;PL;POS
+받았습니다	obdržené	받+았+습니다	obdržený	V	ADJ;NOM;MASC;PL;POS
+블라디보스토크	vladivostoku	블라디보스토크	vladivostok	PROPN	N;INAN;GEN;MASC;SG;POS
+켈트	keltské	켈트	keltský	N	ADJ;NOM;NEUT;PL;POS
+생태	ekologické	생태	ekologický	N	ADJ;NOM;MASC;SG;POS
+생태	ekologický	생태	ekologický	N	ADJ;INAN;NOM;MASC;SG;POS
+생태	ekologická	생태	ekologický	N	ADJ;NOM;FEM;SG;POS
+증언	dosvědčit	증언	dosvědčit	N	V;PFV;POS;NFIN
+증언	svědčit	증언	svědčit	N	V;IPFV;POS;NFIN
+트루먼	truman	트루+어	truman		PROPN;ANIM;NOM;MASC;SG;POS
+모하마드	mohammad	모하마드	mohammad	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+오마르	omar	오마르	omar	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+오마르	omara	오마르	omara	PROPN	PROPN;ANIM;GEN;MASC;SG;POS
+일반인	obecně	일반+이+ㄴ	obecně		ADV;POS
+일반인	všeobecné	일반+이+ㄴ	všeobecný		ADJ;NOM;MASC;SG;POS
+일반인	obecné	일반+이+ㄴ	obecný		ADJ;NOM;MASC;SG;POS
+싱어	zpěvačka	싱어	zpěvačka		N;NOM;FEM;SG;POS
+싱어	zpěvák	싱어	zpěvák		N;ANIM;NOM;MASC;SG;POS
+바바	baba	바바	baba		N;NOM;FEM;SG;POS
+관세	celní	관세	celní	N	ADJ;NOM;MASC;SG;POS
+벨파스트	belfastu	벨파스트	belfast	PROPN	N;INAN;GEN;MASC;SG;POS
+잔혹한	krutý	잔혹+하+ㄴ	krutý	V	ADJ;INAN;NOM;MASC;SG;POS
+잔혹한	krutá	잔혹+하+ㄴ	krutý	V	ADJ;NOM;FEM;SG;POS
+잔혹한	kruté	잔혹+하+ㄴ	krutý	V	ADJ;NOM;NEUT;SG;POS
+얼라이언스	spojenectví	얼라이언스	spojenectví		N;NOM;NEUT;SG;POS
+얼라이언스	aliance	얼라이언스	aliance		N;NOM;FEM;SG;POS
+하이드	hyde	하이드	hyde		PROPN;ANIM;NOM;MASC;SG;POS
+벨라	bello	벨라	bello		PROPN;ANIM;NOM;MASC;SG;POS
+벨라	bella	벨라	bello		N;NOM;FEM;SG;POS
+인사이드	dovnitř	인사이드	dovnitř		ADV
+인사이드	uvnitř	인사이드	uvnitř		ADV
+인사이드	vevnitř	인사이드	vevnitř		V;IPFV;POS;NFIN
+네번째	čtvrtý	네+번+째	čtvrtý	N	ADJ;ANIM;NOM;MASC;SG
+네번째	čtvrté	네+번+째	čtvrtý	N	ADJ;NOM;MASC;SG
+네번째	čtvrtá	네+번+째	čtvrtý	N	ADJ;NOM;FEM;SG
+제네시스	genesis	제네시스	genesis		N;INAN;NOM;MASC;SG;POS
+브릿	brit	브릿	brit	PROPN	N;ANIM;NOM;MASC;SG;POS
+잉글리시	česky	잉글리시	česky		ADV;POS
+잉글리시	anglické	잉글리시	anglický		ADJ;NOM;NEUT;SG;POS
+잉글리시	angličtina	잉글리시	angličtina		N;NOM;FEM;SG;POS
+잉글리시	anglicky	잉글리시	anglicky		ADV;POS
+냉각	chladící	냉각	chladící	N	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+냉각	chladicí	냉각	chladicí	N	ADJ;NOM;MASC;SG;POS
+포클랜드	falklandských	포클랜드	falklandský	PROPN	ADJ;GEN;MASC;PL;POS
+차단되었습니다	zablokovaný	차단+되+었+습니다	zablokovaný	V	ADJ;INAN;NOM;MASC;SG;POS
+차단되었습니다	zablokované	차단+되+었+습니다	zablokovaný	V	ADJ;NOM;NEUT;SG;POS
+차단되었습니다	zablokovaná	차단+되+었+습니다	zablokovaný	V	ADJ;NOM;FEM;SG;POS
+새크라멘토	sacramentu	새크라멘토	sacrament	PROPN	N;INAN;GEN;MASC;SG;POS
+콴타스	qantas	콴타스	qantas	N	PROPN;MASC;POS
+힉스	hicks	힉스	hicks	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+힉스	higgs	힉스	higgs	PROPN	PROPN;NOM;MASC;SG;POS
+깨진	rozbité	깨+어+지+ㄴ	rozbitý	V	ADJ;NOM;NEUT;SG;POS
+깨진	zlomený	깨+어+지+ㄴ	zlomený	V	ADJ;INAN;NOM;MASC;SG;POS
+깨진	rozbitý	깨+어+지+ㄴ	rozbitý	V	ADJ;INAN;NOM;MASC;SG;POS
+깨진	zlomená	깨+어+지+ㄴ	zlomený	V	ADJ;NOM;FEM;SG;POS
+깨진	zlomené	깨+어+지+ㄴ	zlomený	V	ADJ;NOM;NEUT;SG;POS
+풀기	výtažek	풀+기	výtažek	V	N;INAN;NOM;MASC;SG;POS
+풀기	extract	풀+기	extract	V	N;INAN;NOM;MASC;SG;POS
+풀기	extrakt	풀+기	extrakt	V	N;INAN;NOM;MASC;SG;POS
+딜런	dillon	디런	dillon		PROPN;ANIM;NOM;MASC;SG;POS
+딜런	dylan	디런	dylan		N;ANIM;NOM;MASC;SG;POS
+딜런	dylana	디런	dylan		N;ANIM;ACC;MASC;SG;POS
+선샤인	sluníčko	선샤인	sluníčko		N;NOM;NEUT;SG;POS
+선샤인	sluníčka	선샤인	sluníčko		N;NOM;NEUT;PL;POS
+폴란드어	polák	폴란드어	polák		PROPN;ANIM;NOM;MASC;SG;POS
+폴란드어	polský	폴란드어	polský		ADJ;INAN;NOM;MASC;SG;POS
+폴란드어	polská	폴란드어	polský		ADJ;NOM;FEM;SG;POS
+폴란드어	polské	폴란드어	polský		ADJ;NOM;MASC;PL;POS
+체류	přebývá	체류	přebývat	N	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+보내기	odeslání	보내+기	odeslání	V	N;NOM;NEUT;SG;POS
+보내기	odesílání	보내+기	odesílání	V	N;NOM;NEUT;SG;POS
+보내기	zaslání	보내+기	zaslání	V	N;NOM;NEUT;SG;POS
+위조	zfalšoval	위조	zfalšovat	N	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+위조	padělané	위조	padělaný	N	ADJ;NOM;MASC;PL;POS
+마사시	masaši	마사시	masaš		PROPN;ANIM;NOM;MASC;SG;POS
+모가미	mogami	모가미	moci	PROPN	N;NOM;FEM;SG;POS
+고추	chilli	고추	chilli		N;NOM;FEM;SG;POS
+고추	pepř	고추	pepříklad		N;INAN;NOM;MASC;SG;POS
+고추	pepper	고추	pepper		PROPN;ANIM;NOM;MASC;SG;POS
+고추	chilli	고추	chilli		N;NOM;FEM;SG;POS
+고추	chili	고추	chile		PROPN;NOM;MASC;SG;POS
+오리엔트	orient	오리엔트	orient		N;INAN;NOM;MASC;SG;POS
+아나톨리아	anatolii	아나톨리아	anatolie	PROPN	N;ACC;FEM;SG;POS
+스탠더드	norma	스탠더드	norma		N;NOM;FEM;SG;POS
+스탠더드	standardní	스탠더드	standardní		ADJ;NOM;MASC;SG;POS
+스탠더드	standard	스탠더드	standard		N;INAN;NOM;MASC;SG;POS
+스토어	prodejny	스토어	prodejna		N;NOM;FEM;PL;POS
+스토어	obchody	스토어	obchod		N;INAN;NOM;MASC;PL;POS
+스토어	obchod	스토어	obchod		N;INAN;NOM;MASC;SG;POS
+스토어	obchodu	스토어	obchod		N;INAN;GEN;MASC;SG;POS
+포트리스	pevnost	포트리스	pevnost	PROPN	N;NOM;FEM;SG;POS
+포트리스	pevnosti	포트리스	pevnost	PROPN	N;NOM;FEM;SG;POS
+탐험	prozkoumat	탐험	prozkoumat	N	V;PFV;POS;NFIN
+대처	thatcherová	대처	thatcherová		ADJ;NOM;FEM;SG;POS
+덕이	doug	덕+이	doug		PROPN;ANIM;NOM;MASC;SG;POS
+클라리넷	klarinet	클라리넷	klarinet		N;INAN;NOM;MASC;SG;POS
+제레미	jeremy	제레미	jerem		PROPN;ANIM;NOM;MASC;SG;POS
+제레미	jeremyho	제레미	jeremy		N;ANIM;ACC;MASC;SG;POS
+강아지	štěňata	강아지	štěně		N;NOM;NEUT;PL;POS
+강아지	štěně	강아지	štěna		N;ANIM;NOM;FEM;PL;POS
+버터	másla	버터	máslo		N;NOM;NEUT;PL;POS
+버터	máslo	버터	máslo		N;NOM;NEUT;SG;POS
+버터	máslem	버터	máslo		N;INS;NEUT;SG;POS
+캐피탈	kapitolu	캐피탈	kapitola		N;ACC;FEM;SG;POS
+캐피탈	kapitol	캐피탈	kapitola		N;GEN;FEM;PL;POS
+캐피탈	kapitál	캐피탈	kapitál		N;INAN;NOM;MASC;SG;POS
+제곱	náměstí	제곱	náměstí		N;NOM;NEUT;SG;POS
+제곱	čtverec	제곱	čtverec		N;INAN;NOM;MASC;SG;POS
+마트	mart	마트	mart		PROPN;ANIM;NOM;MASC;SG;POS
+마트	martu	마트	mart		N;ACC;FEM;SG;POS
+면책	imunita	면책	imunita		N;NOM;FEM;SG;POS
+면책	imunitu	면책	imunita		N;ACC;FEM;SG;POS
+앨리슨	allison	앨리슨	allison		PROPN;ANIM;NOM;MASC;SG;POS
+앨리슨	alison	앨리슨	alison		PROPN;NOM;FEM;SG;POS
+쇼팽	chopina	쇼팽	chopina	PROPN	N;NOM;FEM;SG;POS
+애너하임	anaheimu	애너하+이+ㄹ	anaheima	PROPN	N;INAN;DAT;MASC;SG;POS
+자동화	automatizované	자동화	automatizovaný	N	ADJ;NOM;NEUT;SG;POS
+자동화	automatický	자동화	automatický	N	ADJ;INAN;NOM;MASC;SG;POS
+나카이	nakai	나카이	nakai		PROPN;NOM;MASC;SG;POS
+매력적인	okouzlující	매력+적+이+ㄴ	okouzlující	V	ADJ;NOM;MASC;SG;POS
+샤프	ostrý	샤프	ostrý		ADJ;INAN;NOM;MASC;SG;POS
+샤프	ostře	샤프	ostře		ADV;POS
+샤프	ostré	샤프	ostrý		ADJ;NOM;NEUT;SG;POS
+샤프	ostrá	샤프	ostrý		ADJ;NOM;FEM;SG;POS
+채워	vyplnit	채우+어	vyplnit		V;PFV;POS;NFIN
+채워	naplnit	채우+어	naplnit		V;PFV;POS;NFIN
+마나	mana	말+나	mana		N;INAN;NOM;MASC;SG;POS
+폴로	polo	폴+로	Polo		PROPN;NOM;NEUT;SG;POS
+포츠머스	portsmouthu	포츠머스	portsmouthus	PROPN	N;INAN;GEN;MASC;SG;POS
+기차	vlakem	기차	vlak		N;INAN;INS;MASC;SG;POS
+기차	vláček	기차	vláček		N;INAN;NOM;MASC;SG;POS
+기차	vlak	기차	vlak		N;INAN;NOM;MASC;SG;POS
+기차	vlaku	기차	vlak		N;INAN;GEN;MASC;SG;POS
+기차	vlaky	기차	vlak		N;INAN;NOM;MASC;PL;POS
+기차	vlaků	기차	vlak		N;INAN;GEN;MASC;PL;POS
+이오니아	jónské	이오니아	jónský	PROPN	ADJ;NOM;MASC;PL;POS
+발명	vymyslet	발명	vymyslet	N	V;POS;NFIN
+발명	vymyšlená	발명	vymyšlený	N	ADJ;NOM;FEM;SG;POS
+발명	vynalezl	발명	vynaleznout	N	V;MASC;SG;POS;PST;V.PTCP;ACT
+발명	smyšlený	발명	smyšlený	N	ADJ;INAN;NOM;MASC;SG;POS
+발명	vymyšlený	발명	vymyšlený	N	ADJ;INAN;NOM;MASC;SG;POS
+조지타운	georgetownu	조지럽+ㄴ	georgetowna		N;ACC;FEM;SG;POS
+버퍼	nárazníkové	버퍼	nárazník	N	ADJ;NOM;NEUT;SG;POS
+모니카	monika	모니카	monika		N;NOM;FEM;SG;POS
+모니카	monica	모니카	monica		PROPN;NOM;FEM;SG;POS
+클라인	klein	클라인	klein		PROPN;ANIM;NOM;MASC;SG;POS
+평화로운	mírové	평화+롭+ㄴ	mírový		ADJ;NOM;MASC;PL;POS
+평화로운	klidné	평화+롭+ㄴ	klidný		ADJ;NOM;NEUT;SG;POS
+끝없는	nekonečné	끝없+는	konečný		ADJ;NOM;NEUT;SG;NEG
+끝없는	nekonečný	끝없+는	konečný		ADJ;INAN;NOM;MASC;SG;NEG
+끝없는	nekonečná	끝없+는	konečný		ADJ;NOM;FEM;SG;NEG
+더러운	ošklivé	더럽+ㄴ	ošklivý		ADJ;NOM;NEUT;SG;POS
+더러운	špinavý	더럽+ㄴ	špinavý		ADJ;INAN;NOM;MASC;SG;POS
+더러운	špinavý	더럽+ㄴ	špinavý		ADJ;INAN;NOM;MASC;SG;POS
+더러운	špinavé	더럽+ㄴ	špinavý		ADJ;NOM;NEUT;SG;POS
+더러운	špinavá	더럽+ㄴ	špinavý		ADJ;NOM;FEM;SG;POS
+스프링필드	springfieldu	스프링필드	springfielda	PROPN	N;INAN;DAT;MASC;SG;POS
+바흐	bach	바흐	být	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+트라이앵글	trojúhelník	트라이앵글	trojúhelník		N;INAN;NOM;MASC;SG;POS
+선포	vyhlášen	선포	vyhlášený	N	ADJ;MASC;SG;POS;V.PTCP;PASS
+선포	prohlásil	선포	prohlásit	N	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+선포	vyhlásit	선포	vyhlásit	N	V;PFV;POS;NFIN
+선포	prohlásit	선포	prohlásit	N	V;PFV;POS;NFIN
+바벨	babel	바벨	babel		PROPN;ANIM;NOM;MASC;SG;POS
+타지키스탄	tádžické	타지키스탄	tádžický	PROPN	ADJ;NOM;NEUT;SG;POS
+타지키스탄	tádžikistán	타지키스탄	tádžikistán	PROPN	N;INAN;NOM;MASC;SG;POS
+스웨덴어	švédský	스웨덴어	švédský		ADJ;ANIM;NOM;MASC;SG;POS
+스웨덴어	švédská	스웨덴어	švédský		ADJ;NOM;FEM;SG;POS
+스웨덴어	švédské	스웨덴어	švédský		ADJ;NOM;MASC;PL;POS
+잠비아	zambie	잠비아	zambie	PROPN	PROPN;NOM;FEM;SG;POS
+길거리	ulice	길거리	ulice		N;NOM;FEM;SG;POS
+길거리	ulice	길거리	ulice		N;NOM;FEM;SG;POS
+길거리	ulic	길거리	ulice		N;GEN;FEM;PL;POS
+글로리아	glorie	글로리아	glorie		N;NOM;FEM;SG;POS
+글로리아	glorii	글로리아	glorie		N;ACC;FEM;SG;POS
+글로리아	gloria	글로리아	gloria		N;NOM;FEM;SG;POS
+흡혈귀	upíří	흡혈귀	upířit	N	ADJ;NOM;MASC;SG;POS
+무엇이든	cokoliv	무엇+이든	cokoliv		PRO;NOM
+무엇이든	cokoliv	무엇+이든	cokoliv		PRO;NOM
+무엇이든	cokoli	무엇+이든	cokoliv		PRO;NOM
+레이아웃	rozvržení	레이아웃	rozvržení		N;NOM;NEUT;SG;POS
+레이아웃	rozvržení	레이아웃	rozvržení		N;NOM;NEUT;SG;POS
+레이아웃	uspořádání	레이아웃	uspořádání		N;NOM;NEUT;SG;POS
+레이아웃	rozložení	레이아웃	rozložení		N;NOM;NEUT;SG;POS
+스케치	načrtl	스케치	načrtnout	N	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+자극	stimulující	자극	stimulující	N	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+갑옷	brnění	갑옷	brnění		N;NOM;NEUT;SG;POS
+갑옷	zbroj	갑옷	zbroj		N;NOM;FEM;SG;POS
+갑옷	brnění	갑옷	brnění		N;NOM;NEUT;SG;POS
+갑옷	zbroj	갑옷	zbroj		N;NOM;FEM;SG;POS
+평행	souběžné	평행	souběžný	N	ADJ;NOM;NEUT;SG;POS
+평행	souběžně	평행	souběžně	N	ADV;POS
+평행	paralelní	평행	paralelní	N	ADJ;NOM;MASC;SG;POS
+미드웨이	midway	미드웨이	midway		PROPN;FEM;POS
+슈트	oblek	슈트	oblek		N;INAN;NOM;MASC;SG;POS
+현명한	moudrý	현명+하+ㄴ	moudrý	V	ADJ;ANIM;NOM;MASC;SG;POS
+현명한	moudrá	현명+하+ㄴ	moudrý	V	ADJ;NOM;FEM;SG;POS
+현명한	moudré	현명+하+ㄴ	moudrý	V	ADJ;NOM;NEUT;SG;POS
+시온	zion	시온	zion		PROPN;INAN;NOM;MASC;SG;POS
+아스타나	astana	아스타+나	astana	PROPN	PROPN;NOM;FEM;SG;POS
+수잔	zuzana	수잔	zuzan		PROPN;NOM;FEM;SG;POS
+수잔	susan	수잔	susan		N;NOM;FEM;SG;POS
+장례	pohřební	장례	pohřební	N	ADJ;NOM;MASC;SG;POS
+아라키	araki	아라키	araki		N;NOM;MASC;SG;POS
+프라이부르크	freiburgu	프라이부르크	freiburg	PROPN	PROPN;INAN;DAT;MASC;SG;POS
+그리스인	řekové	그리스인	řekový		N;ANIM;NOM;MASC;PL;POS
+그리스인	řeky	그리스인	řeka		N;NOM;FEM;PL;POS
+열기	otevřená	열+기	otevřený		ADJ;NOM;FEM;SG;POS
+열기	otevřít	열+기	otevřít		V;POS;NFIN
+열기	otevřeno	열+기	otevřený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+열기	otevře	열+기	otevřít		V;IND;SG;3;POS;PRS;FIN;ACT
+열기	otevírá	열+기	otevírat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+피스	peace	피스	peace		N;MASC;SG;POS
+피스	míru	피스	míra		N;ACC;FEM;SG;POS
+피스	mír	피스	mír		N;INAN;NOM;MASC;SG;POS
+정밀	precizní	정밀	precizní	N	ADJ;NOM;MASC;SG;POS
+같음	rovná	같+ㅁ	rovnat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+샌드위치	sendvič	샌드위치	sendvič		N;INAN;NOM;MASC;SG;POS
+샌드위치	sandwich	샌드위치	sandwich		N;INAN;NOM;MASC;SG;POS
+샌드위치	sendviče	샌드위치	sendvič		N;NOM;FEM;PL;POS
+모의	výsměch	모의	výsměch		N;INAN;NOM;MASC;SG;POS
+센타우루스자리	centaurus	센타우루스자리	centaurus	PROPN	N;INAN;NOM;MASC;SG;POS
+센타우루스자리	centauri	센타우루스자리	centaur	PROPN	N;NOM;FEM;SG;POS
+바리	bari	바리	bar		PROPN;NOM;FEM;SG;POS
+아토스	athos	아토스	athos		N;INAN;NOM;MASC;SG;POS
+떨어지지	pád	떨어지+지	pád	V	N;INAN;NOM;MASC;SG;POS
+떨어지지	podzim	떨어지+지	podzim	V	N;INAN;NOM;MASC;SG;POS
+리어	lear	리+어	lear		PROPN;ANIM;NOM;MASC;SG;POS
+열정	nadšený	열정	nadšený	N	ADJ;ANIM;NOM;MASC;SG;POS
+열정	nadšené	열정	nadšený	N	ADJ;NOM;NEUT;PL;POS
+열정	vášnivá	열정	vášnivý	N	ADJ;NOM;FEM;SG;POS
+열정	vášnivé	열정	vášnivý	N	ADJ;NOM;NEUT;SG;POS
+열정	vášnivý	열정	vášnivý	N	ADJ;ANIM;NOM;MASC;SG;POS
+예배	uctívat	예배	uctívat	N	V;IPFV;POS;NFIN
+수백만	miliony	수백만	milión		N;INAN;NOM;MASC;PL;POS
+수백만	milionů	수백만	milión		N;INAN;GEN;MASC;PL;POS
+수백만	milióny	수백만	milión		N;INAN;NOM;MASC;PL;POS
+글로브	zeměkoule	글로브	zeměkoule		N;NOM;FEM;SG;POS
+기린	žirafa	기리+ㄴ	žiraf		N;NOM;FEM;SG;POS
+기린	kirin	기리+ㄴ	kirina		N;INAN;NOM;MASC;SG;POS
+기린	žirafy	기리+ㄴ	žirafa		N;INAN;NOM;MASC;PL;POS
+수년	léta	수년	rok		N;NOM;NEUT;PL;POS
+수년	roků	수년	rok		N;INAN;GEN;MASC;PL;POS
+수년	let	수년	rok		N;GEN;NEUT;PL;POS
+수년	roky	수년	rok		N;INAN;NOM;MASC;PL;POS
+파산	bankrot	파산	bankrot		N;INAN;NOM;MASC;SG;POS
+파산	úpadek	파산	úpadek		N;INAN;NOM;MASC;SG;POS
+버펄로	buffalo	버티+로	buffat	ADV	PROPN;NOM;MASC;SG;POS
+무작위로	náhodný	무작위+로	náhodný	ADV	ADJ;INAN;NOM;MASC;SG;POS
+무작위로	náhodná	무작위+로	náhodný	ADV	ADJ;NOM;FEM;SG;POS
+무작위로	náhodné	무작위+로	náhodný	ADV	ADJ;NOM;NEUT;SG;POS
+이겨	beat	이기+어	beat		N;INAN;NOM;MASC;SG;POS
+이겨	porazit	이기+어	porazit		V;PFV;POS;NFIN
+우울	depresivní	우울	depresivní	N	ADJ;NOM;MASC;SG;POS
+우울	depresivní	우울	depresivní	N	ADJ;NOM;MASC;SG;POS
+낙하산	padák	낙하산	padák		N;INAN;NOM;MASC;SG;POS
+홀로코스트	holocaustu	홀로코스트	holocaust	PROPN	N;INAN;DAT;MASC;SG;POS
+디스커버리	nález	디스크리리	nález		N;INAN;NOM;MASC;SG;POS
+디스커버리	objevování	디스크리리	objevování		N;NOM;NEUT;SG;POS
+디스커버리	objev	디스크리리	objev		N;INAN;NOM;MASC;SG;POS
+디스커버리	discovery	디스크리리	discovery		PROPN;FEM;POS
+테크	tech	테크	ten		PROPN;MASC;SG;POS
+샐리	sally	샐리	sallo	N	PROPN;FEM;SG;POS
+절약	záchrana	절약	záchrana		N;NOM;FEM;SG;POS
+절약	ukládání	절약	ukládání		N;NOM;NEUT;SG;POS
+절약	úspory	절약	úspora		N;NOM;FEM;PL;POS
+절약	záchranu	절약	záchrana		N;ACC;FEM;SG;POS
+절약	uložení	절약	uložení		N;NOM;NEUT;SG;POS
+알마티	almaty	알마티	almat	PROPN	PROPN;NOM;FEM;SG;POS
+곱셈	násobení	곱+과	násobení		N;NOM;NEUT;SG;POS
+곱셈	násobit	곱+과	násobit		V;IPFV;POS;NFIN
+투르	výlety	투르	výlet		N;INAN;NOM;MASC;PL;POS
+투르	prohlídky	투르	prohlídka		N;NOM;FEM;PL;POS
+교정	nápravná	교정	nápravný	N	ADJ;NOM;FEM;SG;POS
+교정	opraveno	교정	opravený	N	ADJ;NEUT;SG;POS;V.PTCP;PASS
+교정	opraveny	교정	opravený	N	ADJ;INAN;PL;POS;V.PTCP;PASS
+교정	opravena	교정	opravený	N	ADJ;POS;V.PTCP;PASS
+교정	opravené	교정	opravený	N	ADJ;NOM;NEUT;SG;POS
+앙투안	antoine	앙투안	antoine	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+리히텐슈타인	lichtenštejnsko	리히+정레타인	lichtenštejnský	PROPN	ADJ;POS
+리히텐슈타인	lichtenstein	리히+정레타인	lichtenstein	PROPN	N;ANIM;NOM;MASC;SG;POS
+장례식	pohřební	장례식	pohřební	N	ADJ;NOM;MASC;SG;POS
+오데사	oděse	오데사	oděs	PROPN	PROPN;DAT;MASC;SG;POS
+사모아	samoa	사모아	sám		PROPN;NOM;FEM;SG;POS
+레이먼드	raymond	레이먼드	raymond	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+레이먼드	raymonda	레이먼드	raymonda	PROPN	N;ANIM;ACC;MASC;SG;POS
+저널리스트	novináře	저널리스트	novinář		N;ANIM;ACC;MASC;PL;POS
+저널리스트	novinář	저널리스트	novinář		N;ANIM;NOM;MASC;SG;POS
+저널리스트	novinářka	저널리스트	novinářka		N;NOM;FEM;SG;POS
+저널리스트	novináře	저널리스트	novinář		N;ANIM;ACC;MASC;PL;POS
+저널리스트	novináři	저널리스트	novinář		N;ANIM;NOM;MASC;PL;POS
+차드	čadu	차드	čad	PROPN	PROPN;INAN;DAT;MASC;SG;POS
+차드	chad	차드	chad	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+무하마드	muhammad	무하마드	muhammad	PROPN	N;ANIM;NOM;MASC;SG;POS
+무하마드	mohamed	무하마드	mohamed	PROPN	N;ANIM;NOM;MASC;SG;POS
+강력	mocná	강력	mocný		ADJ;NOM;FEM;SG;POS
+강력	mocný	강력	mocný		ADJ;ANIM;NOM;MASC;SG;POS
+강력	mocní	강력	mocní		ADJ;ANIM;NOM;MASC;PL;POS
+해석학	analytické	해석학	analytický	N	ADJ;NOM;MASC;SG;POS
+해석학	analytická	해석학	analytický	N	ADJ;NOM;FEM;SG;POS
+카사블랑카	casablance	카사블랑카	casablance	PROPN	N;DAT;FEM;SG;POS
+커먼즈	commons	커먼즈	commons		N;DAT;MASC;SG;POS
+레지던트	bydliště	레지던트	bydliště		N;NOM;NEUT;SG;POS
+레지던트	rezident	레지던트	rezident		N;ANIM;NOM;MASC;SG;POS
+레지던트	obyvatelé	레지던트	obyvatel		N;ANIM;NOM;MASC;PL;POS
+파라오	faraoni	파라오	faraón		N;ANIM;NOM;MASC;PL;POS
+파라오	faraón	파라오	faraón		N;ANIM;NOM;MASC;SG;POS
+갇힌	uvězněn	갇히+ㄴ	uvězněný	V	ADJ;MASC;SG;POS;V.PTCP;PASS
+갇힌	uvězněný	갇히+ㄴ	uvězněný	V	ADJ;ANIM;NOM;MASC;SG;POS
+레슬리	lesley	레슬리	lesle		PROPN;NOM;FEM;SG;POS
+레슬리	leslie	레슬리	leslie		PROPN;ANIM;NOM;MASC;SG;POS
+올림포스	olymp	올림포스	olymp	PROPN	N;INAN;NOM;MASC;SG;POS
+에리크	eriku	에리크	erik	PROPN	N;ACC;FEM;SG;POS
+에리크	erik	에리크	erik	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+에리크	eriku	에리크	erik	PROPN	N;ACC;FEM;SG;POS
+에리크	eric	에리크	eric	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+에리크	erik	에리크	erik	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+퍼레이드	průvod	퍼레이드	průvod		N;INAN;NOM;MASC;SG;POS
+퍼레이드	přehlídka	퍼레이드	přehlídka		N;NOM;FEM;SG;POS
+퍼레이드	průvody	퍼레이드	průvod		N;INAN;NOM;MASC;PL;POS
+퍼레이드	přehlídky	퍼레이드	přehlídka		N;NOM;FEM;PL;POS
+리버티	svoboda	리버티	svoboda		N;NOM;FEM;SG;POS
+리버티	liberty	리버티	libert		N;NOM;FEM;SG;POS
+로크	locke	로크	lock		PROPN;ANIM;NOM;MASC;SG;POS
+투르크메니스탄	turkmenistánu	투르크메니스탄	turkmenistán	PROPN	N;INAN;GEN;MASC;SG;POS
+코카콜라	koks	코카콜라	koks		N;INAN;NOM;MASC;SG;POS
+코카콜라	kokain	코카콜라	kokain		N;INAN;NOM;MASC;SG;POS
+코카콜라	cola	코카콜라	cola		PROPN;NOM;FEM;SG;POS
+흐른	řídká	흐르+ㄴ	řídkat		ADJ;NOM;FEM;SG;POS
+오스트레일리아인	australané	오스트레일리아인	australan	V	N;ANIM;NOM;MASC;PL;POS
+화합	harmonie	화합	harmonie		N;NOM;FEM;SG;POS
+화합	soulad	화합	soulad		N;INAN;NOM;MASC;SG;POS
+화합	harmony	화합	harmon		N;NOM;FEM;SG;POS
+화합	harmonii	화합	harmonie		N;ACC;FEM;SG;POS
+포탈	portály	포탈	portál		N;INAN;NOM;MASC;PL;POS
+포탈	portál	포탈	portál		N;INAN;NOM;MASC;SG;POS
+히브리	hebrejsky	히브리	hebrejsky		ADV;POS
+맥도날드	mcdonald	맥도날드	mcdonald		N;ANIM;NOM;MASC;SG;POS
+맥도날드	macdonald	맥도날드	macdonald		PROPN;ANIM;NOM;MASC;SG;POS
+윤리학	etický	윤리학	etický	N	ADJ;INAN;NOM;MASC;SG;POS
+브레스트	brestu	브레스트	brest	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+밀리미터	milimetrech	밀리미터	milimetr		N;INAN;DAT;MASC;PL;POS
+밀리미터	milimetrů	밀리미터	milimetr		N;INAN;GEN;MASC;PL;POS
+밀리미터	centimetr	밀리미터	centimetr		N;INAN;NOM;MASC;SG;POS
+밀리미터	milimetrů	밀리미터	milimetr		N;INAN;GEN;MASC;PL;POS
+노퍽	norfolku	노퍽	norfolek		N;INAN;DAT;MASC;SG;POS
+커스텀	vlastní	커스텀	vlastní		ADJ;NOM;MASC;SG;POS
+커스텀	zvyk	커스텀	zvyk		N;INAN;NOM;MASC;SG;POS
+비참한	mizerně	비참+하+ㄴ	mizerně	V	ADV;POS
+디랙	dirac	디랙	dirac		PROPN;ANIM;NOM;MASC;SG;POS
+수마트라	sumaterský	수마트+이+라	sumaterský		ADJ;ANIM;NOM;MASC;SG;POS
+수마트라	sumatra	수마트+이+라	sumatra		PROPN;NOM;NEUT;SG;POS
+전망	vyhlídky	전망	vyhlídka		N;NOM;FEM;PL;POS
+전망	vyhlídka	전망	vyhlídka		N;NOM;FEM;SG;POS
+전망	perspektivy	전망	perspektiva		N;NOM;FEM;PL;POS
+전망	vyhlídky	전망	vyhlídka		N;NOM;FEM;PL;POS
+전망	vyhlídky	전망	vyhlídka		N;NOM;FEM;PL;POS
+메콩	mekong	메콩	mekong	PROPN	PROPN;NOM;FEM;SG;POS
+앨릭스	alexi	앨릭스	alexe		N;ANIM;NOM;MASC;SG;POS
+앨릭스	alex	앨릭스	alex		PROPN;ANIM;NOM;MASC;SG;POS
+보나파르트	bonaparte	보나파르트	bonapart		N;ANIM;NOM;MASC;SG;POS
+선덜랜드	sunderland	선덜랜드	sunderland	PROPN	N;INAN;NOM;MASC;SG;POS
+동정	soucit	동정	soucit		N;INAN;NOM;MASC;SG;POS
+동정	sympatie	동정	sympatie		N;NOM;FEM;PL;POS
+동정	soucit	동정	soucit		N;INAN;NOM;MASC;SG;POS
+동정	slitování	동정	slitování		N;NOM;NEUT;SG;POS
+동정	soucitu	동정	soucit		N;INAN;GEN;MASC;SG;POS
+칼리아리	cagliari	칼리아리	cagliari	PROPN	PROPN;NOM;FEM;SG;POS
+검토하기	recenze	검토+하+기	recenze	V	N;NOM;FEM;SG;POS
+검토하기	přezkumu	검토+하+기	přezkum	V	N;INAN;GEN;MASC;SG;POS
+검토하기	přezkum	검토+하+기	přezkum	V	N;INAN;NOM;MASC;SG;POS
+랠프	ralpha	랠프	ralpha	PROPN	N;ANIM;ACC;MASC;SG;POS
+랠프	ralph	랠프	ralph	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+아이오딘	jód	아이오딘	jód		N;INAN;NOM;MASC;SG;POS
+토리	tory	토리	tor		PROPN;NOM;MASC;SG;POS
+토리	tori	토리	tori		PROPN;NOM;FEM;SG;POS
+실험실	laboratorní	실험실	laboratorní	N	ADJ;NOM;MASC;SG;POS
+홈즈	holmes	홈즈	holmes		N;INAN;NOM;MASC;SG;POS
+홈즈	holmese	홈즈	holmes		N;ANIM;ACC;MASC;SG;POS
+튀르크	turkické	튀르크	turkický		ADJ;NOM;MASC;PL;POS
+페레스	peres	페레스	peres		PROPN;ANIM;NOM;MASC;SG;POS
+페레스	pérez	페레스	pérez		PROPN;ANIM;NOM;MASC;SG;POS
+플랑드르	vlámské	플랑드르	vlámský	PROPN	ADJ;NOM;MASC;PL;POS
+지우	jasné	지우	jasný		ADJ;NOM;NEUT;SG;POS
+지우	jasný	지우	jasný		ADJ;INAN;NOM;MASC;SG;POS
+지우	čistý	지우	čistý		ADJ;INAN;NOM;MASC;SG;POS
+지우	vyčistit	지우	vyčistit		V;PFV;POS;NFIN
+지우	vymazat	지우	vymazat		V;PFV;POS;NFIN
+반대편	opak	반대편	opak		N;INAN;NOM;MASC;SG;POS
+반대편	naproti	반대편	naproti		ADP;DAT
+프로그래머	programátoři	프로그래머	programátor		N;ANIM;NOM;MASC;PL;POS
+프로그래머	programátor	프로그래머	programátor		N;ANIM;NOM;MASC;SG;POS
+관광객	turistická	관광객	turistický	N	ADJ;NOM;FEM;SG;POS
+관광객	turistické	관광객	turistický	N	ADJ;NOM;MASC;PL;POS
+제럴드	gerald	제럴드	gerald	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+월리스	wallace	월리스	wallace	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+둘레	perimetr	둘레	perimetr		N;INAN;NOM;MASC;SG;POS
+상업용	komerční	상업용	komerční	N	ADJ;NOM;FEM;SG;POS
+상업용	obchodní	상업용	obchodní	N	ADJ;NOM;MASC;SG;POS
+환영	vítej	환영	vítat		V;IND;PL;2;POS;PRS;FIN;ACT
+환영	vítejte	환영	vítat		V;PFV;IMP;PL;2;POS;FIN
+데이먼	damon	데이먼	damon	PROPN	N;ANIM;NOM;MASC;SG;POS
+데이먼	damona	데이먼	damon	PROPN	N;ANIM;ACC;MASC;SG;POS
+자발적	dobrovolné	자발+적	dobrovolný	N	ADJ;NOM;NEUT;SG;POS
+자발적	dobrovolná	자발+적	dobrovolný	N	ADJ;NOM;FEM;SG;POS
+자발적	dobrovolně	자발+적	dobrovolně	N	ADV;POS
+자발적	dobrovolný	자발+적	dobrovolný	N	ADJ;INAN;NOM;MASC;SG;POS
+황소	býk	황소	býk		N;ANIM;NOM;MASC;SG;POS
+황소	bull	황소	být		PROPN;ANIM;NOM;MASC;SG;POS
+화랑	galerie	화랑	galerie		N;NOM;FEM;SG;POS
+화랑	fotogalerie	화랑	fotogalerie		N;NOM;FEM;SG;POS
+화랑	galerii	화랑	galerie		N;ACC;FEM;SG;POS
+큐슈	kjúšú	큐슈	kjaší		PROPN;NOM;MASC;SG;POS
+에픽	impozantní	에픽	impozantní		ADJ;NOM;MASC;SG;POS
+에픽	epické	에픽	epický		ADJ;NOM;NEUT;SG;POS
+블로거	blogger	블로거	blogger		N;ANIM;NOM;MASC;SG;POS
+파인	pine	파인	pin		PROPN;ANIM;NOM;MASC;SG;POS
+파인	borovice	파인	borovice		N;NOM;FEM;SG;POS
+재무	finanční	재무	finanční	N	ADJ;NOM;MASC;SG;POS
+재무	financovat	재무	financovat	N	V;IPFV;POS;NFIN
+치과	zubaře	치+과	zubař		N;ANIM;NOM;MASC;SG;POS
+치과	zubař	치+과	zubař		N;ANIM;NOM;MASC;SG;POS
+치과	zubní	치+과	zubní		ADJ;NOM;MASC;SG;POS
+치과	stomatologie	치+과	stomatologie		N;NOM;FEM;SG;POS
+알렌	alana	알렌	alana		N;ANIM;ACC;MASC;SG;POS
+알렌	alan	알렌	alan		PROPN;ANIM;NOM;MASC;SG;POS
+인코딩	zakódovat	인코딩	zakódovat	N	V;PFV;POS;NFIN
+몰리	molly	몰리	moll		N;NOM;FEM;SG;POS
+몰리	morley	몰리	morley		PROPN;ANIM;NOM;MASC;SG;POS
+트루	tru	트루	tru		PROPN;NOM;MASC;SG;POS
+화살	arrow	화살	arrow	N	PROPN;INAN;NOM;MASC;SG;POS
+햄릿	hamlet	햄릿	hamlet	PROPN	N;INAN;NOM;MASC;SG;POS
+그린란드	grónsko	그린란드	grónský		PROPN;NOM;NEUT;SG;POS
+그린란드	grónska	그린란드	grónsko		PROPN;NOM;NEUT;SG;POS
+루브르	louvre	루브르	louvra	PROPN	N;NOM;FEM;SG;POS
+무시	ignorovat	무시	ignorovat		V;IPFV;POS;NFIN
+무시	odhodit	무시	odhodit		V;PFV;POS;NFIN
+무시	zahodit	무시	zahodit		V;PFV;POS;NFIN
+무시	ignoroval	무시	ignorovat		V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+무시	ignorovali	무시	ignorovat		V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP;ACT
+닐스	nils	닐스	nils	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+대표자	reprezentativní	대표자	reprezentativní	N	ADJ;NOM;MASC;SG;POS
+가끔은	někdy	가끔+은	někdy		ADV
+가끔은	občas	가끔+은	občas		ADV
+미러	zrcadla	미+러	zrcadlo		N;NOM;NEUT;PL;POS
+미러	zrcátka	미+러	zrcátka		N;NOM;NEUT;PL;POS
+미러	zrcátko	미+러	zrcátko		N;NOM;NEUT;SG;POS
+미러	zrcadla	미+러	zrcadlo		N;NOM;NEUT;PL;POS
+미러	zrcadlo	미+러	zrcadlo		N;NOM;NEUT;SG;POS
+결제	platit	결제	platit	N	V;POS;NFIN
+결제	zaplatit	결제	zaplatit	N	V;PFV;POS;NFIN
+트럼프	trump	트럼프	trump		N;ANIM;NOM;MASC;SG;POS
+갈릴레이	galilei	갈릴레이	galilee	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+브룩	brooke	브룩	brokk	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+브룩	potok	브룩	potok	PROPN	N;INAN;NOM;MASC;SG;POS
+브룩	brook	브룩	brook	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+카이사르	caesara	카이사르	caesara		N;ANIM;ACC;MASC;SG;POS
+카이사르	caesar	카이사르	caesar		N;ANIM;NOM;MASC;SG;POS
+카이사르	césar	카이사르	césar		N;ANIM;NOM;MASC;SG;POS
+아름답다	nádhera	아름답+다	nádhera	ADJ	N;NOM;FEM;SG;POS
+불행한	nešťastný	불행+하+ㄴ	šťastný	V	ADJ;INAN;NOM;MASC;SG;NEG
+불행한	nešťastná	불행+하+ㄴ	šťastný	V	ADJ;NOM;FEM;SG;NEG
+불행한	nešťastné	불행+하+ㄴ	šťastný	V	ADJ;NOM;NEUT;SG;NEG
+불행한	nešťastné	불행+하+ㄴ	šťastný	V	ADJ;NOM;NEUT;SG;NEG
+불행한	nešťastná	불행+하+ㄴ	šťastný	V	ADJ;NOM;FEM;SG;NEG
+안도라	andorra	안도+라	andorra	PROPN	PROPN;NOM;FEM;SG;POS
+마리야	marie	말리+아야	marie		N;NOM;FEM;SG;POS
+띄어쓰기	rozestup	띄+어+가+기	rozestup	V	N;INAN;NOM;MASC;SG;POS
+띄어쓰기	mezery	띄+어+가+기	mezera	V	N;NOM;FEM;PL;POS
+허가서	licenci	허가+서	licence		N;ACC;FEM;SG;POS
+허가서	licence	허가+서	licence		N;NOM;FEM;SG;POS
+어린시절	malička	어린차절	malička		N;NOM;FEM;SG;POS
+어린시절	dětství	어린차절	dětství		N;NOM;NEUT;SG;POS
+달빛	moonlight	달빛	moonlight		PROPN;NOM;MASC;SG;POS
+어메이징	úžasný	어메이+징	úžasný		ADJ;INAN;NOM;MASC;SG;POS
+어메이징	úžasné	어메이+징	úžasný		ADJ;NOM;NEUT;SG;POS
+어메이징	úžasná	어메이+징	úžasný		ADJ;NOM;FEM;SG;POS
+브렛	brett	브렛	brett	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+알토	alto	알토	alto		PROPN;NOM;MASC;SG;POS
+올리비아	olivie	올리비아	olivie	PROPN	N;NOM;FEM;SG;POS
+올리비아	olivii	올리비아	olivie	PROPN	N;ACC;FEM;SG;POS
+올리비아	olivia	올리비아	olivia	PROPN	N;NOM;FEM;SG;POS
+브라질리아	brasilia	브라질리아	brasilia	PROPN	N;NOM;FEM;SG;POS
+브라질리아	brasília	브라질리아	brasílium	PROPN	N;NOM;FEM;SG;POS
+급한	naléhavé	급하+ㄴ	naléhavý		ADJ;NOM;NEUT;SG;POS
+급한	urgentní	급하+ㄴ	urgentní		ADJ;NOM;MASC;SG;POS
+급한	naléhavá	급하+ㄴ	naléhavý		ADJ;NOM;FEM;SG;POS
+급한	spěchá	급하+ㄴ	spěchat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+솔리드	solidní	솔리드	solidní		ADJ;NOM;MASC;SG;POS
+솔리드	pevná	솔리드	pevný		ADJ;NOM;FEM;SG;POS
+솔리드	pevné	솔리드	pevný		ADJ;NOM;MASC;PL;POS
+솔리드	pevný	솔리드	pevný		ADJ;INAN;NOM;MASC;SG;POS
+외할아버지	dědečku	외할아버지	dědeček		N;INAN;NOM;MASC;SG;POS
+외할아버지	dědeček	외할아버지	dědeček		N;ANIM;NOM;MASC;SG;POS
+외할아버지	děda	외할아버지	děda		N;ANIM;NOM;MASC;SG;POS
+캐머런	cameron	캐머렇+ㄴ	cameron	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+캐머런	cameronová	캐머렇+ㄴ	cameronový	PROPN	ADJ;NOM;FEM;SG;POS
+단순하게	jednoduše	단순+하+게	jednoduše	CONJ	ADV;POS
+의사소통	komunikační	의사+소통	komunikační	N	ADJ;NOM;MASC;SG;POS
+의사소통	komunikativní	의사+소통	komunikativní	N	ADJ;NOM;MASC;SG;POS
+충전	nabít	충전	nabít	N	V;POS;NFIN
+충전	dobít	충전	dobít	N	V;POS;NFIN
+넓이	širokou	넓이	široký		ADJ;ACC;FEM;SG;POS
+넓이	široká	넓이	široký		ADJ;NOM;FEM;SG;POS
+넓이	široký	넓이	široký		ADJ;INAN;NOM;MASC;SG;POS
+넓이	široké	넓이	široký		ADJ;NOM;NEUT;SG;POS
+베스	beth	베스	beth		PROPN;NOM;FEM;SG;POS
+임상	klinický	임상	klinický	N	ADJ;INAN;NOM;MASC;SG;POS
+임상	klinická	임상	klinický	N	ADJ;NOM;FEM;SG;POS
+임상	klinické	임상	klinický	N	ADJ;NOM;NEUT;SG;POS
+최단	nejkratší	최단	krátký	N	ADJ;NOM;RL;MASC;SG;POS
+몽키	opičák	몽키	opičák		N;ANIM;NOM;MASC;SG;POS
+몽키	opice	몽키	opice		N;NOM;FEM;SG;POS
+몽키	opička	몽키	opička		N;NOM;FEM;SG;POS
+사슴	jelení	사슴	jelení	N	ADJ;NOM;MASC;SG;POS
+시에라	sierra	시+이+라	Sierra		PROPN;NOM;FEM;SG;POS
+로건	logan	로건	logan		PROPN;ANIM;NOM;MASC;SG;POS
+소원	přání	소원	přání		N;NOM;NEUT;SG;POS
+소원	přeji	소원	přát		V;IND;SG;1;POS;PRS;FIN;ACT
+소원	přání	소원	přání		N;NOM;NEUT;SG;POS
+소원	přeje	소원	přát		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+병행	souběžně	병행	souběžně		ADV;POS
+병행	souběžné	병행	souběžný		ADJ;NOM;NEUT;SG;POS
+존경하는	dodržována	존경+하+는	dodržovaný	V	ADJ;POS;V.PTCP;PASS
+존경하는	respektována	존경+하+는	respektovaný	V	ADJ;POS;V.PTCP;PASS
+비례	úměrné	비례	úměrný		ADJ;NOM;NEUT;SG;POS
+비례	přiměřené	비례	přiměřený		ADJ;NOM;NEUT;SG;POS
+비례	přiměřená	비례	přiměřený		ADJ;NOM;FEM;SG;POS
+비례	přiměřenost	비례	přiměřenost		N;NOM;FEM;SG;POS
+비례	proporcionality	비례	proporcionalita		N;NOM;FEM;SG;POS
+비례	podíl	비례	podíl		N;INAN;NOM;MASC;SG;POS
+베스트셀러	bestseller	베스트셀러	bestseller		N;INAN;NOM;MASC;SG;POS
+베스트셀러	bestsellery	베스트셀러	bestseller		N;INAN;NOM;MASC;PL;POS
+모니터링	sledování	모니터링	sledování		N;NOM;NEUT;SG;POS
+모니터링	monitorování	모니터링	monitorování		N;NOM;NEUT;SG;POS
+모니터링	monitor	모니터링	monitor		N;INAN;NOM;MASC;SG;POS
+모니터링	monitorovat	모니터링	monitorovat		V;IPFV;POS;NFIN
+오크	skřetí	오크	skřetí		ADJ;NOM;MASC;SG;POS
+엣지	hraně	짙+지	hrana		N;DAT;FEM;SG;POS
+엣지	okraj	짙+지	okraj		N;INAN;NOM;MASC;SG;POS
+엣지	edge	짙+지	edge		PROPN;INAN;NOM;MASC;SG;POS
+파이썬	python	파이썬	python		N;INAN;NOM;MASC;SG;POS
+난이도	obtíže	난이+도	obtíž	ADV	N;NOM;FEM;PL;POS
+난이도	obtížích	난이+도	obtíž	ADV	N;DAT;FEM;PL;POS
+난이도	obtíž	난이+도	obtíž	ADV	N;NOM;FEM;SG;POS
+난이도	obtížné	난이+도	obtížný	ADV	ADJ;NOM;NEUT;SG;POS
+난이도	potíže	난이+도	potíž	ADV	N;NOM;FEM;PL;POS
+브룩스	brooke	브룩스	brokk		PROPN;ANIM;NOM;MASC;SG;POS
+브룩스	brooks	브룩스	brooks		PROPN;ANIM;NOM;MASC;SG;POS
+미니애폴리스	minneapolis	미니애폴리스	minneapolis	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+스바루	subaru	스바루	subar		N;NOM;MASC;SG;POS
+사담	saddám	사담	sadda	PROPN	N;ANIM;INS;MASC;SG;POS
+사담	saddáma	사담	saddáma	PROPN	N;ANIM;ACC;MASC;PL;POS
+파라	farah	파르+아	farah		PROPN;ANIM;NOM;MASC;SG;POS
+아이디어	nápady	아이디어	nápad		N;INAN;NOM;MASC;PL;POS
+아이디어	nápadů	아이디어	nápad		N;INAN;GEN;MASC;PL;POS
+아이디어	myšlenka	아이디어	myšlenka		N;NOM;FEM;SG;POS
+아이디어	idea	아이디어	idea		N;NOM;FEM;SG;POS
+아이디어	nápad	아이디어	nápad		N;INAN;NOM;MASC;SG;POS
+관습	celní	관습	celní	N	ADJ;NOM;MASC;SG;POS
+캐롤라이나	karolíně	캐롤라이나	karolín		N;DAT;FEM;SG;POS
+캐롤라이나	karolína	캐롤라이나	karolín		N;NOM;FEM;SG;POS
+인터랙티브	interaktivní	인터랙티브	interaktivní		ADJ;NOM;MASC;SG;POS
+부상당한	zranění	부상+당하+ㄴ	zranění	V	N;NOM;NEUT;SG;POS
+부상당한	zraněn	부상+당하+ㄴ	zraněný	V	ADJ;MASC;SG;POS;V.PTCP;PASS
+부상당한	zraněný	부상+당하+ㄴ	zraněný	V	ADJ;ANIM;NOM;MASC;SG;POS
+케이시	casey	케이시	case		PROPN;ANIM;NOM;MASC;SG;POS
+케이시	caseyho	케이시	casey		PROPN;ANIM;GEN;MASC;SG;POS
+퍼거슨	ferguson	퍼거슨	ferguson		N;ANIM;NOM;MASC;SG;POS
+우회	obejít	우회	obejít	N	V;POS;NFIN
+드레이크	drake	드레이크	drake		PROPN;ANIM;NOM;MASC;SG;POS
+애니멀	zvířecí	애니멀	zvířecí		ADJ;NOM;MASC;SG;POS
+애니멀	zvíře	애니멀	zvíře		N;NOM;NEUT;SG;POS
+애니멀	zvířat	애니멀	zvíře		N;GEN;NEUT;PL;POS
+훔볼트	humboldt	훔볼트	humboldt		N;INAN;NOM;MASC;SG;POS
+푸틴	putin	푸틴	putina		N;ANIM;NOM;MASC;SG;POS
+아카기	akagi	아카기	akage		N;NOM;FEM;SG;POS
+다카기	takagi	다카기	takagi		N;NOM;MASC;SG;POS
+프리덤	svoboda	프리덤	svoboda		N;NOM;FEM;SG;POS
+프리덤	volnost	프리덤	volnost		N;NOM;FEM;SG;POS
+프리덤	svobodu	프리덤	svoboda		N;ACC;FEM;SG;POS
+요시키	yoshiki	요시키	yoshik		N;NOM;MASC;SG;POS
+동지	slunovrat	동지	slunovrat		N;INAN;NOM;MASC;SG;POS
+동지	soudruhu	동지	soudruh		N;INAN;DAT;MASC;SG;POS
+동지	soudruh	동지	soudruh		N;ANIM;NOM;MASC;SG;POS
+동지	soudruzi	동지	soudruh		N;ANIM;NOM;MASC;PL;POS
+메이슨	masona	메이슨	mason		N;ANIM;ACC;MASC;SG;POS
+메이슨	mason	메이슨	mason		PROPN;ANIM;NOM;MASC;SG;POS
+침묵	tichá	침묵	tichý	N	ADJ;NOM;FEM;SG;POS
+침묵	tichý	침묵	tichý	N	ADJ;ANIM;NOM;MASC;SG;POS
+중성	neutrální	중성	neutrální	N	ADJ;NOM;MASC;SG;POS
+헌트	hon	헌트	hon		N;INAN;NOM;MASC;SG;POS
+헌트	lov	헌트	lov		N;INAN;NOM;MASC;SG;POS
+헌트	hunt	헌트	hunt		PROPN;ANIM;NOM;MASC;SG;POS
+헌트	lovu	헌트	lov		N;INAN;DAT;MASC;SG;POS
+헌트	lovit	헌트	lovit		V;IPFV;POS;NFIN
+괴산	unesl	괴산	unést	PROPN	V;MASC;SG;POS;PST;V.PTCP;ACT
+괴산	unesena	괴산	unesený	PROPN	ADJ;POS;V.PTCP;PASS
+괴산	unesen	괴산	unesený	PROPN	ADJ;MASC;SG;POS;V.PTCP;PASS
+벵골	bengálské	벵골	bengálský	PROPN	ADJ;NOM;NEUT;PL;POS
+벵골	bengálského	벵골	bengálský	PROPN	ADJ;ANIM;GEN;MASC;SG;POS
+여자들	ženské	여자+들	ženský	N	ADJ;NOM;NEUT;SG;POS
+여자들	ženský	여자+들	ženský	N	ADJ;INAN;NOM;MASC;SG;POS
+여자들	dámské	여자+들	dámský	N	ADJ;NOM;MASC;SG;POS
+니코	niko	니코	niko		PROPN;ANIM;NOM;MASC;SG;POS
+니코	nico	니코	nico		PROPN;ANIM;NOM;MASC;SG;POS
+스나이퍼	odstřelovač	스나이퍼	odstřelovač		N;ANIM;NOM;MASC;SG;POS
+스나이퍼	sniper	스나이퍼	sniper		N;INAN;NOM;MASC;SG;POS
+버팔로	buffalo	버팔+로	buffat		PROPN;NOM;MASC;SG;POS
+커리어	kariéra	커리어	kariéra		N;NOM;FEM;SG;POS
+커리어	kariéru	커리어	kariéra		N;ACC;FEM;SG;POS
+커리어	kariéry	커리어	kariéra		N;NOM;FEM;PL;POS
+커리어	kariéra	커리어	kariéra		N;NOM;FEM;SG;POS
+프로스트	frost	프로스트	frost		PROPN;ANIM;NOM;MASC;SG;POS
+프로스트	mráz	프로스트	mráz		N;ANIM;NOM;MASC;SG;POS
+셰인	shane	셰인	shane		PROPN;ANIM;NOM;MASC;SG;POS
+크릭	crick	크릭	crick		PROPN;ANIM;NOM;MASC;SG;POS
+둥지	hnízdo	둥+지	hnízdo		N;NOM;NEUT;SG;POS
+둥지	hnízda	둥+지	hnízdo		N;NOM;NEUT;PL;POS
+둥지	hnízda	둥+지	hnízdo		N;NOM;NEUT;PL;POS
+일시적	dočasně	일시+적	dočasně	N	ADV;POS
+일시적	dočasné	일시+적	dočasný	N	ADJ;NOM;NEUT;SG;POS
+일시적	dočasná	일시+적	dočasný	N	ADJ;NOM;FEM;SG;POS
+일시적	dočasně	일시+적	dočasně	N	ADV;POS
+일시적	dočasný	일시+적	dočasný	N	ADJ;INAN;NOM;MASC;SG;POS
+맥도널드	macdonald	맥도널드	macdonald	N	PROPN;ANIM;NOM;MASC;SG;POS
+절벽	útesy	절벽	útes		N;INAN;NOM;MASC;PL;POS
+절벽	útes	절벽	útes		N;INAN;NOM;MASC;SG;POS
+절벽	cliff	절벽	cliff		PROPN;ANIM;NOM;MASC;SG;POS
+박쥐	bat	박쥐	bat		PROPN;NOM;MASC;SG;POS
+박쥐	pálka	박쥐	pálka		N;NOM;FEM;SG;POS
+박쥐	netopýr	박쥐	netopýr		N;ANIM;NOM;MASC;SG;POS
+박쥐	netopýři	박쥐	netopýr		N;ANIM;NOM;MASC;PL;POS
+올림푸스	olymp	올림푸스	olymp		N;INAN;NOM;MASC;SG;POS
+푸앵카레	poincaré	푸앵카레	poincarý	PROPN	ADJ;ANIM;NOM;MASC;SG;POS
+스타킹	punčochy	스타킹	punčocha		N;NOM;FEM;PL;POS
+스타킹	punčochy	스타킹	punčocha		N;NOM;FEM;PL;POS
+발광	světelný	발광	světelný	N	ADJ;INAN;NOM;MASC;SG;POS
+콤플렉스	složité	콤플렉스	složitý		ADJ;NOM;NEUT;SG;POS
+콤플렉스	komplexní	콤플렉스	komplexní		ADJ;NOM;MASC;SG;POS
+콤플렉스	komplex	콤플렉스	komplex		N;INAN;NOM;MASC;SG;POS
+콤플렉스	složitá	콤플렉스	složitý		ADJ;NOM;FEM;SG;POS
+럭셔리	luxus	럭셔리	luxus		N;INAN;NOM;MASC;SG;POS
+럭셔리	luxusní	럭셔리	luxusní		ADJ;NOM;MASC;SG;POS
+어쨌거나	každopádně	어찌하+었+거나	každopádně		ADV
+보츠와나	botswaně	보츠+와+나	botswana	CONJ	PROPN;DAT;FEM;SG;POS
+무늬	vzorované	무늬	vzorovaný	N	ADJ;NOM;MASC;PL;POS
+물결	vlnky	물결	vlnka		N;NOM;FEM;PL;POS
+물결	vlna	물결	vlna		N;NOM;FEM;SG;POS
+스트레이트	rovné	스트레이트	rovný		ADJ;NOM;NEUT;SG;POS
+스트레이트	rovně	스트레이트	rovně		ADV;POS
+스트레이트	přímo	스트레이트	přímo		ADV;POS
+이탈리아인	italy	이탈리아인	ital	V	N;MASC;PL;POS
+이탈리아인	italové	이탈리아인	italový	V	N;ANIM;NOM;MASC;PL;POS
+이탈리아인	italské	이탈리아인	italský	V	ADJ;NOM;NEUT;SG;POS
+이탈리아인	itálie	이탈리아인	itálie	V	PROPN;NOM;FEM;SG;POS
+이탈리아인	italská	이탈리아인	italský	V	ADJ;NOM;FEM;SG;POS
+이탈리아인	italský	이탈리아인	italský	V	ADJ;ANIM;NOM;MASC;SG;POS
+이탈리아인	italsky	이탈리아인	italsky	V	ADV;POS
+홀리	holly	홀리	holl		N;NOM;FEM;PL;POS
+로체스터	rochesteru	로체스터	rochester	PROPN	N;INAN;GEN;MASC;SG;POS
+무작위	náhodný	무작위	náhodný	N	ADJ;INAN;NOM;MASC;SG;POS
+무작위	náhodná	무작위	náhodný	N	ADJ;NOM;FEM;SG;POS
+무작위	náhodné	무작위	náhodný	N	ADJ;NOM;NEUT;SG;POS
+무작위	náhodně	무작위	náhodně	N	ADV;POS
+발렌타인	valentýn	발렌타인	valentýn		N;INAN;NOM;MASC;SG;POS
+발렌타인	valentine	발렌타인	valentine		N;NOM;MASC;SG;POS
+처칠	churchill	처칠	churchill		N;ANIM;NOM;MASC;SG;POS
+랜스	lance	랜스	lance		N;NOM;FEM;SG;POS
+랜스	kopí	랜스	kopit		N;NOM;NEUT;SG;POS
+엑셀	excel	걸+셀	excel		N;INAN;NOM;MASC;SG;POS
+스킨	kůži	스킨	kůže		N;ACC;FEM;SG;POS
+스킨	pleť	스킨	pleť		N;NOM;FEM;SG;POS
+스킨	kůže	스킨	kůže		N;NOM;FEM;SG;POS
+스킨	pokožka	스킨	pokožka		N;NOM;FEM;SG;POS
+지배자	dominantní	지배자	dominantní	N	ADJ;NOM;MASC;SG;POS
+헬레나	helena	헬레+나	helený	PROPN	PROPN;NOM;FEM;SG;POS
+이사벨라	isabella	이사벨+이+라	isabella	PROPN	N;NOM;FEM;SG;POS
+도망자	uprchlík	도망자	uprchlík		N;ANIM;NOM;MASC;SG;POS
+파이트	rvačky	파이트	rvačka		N;NOM;FEM;PL;POS
+파이트	bojuje	파이트	bojovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+파이트	zápasy	파이트	zápas		N;INAN;NOM;MASC;PL;POS
+파이트	souboje	파이트	souboj		N;INAN;NOM;MASC;PL;POS
+파이트	bitky	파이트	bitka		N;NOM;FEM;PL;POS
+토네이도	tornádo	토네이도	tornádo		N;NOM;NEUT;SG;POS
+습지	marsh	습지	marsh	N	PROPN;ANIM;NOM;MASC;SG;POS
+열쇠	klíče	열쇠	klíč		N;INAN;NOM;MASC;PL;POS
+열쇠	klávesy	열쇠	klávesa		N;NOM;FEM;PL;POS
+열쇠	klíčky	열쇠	klíček		N;INAN;NOM;MASC;PL;POS
+시리얼	sériový	시리얼	sériový		ADJ;INAN;NOM;MASC;SG;POS
+시리얼	sériová	시리얼	sériový		ADJ;NOM;FEM;SG;POS
+시리얼	sériové	시리얼	sériový		ADJ;NOM;NEUT;SG;POS
+시리얼	obiloviny	시리얼	obilovina		N;NOM;FEM;PL;POS
+시리얼	vločky	시리얼	vločka		N;NOM;FEM;PL;POS
+시리얼	obiloviny	시리얼	obilovina		N;NOM;FEM;PL;POS
+시리얼	cereálie	시리얼	cereálie		N;NOM;FEM;PL;POS
+예언	proroctví	예언	proroctví		N;NOM;NEUT;SG;POS
+예언	proroci	예언	prorok		N;ANIM;NOM;MASC;PL;POS
+예언	proroky	예언	prorok		N;ANIM;ACC;MASC;PL;POS
+예언	proroctví	예언	proroctví		N;NOM;NEUT;SG;POS
+프레스	stiskněte	프레스	stisknout		V;PFV;IMP;PL;2;POS;FIN
+프레스	tisk	프레스	tisk		N;INAN;NOM;MASC;SG;POS
+마스터스	mistře	마스터스	mistře	N	INTJ
+레이첼	rachel	레이첼	rachel		N;NOM;FEM;SG;POS
+레이첼	rachael	레이첼	rachael		PROPN;NOM;FEM;SG;POS
+아론	aaron	아론	aaron		PROPN;ANIM;NOM;MASC;SG;POS
+아론	aron	아론	aron		PROPN;ANIM;NOM;MASC;SG;POS
+신념	faith	신념	faith	N	PROPN;ANIM;NOM;MASC;SG;POS
+플라즈마	plazmatické	플라즈마	plazmatický		ADJ;NOM;MASC;PL;POS
+조앤	joan	조앤	joan	N	PROPN;NOM;FEM;SG;POS
+일본항공	jal	일본+항공	jmout	PROPN	V;MASC;SG;POS;PST;V.PTCP;ACT
+오리온자리	orion	오리온자리	orion		N;INAN;NOM;MASC;SG;POS
+소수점	desetinné	소수점	desetinný	N	ADJ;NOM;NEUT;SG;POS
+타악기	bicí	타악기	bicí	N	ADJ;NOM;MASC;SG;POS
+썬더	hrom	썬더	hrom		N;INAN;NOM;MASC;SG;POS
+마샬	marshall	마샬	marshall		PROPN;ANIM;NOM;MASC;SG;POS
+마샬	maršál	마샬	maršál		N;ANIM;NOM;MASC;SG;POS
+마샬	marshalla	마샬	marshalla		N;ANIM;ACC;MASC;SG;POS
+라이징	rostoucí	라이징	rostoucí		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+라이징	stoupá	라이징	stoupat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+라이징	stoupající	라이징	stoupající		ADJ;IPFV;NOM;FEM;SG;POS;PRS;V.PTCP;ACT
+셰이크	šejk	셰이크	šejk	PROPN	N;ANIM;NOM;MASC;SG;POS
+셰이크	šejk	셰이크	šejk	PROPN	N;ANIM;NOM;MASC;SG;POS
+창문	okénko	창문	okénko		N;NOM;NEUT;SG;POS
+창문	okno	창문	okno		N;NOM;NEUT;SG;POS
+댄싱	tančící	댄싱	tančící		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+댄싱	tanec	댄싱	tanec		N;INAN;NOM;MASC;SG;POS
+슈가	cukr	슈+가	cukr		N;INAN;NOM;MASC;SG;POS
+슈가	cukru	슈+가	cukr		N;INAN;GEN;MASC;SG;POS
+관리하기	správa	관리+하+기	správa	V	N;NOM;FEM;SG;POS
+불쾌한	nepříjemné	불쾌+하+ㄴ	příjemný	V	ADJ;NOM;NEUT;SG;NEG
+불쾌한	nepříjemná	불쾌+하+ㄴ	příjemný	V	ADJ;NOM;FEM;SG;NEG
+불쾌한	nepříjemný	불쾌+하+ㄴ	příjemný	V	ADJ;INAN;NOM;MASC;SG;NEG
+버뮤다	bermudy	버티+다	bermud		N;NOM;FEM;PL;POS
+정보상자	infobox	정보+상자	infobox		N;INAN;NOM;MASC;SG;POS
+피사	pise	피사	pise	PROPN	PROPN;MASC;SG;POS
+체스터	chester	체스터	chestra	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+리오넬	lionel	리오넬	lionet	PROPN	N;ANIM;NOM;MASC;SG;POS
+판도라	pandora	판도+라	pandor		N;NOM;FEM;SG;POS
+인터럽트	přerušit	인터럽트	přerušit	N	V;PFV;POS;NFIN
+인터럽트	přeruší	인터럽트	přerušit	N	V;PFV;IND;SG;3;POS;PRS;FIN;ACT
+매스	hmota	매스	hmota		N;NOM;FEM;SG;POS
+매스	mše	매스	mše		N;NOM;FEM;SG;POS
+매스	hmotnosti	매스	hmotnost		N;NOM;FEM;SG;POS
+매스	hmotnost	매스	hmotnost		N;NOM;FEM;SG;POS
+인디애나폴리스	indianapolis	인디애나폴리스	indianapolis	N	PROPN;INAN;NOM;MASC;SG;POS
+주님	lord	주님	lord		PROPN;ANIM;NOM;MASC;SG;POS
+주님	pán	주님	pán		N;ANIM;NOM;MASC;SG;POS
+마돈나	madonna	마돈+나	madonna		N;NOM;FEM;SG;POS
+반영	odrážejí	반영	odrážet	N	V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+반영	odrážet	반영	odrážet	N	V;IPFV;POS;NFIN
+미화	usd	미화	usd		N;INAN;MASC;POS
+인플루엔자	chřipka	인플루+자자	chřipka		N;NOM;FEM;SG;POS
+인플루엔자	chřipku	인플루+자자	chřipka		N;ACC;FEM;SG;POS
+인플루엔자	chřipka	인플루+자자	chřipka		N;NOM;FEM;SG;POS
+인플루엔자	chřipku	인플루+자자	chřipka		N;ACC;FEM;SG;POS
+자바스크립트	javascript	자바스크립트	javascript		N;NOM;FEM;SG;POS
+마르티네스	martinez	마르티네스	martinez	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+전시관	výstavní	전시관	výstavní	N	ADJ;NOM;MASC;SG;POS
+콜롬보	colombo	콜롬보	colombo		PROPN;ANIM;NOM;MASC;SG;POS
+알랭	alain	알+이+ㄹ	alain		PROPN;ANIM;NOM;MASC;SG;POS
+더럼	durham	더럼	durham		PROPN;INAN;NOM;MASC;SG;POS
+세타	theta	세타	theta		N;NOM;FEM;SG;POS
+세타	seta	세타	seta		N;NOM;FEM;SG;POS
+궁궐	palác	궁궐	palác		N;INAN;NOM;MASC;SG;POS
+궁궐	palace	궁궐	palace		N;NOM;FEM;SG;POS
+미묘한	jemné	미묘+하+ㄴ	jemný	V	ADJ;NOM;NEUT;SG;POS
+퓨전	fúze	퓨전	fúze		N;NOM;FEM;SG;POS
+캄차카	kamčatce	캄차카	kamčatka	PROPN	N;DAT;FEM;SG;POS
+랭커스터	lancaster	랭커스터	lancaster	PROPN	N;INAN;NOM;MASC;SG;POS
+일하기	pracující	일하+기	pracující		ADJ;ANIM;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+일하기	pracovní	일하+기	pracovní		ADJ;NOM;MASC;SG;POS
+프레이저	fraser	프레이저	fraser		PROPN;ANIM;NOM;MASC;SG;POS
+마커스	marcus	마커스	marcus	PROPN	N;ANIM;NOM;MASC;SG;POS
+마커스	marcuse	마커스	marcus	PROPN	N;ANIM;ACC;MASC;SG;POS
+슈테판	stefana	슈테판	stefan	PROPN	N;ANIM;ACC;MASC;SG;POS
+슈테판	stefan	슈테판	stefan	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+슈테판	stephan	슈테판	stephan	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+사보이	savoy	사보+이	savo		N;NOM;MASC;SG;POS
+애비뉴	avenue	애비뉴	avenue		N;NOM;FEM;SG;POS
+다운타운	centrum	다운데우+ㄴ	centrum		N;NOM;NEUT;SG;POS
+알칼리	alkalické	알칼리	alkalický	N	ADJ;NOM;MASC;PL;POS
+기쁨	joy	기쁘+ㅁ	joj		PROPN;NOM;FEM;SG;POS
+기쁨	radosti	기쁘+ㅁ	radost		N;NOM;FEM;SG;POS
+기쁨	radost	기쁘+ㅁ	radost		N;NOM;FEM;SG;POS
+기쁨	potěšení	기쁘+ㅁ	potěšení		N;NOM;NEUT;SG;POS
+기쁨	rozkoš	기쁘+ㅁ	rozkoš		N;NOM;FEM;SG;POS
+오자키	ozaki	오자키	ozak		N;NOM;MASC;SG;POS
+핼리팩스	halifaxu	핼리팩스	halifax	PROPN	N;INAN;GEN;MASC;SG;POS
+첸나이	chennai	첸나이	chennae	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+바스	vana	바스	vana		N;NOM;FEM;SG;POS
+바스	koupel	바스	koupel		N;NOM;FEM;SG;POS
+인피니트	nekonečná	인피니트	konečný		ADJ;NOM;FEM;SG;NEG
+인피니트	nekonečné	인피니트	konečný		ADJ;NOM;NEUT;SG;NEG
+인피니트	nekonečný	인피니트	konečný		ADJ;INAN;NOM;MASC;SG;NEG
+인피니트	nekonečno	인피니트	nekonečno		N;NOM;NEUT;SG;POS
+아무나	kdokoli	아무나	kdokoliv		PRO;ANIM;NOM;MASC
+아무나	kdokoliv	아무나	kdokoliv		PRO;ANIM;NOM;MASC
+스텔라	stella	스텔+이+라	stella		N;NOM;FEM;SG;POS
+릴리즈	uvolnění	릴리즈	uvolnění		N;NOM;NEUT;SG;POS
+릴리즈	propustit	릴리즈	propustit		V;PFV;POS;NFIN
+릴리즈	uvolnit	릴리즈	uvolnit		V;PFV;POS;NFIN
+릴리즈	propuštění	릴리즈	propuštění		N;NOM;NEUT;SG;POS
+릴리즈	uvolňuje	릴리즈	uvolňovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+제라드	gerrard	제라드	gerrard		N;INAN;NOM;MASC;SG;POS
+제라드	gerard	제라드	gerard		PROPN;ANIM;NOM;MASC;SG;POS
+모금	fundraising	모금	fundraising		N;NOM;FEM;SG;POS
+아바스	abbás	아바스	abbás	PROPN	N;ANIM;NOM;MASC;SG;POS
+클레오파트라	kleopatra	클레오파트+라	kleopatra		N;NOM;FEM;SG;POS
+잉카	inků	잉카	ink		N;INAN;NOM;MASC;SG;POS
+카라카스	caracasu	카라카스	caracas	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+도도	stupně	도도	stupeň		N;INAN;NOM;MASC;PL;POS
+도도	tituly	도도	titul		N;INAN;NOM;MASC;PL;POS
+도도	stupňů	도도	stupeň		N;INAN;GEN;MASC;PL;POS
+산토스	santos	산토스	santos	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+크라쿠프	krakov	크라쿠프	krakov	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+산책	chodit	산책	chodit	N	V;IPFV;POS;NFIN
+플라잉	létání	플라잉	létání		N;NOM;NEUT;SG;POS
+플라잉	létající	플라잉	létající		ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+플라잉	lítání	플라잉	lítání		N;NOM;NEUT;SG;POS
+추첨	nakreslit	추첨	nakreslit	N	V;PFV;POS;NFIN
+추첨	kreslit	추첨	kreslit	N	V;IPFV;POS;NFIN
+제롬	jerome	제롬	jerome	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+패트리어트	patriot	패트리어트	patriot		N;INAN;NOM;MASC;SG;POS
+패트리어트	vlastenec	패트리어트	vlastenec		N;ANIM;NOM;MASC;SG;POS
+미학	estetické	미학	estetický	N	ADJ;NOM;NEUT;SG;POS
+그리기	losování	그리+기	losování	V	N;NOM;NEUT;SG;POS
+그리기	remíza	그리+기	remíza	V	N;NOM;FEM;SG;POS
+그리기	kreslení	그리+기	kreslení	V	N;NOM;NEUT;SG;POS
+그리기	kresba	그리+기	kresba	V	N;NOM;FEM;SG;POS
+그리기	losování	그리+기	losování	V	N;NOM;NEUT;SG;POS
+헤라클레스	herkules	헤라클레스	herkules	PROPN	N;INAN;NOM;MASC;SG;POS
+헤라클레스	heracles	헤라클레스	heracles	PROPN	N;INAN;NOM;MASC;SG;POS
+쥐라기	jurský	쥐+이+라기	jurský		ADJ;INAN;NOM;MASC;SG;POS
+콘스탄티노스	constantine	콘스탄티노스	constantine	PROPN	N;ANIM;NOM;MASC;SG;POS
+하코네	hakone	하코네	hakon	PROPN	N;NOM;MASC;SG;POS
+마술	magic	마술	magic	N	PROPN;INAN;NOM;MASC;SG;POS
+마술	kouzelné	마술	kouzelný	N	ADJ;NOM;NEUT;SG;POS
+폭력적인	násilné	폭력+적+이+ㄴ	násilný	V	ADJ;NOM;NEUT;SG;POS
+폭력적인	násilný	폭력+적+이+ㄴ	násilný	V	ADJ;INAN;NOM;MASC;SG;POS
+폭력적인	násilník	폭력+적+이+ㄴ	násilník	V	N;ANIM;NOM;MASC;SG;POS
+그리니치	greenwich	그리니치	greenwich	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+매운	pikantní	맵+ㄴ	pikantní		ADJ;NOM;MASC;SG;POS
+허락	svolení	허락	svolení		N;NOM;NEUT;SG;POS
+허락	povolení	허락	povolení		N;NOM;NEUT;SG;POS
+허락	oprávnění	허락	oprávnění		N;NOM;NEUT;SG;POS
+네덜란드인	nizozemsko	네덜란드인	nizozemský	V	PROPN;NOM;NEUT;SG;POS
+네덜란드인	nizozemí	네덜란드인	nizozemí	V	N;NOM;NEUT;SG;POS
+네덜란드인	holanďan	네덜란드인	holanďan	V	N;ANIM;NOM;MASC;SG;POS
+네덜란드인	nizozemský	네덜란드인	nizozemský	V	ADJ;ANIM;NOM;MASC;SG;POS
+네덜란드인	dutch	네덜란드인	dut	V	PROPN;INAN;NOM;MASC;SG;POS
+본드	bonde	본드	bond		N;INAN;NOM;MASC;SG;POS
+본드	kauce	본드	kauce		N;NOM;FEM;SG;POS
+본드	pouto	본드	pouto		N;NOM;NEUT;SG;POS
+본드	bond	본드	bond		PROPN;ANIM;NOM;MASC;SG;POS
+섹터	sektor	섹터	sektor		N;INAN;NOM;MASC;SG;POS
+섹터	odvětví	섹터	odvětví		N;NOM;NEUT;SG;POS
+섹터	sektoru	섹터	sektor		N;INAN;GEN;MASC;SG;POS
+섹터	odvětví	섹터	odvětví		N;NOM;NEUT;SG;POS
+섹터	sektorů	섹터	sektor		N;INAN;GEN;MASC;PL;POS
+섹터	sektory	섹터	sektor		N;INAN;NOM;MASC;PL;POS
+우주인	astronaut	우주+이+ㄴ	astronaut	V	N;ANIM;NOM;MASC;SG;POS
+장벽	překážky	장벽	překážka		N;NOM;FEM;PL;POS
+장벽	bariéry	장벽	bariéra		N;NOM;FEM;PL;POS
+장벽	bariéra	장벽	bariéra		N;NOM;FEM;SG;POS
+장벽	překážka	장벽	překážka		N;NOM;FEM;SG;POS
+장벽	bariéry	장벽	bariéra		N;NOM;FEM;PL;POS
+장벽	bariéru	장벽	bariéra		N;ACC;FEM;SG;POS
+강조	zdůraznit	강조	zdůraznit	N	V;PFV;POS;NFIN
+리브	liv	리브	liva		PROPN;NOM;MASC;SG;POS
+리브	reeve	리브	reeve		N;NOM;MASC;SG;POS
+탈선	vykolejil	탈선	vykolejit	N	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+트라이스타	tristar	트라이스타	tristar	PROPN	PROPN;NOM;FEM;SG;POS
+포춘	jmění	포춘	jmění		N;NOM;NEUT;SG;POS
+포춘	štěstěna	포춘	štěstěna		N;NOM;FEM;SG;POS
+수염	vousatý	수염	vousatý	N	ADJ;ANIM;NOM;MASC;SG;POS
+미쳐	blázen	미치+어	blázen	CONJ	N;ANIM;NOM;MASC;SG;POS
+미쳐	šílený	미치+어	šílený	CONJ	ADJ;ANIM;NOM;MASC;SG;POS
+미쳐	šílená	미치+어	šílený	CONJ	ADJ;NOM;FEM;SG;POS
+미쳐	bláznivý	미치+어	bláznivý	CONJ	ADJ;INAN;NOM;MASC;SG;POS
+트리오	trio	트리오	trio		N;NOM;NEUT;SG;POS
+리젠시	regency	리젠시	regency		N;NOM;FEM;SG;POS
+돼지고기	vepřové	되+어+지+기+야	vepřový		ADJ;NOM;MASC;PL;POS
+욕망	touha	욕망	touha		N;NOM;FEM;SG;POS
+욕망	touhy	욕망	touha		N;NOM;FEM;PL;POS
+욕망	touhu	욕망	touha		N;ACC;FEM;SG;POS
+욕망	chtíč	욕망	chtíč		N;INAN;NOM;MASC;SG;POS
+욕망	touhy	욕망	touha		N;NOM;FEM;PL;POS
+매뉴얼	ruční	매뉴얼	ruční	N	ADJ;NOM;MASC;SG;POS
+매뉴얼	manuální	매뉴얼	manuální	N	ADJ;NOM;MASC;SG;POS
+챌린저	challenger	챌린저	challenger	PROPN	N;INAN;NOM;MASC;SG;POS
+킹덤	království	킹덤	království		N;NOM;NEUT;SG;POS
+카노	kano	카노	kano		PROPN;ANIM;NOM;MASC;SG;POS
+우산	deštník	우산	deštník		N;INAN;NOM;MASC;SG;POS
+우산	deštníky	우산	deštník		N;INAN;NOM;MASC;PL;POS
+삼각	trojúhelníkové	삼각	trojúhelník		ADJ;NOM;NEUT;SG;POS
+보두앵	baldwin	보두앵	baldwin		PROPN;ANIM;NOM;MASC;SG;POS
+남방	jižní	남방	jižní		ADJ;NOM;FEM;SG;POS
+서커스	cirkus	서커스	cirkus		N;INAN;NOM;MASC;SG;POS
+서커스	cirkusy	서커스	cirkus		N;INAN;NOM;MASC;PL;POS
+컴파일	sestavil	컴파+이+ㄹ	sestavit		V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+컴파일	sestavování	컴파+이+ㄹ	sestavování		N;NOM;NEUT;SG;POS
+컴파일	sestavení	컴파+이+ㄹ	sestavení		N;NOM;NEUT;SG;POS
+이브라힘	ibrahim	이브라힘	ibrahim		PROPN;ANIM;NOM;MASC;SG;POS
+초과	přesahuje	초+과	přesahovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+초과	překračuje	초+과	překračovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+초과	převyšuje	초+과	převyšovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+초과	přebytek	초+과	přebytek		N;INAN;NOM;MASC;SG;POS
+초과	nadbytek	초+과	nadbytek		N;INAN;NOM;MASC;SG;POS
+초과	překročení	초+과	překročení		N;NOM;NEUT;SG;POS
+초과	překročena	초+과	překročený		ADJ;POS;V.PTCP;PASS
+향수	nostalgický	향수	nostalgický	N	ADJ;INAN;NOM;MASC;SG;POS
+브라질인	brazilci	브라질+이+ㄴ	brazilec		N;ANIM;NOM;MASC;PL;POS
+페가수스자리	pegasus	페가수스자리	pegasus	PROPN	N;INAN;NOM;MASC;SG;POS
+가와구치	kawaguči	가와구치	kawaguč	PROPN	N;ANIM;NOM;MASC;PL;POS
+서스펜스	napětí	서스펜스	napětí		N;NOM;NEUT;SG;POS
+셀틱	keltské	셀틱	keltský	PROPN	ADJ;NOM;NEUT;PL;POS
+실무	praktický	실무	praktický	N	ADJ;INAN;NOM;MASC;SG;POS
+실무	praktická	실무	praktický	N	ADJ;NOM;FEM;SG;POS
+실무	praktické	실무	praktický	N	ADJ;NOM;NEUT;SG;POS
+수니파	sunnitské	수니파	sunnitský	N	ADJ;NOM;MASC;PL;POS
+케이타	keita	케이타	keita		N;NOM;FEM;SG;POS
+포브스	forbes	포브스	forbes	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+돌고래	delfíni	돌고래	delfín	V	N;ANIM;NOM;MASC;PL;POS
+돌고래	delfín	돌고래	delfín	V	N;ANIM;NOM;MASC;SG;POS
+돌고래	delfíni	돌고래	delfín	V	N;ANIM;NOM;MASC;PL;POS
+돌고래	delfíny	돌고래	delfín	V	N;INAN;NOM;MASC;PL;POS
+고소	obvinění	고소	obvinění		N;NOM;NEUT;SG;POS
+고소	sue	고소	sue		PROPN;FEM;SG;POS
+퍼시	percy	퍼시	percy		N;ANIM;NOM;MASC;SG;POS
+퍼시	percyho	퍼시	percy		N;ANIM;ACC;MASC;SG;POS
+실비아	sylvia	실비아	sylvium	PROPN	N;NOM;FEM;SG;POS
+실비아	sylvie	실비아	sylvie	PROPN	PROPN;NOM;FEM;SG;POS
+실비아	silvia	실비아	silvium	PROPN	PROPN;NOM;FEM;SG;POS
+에볼루션	evoluci	에볼루션	evoluce		N;ACC;FEM;SG;POS
+에볼루션	vývoj	에볼루션	vývoj		N;INAN;NOM;MASC;SG;POS
+에볼루션	evoluce	에볼루션	evoluce		N;NOM;FEM;SG;POS
+올림피아	olympia	올림피아	olympium		N;NOM;FEM;SG;POS
+동행	doprovázet	동행	doprovázet	N	V;IPFV;POS;NFIN
+비문	nápis	비문	nápis		N;INAN;NOM;MASC;SG;POS
+지니	džin	지니	džin		N;ANIM;NOM;MASC;SG;POS
+지니	ginny	지니	ginn		N;NOM;FEM;SG;POS
+귄터	günter	귄터	günter	PROPN	N;ANIM;NOM;MASC;SG;POS
+권장	doporučujeme	권장	doporučovat		V;IPFV;IND;PL;1;POS;PRS;FIN;ACT
+권장	doporučené	권장	doporučený		ADJ;NOM;NEUT;SG;POS
+권장	doporučuje	권장	doporučovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+권장	doporučená	권장	doporučený		ADJ;NOM;FEM;SG;POS
+권장	doporučeno	권장	doporučený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+부관	posmrtné	부관	posmrtný	N	ADJ;NOM;NEUT;SG;POS
+조슈아	joshua	조슈아	joshua	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+우즈	lese	우즈	les		N;INAN;DAT;MASC;SG;POS
+우즈	lesy	우즈	les		N;INAN;NOM;MASC;PL;POS
+가이아	gaia	가이아	gaia	PROPN	PROPN;NOM;FEM;SG;POS
+사카타	sakata	사카타	sakata		N;NOM;FEM;SG;POS
+신탁	věřit	신탁	věřit	N	V;IPFV;POS;NFIN
+엉덩이	prdel	엉덩이	prdel		N;NOM;FEM;SG;POS
+엉덩이	zadek	엉덩이	zadek		N;INAN;NOM;MASC;SG;POS
+엉덩이	hip	엉덩이	hip		PROPN;INAN;NOM;MASC;SG;POS
+엉덩이	kyčle	엉덩이	kyčel		N;NOM;FEM;PL;POS
+엉덩이	boky	엉덩이	bok		N;INAN;NOM;MASC;PL;POS
+엉덩이	zadeček	엉덩이	zadeček		N;INAN;NOM;MASC;SG;POS
+엉덩이	boky	엉덩이	bok		N;INAN;NOM;MASC;PL;POS
+엉덩이	zadek	엉덩이	zadek		N;INAN;NOM;MASC;SG;POS
+엉덩이	zadeček	엉덩이	zadeček		N;INAN;NOM;MASC;SG;POS
+빌뉴스	vilnius	빌뉴스	vilnius	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+가르침	vyučování	가르치+ㅁ	vyučování	V	N;NOM;NEUT;SG;POS
+가르침	učení	가르치+ㅁ	učení	V	N;NOM;NEUT;SG;POS
+가르침	výuka	가르치+ㅁ	výuka	V	N;NOM;FEM;SG;POS
+가르침	výuky	가르치+ㅁ	výuka	V	N;NOM;FEM;SG;POS
+웍스	díla	웍스	dílo		N;NOM;NEUT;PL;POS
+웍스	pracuje	웍스	pracovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+웍스	fungují	웍스	fungovat		V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+웍스	funguje	웍스	fungovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+셀프	buňky	셀프	buňka		N;NOM;FEM;PL;POS
+셀프	buňka	셀프	buňka		N;NOM;FEM;SG;POS
+셀프	cela	셀프	cela		N;NOM;FEM;SG;POS
+셀프	cely	셀프	cela		N;NOM;MASC;PL;POS
+가봉	gabonu	가봉	gabon	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+셔먼	sherman	켜+어+보+ㄴ	sherman		PROPN;ANIM;NOM;MASC;SG;POS
+인테리어	interiér	인테리어	interiér		N;INAN;NOM;MASC;SG;POS
+인테리어	vnitra	인테리어	vnitro		N;NOM;NEUT;SG;POS
+인테리어	interiéry	인테리어	interiér		N;INAN;NOM;MASC;PL;POS
+블룸	květ	블룸	květ		N;INAN;NOM;MASC;SG;POS
+블룸	bloom	블룸	bloom		PROPN;ANIM;NOM;MASC;SG;POS
+응답	odpovědět	응답	odpovědět	N	V;POS;NFIN
+응답	reagovat	응답	reagovat	N	V;IPFV;POS;NFIN
+응답	odpovězte	응답	odpovězit	N	V;PFV;IMP;PL;2;POS;FIN
+응답	odpovědět	응답	odpovědět	N	V;POS;NFIN
+응답	odpovědět	응답	odpovědět	N	V;POS;NFIN
+대략적인	přibližné	대략+적+이+ㄴ	přibližný	V	ADJ;NOM;NEUT;SG;POS
+조립	shromáždit	조립	shromáždit	N	V;PFV;POS;NFIN
+텅스텐	wolfram	텅스텐	wolfram	N	PROPN;ANIM;NOM;MASC;SG;POS
+카불	kábulu	카불	kábul		PROPN;INAN;GEN;MASC;SG;POS
+앵글로	anglo	앵글+로	anglo	ADV	PROPN;NOM;NEUT;SG;POS
+로사리오	rosario	로사리오	rosario	PROPN	PROPN;NOM;FEM;SG;POS
+장점	výhody	장점	výhoda		N;NOM;FEM;PL;POS
+장점	přednosti	장점	přednost		N;NOM;FEM;PL;POS
+장점	výhodu	장점	výhoda		N;ACC;FEM;SG;POS
+장점	výhoda	장점	výhoda		N;NOM;FEM;SG;POS
+장점	zvýhodnění	장점	zvýhodnění		N;NOM;NEUT;SG;POS
+장점	výhodou	장점	výhoda		N;INS;FEM;SG;POS
+오렌지색	oranžová	오렌지색	oranžový		ADJ;NOM;FEM;SG;POS
+오렌지색	pomeranč	오렌지색	pomeranč		N;INAN;NOM;MASC;SG;POS
+오렌지색	orange	오렌지색	orange		PROPN;INAN;NOM;MASC;SG;POS
+오렌지색	oranžový	오렌지색	oranžový		ADJ;INAN;NOM;MASC;SG;POS
+오렌지색	oranžové	오렌지색	oranžový		ADJ;NOM;NEUT;SG;POS
+내시	nash	내시	nash		PROPN;ANIM;NOM;MASC;SG;POS
+검사관	inspektor	검사관	inspektor		N;ANIM;NOM;MASC;SG;POS
+제이콥	jacob	제이콥	jacoba		PROPN;ANIM;NOM;MASC;SG;POS
+제이콥	jakub	제이콥	jakub		PROPN;ANIM;NOM;MASC;SG;POS
+제이콥	jakuba	제이콥	jakuba		PROPN;ANIM;ACC;MASC;SG;POS
+차이콥스키	čajkovského	차이콥스키	čajkovský		ADJ;ANIM;GEN;MASC;SG;POS
+우디	woody	우디	wood		N;ANIM;NOM;MASC;SG;POS
+우디	woodyho	우디	woody		N;ANIM;GEN;MASC;SG;POS
+던지기	házení	던지기	házení	V	N;NOM;NEUT;SG;POS
+던지기	házení	던지기	házení	V	N;NOM;NEUT;SG;POS
+던지기	hod	던지기	hodina	V	N;FEM;POS
+디럭스	luxusní	디럭스	luxusní		ADJ;NOM;MASC;SG;POS
+디럭스	deluxe	디럭스	delux		N;INAN;NOM;MASC;SG;POS
+브롱크스	bronxu	브롱크스	bronx	PROPN	N;INAN;GEN;MASC;SG;POS
+상상	představivost	상상	představivost		N;NOM;FEM;SG;POS
+상상	fantazie	상상	fantazie		N;NOM;FEM;SG;POS
+상상	představivosti	상상	představivost		N;NOM;FEM;SG;POS
+상상	imaginární	상상	imaginární		ADJ;NOM;MASC;SG;POS
+밀스	mlýny	밀스	mlýn		N;INAN;NOM;MASC;PL;POS
+밀스	mills	밀스	mills		PROPN;ANIM;NOM;MASC;SG;POS
+카르타고	carthage	카르타+고	carthage		N;INAN;NOM;MASC;SG;POS
+통계학	statistické	통계학	statistický	N	ADJ;NOM;MASC;SG;POS
+통계학	statistický	통계학	statistický	N	ADJ;INAN;NOM;MASC;SG;POS
+커넥션	spoje	커넥션	spoj		N;INAN;NOM;MASC;PL;POS
+커넥션	spojení	커넥션	spojení		N;NOM;NEUT;SG;POS
+커넥션	spojení	커넥션	spojení		N;NOM;NEUT;SG;POS
+커넥션	připojení	커넥션	připojení		N;NOM;NEUT;SG;POS
+커넥션	souvislost	커넥션	souvislost		N;NOM;FEM;SG;POS
+커넥션	propojení	커넥션	propojení		N;NOM;NEUT;SG;POS
+서프라이즈	překvapení	서프라이즈	překvapení		N;NOM;NEUT;SG;POS
+학업	akademické	학업	akademický	N	ADJ;NOM;NEUT;SG;POS
+학업	akademický	학업	akademický	N	ADJ;INAN;NOM;MASC;SG;POS
+호화	luxusní	호화	luxusní		ADJ;NOM;MASC;SG;POS
+포츠담	postupimi	포츠담	postupim	PROPN	PROPN;INS;FEM;SG;POS
+혐오	znechucený	혐오	znechucený	N	ADJ;ANIM;NOM;MASC;SG;POS
+혐오	nesnáším	혐오	snášet	N	V;IPFV;IND;SG;1;NEG;PRS;FIN;ACT
+혐오	nenávidím	혐오	nenávidět	N	V;IPFV;IND;SG;1;NEG;PRS;FIN;ACT
+블라인드	slepý	블라인드	slepý		ADJ;ANIM;NOM;MASC;SG;POS
+블라인드	slepé	블라인드	slepý		ADJ;NOM;NEUT;SG;POS
+블라인드	slepá	블라인드	slepý		ADJ;NOM;FEM;SG;POS
+블라인드	žaluzie	블라인드	žaluzie		N;NOM;FEM;SG;POS
+착용	nosit	착용	nosit	N	V;IPFV;POS;NFIN
+레베카	rebecca	레베카	rebecc		N;NOM;FEM;SG;POS
+페라리	ferrari	페라리	ferrare		N;NOM;MASC;SG;POS
+슈트라우스	strauss	슈트라우스	strauss		PROPN;ANIM;NOM;MASC;SG;POS
+아우크스부르크	augsburg	아우크스부르크	augsburg	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+하든	harden	하+든	harden		PROPN;ANIM;NOM;MASC;SG;POS
+옴니아	omnia	옴니아	omnium		N;NOM;FEM;SG;POS
+모리셔스	mauricius	모리셔스	mauricius	PROPN	N;INAN;NOM;MASC;SG;POS
+신용카드	úvěrové	신용카드	úvěrový	N	ADJ;NOM;NEUT;SG;POS
+신용카드	kreditní	신용카드	kreditní	N	ADJ;NOM;MASC;SG;POS
+달팽이	slimák	달팽이	slimák		N;ANIM;NOM;MASC;SG;POS
+달팽이	šnek	달팽이	šnek		N;ANIM;NOM;MASC;SG;POS
+러닝	vede	러닝	vést		V;IND;SG;3;POS;PRS;FIN;ACT
+러닝	běží	러닝	běžet		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+노르만	norman	노르만	norman		PROPN;ANIM;NOM;MASC;SG;POS
+계란	vejce	계란	vejce		N;NOM;NEUT;PL;POS
+계란	vajec	계란	vejce		N;GEN;NEUT;PL;POS
+계란	vajíčka	계란	vajíčko		N;NOM;NEUT;PL;POS
+계란	vajíčko	계란	vajíčko		N;NOM;NEUT;SG;POS
+계란	vejce	계란	vejce		N;NOM;NEUT;PL;POS
+렉스	rex	렉스	rex		PROPN;ANIM;NOM;MASC;SG;POS
+자비	milosrdenství	자비	milosrdenství		N;NOM;NEUT;SG;POS
+자비	mercy	자비	mercy		N;NOM;FEM;SG;POS
+자비	slitování	자비	slitování		N;NOM;NEUT;SG;POS
+자비	milost	자비	milost		N;NOM;FEM;SG;POS
+보행자	pěší	보행자	pěší	N	ADJ;NOM;MASC;SG;POS
+실외	venkovní	실외	venkovní		ADJ;NOM;MASC;SG;POS
+이르쿠츠크	irkutsku	이르쿠츠크	irkutsko	PROPN	PROPN;INAN;GEN;MASC;SG;POS
+미네르바	minerva	미네르바	minerva		PROPN;NOM;FEM;SG;POS
+노블	šlechetný	노블	šlechetný		ADJ;ANIM;NOM;MASC;SG;POS
+노블	vznešený	노블	vznešený		ADJ;INAN;NOM;MASC;SG;POS
+노블	ušlechtilý	노블	ušlechtilý		ADJ;ANIM;NOM;MASC;SG;POS
+노블	vznešené	노블	vznešený		ADJ;NOM;NEUT;SG;POS
+행진곡	březen	행진곡	březen		N;INAN;NOM;MASC;SG;POS
+행진곡	března	행진곡	březen		N;INAN;GEN;MASC;SG;POS
+행진곡	pochodovat	행진곡	pochodovat		V;IPFV;POS;NFIN
+행진곡	pochod	행진곡	pochod		N;INAN;NOM;MASC;SG;POS
+트레이시	tracy	트레이시	traca	PROPN	N;NOM;FEM;PL;POS
+팔이	ruka	팔+이	ruka		N;NOM;FEM;SG;POS
+팔이	paži	팔+이	paži		N;ACC;FEM;SG;POS
+팔이	paže	팔+이	paže		N;NOM;FEM;PL;POS
+팔이	ruku	팔+이	ruka		N;ACC;FEM;SG;POS
+프레스턴	preston	프레스턴	preston	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+라이	lai	라이	lai		PROPN;ANIM;NOM;MASC;SG;POS
+폴란드인	poláci	폴란드인	polác	N	PROPN;ANIM;NOM;MASC;PL;POS
+하인	služebník	하+이+ㄴ	služebník		N;ANIM;NOM;MASC;SG;POS
+하인	sluha	하+이+ㄴ	sluha		N;ANIM;NOM;MASC;SG;POS
+미완성	nedokončené	미완성	dokončený		ADJ;NOM;NEUT;SG;NEG
+캘린더	kalendář	캘린더	kalendář		N;INAN;NOM;MASC;SG;POS
+캘린더	kalendáře	캘린더	kalendář		N;INAN;NOM;MASC;PL;POS
+캘린더	kalendáře	캘린더	kalendář		N;INAN;NOM;MASC;PL;POS
+사이공	saigonu	사이공	saigon	PROPN	N;INAN;DAT;MASC;SG;POS
+오타쿠	otaku	오타쿠	otaka		N;INAN;NOM;MASC;SG;POS
+재규어	jaguar	재규어	jaguar		N;INAN;NOM;MASC;SG;POS
+걷기	chůze	걷+기	chůze	V	N;NOM;FEM;SG;POS
+걷기	chození	걷+기	chození	V	N;NOM;NEUT;SG;POS
+걷기	procházky	걷+기	procházka	V	N;NOM;FEM;PL;POS
+걷기	procházka	걷+기	procházka	V	N;ANIM;NOM;FEM;SG;POS
+걷기	chůze	걷+기	chůze	V	N;NOM;FEM;SG;POS
+걷기	pěšky	걷+기	pěšky	V	N;INAN;NOM;MASC;PL;POS
+카를스루에	karlsruhe	카를스루+에	karlsruha	ADV	PROPN;NOM;NEUT;SG;POS
+사바나	savannah	사바+나	savannah		N;NOM;FEM;SG;POS
+라플라스	laplace	라플라스	laplace	PROPN	N;NOM;FEM;SG;POS
+설득	přesvědčen	설득	přesvědčený	N	ADJ;MASC;SG;POS;V.PTCP;PASS
+설득	přesvědčil	설득	přesvědčit	N	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+설득	přesvědčit	설득	přesvědčit	N	V;PFV;POS;NFIN
+설득	přesvědčit	설득	přesvědčit	N	V;PFV;POS;NFIN
+광업	důlní	광업	důlní	N	ADJ;NOM;MASC;SG;POS
+광업	těžební	광업	těžební	N	ADJ;NOM;MASC;SG;POS
+페가수스	pegasus	페가수스	pegasus	PROPN	N;INAN;NOM;MASC;SG;POS
+써니	sunny	쓰+었+다	sunna		N;NOM;FEM;SG;POS
+써니	slunečný	쓰+었+다	slunečný		ADJ;INAN;NOM;MASC;SG;POS
+타타르	tatar	타타르	tatar		PROPN;ANIM;NOM;MASC;SG;POS
+니카라과의	nikaragui	니카라과+의	nikarague	PROPN	PROPN;DAT;FEM;SG;POS
+어려움	obtíže	어렵+ㅁ	obtíž	V	N;NOM;FEM;PL;POS
+어려움	obtížích	어렵+ㅁ	obtíž	V	N;DAT;FEM;PL;POS
+어려움	obtíž	어렵+ㅁ	obtíž	V	N;NOM;FEM;SG;POS
+어려움	obtížné	어렵+ㅁ	obtížný	V	ADJ;NOM;NEUT;SG;POS
+어려움	potíže	어렵+ㅁ	potíž	V	N;NOM;FEM;PL;POS
+어려움	potíže	어렵+ㅁ	potíž	V	N;NOM;FEM;PL;POS
+어려움	obtíže	어렵+ㅁ	obtíž	V	N;NOM;FEM;PL;POS
+어려움	obtížné	어렵+ㅁ	obtížný	V	ADJ;NOM;NEUT;SG;POS
+어려움	obtížná	어렵+ㅁ	obtížný	V	ADJ;NOM;FEM;SG;POS
+어려움	obtížně	어렵+ㅁ	obtížně	V	ADV;POS
+어려움	obtížný	어렵+ㅁ	obtížný	V	ADJ;INAN;NOM;MASC;SG;POS
+껍질	shell	껍질	shell		N;INAN;NOM;MASC;SG;POS
+껍질	kůra	껍질	kůra		N;NOM;FEM;SG;POS
+껍질	peel	껍질	peel		PROPN;ANIM;NOM;MASC;SG;POS
+오르기	stoupání	오르+기	stoupání	V	N;NOM;NEUT;SG;POS
+완화	polehčující	완화	polehčující	N	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+그리드	síť	그리드	síť		N;NOM;FEM;SG;POS
+부록	dodatek	부록	dodatek		N;INAN;NOM;MASC;SG;POS
+부록	dodatku	부록	dodatek		N;INAN;GEN;MASC;SG;POS
+부록	dodatky	부록	dodatek		N;INAN;NOM;MASC;PL;POS
+클랜시	clancy	클랜시	clancy	PROPN	N;ANIM;NOM;MASC;SG;POS
+파이어니어	pioneer	파이어지+어	pioneer		N;INAN;NOM;MASC;SG;POS
+탱고	tango	탱+고	tango		N;NOM;NEUT;SG;POS
+윌리스	willis	윌리스	willis		PROPN;ANIM;NOM;MASC;SG;POS
+언리얼	neskutečné	언리얼	skutečný	N	ADJ;NOM;NEUT;SG;NEG
+언리얼	neskutečný	언리얼	skutečný	N	ADJ;INAN;NOM;MASC;SG;NEG
+떠나기	odchod	떠나+기	odchod	V	N;INAN;NOM;MASC;SG;POS
+떠나기	odchodu	떠나+기	odchod	V	N;INAN;GEN;MASC;SG;POS
+푸리에	fourier	푸리+에	fourier	ADV	N;ANIM;NOM;MASC;SG;POS
+코코	nos	코코	nos		N;INAN;NOM;MASC;SG;POS
+코스타	costa	코스타	costa		PROPN;NOM;FEM;SG;POS
+폴라	paulo	폴르+아	paulo		PROPN;NOM;NEUT;SG;POS
+폴라	paula	폴르+아	paulo		N;ANIM;ACC;MASC;SG;POS
+엘레나	elena	엘레+나	elena		PROPN;NOM;FEM;SG;POS
+지평선	horizont	지평선	horizont		N;INAN;NOM;MASC;SG;POS
+지평선	obzoru	지평선	obzor		N;INAN;GEN;MASC;SG;POS
+팬더	panda	팬더	panda		N;NOM;FEM;SG;POS
+팬더	panter	팬더	panter		N;ANIM;NOM;MASC;SG;POS
+홍대	hong	홍대	hong		PROPN;NOM;MASC;SG;POS
+원더	zázrak	원더	zázrak		N;INAN;NOM;MASC;SG;POS
+원더	divu	원더	div		N;INAN;GEN;MASC;SG;POS
+원더	wonder	원더	wonder		PROPN;ANIM;NOM;MASC;SG;POS
+마르코프	markov	마르코프	markov	N	PROPN;ANIM;NOM;MASC;SG;POS
+비아	prostřednictvím	비+아	prostřednictví		N;INS;NEUT;SG;POS
+비아	via	비+아	via		PROPN;FEM;SG;POS
+비아	přes	비+아	přes		ADP;ACC
+브리타니아	británie	브리타니아	británie		PROPN;NOM;FEM;SG;POS
+브리타니아	britannia	브리타니아	britannium		N;NOM;FEM;SG;POS
+쿼터	čtvrtletí	쿼터	čtvrtletí		N;NOM;NEUT;SG;POS
+쿼터	čtvrtina	쿼터	čtvrtina		NUM;NOM;FEM;SG
+헐리우드	hollywood	헐리우드	hollywood		N;NOM;FEM;SG;POS
+헐리우드	hollywoodu	헐리우드	hollywood		N;INAN;GEN;MASC;SG;POS
+케리	kerry	케리	kerr		PROPN;ANIM;NOM;MASC;SG;POS
+모모	momo	모모	momo		PROPN;NOM;MASC;SG;POS
+적응	adaptivní	적응	adaptivní	N	ADJ;NOM;MASC;SG;POS
+적응	přizpůsobit	적응	přizpůsobit	N	V;PFV;POS;NFIN
+레니	lenny	레니	lenný		N;NOM;FEM;SG;POS
+체이스	honička	체이스	honička	PROPN	N;NOM;FEM;SG;POS
+체이스	chase	체이스	chasa	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+인디아	indie	인디아	indie	PROPN	PROPN;NOM;FEM;SG;POS
+인디아	india	인디아	india	PROPN	PROPN;NOM;MASC;SG;POS
+인디아	indii	인디아	indie	PROPN	PROPN;DAT;FEM;SG;POS
+입원	hospitalizován	입원	hospitalizovaný	N	ADJ;MASC;SG;POS;V.PTCP;PASS
+흡연	kouří	흡연	kouřit	N	V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+양키	yankee	양키	yankee	PROPN	N;NOM;FEM;SG;POS
+로마노프	romanovců	로마노프	romanovec	PROPN	N;ANIM;GEN;MASC;PL;POS
+섀도우	stínu	섀도우	stín		N;INAN;GEN;MASC;SG;POS
+섀도우	shadow	섀도우	shadow		N;NOM;MASC;SG;POS
+섀도우	stín	섀도우	stín		N;INAN;NOM;MASC;SG;POS
+블레이크	blake	블레이크	blaka		PROPN;ANIM;NOM;MASC;SG;POS
+이방인	cizinec	이방+이+ㄴ	cizinec		N;ANIM;NOM;MASC;SG;POS
+아드리안	adriano	아드리안	adriano	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+아드리안	adriana	아드리안	adriana	PROPN	N;NOM;FEM;SG;POS
+아드리안	adrian	아드리안	adrian	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+포르쉐	porsche	포르쉐	porsche	PROPN	PROPN;INAN;MASC;POS
+벤처	rizikového	벤처	rizikový	N	ADJ;ANIM;GEN;MASC;SG;POS
+부스	budka	부스	budka		N;NOM;FEM;SG;POS
+부스	booth	부스	booth		PROPN;ANIM;NOM;MASC;SG;POS
+부스	stánek	부스	stánek		N;INAN;NOM;MASC;SG;POS
+대머리	plešatý	대머리	plešatý	N	ADJ;ANIM;NOM;MASC;SG;POS
+마티아스	matthias	마티아스	matthias	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+호스팅	pořádal	호스팅	pořádat	N	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+스탬프	známka	스탬프	známka		N;NOM;FEM;SG;POS
+스탬프	razítko	스탬프	razítko		N;NOM;NEUT;SG;POS
+스탬프	razítka	스탬프	razítko		N;NOM;NEUT;PL;POS
+스탬프	známky	스탬프	známka		N;NOM;FEM;PL;POS
+베트남어	vietnamské	베트남어	vietnamský		ADJ;NOM;MASC;SG;POS
+드러낸다	odhaluje	드러내+ㄴ다	odhalovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+드러낸다	odhalí	드러내+ㄴ다	odhalit		V;PFV;IND;SG;3;POS;PRS;FIN;ACT
+에메랄드	emerald	에메랄드	emerald		N;INAN;NOM;MASC;SG;POS
+아프로	afro	아프+로	afro		PROPN;NOM;MASC;SG;POS
+색인	index	색인	index		N;INAN;NOM;MASC;SG;POS
+색인	rejstřík	색인	rejstřík		N;INAN;NOM;MASC;SG;POS
+색인	indexy	색인	index		N;INAN;NOM;MASC;PL;POS
+파우스트	faust	파우스트	fausto	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+테두리	hranice	테두리	hranice		N;NOM;FEM;SG;POS
+테두리	hranici	테두리	hranice		N;ACC;FEM;SG;POS
+하퍼	harper	하퍼	harper		PROPN;ANIM;NOM;MASC;SG;POS
+카우보이	kovboj	카우보+이	kovboj		N;ANIM;NOM;MASC;SG;POS
+카우보이	kovbojové	카우보+이	kovbojový		N;ANIM;NOM;MASC;PL;POS
+카우보이	kovboje	카우보+이	kovboj		N;ANIM;ACC;MASC;PL;POS
+부탄	bhútánu	부탄	bhútán		N;INAN;DAT;MASC;SG;POS
+포화	nasycení	포화	nasycení		N;NOM;NEUT;SG;POS
+포화	nasycených	포화	nasycený		ADJ;GEN;MASC;PL;POS
+로이스	reuss	로이스	reuss		PROPN;ANIM;NOM;MASC;SG;POS
+로이스	royce	로이스	royce		N;INAN;NOM;MASC;SG;POS
+로이스	lois	로이스	lois		PROPN;NOM;FEM;SG;POS
+오카	oka	오카	oko		N;NOM;NEUT;PL;POS
+서류	doklady	서류	doklad		N;INAN;NOM;MASC;PL;POS
+서류	papíry	서류	papír		N;INAN;NOM;MASC;PL;POS
+국수	nudle	국수	nudle		N;NOM;FEM;PL;POS
+국수	nudle	국수	nudle		N;NOM;FEM;PL;POS
+불평등	nerovné	불평등	nerovný	N	ADJ;NOM;NEUT;SG;NEG
+비정규	nekonvenční	비정규	konvenční	N	ADJ;NOM;MASC;SG;NEG
+비정규	netradiční	비정규	tradiční	N	ADJ;NOM;MASC;SG;NEG
+화해	usmíření	화하+어	usmíření		N;NOM;NEUT;SG;POS
+화해	sladění	화하+어	sladění		N;NOM;NEUT;SG;POS
+화해	smíření	화하+어	smíření		N;NOM;NEUT;SG;POS
+줄무늬	pruhované	줄무늬	pruhovaný	N	ADJ;NOM;NEUT;SG;POS
+벅스	buck	벅스	buck		PROPN;ANIM;NOM;MASC;SG;POS
+벅스	chyby	벅스	chyba		N;NOM;FEM;PL;POS
+벅스	brouci	벅스	brouk		N;ANIM;NOM;MASC;PL;POS
+벅스	hmyz	벅스	hmyz		N;INAN;NOM;MASC;SG;POS
+벅스	brouky	벅스	brouk		N;ANIM;NOM;MASC;PL;POS
+벅스	štěnice	벅스	štěnice		N;NOM;FEM;PL;POS
+벅스	babky	벅스	babka		N;NOM;FEM;PL;POS
+니컬러스	nicholas	니컬러스	nicholas	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+모듈러	modulární	모증러	modulární	N	ADJ;NOM;MASC;SG;POS
+베일	bale	베이+ㄹ	bát		N;ANIM;NOM;MASC;SG;POS
+베일	závoj	베이+ㄹ	závoj		N;INAN;NOM;MASC;SG;POS
+베일	vale	베이+ㄹ	vale		PROPN;MASC;SG;POS
+무의미한	zbytečné	무의미+하+ㄴ	zbytečný	V	ADJ;NOM;NEUT;SG;POS
+사드	saad	사드	saad	N	PROPN;ANIM;NOM;MASC;SG;POS
+녹아	roztavit	녹+아	roztavit		V;PFV;POS;NFIN
+녹아	rozpustit	녹+아	rozpustit		V;PFV;POS;NFIN
+무지	nevědomosti	무지	nevědomost		N;NOM;FEM;SG;POS
+무지	nevědomost	무지	vědomost		N;NOM;FEM;SG;NEG
+포괄적	komplexní	포괄+적	komplexní	N	ADJ;NOM;MASC;SG;POS
+마당	dvorek	마당	dvorka		N;INAN;NOM;MASC;SG;POS
+마당	yard	마당	yard		PROPN;INAN;NOM;MASC;SG;POS
+마당	loděnice	마당	loděnice		N;NOM;FEM;SG;POS
+플랫	plochý	플랫	plochý		ADJ;INAN;NOM;MASC;SG;POS
+플랫	byt	플랫	byt		N;INAN;NOM;MASC;SG;POS
+플랫	ploché	플랫	plochý		ADJ;NOM;NEUT;SG;POS
+플랫	plochá	플랫	plochat		ADJ;NOM;FEM;SG;POS
+복합체	složité	복합체	složitý	N	ADJ;NOM;NEUT;SG;POS
+복합체	komplexní	복합체	komplexní	N	ADJ;NOM;MASC;SG;POS
+복합체	složitá	복합체	složitý	N	ADJ;NOM;FEM;SG;POS
+만찬	večeře	만찬	večeře		N;NOM;FEM;SG;POS
+볼셰비키	bolševici	볼셰비키	bolševik	PROPN	N;ANIM;NOM;MASC;PL;POS
+더그	doug	더그	doug		PROPN;ANIM;NOM;MASC;SG;POS
+앵커리지	anchorage	앵크리+지	anchorage	PROPN	PROPN;NOM;FEM;SG;POS
+숨겨져	skryto	숨기+어+지+어	skrytý	V	ADJ;NEUT;SG;POS;V.PTCP;PASS
+숨겨져	skrytý	숨기+어+지+어	skrytý	V	ADJ;INAN;NOM;MASC;SG;POS
+숨겨져	ukrytý	숨기+어+지+어	ukrytý	V	ADJ;INAN;NOM;MASC;SG;POS
+숨겨져	skrytá	숨기+어+지+어	skrytý	V	ADJ;NOM;FEM;SG;POS
+숨겨져	skryté	숨기+어+지+어	skrytý	V	ADJ;NOM;NEUT;SG;POS
+깔끔하게	čistou	깔끔하+게	čistý	CONJ	ADJ;ACC;FEM;SG;POS
+찾아보기	prohlížet	찾+아+보+기	prohlížet	V	V;IPFV;POS;NFIN
+찾아보기	procházení	찾+아+보+기	procházení	V	N;NOM;NEUT;SG;POS
+찾아보기	prohlížení	찾+아+보+기	prohlížení	V	N;NOM;NEUT;SG;POS
+찾아보기	procházet	찾+아+보+기	procházet	V	V;IPFV;POS;NFIN
+찾아보기	objevit	찾+아+보+기	objevit	V	V;PFV;POS;NFIN
+찾아보기	objevovat	찾+아+보+기	objevovat	V	V;IPFV;POS;NFIN
+어디서나	vsude	어디서나	vsude	ADV	N;NOM;MASC;SG;POS
+블레어	blair	블레어	blair	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+니콜라우스	nicholas	니콜라우스	nicholas	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+댓글	komentovat	댓글	komentovat	N	V;POS;NFIN
+댓글	komentované	댓글	komentovaný	N	ADJ;NOM;MASC;PL;POS
+댓글	okomentoval	댓글	okomentovat	N	V;IPFV;MASC;SG;POS;PST;V.PTCP;ACT
+아래쪽	níže	아래+쪽	nízko	N	ADV;CMPR;POS
+아래쪽	níž	아래+쪽	jenž	N	PRO;DAT;FEM;SG
+아래쪽	dolní	아래+쪽	dolní	N	ADJ;NOM;FEM;SG;POS
+아래쪽	nižší	아래+쪽	nízký	N	ADJ;NOM;CMPR;MASC;SG;POS
+아래쪽	spodní	아래+쪽	spodní	N	ADJ;NOM;MASC;SG;POS
+아래쪽	níže	아래+쪽	nízko	N	ADV;CMPR;POS
+아래쪽	spodní	아래+쪽	spodní	N	ADJ;NOM;MASC;SG;POS
+수족관	akvárium	수족관+의	akvárium		N;NOM;NEUT;SG;POS
+수족관	akváriu	수족관+의	akvárium		N;DAT;NEUT;SG;POS
+수족관	akvária	수족관+의	akvárium		N;NOM;NEUT;PL;POS
+수족관	akvária	수족관+의	akvárium		N;NOM;NEUT;PL;POS
+편리하다	výhodné	편리+하+다	výhodný	V	ADJ;NOM;NEUT;SG;POS
+편리하다	příhodné	편리+하+다	příhodný	V	ADJ;NOM;NEUT;SG;POS
+편리하다	pohodlné	편리+하+다	pohodlný	V	ADJ;NOM;NEUT;SG;POS
+콜라	koks	콜라	koks		N;INAN;NOM;MASC;SG;POS
+콜라	kokain	콜라	kokain		N;INAN;NOM;MASC;SG;POS
+콜라	cola	콜라	cola		PROPN;NOM;FEM;SG;POS
+콜라	colu	콜라	col		N;ACC;FEM;SG;POS
+콜라	coly	콜라	cola		N;NOM;FEM;PL;POS
+콜라	kolu	콜라	kolo		N;DAT;NEUT;SG;POS
+콜라	cola	콜라	cola		PROPN;NOM;FEM;SG;POS
+미드	meade	미드	mead		PROPN;ANIM;NOM;MASC;SG;POS
+미드	mead	미드	mada		PROPN;ANIM;NOM;MASC;SG;POS
+리바운드	doskoků	리바운드	doskok		N;INAN;GEN;MASC;PL;POS
+손상된	poškozen	손상+되+ㄴ	poškozený	V	ADJ;MASC;SG;POS;V.PTCP;PASS
+손상된	poškozený	손상+되+ㄴ	poškozený	V	ADJ;INAN;NOM;MASC;SG;POS
+손상된	poškozené	손상+되+ㄴ	poškozený	V	ADJ;NOM;MASC;PL;POS
+손상된	poškozená	손상+되+ㄴ	poškozený	V	ADJ;NOM;FEM;SG;POS
+걷고	chůze	걷+고	chůze	V	N;NOM;FEM;SG;POS
+걷고	chození	걷+고	chození	V	N;NOM;NEUT;SG;POS
+범죄자	kriminální	범죄자	kriminální	N	ADJ;NOM;MASC;SG;POS
+범죄자	trestní	범죄자	trestní	N	ADJ;NOM;MASC;SG;POS
+명성	sláva	명성	sláva		N;NOM;FEM;SG;POS
+명성	slávy	명성	sláva		N;NOM;FEM;PL;POS
+명성	slávu	명성	sláva		N;ACC;FEM;SG;POS
+명성	reputaci	명성	reputace		N;ACC;FEM;SG;POS
+명성	reputace	명성	reputace		N;NOM;FEM;SG;POS
+명성	pověst	명성	pověst		N;NOM;FEM;SG;POS
+명성	pověsti	명성	pověst		N;NOM;FEM;PL;POS
+외래	ambulantní	외래	ambulantní	N	ADJ;NOM;MASC;SG;POS
+마티	marty	마티	marta		N;NOM;FEM;SG;POS
+마티	martyho	마티	marta		N;ANIM;ACC;MASC;SG;POS
+섀넌	shannon	개너+ㄴ	shannon	PROPN	PROPN;NOM;FEM;SG;POS
+베니	bennyho	베니	benný		N;ANIM;ACC;MASC;SG;POS
+베니	benny	베니	benna		N;ANIM;NOM;MASC;PL;POS
+비선형	nelineární	비선형	lineární	N	ADJ;NOM;MASC;SG;NEG
+카즈오	kazuo	카즈오	kazuo		N;NOM;MASC;SG;POS
+스무	twenty	스무	twent		N;FEM;POS
+스무	dvacet	스무	dvacet		NUM;NOM;SG
+리타	ritu	리타	ritus		N;INAN;GEN;MASC;SG;POS
+리타	rita	리타	rita		PROPN;NOM;FEM;SG;POS
+샤이니	shah	샤+이+니	shah		PROPN;ANIM;NOM;MASC;SG;POS
+샤이니	shinee	샤+이+니	shinee		N;NOM;MASC;SG;POS
+손해	ztrát	손해	ztráta		N;GEN;FEM;PL;POS
+손해	ztráty	손해	ztráta		N;NOM;FEM;PL;POS
+손해	poškození	손해	poškození		N;NOM;NEUT;SG;POS
+손해	škody	손해	škoda		N;NOM;FEM;PL;POS
+버추얼	virtuální	버추+ㄴ	virtuální	N	ADJ;NOM;MASC;SG;POS
+아이비	lvy	아이비	lev		N;ANIM;INS;MASC;PL;POS
+아이비	ivy	아이비	ivy		PROPN;NOM;FEM;SG;POS
+스플리트	rozdělit	스플리트	rozdělit	PROPN	V;PFV;POS;NFIN
+스플리트	split	스플리트	split	PROPN	N;INAN;NOM;MASC;SG;POS
+베이컨	slanina	베이컨	slanina		N;NOM;FEM;SG;POS
+코니	connie	코니	connie		N;NOM;FEM;SG;POS
+치프	náčelník	치프	náčelník		N;ANIM;NOM;MASC;SG;POS
+노스웨스턴	northwestern	노스웨스턴	northwestern	PROPN	N;INAN;NOM;MASC;SG;POS
+노스웨스턴	severozápadní	노스웨스턴	severozápadní	PROPN	ADJ;NOM;MASC;SG;POS
+에베레스트	everest	에베레스트	everest	PROPN	N;INAN;NOM;MASC;SG;POS
+타원형	eliptická	타원형	eliptický		ADJ;NOM;FEM;SG;POS
+마일스	miles	마일스	miles		PROPN;ANIM;NOM;MASC;SG;POS
+마일스	kilometry	마일스	kilometr		N;INAN;NOM;MASC;PL;POS
+마일스	mil	마일스	milión		N;INAN;MASC;POS
+마일스	míle	마일스	míla		N;NOM;FEM;PL;POS
+디나르	dinár	디나르	dinár	PROPN	N;INAN;NOM;MASC;SG;POS
+리처드슨	richardson	리처드슨	richardson	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+마인드	mysl	마인드	mysl		N;NOM;FEM;SG;POS
+피드백	názor	피드백	názor		N;INAN;NOM;MASC;SG;POS
+피드백	odezva	피드백	odezva		N;NOM;FEM;SG;POS
+잠금	zamknout	잠금	zamknout	N	V;PFV;POS;NFIN
+잠금	odemknout	잠금	odemknout	N	V;PFV;POS;NFIN
+바하마	bahamy	바하마	baha	PROPN	PROPN;NOM;FEM;PL;POS
+바하마	bahamách	바하마	bahama	PROPN	N;DAT;FEM;PL;POS
+설리번	sullivan	설리번	sullivan		PROPN;ANIM;NOM;MASC;SG;POS
+설리번	sullivanová	설리번	sullivanový		ADJ;NOM;FEM;SG;POS
+훌리오	julio	자리+오	julio	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+무례한	hrubý	무례+하+ㄴ	hrubý	V	ADJ;INAN;NOM;MASC;SG;POS
+매트	matt	매트	matt		PROPN;ANIM;NOM;MASC;SG;POS
+매트	matta	매트	matta		N;ANIM;ACC;MASC;SG;POS
+매트	matný	매트	matný		ADJ;INAN;NOM;MASC;SG;POS
+매트	mat	매트	mat		PROPN;ANIM;NOM;MASC;SG;POS
+매트	podložky	매트	podložka		N;NOM;FEM;PL;POS
+매트	rohože	매트	rohož		N;NOM;FEM;PL;POS
+항아리	sklenice	항아리	sklenice		N;NOM;FEM;SG;POS
+항아리	jar	항아리	jar		N;GEN;NEUT;PL;POS
+엘런	ellen	엘런	ellen		PROPN;FEM;SG;POS
+온실	skleníkových	온실	skleníkový	N	ADJ;GEN;MASC;PL;POS
+온실	sklenících	온실	sklenící	N	ADJ;IPFV;GEN;MASC;PL;POS;PRS;V.PTCP;ACT
+지불	placení	지불	placení		N;NOM;NEUT;SG;POS
+지불	platící	지불	platící		ADJ;ANIM;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+지불	platit	지불	platit		V;POS;NFIN
+지불	zaplatit	지불	zaplatit		V;PFV;POS;NFIN
+지불	plat	지불	plat		N;INAN;NOM;MASC;SG;POS
+지불	platí	지불	platit		V;IND;SG;3;POS;PRS;FIN;ACT
+지불	vyplácí	지불	vyplácet		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+지불	výplata	지불	výplata		N;NOM;FEM;SG;POS
+지불	platbu	지불	platba		N;ACC;FEM;SG;POS
+지불	platby	지불	platba		N;NOM;FEM;PL;POS
+지불	platba	지불	platba		N;NOM;FEM;SG;POS
+감지	zjištěno	감+지	zjištěný	N	ADJ;NEUT;SG;POS;V.PTCP;PASS
+감지	zjištěn	감+지	zjištěný	N	ADJ;MASC;SG;POS;V.PTCP;PASS
+감지	zjištěné	감+지	zjištěný	N	ADJ;NOM;MASC;PL;POS
+감지	zjištěna	감+지	zjištěný	N	ADJ;POS;V.PTCP;PASS
+감지	detekovat	감+지	detekovat	N	V;IPFV;POS;NFIN
+네이션	národ	네이션	národ		N;INAN;NOM;MASC;SG;POS
+익힌	dušené	익히+ㄴ	dušený		ADJ;NOM;NEUT;SG;POS
+워프	warp	워프	warp		PROPN;INAN;NOM;MASC;SG;POS
+갈라	gala	가르+아	gala		PROPN;NOM;FEM;SG;POS
+아브라함	ibrahim	아브라함	ibrahim	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+아브라함	abraham	아브라함	abraham	PROPN	N;ANIM;NOM;MASC;SG;POS
+아리스토텔레스	aristoteles	아리스토텔레스	aristotel	PROPN	N;ANIM;NOM;MASC;SG;POS
+체계적	systematické	체계+적	systematický	N	ADJ;NOM;NEUT;SG;POS
+체계적	systematicky	체계+적	systematicky	N	ADV;POS
+크로니클	chronicle	크로니클	chronicle		N;NOM;MASC;PL;POS
+가까워	bližší	가깝+어	blízký		ADJ;NOM;CMPR;MASC;SG;POS
+가까워	blíž	가깝+어	blízko		ADV
+가까워	blíže	가깝+어	blízko		ADV;CMPR;POS
+자격증	certifikované	자격증	certifikovaný	N	ADJ;NOM;NEUT;SG;POS
+매리너	mariner	매리너	mariner	PROPN	N;NOM;MASC;SG;POS
+매리너	námořník	매리너	námořník	PROPN	N;ANIM;NOM;MASC;SG;POS
+남서	jihozápadní	남서	jihozápadní		ADJ;NOM;MASC;SG;POS
+남서	jihozápad	남서	jihozápad		N;INAN;NOM;MASC;SG;POS
+스완	labutí	스완	labuť		N;NOM;FEM;SG;POS
+스완	labuť	스완	labuť		N;NOM;FEM;SG;POS
+흔적	stopové	흔적	stopový	N	ADJ;NOM;MASC;PL;POS
+에드먼턴	edmontonu	에드먼턴	edmonton	PROPN	N;INAN;GEN;MASC;SG;POS
+말라위	malawi	말라위	malaw	PROPN	PROPN;NOM;FEM;SG;POS
+캐치	chytit	캐치	chytit		V;PFV;POS;NFIN
+캐치	úlovek	캐치	úlovek		N;INAN;NOM;MASC;SG;POS
+세르비아인	srbské	세르비아인	srbský	N	ADJ;NOM;FEM;SG;POS
+세르비아인	srbové	세르비아인	srbový	N	PROPN;ANIM;NOM;MASC;PL;POS
+세르비아인	srbské	세르비아인	srbský	N	ADJ;NOM;FEM;SG;POS
+넷스케이프	netscape	넷스케이프	tscape	PROPN	N;INAN;NOM;MASC;SG;POS
+오늘도	dneska	오늘+도	dneska		ADV
+오늘도	dnešek	오늘+도	dnešek		N;INAN;NOM;MASC;SG;POS
+오늘도	dnes	오늘+도	dnes		ADV
+파서	parser	파+서	parser		N;INAN;NOM;MASC;SG;POS
+스위프트	swift	스위프트	swift		PROPN;NOM;MASC;SG;POS
+콜렉션	sběr	콜렉션	sběr		N;INAN;NOM;MASC;SG;POS
+콜렉션	kolekce	콜렉션	kolekce		N;NOM;FEM;SG;POS
+콜렉션	sbírky	콜렉션	sbírka		N;NOM;FEM;PL;POS
+콜렉션	sbírka	콜렉션	sbírka		N;NOM;FEM;SG;POS
+콜렉션	shromažďování	콜렉션	shromažďování		N;NOM;NEUT;SG;POS
+단점	nevýhody	단점	nevýhoda		N;NOM;FEM;PL;POS
+단점	nevýhoda	단점	nevýhoda		N;NOM;FEM;SG;POS
+단점	nevýhody	단점	nevýhoda		N;NOM;FEM;PL;POS
+몬테레이	monterrey	몬테레이	monterrey		PROPN;FEM;SG;POS
+펀자브	paňdžábu	펀자브	paňdžába	PROPN	N;INAN;GEN;MASC;SG;POS
+하버	přístav	하버	přístav		N;INAN;NOM;MASC;SG;POS
+무제한	neomezené	무제+하+ㄴ	omezený	V	ADJ;NOM;NEUT;SG;NEG
+무제한	neomezený	무제+하+ㄴ	omezený	V	ADJ;INAN;NOM;MASC;SG;NEG
+무제한	neomezená	무제+하+ㄴ	omezený	V	ADJ;NOM;FEM;SG;NEG
+무제한	neomezené	무제+하+ㄴ	omezený	V	ADJ;NOM;NEUT;SG;NEG
+무제한	neomezený	무제+하+ㄴ	omezený	V	ADJ;INAN;NOM;MASC;SG;NEG
+무제한	neomezená	무제+하+ㄴ	omezený	V	ADJ;NOM;FEM;SG;NEG
+숨김	skryto	숨김	skrytý	N	ADJ;NEUT;SG;POS;V.PTCP;PASS
+숨김	skrytý	숨김	skrytý	N	ADJ;INAN;NOM;MASC;SG;POS
+숨김	ukrytý	숨김	ukrytý	N	ADJ;INAN;NOM;MASC;SG;POS
+숨김	skrytá	숨김	skrytý	N	ADJ;NOM;FEM;SG;POS
+숨김	skryté	숨김	skrytý	N	ADJ;NOM;NEUT;SG;POS
+메사	mesa	메사	mesa		PROPN;NOM;MASC;SG;POS
+매기	maggie	매+기	maggie		PROPN;NOM;FEM;SG;POS
+행복하게	šťastně	행복+하+게	šťastně	CONJ	ADV;POS
+귀도	guido	귀+도	guido		N;MASC;POS
+닫습니다	uzavřít	닫+습니다	uzavřít		V;POS;NFIN
+닫습니다	zavřít	닫+습니다	zavřít		V;POS;NFIN
+닫습니다	blízko	닫+습니다	blízko		ADV;POS
+닫습니다	zavře	닫+습니다	zavřít		V;IND;SG;3;POS;PRS;FIN;ACT
+닫습니다	zavírá	닫+습니다	zavírat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+독립기념일	nezávislost	독립+기념+이+ㄹ	závislost	V	N;NOM;FEM;SG;NEG
+스캇	scott	스캇	scott		PROPN;ANIM;NOM;MASC;SG;POS
+방학	dovolená	방학	dovolená	N	ADJ;NOM;FEM;SG;POS
+사우샘프턴	southamptonu	사우샘프턴	southampton	PROPN	N;INAN;GEN;MASC;SG;POS
+베네딕트	benedict	베네딕트	benedict		N;ANIM;NOM;MASC;SG;POS
+도달	dosaženo	도달	dosažený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+도달	dosažena	도달	dosažený		ADJ;POS;V.PTCP;PASS
+도달	dosažen	도달	dosažený		ADJ;MASC;SG;POS;V.PTCP;PASS
+도달	dosáhli	도달	dosáhnout		V;ANIM;MASC;PL;POS;PST;V.PTCP;ACT
+도달	dosah	도달	dosah		N;INAN;NOM;MASC;SG;POS
+도달	dosáhne	도달	dosáhnout		V;IND;SG;3;POS;PRS;FIN;ACT
+가정부	služebná	가정부	služebný	N	ADJ;NOM;FEM;SG;POS
+가정부	pokojská	가정부	pokojský	N	ADJ;NOM;FEM;SG;POS
+라그나로크	ragnarok	라그나로크	ragnarok		N;INAN;NOM;MASC;SG;POS
+플레어	světlice	플레어	světlice		N;NOM;FEM;SG;POS
+인덱스	index	인덱스	index		N;INAN;NOM;MASC;SG;POS
+인덱스	rejstřík	인덱스	rejstřík		N;INAN;NOM;MASC;SG;POS
+인덱스	indexy	인덱스	index		N;INAN;NOM;MASC;PL;POS
+플라워	kytka	플라우+어	kytka		N;NOM;FEM;SG;POS
+플라워	květ	플라우+어	květ		N;INAN;NOM;MASC;SG;POS
+플라워	květina	플라우+어	květina		N;NOM;FEM;SG;POS
+아메드	ahmed	아메드	ahmed	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+피어	peer	피+어	peer		PROPN;ANIM;NOM;MASC;SG;POS
+피어	protějšek	피+어	protějšek		N;INAN;NOM;MASC;SG;POS
+리비우	lvov	리비우	lvov	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+배운다	naučit	배우+ㄴ다	naučit		V;PFV;POS;NFIN
+위트레흐트	utrecht	위트레트트	utrecht	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+비스마르크	bismarck	비스마르크	bismarck		PROPN;ANIM;NOM;MASC;SG;POS
+파도	vlny	파+도	vlna		N;NOM;FEM;PL;POS
+파도	vln	파+도	vlna		N;GEN;FEM;PL;POS
+파도	vlna	파+도	vlna		N;NOM;FEM;SG;POS
+웬디	wendy	웬디	wenda		PROPN;NOM;FEM;SG;POS
+심어	nastražil	심+어	nastražit		V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+스노우	sníh	스노우	sníh		N;INAN;NOM;MASC;SG;POS
+스노우	sněhu	스노우	sníh		N;INAN;GEN;MASC;SG;POS
+라디에이터	chladič	라디에이터	chladič	ADV	N;INAN;NOM;MASC;SG;POS
+거스	gus	거스	gus	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+거스	guse	거스	gus	PROPN	N;NOM;MASC;SG;POS
+타라	tara	타라	tara		PROPN;NOM;FEM;SG;POS
+타라	taro	타라	taro		PROPN;ANIM;NOM;MASC;SG;POS
+마르코스	marcos	마르코스	marcos	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+바빌론	babylon	바빌론	babylon		N;INAN;NOM;MASC;SG;POS
+베일리	bailey	베일리	bailey		PROPN;ANIM;NOM;MASC;SG;POS
+다코타	dakota	다코타	dakota	PROPN	N;NOM;FEM;SG;POS
+에식스	essex	에식스	essex	PROPN	PROPN;NOM;MASC;SG;POS
+페니	penny	페니	penny		N;NOM;FEM;SG;POS
+레딩	redding	레딩	redding		PROPN;ANIM;NOM;MASC;SG;POS
+워렌	warrena	워렌	warren		N;ANIM;ACC;MASC;SG;POS
+워렌	warren	워렌	warren		PROPN;ANIM;NOM;MASC;SG;POS
+브라보	bravo	브라보	bravo		N;NOM;NEUT;SG;POS
+볼프	vlčí	볼프	vlčit		ADJ;NOM;MASC;SG;POS
+볼프	vlk	볼프	vlk		N;ANIM;NOM;MASC;SG;POS
+볼프	wolf	볼프	wolf		PROPN;ANIM;NOM;MASC;SG;POS
+하이라이트	zdůraznil	하이라이트	zdůraznit		V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+하이라이트	nejvýznamnější	하이라이트	významný		ADJ;NOM;RL;MASC;SG;POS
+하이라이트	zdůrazňuje	하이라이트	zdůrazňovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+하이라이트	zdůraznit	하이라이트	zdůraznit		V;PFV;POS;NFIN
+바닐라	vanilka	바라+라	vanilka		N;NOM;FEM;SG;POS
+두뇌	mozku	두뇌	mozek		N;INAN;GEN;MASC;SG;POS
+두뇌	mozková	두뇌	mozkový		ADJ;NOM;FEM;SG;POS
+두뇌	mozek	두뇌	mozek		N;INAN;NOM;MASC;SG;POS
+알란	alana	알+란	alana		N;ANIM;ACC;MASC;SG;POS
+알란	alan	알+란	alan		PROPN;ANIM;NOM;MASC;SG;POS
+심플렉틱	symplektická	심플렉틱	symplektický	N	ADJ;NOM;FEM;SG;POS
+망치	hammer	망치	hammer	N	PROPN;ANIM;NOM;MASC;SG;POS
+주디	judy	주디	judy		N;NOM;FEM;SG;POS
+대각선	diagonální	대각선	diagonální		ADJ;NOM;FEM;SG;POS
+피타고라스	pythagoras	피타고라스	pythagoras		N;ANIM;NOM;MASC;SG;POS
+멜로	melo	멜로	melo		N;NOM;MASC;SG;POS
+카레	kari	카레	kari		N;NOM;FEM;SG;POS
+지브롤터	gibraltaru	지브롤터	gibraltar	PROPN	N;INAN;GEN;MASC;SG;POS
+헤럴드	herald	헤럴드	herald		PROPN;INAN;NOM;MASC;SG;POS
+헤럴드	herold	헤럴드	herold		N;ANIM;NOM;MASC;SG;POS
+유스티니아누스	justinian	유스티니아누스	justinian		N;NOM;FEM;SG;POS
+글래스	sklenice	글래스	sklenice		N;NOM;FEM;SG;POS
+글래스	skla	글래스	sklo		N;NOM;NEUT;PL;POS
+글래스	sklo	글래스	sklo		N;NOM;NEUT;SG;POS
+뱅크스	banks	뱅크스	banks		PROPN;ANIM;NOM;MASC;SG;POS
+뱅크스	banky	뱅크스	banka		N;NOM;FEM;PL;POS
+뱅크스	bankám	뱅크스	banka		N;DAT;FEM;PL;POS
+뱅크스	bank	뱅크스	banka		N;GEN;FEM;PL;POS
+부착	přiložit	부착	přiložit	N	V;PFV;POS;NFIN
+부착	připojit	부착	připojit	N	V;PFV;POS;NFIN
+컴팩트	kompaktní	컴팩트	kompaktní		ADJ;NOM;MASC;SG;POS
+복숭아	broskve	복숭아	brůskev		N;NOM;FEM;PL;POS
+복숭아	broskví	복숭아	broskv		N;INS;FEM;SG;POS
+복숭아	peach	복숭아	peach		N;INAN;NOM;MASC;SG;POS
+콘월	cornwallu	콘월	cornwall		N;INAN;GEN;MASC;SG;POS
+자정	půlnoc	자정	půlnoc		N;NOM;NEUT;SG;POS
+자정	půlnoční	자정	půlnoční		ADJ;NOM;MASC;SG;POS
+자정	půlnoci	자정	půlnoc		N;DAT;FEM;SG;POS
+토모에	tomoe	토모+에	tenmo	ADV	N;INAN;NOM;MASC;SG;POS
+분사	injekční	분사	injekční	N	ADJ;NOM;MASC;SG;POS
+프로토타입	prototyp	프로토타입	prototyp		N;INAN;NOM;MASC;SG;POS
+프로토타입	prototypy	프로토타입	prototyp		N;INAN;NOM;MASC;PL;POS
+템플	svatyně	템플	svatyně		N;NOM;FEM;SG;POS
+템플	temple	템플	temple		PROPN;NOM;MASC;SG;POS
+템플	chrám	템플	chrám		N;INAN;NOM;MASC;SG;POS
+웰스	welles	웰스	welles		PROPN;ANIM;NOM;MASC;SG;POS
+웰스	wells	웰스	wells		PROPN;NOM;MASC;SG;POS
+웰스	studny	웰스	studna		N;NOM;FEM;PL;POS
+에덴	eden	에덴	eden		PROPN;INAN;NOM;MASC;SG;POS
+피보나치	fibonacciho	피보나치	fibonacci		N;NOM;FEM;SG;POS
+에두아르도	eduardo	에두아르+도	eduardo	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+코브라	kobra	코브+이+라	kobra		N;NOM;FEM;SG;POS
+플라톤	platón	플라톤	platón		N;ANIM;NOM;MASC;SG;POS
+그리피스	griffith	그리피스	griffith	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+그리피스	griffiths	그리피스	griffiths	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+민트	mint	민트	mint		PROPN;INAN;NOM;MASC;SG;POS
+롤리	raleigh	롤리	raleigha	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+트로이아	troy	트로이아	troy	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+컨셉	pojem	컨셉	pojem		N;INAN;NOM;MASC;SG;POS
+컨셉	konceptu	컨셉	koncept		N;INAN;GEN;MASC;SG;POS
+컨셉	koncept	컨셉	koncept		N;INAN;NOM;MASC;SG;POS
+컨셉	koncepce	컨셉	koncepce		N;NOM;FEM;SG;POS
+컨셉	pojetí	컨셉	pojetí		N;NOM;NEUT;SG;POS
+컨셉	pojmy	컨셉	pojem		N;INAN;NOM;MASC;PL;POS
+컨셉	koncepce	컨셉	koncepce		N;NOM;FEM;SG;POS
+컨셉	koncepty	컨셉	koncept		N;INAN;NOM;MASC;PL;POS
+제우스	die	제우스	die		ADJ;POS
+제우스	zeus	제우스	zeus		N;ANIM;NOM;MASC;SG;POS
+제우스	dia	제우스	dia		PROPN;ANIM;NOM;MASC;SG;POS
+전화번호	telefonní	전화번호	telefonní	N	ADJ;NOM;MASC;SG;POS
+긴장	nervózní	긴장	nervózní	N	ADJ;ANIM;NOM;MASC;SG;POS
+워털루	waterloo	워털루	waterloo	PROPN	PROPN;NOM;MASC;SG;POS
+노구치	noguchi	노구치	noguch		N;ANIM;NOM;MASC;SG;POS
+질투	žárlivý	질투	žárlivý	N	ADJ;ANIM;NOM;MASC;SG;POS
+안젤로	angelo	안젤+로	angelo	ADV	PROPN;ANIM;NOM;MASC;SG;POS
+안젤로	angelo	안젤+로	angelo	ADV	PROPN;ANIM;NOM;MASC;SG;POS
+안젤로	angelu	안젤+로	angela	ADV	N;ACC;FEM;SG;POS
+안젤로	angela	안젤+로	angela	ADV	N;NOM;FEM;SG;POS
+원예	zahradnictví	원예	zahradnictví		N;NOM;NEUT;SG;POS
+원예	zahradnictví	원예	zahradnictví		N;NOM;NEUT;SG;POS
+원예	zahradnické	원예	zahradnický		ADJ;NOM;MASC;SG;POS
+지부티	džibuti	지부티	džibut	PROPN	N;ANIM;NOM;MASC;PL;POS
+스탠포드	stanfordu	스탠포드	stanford		N;INAN;DAT;MASC;SG;POS
+스탠포드	stanford	스탠포드	stanford		PROPN;INAN;NOM;MASC;SG;POS
+개선하기	zlepšení	개선+하+기	zlepšení	V	N;NOM;NEUT;SG;POS
+개선하기	zlepšování	개선+하+기	zlepšování	V	N;NOM;NEUT;SG;POS
+플라스마	plazmatické	플라스마	plazmatický	N	ADJ;NOM;MASC;PL;POS
+몽골족	mongolové	몽골족	mongolový	PROPN	N;ANIM;NOM;MASC;PL;POS
+프라이스	ceny	프라이스	cena		N;NOM;FEM;PL;POS
+프라이스	price	프라이스	price		PROPN;ANIM;NOM;MASC;SG;POS
+프라이스	cena	프라이스	cena		N;NOM;FEM;SG;POS
+프라이스	cenu	프라이스	cena		N;ACC;FEM;SG;POS
+프라이스	pryce	프라이스	pryce		PROPN;ANIM;NOM;MASC;SG;POS
+불규칙	nepravidelný	불규칙	pravidelný		ADJ;INAN;NOM;MASC;SG;NEG
+사자자리	lea	사자자리	lea	N	PROPN;NOM;FEM;SG;POS
+사자자리	leo	사자자리	leo	N	PROPN;ANIM;NOM;MASC;SG;POS
+스테파니	stefani	스테파니	stefan		N;FEM;POS
+스테파니	stefanie	스테파니	stefanie		N;NOM;FEM;SG;POS
+스테파니	stephanie	스테파니	stephanie		N;NOM;FEM;SG;POS
+킬로그램	kilogramů	킬로그램	kilogram		N;INAN;GEN;MASC;PL;POS
+킬로그램	kilogram	킬로그램	kilogram		N;INAN;NOM;MASC;SG;POS
+두부	tofu	두부	tof		N;NOM;MASC;SG;POS
+볼프스부르크	wolfsburg	볼프스부르크	wolfsburg	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+쿠르드	kurdistánu	쿠르드	kurdistán	PROPN	N;INAN;GEN;MASC;SG;POS
+바니	barneyho	바니	barney		N;ANIM;ACC;MASC;SG;POS
+바니	barney	바니	barney		PROPN;ANIM;NOM;MASC;SG;POS
+기사도	rytířství	기사+도	rytířství	ADV	N;NOM;NEUT;SG;POS
+디아스	díaz	디아스	díaz	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+디아스	diaz	디아스	diaz	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+볼리바르	bolivar	볼리바르	bolivar	PROPN	N;INAN;NOM;MASC;SG;POS
+볼리바르	bolívar	볼리바르	bolívar	PROPN	N;INAN;NOM;MASC;SG;POS
+엘렌	ellen	엘렌	ellen		PROPN;FEM;SG;POS
+천하무적	neporazitelný	천하무적	porazitelný	N	ADJ;ANIM;NOM;MASC;SG;NEG
+모방	imitace	모방	imitace		N;NOM;FEM;SG;POS
+탈레반	taliban	탈레반	taliban	N	PROPN;INAN;NOM;MASC;SG;POS
+고민	trable	고민	trable		N;NOM;FEM;PL;POS
+고민	potíže	고민	potíž		N;NOM;FEM;PL;POS
+그놈	gnome	그놈	gnome		N;INAN;NOM;MASC;SG;POS
+그놈	trpaslík	그놈	trpaslík		N;ANIM;NOM;MASC;SG;POS
+약사	lékárníka	약사	lékárník		N;ANIM;ACC;MASC;SG;POS
+수프	polévku	수프	polévka		N;ACC;FEM;SG;POS
+수프	polévky	수프	polévka		N;NOM;FEM;PL;POS
+수프	polévka	수프	polévka		N;NOM;FEM;SG;POS
+수프	polévky	수프	polévka		N;NOM;FEM;PL;POS
+측도	opatření	측도	opatření		N;NOM;NEUT;SG;POS
+측도	změřit	측도	změřit		V;PFV;POS;NFIN
+리라	lir	리+라	lira		N;GEN;FEM;PL;POS
+리라	lyru	리+라	lyra		N;ACC;FEM;SG;POS
+트와일라잇	soumrak	트와일라인	soumrak	ADV	N;INAN;NOM;MASC;SG;POS
+트와일라잇	twilight	트와일라인	twilight	ADV	N;NOM;MASC;SG;POS
+트와일라잇	soumraku	트와일라인	soumrak	ADV	N;INAN;GEN;MASC;SG;POS
+나탈리	natálie	나탈리	natálie		N;NOM;FEM;SG;POS
+나탈리	natalie	나탈리	natalie		N;NOM;FEM;SG;POS
+대문자	kapitalizace	대문자	kapitalizace		N;NOM;FEM;SG;POS
+에밀리오	emilio	에밀리오	emilio	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+우크라이나인	ukrajinci	우크라이+이+인	ukrajinec		N;ANIM;NOM;MASC;PL;POS
+콕스	cox	콕스	cox		PROPN;ANIM;NOM;MASC;SG;POS
+초보자	začátečníky	초보자	začátečník		N;ANIM;ACC;MASC;PL;POS
+초보자	nováček	초보자	nováček		N;ANIM;NOM;MASC;SG;POS
+초보자	novice	초보자	novic		N;NOM;MASC;SG;POS
+초보자	začátečník	초보자	začátečník		N;INAN;NOM;MASC;SG;POS
+남동	jihovýchodní	남동	jihovýchodní		ADJ;NOM;MASC;SG;POS
+남동	jihovýchodní	남동	jihovýchodní		ADJ;NOM;MASC;SG;POS
+바부다	barbuda	바부+이+다	barbuda	PROPN	N;NOM;FEM;SG;POS
+카슈미르	kašmíru	카슈미르	kašmír	PROPN	N;INAN;GEN;MASC;SG;POS
+블리치	bělidlo	블리치	bělidlo		N;NOM;NEUT;SG;POS
+수수	čiroku	수수	čirok		N;ACC;FEM;SG;POS
+히타이트	chetity	히타이트	chetit	PROPN	N;NOM;FEM;PL;POS
+히트맨	hitman	히트맨	hitman		N;NOM;MASC;SG;POS
+히트맨	zabiják	히트맨	zabiják		N;ANIM;NOM;MASC;SG;POS
+버니	bernie	버니	bernie		N;ANIM;NOM;MASC;SG;POS
+토레스	torresová	토레스	torresový	PROPN	ADJ;NOM;FEM;SG;POS
+에리트레아	eritreji	에리트레아	eritre	PROPN	N;DAT;FEM;SG;POS
+명목	nominální	명목	nominální	N	ADJ;NOM;MASC;SG;POS
+엘비스	elvis	엘비스	elvis		PROPN;ANIM;NOM;MASC;SG;POS
+엘비스	elvise	엘비스	elvise		N;ANIM;NOM;MASC;SG;POS
+텔레노벨라	telenovela	텔레노벨+라	telenovela		N;NOM;FEM;SG;POS
+귀한	vzácný	귀하+ㄴ	vzácný		ADJ;INAN;NOM;MASC;SG;POS
+귀한	vzácné	귀하+ㄴ	vzácný		ADJ;NOM;NEUT;SG;POS
+귀한	vzácná	귀하+ㄴ	vzácný		ADJ;NOM;FEM;SG;POS
+리베라	rivera	리베+이+라	rivera		PROPN;ANIM;NOM;MASC;SG;POS
+양수	kladný	양수	kladný		ADJ;INAN;NOM;MASC;SG;POS
+양수	kladné	양수	kladný		ADJ;NOM;NEUT;SG;POS
+양수	pozitivní	양수	pozitivní		ADJ;INAN;NOM;MASC;SG;POS
+어색한	trapné	어색하+ㄴ	trapný	V	ADJ;NOM;NEUT;SG;POS
+어색한	trapas	어색하+ㄴ	trapas	V	N;INAN;NOM;MASC;SG;POS
+어색한	trapný	어색하+ㄴ	trapný	V	ADJ;INAN;NOM;MASC;SG;POS
+불가피한	nevyhnutelné	불가피+하+ㄴ	vyhnutelný	V	ADJ;NOM;NEUT;SG;NEG
+불가피한	nevyhnutelný	불가피+하+ㄴ	vyhnutelný	V	ADJ;INAN;NOM;MASC;SG;NEG
+불가피한	nevyhnutelná	불가피+하+ㄴ	vyhnutelný	V	ADJ;NOM;FEM;SG;NEG
+바바라	barbaru	바바+라	barbar		N;ACC;FEM;SG;POS
+바바라	barbara	바바+라	barbar		N;NOM;FEM;SG;POS
+콤보	combo	콤보	combo	N	PROPN;NOM;MASC;SG;POS
+레아	rhea	레아	rhea		N;NOM;FEM;SG;POS
+레아	lea	레아	lea		PROPN;NOM;FEM;SG;POS
+아톰	atom	아톰	atom		N;INAN;NOM;MASC;SG;POS
+마시기	pít	말+시+기	pít		V;POS;NFIN
+마시기	pití	말+시+기	pití		N;NOM;NEUT;SG;POS
+류블랴나	lublani	류블+히+나	lublan	PROPN	PROPN;DAT;FEM;SG;POS
+위생	hygienické	위생	hygienický	N	ADJ;NOM;MASC;SG;POS
+팩터	zin	팩터	zin		N;INAN;NOM;MASC;SG;POS
+팩터	činitel	팩터	činitel		N;ANIM;NOM;MASC;SG;POS
+팩터	faktor	팩터	faktor		N;INAN;NOM;MASC;SG;POS
+올라프	olaf	올라프	olaf		PROPN;ANIM;NOM;MASC;SG;POS
+인류학	antropologický	인류학	antropologický	N	ADJ;INAN;NOM;MASC;SG;POS
+에어아시아	airasia	에어아시아	airasia		N;NOM;FEM;SG;POS
+레이어	vrstvy	레이어	vrstva		N;NOM;FEM;PL;POS
+레이어	vrstev	레이어	vrstva		N;GEN;FEM;PL;POS
+레이어	vrstvu	레이어	vrstva		N;ACC;FEM;SG;POS
+레이어	vrstvy	레이어	vrstva		N;NOM;FEM;PL;POS
+레이어	vrstva	레이어	vrstva		N;NOM;FEM;SG;POS
+집착	posedlá	집착	posedlat	N	ADJ;NOM;FEM;SG;POS
+집착	posedlí	집착	posedlý	N	ADJ;ANIM;NOM;MASC;PL;POS
+집착	posedlý	집착	posedlý	N	ADJ;ANIM;NOM;MASC;SG;POS
+음주	pít	음주	pít		V;POS;NFIN
+음주	pití	음주	pití		N;NOM;NEUT;SG;POS
+음주	intoxikace	음주	intoxikace		N;NOM;FEM;SG;POS
+스프린트	sprint	스프린트	sprint		N;INAN;NOM;MASC;SG;POS
+호프만	hoffmann	호프+만	hoffmann	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+호프만	hoffman	호프+만	hoffman	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+팍스	pax	팍스	pax		PROPN;NOM;MASC;SG;POS
+패티	patti	패티	patti		PROPN;FEM;SG;POS
+패티	patty	패티	patta		PROPN;NOM;FEM;SG;POS
+하룻밤	jednodenní	하룻밤	jednodenní		ADJ;NOM;MASC;SG;POS
+보일러	kotel	보이러	kotel		N;INAN;NOM;MASC;SG;POS
+보일러	kotle	보이러	kotel		N;INAN;NOM;MASC;PL;POS
+신선	čerstvé	신선	čerstvý		ADJ;NOM;NEUT;SG;POS
+신선	fresh	신선	fresh		PROPN;INAN;NOM;MASC;SG;POS
+신선	svěží	신선	svěží		ADJ;NOM;MASC;SG;POS
+신선	čerstvý	신선	čerstvý		ADJ;INAN;NOM;MASC;SG;POS
+신선	čerstvá	신선	čerstvý		ADJ;NOM;FEM;SG;POS
+에이커	akr	에이커	akr		N;INAN;NOM;MASC;SG;POS
+에이커	akrů	에이커	akr		N;INAN;GEN;MASC;PL;POS
+조차도	dokonce	조차도	dokonce		ADV
+가루	práškové	가루	práškový		ADJ;NOM;MASC;SG;POS
+가루	prach	가루	prach		N;INAN;NOM;MASC;SG;POS
+가루	prášek	가루	prášek		N;INAN;NOM;MASC;SG;POS
+가루	pudr	가루	pudr		N;INAN;NOM;MASC;SG;POS
+리히터	richter	리히터	richter		PROPN;ANIM;NOM;MASC;SG;POS
+아르곤	argonu	아르곤	argon		N;INAN;GEN;MASC;SG;POS
+웨슬리	wesley	웨슬리	wesley		PROPN;ANIM;NOM;MASC;SG;POS
+니제르	niger	니제르	nigr	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+퀸시	quincy	퀸시	quincy		PROPN;ANIM;NOM;MASC;SG;POS
+숭배	uctívat	숭배	uctívat	N	V;IPFV;POS;NFIN
+독성	toxické	독성	toxický	N	ADJ;NOM;MASC;PL;POS
+독성	toxická	독성	toxický	N	ADJ;NOM;FEM;SG;POS
+독성	toxický	독성	toxický	N	ADJ;INAN;NOM;MASC;SG;POS
+트릭	trik	트릭	trik		N;INAN;NOM;MASC;SG;POS
+트릭	triky	트릭	trik		N;INAN;NOM;MASC;PL;POS
+트릭	triků	트릭	trik		N;INAN;GEN;MASC;PL;POS
+코멘트	komentář	코멘트	komentář		N;INAN;NOM;MASC;SG;POS
+코멘트	komentovat	코멘트	komentovat		V;POS;NFIN
+코멘트	komentáře	코멘트	komentář		N;INAN;NOM;MASC;PL;POS
+휘슬러	whistler	휘슬르+어	whistler		N;INAN;NOM;MASC;SG;POS
+도난	ukradené	돕+이+ㄴ	ukradený		ADJ;NOM;NEUT;SG;POS
+도난	ukradená	돕+이+ㄴ	ukradený		ADJ;NOM;FEM;SG;POS
+도난	ukradeno	돕+이+ㄴ	ukradený		ADJ;NEUT;SG;POS;V.PTCP;PASS
+도난	ukradl	돕+이+ㄴ	ukrást		V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+도난	ukradený	돕+이+ㄴ	ukradený		ADJ;INAN;NOM;MASC;SG;POS
+도난	krádež	돕+이+ㄴ	krádež		N;NOM;FEM;SG;POS
+도난	krádeže	돕+이+ㄴ	krádež		N;NOM;FEM;PL;POS
+유명인	slavná	유명+이+ㄴ	slavný	V	ADJ;NOM;FEM;SG;POS
+유명인	slavní	유명+이+ㄴ	slavný	V	ADJ;ANIM;NOM;MASC;PL;POS
+유명인	slavný	유명+이+ㄴ	slavný	V	ADJ;ANIM;NOM;MASC;SG;POS
+유명인	slavné	유명+이+ㄴ	slavný	V	ADJ;NOM;NEUT;SG;POS
+웨어	ware	웨+어	ware		PROPN;ANIM;NOM;MASC;SG;POS
+그라츠	graz	그라츠	graz	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+탬파	tampě	탬파	tampa	PROPN	PROPN;DAT;FEM;SG;POS
+팔라우	palau	팔라우	pala		PROPN;NOM;NEUT;SG;POS
+카리스마	charisma	카리스마	charisma		N;NOM;NEUT;SG;POS
+카리스마	charismatický	카리스마	charismatický		ADJ;ANIM;NOM;MASC;SG;POS
+자치령	dominionu	자치령	dominión		N;INAN;DAT;MASC;SG;POS
+매니토바	manitoba	매니토바	manitoba	PROPN	PROPN;NOM;FEM;SG;POS
+헤이	čau	헤+이	čau		INTJ
+준수	vyhovět	준수	vyhovět	N	V;PFV;POS;NFIN
+중서부	středozápadě	중서부	středozápad		N;INAN;DAT;MASC;SG;POS
+중서부	středozápadní	중서부	středozápadní		ADJ;NOM;MASC;SG;POS
+티나	tino	티+나	tino		PROPN;ANIM;NOM;MASC;SG;POS
+티나	tinu	티+나	tina		N;ACC;FEM;SG;POS
+티나	tina	티+나	tina		PROPN;NOM;FEM;SG;POS
+마스터링	zvládnutí	마스터링	zvládnutí		N;NOM;NEUT;SG;POS
+종속	závislé	종속	závislý		ADJ;NOM;NEUT;SG;POS
+종속	závislý	종속	závislý		ADJ;INAN;NOM;MASC;SG;POS
+종속	závislá	종속	závislý		ADJ;NOM;FEM;SG;POS
+종속	závislosti	종속	závislost		N;NOM;FEM;SG;POS
+종속	závislost	종속	závislost		N;NOM;FEM;SG;POS
+종속	závislosti	종속	závislost		N;NOM;FEM;SG;POS
+볼드윈	baldwin	볼드윈	baldwin		PROPN;ANIM;NOM;MASC;SG;POS
+명품	luxusní	명품	luxusní	N	ADJ;NOM;MASC;SG;POS
+크레인	jeřáby	크레인	jeřába		N;INAN;NOM;MASC;PL;POS
+크레인	crane	크레인	crane		PROPN;ANIM;NOM;MASC;SG;POS
+크레인	jeřáb	크레인	jeřáb		N;INAN;NOM;MASC;SG;POS
+체코어	česká	체코어	český		ADJ;NOM;FEM;SG;POS
+체코어	české	체코어	český		ADJ;NOM;MASC;SG;POS
+체코어	česky	체코어	česky		ADV;POS
+체코어	český	체코어	český		ADJ;INAN;NOM;MASC;SG;POS
+체코어	česko	체코어	český		ADJ;POS
+알레그로	allegro	알레그+로	allegro		N;NOM;MASC;SG;POS
+젖은	mokrý	젖+ㄴ	mokrý	V	ADJ;ANIM;NOM;MASC;SG;POS
+젖은	mokro	젖+ㄴ	mokro	V	N;NOM;NEUT;SG;POS
+젖은	vlhký	젖+ㄴ	vlhký	V	ADJ;INAN;NOM;MASC;SG;POS
+젖은	mokré	젖+ㄴ	mokrý	V	ADJ;NOM;NEUT;SG;POS
+젖은	mokrá	젖+ㄴ	mokrý	V	ADJ;NOM;FEM;SG;POS
+행크	hanka	행크	hanka	PROPN	N;NOM;FEM;SG;POS
+행크	hank	행크	hanka	PROPN	N;ANIM;NOM;MASC;SG;POS
+행크	hanku	행크	hanka	PROPN	N;ACC;FEM;SG;POS
+위임	delegace	위임	delegace		N;NOM;FEM;SG;POS
+위임	delegaci	위임	delegace		N;ACC;FEM;SG;POS
+위임	pověření	위임	pověření		N;NOM;NEUT;SG;POS
+위임	přenesené	위임	přenesený		ADJ;NOM;NEUT;SG;POS
+위임	pověřený	위임	pověřený		ADJ;ANIM;NOM;MASC;SG;POS
+슈나이더	schneider	슈나이더	schneider		PROPN;ANIM;NOM;MASC;SG;POS
+걸음	krok	걸음	krok		N;INAN;NOM;MASC;SG;POS
+걸음	schod	걸음	schod		N;INAN;NOM;MASC;SG;POS
+걸음	kroků	걸음	krok		N;INAN;GEN;MASC;PL;POS
+걸음	schody	걸음	schod		N;INAN;NOM;MASC;PL;POS
+걸음	kroky	걸음	krok		N;INAN;NOM;MASC;PL;POS
+세븐틴	seventeen	세븐틴	seventeen		PROPN;MASC;SG;POS
+세븐틴	sedmnáct	세븐틴	sedmnáct		NUM;NOM;SG
+할렐루야	aleluja	할쓸루+어야	alelovat		N;NOM;NEUT;SG;POS
+주머니	kapsu	주머니	kapsa		N;ACC;FEM;SG;POS
+주머니	kapesní	주머니	kapesní		ADJ;NOM;MASC;SG;POS
+주머니	kapsa	주머니	kapsa		N;NOM;FEM;SG;POS
+주머니	kapsy	주머니	kapsa		N;NOM;FEM;PL;POS
+주머니	vak	주머니	vak		N;INAN;NOM;MASC;SG;POS
+주머니	vaku	주머니	vak		N;INAN;GEN;MASC;SG;POS
+주머니	kapes	주머니	kapsa		N;GEN;FEM;PL;POS
+주머니	kapsy	주머니	kapsa		N;NOM;FEM;PL;POS
+덮개	krýt	덮개	krýt		V;POS;NFIN
+덮개	obal	덮개	obal		N;INAN;NOM;MASC;SG;POS
+덮개	krytí	덮개	krytí		N;NOM;NEUT;SG;POS
+덮개	pokrytí	덮개	pokrytí		N;NOM;NEUT;SG;POS
+스펀지	houba	스펀지	houba		N;NOM;FEM;SG;POS
+노키아	nokia	노키아	nokium		N;NOM;NEUT;SG;POS
+클리프	útes	클리프	útes		N;INAN;NOM;MASC;SG;POS
+클리프	cliff	클리프	cliff		PROPN;ANIM;NOM;MASC;SG;POS
+톰프슨	thompson	톰프슨	thompson	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+톰프슨	thompsona	톰프슨	thompson	PROPN	N;ANIM;ACC;MASC;SG;POS
+파푸아	papui	파푸아	papui	PROPN	PROPN;NOM;FEM;SG;POS
+록펠러	rockefeller	록펠러	rockefeller	PROPN	N;ANIM;NOM;MASC;SG;POS
+우치	łódź	우치	cód		PROPN;NOM;FEM;SG;POS
+이고르	igor	이고르	igor		PROPN;ANIM;NOM;MASC;SG;POS
+맑음	jasné	맑음	jasný		ADJ;NOM;NEUT;SG;POS
+맑음	jasný	맑음	jasný		ADJ;INAN;NOM;MASC;SG;POS
+맑음	čistý	맑음	čistý		ADJ;INAN;NOM;MASC;SG;POS
+맑음	vyčistit	맑음	vyčistit		V;PFV;POS;NFIN
+맑음	sunny	맑음	sunna		N;NOM;FEM;SG;POS
+맑음	slunečný	맑음	slunečný		ADJ;INAN;NOM;MASC;SG;POS
+직사각형	obdélníky	직사각형	obdélník		N;INAN;NOM;MASC;PL;POS
+직사각형	obdélník	직사각형	obdélník		N;INAN;NOM;MASC;SG;POS
+직사각형	obdélníkové	직사각형	obdélníkový		ADJ;NOM;MASC;PL;POS
+최소화	minimalizovat	최소화	minimalizovat		V;POS;NFIN
+최소화	minimalizaci	최소화	minimalizace		N;ACC;FEM;SG;POS
+최소화	minimalizovat	최소화	minimalizovat		V;POS;NFIN
+최소화	minimalizace	최소화	minimalizace		N;NOM;FEM;SG;POS
+재미	fun	재미	fune	N	PROPN;NOM;MASC;SG;POS
+재미	zábavné	재미	zábavný	N	ADJ;NOM;NEUT;SG;POS
+히스	heath	히스	heath		PROPN;ANIM;NOM;MASC;SG;POS
+미치	mitch	미치	mitm		PROPN;ANIM;NOM;MASC;SG;POS
+몰수	zabavit	몰수	zabavit	N	V;PFV;POS;NFIN
+몰수	zabavili	몰수	zabavit	N	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP;ACT
+몰수	zabavil	몰수	zabavit	N	V;PFV;MASC;SG;POS;PST;V.PTCP;ACT
+드라큘라	drákula	드라큘+이+라	drákovat		N;NOM;FEM;SG;POS
+악화	horší	악화	špatný	N	ADJ;NOM;CMPR;MASC;SG;POS
+악화	hůř	악화	špatně	N	ADV;CMPR;POS
+커크	kirk	커크	kirk		N;ANIM;NOM;MASC;SG;POS
+커크	kirku	커크	kirk		N;ACC;FEM;SG;POS
+테오도시우스	theodosius	테오도시우스	theodosius	PROPN	N;ANIM;NOM;MASC;SG;POS
+콘티넨탈	kontinentální	콘티넨탈	kontinentální		ADJ;NOM;MASC;SG;POS
+브릿지	mosty	브릿지	most		N;INAN;NOM;MASC;PL;POS
+브릿지	mostů	브릿지	most		N;INAN;GEN;MASC;PL;POS
+칵테일	koktejlů	무테+이+ㄹ	koktejl		N;INAN;GEN;MASC;PL;POS
+칵테일	koktejl	무테+이+ㄹ	koktejl		N;INAN;NOM;MASC;SG;POS
+칵테일	koktejly	무테+이+ㄹ	koktejl		N;INAN;NOM;MASC;PL;POS
+칵테일	koktejl	무테+이+ㄹ	koktejl		N;INAN;NOM;MASC;SG;POS
+동남아	jihovýchodní	동남아	jihovýchodní		ADJ;NOM;MASC;SG;POS
+프리웨어	freeware	프리웨어	freeware		N;NOM;MASC;SG;POS
+카트만두	káthmándú	카트만두	káthmándú	PROPN	N;INAN;NOM;MASC;SG;POS
+프라이	fry	프라이	fra		N;ANIM;NOM;MASC;SG;POS
+스팀	páry	스팀	pár		N;INAN;NOM;MASC;PL;POS
+스팀	pára	스팀	pára		N;NOM;FEM;SG;POS
+스팀	parní	스팀	parní		ADJ;NOM;MASC;SG;POS
+유리카	erica	유리카	erica		N;ANIM;ACC;MASC;SG;POS
+마지	marge	마지	marge		N;NOM;FEM;SG;POS
+하우	howe	하우	howně		PROPN;ANIM;NOM;MASC;SG;POS
+언더우드	underwood	언더우드	underwood		N;ANIM;NOM;MASC;SG;POS
+손잡이	rukojeť	손잡이	rukojeť		N;NOM;FEM;SG;POS
+손잡이	zvládnout	손잡이	zvládnout		V;PFV;POS;NFIN
+코코넛	kokos	코코넛	kokos		N;INAN;NOM;MASC;SG;POS
+고릴라	gorila	고릴라	gorit		N;NOM;FEM;SG;POS
+고릴라	gorily	고릴라	gorit		N;NOM;FEM;PL;POS
+하마	hroch	하마	hrocha		N;ANIM;NOM;MASC;SG;POS
+하마	hroši	하마	hroš		N;ANIM;NOM;MASC;PL;POS
+하마	hroch	하마	hrocha		N;ANIM;NOM;MASC;SG;POS
+비테르보	viterbo	비테르보	viterbo	PROPN	N;NOM;NEUT;SG;POS
+보완	doplňuje	보완	doplňovat		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+보완	doplňují	보완	doplňovat		V;IPFV;IND;PL;3;POS;PRS;FIN;ACT
+보완	doplněk	보완	doplněk		N;INAN;NOM;MASC;SG;POS
+보완	doplňovat	보완	doplňovat		V;IPFV;POS;NFIN
+보완	doplňková	보완	doplňkový		ADJ;NOM;FEM;SG;POS
+보완	doplňkové	보완	doplňkový		ADJ;NOM;NEUT;SG;POS
+좋아요	dobře	좋+아+요	dobře		ADV;POS
+웃음	smích	웃음	smích		N;INAN;NOM;MASC;SG;POS
+웃음	smích	웃음	smích		N;INAN;NOM;MASC;SG;POS
+웃음	smích	웃음	smích		N;INAN;NOM;MASC;SG;POS
+루가	luke	루+가	luka		PROPN;ANIM;NOM;MASC;SG;POS
+루가	luka	루+가	luka		N;NOM;FEM;SG;POS
+루가	luku	루+가	luk		N;INAN;GEN;MASC;SG;POS
+루가	lukáš	루+가	lukáš		PROPN;ANIM;NOM;MASC;SG;POS
+콜론	colón	콜론	colón		PROPN;NOM;MASC;SG;POS
+콜론	střevo	콜론	střevo		N;NOM;NEUT;SG;POS
+콜론	dvojtečka	콜론	dvojtečko		N;NOM;FEM;SG;POS
+아이유	dítě	아이유	dítě		N;NOM;NEUT;SG;POS
+아이유	dětská	아이유	dětský		ADJ;NOM;FEM;SG;POS
+피에몬테	piedmont	피에몬테	piedmont		N;INAN;NOM;MASC;SG;POS
+먹어	sníst	먹+어	sníst		V;POS;NFIN
+먹어	jíst	먹+어	jíst		V;POS;NFIN
+브랜던	brandon	브던+던	brandon		PROPN;ANIM;NOM;MASC;SG;POS
+리아	lea	리아	lea		PROPN;NOM;FEM;SG;POS
+리아	leah	리아	leah		PROPN;NOM;FEM;SG;POS
+리아	lia	리아	lia		PROPN;NOM;FEM;SG;POS
+밀어	zatlačit	밀+어	zatlačit		V;PFV;POS;NFIN
+밀어	tlačit	밀+어	tlačit		V;IPFV;POS;NFIN
+프롬	ples	프롬	ples		N;INAN;NOM;MASC;SG;POS
+프롬	plesy	프롬	ples		N;INAN;NOM;MASC;PL;POS
+루즈벨트	roosevelt	루즈벨트	roosevelt	PROPN	N;ANIM;NOM;MASC;SG;POS
+칠리	chilli	칠리	chilli		N;NOM;FEM;SG;POS
+칠리	chilli	칠리	chilli		N;NOM;FEM;SG;POS
+칠리	chili	칠리	chile		PROPN;NOM;MASC;SG;POS
+불신	nedůvěru	불신	nedůvěra		N;ACC;FEM;SG;POS
+소크라테스	sokrates	소크라테스	sokrates	PROPN	N;ANIM;NOM;MASC;SG;POS
+나가기	východ	나가+기	východ		N;INAN;NOM;MASC;SG;POS
+나가기	výstup	나가+기	výstup		N;INAN;NOM;MASC;SG;POS
+나가기	výjezd	나가+기	výjezd		N;INAN;NOM;MASC;SG;POS
+몬테	monte	몬테	monte		PROPN;NEUT;POS
+출판됨	zveřejněné	출판+되+ㄴ	zveřejněný	V	ADJ;NOM;MASC;PL;POS
+출판됨	zveřejněno	출판+되+ㄴ	zveřejněný	V	ADJ;NEUT;SG;POS;V.PTCP;PASS
+출판됨	zveřejněna	출판+되+ㄴ	zveřejněný	V	ADJ;POS;V.PTCP;PASS
+출판됨	vydané	출판+되+ㄴ	vydaný	V	ADJ;NOM;NEUT;SG;POS
+리프트	rift	리프트	rift		PROPN;INAN;NOM;MASC;SG;POS
+리프트	trhlina	리프트	trhlina		N;NOM;FEM;SG;POS
+리프트	zvedat	리프트	zvedat		V;IPFV;POS;NFIN
+리프트	výtah	리프트	výtah		N;INAN;NOM;MASC;SG;POS
+리프트	zvednout	리프트	zvednout		V;POS;NFIN
+도시락	oběd	도시락	oběd		N;INAN;NOM;MASC;SG;POS
+도시락	obědy	도시락	oběd		N;INAN;NOM;MASC;PL;POS
+보정	zvětšit	보정	zvětšit	N	V;PFV;POS;NFIN
+사랑스러운	krásné	사랑+스럽+ㄴ	krásný	V	ADJ;NOM;NEUT;SG;POS
+데일	dale	데일	daleko		PROPN;ANIM;NOM;MASC;SG;POS
+미스틱	mystic	미스틱	mystice		PROPN;NOM;MASC;SG;POS
+모리슨	morrison	모리슨	morrison		PROPN;ANIM;NOM;MASC;SG;POS
+표시하기	zobrazení	표시+하+기	zobrazení	V	N;NOM;NEUT;SG;POS
+표시하기	displej	표시+하+기	displej	V	N;INAN;NOM;MASC;SG;POS
+지킨	keane	지키+ㄴ	keane		PROPN;ANIM;NOM;MASC;SG;POS
+코다	coda	코+다	coda		N;NOM;FEM;SG;POS
+벨리즈	belize	벨리즈	belize	PROPN	PROPN;NOM;FEM;SG;POS
+만족	uspokojení	만족	uspokojení		N;NOM;NEUT;SG;POS
+만족	spokojenost	만족	spokojenost		N;NOM;FEM;SG;POS
+만족	spokojenost	만족	spokojenost		N;NOM;FEM;SG;POS
+만족	spokojený	만족	spokojený		ADJ;ANIM;NOM;MASC;SG;POS
+만족	spokojen	만족	spokojený		ADJ;MASC;SG;POS
+등기	zapsaný	등기	zapsaný		ADJ;INAN;NOM;MASC;SG;POS
+등기	registrované	등기	registrovaný		ADJ;NOM;NEUT;SG;POS
+등기	zapsané	등기	zapsaný		ADJ;NOM;NEUT;PL;POS
+등기	registrovaná	등기	registrovaný		ADJ;NOM;FEM;SG;POS
+등기	registrovaný	등기	registrovaný		ADJ;ANIM;NOM;MASC;SG;POS
+코모로	komory	코모+로	komora		N;NOM;FEM;PL;POS
+안젤라	angelo	안젤라	angelo		PROPN;ANIM;NOM;MASC;SG;POS
+안젤라	angelu	안젤라	angela		N;ACC;FEM;SG;POS
+안젤라	angela	안젤라	angela		N;NOM;FEM;SG;POS
+연주회	koncertní	연주회	koncertní	N	ADJ;NOM;MASC;SG;POS
+활성	aktivně	활성	aktivně	N	ADV;POS
+활성	aktivní	활성	aktivní	N	ADJ;NOM;MASC;SG;POS
+활성	aktivních	활성	aktivní	N	ADJ;GEN;MASC;PL;POS
+섹시	sexy	섹시	sex		N;NOM;FEM;PL;POS
+까마귀	corvus	까마귀	corvus		N;INAN;NOM;MASC;SG;POS
+까마귀	crow	까마귀	crow		PROPN;ANIM;NOM;MASC;SG;POS
+까마귀	vrána	까마귀	vrána		N;NOM;FEM;SG;POS
+까마귀	vrány	까마귀	vrána		N;NOM;FEM;PL;POS
+까마귀	havran	까마귀	havran		N;ANIM;NOM;MASC;SG;POS
+까마귀	raven	까마귀	raven		N;NOM;FEM;SG;POS
+나이프	nože	나이프	nůž		N;NOM;FEM;PL;POS
+나이프	noži	나이프	nůž		N;INAN;INS;MASC;PL;POS
+나이프	nůž	나이프	nůž		N;INAN;NOM;MASC;SG;POS
+라일리	rileyho	라일리	rile		PROPN;ANIM;GEN;MASC;SG;POS
+라일리	riley	라일리	rile		PROPN;ANIM;NOM;MASC;SG;POS
+라일리	reilly	라일리	reill		PROPN;ANIM;NOM;MASC;SG;POS
+레닌주의	leninismu	레닌주의	leninismus		N;INAN;GEN;MASC;SG;POS
+캐런	karen	캐+곤	kárný		PROPN;NOM;FEM;SG;POS
+일러스트레이터	ilustrátor	일러스트레이터	ilustrátor		N;ANIM;NOM;MASC;SG;POS
+북동	severovýchodní	북동	severovýchodní	N	ADJ;NOM;MASC;SG;POS
+북동	severovýchod	북동	severovýchod	N	ADJ;GEN;MASC;SG;POS
+조개	škeble	조개	škeble		N;NOM;FEM;PL;POS
+조개	škeble	조개	škeble		N;NOM;FEM;PL;POS
+조개	měkkýšů	조개	měkkýš		N;ANIM;GEN;MASC;PL;POS
+지오	gio	지오	gio		PROPN;NOM;MASC;SG;POS
+지오	geo	지오	geo		PROPN;INAN;NOM;MASC;SG;POS
+웁살라	uppsale	後살+라	uppsale	PROPN	N;DAT;FEM;SG;POS
+바베이도스	barbados	바베이도스	barbados	PROPN	N;INAN;NOM;MASC;SG;POS
+카라치	karáčí	카라치	karáčí	PROPN	N;NOM;NEUT;SG;POS
+플라이어스	letáky	플라이어스	leták		N;INAN;NOM;MASC;PL;POS
+아디다스	adidas	아디다스	adidas		N;NOM;MASC;SG;POS
+테라	tera	테라	tera		PROPN;NOM;FEM;SG;POS
+테라	terra	테라	terr		N;NOM;FEM;SG;POS
+에디터	vydavatel	에디터	vydavatel		N;ANIM;NOM;MASC;SG;POS
+에디터	redaktor	에디터	redaktor		N;ANIM;NOM;MASC;SG;POS
+에디터	editor	에디터	editor		N;INAN;NOM;MASC;SG;POS
+에디터	šéfredaktor	에디터	šéfredaktor		N;ANIM;NOM;MASC;SG;POS
+에디터	redakce	에디터	redakce		N;NOM;FEM;SG;POS
+에디터	editoři	에디터	editoř		N;ANIM;NOM;MASC;PL;POS
+부끄러운	hanba	부끄럽+ㄴ	hanba		N;NOM;FEM;SG;POS
+부끄러운	ostuda	부끄럽+ㄴ	ostuda		N;NOM;FEM;SG;POS
+부끄러운	škoda	부끄럽+ㄴ	škoda		N;NOM;FEM;SG;POS
+부끄러운	stydlivý	부끄럽+ㄴ	stydlivý		ADJ;ANIM;NOM;MASC;SG;POS
+부끄러운	plachá	부끄럽+ㄴ	plachý		ADJ;NOM;FEM;SG;POS
+부끄러운	stydlivá	부끄럽+ㄴ	stydlivý		ADJ;NOM;FEM;SG;POS
+부끄러운	plachý	부끄럽+ㄴ	plachý		ADJ;ANIM;NOM;MASC;SG;POS
+오마하	omahy	오마하	omaha	PROPN	N;INAN;NOM;MASC;PL;POS
+바덴	baden	바덴	baden	PROPN	PROPN;INAN;NOM;MASC;SG;POS
+테디	teddyho	테디	teddy		N;ANIM;ACC;MASC;SG;POS
+테디	teddy	테디	teddy		PROPN;ANIM;NOM;MASC;SG;POS
+버크	burke	버크	burka		PROPN;ANIM;NOM;MASC;SG;POS
+클린트	clint	클린트	clint	PROPN	N;ANIM;NOM;MASC;SG;POS
+스푸트니크	sputnik	스푸트니크	sputnik	PROPN	N;INAN;NOM;MASC;SG;POS
+다국어	vícejazyčné	다국어	vícejazyčný		ADJ;NOM;NEUT;SG;POS
+골짜기	údolí	골짜기	údolí		N;NOM;NEUT;SG;POS
+연구자	výzkumných	연구자	výzkumný	N	ADJ;GEN;MASC;PL;POS
+공작부인	vévodkyně	공작부+이+ㄴ	vévodkyně	V	N;NOM;FEM;SG;POS
+소프트볼	softball	소프트볼	softball		N;INAN;NOM;MASC;SG;POS
+브르타뉴	brittany	브르타뉴	brittan	PROPN	N;ANIM;NOM;MASC;PL;POS
+브르타뉴	breton	브르타뉴	breton	PROPN	PROPN;ANIM;NOM;MASC;SG;POS
+아바	ava	아바	ava		PROPN;NOM;FEM;SG;POS
+오라클	oracle	오라클	oracle		N;INAN;NOM;MASC;SG;POS
+오라클	vědma	오라클	vědma		N;NOM;FEM;SG;POS
+오라클	věštec	오라클	věštec		N;ANIM;NOM;MASC;SG;POS
+베로니카	veronika	베로니카	veronika	PROPN	N;NOM;FEM;SG;POS
+베로니카	veronica	베로니카	veronica	PROPN	N;NOM;FEM;SG;POS
+베로니카	veronika	베로니카	veronika	PROPN	N;NOM;FEM;SG;POS
+사파리	safari	사파리	safari		N;NOM;FEM;SG;POS
+스탭	personál	스탭	personál		N;INAN;NOM;MASC;SG;POS
+스탭	zaměstnanci	스탭	zaměstnanec		N;ANIM;NOM;MASC;PL;POS
+접미사	přípona	접미사	přípon		N;NOM;FEM;SG;POS
+접미사	přípony	접미사	přípon		N;NOM;FEM;PL;POS
+룰라	lula	있+라	lula		PROPN;ANIM;NOM;MASC;SG;POS
+애플렉	affleck	애플렉	affleck	PROPN	N;ANIM;NOM;MASC;SG;POS
+캘빈	calvin	캘비+ㄴ	calvina		PROPN;ANIM;NOM;MASC;SG;POS
+다이어트	diety	다이어트	dieta		N;NOM;FEM;PL;POS
+다이어트	dieta	다이어트	dieta		N;NOM;FEM;SG;POS
+다이어트	dieta	다이어트	dieta		N;NOM;FEM;SG;POS
+다이어트	strava	다이어트	strava		N;NOM;FEM;SG;POS
+다이어트	dietu	다이어트	dieta		N;ACC;FEM;SG;POS
+다이어트	dietní	다이어트	dietní		ADJ;NOM;MASC;SG;POS
+주간고속도로	mezistátní	주간+고속도+로	mezistátní	ADV	ADJ;NOM;MASC;SG;POS
+자연주의	naturalismus	자연주의	naturalismus		N;INAN;NOM;MASC;SG;POS
+투명	průsvitné	투명	průsvitný	N	ADJ;NOM;NEUT;SG;POS
+투명	průhledné	투명	průhledný	N	ADJ;NOM;NEUT;SG;POS
+투명	průhledný	투명	průhledný	N	ADJ;INAN;NOM;MASC;SG;POS
+투명	transparentní	투명	transparentní	N	ADJ;NOM;MASC;SG;POS
+석기	kamenný	석기	kamenný	N	ADJ;INAN;NOM;MASC;SG;POS
+석기	stone	석기	stůn	N	PROPN;ANIM;NOM;MASC;SG;POS
+영감	inspirovala	영감	inspirovat	N	V;POS;PST;V.PTCP;ACT
+영감	inspiroval	영감	inspirovat	N	V;MASC;SG;POS;PST;V.PTCP;ACT
+영감	inspirativní	영감	inspirativní	N	ADJ;NOM;MASC;SG;POS
+영감	inspirující	영감	inspirující	N	ADJ;IPFV;NOM;MASC;SG;POS;PRS;V.PTCP;ACT
+하르툼	chartúmu	하르+투	chartúm		N;INAN;GEN;MASC;SG;POS
+그렉	greg	그렉	greg		PROPN;ANIM;NOM;MASC;SG;POS
+애비	abby	애비	abby		N;NOM;FEM;SG;POS
+무적	neporazitelný	무적	porazitelný		ADJ;ANIM;NOM;MASC;SG;NEG
+두려움	strachu	두려움	strach		N;INAN;GEN;MASC;SG;POS
+두려움	strach	두려움	strach		N;INAN;NOM;MASC;SG;POS
+보좌	pomocné	보좌	pomocný	N	ADJ;NOM;MASC;PL;POS
+보좌	pomocný	보좌	pomocný	N	ADJ;INAN;NOM;MASC;SG;POS
+도시바	toshiba	도시바	toshib		N;NOM;FEM;SG;POS
+불분명하다	nejasný	불분명+하+다	jasný	V	ADJ;INAN;NOM;MASC;SG;NEG
+불분명하다	nejasná	불분명+하+다	jasný	V	ADJ;NOM;FEM;SG;NEG
+불분명하다	nejasné	불분명+하+다	jasný	V	ADJ;NOM;NEUT;SG;NEG
+코코아	kakao	코코아	kakao		N;NOM;NEUT;SG;POS
+코코아	kakaa	코코아	kakaa		N;NOM;NEUT;SG;POS
+미스테리	záhada	미스테리	záhada		N;NOM;FEM;SG;POS
+미스테리	záhady	미스테리	záhada		N;NOM;FEM;PL;POS
+보디가드	bodyguard	보디가드	bodyguard		N;ANIM;NOM;MASC;SG;POS
+반란군	rebel	반란군	rebel		PROPN;ANIM;NOM;MASC;SG;POS
+반란군	rebelové	반란군	rebelový		N;ANIM;NOM;MASC;PL;POS
+반란군	povstalci	반란군	povstalec		N;ANIM;NOM;MASC;PL;POS
+반란군	rebely	반란군	rebel		N;ANIM;NOM;MASC;PL;POS
+프레데터	predátor	프레데터	predátor		N;ANIM;NOM;MASC;SG;POS
+프레데터	dravec	프레데터	dravec		N;ANIM;NOM;MASC;SG;POS
+원판	negativy	원판	negativa		N;INAN;NOM;MASC;PL;POS
+마시	marsh	마시	marsh		PROPN;ANIM;NOM;MASC;SG;POS
+미카미	micah	미카미	micah		PROPN;ANIM;NOM;MASC;SG;POS
+리턴	vrací	리턴	vracet		V;IPFV;IND;SG;3;POS;PRS;FIN;ACT
+리턴	návratnost	리턴	návratnost		N;NOM;FEM;SG;POS
+리턴	návrat	리턴	návrat		N;INAN;NOM;MASC;SG;POS
+하이웨이	dálnici	하이스+이	dálnice		N;ACC;FEM;SG;POS
+하이웨이	dálnice	하이스+이	dálnice		N;NOM;FEM;SG;POS
+모욕을	urážet	모욕+을	urážet	N	V;IPFV;POS;NFIN

@@ -1,0 +1,5683 @@
+kategória	カテゴリー	kategória	カテゴリー		N
+kategória	区分	kategória	区分		N
+kategória	カテゴリ	kategória	カテゴリ		N
+kategória	分類	kategória	分類		V
+kategória	カテゴリー	kategória	カテゴリー		N
+kategória	カテゴリ	kategória	カテゴリ		N
+kategória	分類	kategória	分類		V
+egy	一	egy	一	DET;INDF	NUM
+egy	one	egy	one	DET;INDF	PROPN
+egy	一人	egy	一人	DET;INDF	PROPN
+egy	ワン	egy	ワン	DET;INDF	N
+nem	not	nem	not	ADV	PROPN
+ben	ベン	ben	ベン		PROPN
+volt	had	van	had	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+volt	was	van	was	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+meg	メグ	meg	メグ	PART	PROPN
+első	ファースト	első	ファースト	ADJ;NOM;SG	N
+első	最初	első	最初	ADJ;NOM;SG	N
+csak	のみ	csak	のみ	ADV	ADP
+csak	ジャスト	csak	ジャスト	ADV	PROPN
+csak	ただ	csak	ただ	ADV	CONJ
+még	偶数	még	偶数	ADV	N
+még	even	még	even	ADV	PROPN
+még	スティル	még	スティル	ADV	N
+még	それ	még	それ	ADV	PRO
+település	和解	település	和解	N;NOM;SG	V
+után	アフター	után	アフター	ADP	PROPN
+további	さらに	további	さらに	N;NOM;SG	ADV
+további	もっと	további	もっと	N;NOM;SG	ADV
+nagy	ビッグ	nagy	ビッグ	ADJ;NOM;SG	N
+klub	棍	klub	棍	N;NOM;SG	PROPN
+több	もっと	több	もっと	DET;INDF	ADV
+lett	ラトビア	lesz	ラトビア	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+vita	話し合い	vita	話し合い	N;NOM;SG	V
+vita	ヴィータ	vita	ヴィータ	N;NOM;SG	PROPN
+vita	申し立て	vita	申し立て	N;NOM;SG	V
+budapest	ブダペスト	budapest	ブダペスト	PROPN;NOM;SG	PROPN
+aki	who	aki	who	PRO;NOM;SG;3	PROPN
+ezt	この	ez	この	PRO;ACC;SG;3	DET
+itt	ここ	itt	ここ	ADV	PRO
+akkor	それ	akkor	それ	ADV	PRO
+amerikai	アメリカン	amerikai	アメリカン	ADJ;NOM;SG	N
+német	ドイツ語	német	ドイツ語	ADJ;NOM;SG	N
+válogatott	盛り合わせ	válogat	盛り合わせる		V
+francia	フレンチ	francia	フレンチ		N
+francia	フランス	francia	フランス		PROPN
+május	メイ	május	メイ	N;NOM;SG	PROPN
+kell	ニーズ	kell	ニーズ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+kell	ニーズ	kell	ニーズ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+ahol	どこ	ahol	どこ	ADV	PRO
+más	異なる	más	異なる	PRO;NOM;SG;3	V
+más	その	más	その	PRO;NOM;SG;3	DET
+augusztus	アウグスト	augusztus	アウグスト	N;NOM;SG	PROPN
+minden	すべて	minden	すべて	PRO;NOM;SG;3	N
+minden	全て	minden	全て	PRO;NOM;SG;3	ADV
+minden	all	minden	all	PRO;NOM;SG;3	PROPN
+minden	すべて	minden	すべて	PRO;NOM;SG;3	N
+ami	アミ	ami	アミ	PRO;NOM;SG;3	PROPN
+lehet	can	lesz	can	V;INDF;POT;SG;3;PRS;FIN;ACT	PROPN
+alatt	以下	alatt	以下	ADP	N
+második	番目	második	番目		N
+második	セカンド	második	セカンド		N
+megye	カウンティ	megye	カウンティ		PROPN
+megye	部署	megye	部署		N
+megye	学科	megye	学科		N
+megye	部門	megye	部門		N
+bélyegkép	サムネイル	bélyegkép	サムネイル		PROPN
+mert	なぜ	mert	なぜ	CONJ	ADV
+mert	だっ	mert	だ	CONJ	CONJ
+később	後	későn	後	ADV	N
+jpg	jpg	jpg	jpg		PROPN
+november	十一月	november	十一月	N;NOM;SG	PROPN
+bar	バール	bar	バール		N
+bar	バー	bar	バー		N
+április	エイプリル	április	エイプリル	N;NOM;SG	PROPN
+város	シティ	város	シティ	N;NOM;SG	PROPN
+amikor	いつ	amikor	いつ	ADV	N
+amikor	とき	amikor	とき	ADV	N
+létrehozott	作成	létrehozott	作成	N;ACC;SG	V
+három	三人	három	三人	NUM;NOM;SG	N
+három	three	három	three	NUM;NOM;SG	PROPN
+három	スリー	három	スリー	NUM;NOM;SG	PROPN
+nemzetközi	インターナショナル	nemzetközi	インターナショナル	ADJ;NOM;SG	N
+nemzetközi	国際	nemzetközi	国際	ADJ;NOM;SG	N
+díj	受賞	díj	受賞	N;NOM;SG	V
+díj	表彰	díj	表彰	N;NOM;SG	V
+mivel	以来	mivel	以来	CONJ	N
+mivel	since	mivel	since	CONJ	PROPN
+jános	ジョン	jános	ジョン	N;NOM;SG	PROPN
+től	から	től	から		CONJ
+istván	スティーヴン	istván	スティーヴン		PROPN
+istván	イシュトヴァーン	istván	イシュトヴァーン		PROPN
+http	http	http	http		PROPN
+lásd	見る	lásd	見る		V
+szent	セイント	szent	セイント		PROPN
+szent	聖人	szent	聖人		N
+angol	イングリッシュ	angol	イングリッシュ		N
+angol	英語	angol	英語		N
+ezért	ゆえ	ezért	ゆえ	CONJ	N
+király	すごい	király	すごい		ADJ
+király	クール	király	クール		N
+király	涼しい	király	涼しい		ADJ
+külső	外側	külső	外側		N
+külső	アウター	külső	アウター		N
+külső	外部	külső	外部		N
+külső	外側	külső	外側		N
+előtt	以前	előtt	以前	ADP	N
+nemzeti	国民	nemzeti	国民	ADJ;NOM;SG	N
+nemzeti	ナショナル	nemzeti	ナショナル	ADJ;NOM;SG	PROPN
+józsef	ヨセフ	józsef	ヨセフ		PROPN
+élő	リビング	élő	リビング		N
+élő	living	élő	living		PROPN
+élő	ライブ	élő	ライブ		N
+élő	生きる	élő	生きる		V
+voltak	were	van	were	V;INDF;IND;PL;3;PST;FIN;ACT	PROPN
+lászló	ラズロ	lászló	ラズロ		PROPN
+évi	イヤー	évi	イヤー		N
+ferenc	フランシス	ferenc	フランシス	PROPN;NOM;SG	PROPN
+hivatalos	職員	hivatalos	職員	ADJ;NOM;SG	N
+saját	own	saját	own	PRO;NOM;SG;3	PROPN
+ellen	反対	ellen	反対	ADP	
+sok	多数	sok	多数		N
+sok	lot	sok	lot		PROPN
+sok	ロット	sok	ロット		N
+svg	svg	svg	svg	N;NOM;SG	PROPN
+először	ファースト	először	ファースト	ADV	N
+először	最初	először	最初	ADV	N
+következő	next	következő	next		PROPN
+kis	スモール	kis	スモール	ADJ;NOM;SG	N
+kis	リトル	kis	リトル	ADJ;NOM;SG	PROPN
+együtt	together	együtt	together		PROPN
+team	チーム	team	チーム		N
+néhány	少数	néhány	少数	DET;INDF	N
+néhány	いくつか	néhány	いくつか	DET;INDF	ADV
+néhány	一部	néhány	一部	DET;INDF	N
+néhány	いくらか	néhány	いくらか	DET;INDF	ADV
+isbn	isbn	isbn	isbn		PROPN
+utolsó	最終	utolsó	最終		N
+utolsó	ラスト	utolsó	ラスト		N
+utolsó	最後	utolsó	最後		N
+utolsó	最終	utolsó	最終		N
+utolsó	決勝	utolsó	決勝		N
+utolsó	ファイナル	utolsó	ファイナル		PROPN
+ott	そこ	ott	そこ	ADV	PRO
+templom	テンプル	templom	テンプル	N;NOM;SG	PROPN
+templom	チャーチ	templom	チャーチ	N;NOM;SG	PROPN
+magyarország	ハンガリー	magyarország	ハンガリー	N;NOM;SG	PROPN
+elhunyt	故人	el+huny	故人	V;INDF;IND;SG;3;PST;FIN;ACT	N
+legjobb	最高	jó	最高		N
+legjobb	ベスト	jó	ベスト		N
+legjobb	best	jó	best		PROPN
+európa	欧州	európa	欧州		PROPN
+európa	ヨーロッパ	európa	ヨーロッパ		PROPN
+olasz	イタリアン	olasz	イタリアン		N
+hivatkozások	参照	hivatkozás	参照	N;NOM;PL	V
+hivatkozások	リファレンス	hivatkozás	リファレンス	N;NOM;PL	PROPN
+hivatkozások	リンク	hivatkozás	リンク	N;NOM;PL	V
+római	ローマン	római	ローマン	ADJ;NOM;SG	N
+római	ロマン	római	ロマン	ADJ;NOM;SG	N
+római	ローマ	római	ローマ	ADJ;NOM;SG	N
+számos	多数	számos	多数		N
+teljes	合計	teljes	合計		N
+teljes	いっぱい	teljes	いっぱい		N
+teljes	フル	teljes	フル		N
+teljes	コンプリート	teljes	コンプリート		N
+teljes	完備	teljes	完備		V
+legnagyobb	最大	nagy	最大	ADJ;NOM;RL;SG	N
+óta	以来	óta	以来	ADP	N
+óta	since	óta	since	ADP	PROPN
+egyesült	ユナイテッド	egyesül	ユナイテッド	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+igen	はい	igen	はく		CONJ
+halál	デス	halál	デス	N;NOM;SG	PROPN
+bár	バール	bár	バール	CONJ	N
+bár	バー	bár	バー	CONJ	N
+bár	だけれど	bár	だけれど	CONJ	CONJ
+készült	made	készül	made	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+születési	誕生	születési	誕生	ADJ;NOM;SG	V
+katolikus	カトリック	katolikus	カトリック		N
+from	から	from	から		CONJ
+kapcsolódó	関連	kapcsolódó	関連	ADJ;NOM;SG	V
+négy	four	négy	four	NUM;NOM;SG	PROPN
+négy	フォー	négy	フォー	NUM;NOM;SG	N
+eredeti	オリジナル	eredeti	オリジナル	N;NOM;SG	ADJ
+áll	スタンディング	áll	スタンディング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+míg	while	míg	while	ADV	PROPN
+györgy	ジョージ	györgy	ジョージ	N;NOM;SG	PROPN
+györgy	ジェルジ	györgy	ジェルジ	N;NOM;SG	PROPN
+sándor	アレクサンドロス	sándor	アレクサンドロス		PROPN
+sándor	アレクサンダー	sándor	アレクサンダー		PROPN
+sándor	アレキサンダー	sándor	アレキサンダー		PROPN
+jegyzőkönyv	protocol	jegyzőkönyv	protocol	N;NOM;SG	PROPN
+lajos	ルイス	lajos	ルイス		PROPN
+lajos	ルイ	lajos	ルイ		PROPN
+egész	全体	egész	全体		N
+szintén	also	szintén	also		PROPN
+szintén	また	szintén	また		CONJ
+károly	シャルル	károly	シャルル	N;NOM;SG	PROPN
+mai	マイ	mai	マイ		N
+különböző	異なる	különböző	異なる		V
+péter	ペーター	péter	ペーター		PROPN
+péter	peter	péter	peter		PROPN
+péter	ピーター	péter	ピーター		PROPN
+szó	word	szó	word	N;NOM;SG	PROPN
+harmadik	番目	harmadik	番目		N
+harmadik	サード	harmadik	サード		PROPN
+belül	インサイド	belül	インサイド	ADP	N
+kiadó	出版	kiadó	出版	N;NOM;SG	V
+kiadó	借りる	kiadó	借りる	N;NOM;SG	V
+kiadó	レント	kiadó	レント	N;NOM;SG	PROPN
+kiadó	出版	kiadó	出版	N;NOM;SG	V
+női	女性	női	女性		N
+női	女性	női	女性		N
+junior	ジュニア	junior	ジュニア		N
+wikipédia	wikipedia	wikipédia	wikipedia	N;NOM;SG	PROPN
+wikipédia	ウィキペディア	wikipédia	ウィキペディア	N;NOM;SG	PROPN
+mind	all	mind	all	CONJ	PROPN
+mind	すべて	mind	すべて	CONJ	N
+tól	から	tól	から		CONJ
+orosz	ロシア	orosz	ロシア		PROPN
+hazai	国内	hazai	国内	ADJ;NOM;SG	N
+dél	正午	dél	正午		N
+dél	サザン	dél	サザン		N
+dél	南部	dél	南部		N
+dél	サウス	dél	サウス		PROPN
+éves	年次	éves	年次	ADJ;NOM;SG	N
+iii	iii	iii	iii		PROPN
+egyetlen	シングル	egyetlen	シングル		N
+egyetlen	独身	egyetlen	独身		N
+nélkül	なし	nélkül	なす	ADP	
+most	now	most	now	ADV	PROPN
+most	ナウ	most	ナウ	ADV	PROPN
+hosszú	長い	hosszú	長い		ADJ
+hosszú	ロング	hosszú	ロング		N
+általában	通常	általában	通常		N
+általában	通常	általában	通常		N
+férfi	man	férfi	man	N;NOM;SG	PROPN
+szerzett	後	szerzett	後	V;INDF;IND;SG;3;PST;FIN;ACT	N
+királyi	ロイヤル	királyi	ロイヤル		N
+ember	man	ember	man	N;NOM;SG	PROPN
+régi	古い	régi	古い		ADJ
+régi	オールド	régi	オールド		N
+vissza	return	vissza	return	ADV	PROPN
+vissza	リターン	vissza	リターン	ADV	N
+vissza	戻る	vissza	戻る	ADV	V
+vissza	後ろ	vissza	後ろ	ADV	N
+vissza	背中	vissza	背中	ADV	N
+vissza	裏側	vissza	裏側	ADV	N
+japán	日本	japán	日本		PROPN
+japán	日本人	japán	日本人		N
+japán	ジャパニーズ	japán	ジャパニーズ		N
+japán	日本語	japán	日本語		N
+miután	アフター	miután	アフター	CONJ	PROPN
+egyéb	その	egyéb	その		DET
+egyéb	他の	egyéb	他の		ADJ
+egyéb	その	egyéb	その		DET
+gyakran	頻繁	gyakran	頻繁		ADJ
+gyakran	頻繁	gyakran	頻繁		ADJ
+gyakran	しばしば	gyakran	しばしば		ADV
+korábbi	前者	korábbi	前者	ADJ;NOM;CMPR;SG	N
+újra	アゲイン	újra	アゲイン	ADV	PROPN
+kisebb	マイナー	kis	マイナー	ADJ;NOM;CMPR;SG	
+brit	ブリット	brit	ブリット		PROPN
+álló	停滞	álló	停滞	ADJ;NOM;SG	V
+john	ジョン	john	ジョン		PROPN
+észak	ノース	észak	ノース		PROPN
+észak	ノーザン	észak	ノーザン		PROPN
+észak	北方	észak	北方		N
+észak	北部	észak	北部		PROPN
+neki	him	ő	him		PROPN
+mária	マリー	mária	マリー		PROPN
+mária	メアリ	mária	メアリ		PROPN
+mária	メアリー	mária	メアリー		PROPN
+mária	マリア	mária	マリア		PROPN
+mária	マリヤ	mária	マリヤ		PROPN
+rendező	ディレクター	rendező	ディレクター	N;NOM;SG	PROPN
+rövid	短い	rövid	短い		ADJ
+rövid	ショート	rövid	ショート		N
+dátum	デート	dátum	デート	N;NOM;SG	
+dátum	日付	dátum	日付	N;NOM;SG	V
+jelenlegi	現在	jelenlegi	現在		N
+hely	place	hely	place	N;NOM;SG	PROPN
+jelenleg	現在	jelenleg	現在	ADV	N
+fekete	黒い	feket	黒い		ADJ
+fekete	ブラック	feket	ブラック		PROPN
+fehér	白い	fehér	白い		ADJ
+fehér	ホワイト	fehér	ホワイト		N
+miklós	ニコラス	miklós	ニコラス		PROPN
+miklós	ミクローシュ	miklós	ミクローシュ		PROPN
+szóló	ソロ	szóló	ソロ	ADJ;NOM;SG	N
+andrás	アンドリュー	andrás	アンドリュー	PROPN;NOM;SG	PROPN
+lista	リスト	lista	リスト	N;NOM;SG	V
+többi	安静	többi	安静		V
+többi	休む	többi	休む		V
+budapesti	ブダペスト	budapesti	ブダペスト	ADJ;NOM;SG	PROPN
+országos	国民	országos	国民	ADJ;NOM;SG	N
+országos	ナショナル	országos	ナショナル	ADJ;NOM;SG	PROPN
+országos	全国	országos	全国	ADJ;NOM;SG	N
+helyi	ローカル	helyi	ローカル		ADJ
+helyi	地元	helyi	地元		N
+katonai	軍事	katonai	軍事	ADJ;NOM;SG	N
+katonai	軍隊	katonai	軍隊	ADJ;NOM;SG	N
+világ	世界	világ	世界		N
+világ	ワールド	világ	ワールド		N
+északi	ノース	északi	ノース		PROPN
+északi	ノルディック	északi	ノルディック		PROPN
+északi	ノーザン	északi	ノーザン		PROPN
+északi	北方	északi	北方		N
+északi	北部	északi	北部		PROPN
+pál	ポール	pál	ポール		N
+pál	パウル	pál	パウル		PROPN
+általános	ジェネリック	általános	ジェネリック		PROPN
+általános	全般	általános	全般		N
+általános	一般	általános	一般		N
+általános	将軍	általános	将軍		N
+déli	サザン	déli	サザン		N
+déli	南部	déli	南部		N
+déli	サウス	déli	サウス		PROPN
+keresztül	through	keresztül	through	ADP	PROPN
+keresztül	スルー	keresztül	スルー	ADP	PROPN
+nyugati	ウエスト	nyugati	ウエスト		N
+nyugati	西部	nyugati	西部		N
+nyugati	ウェスト	nyugati	ウェスト		PROPN
+nyugati	ウェスタン	nyugati	ウェスタン		PROPN
+nyugati	ウエスタン	nyugati	ウエスタン		N
+keleti	イースト	keleti	イースト		N
+keleti	東部	keleti	東部		PROPN
+keleti	オリエンタル	keleti	オリエンタル		N
+keleti	東部	keleti	東部		PROPN
+nap	sun	nap	sun	N;NOM;SG	PROPN
+nap	day	nap	day	N;NOM;SG	PROPN
+png	png	png	png	N;NOM;PL	PROPN
+nyári	summer	nyári	summer		PROPN
+nyári	サマー	nyári	サマー		N
+link	リンク	link	リンク		V
+látható	可視	látható	可視	ADJ;NOM;SG	N
+ellenére	にも	ellenére	にも	ADP	ADV
+béla	ベーラ	béla	ベーラ		PROPN
+közben	その	közben	その	ADV	DET
+közben	一方	közben	一方	ADV	CONJ
+center	センター	center	センター		N
+center	中央	center	中央		N
+center	中心	center	中心		N
+html	html	html	html	N;NOM;SG	PROPN
+mihály	ミヒャエル	mihály	ミヒャエル		PROPN
+mihály	マイケル	mihály	マイケル		PROPN
+kupa	cup	kupa	cup	N;NOM;SG	PROPN
+osztrák	オーストリア	osztrák	オーストリア		PROPN
+com	com	com	com		PROPN
+herceg	デューク	herceg	デューク	N;NOM;SG	PROPN
+magas	ハイ	magas	ハイ	ADJ;NOM;SG	N
+kínai	中国語	kínai	中国語		N
+kínai	中国人	kínai	中国人		N
+der	デア	der	デア		PROPN
+millió	ミリオン	millió	ミリオン	NUM;NOM;SG	PROPN
+millió	million	millió	million	NUM;NOM;SG	PROPN
+vezető	店長	vezető	店長		N
+vezető	支配	vezető	支配		N
+vezető	マネージャー	vezető	マネージャー		N
+vezető	マネージャ	vezető	マネージャ		N
+vezető	運転	vezető	運転		N
+vezető	ドライバ	vezető	ドライバ		N
+vezető	ドライバー	vezető	ドライバー		N
+vezető	リーダー	vezető	リーダー		N
+vendég	カスタマー	vendég	カスタマー	N;NOM;SG	PROPN
+vendég	ゲスト	vendég	ゲスト	N;NOM;SG	PROPN
+vendég	ゲスト	vendég	ゲスト	N;NOM;SG	PROPN
+zoltán	ゾルターン	zoltán	ゾルターン	N;NOM;SG	PROPN
+franciaország	フランス	franciaország	フランス	N;NOM;SG	PROPN
+együttes	band	együttes	band		PROPN
+együttes	バンド	együttes	バンド		N
+együttes	アンサンブル	együttes	アンサンブル		N
+együttes	関節	együttes	関節		N
+elég	十分	elég	十分		ADJ
+valaki	誰	valaki	誰		PRO
+usa	米国	usa	米国		PROPN
+mikor	いつ	mikor	いつ	ADV	N
+mikor	とき	mikor	とき	ADV	N
+belső	内部	belső	内部		N
+belső	内装	belső	内装		N
+belső	内面	belső	内面		N
+belső	インテリア	belső	インテリア		N
+belső	内部	belső	内部		N
+belső	内側	belső	内側		N
+belső	インナー	belső	インナー		N
+belső	内面	belső	内面		N
+azonos	同	azonos	同		ADJ
+elmúlt	過去	elmúlt	過去	V;INDF;IND;SG;3;PST;FIN;ACT	N
+írta	筆記	ír	筆記	V;DEF;IND;SG;3;PST;FIN;ACT	N
+császár	エンペラー	császár	エンペラー		PROPN
+császár	皇帝	császár	皇帝		N
+császár	天皇	császár	天皇		N
+szerkesztő	エディター	szerkesztő	エディター	N;NOM;SG	PROPN
+túl	ビヨンド	túl	ビヨンド		PROPN
+túl	too	túl	too		PROPN
+szabad	フリー	szabad	フリー		PROPN
+szabad	無料	szabad	無料		N
+szabad	自由	szabad	自由		ADJ
+valószínűleg	おそらく	valószínűleg	おそらく		ADV
+megfelelő	準拠	megfelelő	準拠		V
+sor	キュー	sor	キュー		N
+sor	直線	sor	直線		N
+sor	ライン	sor	ライン		N
+főleg	主に	főleg	主に		ADV
+főleg	特に	főleg	特に		ADV
+for	for	for	for		PROPN
+összesen	合計	összesen	合計		N
+aktív	アクティブ	aktív	アクティブ		N
+hét	seven	hét	seven	N;NOM;SG	PROPN
+hét	セブン	hét	セブン	N;NOM;SG	PROPN
+pont	ポイント	pont	ポイント		N
+pont	ポイント	pont	ポイント		N
+állami	都道府県	állami	都道府県		N
+állami	状態	állami	状態		N
+németország	ドイツ	németország	ドイツ	N;NOM;SG	PROPN
+talán	たぶん	talán	たぶん	ADV	CONJ
+talán	多分	talán	多分	ADV	
+talán	未定	talán	未定	ADV	ADJ
+hat	シックス	hat	シックス		V
+hat	six	hat	six		PROPN
+tett	made	tesz	made	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+dal	ダール	dal	ダール	N;NOM;SG	PROPN
+szlovák	スロバキア	szlovák	スロバキア	ADJ;NOM;SG	PROPN
+közös	共有	közös	共有		V
+közös	共通	közös	共通		V
+közös	関節	közös	関節		N
+folyó	河川	folyó	河川		N
+san	san	san	san		PROPN
+san	サン	san	サン		N
+önálló	独立	önálló	独立		ADJ
+önálló	インディペンデント	önálló	インディペンデント		N
+önálló	自律	önálló	自律		N
+önálló	ソロ	önálló	ソロ		N
+részben	パート	részben	パート	ADV	N
+részben	部分	részben	部分	ADV	N
+részben	一部	részben	一部	ADV	N
+tamás	トマス	tamás	トマス	N;NOM;SG	PROPN
+tamás	トーマス	tamás	トーマス	N;NOM;SG	PROPN
+szovjet	ソビエト	szovjet	ソビエト		PROPN
+miért	why	miért	why	ADV	PROPN
+birodalom	エンパイア	birodalom	エンパイア	N;NOM;SG	PROPN
+birodalom	レルム	birodalom	レルム	N;NOM;SG	PROPN
+megyei	カウンティ	megyei	カウンティ	ADJ;NOM;SG	PROPN
+fifa	fifa	fifa	fifa	N;NOM;PL	PROPN
+alsó	ボトム	alsó	ボトム		N
+tér	四角	tér	四角	N;NOM;SG	PROPN
+közel	閉じる	közel	閉じる		V
+közel	クローズ	közel	クローズ		N
+közel	付近	közel	付近		N
+közel	近く	közel	近く		ADV
+kör	round	kör	round	N;NOM;SG	PROPN
+kör	丸い	kör	丸く	N;NOM;SG	ADJ
+york	ヨーク	york	ヨーク		PROPN
+fiatal	若い	fiatal	若い		ADJ
+fiatal	ヤング	fiatal	ヤング		N
+felső	top	felső	top		PROPN
+felső	上部	felső	上部		N
+felső	トップ	felső	トップ		N
+arany	ゴールデン	arany	ゴールデン		N
+arany	黄金	arany	黄金		N
+arany	gold	arany	gold		PROPN
+arany	ゴールド	arany	ゴールド		N
+járás	ディストリクト	járás	ディストリクト	N;NOM;SG	PROPN
+zenei	ミュージカル	zenei	ミュージカル	ADJ;NOM;SG	N
+attila	アッティラ	attila	アッティラ		PROPN
+játékok	オモチャ	játék	オモチャ	N;NOM;PL	
+játékok	玩具	játék	玩具	N;NOM;PL	
+központi	中央	központi	中央	ADJ;NOM;SG	N
+központi	セントラル	központi	セントラル	ADJ;NOM;SG	PROPN
+modern	モダン	modern	モダン		N
+world	世界	world	世界		N
+world	ワールド	world	ワールド		N
+poszt	ポスト	poszt	ポスト	N;NOM;SG	PROPN
+poszt	投稿	poszt	投稿	N;NOM;SG	V
+tagjai	メンバ	tag	メンバ	N;NOM;PL	PROPN
+szabó	仕立て	szabó	仕立て		V
+hadsereg	アーミー	hadsereg	アーミー	N;NOM;SG	PROPN
+latin	ラテン語	latin	ラテン語		N
+latin	ラテン	latin	ラテン		PROPN
+vörös	赤い	vörös	赤い		ADJ
+vörös	赤色	vörös	赤色		N
+vörös	レッド	vörös	レッド		N
+városi	アーバン	városi	アーバン	ADJ;NOM;SG	N
+városi	シティ	városi	シティ	ADJ;NOM;SG	PROPN
+városi	都市	városi	都市	ADJ;NOM;SG	N
+különösen	特に	különös	特に	ADJ;FRML;SG	ADV
+különösen	特に	különös	特に	ADJ;FRML;SG	ADV
+club	クラブ	club	クラブ		N
+club	棍	club	棍		PROPN
+gróf	カウント	gróf	カウント		N
+olaszország	イタリア	olaszország	イタリア		PROPN
+olaszország	イタリアン	olaszország	イタリアン		N
+anna	アナ	az	アナ		PROPN
+anna	アンナ	az	アンナ		PROPN
+győzelem	win	győzelem	win	N;NOM;SG	PROPN
+győzelem	勝利	győzelem	勝利	N;NOM;SG	V
+győzelem	勝ち	győzelem	勝つ	N;NOM;SG	V
+győzelem	勝つ	győzelem	勝つ	N;NOM;SG	V
+győzelem	勝利	győzelem	勝利	N;NOM;SG	V
+győzelem	優勝	győzelem	優勝	N;NOM;SG	V
+győzelem	勝利	győzelem	勝利	N;NOM;SG	V
+nevet	笑い	név	笑い	N;ACC;SG	V
+nevet	笑う	név	笑う	N;ACC;SG	V
+szükséges	ニーズ	szükséges	ニーズ	ADJ;NOM;SG	N
+szükséges	必須	szükséges	必須	ADJ;NOM;SG	N
+pár	少数	pár	少数		N
+pár	カップル	pár	カップル		N
+pápa	教皇	pápa	教皇		N
+játékos	陽気	játékos	陽気	N;NOM;SG	ADJ
+játékos	遊び心	játékos	遊び心	N;NOM;SG	PROPN
+élet	生活	élet	生活	N;NOM;SG	V
+nyert	ウォン	nyert	ウォン	V;INDF;IND;SG;3;PST;FIN;ACT	N
+nyert	won	nyert	won	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+egyébként	さもなけれ	egyébként	さもなけれ	ADV	V
+tette	did	tesz	did	V;DEF;IND;SG;3;PST;FIN;ACT	PROPN
+budapesten	ブダペスト	budapest	ブダペスト	N;ON+ESS;SG	PROPN
+vezetett	led	vezetett	led	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+michael	ミヒャエル	michael	ミヒャエル		PROPN
+michael	マイケル	michael	マイケル		PROPN
+emberi	ヒト	emberi	ヒト		N
+emberi	ヒューマン	emberi	ヒューマン		N
+emberi	人間	emberi	人間		N
+top	top	top	top		PROPN
+top	上部	top	上部		N
+top	トップ	top	トップ		N
+sugárzás	照射	sugárzás	照射	N;NOM;SG	V
+mégis	yet	mégis	yet	CONJ	PROPN
+david	デイヴィッド	david	デイヴィッド		PROPN
+david	ダビデ	david	ダビデ		PROPN
+david	デビッド	david	デビッド		PROPN
+david	デヴィッド	david	デヴィッド		PROPN
+balra	左側	balra	左側		N
+mérkőzés	一致	mérkőzés	一致	N;NOM;SG	V
+rendelet	条例	rendelet	条例		N
+rendelet	規制	rendelet	規制		V
+rendelet	布告	rendelet	布告		V
+nyugat	ウエスト	nyugat	ウエスト		N
+nyugat	西部	nyugat	西部		N
+nyugat	ウェスト	nyugat	ウェスト		PROPN
+nyugat	ウェスタン	nyugat	ウェスタン		PROPN
+nyugat	ウエスタン	nyugat	ウエスタン		N
+paul	ポール	paul	ポール		N
+paul	パウル	paul	パウル		PROPN
+kelet	イースト	kelet	イースト		N
+kelet	東部	kelet	東部		PROPN
+kelet	東部	kelet	東部		PROPN
+kor	age	kor	age	N;NOM;SG	PROPN
+hogyan	how	hogyan	how	ADV	PROPN
+holland	オランダ	holland	オランダ		PROPN
+holland	オランダ	holland	オランダ		PROPN
+holland	ダッチ	holland	ダッチ		PROPN
+aztán	それ	aztán	それ		PRO
+robert	ロベルト	rober	ロベルト		PROPN
+robert	ロベール	rober	ロベール		PROPN
+robert	ロバート	rober	ロバート		PROPN
+vár	キャッスル	vár	キャッスル	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+saint	セイント	saint	セイント		PROPN
+saint	聖人	saint	聖人		N
+erős	強い	erős	強い		ADJ
+erős	濃い	erős	濃い		ADJ
+erős	パワフル	erős	パワフル		ADJ
+művészeti	arts	művészeti	arts	N;NOM;SG	PROPN
+sziget	アイル	sziget	アイル	N;NOM;SG	PROPN
+műszaki	テクニカル	műszaki	テクニカル	N;NOM;SG	PROPN
+győztes	勝者	győztes	勝者		N
+győztes	ウィナー	győztes	ウィナー		PROPN
+szerb	セルビア	szerb	セルビア		PROPN
+szép	ナイス	szép	ナイス		PROPN
+szép	ニース	szép	ニース		PROPN
+szép	素敵	szép	素敵		ADJ
+közép	真ん中	közép	真ん中		N
+közép	ミドル	közép	ミドル		N
+közép	mid	közép	mid		PROPN
+jellemző	特徴	jellemző	特徴	ADJ;NOM;SG	N
+jellemző	特性	jellemző	特性	ADJ;NOM;SG	N
+természetes	ナチュラル	természetes	ナチュラル	ADJ;NOM;SG	N
+svéd	スウェード	svéd	スウェード		PROPN
+kiemelt	ハイライト	kiemelt	ハイライト	V;INDF;IND;SG;3;PST;FIN;ACT	N
+állandó	定数	állandó	定数		N
+állandó	パーマネント	állandó	パーマネント		N
+korai	アーリー	korai	アーリー		PROPN
+korai	早い	korai	早い		ADJ
+díjat	受賞	díjat	受賞	N;ACC;SG	V
+díjat	表彰	díjat	表彰	N;ACC;SG	V
+felett	上	felett	上	ADP	N
+felett	上記	felett	上記	ADP	N
+egyben	also	egyben	also	ADV	PROPN
+egyben	また	egyben	また	ADV	CONJ
+kovács	鍛冶	kovács	鍛冶		N
+kovács	スミス	kovács	スミス		PROPN
+afrikai	アフリカ	afrikai	アフリカ		PROPN
+afrikai	アフリカ	afrikai	アフリカ		PROPN
+george	ジョージ	george	ジョージ		PROPN
+független	独立	független	独立		ADJ
+független	インディペンデント	független	インディペンデント		N
+anglia	イギリス	anglia	イギリス	N;NOM;SG	PROPN
+fog	ウィル	fog	ウィル	V;INDF;IND;SG;3;PRS;ACT	PROPN
+fog	遺言	fog	遺言	V;INDF;IND;SG;3;PRS;ACT	N
+csata	戦闘	csata	戦闘	N;NOM;SG	V
+csata	戦い	csata	戦う	N;NOM;SG	V
+játék	オモチャ	játék	オモチャ	N;NOM;SG	
+játék	玩具	játék	玩具	N;NOM;SG	
+játék	遊ぶ	játék	遊ぶ	N;NOM;SG	V
+játék	プレイ	játék	プレイ	N;NOM;SG	V
+játék	遊び	játék	遊ぶ	N;NOM;SG	V
+erzsébet	エリザベス	erzse	エリザベス	N;NOM;SG	PROPN
+antal	アンソニー	antal	アンソニー		PROPN
+kereskedelmi	商業	kereskedelmi	商業	ADJ;NOM;SG	N
+kereskedelmi	コマース	kereskedelmi	コマース	ADJ;NOM;SG	PROPN
+kereskedelmi	コマーシャル	kereskedelmi	コマーシャル	ADJ;NOM;SG	N
+kereskedelmi	商用	kereskedelmi	商用	ADJ;NOM;SG	V
+kereskedelmi	商業	kereskedelmi	商業	ADJ;NOM;SG	N
+kereskedelmi	貿易	kereskedelmi	貿易	ADJ;NOM;SG	N
+kereskedelmi	トレード	kereskedelmi	トレード	ADJ;NOM;SG	V
+kereskedelmi	取引	kereskedelmi	取引	ADJ;NOM;SG	V
+bal	左側	bal	左側		N
+szakmai	プロフェッショナル	szakmai	プロフェッショナル	ADJ;NOM;SG	N
+london	ロンドン	london	ロンドン	N;NOM;SG	PROPN
+james	ジェームス	james	ジェームス		PROPN
+james	ジェームズ	james	ジェームズ		PROPN
+fok	ケープ	fok	ケープ	N;NOM;SG	PROPN
+fok	学位	fok	学位	N;NOM;SG	V
+kapcsolatban	関連	kapcsolat	関連	N;IN+ESS;SG	V
+egyház	チャーチ	egyház	チャーチ	N;NOM;SG	PROPN
+működik	ワークス	működik	ワークス	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+működik	作品	működik	作品	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+előre	進む	előre	進む		V
+előre	フォワード	előre	フォワード		N
+előre	転送	előre	転送		V
+előre	advance	előre	advance		PROPN
+előre	事前	előre	事前		N
+rock	ロック	rock	ロック		N
+eredetű	原点	eredetű	原点		N
+eredetű	語源	eredetű	語源		N
+eredetű	由来	eredetű	由来		N
+eredetű	起源	eredetű	起源		N
+tud	can	tud	can	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+bemutató	デモ	bemutató	デモ		N
+bemutató	デモンストレーション	bemutató	デモンストレーション		N
+bemutató	実演	bemutató	実演		V
+bemutató	デモ	bemutató	デモ		N
+bemutató	展示	bemutató	展示		V
+bemutató	プレゼン	bemutató	プレゼン		N
+bemutató	プレゼンテーション	bemutató	プレゼンテーション		N
+bemutató	チュートリアル	bemutató	チュートリアル		N
+des	des	des	des		PROPN
+széles	広い	széles	広い	N;NOM;SG	ADJ
+társadalmi	ソーシャル	társadalmi	ソーシャル	ADJ;NOM;SG	N
+kiadás	edition	kiadás	edition	N;NOM;SG	PROPN
+kiadás	支出	kiadás	支出	N;NOM;SG	V
+kiadás	出版	kiadás	出版	N;NOM;SG	V
+rend	注文	rend	注文	N;NOM;SG	V
+azóta	以来	azóta	以来	ADV	N
+azóta	since	azóta	since	ADV	PROPN
+city	シティ	city	シティ		PROPN
+city	都市	city	都市		N
+rossz	バッド	rossz	バッド		PROPN
+rossz	悪い	rossz	悪い		ADJ
+ókori	古代	ókori	古代		N
+ének	歌う	én	歌う	N;NOM;SG	V
+igaz	トゥルー	igaz	トゥルー		N
+igaz	true	igaz	true		PROPN
+igaz	本当	igaz	本当		N
+jean	ジャン	jean	ジャン		PROPN
+jean	ジーン	jean	ジーン		PROPN
+keresztény	クリスチャン	keresztény	クリスチャン		PROPN
+keresztény	キリスト	keresztény	キリスト		N
+keresztény	キリスト教徒	keresztény	キリスト教徒		N
+kötött	ニット	köt	ニット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+kötött	編み物	köt	編み物	V;INDF;IND;SG;3;PST;FIN;ACT	N
+kötött	ニット	köt	ニット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+kötött	編み物	köt	編み物	V;INDF;IND;SG;3;PST;FIN;ACT	N
+változat	variant	változat	variant	N;NOM;SG	PROPN
+kérdés	質問	kérdés	質問	N;NOM;SG	V
+kérdés	疑問	kérdés	疑問	N;NOM;SG	ADJ
+kérdés	質問	kérdés	質問	N;NOM;SG	V
+polgári	文官	polgári	文官	ADJ;NOM;SG	N
+polgári	シビック	polgári	シビック	ADJ;NOM;SG	PROPN
+célja	aim	cél	aim	N;NOM;SG	PROPN
+port	ダスト	por	ダスト		N
+port	砂塵	por	砂塵		N
+port	ほこり	por	ほこる		V
+port	港湾	por	港湾		N
+port	ポート	por	ポート		N
+port	粉末	por	粉末		N
+port	パウダー	por	パウダー		N
+albert	アルベルト	albert	アルベルト		PROPN
+albert	アルバート	albert	アルバート		PROPN
+egyéni	シングルス	egyéni	シングルス		N
+egyéni	個人	egyéni	個人		N
+egyéni	風習	egyéni	風習		N
+egyéni	カスタム	egyéni	カスタム		N
+külföldi	外国	külföldi	外国	ADJ;NOM;SG	N
+kevés	少数	kevés	少数		N
+kevés	リトル	kevés	リトル		PROPN
+kevés	小さい	kevés	小さい		ADJ
+díjak	受賞	díj	受賞	N;NOM;PL	V
+díjak	表彰	díj	表彰	N;NOM;PL	V
+uralkodó	ルーラー	uralkodó	ルーラー	N;NOM;SG	PROPN
+uralkodó	エンペラー	uralkodó	エンペラー	N;NOM;SG	PROPN
+uralkodó	モナーク	uralkodó	モナーク	N;NOM;SG	PROPN
+főként	主に	főként	主に		ADV
+teszi	makes	tesz	makes	V;DEF;IND;SG;3;PRS;FIN;ACT	PROPN
+lehetséges	ポテンシャル	lehetséges	ポテンシャル	ADJ;NOM;SG	N
+lehetséges	可能性	lehetséges	可能性	ADJ;NOM;SG	N
+bizottság	委嘱	bizottság	委嘱	N;NOM;SG	V
+zenekar	band	zenekar	band	N;NOM;SG	PROPN
+lehetővé	許可	lehető	許可	ADJ;TRANS;SG	V
+darab	ピース	darab	ピース		N
+ifjúsági	青年	ifjúsági	青年	ADJ;NOM;SG	N
+ifjúsági	若者	ifjúsági	若者	ADJ;NOM;SG	N
+ifjúsági	ユース	ifjúsági	ユース	ADJ;NOM;SG	N
+ifjúsági	青春	ifjúsági	青春	ADJ;NOM;SG	N
+tíz	テン	tíz	テン	NUM;NOM;SG	N
+tíz	ten	tíz	ten	NUM;NOM;SG	PROPN
+hol	どこ	hol	どこ	ADV	PRO
+peter	ペーター	peter	ペーター	PROPN;NOM;SG	PROPN
+peter	peter	peter	peter	PROPN;NOM;SG	PROPN
+peter	ピーター	peter	ピーター	PROPN;NOM;SG	PROPN
+www	www	www	www		N
+jobban	ベター	jól	ベター	ADV	ADJ
+love	ラヴ	love	ラヴ		PROPN
+love	ラブ	love	ラブ		N
+jelen	現在	jelen	現在		N
+jelen	present	jelen	present		PROPN
+jelen	プレゼント	jelen	プレゼント		N
+elnök	プレジデント	elnök	プレジデント	N;NOM;SG	PROPN
+amíg	while	amíg	while	ADV	PROPN
+isten	ゴッド	isten	ゴッド	N;NOM;SG	PROPN
+persze	コース	persze	コース		N
+folyamatosan	常時	folyamatos	常時	ADJ;FRML;SG	N
+folyamatosan	絶え	folyamatos	絶える	ADJ;FRML;SG	V
+henrik	ヘンリク	henrik	ヘンリク	N;NOM;SG	PROPN
+henrik	ヘンリー	henrik	ヘンリー	N;NOM;SG	PROPN
+forradalom	revolution	forradalom	revolution	N;NOM;SG	PROPN
+hamarosan	soon	hamarosan	soon	ADV	PROPN
+pest	ペスト	pest	ペスト		PROPN
+kék	青い	kék	青い		ADJ
+kék	ブルー	kék	ブルー		N
+kék	青色	kék	青色		N
+mindenki	みんな	mindenki	みんな		ADV
+vége	オーバー	vég	オーバー	N;NOM;SG	
+vége	over	vég	over	N;NOM;SG	PROPN
+vége	終了	vég	終了	N;NOM;SG	V
+google	google	google	google		PROPN
+kiváló	優れ	kiváló	優れる	ADJ;NOM;SG	V
+oda	織田	oda	織田		PROPN
+oda	小田	oda	小田		PROPN
+del	del	del	del		PROPN
+del	デル	del	デル		PROPN
+szigetek	諸島	sziget	諸島	N;NOM;PL	PROPN
+püspök	ビショップ	püspök	ビショップ	N;NOM;SG	PROPN
+körülbelül	について	körülbelül	について	ADV	ADP
+körülbelül	おおよそ	körülbelül	おおよそ	ADV	
+zöld	グリーン	zöld	グリーン		N
+zöld	緑色	zöld	緑色		N
+töltött	剥製	tölt	剥製	V;INDF;IND;SG;3;PST;FIN;ACT	N
+tagok	メンバ	tag	メンバ	N;NOM;PL	PROPN
+richard	リチャード	richard	リチャード		PROPN
+richard	リヒャルト	richard	リヒャルト		PROPN
+oscar	オスカー	oscar	オスカー		PROPN
+oscar	オスカル	oscar	オスカル		PROPN
+posta	郵便	posta	郵便		N
+posta	メール	posta	メール		N
+posta	ポスト	posta	ポスト		PROPN
+posta	投稿	posta	投稿		V
+születés	誕生	születés	誕生	N;NOM;SG	V
+szeged	セゲド	szeged	セゲド		PROPN
+kiss	キス	kiss	キス		V
+kiss	kiss	kiss	kiss		PROPN
+kiss	接吻	kiss	接吻		N
+tenger	sea	tenger	sea	N;NOM;SG	PROPN
+mások	他の	más	他の		ADJ
+mások	その	más	その		DET
+személy	人物	személy	人物		N
+orvosi	医学	orvosi	医学	ADJ;NOM;SG	N
+vevő	バイヤー	vevő	バイヤー	ADJ;NOM;SG	N
+vevő	買い手	vevő	買い手	ADJ;NOM;SG	N
+vevő	カスタマー	vevő	カスタマー	ADJ;NOM;SG	PROPN
+vevő	顧客	vevő	顧客	ADJ;NOM;SG	N
+vevő	買い手	vevő	買い手	ADJ;NOM;SG	N
+európában	欧州	európa	欧州	N;IN+ESS;SG	PROPN
+európában	ヨーロッパ	európa	ヨーロッパ	N;IN+ESS;SG	PROPN
+thomas	トマス	thomas	トマス		PROPN
+thomas	トーマス	thomas	トーマス		PROPN
+bajnokok	チャンピオンズ	bajnok	チャンピオンズ	N;NOM;PL	PROPN
+temploma	テンプル	temploma	テンプル	N;NOM;SG	PROPN
+rendkívül	きわめ	rendkívül	きわめる		V
+rendkívül	極めて	rendkívül	極めて		ADV
+black	黒い	black	黒い		ADJ
+black	ブラック	black	ブラック		PROPN
+nehéz	重い	nehéz	重い		ADJ
+nehéz	ヘビー	nehéz	ヘビー		N
+nehéz	一生	nehéz	一生		N
+nehéz	ハード	nehéz	ハード		N
+nehéz	難しい	nehéz	難しい		ADJ
+nehéz	難しい	nehéz	難しい		ADJ
+charles	シャルル	charles	シャルル		PROPN
+nyolc	eight	nyolc	eight		PROPN
+nyolc	エイト	nyolc	エイト		PROPN
+döntő	最終	döntő	最終	ADJ;NOM;SG	N
+döntő	決勝	döntő	決勝	ADJ;NOM;SG	N
+döntő	ファイナル	döntő	ファイナル	ADJ;NOM;SG	PROPN
+döntő	ファイナル	döntő	ファイナル	ADJ;NOM;SG	PROPN
+ismeretlen	不明	ismeretlen	不明		ADJ
+császári	インペリアル	császári	インペリアル	ADJ;NOM;SG	PROPN
+szerző	作家	szerző	作家		N
+szerző	著者	szerző	著者		N
+szerző	作者	szerző	作者		N
+utána	アフター	utána	アフター		PROPN
+különleges	スペシャル	különleges	スペシャル		N
+nemzet	ネーション	nemzet	ネーション	N;NOM;SG	PROPN
+kevésbé	少ない	kevésbé	少ない	ADV	ADJ
+youtube	youtube	youtub	youtube	N;NOM;SG	PROPN
+don	ドン	don	ドン		N
+fizikai	フィジカル	fizikai	フィジカル		N
+fizikai	物理	fizikai	物理		N
+közeli	閉じる	közeli	閉じる		V
+közeli	クローズ	közeli	クローズ		N
+néha	時々	néha	時々		ADV
+néha	とき	néha	とき		N
+végre	ついに	végre	ついに		ADV
+végre	やっと	végre	やっと		ADV
+végre	遂に	végre	遂にる		ADV
+súlyos	重い	súlyos	重い		ADJ
+súlyos	ヘビー	súlyos	ヘビー		N
+súlyos	深刻	súlyos	深刻		ADJ
+súlyos	重度	súlyos	重度		N
+frank	フランク	frank	フランク		PROPN
+klasszikus	クラシカル	klasszikus	クラシカル		ADJ
+klasszikus	クラシック	klasszikus	クラシック		N
+klasszikus	古典	klasszikus	古典		N
+klasszikus	クラシック	klasszikus	クラシック		N
+klasszikus	古典	klasszikus	古典		N
+klasszikus	classic	klasszikus	classic		PROPN
+vonatkozó	関連	vonatkozó	関連	ADJ;NOM;SG	V
+sikeres	成功	sikeres	成功		V
+sikeres	サクセス	sikeres	サクセス		N
+sikeres	成功	sikeres	成功		V
+komoly	深刻	komoly	深刻		ADJ
+főbb	メイン	fő	メイン	ADJ;NOM;CMPR;SG	N
+spanyolország	スペイン	spanyolország	スペイン		PROPN
+románia	ルーマニア	románia	ルーマニア	N;NOM;SG	PROPN
+követő	フォロワー	követő	フォロワー	ADJ;NOM;SG	N
+alig	辛うじて	alig	辛うじて		ADV
+miközben	while	miközben	while	ADV	PROPN
+patak	クリーク	patak	クリーク	N;NOM;SG	PROPN
+martin	マーティン	martin	マーティン		PROPN
+martin	マーチン	martin	マーチン		PROPN
+gyorsan	クイック	gyors	クイック	ADJ;FRML;SG	N
+arab	アラブ	arab	アラブ		PROPN
+idegen	エイリアン	idegen	エイリアン		PROPN
+idegen	よそ	idegen	よそ		N
+ezüst	シルバー	ezüst	シルバー	V;INDF;IND;SG;3;PST;FIN;ACT	N
+oroszország	ロシア	oroszország	ロシア	N;NOM;SG	PROPN
+oroszország	ロシア	oroszország	ロシア	N;NOM;SG	PROPN
+belga	ベルギー	belga	ベルギー		PROPN
+angolul	イングリッシュ	angolul	イングリッシュ		N
+angolul	英語	angolul	英語		N
+közvetlenül	ダイレクト	közvetlen	ダイレクト	ADJ;FRML;SG	N
+közvetlenül	直接	közvetlen	直接	ADJ;FRML;SG	ADV
+los	los	los	los		PROPN
+united	ユナイテッド	united	ユナイテッド		PROPN
+tanács	助言	tanács	助言	N;NOM;SG	V
+tanács	アドバイス	tanács	アドバイス	N;NOM;SG	V
+mögött	後ろ	mögött	後ろ	ADP	N
+farkas	ウルフ	farkas	ウルフ		PROPN
+farkas	オオカミ	farkas	オオカミ		PROPN
+férje	ダンナ	fér	ダンナ	N;NOM;SG	PROPN
+férje	旦那	fér	旦那	N;NOM;SG	PROPN
+kanadai	カナダ	kanadai	カナダ	ADJ;NOM;SG	PROPN
+kanadai	カナダ	kanadai	カナダ	ADJ;NOM;SG	PROPN
+kanadai	カナディアン	kanadai	カナディアン	ADJ;NOM;SG	PROPN
+sokan	多数	sokan	多数	ADV	N
+online	オンライン	online	オンライン		N
+ötödik	フィフス	ötödik	フィフス	ADJ;NOM;SG	PROPN
+ausztria	オーストリア	ausztria	オーストリア	N;NOM;SG	PROPN
+ausztria	オーストリア	ausztria	オーストリア	N;NOM;SG	PROPN
+gazdag	金持ち	gazdag	金持ち		N
+gazdag	リッチ	gazdag	リッチ		N
+speciális	スペシャル	speciális	スペシャル	ADJ;NOM;SG	N
+tényleg	本当に	tényleg	本当に		ADV
+mielőtt	以前	mielőtt	以前	ADV	N
+gyors	クイック	gyors	クイック		N
+gyors	速い	gyors	速い		ADJ
+gyors	高速	gyors	高速		ADJ
+katalin	キャサリン	katalin	キャサリン	N;NOM;SG	PROPN
+közösség	コミュニティー	közösség	コミュニティー	N;NOM;SG	V
+ford	フォード	ford	フォード	PROPN;NOM;SG	PROPN
+rendezett	従卒	rendezett	従卒	V;INDF;IND;SG;3;PST;FIN;ACT	
+egyszerűen	単に	egyszerű	単に	ADJ;FRML;SG	ADV
+azonnal	直ち	azonnal	直ち		ADJ
+azonnal	インスタント	azonnal	インスタント		N
+azonnal	瞬間	azonnal	瞬間		N
+amerika	アメリカ	amerika	アメリカ	N;NOM;SG	PROPN
+edző	コーチング	edző	コーチング	N;NOM;SG	V
+barokk	バロック	barokk	バロック		N
+viszonylag	比較的	viszonylag	比較的		ADV
+viszonylag	比較的	viszonylag	比較的		ADV
+sport	スポーツ	sport	スポーツ		N
+sport	スポーツ	sport	スポーツ		N
+university	大学	university	大学		N
+kicsit	ビット	kicsi	ビット		N
+lemez	記録	lemez	記録	N;NOM;SG	V
+koreai	朝鮮	koreai	朝鮮		N
+koreai	韓国	koreai	韓国		PROPN
+mindent	すべて	minden	すべて		N
+mindent	全て	minden	全て		ADV
+tervezett	予定	tervezett	予定	V;INDF;IND;SG;3;PST;FIN;ACT	N
+tervezett	計画	tervezett	計画	V;INDF;IND;SG;3;PST;FIN;ACT	N
+national	国民	national	国民		N
+national	ナショナル	national	ナショナル		PROPN
+bíró	ジャッジ	bíró	ジャッジ		N
+bíró	裁判官	bíró	裁判官		N
+bíró	審判	bíró	審判		N
+svájci	スイス	svájci	スイス		PROPN
+kizárólag	のみ	kizárólag	のみ		ADP
+sárga	イエロー	sárga	イエロー		N
+sárga	黄色	sárga	黄色		N
+mátyás	マティアス	mátyás	マティアス		PROPN
+mátyás	マチアス	mátyás	マチアス		PROPN
+mátyás	matthias	mátyás	matthias		PROPN
+simon	シモン	simon	シモン		PROPN
+simon	サイモン	simon	サイモン		PROPN
+val	val	val	val		PROPN
+val	ヴァル	val	ヴァル		PROPN
+piros	赤い	piros	赤い		ADJ
+piros	赤色	piros	赤色		N
+piros	レッド	piros	レッド		N
+mezőgazdasági	農業	mezőgazdasági	農業		N
+mezőgazdasági	農業	mezőgazdasági	農業		N
+ipari	工業	ipari	工業	ADJ;NOM;SG	N
+fülöp	フィリップ	fülöp	フィリップ		PROPN
+tag	メンバ	tag	メンバ	N;NOM;SG	PROPN
+kettő	二	kettő	二		NUM
+kettő	二	kettő	二		NUM
+tengeri	マリン	tengeri	マリン		N
+tengeri	海事	tengeri	海事		N
+tengeri	sea	tengeri	sea		PROPN
+igazi	real	igazi	real		PROPN
+igazi	本物	igazi	本物		N
+igazi	リアル	igazi	リアル		ADJ
+igazi	トゥルー	igazi	トゥルー		N
+igazi	true	igazi	true		PROPN
+igazi	本当	igazi	本当		N
+párizs	パリス	párizs	パリス	N;NOM;SG	PROPN
+párizs	パリ	párizs	パリ	N;NOM;SG	PROPN
+brazília	ブラジル	brazília	ブラジル		PROPN
+brazília	ブラジル	brazília	ブラジル		PROPN
+horvátország	クロアチア	horvátország	クロアチア	N;NOM;SG	PROPN
+kína	中国	kína	中国	PROPN;NOM;SG	PROPN
+kína	チャイナ	kína	チャイナ	PROPN;NOM;SG	N
+kína	中華人民共和国	kína	中華人民共和国	PROPN;NOM;SG	PROPN
+kerület	地区	kerület	地区		N
+kerület	ディストリクト	kerület	ディストリクト		PROPN
+személyes	パーソナル	személyes	パーソナル	ADJ;NOM;SG	N
+személyes	個人	személyes	個人	ADJ;NOM;SG	N
+középső	真ん中	középső	真ん中		N
+középső	ミドル	középső	ミドル		N
+válasz	回答	válasz	回答	N;NOM;SG	V
+válasz	答え	válasz	答える	N;NOM;SG	V
+válasz	答弁	válasz	答弁	N;NOM;SG	V
+válasz	応答	válasz	応答	N;NOM;SG	V
+alacsony	ショート	alacsony	ショート	ADJ;NOM;SG	N
+könnyen	楽々	könnyű	楽々	ADJ;FRML;SG	N
+közvetlen	ダイレクト	közvetlen	ダイレクト		N
+mexikói	メキシコ	mexikói	メキシコ		PROPN
+mexikói	メキシカン	mexikói	メキシカン		N
+majdnem	ほとんど	majdnem	ほとんど		ADV
+majdnem	ほぼ	majdnem	ほぼ		ADV
+majdnem	ほぼ	majdnem	ほぼ		ADV
+eltérő	異なる	eltérő	異なる	ADJ;NOM;SG	V
+forduló	round	forduló	round	N;NOM;SG	PROPN
+forduló	丸い	forduló	丸く	N;NOM;SG	ADJ
+hegyi	マウンテン	hegyi	マウンテン		N
+maria	マリア	maria	マリア		PROPN
+maria	マリヤ	maria	マリヤ		PROPN
+királyné	クイーン	király	クイーン	N;NOM;SG	PROPN
+népszerű	人気	népszerű	人気		N
+népszerű	ポピュラー	népszerű	ポピュラー		ADJ
+valódi	real	valódi	real		PROPN
+valódi	本物	valódi	本物		N
+valódi	リアル	valódi	リアル		ADJ
+valódi	本物	valódi	本物		N
+valódi	正真	valódi	正真		CONJ
+adó	租税	adó	租税		N
+adó	税金	adó	税金		N
+adó	税金	adó	税金		N
+molnár	ミラー	molnár	ミラー		N
+nobel	ノーベル	nobel	ノーベル		N
+jelölés	指名	jelölés	指名	N;NOM;SG	V
+gergely	グレゴリー	gergely	グレゴリー		PROPN
+márton	マーティン	márt	マーティン		PROPN
+márton	マーチン	márt	マーチン		PROPN
+hát	まあ	hát	まあ		CONJ
+vii	vii	vii	vii		PROPN
+busz	バス	busz	バス	N;NOM;SG	PROPN
+délre	サウス	délre	サウス	ADV	PROPN
+rendszeresen	レギュラー	rendszeres	レギュラー	ADJ;FRML;SG	N
+berlin	ベルリン	berlin	ベルリン	PROPN;NOM;SG	PROPN
+brazil	ブラジル	brazil	ブラジル		PROPN
+róma	ローマ	róma	ローマ		N
+történik	ハプニング	történik	ハプニング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+lengyelország	ポーランド	lengyelország	ポーランド	N;NOM;SG	PROPN
+szlovákia	スロバキア	szlovákia	スロバキア	N;NOM;SG	PROPN
+akarsz	欲しい	akarsz	欲しい	V;INDF;IND;SG;1;PRS;FIN;ACT	ADJ
+fenti	上	fent	上		N
+fenti	上記	fent	上記		N
+készítette	made	készít	made	V;DEF;IND;SG;3;PST;FIN;ACT	PROPN
+elektromos	エレクトリック	elektromos	エレクトリック		N
+elektromos	電気	elektromos	電気		N
+international	インターナショナル	international	インターナショナル		N
+international	国際	international	国際		N
+jack	ジャック	jack	ジャック		N
+jack	ジャッキ	jack	ジャッキ		N
+margit	マーガレット	margit	マーガレット		PROPN
+golden	ゴールデン	golden	ゴールデン		N
+golden	黄金	golden	黄金		N
+megy	going	megy	going	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+megy	goes	megy	goes	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+északra	ノース	észak	ノース	N;ON+ALL;SG	PROPN
+joseph	ヨセフ	joseph	ヨセフ		PROPN
+érdekes	興味	érdekes	興味		N
+érdekes	おもしろい	érdekes	おもしろい		ADJ
+érdekes	面白い	érdekes	面白い		ADJ
+münchen	ミュンヘン	münchen	ミュンヘン	N;NOM;SG	PROPN
+kétszer	二	két	二		NUM
+kétszer	二	két	二		NUM
+kétszer	twice	két	twice		PROPN
+ausztrál	オーストラリア	ausztrál	オーストラリア		PROPN
+technikai	テクニカル	technikai	テクニカル	ADJ;NOM;SG	PROPN
+ősi	古代	ősi	古代		N
+megjelenése	出演	megjelenés	出演	N;NOM;SG	V
+kiadott	発行	kiadott	発行	V;INDF;IND;SG;3;PST;FIN;ACT	N
+opera	opera	opera	opera		PROPN
+opera	オペラ	opera	オペラ		PROPN
+kevesebb	少ない	kevesebb	少ない		ADJ
+kevesebb	少ない	kevesebb	少ない		ADJ
+fényes	ブライト	fényes	ブライト		N
+fényes	明るい	fényes	明るい		ADJ
+fényes	光沢	fényes	光沢		N
+les	les	les	les		PROPN
+éva	eva	év	eva	N;NOM;SG	PROPN
+éva	エヴァ	év	エヴァ	N;NOM;SG	PROPN
+éva	イブ	év	イブ	N;NOM;SG	PROPN
+éva	イヴ	év	イヴ	N;NOM;SG	PROPN
+vas	アイロン	vas	アイロン		N
+használata	使用	használat	使用	N;NOM;SG	V
+igazán	本当に	igazán	本当に		ADV
+live	ライブ	live	ライブ		N
+live	生きる	live	生きる		V
+wiki	wiki	wiki	wiki	N;NOM;SG	PROPN
+wiki	ウィキ	wiki	ウィキ	N;NOM;SG	PROPN
+napon	day	nap	day	N;ON+ESS;SG	PROPN
+projekt	プロジェクト	projekt	プロジェクト		N
+finn	フィン	finn	フィン		PROPN
+viktor	ヴィクター	viktor	ヴィクター		PROPN
+viktor	ビクター	viktor	ビクター		PROPN
+viktor	ビクトル	viktor	ビクトル		PROPN
+max	マックス	max	マックス		PROPN
+max	max	max	max		PROPN
+williams	ウィリアムズ	williams	ウィリアムズ		PROPN
+akar	欲しい	akar	欲しい	V;INDF;IND;SG;3;PRS;FIN;ACT	ADJ
+ádám	アダム	ádám	アダム	N;NOM;SG	PROPN
+kft	ltd	kft	ltd	N;NOM;SG	PROPN
+végső	最終	végső	最終		N
+végső	決勝	végső	決勝		N
+végső	ファイナル	végső	ファイナル		PROPN
+végső	アルティメット	végső	アルティメット		PROPN
+louis	ルイス	louis	ルイス		PROPN
+louis	ルイ	louis	ルイ		PROPN
+napi	デイリー	napi	デイリー		N
+mexikó	メキシコ	mexikó	メキシコ		PROPN
+szavazás	投票	szavazás	投票	N;NOM;SG	V
+szavazás	投票	szavazás	投票	N;NOM;SG	V
+felfedezés	探検	felfedezés	探検	N;NOM;SG	V
+felfedezés	探検	felfedezés	探検	N;NOM;SG	V
+felfedezés	探検	felfedezés	探検	N;NOM;SG	V
+felfedezés	発見	felfedezés	発見	N;NOM;SG	V
+felfedezés	ディスカバリー	felfedezés	ディスカバリー	N;NOM;SG	PROPN
+felfedezés	発見	felfedezés	発見	N;NOM;SG	V
+nappal	day	nap	day	N;INS;SG	PROPN
+kattints	クリック	kattints	クリック	V;DEF;IMP;SG;1;PRS;FIN;ACT	N
+kedves	dear	kedves	dear		PROPN
+kedves	ディア	kedves	ディア		PROPN
+kedves	素敵	kedves	素敵		ADJ
+térkép	地図	térkép	地図		V
+térkép	マップ	térkép	マップ		N
+térkép	地図	térkép	地図		V
+térkép	マップ	térkép	マップ		N
+norvég	ノルウェー	norvég	ノルウェー		PROPN
+tony	トニー	tony	トニー		PROPN
+bronz	真鍮	bronz	真鍮		N
+bronz	青	bronz	青		N
+bronz	ブロンズ	bronz	ブロンズ		N
+ázsia	アジア	ázsia	アジア		N
+egységes	unified	egységes	unified	ADJ;NOM;SG	PROPN
+egységes	ユニフォーム	egységes	ユニフォーム	ADJ;NOM;SG	N
+egységes	制服	egységes	制服	ADJ;NOM;SG	N
+helyes	正しい	helyes	正しい		ADJ
+santa	サンタ	santa	サンタ		PROPN
+számít	事項	számít	事項	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+számít	カウント	számít	カウント	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+számít	物質	számít	物質	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+számít	事柄	számít	事柄	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+villamos	トラム	villamos	トラム	N;NOM;SG	PROPN
+afrika	アフリカ	afrika	アフリカ		PROPN
+nagyjából	について	nagy	について	N;IN+ABL;SG	ADP
+nagyjából	おおよそ	nagy	おおよそ	N;IN+ABL;SG	
+metal	メタル	metal	メタル		N
+metal	金属	metal	金属		N
+pécs	ペーチ	pécs	ペーチ		PROPN
+hasznos	有益	hasznos	有益		ADJ
+hasznos	役	hasznos	役		N
+hasznos	役立	hasznos	役立		V
+alkalmazott	社員	alkalmazott	社員	V;INDF;IND;SG;3;PST;FIN;ACT	N
+alkalmazott	職員	alkalmazott	職員	V;INDF;IND;SG;3;PST;FIN;ACT	N
+alapvető	基本	alapvető	基本		N
+alapvető	ベーシック	alapvető	ベーシック		N
+alapvető	basic	alapvető	basic		PROPN
+róbert	ロベルト	róber	ロベルト	N;NOM;SG	PROPN
+róbert	ロベール	róber	ロベール	N;NOM;SG	PROPN
+róbert	ロバート	róber	ロバート	N;NOM;SG	PROPN
+lenni	being	lesz	being	V;NFIN;ACT	PROPN
+grand	グランド	grand	グランド		PROPN
+kemény	ラフ	kemény	ラフ		N
+kemény	乱暴	kemény	乱暴		ADJ
+kemény	一生	kemény	一生		N
+kemény	ハード	kemény	ハード		N
+kemény	難しい	kemény	難しい		ADJ
+kemény	タフ	kemény	タフ		ADJ
+kemény	厳しい	kemény	厳しい		ADJ
+páros	ダブルス	páros	ダブルス		N
+páros	ペア	páros	ペア		N
+énekesnő	シンガー	énekesnő	シンガー		N
+sötét	ダーク	söt	ダーク		N
+sötét	暗い	söt	暗い		ADJ
+kettős	ダブル	kettős	ダブル	ADJ;NOM;SG	N
+kettős	二	kettős	二	ADJ;NOM;SG	NUM
+kettős	デュアル	kettős	デュアル	ADJ;NOM;SG	N
+mark	マーク	mark	マーク		N
+mark	マルク	mark	マルク		PROPN
+németül	ドイツ語	németül	ドイツ語		N
+hollandia	オランダ	hollandia	オランダ		PROPN
+kapitány	キャプテン	kapitány	キャプテン	N;NOM;SG	PROPN
+kapitány	スキッパー	kapitány	スキッパー	N;NOM;SG	PROPN
+kifejezés	表現	kifejezés	表現	N;NOM;SG	V
+kifejezés	expression	kifejezés	expression	N;NOM;SG	PROPN
+idők	タイムズ	idő	タイムズ		PROPN
+ausztrália	オーストラリア	ausztrália	オーストラリア	N;NOM;SG	PROPN
+ausztrália	オーストラリア	ausztrália	オーストラリア	N;NOM;SG	PROPN
+gyakori	共通	gyakori	共通		V
+gyakori	頻繁	gyakori	頻繁		ADJ
+erdő	ウッズ	erdő	ウッズ		PROPN
+erdő	木材	erdő	木材		N
+erdő	木製	erdő	木製		N
+erdő	ウッド	erdő	ウッド		N
+erdő	フォレスト	erdő	フォレスト		N
+erdő	森林	erdő	森林		N
+alapító	創設	alapító	創設	N;NOM;SG	V
+jön	カミング	jön	カミング	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+párizsi	パリス	párizsi	パリス		PROPN
+párizsi	パリ	párizsi	パリ		PROPN
+dis	dis	dis	dis		PROPN
+hold	ムーン	hold	ムーン		N
+nemes	尊い	nemes	尊いる		N
+kutatási	研究	kutatási	研究	N;NOM;SG	V
+kutatási	リサーチ	kutatási	リサーチ	N;NOM;SG	V
+viii	viii	viii	viii		PROPN
+debrecen	デブレツェン	debrecen	デブレツェン	N;NOM;SG	PROPN
+art	art	ar	art		PROPN
+art	アート	ar	アート		N
+art	芸術	ar	芸術		N
+art	美術	ar	美術		N
+apró	タイニー	apró	タイニー		PROPN
+apró	ちっちゃい	apró	ちっちゃい		PROPN
+apró	ちび	apró	ちびる		V
+apró	小さい	apró	小さい		ADJ
+felnőtt	成人	felnőtt	成人		N
+felnőtt	大人	felnőtt	大人		N
+felnőtt	大人	felnőtt	大人		N
+harry	ハリー	harry	ハリー		PROPN
+megmaradt	残り	meg+marad	残り	V;INDF;IND;SG;3;PST;FIN;ACT	N
+megmaradt	残額	meg+marad	残額	V;INDF;IND;SG;3;PST;FIN;ACT	N
+life	生活	life	生活		V
+life	生命	life	生命		N
+life	人生	life	人生		N
+life	ライフ	life	ライフ		N
+hónap	months	hónap	months	N;NOM;SG	PROPN
+lee	リー	lee	リー		N
+közlekedési	輸送	közlekedési	輸送	ADJ;NOM;SG	V
+közlekedési	交通	közlekedési	交通	ADJ;NOM;SG	N
+szlovén	スロベニア	szlovén	スロベニア		PROPN
+real	real	real	real		PROPN
+real	本物	real	本物		N
+real	リアル	real	リアル		ADJ
+fölött	上	fölött	上	ADP	N
+fölött	上記	fölött	上記	ADP	N
+india	インド	india	インド		PROPN
+művészet	arts	művészet	arts	N;NOM;SG	PROPN
+művészet	art	művészet	art	N;NOM;SG	PROPN
+smith	スミス	smith	スミス		PROPN
+késő	遅い	késő	遅い		ADJ
+tevékenység	活動	tevékenység	活動	N;NOM;SG	V
+előadó	興行	előadó	興行	N;NOM;SG	V
+oroszul	ロシア	orosz	ロシア		PROPN
+összetett	コンポジット	összetett	コンポジット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+összetett	複合	összetett	複合	V;INDF;IND;SG;3;PST;FIN;ACT	N
+összetett	コンプレックス	összetett	コンプレックス	V;INDF;IND;SG;3;PST;FIN;ACT	N
+összetett	錯体	összetett	錯体	V;INDF;IND;SG;3;PST;FIN;ACT	N
+összetett	複雑	összetett	複雑	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ
+összetett	化合物	összetett	化合物	V;INDF;IND;SG;3;PST;FIN;ACT	N
+formájában	フォーム	forma	フォーム	N;IN+ESS;SG	
+figyelembe	対価	figyel	対価		N
+figyelembe	口座	figyel	口座		N
+figyelembe	アカウント	figyel	アカウント		N
+királynő	クイーン	királynő	クイーン	N;NOM;SG	PROPN
+madrid	マドリッド	madrid	マドリッド	N;NOM;SG	PROPN
+madrid	マドリード	madrid	マドリード	N;NOM;SG	PROPN
+pozitív	陽性	pozitív	陽性	ADJ;NOM;SG	N
+henry	ヘンリー	henry	ヘンリー		PROPN
+kissé	あまり	kissé	あまり		ADV
+jelölt	候補	jelöl	候補		N
+jelölt	候補	jelöl	候補		N
+jelölt	誓約	jelöl	誓約		V
+velencei	ベニス	velencei	ベニス		PROPN
+velencei	ヴェネツィア	velencei	ヴェネツィア		PROPN
+velencei	ベネチア	velencei	ベネチア		PROPN
+vezet	リード	vezet	リード	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+vezet	ドライブ	vezet	ドライブ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+legfőbb	supreme	fő	supreme	ADJ;NOM;RL;SG	PROPN
+közösségi	コミュニティ	közösségi	コミュニティ	ADJ;NOM;SG	N
+közösségi	コミュニティー	közösségi	コミュニティー	ADJ;NOM;SG	V
+hang	audio	hang	audio	N;NOM;SG	PROPN
+svájc	スイス	svájc	スイス		PROPN
+svájc	スイス	svájc	スイス		PROPN
+eljárás	手続き	eljárás	手続き	N;NOM;SG	V
+eljárás	手続き	eljárás	手続き	N;NOM;SG	V
+keletre	東部	keletr	東部	N;ON+ALL;SG	PROPN
+foglalkozik	クーポン	foglalkozik	クーポン	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+rudolf	ルドルフ	rudolf	ルドルフ		PROPN
+rudolf	ルドルフ	rudolf	ルドルフ		PROPN
+építész	builder	építész	builder	N;NOM;SG	PROPN
+cigány	ジプシー	cigány	ジプシー	N;NOM;SG	PROPN
+cigány	ジプシー	cigány	ジプシー	N;NOM;SG	PROPN
+daniel	ダニエル	daniel	ダニエル		PROPN
+tour	ツアー	tour	ツアー		N
+barna	褐色	bar	褐色		N
+barna	茶色	bar	茶色		N
+barna	ブラウン	bar	ブラウン		N
+barna	ブルネット	bar	ブルネット		PROPN
+pénzügyi	財務	pénzügyi	財務	ADJ;NOM;SG	N
+pénzügyi	金融	pénzügyi	金融	ADJ;NOM;SG	N
+pénzügyi	財政	pénzügyi	財政	ADJ;NOM;SG	N
+pénzügyi	ファイナンス	pénzügyi	ファイナンス	ADJ;NOM;SG	N
+földi	地上	föld	地上		N
+pierre	ピエール	pierre	ピエール		PROPN
+belgium	ベルギー	belgium	ベルギー	PROPN;NOM;SG	PROPN
+pap	pap	pap	pap	N;NOM;SG	PROPN
+magasság	高度	magasság	高度		N
+magasság	身長	magasság	身長		N
+kötelező	バインディング	kötelező	バインディング		PROPN
+kötelező	拘束	kötelező	拘束		V
+meghatározott	特定	meghatározott	特定	V;INDF;IND;SG;3;PST;FIN;ACT	
+átlagos	平均	átlagos	平均	ADJ;NOM;SG	N
+egyenes	まっすぐ	egyenes	まっすぐ		ADV
+egyenes	ストレート	egyenes	ストレート		N
+egyenes	ダイレクト	egyenes	ダイレクト		N
+ágnes	アグネス	ágnes	アグネス	N;NOM;SG	PROPN
+barátja	彼	barát	彼	N;NOM;SG	PRO
+lassan	スロー	lassú	スロー	ADJ;FRML;SG	N
+lassan	ゆっくり	lassú	ゆっくり	ADJ;FRML;SG	ADV
+lassan	ゆっくり	lassú	ゆっくり	ADJ;FRML;SG	ADV
+kiállítás	展示	kiállítás	展示	N;NOM;SG	V
+kiállítás	展示	kiállítás	展示	N;NOM;SG	V
+szerzői	作家	szerzői	作家	ADJ;NOM;SG	N
+szerzői	著者	szerzői	著者	ADJ;NOM;SG	N
+szerzői	作者	szerzői	作者	ADJ;NOM;SG	N
+asp	asp	asp	asp		PROPN
+jakab	ジェームス	ja	ジェームス		PROPN
+jakab	ジェームズ	ja	ジェームズ		PROPN
+ritka	レア	ritka	レア		N
+képviselők	メンバ	képviselő	メンバ	N;NOM;PL	PROPN
+határozat	決断	határozat	決断	N;NOM;SG	V
+határozat	決定	határozat	決定	N;NOM;SG	V
+svédország	スウェーデン	svédország	スウェーデン	N;NOM;SG	PROPN
+jellegzetes	特徴	jellegzetes	特徴		N
+jellegzetes	特性	jellegzetes	特性		N
+kilenc	nine	kilenc	nine		PROPN
+mike	マイク	mike	マイク		N
+sopron	ショプロン	sopron	ショプロン	N;NOM;SG	PROPN
+org	org	org	org	N;NOM;SG	PROPN
+szerelem	ラヴ	szerelem	ラヴ	N;NOM;SG	PROPN
+moszkva	モスクワ	moszkva	モスクワ		PROPN
+kapcsolatot	接続	kapcsolat	接続	N;ACC;SG	V
+jones	ジョーンズ	jones	ジョーンズ		PROPN
+andrew	アンドリュー	andrew	アンドリュー		PROPN
+dob	ドラム	dob	ドラム	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+dob	太鼓	dob	太鼓	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+dob	ドラム	dob	ドラム	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+dob	太鼓	dob	太鼓	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+shakespeare	シェイクスピア	shakespeare	シェイクスピア	N;NOM;SG	PROPN
+shakespeare	シェークスピア	shakespeare	シェークスピア	N;NOM;SG	PROPN
+városok	タウンズ	város	タウンズ	N;NOM;PL	PROPN
+szerződés	契約	szerződés	契約		V
+szerződés	条約	szerződés	条約		N
+színes	カラフル	színes	カラフル	N;NOM;SG	ADJ
+színes	カラフル	színes	カラフル	N;NOM;SG	ADJ
+folyamatos	定数	folyamatos	定数		N
+folyamatos	連続	folyamatos	連続		ADJ
+folyamatos	続き	folyamatos	続く		V
+folyamatos	継続	folyamatos	継続		V
+liszt	粉末	lisz	粉末		N
+liszt	小麦	lisz	小麦		N
+oktatási	教育	oktatási	教育	ADJ;NOM;SG	N
+oktatási	学歴	oktatási	学歴	ADJ;NOM;SG	N
+walter	ヴァルター	walter	ヴァルター		PROPN
+walter	ウォルター	walter	ウォルター		PROPN
+profi	プロフェッショナル	profi	プロフェッショナル		N
+profi	プロ	profi	プロ		N
+profi	pro	profi	pro		PROPN
+tiszta	クリア	tiszta	クリア		N
+tiszta	ピュア	tiszta	ピュア		N
+tiszta	純粋	tiszta	純粋		ADJ
+tiszta	クリーン	tiszta	クリーン		N
+tiszta	きれい	tiszta	きれい		ADJ
+londoni	ロンドン	londoni	ロンドン		PROPN
+iván	イワン	iván	イワン		PROPN
+iván	イヴァン	iván	イヴァン		PROPN
+iván	イバン	iván	イバン		PROPN
+meghatározó	定義	meghatározó	定義	ADJ;NOM;SG	V
+legfeljebb	最大	legfeljebb	最大		N
+legfeljebb	maximum	legfeljebb	maximum		PROPN
+fokozatosan	徐々に	fokozatos	徐々に	ADJ;FRML;SG	ADV
+barcelona	バルセロナ	barcelona	バルセロナ	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+este	今夜	este	今夜	ADV	PROPN
+este	tonight	este	tonight	ADV	PROPN
+este	トゥナイト	este	トゥナイト	ADV	PROPN
+este	今晩	este	今晩	ADV	PROPN
+este	夕方	este	夕方	ADV	N
+este	ナイト	este	ナイト	ADV	N
+gray	灰色	gray	灰色		N
+gray	グレイ	gray	グレイ		PROPN
+gray	グレー	gray	グレー		N
+szellemi	スピリチュアル	szellemi	スピリチュアル		N
+szellemi	メンタル	szellemi	メンタル		N
+szellemi	知識人	szellemi	知識人		N
+ázsiai	アジア	ázsiai	アジア	ADJ;NOM;SG	N
+csillag	star	csillag	star	N;NOM;SG	PROPN
+csillag	stars	csillag	stars	N;NOM;SG	PROPN
+csillag	スターズ	csillag	スターズ	N;NOM;SG	PROPN
+league	リーグ	leag	リーグ		N
+vegyes	ミックス	vegyes	ミックス		N
+vegyes	混合	vegyes	混合		N
+mari	マリ	mari	マリ		PROPN
+edward	エドワード	edward	エドワード		PROPN
+szintű	レベル	szintű	レベル		N
+eleinte	当初	eleint	当初		N
+biztonsági	セキュリティ	biztonsági	セキュリティ	ADJ;NOM;SG	N
+biztonsági	セキュリティー	biztonsági	セキュリティー	ADJ;NOM;SG	N
+biztonsági	セーフティ	biztonsági	セーフティ	ADJ;NOM;SG	N
+veszprém	ヴェスプレーム	veszprém	ヴェスプレーム		PROPN
+jackson	ジャクソン	jackson	ジャクソン		PROPN
+béke	ピース	béke	ピース		N
+béke	平和	béke	平和		ADJ
+könnyű	イージー	könnyű	イージー		N
+könnyű	易しい	könnyű	易しい		ADJ
+könnyű	やさしい	könnyű	やさしい		ADJ
+könnyű	簡単	könnyű	簡単		ADJ
+villa	フォーク	villa	フォーク		N
+villa	ヴィッラ	villa	ヴィッラ		PROPN
+villa	ヴィラ	villa	ヴィラ		PROPN
+egyedi	ユニーク	egyedi	ユニーク		ADJ
+egyedi	独特	egyedi	独特		ADJ
+egyedi	風習	egyedi	風習		N
+egyedi	カスタム	egyedi	カスタム		N
+középpályás	ミッドフィールダー	középpályás	ミッドフィールダー	N;NOM;SG	PROPN
+erdély	トランシルヴァニア	erdély	トランシルヴァニア		PROPN
+pozsony	ブラチスラヴァ	pozsony	ブラチスラヴァ	N;NOM;SG	PROPN
+jan	ヤン	jan	ヤン		PROPN
+kész	終了	kész	終了		V
+digitális	デジタル	digitális	デジタル	N;NOM;SG	ADJ
+óceán	大洋	óceán	大洋		PROPN
+sikeresen	成功	sikeres	成功	ADJ;FRML;SG	V
+párizsban	パリス	párizs	パリス	PROPN;IN+ESS;SG	PROPN
+párizsban	パリ	párizs	パリ	PROPN;IN+ESS;SG	PROPN
+bolgár	ブルガリア	bolgár	ブルガリア		PROPN
+elektronikus	エレクトロニック	elektronikus	エレクトロニック	N;NOM;SG	PROPN
+konkrét	コンクリート	konkrét	コンクリート		N
+start	開始	start	開始		V
+start	始める	start	始める		V
+start	スタート	start	スタート		V
+bálint	バレンタイン	bálint	バレンタイン		PROPN
+miskolci	ミシュコルツ	miskolci	ミシュコルツ		PROPN
+show	ショー	show	ショー		N
+szoros	きつい	szoros	きつい		ADJ
+szoros	海峡	szoros	海峡		N
+szoros	閉じる	szoros	閉じる		V
+szoros	クローズ	szoros	クローズ		N
+pop	ポップ	pop	ポップ		N
+pop	pop	pop	pop		PROPN
+argentína	アルゼンチン	argentín	アルゼンチン		PROPN
+argentína	アルゼンチン	argentín	アルゼンチン		PROPN
+sur	スール	sur	スール		PROPN
+forma	フォーム	forma	フォーム	N;NOM;SG	
+úszó	フローティング	úszó	フローティング		N
+úszó	浮動	úszó	浮動		N
+úszó	スイミング	úszó	スイミング		N
+úszó	競泳	úszó	競泳		N
+úszó	水泳	úszó	水泳		N
+úszó	競泳	úszó	競泳		N
+úszó	水泳	úszó	水泳		N
+kanada	カナダ	kanada	カナダ	PROPN;NOM;SG	PROPN
+kar	arm	kar	arm	N;NOM;SG	PROPN
+kar	アームス	kar	アームス	N;NOM;SG	PROPN
+benedek	ベネディクト	bened	ベネディクト		PROPN
+támadás	攻撃	támadás	攻撃	N;NOM;SG	V
+támadás	アサルト	támadás	アサルト	N;NOM;SG	PROPN
+támadás	暴行	támadás	暴行	N;NOM;SG	V
+csendes	サイレント	csendes	サイレント		N
+csendes	無音	csendes	無音		N
+szerkesztője	エディター	szerkesztő	エディター	N;NOM;SG	PROPN
+josé	ホセ	josé	ホセ		PROPN
+josé	ホセ	josé	ホセ		PROPN
+idősebb	長老	idős	長老	ADJ;NOM;CMPR;SG	N
+unió	ユニオン	unió	ユニオン	PROPN;NOM;SG	N
+manchester	マンチェスター	manchester	マンチェスター	N;NOM;SG	PROPN
+autóbusz	バス	autóbusz	バス	N;NOM;SG	PROPN
+autóbusz	バス	autóbusz	バス	N;NOM;SG	PROPN
+fény	軽い	fény	軽い	N;NOM;SG	ADJ
+fény	明るい	fény	明るい	N;NOM;SG	ADJ
+báró	男爵	báró	男爵		N
+módszer	メソッド	módszer	メソッド	N;NOM;SG	PROPN
+módszer	メソッド	módszer	メソッド	N;NOM;SG	PROPN
+php	php	php	php	N;NOM;SG	PROPN
+nápolyi	ナポリ	nápolyi	ナポリ		PROPN
+korea	韓国	korea	韓国	N;NOM;SG	PROPN
+korszak	エポック	korsz	エポック	N;NOM;SG	PROPN
+negatív	ネガティブ	negatív	ネガティブ		ADJ
+negatív	ネガ	negatív	ネガ		N
+dolgozik	作業	dolgozik	作業	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+különös	好奇心	különös	好奇心		N
+különös	興味	különös	興味		N
+trópusi	トロピカル	trópusi	トロピカル	N;NOM;SG	PROPN
+trópusi	tropic	trópusi	tropic	N;NOM;SG	PROPN
+elért	達成	elért	達成		V
+előtte	以前	előtte	以前		N
+friedrich	フリードリヒ	friedrich	フリードリヒ		PROPN
+friedrich	フリードリッヒ	friedrich	フリードリッヒ		PROPN
+mindegyik	all	mindegyik	all		PROPN
+mindegyik	すべて	mindegyik	すべて		N
+mindegyik	それぞれ	mindegyik	それぞれ		ADV
+gif	gif	gif	gif	N;NOM;PL	PROPN
+gif	gif	gif	gif	N;NOM;PL	PROPN
+törökország	トルコ	törökország	トルコ	N;NOM;SG	PROPN
+tanulmányok	勉強	tanulmány	勉強	N;NOM;PL	V
+tanulmányok	研究	tanulmány	研究	N;NOM;PL	V
+kapcsolat	つながり	kapcsolat	つながり	N;NOM;SG	V
+kapcsolat	接続	kapcsolat	接続	N;NOM;SG	V
+kapcsolat	リンク	kapcsolat	リンク	N;NOM;SG	V
+kapcsolat	交際	kapcsolat	交際	N;NOM;SG	V
+státusz	ステータス	státusz	ステータス	N;NOM;SG	PROPN
+juan	フアン	juan	フアン		PROPN
+fent	上	fent	上		N
+fent	上記	fent	上記		N
+fent	二	fent	二		NUM
+bajorország	バイエルン	bajorország	バイエルン	N;NOM;SG	PROPN
+krisztus	キリスト	krisztus	キリスト		N
+világos	クリア	világos	クリア	ADJ;NOM;SG	N
+rendszeres	レギュラー	rendszeres	レギュラー		N
+vol	vol	vol	vol	N;NOM;SG	PROPN
+felül	top	felül	top		PROPN
+felül	上部	felül	上部		N
+felül	トップ	felül	トップ		N
+halak	フィッシュ	hal	フィッシュ	N;NOM;PL	PROPN
+hirtelen	突然	hirtelen	突然		ADV
+iszlám	イスラム	iszlám	イスラム		N
+növény	切り取る	növény	切り取る	N;NOM;SG	V
+növény	切り取り	növény	切り取り	N;NOM;SG	V
+száraz	辛口	száraz	辛口		ADJ
+száraz	ドライ	száraz	ドライ		N
+száraz	乾燥	száraz	乾燥		V
+cél	行き	cél	行く	N;NOM;SG	V
+cél	aim	cél	aim	N;NOM;SG	PROPN
+létező	既存	létező	既存		N
+steve	スティーブ	steve	スティーブ		PROPN
+steve	スティーヴ	steve	スティーヴ		PROPN
+reneszánsz	ルネサンス	reneszánsz	ルネサンス	N;NOM;SG	PROPN
+carlos	カルロス	carlos	カルロス		PROPN
+brian	ブライアン	brian	ブライアン		PROPN
+békés	平和	békés	平和		ADJ
+kapcsolatok	交際	kapcsolat	交際	N;NOM;PL	V
+kapcsolatok	リンク	kapcsolat	リンク	N;NOM;PL	V
+kapcsolatok	つながり	kapcsolat	つながり	N;NOM;PL	V
+kapcsolatok	接続	kapcsolat	接続	N;NOM;PL	V
+valós	real	valós	real	ADJ;NOM;SG	PROPN
+valós	本物	valós	本物	ADJ;NOM;SG	N
+dániel	ダニエル	dániel	ダニエル		PROPN
+változó	変数	változó	変数	ADJ;NOM;SG	N
+változó	可変	változó	可変	ADJ;NOM;SG	N
+határ	制限	határ	制限	N;NOM;SG	V
+elsődleges	素数	elsődleges	素数	ADJ;NOM;SG	N
+elsődleges	プライム	elsődleges	プライム	ADJ;NOM;SG	
+elsődleges	メイン	elsődleges	メイン	ADJ;NOM;SG	N
+elsődleges	プライマリ	elsődleges	プライマリ	ADJ;NOM;SG	N
+baj	問題	baj	問題		N
+baj	トラブル	baj	トラブル		N
+joe	ジョー	joe	ジョー		PROPN
+eset	eset	eset	eset	N;NOM;SG	PROPN
+igazgató	ディレクター	igazgató	ディレクター	N;NOM;SG	PROPN
+szerbia	セルビア	szerbia	セルビア	N;NOM;SG	PROPN
+szerbia	セルビア	szerbia	セルビア	N;NOM;SG	PROPN
+norvégia	ノルウェー	norvégia	ノルウェー	N;NOM;SG	PROPN
+norvégia	ノルウェー	norvégia	ノルウェー	N;NOM;SG	PROPN
+eközben	その	eközben	その	ADV	DET
+eközben	一方	eközben	一方	ADV	CONJ
+judit	ユディット	judi	ユディット	N;NOM;SG	PROPN
+judit	ジュディス	judi	ジュディス	N;NOM;SG	PROPN
+zokni	socks	zok	socks	N;NOM;SG	PROPN
+gyenge	弱い	gyenge	弱い		ADJ
+doktori	phd	doktori	phd	N;NOM;SG	PROPN
+mély	ディープ	mély	ディープ		N
+mély	深い	mély	深い		ADJ
+part	ビーチ	part	ビーチ		PROPN
+part	砂浜	part	砂浜		N
+part	海岸	part	海岸		N
+hivatkozás	参照	hivatkozás	参照	N;NOM;SG	V
+hivatkozás	リファレンス	hivatkozás	リファレンス	N;NOM;SG	PROPN
+hivatkozás	リンク	hivatkozás	リンク	N;NOM;SG	V
+hivatkozás	リファレンス	hivatkozás	リファレンス	N;NOM;SG	PROPN
+hivatkozás	参照	hivatkozás	参照	N;NOM;SG	V
+írás	しっぽ	írás	しっぽ	N;NOM;SG	PROPN
+írás	執筆	írás	執筆	N;NOM;SG	V
+írás	書き込み	írás	書き込み	N;NOM;SG	V
+mix	mix	mix	mix		PROPN
+mix	ミックス	mix	ミックス		N
+mix	混ぜる	mix	混ぜる		V
+dávid	デイヴィッド	dávid	デイヴィッド		PROPN
+dávid	ダビデ	dávid	ダビデ		PROPN
+dávid	デビッド	dávid	デビッド		PROPN
+dávid	デヴィッド	dávid	デヴィッド		PROPN
+hozzáférés	アクセス	hozzáférés	アクセス	N;NOM;SG	V
+kereszt	cross	kereszt	cross	N;NOM;SG	PROPN
+hill	ヒル	hill	ヒル		N
+csillagok	stars	csillag	stars	N;NOM;PL	PROPN
+csillagok	スターズ	csillag	スターズ	N;NOM;PL	PROPN
+porosz	プロイセン	porosz	プロイセン		N
+can	can	can	can		PROPN
+beszélt	スポーク	beszél	スポーク	V;INDF;IND;SG;3;PST;FIN;ACT	N
+szerves	有機	szerves	有機		N
+alexander	アレクサンドロス	alexander	アレクサンドロス		PROPN
+alexander	アレクサンダー	alexander	アレクサンダー		PROPN
+alexander	アレキサンダー	alexander	アレキサンダー		PROPN
+hans	ハンス	hans	ハンス	PROPN;NOM;SG	PROPN
+will	ウィル	will	ウィル		PROPN
+will	遺言	will	遺言		N
+rendszerint	通常	rendszerint	通常		N
+dollár	yen	dollár	yen	N;NOM;SG	PROPN
+mary	メアリ	mary	メアリ		PROPN
+mary	メアリー	mary	メアリー		PROPN
+megszerezte	後	megszerez	後	V;DEF;IND;SG;3;PST;FIN;ACT	N
+wilson	ウィルソン	wilson	ウィルソン		PROPN
+párhuzamosan	パラレル	párhuzamos	パラレル	ADJ;FRML;SG	N
+párhuzamosan	並列	párhuzamos	並列	ADJ;FRML;SG	N
+messze	far	messze	far		PROPN
+messze	遠く	messze	遠い		ADJ
+messze	遠い	messze	遠い		ADJ
+bob	ボブ	bob	ボブ		PROPN
+bob	bob	bob	bob		PROPN
+különbség	差異	különbség	差異	N;NOM;SG	V
+különbség	違い	különbség	違う	N;NOM;SG	V
+royal	ロイヤル	royal	ロイヤル		N
+scott	スコット	scott	スコット		PROPN
+törölve	削除	törölve	削除	N;NOM;SG	V
+törölve	キャンセル	törölve	キャンセル	N;NOM;SG	V
+törölve	キャンセル	törölve	キャンセル	N;NOM;SG	V
+kicsi	小さな	kicsi	小さな		ADJ
+kicsi	スモール	kicsi	スモール		N
+kicsi	小さい	kicsi	小さい		ADJ
+kicsi	リトル	kicsi	リトル		PROPN
+kicsi	小さい	kicsi	小さい		ADJ
+kicsi	タイニー	kicsi	タイニー		PROPN
+kicsi	ちっちゃい	kicsi	ちっちゃい		PROPN
+kicsi	ちび	kicsi	ちびる		V
+kicsi	小さい	kicsi	小さい		ADJ
+antonio	アントニオ	antonio	アントニオ		PROPN
+ugyanaz	同じ	ugyanaz	同じ		ADJ
+ugyanaz	おなじ	ugyanaz	おなじる		V
+közönséges	普通	közönséges	普通	N;NOM;SG	ADJ
+szilárd	固体	szilárd	固体		N
+robin	ロビン	robin	ロビン		PROPN
+haza	自宅	haza	自宅		N
+haza	ホーム	haza	ホーム		N
+haza	帰宅	haza	帰宅		V
+marie	マリー	marie	マリー		PROPN
+főváros	キャピタル	főváros	キャピタル	N;NOM;SG	PROPN
+találkozott	met	találkozik	met	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+bármely	any	bármely	any		PROPN
+napóleon	ナポレオン	napóleon	ナポレオン		PROPN
+védelmi	ディフェンス	védelmi	ディフェンス		N
+védelmi	防御	védelmi	防御		N
+védelmi	抗弁	védelmi	抗弁		V
+védelmi	防衛	védelmi	防衛		N
+védelmi	ディフェンス	védelmi	ディフェンス		N
+védelmi	防御	védelmi	防御		N
+air	空気	air	空気		N
+air	航空	air	航空		N
+air	エア	air	エア		PROPN
+szokás	習慣	szokás	習慣		N
+érkező	着信	érkező	着信	ADJ;NOM;SG	N
+érkező	受信	érkező	受信	ADJ;NOM;SG	V
+rgb	rgb	rgb	rgb	N;NOM;SG	PROPN
+best	最高	best	最高		N
+best	ベスト	best	ベスト		N
+best	best	best	best		PROPN
+perzsa	ペルシャ	perzsa	ペルシャ	N;NOM;SG	PROPN
+ukrajna	ウクライナ	ukrajna	ウクライナ	PROPN;NOM;SG	PROPN
+argentin	アルゼンチン	argent	アルゼンチン	ADJ;NOM;SG	PROPN
+argentin	アルゼンチン	argent	アルゼンチン	ADJ;NOM;SG	PROPN
+üres	空っ	üres	空る		V
+üres	空欄	üres	空欄		V
+üres	ブランク	üres	ブランク		N
+roger	ロジェ	roger	ロジェ		PROPN
+roger	ロジャー	roger	ロジャー		PROPN
+gyártó	プロデューサー	gyártó	プロデューサー	ADJ;NOM;SG	N
+gyártó	製造	gyártó	製造	ADJ;NOM;SG	N
+gyártó	メーカー	gyártó	メーカー	ADJ;NOM;SG	N
+andrea	アンドレア	andre	アンドレア	PROPN;NOM;SG	PROPN
+értelme	センス	értelem	センス		N
+értelme	感覚	értelem	感覚		N
+bármilyen	any	bármilyen	any		PROPN
+bill	ビル	bill	ビル		N
+cross	十字	cross	十字		N
+cross	クロス	cross	クロス		N
+cross	cross	cross	cross		PROPN
+cross	十字	cross	十字		N
+hall	ホール	hall	ホール		N
+museum	美術館	museum	美術館		N
+museum	博物館	museum	博物館		N
+ajánlott	おすすめ	ajánl	おすすめ	V;INDF;IND;SG;3;PST;FIN;ACT	N
+ajánlott	おすすめ	ajánl	おすすめ	V;INDF;IND;SG;3;PST;FIN;ACT	N
+sci	sci	sci	sci		PROPN
+mtv	mtv	mtv	mtv	N;NOM;SG	PROPN
+angeles	angeles	angeles	angeles		PROPN
+szabadság	freedom	szabadság	freedom	N;NOM;SG	PROPN
+szabadság	自由	szabadság	自由	N;NOM;SG	ADJ
+szabadság	リバティ	szabadság	リバティ	N;NOM;SG	PROPN
+szabadság	自由	szabadság	自由	N;NOM;SG	ADJ
+blue	青い	blue	青い		ADJ
+blue	ブルー	blue	ブルー		N
+blue	青色	blue	青色		N
+hungary	ハンガリー	hungary	ハンガリー		PROPN
+menekült	難民	menekült	難民	V;INDF;IND;SG;3;PST;FIN;ACT	N
+részletes	詳細	részletes	詳細	ADJ;NOM;SG	N
+részletes	ディテール	részletes	ディテール	ADJ;NOM;SG	N
+bukarest	ブカレスト	bukarest	ブカレスト		PROPN
+arthur	アーサー	arthur	アーサー		PROPN
+christian	クリスチャン	christian	クリスチャン		PROPN
+christian	キリスト	christian	キリスト		N
+christian	キリスト教徒	christian	キリスト教徒		N
+hiszem	believe	hisz	believe	V;DEF;IND;SG;1;PRS;FIN;ACT	PROPN
+örök	timeless	örök	timeless		PROPN
+portugália	ポルトガル	portugália	ポルトガル	N;NOM;SG	PROPN
+roma	ロマ	roma	ロマ		PROPN
+roma	ローマ	roma	ローマ		N
+sereg	アーミー	sereg	アーミー	N;NOM;SG	PROPN
+pro	プロ	pro	プロ		N
+pro	pro	pro	pro		PROPN
+máté	マシュー	máté	マシュー		PROPN
+hátvéd	ラインバッカー	hátvéd	ラインバッカー	N;NOM;SG	PROPN
+hátvéd	フルバック	hátvéd	フルバック	N;NOM;SG	PROPN
+elfogadott	養子	el+fogadott	養子	V;INDF;IND;SG;3;PST;FIN;ACT	N
+mesterséges	人工	mesterséges	人工	ADJ;NOM;SG	N
+örmény	アルメニア	örmény	アルメニア		PROPN
+egyiptom	エジプト	egyiptom	エジプト	N;NOM;SG	PROPN
+gondolat	考え	gondolat	考える	N;NOM;SG	V
+gondolat	想い	gondolat	想う	N;NOM;SG	V
+rose	ローズ	rose	ローズ		N
+rose	ロゼ	rose	ロゼ		N
+rose	バラ	rose	バラ		N
+rose	rose	rose	rose		PROPN
+rose	薔薇	rose	薔薇		N
+ellene	反対	ellen	反対	PRO;NOM;SG;3	
+királyok	キングス	király	キングス	N;NOM;PL	PROPN
+gótikus	ゴシック	gótikus	ゴシック	N;NOM;SG	PROPN
+legkisebb	最低	kevés	最低	ADJ;NOM;RL;SG	N
+legkisebb	最低	kevés	最低	ADJ;NOM;RL;SG	N
+legkisebb	最小	kevés	最小	ADJ;NOM;RL;SG	N
+protestáns	プロテスタント	protestáns	プロテスタント		N
+erdei	疎林	erdei	疎林		PROPN
+erdei	フォレスト	erdei	フォレスト		N
+erdei	森林	erdei	森林		N
+időközben	その	időközben	その	ADV	DET
+időközben	一方	időközben	一方	ADV	CONJ
+csehország	ボヘミア	csehország	ボヘミア		PROPN
+időpont	デート	időpont	デート	N;NOM;SG	
+időpont	日付	időpont	日付	N;NOM;SG	V
+időpont	選任	időpont	選任	N;NOM;SG	V
+időpont	任命	időpont	任命	N;NOM;SG	V
+időpont	予約	időpont	予約	N;NOM;SG	V
+meleg	熱い	meleg	熱い		ADJ
+meleg	ホット	meleg	ホット		N
+meleg	暑い	meleg	暑い		ADJ
+meleg	あったかい	meleg	あったかい		ADJ
+meleg	暖かい	meleg	暖かい		ADJ
+meleg	温かい	meleg	温かい		ADJ
+meleg	ゲイ	meleg	ゲイ		N
+france	フランス	france	フランス		PROPN
+franz	フランツ	franz	フランツ		N
+alakul	going	alakul	going	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+wilhelm	ヴィルヘルム	wilhelm	ヴィルヘルム		PROPN
+gyerekek	キッズ	gyerek	キッズ	N;NOM;PL	PROPN
+berlini	ベルリン	berlini	ベルリン		PROPN
+nyilvános	公衆	nyilvános	公衆	ADJ;NOM;SG	N
+nyilvános	公開	nyilvános	公開	ADJ;NOM;SG	V
+nyilvános	パブリック	nyilvános	パブリック	ADJ;NOM;SG	N
+heves	激しい	heves	激しい		ADJ
+heves	激戦	heves	激戦		N
+heves	激しい	heves	激しい		ADJ
+bbc	bbc	bbc	bbc		PROPN
+aktuális	現在	aktuális	現在	ADJ;NOM;SG	N
+aktuális	トレンド	aktuális	トレンド	ADJ;NOM;SG	N
+leírása	説明	leírás	説明	N;NOM;SG	V
+leírása	解説	leírás	解説	N;NOM;SG	V
+válogatás	選考	válogatás	選考	N;NOM;SG	V
+válogatás	選択	válogatás	選択	N;NOM;SG	V
+válogatás	ソート	válogatás	ソート	N;NOM;SG	V
+emlékmű	追悼	emlékmű	追悼	N;NOM;SG	V
+házi	宿題	házi	宿題		N
+házi	手作り	házi	手作り		N
+házi	自家	házi	自家		N
+civil	文官	civil	文官		N
+htm	ppa	htm	ppa	N;NOM;SG	PROPN
+htm	htm	htm	htm	N;NOM;SG	PROPN
+house	ハウス	hous	ハウス		N
+szűz	処女	szűz	処女		N
+szűz	ヴァージン	szűz	ヴァージン		PROPN
+induló	出発	induló	出発		V
+harc	戦闘	harc	戦闘	N;NOM;SG	V
+harc	戦い	harc	戦う	N;NOM;SG	V
+harc	戦闘	harc	戦闘	N;NOM;SG	V
+napot	day	nap	day	N;ACC;SG	PROPN
+kutatások	研究	kutatás	研究	N;NOM;PL	V
+kutatások	リサーチ	kutatás	リサーチ	N;NOM;PL	V
+fokozat	学位	fokozat	学位	N;NOM;SG	V
+szerzetes	モンク	szerzetes	モンク	N;NOM;SG	PROPN
+taylor	テイラー	taylor	テイラー		PROPN
+washington	ワシントン	washington	ワシントン		PROPN
+erdők	ウッズ	erdő	ウッズ	N;NOM;PL	PROPN
+háborúk	ウォーズ	háború	ウォーズ	N;NOM;PL	PROPN
+műhold	サテライト	műhold	サテライト	N;NOM;SG	PROPN
+körzet	ディビジョン	körzet	ディビジョン	N;NOM;SG	PROPN
+körzet	ディストリクト	körzet	ディストリクト	N;NOM;SG	PROPN
+edit	編集	edit	編集	N;NOM;SG	V
+alternatív	オルタナティブ	alternatív	オルタナティブ		PROPN
+alternatív	代替	alternatív	代替		V
+alternatív	交互	alternatív	交互		ADJ
+rendőrség	ポリス	rendőrség	ポリス	N;NOM;SG	PROPN
+dánia	デンマーク	dánia	デンマーク	N;NOM;SG	PROPN
+net	net	net	net	N;NOM;SG	PROPN
+das	ダス	das	ダス		PROPN
+das	das	das	das		PROPN
+elem	ウィジェット	elem	ウィジェット	N;NOM;SG	PROPN
+beleértve	含む	bele+értv	含む	ADV;V.CVB	V
+írott	筆記	írott	筆記	V;INDF;IND;SG;3;PST;FIN;ACT	N
+giovanni	ジョヴァンニ	giovan	ジョヴァンニ		PROPN
+giovanni	ジョバンニ	giovan	ジョバンニ		PROPN
+vereség	敗北	vereség	敗北	N;NOM;SG	V
+kim	キム	kim	キム		PROPN
+kritikus	評論家	kritikus	評論家		N
+kritikus	批評家	kritikus	批評家		N
+kritikus	クリティカル	kritikus	クリティカル		N
+abszolút	絶対	abszolú	絶対		ADV
+öreg	古い	öreg	古い		ADJ
+öreg	オールド	öreg	オールド		N
+blues	ブルース	blues	ブルース	N;NOM;SG	PROPN
+est	est	est	est		PROPN
+javaslat	提案	javaslat	提案	N;NOM;SG	V
+javaslat	プロポーズ	javaslat	プロポーズ	N;NOM;SG	V
+javaslat	提案	javaslat	提案	N;NOM;SG	V
+javaslat	暗示	javaslat	暗示	N;NOM;SG	V
+emil	エミル	emil	エミル	PROPN;NOM;SG	PROPN
+értékes	尊い	értékes	尊いる		N
+értékes	precious	értékes	precious		PROPN
+értékes	貴重	értékes	貴重		ADJ
+elegendő	足りる	elegendő	足りる		V
+tűz	火事	tűz	火事	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+tűz	ファイア	tűz	ファイア	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+tűz	火災	tűz	火災	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+maurice	モーリス	maurice	モーリス		PROPN
+szolnok	ソルノク	szolnok	ソルノク		PROPN
+admin	管理	admin	管理		N
+admin	管理人	admin	管理人		N
+mtk	mtk	mtk	mtk	N;NOM;SG	PROPN
+maximális	最大	maximális	最大		N
+maximális	maximum	maximális	maximum		PROPN
+hal	フィッシュ	hal	フィッシュ	N;NOM;SG	PROPN
+hal	hal	hal	hal	N;NOM;SG	PROPN
+harci	戦闘	harci	戦闘		V
+kutatás	研究	kutatás	研究	N;NOM;SG	V
+kutatás	リサーチ	kutatás	リサーチ	N;NOM;SG	V
+fajta	バラエティ	fajta	バラエティ		N
+fajta	変種	fajta	変種		N
+völgy	谷間	völgy	谷間	N;NOM;SG	
+kedvenc	お気に入り	kedvenc	お気に入り		N
+kedvenc	お気に入り	kedvenc	お気に入り		N
+görögország	ギリシャ	görögország	ギリシャ	N;NOM;SG	PROPN
+alkotó	クリエイティブ	alkotó	クリエイティブ		N
+alkotó	クリエーター	alkotó	クリエーター		N
+lép	脾臓	lép	脾臓	V;INDF;IND;SG;3;PRS;FIN;ACT	
+törzs	変形	törzs	変形	N;NOM;SG	V
+hibás	断層	hibás	断層		N
+hibás	フォールト	hibás	フォールト		PROPN
+hibás	フォルト	hibás	フォルト		N
+hibás	責め	hibás	責める		V
+band	band	band	band		PROPN
+band	バンド	band	バンド		N
+johnson	ジョンソン	johnson	ジョンソン		PROPN
+londonban	ロンドン	london	ロンドン	N;IN+ESS;SG	PROPN
+sam	サム	sam	サム		PROPN
+autonóm	自律	autonó	自律		N
+összefoglaló	概説	összefoglaló	概説		V
+összefoglaló	概略	összefoglaló	概略		N
+összefoglaló	まとめ	összefoglaló	まとめる		V
+összefoglaló	概要	összefoglaló	概要		N
+összefoglaló	要約	összefoglaló	要約		V
+szürke	灰色	szürke	灰色		N
+szürke	グレイ	szürke	グレイ		PROPN
+szürke	グレー	szürke	グレー		N
+szürke	灰色	szürke	灰色		N
+szürke	グレイ	szürke	グレイ		PROPN
+szürke	グレー	szürke	グレー		N
+áron	アロン	ár	アロン	N;ON+ESS;SG	PROPN
+áron	アーロン	ár	アーロン	N;ON+ESS;SG	PROPN
+atlanti	アトランティック	atlanti	アトランティック		PROPN
+atlanti	大西洋	atlanti	大西洋		PROPN
+otthon	自宅	otthon	自宅		N
+otthon	ホーム	otthon	ホーム		N
+otthon	帰宅	otthon	帰宅		V
+szultán	スルタン	szultán	スルタン	N;NOM;SG	PROPN
+szultán	スルターン	szultán	スルターン	N;NOM;SG	PROPN
+queen	女王	ő	女王		N
+queen	クイーン	ő	クイーン		PROPN
+tétel	lot	tétel	lot	N;NOM;SG	PROPN
+növekvő	栽培	növekvő	栽培	ADJ;NOM;SG	V
+növekvő	成長	növekvő	成長	ADJ;NOM;SG	V
+növekvő	増加	növekvő	増加	ADJ;NOM;SG	V
+friss	フレッシュ	friss	フレッシュ		N
+visszatér	return	visszatér	return	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+visszatér	リターン	visszatér	リターン	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+kezdeti	イニシャル	kezdeti	イニシャル	ADJ;NOM;SG	PROPN
+kezdeti	頭文字	kezdeti	頭文字	ADJ;NOM;SG	N
+brown	褐色	brown	褐色		N
+brown	茶色	brown	茶色		N
+brown	ブラウン	brown	ブラウン		N
+szárazföldi	地上	szárazföldi	地上		N
+zongora	ピアノ	zongor	ピアノ		N
+may	メイ	may	メイ		PROPN
+may	五月	may	五月		N
+alan	アラン	alan	アラン		PROPN
+xiv	xiv	xiv	xiv	N;NOM;SG	PROPN
+halott	デッド	halott	デッド		PROPN
+liverpool	リヴァプール	liverpool	リヴァプール	N;NOM;SG	PROPN
+liverpool	リバプール	liverpool	リバプール	N;NOM;SG	PROPN
+zászló	フラグ	zászló	フラグ	N;NOM;SG	PROPN
+legenda	伝説	legenda	伝説		N
+radio	ラジオ	radio	ラジオ		N
+beszél	トーキング	beszél	トーキング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+adolf	アドルフ	adolf	アドルフ		PROPN
+eger	ねずみ	eger	ねずみ	PROPN;NOM;SG	N
+eger	マウス	eger	マウス	PROPN;NOM;SG	N
+juhász	シェパード	juhász	シェパード		PROPN
+öböl	ガルフ	öböl	ガルフ	N;NOM;SG	PROPN
+franciák	フランス	francia	フランス	N;NOM;PL	PROPN
+super	スーパー	super	スーパー		N
+egyenlő	等しい	egyenlő	等しい		ADJ
+egyenlő	イコール	egyenlő	イコール		PROPN
+egyenlő	等しい	egyenlő	等しい		ADJ
+elérni	リーチ	el+ér	リーチ	V;NFIN;ACT	N
+adam	アダム	adam	アダム		PROPN
+fordított	リバース	fordított	リバース	V;INDF;IND;SG;3;PST;FIN;ACT	N
+alap	財団	alap	財団		N
+alap	ファンデーション	alap	ファンデーション		N
+alap	ファウンデーション	alap	ファウンデーション		N
+alap	塩基	alap	塩基		N
+alap	base	alap	base		PROPN
+alap	ベース	alap	ベース		N
+alap	ファンド	alap	ファンド		N
+alap	基本	alap	基本		N
+alap	ベーシック	alap	ベーシック		N
+alap	basic	alap	basic		PROPN
+jim	ジム	jim	ジム		N
+éjszakai	夜間	éjszakai	夜間	ADJ;NOM;SG	N
+júlia	ジュリア	júlia	ジュリア	N;NOM;SG	PROPN
+júlia	ユリア	júlia	ユリア	N;NOM;SG	PROPN
+júlia	ジュリエット	júlia	ジュリエット	N;NOM;SG	PROPN
+pink	ピンク	pink	ピンク		N
+pink	ナデシコ	pink	ナデシコ		PROPN
+szokásos	ノーマル	szokásos	ノーマル	ADJ;NOM;SG	N
+ivan	イワン	ivan	イワン	PROPN;NOM;SG	PROPN
+ivan	イヴァン	ivan	イヴァン	PROPN;NOM;SG	PROPN
+néző	観客	néző	観客		N
+néző	ビューア	néző	ビューア		N
+buddha	ブッダ	buddha	ブッダ	N;NOM;SG	PROPN
+hideg	風邪	hideg	風邪		N
+hideg	コールド	hideg	コールド		N
+hideg	冷たい	hideg	冷たい		ADJ
+hideg	寒い	hideg	寒い		ADJ
+magam	自分	maga	自分		N
+magam	myself	maga	myself		PROPN
+reggel	モーニング	reggel	モーニング		N
+döntés	決断	döntés	決断	N;NOM;SG	V
+döntés	決定	döntés	決定	N;NOM;SG	V
+döntés	選択	döntés	選択	N;NOM;SG	V
+fiatalok	若い	fiatal	若い	N;NOM;PL	ADJ
+mészáros	リッパー	mészáros	リッパー		PROPN
+mészáros	肉屋	mészáros	肉屋		N
+mészáros	ブッチャー	mészáros	ブッチャー		PROPN
+hot	熱い	hot	熱い		ADJ
+hot	ホット	hot	ホット		N
+hot	暑い	hot	暑い		ADJ
+levél	letter	levél	letter	N;NOM;SG	PROPN
+disney	ディズニー	disney	ディズニー		PROPN
+röviden	短い	röviden	短い		ADJ
+röviden	ショート	röviden	ショート		N
+nyáron	summer	nyár	summer	N;ON+ESS;SG	PROPN
+vég	終了	vég	終了	N;NOM;SG	V
+jazz	ジャズ	jazz	ジャズ		N
+lewis	ルイス	lewis	ルイス		PROPN
+web	web	web	web		PROPN
+web	ウェブ	web	ウェブ		N
+font	パウンド	font	パウンド	N;NOM;SG	PROPN
+mondat	宣告	mondat	宣告	N;NOM;SG	V
+időnként	たま	idő	たま	N;ABS;SG	ADV
+boldog	ハッピー	boldog	ハッピー		N
+boldog	幸せ	boldog	幸せ		ADJ
+tökéletes	パーフェクト	tökéletes	パーフェクト	ADJ;NOM;SG	N
+közlekedés	輸送	közlekedés	輸送	N;NOM;SG	V
+közlekedés	輸送	közlekedés	輸送	N;NOM;SG	V
+microsoft	microsoft	microsoft	microsoft	N;NOM;SG	PROPN
+joey	ジョーイ	joey	ジョーイ		PROPN
+holstein	ホルシュタイン	holstein	ホルシュタイン		PROPN
+külföldön	海外	külföld	海外		N
+moszkvai	モスクワ	moszkvai	モスクワ	ADJ;NOM;SG	PROPN
+leírás	説明	leírás	説明		V
+leírás	解説	leírás	解説		V
+arad	arad	arad	arad	PROPN;NOM;SG	PROPN
+legutóbbi	最近	legutóbbi	最近		N
+legutóbbi	最新	legutóbbi	最新		N
+kormányzó	知事	kormányzó	知事	ADJ;NOM;SG	N
+keresztes	十字軍	keresztes	十字軍		N
+dns	dna	dns	dna	N;NOM;SG	PROPN
+dns	dns	dns	dns	N;NOM;SG	PROPN
+közepes	ミディアム	közepes	ミディアム	ADJ;NOM;SG	N
+közepes	メディア	közepes	メディア	ADJ;NOM;SG	N
+közepes	中道	közepes	中道	ADJ;NOM;SG	PROPN
+front	フロント	front	フロント		N
+front	表側	front	表側		N
+front	前面	front	前面		N
+index	索引	index	索引		N
+index	インデックス	index	インデックス		PROPN
+standard	基準	standard	基準		N
+standard	スタンダード	standard	スタンダード		N
+standard	標準	standard	標準		N
+jövő	フューチャー	jövő	フューチャー	ADJ;NOM;SG	N
+jövő	未来	jövő	未来	ADJ;NOM;SG	N
+jövő	将来	jövő	将来	ADJ;NOM;SG	
+victor	ヴィクター	victor	ヴィクター		PROPN
+victor	ビクター	victor	ビクター		PROPN
+igazság	真実	igazság	真実	N;NOM;SG	ADJ
+természet	自然	természet	自然	N;NOM;SG	ADJ
+találni	find	talál	find	V;NFIN;ACT	PROPN
+kecskemét	ケチケメート	kecskem	ケチケメート		PROPN
+engedélyt	許可	engedély	許可	N;ACC;SG	V
+engedélyt	許諾	engedély	許諾	N;ACC;SG	V
+csere	トレード	csere	トレード	N;NOM;SG	V
+csere	取引	csere	取引	N;NOM;SG	V
+csere	スワップ	csere	スワップ	N;NOM;SG	PROPN
+csere	交換	csere	交換	N;NOM;SG	V
+védelem	保護	védelem	保護	N;NOM;SG	V
+védelem	抗弁	védelem	抗弁	N;NOM;SG	V
+kiegészítő	アクセサリー	kiegészítő	アクセサリー	ADJ;NOM;SG	N
+hiánya	欠如	hiány	欠如	N;NOM;SG	V
+hiánya	不足	hiány	不足	N;NOM;SG	V
+egyetértek	賛成	egyetért	賛成	V;INDF;IND;PL;3;PST;FIN;ACT	N
+line	直線	line	直線		N
+line	ライン	line	ライン		N
+entertainment	娯楽	entert	娯楽	N;ABS;SG	
+szem	アイズ	szem	アイズ		PROPN
+oklevél	ディプロマ	oklevél	ディプロマ		N
+dolgozó	働く	dolgozó	働く	ADJ;NOM;SG	V
+dolgozó	作業	dolgozó	作業	ADJ;NOM;SG	N
+segíteni	ヘルプ	segít	ヘルプ	V;NFIN;ACT	N
+parti	パーティ	parti	パーティ	ADJ;NOM;SG	N
+parti	パーティー	parti	パーティー	ADJ;NOM;SG	N
+azonnali	インスタント	azonnali	インスタント		N
+azonnali	瞬間	azonnali	瞬間		N
+azonnali	即時	azonnali	即時		N
+előadás	興行	előadás	興行	N;NOM;SG	V
+előadás	講義	előadás	講義	N;NOM;SG	V
+előadás	講演	előadás	講演	N;NOM;SG	V
+cambridge	ケンブリッジ	cambridge	ケンブリッジ	N;NOM;SG	PROPN
+gyakorlat	運動	gyakorlat	運動	N;NOM;SG	V
+gyakorlat	行使	gyakorlat	行使	N;NOM;SG	V
+sima	無地	sima	無地		N
+sima	平野	sima	平野		PROPN
+sima	スムーズ	sima	スムーズ		ADJ
+sima	スムース	sima	スムース		N
+sima	滑らか	sima	滑らか		ADJ
+izraeli	イスラエル	izraeli	イスラエル		PROPN
+kapu	ゲイツ	kapu	ゲイツ	N;NOM;SG	PROPN
+stone	ストーン	stone	ストーン	PROPN;NOM;SG	N
+legidősebb	長子	fenős	長子	ADJ;NOM;RL;SG	N
+heinrich	ハインリヒ	heinrich	ハインリヒ		PROPN
+állapot	ステータス	állap	ステータス	N;NOM;SG	PROPN
+elveszett	ロスト	elveszett	ロスト	V;INDF;IND;SG;3;PST;FIN;ACT	N
+legújabb	最新	legújabb	最新	ADJ;NOM;RL;SG	N
+legújabb	最新	legújabb	最新	ADJ;NOM;RL;SG	N
+ali	アリー	ali	アリー		PROPN
+ali	ali	ali	ali		PROPN
+szegény	かわい	szegény	かわい		ADJ
+metró	メトロ	metró	メトロ	N;NOM;SG	PROPN
+einstein	アインシュタイン	einstein	アインシュタイン		PROPN
+high	ハイ	high	ハイ		N
+high	高い	high	高い		ADJ
+kal	カル	kal	カル		PROPN
+dance	ダンス	dance	ダンス		N
+las	ラス	las	ラス		PROPN
+las	las	las	las		PROPN
+tény	事実	tény	事実		ADV
+korán	アーリー	korán	アーリー		PROPN
+korán	早い	korán	早い		ADJ
+korán	クルアーン	korán	クルアーン		PROPN
+korán	コーラン	korán	コーラン		N
+bulgária	ブルガリア	bulgária	ブルガリア	N;NOM;SG	PROPN
+tavaszi	スプリング	tavaszi	スプリング		N
+kalifornia	カリフォルニア	kalifornia	カリフォルニア		PROPN
+alfred	アルフレッド	alfred	アルフレッド		PROPN
+mozart	モーツァルト	mozart	モーツァルト		PROPN
+finnország	フィンランド	finnország	フィンランド	N;NOM;SG	PROPN
+leggyorsabb	最速	széps	最速	ADJ;NOM;RL;SG	N
+birodalmi	インペリアル	birodalmi	インペリアル		PROPN
+pallas	パラス	pallas	パラス	N;NOM;SG	PROPN
+észre	通知	ész	通知	N;ON+ALL;SG	V
+észre	告知	ész	告知	N;ON+ALL;SG	V
+lelki	スピリチュアル	lelki	スピリチュアル		N
+veszélyes	危険	veszélyes	危険		ADJ
+írország	アイリッシュ	írország	アイリッシュ	N;NOM;SG	PROPN
+írország	アイルランド	írország	アイルランド	N;NOM;SG	PROPN
+örökös	相続	örökös	相続		V
+rózsa	薔薇	rózsa	薔薇		N
+rózsa	バラ	rózsa	バラ		N
+rózsa	ローズ	rózsa	ローズ		N
+rózsa	ロゼ	rózsa	ロゼ		N
+rózsa	バラ	rózsa	バラ		N
+rózsa	rose	rózsa	rose		PROPN
+rózsa	薔薇	rózsa	薔薇		N
+változások	変更	változás	変更	N;NOM;PL	V
+változások	変更	változás	変更	N;NOM;PL	V
+változások	変化	változás	変化	N;NOM;PL	V
+premier	初演	premier	初演		N
+premier	プレミア	premier	プレミア		N
+premier	プレミア	premier	プレミア		N
+premier	初演	premier	初演		N
+stephen	スティーヴン	stephen	スティーヴン		PROPN
+fák	ツリー	fák	ツリー		N
+fák	樹木	fák	樹木		N
+mindenkinek	みんな	mindenki	みんな		ADV
+futó	ランナー	futó	ランナー		N
+futó	走る	futó	走る		V
+futó	ランニング	futó	ランニング		N
+futó	ビショップ	futó	ビショップ		PROPN
+xviii	xviii	xviii	xviii	N;NOM;SG	PROPN
+hitler	ヒトラー	hitler	ヒトラー		PROPN
+hitler	ヒットラー	hitler	ヒットラー		PROPN
+emlősök	哺乳類	emlős	哺乳類	N;NOM;PL	PROPN
+emlősök	哺乳類	emlős	哺乳類	N;NOM;PL	PROPN
+xvi	xvi	xvi	xvi		PROPN
+fejlődés	発達	fejlődés	発達	N;NOM;SG	V
+fejlődés	開発	fejlődés	開発	N;NOM;SG	V
+fejlődés	プログレス	fejlődés	プログレス	N;NOM;SG	PROPN
+fejlődés	経過	fejlődés	経過	N;NOM;SG	V
+fejlődés	進捗	fejlődés	進捗	N;NOM;SG	
+fejlődés	進化	fejlődés	進化	N;NOM;SG	V
+fejlődés	evolution	fejlődés	evolution	N;NOM;SG	PROPN
+costa	コスタ	costa	コスタ		PROPN
+levegő	エア	levegő	エア	N;NOM;SG	PROPN
+network	ネットワーク	network	ネットワーク		N
+reklám	商用	reklám	商用	N;NOM;SG	V
+fox	キツネ	fox	キツネ		N
+napos	晴れ	napos	晴れる	ADJ;NOM;SG	V
+napos	サニー	napos	サニー	ADJ;NOM;SG	N
+lukács	ルカ	lukács	ルカ		PROPN
+határozott	会社	határoz	会社	V;INDF;IND;SG;3;PST;FIN;ACT	N
+alex	alex	alex	alex		PROPN
+alex	アレックス	alex	アレックス		PROPN
+csúcs	top	csúcs	top		PROPN
+csúcs	上部	csúcs	上部		N
+csúcs	トップ	csúcs	トップ		N
+csúcs	サミット	csúcs	サミット		N
+csúcs	頂上	csúcs	頂上		N
+csúcs	山頂	csúcs	山頂		N
+csúcs	ピーク	csúcs	ピーク		N
+gond	問題	gond	問題		N
+gond	トラブル	gond	トラブル		N
+emelkedett	高架	emelkedik	高架	V;INDF;IND;SG;3;PST;FIN;ACT	N
+bot	bot	bot	bot	N;NOM;SG	PROPN
+bot	ボット	bot	ボット	N;NOM;SG	PROPN
+kísérlet	試み	kísérlet	試みる	N;NOM;SG	V
+kísérlet	未遂	kísérlet	未遂	N;NOM;SG	
+utoljára	最終	utoljára	最終	ADV	N
+utoljára	ラスト	utoljára	ラスト	ADV	N
+utoljára	最後	utoljára	最後	ADV	N
+java	java	java	java		PROPN
+javasolt	おすすめ	javasolt	おすすめ		N
+javasolt	おすすめ	javasolt	おすすめ		N
+javasolt	推奨	javasolt	推奨		V
+szél	wind	szél	wind	N;NOM;SG	PROPN
+ray	レイ	ray	レイ		N
+végleges	パーマネント	végleges	パーマネント		N
+végleges	最終	végleges	最終		N
+végleges	決勝	végleges	決勝		N
+végleges	ファイナル	végleges	ファイナル		PROPN
+kevin	ケヴィン	kév	ケヴィン	PROPN;NOM;SG	PROPN
+valahol	どこ	valahol	どこ		PRO
+papp	パップ	papp	パップ		PROPN
+meglévő	既存	meglévő	既存		N
+hamilton	ハミルトン	hamilt	ハミルトン	N;NOM;SG	PROPN
+összefüggő	関連	összefüggő	関連		V
+összekötő	連絡	összekötő	連絡	ADJ;NOM;SG	V
+johannes	ヨハネス	johannes	ヨハネス		PROPN
+izrael	イスラエル	izrael	イスラエル		PROPN
+valaha	ever	valaha	ever		PROPN
+kolumbia	コロンビア	kolumbia	コロンビア		PROPN
+kolumbia	コロンビア	kolumbia	コロンビア		PROPN
+sun	太陽	sun	太陽		N
+sun	sun	sun	sun		PROPN
+miller	ミラー	miller	ミラー		N
+idős	古い	idős	古い		ADJ
+idős	オールド	idős	オールド		N
+gondoltam	思考	gondol	思考	V;INDF;IND;SG;1;PST;FIN;ACT	N
+bites	ビット	bites	ビット		N
+guinea	ギニア	guinea	ギニア		PROPN
+guinea	ギニー	guinea	ギニー		PROPN
+remélem	ホープ	remél	ホープ		PROPN
+remélem	希望	remél	希望		V
+bad	バッド	bad	バッド		PROPN
+bad	悪い	bad	悪い		ADJ
+átmeneti	transient	átmeneti	transient		PROPN
+átmeneti	変遷	átmeneti	変遷		N
+átmeneti	転移	átmeneti	転移		V
+szigorú	厳重	szigorú	厳重		ADJ
+szigorú	スターン	szigorú	スターン		PROPN
+szigorú	船尾	szigorú	船尾		N
+nyár	summer	nyár	summer		PROPN
+nyár	サマー	nyár	サマー		N
+georg	ゲオルク	georg	ゲオルク		PROPN
+fejlett	上級	fejlett	上級		N
+nhl	nhl	nhl	nhl	N;NOM;SG	PROPN
+clark	クラーク	clark	クラーク	PROPN;NOM;SG	PROPN
+facebook	facebook	faceb	facebook	N;NOM;PL	PROPN
+repülés	fly	repülés	fly	N;NOM;SG	PROPN
+repülés	飛ぶ	repülés	飛ぶ	N;NOM;SG	V
+repülés	飛ぶ	repülés	飛ぶ	N;NOM;SG	V
+szét	apart	szét	apart		PROPN
+nápoly	ナポリ	nápoly	ナポリ		PROPN
+nápoly	ナポリ	nápoly	ナポリ		PROPN
+kosárlabda	バスケ	kosárlabda	バスケ	N;NOM;SG	PROPN
+allen	アレン	allen	アレン		PROPN
+power	権力	power	権力		N
+power	パワー	power	パワー		N
+változás	変更	változás	変更	N;NOM;SG	V
+változás	変更	változás	変更	N;NOM;SG	V
+változás	変化	változás	変化	N;NOM;SG	V
+felvétel	記録	felvétel	記録	N;NOM;SG	V
+felvétel	録音	felvétel	録音	N;NOM;SG	V
+sms	sms	sms	sms	N;NOM;SG	PROPN
+megbízható	信頼	megbízható	信頼	ADJ;NOM;SG	V
+kategóriák	分類	kategória	分類	N;NOM;PL	V
+megadott	特定	megadott	特定	V;INDF;IND;SG;3;PST;FIN;ACT	
+navigációs	航法	navigációs	航法	ADJ;NOM;SG	N
+navigációs	ナビゲーション	navigációs	ナビゲーション	ADJ;NOM;SG	N
+végtelen	インフィニット	végtelen	インフィニット		PROPN
+végtelen	infinity	végtelen	infinity		PROPN
+végtelen	無限	végtelen	無限		N
+unesco	ユネスコ	unesco	ユネスコ		N
+vastag	厚い	vastag	厚い		ADJ
+vastag	太い	vastag	太い		ADJ
+követ	フォロー	követ	フォロー		V
+story	記事	story	記事		N
+story	ストーリー	story	ストーリー		N
+story	物語	story	物語		N
+várható	期待	várható	期待	ADJ;NOM;SG	V
+fejlesztési	発達	fejlesztési	発達	ADJ;NOM;SG	V
+fejlesztési	開発	fejlesztési	開発	ADJ;NOM;SG	V
+times	タイムズ	times	タイムズ	N;NOM;SG	PROPN
+egyetemes	ユニバーサル	egyetemes	ユニバーサル		PROPN
+françois	フランソワ	françois	フランソワ	N;NOM;SG	PROPN
+ludwig	ルートヴィヒ	lud	ルートヴィヒ		PROPN
+bach	バッハ	bach	バッハ		PROPN
+abba	アバ	az	アバ		PROPN
+zágráb	ザグレブ	zágráb	ザグレブ	N;NOM;SG	PROPN
+anya	おかあさん	anya	おかあさん	N;NOM;SG	PROPN
+komplex	コンプレックス	komplex	コンプレックス		N
+komplex	錯体	komplex	錯体		N
+komplex	複雑	komplex	複雑		ADJ
+kezdő	スターター	kezdő	スターター		N
+kezdő	初心	kezdő	初心		N
+kezdő	初心	kezdő	初心		N
+kezdő	ビギナー	kezdő	ビギナー		N
+system	システム	system	システム		N
+var	var	var	var	PROPN;NOM;SG	PROPN
+rokon	相対	rokon	相対		N
+rokon	親戚	rokon	親戚		N
+rokon	関連	rokon	関連		V
+fordítás	翻訳	fordítás	翻訳	N;NOM;SG	V
+fordítás	翻訳	fordítás	翻訳	N;NOM;SG	V
+fordítás	翻訳	fordítás	翻訳	N;NOM;SG	V
+velence	ベニス	velence	ベニス	N;NOM;SG	PROPN
+velence	ヴェネツィア	velence	ヴェネツィア	N;NOM;SG	PROPN
+velence	ベネチア	velence	ベネチア	N;NOM;SG	PROPN
+felhasználó	ユーザー	felhasználó	ユーザー	ADJ;NOM;SG	N
+felhasználó	ユーザ	felhasználó	ユーザ	ADJ;NOM;SG	N
+kongói	コンゴ	kongói	コンゴ		PROPN
+tanulmány	勉強	tanulmány	勉強	N;NOM;SG	V
+naponta	デイリー	naponta	デイリー		N
+abc	アルファベット	abc	アルファベット		N
+abc	abc	abc	abc		PROPN
+kérdések	質問	kérdés	質問	N;NOM;PL	V
+lovas	ウマ	lovas	ウマ		PROPN
+lovas	ライダー	lovas	ライダー		PROPN
+lovas	馬術	lovas	馬術		N
+columbia	コロンビア	columbia	コロンビア		PROPN
+házasságot	結婚	házasság	結婚	N;ACC;SG	V
+házasságot	婚姻	házasság	婚姻	N;ACC;SG	V
+vitéz	ヴァリアント	vitéz	ヴァリアント		PROPN
+wagner	ワーグナー	wagner	ワーグナー		PROPN
+wagner	ワグナー	wagner	ワグナー		PROPN
+irányelv	ディレクティブ	irányelv	ディレクティブ	N;NOM;SG	PROPN
+éles	シャープ	éles	シャープ		N
+éles	鋭い	éles	鋭い		ADJ
+választás	選択	választás	選択		V
+választás	チョイス	választás	チョイス		N
+választás	選択	választás	選択		V
+választás	選任	választás	選任		V
+választás	選挙	választás	選挙		N
+lassú	遅い	lassú	遅い		ADJ
+lassú	スロー	lassú	スロー		N
+mutató	索引	mutató	索引		N
+mutató	インデックス	mutató	インデックス		PROPN
+mutató	インジケータ	mutató	インジケータ		N
+mutató	ポインター	mutató	ポインター		N
+mutató	ポインタ	mutató	ポインタ		N
+andré	アンドレ	andré	アンドレ		PROPN
+andré	アンドレ	andré	アンドレ		PROPN
+chile	チリ	chile	チリ		PROPN
+chile	チリ	chile	チリ		PROPN
+támadó	アタッカー	támadó	アタッカー		N
+napló	航海日誌	napló	航海日誌	N;NOM;SG	PROPN
+napló	log	napló	log	N;NOM;SG	PROPN
+dave	デーヴ	dave	デーヴ		PROPN
+dave	デイヴ	dave	デイヴ		PROPN
+eljárások	手続き	eljárás	手続き	N;NOM;PL	V
+andy	アンディ	andy	アンディ		PROPN
+repülő	飛ぶ	repülő	飛ぶ		V
+repülő	フライング	repülő	フライング		N
+repülő	飛行機	repülő	飛行機		N
+repülő	飛行機	repülő	飛行機		N
+találkozó	meet	találkozó	meet	N;NOM;SG	PROPN
+találkozó	会う	találkozó	会う	N;NOM;SG	V
+találkozó	同	találkozó	同	N;NOM;SG	ADJ
+találkozó	再会	találkozó	再会	N;NOM;SG	V
+town	タウン	town	タウン		N
+átlagosan	平均	átlagos	平均	ADJ;FRML;SG	N
+listák	リスト	lista	リスト	N;NOM;PL	V
+őszi	落ちる	őszi	落ちる		V
+őszi	落下	őszi	落下		V
+hamis	false	hamis	false		PROPN
+hamis	虚偽	hamis	虚偽		N
+hamis	フェイク	hamis	フェイク		N
+megállapodás	協定	megállapodás	協定	N;NOM;SG	V
+megállapodás	合意	megállapodás	合意	N;NOM;SG	V
+megállapodás	配置	megállapodás	配置	N;NOM;SG	V
+megelőző	予防	megelőző	予防	ADJ;NOM;SG	N
+mario	マリオ	mario	マリオ		PROPN
+olimpia	オリンピア	olimpia	オリンピア	N;NOM;SG	PROPN
+házasság	結婚	házasság	結婚	N;NOM;SG	V
+házasság	婚姻	házasság	婚姻	N;NOM;SG	V
+megváltozott	チェンジ	megváltozott	チェンジ	V;INDF;IND;SG;3;PST;FIN;ACT	N
+esterházy	エステルハージ	esterházy	エステルハージ		PROPN
+mars	マーズ	mars	マーズ		PROPN
+mars	火星	mars	火星		N
+otto	オットー	otto	オットー	PROPN;NOM;SG	PROPN
+xix	xix	xix	xix	N;NOM;SG	PROPN
+megbeszélés	話し合い	megbeszélés	話し合い	N;NOM;SG	V
+warner	ワーナー	warner	ワーナー	N;NOM;SG	PROPN
+peru	ペルー	peru	ペルー	PROPN;NOM;SG	PROPN
+távoli	遠い	távoli	遠い		ADJ
+távoli	リモート	távoli	リモート		N
+utazás	旅行	utazás	旅行	N;NOM;SG	V
+utazás	旅行	utazás	旅行	N;NOM;SG	V
+utazás	journey	utazás	journey	N;NOM;SG	PROPN
+utazás	旅行	utazás	旅行	N;NOM;SG	V
+utazás	旅行	utazás	旅行	N;NOM;SG	V
+utazás	トリップ	utazás	トリップ	N;NOM;SG	PROPN
+utazás	旅行	utazás	旅行	N;NOM;SG	V
+beosztás	日程	beosztás	日程	N;NOM;SG	V
+siker	成功	siker	成功	N;NOM;SG	V
+támogató	サポーター	támogató	サポーター	ADJ;NOM;SG	N
+támogató	スポンサー	támogató	スポンサー	ADJ;NOM;SG	N
+lépés	step	lépés	step	N;NOM;SG	PROPN
+normál	基準	normál	基準		N
+normál	スタンダード	normál	スタンダード		N
+normál	標準	normál	標準		N
+normál	レギュラー	normál	レギュラー		N
+normál	普通	normál	普通		ADJ
+normál	ノーマル	normál	ノーマル		N
+patrick	パトリック	patrick	パトリック		PROPN
+viktória	ビクトリア	viktória	ビクトリア	N;NOM;SG	PROPN
+viktória	ヴィクトリア	viktória	ヴィクトリア	N;NOM;SG	PROPN
+vékony	スキニー	vékony	スキニー		N
+vékony	スリム	vékony	スリム		N
+vékony	薄い	vékony	薄い		ADJ
+vékony	細い	vékony	細い		ADJ
+davis	デービス	davis	デービス		PROPN
+davis	デイヴィス	davis	デイヴィス		PROPN
+anthony	アンソニー	anthony	アンソニー		PROPN
+hotel	ホテル	hotel	ホテル		N
+bonyolult	複雑	bonyolult	複雑		ADJ
+bonyolult	難しい	bonyolult	難しい		ADJ
+karolina	カロライナ	karolina	カロライナ		PROPN
+ferrari	フェラーリ	ferrari	フェラーリ	N;NOM;SG	PROPN
+szlovénia	スロベニア	szlovénia	スロベニア		PROPN
+leghosszabb	最長	naghosszú	最長		PART
+chicago	シカゴ	chicago	シカゴ		PROPN
+mail	郵便	mail	郵便		N
+mail	メール	mail	メール		N
+legendás	伝説	legendás	伝説		N
+betű	letter	betű	letter	N;NOM;SG	PROPN
+számító	計算	számító	計算	ADJ;NOM;SG	V
+württemberg	ヴュルテンベルク	württemberg	ヴュルテンベルク	N;NOM;SG	PROPN
+monte	モンテ	monte	モンテ		PROPN
+meccs	一致	meccs	一致	N;NOM;SG	V
+vér	ブラッド	vér	ブラッド	N;NOM;SG	PROPN
+texas	テキサス	texas	テキサス		PROPN
+kritika	批評	kritika	批評	N;NOM;SG	V
+kritika	批判	kritika	批判	N;NOM;SG	V
+kritika	批評	kritika	批評	N;NOM;SG	V
+sík	フラット	sík	フラット		N
+sík	飛行機	sík	飛行機		N
+izabella	イサベル	izabella	イサベル	N;NOM;SG	PROPN
+izabella	イザベッラ	izabella	イザベッラ	N;NOM;SG	PROPN
+anderson	アンダーソン	anders	アンダーソン		PROPN
+marcus	マルクス	marcus	マルクス		PROPN
+marcus	マーカス	marcus	マーカス		PROPN
+flotta	フリート	flotta	フリート	N;NOM;SG	PROPN
+krisztina	クリスティン	krisztina	クリスティン	N;NOM;SG	PROPN
+kerülő	回り	kerülő	回り	ADJ;NOM;SG	N
+kerülő	遠回り	kerülő	遠回り	ADJ;NOM;SG	V
+nedves	しっとり	nedves	しっとり		ADV
+nedves	濡れ	nedves	濡れる		V
+állandóan	常時	állandó	常時	ADJ;FRML;SG	N
+állandóan	絶え	állandó	絶える	ADJ;FRML;SG	V
+bosznia	ボスニア	bosznia	ボスニア	N;NOM;SG	PROPN
+skócia	スコットランド	skócia	スコットランド	N;NOM;SG	PROPN
+gordon	ゴードン	gord	ゴードン		PROPN
+sárkány	カイト	sárkány	カイト	N;NOM;SG	PROPN
+sárkány	ドラゴン	sárkány	ドラゴン	N;NOM;SG	PROPN
+kedvező	幸先	kedvező	幸先	ADJ;NOM;SG	V
+kedvező	吉祥	kedvező	吉祥	ADJ;NOM;SG	PROPN
+közgazdász	エコノミスト	közgazdász	エコノミスト	N;NOM;SG	PROPN
+kiállítása	展示	kiállítás	展示	N;NOM;SG	V
+szeretett	最愛	szeret	最愛	V;INDF;IND;SG;3;PST;FIN;ACT	N
+építési	建設	építési	建設	ADJ;NOM;SG	V
+keskeny	狭い	keskeny	狭い		ADJ
+személyi	パーソナル	személyi	パーソナル	ADJ;NOM;SG	N
+személyi	個人	személyi	個人	ADJ;NOM;SG	N
+párhuzamos	パラレル	párhuzamos	パラレル		N
+párhuzamos	並列	párhuzamos	並列		N
+foglalt	占領	foglal	占領		V
+könnyebb	ライター	könnyű	ライター	ADJ;NOM;CMPR;SG	N
+fut	ランニング	fut	ランニング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+fut	ジョギング	fut	ジョギング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+nato	nato	nato	nato	N;NOM;SG	PROPN
+hírek	news	hír	news	N;NOM;PL	PROPN
+jay	ジェイ	jay	ジェイ		PROPN
+jay	カケス	jay	カケス		PROPN
+mért	測定	mért	測定		V
+választások	選任	választás	選任	N;NOM;PL	V
+önkéntes	任意	önkéntes	任意		N
+önkéntes	ボランティア	önkéntes	ボランティア		N
+milan	ミラノ	milan	ミラノ		PROPN
+unokája	孫娘	unoka	孫娘	N;NOM;SG	PROPN
+fej	head	fej	head	N;NOM;SG	PROPN
+fej	ヘッズ	fej	ヘッズ	N;NOM;SG	PROPN
+szicíliai	シチリア	szicíliai	シチリア	ADJ;NOM;SG	PROPN
+media	メディア	media	メディア		N
+fegyver	凶器	fegyver	凶器	N;NOM;SG	
+michel	ミシェル	michel	ミシェル		PROPN
+bizonytalan	unstable	bizonytalan	unstable		PROPN
+vasárnap	日曜	vasárnap	日曜		N
+vasárnap	日曜日	vasárnap	日曜日		N
+vasárnap	日曜日	vasárnap	日曜日		N
+teljesítmény	興行	teljesítmény	興行	N;NOM;SG	V
+jelentés	報告	jelentés	報告	N;NOM;SG	V
+jelentés	報告	jelentés	報告	N;NOM;SG	V
+plusz	プラス	plusz	プラス		N
+nick	ニック	nick	ニック		PROPN
+müller	ミュラー	müller	ミュラー		PROPN
+müller	ミュラー	müller	ミュラー		PROPN
+müller	ミュラー	müller	ミュラー		PROPN
+tábor	camp	tábor	camp	N;NOM;SG	PROPN
+erőd	フォート	erőd	フォート	N;NOM;SG	PROPN
+claude	クロード	claud	クロード		PROPN
+kivétel	例外	kivétel	例外		N
+kivétel	例外	kivétel	例外		N
+sikertelen	失敗	sikertelen	失敗		V
+kommunikációs	通信	kommunikációs	通信	ADJ;NOM;SG	N
+kommunikációs	コミュニケーション	kommunikációs	コミュニケーション	ADJ;NOM;SG	N
+kommunikációs	通信	kommunikációs	通信	ADJ;NOM;SG	N
+kommunikációs	コミュニケーション	kommunikációs	コミュニケーション	ADJ;NOM;SG	N
+playstation	playstation	playstation	playstation	N;NOM;SG	PROPN
+ugyanez	同じ	ugyanez	同じ		ADJ
+ugyanez	おなじ	ugyanez	おなじる		V
+szövetséges	アライ	szövetséges	アライ	ADJ;NOM;SG	PROPN
+szövetséges	アリー	szövetséges	アリー	ADJ;NOM;SG	PROPN
+carlo	カルロ	carlo	カルロ		PROPN
+project	プロジェクト	projec	プロジェクト		N
+hiányában	欠席	hiány	欠席	N;IN+ESS;SG	V
+álnév	エイリアス	álnév	エイリアス	N;NOM;SG	PROPN
+álnév	エイリアス	álnév	エイリアス	N;NOM;SG	PROPN
+berlinben	ベルリン	berlin	ベルリン		PROPN
+közelebb	近い	közel	近い	ADV	ADJ
+mérsékelt	温帯	mérsékel	温帯	V;INDF;IND;SG;3;PST;FIN;ACT	N
+mérsékelt	中道	mérsékel	中道	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+vizsgálat	勉強	vizsgálat	勉強	N;NOM;SG	V
+vizsgálat	調査	vizsgálat	調査	N;NOM;SG	V
+billy	ビリー	billy	ビリー		PROPN
+mező	フィールズ	mező	フィールズ	N;NOM;SG	PROPN
+rio	リオ	rio	リオ		PROPN
+milánó	ミラノ	milánó	ミラノ	N;NOM;SG	PROPN
+milánó	ミラノ	milánó	ミラノ	N;NOM;SG	PROPN
+fiúk	boys	fiúk	boys	N;NOM;PL	PROPN
+segíti	アシスト	segíti	アシスト	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+mindegy	とにかく	mindegy	とにかく		ADV
+levelet	letter	levél	letter	N;ACC;SG	PROPN
+beszélni	トーク	beszél	トーク	V;NFIN;ACT	N
+christopher	クリスト	christopher	クリスト		PROPN
+forgalomba	循環	forgalom	循環		N
+chelsea	チェルシー	chelsea	チェルシー	N;NOM;SG	PROPN
+vince	ビンス	vince	ビンス		PROPN
+vince	ヴィンス	vince	ヴィンス		PROPN
+globális	global	globális	global	ADJ;NOM;SG	PROPN
+fernando	フェルナンド	fernando	フェルナンド		PROPN
+munkahely	workplace	munkahely	workplace	N;NOM;SG	PROPN
+átmérőjű	直径	átmérőjű	直径	ADJ;NOM;SG	PART
+vizsgálatok	研究	vizsgálat	研究	N;NOM;PL	V
+vizsgálatok	問い合わせ	vizsgálat	問い合わせる	N;NOM;PL	V
+normális	普通	normális	普通		ADJ
+normális	ノーマル	normális	ノーマル		N
+feltételek	規約	fel+tétel	規約	N;NOM;PL	V
+linkek	リンク	link	リンク	N;NOM;PL	V
+lapos	フラット	lapos	フラット		N
+kristóf	クリスト	kristóf	クリスト		PROPN
+alul	以下	alul	以下		N
+alul	ボトム	alul	ボトム		N
+august	アウグスト	augus	アウグスト		PROPN
+potter	ポッター	potter	ポッター	N;NOM;SG	PROPN
+maximum	最大	maximum	最大		N
+maximum	maximum	maximum	maximum		PROPN
+song	歌曲	song	歌曲		N
+song	ソング	song	ソング		N
+nasa	nasa	nasa	nasa	N;NOM;SG	PROPN
+box	ボックス	box	ボックス		N
+box	ボクシング	box	ボクシング		N
+lélek	ソウル	lélek	ソウル	N;NOM;SG	PROPN
+lélek	霊魂	lélek	霊魂	N;NOM;SG	
+johnny	ジョニー	johnny	ジョニー		PROPN
+tel	tel	tel	tel		PROPN
+furcsa	オッド	furcsa	オッド		PROPN
+furcsa	奇数	furcsa	奇数		N
+választási	選任	választási	選任	ADJ;NOM;SG	V
+választási	選挙	választási	選挙	ADJ;NOM;SG	N
+dupla	ダブル	dupla	ダブル		N
+dupla	二	dupla	二		NUM
+testvérek	ブラザーズ	testvér	ブラザーズ	N;NOM;PL	PROPN
+forró	熱い	forró	熱い		ADJ
+forró	ホット	forró	ホット		N
+forró	暑い	forró	暑い		ADJ
+szerkezet	構成	szerkezet	構成	N;NOM;SG	V
+fedett	室内	fedett	室内		N
+fedett	屋内	fedett	屋内		N
+yorkban	ヨーク	york	ヨーク	PROPN;IN+ESS;SG	PROPN
+ian	lan	ian	lan		PROPN
+ian	イアン	ian	イアン		PROPN
+karácsonyi	xmas	karácsonyi	xmas	N;NOM;SG	PROPN
+rom	rom	rom	rom	N;NOM;SG	PROPN
+dan	ダン	dan	ダン	PROPN;NOM;SG	PROPN
+dan	dan	dan	dan	PROPN;NOM;SG	PROPN
+virginia	バージニア	virginia	バージニア		PROPN
+virginia	ヴァージニア	virginia	ヴァージニア		PROPN
+heti	毎週	heti	毎週		N
+heti	週間	heti	週間		N
+heti	週刊	heti	週刊		N
+heti	ウィークリー	heti	ウィークリー		PROPN
+madonna	マドンナ	madonna	マドンナ		N
+more	もっと	more	もっと		ADV
+vágó	裁断	vágó	裁断		V
+vágó	切り取り	vágó	切り取り		V
+vágó	編集	vágó	編集		V
+vágó	カッター	vágó	カッター		N
+édes	スウィート	édes	スウィート		N
+édes	甘い	édes	甘い		ADJ
+prága	プラハ	prága	プラハ	PROPN;NOM;SG	PROPN
+stuttgart	シュトゥット	stuttgar	シュトゥット	N;NOM;SG	PROPN
+virág	flower	virág	flower	N;NOM;SG	PROPN
+sydney	シドニー	sydney	シドニー	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+rendbe	修正	rend	修正	N;IN+ALL;SG	V
+fischer	フィッシャー	fischer	フィッシャー		PROPN
+gyilkos	キラー	gyilkos	キラー	N;NOM;SG	PROPN
+gyilkos	殺人犯	gyilkos	殺人犯	N;NOM;SG	
+gyilkos	人殺	gyilkos	人殺	N;NOM;SG	V
+utak	旅行	út	旅行	N;NOM;PL	V
+alice	アリス	alice	アリス		PROPN
+gyerek	キッド	gyerek	キッド	N;NOM;SG	PROPN
+semleges	中性	semleges	中性		N
+semleges	ニュートラル	semleges	ニュートラル		N
+mhz	mhz	mhz	mhz		PROPN
+salamon	ソロモン	salamon	ソロモン		PROPN
+jane	ジェーン	jane	ジェーン		PROPN
+csodálatos	素晴らしい	csodálatos	素晴らしい		ADJ
+csodálatos	ワンダフル	csodálatos	ワンダフル		PROPN
+last	最終	last	最終		N
+last	ラスト	last	ラスト		N
+last	最後	last	最後		N
+óriás	巨人	óriás	巨人		PROPN
+óriás	ジャイアント	óriás	ジャイアント		N
+óriás	巨大	óriás	巨大		ADJ
+kate	kate	kate	kate	PROPN;NOM;SG	PROPN
+kate	ケイト	kate	ケイト	PROPN;NOM;SG	PROPN
+megjelenés	出演	megjelenés	出演	N;NOM;SG	V
+valószínű	おそらく	valószínű	おそらく		ADV
+walesi	ウェルシュ	walesi	ウェルシュ		PROPN
+beach	ビーチ	beach	ビーチ		PROPN
+beach	砂浜	beach	砂浜		N
+linket	リンク	link	リンク		V
+viselő	軸	viselő	軸	ADJ;NOM;SG	N
+anne	アン	az	アン		PROPN
+sony	sony	sony	sony		PROPN
+sony	ソニー	sony	ソニー		PROPN
+laci	laci	laci	laci		PROPN
+atlétika	アスレチックス	atlétika	アスレチックス	N;NOM;PL	PROPN
+korszerű	モダン	korszerű	モダン		N
+game	ゲーム	gam	ゲーム		N
+éjjel	ナイト	éjjel	ナイト		N
+kéri	リクエスト	kéri	リクエスト	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+kikötő	marina	kikötő	marina	N;NOM;SG	PROPN
+kikötő	ハーバー	kikötő	ハーバー	N;NOM;SG	PROPN
+megszállás	占領	megszállás	占領	N;NOM;SG	V
+francis	フランシス	francis	フランシス		PROPN
+alkotás	創造	alkotás	創造	N;NOM;SG	V
+alkotás	作成	alkotás	作成	N;NOM;SG	V
+zárójelben	括弧	zárójel	括弧	N;IN+ESS;SG	V
+egyedülálló	シングル	egyedülálló	シングル		N
+egyedülálló	独身	egyedülálló	独身		N
+egyedülálló	ユニーク	egyedülálló	ユニーク		ADJ
+egyedülálló	独特	egyedülálló	独特		ADJ
+kiemelés	宣伝	kiemelés	宣伝	N;NOM;SG	V
+kiemelés	宣伝	kiemelés	宣伝	N;NOM;SG	V
+írj	書き込み	írj	書き込み		V
+írj	書く	írj	書く		V
+írj	書き込む	írj	書き込む		V
+kerek	ラウンド	kér	ラウンド		N
+kerek	round	kér	round		PROPN
+kerek	丸い	kér	丸く		ADJ
+wales	ウェルシュ	wales	ウェルシュ		PROPN
+wales	ウェールズ	wales	ウェールズ		PROPN
+délután	午後	délután	午後		N
+pos	pos	pos	pos		N
+tim	ティム	tim	ティム		PROPN
+tim	tim	tim	tim		PROPN
+lőtt	銃声	lőtt	銃声	V;INDF;IND;SG;3;PST;FIN;ACT	N
+lőtt	ショット	lőtt	ショット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+bevezető	紹介	bevezető	紹介		V
+bevezető	導入	bevezető	導入		V
+liberális	リベラル	liberális	リベラル		N
+firenze	フローレンス	firenz	フローレンス	N;NOM;SG	PROPN
+firenze	フィレンツェ	firenz	フィレンツェ	N;NOM;SG	PROPN
+alias	別名	alias	別名		N
+alias	偽名	alias	偽名		N
+alias	エイリアス	alias	エイリアス		PROPN
+alias	aka	alias	aka		PROPN
+mac	mac	mac	mac		PROPN
+mac	マック	mac	マック		PROPN
+ciprusi	キプロス	ciprusi	キプロス	ADJ;NOM;SG	PROPN
+ciprusi	キプロス	ciprusi	キプロス	ADJ;NOM;SG	PROPN
+howard	ハワード	howard	ハワード		PROPN
+bíboros	基数	bíboros	基数		N
+bíboros	枢機	bíboros	枢機		N
+skip	スキップ	skip	スキップ		N
+hatékony	効率	hatékony	効率		N
+hatékony	実効	hatékony	実効		N
+székhely	本部	székhely	本部	N;NOM;SG	PROPN
+renault	ルノー	renaul	ルノー	N;NOM;SG	PROPN
+konzervatív	保守	konzervatív	保守		N
+sas	sas	sas	sas		PROPN
+sas	ワシ	sas	ワシ		PROPN
+sas	イーグル	sas	イーグル		PROPN
+lányok	ガールズ	lány	ガールズ	N;NOM;PL	PROPN
+cup	カップ	cup	カップ		N
+cup	コップ	cup	コップ		N
+cup	cup	cup	cup		PROPN
+ingyenes	フリー	ingyenes	フリー		PROPN
+ingyenes	無料	ingyenes	無料		N
+ingyenes	自由	ingyenes	自由		ADJ
+copa	コパ	copa	コパ	N;NOM;SG	PROPN
+szentély	テンプル	szentély	テンプル	N;NOM;SG	PROPN
+pas	pas	pas	pas		PROPN
+akció	アクション	akció	アクション		N
+irán	イラン	irán	イラン	PROPN;NOM;SG	PROPN
+barbara	バーバラ	barbara	バーバラ		PROPN
+hármas	トリプル	hármas	トリプル		N
+samuel	サミュエル	samuel	サミュエル		PROPN
+személyzet	クルー	személyzet	クルー	N;NOM;SG	PROPN
+rekord	レコード	rekord	レコード		N
+rekord	記録	rekord	記録		V
+vezeti	ジョギング	vezet	ジョギング	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+force	フォース	force	フォース		N
+alekszandr	アレクサンドル	alekszandr	アレクサンドル		PROPN
+vad	ワイルド	vad	ワイルド		PROPN
+vad	野生	vad	野生		N
+mihail	ミハイル	mihail	ミハイル		PROPN
+úszás	泳ぐ	úszás	泳ぐ	N;NOM;SG	V
+úszás	泳ぎ	úszás	泳ぐ	N;NOM;SG	V
+marco	マルコ	marco	マルコ		PROPN
+mercedes	メルセデス	mercedes	メルセデス	N;NOM;SG	PROPN
+felderítő	偵察	felderítő	偵察	ADJ;NOM;SG	N
+felderítő	偵察	felderítő	偵察	ADJ;NOM;SG	N
+felderítő	スカウト	felderítő	スカウト	ADJ;NOM;SG	N
+felderítő	ボーイス	felderítő	ボーイス	ADJ;NOM;SG	N
+francesco	フランチェスコ	francesco	フランチェスコ		PROPN
+xvii	xvii	xvii	xvii		PROPN
+sebastian	セバスティアン	sebastian	セバスティアン		PROPN
+sebastian	セバスティアヌス	sebastian	セバスティアヌス		PROPN
+sebastian	セバスチャン	sebastian	セバスチャン		PROPN
+kereskedelem	コマース	kereskedelem	コマース	N;NOM;SG	PROPN
+kereskedelem	トレード	kereskedelem	トレード	N;NOM;SG	V
+kereskedelem	取引	kereskedelem	取引	N;NOM;SG	V
+bernard	ベルナール	bernard	ベルナール		PROPN
+ünnepi	ホリデー	ünnepi	ホリデー	N;NOM;SG	PROPN
+erőteljes	パワフル	erőteljes	パワフル		ADJ
+sűrű	厚い	sűrű	厚い		ADJ
+sűrű	太い	sűrű	太い		ADJ
+sűrű	濃密	sűrű	濃密		ADJ
+mecklenburg	メクレンブルク	mecklenburg	メクレンブルク	N;NOM;SG	PROPN
+racing	競走	racing	競走		N
+racing	レース	racing	レース		N
+racing	レーシング	racing	レーシング		PROPN
+kir	キール	kir	キール	N;NOM;SG	PROPN
+fantasy	ファンタジー	fantasy	ファンタジー		N
+bobby	ボビー	bobby	ボビー		PROPN
+szótár	辞典	szótár	辞典	N;NOM;SG	PROPN
+szótár	辞典	szótár	辞典	N;NOM;SG	PROPN
+írása	執筆	írás	執筆	N;NOM;SG	V
+írása	書き込み	írás	書き込み	N;NOM;SG	V
+muszlim	イスラム	muszlim	イスラム		N
+muszlim	ムスリム	muszlim	ムスリム		N
+formula	公式	formula	公式		ADJ
+moon	ムーン	moon	ムーン		N
+döntetlen	引き分け	döntetlen	引き分け	N;NOM;SG	V
+döntetlen	引き分け	döntetlen	引き分け	N;NOM;SG	V
+wolfgang	ヴォルフガング	wolfgang	ヴォルフガング		PROPN
+minimális	最低	minimális	最低		N
+minimális	最低	minimális	最低		N
+minimális	最小	minimális	最小		N
+minimális	最小	minimális	最小		N
+matt	マット	matt	マット		N
+mindennapi	everyday	mindennapi	everyday		PROPN
+mindennapi	日常	mindennapi	日常		N
+mindennapi	毎日	mindennapi	毎日		N
+latinul	ラテン語	latinul	ラテン語		N
+latinul	ラテン	latinul	ラテン		PROPN
+másodszor	次	másod	次		N
+másodszor	番目	másod	番目		N
+másodszor	セカンド	másod	セカンド		N
+aus	aus	aus	aus		PROPN
+america	アメリカ	america	アメリカ		PROPN
+terjed	拡散	terjed	拡散	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+terjed	スプレッド	terjed	スプレッド	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+terjed	スプレッド	terjed	スプレッド	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+szabályos	従卒	szabályos	従卒	ADJ;NOM;SG	
+matthew	マシュー	matthew	マシュー		PROPN
+kertész	園芸	kertész	園芸		N
+kertész	ガーデニング	kertész	ガーデニング		N
+kertész	庭師	kertész	庭師		N
+lényeges	関連	lényeges	関連		V
+ecuador	エクアドル	ecuador	エクアドル	PROPN;NOM;SG	PROPN
+véletlen	ランダム	véletlen	ランダム		ADJ
+véletlen	偶然	véletlen	偶然		ADV
+marc	マルク	marc	マルク		PROPN
+marc	marc	marc	marc		PROPN
+fordítva	リバース	fordítva	リバース	ADV;V.CVB	N
+hősök	ヒーローズ	hős	ヒーローズ	N;NOM;PL	PROPN
+hősök	heroes	hős	heroes	N;NOM;PL	PROPN
+támogatást	サポート	támogatás	サポート	N;ACC;SG	V
+támogatást	支持	támogatás	支持	N;ACC;SG	V
+örökség	相続	örökség	相続	N;NOM;SG	V
+örökség	継承	örökség	継承	N;NOM;SG	V
+egyenesen	まっすぐ	egyenesen	まっすぐ		ADV
+egyenesen	ストレート	egyenesen	ストレート		N
+érintő	タンジェント	érintő	タンジェント	ADJ;NOM;SG	N
+átmérője	直径	átmérő	直径	N;NOM;SG	PART
+douglas	ダグラス	douglas	ダグラス		PROPN
+caesar	シーザー	caesar	シーザー		PROPN
+halász	漁師	halász	漁師		N
+halász	漁師	halász	漁師		N
+gary	ゲーリー	gary	ゲーリー		PROPN
+gary	ギャリー	gary	ギャリー		PROPN
+gary	ゲイリー	gary	ゲイリー		PROPN
+kisebbségi	少数	kisebbségi	少数	ADJ;NOM;SG	N
+lost	ロスト	lost	ロスト		N
+georges	ジョルジュ	georges	ジョルジュ		PROPN
+részvétel	出席	részvétel	出席	N;NOM;SG	V
+részvétel	傍聴	részvétel	傍聴	N;NOM;SG	V
+részvétel	関与	részvétel	関与	N;NOM;SG	V
+részvétel	関与	részvétel	関与	N;NOM;SG	V
+részvétel	参加	részvétel	参加	N;NOM;SG	V
+oroszlán	ライオンズ	oroszlán	ライオンズ	N;NOM;SG	PROPN
+vera	ヴェラ	vera	ヴェラ		N
+richárd	リチャード	richárd	リチャード	N;NOM;SG	PROPN
+richárd	リヒャルト	richárd	リヒャルト	N;NOM;SG	PROPN
+motogp	motogp	motogp	motogp	N;NOM;SG	PROPN
+szeme	アイズ	szem	アイズ	N;NOM;SG	PROPN
+tánc	踊り	tánc	踊り	N;NOM;SG	V
+tánc	踊る	tánc	踊る	N;NOM;SG	V
+steven	スティーヴン	steven	スティーヴン		PROPN
+ajax	アイアース	ajax	アイアース		PROPN
+szállító	サプライヤー	szállító	サプライヤー	ADJ;NOM;SG	N
+szállító	キャリア	szállító	キャリア	ADJ;NOM;SG	N
+atlétikai	アスレチック	atlétikai	アスレチック	ADJ;NOM;SG	N
+dobos	ドラマー	dobos	ドラマー		N
+dobos	ドラマー	dobos	ドラマー		N
+kréta	チョーク	kréta	チョーク		N
+léptek	足音	lép	足音	V;INDF;IND;PL;3;PST;FIN;ACT	N
+stabil	安定	stabil	安定	ADJ;NOM;SG	V
+jura	ジュラ	jura	ジュラ		PROPN
+véres	血液	véres	血液		N
+véres	ブラッド	véres	ブラッド		PROPN
+véres	ブラッディ	véres	ブラッディ		PROPN
+lefelé	ダウン	lefelé	ダウン		PROPN
+lefelé	下り	lefelé	下り		N
+giuseppe	ジュゼッペ	giusep	ジュゼッペ		PROPN
+védelme	保護	védelem	保護	N;NOM;SG	V
+védelme	保護	védelem	保護	N;NOM;SG	V
+guy	ガイ	guy	ガイ		PROPN
+ellenállás	抵抗	ellenállás	抵抗	N;NOM;SG	V
+ellenállás	レジスタンス	ellenállás	レジスタンス	N;NOM;SG	PROPN
+szicília	シチリア	szicília	シチリア	N;NOM;SG	PROPN
+automatikus	オート	automatikus	オート	N;NOM;SG	PROPN
+hölgy	レディ	hölgy	レディ		N
+arnold	アーノルド	arnold	アーノルド		PROPN
+arnold	アルノルト	arnold	アルノルト		PROPN
+érdekel	ケア	érdekel	ケア	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+érdekel	介護	érdekel	介護	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+elizabeth	エリザベス	elizabeth	エリザベス		PROPN
+prágai	プラハ	prágai	プラハ		PROPN
+érezte	フェルト	érez	フェルト	V;DEF;IND;SG;3;PST;FIN;ACT	N
+helyesírás	つづり	helyesírás	つづり	N;NOM;SG	V
+helyesírás	スペル	helyesírás	スペル	N;NOM;SG	PROPN
+helyesírás	スペリング	helyesírás	スペリング	N;NOM;SG	PROPN
+manuel	マニュエル	manuel	マニュエル		PROPN
+manuel	マヌエル	manuel	マヌエル		PROPN
+indonézia	インドネシア	indonézia	インドネシア		PROPN
+legfiatalabb	最年	legfalal	最年	ADJ;NOM;RL;SG	N
+vincent	ヴィンセント	vincen	ヴィンセント		PROPN
+fáj	痛み	fáj	痛み	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+fáj	疼痛	fáj	疼痛	V;INDF;IND;SG;3;PRS;FIN;ACT	
+fáj	ペイン	fáj	ペイン	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+finom	おいしい	finom	おいしい		ADJ
+finom	美味しい	finom	美味しい		ADJ
+finom	美味	finom	美味		V
+finom	おいしい	finom	おいしい		ADJ
+finom	美味しい	finom	美味しい		ADJ
+issn	issn	issn	issn		PROPN
+erik	エリック	erik	エリック		PROPN
+pomeránia	ポメラニア	pomeránia	ポメラニア	N;NOM;SG	PROPN
+gyönyörű	美しい	gyönyörű	美しい		ADJ
+gyönyörű	ビューティフル	gyönyörű	ビューティフル		N
+gyönyörű	豪華	gyönyörű	豪華		ADJ
+gyönyörű	ゴージャス	gyönyörű	ゴージャス		ADJ
+free	フリー	free	フリー		PROPN
+free	無料	free	無料		N
+free	自由	free	自由		ADJ
+büntető	ペナルティ	büntető	ペナルティ		N
+vietnami	ベトナム	vietnami	ベトナム		PROPN
+dean	ディーン	dean	ディーン		PROPN
+valencia	バレンシア	valencia	バレンシア	PROPN;NOM;SG	PROPN
+tervező	デザイナー	tervező	デザイナー		N
+tervező	プランナー	tervező	プランナー		N
+legfelsőbb	supreme	felsőbb	supreme	N;IN+ESS;SG	PROPN
+korlátozott	限定	korlátozott	限定		V
+korlátozott	limited	korlátozott	limited		PROPN
+korlátozott	制限	korlátozott	制限		V
+vadász	スレイヤー	vadász	スレイヤー		PROPN
+vadász	狩人	vadász	狩人		N
+vadász	ハンター	vadász	ハンター		PROPN
+vadász	狩り	vadász	狩る		V
+vadász	ハンティング	vadász	ハンティング		N
+vadász	狩猟	vadász	狩猟		N
+fegyvert	凶器	fegyver	凶器	N;ACC;SG	
+fegyvert	アームス	fegyver	アームス	N;ACC;SG	PROPN
+valahogy	なんと	valahogy	なんと		ADV
+nyomda	印刷	nyomda	印刷	N;NOM;SG	V
+angliai	イギリス	angliai	イギリス	ADJ;NOM;SG	PROPN
+pogány	異教徒	pogány	異教徒		N
+iráni	イラン	iráni	イラン		PROPN
+iráni	イラン	iráni	イラン		PROPN
+wolf	ウルフ	wolf	ウルフ		PROPN
+wolf	オオカミ	wolf	オオカミ		PROPN
+ezalatt	その	ezalatt	その	ADV	DET
+ezalatt	一方	ezalatt	一方	ADV	CONJ
+banda	band	banda	band		PROPN
+banda	バンド	banda	バンド		N
+banda	ギャング	banda	ギャング		N
+mózes	モーゼ	mózes	モーゼ	N;NOM;SG	PROPN
+mózes	モーゼス	mózes	モーゼス	N;NOM;SG	PROPN
+emelkedik	ライジング	emelkedik	ライジング	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+emelkedik	rising	emelkedik	rising	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+vezér	リーダー	vezér	リーダー		N
+haladó	プログレッシブ	haladó	プログレッシブ		N
+haladó	上級	haladó	上級		N
+cannes	カンヌ	cannes	カンヌ	N;NOM;SG	PROPN
+vlagyimir	ウラジーミル	vlagyimir	ウラジーミル		PROPN
+engedély	免許	engedély	免許		N
+engedély	ライセンス	engedély	ライセンス		N
+engedély	許可	engedély	許可		V
+engedély	許諾	engedély	許諾		V
+engedély	ライセンス	engedély	ライセンス		N
+engedély	許可	engedély	許可		N
+engedély	許可	engedély	許可		V
+engedély	認可	engedély	認可		V
+engedély	認可	engedély	認可		V
+engedély	許諾	engedély	許諾		V
+módszerek	メソッド	módszer	メソッド	N;NOM;PL	PROPN
+mongol	モンゴル	mongol	モンゴル		PROPN
+dinamo	dinamo	dinamo	dinamo	N;NOM;SG	PROPN
+köln	ケルン	köln	ケルン		PROPN
+felvonás	アクト	felvonás	アクト	N;NOM;SG	PROPN
+felvonás	act	felvonás	act	N;NOM;SG	PROPN
+törlés	消去	törlés	消去		V
+törlés	抹消	törlés	抹消		V
+törlés	キャンセル	törlés	キャンセル		V
+törlés	解除	törlés	解除		V
+törlés	削除	törlés	削除		V
+törlés	削除	törlés	削除		V
+ellenőrzés	コントロール	ellenőrzés	コントロール	N;NOM;SG	V
+ellenőrzés	監視	ellenőrzés	監視	N;NOM;SG	V
+ellenőrzés	検証	ellenőrzés	検証	N;NOM;SG	V
+ellenőrzés	チェック	ellenőrzés	チェック	N;NOM;SG	V
+kérésére	請求	kérés	請求	N;ON+ALL;SG	V
+szerencsés	ラッキー	szerencsés	ラッキー		PROPN
+falusi	村落	falusi	村落	ADJ;NOM;SG	N
+falusi	ヴィレッジ	falusi	ヴィレッジ	ADJ;NOM;SG	N
+nyikolaj	ニコライ	nyikolaj	ニコライ		PROPN
+nyikolaj	ニコライ	nyikolaj	ニコライ		PROPN
+heavy	重い	heavy	重い		ADJ
+heavy	ヘビー	heavy	ヘビー		N
+abu	アブー	abu	アブー		PROPN
+részletesen	詳細	részletes	詳細	ADJ;FRML;SG	N
+kelly	ケリー	kelly	ケリー		PROPN
+alt	alt	al	alt		PROPN
+utánpótlás	供給	utánpótlás	供給	N;NOM;SG	V
+iso	iso	iso	iso		PROPN
+diego	ディエゴ	diego	ディエゴ		PROPN
+bevétel	収益	bevétel	収益	N;NOM;SG	V
+oliver	オリヴァー	oliver	オリヴァー		PROPN
+oliver	オリバー	oliver	オリバー		PROPN
+pasa	パシャ	pasa	パシャ	N;NOM;SG	PROPN
+kaliforniai	カリフォルニア	kaliforniai	カリフォルニア	V;DEF;IND;SG;3;PRS;NFIN;ACT	PROPN
+polgár	市民	polgár	市民		N
+törölt	削除	töröl	削除		V
+törölt	キャンセル	töröl	キャンセル		V
+iraki	イラク	iraki	イラク	N;NOM;SG	PROPN
+iraki	イラク	iraki	イラク	N;NOM;SG	PROPN
+ideális	理想	ideális	理想	ADJ;NOM;SG	N
+venezuela	ベネズエラ	venezuela	ベネズエラ		PROPN
+nova	ノヴァ	nova	ノヴァ		PROPN
+nova	新星	nova	新星		N
+santiago	サンティアゴ	santiago	サンティアゴ		PROPN
+lakó	テナント	lakó	テナント		N
+light	軽い	light	軽い		ADJ
+light	明るい	light	明るい		ADJ
+light	ライト	light	ライト		N
+tulajdonában	所有	tulajdon	所有	N;IN+ESS;SG	V
+utazó	トラベラー	utazó	トラベラー		N
+utazó	旅行	utazó	旅行		V
+utazó	トラベラー	utazó	トラベラー		N
+utazó	旅行	utazó	旅行		V
+formák	フォーム	forma	フォーム	N;NOM;PL	
+batman	バットマン	batman	バットマン	N;NOM;SG	PROPN
+sarah	サラ	sarah	サラ		PROPN
+slam	スラム	slam	スラム		N
+hír	news	hír	news	N;NOM;SG	PROPN
+képzés	修行	képzés	修行	N;NOM;SG	V
+képzés	訓練	képzés	訓練	N;NOM;SG	V
+képzés	研修	képzés	研修	N;NOM;SG	V
+alba	アルバ	alba	アルバ		PROPN
+ken	ケン	ken	ケン		PROPN
+létrehozása	作成	létrehozás	作成	N;NOM;SG	V
+létrehozása	創造	létrehozás	創造	N;NOM;SG	V
+létrehozása	作成	létrehozás	作成	N;NOM;SG	V
+létrehozása	設立	létrehozás	設立	N;NOM;SG	V
+macska	ねこ	macska	ねこ	N;NOM;SG	PROPN
+beszélő	トーキング	beszélő	トーキング	ADJ;NOM;SG	N
+beszélő	話者	beszélő	話者	ADJ;NOM;SG	N
+linux	linux	linux	linux	N;NOM;SG	PROPN
+harminc	三十	harminc	三十		NUM
+harminc	thirty	harminc	thirty		PROPN
+fejlesztés	発達	fejlesztés	発達	N;NOM;SG	V
+fejlesztés	開発	fejlesztés	開発	N;NOM;SG	V
+fejlesztés	改善	fejlesztés	改善	N;NOM;SG	V
+útvonal	ルート	útvonal	ルート	N;NOM;SG	PROPN
+ross	ロス	ross	ロス		N
+ördög	悪魔	ördög	悪魔		N
+páratlan	ユニーク	páratlan	ユニーク		ADJ
+páratlan	独特	páratlan	独特		ADJ
+páratlan	オッド	páratlan	オッド		PROPN
+páratlan	奇数	páratlan	奇数		N
+páratlan	レアリティ	páratlan	レアリティ		PROPN
+jersey	ジャージー	jersey	ジャージー		N
+herbert	ハーバート	herber	ハーバート		PROPN
+zavar	擾乱	zavar	擾乱	N;NOM;SG	
+zavar	無秩序	zavar	無秩序	N;NOM;SG	
+részlet	抜粋	részlet	抜粋	N;NOM;SG	V
+kalandjai	冒険	kaland	冒険	N;NOM;PL	V
+folytatása	続行	folytatás	続行	N;NOM;SG	V
+folytatása	続き	folytatás	続く	N;NOM;SG	V
+folytatása	継続	folytatás	継続	N;NOM;SG	V
+folytatása	続き	folytatás	続く	N;NOM;SG	V
+folytatása	継続	folytatás	継続	N;NOM;SG	V
+műsorvezető	主催	műsorvezető	主催	N;NOM;SG	V
+hamburg	ハンブルグ	hamburg	ハンブルグ	N;NOM;SG	PROPN
+hamburg	ハンブルク	hamburg	ハンブルク	N;NOM;SG	PROPN
+oxford	オックス	oxford	オックス		PROPN
+china	中国	china	中国		PROPN
+china	チャイナ	china	チャイナ		N
+anime	アニメ	azim	アニメ		N
+tengeren	sea	tenger	sea		PROPN
+völgyben	谷間	völgy	谷間	N;IN+ESS;SG	
+hegedűs	ヴァイオリン	hegedűs	ヴァイオリン		N
+nelson	ネルソン	nelson	ネルソン		PROPN
+juventus	ユヴェントス	juventus	ユヴェントス	N;NOM;SG	PROPN
+león	レオン	león	レオン		PROPN
+ervin	アービン	ervin	アービン		PROPN
+őshonos	先住	őshonos	先住		N
+őshonos	ネイティブ	őshonos	ネイティブ		PROPN
+leo	レオ	leo	レオ		PROPN
+leo	leo	leo	leo		PROPN
+egyidejűleg	同時	egyidejű	同時	ADJ;FRML;SG	N
+orion	オライオン	orion	オライオン		PROPN
+orion	オリオン	orion	オリオン		PROPN
+csík	ストライプ	csík	ストライプ		N
+csík	ストリップ	csík	ストリップ		N
+izlandi	アイスランド	izlandi	アイスランド		PROPN
+útvonalon	ルート	útvonal	ルート	N;ON+ESS;SG	PROPN
+tilos	禁止	tilos	禁止		V
+szárny	ウイングス	szárny	ウイングス	N;NOM;SG	PROPN
+fred	フレッド	fred	フレッド		PROPN
+helyesen	正しく	helyes	正しく	ADJ;FRML;SG	ADV
+jelölő	マーカー	jelölő	マーカー		N
+jelző	マーカー	jelző	マーカー		N
+jelző	シグナリング	jelző	シグナリング		N
+nord	ノール	nord	ノール		PROPN
+arsenal	アーセナル	arsenal	アーセナル	N;NOM;SG	PROPN
+mercury	水星	mercury	水星		N
+mercury	マーキュリー	mercury	マーキュリー		PROPN
+mercury	水銀	mercury	水銀		N
+ryan	ライアン	ryan	ライアン	PROPN;NOM;SG	PROPN
+bull	ブル	bull	ブル		PROPN
+befejezése	修了	befejezés	修了	N;NOM;SG	V
+befejezése	補完	befejezés	補完	N;NOM;SG	V
+befejezése	完成	befejezés	完成	N;NOM;SG	V
+befejezése	仕上げ	befejezés	仕上げる	N;NOM;SG	V
+vélemény	意見	vélemény	意見		N
+vélemény	意見	vélemény	意見		N
+füves	ストーナー	füves	ストーナー		PROPN
+füves	ポット	füves	ポット		N
+han	ハン	han	ハン		PROPN
+értelmes	分別	értelmes	分別		N
+victoria	ビクトリア	victoria	ビクトリア	N;NOM;SG	PROPN
+victoria	ヴィクトリア	victoria	ヴィクトリア	N;NOM;SG	PROPN
+akartam	wanted	akar	wanted	V;INDF;IND;SG;1;PST;FIN;ACT	PROPN
+laura	ローラ	laura	ローラ		PROPN
+védő	ディフェンダー	védő	ディフェンダー	ADJ;NOM;SG	N
+védő	プロテクター	védő	プロテクター	ADJ;NOM;SG	N
+cooper	クーパー	cooper	クーパー		PROPN
+borító	cover	borító	cover	N;NOM;SG	PROPN
+stuart	スチュアート	stuart	スチュアート		PROPN
+stuart	ステュアート	stuart	ステュアート		PROPN
+stewart	スチュワート	stewart	スチュワート	N;NOM;SG	PROPN
+ciprus	キプロス	ciprus	キプロス	N;NOM;SG	PROPN
+aláírás	署名	aláírás	署名	N;NOM;SG	V
+aláírás	調印	aláírás	調印	N;NOM;SG	V
+aláírás	署名	aláírás	署名	N;NOM;SG	V
+marx	マルクス	marx	マルクス		PROPN
+hun	フン	hun	フン		N
+extra	エクストラ	extra	エクストラ		PROPN
+europe	欧州	europe	欧州		PROPN
+europe	ヨーロッパ	europe	ヨーロッパ		PROPN
+megfigyelhető	観測	megfigyelhető	観測	ADJ;NOM;SG	V
+maradék	残り	maradék	残り		N
+kiadvány	出版	kiadvány	出版	N;NOM;SG	V
+kiadvány	公表	kiadvány	公表	N;NOM;SG	V
+jonathan	ジョナサン	jonathan	ジョナサン		PROPN
+hadosztály	ディビジョン	hadosztály	ディビジョン	N;NOM;SG	PROPN
+schmidt	シュミット	schmid	シュミット		PROPN
+soros	シリアル	soros	シリアル		N
+érzem	feel	érez	feel	V;DEF;IND;SG;1;PRS;FIN;ACT	PROPN
+érzem	フィール	érez	フィール	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+érzem	気分	érez	気分	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+érzem	フィーリング	érez	フィーリング	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+phil	フィル	phil	フィル		PROPN
+roberto	ロベルト	rober	ロベルト		PROPN
+alfa	alpha	alfa	alpha		PROPN
+alfa	アルファ	alfa	アルファ		N
+roman	ローマン	roman	ローマン		N
+roman	ロマン	roman	ロマン		N
+roman	ローマ	roman	ローマ		N
+fegyverek	アームス	fegyver	アームス	N;NOM;PL	PROPN
+houten	ハウテン	hout	ハウテン	PROPN;NOM;SG	PROPN
+vasárnapi	日曜日	vasárnapi	日曜日		N
+orgona	臓器	orgona	臓器		N
+orgona	オルガン	orgona	オルガン		N
+orgona	ライラック	orgona	ライラック		N
+palazzo	パラッツォ	palazzo	パラッツォ		PROPN
+legerősebb	最強	legerős	最強	ADJ;NOM;RL;SG	N
+fejét	head	feje	head	N;ACC;SG	PROPN
+legfelső	top	legfelső	top		PROPN
+legfelső	上部	legfelső	上部		N
+legfelső	トップ	legfelső	トップ		N
+haladás	プログレス	haladás	プログレス	N;NOM;SG	PROPN
+haladás	経過	haladás	経過	N;NOM;SG	V
+haladás	進捗	haladás	進捗	N;NOM;SG	
+hangsúlyt	強調	hangsúly	強調	N;ACC;SG	V
+vízszintes	水平	vízszintes	水平		N
+temetés	埋葬	temetés	埋葬	N;NOM;SG	V
+luxemburgi	ルクセンブルク	luxemburgi	ルクセンブルク	ADJ;NOM;SG	PROPN
+ferdinand	フェルディナンド	ferdinand	フェルディナンド		PROPN
+mag	コア	mag	コア		N
+mag	core	mag	core		PROPN
+mag	種子	mag	種子		N
+mag	シード	mag	シード		N
+mag	マグ	mag	マグ		N
+mag	mag	mag	mag		PROPN
+mag	種子	mag	種子		N
+mag	シード	mag	シード		N
+virtuális	バーチャル	virtuális	バーチャル	N;NOM;SG	ADJ
+építkezés	建設	építkezés	建設	N;NOM;SG	V
+bolívia	ボリビア	bolívia	ボリビア		PROPN
+támogatott	スポンサー	támogat	スポンサー	V;INDF;IND;SG;3;PST;FIN;ACT	N
+fürdő	スパ	fürdő	スパ	N;NOM;SG	PROPN
+fürdő	spa	fürdő	spa	N;NOM;SG	PROPN
+fürdő	入浴	fürdő	入浴	N;NOM;SG	V
+kevéssé	あまり	kevéssé	あまり		ADV
+rolling	ローリング	rolling	ローリング		PROPN
+nulla	ゼロ	nulla	ゼロ		N
+egyenként	個別	egyenként	個別		ADJ
+moore	ムーア	moore	ムーア		PROPN
+szentek	セインツ	szenik	セインツ	N;NOM;PL	PROPN
+marvel	マーベル	marvel	マーベル	N;NOM;SG	PROPN
+julius	ジュリアス	julius	ジュリアス		PROPN
+julius	ユリウス	julius	ユリウス		PROPN
+szojuz	ソユーズ	szojuz	ソユーズ	N;NOM;SG	PROPN
+mclaren	マクラーレン	mclar	マクラーレン	N;NOM;SG	PROPN
+elkövetett	コミット	elkövetett	コミット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+design	デザイン	design	デザイン		N
+design	設計	design	設計		V
+design	意匠	design	意匠		N
+jeff	ジェフ	jeff	ジェフ		PROPN
+vezetés	運転	vezetés	運転	N;NOM;SG	V
+meghatározása	定義	meghatározás	定義	N;NOM;SG	V
+meghatározása	裁決	meghatározás	裁決	N;NOM;SG	V
+foglalkozás	占領	foglalkozás	占領	N;NOM;SG	V
+tehetséges	タレント	tehetséges	タレント	ADJ;NOM;SG	N
+tehetséges	才能	tehetséges	才能	ADJ;NOM;SG	N
+emlékek	思い出	emlék	思い出	N;NOM;PL	V
+emlékek	記憶	emlék	記憶	N;NOM;PL	V
+apple	リンゴ	apple	リンゴ		N
+apple	りんご	apple	りんご		PROPN
+apple	アップル	apple	アップル		PROPN
+apple	林	apple	林		N
+kán	ハーン	kán	ハーン	N;NOM;SG	PROPN
+kán	カーン	kán	カーン	N;NOM;SG	PROPN
+ablak	windows	ablak	windows		N
+ablak	ウィンドウ	ablak	ウィンドウ		N
+mozgó	引越	mozgó	引越		V
+mozgó	移動	mozgó	移動		V
+alexandra	アレクサンドラ	alexand	アレクサンドラ	N;NOM;SG	PROPN
+erőszakos	暴力	erőszakos	暴力	ADJ;NOM;SG	N
+dortmund	ドルトムント	dortmund	ドルトムント	N;NOM;SG	PROPN
+hegedű	フィドル	hegedű	フィドル	N;NOM;SG	PROPN
+foglalkozása	占領	foglalkozás	占領	N;NOM;SG	V
+newton	ニュートン	newton	ニュートン		PROPN
+rejtett	隠し	rejtett	隠す		V
+verdi	ヴェルディ	verdi	ヴェルディ		PROPN
+kézi	manual	kézi	manual		PROPN
+kézi	手動	kézi	手動		N
+kézi	マニュアル	kézi	マニュアル		N
+por	ほこり	por	ほこる	N;NOM;SG	V
+magán	非	maga	非		N
+magán	プライベート	maga	プライベート		N
+dani	ダニ	dani	ダニ		N
+bremen	ブレーメン	bremen	ブレーメン	PROPN;NOM;SG	PROPN
+jerry	ジェリー	jerry	ジェリー		PROPN
+másodperc	番目	másodperc	番目		N
+másodperc	セカンド	másodperc	セカンド		N
+frissen	フレッシュ	frissen	フレッシュ		N
+szergej	セルゲイ	szergej	セルゲイ		PROPN
+anyai	母方	anyai	母方		N
+russell	ラッセル	russell	ラッセル		PROPN
+alkalmazás	出願	alkalmazás	出願	N;NOM;SG	V
+dragon	ドラゴン	dragon	ドラゴン		PROPN
+rajz	描画	rajz	描画	N;NOM;SG	V
+csapadék	沈殿	csapadék	沈殿	N;NOM;SG	V
+play	遊ぶ	play	遊ぶ		V
+play	プレイ	play	プレイ		V
+play	遊び	play	遊ぶ		V
+tartalék	スペア	tartalék	スペア		N
+tartalék	バックアップ	tartalék	バックアップ		V
+tartalék	スペア	tartalék	スペア		N
+tartalék	リザーブ	tartalék	リザーブ		N
+uruguay	ウルグ	uruguay	ウルグ	PROPN;NOM;SG	PROPN
+konfliktus	競合	konfliktus	競合	N;NOM;SG	V
+konfliktus	対立	konfliktus	対立	N;NOM;SG	V
+következménye	帰結	következmény	帰結	N;NOM;SG	V
+blog	ブログ	blog	ブログ		N
+kísérletek	未遂	kísérlet	未遂	N;NOM;PL	
+rené	ルネ	rené	ルネ		PROPN
+enyhén	あまり	enyhén	あまり		ADV
+élénk	活気	él	活気		N
+élénk	鮮やか	él	鮮やか		ADJ
+beszélgetés	話し合い	beszélgetés	話し合い	N;NOM;SG	V
+beszélgetés	会話	beszélgetés	会話	N;NOM;SG	V
+beszélgetés	雑談	beszélgetés	雑談	N;NOM;SG	V
+gyógyszerek	ドラッグ	gyógyszer	ドラッグ	N;NOM;PL	V
+özvegy	未亡	özvegy	未亡		N
+özvegy	死別	özvegy	死別		V
+özvegy	未亡	özvegy	未亡		N
+feszültség	緊張	feszültség	緊張	N;NOM;SG	V
+rangú	ランキング	rangú	ランキング		N
+paraguay	パラグ	paraguay	パラグ		PROPN
+kelta	ゲーリック	kel	ゲーリック		PROPN
+építés	建設	építés	建設	N;NOM;SG	V
+minimum	最低	minimum	最低		N
+minimum	最低	minimum	最低		N
+minimum	最小	minimum	最小		N
+porto	ポルト	porto	ポルト		PROPN
+pietro	ピエトロ	pietro	ピエトロ		PROPN
+különbséget	区別	különbség	区別	N;ACC;SG	V
+tizenöt	fifteen	tizenöt	fifteen		PROPN
+tizenöt	十五	tizenöt	十五		NUM
+kár	怪我	kár	怪我		V
+kár	外傷	kár	外傷		N
+kár	被害	kár	被害		N
+kár	ダメージ	kár	ダメージ		N
+kár	損傷	kár	損傷		V
+kár	損害	kár	損害		N
+táplálkozik	フィード	táplálkozik	フィード	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+háromszög	トライアングル	háromszög	トライアングル		N
+háromszög	三角形	háromszög	三角形		N
+andreas	アンドレアス	andreas	アンドレアス		PROPN
+körbe	ラウンド	kör	ラウンド	ADV	N
+körbe	round	kör	round	ADV	PROPN
+körbe	丸い	kör	丸く	ADV	ADJ
+uniós	ユニオン	uniós	ユニオン	ADJ;NOM;SG	N
+hunyad	フネドアラ	hunyad	フネドアラ		PROPN
+esetenként	たま	eset	たま	N;ABS;SG	ADV
+időjárás	天候	időjárás	天候	N;NOM;SG	V
+erika	エリカ	erika	エリカ		PROPN
+havi	毎月	havi	毎月		N
+havi	月間	havi	月間		N
+havi	月刊	havi	月刊		N
+url	url	url	url		N
+kocsis	運転	kocsis	運転		N
+kocsis	ドライバ	kocsis	ドライバ		N
+kocsis	ドライバー	kocsis	ドライバー		N
+állati	アニマル	állati	アニマル		N
+állati	動物	állati	動物		N
+vsc	vsc	vsc	vsc	N;NOM;SG	PROPN
+kennedy	ケネディ	kennedy	ケネディ		PROPN
+robot	ロボット	rob	ロボット		N
+philip	フィリップ	philip	フィリップ		PROPN
+valakit	誰	valakit	誰		PRO
+lawrence	ローレンス	lawrence	ローレンス		PROPN
+támadások	攻撃	támadás	攻撃	N;NOM;PL	V
+studio	スタジオ	studio	スタジオ		N
+hollywood	ハリウッド	hollywood	ハリウッド		PROPN
+bármelyik	any	bármelyik	any		PROPN
+forgó	ロータリー	forgó	ロータリー		N
+forgó	回転	forgó	回転		V
+forgó	紡績	forgó	紡績		N
+reakció	反応	reakció	反応	N;NOM;SG	V
+reakció	応答	reakció	応答	N;NOM;SG	V
+durva	ラフ	durva	ラフ		N
+durva	乱暴	durva	乱暴		ADJ
+durva	厳しい	durva	厳しい		ADJ
+durva	無礼	durva	無礼		ADJ
+élni	リビング	él	リビング	V;NFIN;ACT	N
+élni	living	él	living	V;NFIN;ACT	PROPN
+élni	ライブ	él	ライブ	V;NFIN;ACT	N
+eddie	エディー	eddie	エディー		PROPN
+eddie	エディ	eddie	エディ		PROPN
+relatív	相対	relatív	相対		N
+relatív	親戚	relatív	親戚		N
+georgia	グルジア	georgia	グルジア		PROPN
+georgia	ジョージア	georgia	ジョージア		PROPN
+studios	スタジオ	studios	スタジオ		N
+lincoln	リンカーン	lincoln	リンカーン		PROPN
+álom	ドリーム	álom	ドリーム		N
+álom	dream	álom	dream		PROPN
+segítő	ヘルパー	segítő	ヘルパー	ADJ;NOM;SG	N
+nyugdíjba	引退	nyugdíj	引退	N;IN+ALL;SG	V
+nyugdíjba	退職	nyugdíj	退職	N;IN+ALL;SG	V
+átfogó	全体	átfogó	全体		N
+rendőr	cop	rendőr	cop	N;NOM;SG	PROPN
+rendőr	ポリス	rendőr	ポリス	N;NOM;SG	PROPN
+graham	グラハム	graham	グラハム		PROPN
+graham	グレアム	graham	グレアム		PROPN
+fém	メタル	fém	メタル		N
+fém	金属	fém	金属		N
+művészetek	arts	művészet	arts	N;NOM;PL	PROPN
+union	ユニオン	union	ユニオン		N
+egészséges	ヘルシー	egészséges	ヘルシー	ADJ;NOM;SG	N
+negyed	クォーター	negyed	クォーター		N
+negyed	四半期	negyed	四半期		N
+neil	ニール	neil	ニール		PROPN
+alatta	以下	alat	以下		N
+garcía	ガルシア	garcía	ガルシア		PROPN
+gömb	球体	gömb	球体		N
+gömb	球面	gömb	球面		N
+gömb	球形	gömb	球形		N
+gömb	オーブ	gömb	オーブ		N
+minőségi	品質	minőségi	品質	ADJ;NOM;SG	N
+minőségi	クオリティ	minőségi	クオリティ	ADJ;NOM;SG	N
+minőségi	画質	minőségi	画質	ADJ;NOM;SG	N
+minőségi	quality	minőségi	quality	ADJ;NOM;SG	PROPN
+hangzik	サウンド	hangzik	サウンド	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+papi	パピ	papi	パピ		PROPN
+soul	ソウル	soul	ソウル		PROPN
+uss	uss	uss	uss	N;NOM;SG	PROPN
+ion	イオン	ion	イオン		N
+ftc	ftc	ftc	ftc	N;NOM;SG	PROPN
+grant	付与	grant	付与		V
+grant	グラント	grant	グラント		PROPN
+jelölések	マークス	jelölés	マークス	N;NOM;PL	PROPN
+dos	ドス	dos	ドス		N
+dos	dos	dos	dos		PROPN
+samu	サム	samu	サム		PROPN
+olga	オルガ	olga	オルガ		PROPN
+helsinki	ヘルシンキ	helsinki	ヘルシンキ		PROPN
+előadások	レクチャー	előadás	レクチャー	N;NOM;PL	V
+előadások	講義	előadás	講義	N;NOM;PL	V
+előadások	講演	előadás	講演	N;NOM;PL	V
+támogatás	援助	támogatás	援助	N;NOM;SG	V
+támogatás	サポート	támogatás	サポート	N;NOM;SG	V
+támogatás	支持	támogatás	支持	N;NOM;SG	V
+donald	ドナルド	donald	ドナルド		PROPN
+ötven	fifty	ötven	fifty		PROPN
+fizetett	有料	fizet	有料	V;INDF;IND;SG;3;PST;FIN;ACT	N
+levele	letter	levél	letter	N;NOM;SG	PROPN
+lehetetlen	インポッシブル	lehetetlen	インポッシブル		PROPN
+lehetetlen	不可能	lehetetlen	不可能		ADJ
+átlag	平均	átlag	平均		N
+jordan	ヨルダン	jordan	ヨルダン		PROPN
+jordan	ジョーダン	jordan	ジョーダン		PROPN
+malom	ミル	malom	ミル	N;NOM;SG	PROPN
+stade	スタッド	stade	スタッド		PROPN
+boston	ボストン	boston	ボストン		PROPN
+alkalmi	カジュアル	alkalmi	カジュアル	ADJ;NOM;SG	N
+igény	債権	igény	債権		N
+igény	主張	igény	主張		V
+igény	取得	igény	取得		V
+igény	需要	igény	需要		N
+igény	催告	igény	催告		V
+védelmet	保護	védelem	保護	N;ACC;SG	V
+crystal	crystal	crystal	crystal		PROPN
+crystal	結晶	crystal	結晶		N
+crystal	クリスタル	crystal	クリスタル		N
+roy	ロイ	roy	ロイ	PROPN;NOM;SG	PROPN
+mozi	シネマ	mozi	シネマ	N;NOM;SG	PROPN
+helyben	ローカル	hely	ローカル	N;IN+ESS;SG	ADJ
+inc	inc	inc	inc	PROPN;NOM;SG	PROPN
+egyén	個別	egyén	個別	N;NOM;SG	
+együttműködés	コラボレーション	együttműködés	コラボレーション	N;NOM;SG	V
+együttműködés	コラボ	együttműködés	コラボ	N;NOM;SG	PROPN
+együttműködés	協力	együttműködés	協力	N;NOM;SG	V
+málta	マルタ	málta	マルタ	PROPN;NOM;SG	PROPN
+termelés	製作	termelés	製作	N;NOM;SG	V
+termelés	生産	termelés	生産	N;NOM;SG	V
+állítás	主張	állítás	主張	N;NOM;SG	V
+állítás	取得	állítás	取得	N;NOM;SG	V
+állítás	表明	állítás	表明	N;NOM;SG	V
+állítás	主張	állítás	主張	N;NOM;SG	V
+állítás	主張	állítás	主張	N;NOM;SG	V
+bevezetése	紹介	bevezetés	紹介	N;NOM;SG	V
+bevezetése	導入	bevezetés	導入	N;NOM;SG	V
+kereskedő	マーチャント	kereskedő	マーチャント		PROPN
+kereskedő	商人	kereskedő	商人		N
+kereskedő	トレーダー	kereskedő	トレーダー		PROPN
+kereskedő	ディーラー	kereskedő	ディーラー		N
+lorenzo	ロレンツォ	lorenzo	ロレンツォ		PROPN
+lorenzo	ロレンソ	lorenzo	ロレンソ		PROPN
+ibm	ibm	ibm	ibm	N;NOM;SG	PROPN
+danny	ダニー	danny	ダニー		PROPN
+info	情報	info	情報		N
+main	メイン	main	メイン		N
+norbert	ノルベルト	norber	ノルベルト		PROPN
+btk	btk	btk	btk	N;NOM;SG	PROPN
+atlético	アトレティコ	atlético	アトレティコ	N;NOM;SG	PROPN
+atlético	アトレチコ	atlético	アトレチコ	N;NOM;SG	PROPN
+tetszőleges	任意	tetszőleges	任意	ADJ;NOM;SG	N
+szíriai	シリア	szíriai	シリア	ADJ;NOM;SG	PROPN
+máltai	マルタ	máltai	マルタ	ADJ;NOM;SG	PROPN
+máltai	マルタ	máltai	マルタ	ADJ;NOM;SG	PROPN
+trek	トレック	trek	トレック	N;NOM;SG	PROPN
+trek	トレッキング	trek	トレッキング	N;NOM;SG	PROPN
+szolgáltató	プロバイダ	szolgáltató	プロバイダ		N
+szolgáltató	プロバイダー	szolgáltató	プロバイダー		N
+florida	フロリダ	florida	フロリダ		PROPN
+dallas	ダラス	dallas	ダラス	N;NOM;SG	PROPN
+ron	ロン	ron	ロン		PROPN
+harris	ハリス	harris	ハリス		PROPN
+tottenham	トッテナム	tottenham	トッテナム	N;NOM;SG	PROPN
+tömeges	ミサ	tömeges	ミサ	ADJ;NOM;SG	N
+tömeges	質量	tömeges	質量	ADJ;NOM;SG	N
+drága	dear	drága	dear		PROPN
+drága	ディア	drága	ディア		PROPN
+drága	尊い	drága	尊いる		N
+drága	precious	drága	precious		PROPN
+drága	貴重	drága	貴重		ADJ
+drága	高い	drága	高い		ADJ
+drága	高額	drága	高額		ADJ
+alberto	アルベルト	albert	アルベルト		PROPN
+bell	ベル	bell	ベル		N
+vietnam	ベトナム	viet	ベトナム		PROPN
+szarvas	シカ	szarvas	シカ		N
+szarvas	ムース	szarvas	ムース		PROPN
+szarvas	シカ	szarvas	シカ		N
+dick	ディック	dick	ディック		PROPN
+irányító	コントローラ	irányító	コントローラ	ADJ;NOM;SG	N
+irányító	コントローラー	irányító	コントローラー	ADJ;NOM;SG	N
+kontinentális	コンチネンタル	kontinentális	コンチネンタル	N;NOM;SG	PROPN
+élelmiszer	料理	élelmiszer	料理	N;NOM;SG	V
+adams	アダムズ	adams	アダムズ		PROPN
+adams	アダムス	adams	アダムス		PROPN
+kurt	クルト	kur	クルト		PROPN
+arány	評価	arány	評価	N;NOM;SG	V
+türingia	テューリンゲン	türingia	テューリンゲン	N;NOM;SG	PROPN
+kölcsönös	相互	kölcsönös	相互		N
+magyarázat	説明	magyarázat	説明	N;NOM;SG	V
+magyarázat	解説	magyarázat	解説	N;NOM;SG	V
+magyarázat	解説	magyarázat	解説	N;NOM;SG	V
+holnap	明日	holnap	明日		N
+holnap	あし	holnap	あし		V
+függetlenség	独立	függetlenség	独立	N;NOM;SG	ADJ
+bizonyíték	証明	bizonyíték	証明	N;NOM;SG	V
+tanuló	生徒	tanuló	生徒	ADJ;NOM;SG	N
+tanuló	瞳	tanuló	瞳	ADJ;NOM;SG	PROPN
+tanuló	生徒	tanuló	生徒	ADJ;NOM;SG	N
+tanuló	学生	tanuló	学生	ADJ;NOM;SG	N
+sztálin	スターリン	sztálin	スターリン		PROPN
+arc	アーク	arc	アーク	N;NOM;SG	PROPN
+arc	arc	arc	arc	N;NOM;SG	PROPN
+szövetségesek	アライ	szövetséges	アライ	N;NOM;PL	PROPN
+szövetségesek	アリー	szövetséges	アリー	N;NOM;PL	PROPN
+javaslatok	提案	javaslat	提案	N;NOM;PL	V
+lloyd	ロイド	lloyd	ロイド		PROPN
+lucas	ルーカス	lucas	ルーカス		PROPN
+miguel	ミゲル	miguel	ミゲル		PROPN
+látványos	壮観	látványos	壮観	ADJ;NOM;SG	N
+látványos	圧巻	látványos	圧巻	ADJ;NOM;SG	N
+tommy	トミー	tommy	トミー		PROPN
+kíváncsi	好奇心	kíváncsi	好奇心		N
+kíváncsi	興味	kíváncsi	興味		N
+nemsokára	soon	nemsoka	soon	N;ON+ALL;SG	PROPN
+nemsokára	まも	nemsoka	まも	N;ON+ALL;SG	ADV
+nemsokára	もう	nemsoka	もう	N;ON+ALL;SG	ADV
+jacob	ジャコブ	jac	ジャコブ		PROPN
+prince	プリンス	prince	プリンス		N
+másképp	さもなけれ	másképp	さもなけれ		V
+wright	ライト	wright	ライト		N
+kat	kat	kat	kat		PROPN
+mesék	寓話	mesék	寓話	N;NOM;PL	
+mese	寓話	mese	寓話	N;NOM;SG	
+ohio	オハイオ	ohio	オハイオ		PROPN
+susan	スーザン	susan	スーザン	N;NOM;SG	PROPN
+magasan	ハイ	magasan	ハイ		N
+magasan	高い	magasan	高い		ADJ
+kezelése	管理	kezelés	管理	N;NOM;SG	V
+kezelése	取扱	kezelés	取扱	N;NOM;SG	V
+kezelése	取り扱い	kezelés	取り扱い	N;NOM;SG	V
+elavult	時代	el+avul	時代	V;INDF;IND;SG;3;PST;FIN;ACT	N
+elavult	時代	el+avul	時代	V;INDF;IND;SG;3;PST;FIN;ACT	N
+via	via	via	via		PROPN
+megszerzése	買収	megszerzés	買収	N;NOM;SG	V
+tartós	パーマネント	tartós	パーマネント		N
+has	お	has	お		N
+fort	フォート	for	フォート		PROPN
+fort	要塞	for	要塞		N
+amor	アモール	amor	アモール		PROPN
+magda	マグダ	magda	マグダ	PROPN;NOM;SG	PROPN
+charlotte	シャルロット	charl	シャルロット		PROPN
+összetétele	合成	összetétele	合成	N;NOM;SG	V
+összetétele	構成	összetétele	構成	N;NOM;SG	V
+lelkes	キーン	lelkes	キーン		PROPN
+zóna	zone	zóna	zone	N;NOM;SG	PROPN
+fogalmak	定義	fogalom	定義	N;NOM;PL	V
+fogalmak	規約	fogalom	規約	N;NOM;PL	V
+mann	マン	mann	マン		N
+sierra	シエラ	sier	シエラ		PROPN
+tárgyalások	交渉	tárgyalás	交渉	N;NOM;PL	V
+tárgyalások	交渉	tárgyalás	交渉	N;NOM;PL	V
+thaiföld	タイ	thaiföld	タイ		PROPN
+intel	intel	intel	intel	N;NOM;SG	PROPN
+érettségi	卒業	érettségi	卒業	ADJ;NOM;SG	V
+ganz	ガンツ	ganz	ガンツ		PROPN
+isztambul	イスタンブール	isztambul	イスタンブール	N;NOM;SG	PROPN
+módosítás	改正	módosítás	改正	N;NOM;SG	V
+módosítás	編集	módosítás	編集	N;NOM;SG	V
+módosítás	編集	módosítás	編集	N;NOM;SG	V
+módosítás	変更	módosítás	変更	N;NOM;SG	V
+kérdéses	疑わしい	kérdéses	疑わしい		ADJ
+tokió	東京	tokió	東京		PROPN
+punk	パンク	punk	パンク		N
+guyana	ガイアナ	guyana	ガイアナ	PROPN;NOM;SG	PROPN
+címke	ラベル	cím	ラベル		N
+címke	タグ	cím	タグ		N
+címke	ラベル	cím	ラベル		N
+megöli	kill	megöli	kill	V;DEF;IND;SG;3;PRS;FIN;ACT	PROPN
+repülési	フライト	repülési	フライト	ADJ;NOM;SG	N
+repülési	飛行	repülési	飛行	ADJ;NOM;SG	N
+véges	有限	véges	有限		N
+agy	脳み	agy	脳み		N
+tanácsadó	勧告	tanácsadó	勧告	ADJ;NOM;SG	V
+tanácsadó	コンサルティング	tanácsadó	コンサルティング	ADJ;NOM;SG	N
+tanácsadó	顧問	tanácsadó	顧問	ADJ;NOM;SG	N
+tanácsadó	アドバイザー	tanácsadó	アドバイザー	ADJ;NOM;SG	
+tanácsadó	コンサルタント	tanácsadó	コンサルタント	ADJ;NOM;SG	N
+tanácsadó	アドバイザー	tanácsadó	アドバイザー	ADJ;NOM;SG	
+öngyilkos	自殺	öngyilkos	自殺		V
+szőke	ブロンド	szőke	ブロンド	N;NOM;SG	PROPN
+szőke	ブロンド	szőke	ブロンド	N;NOM;SG	PROPN
+rob	ロブ	rob	ロブ		PROPN
+gyártási	製造	gyártási	製造	ADJ;NOM;SG	N
+elfoglalt	忙しい	elfoglalt	忙しい		ADJ
+elfoglalt	ビジー	elfoglalt	ビジー		PROPN
+elfoglalt	占領	elfoglalt	占領		V
+bányász	鉱業	bányász	鉱業		N
+vizes	濡れ	vizes	濡れる		V
+küzdelem	戦闘	küzdelem	戦闘	N;NOM;SG	V
+mozgás	移動	mozgás	移動	N;NOM;SG	V
+mozgás	運動	mozgás	運動	N;NOM;SG	V
+tündi	sweety	tünd	sweety		PROPN
+terry	テリー	terry	テリー		PROPN
+mérgező	毒性	mérgező	毒性		N
+elliptikus	楕円	elliptikus	楕円	ADJ;NOM;SG	N
+hawaii	ハワイ	hapai	ハワイ	N;NOM;SG	PROPN
+intenzív	激しい	intenzív	激しい		ADJ
+intenzív	icu	intenzív	icu		PROPN
+hengeres	円柱	hengeres	円柱		N
+hengeres	シリンダー	hengeres	シリンダー		N
+elv	原理	elv	原理		N
+emma	エマ	emma	エマ		PROPN
+rádiós	ラジオ	rádiós	ラジオ		N
+lyon	リヨン	lyon	リヨン		PROPN
+perry	ペリー	perry	ペリー		PROPN
+min	ミン	min	ミン		PROPN
+min	min	min	min		PROPN
+expedíció	探検	expedíció	探検	N;NOM;SG	V
+expedíció	遠征	expedíció	遠征	N;NOM;SG	V
+wild	ワイルド	wild	ワイルド		PROPN
+wild	野生	wild	野生		N
+hercegovina	ヘルツェゴヴィナ	hercegovina	ヘルツェゴヴィナ		PROPN
+ítélet	判断	ítélet	判断	N;NOM;SG	V
+ítélet	判断	ítélet	判断	N;NOM;SG	V
+ítélet	宣告	ítélet	宣告	N;NOM;SG	V
+ellenzéki	野党	ellenzéki	野党	ADJ;NOM;SG	N
+moszkvában	モスクワ	moszkva	モスクワ	PROPN;IN+ESS;SG	PROPN
+delta	デルタ	delta	デルタ		PROPN
+apostol	使徒	apos	使徒		N
+bármi	何	bármi	何		NUM
+barát	フレンド	bara	フレンド	N;NOM;SG	PROPN
+barát	彼	bara	彼	N;NOM;SG	PRO
+látszólag	どうやら	látszólag	どうやら		ADV
+példányok	コピー	példány	コピー	N;NOM;PL	V
+eredményes	実効	eredményes	実効	ADJ;NOM;SG	N
+eredményes	効率	eredményes	効率	ADJ;NOM;SG	N
+pete	ピート	pete	ピート		PROPN
+ball	ボール	ball	ボール		N
+többség	過半数	többség	過半数		N
+tyler	タイラー	tyler	タイラー	PROPN;NOM;SG	PROPN
+jennifer	ジェニファー	jennifer	ジェニファー	N;NOM;SG	PROPN
+negyven	四十	negyven	四十		NUM
+cruz	クルス	cruz	クルス		PROPN
+törvényes	合法	törvényes	合法	ADJ;NOM;SG	N
+ein	アイン	ein	アイン		PROPN
+ein	ein	ein	ein		PROPN
+sérülés	怪我	sérülés	怪我	N;NOM;SG	V
+sérülés	損傷	sérülés	損傷	N;NOM;SG	V
+sérülés	怪我	sérülés	怪我	N;NOM;SG	V
+enyhe	軽度	enyhe	軽度		N
+enyhe	わずか	enyhe	わずか		ADV
+kubai	キューバ	kubai	キューバ	ADJ;NOM;SG	PROPN
+litvánia	リトアニア	litvánia	リトアニア	N;NOM;SG	PROPN
+angel	エンジェル	angel	エンジェル		N
+angel	天使	angel	天使		N
+murray	マレー	murray	マレー		PROPN
+holt	ホルト	holt	ホルト		PROPN
+hétköznapi	カジュアル	hétköznapi	カジュアル	ADJ;NOM;SG	N
+szerkesztése	編集	szerkesztés	編集	N;NOM;SG	V
+norman	ノーマン	norman	ノーマン		N
+california	カリフォルニア	california	カリフォルニア		PROPN
+salvador	サルバドール	salvador	サルバドール		PROPN
+brandenburg	ブランデンブルク	brandenburg	ブランデンブルク		PROPN
+zürich	チューリッヒ	zürich	チューリッヒ	N;NOM;SG	PROPN
+zürich	チューリッヒ	zürich	チューリッヒ	N;NOM;SG	PROPN
+felsorolt	上場	fel+sorol	上場		N
+díszes	ファンシー	díszes	ファンシー		N
+díszes	空想	díszes	空想		N
+stefan	シュテファン	stefan	シュテファン		PROPN
+stefan	ステファン	stefan	ステファン		PROPN
+mohamed	ムハンマド	mohamed	ムハンマド		PROPN
+mohamed	モハメッド	mohamed	モハメッド		PROPN
+chilei	チリ	chilei	チリ	ADJ;NOM;SG	PROPN
+chilei	チリ	chilei	チリ	ADJ;NOM;SG	PROPN
+szeretet	ラヴ	szeretet	ラヴ	N;NOM;SG	PROPN
+nagyszerű	グレート	nagyszerű	グレート		PROPN
+bridge	ブリッジ	bridge	ブリッジ		N
+debütáló	デビュー	debütáló	デビュー	ADJ;NOM;SG	V
+jelölést	指名	jelölés	指名	N;ACC;SG	V
+marshall	マーシャル	marshall	マーシャル		PROPN
+minnesota	ミネソタ	minnesota	ミネソタ	N;NOM;SG	PROPN
+lenin	レーニン	lesz	レーニン		PROPN
+büntetés	処罰	büntetés	処罰	N;NOM;SG	V
+büntetés	拘禁	büntetés	拘禁	N;NOM;SG	V
+büntetés	勾留	büntetés	勾留	N;NOM;SG	V
+büntetés	留置	büntetés	留置	N;NOM;SG	V
+olivia	オリヴィア	olivia	オリヴィア		PROPN
+post	ポスト	post	ポスト		PROPN
+post	投稿	post	投稿		V
+honda	ホンダ	honda	ホンダ	N;NOM;SG	PROPN
+honda	本田	honda	本田	N;NOM;SG	PROPN
+julia	ジュリア	julia	ジュリア		PROPN
+julia	ユリア	julia	ユリア		PROPN
+magdolna	マグダレーナ	magdol	マグダレーナ		PROPN
+ünnep	ホリデー	ünnep	ホリデー	N;NOM;SG	PROPN
+tisztán	ピュア	tiszta	ピュア		N
+tisztán	純粋	tiszta	純粋		ADJ
+tisztán	ストレート	tiszta	ストレート		N
+tisztán	きちんと	tiszta	きちんと		ADV
+irak	イラク	irak	イラク	N;NOM;SG	PROPN
+oldalas	リブ	oldalas	リブ		N
+buszok	バス	busz	バス	N;NOM;PL	PROPN
+tennessee	テネシー	tenness	テネシー		PROPN
+tengerparti	シーサイド	tengerparti	シーサイド	N;NOM;SG	PROPN
+monaco	モナコ	monaco	モナコ		PROPN
+single	シングル	single	シングル		N
+single	独身	single	独身		N
+zsinagóga	シナゴーグ	zsinagóga	シナゴーグ	N;NOM;SG	PROPN
+folytonos	連続	folytonos	連続		ADJ
+ősszel	落ちる	ősszel	落ちる	ADV	V
+ősszel	落下	ősszel	落下	ADV	V
+morgan	モルガン	morgan	モルガン		PROPN
+kezelni	ハンドル	kezel	ハンドル	V;NFIN;ACT	N
+kezelni	トリート	kezel	トリート	V;NFIN;ACT	PROPN
+rick	リック	rick	リック		PROPN
+rosa	ローザ	rosa	ローザ		PROPN
+kiállítások	展示	kiállítás	展示	N;NOM;PL	V
+utalás	リファレンス	utalás	リファレンス	N;NOM;SG	PROPN
+utalás	参照	utalás	参照	N;NOM;SG	V
+értelmetlen	無意味	értelmetlen	無意味		ADJ
+kerülni	忌避	kerül	忌避	V;NFIN;ACT	
+mozog	moves	mozog	moves	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+izland	アイスランド	izland	アイスランド	PROPN;NOM;SG	PROPN
+nézd	ルック	nézd	ルック	V;DEF;IMP;PL;3;PRS;FIN;ACT	N
+nézd	外観	nézd	外観	V;DEF;IMP;PL;3;PRS;FIN;ACT	N
+artúr	アーサー	artúr	アーサー		PROPN
+xbox	xbox	xbox	xbox	PROPN;NOM;SG	PROPN
+gnome	ノーム	gnom	ノーム	N;NOM;SG	PROPN
+gnome	gnome	gnom	gnome	N;NOM;SG	PROPN
+colorado	コロラド	colorado	コロラド		PROPN
+archivált	アーカイブ	archivált	アーカイブ	V;INDF;IND;SG;3;PST;FIN;ACT	N
+alma	リンゴ	alma	リンゴ		N
+alma	りんご	alma	りんご		PROPN
+alma	アップル	alma	アップル		PROPN
+alma	林	alma	林		N
+alma	リンゴ	alma	リンゴ		N
+alma	りんご	alma	りんご		PROPN
+alma	アルマ	alma	アルマ		PROPN
+mobil	モバイル	mobil	モバイル		PROPN
+előkelő	洒落	előkelő	洒落		N
+gondolkodás	考え	gondolkodás	考える	N;NOM;SG	V
+árva	孤児	árva	孤児		N
+legrosszabb	最悪	legrosszabb	最悪		ADJ
+észtország	エストニア	észtország	エストニア	N;NOM;SG	PROPN
+varsó	ワルシャワ	varsó	ワルシャワ	N;NOM;SG	PROPN
+que	que	que	que		PROPN
+tigris	トラ	tigris	トラ		PROPN
+tigris	タイガー	tigris	タイガー		PROPN
+fair	フェア	fair	フェア		N
+útmutató	指導	útmutató	指導	N;NOM;SG	V
+útmutató	指示	útmutató	指示	N;NOM;SG	V
+tünde	エルフ	tünde	エルフ		PROPN
+tünde	fae	tünde	fae		PROPN
+luxemburg	ルクセンブルク	luxemburg	ルクセンブルク		PROPN
+bonnie	ボニー	bonnie	ボニー	V;SG;3;PRS;NFIN;ACT	PROPN
+bonnie	bonnie	bonnie	bonnie	V;SG;3;PRS;NFIN;ACT	PROPN
+sky	sky	sky	sky		PROPN
+sky	スカイ	sky	スカイ		N
+irányelvek	ディレクティブ	irányelvek	ディレクティブ	N;NOM;PL	PROPN
+ült	sat	ül	sat	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+nemrég	最近	nemrég	最近	ADV	N
+nemrég	最近	nemrég	最近	ADV	N
+szudán	スーダン	szuda	スーダン	N;NOM;SG	PROPN
+szudán	スーダン	szuda	スーダン	N;NOM;SG	PROPN
+walker	ウォーカー	walker	ウォーカー		PROPN
+felfedezése	探検	felfedezés	探検	N;NOM;SG	V
+felfedezése	発見	felfedezés	発見	N;NOM;SG	V
+tervezés	設計	tervezés	設計	N;NOM;SG	V
+ajánlotta	おすすめ	ajánl	おすすめ	V;DEF;IND;SG;3;PST;FIN;ACT	N
+vidám	陽気	vída	陽気		ADJ
+carter	カーター	carter	カーター		PROPN
+luigi	ルイジ	luigi	ルイジ		PROPN
+mali	マリ	mali	マリ		PROPN
+függő	依存	függő	依存		V
+függő	中毒	függő	中毒		N
+kifejezések	規約	kifejezés	規約	N;NOM;PL	V
+emelkedő	尊属	emelkedő	尊属	ADJ;NOM;SG	N
+emelkedő	ライジング	emelkedő	ライジング	ADJ;NOM;SG	PROPN
+emelkedő	rising	emelkedő	rising	ADJ;NOM;SG	PROPN
+emelkedő	昇順	emelkedő	昇順	ADJ;NOM;SG	N
+grace	恩寵	grace	恩寵		N
+grace	グレース	grace	グレース		PROPN
+grace	グレイス	grace	グレイス		PROPN
+dennis	デニス	dennis	デニス		PROPN
+parker	パーカー	parker	パーカー		N
+magic	magic	magic	magic		PROPN
+magic	魔法	magic	魔法		N
+magic	マジック	magic	マジック		N
+prima	プリマ	prima	プリマ		PROPN
+áldozat	犠牲	áldozat	犠牲	N;NOM;SG	V
+eva	eva	eva	eva		PROPN
+eva	エヴァ	eva	エヴァ		PROPN
+bundesliga	ブンデスリーガ	bundesliga	ブンデスリーガ	N;NOM;SG	PROPN
+megosztva	共有	megosztva	共有	ADV;V.CVB	V
+szovjetek	ソビエト	szovjet	ソビエト	N;NOM;PL	PROPN
+point	ポイント	point	ポイント		N
+ragadozó	リッパー	ragadozó	リッパー	N;NOM;SG	PROPN
+ragadozó	捕食	ragadozó	捕食	N;NOM;SG	V
+fordító	翻訳	fordító	翻訳	N;NOM;SG	V
+szándékosan	故意	szándékos	故意	ADJ;FRML;SG	N
+szándékosan	わざと	szándékos	わざと	ADJ;FRML;SG	ADV
+szándékosan	故意	szándékos	故意	ADJ;FRML;SG	N
+szándékosan	故意	szándékos	故意	ADJ;FRML;SG	N
+set	集合	set	集合		N
+set	セット	set	セット		N
+indiana	インディアナ	indiana	インディアナ		PROPN
+belgrád	ベオグラード	belgrád	ベオグラード	N;NOM;SG	PROPN
+körzetben	radius	körzet	radius	N;IN+ESS;SG	PROPN
+csomó	ノット	csomó	ノット		N
+csomó	結び	csomó	結ぶ		V
+csomó	結び	csomó	結ぶ		V
+piraeus	ピレウス	piraeus	ピレウス	N;NOM;SG	PROPN
+biztonságos	セーフ	biztonságos	セーフ	ADJ;NOM;SG	
+biztonságos	金庫	biztonságos	金庫	ADJ;NOM;SG	N
+biztonságos	セキュア	biztonságos	セキュア	ADJ;NOM;SG	N
+költ	出費	költ	出費	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+pozíció	位置	pozíció	位置	N;NOM;SG	V
+mögötte	後ろ	mögöt	後ろ		N
+olcsó	安い	olcsó	安い		ADJ
+lila	パープル	lila	パープル		N
+lila	ライラック	lila	ライラック		N
+lila	バイオレット	lila	バイオレット		N
+lisa	リサ	lisa	リサ		PROPN
+záró	ファイナル	záró	ファイナル	N;NOM;SG	PROPN
+megfelelője	同等	megfelelő	同等	N;NOM;SG	CONJ
+robinson	ロビンソン	robins	ロビンソン		PROPN
+reform	改革	reform	改革		V
+reform	革新	reform	革新		V
+reform	リフォーム	reform	リフォーム		N
+walt	ウォルト	walt	ウォルト		PROPN
+törpe	ミゼット	törpe	ミゼット		PROPN
+törpe	ドワーフ	törpe	ドワーフ		PROPN
+törpe	小人	törpe	小人		N
+lakatos	鍵	lakatos	鍵		N
+lakatos	錠前	lakatos	錠前		N
+kijevi	キエフ	kijevi	キエフ		PROPN
+parancsot	命令	parancsot	命令	N;ACC;SG	V
+parancsot	注文	parancsot	注文	N;ACC;SG	V
+mar	mar	mar	mar		PROPN
+emi	emi	emi	emi		PROPN
+emi	えみ	emi	えみ		PROPN
+stan	スタン	stan	スタン		PROPN
+viszony	浮気	viszony	浮気	N;NOM;SG	V
+erőszak	強姦	erősz	強姦	N;NOM;SG	
+melbourne	メルボルン	melbour	メルボルン	N;NOM;SG	PROPN
+mediterrán	地中海	mediterra	地中海		PROPN
+wayne	ウェイン	wayne	ウェイン		PROPN
+vállalkozó	起業	vállalkozó	起業	N;NOM;SG	V
+party	パーティ	party	パーティ		N
+party	パーティー	party	パーティー		N
+maxi	マキシ	maxi	マキシ		N
+shaw	ショー	shaw	ショー		N
+shaw	ショウ	shaw	ショウ		PROPN
+veszteségek	喪失	veszteség	喪失	N;NOM;PL	V
+nintendo	任天堂	nintendo	任天堂	N;NOM;SG	PROPN
+santos	サントス	santos	サントス		PROPN
+illinois	イリノイ	illinois	イリノイ		PROPN
+western	ウェスタン	western	ウェスタン		PROPN
+western	ウエスタン	western	ウエスタン		N
+befolyása	影響	befolyás	影響	N;NOM;SG	V
+formális	フォーマル	formális	フォーマル		N
+megyék	カウンティ	megyék	カウンティ	N;NOM;PL	PROPN
+rita	リタ	rita	リタ		PROPN
+szórakoztató	興行	szórakoztató	興行	N;NOM;SG	V
+szórakoztató	娯楽	szórakoztató	娯楽	N;NOM;SG	
+viszonya	浮気	viszony	浮気	N;NOM;SG	V
+jubileumi	ジュビリー	jubileumi	ジュビリー		PROPN
+titokzatos	ミステリー	titokzatos	ミステリー		N
+menetrend	日程	menetrend	日程	N;NOM;SG	V
+rabbi	ラビ	rabbi	ラビ	N;NOM;SG	PROPN
+megtalálni	find	meg+talál	find	V;NFIN;ACT	PROPN
+gyógyszer	ドラッグ	gyógyszer	ドラッグ	N;NOM;SG	V
+sír	叫び	sír	叫ぶ	N;NOM;SG	V
+sír	クライ	sír	クライ	N;NOM;SG	PROPN
+sír	泣く	sír	泣く	N;NOM;SG	V
+sír	泣き	sír	泣く	N;NOM;SG	V
+sír	墓穴	sír	墓穴	N;NOM;SG	V
+sír	泣く	sír	泣く	N;NOM;SG	V
+thompson	トンプソン	thompson	トンプソン		PROPN
+senna	セナ	senna	セナ	N;NOM;SG	PROPN
+egyesített	unified	egyesített	unified	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+eszperantó	エスペラント	eszperantó	エスペラント	N;NOM;SG	PROPN
+franco	フランコ	franco	フランコ		PROPN
+nyitva	オープン	nyitva	オープン	ADV;V.CVB	N
+nyitva	開館	nyitva	開館	ADV;V.CVB	V
+nyitva	開く	nyitva	開く	ADV;V.CVB	V
+lét	存在	lét	存在	N;NOM;SG	V
+ann	アン	ann	アン		PROPN
+maine	メイン	maine	メイン		N
+bevezetés	紹介	bevezetés	紹介	N;NOM;SG	V
+bevezetés	導入	bevezetés	導入	N;NOM;SG	V
+etiópia	エチオピア	etiópia	エチオピア		PROPN
+hétköznap	平日	hétköznap	平日		N
+hétköznap	平日	hétköznap	平日		N
+rózsaszín	ピンク	rózsaszín	ピンク		N
+rózsaszín	ナデシコ	rózsaszín	ナデシコ		PROPN
+panama	パナマ	panama	パナマ		PROPN
+lettország	ラトビア	lettország	ラトビア	N;NOM;SG	PROPN
+vállalkozás	起業	vállalkozás	起業	N;NOM;SG	V
+vállalkozás	エンター	vállalkozás	エンター	N;NOM;SG	PROPN
+augustus	オーガスタス	augustus	オーガスタス		PROPN
+augustus	アウグストゥス	augustus	アウグストゥス		PROPN
+borisz	ボリス	borisz	ボリス		PROPN
+teréz	テレサ	teréz	テレサ	N;NOM;SG	PROPN
+itthon	自宅	itthon	自宅		N
+itthon	ホーム	itthon	ホーム		N
+itthon	帰宅	itthon	帰宅		V
+máris	すでに	máris	すでに		ADV
+máris	既に	máris	既に		ADV
+valley	バレー	valley	バレー		N
+gyártás	製作	gyártás	製作	N;NOM;SG	V
+gyártás	生産	gyártás	生産	N;NOM;SG	V
+ellenőrző	チェッカー	ellenőrző	チェッカー	ADJ;NOM;SG	N
+tanulók	瞳	tanuló	瞳	N;NOM;PL	PROPN
+szavazat	投票	szavazat	投票		V
+side	サイド	side	サイド		N
+mayer	メイヤー	mayer	メイヤー		PROPN
+skandináv	ノルディック	skandináv	ノルディック		PROPN
+hatvan	sixty	hatvan	sixty		PROPN
+szíria	シリア	szíria	シリア	N;NOM;SG	PROPN
+szíria	シリア	szíria	シリア	N;NOM;SG	PROPN
+antik	アンティーク	az	アンティーク		N
+antik	アンティーク	az	アンティーク		N
+félix	フェリックス	félix	フェリックス		PROPN
+szőlő	つる	szőlő	つる	N;NOM;SG	
+magányos	孤独	magányos	孤独		N
+magányos	寂しい	magányos	寂しい		ADJ
+nyers	raw	nyers	raw		PROPN
+ellenőrizni	認証	ellenőriz	認証	V;NFIN;ACT	N
+lovagok	ナイツ	lovag	ナイツ	N;NOM;PL	PROPN
+programozási	プログラミング	programozási	プログラミング	ADJ;NOM;SG	N
+bármit	何	bármit	何		NUM
+watson	ワトソン	watson	ワトソン		PROPN
+kolumbiai	コロンビア	kolumbiai	コロンビア	ADJ;NOM;SG	PROPN
+basszus	バス	basszus	バス	N;NOM;SG	PROPN
+forgatás	回転	forgatás	回転	N;NOM;SG	V
+forgatás	撮影	forgatás	撮影	N;NOM;SG	V
+tegnap	き	tegnap	来る		V
+tegnap	昨日	tegnap	昨日		N
+generáció	ジェネレーション	generáció	ジェネレーション	N;NOM;SG	PROPN
+tudat	意識	tudat	意識	N;NOM;SG	V
+felix	フェリックス	felix	フェリックス		PROPN
+ted	テッド	ted	テッド		PROPN
+ted	ted	ted	ted		PROPN
+helytelen	不適切	helytelen	不適切		ADJ
+lágy	メロウ	lágy	メロウ		PROPN
+lágy	メロー	lágy	メロー		N
+lágy	やわらかい	lágy	やわらかい		ADJ
+lágy	柔らかい	lágy	柔らかい		ADJ
+lágy	ソフト	lágy	ソフト		ADJ
+ingyen	フリー	ingyen	フリー		PROPN
+ingyen	無料	ingyen	無料		N
+ingyen	自由	ingyen	自由		ADJ
+illegális	違法	illegális	違法		ADJ
+építmény	構成	építmény	構成	N;NOM;SG	V
+kit	キット	ki	キット		N
+kit	kit	ki	kit		PROPN
+aréna	アレーナ	aréna	アレーナ	N;NOM;SG	PROPN
+idézet	引用	idézet	引用	N;NOM;SG	V
+idézet	引用	idézet	引用	N;NOM;SG	V
+igor	イーゴリ	igor	イーゴリ		PROPN
+burgos	ブルゴス	burgos	ブルゴス		PROPN
+keresés	検索	keresés	検索		V
+keresés	検索	keresés	検索		V
+nyilvánosság	宣伝	nyilvánosság	宣伝	N;NOM;SG	V
+nyilvánosság	公開	nyilvánosság	公開	N;NOM;SG	V
+luther	ルター	luther	ルター		PROPN
+tízes	tens	tízes	tens		PROPN
+fellépő	パフォーマー	fellépő	パフォーマー		N
+fellépő	演奏者	fellépő	演奏者		N
+fritz	フリッツ	fritz	フリッツ		PROPN
+nigéria	ナイジェリア	nigéria	ナイジェリア		PROPN
+sólyom	ファルコン	sólyom	ファルコン		PROPN
+sólyom	ホーク	sólyom	ホーク		PROPN
+sólyom	タカ	sólyom	タカ		PROPN
+szomorú	悲しい	szomorú	悲しい		ADJ
+szomorú	sad	szomorú	sad		PROPN
+tapasztalt	経験	tapasztalt	経験		V
+harrison	ハリソン	harrison	ハリソン		PROPN
+tizenhárom	thirteen	tizenhárom	thirteen		PROPN
+pályázat	テンダー	pályázat	テンダー	N;NOM;SG	PROPN
+pályázat	柔らかい	pályázat	柔らかい	N;NOM;SG	ADJ
+pályázat	提案	pályázat	提案	N;NOM;SG	V
+pályázat	プロポーズ	pályázat	プロポーズ	N;NOM;SG	V
+mini	ミニ	mini	ミニ		N
+végrehajtó	エグゼクティブ	végrehajtó	エグゼクティブ		N
+cher	シェール	cher	シェール		PROPN
+igénylő	原告	igénylő	原告		N
+testvér	ブラザー	testvér	ブラザー	N;NOM;SG	PROPN
+summer	summer	summer	summer		PROPN
+summer	サマー	summer	サマー		N
+elit	エリート	elit	エリート		N
+fiume	fiume	fium	fiume		PROPN
+berendezések	装備	berendezés	装備	N;NOM;PL	V
+harold	ハロルド	harold	ハロルド		PROPN
+rex	レックス	rex	レックス		PROPN
+progresszív	プログレッシブ	progresszív	プログレッシブ		N
+feldolgozás	処理	feldolgozás	処理	N;NOM;SG	V
+feldolgozás	加工	feldolgozás	加工	N;NOM;SG	V
+emlékeztető	お	emlékeztető	お	ADJ;NOM;SG	N
+emlékeztető	アラーム	emlékeztető	アラーム	ADJ;NOM;SG	N
+leonardo	レオナルド	leonardo	レオナルド		PROPN
+osztott	分散	osztott	分散	V;INDF;IND;SG;3;PST;FIN;ACT	N
+osztott	スプリット	osztott	スプリット	V;INDF;IND;SG;3;PST;FIN;ACT	N
+görbe	カーブ	gör	カーブ		N
+görbe	曲線	gör	曲線		N
+görbe	カーブ	gör	カーブ		N
+görbe	曲線	gör	曲線		N
+kara	カラ	kara	カラ	N;NOM;SG	PROPN
+myspace	myspace	myspace	myspace	N;NOM;SG	PROPN
+larry	ラリー	larry	ラリー		N
+különbségek	差異	különbség	差異	N;NOM;PL	V
+különbségek	違い	különbség	違う	N;NOM;PL	V
+keresztények	クリスチャン	keresztény	クリスチャン	N;NOM;PL	PROPN
+kansas	カンザス	kansas	カンザス		PROPN
+tragikus	悲惨	tragikus	悲惨		ADJ
+gála	受賞	gála	受賞	N;NOM;SG	V
+gála	表彰	gála	表彰	N;NOM;SG	V
+gála	ガーラ	gála	ガーラ	N;NOM;SG	PROPN
+tizennégy	fourteen	tizennégy	fourteen		PROPN
+pásztor	シェパード	pásztor	シェパード		PROPN
+pásztor	牧師	pásztor	牧師		N
+felújított	リフォーム	felújított	リフォーム	V;INDF;IND;SG;3;PST;FIN;ACT	N
+nyúl	ウサギ	nyúl	ウサギ		N
+nyúl	うさぎ	nyúl	うさぎ		N
+berendezés	装備	berendezés	装備	N;NOM;SG	V
+empire	帝国	empi	帝国		N
+empire	帝政	empi	帝政		N
+empire	エンパイア	empi	エンパイア		PROPN
+blood	血液	blood	血液		N
+blood	ブラッド	blood	ブラッド		PROPN
+balkán	バルカン	balkán	バルカン	N;NOM;SG	PROPN
+milánói	ミラノ	milánó	ミラノ		PROPN
+superman	スーパーマン	superman	スーパーマン	N;NOM;SG	PROPN
+gustav	グスタフ	gustav	グスタフ		PROPN
+akarom	欲しい	akarom	欲しい	V;DEF;IND;SG;1;PRS;FIN;ACT	ADJ
+veszély	危険	veszély	危険	N;NOM;SG	ADJ
+kyle	カイル	kyle	カイル		PROPN
+ana	ana	ana	ana		PROPN
+ana	アナ	ana	アナ		PROPN
+tal	タル	tal	タル		PROPN
+hiányos	未	hiányos	未	ADJ;NOM;SG	N
+led	led	led	led	N;NOM;SG	PROPN
+toronto	トロント	toronto	トロント	N;NOM;SG	PROPN
+fiuk	boys	fiuk	boys	N;NOM;SG	PROPN
+fejlesztő	デベロッパー	fejlesztő	デベロッパー		N
+salzburg	ザルツブルク	salzburg	ザルツブルク		PROPN
+athéni	アテネ	athéni	アテネ	ADJ;NOM;SG	PROPN
+omega	オメガ	omega	オメガ		N
+májusban	メイ	május	メイ	N;IN+ESS;SG	PROPN
+arisztotelész	アリストテレス	arisztotelész	アリストテレス	N;NOM;SG	PROPN
+integrált	統合	integrált	統合		V
+massachusetts	マサチューセッツ	massachusetts	マサチューセッツ	N;NOM;SG	PROPN
+adrian	エイドリアン	adrian	エイドリアン		PROPN
+werner	ヴェルナー	werner	ヴェルナー		PROPN
+hallgató	聞き手	hallgató	聞き手		N
+hallgató	リスナー	hallgató	リスナー		N
+hallgató	生徒	hallgató	生徒		N
+hallgató	学生	hallgató	学生		N
+emlék	思い出	emlék	思い出	N;NOM;SG	V
+emlék	記憶	emlék	記憶	N;NOM;SG	V
+énekel	sing	én	sing	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+claire	クレア	clai	クレア	N;NOM;SG	PROPN
+gonzález	ゴンサレス	gonzález	ゴンサレス		PROPN
+összefüggésben	context	összefüggés	context	N;IN+ESS;SG	PROPN
+igazságügyi	司法	igazságügyi	司法	ADJ;NOM;SG	N
+srí	sri	srí	sri		PROPN
+rejtélyes	ミステリー	rejtélyes	ミステリー		N
+gyári	工場	gyári	工場		N
+máramaros	マラムレシュ	máramaros	マラムレシュ	N;NOM;SG	PROPN
+béta	ベータ	béta	ベータ		N
+kegyetlen	残酷	kegyetlen	残酷		ADJ
+keith	キース	keith	キース		PROPN
+joachim	ヨアヒム	joachim	ヨアヒム		PROPN
+joachim	ヨアキム	joachim	ヨアキム		PROPN
+magnus	マグナス	magnus	マグナス		PROPN
+kenya	ケニア	kenya	ケニア	PROPN;NOM;SG	PROPN
+orléans	オルレアン	orléans	オルレアン		PROPN
+szabályozás	規制	szabályozás	規制	N;NOM;SG	V
+dante	ダンテ	dante	ダンテ		PROPN
+utasítás	指示	utasítás	指示	N;NOM;SG	V
+utasítás	命令	utasítás	命令	N;NOM;SG	V
+utasítás	指示	utasítás	指示	N;NOM;SG	V
+látogatók	ビジター	látogató	ビジター	ADJ;NOM;PL	N
+craig	クレイグ	craig	クレイグ		PROPN
+jules	ジュール	jules	ジュール	PROPN;NOM;SG	PROPN
+farka	しっぽ	farka	しっぽ	N;NOM;SG	PROPN
+metro	地下鉄	metro	地下鉄		N
+metro	メトロ	metro	メトロ		PROPN
+berger	ベルガー	berger	ベルガー	N;NOM;SG	PROPN
+sin	シン	sin	シン		N
+sin	sin	sin	sin		PROPN
+nacional	ナシオナル	nacional	ナシオナル		PROPN
+edinburgh	エディンバラ	edinburgh	エディンバラ	PROPN;NOM;SG	PROPN
+művelet	運行	művelet	運行	N;NOM;SG	V
+művelet	運営	művelet	運営	N;NOM;SG	V
+művelet	操作	művelet	操作	N;NOM;SG	V
+láma	ラーマ	lám	ラーマ		N
+láma	ラマ	lám	ラマ		PROPN
+láma	ラマ	lám	ラマ		PROPN
+augusztusban	アウグスト	augusztus	アウグスト	N;IN+ESS;SG	PROPN
+szia	バイ	szia	バイ	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+üzletember	ビジネスマン	üzletember	ビジネスマン		N
+legénység	クルー	legénység	クルー	N;NOM;SG	PROPN
+vadászat	ハント	vadászat	ハント	N;NOM;SG	PROPN
+vadászat	狩り	vadászat	狩る	N;NOM;SG	V
+vadászat	狩り	vadászat	狩る	N;NOM;SG	V
+luke	ルカ	leke	ルカ		PROPN
+lucius	ルシウス	lucius	ルシウス		PROPN
+lucius	ルキウス	lucius	ルキウス		PROPN
+kaland	冒険	kaland	冒険	N;NOM;SG	V
+kaland	冒険	kaland	冒険	N;NOM;SG	V
+adva	与え	adva	与える		V
+virgin	処女	virgin	処女		N
+virgin	ヴァージン	virgin	ヴァージン		PROPN
+jedi	ジェダイ	jedi	ジェダイ		PROPN
+silva	シルバ	silva	シルバ		PROPN
+erdőben	ウッズ	erdő	ウッズ	N;IN+ESS;SG	PROPN
+ingrid	イングリッド	ingrid	イングリッド		PROPN
+alpok	アルプス	alp	アルプス	N;NOM;SG	PROPN
+palace	宮殿	palace	宮殿		N
+holokauszt	ホロコースト	holokausz	ホロコースト	N;NOM;SG	PROPN
+fényt	軽い	fény	軽い	N;ACC;SG	ADJ
+fényt	明るい	fény	明るい	N;ACC;SG	ADJ
+kódex	コデックス	kódex	コデックス	N;NOM;SG	PROPN
+jogosult	ホルダー	jogosul	ホルダー	V;INDF;IND;SG;3;PST;FIN;ACT	N
+könnyedén	楽々	könnyed	楽々		N
+dec	dec	dec	dec	N;NOM;SG	PROPN
+háromszoros	トリプル	háromszoros	トリプル		N
+din	din	din	din		PROPN
+ősz	灰色	ősz	灰色		N
+ősz	グレイ	ősz	グレイ		PROPN
+ősz	グレー	ősz	グレー		N
+ősz	灰色	ősz	灰色		N
+ősz	グレイ	ősz	グレイ		PROPN
+ősz	グレー	ősz	グレー		N
+ősz	落ちる	ősz	落ちる		V
+ősz	落下	ősz	落下		V
+szerv	臓器	szerv	臓器		N
+szerv	オルガン	szerv	オルガン		N
+macedónia	マケドニア	macedónia	マケドニア		PROPN
+mondd	say	mondd	say	V;DEF;IMP;SG;1;PRS;FIN;ACT	PROPN
+mondd	セイ	mondd	セイ	V;DEF;IMP;SG;1;PRS;FIN;ACT	PROPN
+baker	ベーカー	baker	ベーカー		PROPN
+márvány	marble	márvány	marble	N;NOM;SG	PROPN
+szerény	謙虚	szerény	謙虚		ADJ
+ghána	ガーナ	ghána	ガーナ		PROPN
+phd	phd	phd	phd	N;NOM;SG	PROPN
+kérdéseket	質問	kérdés	質問	N;ACC;PL	V
+tan	タン	tan	タン		N
+szibériai	シベリア	szibériai	シベリア	ADJ;NOM;SG	PROPN
+szibériai	シベリア	szibériai	シベリア	ADJ;NOM;SG	PROPN
+nyomon	トラック	nyomon	トラック		N
+bemutatja	プレゼント	be+mutat	プレゼント	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+linda	linda	linda	linda		PROPN
+linda	リンダ	linda	リンダ		PROPN
+apollo	アポロ	apollo	アポロ		PROPN
+jorge	ホルヘ	jorge	ホルヘ		PROPN
+szakértő	エキスパート	szakértő	エキスパート		N
+philadelphia	フィラデルフィア	philadelphia	フィラデルフィア		PROPN
+philadelphia	フィラデルフィア	philadelphia	フィラデルフィア		PROPN
+sevilla	セビリア	sevilla	セビリア	N;NOM;SG	PROPN
+sevilla	セビージャ	sevilla	セビージャ	N;NOM;SG	PROPN
+azonosító	識別子	azonosító	識別子	ADJ;NOM;SG	N
+azonosító	同定	azonosító	同定	ADJ;NOM;SG	V
+azonosító	識別	azonosító	識別	ADJ;NOM;SG	V
+lópez	ロペス	lópez	ロペス		PROPN
+marina	marina	marina	marina		PROPN
+marina	マリーナ	marina	マリーナ		N
+grúzia	グルジア	grúzia	グルジア		PROPN
+grúzia	ジョージア	grúzia	ジョージア		PROPN
+harvard	ハーバード	harvard	ハーバード	N;NOM;SG	PROPN
+lírai	lyrical	lírai	lyrical	N;NOM;SG	PROPN
+délnyugat	南西	délnyug	南西		N
+vénusz	ウェヌス	vénusz	ウェヌス	N;NOM;SG	PROPN
+vénusz	ヴィーナス	vénusz	ヴィーナス	N;NOM;SG	PROPN
+intercom	インターホン	intercom	インターホン	N;NOM;SG	PROPN
+missouri	ミズーリ	missouri	ミズーリ		PROPN
+ponton	愛妻	pont	愛妻	N;ON+ESS;SG	PROPN
+colin	コリン	colin	コリン		PROPN
+engedélyezett	ライセンス	engedélyezett	ライセンス	V;INDF;IND;SG;3;PST;FIN;ACT	N
+antoine	アントワーヌ	antoi	アントワーヌ		PROPN
+krími	クリミア	krími	クリミア		PROPN
+gazda	農家	gazda	農家		N
+bűn	sin	bűn	sin	N;NOM;SG	PROPN
+after	アフター	after	アフター		PROPN
+kárt	損傷	kár	損傷	N;ACC;SG	V
+bejárat	入学	bejárat	入学	N;NOM;SG	V
+bejárat	入り	bejárat	入る	N;NOM;SG	V
+isaac	アイザック	isaac	アイザック		PROPN
+isaac	イサク	isaac	イサク		PROPN
+bátor	ブレイブ	bátor	ブレイブ		PROPN
+bátor	勇者	bátor	勇者		N
+bátor	勇敢	bátor	勇敢		ADJ
+bátor	太字	bátor	太字		N
+bátor	ボールド	bátor	ボールド		PROPN
+joan	ジョーン	joan	ジョーン		PROPN
+newcastle	ニューカッスル	newcastle	ニューカッスル	N;NOM;SG	PROPN
+malajzia	マレーシア	malajzia	マレーシア		PROPN
+malajzia	マレーシア	malajzia	マレーシア		PROPN
+giorgio	ジョルジョ	giorgio	ジョルジョ		PROPN
+vesztett	ロスト	veszt	ロスト	V;INDF;IND;SG;3;PST;FIN;ACT	N
+szünet	休憩	szünet	休憩	N;NOM;SG	V
+szünet	区切り	szünet	区切り	N;NOM;SG	V
+szünet	休憩	szünet	休憩	N;NOM;SG	V
+szünet	休止	szünet	休止	N;NOM;SG	V
+bináris	バイナリ	bináris	バイナリ	N;NOM;SG	PROPN
+szempontok	考察	szempont	考察	N;NOM;PL	V
+szöul	ソウル	szöul	ソウル	N;NOM;SG	PROPN
+jupiter	ジュピター	jupiter	ジュピター		PROPN
+jupiter	木星	jupiter	木星		N
+csoda	ミラクル	csoda	ミラクル		PROPN
+csoda	奇跡	csoda	奇跡		N
+csoda	ワンダー	csoda	ワンダー		PROPN
+hordozó	キャリア	hordozó	キャリア	ADJ;NOM;SG	N
+hordozó	基質	hordozó	基質	ADJ;NOM;SG	N
+rendezés	和解	rendezés	和解	N;NOM;SG	V
+rendezés	sort	rendezés	sort	N;NOM;SG	PROPN
+rendezés	ソート	rendezés	ソート	N;NOM;SG	V
+rendezés	ソート	rendezés	ソート	N;NOM;SG	V
+marokkó	モロッコ	marokkó	モロッコ		PROPN
+kerekes	ホイール	kerekes	ホイール		N
+kerekes	車輪	kerekes	車輪		N
+margaret	マーガレット	margaret	マーガレット		PROPN
+strauss	シュトラウス	strauss	シュトラウス		PROPN
+ernest	アーネスト	ernes	アーネスト		PROPN
+automata	自動	automata	自動		N
+automata	オート	automata	オート		PROPN
+automata	自動	automata	自動		N
+automata	オートマチック	automata	オートマチック		N
+amszterdam	アムステルダム	amszterdam	アムステルダム	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+england	イギリス	england	イギリス		PROPN
+változtatás	変更	változtatás	変更	N;NOM;SG	V
+változtatás	変更	változtatás	変更	N;NOM;SG	V
+változtatás	変化	változtatás	変化	N;NOM;SG	V
+orr	オア	orr	オア	N;NOM;SG	PROPN
+greg	グレッグ	greg	グレッグ		PROPN
+nehézségek	困難	nehézség	困難	N;NOM;PL	ADJ
+nehézségek	困難	nehézség	困難	N;NOM;PL	ADJ
+kamerun	カメルーン	kamerun	カメルーン	PROPN;NOM;SG	PROPN
+virágzó	栄え	virágzó	栄える		V
+virágzó	開花	virágzó	開花		V
+virágzó	開花	virágzó	開花		V
+xml	xml	xml	xml	N;NOM;SG	PROPN
+eszterházy	エステルハージ	eszterházy	エステルハージ		PROPN
+akarod	欲しい	akarod	欲しい	V;DEF;IND;SG;1;PRS;FIN;ACT	ADJ
+vesztes	敗者	vesztes	敗者		N
+vesztes	敗者	vesztes	敗者		N
+tokyo	東京	tokyo	東京		PROPN
+értelmezése	解釈	értelmezés	解釈	N;NOM;SG	V
+értelmezése	通訳	értelmezés	通訳	N;NOM;SG	V
+értelmezése	通訳	értelmezés	通訳	N;NOM;SG	V
+viking	バイキング	viking	バイキング		N
+pakisztán	パキスタン	pakiszta	パキスタン	N;NOM;SG	PROPN
+pakisztán	パキスタン	pakiszta	パキスタン	N;NOM;SG	PROPN
+dub	dub	dub	dub		PROPN
+dub	ダブ	dub	ダブ		N
+bölcs	英明	bölcs	英明		PROPN
+express	エクスプレス	express	エクスプレス		N
+express	急行	express	急行		N
+tata	タタ	tata	タタ		PROPN
+találat	ヒット	találat	ヒット	N;NOM;SG	V
+találat	hit	találat	hit	N;NOM;SG	PROPN
+találat	ヒット	találat	ヒット	N;NOM;SG	V
+találat	一致	találat	一致	N;NOM;SG	V
+memória	記憶	memória	記憶	N;NOM;SG	V
+april	四月	ap	四月		N
+april	エイプリル	ap	エイプリル		PROPN
+zeppelin	ツェッペリン	zeppelin	ツェッペリン	N;NOM;SG	PROPN
+nyilvánosan	公衆	nyilvános	公衆	ADJ;FRML;SG	N
+nyilvánosan	公開	nyilvános	公開	ADJ;FRML;SG	V
+nyilvánosan	パブリック	nyilvános	パブリック	ADJ;FRML;SG	N
+jelentkező	申請者	jelentkező	申請者		N
+eladási	販売	eladási	販売	ADJ;NOM;SG	V
+állás	位置	állás	位置	N;NOM;SG	V
+bmw	bmw	bmw	bmw	PROPN;NOM;SG	PROPN
+sara	sara	sara	sara	V;DEF;IND;SG;3;PRS;FIN;ACT	PROPN
+aston	アストン	ast	アストン		PROPN
+log	ログ	log	ログ		N
+log	log	log	log		PROPN
+sel	sel	sel	sel		PROPN
+balkáni	バルカン	balkáni	バルカン		PROPN
+catherine	キャサリン	catherine	キャサリン	N;NOM;SG	PROPN
+sziklás	ロッキー	sziklás	ロッキー		PROPN
+novemberben	十一月	november	十一月	N;IN+ESS;SG	PROPN
+pápua	パプア	pápua	パプア		PROPN
+usd	usd	usd	usd	N;NOM;SG	PART
+gilbert	ギルバート	gilber	ギルバート		PROPN
+enterprise	エンター	enterprise	エンター	N;NOM;SG	PROPN
+nürnberg	ニュルンベルク	nürnberg	ニュルンベルク	N;NOM;SG	PROPN
+nürnberg	ニュルンベルク	nürnberg	ニュルンベルク	N;NOM;SG	PROPN
+mama	mama	mama	mama		PROPN
+viselkedés	行動	viselkedés	行動	N;NOM;SG	V
+viselkedés	行動	viselkedés	行動	N;NOM;SG	V
+őrült	気狂い	őrült	気狂い		N
+őrült	狂気	őrült	狂気		N
+őrült	クレイジー	őrült	クレイジー		N
+őrült	マッド	őrült	マッド		PROPN
+őrült	mad	őrült	mad		PROPN
+előnyben	好み	előny	好む	N;IN+ESS;SG	V
+klaus	クラウス	klaus	クラウス		PROPN
+honduras	ホンジュラス	honduras	ホンジュラス		PROPN
+kuba	キューバ	kuba	キューバ	PROPN;NOM;SG	PROPN
+carmen	カルメン	carmen	カルメン		PROPN
+boszniai	ボスニア	boszniai	ボスニア	ADJ;NOM;SG	PROPN
+vfl	vfl	vfl	vfl	N;NOM;SG	PROPN
+tompa	鈍い	tompa	鈍く		ADJ
+gamma	ガンマ	gamma	ガンマ		PROPN
+silver	シルバー	silver	シルバー		N
+provence	プロヴァンス	provence	プロヴァンス		PROPN
+megnevezés	説明	megnevezés	説明	N;NOM;SG	V
+megnevezés	解説	megnevezés	解説	N;NOM;SG	V
+megnevezés	指定	megnevezés	指定	N;NOM;SG	V
+bázis	base	bázis	base	N;NOM;SG	PROPN
+discovery	ディスカバリー	discovery	ディスカバリー	N;NOM;SG	PROPN
+discovery	発見	discovery	発見	N;NOM;SG	V
+előfordulása	発生	előfordulás	発生	N;NOM;SG	V
+wall	ウォール	wall	ウォール		N
+szélsőséges	エクストリーム	szélsőséges	エクストリーム	ADJ;NOM;SG	PROPN
+műanyag	合成樹	műanyag	合成樹	N;NOM;SG	PROPN
+uganda	ウガンダ	uganda	ウガンダ	PROPN;NOM;SG	PROPN
+vak	ブラインド	vak	ブラインド		N
+vak	盲人	vak	盲人		N
+hajnal	明け	hajnal	明ける		V
+hajnal	夜明け	hajnal	夜明け		N
+hajnal	ドーン	hajnal	ドーン		PROPN
+hajnal	トワイライト	hajnal	トワイライト		PROPN
+hajnal	た	hajnal	た		V
+beszámoló	アカウント	beszámoló	アカウント	ADJ;NOM;SG	N
+beszámoló	レポート	beszámoló	レポート	ADJ;NOM;SG	N
+beszámoló	報告	beszámoló	報告	ADJ;NOM;SG	V
+hugh	ヒュー	hugh	ヒュー		PROPN
+felfedező	探検	felfedező	探検	N;NOM;SG	V
+cook	コック	cook	コック		N
+cook	クック	cook	クック		PROPN
+hello	こんにち	héll	こんにち		N
+hello	ハロー	héll	ハロー		PROPN
+muhammad	ムハンマド	muhammad	ムハンマド		PROPN
+ronald	ロナルド	ronald	ロナルド		PROPN
+piroska	赤い	piroska	赤い		ADJ
+piroska	赤色	piroska	赤色		N
+piroska	レッド	piroska	レッド		N
+michigan	ミシガン	michigan	ミシガン		PROPN
+beethoven	ベートーヴェン	beethov	ベートーヴェン		PROPN
+bordeaux	ボルドー	bordeaux	ボルドー		PROPN
+hoffmann	ホフマン	hoffmann	ホフマン		PROPN
+turner	ターナー	turner	ターナー		PROPN
+tucat	ダース	tucat	ダース		PROPN
+tervezési	デザイン	tervezési	デザイン	ADJ;NOM;SG	N
+tervezési	設計	tervezési	設計	ADJ;NOM;SG	V
+tervezési	意匠	tervezési	意匠	ADJ;NOM;SG	N
+londonba	ロンドン	london	ロンドン		PROPN
+frederick	フレデリック	frederick	フレデリック		PROPN
+frederick	フリードリヒ	frederick	フリードリヒ		PROPN
+ham	ハム	ham	ハム		PROPN
+dell	デル	dell	デル	PROPN;NOM;SG	PROPN
+dell	dell	dell	dell	PROPN;NOM;SG	PROPN
+ramszesz	ラムセス	ramszesz	ラムセス		PROPN
+változtatások	変更	változtatás	変更	N;NOM;PL	V
+pekingi	北京市	pekingi	北京市		PROPN
+pekingi	北京	pekingi	北京		PROPN
+pekingi	北京	pekingi	北京		PROPN
+étel	料理	étel	料理	N;NOM;SG	V
+tower	タワー	tower	タワー		N
+porta	ポルタ	por	ポルタ		PROPN
+irány	見出し	irány	見出し	N;NOM;SG	V
+laza	ルース	laza	ルース	ADJ;NOM;SG	PROPN
+laza	カジュアル	laza	カジュアル	ADJ;NOM;SG	N
+kísérő	エスコート	kísérő	エスコート	ADJ;NOM;SG	V
+kísérő	護送	kísérő	護送	ADJ;NOM;SG	V
+collins	コリンズ	collins	コリンズ		PROPN
+üzembe	嘱託	üzem	嘱託		N
+piramis	ピラミッド	piramis	ピラミッド		N
+sportoló	ジョック	sportoló	ジョック	N;NOM;SG	PROPN
+eloszlás	分布	eloszlás	分布	N;NOM;SG	V
+eloszlás	流通	eloszlás	流通	N;NOM;SG	V
+tragédia	悲惨	tragédia	悲惨	N;NOM;SG	ADJ
+castle	キャッスル	castle	キャッスル		N
+owen	オーウェン	owen	オーウェン		PROPN
+owen	オーエン	owen	オーエン		PROPN
+bárány	子羊	bárány	子羊		N
+bárány	ラム	bárány	ラム		N
+bárány	ヒツジ	bárány	ヒツジ		N
+pennsylvania	ペンシルバニア	pennsylvania	ペンシルバニア	V;SG;3;NFIN;ACT	PROPN
+mississippi	ミシシッピ	mississippi	ミシシッピ		PROPN
+ralph	ラルフ	ralph	ラルフ		PROPN
+cameron	キャメロン	camer	キャメロン		PROPN
+luca	ルカ	luca	ルカ		PROPN
+toulouse	トゥールーズ	toulous	トゥールーズ		PROPN
+egyebek	他の	egyéb	他の		ADJ
+egyebek	その	egyéb	その		DET
+mitchell	ミッチェル	mitchell	ミッチェル		PROPN
+leonard	レナード	leonard	レナード		PROPN
+verona	ヴェローナ	verona	ヴェローナ		PROPN
+atp	atp	atp	atp	N;NOM;PL	PROPN
+kazah	カザフスタン	kazah	カザフスタン		PROPN
+kazah	カザフ	kazah	カザフ		PROPN
+távú	用語	távú	用語		N
+felhasználható	exp	felhasználható	exp	ADJ;NOM;SG	PROPN
+angelo	アンジェロ	angelo	アンジェロ		PROPN
+gottfried	ゴット	gottfried	ゴット		PROPN
+miami	マイアミ	miami	マイアミ		PROPN
+funkció	フィーチャー	funkció	フィーチャー	N;NOM;SG	V
+közgyűlés	組み立て	közgyűlés	組み立てる	N;NOM;SG	V
+tajvan	中華民国	tajvan	中華民国	N;NOM;SG	PROPN
+tajvan	台湾	tajvan	台湾	N;NOM;SG	PROPN
+szálloda	ホテル	szálloda	ホテル	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+névtelen	無名	névtelen	無名		ADJ
+névtelen	アノニマス	névtelen	アノニマス		PROPN
+névtelen	匿名	névtelen	匿名		N
+tanácsot	助言	tanács	助言	N;ACC;SG	V
+tanácsot	アドバイス	tanács	アドバイス	N;ACC;SG	V
+tanácsot	助言	tanács	助言	N;ACC;SG	V
+használat	使い	használat	使う	N;NOM;SG	V
+használat	使用	használat	使用	N;NOM;SG	V
+birmingham	バーミンガム	birmingham	バーミンガム	N;NOM;SG	PROPN
+lipcsei	ライプツィヒ	lipcsei	ライプツィヒ		PROPN
+áldozatot	犠牲	áldozat	犠牲	N;ACC;SG	V
+fertőzés	感染	fertőzés	感染	N;NOM;SG	V
+jurij	uri	jurij	uri		PROPN
+jurij	ゆり	jurij	ゆり		PROPN
+jurij	ユーリ	jurij	ユーリ		PROPN
+angola	アンゴラ	angola	アンゴラ	PROPN;NOM;SG	PROPN
+elképzelés	概念	elképzelés	概念		N
+elképzelés	コンセプト	elképzelés	コンセプト		N
+elképzelés	アイデア	elképzelés	アイデア		N
+elképzelés	観念	elképzelés	観念		N
+elképzelés	アイディア	elképzelés	アイディア		N
+elképzelés	ヴィジョン	elképzelés	ヴィジョン		N
+elképzelés	ビジョン	elképzelés	ビジョン		N
+elképzelés	vision	elképzelés	vision		PROPN
+bowl	ボウル	bowl	ボウル		PROPN
+megengedett	許容	megengedett	許容	V;INDF;IND;SG;3;PST;FIN;ACT	
+edgar	エドガー	edgar	エドガー		PROPN
+vulkán	バルカン	vulkán	バルカン	N;NOM;SG	PROPN
+keringő	ワルツ	keringő	ワルツ	ADJ;NOM;SG	N
+ahmed	アーメド	ahmed	アーメド	PROPN;NOM;SG	PROPN
+ahmed	アフマド	ahmed	アフマド	PROPN;NOM;SG	PROPN
+goethe	ゲーテ	goethe	ゲーテ		PROPN
+wallace	ウォレス	wallace	ウォレス		PROPN
+lang	lang	lang	lang		PROPN
+lang	ラング	lang	ラング		PROPN
+zárva	閉店	zárva	閉店	ADV;V.CVB	V
+full	いっぱい	full	いっぱい		N
+full	フル	full	フル		N
+zappa	ザッパ	zappa	ザッパ	N;NOM;SG	PROPN
+algéria	アルジェリア	algéria	アルジェリア		PROPN
+algéria	アルジェリア	algéria	アルジェリア		PROPN
+farok	しっぽ	far	しっぽ	N;NOM;SG	PROPN
+farok	ディック	far	ディック	N;NOM;SG	PROPN
+portré	縦長	portré	縦長	N;NOM;SG	ADJ
+aaron	アロン	aaron	アロン		PROPN
+aaron	アーロン	aaron	アーロン		PROPN
+homokos	サンディ	homokos	サンディ	N;NOM;SG	PROPN
+helen	エレーヌ	hél	エレーヌ	N;NOM;SG	PROPN
+helen	ヘレン	hél	ヘレン	N;NOM;SG	PROPN
+tenor	テナー	tenor	テナー	N;NOM;SG	PROPN
+gyűlés	組み立て	gyűlés	組み立てる	N;NOM;SG	V
+graz	グラーツ	graz	グラーツ	PROPN;NOM;SG	PROPN
+kráter	クレーター	kráter	クレーター	N;NOM;SG	PROPN
+levélben	letter	levél	letter	N;IN+ESS;SG	PROPN
+csehov	チェーホフ	csehov	チェーホフ	N;NOM;SG	PROPN
+letölthető	ダウンロード	letölthető	ダウンロード	ADJ;NOM;SG	V
+ibolya	スミレ	ibolya	スミレ		PROPN
+ibolya	ヴィオラ	ibolya	ヴィオラ		PROPN
+ibolya	ビオラ	ibolya	ビオラ		PROPN
+ibolya	バイオレット	ibolya	バイオレット		N
+kövek	ストーンズ	köv	ストーンズ	N;NOM;PL	PROPN
+kövek	ロックス	köv	ロックス	N;NOM;PL	PROPN
+wiener	ウィーナー	wiener	ウィーナー		PROPN
+havonta	毎月	havon	毎月		N
+havonta	月間	havon	月間		N
+havonta	月刊	havon	月刊		N
+határok	制限	határ	制限	N;NOM;PL	V
+homlokzat	façade	homlokzat	façade	N;NOM;SG	PROPN
+vadon	ワイルド	vad	ワイルド		PROPN
+vadon	野生	vad	野生		N
+kívánja	願い	kíván	願い	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+hunt	ハント	hunt	ハント		PROPN
+hunt	狩り	hunt	狩る		V
+élőben	生きる	élő	生きる	N;IN+ESS;SG	V
+nfl	nfl	nfl	nfl	N;NOM;SG	PROPN
+audi	アウディ	audi	アウディ	PROPN;NOM;SG	PROPN
+áprilisban	エイプリル	április	エイプリル	N;IN+ESS;SG	PROPN
+lóhere	クローバー	lóher	クローバー	N;NOM;SG	PROPN
+rapid	快速	rapid	快速		N
+kentucky	ケンタッキー	kentucky	ケンタッキー		PROPN
+demeter	デーメーテール	demeter	デーメーテール		PROPN
+ökológiai	生態学	ökológiai	生態学	ADJ;NOM;SG	N
+nuvola	nuvola	nuvola	nuvola		PROPN
+remény	ホープ	remény	ホープ	N;NOM;SG	PROPN
+remény	希望	remény	希望	N;NOM;SG	V
+adás	放送	adás	放送	N;NOM;SG	V
+adás	配信	adás	配信	N;NOM;SG	V
+adás	伝送	adás	伝送	N;NOM;SG	V
+hunter	狩人	hunter	狩人		N
+hunter	ハンター	hunter	ハンター		PROPN
+bin	bin	bin	bin		PROPN
+murphy	マーフィー	murphy	マーフィー		PROPN
+önként	任意	önkénik	任意		N
+ida	アイダ	ida	アイダ		PROPN
+ida	イダ	ida	イダ		PROPN
+horn	クラクション	hor	クラクション		N
+horn	ホルン	hor	ホルン		PROPN
+horn	ホーン	hor	ホーン		N
+összetétel	合成	összetétel	合成	N;NOM;SG	V
+összetétel	構成	összetétel	構成	N;NOM;SG	V
+releváns	関連	releváns	関連		V
+besorolás	評価	besorolás	評価	N;NOM;SG	V
+besorolás	分類	besorolás	分類	N;NOM;SG	V
+trinidad	トリニダード	trinidad	トリニダード	PROPN;NOM;SG	PROPN
+parancs	指揮	parancs	指揮	N;NOM;SG	V
+parancs	命令	parancs	命令	N;NOM;SG	V
+parancs	注文	parancs	注文	N;NOM;SG	V
+parancs	注文	parancs	注文	N;NOM;SG	V
+kenneth	ケネス	kenneth	ケネス		PROPN
+félelem	恐れ	félelem	恐れる	N;NOM;SG	V
+nba	nba	nb	nba	N;NOM;SG	PROPN
+mágikus	マジカル	mágikus	マジカル		PROPN
+kreatív	クリエイティブ	kreatív	クリエイティブ		N
+sugár	radius	sugár	radius	N;NOM;SG	PROPN
+hatásos	実効	hatásos	実効		N
+unix	unix	unix	unix	N;NOM;SG	PROPN
+vizek	ウォーターズ	víz	ウォーターズ	N;NOM;PL	PROPN
+erdészeti	林業	erdészeti	林業	ADJ;NOM;SG	N
+erdészeti	農林	erdészeti	農林	ADJ;NOM;SG	N
+konyha	料理	konyha	料理	N;NOM;SG	V
+nicholas	ニコラス	nicholas	ニコラス	N;NOM;SG	PROPN
+írással	執筆	írás	執筆	N;INS;SG	V
+írással	書き込み	írás	書き込み	N;INS;SG	V
+parasztok	百	paraszt	百	N;NOM;PL	NUM
+hajón	船舶	hajó	船舶		N
+ács	大工	ács	大工		N
+megadva	与え	megadva	与える	ADV;V.CVB	V
+megadva	特定	megadva	特定	ADV;V.CVB	
+megadva	指定	megadva	指定	ADV;V.CVB	V
+minősége	quality	minőség	quality	N;NOM;SG	PROPN
+systems	システム	systems	システム		N
+systems	システムズ	systems	システムズ		N
+garden	庭園	garden	庭園		N
+csatlakozó	継手	csatlakozó	継手	ADJ;NOM;SG	N
+viola	ヴィオラ	viola	ヴィオラ		PROPN
+viola	ビオラ	viola	ビオラ		PROPN
+javítása	改善	javítás	改善	N;NOM;SG	V
+javítása	向上	javítás	向上	N;NOM;SG	V
+javítása	改善	javítás	改善	N;NOM;SG	V
+javítása	改善	javítás	改善	N;NOM;SG	V
+phoenix	フェニックス	phoenix	フェニックス		PROPN
+ring	リング	ring	リング		N
+ring	指輪	ring	指輪		N
+kong	コング	kong	コング		PROPN
+ismertető	パンフレット	ismertető	パンフレット	ADJ;NOM;SG	N
+ismertető	小冊子	ismertető	小冊子	ADJ;NOM;SG	N
+blake	ブレイク	blake	ブレイク		V
+liège	リエージュ	lisz	リエージュ	PROPN;NOM;SG	PROPN
+visszatérés	カムバック	visszatérés	カムバック	N;NOM;SG	V
+visszatérés	return	visszatérés	return	N;NOM;SG	PROPN
+maja	マヤ	maja	マヤ		PROPN
+intelligens	知能	intelligens	知能		N
+intelligens	知的	intelligens	知的		ADJ
+intelligens	インテリジェント	intelligens	インテリジェント		N
+intelligens	賢い	intelligens	賢く		ADJ
+intelligens	スマート	intelligens	スマート		ADJ
+összehasonlítás	比較	összehasonlítás	比較		V
+leíró	ディスクリプタ	leíró	ディスクリプタ	N;NOM;SG	PROPN
+diana	ダイアナ	diana	ダイアナ		PROPN
+sánchez	サンチェス	sánc	サンチェス		PROPN
+angyalok	エンジェルス	angyal	エンジェルス	N;NOM;PL	PROPN
+angyalok	アベンジャーズ	angyal	アベンジャーズ	N;NOM;PL	PROPN
+lovak	ウマ	lovak	ウマ	N;NOM;PL	PROPN
+örményország	アルメニア	örményország	アルメニア	N;NOM;SG	PROPN
+cia	cia	cia	cia	PROPN;NOM;SG	PROPN
+rómeó	ロミオ	rómeó	ロミオ	N;NOM;SG	PROPN
+rómeó	ロメオ	rómeó	ロメオ	N;NOM;SG	PROPN
+evans	エヴァンス	evans	エヴァンス		PROPN
+evans	エヴァンズ	evans	エヴァンズ		PROPN
+evans	エバンス	evans	エバンス		PROPN
+üzlet	ディール	üzlet	ディール	N;NOM;SG	PROPN
+szardínia	イワシ	szardínia	イワシ		N
+szardínia	イワシ	szardínia	イワシ		N
+ragadozók	捕食	ragadozó	捕食	N;NOM;PL	V
+kellemetlen	気まずい	kellemetlen	気まずい		V
+kellemetlen	不快	kellemetlen	不快		ADJ
+tarn	タルヌ	tarn	タルヌ	PROPN;NOM;SG	PROPN
+guatemala	グアテマラ	guatemala	グアテマラ		PROPN
+gondolatok	考え	gondolat	考える	N;NOM;PL	V
+gondolatok	想い	gondolat	想う	N;NOM;PL	V
+zum	zum	zum	zum		PROPN
+belföldi	国内	belföldi	国内		N
+belföldi	先住	belföldi	先住		N
+ram	ram	ram	ram	N;NOM;SG	PROPN
+lex	lex	lex	lex		PROPN
+puccini	プッチーニ	puccini	プッチーニ	PROPN;NOM;SG	PROPN
+caroline	キャロライン	caroline	キャロライン		PROPN
+azerbajdzsán	アゼルバイジャン	azerbajdzsán	アゼルバイジャン	N;NOM;SG	PROPN
+rajzolta	ドリュー	rajzol	ドリュー	V;DEF;IND;SG;3;PST;FIN;ACT	PROPN
+con	con	con	con		PROPN
+látogató	ビジター	látogató	ビジター	ADJ;NOM;SG	N
+látogató	訪問	látogató	訪問	ADJ;NOM;SG	V
+látogató	ビジター	látogató	ビジター	ADJ;NOM;SG	N
+rugalmas	フレキシブル	rugalmas	フレキシブル		ADJ
+fennsík	高原	fennsík	高原	N;NOM;SG	PROPN
+egyforma	同	egyforma	同		ADJ
+megszerzett	後	megszerzett	後	V;INDF;IND;SG;3;PST;FIN;ACT	N
+hamlet	ハムレット	hamlet	ハムレット	N;NOM;SG	PROPN
+passzív	パッシブ	passzív	パッシブ		N
+tudatos	意識	tudatos	意識	ADJ;NOM;SG	V
+allan	アラン	allan	アラン	PROPN;NOM;SG	PROPN
+floyd	フロイド	floyd	フロイド	N;NOM;SG	PROPN
+nyerni	win	nyer	win	V;NFIN;ACT	PROPN
+cornelius	コルネリウス	cornelius	コルネリウス	N;NOM;SG	PROPN
+cornelius	コーネリアス	cornelius	コーネリアス	N;NOM;SG	PROPN
+koppenhága	コペンハーゲン	koppenhág	コペンハーゲン	N;NOM;SG	PROPN
+úttörő	パイオニア	úttörő	パイオニア		N
+gyógyító	ヒーラー	gyógyító	ヒーラー	ADJ;NOM;SG	N
+gyógyító	ヒーリング	gyógyító	ヒーリング	ADJ;NOM;SG	N
+merénylet	暗殺	merénylet	暗殺	N;NOM;SG	V
+ásatások	発掘	ásatás	発掘	N;NOM;PL	V
+tanzánia	タンザニア	tanzánia	タンザニア	N;NOM;SG	PROPN
+jelentést	報告	jelentés	報告	N;ACC;SG	V
+megközelítés	進入	megközelítés	進入	N;NOM;SG	V
+megközelítés	アプローチ	megközelítés	アプローチ	N;NOM;SG	V
+szomszéd	隣人	szomszéd	隣人		N
+szomszéd	隣人	szomszéd	隣人		N
+szomszéd	近所	szomszéd	近所		N
+vendégek	カスタマー	vendég	カスタマー	N;NOM;PL	PROPN
+vendégek	ゲスト	vendég	ゲスト	N;NOM;PL	PROPN
+bush	ブッシュ	bush	ブッシュ		PROPN
+spencer	スペンサー	spencer	スペンサー		PROPN
+masters	マスターズ	masters	マスターズ		N
+janet	ジャネット	janet	ジャネット		PROPN
+fra	フラ	fra	フラ		PROPN
+négyzet	正方	négyzet	正方		N
+négyzet	四角	négyzet	四角		PROPN
+négyzet	広場	négyzet	広場		N
+hull	船体	hull	船体	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+hull	ハル	hull	ハル	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+felvételi	求人	felvételi	求人	ADJ;NOM;SG	N
+felvételi	入場	felvételi	入場	ADJ;NOM;SG	V
+felvételi	入学	felvételi	入学	ADJ;NOM;SG	V
+felvételi	入園	felvételi	入園	ADJ;NOM;SG	N
+alessandro	アレッサンドロ	alessand	アレッサンドロ		PROPN
+vse	vse	vse	vse	N;NOM;SG	PROPN
+square	正方	sóuar	正方		N
+square	四角	sóuar	四角		PROPN
+square	広場	sóuar	広場		N
+pol	ポル	pol	ポル		PROPN
+emeletes	寝台	emeletes	寝台		N
+pokol	ヘル	pokol	ヘル		PROPN
+pokol	地獄	pokol	地獄		N
+pokol	インフェルノ	pokol	インフェルノ		PROPN
+termelési	製作	termelési	製作	ADJ;NOM;SG	V
+termelési	生産	termelési	生産	ADJ;NOM;SG	V
+termelési	プロダクション	termelési	プロダクション	ADJ;NOM;SG	N
+ward	ウォード	ward	ウォード		PROPN
+garfield	ガーフィールド	garfield	ガーフィールド		PROPN
+járni	ウォーク	jár	ウォーク	V;NFIN;ACT	N
+járni	歩行	jár	歩行	V;NFIN;ACT	N
+járni	徒歩	jár	徒歩	V;NFIN;ACT	N
+julie	ジュリー	julie	ジュリー		PROPN
+theodor	テオドール	theodor	テオドール		PROPN
+nemzedék	ジェネレーション	nemzedék	ジェネレーション	N;NOM;SG	PROPN
+gloria	グロリア	gloria	グロリア		PROPN
+vinci	ヴィンチ	vinci	ヴィンチ		PROPN
+itf	itf	itf	itf		PROPN
+meghatározni	define	meg+határoz	define	V;NFIN;ACT	PROPN
+hart	ハート	hart	ハート	PROPN;NOM;SG	N
+tapasztalatok	体験	tapasztalat	体験	N;NOM;PL	V
+tapasztalatok	経験	tapasztalat	経験	N;NOM;PL	V
+fernández	フェルナンデス	fernández	フェルナンデス		PROPN
+cpu	cpu	cpu	cpu	N;NOM;SG	PROPN
+hajós	船頭	hajós	船頭		N
+hajós	船員	hajós	船員		N
+hajós	ボート	hajós	ボート		N
+megegyező	同	megegyező	同		ADJ
+amazon	amazon	amaz	amazon		PROPN
+amazon	アマゾン	amaz	アマゾン		PROPN
+néma	サイレント	néma	サイレント		N
+néma	無音	néma	無音		N
+néma	ミュート	néma	ミュート		N
+monica	モニカ	monica	モニカ		PROPN
+fájdalom	疼痛	fájdalom	疼痛	N;NOM;SG	
+fájdalom	ペイン	fájdalom	ペイン	N;NOM;SG	PROPN
+leszállás	着陸	leszállás	着陸	N;NOM;SG	V
+leszállás	上陸	leszállás	上陸	N;NOM;SG	V
+foglaló	預金	foglaló	預金		N
+foglaló	デポジット	foglaló	デポジット		N
+sergio	セルジオ	sergio	セルジオ		PROPN
+szikla	クリフ	szikla	クリフ	N;NOM;SG	PROPN
+menekülő	逃走	menekülő	逃走		V
+mecset	モスク	mecset	モスク	N;NOM;SG	PROPN
+richter	リヒター	richter	リヒター		PROPN
+samsung	サムスン	samsung	サムスン	N;NOM;SG	PROPN
+samsung	samsung	samsung	samsung	N;NOM;SG	PROPN
+pascal	パスカル	pascal	パスカル		PROPN
+láthatatlan	未読	láthatatlan	未読	ADJ;NOM;SG	PROPN
+férj	ダンナ	férj	ダンナ	N;NOM;SG	PROPN
+férj	旦那	férj	旦那	N;NOM;SG	PROPN
+warren	ウォーレン	warren	ウォーレン		PROPN
+szuper	すごい	szuper	すごい		ADJ
+szuper	スーパー	szuper	スーパー		N
+bond	結合	bond	結合		N
+bond	ボンド	bond	ボンド		PROPN
+minőség	quality	minőség	quality	N;NOM;SG	PROPN
+nézet	表示	néz	表示	N;NOM;SG	V
+nézet	見る	néz	見る	N;NOM;SG	V
+nézet	ビュー	néz	ビュー	N;NOM;SG	PROPN
+szigeteket	諸島	sziget	諸島	N;ACC;PL	PROPN
+racionális	rational	racionális	rational	ADJ;NOM;SG	PROPN
+kevesen	少数	kevés	少数	ADV	N
+megnyitás	開く	megnyitás	開く	N;NOM;SG	V
+massa	マッサ	massa	マッサ	PROPN;NOM;SG	PROPN
+nov	nov	nov	nov	N;NOM;SG	PROPN
+koch	コッホ	koch	コッホ		PROPN
+törekvés	追跡	törekvés	追跡	N;NOM;SG	V
+törekvés	追求	törekvés	追求	N;NOM;SG	V
+unit	単位	únit	単位		N
+unit	ユニット	únit	ユニット		N
+cbs	cbs	cbs	cbs	N;NOM;SG	PROPN
+justin	ジャスティン	justin	ジャスティン	N;NOM;SG	PROPN
+esp	esp	esp	esp		PROPN
+kent	ケント	ken	ケント		PROPN
+cole	コール	cole	コール		N
+alekszej	アレクセイ	alekszik	アレクセイ		PROPN
+meyer	マイヤー	meyer	マイヤー		PROPN
+meyer	メイヤー	meyer	メイヤー		PROPN
+kérés	請求	kérés	請求	N;NOM;SG	V
+narancs	orange	narancs	orange	N;NOM;SG	PROPN
+guadalajara	グアダラハラ	guadalaj	グアダラハラ	N;NOM;SG	PROPN
+örökre	フォーエバー	örök	フォーエバー		N
+kognitív	認知	kognitív	認知	N;NOM;SG	V
+szabálytalan	不定期	szabálytalan	不定期		ADJ
+szabálytalan	不規則	szabálytalan	不規則		ADJ
+irányítás	コントロール	irányítás	コントロール	N;NOM;SG	V
+irányítás	経営	irányítás	経営	N;NOM;SG	V
+irányítás	管理	irányítás	管理	N;NOM;SG	V
+irányítás	ガバナンス	irányítás	ガバナンス	N;NOM;SG	PROPN
+zaragoza	サラゴサ	zaragoza	サラゴサ	N;NOM;SG	PROPN
+kígyó	サーペント	kígyó	サーペント	N;NOM;SG	PROPN
+trevor	トレヴァー	trevor	トレヴァー	N;NOM;SG	PROPN
+trevor	トレバー	trevor	トレバー	N;NOM;SG	PROPN
+remete	隠逸	remete	隠逸		PROPN
+remete	隠者	remete	隠者		N
+építő	builder	építő	builder	ADJ;NOM;SG	PROPN
+luc	リュック	luc	リュック		N
+kevert	ミックス	kevert	ミックス		N
+kevert	混合	kevert	混合		N
+tengerészeti	海事	tengerészeti	海事	ADJ;NOM;SG	N
+gyalog	フィート	gyalog	フィート		N
+gyalog	ウォーキング	gyalog	ウォーキング		N
+gyalog	歩行	gyalog	歩行		N
+gyalog	歩く	gyalog	歩く		V
+gyalog	歩き	gyalog	歩く		V
+gyalog	ウォーク	gyalog	ウォーク		N
+gyalog	歩行	gyalog	歩行		N
+gyalog	歩く	gyalog	歩く		V
+gyalog	徒歩	gyalog	徒歩		N
+churchill	チャーチル	churchill	チャーチル		PROPN
+szörnyű	ひどい	szörnyű	ひどい		ADJ
+szörnyű	恐ろしい	szörnyű	恐ろしい		ADJ
+magyarázatot	説明	magyarázat	説明	N;ACC;SG	V
+magyarázatot	解説	magyarázat	解説	N;ACC;SG	V
+magyarázatot	解説	magyarázat	解説	N;ACC;SG	V
+classic	クラシック	classic	クラシック		N
+classic	古典	classic	古典		N
+classic	classic	classic	classic		PROPN
+wood	木材	wood	木材		N
+wood	木製	wood	木製		N
+wood	ウッド	wood	ウッド		N
+mátrix	マトリックス	mátrix	マトリックス	N;NOM;SG	PROPN
+global	global	global	global		PROPN
+global	グローバル	global	グローバル		ADJ
+fenyő	マツ	fenyő	マツ		N
+fenyő	マツ	fenyő	マツ		N
+fenyő	パイン	fenyő	パイン		N
+weiss	ヴァイス	weiss	ヴァイス		PROPN
+felette	上	felet	上	PRO;NOM;SG;3	N
+felette	上記	felet	上記	PRO;NOM;SG;3	N
+austin	オースチン	austin	オースチン		PROPN
+indítás	ブート	indítás	ブート	N;NOM;SG	V
+indítás	打ち上げ	indítás	打ち上げる	N;NOM;SG	V
+indítás	起動	indítás	起動	N;NOM;SG	V
+kilátás	表示	kilátás	表示	N;NOM;SG	V
+kilátás	見る	kilátás	見る	N;NOM;SG	V
+kilátás	ビュー	kilátás	ビュー	N;NOM;SG	PROPN
+sophie	ソフィー	sophie	ソフィー		PROPN
+etióp	エチオピア	etióp	エチオピア		PROPN
+barnabás	バルナバ	barnabás	バルナバ	N;NOM;SG	PROPN
+schneider	シュナイダー	schneider	シュナイダー	N;NOM;SG	PROPN
+élve	アライブ	élve	アライブ		N
+borbély	理容師	borbély	理容師		N
+borbély	床屋	borbély	床屋		N
+edwards	エドワーズ	edwards	エドワーズ		PROPN
+bella	ベラ	bella	ベラ		N
+tevékenységek	活動	tevékenység	活動	N;NOM;PL	V
+harcosok	ウォリアーズ	harcos	ウォリアーズ	N;NOM;PL	PROPN
+harcosok	ファイターズ	harcos	ファイターズ	N;NOM;PL	PROPN
+germain	ジェルマン	germain	ジェルマン	N;NOM;SG	PROPN
+láz	発熱	láz	発熱	N;NOM;SG	V
+nitrogén	窒素	nitrogén	窒素	N;NOM;SG	
+növekedés	増加	növekedés	増加	N;NOM;SG	V
+növekedés	増額	növekedés	増額	N;NOM;SG	V
+növekedés	増やす	növekedés	増やす	N;NOM;SG	V
+növekedés	成長	növekedés	成長	N;NOM;SG	V
+növekedés	発育	növekedés	発育	N;NOM;SG	V
+tanulás	勉強	tanulás	勉強	N;NOM;SG	V
+tanulás	勉強	tanulás	勉強	N;NOM;SG	V
+tanulás	学習	tanulás	学習	N;NOM;SG	V
+flash	flash	flash	flash		PROPN
+flash	フラッシュ	flash	フラッシュ		N
+computer	コンピューター	computer	コンピューター		N
+computer	コンピュータ	computer	コンピュータ		N
+toszkána	トスカーナ	toszkána	トスカーナ	N;NOM;SG	PROPN
+moto	モト	moto	モト		PROPN
+una	ウナ	una	ウナ		PROPN
+okos	賢い	okos	賢く		ADJ
+okos	賢い	okos	賢く		ADJ
+okos	スマート	okos	スマート		ADJ
+lane	レーン	lane	レーン		N
+lane	車線	lane	車線		N
+divízió	ディビジョン	divízió	ディビジョン	N;NOM;SG	PROPN
+atlas	アトラス	atlas	アトラス		PROPN
+kalózok	パイレーツ	kalóz	パイレーツ	N;NOM;PL	PROPN
+brad	ブラッド	brad	ブラッド	PROPN;NOM;SG	PROPN
+fehéroroszország	ベラルーシ	fehéroroszország	ベラルーシ	N;NOM;SG	PROPN
+fehéroroszország	ベラルーシ	fehéroroszország	ベラルーシ	N;NOM;SG	PROPN
+versailles	ヴェルサイユ	versailles	ヴェルサイユ		PROPN
+sainte	サント	sainte	サント		PROPN
+tények	事実	tény	事実	N;NOM;PL	ADV
+ger	ger	ger	ger		PROPN
+bass	バス	bass	バス		PROPN
+bass	ベース	bass	ベース		N
+sekély	浅い	sekély	浅い		ADJ
+sekély	浅瀬	sekély	浅瀬		N
+kulcs	key	kulcs	key	N;NOM;SG	PROPN
+ajánlatot	申し出	ajánlat	申し出る	N;ACC;SG	V
+újonc	ニュービー	újonc	ニュービー		PROPN
+újonc	初心	újonc	初心		N
+újonc	リクルート	újonc	リクルート		PROPN
+újonc	ルーキー	újonc	ルーキー		N
+hannover	ハノーファー	hannover	ハノーファー		PROPN
+lmbt	lgbt	lmb	lgbt		PROPN
+jövőbeli	フューチャー	jövőbeli	フューチャー	ADJ;NOM;SG	N
+jövőbeli	未来	jövőbeli	未来	ADJ;NOM;SG	N
+jövőbeli	将来	jövőbeli	将来	ADJ;NOM;SG	
+kezeli	ハンドル	kezeli	ハンドル	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+chuck	チャック	chuck	チャック		N
+planet	惑星	planet	惑星		N
+megközelítőleg	おおよそ	megközelítőleg	おおよそ	ADJ;FRML;SG	
+megközelítőleg	おおよそ	megközelítőleg	おおよそ	ADJ;FRML;SG	
+hong	ホン	hong	ホン		PROPN
+miles	マイル	miles	マイル		N
+szárnyak	ウイングス	szárny	ウイングス	N;NOM;PL	PROPN
+műveletek	操作	művelet	操作	N;NOM;PL	V
+szenátus	元老院	szenátus	元老院	N;NOM;SG	PROPN
+arányos	比例	arányos	比例	ADJ;NOM;SG	N
+humanista	humanist	humanista	humanist		PROPN
+nancy	ナンシー	nancy	ナンシー		PROPN
+anita	アニタ	anita	アニタ	PROPN;NOM;SG	PROPN
+házas	既婚	házas	既婚		N
+tirol	チロル	tirol	チロル	PROPN;NOM;SG	PROPN
+extrém	エクストリーム	extrém	エクストリーム		PROPN
+aug	aug	aug	aug	N;NOM;SG	PROPN
+terra	テラ	terra	テラ		N
+sawyer	ソーヤー	sawyer	ソーヤー	PROPN;NOM;SG	PROPN
+vladimir	ウラジーミル	vladimir	ウラジーミル		PROPN
+atom	アトミック	atom	アトミック	N;NOM;SG	PROPN
+menő	クール	menő	クール		N
+menő	涼しい	menő	涼しい		ADJ
+janus	ヤヌス	janus	ヤヌス		PROPN
+októberi	十月	októberi	十月	ADJ;NOM;SG	N
+többségi	過半数	többségi	過半数	ADJ;NOM;SG	N
+spears	スピアーズ	spears	スピアーズ	N;NOM;SG	PROPN
+indulás	出発	indulás	出発	N;NOM;SG	V
+kenny	ケニー	kenny	ケニー		PROPN
+műholdas	サテライト	műholdas	サテライト		PROPN
+műholdas	衛星	műholdas	衛星		N
+model	モデル	model	モデル		N
+elisabeth	エリザベート	elisabeth	エリザベート		PROPN
+specifikus	特定	specifikus	特定	ADJ;NOM;SG	
+rachel	レイチェル	rachel	レイチェル	N;NOM;SG	PROPN
+viselkedése	行動	viselkedés	行動	N;NOM;SG	V
+montréal	モントリオール	montr	モントリオール	N;NOM;SG	PROPN
+holló	クロウ	holló	クロウ	N;NOM;SG	PROPN
+holló	レイヴン	holló	レイヴン	N;NOM;SG	PROPN
+anti	アンチ	anti	アンチ		PROPN
+hírességek	セレブリティ	híresség	セレブリティ	N;NOM;PL	PROPN
+hetente	ウィークリー	hetenik	ウィークリー	N;NOM;SG	PROPN
+köd	星雲	köd	星雲	N;NOM;SG	PROPN
+edge	エッジ	edge	エッジ		N
+edge	edge	edge	edge		PROPN
+jam	ジャム	jam	ジャム		N
+creek	クリーク	cr	クリーク		PROPN
+ajánlom	おすすめ	ajánlom	おすすめ	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+figyelmeztetés	警報	figyelmeztetés	警報	N;NOM;SG	V
+figyelmeztetés	警告	figyelmeztetés	警告	N;NOM;SG	V
+figyelmeztetés	警告	figyelmeztetés	警告	N;NOM;SG	V
+narancssárga	orange	narancssárga	orange		PROPN
+narancssárga	オレンジ	narancssárga	オレンジ		N
+scooby	scooby	scooby	scooby		PROPN
+lent	以下	lesz	以下		N
+lent	階下	lesz	階下		N
+boldogság	ハピネス	boldogság	ハピネス	N;NOM;SG	PROPN
+boldogság	幸せ	boldogság	幸せ	N;NOM;SG	ADJ
+boldogság	幸せ	boldogság	幸せ	N;NOM;SG	ADJ
+julian	ジュリアン	julian	ジュリアン		PROPN
+trombita	トランペット	trombita	トランペット		N
+pan	パン	pan	パン		N
+péntek	金曜日	pén	金曜日		N
+péntek	フライデー	pén	フライデー		PROPN
+moldova	モルドバ	moldova	モルドバ		PROPN
+bányászati	鉱業	bányászati	鉱業	ADJ;NOM;SG	N
+korrekt	正しい	korrekt	正しい		ADJ
+korrekt	フェア	korrekt	フェア		N
+annie	アニー	az	アニー	PROPN;NOM;SG	PROPN
+tölgy	オーク	tölgy	オーク	N;NOM;SG	PROPN
+létesítmény	設置	létesítmény	設置	N;NOM;SG	V
+létesítmény	設立	létesítmény	設立	N;NOM;SG	V
+megszállt	占領	megszállt	占領		V
+mialatt	while	mialatt	while	ADV	PROPN
+fix	フィックス	fix	フィックス		N
+fix	修正	fix	修正		V
+fix	固定	fix	固定		V
+fix	固定	fix	固定		V
+csók	キス	csók	キス	N;NOM;SG	V
+csók	キス	csók	キス	N;NOM;SG	V
+csók	キス	csók	キス	N;NOM;SG	V
+csók	kiss	csók	kiss	N;NOM;SG	PROPN
+derby	ダービー	derby	ダービー		PROPN
+evolúció	進化	evolúció	進化	N;NOM;SG	V
+evolúció	evolution	evolúció	evolution	N;NOM;SG	PROPN
+üzemeltető	オペレーター	üzemeltető	オペレーター	V;INDF;IND;SG;3;PST;FIN;ACT	N
+analízis	分析	analízis	分析	N;NOM;SG	V
+analízis	解析	analízis	解析	N;NOM;SG	V
+mongólia	モンゴル	mongólia	モンゴル		PROPN
+luna	ルナ	luna	ルナ		PROPN
+privát	非	priva	非		N
+privát	プライベート	priva	プライベート		N
+főnök	チーフ	főnök	チーフ	N;NOM;SG	PROPN
+harvey	ハービー	harvey	ハービー		PROPN
+harvey	ハーヴィー	harvey	ハーヴィー		PROPN
+harvey	ハーヴェイ	harvey	ハーヴェイ		PROPN
+jackie	ジャッキー	jacki	ジャッキー	N;NOM;SG	PROPN
+atlanta	アトランタ	atlan	アトランタ		PROPN
+claudius	クラウディウス	claudius	クラウディウス		PROPN
+csillagkapu	スターゲイト	csillagkapu	スターゲイト	N;NOM;SG	PROPN
+potenciális	ポテンシャル	potenciális	ポテンシャル		N
+lambert	ランバート	lamber	ランバート		PROPN
+szaxofon	サックス	szaxof	サックス	N;NOM;SG	PROPN
+reeder	reeder	reeder	reeder		PROPN
+centrum	centrum	centrum	centrum	N;NOM;SG	PROPN
+keserű	苦い	keserű	苦い		ADJ
+keserű	ビター	keserű	ビター		N
+broadway	ブロードウェイ	broadway	ブロードウェイ	N;NOM;SG	PROPN
+bomba	爆弾	bomba	爆弾		N
+pérez	ペレス	pérez	ペレス		PROPN
+ibc	ibc	ibc	ibc	N;NOM;PL	PROPN
+madagaszkár	マダガスカル	madagaszkár	マダガスカル	N;NOM;SG	PROPN
+gene	遺伝子	gene	遺伝子		N
+gene	ジーン	gene	ジーン		PROPN
+oslo	オスロ	oslo	オスロ	PROPN;NOM;SG	PROPN
+robbanás	爆発	robbanás	爆発	N;NOM;SG	V
+krakkó	クラクフ	krakkó	クラクフ	N;NOM;SG	PROPN
+krakkó	クラクフ	krakkó	クラクフ	N;NOM;SG	PROPN
+diploma	学位	diploma	学位	N;NOM;SG	V
+egyetértés	協定	egyetértés	協定		V
+egyetértés	合意	egyetértés	合意		V
+egyetértés	理解	egyetértés	理解		V
+egyetértés	合意	egyetértés	合意		V
+hetes	seven	hetes	seven	N;NOM;SG	PROPN
+hetes	セブン	hetes	セブン	N;NOM;SG	PROPN
+lucia	ルチア	lucia	ルチア		PROPN
+lucia	ルシア	lucia	ルシア		PROPN
+boszorkány	ウィッチ	boszorkány	ウィッチ	N;NOM;SG	PROPN
+ars	アルス	ars	アルス		PROPN
+pat	パット	pat	パット		PROPN
+propaganda	プロパガンダ	propaganda	プロパガンダ		N
+webber	ウェバー	webber	ウェバー	N;NOM;SG	PROPN
+santo	サント	santo	サント		PROPN
+tök	カボチャ	tök	カボチャ		N
+tök	パンプキン	tök	パンプキン		N
+tök	かぼちゃ	tök	かぼちゃ		N
+sheffield	シェフィールド	sheffield	シェフィールド	N;NOM;SG	PROPN
+joel	ジョエル	joel	ジョエル		PROPN
+ipa	ipa	ipa	ipa		PROPN
+gót	ゴス	gó	ゴス		PROPN
+végrehajtási	実装	végrehajtási	実装	ADJ;NOM;SG	V
+tengerentúli	海外	tengerentúli	海外	ADJ;NOM;SG	N
+düsseldorf	デュッセル	düsseldorf	デュッセル		PROPN
+düsseldorf	デュッセル	düsseldorf	デュッセル		PROPN
+spider	スパイダー	spider	スパイダー		N
+spider	クモ	spider	クモ		N
+interaktív	インタラクティブ	interaktív	インタラクティブ	N;NOM;SG	ADJ
+paramount	パラマウント	paramoun	パラマウント		PROPN
+hivatkozást	リンク	hivatkozás	リンク	N;ACC;SG	V
+kai	kai	kai	kai		PROPN
+kai	カイ	kai	カイ		PROPN
+kazahsztán	カザフスタン	kaza+hsz	カザフスタン		PROPN
+puy	ピュイ	puy	ピュイ		PROPN
+utazási	旅行	utazási	旅行	N;NOM;SG	V
+jamaica	ジャマイカ	jamaica	ジャマイカ		PROPN
+kopasz	ハゲ	kopasz	ハゲ		PROPN
+kaukázusi	コーカサス	kaukázusi	コーカサス	ADJ;NOM;SG	PROPN
+bokor	低木	bokor	低木		N
+bokor	ブッシュ	bokor	ブッシュ		PROPN
+bokor	低木	bokor	低木		N
+egységesen	一律	egységes	一律	ADJ;FRML;SG	N
+bónusz	ボーナス	bónusz	ボーナス		N
+mióta	以来	mióta	以来	ADV	N
+mióta	since	mióta	since	ADV	PROPN
+amy	エミー	amy	エミー	N;NOM;SG	PROPN
+alpha	alpha	alpha	alpha		PROPN
+alpha	アルファ	alpha	アルファ		N
+hughes	ヒューズ	hughes	ヒューズ		PROPN
+hopkins	ホプキンス	hopkins	ホプキンス		PROPN
+olivier	オリヴィエ	olivier	オリヴィエ		PROPN
+niger	ニジェール	niger	ニジェール		PROPN
+kizárólagos	独占	kizárólagos	独占	ADJ;NOM;SG	V
+dakota	ダコタ	dakota	ダコタ		PROPN
+koncepció	概念	koncepció	概念		N
+koncepció	コンセプト	koncepció	コンセプト		N
+jeanne	ジョーン	jelenik	ジョーン		PROPN
+jeanne	ジャンヌ	jelenik	ジャンヌ		PROPN
+előnyös	有益	előnyös	有益		ADJ
+törlése	削除	törlés	削除	N;NOM;SG	V
+alább	以下	alá	以下	ADV	N
+bsc	bsc	bsc	bsc		PROPN
+ávila	アビラ	ávila	アビラ		PROPN
+simpson	シンプソン	simpson	シンプソン		PROPN
+orange	orange	orang	orange		PROPN
+orange	オレンジ	orang	オレンジ		N
+számláló	カウンタ	számláló	カウンタ		N
+számláló	カウンター	számláló	カウンター		N
+elkerülése	避ける	elkerülés	避ける	N;NOM;SG	V
+elkerülése	否認	elkerülés	否認	N;NOM;SG	V
+konszenzus	合意	konszenzus	合意	N;NOM;SG	V
+michelle	ミシェル	michelle	ミシェル	N;NOM;SG	PROPN
+paula	ポーラ	paula	ポーラ		N
+gerhard	ゲルハルト	gerhard	ゲルハルト		PROPN
+kapcsolatai	つながり	kapcsolat	つながり	N;NOM;PL	V
+kapcsolatai	接続	kapcsolat	接続	N;NOM;PL	V
+nicaragua	ニカラグア	nicarag	ニカラグア	N;NOM;SG	PROPN
+castro	カストロ	castro	カストロ		PROPN
+mobile	モバイル	mobile	モバイル		PROPN
+glenn	グレン	glenn	グレン		PROPN
+stein	シュタイン	stein	シュタイン		PROPN
+gombák	き	gomba	来る	N;NOM;PL	V
+gombák	マッシュルーム	gomba	マッシュルーム	N;NOM;PL	PROPN
+armstrong	アームストロング	armstrong	アームストロング		PROPN
+aranyos	キュート	aranyos	キュート		ADJ
+aranyos	かわいい	aranyos	かわいい		ADJ
+aranyos	可愛い	aranyos	可愛い		ADJ
+palermo	パレルモ	palermo	パレルモ		PROPN
+csökkentése	減らす	csökkentés	減らす	N;NOM;SG	V
+auto	自動	auto	自動		N
+auto	オート	auto	オート		PROPN
+kitörés	アウトブレイク	kitörés	アウトブレイク	N;NOM;SG	PROPN
+kitörés	決壊	kitörés	決壊	N;NOM;SG	V
+apache	apache	apac	apache	N;NOM;SG	PROPN
+hudson	ハドソン	huds	ハドソン		PROPN
+perui	ペルー	perui	ペルー		PROPN
+perui	ペルー	perui	ペルー		PROPN
+recept	作り	recept	作る	N;NOM;SG	V
+megszüntetése	解雇	megszüntetés	解雇	N;NOM;SG	V
+kiadások	支出	kiadás	支出	N;NOM;PL	V
+kiadások	支出	kiadás	支出	N;NOM;PL	V
+hollywoodi	ハリウッド	hollywoodi	ハリウッド		PROPN
+nicole	ニコル	nicole	ニコル		PROPN
+nepál	ネパール	nepál	ネパール	PROPN;NOM;SG	PROPN
+professzionális	プロフェッショナル	professzionális	プロフェッショナル	ADJ;NOM;SG	N
+houston	ヒューストン	houst	ヒューストン		PROPN
+ulrich	ウルリッヒ	ulrich	ウルリッヒ		PROPN
+működés	運行	működés	運行	N;NOM;SG	V
+működés	運営	működés	運営	N;NOM;SG	V
+működés	操作	működés	操作	N;NOM;SG	V
+waters	ウォーターズ	waters	ウォーターズ		PROPN
+fbi	fbi	fbi	fbi	N;NOM;SG	PROPN
+későn	遅い	későn	遅い		ADJ
+cape	ケープ	cap	ケープ		PROPN
+kiadatlan	非	kiadatlan	非		N
+lili	ユリ	lili	ユリ		PROPN
+lili	リリー	lili	リリー		PROPN
+harald	ハーラル	harald	ハーラル		PROPN
+plus	プラス	plus	プラス		N
+érvénytelen	無効	érvénytelen	無効		ADJ
+kövér	脂肪	kövér	脂肪		N
+kínál	クーポン	kínál	クーポン	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+kínál	供物	kínál	供物	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+fejlesztések	改良	fejlesztés	改良	N;NOM;PL	V
+szimmetrikus	対称	szimmetrikus	対称	ADJ;NOM;SG	N
+holmes	ホームズ	holmes	ホームズ		PROPN
+kötés	バインディング	kötés	バインディング	N;NOM;SG	PROPN
+kötés	拘束	kötés	拘束	N;NOM;SG	V
+kötés	ボンド	kötés	ボンド	N;NOM;SG	PROPN
+mainz	マインツ	mainz	マインツ		PROPN
+varázsló	ウィザード	varázsló	ウィザード	N;NOM;SG	PROPN
+heinz	ハインツ	heinz	ハインツ		PROPN
+felmérés	調査	felmérés	調査	N;NOM;SG	V
+felmérés	調査	felmérés	調査	N;NOM;SG	V
+caf	caf	caf	caf	N;NOM;PL	PROPN
+gyanús	不審	gyanús	不審		ADJ
+felváltva	交互	felváltva	交互	ADV;V.CVB	ADJ
+csökkenő	降順	csökkenő	降順	ADJ;NOM;SG	N
+todd	トッド	todd	トッド		PROPN
+parma	パルマ	parma	パルマ		PROPN
+infrastruktúra	インフラストラクチャー	infrastruktúra	インフラストラクチャー	N;NOM;SG	
+seattle	シアトル	seattle	シアトル	N;NOM;SG	PROPN
+erotikus	エロ	erotikus	エロ	ADJ;NOM;SG	N
+homo	ホモ	homo	ホモ		N
+hibrid	ハイブリッド	hibrid	ハイブリッド		N
+robbie	ロビー	robbi	ロビー		N
+morris	モーリス	morris	モーリス		PROPN
+morris	モリス	morris	モリス		PROPN
+europa	エウロパ	europa	エウロパ		PROPN
+terhes	妊娠	terhes	妊娠		V
+mdf	mdf	mdf	mdf	PROPN;NOM;SG	PROPN
+tömör	コンパクト	tömör	コンパクト		ADJ
+tömör	固体	tömör	固体		N
+tömör	簡潔	tömör	簡潔		ADJ
+anhalt	アンハルト	anhal	アンハルト	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+kórházi	病院	kórházi	病院		N
+víztározó	貯水池	víztározó	貯水池	ADJ;NOM;SG	N
+roth	ロート	roth	ロート		N
+bennett	ベネット	bennett	ベネット		PROPN
+arizona	アリゾナ	arizona	アリゾナ		PROPN
+baseball	ベースボール	baseball	ベースボール		PROPN
+baseball	野球	baseball	野球		N
+egyezik	マッチ	egyezik	マッチ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+egyezik	マッチ	egyezik	マッチ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+bolond	愚か	bolond	愚か		ADJ
+bolond	フール	bolond	フール		PROPN
+bolond	愚か	bolond	愚か		ADJ
+tibet	チベット	tibet	チベット		PROPN
+őszintén	正直	őszintén	正直		CONJ
+toyota	豊田	toyota	豊田	N;NOM;SG	PROPN
+toyota	トヨタ	toyota	トヨタ	N;NOM;SG	PROPN
+halottak	デッド	halott	デッド	N;NOM;PL	PROPN
+kezelő	オペレーター	kezelő	オペレーター	ADJ;NOM;SG	N
+kezelő	店長	kezelő	店長	ADJ;NOM;SG	N
+kezelő	支配	kezelő	支配	ADJ;NOM;SG	N
+kezelő	マネージャー	kezelő	マネージャー	ADJ;NOM;SG	N
+kezelő	マネージャ	kezelő	マネージャ	ADJ;NOM;SG	N
+kezelő	ハンドラー	kezelő	ハンドラー	ADJ;NOM;SG	N
+kezelő	ハンドラ	kezelő	ハンドラ	ADJ;NOM;SG	PROPN
+vatikáni	バチカン	vatikáni	バチカン		PROPN
+porsche	ポルシェ	porsche	ポルシェ	N;NOM;SG	PROPN
+haiti	ハイチ	haiti	ハイチ	N;NOM;SG	PROPN
+haiti	ハイチ	haiti	ハイチ	N;NOM;SG	PROPN
+hírhedt	infamous	hír	infamous		PROPN
+tokiói	東京	tokiói	東京	ADJ;NOM;SG	PROPN
+ricardo	リカルド	ricardo	リカルド		PROPN
+mel	メル	mel	メル		PROPN
+alpesi	高山	alpesi	高山		PROPN
+törtek	分数	tört	分数	V;INDF;IND;PL;3;PST;FIN;ACT	N
+galamb	ピジョン	galamb	ピジョン		PROPN
+galamb	ハト	galamb	ハト		N
+szervező	主催	szervező	主催		V
+macskák	キャッツ	macska	キャッツ	N;NOM;PL	PROPN
+búcsú	別れ	búcsú	別れ	N;NOM;SG	V
+bástya	bastion	bástya	bastion	N;NOM;SG	PROPN
+platform	プラット	platform	プラット		PROPN
+platform	プラット	platform	プラット		PROPN
+platform	プラット	platform	プラット		PROPN
+rogers	ロジャース	rogers	ロジャース		PROPN
+jefferson	ジェファーソン	jeffers	ジェファーソン		PROPN
+meghívást	招待	meghívás	招待	N;ACC;SG	V
+meghívást	招聘	meghívás	招聘	N;ACC;SG	V
+meghívást	招待	meghívás	招待	N;ACC;SG	V
+vállalja	コミット	vállal	コミット	V;DEF;IND;SG;3;PRS;FIN;ACT	N
+glasgow	グラスゴー	glasgow	グラスゴー	N;NOM;SG	PROPN
+suriname	スリナム	suriname	スリナム	PROPN;NOM;SG	PROPN
+légió	レギオン	légió	レギオン	N;NOM;SG	PROPN
+bauer	バウアー	bauer	バウアー		PROPN
+muzulmán	イスラム	muzulom	イスラム		N
+muzulmán	ムスリム	muzulom	ムスリム		N
+fajták	品種	fajta	品種	N;NOM;PL	
+hivatkozásokat	参照	hivatkozás	参照	N;ACC;PL	V
+hivatkozásokat	リファレンス	hivatkozás	リファレンス	N;ACC;PL	PROPN
+montana	モンタナ	mont	モンタナ		PROPN
+biztonság	セーフ	biztonság	セーフ	N;NOM;SG	
+biztonság	安全	biztonság	安全	N;NOM;SG	ADJ
+biztonság	安全	biztonság	安全	N;NOM;SG	ADJ
+struktúra	構成	struktúra	構成	N;NOM;SG	V
+ismétlődő	重	ismétlődő	重	ADJ;NOM;SG	N
+ismétlődő	複製	ismétlődő	複製	ADJ;NOM;SG	V
+ismétlődő	繰り返し	ismétlődő	繰り返し	ADJ;NOM;SG	ADV
+bűnös	有罪	bűnös	有罪		V
+bűnös	guilty	bűnös	guilty		PROPN
+bűnös	罪人	bűnös	罪人		N
+elsődlegesen	主に	elsődlegesen	主に	ADJ;FRML;SG	ADV
+kiejtés	発音	kiejtés	発音		N
+váltakozó	交互	váltakozó	交互		ADJ
+váltakozó	交代	váltakozó	交代		V
+tedd	put	tedd	put	V;DEF;IMP;SG;2;PRS;FIN;ACT	PROPN
+puha	やわらかい	puha	やわらかい		ADJ
+puha	柔らかい	puha	柔らかい		ADJ
+puha	ソフト	puha	ソフト		ADJ
+zavaros	混乱	zavaros	混乱		V
+zavaros	ややこしい	zavaros	ややこしい		ADJ
+zavaros	紛らわしい	zavaros	紛らわしい		ADJ
+liechtenstein	リヒテン	liechtenstein	リヒテン	N;NOM;SG	PROPN
+jessica	ジェシカ	jessica	ジェシカ	N;NOM;SG	PROPN
+hubert	ヒューバート	huber	ヒューバート		PROPN
+rap	ラップ	rap	ラップ		N
+iowa	アイオワ	iowa	アイオワ		PROPN
+medina	マディーナ	medina	マディーナ		PROPN
+kölcsön	融資	kölcsön	融資	N;NOM;SG	V
+kölcsön	融資	kölcsön	融資	N;NOM;SG	V
+kölcsön	借用	kölcsön	借用	N;NOM;SG	V
+kölcsön	貸す	kölcsön	貸す	N;NOM;SG	V
+clarke	クラーク	clarke	クラーク		PROPN
+randy	ランディ	randy	ランディ		PROPN
+ferde	傾ける	ferde	傾ける		V
+ferde	傾き	ferde	傾く		V
+ontario	オンタリオ	ontario	オンタリオ	PROPN;NOM;SG	PROPN
+ünnepség	セレモニー	ünnepség	セレモニー	N;NOM;SG	PROPN
+kaliforniában	カリフォルニア	kalifornia	カリフォルニア	N;IN+ESS;SG	PROPN
+rossi	ロッシ	rossi	ロッシ		PROPN
+bis	ビス	bis	ビス		PROPN
+kibocsátott	発行	kibocsátott	発行	V;INDF;IND;SG;3;PST;FIN;ACT	N
+laboratóriumi	研究室	laboratóriumi	研究室	ADJ;NOM;SG	N
+berg	ベルク	berg	ベルク		PROPN
+albrecht	アルブレヒト	albrecht	アルブレヒト		PROPN
+gomba	き	gomba	来る	N;NOM;SG	V
+gomba	マッシュルーム	gomba	マッシュルーム	N;NOM;SG	PROPN
+gomba	マッシュルーム	gomba	マッシュルーム	N;NOM;SG	PROPN
+afganisztán	アフガニスタン	afganiszta	アフガニスタン	N;NOM;SG	PROPN
+steiner	シュタイナー	steiner	シュタイナー		PROPN
+világosabb	ライター	világos	ライター	ADJ;NOM;CMPR;SG	N
+visszafelé	後ろ	visszafelé	後ろ		N
+visszafelé	後方	visszafelé	後方		N
+cliff	クリフ	cliff	クリフ		PROPN
+memorial	追悼	memorial	追悼	N;NOM;SG	V
+nicola	ニコラ	nicola	ニコラ		PROPN
+martínez	マルティネス	martínez	マルティネス		PROPN
+antarktisz	南極大陸	antarktisz	南極大陸	N;NOM;SG	PROPN
+antarktisz	南極	antarktisz	南極	N;NOM;SG	PROPN
+beavatkozás	干渉	beavatkozás	干渉	N;NOM;SG	V
+karcsú	スリム	karcsú	スリム		N
+karcsú	スレンダー	karcsú	スレンダー		PROPN
+kétséges	疑念	kétséges	疑念	ADJ;NOM;SG	V
+kétséges	疑念	kétséges	疑念	ADJ;NOM;SG	V
+dobó	ピッチャー	dobó	ピッチャー		N
+dobó	投手	dobó	投手		N
+dobó	ピッチング	dobó	ピッチング		N
+dobó	ピッチャー	dobó	ピッチャー		N
+zte	zte	zte	zte	N;NOM;SG	PROPN
+pearl	真珠	pearl	真珠		N
+átdolgozott	改訂	átdolgozott	改訂		V
+álma	dream	álma	dream	N;NOM;SG	PROPN
+essen	エッセン	essen	エッセン	V;INDF;IMP;SG;3;PRS;FIN;ACT	PROPN
+találkozni	meet	találkozik	meet	V;NFIN;ACT	PROPN
+feldolgozó	プロセッサ	feldolgozó	プロセッサ	ADJ;NOM;SG	N
+elena	エレナ	elena	エレナ		PROPN
+par	パー	par	パー		N
+singer	シンガー	singer	シンガー		N
+lejárt	期限	lejárt	期限	V;INDF;IND;SG;3;PST;FIN;ACT	N
+zambia	ザンビア	zambia	ザンビア		PROPN
+leon	レオン	lesz	レオン		PROPN
+laosz	ラオス	laosz	ラオス	PROPN;NOM;SG	PROPN
+vezetni	ドライブ	vezet	ドライブ	V;NFIN;ACT	N
+rico	リコ	rico	リコ		PROPN
+haydn	ハイドン	haydn	ハイドン		PROPN
+felhasználás	使用	felhasználás	使用	N;NOM;SG	V
+felhasználás	消費	felhasználás	消費	N;NOM;SG	V
+korong	ディスク	korong	ディスク		N
+korong	パック	korong	パック		N
+korong	ディスク	korong	ディスク		N
+korong	円盤	korong	円盤		N
+elektronikai	エレクトロニクス	elektronikai	エレクトロニクス	ADJ;NOM;SG	N
+venezuelai	ベネズエラ	venezuelai	ベネズエラ	ADJ;NOM;SG	PROPN
+venezuelai	ベネズエラ	venezuelai	ベネズエラ	ADJ;NOM;SG	PROPN
+álláspont	位置	álláspont	位置	N;NOM;SG	V
+fenyegető	脅迫	fenyegető	脅迫		V
+házigazda	主催	házigazda	主催	N;NOM;SG	V
+harmadszor	番目	harmadszor	番目		N
+harmadszor	サード	harmadszor	サード		PROPN
+federico	フェデリコ	federico	フェデリコ		PROPN
+növelése	増加	növelés	増加	N;NOM;SG	V
+növelése	増額	növelés	増額	N;NOM;SG	V
+növelése	増やす	növelés	増やす	N;NOM;SG	V
+samantha	サマンサ	samant	サマンサ	N;NOM;SG	PROPN
+emily	エミリー	emily	エミリー		PROPN
+hbo	hbo	hbo	hbo	N;NOM;SG	PROPN
+szingapúr	シンガポール	szingapúr	シンガポール	N;NOM;SG	PROPN
+martina	マルティナ	martina	マルティナ		PROPN
+darwin	ダーウィン	darwin	ダーウィン		PROPN
+domenico	ドメニコ	domenico	ドメニコ		PROPN
+doug	ダグ	doug	ダグ		PROPN
+rosszindulatú	不適切	rosszindulatú	不適切	N;NOM;SG	ADJ
+elemzés	分析	elemzés	分析	N;NOM;SG	V
+elemzés	解析	elemzés	解析	N;NOM;SG	V
+veronika	ベロニカ	veronika	ベロニカ		PROPN
+nomád	遊牧民	nomád	遊牧民		N
+járvány	アウトブレイク	járvány	アウトブレイク	N;NOM;SG	PROPN
+járvány	ペスト	járvány	ペスト	N;NOM;SG	PROPN
+kötni	ニット	köt	ニット	V;NFIN;ACT	N
+kötni	編み物	köt	編み物	V;NFIN;ACT	N
+megfigyelő	オブザーバ	megfigyelő	オブザーバ	N;NOM;SG	PROPN
+vicces	面白い	vicces	面白い		ADJ
+hónapok	months	hónap	months	N;NOM;PL	PROPN
+laurent	ローラン	laurent	ローラン		PROPN
+válás	離婚	válás	離婚	N;NOM;SG	V
+chan	チャン	chan	チャン	PROPN;NOM;SG	PROPN
+másképpen	さもなけれ	másképpen	さもなけれ		V
+lánc	チェイン	lánc	チェイン		PROPN
+lánc	チェイン	lánc	チェイン		PROPN
+lánc	チェーン	lánc	チェーン		N
+illetékes	主務	illetékes	主務		N
+fortuna	フォルトゥーナ	fortuna	フォルトゥーナ		PROPN
+vega	ベガ	vega	ベガ		PROPN
+vega	ヴィーガニズム	vega	ヴィーガニズム		PROPN
+boris	ボリス	boris	ボリス		PROPN
+tűzoltó	消防隊員	tűzoltó	消防隊員	ADJ;NOM;SG	N
+spin	スピン	spin	スピン		N
+hasonlóképpen	同じく	hasonlóképpen	同じく		CONJ
+rajza	描画	rajza	描画	N;NOM;SG	V
+mónika	モニカ	mónika	モニカ	N;NOM;SG	PROPN
+logikus	論理	logikus	論理		N
+utasítások	指示	utasítás	指示	N;NOM;PL	V
+kertészeti	園芸	kertészeti	園芸		N
+kertészeti	ガーデニング	kertészeti	ガーデニング		N
+jürgen	ユルゲン	jürgen	ユルゲン		PROPN
+vád	訴追	vád	訴追		V
+vád	公訴	vád	公訴		V
+vád	検察官	vád	検察官		N
+vád	告発	vád	告発		V
+ellenálló	抵抗	ellenálló	抵抗		V
+ellenálló	レジスタンス	ellenálló	レジスタンス		PROPN
+lucy	ルーシー	lucy	ルーシー		PROPN
+dylan	ディラン	dylan	ディラン		PROPN
+derek	デレック	derek	デレック		PROPN
+derek	デレク	derek	デレク		PROPN
+suzuki	スズキ	suzuki	スズキ	N;NOM;SG	PROPN
+suzuki	鈴木	suzuki	鈴木	N;NOM;SG	PROPN
+camp	camp	camp	camp		PROPN
+camp	キャンプ	camp	キャンプ		N
+dublin	ダブリン	dublin	ダブリン	N;NOM;SG	PROPN
+kontinensen	大陸	kontinens	大陸	ADJ;FRML;SG	N
+eltávolítása	削除	eltávolítás	削除	N;NOM;SG	V
+eltávolítása	取り除く	eltávolítás	取り除く	N;NOM;SG	V
+eltávolítása	除去	eltávolítás	除去	N;NOM;SG	V
+eltávolítása	撤去	eltávolítás	撤去	N;NOM;SG	V
+nyíló	開花	nyíló	開花		V
+országszerte	全国	országszerte	全国	ADV	N
+kritikát	批評	kritika	批評	N;ACC;SG	V
+kritikát	批判	kritika	批判	N;ACC;SG	V
+kritikát	批評	kritika	批評	N;ACC;SG	V
+merőleges	垂直	merőleges	垂直		N
+kenyér	ブレッド	kenyér	ブレッド	N;NOM;SG	PROPN
+kinga	king	kinga	king		PROPN
+kinga	国王	kinga	国王		N
+kinga	キング	kinga	キング		N
+karen	カレン	kar	カレン		PROPN
+vista	vista	vista	vista		PROPN
+vista	ビスタ	vista	ビスタ		PROPN
+tulajdon	プロパティ	tulajdon	プロパティ		N
+tulajdon	財産	tulajdon	財産		N
+marokkói	モロッコ	marokkói	モロッコ	ADJ;NOM;SG	PROPN
+hódító	征服	hódító	征服		N
+amanda	アマンダ	amanda	アマンダ		PROPN
+cleveland	クリーブランド	cleveland	クリーブランド		PROPN
+folytatás	続行	folytatás	続行	N;NOM;SG	V
+folytatás	続き	folytatás	続く	N;NOM;SG	V
+folytatás	継続	folytatás	継続	N;NOM;SG	V
+folytatás	継続	folytatás	継続	N;NOM;SG	V
+folytatás	続行	folytatás	続行	N;NOM;SG	V
+folytatás	continue	folytatás	continue	N;NOM;SG	PROPN
+folytatás	続ける	folytatás	続ける	N;NOM;SG	V
+folytatás	続き	folytatás	続く	N;NOM;SG	V
+folytatás	継続	folytatás	継続	N;NOM;SG	V
+hittem	思考	hit	思考	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+fasiszta	ファシズム	fasiszta	ファシズム		N
+gregory	グレゴリー	gregory	グレゴリー		PROPN
+dominikai	ドミニカ	dominikai	ドミニカ		PROPN
+dominikai	ドミニカ	dominikai	ドミニカ		PROPN
+kocka	オタク	kocka	オタク		N
+kocka	立方体	kocka	立方体		N
+kocka	キューブ	kocka	キューブ		N
+kocka	オタク	kocka	オタク		N
+kocka	ダイス	kocka	ダイス		N
+kocka	サイコロ	kocka	サイコロ		N
+örülök	快感	örül	快感	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+örülök	快楽	örül	快楽	V;DEF;IND;SG;1;PRS;FIN;ACT	ADJ
+tárgyalás	交渉	tárgyalás	交渉	N;NOM;SG	V
+tárgyalás	裁判	tárgyalás	裁判	N;NOM;SG	V
+befejezetlen	未	befejezetlen	未		N
+befejezetlen	未	befejezetlen	未		N
+befejezetlen	未	befejezetlen	未		N
+detroit	デトロイト	detroit	デトロイト		PROPN
+intézkedések	措置	intézkedés	措置	N;NOM;PL	V
+konfliktusok	競合	konfliktus	競合	N;NOM;PL	V
+konfliktusok	対立	konfliktus	対立	N;NOM;PL	V
+eltérések	差異	eltérés	差異	N;NOM;PL	V
+eltérések	違い	eltérés	違う	N;NOM;PL	V
+springer	スプリンガー	springer	スプリンガー	N;NOM;SG	PROPN
+elismerés	認識	elismerés	認識	N;NOM;SG	V
+elismerés	認定	elismerés	認定	N;NOM;SG	V
+szabályozó	レギュレータ	szabályozó	レギュレータ	ADJ;NOM;SG	N
+vegas	vegas	vegas	vegas		PROPN
+vegas	ベガス	vegas	ベガス		PROPN
+everton	エバートン	evert	エバートン	N;NOM;SG	PROPN
+bekezdés	段落	bekezdés	段落		N
+bekezdés	段落	bekezdés	段落		N
+nyilas	サジタリウス	nyilas	サジタリウス		PROPN
+természetfeletti	超	természetfelett	超	ADJ;NOM;SG	N
+rocky	ロッキー	rocky	ロッキー		PROPN
+fan	ファン	fan	ファン		N
+css	css	css	css	N;NOM;SG	PROPN
+brescia	ブレーシャ	brescia	ブレーシャ		PROPN
+baltimore	ボルチモア	baltimore	ボルチモア	N;NOM;SG	PROPN
+tizenhét	seventeen	tizenh	seventeen		PROPN
+zavart	混同	zavart	混同		V
+zavart	混乱	zavart	混乱		V
+zavart	混乱	zavart	混乱		V
+jin	jin	jin	jin		PROPN
+jin	ジン	jin	ジン		PROPN
+jesse	ジェシー	jesse	ジェシー		PROPN
+vtk	vtk	vtk	vtk	N;NOM;SG	PROPN
+platón	プラトン	platón	プラトン		PROPN
+tőke	エクイティ	tőke	エクイティ	N;NOM;SG	PROPN
+tőke	キャピタル	tőke	キャピタル	N;NOM;SG	PROPN
+steel	スチール	steel	スチール		N
+steel	鋼鉄	steel	鋼鉄		N
+kanári	カナリア	kanári	カナリア		PROPN
+kanári	カナリア	kanári	カナリア		PROPN
+mason	メイソン	mason	メイソン		PROPN
+case	ケース	case	ケース		N
+edwin	エドウィン	edwin	エドウィン		PROPN
+méhek	ハチ	méhek	ハチ	N;NOM;PL	PROPN
+eklektikus	折衷	eklektikus	折衷	N;NOM;SG	ADJ
+viva	viva	viva	viva		PROPN
+viva	ビバ	viva	ビバ		PROPN
+termés	収穫	termés	収穫	N;NOM;SG	V
+termés	切り取る	termés	切り取る	N;NOM;SG	V
+termés	切り取り	termés	切り取り	N;NOM;SG	V
+fordulat	ひねり	fordulat	ひねり	N;NOM;SG	V
+találkozás	遭遇	találkozás	遭遇	N;NOM;SG	V
+találkozás	出会い	találkozás	出会う	N;NOM;SG	V
+számítástechnikai	コンピューティング	számítástechnikai	コンピューティング	ADJ;NOM;SG	N
+kiszolgáló	サーバ	kiszolgáló	サーバ		N
+kiszolgáló	サーバー	kiszolgáló	サーバー		N
+líbiai	リビア	líbiai	リビア	ADJ;NOM;SG	PROPN
+kecske	ヤギ	kecske	ヤギ		N
+kecske	ヤギ	kecske	ヤギ		N
+antwerpen	アントワープ	antperp	アントワープ	N;NOM;SG	PROPN
+napoli	ナポリ	napoli	ナポリ	N;NOM;SG	PROPN
+gondok	悩み	gond	悩む	N;NOM;PL	V
+mccartney	マッカートニー	mccartney	マッカートニー		PROPN
+foster	フォスター	foster	フォスター	PROPN;NOM;SG	PROPN
+enrique	エンリケ	enrió	エンリケ		PROPN
+dom	ドム	dom	ドム		PROPN
+dom	dom	dom	dom		PROPN
+duncan	ダンカン	duncan	ダンカン		PROPN
+guido	グイド	guido	グイド		PROPN
+fiat	フィアット	fiat	フィアット	N;NOM;SG	PROPN
+ügyes	賢い	ügyes	賢く		ADJ
+szegények	かわい	szegény	かわい	N;NOM;PL	ADJ
+berkeley	バークリー	berkeley	バークリー		PROPN
+email	メール	email	メール		N
+email	メール	email	メール		N
+megerősítve	肯定	megerősítve	肯定	ADV;V.CVB	V
+megerősítve	確認	megerősítve	確認	ADV;V.CVB	V
+térképek	地図	térkép	地図	N;NOM;PL	V
+zeusz	ゼウス	zeusz	ゼウス		N
+curtis	カーティス	curtis	カーティス		PROPN
+phillips	フィリップス	phillips	フィリップス		PROPN
+jelentések	報告	jelentés	報告	N;NOM;PL	V
+jelentések	報告	jelentés	報告	N;NOM;PL	V
+zászlók	フラグ	zászló	フラグ	N;NOM;PL	PROPN
+hangsúly	強調	hangsúly	強調	N;NOM;SG	V
+rajzolt	ドリュー	rajzolt	ドリュー	V;INDF;IND;SG;3;PST;FIN;ACT	PROPN
+elkészítése	準備	elkészítés	準備	N;NOM;SG	V
+elkészítése	調製	elkészítés	調製	N;NOM;SG	V
+elkészítése	仕込み	elkészítés	仕込み	N;NOM;SG	V
+elkészítése	調合	elkészítés	調合	N;NOM;SG	V
+főnix	フェニックス	főnix	フェニックス	N;NOM;SG	PROPN
+grey	灰色	grey	灰色		N
+grey	グレイ	grey	グレイ		PROPN
+grey	グレー	grey	グレー		N
+michelangelo	ミケランジェロ	michelangelo	ミケランジェロ		PROPN
+forever	フォーエバー	forever	フォーエバー		N
+értelmezés	解釈	értelmezés	解釈	N;NOM;SG	V
+értelmezés	通訳	értelmezés	通訳	N;NOM;SG	V
+protokoll	protocol	protokoll	protocol	N;NOM;SG	PROPN
+asztalos	大工	asztalos	大工		N
+mérési	測定	mérési	測定	ADJ;NOM;SG	V
+harag	怒り	harag	怒り	N;NOM;SG	V
+harag	レイジ	harag	レイジ	N;NOM;SG	PROPN
+morrison	モリソン	morrison	モリソン		PROPN
+jogszabály	法律	jogszabály	法律		N
+jogszabály	法学	jogszabály	法学		N
+jogszabály	立法	jogszabály	立法		N
+mérték	レート	mér	レート		N
+mérték	評価	mér	評価		V
+mérték	測定	mér	測定		V
+mérték	計測	mér	計測		V
+mérték	測定	mér	測定		V
+primitív	プリミティブ	primitív	プリミティブ		PROPN
+elvek	原則	elvek	原則	N;NOM;PL	V
+tengerpart	シーサイド	tengerpart	シーサイド	N;NOM;SG	PROPN
+tengerpart	ビーチ	tengerpart	ビーチ	N;NOM;SG	PROPN
+tengerpart	ビーチ	tengerpart	ビーチ	N;NOM;SG	PROPN
+villeneuve	ヴィルヌーヴ	villeneuv	ヴィルヌーヴ	N;NOM;SG	PROPN
+üresen	空っ	üres	空る	ADJ;FRML;SG	V
+üresen	空欄	üres	空欄	ADJ;FRML;SG	V
+üresen	ブランク	üres	ブランク	ADJ;FRML;SG	N
+izom	マッスル	izom	マッスル	N;NOM;SG	PROPN
+képzési	トレーニング	képzési	トレーニング	ADJ;NOM;SG	N
+képzési	講習	képzési	講習	ADJ;NOM;SG	N
+képzési	修行	képzési	修行	ADJ;NOM;SG	V
+képzési	訓練	képzési	訓練	ADJ;NOM;SG	V
+képzési	研修	képzési	研修	ADJ;NOM;SG	V
+ismételt	繰り返し	ismételt	繰り返し	V;INDF;IND;SG;3;PST;FIN;ACT	ADV
+veszett	狂犬	veszett	狂犬	V;INDF;IND;SG;3;PST;FIN;ACT	N
+líbia	リビア	líb	リビア	N;NOM;SG	PROPN
+líbia	リビア	líb	リビア	N;NOM;SG	PROPN
+hills	ヒルズ	hills	ヒルズ		PROPN
+gran	グラン	gran	グラン		PROPN
+zsoldos	傭兵	zsoldos	傭兵		N
+égő	バーナー	égő	バーナー		N
+égő	燃える	égő	燃える		V
+égő	バーニング	égő	バーニング		PROPN
+amsterdam	アムステルダム	amsterdam	アムステルダム	N;NOM;SG	PROPN
+nigel	ナイジェル	nigel	ナイジェル		PROPN
+választható	オプション	választható	オプション	ADJ;NOM;SG	N
+közvetett	間接	közvetett	間接	V;INDF;IND;SG;3;PST;FIN;ACT	N
+elme	mind	elem	mind	N;NOM;SG	PROPN
+büszke	誇らしい	büszke	誇らしい		ADJ
+büszke	自慢	büszke	自慢		N
+büszke	誇り	büszke	誇る		V
+mia	mia	mia	mia		PROPN
+mia	ミア	mia	ミア		PROPN
+orleans	オルレアン	orleans	オルレアン	N;NOM;SG	PROPN
+xxx	xxx	xxx	xxx	N;NOM;SG	PROPN
+kambodzsa	カンボジア	kambodzs	カンボジア		PROPN
+énekelni	sing	énekel	sing	V;NFIN;ACT	PROPN
+téglalap	四角形	téglalap	四角形		N
+téglalap	長方形	téglalap	長方形		N
+téglalap	長方形	téglalap	長方形		N
+líra	リラ	líra	リラ	N;NOM;SG	PROPN
+nagyok	大きい	nagy	大きい	N;NOM;PL	ADJ
+nagyok	大きな	nagy	大きな	N;NOM;PL	ADJ
+nagyok	大きい	nagy	大きい	N;NOM;PL	ADJ
+zimbabwe	ジンバブエ	zimbabwe	ジンバブエ		PROPN
+garcia	ガルシア	garcia	ガルシア		PROPN
+repül	fly	repül	fly	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+repül	ハエ	repül	ハエ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+repül	フライ	repül	フライ	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+repül	フライング	repül	フライング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+sullivan	サリバン	sullivan	サリバン		PROPN
+sullivan	サリヴァン	sullivan	サリヴァン		PROPN
+galaxy	銀河	galaxy	銀河		N
+galaxy	銀河	galaxy	銀河		N
+jung	ユング	jung	ユング		PROPN
+nyilatkozat	布告	nyilatkozat	布告	N;NOM;SG	V
+nyilatkozat	宣言	nyilatkozat	宣言	N;NOM;SG	V
+nyilatkozat	申告	nyilatkozat	申告	N;NOM;SG	V
+algériai	アルジェリア	algériai	アルジェリア	ADJ;NOM;SG	PROPN
+regina	レジーナ	regina	レジーナ		PROPN
+simone	シモーネ	simone	シモーネ		PROPN
+simone	シモーヌ	simone	シモーヌ		PROPN
+richards	リチャーズ	richards	リチャーズ		PROPN
+marion	マリオン	marion	マリオン		PROPN
+tizennyolc	十八	tizennyolc	十八		NUM
+tizennyolc	eighteen	tizennyolc	eighteen		PROPN
+lev	レフ	lev	レフ		PROPN
+helmut	ヘルムート	helmut	ヘルムート		PROPN
+említ	mentions	említ	mentions	V;DEF;IND;SG;3;PRS;FIN;ACT	PROPN
+nathan	ネイサン	nat	ネイサン		PROPN
+nero	nero	nero	nero		PROPN
+szabadalmi	特許	szabadalmi	特許	N;NOM;SG	V
+toledo	トレド	toledo	トレド		PROPN
+claudia	クラウディア	claudia	クラウディア	N;NOM;SG	PROPN
+bern	ベルン	bern	ベルン		PROPN
+mindeközben	その	mindeközben	その	ADV	DET
+mindeközben	一方	mindeközben	一方	ADV	CONJ
+braun	ブラウン	braun	ブラウン		N
+övezet	zone	övezet	zone	N;NOM;SG	PROPN
+megmenteni	セーブ	megment	セーブ	V;NFIN;ACT	N
+kivételek	免責	kivétel	免責	N;NOM;PL	
+rajongó	ファン	rajongó	ファン		N
+válaszokat	回答	válasz	回答	N;ACC;PL	V
+válaszokat	回答	válasz	回答	N;ACC;PL	V
+fogyasztása	消費	fogyasztás	消費	N;NOM;SG	V
+értékelés	評価	értékelés	評価	N;NOM;SG	V
+értékelés	査定	értékelés	査定	N;NOM;SG	V
+értékelés	評価	értékelés	評価	N;NOM;SG	V
+értékelés	査定	értékelés	査定	N;NOM;SG	V
+hódítás	征服	hódítás	征服	N;NOM;SG	V
+állatkert	zoo	állatker	zoo	N;NOM;SG	PROPN
+günther	ギュンター	günther	ギュンター		PROPN
+chase	チェイス	chase	チェイス		PROPN
+szenegál	セネガル	szenegál	セネガル		PROPN
+judo	柔道	judo	柔道		N
+duke	公爵	duke	公爵		N
+duke	デューク	duke	デューク		PROPN
+ellátás	供給	ellátás	供給	N;NOM;SG	V
+gedeon	ギデオン	gedeon	ギデオン		PROPN
+far	far	far	far		PROPN
+far	遠く	far	遠い		ADJ
+far	遠い	far	遠い		ADJ
+alabama	アラバマ	alabam	アラバマ		PROPN
+majom	サル	majom	サル	N;NOM;SG	PROPN
+kasztília	カスティーリャ	kasztília	カスティーリャ	N;NOM;SG	PROPN
+merész	太字	merész	太字		N
+merész	ボールド	merész	ボールド		PROPN
+merész	デアリング	merész	デアリング		PROPN
+josh	ジョシュ	josh	ジョシュ		PROPN
+dohány	タバコ	dohány	タバコ		N
+dohány	たば	dohány	たば		N
+nbc	nbc	nbc	nbc	N;NOM;SG	PROPN
+lemondását	辞任	lemondás	辞任	N;ACC;SG	V
+lemondását	辞職	lemondás	辞職	N;ACC;SG	V
+univerzális	ユニバーサル	univerzális	ユニバーサル		PROPN
+platina	プラチナ	platina	プラチナ		N
+platina	白金	platina	白金		N
+powell	パウエル	powell	パウエル		PROPN
+teher	負担	teher	負担	N;NOM;SG	V
+nyitó	開く	nyitó	開く		V
+nyitó	オープニング	nyitó	オープニング		N
+szerencse	フォーチュン	szerencse	フォーチュン		N
+szerencse	ラッキー	szerencse	ラッキー		PROPN
+vágás	裁断	vágás	裁断	N;NOM;SG	V
+vágás	切り取り	vágás	切り取り	N;NOM;SG	V
+vágás	cut	vágás	cut	N;NOM;SG	PROPN
+vágás	切り取り	vágás	切り取り	N;NOM;SG	V
+vágás	編集	vágás	編集	N;NOM;SG	V
+vágás	屠殺	vágás	屠殺	N;NOM;SG	
+vágás	切り傷	vágás	切り傷	N;NOM;SG	
+őrmester	sarge	őrmester	sarge	N;NOM;SG	PROPN
+qui	qui	qui	qui		PROPN
+tisztviselő	公式	tisztviselő	公式	N;NOM;SG	ADJ
+vancouver	バンクーバー	vancouver	バンクーバー	N;NOM;SG	PROPN
+konstantinápoly	コンスタンティノープル	konstantinápoly	コンスタンティノープル	N;NOM;SG	PROPN
+fogadó	ホスト	fogadó	ホスト		N
+fogadó	主催	fogadó	主催		V
+fogadó	宿屋	fogadó	宿屋		N
+fogadó	旅館	fogadó	旅館		N
+szándékos	故意	szándékos	故意		N
+szándékos	故意	szándékos	故意		N
+abdul	アブドゥル	azdul	アブドゥル		PROPN
+íze	味見	íze	味見	N;NOM;SG	V
+túlélő	サバイバー	túlélő	サバイバー	ADJ;NOM;SG	PROPN
+tengerparton	シーサイド	tengerpart	シーサイド	N;ON+ESS;SG	PROPN
+tengerparton	ビーチ	tengerpart	ビーチ	N;ON+ESS;SG	PROPN
+kristályos	crystal	kristályos	crystal	N;NOM;SG	PROPN
+xavier	ザビエル	xavier	ザビエル	PROPN;NOM;SG	PROPN
+csúnya	醜い	csúny	醜い		ADJ
+csúnya	みにくい	csúny	みにくい		PROPN
+viszonylagos	相対	viszonylagos	相対		N
+viszonylagos	親戚	viszonylagos	親戚		N
+oregon	オレゴン	oregon	オレゴン		PROPN
+sztár	star	sztár	star	N;NOM;SG	PROPN
+kevesebbet	少ない	kevesebb	少ない		ADJ
+silvio	シルヴィオ	silvio	シルヴィオ		PROPN
+egyensúly	均衡	egyensúly	均衡	N;NOM;SG	V
+xxii	xxii	xxii	xxii		PROPN
+orlando	オーランドー	orlando	オーランドー		PROPN
+orlando	オーランド	orlando	オーランド		PROPN
+orlando	オルランド	orlando	オルランド		PROPN
+june	六月	june	六月		N
+bernhard	ベルナルド	bernhard	ベルナルド		PROPN
+megegyezés	決済	megegyezés	決済		N
+megegyezés	和解	megegyezés	和解		V
+megegyezés	集落	megegyezés	集落		N
+megegyezés	協定	megegyezés	協定		V
+megegyezés	合意	megegyezés	合意		V
+megegyezés	配置	megegyezés	配置		V
+megegyezés	編曲	megegyezés	編曲		N
+összefüggés	context	összefüggés	context	N;NOM;SG	PROPN
+barcelonai	バルセロナ	barcelonai	バルセロナ	V;DEF;IND;PL;3;PRS;FIN;ACT	PROPN
+ital	飲む	ital	飲む	N;NOM;SG	V
+szemek	アイズ	szem	アイズ	N;NOM;PL	PROPN
+sovány	スキニー	sovány	スキニー		N
+sovány	薄い	sovány	薄い		ADJ
+sovány	細い	sovány	細い		ADJ
+olcsóbb	安上がり	olcsó	安上がり	ADJ;NOM;CMPR;SG	V
+szintetikus	合成	szintetikus	合成	N;NOM;SG	V
+kézikönyv	manual	kézikönyv	manual	N;NOM;SG	PROPN
+dio	ディオ	dio	ディオ		PROPN
+ügynökség	エージェンシー	ügynökség	エージェンシー	N;NOM;SG	PROPN
+átírni	リライト	átír	リライト	V;NFIN;ACT	N
+adler	アドラー	adler	アドラー		PROPN
+gmbh	gmbh	gmbh	gmbh	V;INDF;IND;SG;3;PRS;FIN;ACT	PROPN
+jet	ジェット	jet	ジェット		N
+jet	ジェット	jet	ジェット		N
+bika	ブル	bika	ブル	N;NOM;SG	PROPN
+mono	モノ	mono	モノ		N
+lars	ラース	lars	ラース		PROPN
+polo	ポロ	polo	ポロ		N
+tank	戦車	tank	戦車		N
+tank	タンク	tank	タンク		N
+érzés	気分	érzés	気分		N
+érzés	フィーリング	érzés	フィーリング		N
+pillanat	moment	pillan	moment	N;NOM;SG	PROPN
+ártatlan	無実	ártatlan	無実		ADJ
+nickelodeon	ニコロデオン	nickelodik	ニコロデオン	N;NOM;SG	PROPN
+vigyázz	時計	vigyázz	時計	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+vigyázz	腕時	vigyázz	腕時	V;DEF;IND;SG;1;PRS;FIN;ACT	N
+piquet	ピケ	piquet	ピケ	N;NOM;SG	PROPN
+tanul	ラーニング	tanul	ラーニング	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+tanul	学問	tanul	学問	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+ghz	ghz	ghz	ghz	N;NOM;SG	PROPN
+butler	バトラー	butler	バトラー		PROPN
+dale	デイル	dale	デイル	PROPN;NOM;SG	PROPN
+dale	デール	dale	デール	PROPN;NOM;SG	PROPN
+roosevelt	ルーズベルト	roosevelt	ルーズベルト		PROPN
+kézműves	職人	kézműves	職人	ADJ;NOM;SG	N
+kézműves	工芸	kézműves	工芸	ADJ;NOM;SG	N
+kézműves	クラフト	kézműves	クラフト	ADJ;NOM;SG	N
+kézműves	職人	kézműves	職人	ADJ;NOM;SG	N
+kézműves	工芸	kézműves	工芸	ADJ;NOM;SG	N
+michele	ミケーレ	michele	ミケーレ		PROPN
+mansell	マンセル	mansell	マンセル	N;NOM;SG	PROPN
+halvány	気絶	halvány	気絶		V
+halvány	青白い	halvány	青白い		ADJ
+halvány	ペール	halvány	ペール		N
+táplálék	料理	táplálék	料理	N;NOM;SG	V
+promóciós	プロモ	promóciós	プロモ	ADJ;NOM;SG	N
+promóciós	プロモーション	promóciós	プロモーション	ADJ;NOM;SG	N
+promóciós	宣伝	promóciós	宣伝	ADJ;NOM;SG	V
+promóciós	プロモーション	promóciós	プロモーション	ADJ;NOM;SG	N
+palmer	パーマー	palmer	パーマー	PROPN;NOM;SG	PROPN
+edzés	修行	edzés	修行	N;NOM;SG	V
+edzés	訓練	edzés	訓練	N;NOM;SG	V
+edzés	研修	edzés	研修	N;NOM;SG	V
+tmb	tmb	tmb	tmb		PROPN
+melinda	メリンダ	melinda	メリンダ	N;NOM;SG	PROPN
+win	win	win	win		PROPN
+win	勝利	win	勝利		V
+win	勝ち	win	勝つ		V
+win	勝つ	win	勝つ		V
+fellini	フェリーニ	fellini	フェリーニ		PROPN
+fokozatos	プログレッシブ	fokozatos	プログレッシブ	ADJ;NOM;SG	N
+angela	アンジェラ	angela	アンジェラ		PROPN
+öröm	joy	öröm	joy		PROPN
+öröm	ジョイ	öröm	ジョイ		PROPN
+öröm	喜び	öröm	喜び		V
+öröm	快感	öröm	快感		N
+öröm	喜び	öröm	喜び		V
+öröm	快楽	öröm	快楽		ADJ
+madridi	マドリッド	madridi	マドリッド		PROPN
+madridi	マドリード	madridi	マドリード		PROPN
+texasi	テキサス	texasi	テキサス		PROPN
+kozák	コサック	koza	コサック		PROPN
+reformok	改革	reform	改革	N;NOM;PL	V
+reformok	革新	reform	革新	N;NOM;PL	V
+reformok	改革	reform	改革	N;NOM;PL	V
+folt	しみ	folt	しみ	N;NOM;SG	V
+diamond	ダイヤモンド	diamond	ダイヤモンド		N
+diamond	ダイアモンド	diamond	ダイアモンド		N
+dízel	ディーゼル	dízel	ディーゼル	N;NOM;SG	PROPN
+audio	audio	audio	audio	N;NOM;SG	PROPN
+termelő	プロデューサー	termelő	プロデューサー		N
+életmód	生き	életmód	生きる	N;NOM;SG	V
+chapman	チャップマン	chapman	チャップマン		PROPN
+millennium	ミレニアム	millennium	ミレニアム		PROPN
+bosszú	復讐	bosszú	復讐	N;NOM;SG	V
+bosszú	報復	bosszú	報復	N;NOM;SG	V
+bosszú	復讐	bosszú	復讐	N;NOM;SG	V
+bosszú	リベンジ	bosszú	リベンジ	N;NOM;SG	PROPN
+tisztelet	尊敬	tisztelet	尊敬	N;NOM;SG	V
+tisztelet	尊重	tisztelet	尊重	N;NOM;SG	V
+tisztelet	敬	tisztelet	敬	N;NOM;SG	PROPN
+emírségek	エミレーツ	emírség	エミレーツ	N;NOM;PL	PROPN
+irma	イルマ	irma	イルマ	PROPN;NOM;SG	PROPN
+közvetítő	ブローカー	közvetítő	ブローカー	ADJ;NOM;SG	N
+miranda	ミランダ	miranda	ミランダ		PROPN
+fejes	ヘッダ	fejes	ヘッダ		PROPN
+fejes	ヘッダー	fejes	ヘッダー		N
+örökké	フォーエバー	örökké	フォーエバー		N
+kukorica	とうもろこし	kukorica	とうもろこし	N;NOM;SG	ADV
+szerelvény	組み立て	szerelvény	組み立てる	N;NOM;SG	V
+domain	ドメイン	domain	ドメイン		N
+helena	ヘレナ	helena	ヘレナ		PROPN
+nagykövet	アンバサダー	nagykövet	アンバサダー	N;NOM;SG	PROPN
+reakciók	反応	reakció	反応	N;NOM;PL	V
+sátán	サタン	sátán	サタン	N;NOM;SG	PROPN
+asztali	テーブル	asztali	テーブル		N
+káosz	カオス	káosz	カオス	N;NOM;SG	PROPN
+káosz	混沌	káosz	混沌	N;NOM;SG	
+állva	スタンディング	állva	スタンディング		N
+hajnalban	明け	hajnal	明ける	N;IN+ESS;SG	V
+hajnalban	ドーン	hajnal	ドーン	N;IN+ESS;SG	PROPN
+őszinte	本物	őszinte	本物		N
+őszinte	正真	őszinte	正真		CONJ
+őszinte	正直	őszinte	正直		CONJ
+meteor	隕石	meteor	隕石		N
+meteor	流星	meteor	流星		N
+meteor	メテオ	meteor	メテオ		N
+doki	doc	doki	doc	N;NOM;SG	PROPN
+doki	ドク	doki	ドク	N;NOM;SG	PROPN
+szertartás	セレモニー	szertartás	セレモニー	N;NOM;SG	PROPN
+alkalmanként	たま	alkalman	たま	N;ABS;SG	ADV
+menekülés	逃走	menekülés	逃走	N;NOM;SG	V
+menekülés	脱出	menekülés	脱出	N;NOM;SG	V
+suárez	スアレス	suárez	スアレス	N;NOM;SG	PROPN
+rev	rev	rev	rev		PROPN
+elvis	エルヴィス	elvis	エルヴィス		PROPN
+elvis	エルビス	elvis	エルビス		PROPN
+befolyás	影響	befolyás	影響	N;NOM;SG	V
+számol	カウント	számol	カウント	V;INDF;IND;SG;3;PRS;FIN;ACT	N
+trió	トリオ	trió	トリオ		PROPN
+javítás	修理	javítás	修理	N;NOM;SG	V
+javítás	修正	javítás	修正	N;NOM;SG	V
+javítás	補正	javítás	補正	N;NOM;SG	V
+javítás	訂正	javítás	訂正	N;NOM;SG	V
+javítás	修理	javítás	修理	N;NOM;SG	V
+feltételes	条件	feltételes	条件		N
+feltételes	仮	feltételes	仮		N
+ich	ich	ich	ich		PROPN
+fulham	フラム	fulham	フラム	N;NOM;SG	PROPN
+befolyással	影響	befolyás	影響	N;INS;SG	V
+lisszabon	リスボン	lisszú	リスボン	N;NOM;SG	PROPN
+teremtés	創造	teremtés	創造	N;NOM;SG	V
+teremtés	作成	teremtés	作成	N;NOM;SG	V
+mozilla	mozilla	mozilla	mozilla	N;NOM;SG	PROPN
+ronnie	ロニー	ronnie	ロニー		PROPN
+meta	メタ	meta	メタ		PROPN
+duó	デュオ	duó	デュオ		PROPN
+pet	pet	pet	pet		PROPN
+pet	ペット	pet	ペット		N

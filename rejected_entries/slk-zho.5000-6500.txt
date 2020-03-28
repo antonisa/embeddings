@@ -1,0 +1,1581 @@
+tag	標記	tag	標記		N
+tag	標籤	tag	標籤		N
+bella	貝拉	bella	貝拉	N;NOM;FEM;SG	PROPN
+ukážka	取樣	ukážka	取樣	N;NOM;FEM;SG	V
+ukážka	示	ukážka	示	N;NOM;FEM;SG	V
+ukážka	演示	ukážka	演示	N;NOM;FEM;SG	V
+ukážka	示威	ukážka	示威	N;NOM;FEM;SG	V
+hnedý	棕	hnedý	棕	ADJ;ANIM;NOM;MASC;SG	N
+hnedý	褐	hnedý	褐	ADJ;ANIM;NOM;MASC;SG	N
+hnedý	布朗	hnedý	布朗	ADJ;ANIM;NOM;MASC;SG	PROPN
+hnedý	brown	hnedý	brown	ADJ;ANIM;NOM;MASC;SG	
+hnedý	棕色	hnedý	棕色	ADJ;ANIM;NOM;MASC;SG	N
+stôl	表	stôl	表	N;INAN;NOM;MASC;SG	
+stôl	服務	stôl	服務	N;INAN;NOM;MASC;SG	V
+stôl	辦公	stôl	辦公	N;INAN;NOM;MASC;SG	V
+príspevkov	捐款	príspevok	捐款	N;INAN;GEN;MASC;PL	V
+príspevkov	繳款	príspevok	繳款	N;INAN;GEN;MASC;PL	V
+ring	響	ring	響	PROPN;ANIM;NOM;MASC;SG	V
+ring	環	ring	環	PROPN;ANIM;NOM;MASC;SG	N
+ring	戒指	ring	戒指	PROPN;ANIM;NOM;MASC;SG	N
+taiwan	台灣	taiwan	台灣	N;INAN;NOM;MASC;SG	PROPN
+taiwan	臺灣	taiwan	臺灣	N;INAN;NOM;MASC;SG	PROPN
+nacisti	納粹	nacista	納粹	N;ANIM;NOM;MASC;PL	PROPN
+nacisti	納粹	nacista	納粹	N;ANIM;NOM;MASC;PL	PROPN
+sfarbenie	染色	sfarbenie	染色	N;NOM;NEUT;SG	V
+sfarbenie	著色	sfarbenie	著色	N;NOM;NEUT;SG	V
+spravodlivosť	公正	spravodlivosť	公正	N;NOM;FEM;SG	ADJ
+spravodlivosť	公平	spravodlivosť	公平	N;NOM;FEM;SG	ADJ
+naživo	活	naživo	活	ADV	N
+naživo	直播	naživo	直播	ADV	V
+naživo	live	naživo	live	ADV	
+nájdený	找到	nájdený	找到	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+nájdený	發現	nájdený	發現	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+cpu	cpu	cp	cpu	N;INAN;NOM;MASC;SG	
+sprievodné	伴隨	sprievodný	伴隨	ADJ;NOM;NEUT;SG	V
+svätec	聖	svätec	聖	N;ANIM;NOM;MASC;SG	PROPN
+slobodná	單	slobodný	單	ADJ;NOM;FEM;SG	NUM
+slobodná	單人	slobodný	單人	ADJ;NOM;FEM;SG	N
+slobodná	單身	slobodný	單身	ADJ;NOM;FEM;SG	N
+slobodná	單	slobodný	單	ADJ;NOM;FEM;SG	NUM
+stoviek	hundred	stovka	hundred	N;GEN;FEM;PL	
+stoviek	百	stovka	百	N;GEN;FEM;PL	PROPN
+stoviek	成百	stovka	成百	N;GEN;FEM;PL	NUM
+stoviek	數百	stovka	數百	N;GEN;FEM;PL	NUM
+ein	ein	ein	ein	PROPN;ANIM;NOM;MASC;SG	
+alpách	阿爾卑斯	alpa	阿爾卑斯	N;GEN;FEM;PL	PROPN
+fish	魚類	fish	魚類	PROPN;ANIM;VOC;MASC;SG	N
+fish	魚	fish	魚	PROPN;ANIM;VOC;MASC;SG	N
+fish	魚兒	fish	魚兒	PROPN;ANIM;VOC;MASC;SG	N
+štandardné	違約	štandardný	違約	ADJ;NOM;NEUT;SG	N
+štandardné	預設	štandardný	預設	ADJ;NOM;NEUT;SG	V
+štandardné	違約	štandardný	違約	ADJ;NOM;NEUT;SG	N
+štandardné	預設	štandardný	預設	ADJ;NOM;NEUT;SG	V
+štandardné	標準	štandardný	標準	ADJ;NOM;NEUT;SG	N
+sobáš	結婚	sobáš	結婚	N;ANIM;NOM;MASC;SG	V
+temple	神廟	templo	神廟	PROPN;NOM;FEM;SG	N
+temple	寺	templo	寺	PROPN;NOM;FEM;SG	N
+temple	寺廟	templo	寺廟	PROPN;NOM;FEM;SG	N
+temple	廟	templo	廟	PROPN;NOM;FEM;SG	N
+temple	聖殿	templo	聖殿	PROPN;NOM;FEM;SG	N
+oslo	奧斯陸	oslo	奧斯陸	PROPN;ANIM;NOM;MASC;SG	PROPN
+užívateľov	使用	užívateľ	使用	N;ANIM;ACC;MASC;PL	V
+príjmy	收據	príjmy	收據	N;INAN;NOM;MASC;PL	V
+príjmy	收款	príjmy	收款	N;INAN;NOM;MASC;PL	V
+partner	合伙	partner	合伙	N;ANIM;NOM;MASC;SG	V
+dokončené	完成	dokončený	完成	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+závislé	依賴	závislý	依賴	ADJ;NOM;NEUT;SG	V
+ilustrátor	illustrator	ilustrátor	illustrator	N;ANIM;NOM;MASC;SG	
+zima	冷冷	zima	冷冷	N;NOM;FEM;SG	ADV
+zima	寒冷	zima	寒冷	N;NOM;FEM;SG	ADJ
+zima	冷	zima	冷	N;NOM;FEM;SG	
+zima	winter	zima	winter	N;NOM;FEM;SG	
+dennis	dennis	dennis	dennis	PROPN;ANIM;NOM;MASC;SG	
+java	爪哇	java	爪哇	N;INAN;NOM;MASC;SG	PROPN
+java	java	java	java	N;INAN;NOM;MASC;SG	
+mpeg	mpeg	mpeg	mpeg		
+nomináciu	提名	nominácia	提名	N;ACC;FEM;SG	V
+kresťania	基督	kresťanie	基督	N;ANIM;NOM;MASC;PL	PROPN
+kresťania	基督	kresťanie	基督	N;ANIM;NOM;MASC;PL	PROPN
+columbus	哥倫布	columbus	哥倫布	N;INAN;NOM;MASC;SG	PROPN
+jednotné	統一	jednotný	統一	ADJ;NOM;NEUT;SG	V
+jednotné	單	jednotný	單	ADJ;NOM;NEUT;SG	NUM
+jednotné	單人	jednotný	單人	ADJ;NOM;NEUT;SG	N
+jednotné	單身	jednotný	單身	ADJ;NOM;NEUT;SG	N
+jednotné	單	jednotný	單	ADJ;NOM;NEUT;SG	NUM
+jednotné	軍服	jednotný	軍服	ADJ;NOM;NEUT;SG	N
+jednotné	制服	jednotný	制服	ADJ;NOM;NEUT;SG	N
+jednotné	軍裝	jednotný	軍裝	ADJ;NOM;NEUT;SG	N
+parsons	parsons	parsons	parsons	PROPN;ANIM;NOM;MASC;SG	
+železné	鋼鐵	železný	鋼鐵	ADJ;NOM;NEUT;SG	N
+železné	鐵	železný	鐵	ADJ;NOM;NEUT;SG	PROPN
+pen	鋼筆	pen	鋼筆	PROPN;ANIM;NOM;MASC;SG	N
+pen	筆	pen	筆	PROPN;ANIM;NOM;MASC;SG	N
+atlantic	大西	atlantica	大西	N;INAN;NOM;MASC;SG	PROPN
+suché	乾	suchý	乾	ADJ;NOM;NEUT;SG	N
+snehu	雪	sneh	雪	N;INAN;GEN;MASC;SG	PROPN
+snehu	snow	sneh	snow	N;INAN;GEN;MASC;SG	
+gaga	gaga	gaga	gaga	PROPN;NOM;FEM;SG	
+známu	已	známy	已	N;ACC;FEM;SG	ADV
+url	url	url	url		
+url	網址	url	網址		N
+url	url	url	url		
+url	網址	url	網址		N
+sovieti	蘇維埃	sovetieť	蘇維埃	N;ANIM;NOM;MASC;PL	PROPN
+bruseli	布魯塞爾	brusieť	布魯塞爾	N;NOM;NEUT;PL	PROPN
+predpoklady	先決	predpoklad	先決	N;INAN;NOM;MASC;PL	ADJ
+predpoklady	假定	predpoklad	假定	N;INAN;NOM;MASC;PL	V
+stratu	滅失	strata	滅失	N;ACC;FEM;SG	V
+stratu	喪失	strata	喪失	N;ACC;FEM;SG	V
+jeruzaleme	耶路撒	jeruzalem	耶路撒	N;ANIM;NOM;MASC;PL	PROPN
+plná	飽	plný	飽	ADJ;NOM;FEM;SG	N
+plná	完整	plný	完整	ADJ;NOM;FEM;SG	N
+plná	滿	plný	滿	ADJ;NOM;FEM;SG	PROPN
+stavali	內建	stavať	內建	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP	N
+pivo	ale	pivo	ale	N;NOM;NEUT;SG	
+jednotný	統一	jednotný	統一	ADJ;INAN;NOM;MASC;SG	V
+jednotný	軍服	jednotný	軍服	ADJ;INAN;NOM;MASC;SG	N
+jednotný	制服	jednotný	制服	ADJ;INAN;NOM;MASC;SG	N
+jednotný	軍裝	jednotný	軍裝	ADJ;INAN;NOM;MASC;SG	N
+jednotný	單	jednotný	單	ADJ;INAN;NOM;MASC;SG	NUM
+jednotný	單人	jednotný	單人	ADJ;INAN;NOM;MASC;SG	N
+jednotný	單身	jednotný	單身	ADJ;INAN;NOM;MASC;SG	N
+jednotný	單	jednotný	單	ADJ;INAN;NOM;MASC;SG	NUM
+pripojený	上線	pripojený	上線	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	V
+pripojený	網上	pripojený	網上	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	N
+pripojený	online	pripojený	online	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	
+obľúbený	最愛	obľúbený	最愛	ADJ;ANIM;NOM;MASC;SG	N
+obľúbený	喜愛	obľúbený	喜愛	ADJ;ANIM;NOM;MASC;SG	
+craig	craig	craig	craig	PROPN;ANIM;NOM;MASC;SG	
+kvalitné	素質	kvalitný	素質	ADJ;NOM;NEUT;SG	N
+kvalitné	品質	kvalitný	品質	ADJ;NOM;NEUT;SG	N
+kvalitné	優質	kvalitný	優質	ADJ;NOM;NEUT;SG	N
+kvalitné	質量	kvalitný	質量	ADJ;NOM;NEUT;SG	N
+stály	穩	stály	穩	ADJ;ANIM;NOM;MASC;SG	ADV
+stály	平	stály	平	ADJ;ANIM;NOM;MASC;SG	PROPN
+stály	穩定	stály	穩定	ADJ;ANIM;NOM;MASC;SG	N
+stály	穩步	stály	穩步	ADJ;ANIM;NOM;MASC;SG	N
+stály	穩住	stály	穩住	ADJ;ANIM;NOM;MASC;SG	V
+rna	rna	rno	rna	N;NOM;FEM;SG	
+jadrové	核	jadrový	核	ADJ;NOM;NEUT;SG	N
+jadrové	核子	jadrový	核子	ADJ;NOM;NEUT;SG	N
+písania	打字	písanie	打字	N;NOM;NEUT;PL	V
+symfonický	交響	symfonický	交響	ADJ;INAN;NOM;MASC;SG	N
+reforiem	改革	reforma	改革	N;GEN;FEM;PL	V
+klein	klein	klein	klein	PROPN;ANIM;NOM;MASC;SG	
+vonkajšia	室外	vonkajší	室外	ADJ;NOM;FEM;SG	N
+vonkajšia	戶外	vonkajší	戶外	ADJ;NOM;FEM;SG	N
+cruz	cruz	cruz	cruz	PROPN;ANIM;NOM;MASC;SG	
+jung	鄭	jung	鄭	N;ANIM;NOM;MASC;SG	PROPN
+ľavé	左側	ľavý	左側	ADJ;NOM;NEUT;SG	N
+ľavé	左	ľavý	左	ADJ;NOM;NEUT;SG	N
+ľavé	左翼	ľavý	左翼	ADJ;NOM;NEUT;SG	N
+ľavé	左邊	ľavý	左邊	ADJ;NOM;NEUT;SG	N
+zranení	受傷	zranenie	受傷	N;NOM;NEUT;PL	V
+zachovať	保全	zachovať	保全	V;PFV;POS;NFIN	N
+mayer	mayer	mayer	mayer	PROPN;ANIM;NOM;MASC;SG	
+výskumné	研究	výskumný	研究	ADJ;NOM;NEUT;SG	V
+car	車	car	車	PROPN;ANIM;NOM;MASC;SG	N
+car	汽車	car	汽車	PROPN;ANIM;NOM;MASC;SG	N
+car	沙皇	car	沙皇	PROPN;ANIM;NOM;MASC;SG	N
+príslušné	相關	príslušný	相關	ADJ;NOM;NEUT;SG	V
+brankára	守門	brankár	守門	N;ANIM;ACC;MASC;SG	V
+islamu	伊斯蘭	islam	伊斯蘭	N;INAN;GEN;MASC;SG	PROPN
+islamu	伊斯蘭	islam	伊斯蘭	N;INAN;GEN;MASC;SG	PROPN
+christoph	christoph	christu	christoph	PROPN;ANIM;NOM;MASC;SG	
+hĺbku	深	hĺbka	深	N;ACC;FEM;SG	PART
+viditeľný	可	viditeľný	可	ADJ;ANIM;NOM;MASC;SG	V
+kresby	草圖	kresb	草圖	N;NOM;FEM;PL	V
+kube	古巴	kub	古巴	N;INAN;NOM;MASC;SG	PROPN
+deriváty	衍生	derivát	衍生	N;INAN;NOM;MASC;PL	V
+konkrétny	具體	konkrétny	具體	ADJ;INAN;NOM;MASC;SG	V
+konkrétny	混凝	konkrétny	混凝	ADJ;INAN;NOM;MASC;SG	V
+konkrétny	水泥	konkrétny	水泥	ADJ;INAN;NOM;MASC;SG	N
+originálny	原文	originálny	原文	ADJ;INAN;NOM;MASC;SG	N
+originálny	原件	originálny	原件	ADJ;INAN;NOM;MASC;SG	N
+originálny	原創	originálny	原創	ADJ;INAN;NOM;MASC;SG	N
+originálny	原始	originálny	原始	ADJ;INAN;NOM;MASC;SG	N
+originálny	原	originálny	原	ADJ;INAN;NOM;MASC;SG	PART
+obrat	更	obrat	更	N;INAN;NOM;MASC;SG	ADV
+obrat	營業	obrat	營業	N;INAN;NOM;MASC;SG	V
+walker	walker	walker	walker	N;ANIM;NOM;MASC;SG	
+štvrtého	第四	štvrtý	第四	ADJ;GEN;MASC;SG	NUM
+natrvalo	永久	natrvať	永久	V;PFV;NEUT;SG;POS;PST;V.PTCP	N
+natrvalo	永久	natrvať	永久	V;PFV;NEUT;SG;POS;PST;V.PTCP	N
+alexandre	alexandre	alexandra	alexandre	N;ANIM;NOM;MASC;SG	
+lúč	梁	lúč	梁	N;INAN;NOM;MASC;SG	PROPN
+lúč	束	lúč	束	N;INAN;NOM;MASC;SG	ADP
+lúč	雷	lúč	雷	N;INAN;NOM;MASC;SG	PROPN
+lúč	ray	lúč	ray	N;INAN;NOM;MASC;SG	
+prežili	生	prežiť	生	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP	N
+vyšetrovanie	調查	vyšetrovanie	調查	N;NOM;NEUT;SG	V
+vyšetrovanie	詢問	vyšetrovanie	詢問	N;NOM;NEUT;SG	V
+vyšetrovanie	調查	vyšetrovanie	調查	N;NOM;NEUT;SG	V
+šachu	棋	šach	棋	N;INAN;GEN;MASC;SG	PROPN
+austin	austin	austin	austin	PROPN;ANIM;NOM;MASC;SG	
+austin	奧斯汀	austin	奧斯汀	PROPN;ANIM;NOM;MASC;SG	PROPN
+ideálne	理想	ideálny	理想	ADV	N
+abc	abc	abc	abc		
+cia	cia	cia	cia	PROPN;ANIM;NOM;MASC;SG	
+cia	cla	cia	cla	PROPN;ANIM;NOM;MASC;SG	
+vzácny	珍貴	vzácny	珍貴	ADJ;ANIM;NOM;MASC;SG	N
+vzácny	珍寶	vzácny	珍寶	ADJ;ANIM;NOM;MASC;SG	N
+vzácny	寶貴	vzácny	寶貴	ADJ;ANIM;NOM;MASC;SG	N
+vzácny	稀有	vzácny	稀有	ADJ;ANIM;NOM;MASC;SG	N
+vzácny	難得	vzácny	難得	ADJ;ANIM;NOM;MASC;SG	
+vzácny	罕見	vzácny	罕見	ADJ;ANIM;NOM;MASC;SG	N
+niektorý	一些	niektorý	一些	DET;ANIM;NOM;MASC;SG	ADJ
+niektorý	有些	niektorý	有些	DET;ANIM;NOM;MASC;SG	V
+šéf	boss	šéf	boss	N;ANIM;NOM;MASC;SG	
+finančná	財務	finančný	財務	ADJ;NOM;FEM;SG	N
+finančná	金融	finančný	金融	ADJ;NOM;FEM;SG	N
+wrestling	摔	wrestling	摔	N;INAN;NOM;MASC;SG	V
+ono	小野	ja	小野	N;NOM;NEUT;SG	PROPN
+ono	大野	ja	大野	N;NOM;NEUT;SG	PROPN
+cestný	公路	cestný	公路	ADJ;ANIM;NOM;MASC;SG	N
+cestný	道路	cestný	道路	ADJ;ANIM;NOM;MASC;SG	N
+cestný	路	cestný	路	ADJ;ANIM;NOM;MASC;SG	N
+varga	varga	varga	varga	PROPN;ANIM;NOM;MASC;SG	
+vetu	判刑	vetu	判刑	N;ACC;FEM;SG	V
+analýzu	分析	analýza	分析	N;ACC;FEM;SG	V
+nar	reg	nar	reg	PROPN;ANIM;NOM;MASC;SG	
+dávid	大衛	dávid	大衛	N;ANIM;NOM;MASC;SG	PROPN
+dávid	david	dávid	david	N;ANIM;NOM;MASC;SG	
+irak	伊拉克	irak	伊拉克	N;INAN;NOM;MASC;SG	PROPN
+jasná	明亮	jasný	明亮	ADJ;NOM;FEM;SG	N
+znížiť	減	znížiť	減	V;PFV;POS;NFIN	ADP
+obytných	住宅	obytný	住宅	ADJ;ANIM;GEN;MASC;PL	N
+obytných	寄宿	obytný	寄宿	ADJ;ANIM;GEN;MASC;PL	N
+inšpiroval	靈感	inšpirovať	靈感	V;ANIM;IPFV;MASC;SG;POS;PST;V.PTCP	N
+ltd	ltd	ltd	ltd	PROPN;NOM;FEM;SG	
+pilota	飛行	pilot	飛行	N;ANIM;ACC;MASC;SG	V
+pilota	駕駛	pilot	駕駛	N;ANIM;ACC;MASC;SG	V
+spomínajú	mentions	spomínať	mentions	V;IPFV;IND;PL;3;POS;PRS;FIN	
+slnečný	晴	slnečný	晴	ADJ;ANIM;NOM;MASC;SG	PROPN
+okna	視	okno	視	N;NOM;NEUT;SG	V
+najrýchlejšie	最快	rýchlo	最快	ADV;RL	ADJ
+pristátia	降落	pristátiť	降落	N;NOM;NEUT;PL	V
+pristátia	登陸	pristátiť	登陸	N;NOM;NEUT;PL	V
+pristátia	著	pristátiť	著	N;NOM;NEUT;PL	PART;PROG
+raj	raj	raj	raj	N;INAN;NOM;MASC;SG	
+budovanie	建築	budovanie	建築	N;NOM;NEUT;SG	V
+územné	領土	územný	領土	ADJ;NOM;NEUT;SG	N
+viditeľná	可	viditeľný	可	ADJ;NOM;FEM;SG	V
+trend	趨向	trend	趨向	N;INAN;NOM;MASC;SG	V
+júlia	julie	júlia	julie	N;NOM;FEM;SG	
+júlia	julia	júlia	julia	N;NOM;FEM;SG	
+júlia	朱	júlia	朱	N;NOM;FEM;SG	PROPN
+kuchyňa	飲食	kuchyňa	飲食	N;NOM;FEM;SG	V
+reagovať	反應	reagovať	反應	V;IPFV;POS;NFIN	N
+vyhrať	贏了	vyhrať	贏了	V;PFV;POS;NFIN	
+vyhrať	勝利	vyhrať	勝利	V;PFV;POS;NFIN	N
+vyhrať	win	vyhrať	win	V;PFV;POS;NFIN	
+feb	二	feb	二	INTJ	NUM
+spánku	睡	spánok	睡	N;INAN;GEN;MASC;SG	V
+spánku	睡覺	spánok	睡覺	N;INAN;GEN;MASC;SG	V
+fyzická	物理	fyzický	物理	ADJ;NOM;FEM;SG	N
+piata	第五	piata	第五	ADJ;NOM;FEM;SG	NUM
+piata	第五	piata	第五	ADJ;NOM;FEM;SG	NUM
+rex	rex	rex	rex	PROPN;ANIM;NOM;MASC;SG	
+fame	名望	fam	名望		N
+fame	名氣	fam	名氣		N
+cestovný	旅行	cestovný	旅行	ADJ;INAN;NOM;MASC;SG	N
+cestovný	旅費	cestovný	旅費	ADJ;INAN;NOM;MASC;SG	N
+cestovný	旅遊	cestovný	旅遊	ADJ;INAN;NOM;MASC;SG	N
+premenných	變數	premenný	變數	ADJ;GEN;MASC;PL	N
+sms	簡訊	sms	簡訊		N
+komerčný	商用	komerčný	商用	ADJ;ANIM;NOM;MASC;SG	N
+komerčný	商事	komerčný	商事	ADJ;ANIM;NOM;MASC;SG	N
+komerčný	商業	komerčný	商業	ADJ;ANIM;NOM;MASC;SG	N
+presvedčenie	勸	presvedčenie	勸	N;NOM;NEUT;SG	V
+presvedčenie	勸導	presvedčenie	勸導	N;NOM;NEUT;SG	V
+presvedčenie	說服	presvedčenie	說服	N;NOM;NEUT;SG	V
+presvedčenie	定罪	presvedčenie	定罪	N;NOM;NEUT;SG	V
+presvedčenie	判罪	presvedčenie	判罪	N;NOM;NEUT;SG	V
+presvedčenie	判罪	presvedčenie	判罪	N;NOM;NEUT;SG	V
+presvedčenie	定罪	presvedčenie	定罪	N;NOM;NEUT;SG	V
+prechodné	短暫	prechodný	短暫	ADJ;NOM;NEUT;SG	ADV
+prechodné	過渡	prechodný	過渡	ADJ;NOM;NEUT;SG	V
+prechodné	過渡	prechodný	過渡	ADJ;NOM;NEUT;SG	V
+prechodné	轉型	prechodný	轉型	ADJ;NOM;NEUT;SG	V
+poľnohospodárska	農業	poľnohospodársky	農業	ADJ;NOM;FEM;SG	N
+tmavé	黑	tmavý	黑	ADJ;NOM;NEUT;SG	N
+tmavé	暗	tmavý	暗	ADJ;NOM;NEUT;SG	N
+tmavé	黑暗	tmavý	黑暗	ADJ;NOM;NEUT;SG	N
+kancelária	辦公	kancelária	辦公	N;NOM;FEM;SG	V
+kancelária	辦公	kancelária	辦公	N;NOM;FEM;SG	V
+kancelária	辦事	kancelária	辦事	N;NOM;FEM;SG	V
+vstupné	投入	vstupný	投入	ADJ;NOM;NEUT;SG	V
+vstupné	輸入	vstupný	輸入	ADJ;NOM;NEUT;SG	V
+súhrnné	合計	súhrnný	合計	ADJ;NOM;NEUT;SG	V
+finančný	財務	finančný	財務	ADJ;ANIM;NOM;MASC;SG	N
+finančný	金融	finančný	金融	ADJ;ANIM;NOM;MASC;SG	N
+toyota	豐田	toyota	豐田	N;INAN;NOM;MASC;SG	PROPN
+promo	促銷	promo	促銷	INTJ	V
+porsche	porsche	porsch	porsche	N;INAN;NOM;MASC;SG	
+zvýšená	增加	zvýšený	增加	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+predčasne	早	predčasne	早	ADV	N
+plánovaný	排定	plánovaný	排定	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	V
+anjel	angel	anjel	angel	N;ANIM;NOM;MASC;SG	
+kritický	危急	kritický	危急	ADJ;INAN;NOM;MASC;SG	
+kritický	批判	kritický	批判	ADJ;INAN;NOM;MASC;SG	N
+kritický	臨界	kritický	臨界	ADJ;INAN;NOM;MASC;SG	N
+ida	lda	ida	lda	PROPN;NOM;FEM;SG	
+ida	ida	ida	ida	PROPN;NOM;FEM;SG	
+šach	沙	šach	沙	N;INAN;NOM;MASC;SG	PROPN
+šach	shah	šach	shah	N;INAN;NOM;MASC;SG	
+šach	棋	šach	棋	N;INAN;NOM;MASC;SG	PROPN
+hrubé	毛	hrubý	毛	ADJ;NOM;NEUT;SG	PROPN
+hrubé	毛額	hrubý	毛額	ADJ;NOM;NEUT;SG	N
+hrubé	厚	hrubý	厚	ADJ;NOM;NEUT;SG	PART
+správcovia	管理	správca	管理	N;ANIM;NOM;MASC;PL	V
+zvolená	當選	zvolený	當選	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+zvolená	選取	zvolený	選取	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+kolónia	殖民	kolónia	殖民	N;NOM;FEM;SG	V
+jang	楊	jang	楊	N;ANIM;NOM;MASC;SG	PROPN
+jang	yang	jang	yang	N;ANIM;NOM;MASC;SG	
+orientácia	定	orientácia	定	N;NOM;FEM;SG	V
+campbell	campbell	campbell	campbell	PROPN;ANIM;NOM;MASC;SG	
+majiteľov	所有	majiteľ	所有	N;ANIM;ACC;MASC;PL	DET
+nosiť	戴	nosiť	戴	V;IPFV;POS;NFIN	N
+nosiť	穿	nosiť	穿	V;IPFV;POS;NFIN	
+susedných	鄰近	susedný	鄰近	ADJ;GEN;MASC;PL	N
+vaše	你	váš	你	DET;NOM;NEUT;SG;2	PRO;2
+pochopenie	理解	pochopenie	理解	N;NOM;NEUT;SG	V
+pochopenie	諒解	pochopenie	諒解	N;NOM;NEUT;SG	V
+termíny	用	termín	用	N;INAN;NOM;MASC;PL	V
+catherine	catherine	catherina	catherine	N;NOM;FEM;SG	
+bitov	bit	bit	bit	N;INAN;NOM;MASC;PL	
+majiteľa	所有	majiteľ	所有	N;ANIM;ACC;MASC;SG	DET
+seminár	研討	seminár	研討	N;INAN;NOM;MASC;SG	V
+seminár	討論	seminár	討論	N;INAN;NOM;MASC;SG	V
+seminár	研討	seminár	研討	N;INAN;NOM;MASC;SG	V
+definovať	界	definovať	界	V;IPFV;POS;NFIN	N
+definovať	定義	definovať	定義	V;IPFV;POS;NFIN	N
+cenné	寶貴	cenný	寶貴	ADJ;NOM;NEUT;SG	N
+barbora	barbora	barbora	barbora	N;NOM;FEM;SG	
+čiara	line	čiara	line	N;NOM;FEM;SG	
+gps	gps	gps	gps		
+trup	赫爾	trup	赫爾	N;INAN;NOM;MASC;SG	PROPN
+schválený	核定	schválený	核定	ADJ;INAN;NOM;MASC;SG	V
+schválený	核准	schválený	核准	ADJ;INAN;NOM;MASC;SG	V
+schválený	批准	schválený	批准	ADJ;INAN;NOM;MASC;SG	V
+presvedčiť	勸說	presvedčiť	勸說	V;PFV;POS;NFIN	N
+účtovníctvo	會	účtovníctvo	會	N;NOM;NEUT;SG	V
+účtovníctvo	會	účtovníctvo	會	N;NOM;NEUT;SG	V
+senát	參議	senát	參議	N;INAN;NOM;MASC;SG	V
+zelených	綠黨	zelený	綠黨	ADJ;GEN;MASC;PL	N
+petit	petit	petit	petit	PROPN;ANIM;NOM;MASC;SG	
+prežila	生	prežiť	生	V;PFV;FEM;SG;POS;PST;V.PTCP	N
+luxembursko	盧森堡	luxembursko	盧森堡	N;NOM;NEUT;SG	PROPN
+wang	王	wang	王	PROPN;ANIM;NOM;MASC;SG	PROPN
+niekomu	某人	niekto	某人	PRO;ANIM;DAT;MASC;SG	N
+niekomu	有	niekto	有	PRO;ANIM;DAT;MASC;SG	V
+lorenzo	lorenzo	lorenzo	lorenzo	PROPN;ANIM;NOM;MASC;SG	
+castro	castro	castro	castro	PROPN;ANIM;NOM;MASC;SG	
+spotrebu	消費	spotreba	消費	N;ACC;FEM;SG	V
+spotrebu	消耗	spotreba	消耗	N;ACC;FEM;SG	V
+moslimovia	穆斯林	moslim	穆斯林	N;ANIM;NOM;MASC;PL	PROPN
+námorné	海軍	námorný	海軍	ADJ;NOM;NEUT;SG	N
+námorné	海事	námorný	海事	ADJ;NOM;NEUT;SG	N
+námorné	航海	námorný	航海	ADJ;NOM;NEUT;SG	N
+zničenie	破壞	zničenie	破壞	N;NOM;NEUT;SG	V
+zničenie	毀壞	zničenie	毀壞	N;NOM;NEUT;SG	V
+zničenie	銷毀	zničenie	銷毀	N;NOM;NEUT;SG	V
+plaza	plaza	plaza	plaza	N;INAN;NOM;MASC;SG	
+partnera	合伙	partner	合伙	N;ANIM;ACC;MASC;SG	V
+diaľnici	高速	diaľnica	高速	N;DAT;FEM;SG	ADJ
+neznáme	未	neznámy	未	ADJ;NOM;NEUT;SG	ADV;NEG
+neznáme	不	neznámy	不	ADJ;NOM;NEUT;SG	ADV;NEG
+realizácie	實現	realizácia	實現	N;NOM;FEM;PL	V
+bohorodičky	theotokos	bohorodička	theotokos	N;NOM;FEM;PL	
+šíriť	蔓延	šíriť	蔓延	V;IPFV;POS;NFIN	
+plánovanie	規劃	plánovanie	規劃	N;NOM;NEUT;SG	V
+distribúcie	分布	distribúcia	分布	N;NOM;FEM;PL	V
+decembru	十二	december	十二	N;INAN;GEN;MASC;SG	NUM
+isle	島	isle	島	PROPN;ANIM;NOM;MASC;SG	PROPN
+benátkach	威尼斯	benátka	威尼斯	N;INS;FEM;PL	PROPN
+kovové	金屬	kovový	金屬	ADJ;NOM;NEUT;SG	N
+kovové	金屬	kovový	金屬	ADJ;NOM;NEUT;SG	N
+afganistanu	阿富汗	afganistan	阿富汗	N;INAN;GEN;MASC;SG	PROPN
+poškodené	受損	poškodený	受損	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+poškodené	損壞	poškodený	損壞	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	N
+poškodené	損壞	poškodený	損壞	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	N
+licencia	許可	licencia	許可	N;NOM;FEM;SG	V
+licencia	許	licencia	許	N;NOM;FEM;SG	PROPN
+licencia	許可	licencia	許可	N;NOM;FEM;SG	V
+piper	piper	piper	piper	N;NOM;FEM;SG	
+kristína	christina	kristína	christina	N;NOM;FEM;SG	
+kristína	cristina	kristína	cristina	N;NOM;FEM;SG	
+klimatické	氣候	klimatický	氣候	ADJ;NOM;NEUT;SG	N
+pošta	mail	pošta	mail	N;NOM;FEM;SG	
+pošta	張	pošta	張	N;NOM;FEM;SG	PROPN
+pošta	post	pošta	post	N;NOM;FEM;SG	
+vyučovanie	指示	vyučovanie	指示	N;NOM;NEUT;SG	V
+slavia	slavia	slaviť	slavia	PROPN;ANIM;NOM;MASC;SG	
+bowie	bowie	bowie	bowie	PROPN;ANIM;NOM;MASC;SG	
+presunúť	動	presunúť	動	V;PFV;POS;NFIN	N
+kratšie	縮短	krato	縮短	ADV;CMPR	V
+rovné	直直	rovný	直直	ADJ;NOM;NEUT;SG	ADV
+rovné	直	rovný	直	ADJ;NOM;NEUT;SG	
+rovné	平等	rovný	平等	ADJ;NOM;NEUT;SG	N
+oasis	綠洲	oasis	綠洲	PROPN;ANIM;NOM;MASC;SG	N
+todd	todd	todd	todd	PROPN;ANIM;NOM;MASC;SG	
+tichá	沈	tichý	沈	ADJ;NOM;FEM;SG	PROPN
+tichá	無聲	tichý	無聲	ADJ;NOM;FEM;SG	V
+zverejnené	出版	zverejnený	出版	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+zverejnené	發表	zverejnený	發表	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+zverejnené	張	zverejnený	張	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	PROPN
+stíhačky	戰鬥	stíhačka	戰鬥	N;NOM;FEM;PL	V
+strih	切	strih	切	N;INAN;NOM;MASC;SG	ADV
+strih	削減	strih	削減	N;INAN;NOM;MASC;SG	V
+strih	剪	strih	剪	N;INAN;NOM;MASC;SG	V
+strih	割	strih	割	N;INAN;NOM;MASC;SG	V
+jennifer	jennifer	jennifer	jennifer	PROPN;NOM;FEM;SG	
+mat	墊子	mat	墊子		N
+mat	mat	mat	mat		
+lyžiarske	滑雪	lyžiarsky	滑雪	ADJ;NOM;NEUT;PL	N
+prázdne	空白	prázdny	空白	ADJ;NOM;NEUT;SG	N
+prázdne	空	prázdny	空	ADJ;NOM;NEUT;SG	N
+prázdne	空白	prázdny	空白	ADJ;NOM;NEUT;SG	N
+obeh	流通	obeh	流通	N;INAN;NOM;MASC;SG	V
+obeh	發行	obeh	發行	N;INAN;NOM;MASC;SG	V
+školské	學校	školský	學校	ADJ;NOM;NEUT;SG	N
+školské	上學	školský	上學	ADJ;NOM;NEUT;SG	V
+dôležitosť	重要	dôležitosť	重要	N;NOM;FEM;SG	ADJ
+dôležitosť	重要	dôležitosť	重要	N;NOM;FEM;SG	ADJ
+dôležitosť	關聯性	dôležitosť	關聯性	N;NOM;FEM;SG	PROPN
+navždy	永遠	navždy	永遠	ADV	N
+stan	stan	stan	stan	N;INAN;NOM;MASC;SG	
+eye	眼	eye	眼		N
+eye	眼睛	eye	眼睛		N
+pat	pat	pat	pat	PROPN;ANIM;NOM;MASC;SG	
+weiss	weiss	weiss	weiss	PROPN;ANIM;NOM;MASC;SG	
+licenciu	許可	licencia	許可	N;ACC;FEM;SG	V
+stáť	常備	stáť	常備	V;IPFV;POS;NFIN	N
+stáť	常	stáť	常	V;IPFV;POS;NFIN	ADV
+stáť	站	stáť	站	V;IPFV;POS;NFIN	N
+ingrid	ingrid	ingrid	ingrid	PROPN;NOM;FEM;SG	
+rovno	直	rovno	直	ADV	
+sýria	敘利亞	sýria	敘利亞	N;NOM;FEM;SG	PROPN
+sýria	索馬利亞	sýria	索馬利亞	N;NOM;FEM;SG	PROPN
+výbuch	爆發	výbuch	爆發	N;INAN;NOM;MASC;SG	V
+výbuch	噴發	výbuch	噴發	N;INAN;NOM;MASC;SG	V
+výbuch	爆炸	výbuch	爆炸	N;INAN;NOM;MASC;SG	V
+výbuch	爆	výbuch	爆	N;INAN;NOM;MASC;SG	V
+výbuch	爆炸	výbuch	爆炸	N;INAN;NOM;MASC;SG	V
+maple	楓	mapla	楓	PROPN;ANIM;NOM;MASC;SG	PROPN
+julian	julian	julian	julian	N;ANIM;NOM;MASC;SG	
+thompson	thompson	thompson	thompson	PROPN;ANIM;NOM;MASC;SG	
+chceš	想要	chcieť	想要	V;IPFV;IND;SG;2;POS;PRS;FIN	
+strýko	阿叔	strýko	阿叔	N;ANIM;NOM;MASC;SG	PROPN
+xml	xml	xml	xml	N;INAN;NOM;MASC;SG	
+ferenc	ferenc	ferenc	ferenc	PROPN;ANIM;NOM;MASC;SG	
+venezuela	委內	venezuiť	委內	N;NOM;FEM;SG	PROPN
+nancy	南希	nanca	南希	PROPN;NOM;FEM;SG	PROPN
+nancy	nancy	nanca	nancy	PROPN;NOM;FEM;SG	
+pochod	三	pochod	三	N;INAN;NOM;MASC;SG	NUM
+farebný	色	farebný	色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	彩色	farebný	彩色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	顏色	farebný	顏色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	色彩	farebný	色彩	ADJ;ANIM;NOM;MASC;SG	N
+farebný	彩色	farebný	彩色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	顏色	farebný	顏色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	色彩	farebný	色彩	ADJ;ANIM;NOM;MASC;SG	N
+farebný	色彩繽	farebný	色彩繽	ADJ;ANIM;NOM;MASC;SG	N
+farebný	有色	farebný	有色	ADJ;ANIM;NOM;MASC;SG	N
+farebný	彩色	farebný	彩色	ADJ;ANIM;NOM;MASC;SG	N
+obchodníci	經銷	obchodník	經銷	N;ANIM;NOM;MASC;PL	V
+podnikatelia	創業	podnikateľ	創業	N;ANIM;NOM;MASC;PL	V
+predĺženie	延伸	predĺženie	延伸	N;NOM;NEUT;SG	V
+predĺženie	擴展	predĺženie	擴展	N;NOM;NEUT;SG	V
+predĺženie	延長	predĺženie	延長	N;NOM;NEUT;SG	V
+predĺženie	延期	predĺženie	延期	N;NOM;NEUT;SG	V
+predĺženie	延期	predĺženie	延期	N;NOM;NEUT;SG	V
+jazda	乘車	jazda	乘車	N;NOM;FEM;SG	V
+jazda	駕駛	jazda	駕駛	N;NOM;FEM;SG	V
+máriu	瑪利亞	mária	瑪利亞	N;ACC;FEM;SG	PROPN
+máriu	瑪麗亞	mária	瑪麗亞	N;ACC;FEM;SG	PROPN
+máriu	maria	mária	maria	N;ACC;FEM;SG	
+albánsko	阿爾巴尼亞	albánsko	阿爾巴尼亞	ADV	PROPN
+iráne	伊朗	irána	伊朗	N;INAN;NOM;MASC;SG	PROPN
+bond	保證	bond	保證	PROPN;ANIM;NOM;MASC;SG	V
+bond	鍵	bond	鍵	PROPN;ANIM;NOM;MASC;SG	N
+bond	債券	bond	債券	PROPN;ANIM;NOM;MASC;SG	N
+bond	龐德	bond	龐德	PROPN;ANIM;NOM;MASC;SG	PROPN
+rozdelili	分裂	rozdeliť	分裂	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP	N
+ferrer	ferrer	ferrer	ferrer	N;ANIM;NOM;MASC;SG	
+eso	eso	eso	eso	PROPN;ANIM;NOM;MASC;SG	
+eso	ace	eso	ace	PROPN;ANIM;NOM;MASC;SG	
+eso	王牌	eso	王牌	PROPN;ANIM;NOM;MASC;SG	N
+biblia	聖經	biblia	聖經	N;NOM;FEM;SG	PROPN
+sexuálne	性	sexuálny	性	ADJ;NOM;NEUT;SG	N
+quai	quai	qua	quai	PROPN;INAN;NOM;MASC;SG	
+hrubého	毛	hrubý	毛	ADJ;GEN;NEUT;SG	PROPN
+hrubého	毛額	hrubý	毛額	ADJ;GEN;NEUT;SG	N
+podzemné	地下	podzemný	地下	ADJ;NOM;NEUT;SG	N
+podzemné	地底	podzemný	地底	ADJ;NOM;NEUT;SG	N
+predný	前面	predný	前面	ADJ;INAN;NOM;MASC;SG	N
+predný	陣線	predný	陣線	ADJ;INAN;NOM;MASC;SG	N
+justin	justin	justin	justin	PROPN;ANIM;NOM;MASC;SG	
+kritike	批評	kritika	批評	N;DAT;FEM;SG	V
+srí	sri	srať	sri	N;INAN;NOM;MASC;SG	
+issn	issn	issn	issn		
+výnimku	例外	výnimka	例外	N;ACC;FEM;SG	
+celoživotné	終生	celoživotný	終生	ADJ;NOM;NEUT;SG	
+celoživotné	一	celoživotný	一	ADJ;NOM;NEUT;SG	NUM
+celoživotné	終身	celoživotný	終身	ADJ;NOM;NEUT;SG	N
+slabý	暈倒	slabý	暈倒	ADJ;ANIM;NOM;MASC;SG	
+slabý	暈	slabý	暈	ADJ;ANIM;NOM;MASC;SG	N
+slabý	昏倒	slabý	昏倒	ADJ;ANIM;NOM;MASC;SG	V
+slabý	微	slabý	微	ADJ;ANIM;NOM;MASC;SG	N
+slabý	弱	slabý	弱	ADJ;ANIM;NOM;MASC;SG	PART
+slabý	弱者	slabý	弱者	ADJ;ANIM;NOM;MASC;SG	N
+oleg	oleg	oleg	oleg	PROPN;ANIM;NOM;MASC;SG	
+dell	dell	dell	dell		
+kazachstan	哈薩克	kazachstan	哈薩克	N;INAN;NOM;MASC;SG	PROPN
+vlastníctvo	所有	vlastníctvo	所有	N;NOM;NEUT;SG	DET
+vlastníctvo	擁有	vlastníctvo	擁有	N;NOM;NEUT;SG	V
+unix	unix	unix	unix	N;INAN;NOM;MASC;SG	
+odklon	轉送	odklon	轉送	N;INAN;NOM;MASC;SG	V
+odklon	出境	odklon	出境	N;INAN;NOM;MASC;SG	V
+odklon	離境	odklon	離境	N;INAN;NOM;MASC;SG	V
+civilné	民事	civilný	民事	ADJ;NOM;NEUT;SG	N
+latinská	拉丁	latinský	拉丁	ADJ;NOM;FEM;SG	PROPN
+latinská	拉丁	latinský	拉丁	ADJ;NOM;FEM;SG	PROPN
+gruzínsko	喬治亞	gruzínsko	喬治亞	N;NOM;NEUT;SG	PROPN
+plnenie	填充	plnenie	填充	N;NOM;NEUT;SG	V
+plnenie	填補	plnenie	填補	N;NOM;NEUT;SG	V
+plnenie	執行	plnenie	執行	N;NOM;NEUT;SG	V
+tradičná	傳統	tradičný	傳統	ADJ;NOM;FEM;SG	N
+crew	船員	crew	船員	PROPN;ANIM;NOM;MASC;SG	N
+mediawiki	mediawiki	mediaňiky	mediawiki	N;INAN;NOM;MASC;SG	
+ústavný	憲政	ústavný	憲政	ADJ;INAN;NOM;MASC;SG	N
+elektronická	電子	elektronický	電子	ADJ;NOM;FEM;SG	N
+tvrdé	嚴厲	tvrdý	嚴厲	ADJ;NOM;NEUT;SG	N
+špecializované	專家	špecializovaný	專家	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	N
+bombardér	轟炸	bombardér	轟炸	ADJ;ANIM;NOM;MASC;SG	V
+autonómne	自主	autonómny	自主	ADJ;NOM;NEUT;SG	N
+fbi	fbi	fbi	fbi	PROPN;ANIM;NOM;MASC;SG	
+podrobne	詳細	podrobne	詳細	ADV	N
+sergejevič	sergeyevich	sergejevič	sergeyevich	N;ANIM;NOM;MASC;SG	
+tajomstvo	神秘	tajomstvo	神秘	N;NOM;NEUT;SG	ADJ
+čítaj	讀	čítať	讀	INTJ	V
+čítaj	讀取	čítať	讀取	INTJ	V
+čítaj	閱讀	čítať	閱讀	INTJ	N
+námorných	航海	námorný	航海	ADJ;GEN;MASC;PL	N
+jin	金	jin	金	N;NOM;FEM;SG	PROPN
+jin	晉	jin	晉	N;NOM;FEM;SG	PROPN
+jin	仁	jin	仁	N;NOM;FEM;SG	PROPN
+jin	jin	jin	jin	N;NOM;FEM;SG	
+duet	二	duet	二	N;INAN;NOM;MASC;SG	NUM
+hnedé	棕	hnedý	棕	ADJ;NOM;NEUT;SG	N
+hnedé	褐	hnedý	褐	ADJ;NOM;NEUT;SG	N
+hnedé	布朗	hnedý	布朗	ADJ;NOM;NEUT;SG	PROPN
+hnedé	brown	hnedý	brown	ADJ;NOM;NEUT;SG	
+hnedé	棕色	hnedý	棕色	ADJ;NOM;NEUT;SG	N
+počítačom	計算	počítač	計算	N;INAN;INS;MASC;SG	V
+dizajnér	設計	dizajnér	設計	ADJ;ANIM;NOM;MASC;SG	V
+železný	鋼鐵	železný	鋼鐵	ADJ;ANIM;NOM;MASC;SG	N
+železný	鐵	železný	鐵	ADJ;ANIM;NOM;MASC;SG	PROPN
+príbuzný	相對	príbuzný	相對	N;ANIM;NOM;MASC;SG	ADP
+dawn	dawn	dawn	dawn	PROPN;NOM;FEM;SG	
+dawn	拂曉	dawn	拂曉	PROPN;NOM;FEM;SG	
+dawn	黎明	dawn	黎明	PROPN;NOM;FEM;SG	PROPN
+dawn	天亮	dawn	天亮	PROPN;NOM;FEM;SG	N
+prod	prod	prod	prod		
+logické	邏輯	logický	邏輯	ADJ;NOM;NEUT;SG	N
+logické	邏輯	logický	邏輯	ADJ;NOM;NEUT;SG	N
+obvinený	被	obvinený	被	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V;PASS
+zlúčenina	復合	zlúčenina	復合	N;NOM;FEM;SG	V
+zlúčenina	化合	zlúčenina	化合	N;NOM;FEM;SG	V
+chan	陳	chan	陳	PROPN;ANIM;NOM;MASC;SG	PROPN
+chan	燦	chan	燦	PROPN;ANIM;NOM;MASC;SG	PROPN
+uhla	角度	uhnúť	角度	V;PFV;FEM;SG;POS;PST;V.PTCP	N
+uhla	角	uhnúť	角	V;PFV;FEM;SG;POS;PST;V.PTCP	N
+podstata	精華	podstata	精華	N;NOM;FEM;SG	
+nacistické	納粹	nactistický	納粹	ADJ;NOM;NEUT;SG	PROPN
+dobrovoľníkov	志願	dobrovoľník	志願	N;ANIM;ACC;MASC;PL	V
+povrchová	膚	povrchový	膚	ADJ;NOM;FEM;SG	N
+používatelia	使用	používateľ	使用	N;ANIM;NOM;MASC;PL	V
+modlitby	祈	modlitba	祈	N;NOM;FEM;PL	V
+thajsko	泰國	thajsko	泰國	N;NOM;NEUT;SG	PROPN
+vykonávanie	執行	vykonávanie	執行	N;NOM;NEUT;SG	V
+zvýšený	增加	zvýšený	增加	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	V
+pracovná	工作	pracovný	工作	ADJ;NOM;FEM;SG	N
+kórea	韓國	kórea	韓國	N;NOM;FEM;SG	PROPN
+kórea	朝鮮	kórea	朝鮮	N;NOM;FEM;SG	PROPN
+pridelený	指派	pridelený	指派	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+obecné	市政	obecný	市政	ADJ;NOM;NEUT;SG	N
+študijné	研究	študijný	研究	ADJ;NOM;NEUT;SG	V
+študijné	學習	študijný	學習	ADJ;NOM;NEUT;SG	V
+problem	問題	problem	問題	INTJ	N
+šimon	simon	šimon	simon	N;ANIM;NOM;MASC;SG	
+šimon	西蒙	šimon	西蒙	N;ANIM;NOM;MASC;SG	PROPN
+šimon	西門	šimon	西門	N;ANIM;NOM;MASC;SG	PROPN
+slávne	著名	slávny	著名	N;NOM;MASC;PL	ADJ
+slávne	有	slávny	有	N;NOM;MASC;PL	V
+viktória	維多利亞	viktória	維多利亞	N;NOM;FEM;SG	PROPN
+viktória	victoria	viktória	victoria	N;NOM;FEM;SG	
+súvislosť	連結	súvislosť	連結	N;NOM;FEM;SG	V
+súvislosť	link	súvislosť	link	N;NOM;FEM;SG	
+závislá	依賴	závislo	依賴	N;NOM;FEM;SG	V
+závislá	上癮	závislo	上癮	N;NOM;FEM;SG	V
+král	king	král	king	N;ANIM;NOM;MASC;SG	
+král	王	král	王	N;ANIM;NOM;MASC;SG	PROPN
+kritické	危急	kritický	危急	ADJ;NOM;NEUT;SG	
+kritické	批判	kritický	批判	ADJ;NOM;NEUT;SG	N
+kritické	臨界	kritický	臨界	ADJ;NOM;NEUT;SG	N
+súčiastky	零	súčiastka	零	N;INAN;NOM;MASC;PL	NUM
+odstránené	刪除	odstránený	刪除	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+čistá	清潔	čistý	清潔	ADJ;NOM;FEM;SG	V
+čistá	純純	čistý	純純	ADJ;NOM;FEM;SG	PROPN
+čistá	純	čistý	純	ADJ;NOM;FEM;SG	
+čistá	純粹	čistý	純粹	ADJ;NOM;FEM;SG	ADV
+pancier	鎧甲	pancier	鎧甲	N;INAN;NOM;MASC;SG	PROPN
+amy	amy	amy	amy	PROPN;NOM;FEM;SG	
+dec	dec	dec	dec	INTJ	
+dec	十二	dec	十二	INTJ	NUM
+chudobných	窮	chudobný	窮	ADJ;GEN;MASC;PL	
+robotníci	勞動	robotník	勞動	N;ANIM;NOM;MASC;PL	V
+robotníci	勞動	robotník	勞動	N;ANIM;NOM;MASC;PL	V
+pamätné	紀念	pamätný	紀念	ADJ;NOM;NEUT;SG	V
+odchodu	出境	odchod	出境	N;INAN;GEN;MASC;SG	V
+odchodu	離境	odchod	離境	N;INAN;GEN;MASC;SG	V
+macedónsko	馬其頓	macedónsko	馬其頓	ADV	PROPN
+varu	煮沸	varu	煮沸	N;INAN;GEN;MASC;SG	V
+varu	沸	varu	沸	N;INAN;GEN;MASC;SG	V
+biologické	生物	biologický	生物	ADJ;NOM;NEUT;SG	N
+biologické	生物	biologický	生物	ADJ;NOM;NEUT;SG	N
+zásobovanie	供應	zásobovanie	供應	N;NOM;NEUT;SG	V
+zásobovanie	供應	zásobovanie	供應	N;NOM;NEUT;SG	V
+zásobovanie	供給	zásobovanie	供給	N;NOM;NEUT;SG	V
+detská	小孩	detský	小孩	ADJ;NOM;FEM;SG	N
+detská	兒童	detský	兒童	ADJ;NOM;FEM;SG	N
+ukázať	show	ukázať	show	V;PFV;POS;NFIN	
+arab	阿拉伯	arab	阿拉伯	N;ANIM;NOM;MASC;SG	PROPN
+marshall	marshall	marshall	marshall	PROPN;ANIM;NOM;MASC;SG	
+uvádzané	據稱	uvádzaný	據稱	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+minerálne	礦	minerálny	礦	ADJ;NOM;NEUT;PL	N
+minerálne	礦物	minerálny	礦物	ADJ;NOM;NEUT;PL	N
+minerálne	礦	minerálny	礦	ADJ;NOM;NEUT;PL	N
+atlantiku	大西	atlantika	大西	N;INAN;GEN;MASC;SG	PROPN
+zlyhanie	失敗	zlyhanie	失敗	N;NOM;NEUT;SG	
+zlyhanie	失敗	zlyhanie	失敗	N;NOM;NEUT;SG	
+pozvanie	邀請	pozvanie	邀請	N;NOM;NEUT;SG	V
+peace	平安	peace	平安	INTJ	PROPN
+peace	和平	peace	和平	INTJ	N
+vedúce	領先	vedúci	領先	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	V
+vedúce	領導	vedúci	領導	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	V
+cohen	cohen	cohen	cohen	PROPN;ANIM;NOM;MASC;SG	
+opozície	反對	opozícia	反對	N;NOM;FEM;PL	V
+opozície	反對	opozícia	反對	N;NOM;FEM;PL	V
+opozície	反對	opozícia	反對	N;NOM;FEM;PL	V
+poroty	陪審	porota	陪審	N;NOM;FEM;PL	V
+poroty	陪審	porota	陪審	N;NOM;FEM;PL	V
+poroty	陪審	porota	陪審	N;NOM;FEM;PL	V
+five	五	fiv	五		NUM
+five	五	fiv	五		NUM
+porazený	輸家	porazený	輸家	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	N
+dekan	dean	dekan	dean	N;ANIM;NOM;MASC;SG	
+gruzínska	喬治亞	gruzínsky	喬治亞	N;NOM;FEM;SG	PROPN
+výnos	屈	výnos	屈	N;INAN;NOM;MASC;SG	PROPN
+radikálne	激進	radikálny	激進	ADV	N
+prevod	轉帳	prevod	轉帳	N;INAN;NOM;MASC;SG	V
+prevod	轉讓	prevod	轉讓	N;INAN;NOM;MASC;SG	V
+prevod	轉移	prevod	轉移	N;INAN;NOM;MASC;SG	V
+prevod	轉換	prevod	轉換	N;INAN;NOM;MASC;SG	V
+sviatky	holiday	sviatok	holiday	N;INAN;NOM;MASC;PL	
+sviatky	度假	sviatok	度假	N;INAN;NOM;MASC;PL	V
+evans	evans	evans	evans	PROPN;ANIM;NOM;MASC;SG	
+pochybnosti	懷疑	pochybnosť	懷疑	N;NOM;FEM;PL	V
+pochybnosti	疑慮	pochybnosť	疑慮	N;NOM;FEM;PL	V
+pochybnosti	疑慮	pochybnosť	疑慮	N;NOM;FEM;PL	V
+turner	turner	turner	turner	PROPN;ANIM;NOM;MASC;SG	
+orion	獵戶	orion	獵戶	PROPN;ANIM;NOM;MASC;SG	N
+kolektívne	集體	kolektívne	集體	ADJ;NOM;NEUT;SG	N
+ťažká	重	ťažký	重	ADJ;NOM;FEM;SG	N
+ťažká	重型	ťažký	重型	ADJ;NOM;FEM;SG	N
+ťažká	沈	ťažký	沈	ADJ;NOM;FEM;SG	PROPN
+ťažká	重度	ťažký	重度	ADJ;NOM;FEM;SG	N
+nezávislá	獨立	závislo	獨立	ADJ;NOM;FEM;SG	N
+narodenie	分娩	narodenie	分娩	N;NOM;NEUT;SG	
+narodenie	難產	narodenie	難產	N;NOM;NEUT;SG	V
+narodenie	出生	narodenie	出生	N;NOM;NEUT;SG	V
+low	低低	low	低低		N
+low	低	low	低		PART
+originál	原	originál	原	N;INAN;NOM;MASC;SG	PART
+hrubá	毛	hrubý	毛	ADJ;NOM;FEM;SG	PROPN
+hrubá	毛額	hrubý	毛額	ADJ;NOM;FEM;SG	N
+hrubá	厚	hrubý	厚	ADJ;NOM;FEM;SG	PART
+aliancie	結盟	aliancia	結盟	N;NOM;FEM;PL	V
+veliteľstvo	命令	veliteľstvo	命令	N;NOM;NEUT;SG	V
+veliteľstvo	指揮	veliteľstvo	指揮	N;NOM;NEUT;SG	V
+spojenectvo	結盟	spojenectvo	結盟	N;NOM;NEUT;SG	V
+nicole	nicole	nicole	nicole	PROPN;NOM;FEM;SG	
+cisársky	帝王	cisársky	帝王	ADJ;ANIM;NOM;MASC;SG	N
+orientácie	定	orientácia	定	N;NOM;FEM;PL	V
+nikola	nikola	nikolo	nikola	PROPN;NOM;FEM;SG	
+konkrétnych	具體	konkrétny	具體	ADJ;GEN;MASC;PL	V
+obranné	防禦	obranný	防禦	ADJ;NOM;NEUT;SG	N
+iránu	伊朗	irána	伊朗	N;INAN;GEN;MASC;SG	PROPN
+sídliská	bkv	sídlisko	bkv	N;NOM;NEUT;PL	PROPN
+pilotom	飛行	pilot	飛行	N;ANIM;INS;MASC;SG	V
+pilotom	駕駛	pilot	駕駛	N;ANIM;INS;MASC;SG	V
+ohrozenia	威脅	ohrozenie	威脅	N;NOM;NEUT;PL	V
+mohamed	穆罕默德	mohamed	穆罕默德	N;ANIM;NOM;MASC;SG	PROPN
+mohamed	穆罕默德	mohamed	穆罕默德	N;ANIM;NOM;MASC;SG	PROPN
+spotreby	消費	spotreby	消費	N;NOM;FEM;PL	V
+spotreby	消耗	spotreby	消耗	N;NOM;FEM;PL	V
+náhodne	隨機	náhodne	隨機	ADV	ADJ
+lietať	飛	lietať	飛	V;IPFV;POS;NFIN	N
+lietať	蒼蠅	lietať	蒼蠅	V;IPFV;POS;NFIN	N
+lietať	飛翔	lietať	飛翔	V;IPFV;POS;NFIN	N
+forest	森林	forest	森林	PROPN;ANIM;NOM;MASC;SG	N
+prímerie	休戰	prímerie	休戰	N;NOM;NEUT;SG	V
+prímerie	停戰	prímerie	停戰	N;NOM;NEUT;SG	V
+prímerie	停火	prímerie	停火	N;NOM;NEUT;SG	V
+prímerie	停戰	prímerie	停戰	N;NOM;NEUT;SG	V
+prímerie	停戰	prímerie	停戰	N;NOM;NEUT;SG	V
+poškodená	受損	poškodený	受損	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+poškodená	損壞	poškodený	損壞	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	N
+poškodená	損壞	poškodený	損壞	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	N
+dokončenie	竣工	dokončenie	竣工	N;NOM;NEUT;SG	V
+lang	朗	lang	朗	PROPN;ANIM;NOM;MASC;SG	
+lang	郎	lang	郎	PROPN;ANIM;NOM;MASC;SG	N
+arabi	阿拉伯	arabi	阿拉伯	N;ANIM;NOM;MASC;PL	PROPN
+ľavý	左側	ľavý	左側	ADJ;ANIM;NOM;MASC;SG	N
+ľavý	左	ľavý	左	ADJ;ANIM;NOM;MASC;SG	N
+ľavý	左翼	ľavý	左翼	ADJ;ANIM;NOM;MASC;SG	N
+ľavý	左邊	ľavý	左邊	ADJ;ANIM;NOM;MASC;SG	N
+kolumbie	哥倫比亞	kolumbie	哥倫比亞	N;NOM;NEUT;PL	PROPN
+menšina	少數	menšina	少數	N;NOM;FEM;SG	ADJ
+menšina	少數	menšina	少數	N;NOM;FEM;SG	ADJ
+tajné	秘密	tajný	秘密	ADJ;NOM;NEUT;SG	N
+elektromagnetické	電磁	elektromagnetický	電磁	ADJ;NOM;NEUT;SG	N
+piotr	piotr	piotr	piotr	PROPN;ANIM;NOM;MASC;SG	
+pripojiť	山	pripojiť	山	V;PFV;POS;NFIN	N
+vietnamu	越南	vietny	越南	ADJ;DAT;NEUT;SG	PROPN
+muhammad	穆罕默德	muhammad	穆罕默德	N;ANIM;NOM;MASC;SG	PROPN
+itunes	itunes	itunes	itunes	N;INAN;NOM;MASC;SG	
+rozvod	離婚	rozvod	離婚	N;INAN;NOM;MASC;SG	V
+yves	yves	yves	yves	PROPN;ANIM;NOM;MASC;SG	
+playstation	playstation	playstation	playstation	N;NOM;FEM;PL	
+zdrojový	來源	zdrojový	來源	ADJ;INAN;NOM;MASC;SG	N
+zdrojový	源	zdrojový	源	ADJ;INAN;NOM;MASC;SG	
+úzke	狹義	úzka	狹義	ADJ;NOM;NEUT;SG	N
+úzke	狹隘	úzka	狹隘	ADJ;NOM;NEUT;SG	N
+úzke	縮小	úzka	縮小	ADJ;NOM;NEUT;SG	V
+úzke	窄	úzka	窄	ADJ;NOM;NEUT;SG	PART
+knowles	knowles	knowles	knowles	PROPN;ANIM;NOM;MASC;SG	
+face	臉	faca	臉		N
+face	臉部	faca	臉部		N
+javier	javier	javier	javier	PROPN;ANIM;NOM;MASC;SG	
+dodávky	送貨	dodávka	送貨	N;NOM;FEM;PL	V
+dodávky	交付	dodávka	交付	N;NOM;FEM;PL	V
+dodávky	交貨	dodávka	交貨	N;NOM;FEM;PL	V
+dodávky	供應	dodávka	供應	N;NOM;FEM;PL	V
+digitálny	數碼	digitálny	數碼	ADJ;ANIM;NOM;MASC;SG	N
+digitálny	數位	digitálny	數位	ADJ;ANIM;NOM;MASC;SG	N
+gay	同性	gay	同性	PROPN;ANIM;NOM;MASC;SG	N
+gay	gay	gay	gay	PROPN;ANIM;NOM;MASC;SG	
+kazachstane	哈薩克	kazachstane	哈薩克	N;DAT;FEM;SG	PROPN
+monitor	監視	monitor	監視	N;INAN;NOM;MASC;SG	V
+monitor	監測	monitor	監測	N;INAN;NOM;MASC;SG	V
+vizuálne	視覺	vizuálny	視覺	ADV	N
+vystavený	暴露	vystavený	暴露	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	
+vystavený	曝光	vystavený	曝光	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+pásy	脫	pása	脫	N;INAN;NOM;MASC;PL	V
+pásy	脫衣	pása	脫衣	N;INAN;NOM;MASC;PL	V
+túžba	渴望	túžba	渴望	N;NOM;FEM;SG	V
+túžba	渴求	túžba	渴求	N;NOM;FEM;SG	V
+túžba	渴望	túžba	渴望	N;NOM;FEM;SG	V
+dopyt	需求	dopyt	需求	N;INAN;NOM;MASC;SG	V
+dopyt	要求	dopyt	要求	N;INAN;NOM;MASC;SG	V
+guatemala	瓜地馬拉	guatemať	瓜地馬拉	N;NOM;FEM;SG	PROPN
+manželov	配偶	manžel	配偶	N;ANIM;ACC;MASC;PL	V
+nápravy	更	náprava	更	N;NOM;FEM;PL	ADV
+vraždu	謀殺	vražda	謀殺	N;ACC;FEM;SG	V
+vraždu	謀殺	vražda	謀殺	N;ACC;FEM;SG	V
+vraždu	謀殺	vražda	謀殺	N;ACC;FEM;SG	V
+spojka	離合	spojka	離合	N;NOM;FEM;SG	V
+crazy	瘋狂	crazy	瘋狂	PROPN;NOM;FEM;SG	N
+crazy	瘋	crazy	瘋	PROPN;NOM;FEM;SG	
+crazy	瘋	crazy	瘋	PROPN;NOM;FEM;SG	V
+digitálna	數碼	digitálny	數碼	ADJ;NOM;FEM;SG	N
+digitálna	數位	digitálny	數位	ADJ;NOM;FEM;SG	N
+amor	amor	amor	amor	PROPN;ANIM;NOM;MASC;SG	
+komunisti	共產	komunista	共產	N;ANIM;NOM;MASC;PL	V
+dramatický	戲劇	dramatický	戲劇	ADJ;INAN;NOM;MASC;SG	N
+rozmnožovanie	傳播	rozmnožovanie	傳播	N;NOM;NEUT;SG	V
+rozmnožovanie	繁殖	rozmnožovanie	繁殖	N;NOM;NEUT;SG	V
+rozmnožovanie	複製	rozmnožovanie	複製	N;NOM;NEUT;SG	V
+rozmnožovanie	繁殖	rozmnožovanie	繁殖	N;NOM;NEUT;SG	V
+spolupracovali	協作	spolupracovať	協作	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP	N
+jose	jose	jos	jose	PROPN;ANIM;NOM;MASC;SG	
+biskupstvo	bishopric	biskupstvo	bishopric	N;NOM;NEUT;SG	
+jensen	jensen	jensen	jensen	PROPN;ANIM;NOM;MASC;SG	
+odvodená	推斷	odvodený	推斷	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+zbytočné	無	zbytočný	無	ADJ;NOM;NEUT;SG	V
+zbytočné	無用	zbytočný	無用	ADJ;NOM;NEUT;SG	V
+líška	fox	líška	fox	N;NOM;FEM;SG	
+walesu	威爾斯	wales	威爾斯	N;INAN;GEN;MASC;SG	PROPN
+poľnohospodársky	農業	poľnohospodársky	農業	ADJ;ANIM;NOM;MASC;SG	N
+eos	eos	eos	eos		
+pohreb	喪葬	pohreb	喪葬	N;INAN;NOM;MASC;SG	V
+pohreb	葬	pohreb	葬	N;INAN;NOM;MASC;SG	V
+pohreb	埋葬	pohreb	埋葬	N;INAN;NOM;MASC;SG	V
+pohreb	喪葬	pohreb	喪葬	N;INAN;NOM;MASC;SG	V
+pohreb	喪禮	pohreb	喪禮	N;INAN;NOM;MASC;SG	V
+hliny	黏土	hlina	黏土	N;NOM;FEM;PL	
+hliny	粘土	hlina	粘土	N;NOM;FEM;PL	
+zachytiť	截	zachytiť	截	V;PFV;POS;NFIN	ADV
+nevhodné	不當	nevhodný	不當	ADJ;NOM;NEUT;SG	V
+gpl	gpl	gpl	gpl	N;INAN;NOM;MASC;SG	
+pohonu	推進	pohon	推進	N;INAN;GEN;MASC;SG	V
+horúce	熱	horúci	熱	ADJ;NOM;NEUT;PL	PART
+horúce	燙	horúci	燙	ADJ;NOM;NEUT;PL	N
+vražda	刺殺	vražda	刺殺	N;NOM;FEM;SG	V
+vražda	謀殺	vražda	謀殺	N;NOM;FEM;SG	V
+vražda	謀殺	vražda	謀殺	N;NOM;FEM;SG	V
+vražda	謀殺	vražda	謀殺	N;NOM;FEM;SG	V
+nov	十一	on	十一	INTJ	NUM
+nevyhnutne	無	nevyhnutne	無	ADV	V
+ellen	ellen	ellen	ellen	PROPN;NOM;FEM;SG	
+oslavy	慶祝	oslava	慶祝	N;NOM;FEM;PL	V
+dosah	撞擊	dosah	撞擊	N;INAN;NOM;MASC;SG	V
+dosah	影響	dosah	影響	N;INAN;NOM;MASC;SG	V
+dosah	影響	dosah	影響	N;INAN;NOM;MASC;SG	V
+dosah	衝擊	dosah	衝擊	N;INAN;NOM;MASC;SG	V
+dosah	觸及	dosah	觸及	N;INAN;NOM;MASC;SG	
+africká	非洲	africký	非洲	ADJ;NOM;FEM;SG	PROPN
+poraziť	節拍	poraziť	節拍	V;PFV;POS;NFIN	N
+poraziť	敗	poraziť	敗	V;PFV;POS;NFIN	N
+powell	鮑威爾	pohell	鮑威爾	PROPN;ANIM;NOM;MASC;SG	PROPN
+vydatá	已婚	vyda	已婚	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	N
+devín	devin	devina	devin	N;INAN;NOM;MASC;SG	
+dinamo	dinamo	dinamo	dinamo	N;NOM;NEUT;SG	
+vitamín	維生	vitamín	維生	N;NOM;FEM;SG	V
+špecificky	具體	špecificky	具體	ADV	ADJ
+tepelné	熱力	tepelný	熱力	ADJ;NOM;NEUT;SG	N
+skrátený	縮短	skrátený	縮短	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	V
+mcnaught	mcnaught	mcnaught	mcnaught	N;NOM;MASC;SG	
+mitsubishi	三菱	mitsubis	三菱	N;INAN;NOM;MASC;SG	PROPN
+lekárska	醫療	lekársky	醫療	ADJ;NOM;FEM;SG	N
+lekárska	醫務	lekársky	醫務	ADJ;NOM;FEM;SG	N
+lekárska	醫學	lekársky	醫學	ADJ;NOM;FEM;SG	N
+zväčšenie	擴大	zväčšenie	擴大	N;NOM;NEUT;SG	V
+zväčšenie	擴大	zväčšenie	擴大	N;NOM;NEUT;SG	V
+funk	funk	funk	funk	N;INAN;NOM;MASC;SG	
+prehliadač	瀏覽	prehliadač	瀏覽	N;INAN;NOM;MASC;SG	V
+priemerné	平均	priemerný	平均	ADJ;NOM;NEUT;SG	ADV
+priemerné	平均	priemerný	平均	ADJ;NOM;NEUT;SG	ADV
+spodný	下方	spodný	下方	ADJ;ANIM;NOM;MASC;SG	N
+spodný	底	spodný	底	ADJ;ANIM;NOM;MASC;SG	N
+spodný	底部	spodný	底部	ADJ;ANIM;NOM;MASC;SG	N
+spodný	底下	spodný	底下	ADJ;ANIM;NOM;MASC;SG	N
+športovec	運動	športovec	運動	N;ANIM;NOM;MASC;SG	V
+športovec	運動	športovec	運動	N;ANIM;NOM;MASC;SG	V
+jürgen	jürgen	jürgen	jürgen	N;ANIM;NOM;MASC;SG	
+ukladanie	儲存	ukladanie	儲存	N;NOM;NEUT;SG	V
+ukladanie	貯存	ukladanie	貯存	N;NOM;NEUT;SG	
+ukladanie	節省	ukladanie	節省	N;NOM;NEUT;SG	V
+hold	悼念	hold	悼念	N;INAN;NOM;MASC;SG	V
+nepokoje	騷亂	nepokoj	騷亂	N;INAN;NOM;MASC;PL	V
+nepokoje	騷亂	nepokoj	騷亂	N;INAN;NOM;MASC;PL	V
+zranený	受傷	zranený	受傷	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+zranený	傷	zranený	傷	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	N
+zranený	負傷	zranený	負傷	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	N
+zranený	傷害	zranený	傷害	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	N
+povinné	強制	povinný	強制	ADJ;NOM;NEUT;SG	V
+povinné	強制	povinný	強制	ADJ;NOM;NEUT;SG	V
+bon	bon	bon	bon	PROPN;ANIM;NOM;MASC;SG	
+litve	立陶宛	litva	立陶宛	N;INAN;NOM;MASC;SG	PROPN
+vertikálne	垂直	vertikálne	垂直	ADJ;NOM;NEUT;SG	N
+vertikálne	縱向	vertikálne	縱向	ADJ;NOM;NEUT;SG	N
+vertikálne	垂直	vertikálne	垂直	ADJ;NOM;NEUT;SG	N
+vertikálne	縱向	vertikálne	縱向	ADJ;NOM;NEUT;SG	N
+skutočná	real	skutočný	real	ADJ;NOM;FEM;SG	
+skutočná	實際	skutočný	實際	ADJ;NOM;FEM;SG	N
+oprava	修復	oprava	修復	N;NOM;FEM;SG	V
+oprava	維修	oprava	維修	N;NOM;FEM;SG	V
+oprava	修理	oprava	修理	N;NOM;FEM;SG	V
+oprava	修繕	oprava	修繕	N;NOM;FEM;SG	V
+oprava	改正	oprava	改正	N;NOM;FEM;SG	V
+oprava	糾正	oprava	糾正	N;NOM;FEM;SG	V
+oprava	更	oprava	更	N;NOM;FEM;SG	ADV
+oprava	改正	oprava	改正	N;NOM;FEM;SG	V
+oprava	糾正	oprava	糾正	N;NOM;FEM;SG	V
+váš	你	tvoj	你	DET;INAN;NOM;MASC;SG;2	PRO;2
+dramatické	戲劇	dramatický	戲劇	ADJ;NOM;NEUT;SG	N
+inštrukcie	指示	inštrukcia	指示	N;NOM;FEM;PL	V
+inštrukcie	指示	inštrukcia	指示	N;NOM;FEM;PL	V
+cpk	cpk	cpk	cpk		
+limited	有限	limited	有限	N;NOM;FEM;SG	ADJ
+limited	受限	limited	受限	N;NOM;FEM;SG	V
+pokoja	寧	pokoj	寧	N;INAN;GEN;MASC;SG	PROPN
+vladimirovič	vladimirovich	vladimirovič	vladimirovich	N;ANIM;NOM;MASC;SG	
+duchovného	靈性	duchovný	靈性	ADJ;ANIM;GEN;MASC;SG	N
+duchovného	精神	duchovný	精神	ADJ;ANIM;GEN;MASC;SG	N
+mach	moss	mach	moss	N;ANIM;NOM;MASC;SG	
+generáciu	一	generácia	一	N;ACC;FEM;SG	NUM
+alain	alain	alain	alain	PROPN;ANIM;NOM;MASC;SG	
+fat	肥	fat	肥		N
+fat	脂	fat	脂		N
+fat	胖	fat	胖		N
+morálne	道義	morálne	道義	ADJ;NOM;NEUT;SG	N
+morálne	道德	morálne	道德	ADJ;NOM;NEUT;SG	N
+odporúčania	建議	odporúčanie	建議	N;NOM;NEUT;PL	V
+odporúčania	建議	odporúčanie	建議	N;NOM;NEUT;PL	V
+napíš	寫作	napísať	寫作	V;PFV;IMP;SG;2;POS;FIN	N
+vodcovia	領導	vodca	領導	N;ANIM;NOM;MASC;PL	V
+vodcovia	領導	vodca	領導	N;ANIM;NOM;MASC;PL	V
+vládnuť	細則	vládnuť	細則	V;IPFV;POS;NFIN	N
+ôsmy	第八	oso	第八	ADJ;INAN;NOM;MASC;SG	NUM
+večný	永恆	večný	永恆	ADJ;ANIM;NOM;MASC;SG	N
+etnické	族裔	etnický	族裔	ADJ;NOM;NEUT;SG	N
+pakistan	巴基斯坦	pakistan	巴基斯坦	N;ANIM;NOM;MASC;SG	PROPN
+alessandro	alessandro	alessandro	alessandro	N;ANIM;NOM;MASC;SG	
+nadvládu	支配	nadvláda	支配	N;ACC;FEM;SG	V
+trans	跨	trans	跨	PROPN;ANIM;NOM;MASC;SG	
+trans	轉運	trans	轉運	PROPN;ANIM;NOM;MASC;SG	N
+britney	britney	britney	britney	N;NOM;FEM;SG	
+mor	mor	mor	mor	N;INAN;NOM;MASC;SG	
+negatívny	負面	negatívny	負面	ADJ;INAN;NOM;MASC;SG	N
+negatívny	負	negatívny	負	ADJ;INAN;NOM;MASC;SG	
+negatívny	否定	negatívny	否定	ADJ;INAN;NOM;MASC;SG	V
+negatívny	陰性	negatívny	陰性	ADJ;INAN;NOM;MASC;SG	N
+negatívny	消極	negatívny	消極	ADJ;INAN;NOM;MASC;SG	N
+tibetu	西藏	tibeta	西藏	N;INAN;GEN;MASC;SG	PROPN
+autonómiu	自治	autonómia	自治	N;ACC;FEM;SG	V
+cestujúci	乘客	cestujúci	乘客	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT	N
+cestujúci	旅客	cestujúci	旅客	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT	N
+cestujúci	乘客	cestujúci	乘客	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT	N
+cestujúci	旅客	cestujúci	旅客	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT	N
+publikácia	出版	publikácia	出版	N;NOM;FEM;SG	V
+publikácia	出版	publikácia	出版	N;NOM;FEM;SG	V
+liečivé	藥用	liečivý	藥用	ADJ;NOM;NEUT;SG	N
+aug	八	aug	八	INTJ	NUM
+rotácia	旋轉	rotácia	旋轉	N;NOM;FEM;SG	V
+rotácia	自轉	rotácia	自轉	N;NOM;FEM;SG	V
+rotácia	輪換	rotácia	輪換	N;NOM;FEM;SG	V
+letom	飛行	let	飛行	N;INAN;INS;MASC;SG	V
+bull	牛	bull	牛	PROPN;ANIM;NOM;MASC;SG	N
+bull	公牛	bull	公牛	PROPN;ANIM;NOM;MASC;SG	N
+spojencom	ally	spojenec	ally	N;ANIM;INS;MASC;SG	
+manželia	配偶	manželiť	配偶	N;ANIM;NOM;MASC;PL	V
+piate	第五	piaty	第五	ADJ;NOM;NEUT;SG	NUM
+piate	第五	piaty	第五	ADJ;NOM;NEUT;SG	NUM
+denné	日間	denný	日間	ADJ;NOM;NEUT;SG	N
+denné	每日	denný	每日	ADJ;NOM;NEUT;SG	N
+nočné	夜行	nočný	夜行	ADJ;NOM;NEUT;SG	N
+nočné	夜晚	nočný	夜晚	ADJ;NOM;NEUT;SG	N
+nočné	晚上	nočný	晚上	ADJ;NOM;NEUT;SG	N
+nočné	夜	nočný	夜	ADJ;NOM;NEUT;SG	N
+operátor	經營	operátor	經營	N;INAN;NOM;MASC;SG	V
+madison	madison	madison	madison	PROPN;ANIM;NOM;MASC;SG	
+lincoln	林	lincolný	林	PROPN;ANIM;NOM;MASC;SG	PROPN
+mexico	墨西哥	mexico	墨西哥	N;INAN;NOM;MASC;SG	PROPN
+singapur	新加坡	singapur	新加坡	N;INAN;NOM;MASC;SG	PROPN
+falls	瀑布	falls	瀑布	PROPN;ANIM;NOM;MASC;SG	N
+modlitba	祈	modlitba	祈	N;NOM;FEM;SG	V
+ted	ted	ted	ted	PROPN;ANIM;NOM;MASC;SG	
+julie	julie	julia	julie	PROPN;NOM;FEM;SG	
+carla	carla	carnúť	carla	PROPN;NOM;FEM;SG	
+žijúce	生活	žijúci	生活	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	V
+draselný	鉀	draselný	鉀	ADJ;INAN;NOM;MASC;SG	N
+farra	法拉	farra	法拉	N;NOM;FEM;SG	PROPN
+matematický	數學	matematický	數學	ADJ;ANIM;NOM;MASC;SG	N
+cat	貓咪	cat	貓咪	PROPN;ANIM;VOC;MASC;SG	N
+cat	貓	cat	貓	PROPN;ANIM;VOC;MASC;SG	N
+cat	cat	cat	cat	PROPN;ANIM;VOC;MASC;SG	
+filter	濾波	filter	濾波	N;INAN;NOM;MASC;SG	V
+filter	過濾	filter	過濾	N;INAN;NOM;MASC;SG	V
+pozemku	密謀	pozemok	密謀	N;INAN;GEN;MASC;SG	V
+donau	多瑙	dona	多瑙	PROPN;INAN;NOM;MASC;SG	PROPN
+kopci	希爾	kopec	希爾	N;INAN;ESS;MASC;SG	PROPN
+ward	ward	ward	ward	PROPN;ANIM;NOM;MASC;SG	
+ward	病房	ward	病房	PROPN;ANIM;NOM;MASC;SG	N
+diaľnicu	高速	diaľnica	高速	N;ACC;FEM;SG	ADJ
+mastering	掌握	mastering	掌握	N;INAN;NOM;MASC;SG	V
+trvalý	持久	trvalý	持久	ADJ;INAN;NOM;MASC;SG	V
+trvalý	永久	trvalý	永久	ADJ;INAN;NOM;MASC;SG	N
+trvalý	持久	trvalý	持久	ADJ;INAN;NOM;MASC;SG	V
+piesku	沙	pieska	沙	N;INAN;GEN;MASC;SG	PROPN
+požiadavka	要求	požiadavka	要求	N;NOM;FEM;SG	V
+požiadavka	請求	požiadavka	請求	N;NOM;FEM;SG	V
+požiadavka	要求	požiadavka	要求	N;NOM;FEM;SG	V
+stabilitu	穩定	stabilita	穩定	N;ACC;FEM;SG	ADJ
+kópia	複製	kópia	複製	N;NOM;FEM;SG	V
+kópia	副	kópia	副	N;NOM;FEM;SG	PART
+jemne	溫和	jemne	溫和	ADV	ADJ
+jemne	溫柔	jemne	溫柔	ADV	N
+jemne	輕聲	jemne	輕聲	ADV	N
+spin	旋轉	spin	旋轉	INTJ	V
+edwin	edwin	edwin	edwin	PROPN;ANIM;NOM;MASC;SG	
+získavanie	購置	získavanie	購置	N;NOM;NEUT;SG	V
+jablonec	jablonec	jablonec	jablonec	N;ANIM;NOM;MASC;SG	
+slávnostné	喜慶	slávnostný	喜慶	ADJ;NOM;NEUT;SG	N
+živá	活潑	živý	活潑	ADJ;NOM;FEM;SG	N
+živá	熱鬧	živý	熱鬧	ADJ;NOM;FEM;SG	N
+živá	活著	živý	活著	ADJ;NOM;FEM;SG	V
+ghs	ghs	ghs	ghs	N;INAN;NOM;MASC;SG	
+končatín	四	končatina	四	N;NOM;NEUT;PL	NUM
+valencia	valencia	valencia	valencia	N;NOM;FEM;SG	
+tvrdo	難	tvrdo	難	ADV	N
+tvrdo	硬	tvrdo	硬	ADV	PART
+tvrdo	辛苦	tvrdo	辛苦	ADV	N
+koch	koch	kto	koch	PROPN;ANIM;NOM;MASC;SG	
+lcd	lcd	lcd	lcd		N
+lcd	液晶	lcd	液晶		N
+guillermo	guillermo	guillermo	guillermo	N;ANIM;NOM;MASC;SG	
+platné	有效	platný	有效	ADJ;NOM;NEUT;SG	V
+break	中斷	break	中斷	N;INAN;NOM;MASC;SG	V
+break	休息	break	休息	N;INAN;NOM;MASC;SG	V
+break	打破	break	打破	N;INAN;NOM;MASC;SG	V
+pekný	尼斯	pekný	尼斯	ADJ;ANIM;NOM;MASC;SG	PROPN
+pekný	帥哥	pekný	帥哥	ADJ;ANIM;NOM;MASC;SG	N
+pekný	英	pekný	英	ADJ;ANIM;NOM;MASC;SG	PROPN
+pekný	帥	pekný	帥	ADJ;ANIM;NOM;MASC;SG	N
+jorge	jorge	jorga	jorge	PROPN;ANIM;NOM;MASC;SG	
+pevná	固體	pevný	固體	ADJ;NOM;FEM;SG	N
+pevná	固態	pevný	固態	ADJ;NOM;FEM;SG	N
+pevná	實心	pevný	實心	ADJ;NOM;FEM;SG	N
+pevná	扎實	pevný	扎實	ADJ;NOM;FEM;SG	N
+pevná	堅固	pevný	堅固	ADJ;NOM;FEM;SG	N
+pevná	事務	pevný	事務	ADJ;NOM;FEM;SG	N
+javor	javor	javor	javor	N;INAN;NOM;MASC;SG	
+act	act	act	act	PROPN;ANIM;NOM;MASC;SG	
+aktuálna	電流	aktuálny	電流	ADJ;NOM;FEM;SG	N
+aktuálna	現任	aktuálny	現任	ADJ;NOM;FEM;SG	N
+aktuálna	目前	aktuálny	目前	ADJ;NOM;FEM;SG	N
+skratky	縮寫	skratok	縮寫	N;INAN;NOM;MASC;PL	V
+biblické	聖經	biblický	聖經	ADJ;NOM;NEUT;SG	PROPN
+preložený	翻譯	preložený	翻譯	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS	V
+neformálne	休閒	neformálny	休閒	ADV	N
+neformálne	非	neformálny	非	ADV	PROPN
+terra	terra	tere	terra	N;NOM;FEM;SG	
+caroline	caroline	carolina	caroline	N;NOM;FEM;SG	
+paes	paes	paes	paes	PROPN;ANIM;NOM;MASC;SG	
+neprítomnosti	缺席	neprítomnosť	缺席	N;DAT;FEM;SG	V
+prijatí	收據	prijatie	收據	N;NOM;NEUT;PL	V
+filipíny	菲律賓	filipína	菲律賓	N;INAN;NOM;MASC;PL	PROPN
+dary	送禮	dar	送禮	N;INAN;NOM;MASC;PL	V
+dary	捐贈	dar	捐贈	N;INAN;NOM;MASC;PL	V
+dary	捐助	dar	捐助	N;INAN;NOM;MASC;PL	V
+dary	捐款	dar	捐款	N;INAN;NOM;MASC;PL	V
+nadol	往下	nadol	往下	ADV	N
+nadol	向	nadol	向	ADV	ADP
+gif	gif	gif	gif		
+exile	流亡	exila	流亡	PROPN;INAN;NOM;MASC;SG	V
+exile	放逐	exila	放逐	PROPN;INAN;NOM;MASC;SG	V
+exile	流放	exila	流放	PROPN;INAN;NOM;MASC;SG	V
+zero	零	zero	零	PROPN;ANIM;NOM;MASC;SG	NUM
+stručný	簡明	stručný	簡明	ADJ;ANIM;NOM;MASC;SG	N
+vykonané	完成	vykonaný	完成	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+cameron	cameron	cameron	cameron	PROPN;ANIM;NOM;MASC;SG	
+stráž	守衛	stráža	守衛	N;NOM;FEM;SG	V
+stráž	守衛	stráža	守衛	N;NOM;FEM;SG	V
+katolíkov	天主	katolík	天主	N;ANIM;ACC;MASC;PL	PROPN
+pomeru	比	pomera	比	N;INAN;GEN;MASC;SG	ADP
+arabsky	阿拉伯	arabsky	阿拉伯	N;ANIM;NOM;MASC;SG	PROPN
+arabsky	阿拉伯	arabsky	阿拉伯	N;ANIM;NOM;MASC;SG	PROPN
+prieskumné	偵查	prieskumný	偵查	ADJ;NOM;NEUT;SG	N
+prieskumné	偵察	prieskumný	偵察	ADJ;NOM;NEUT;SG	V
+talk	聊	talk	聊		V
+santos	santos	santos	santos	PROPN;ANIM;NOM;MASC;SG	
+zaujímavá	有趣	zaujímavý	有趣	ADJ;NOM;FEM;SG	N
+fiktívne	虛構	fiktívne	虛構	ADJ;NOM;NEUT;SG	N
+fiktívne	虛構	fiktívne	虛構	ADJ;NOM;NEUT;SG	N
+small	小型	small	小型	PROPN;ANIM;NOM;MASC;SG	N
+small	小	small	小	PROPN;ANIM;NOM;MASC;SG	PART
+originálne	原文	originálne	原文	ADJ;NOM;NEUT;SG	N
+originálne	原件	originálne	原件	ADJ;NOM;NEUT;SG	N
+originálne	原創	originálne	原創	ADJ;NOM;NEUT;SG	N
+originálne	原始	originálne	原始	ADJ;NOM;NEUT;SG	N
+originálne	原	originálne	原	ADJ;NOM;NEUT;SG	PART
+kandidáti	候選	kandidát	候選	N;ANIM;NOM;MASC;PL	V
+konžskej	剛果	konžský	剛果	N;GEN;FEM;SG	PROPN
+maroko	摩洛哥	maroko	摩洛哥	N;INAN;NOM;MASC;SG	PROPN
+nápoj	喝	nápoj	喝	N;INAN;NOM;MASC;SG	V
+nápoj	喝酒	nápoj	喝酒	N;INAN;NOM;MASC;SG	V
+nemčina	德文	nemčina	德文	N;NOM;FEM;SG	PROPN
+nemčina	德	nemčina	德	N;NOM;FEM;SG	PROPN
+verí	信託	veriť	信託	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+guľa	orb	guľa	orb	N;NOM;FEM;SG	
+ankete	投票	anketa	投票	N;DAT;FEM;SG	V
+nákladná	運費	nákladný	運費	ADJ;NOM;FEM;SG	N
+nákladná	貨運	nákladný	貨運	ADJ;NOM;FEM;SG	N
+operu	opera	opera	opera	N;ACC;FEM;SG	
+spencer	spencer	spencer	spencer	PROPN;ANIM;NOM;MASC;SG	
+kvantová	量子	kvantový	量子	ADJ;NOM;FEM;SG	N
+emisie	排放	emisia	排放	N;NOM;FEM;PL	V
+emisie	排放	emisia	排放	N;NOM;FEM;PL	V
+emisie	排放	emisia	排放	N;NOM;FEM;PL	V
+emisie	排放	emisia	排放	N;NOM;FEM;PL	V
+kúsok	切片	kúsok	切片	N;INAN;NOM;MASC;SG	V
+murphy	murphy	murpeh	murphy	PROPN;NOM;FEM;SG	
+objavenie	發現	objavenie	發現	N;NOM;NEUT;SG	V
+objavenie	探索	objavenie	探索	N;NOM;NEUT;SG	V
+ultra	超	ultra	超	N;NOM;MASC;SG	PART
+kovový	金屬	kovový	金屬	ADJ;ANIM;NOM;MASC;SG	N
+obeťou	受害	obeť	受害	N;INS;FEM;SG	V
+obeťou	受害	obeť	受害	N;INS;FEM;SG	V
+mod	mod	mod	mod	N;INAN;NOM;MASC;SG	
+židom	猶太	žid	猶太	N;ANIM;DAT;MASC;PL	PROPN
+židom	猶太	žid	猶太	N;ANIM;DAT;MASC;PL	PROPN
+tech	科技	tech	科技		N
+cene	price	cena	price	N;DAT;FEM;SG	
+vykazuje	展覽	vykazovať	展覽	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+vykazuje	展品	vykazovať	展品	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+objektívne	目標	objektívne	目標	ADV	N
+reforma	改革	reforma	改革	N;NOM;FEM;SG	V
+tango	探戈	tango	探戈	N;INAN;NOM;MASC;SG	V
+richter	richter	richter	richter	PROPN;ANIM;NOM;MASC;SG	
+sezónne	季節	sezónne	季節	ADV	N
+navonok	外部	navonok	外部	ADV	N
+navonok	對外	navonok	對外	ADV	
+inn	inn	inn	inn	N;INAN;NOM;MASC;SG	
+jazdu	乘車	jazda	乘車	N;ACC;FEM;SG	V
+mimoriadny	非凡	mimoriadny	非凡	ADJ;ANIM;NOM;MASC;SG	PROPN
+komunistov	共產	komunista	共產	N;ANIM;GEN;MASC;PL	V
+zhodné	配對	zhodný	配對	ADJ;NOM;NEUT;SG	V
+zhodné	比對	zhodný	比對	ADJ;NOM;NEUT;SG	V
+zhodné	匹配	zhodný	匹配	ADJ;NOM;NEUT;SG	V
+sprievod	遊行	sprievod	遊行	N;INAN;NOM;MASC;SG	V
+sprievod	巡遊	sprievod	巡遊	N;INAN;NOM;MASC;SG	V
+sprievod	遊行	sprievod	遊行	N;INAN;NOM;MASC;SG	V
+lisabon	里斯本	lisabon	里斯本	N;INAN;NOM;MASC;SG	PROPN
+lisabon	lisbon	lisabon	lisbon	N;INAN;NOM;MASC;SG	
+africký	非洲	africký	非洲	ADJ;ANIM;NOM;MASC;SG	PROPN
+kresba	畫畫	kresba	畫畫	N;NOM;FEM;SG	V
+fungovanie	運算	fungovanie	運算	N;NOM;NEUT;SG	V
+fungovanie	操作	fungovanie	操作	N;NOM;NEUT;SG	V
+fungovanie	運作	fungovanie	運作	N;NOM;NEUT;SG	V
+ponuka	投標	ponuka	投標	N;NOM;FEM;SG	V
+ponuka	出價	ponuka	出價	N;NOM;FEM;SG	V
+výrazná	發音	výrazný	發音	ADJ;NOM;FEM;SG	V
+rozchod	失戀	rozchod	失戀	N;INAN;NOM;MASC;SG	V
+ústup	退	ústup	退	N;INAN;NOM;MASC;SG	V
+ústup	撤退	ústup	撤退	N;INAN;NOM;MASC;SG	V
+uruguaj	烏拉圭	uruguaj	烏拉圭	N;NOM;NEUT;SG	PROPN
+príručka	手動	príručka	手動	N;NOM;FEM;SG	V
+nastavenie	調整	nastavenie	調整	N;NOM;NEUT;SG	V
+nastavenie	設定	nastavenie	設定	N;NOM;NEUT;SG	V
+nastavenie	設定	nastavenie	設定	N;NOM;NEUT;SG	V
+alžírsko	阿爾及利亞	alžírsko	阿爾及利亞	ADV	PROPN
+seven	七七	seven	七七	PROPN;NOM;FEM;SG	NUM
+seven	七	seven	七	PROPN;NOM;FEM;SG	NUM
+seven	七	seven	七	PROPN;NOM;FEM;SG	NUM
+seven	seven	seven	seven	PROPN;NOM;FEM;SG	
+jeana	讓	jeana	讓	PROPN;ANIM;ACC;MASC;SG	V;CAUS
+jeana	jean	jeana	jean	PROPN;ANIM;ACC;MASC;SG	
+ženeve	日內瓦	ženev	日內瓦	N;INAN;NOM;MASC;SG	PROPN
+panama	巴拿馬	panam	巴拿馬	N;INAN;NOM;MASC;SG	PROPN
+sophie	sophie	sophe	sophie	PROPN;NOM;FEM;SG	
+sneh	雪	sneh	雪	N;INAN;NOM;MASC;SG	PROPN
+sneh	snow	sneh	snow	N;INAN;NOM;MASC;SG	
+obnovy	回收	obnov	回收	N;NOM;FEM;PL	V
+obnovy	恢復	obnov	恢復	N;NOM;FEM;PL	V
+obnovy	康復	obnov	康復	N;NOM;FEM;PL	V
+obnovy	復原	obnov	復原	N;NOM;FEM;PL	V
+obnovy	復蘇	obnov	復蘇	N;NOM;FEM;PL	V
+ana	ana	ana	ana	PROPN;NOM;FEM;SG	
+priepasť	深	priepasť	深	N;NOM;FEM;SG	PART
+bern	伯爾尼	bern	伯爾尼	PROPN;INAN;NOM;MASC;SG	PROPN
+opravu	修復	oprava	修復	N;ACC;FEM;SG	V
+opravu	維修	oprava	維修	N;ACC;FEM;SG	V
+opravu	修理	oprava	修理	N;ACC;FEM;SG	V
+opravu	修繕	oprava	修繕	N;ACC;FEM;SG	V
+opravu	改正	oprava	改正	N;ACC;FEM;SG	V
+opravu	糾正	oprava	糾正	N;ACC;FEM;SG	V
+tlačiarne	印表	tlačiarne	印表	N;NOM;FEM;PL	V
+tlačiarne	印表	tlačiarne	印表	N;NOM;FEM;PL	V
+očakáva	預期	očakávať	預期	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+czech	捷克	czech	捷克		PROPN
+otvoriť	開	otvoriť	開	V;PFV;POS;NFIN	
+thrash	敲擊	thrash	敲擊	N;INAN;NOM;MASC;SG	V
+litrov	公升	liter	公升	N;INAN;GEN;MASC;PL	V
+abba	abba	abba	abba	PROPN;ANIM;NOM;MASC;SG	
+velmi	非常	velmi	非常	PROPN;ANIM;NOM;MASC;SG	ADV
+storm	暴風	storý	暴風	PROPN;ANIM;NOM;MASC;SG	N
+storm	風暴	storý	風暴	PROPN;ANIM;NOM;MASC;SG	N
+storm	暴風	storý	暴風	PROPN;ANIM;NOM;MASC;SG	N
+tobias	tobias	tobias	tobias	PROPN;ANIM;NOM;MASC;SG	
+žiari	閃耀	žiariť	閃耀	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+žiari	光輝	žiariť	光輝	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+žiari	閃亮	žiariť	閃亮	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+lou	婁	lou	婁	PROPN;ANIM;NOM;MASC;SG	PROPN
+lou	盧	lou	盧	PROPN;ANIM;NOM;MASC;SG	PROPN
+lou	lou	lou	lou	PROPN;ANIM;NOM;MASC;SG	
+jednotu	統一	jednota	統一	N;ACC;FEM;SG	V
+horizontálne	水平	horizontálne	水平	ADV	N
+horizontálne	橫向	horizontálne	橫向	ADV	N
+horizontálne	水平	horizontálne	水平	ADV	N
+alpha	alpha	alpha	alpha	PROPN;NOM;FEM;SG	
+postupné	漸進	postupný	漸進	ADJ;NOM;NEUT;SG	V
+postupné	逐漸	postupný	逐漸	ADJ;NOM;NEUT;SG	ADV
+postupné	逐步	postupný	逐步	ADJ;NOM;NEUT;SG	ADV
+judaizmus	猶太	judaizmus	猶太	N;INAN;NOM;MASC;SG	PROPN
+návod	指導	návod	指導	N;INAN;NOM;MASC;SG	V
+návod	指示	návod	指示	N;INAN;NOM;MASC;SG	V
+päťdesiat	fifty	päťdesiat	fifty	NUM;NOM;NEUT;SG	
+letná	summer	letný	summer	ADJ;NOM;FEM;SG	
+letná	夏日	letný	夏日	ADJ;NOM;FEM;SG	N
+letná	夏季	letný	夏季	ADJ;NOM;FEM;SG	N
+letná	暑假	letný	暑假	ADJ;NOM;FEM;SG	N
+letná	夏天	letný	夏天	ADJ;NOM;FEM;SG	N
+regina	regina	regina	regina		
+studená	冷冷	studený	冷冷	ADJ;NOM;FEM;SG	ADV
+studená	冷	studený	冷	ADJ;NOM;FEM;SG	
+leon	leon	leon	leon	PROPN;ANIM;NOM;MASC;SG	
+bratovi	哥	brat	哥	N;ANIM;DAT;MASC;SG	PROPN
+požiadavku	要求	požiadavka	要求	N;ACC;FEM;SG	V
+aliancia	結盟	aliancia	結盟	N;NOM;FEM;SG	V
+joel	joel	joel	joel	PROPN;ANIM;NOM;MASC;SG	
+beyoncé	beyoncé	beyoncý	beyoncé	N;NOM;FEM;SG	
+pekne	很好	pekne	很好	ADV	ADJ
+pekne	尼斯	pekne	尼斯	ADV	PROPN
+eine	eine	eina	eine	PROPN;ANIM;NOM;MASC;SG	
+čakať	等	čakať	等	V;IPFV;POS;NFIN	N
+čakať	等	čakať	等	V;IPFV;POS;NFIN	N
+vyradené	退役	vyradený	退役	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+kompletné	完整	kompletný	完整	ADJ;NOM;NEUT;SG	N
+kompletné	完成	kompletný	完成	ADJ;NOM;NEUT;SG	V
+geschichte	geschichte	geschicht	geschichte	N;ANIM;NOM;MASC;SG	
+alabama	阿拉巴馬	alabama	阿拉巴馬	N;NOM;FEM;SG	PROPN
+alabama	阿拉巴馬	alabama	阿拉巴馬	N;NOM;FEM;SG	PROPN
+nepriateľ	敵對	nepriateľ	敵對	N;ANIM;NOM;MASC;SG	V
+prípravky	籌備	prípravka	籌備	N;NOM;FEM;PL	V
+chladenie	不	chladenie	不	N;NOM;NEUT;SG	ADV;NEG
+ruža	rose	ruža	rose	N;NOM;FEM;SG	
+sivý	灰色	sivý	灰色	ADJ;ANIM;NOM;MASC;SG	N
+sivý	灰	sivý	灰	ADJ;ANIM;NOM;MASC;SG	N
+sivý	灰色	sivý	灰色	ADJ;ANIM;NOM;MASC;SG	N
+sivý	灰	sivý	灰	ADJ;ANIM;NOM;MASC;SG	N
+sivý	grey	sivý	grey	ADJ;ANIM;NOM;MASC;SG	
+janet	janet	janet	janet	PROPN;NOM;FEM;SG	
+húb	香菇	húb	香菇	N;GEN;FEM;PL	PROPN
+miles	萬里	miles	萬里	PROPN;ANIM;NOM;MASC;SG	PROPN
+miles	miles	miles	miles	PROPN;ANIM;NOM;MASC;SG	
+miles	英里	miles	英里	PROPN;ANIM;NOM;MASC;SG	N
+porota	陪審	porota	陪審	N;NOM;FEM;SG	V
+porota	陪審	porota	陪審	N;NOM;FEM;SG	V
+zmenené	修改	zmenený	修改	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+pozitívny	積極	pozitívny	積極	ADJ;INAN;NOM;MASC;SG	
+pozitívny	正面	pozitívny	正面	ADJ;INAN;NOM;MASC;SG	N
+pozitívny	陽性	pozitívny	陽性	ADJ;INAN;NOM;MASC;SG	N
+slávni	著名	slávňa	著名	N;ANIM;NOM;MASC;PL	ADJ
+slávni	有	slávňa	有	N;ANIM;NOM;MASC;PL	V
+rovnosť	均	rovnosť	均	N;NOM;FEM;SG	ADV
+stiahnutie	下載	stiahnutie	下載	N;NOM;NEUT;SG	V
+stiahnutie	撤回	stiahnutie	撤回	N;NOM;NEUT;SG	V
+stiahnutie	下載	stiahnutie	下載	N;NOM;NEUT;SG	V
+baba	巴巴	baba	巴巴	N;NOM;FEM;SG	PROPN
+louise	louise	louis	louise	N;NOM;FEM;SG	
+fara	法拉	fara	法拉	N;NOM;FEM;SG	PROPN
+širšie	廣義	široký	廣義	ADV;CMPR	N
+širšie	廣義	široký	廣義	ADV;CMPR	N
+globálne	全球	globálny	全球	ADJ;NOM;NEUT;SG	N
+globálne	全球	globálny	全球	ADJ;NOM;NEUT;SG	N
+motorové	馬達	motorový	馬達	ADJ;NOM;NEUT;SG	N
+motorové	發動	motorový	發動	ADJ;NOM;NEUT;SG	V
+motorové	電機	motorový	電機	ADJ;NOM;NEUT;SG	N
+indiánov	印地安	indián	印地安	N;ANIM;ACC;MASC;PL	PROPN
+stratené	失	stratený	失	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+stratené	輸	stratený	輸	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+stratené	輸	stratený	輸	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+stratené	遺失	stratený	遺失	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+stratené	迷失	stratený	迷失	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+plazy	爬蟲	plaz	爬蟲	N;INAN;NOM;MASC;PL	V
+plazy	爬蟲	plaz	爬蟲	N;INAN;NOM;MASC;PL	V
+tmavá	黑	tmavý	黑	ADJ;NOM;FEM;SG	N
+tmavá	暗	tmavý	暗	ADJ;NOM;FEM;SG	N
+tmavá	黑暗	tmavý	黑暗	ADJ;NOM;FEM;SG	N
+stu	stu	stu	stu		
+odporúčanie	建議	odporúčanie	建議	N;NOM;NEUT;SG	V
+povaha	大	povaha	大	N;NOM;FEM;SG	ADJ
+nízko	低低	nízko	低低	ADV	N
+nízko	低	nízko	低	ADV	PART
+umelých	人工	umelý	人工	ADJ;GEN;MASC;PL	N
+umelých	人造	umelý	人造	ADJ;GEN;MASC;PL	N
+zodpovedajú	對	zodpovedať	對	V;IPFV;IND;PL;3;POS;PRS;FIN	N
+podozrenie	懷疑	podozrenie	懷疑	N;NOM;NEUT;SG	V
+podozrenie	疑犯	podozrenie	疑犯	N;NOM;NEUT;SG	V
+podozrenie	涉嫌	podozrenie	涉嫌	N;NOM;NEUT;SG	V
+podozrenie	疑似	podozrenie	疑似	N;NOM;NEUT;SG	V
+perzský	波斯	perzský	波斯	ADJ;ANIM;NOM;MASC;SG	PROPN
+natura	natura	natura	natura	N;NOM;FEM;SG	
+rozširovanie	膨脹	rozširovanie	膨脹	N;NOM;NEUT;SG	V
+rozširovanie	擴建	rozširovanie	擴建	N;NOM;NEUT;SG	V
+rozširovanie	擴張	rozširovanie	擴張	N;NOM;NEUT;SG	V
+rozširovanie	拓展	rozširovanie	拓展	N;NOM;NEUT;SG	V
+rozširovanie	擴大	rozširovanie	擴大	N;NOM;NEUT;SG	V
+rozširovanie	擴展	rozširovanie	擴展	N;NOM;NEUT;SG	V
+rozširovanie	擴大	rozširovanie	擴大	N;NOM;NEUT;SG	V
+obliehanie	包圍	obliehanie	包圍	N;NOM;NEUT;SG	V
+obliehanie	圍困	obliehanie	圍困	N;NOM;NEUT;SG	V
+obliehanie	圍攻	obliehanie	圍攻	N;NOM;NEUT;SG	V
+prevládajú	主宰	prevládať	主宰	V;IPFV;IND;PL;3;POS;PRS;FIN	N
+rain	雨	rain	雨	PROPN;ANIM;NOM;MASC;SG	N
+rain	下雨	rain	下雨	PROPN;ANIM;NOM;MASC;SG	N
+rain	雨水	rain	雨水	PROPN;ANIM;NOM;MASC;SG	N
+mathieu	mathieu	mathia	mathieu	PROPN;ANIM;NOM;MASC;SG	
+uniknúť	越獄	uniknúť	越獄	V;PFV;POS;NFIN	N
+minerálnych	礦	minerálny	礦	ADJ;GEN;MASC;PL	N
+minerálnych	礦物	minerálny	礦物	ADJ;GEN;MASC;PL	N
+minerálnych	礦	minerálny	礦	ADJ;GEN;MASC;PL	N
+oslobodenia	豁免	oslobodenie	豁免	N;NOM;NEUT;PL	
+vegetácie	植	vegetácia	植	N;NOM;FEM;PL	PROPN
+saudská	沙特	saudský	沙特	N;NOM;FEM;SG	PROPN
+nba	nba	nba	nba		
+distribúcia	分布	distribúcia	分布	N;NOM;FEM;SG	V
+distribúcia	分配	distribúcia	分配	N;NOM;FEM;SG	V
+baltského	波羅	baltský	波羅	ADJ;GEN;NEUT;SG	PROPN
+baltského	波羅	baltský	波羅	ADJ;GEN;NEUT;SG	PROPN
+sklonu	傾斜	sklon	傾斜	N;INAN;GEN;MASC;SG	V
+guyana	蓋亞那	guyan	蓋亞那	N;NOM;FEM;SG	PROPN
+sap	sap	sap	sap		
+sap	樹液	sap	樹液		N
+dôchodok	退休	dôchodok	退休	N;INAN;NOM;MASC;SG	V
+dôchodok	養老	dôchodok	養老	N;INAN;NOM;MASC;SG	V
+užívateľ	使用	užívateľ	使用	N;ANIM;NOM;MASC;SG	V
+umelá	人工	umelať	人工	ADJ;NOM;FEM;SG	N
+umelá	人造	umelať	人造	ADJ;NOM;FEM;SG	N
+majitelia	所有	majiteľ	所有	N;ANIM;NOM;MASC;PL	DET
+glam	華麗	glam	華麗		N
+oddelená	分居	oddelený	分居	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+zistenie	偵測	zistenie	偵測	N;NOM;NEUT;SG	V
+zistenie	探測	zistenie	探測	N;NOM;NEUT;SG	V
+zistenie	偵測	zistenie	偵測	N;NOM;NEUT;SG	V
+námorný	海軍	námorný	海軍	ADJ;ANIM;NOM;MASC;SG	N
+námorný	海事	námorný	海事	ADJ;ANIM;NOM;MASC;SG	N
+povolenia	許可	povolenie	許可	N;NOM;NEUT;PL	V
+pridelené	指派	pridelený	指派	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+povolaní	職業	povolanie	職業	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS	N
+dohľad	監視	dohľad	監視	N;INAN;NOM;MASC;SG	V
+diplomatické	外交	diplomatický	外交	ADJ;NOM;NEUT;SG	N
+porýnie	萊茵	porýnie	萊茵	N;NOM;NEUT;SG	PROPN
+moslimov	穆斯林	moslim	穆斯林	N;ANIM;ACC;MASC;PL	PROPN
+predĺžená	延伸	predĺžený	延伸	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+predĺžená	擴展	predĺžený	擴展	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+predĺžená	延長	predĺžený	延長	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS	V
+spaľovacích	焚化	spaľovací	焚化	ADJ;GEN;MASC;PL	V
+stolica	排泄	stolica	排泄	N;NOM;FEM;SG	V
+prima	prima	prima	prima	PROPN;ANIM;NOM;MASC;SG	
+mann	曼	mann	曼	PROPN;ANIM;NOM;MASC;SG	PROPN
+vôľa	將	vôľa	將	N;NOM;FEM;SG	V;CAUS
+vôľa	威爾	vôľa	威爾	N;NOM;FEM;SG	PROPN
+slabá	弱	slabý	弱	ADJ;NOM;FEM;SG	PART
+slabá	弱者	slabý	弱者	ADJ;NOM;FEM;SG	N
+pobrežné	沿海	pobrežný	沿海	ADJ;NOM;NEUT;SG	N
+vynikajúce	未	vynikajúci	未	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	ADV;NEG
+vynikajúce	美味	vynikajúci	美味	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	N
+vynikajúce	好	vynikajúci	好	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	ADV
+kid	小孩	kid	小孩	PROPN;ANIM;NOM;MASC;SG	N
+kvarteto	四	kvartet	四	N;INAN;NOM;MASC;SG	NUM
+kvarteto	四	kvartet	四	N;INAN;NOM;MASC;SG	NUM
+huba	香菇	huba	香菇	N;NOM;FEM;SG	PROPN
+zahrnuté	包括	zahrnutý	包括	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	V
+kreslené	漫畫	kreslený	漫畫	ADJ;NOM;NEUT;PL;POS;V.PTCP;PASS	N
+kreslené	卡通	kreslený	卡通	ADJ;NOM;NEUT;PL;POS;V.PTCP;PASS	N
+ang	昂	ang	昂		
+vpred	向前	vpred	向前	ADV	N
+pos	pos	pos	pos		
+vista	vista	vista	vista	N;INAN;NOM;MASC;SG	
+neschopnosť	無能	neschopnosť	無能	N;NOM;FEM;SG	V
+neschopnosť	無能	neschopnosť	無能	N;NOM;FEM;SG	V
+mágia	神奇	mágia	神奇	N;NOM;FEM;SG	ADJ
+winston	winston	winston	winston	PROPN;ANIM;NOM;MASC;SG	
+odpočinku	休息	odpočinka	休息	N;INAN;GEN;MASC;SG	V
+odpočinku	休息	odpočinka	休息	N;INAN;GEN;MASC;SG	V
+rozloženie	分布	rozloženie	分布	N;NOM;NEUT;SG	V
+rozloženie	分配	rozloženie	分配	N;NOM;NEUT;SG	V
+rozloženie	排版	rozloženie	排版	N;NOM;NEUT;SG	V
+prázdny	空白	prázdny	空白	ADJ;INAN;NOM;MASC;SG	N
+prázdny	空	prázdny	空	ADJ;INAN;NOM;MASC;SG	N
+prázdny	空白	prázdny	空白	ADJ;INAN;NOM;MASC;SG	N
+carmen	carmen	carmen	carmen	N;NOM;FEM;SG	
+evolúcie	演化	evolúcia	演化	N;NOM;FEM;PL	V
+evolúcie	演變	evolúcia	演變	N;NOM;FEM;PL	V
+evolúcie	進化	evolúcia	進化	N;NOM;FEM;PL	V
+evolúcie	演進	evolúcia	演進	N;NOM;FEM;PL	V
+fly	飛	fly	飛		N
+fly	蒼蠅	fly	蒼蠅		N
+fly	飛翔	fly	飛翔		N
+predpokladom	先決	predpoklad	先決	N;INAN;INS;MASC;SG	ADJ
+lomu	採石	lom	採石	N;GEN;MASC;SG	V
+arménsko	亞美尼亞	arménsko	亞美尼亞	N;NOM;NEUT;SG	PROPN
+cíti	感覺	cítiť	感覺	V;IPFV;IND;SG;3;POS;PRS;FIN	N
+prehliadka	遊覽	prehliadka	遊覽	N;NOM;FEM;SG	V
+rozsiahlych	廣泛	rozsiahly	廣泛	ADJ;GEN;MASC;PL	ADV
+umb	umb	umb	umb		
+podriadené	從屬	podriadený	從屬	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS	N
+pracovisko	工作	pracovisko	工作	N;NOM;NEUT;SG	V
+pracovisko	workplace	pracovisko	workplace	N;NOM;NEUT;SG	
+vývojové	發育	vývojový	發育	ADJ;NOM;NEUT;SG	V
+rebríček	排行	rebríček	排行	N;INAN;NOM;MASC;SG	V
+domenico	domenico	domenico	domenico	PROPN;ANIM;NOM;MASC;SG	
+periodické	定期	periodický	定期	ADJ;NOM;NEUT;SG	N
+periodické	定期	periodický	定期	ADJ;NOM;NEUT;SG	N
+periodické	期刊	periodický	期刊	ADJ;NOM;NEUT;SG	N
+návšteva	參觀	návšteva	參觀	N;NOM;FEM;SG	V
+návšteva	訪問	návšteva	訪問	N;NOM;FEM;SG	V
+návšteva	造訪	návšteva	造訪	N;NOM;FEM;SG	V
+návšteva	來	návšteva	來	N;NOM;FEM;SG	ADV
+návšteva	拜	návšteva	拜	N;NOM;FEM;SG	PROPN
+lúče	梁	lúč	梁	N;INAN;NOM;MASC;PL	PROPN
+kópie	副	kópia	副	N;NOM;FEM;PL	PART
+unicode	unicode	unicod	unicode	N;INAN;NOM;MASC;SG	
+horúčka	發燒	horúčka	發燒	N;NOM;FEM;SG	V
+horúčka	發熱	horúčka	發熱	N;NOM;FEM;SG	V
+odhadov	估計	odhad	估計	N;INAN;GEN;MASC;PL	V
+battista	battista	battist	battista	PROPN;ANIM;NOM;MASC;SG	
+tridsať	thirty	tridsať	thirty	NUM;NOM;NEUT;SG	
+útokmi	攻擊	útok	攻擊	N;INAN;INS;MASC;PL	V
+roddick	roddick	roddick	roddick	N;ANIM;NOM;MASC;SG	
+helen	海倫	helen	海倫	PROPN;NOM;FEM;SG	PROPN
+helen	helen	helen	helen	PROPN;NOM;FEM;SG	
+podobnej	類似	podobný	類似	ADJ;GEN;FEM;SG	V
+podobnej	相似	podobný	相似	ADJ;GEN;FEM;SG	V
+galaxy	銀河	galaxa	銀河	N;INAN;NOM;MASC;SG	PROPN
+galaxy	galaxy	galaxa	galaxy	N;INAN;NOM;MASC;SG	
+galaxy	銀河	galaxa	銀河	N;INAN;NOM;MASC;SG	PROPN
+noel	noel	noeľ	noel	PROPN;ANIM;NOM;MASC;SG	
+autonómna	自主	autonómny	自主	ADJ;NOM;FEM;SG	N
+osobitné	具體	osobitný	具體	ADJ;NOM;NEUT;SG	V
+osobitné	特別	osobitný	特別	ADJ;NOM;NEUT;SG	ADV
+vlnu	揮手	vln	揮手	N;ACC;FEM;SG	V
+vlnu	浪	vln	浪	N;ACC;FEM;SG	
+automatická	自動	automatický	自動	ADJ;NOM;FEM;SG	N
+automatická	自動	automatický	自動	ADJ;NOM;FEM;SG	N
+vzostup	升起	vzostup	升起	N;INAN;NOM;MASC;SG	V
+vzostup	上升	vzostup	上升	N;INAN;NOM;MASC;SG	V
+prežitie	存活	prežitie	存活	N;NOM;NEUT;SG	V
+prežitie	求生	prežitie	求生	N;NOM;NEUT;SG	V
+prežitie	生存	prežitie	生存	N;NOM;NEUT;SG	V
+rýchla	快速	rýchly	快速	ADJ;NOM;FEM;SG	N
+rýchla	快速	rýchly	快速	ADJ;NOM;FEM;SG	N
+bukové	beech	bukový	beech	ADJ;NOM;NEUT;SG	
+ukážky	示威	ukážka	示威	N;NOM;FEM;PL	V
+slovné	口頭	slovný	口頭	ADJ;NOM;NEUT;SG	N
+england	英國	england	英國		PROPN
+england	英格蘭	england	英格蘭		PROPN
+načo	為何	načo	為何	PART	
+načo	為	načo	為	PART	ADP
+načo	為	načo	為	PART	ADP
+radwańská	radwańska	radwajský	radwańska	ADJ;NOM;FEM;SG	
+rovnomerne	均勻	rovnomerne	均勻	ADV	ADJ
+priľahlých	鄰接	priľahlý	鄰接	ADJ;GEN;MASC;PL	V
+priľahlých	相鄰	priľahlý	相鄰	ADJ;GEN;MASC;PL	V
+priľahlých	鄰近	priľahlý	鄰近	ADJ;GEN;MASC;PL	N
+priľahlých	毗鄰	priľahlý	毗鄰	ADJ;GEN;MASC;PL	N
+jpeg	jpeg	jpeg	jpeg	N;INAN;NOM;MASC;SG	
+tlačiareň	印表	tlačiareň	印表	N;NOM;FEM;SG	V
+komunikačné	通訊	komunikačný	通訊	ADJ;NOM;NEUT;SG	N
+zahraničný	外國	zahraničný	外國	ADJ;ANIM;NOM;MASC;SG	N
+zahraničný	外籍	zahraničný	外籍	ADJ;ANIM;NOM;MASC;SG	N
+citlivosť	靈敏	citlivosť	靈敏	N;NOM;FEM;SG	ADJ
+citlivosť	敏感	citlivosť	敏感	N;NOM;FEM;SG	ADJ
+citlivosť	敏感	citlivosť	敏感	N;NOM;FEM;SG	ADJ
+citlivosť	敏感	citlivosť	敏感	N;NOM;FEM;SG	ADJ
+citlivosť	敏感	citlivosť	敏感	N;NOM;FEM;SG	ADJ
+krásny	漂亮	krásny	漂亮	ADJ;ANIM;NOM;MASC;SG	N
+krásny	美	krásny	美	ADJ;ANIM;NOM;MASC;SG	PROPN
+krásny	美女	krásny	美女	ADJ;ANIM;NOM;MASC;SG	N
+krásny	美麗	krásny	美麗	ADJ;ANIM;NOM;MASC;SG	N
+krásny	可	krásny	可	ADJ;ANIM;NOM;MASC;SG	V
+krásny	帥哥	krásny	帥哥	ADJ;ANIM;NOM;MASC;SG	N
+krásny	英	krásny	英	ADJ;ANIM;NOM;MASC;SG	PROPN
+krásny	帥	krásny	帥	ADJ;ANIM;NOM;MASC;SG	N
+nákup	購買	nákup	購買	N;INAN;NOM;MASC;SG	V
+nákup	購買	nákup	購買	N;INAN;NOM;MASC;SG	V
+nákup	購買	nákup	購買	N;INAN;NOM;MASC;SG	V
+nákup	買	nákup	買	N;INAN;NOM;MASC;SG	V
+zasiahli	命中	zasiahnuť	命中	V;PFV;MASC;PL;POS;PST;V.PTCP	N
+byron	拜倫	byron	拜倫	PROPN;ANIM;NOM;MASC;SG	PROPN
+jednotného	單	jednotný	單	ADJ;GEN;NEUT;SG	NUM
+jednotného	單人	jednotný	單人	ADJ;GEN;NEUT;SG	N
+jednotného	單身	jednotný	單身	ADJ;GEN;NEUT;SG	N
+jednotného	單	jednotný	單	ADJ;GEN;NEUT;SG	NUM
+silvia	silvia	silví	silvia	N;NOM;FEM;SG	
+uvoľnenie	釋出	uvoľnenie	釋出	N;NOM;NEUT;SG	V
+uvoľnenie	釋放	uvoľnenie	釋放	N;NOM;NEUT;SG	V
+odraz	反射	odraz	反射	N;INAN;NOM;MASC;SG	V
+odraz	反省	odraz	反省	N;INAN;NOM;MASC;SG	V
+mojžiš	摩西	môjžiť	摩西	PROPN;ANIM;NOM;MASC;SG	PROPN
+závislý	上癮	závislý	上癮	ADJ;ANIM;NOM;MASC;SG	V
+pallas	pallas	pallas	pallas	N;NOM;FEM;SG	
+antonia	antonia	antonie	antonia	N;ANIM;ACC;MASC;SG	
+antonia	antonio	antonie	antonio	N;ANIM;ACC;MASC;SG	
+plachty	帆	plachta	帆	N;INAN;NOM;MASC;PL	PROPN
+kyjeve	基輔	kyjev	基輔	N;INAN;ESS;MASC;SG	PROPN
+sio	sio	sio	sio	PROPN;ANIM;NOM;MASC;SG	
+libanon	黎巴嫩	libanon	黎巴嫩	PROPN;ANIM;NOM;MASC;SG	PROPN
+kostýmy	服裝	kostým	服裝	ADJ;INS;MASC;PL	N
+kostýmy	戲服	kostým	戲服	ADJ;INS;MASC;PL	N
+zavedení	引入	zavedenie	引入	N;NOM;NEUT;PL	V
+zavedení	介紹	zavedenie	介紹	N;NOM;NEUT;PL	V
+saudskej	沙特	saudský	沙特	N;GEN;FEM;SG	PROPN
+avia	avia	avi	avia	INTJ	
+násilne	暴力	násilne	暴力	ADV	N
+mas	mas	mas	mas		
+koreň	根	koreň	根	N;INAN;NOM;MASC;SG	PROPN
+koreň	root	koreň	root	N;INAN;NOM;MASC;SG	
+iris	iris	iris	iris	PROPN;NOM;FEM;SG	
+alias	aka	alias	aka	N;ANIM;NOM;MASC;SG	
+palestíne	巴勒斯坦	palestína	巴勒斯坦	N;DAT;FEM;SG	PROPN
+zrak	視	zrak	視	N;INAN;NOM;MASC;SG	V
+zaistiť	安全	zaistiť	安全	V;PFV;POS;NFIN	N
+širokého	廣義	široký	廣義	ADJ;GEN;MASC;SG	N
+širokého	廣	široký	廣	ADJ;GEN;MASC;SG	ADV
+širokého	寬	široký	寬	ADJ;GEN;MASC;SG	PART
+širokého	廣	široký	廣	ADJ;GEN;MASC;SG	ADV
+širokého	寬	široký	寬	ADJ;GEN;MASC;SG	PART
+marina	marina	marina	marina	N;NOM;FEM;SG	
+camp	露營	camp	露營	N;INAN;NOM;MASC;SG	V
+variácie	變更	variácia	變更	N;NOM;FEM;PL	V
+bombardéry	轟炸	bombardéra	轟炸	N;INAN;NOM;MASC;PL	V
+montáž	安裝	montáž	安裝	N;NOM;FEM;SG	V
+používateľa	使用	používateľ	使用	N;ANIM;ACC;MASC;SG	V
+ostré	鋒利	ostrý	鋒利	ADJ;NOM;NEUT;SG	N
+ostré	銳利	ostrý	銳利	ADJ;NOM;NEUT;SG	N
+portugalská	葡萄牙	portugalský	葡萄牙	ADJ;NOM;FEM;SG	PROPN
+portugalská	葡萄牙	portugalský	葡萄牙	ADJ;NOM;FEM;SG	PROPN
+uväznený	囚禁	uväznený	囚禁	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+chápanie	理解	chápanie	理解	N;NOM;NEUT;SG	V
+chápanie	諒解	chápanie	諒解	N;NOM;NEUT;SG	V
+oddelený	分居	oddelený	分居	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+oddelený	分離	oddelený	分離	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS	V
+logická	邏輯	logický	邏輯	ADJ;NOM;FEM;SG	N
+shimizu	shimizu	shimiza	shimizu	PROPN;ANIM;NOM;MASC;SG	
+haiti	海地	haiti	海地	N;NOM;FEM;SG	PROPN
+akútna	急性	akýtny	急性	ADJ;NOM;FEM;SG	N
+susan	susan	susan	susan	PROPN;NOM;FEM;SG	
+útočisko	避難	útočisko	避難	N;NOM;NEUT;SG	V
+útočisko	避難	útočisko	避難	N;NOM;NEUT;SG	V
+útočisko	避難	útočisko	避難	N;NOM;NEUT;SG	V
+zdvih	昇	zdvih	昇	N;INAN;NOM;MASC;SG	PROPN
+zdvih	提升	zdvih	提升	N;INAN;NOM;MASC;SG	V
+otvory	孔	otvor	孔	N;INAN;NOM;MASC;PL	PROPN
+chicaga	芝加哥	chicag	芝加哥	N;INAN;GEN;MASC;SG	PROPN
+tvoriace	成型	tvoriaci	成型	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	N
+tvoriace	形成	tvoriaci	形成	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT	V
+nákupné	買東	nákupný	買東	ADJ;NOM;NEUT;SG	V
+nákupné	購物	nákupný	購物	ADJ;NOM;NEUT;SG	N
+vzdelávacie	教育	vzdelávací	教育	ADJ;NOM;NEUT;SG	N
+diskusií	討論	diskusia	討論	N;GEN;FEM;PL	V
+tretina	第三	tretina	第三	N;NOM;FEM;SG	NUM
+betónu	具體	betón	具體	N;INAN;GEN;MASC;SG	V
+betónu	混凝	betón	混凝	N;INAN;GEN;MASC;SG	V
+dunajskej	多瑙	dunajský	多瑙	ADJ;GEN;FEM;SG	PROPN
+mäkké	柔和	mäkký	柔和	ADJ;NOM;NEUT;SG	N
+mäkké	軟	mäkký	軟	ADJ;NOM;NEUT;SG	N
+občiansky	民事	občiansky	民事	ADJ;ANIM;NOM;MASC;SG	N
+občiansky	公民	občiansky	公民	ADJ;ANIM;NOM;MASC;SG	N
+podanie	備案	podanie	備案	N;NOM;NEUT;SG	V
+podanie	提交	podanie	提交	N;NOM;NEUT;SG	V
+samsung	三	samsung	三	N;INAN;NOM;MASC;SG	NUM
+angela	angela	angiel	angela	N;NOM;FEM;SG	
+presná	精確	presný	精確	ADJ;NOM;FEM;SG	N
+presná	準確	presný	準確	ADJ;NOM;FEM;SG	N
+presná	精確	presný	精確	ADJ;NOM;FEM;SG	N
+presná	精確	presný	精確	ADJ;NOM;FEM;SG	N
+skončí	末端	skončiť	末端	V;PFV;IND;SG;3;POS;PRS;FIN	N
+pak	pak	pak	pak	INTJ	
+mário	mario	mário	mario	N;ANIM;NOM;MASC;SG	
+jaguar	美洲	jaguar	美洲	N;INAN;NOM;MASC;SG	PROPN
+rover	rover	rover	rover	N;INAN;NOM;MASC;SG	
+level	三	levieť	三	N;INAN;NOM;MASC;SG	NUM
+potenciálne	潛力	potenciálne	潛力	ADV	N
+potenciálne	潛在	potenciálne	潛在	ADV	V
+japonci	日本	japonec	日本	N;ANIM;NOM;MASC;PL	PROPN
+brett	brett	brett	brett	PROPN;ANIM;NOM;MASC;SG	
+výpoveď	辭職	výpoveď	辭職	N;NOM;FEM;SG	V
+wrc	wrc	wrca	wrc	PROPN;ANIM;NOM;MASC;SG	
+mikael	mikael	mikael	mikael	PROPN;ANIM;NOM;MASC;SG	
+vega	vega	vega	vega	PROPN;ANIM;NOM;MASC;SG	
+infekcia	傳染	infekcia	傳染	N;NOM;FEM;SG	V
+infekcia	感染	infekcia	感染	N;NOM;FEM;SG	V
+shannon	shannon	shannon	shannon	PROPN;NOM;FEM;SG	
+mnísi	和	mnísi	和	N;ANIM;NOM;MASC;PL	ADP

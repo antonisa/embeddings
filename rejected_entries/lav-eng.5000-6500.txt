@@ -1,0 +1,843 @@
+mysql	mysql	mysql	mysql	N	PROPN;SG
+normāli	normal	normāli	normal	ADV	ADJ
+omskas	omsk	omska	omsk	PROPN;NOM;FEM;SG	PROPN;SG
+staļins	stalin	staļins	stalin	N;NOM;MASC;SG	PROPN;SG
+alžīrijas	algerian	alžīrija	algerian	PROPN;NOM;FEM;SG	ADJ
+pīļu	duck	pīle	duck	N;GEN;FEM;PL	N;SG
+plūdi	flood	plūdi	flood	N;NOM;MASC	N;SG
+plūdi	flooding	plūdi	flooding	N;NOM;MASC	N;SG
+plūdi	floods	plūdi	flood	N;NOM;MASC	N;PL
+pavēle	orders	pavēle	order	N;NOM;FEM;SG	N;PL
+subtropu	subtropical	subtrops	subtropical	N;ACC;MASC;SG	ADJ
+kancelejas	stationery	kanceleja	stationery	N;NOM;FEM;PL	N;SG
+margarita	margarita	margarita	margarita	N;NOM;FEM;SG	PROPN;SG
+bite	bee	bite	bee	N;NOM;FEM;SG	PROPN;SG
+labot	edit	labot	edit	V;POS;NFIN	N;SG
+mehmeds	mehmed	mehmeds	mehm	N;NOM;MASC;SG	PROPN;SG
+zeppelin	zeppelin	zeppelin	zeppelin	PROPN	PROPN;SG
+debesis	heaven	debess	heaven	N;NOM;FEM;PL	N;SG
+debesis	sky	debess	sky	N;NOM;FEM;PL	N;SG
+ieslodzīto	prisoner	ieslodzīt	prisoner	V;PFV;ACC;DEF;MASC;SG;PST;V.PTCP	N;SG
+ieslodzīto	prisoners	ieslodzīt	prisoner	V;PFV;ACC;DEF;MASC;SG;PST;V.PTCP	N;PL
+riks	rick	rikt	rick	PROPN;NOM;MASC;SG	PROPN;SG
+taisni	straight	taisni	straight	ADV	ADJ
+patiešām	indeed	patiešām	indeed	PART	ADV
+patiešām	truly	patiešām	truly	PART	ADV
+patiešām	really	patiešām	really	PART	ADV
+poters	potter	poters	potter	N;NOM;MASC;SG	PROPN;SG
+gali	gali	gals	gali	N;NOM;MASC;PL	PROPN;SG
+borussia	borussia	borussis	borussia	N;NOM;MASC;SG	PROPN;SG
+sarkanie	reds	sarkans	red	ADJ;NOM;MASC;PL	N;PL
+zarnas	bowel	zarna	bowel	N;NOM;FEM;PL	N;SG
+zarnas	intestine	zarna	intestine	N;NOM;FEM;PL	N;SG
+rakstot	writing	rakstīt	writing	V;V.CVB	N;SG
+bruņu	armoured	bruņa	armoured	N;NOM;MASC;SG	ADJ
+plāni	plans	plāns	plan	ADJ;NOM;MASC;PL	N;PL
+valentīna	valentina	valentīna	valentina	N;NOM;FEM;SG	PROPN;SG
+debesīm	heaven	debess	heaven	N;DAT;FEM;PL	N;SG
+kolumbija	columbia	kolumbija	columbia	N;NOM;FEM;SG	PROPN;SG
+kolumbija	colombia	kolumbija	colombia	N;NOM;FEM;SG	PROPN;SG
+radinieks	relative	radinieks	relative	N;NOM;MASC;SG	ADJ
+mērija	mary	mērija	mary	N;NOM;FEM;SG	PROPN;SG
+motorola	motorola	motorols	motorola	N;NOM;MASC;SG	PROPN;SG
+īsteno	implements	īstenot	implement	V;IMP;2;POS;PRS;FIN;ACT	N;PL
+nozaru	sectoral	nozare	sectoral	N;GEN;FEM;PL	ADJ
+nightwish	nightwish	nightwish	nightwish	PROPN;NOM	PROPN;SG
+pretrunā	odds	pretruna	odd	N;ESS;FEM;SG	N;PL
+apakšklase	subclass	apakšklase	subclass	N;NOM;FEM;PL	N;SG
+santjago	santiago	santjagot	santiago	N	PROPN;SG
+turciju	turkey	turcija	turkey	PROPN;ACC;FEM;SG	N;SG
+renē	rené	renēt	rené	PROPN	PROPN;SG
+renē	renee	renēt	renee	PROPN	PROPN;SG
+renē	rene	renēt	rene	PROPN	PROPN;SG
+pjotrs	pyotr	pjotrs	pyotr	PROPN;NOM;MASC;SG	PROPN;SG
+komunikāciju	communications	komunikācija	communication	N;ACC;FEM;SG	N;PL
+sekcijas	autopsy	sekcija	autopsy	N;NOM;FEM;PL	N;SG
+ievērojot	observing	ievērot	observe	V;V.CVB	N;SG
+emīlija	emilia	emīlija	emilia	N;NOM;FEM;SG	PROPN;SG
+emīlija	emilie	emīlija	emilie	N;NOM;FEM;SG	PROPN;SG
+emīlija	emily	emīlija	emily	N;NOM;FEM;SG	PROPN;SG
+capri	capri	capri	capri		PROPN;SG
+lūgšanas	prayer	lūgšana	prayer	N;NOM;FEM;PL	N;SG
+bmw	bmw	bmn	bmw	N	PROPN;SG
+melnkalnes	montenegrin	melnkalne	montenegrin	N;NOM;FEM;PL	ADJ
+bari	bari	bars	bari	N;NOM;MASC;PL	PROPN;SG
+tonijs	tony	tonijs	tony	N;NOM;MASC;SG	PROPN;SG
+egle	spruce	egle	spruce	PROPN;NOM;FEM;SG	N;SG
+titāna	titanium	titāns	titanium	N;NOM;MASC;SG	PROPN;SG
+publicē	publish	publicēt	publish	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+lockheed	lockheed	lockheed	lockheed		PROPN;SG
+līnis	tench	līnis	tench	N;NOM;MASC;SG	PROPN;SG
+lejas	leu	leja	leu	N;NOM;FEM;PL	PROPN;SG
+lejas	bottom	leja	bottom	N;NOM;FEM;PL	N;SG
+sep	sep	sep	sep		PROPN;SG
+efektīvi	efficient	efektīvi	efficient	ADV	ADJ
+efektīvi	effective	efektīvi	effective	ADV	ADJ
+buru	sailboats	bura	sailboat	N;ACC;MASC;SG	N;PL
+otavas	ottawa	otava	ottawa	N;NOM;FEM;PL	PROPN;SG
+dzimtenes	homeland	dzimtene	homeland	N;NOM;FEM;PL	N;SG
+ļevs	lev	ļevs	lev	PROPN;NOM;MASC;SG	PROPN;SG
+johannes	johannes	johanne	johanne	PROPN;NOM;FEM;SG	PROPN;SG
+western	western	westerne	western		ADJ
+kopīgs	shared	kopīgs	share	ADJ;NOM;MASC;SG	V;PST;V.PTCP
+domāšanas	mindset	domāšana	mindset	N;NOM;FEM;PL	N;SG
+vēlams	preferably	vēlams	preferably	V;NOM;INDF;MASC;SG;PRS;V.PTCP;PASS	ADV
+vēlams	desirable	vēlams	desirable	V;NOM;INDF;MASC;SG;PRS;V.PTCP;PASS	ADJ
+aitu	sheep	aita	sheep	N;ACC;MASC;SG	N;PL
+pietiek	enough	pietikt	enough	V;FH;IND;3;POS;PRS;FIN;ACT	ADJ
+model	model	model	model		N;SG
+izdevumus	expenses	izdevumi	expense	N;ACC;MASC	N;PL
+fēru	faroes	fēra	faro	N;ACC;MASC;SG	N;PL
+fēru	faroese	fēra	faroese	N;ACC;MASC;SG	ADJ
+fēru	faroe	fēra	faroe	N;ACC;MASC;SG	PROPN;SG
+piegādes	delivery	piegāde	delivery	N;NOM;FEM;PL	N;SG
+iesaistīts	involved	iesaistīt	involved	V;PFV;NOM;INDF;MASC;SG;PST;V.PTCP	ADJ
+skābes	acid	skābe	acid	N;NOM;FEM;PL	PROPN;SG
+sibīriju	siberia	sibīrija	siberia	N;ACC;FEM;SG	PROPN;SG
+jebkad	ever	jebkad	ever		ADV
+garoza	cortex	garozs	cortex	N;NOM;FEM;SG	PROPN;SG
+iniciatīvu	initiative	iniciatīva	initiative	ADJ;ACC;MASC;SG	N;SG
+iekarot	conquer	iekārt	conquer	V;NFH;QUOT;POS;PRS;FIN;ACT	V;IMP;FIN
+iekarot	invade	iekārt	invade	V;NFH;QUOT;POS;PRS;FIN;ACT	V;IMP;FIN
+espn	espn	espn	espn		PROPN;SG
+redzamais	visible	redzēt	visible	V;NOM;DEF;MASC;SG;PRS;V.PTCP;PASS	ADJ
+kurzeme	courland	kurzeme	courland	PROPN;NOM;FEM;SG	PROPN;SG
+sliedes	rail	sliede	rail	N;NOM;FEM;PL	N;SG
+emma	emma	emma	emma	N;NOM;FEM;SG	PROPN;SG
+vāsa	vasa	vāsa	vasa	PROPN;NOM;FEM;SG	PROPN;SG
+beļģu	belgian	beļģas	belgian	N;GEN;MASC;PL	PROPN;SG
+ralfs	ralf	ralfs	ralf	PROPN;NOM;MASC;SG	PROPN;SG
+ralfs	ralph	ralfs	ralph	PROPN;NOM;MASC;SG	PROPN;SG
+ein	ein	ein	ein		PROPN;SG
+zvejas	fishing	zveja	fishing	N;NOM;FEM;PL	N;SG
+martina	martina	martināt	martina	N;NOM;FEM;SG	PROPN;SG
+torps	thorpe	torps	thorpe	N;NOM;MASC;SG	PROPN;SG
+septītā	seventh	septīt	seventh	ADJ;NOM;FEM;SG	PROPN;SG
+bij	formerly	būt	formerly	V;FH;IND;3;POS;PST;FIN;ACT	ADV
+atbildi	reply	atbilde	reply	N;ACC;FEM;SG	V;IMP;FIN
+izraisot	provoking	izraisīt	provoke	V;V.CVB	ADJ
+asinīm	blood	asins	blood	N;DAT;FEM;PL	N;SG
+aprēķināt	compute	aprēķināt	compute	V;POS;NFIN	N;SG
+gatavo	finished	gatavot	finish	V;FH;IND;2;POS;PRS;FIN;ACT	V;PST;V.PTCP
+bīskapi	reval	bīskaps	reval	N;NOM;MASC;PL	PROPN;SG
+fasādes	facade	fasāde	facade	N;NOM;FEM;PL	N;SG
+fasādes	façade	fasāde	façade	N;NOM;FEM;PL	N;SG
+portu	porto	ports	porto	N;ACC;MASC;SG	PROPN;SG
+frankfurtes	frankfurt	frankfurte	frankfurt	PROPN;NOM;FEM;SG	PROPN;SG
+lietojums	use	lietojums	use	N;NOM;MASC;SG	V;IMP;FIN
+sarežģīta	complex	sarežģīta	complex	ADJ;NOM;FEM;SG	N;SG
+dīķi	ponds	dīķis	pond	N;ACC;MASC;SG	N;PL
+sabiedriski	sociable	sabiedriski	sociable	ADV	ADJ
+celulozes	cellulose	celuloze	cellulose	N;NOM;FEM;PL	N;SG
+celulozes	pulp	celuloze	pulp	N;NOM;FEM;PL	N;SG
+atm	atm	ats	atm		N;SG
+luksemburga	luxembourg	luksemburga	luxembourg	N;NOM;FEM;SG	PROPN;SG
+andra	andra	andrs	andra	PROPN;NOM;FEM;SG	PROPN;SG
+plaknes	plane	plakne	plane	N;NOM;FEM;PL	N;SG
+nasdaq	nasdaq	nasda	nasdaq	N;NOM;FEM;SG	PROPN;SG
+wnba	wnba	wnba	wnba	N;NOM;FEM;SG	PROPN;SG
+verdi	verdi	verds	verdi	PROPN	PROPN;SG
+saistības	commitment	saistība	commitment	N;NOM;FEM;PL	N;SG
+francūzis	frenchman	francūzis	frenchman	N;NOM;MASC;SG	PROPN;SG
+kolēģijas	college	kolēģija	college	N;NOM;FEM;PL	N;SG
+osaka	osaka	osacīt	osaka	PROPN;NOM;FEM;SG	PROPN;SG
+pomerānijas	pomeranian	pomerānija	pomeranian	N;NOM;FEM;PL	PROPN;SG
+pomerānijas	pomerania	pomerānija	pomerania	N;NOM;FEM;PL	PROPN;SG
+karsta	karst	karsta	karst	ADJ;NOM;FEM;SG	N;SG
+darels	durrell	darels	durrell	N;NOM;MASC;SG	PROPN;SG
+uzturēšanas	maintenance	uzturēšana	maintenance	N;NOM;FEM;PL	N;SG
+osvalds	oswald	osvalds	oswald	N;NOM;MASC;SG	PROPN;SG
+homērs	homer	homērs	homer	N;NOM;MASC;SG	PROPN;SG
+albert	albert	albert	albert		PROPN;SG
+ejot	walking	iet	walking		N;SG
+nafta	nafta	nafta	nafta	N;NOM;FEM;SG	PROPN;SG
+ieteicams	recommended	ieteikt	recommend	V;NOM;INDF;MASC;SG;PRS;V.PTCP;PASS	V;PST;V.PTCP
+ieteicams	advised	ieteikt	advise	V;NOM;INDF;MASC;SG;PRS;V.PTCP;PASS	V;PST;V.PTCP
+cukurs	sugar	cukurs	sugar	N;NOM;MASC	N;SG
+sīrijā	syria	sīrija	syria	N;ESS;FEM;SG	PROPN;SG
+matīss	mathis	matīss	mathis	PROPN;NOM;MASC;SG	PROPN;SG
+franko	franco	franka	franco	PROPN	PROPN;SG
+veimāras	weimar	veimāra	weimar	N;NOM;FEM;PL	PROPN;SG
+elites	elite	elite	elite	N;NOM;FEM;PL	PROPN;SG
+kanāriju	canary	kanārija	canary	N;ACC;FEM;SG	PROPN;SG
+definē	defined	definēt	define	V;FH;IND;3;POS;PRS;FIN;ACT	V;PST;V.PTCP
+definē	define	definēt	define	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+kaija	gull	kaija	gull	PROPN;NOM;FEM;SG	N;SG
+guļ	asleep	gulēt	asleep	V;FH;IND;3;POS;PRS;FIN;ACT	ADJ
+guļ	sleeps	gulēt	sleep	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+guļ	sleeping	gulēt	sleeping	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+atbilde	reply	atbilde	reply	N;NOM;FEM;SG	V;IMP;FIN
+concat	concat	concat	concat	N;NOM;MASC;SG	PROPN;SG
+organisko	organic	organiska	organic	ADJ;ACC;MASC;SG	PROPN;SG
+venecuēlas	venezuelan	venecuēla	venezuelan	PROPN;NOM;FEM;PL	ADJ
+venecuēlas	venezuela	venecuēla	venezuela	PROPN;NOM;FEM;PL	PROPN;SG
+editpage	editpage	editpage	editpage		PROPN;SG
+reznors	reznor	reznors	reznor	N;NOM;MASC;SG	PROPN;SG
+neinere	neuner	neinere	neuner	PROPN;NOM;FEM;SG	PROPN;SG
+milānas	milan	milāna	milan	PROPN;NOM;FEM;SG	PROPN;SG
+bens	ben	bens	ben	PROPN;NOM;MASC;SG	PROPN;SG
+csstext	csstext	csstext	csstext		PROPN;SG
+nikola	nikola	nikols	nikola	PROPN;NOM;FEM;SG	PROPN;SG
+nikola	nicole	nikols	nicole	PROPN;NOM;FEM;SG	PROPN;SG
+ola	ola	ola	ola	N;NOM;FEM;SG	PROPN;SG
+andrea	andrea	andrea	andrea		PROPN;SG
+hana	hana	hana	hana	PROPN;NOM;FEM;SG	PROPN;SG
+ūdrs	otter	ūdrs	otter	N;NOM;MASC;SG	PROPN;SG
+raiens	ryan	raiens	ryan	PROPN;NOM;MASC;SG	PROPN;SG
+septītais	seventh	septīt	seventh	ADJ;NOM;MASC;SG	PROPN;SG
+klods	claude	klods	claude	PROPN;NOM;MASC;SG	PROPN;SG
+stade	stade	stade	stade		PROPN;SG
+negatīvi	negative	negatīvi	negative	ADV	ADJ
+starpkaru	interwar	starpkars	interwar	N;ACC;MASC;SG	ADJ
+madridē	madrid	madride	madrid	PROPN;ESS;FEM;SG	PROPN;SG
+austrumi	east	austrumi	east	N;NOM;MASC	PROPN;SG
+linecolor	linecolor	linecolor	linecolor	N	ADV
+baptistu	baptist	baptists	baptist	N;ACC;MASC;SG	PROPN;SG
+nīlas	nile	nīla	nile	N;NOM;FEM;PL	PROPN;SG
+buļļu	bulls	buļļa	bull	N;ACC;FEM;SG	N;PL
+georgijs	georgy	georgijs	georgy	PROPN;NOM;MASC;SG	PROPN;SG
+georgijs	georgi	georgijs	georgi	PROPN;NOM;MASC;SG	PROPN;SG
+kerija	carrie	kerija	carrie	N;NOM;FEM;SG	PROPN;SG
+telegrāfa	telegraph	telegrāfa	telegraph	N;GEN;MASC;SG	PROPN;SG
+telegrāfa	telegraphic	telegrāfa	telegraphic	N;GEN;MASC;SG	ADJ
+nora	nora	nora	nora	PROPN;NOM;FEM;SG	PROPN;SG
+sur	sur	sur	sur		PROPN;SG
+log	log	logt	log		N;SG
+gultas	bed	gulta	bed	N;NOM;FEM;PL	N;SG
+grizzlies	grizzlies	grizzlies	grizzly	N;NOM;MASC;SG	N;PL
+hamburgā	hamburg	hamburga	hamburg	N;ESS;MASC;SG	PROPN;SG
+olivers	oliver	olivers	oliver	PROPN;NOM;MASC;SG	PROPN;SG
+lieldienu	passover	lieldienas	passover	N;ACC;FEM;SG	PROPN;SG
+vienpadsmit	eleven	vienpadsmit	eleven	NUM;PL	
+papildina	complements	papildināt	complement	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+papildina	complement	papildināt	complement	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+sila	sila	sila	sila	N;NOM;FEM;SG	PROPN;SG
+simti	hundred	simti	hundred	N;NOM;MASC;PL	NUM
+zorro	zorro	zorrot	zorro	N	PROPN;SG
+abū	yas	abū	yas	PROPN	PROPN;SG
+modas	maud	moda	maud	N;NOM;FEM;PL	PROPN;SG
+briesmas	dangers	briesmas	danger	N;NOM;FEM	N;PL
+briesmas	danger	briesmas	danger	N;NOM;FEM	N;SG
+džeina	jane	džeins	jane	N;NOM;FEM;SG	PROPN;SG
+džeina	jayne	džeins	jayne	N;NOM;FEM;SG	PROPN;SG
+piekļūt	access	piekļūt	access	V;POS;NFIN	N;SG
+atcelta	canceled	atcelt	cancel	ADJ;NOM;FEM;SG	V;PST;V.PTCP
+atcelta	cancelled	atcelt	cancel	ADJ;NOM;FEM;SG	V;PST;V.PTCP
+barbara	barbara	barbars	barbara	PROPN;NOM;FEM;SG	PROPN;SG
+masačūsetsas	massachusetts	masačūsets	massachusett	PROPN;NOM;FEM;SG	N;PL
+prezidentūras	presidency	prezidentūra	presidency	N;NOM;FEM;PL	N;SG
+sēj	sown	sēja	sow	V;FH;IND;3;POS;PRS;FIN;ACT	V;PST;V.PTCP
+neapoles	naples	neapole	naple	PROPN;NOM;FEM;SG	N;PL
+kaļķu	lime	kaļķis	lime	N;GEN;MASC;PL	N;SG
+genādijs	gennady	genādijs	gennady	N;NOM;MASC;SG	PROPN;SG
+čaka	chaka	čaka	chaka	PROPN;NOM;FEM;SG	PROPN;SG
+čaka	chuck	čaka	chuck	PROPN;NOM;FEM;SG	PROPN;SG
+nogāzes	slope	nogāze	slope	N;NOM;FEM;PL	N;SG
+noslēdz	closes	noslēgt	close	V;FH;IND;SG;2;POS;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+noslēdz	concludes	noslēgt	conclude	V;FH;IND;SG;2;POS;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+pagātnes	past	pagātne	past	N;NOM;FEM;PL	N;SG
+piedzīvojumi	adventure	piedzīvojums	adventure	N;NOM;MASC;PL	N;SG
+atvērt	open	atvērt	open	V;POS;NFIN	ADJ
+gabriels	gabriel	gabriels	gabriel	N;NOM;MASC;SG	PROPN;SG
+uzsver	highlights	uzsvērt	highlight	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+donavas	danube	donava	danube	N;NOM;FEM;PL	PROPN;SG
+lcp	lcp	lcp	lcp	PROPN	N;SG
+kviešu	wheat	kvietis	wheat	N;GEN;MASC;PL	N;SG
+ribentropa	ribbentrop	ribentrops	ribbentrop	N;NOM;FEM;SG	PROPN;SG
+ledu	ice	ledus	ice	N;ACC;MASC	N;SG
+neolīta	neolithic	neolīt	neolithic	V;PFV;NOM;INDF;FEM;SG;PST;V.PTCP	N;SG
+egejas	aegean	egeja	aegean	N;NOM;FEM;PL	PROPN;SG
+ienākumus	income	ienākums	income	N;ACC;MASC;PL	N;SG
+kvarca	quartz	kvarkt	quartz	N;NOM;MASC;SG	PROPN;SG
+galīgi	definitive	galīgi	definitive	ADV	ADJ
+kaujinieku	combatants	kaujinieks	combatant	N;ACC;MASC;SG	N;PL
+ipv	ipv	ipv	ipv		PROPN;SG
+ipv	ipu	ipv	ipu		PROPN;SG
+plazmas	plasma	plazma	plasma	N;NOM;FEM;PL	N;SG
+horvātija	croatia	horvātija	croatia	N;NOM;FEM;SG	PROPN;SG
+derīgas	fit	derīga	fit	ADJ;NOM;FEM;PL	V;IMP;FIN
+nelsons	nelson	nelsons	nelson	PROPN;NOM;MASC;SG	PROPN;SG
+rasels	russell	rasels	russell	PROPN;NOM;MASC;SG	PROPN;SG
+halles	halle	halle	halle	N;NOM;FEM;PL	PROPN;SG
+irbe	partridge	irbe	partridge	PROPN;NOM;MASC;SG	PROPN;SG
+pakājē	foothills	pakājēt	foothill	N;ESS;FEM;SG	N;PL
+nesaskaņas	disagreement	nesaskaņa	disagreement	N;NOM;FEM;PL	N;SG
+nesaskaņas	discord	nesaskaņa	discord	N;NOM;FEM;PL	N;SG
+iziešanas	exit	iziešana	exit	N;NOM;FEM;PL	N;SG
+iziešanas	exiting	iziešana	exit	N;NOM;FEM;PL	V;V.MSDR
+krusa	hail	krusa	hail	N;NOM;FEM;SG	PROPN;SG
+fords	ford	fords	ford	PROPN;NOM;MASC;SG	PROPN;SG
+deivs	dave	deivs	dave	PROPN;NOM;MASC;SG	PROPN;SG
+pcall	pcall	pcall	pcall		PROPN;SG
+silīcija	silicon	silīcija	silicon	N;NOM;FEM;SG	PROPN;SG
+vatikāna	vatican	vatikāns	vatican	N;GEN;MASC;SG	PROPN;SG
+apmaiņa	exchanges	apmaiņa	exchange	N;NOM;FEM;SG	N;PL
+deviņu	nine	deviņi	nine	NUM;ACC;MASC;PL	
+england	england	england	england		PROPN;SG
+poznaņas	poznań	poznaņa	poznań	PROPN;NOM;FEM;SG	PROPN;SG
+vera	vera	vērt	vera	PROPN;NOM;FEM;SG	PROPN;SG
+semjuels	samuel	semjuels	samuel	N;NOM;MASC;SG	PROPN;SG
+petrovs	petrov	petrovs	petrov	PROPN;NOM;MASC;SG	PROPN;SG
+vdk	kgb	vdk	kgb	PROPN	PROPN;SG
+nesa	nesa	nest	nesa	V;FH;IND;3;POS;PST;FIN;ACT	PROPN;SG
+drīzumā	soon	drīzums	soon	N;ESS;MASC;SG	ADV
+sietlas	seattle	sietla	seattle	PROPN;NOM;FEM;PL	PROPN;SG
+smiltis	sand	smilts	sand	N;NOM;FEM;PL	N;SG
+tuvo	passing	tuvot	passing	ADJ;ACC;MASC;SG	N;SG
+liepu	linden	liepa	linden	N;ACC;FEM;SG	PROPN;SG
+papua	papua	papust	papua		PROPN;SG
+hip	hip	hipēt	hip		PROPN;SG
+formatdate	formatdate	formatdate	formatdate	N;NOM;FEM;SG	PROPN;SG
+romeo	romeo	romeo	romeo		PROPN;SG
+amatniecības	craft	amatniecība	craft	N;NOM;FEM;PL	N;SG
+euro	euro	euro	euro		PROPN;SG
+atļauj	allow	atļaut	allow	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+ericsson	ericsson	ericsson	ericsson	N	PROPN;SG
+artis	artis	arts	artis	PROPN;NOM;MASC;SG	PROPN;SG
+migla	foggy	migla	foggy	N;NOM;FEM;SG	ADJ
+militāri	military	militāre	military	ADV	ADJ
+somālijas	somalia	somālija	somalia	N;NOM;FEM;PL	PROPN;SG
+somālijas	somali	somālija	somali	N;NOM;FEM;PL	ADJ
+ženēvas	geneva	ženēva	geneva	PROPN;NOM;FEM;SG	PROPN;SG
+zemesraga	canaveral	zemesrags	canaveral	N;GEN;MASC;SG	PROPN;SG
+meksika	mexico	meksika	mexico	N;NOM;FEM;SG	PROPN;SG
+pusvadītāju	semiconductors	pusvadītājs	semiconductor	N;ACC;MASC;SG	N;PL
+skudru	ants	skudra	ant	N;ACC;MASC;SG	N;PL
+pozitīvi	positive	pozitīvi	positive	ADV	ADJ
+čeļabinskas	chelyabinsk	čeļabinska	chelyabinsk	N;NOM;FEM;PL	PROPN;SG
+vērsts	oriented	vērst	oriented	V;PFV;NOM;INDF;MASC;SG;PST;V.PTCP	ADJ
+mantas	stuff	manta	stuff	N;NOM;FEM;PL	N;SG
+vilces	traction	vilce	traction	N;NOM;FEM;PL	N;SG
+vilces	thrust	vilce	thrust	N;NOM;FEM;PL	N;SG
+kristietība	christianity	kristietība	christianity	N;NOM;FEM;SG	PROPN;SG
+izvairās	avoids	izvairīties	avoid	V;FH;IND;3;POS;REFL;FUT;FIN;ACT	V;IND;SG;3;PRS;FIN
+zoo	zoo	zoo	zoo		N;SG
+olimpiāde	olympics	olimpiāde	olympic	N;NOM;FEM;SG	N;PL
+nulle	zero	nulle	zero	N;NOM;FEM;SG	PROPN;SG
+disney	disney	disney	disney		PROPN;SG
+zaļas	green	zaļa	green	ADJ;NOM;FEM;PL	N;SG
+lists	liszt	list	liszt	N;NOM;MASC;SG	PROPN;SG
+elza	elsa	elza	elsa	N;NOM;FEM;SG	PROPN;SG
+elza	elza	elza	elza	N;NOM;FEM;SG	PROPN;SG
+tava	your	tava	you	PRO;NOM;FEM;SG;3	PRO;2
+etc	etc	etc	etc		
+raktuves	mine	raktuve	mine	N;NOM;FEM;PL	PRO
+kāpnes	ladder	kāpnes	ladder	N;NOM;FEM	N;SG
+kāpnes	ladders	kāpnes	ladder	N;NOM;FEM	N;PL
+kāpnes	stairs	kāpnes	stair	N;NOM;FEM	N;PL
+gana	ghana	gana	ghana	ADV	PROPN;SG
+virsbūves	bodywork	virsbūve	bodywork	N;NOM;FEM;PL	N;SG
+leļļu	puppet	lelle	puppet	N;GEN;FEM;PL	N;SG
+leļļu	dollhouse	lelle	dollhouse	N;GEN;FEM;PL	N;SG
+vistas	chicken	vista	chicken	N;NOM;FEM;PL	N;SG
+getparent	getparent	getparent	getparent	N;NOM;MASC;SG	PROPN;SG
+islandē	iceland	islandēt	iceland	N;ESS;FEM;SG	PROPN;SG
+autonomijas	autonomy	autonomija	autonomy	N;NOM;FEM;PL	N;SG
+paradīzes	paradise	paradīze	paradise	N;NOM;FEM;PL	N;SG
+artikulācijas	articulating	artikulācija	articulating	N;NOM;FEM;PL	N;SG
+eva	eva	eva	eva	PROPN;NOM;FEM;SG	PROPN;SG
+eva	eea	eva	eea	PROPN;NOM;FEM;SG	PROPN;SG
+astoņiem	eight	astoņi	eight	NUM;DAT;MASC;PL	
+mobilais	mobile	mobils	mobile	ADJ;NOM;MASC;SG	PROPN;SG
+inovācijas	innovation	inovācija	innovation	N;NOM;FEM;PL	N;SG
+dītrihs	dietrich	dītrihs	dietrich	PROPN;NOM;MASC;SG	PROPN;SG
+bolīvijas	bolivian	bolīvija	bolivian	PROPN;NOM;FEM;SG	PROPN;SG
+salo	salo	salo	salo		PROPN;SG
+dem	dem	dem	dem		PROPN;SG
+apkārtējā	ambient	apkārtēja	ambient	ADJ;NOM;FEM;SG	N;SG
+bono	bono	bons	bono	PROPN	PROPN;SG
+brūss	bruce	brūss	bruce	PROPN;NOM;MASC;SG	PROPN;SG
+harju	harju	harja	harju	PROPN;ACC;MASC;SG	PROPN;SG
+fiat	fiat	fiat	fiat		PROPN;SG
+glonass	glonass	glonass	glonass	N;NOM;FEM;PL	N;SG
+dubnas	dubna	dubna	dubna	N;NOM;FEM;PL	PROPN;SG
+gregorijs	gregory	gregorijs	gregory	N;NOM;MASC;SG	PROPN;SG
+trans	trans	trans	tran		PROPN;SG
+bundeslīgas	bundesliga	bundeslīga	bundesliga	ADJ;NOM;FEM;PL	PROPN;SG
+ekspedīcijā	grinch	ekspedīcija	grinch	N;ESS;FEM;SG	PROPN;SG
+žils	jules	žils	jule	PROPN;NOM;MASC;SG	PROPN;SG
+džims	jim	džims	jim	PROPN;NOM;MASC;SG	PROPN;SG
+kāzas	weddings	kāza	wedding	N;NOM;FEM	N;PL
+kāzas	wedding	kāza	wedding	N;NOM;FEM	N;SG
+zane	zane	zane	zane	PROPN;NOM;FEM;SG	PROPN;SG
+vidējs	medium	vidējs	medium	ADJ;NOM;MASC;SG	N;SG
+britannica	britannica	britannica	britannica		N;SG
+flāmu	flemish	flāma	flemish	N;GEN;MASC;PL	ADJ
+gazprom	gazprom	gazprom	gazprom	PROPN	PROPN;SG
+gārnis	heron	gārns	heron	N;NOM;MASC;SG	PROPN;SG
+rita	rita	rita	rita	PROPN;NOM;FEM;SG	PROPN;SG
+delfi	delphi	delfi	delphi		PROPN;SG
+pamiers	armistice	pamiers	armistice	N;NOM;MASC;SG	ADJ
+honda	honda	honds	honda		PROPN;SG
+abba	abba	abba	abba		PROPN;SG
+aes	aes	aes	aes		PROPN;SG
+galatasaray	galatasaray	galatasaray	galatasaray	N;GEN;MASC;SG	PROPN;SG
+pacers	pacers	pacers	pacer	N;NOM;MASC;SG	N;PL
+mati	hair	mats	hair	N;NOM;MASC;PL	N;SG
+eric	eric	ericēt	eric		PROPN;SG
+budistu	buddhist	budists	buddhist	N;ACC;MASC;SG	PROPN;SG
+džeralds	gerald	džeralds	gerald	N;NOM;MASC;SG	PROPN;SG
+parakstīt	sign	parakstīt	sign	V;POS;NFIN	N;SG
+donalds	donald	donalds	donald	N;NOM;MASC;SG	PROPN;SG
+irāka	iraq	irāka	iraq	N;NOM;FEM;SG	PROPN;SG
+anita	anita	anita	anita	PROPN;NOM;FEM;SG	PROPN;SG
+jeruzalemes	jerusalem	jeruzaleme	jerusalem	N;NOM;FEM;PL	PROPN;SG
+dens	dan	dens	dan	PROPN	PROPN;SG
+neparasti	unusual	neparasti	unusual	ADV	ADJ
+piektajā	fifth	piektā	fifth	ADJ;ESS;DEF;FEM;SG	PROPN;SG
+podlases	podlaskie	podlase	podlaskie	N;NOM;FEM;PL	PROPN;SG
+niedru	reed	niedrs	reed	N;ACC;MASC;SG	PROPN;SG
+manuels	manuel	manuels	manuel	PROPN;NOM;MASC;SG	PROPN;SG
+dienvidi	south	dienvidi	south	N;NOM;MASC;SG	PROPN;SG
+medībās	hunts	medības	hunt	N;ESS;FEM	N;PL
+medībās	hunting	medības	hunt	N;ESS;FEM	N;SG
+lūiss	lewis	lūiss	lewis	N;NOM;MASC;SG	PROPN;SG
+locītavas	joints	locītava	joint	N;NOM;FEM;SG	N;PL
+mao	mao	maos	mao		PROPN;SG
+drošu	safe	droša	safe	V;IPFV;ACC;INDF;MASC;SG;PRS;V.PTCP;PASS	ADJ
+fantāzijas	fantasy	fantāzija	fantasy	N;NOM;FEM;PL	N;SG
+apzināti	intentional	apzināt	intentional	ADV	ADJ
+čaulas	shell	čaula	shell	N;NOM;FEM;PL	N;SG
+čaulas	liner	čaula	liner	N;NOM;FEM;PL	N;SG
+laikus	timely	laikus	timely	ADV	ADJ
+ana	ana	ana	ana		PROPN;SG
+kopīgas	shared	kopīga	share	ADJ;NOM;FEM;PL	V;PST;V.PTCP
+senioru	seniors	seniors	senior	N;ACC;MASC;SG	N;PL
+pagrīdes	boardwalk	pagrīde	boardwalk	N;NOM;FEM;PL	PROPN;SG
+radošo	creative	radīt	creative	V;IPFV;ACC;DEF;MASC;SG;PRS;V.PTCP;PASS	ADJ
+grīnbergs	grünberg	grīnbergs	grünberg	PROPN;NOM;MASC;SG	PROPN;SG
+pārtrauc	aborting	pārtraukt	abort	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+pārtrauc	interrupts	pārtraukt	interrupt	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+iekšējais	interior	iekšējs	interior	ADJ;NOM;MASC;SG	N;SG
+sandra	sandra	sandra	sandra	PROPN;NOM;FEM;SG	PROPN;SG
+slēpjas	hiding	slēpties	hiding	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;SG
+silver	silver	silvēr	silver		PROPN;SG
+oriģinālā	original	oriģināls	original	N;ESS;MASC;SG	ADJ
+peldēšanas	swimming	peldēšana	swim	N;NOM;FEM;PL	N;SG
+sacenšas	compete	sacenst	compete	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	V;IMP;FIN
+sacenšas	competing	sacenst	compete	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;SG
+rasu	racial	rasa	racial	N;ACC;FEM;SG	ADJ
+mareks	marek	mareks	marek	PROPN;NOM;MASC;SG	PROPN;SG
+svītras	stripes	svītra	stripe	ADJ;NOM;FEM;PL	N;PL
+imperatore	imperatore	imperatore	imperatore	N;NOM;FEM;SG	PROPN;SG
+palestīniešu	palestinian	palestīnietis	palestinian	N;GEN;MASC;PL	ADJ
+baltastes	bulwer	baltaste	bulwer	N;NOM;FEM;PL	PROPN;SG
+bagātīgi	plentiful	bagātīgi	plentiful	ADV	ADJ
+bagātīgi	abundant	bagātīgi	abundant	ADV	ADJ
+golden	golden	golden	golden		ADJ
+līdakas	pike	līdakas	pike	N;NOM;FEM;PL	PROPN;SG
+eca	eca	eca	eca		PROPN;SG
+sudānas	sudanese	sudāna	sudanese	N;NOM;FEM;PL	ADJ
+slēgt	lock	slēgt	lock	V;POS;NFIN	N;SG
+#ff	#ff	#ff	#ff		PROPN;SG
+bayer	bayer	bayer	bayer	PROPN	PROPN;SG
+piepilsētas	suburban	piepilsēta	suburban	N;NOM;FEM;PL	ADJ
+sadalīšanas	dissection	sadalīšana	dissection	N;NOM;FEM;PL	N;SG
+sadalīšanas	splitting	sadalīšana	split	N;NOM;FEM;PL	N;SG
+balasta	stranded	balasts	strand	N;GEN;MASC;SG	V;PST;V.PTCP
+laikapstākļi	weather	laikapstāklis	weather	N;NOM;MASC;PL	N;SG
+laima	lyme	laima	lyme	N;NOM;FEM;SG	PROPN;SG
+asamblejas	assembly	asambleja	assembly	N;NOM;FEM;PL	N;SG
+omx	omx	omx	omx	PROPN	PROPN;SG
+sēdes	sitting	sēde	sit	N;NOM;FEM;PL	V;V.MSDR
+bot	bots	bot	bot		N;PL
+akli	blind	akli	blind	ADV	ADJ
+pierre	pierre	pierre	pierre		PROPN;SG
+uzlabo	improves	uzlabot	improve	V;IMP;SG;2;POS;FIN;ACT	V;IND;SG;3;PRS;FIN
+plāksnes	plate	plāksne	plate	N;NOM;FEM;PL	N;SG
+kēnigsbergas	königsberg	kēnigsberga	kanigsberg	N;NOM;FEM;PL	PROPN;SG
+džonijs	johnny	džonijs	johnny	N;NOM;MASC;SG	PROPN;SG
+džonijs	jonny	džonijs	jonny	N;NOM;MASC;SG	PROPN;SG
+cēzara	caesar	cēzars	caesar	N;GEN;MASC;SG	PROPN;SG
+cvk	cec	cvk	cec	PROPN	PROPN;SG
+masīva	massif	masīva	massif	ADJ;NOM;FEM;SG	N;SG
+misisipi	mississippi	misisips	mississippi	ADV	PROPN;SG
+nvs	cis	nvs	ce	PROPN	PROPN;SG
+ieiet	enters	ieiet	enter	V;IMP;2;POS;FIN;ACT	V;IND;SG;3;PRS;FIN
+piens	milk	piens	milk	N;NOM;MASC	N;SG
+vidzeme	livonia	vidzeme	livonia	N;NOM;FEM;SG	PROPN;SG
+tavu	your	tava	you	PRO;ACC;SG;3	PRO;2
+luna	luna	luna	luna	PROPN;NOM;FEM;SG	PROPN;SG
+lerijs	larry	lerijs	larry	PROPN;NOM;MASC;SG	PROPN;SG
+rīkles	throat	rīkle	throat	N;NOM;FEM;PL	N;SG
+gazols	gasol	gazols	gasol	N;NOM;MASC;SG	PROPN;SG
+yesno	yesno	yesns	yesno	N	PROPN;SG
+toyota	toyota	tofot	toyota		PROPN;SG
+atzīmē	notes	atzīmēt	note	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+klārks	clarke	klārks	clarke	PROPN;NOM;MASC;SG	PROPN;SG
+klārks	clark	klārks	clark	PROPN;NOM;MASC;SG	PROPN;SG
+las	las	las	las		PROPN;SG
+gaga	gaga	gags	gaga		PROPN;SG
+šūmahers	schumacher	šūmahers	schumacher	N;NOM;MASC;SG	PROPN;SG
+grenlandes	greenland	grenlande	greenland	N;NOM;FEM;PL	PROPN;SG
+grenlandes	greenlandic	grenlande	greenlandic	N;NOM;FEM;PL	ADJ
+normandijas	normandy	normandija	normandy	N;NOM;FEM;PL	PROPN;SG
+step	step	step	step		N;SG
+tuberkulozes	tuberculosis	tuberkuloze	tuberculosis	N;NOM;FEM;PL	N;SG
+ulrihs	ullrich	ulrihs	ullrich	PROPN;NOM;MASC;SG	PROPN;SG
+porsche	porsche	porsche	porsche		N;SG
+dala	divided	dala	divide	V;FH;IND;3;POS;PRS;FIN;ACT	V;PST;V.PTCP
+kurland	kurland	kurland	kurland	PROPN;NOM;FEM;SG	PROPN;SG
+izcili	brilliant	izcils	brilliant	ADV	ADJ
+izcili	outstanding	izcils	outstanding	ADV	ADJ
+izcili	excellent	izcils	excellent	ADV	ADJ
+joahims	joachim	joahims	joachim	PROPN;NOM;MASC;SG	PROPN;SG
+konfederāciju	confederations	konfederācija	confederation	N;ACC;FEM;SG	N;PL
+rex	rex	rex	rex		PROPN;SG
+chrysolina	chrysolina	chrfsolināt	chrysolina	N;NOM;MASC;SG	PROPN;SG
+romans	roman	romans	roman	PROPN;NOM;MASC;SG	ADJ
+pārklājas	overlaps	pārklāties	overlap	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;PL
+pārklājas	overlap	pārklāties	overlap	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	V;IMP;FIN
+ieee	ieee	ieee	ieee	N	PROPN;SG
+atpazīt	recognizable	atpazīt	recognizable	V;POS;NFIN	ADJ
+made	made	made	make		V;PST;V.PTCP
+taisnstūra	rectangular	taisnstūris	rectangular	N;NOM;MASC;SG	ADJ
+lubušas	lubusz	lubuša	lubusz	V;PFV;NOM;INDF;FEM;PL;PST;V.PTCP	PROPN;SG
+ita}	ita	itas	ita		N;SG
+maņu	sensory	maņa	sensory	N;ACC;FEM;SG	ADJ
+pēcnācējiem	offspring	pēcnācējs	offspring	N;DAT;MASC;PL	N;SG
+ērti	convenient	ērti	convenient	ADV	ADJ
+ērti	comfortable	ērti	comfortable	ADV	ADJ
+amsterdamas	amsterdam	amstert	amsterdam	V;NOM;FEM;V.CVB	PROPN;SG
+gudrības	wisdom	gudrība	wisdom	N;NOM;FEM;PL	N;SG
+ziemeļi	north	ziemelis	north	N;NOM;MASC;PL	PROPN;SG
+dobumu	cavities	dobums	cavity	N;ACC;MASC;SG	N;PL
+hop	hop	hop	hop		PROPN;SG
+dāma	queen	dāma	queen	N;NOM;FEM;SG	PROPN;SG
+kuģniecības	shipping	kuģniecība	shipping	N;NOM;FEM;PL	N;SG
+apvienojas	merge	apvienoties	merge	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	V;IMP;FIN
+apvienojas	merging	apvienoties	merge	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;SG
+florida	florida	floridāt	florida	PROPN;NOM;FEM;SG	PROPN;SG
+matricas	matrix	matrica	matrix	N;NOM;FEM;PL	N;SG
+kopenhāgenā	copenhagen	kopenhāgens	copenhagen	N;ESS;MASC;SG	PROPN;SG
+gaz	gaz	gaz	gaz	N	PROPN;SG
+nigērijas	nigerian	nigērija	nigerian	PROPN;NOM;FEM;PL	ADJ
+prefektūra	prefecture	prefektūra	prefecture	N;NOM;FEM;SG	PROPN;SG
+gmbh	gmbh	gmbh	gmbh		PROPN;SG
+redakcijas	editorial	redakcija	editorial	N;NOM;FEM;PL	N;SG
+slovēnija	slovenia	slovēnija	slovenia	N;NOM;FEM;SG	PROPN;SG
+copa	copa	copa	copa		PROPN;SG
+peldēt	swim	peldēt	swim	V;POS;NFIN	N;SG
+solaris	solaris	solaris	solaris	N;NOM;MASC;SG	PROPN;SG
+obama	obama	obama	obama	PROPN;NOM;FEM;SG	PROPN;SG
+apdares	finishing	apdare	finish	N;NOM;FEM;PL	N;SG
+organizētas	organised	organizēt	organised	V;PFV;NOM;INDF;FEM;PL;PST;V.PTCP	ADJ
+marie	marie	mars	marie		PROPN;SG
+lībekas	lübeck	lībeka	lübeck	PROPN;NOM;FEM;SG	PROPN;SG
+īzaks	isaac	īzaks	isaac	N;NOM;MASC;SG	PROPN;SG
+veicinātu	foster	veicināt	foster	V;COND;POS;FIN;ACT	PROPN;SG
+veicinātu	promote	veicināt	promote	V;COND;POS;FIN;ACT	V;IMP;FIN
+pelēkas	grey	pelēka	grey	ADJ;NOM;FEM;PL	PROPN;SG
+pērkons	thunder	pērkons	thunder	N;NOM;MASC;SG	PROPN;SG
+olimpiskajā	olympic	olimpiska	olympic	ADJ;ESS;FEM;SG	N;SG
+luters	luther	luters	luther	PROPN;NOM;MASC;SG	PROPN;SG
+vāgners	wagner	vāgners	wagner	N;NOM;MASC;SG	PROPN;SG
+piesaista	attract	piesaistīt	attract	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+žaunu	gill	žauna	gill	N;NOM;MASC;SG	PROPN;SG
+dana	dana	dans	dana	PROPN;NOM;FEM;SG	PROPN;SG
+silvija	sylvia	silvija	sylvia	N;NOM;FEM;SG	PROPN;SG
+silvija	silvia	silvija	silvia	N;NOM;FEM;SG	PROPN;SG
+pavlovs	pavlov	pavlovs	pavlov	PROPN;NOM;MASC;SG	PROPN;SG
+sausā	dri	sausa	dri	ADJ;NOM;FEM;SG	PROPN;SG
+asp	asp	asp	asp	N	PROPN;SG
+vadims	vadim	vadims	vadim	N;NOM;MASC;SG	PROPN;SG
+mini	mini	mīt	mini		PROPN;SG
+sekcija	bay	sekcija	bay	N;NOM;FEM;SG	PROPN;SG
+adams	adams	adams	adam	PROPN;NOM;MASC;SG	PROPN;SG
+bahs	bach	bahs	bach	PROPN;NOM;MASC;SG	PROPN;SG
+cauna	marten	cauns	marten	N;NOM;FEM;SG	PROPN;SG
+falco	falco	falko	falco	N	PROPN;SG
+atveres	porting	atvērties	port	N;NOM;FEM;PL	N;SG
+nikolass	nicholas	nikolass	nichola	PROPN;NOM;MASC;SG	PROPN;SG
+gadījuma	random	gadījums	random	N;GEN;MASC;SG	ADJ
+gadījuma	casual	gadījums	casual	N;GEN;MASC;SG	ADJ
+amerikāņi	americans	amerikānis	americans	N;NOM;MASC;PL	PROPN;PL
+tīra	cleans	tīra	clean	ADJ;NOM;FEM;SG	V;IND;SG;3;PRS;FIN
+baumas	rumors	baumas	rumor	N;NOM;FEM	N;PL
+baumas	rumor	baumas	rumor	N;NOM;FEM	N;SG
+izabella	isabel	izabells	isabel	PROPN;NOM;FEM;SG	PROPN;SG
+izabella	isabella	izabells	isabella	PROPN;NOM;FEM;SG	PROPN;SG
+izabella	isabelle	izabells	isabelle	PROPN;NOM;FEM;SG	PROPN;SG
+prāga	prague	prāgt	prague		PROPN;SG
+nogulumu	sedimentary	nogulums	sedimentary	N;ACC;MASC;SG	ADJ
+nieres	kidney	niere	kidney	N;NOM;FEM;PL	N;SG
+patērē	consumed	patērēt	consume	V;FH;IND;3;POS;PRS;FIN;ACT	V;PST;V.PTCP
+patērē	consume	patērēt	consume	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+zālamana	solomon	zālamana	solomon	N;NOM;MASC;SG	PROPN;SG
+sidnejas	sydney	sidneja	sydney	N;NOM;FEM;PL	PROPN;SG
+munīcijas	ammunition	munīcija	ammunition	N;NOM;FEM;PL	N;SG
+muguru	back	mugura	back	N;ACC;FEM;SG	ADV
+apzīmējumi	legend	apzīmējums	legend	N;NOM;MASC;PL	N;SG
+porto	porto	ports	porto		PROPN;SG
+polo	polo	polo	polo		PROPN;SG
+interscope	interscope	interscope	interscope		PROPN;SG
+mainsnak	mainsnak	mainsnak	mainsnak	N;NOM;FEM;SG	N;PL
+eksperimenti	experimenting	eksperiments	experiment	N;NOM;MASC;PL	N;SG
+eksperimenti	experimentation	eksperiments	experimentation	N;NOM;MASC;PL	N;SG
+ievada	introductory	ievadīt	introductory	V;FH;IND;3;POS;PRS;FIN;ACT	ADJ
+clippers	clippers	clippers	clipper	N;NOM;MASC;SG	N;PL
+leonards	leonard	leonards	leonard	N;NOM;MASC;SG	PROPN;SG
+nirnbergas	nuremberg	nirnberga	nuremb	N;NOM;FEM;PL	PROPN;SG
+dzemdes	uterus	dzemde	uterus	N;NOM;FEM;PL	N;SG
+dzemdes	uterine	dzemde	uterine	N;NOM;FEM;PL	N;SG
+dzemdes	womb	dzemde	womb	N;NOM;FEM;PL	N;SG
+skaļi	aloud	skaļi	aloud	ADV	PROPN;SG
+skaļi	loud	skaļi	loud	ADV	ADJ
+veru	võru	vērs	võru	N;ACC;MASC;SG	PROPN;SG
+piramīdas	pyramid	piramīda	pyramid	N;NOM;FEM;PL	N;SG
+elo	elo	elot	elo	NUM	PROPN;SG
+teju	almost	teju	almost		ADV
+uzraudzības	surveillance	uzraudzība	surveillance	N;NOM;FEM;PL	N;SG
+konflikti	conflict	konflikts	conflict	N;NOM;MASC;PL	N;SG
+sārmu	alkaline	sārma	alkaline	N;ACC;MASC;SG	ADJ
+mijiedarbība	interactions	mijiedarbība	interaction	N;NOM;FEM;SG	N;PL
+kritiski	critical	kritiski	critical	ADV	ADJ
+markss	marx	markss	marx	N;NOM;MASC;SG	PROPN;SG
+nintendo	nintendo	nintendot	nintendo	N	PROPN;SG
+jfk	jfk	jfk	jfk	PROPN	PROPN;SG
+internazionale	internazionale	internazionale	internazionale		PROPN;SG
+tipiski	typical	tipiski	typical	ADV	ADJ
+spartaks	spartacus	spartaks	spartacus	N;NOM;MASC;SG	PROPN;SG
+urālu	ural	urāls	ural	N;ACC;MASC;SG	PROPN;SG
+mir	mir	mirt	mir	PROPN	PROPN;SG
+sems	sam	sems	sam	PROPN;NOM;MASC;SG	PROPN;SG
+viltus	false	vilti	false	N;ACC;MASC;PL	ADJ
+viltus	fake	vilti	fake	N;ACC;MASC;PL	ADJ
+extra	extra	extra	extra		ADJ
+lēna	lena	lēna	lena	ADJ;NOM;FEM;SG	PROPN;SG
+amsterdamā	amsterdam	amstert	amsterdam	V;NOM;FEM;SG;V.CVB	PROPN;SG
+sīrija	syria	sīrija	syria	N;NOM;FEM;SG	PROPN;SG
+jaunieši	youth	jaunietis	youth	N;NOM;MASC;PL	N;SG
+adatas	needle	adata	needle	N;NOM;FEM;PL	N;SG
+novērtēt	appreciating	novērtēt	appreciate	V;POS;NFIN	N;SG
+intensitāte	intensities	intensitāte	intensity	N;NOM;FEM;SG	N;PL
+allmusic	allmusic	allmusicēt	allmusic	N;NOM;MASC;SG	PROPN;SG
+aizdomas	suspect	aizdomas	suspect	N;NOM;FEM	N;SG
+aizdomas	suspicion	aizdomas	suspicion	N;NOM;FEM	N;SG
+aizdomas	suspicions	aizdomas	suspicion	N;NOM;FEM	N;PL
+tic	tic	ticēt	tic	INTJ	PROPN;SG
+daina	daina	daina	daina	PROPN;NOM;FEM;SG	PROPN;SG
+alba	alba	alba	alba		PROPN;SG
+garsija	garcia	garsija	garcia	PROPN;NOM;FEM;SG	PROPN;SG
+indes	poisons	inde	poison	N;NOM;FEM;SG	N;PL
+pieaugušiem	adults	pieaugt	adult	V;PFV;DAT;INDF;MASC;PL;PST;V.PTCP	N;PL
+keita	kate	keita	kate	N;NOM;FEM;SG	PROPN;SG
+vienkāršā	elementary	vienkārša	elementary	ADJ;NOM;FEM;SG	N;SG
+drēzdenes	dresden	drēzdene	dresden	PROPN;NOM;FEM;SG	PROPN;SG
+cieš	suffering	ciest	suffering	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+cieš	suffer	ciest	suffer	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+adrijas	adriatic	adrija	adriatic	PROPN;NOM;FEM;SG	ADJ
+stratēģiski	strategic	stratēģiski	strategic	ADV	ADJ
+kabeļu	cable	kabelis	cable	N;ACC;MASC;PL	N;SG
+linga	linga	linga	linga	PROPN;NOM;FEM;SG	N;SG
+hornets	hornets	hornets	hornet	N;NOM;MASC;SG	N;PL
+cola	cola	cola	cola	N;NOM;FEM;SG	PROPN;SG
+apsūdzības	indictment	apsūdzība	indictment	N;NOM;FEM;PL	N;SG
+mantu	dope	manta	dope	N;ACC;FEM;SG	PROPN;SG
+lexikon	lexikon	lexikon	lexikon		PROPN;SG
+lokomotīvju	locomotive	lokomotīve	locomotive	N;ACC;FEM;PL	N;SG
+xml	xml	xml	xml	N	PROPN;SG
+gruzija	georgia	gruzija	georgia	PROPN;NOM;FEM;SG	PROPN;SG
+veģetācijas	vegetation	veģetācija	vegetation	N;NOM;FEM;PL	N;SG
+imdb	imdb	imdb	imdb		N;SG
+piedāvājums	tender	piedāvājums	tender	N;NOM;MASC;SG	ADJ
+piedāvājums	offers	piedāvājums	offer	N;NOM;MASC;SG	N;PL
+piedāvājums	offer	piedāvājums	offer	N;NOM;MASC;SG	V;IMP;FIN
+duets	duets	duets	duet	N;NOM;MASC;SG	N;PL
+rīkoties	act	rīkoties	act	V;POS;REFL;NFIN	N;SG
+timberwolves	timberwolves	timbervolve	timberwolves		N;PL
+aizmugurējā	rear	aizmugurējs	rear	ADJ;ESS;FEM;SG	N;SG
+akcija	share	akcija	share	N;NOM;FEM;SG	V;IMP;FIN
+novērš	prevent	novērst	prevent	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+raidījums	broadcast	raidījums	broadcast	N;NOM;MASC;SG	V;PST;V.PTCP
+caurules	pipe	caurule	pipe	N;NOM;FEM;PL	N;SG
+caurules	tube	caurule	tube	N;NOM;FEM;PL	N;SG
+kimi	kimi	kimēt	kimi		N;SG
+uzpildes	filling	uzpilde	fill	N;NOM;FEM;PL	N;SG
+agnese	agnese	agnese	agnese	N;NOM;FEM;SG	PROPN;SG
+agnese	agnes	agnese	agne	N;NOM;FEM;SG	PROPN;SG
+timbaland	timbaland	timbaland	timbaland	N;NOM;MASC;SG	PROPN;SG
+āpsis	badger	āpst	badger	N;NOM;MASC;SG	PROPN;SG
+filipīnas	philippines	filipīna	philippine	N;NOM;FEM;PL	PROPN;PL
+egons	egon	egons	egon	N;NOM;MASC;SG	PROPN;SG
+garšas	taste	garša	taste	N;NOM;FEM;PL	N;SG
+garšas	flavour	garša	flavour	N;NOM;FEM;PL	N;SG
+afgāņu	afghan	afgāns	afghan	N;GEN;MASC;PL	ADJ
+magazine	magazine	magazine	magazine		N;SG
+mākonis	cloud	mākonis	cloud	N;NOM;MASC;SG	PROPN;SG
+denijs	danny	denijs	danny	N;NOM;MASC;SG	PROPN;SG
+pulkstenis	watch	pulkstenis	watch	N;NOM;MASC;SG	V;IMP;FIN
+lēcas	lens	lēkties	lens	N;NOM;FEM;PL	N;SG
+anastasija	anastasia	anastasija	anastasia	N;NOM;FEM;SG	PROPN;SG
+pārvadājumi	carriage	pārvadājums	carriage	N;NOM;MASC;PL	N;SG
+pārvadājumi	transport	pārvadājums	transport	N;NOM;MASC;PL	N;SG
+gviānas	guyana	gviāna	guyana	N;NOM;FEM;PL	PROPN;SG
+beznoteces	endorheic	beznotece	endorheic	N;NOM;FEM;PL	N;SG
+tavs	your	tavs	you	PRO;NOM;MASC;SG;3	PRO;2
+albānija	albania	albānija	albania	N;NOM;FEM;SG	PROPN;SG
+grafika	graphics	grafika	graphic	N;NOM;MASC;SG	N;PL
+stabili	stable	stabilis	stable	ADV	ADJ
+grūtniecības	pregnancy	grūtniecība	pregnancy	N;NOM;FEM;PL	N;SG
+pārbaude	checking	pārbaude	check	N;NOM;FEM;SG	V;V.MSDR
+pārbaude	check	pārbaude	check	N;NOM;FEM;SG	V;IMP;FIN
+ārpusē	outside	ārpuse	outside	N;ESS;FEM;SG	ADV
+astotā	eighth	astots	eighth	ADJ;NOM;DEF;FEM;SG	PROPN;SG
+kurss	course	kurss	course	N;NOM;MASC;SG	ADV
+zīmējumi	artwork	zīmējums	artwork	N;NOM;MASC;PL	N;SG
+kursā	course	kurss	course	N;ESS;MASC;SG	ADV
+minardi	minardi	minarde	minardi	PROPN	PROPN;SG
+bengālijas	bengal	bengālija	bengal	N;NOM;FEM;PL	PROPN;SG
+fia	fia	fia	fia	PROPN	PROPN;SG
+golfa	golf	golfa	golf	N;NOM;FEM;SG	PROPN;SG
+telekomunikāciju	telecommunications	telekomunikācija	telecommunication	N;ACC;FEM;SG	N;PL
+telekomunikāciju	telecommunication	telekomunikācija	telecommunication	N;ACC;FEM;SG	ADJ
+navbox	navbox	navbokt	navbox		N;SG
+džimijs	jimmy	džimijs	jimmy	N;NOM;MASC;SG	PROPN;SG
+equus	equus	equus	equus	N;NOM;FEM;SG	PROPN;SG
+mijiedarbības	interaction	mijiedarbība	interaction	N;NOM;FEM;PL	N;SG
+asa	asa	ass	asa	N;NOM;FEM;SG	PROPN;SG
+rabīns	rabbi	rabīns	rabbi	N;NOM;MASC;SG	PROPN;SG
+īres	rental	īre	rental	N;NOM;FEM;PL	ADJ
+pierādījumi	proof	pierādījums	proof	N;NOM;MASC;PL	N;SG
+pierādījumi	evidence	pierādījums	evidence	N;NOM;MASC;PL	N;SG
+karēlijas	karelia	karēlija	karelia	N;NOM;FEM;PL	PROPN;SG
+marokas	moroccan	maroka	moroccan	PROPN;NOM;FEM;PL	ADJ
+anete	annette	anete	annette	PROPN;NOM;FEM;SG	PROPN;SG
+alekss	alex	alekss	alex	PROPN;NOM;MASC;SG	PROPN;SG
+indukcijas	induction	indukcija	induction	N;NOM;FEM;PL	N;SG
+sampo	sampo	sampot	sampo	N	PROPN;SG
+rūzvelts	roosevelt	rūzvelts	roosevelt	PROPN;NOM;MASC;SG	PROPN;SG
+miruši	dead	mirt	dead	V;PFV;NOM;INDF;MASC;PL;PST;V.PTCP	ADJ
+ierobežot	limit	ierobežot	limit	V;POS;NFIN	N;SG
+briselē	brussels	brisele	brussel	N;ESS;FEM;SG	N;PL
+klauss	claus	klauss	claus	PROPN;NOM;MASC;SG	PROPN;SG
+klauss	klaus	klauss	klaus	PROPN;NOM;MASC;SG	PROPN;SG
+krustā	crucified	krusts	crucify	N;ESS;MASC;SG	V;PST;V.PTCP
+degunradzis	rhinoceros	degunradzis	rhinoceros	N;NOM;MASC;SG	N;PL
+degunradzis	rhino	degunradzis	rhino	N;NOM;MASC;SG	PROPN;SG
+siu	siu	sia	siu		PROPN;SG
+skulptūru	sculptures	skulptūra	sculpture	N;ACC;FEM;SG	N;PL
+edu	edu	eda	edu	V;FH;IND;SG;1;POS;PRS;FIN;ACT	PROPN;SG
+identitātes	identity	identitāte	identity	N;NOM;FEM;PL	N;SG
+piemin	mentions	pieminēt	mention	V;FH;IND;3;POS;PRS;FIN;ACT	N;PL
+minimālā	minimum	minimāls	minimum	ADJ;NOM;FEM;SG	N;SG
+zobens	sabre	zobens	sabre	N;NOM;MASC;SG	PROPN;SG
+smith	smith	smith	smith		PROPN;SG
+desmiti	tens	desmits	ten	NUM;NOM;MASC;PL	N;PL
+desmiti	dozen	desmits	dozen	NUM;NOM;MASC;PL	N;SG
+benz	benz	benz	benz		PROPN;SG
+benz	benzo	benz	benzo		PROPN;SG
+sulas	juice	sula	juice	N;NOM;FEM;PL	N;SG
+klusais	pacific	kluss	pacific	ADJ;NOM;MASC;SG	PROPN;SG
+korupcijas	corruption	korupcija	corruption	N;NOM;FEM;PL	N;SG
+krēpes	mane	krēpe	mane	N;NOM;FEM;PL	N;SG
+dārzkopības	horticulture	dārzkopība	horticulture	N;NOM;FEM;PL	N;SG
+dārzkopības	horticultural	dārzkopība	horticultural	N;NOM;FEM;PL	ADJ
+dārzkopības	gardening	dārzkopība	gardening	N;NOM;FEM;PL	N;SG
+indiana	indiana	indiana	indiana	PROPN;NOM;FEM;SG	PROPN;SG
+skaistas	pretty	skaista	pretty	ADJ;NOM;FEM;PL	ADV
+sekunžu	seconds	sekunda	seconds	N;ACC;MASC;SG	N;PL
+ivo	ivo	ivo	ivo	PROPN;NOM;MASC;SG	PROPN;SG
+slovēņu	slovene	slovēns	slovene	N;ACC;FEM;PL	ADJ
+slovēņu	slovenian	slovēns	slovenian	N;ACC;FEM;PL	ADJ
+prūsija	prussia	prūsija	prussia	N;NOM;FEM;SG	PROPN;SG
+varonību	heroics	varonība	heroics	N;ACC;FEM;SG	N;PL
+konstante	constant	konstante	constant	N;NOM;FEM;SG	ADJ
+motīvi	motifs	motīvi	motif	ADJ;NOM;MASC;PL	N;PL
+motīvi	motives	motīvi	motive	ADJ;NOM;MASC;PL	N;PL
+atkārtot	redo	atkārtot	redo	V;POS;NFIN	N;SG
+atkārtot	replay	atkārtot	replay	V;POS;NFIN	N;SG
+paulu	paulo	pauls	paulo	N;ACC;MASC;SG	PROPN;SG
+netieši	indirect	netieši	indirect	ADV	ADJ
+pelēkās	grey	pelēka	grey	ADJ;NOM;FEM;PL	PROPN;SG
+rafaels	rafael	rafaels	rafael	N;NOM;MASC;SG	PROPN;SG
+skaitās	counts	skaitīties	count	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;PL
+lūkas	hatch	lūka	hatch	N;NOM;FEM;PL	PROPN;SG
+ternopiļas	ternopil	ternopila	ternopil	N;NOM;FEM;PL	PROPN;SG
+pole	pole	pole	pole	PROPN;NOM;FEM;SG	N;SG
+admirālis	admiral	admirālis	admiral	N;NOM;MASC;SG	PROPN;SG
+sat	sat	sat	sit		V;IND;PST;FIN
+emi	emi	emīt	emi		PROPN;SG
+gilmors	gilmour	gilmors	gilmour	N;NOM;MASC;SG	PROPN;SG
+rezervē	reserve	rezerve	reserve	V;FH;IND;SG;2;POS;PRS;FIN;ACT	N;SG
+serbijā	serbia	serbija	serbia	N;ESS;FEM;SG	PROPN;SG
+pārvarēt	overcoming	pārvarēt	overcoming	V;POS;NFIN	N;SG
+limited	limited	limited	limited		ADJ
+ētika	ethics	ētikt	ethic	N;NOM;FEM;SG	N;PL
+panama	panama	panams	panama	PROPN;NOM;FEM;SG	PROPN;SG
+atkarīgi	dependent	atkarīgi	dependent	ADV	ADJ
+atkarīgi	addicted	atkarīgi	addict	ADV	ADJ
+tvaiku	vapours	tvaika	vapour	N;ACC;MASC;SG	N;PL
+fidži	fiji	fidži	fiji		PROPN;SG
+coca	coca	coca	coca	N;NOM;MASC;SG	PROPN;SG
+goes	goes	goes	go		V;IND;SG;3;PRS;FIN
+pārliecināts	sure	pārliecināt	sure	V;PFV;NOM;INDF;MASC;SG;PST;V.PTCP	ADJ
+pārliecināts	convinced	pārliecināt	convinced	V;PFV;NOM;INDF;MASC;SG;PST;V.PTCP	ADJ
+interwiki	interwiki	interviks	interwiki		N;SG
+astotais	eighth	astots	eighth	ADJ;NOM;DEF;MASC;SG	PROPN;SG
+uzbrucēji	offense	uzbrucēt	offense	N;NOM;MASC;PL	N;SG
+investīcijas	investment	investīcija	investment	N;NOM;FEM;PL	N;SG
+rtu	rtu	rta	rtu	PROPN	PROPN;SG
+pārbauda	verify	pārbaudīt	verify	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+pārbauda	verifying	pārbaudīt	verify	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+pārbauda	check	pārbaudīt	check	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+ženēvā	geneva	ženēvs	geneva	PROPN;ESS;FEM;SG	PROPN;SG
+patiesība	true	patiesība	true	N;NOM;FEM;SG	ADJ
+ila	ila	ilt	ila	N;NOM;FEM;SG	PROPN;SG
+ieņēmumi	income	ieņēmums	income	N;NOM;MASC;PL	N;SG
+ieņēmumi	revenue	ieņēmums	revenue	N;NOM;MASC;PL	N;SG
+iegūšana	acquiring	iegūšana	acquire	N;NOM;FEM;SG	V;V.MSDR
+bordo	bordeaux	bords	bordeaux	PROPN	PROPN;SG
+bordo	burgundy	bords	burgundy	PROPN	PROPN;SG
+lada	lada	ladīt	lada	PROPN;NOM;FEM;SG	PROPN;SG
+saņemšanas	receipt	saņemšana	receipt	N;NOM;FEM;PL	N;SG
+sakramento	sacramento	sakraments	sacramento	N	PROPN;SG
+velns	devil	velns	devil	N;NOM;MASC;SG	PROPN;SG
+zinu	zee	zināt	zee	V;FH;IND;SG;1;POS;PRS;FIN;ACT	PROPN;SG
+taizemes	thai	taizeme	thai	N;NOM;FEM;PL	ADJ
+apvienošanos	mergers	apvienošanās	merger	N;ACC;FEM;SG	N;PL
+pārbaudi	check	pārbaude	check	N;ACC;FEM;SG	V;IMP;FIN
+kirils	kirill	kirils	kirill	PROPN;NOM;MASC;SG	PROPN;SG
+amerika	america	amerika	america	N;NOM;FEM;SG	PROPN;SG
+amerika	americas	amerika	americas	N;NOM;FEM;SG	N;PL
+toni	toni	tonis	toni	N;ACC;MASC;SG	PROPN;SG
+sabrukšanas	decay	sabrukšana	decay	N;NOM;FEM;PL	N;SG
+emocijas	emotion	emocija	emotion	N;NOM;FEM;PL	N;SG
+audzināšanas	parenting	audzināšana	parent	N;NOM;FEM;PL	N;SG
+palestīnā	palestine	palestīna	palestine	PROPN;ESS;FEM;SG	PROPN;SG
+rezidences	residency	rezidence	residency	N;NOM;FEM;PL	N;SG
+misūri	missouri	misūri	missouri	PROPN;NOM;FEM;SG	PROPN;SG
+ķirurģijas	surgical	ķirurģija	surgical	N;NOM;FEM;PL	ADJ
+silva	silva	silva	silva	PROPN;NOM;FEM;SG	PROPN;SG
+novērojamas	observable	novērot	observable	V;NOM;INDF;FEM;PL;PRS;V.PTCP;PASS	ADJ
+frānsiss	frances	frānsiss	france	N;NOM;MASC;SG	N;PL
+spacex	spacex	spacex	spacex	N;NOM;FEM;SG	PROPN;SG
+traucē	disturb	traucēt	disturb	V;FH;IND;3;POS;PRS;FIN;ACT	V;IMP;FIN
+traucē	obstructing	traucēt	obstruct	V;FH;IND;3;POS;PRS;FIN;ACT	N;SG
+fib	fbi	fib	fbi	PROPN	PROPN;SG
+galerijas	gallery	galerija	gallery	N;NOM;FEM;PL	N;SG
+alise	alice	alise	alice	N;NOM;FEM;SG	PROPN;SG
+cukuru	sugar	cukurs	sugar	N;ACC;MASC	N;SG
+bojājumi	lesion	bojājums	lesion	N;NOM;MASC;PL	N;SG
+uzlabojumi	improvement	uzlabojums	improvement	N;NOM;MASC;PL	N;SG
+bruņas	armor	bruņas	armor	N;NOM;FEM	N;SG
+bruņas	armour	bruņas	armour	N;NOM;FEM	N;SG
+eksports	exports	eksports	export	N;NOM;MASC;SG	N;PL
+src	src	src	src		PROPN;SG
+čīle	chile	čīle	chile	PROPN;NOM;FEM;SG	PROPN;SG
+īstenībā	actually	īstenība	actually	N;ESS;FEM;SG	ADV
+atļaujas	permits	atļauties	permit	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;PL
+atļaujas	authorizations	atļauties	authorization	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;PL
+atļaujas	permissions	atļauties	permission	V;FH;IND;3;POS;REFL;PRS;FIN;ACT	N;PL
+zosu	geese	zoss	geese	N;ACC;MASC;SG	N;PL
+studio	studio	studio	studio		N;SG
+pensijā	retired	pensija	retire	N;ESS;FEM;SG	V;PST;V.PTCP
+pensijā	retire	pensija	retire	N;ESS;FEM;SG	V;IMP;FIN
+polis	pole	polis	pole	PROPN;NOM;MASC;SG	N;SG
+taivānas	taiwan	taivāna	taiwan	PROPN;NOM;FEM;PL	PROPN;SG
+neue	neue	neuet	neue		PROPN;SG
+voyager	voyager	voyager	voyager	N;NOM;FEM;SG	PROPN;SG
+zunda	sunda	zunds	sunda	PROPN;NOM;FEM;SG	PROPN;SG
+android	android	android	android	N	PROPN;SG
+mogiļevas	mogilev	mogiļeva	mogilev	N;NOM;FEM;PL	PROPN;SG
+sūnu	moss	sūns	moss	N;ACC;MASC;SG	PROPN;SG

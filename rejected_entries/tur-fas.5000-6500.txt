@@ -1,0 +1,2418 @@
+tavşan	هیر	tavşan	هیر		N;SG
+tavşan	خرگوشی	tavşan	خرگوشی		N;SG
+tavşan	خرگوش	tavşan	خرگوش		N;SG
+thunder	تندر	thunder	تندر		N;SG
+thunder	رعد	thunder	رعد		N;SG
+köprülü	کوپرولو	köprülü	کوپرولو		N;SG
+luigi	لوئیجی	luigi	لوئیجی		N;SG
+dokuma	نساجی	dokum	نساجی		N;SG
+dokuma	بافتن	dokum	بافتن		N;SG
+nicole	نیکل	nicol	نیکل		N;SG
+nicole	نیکول	nicol	نیکول		N;SG
+todd	تاد	todd	تاد		N;SG
+deve	شتران	deve	شتران		N;PL
+deve	اشتری	deve	اشتری		N;SG
+deve	شتر	deve	None		N;SG
+deve	اشتر	deve	اشتر		N;SG
+granada	گرانادا	grana	گرانادا	PROPN;ESS;SG;3	N;SG
+wesley	وسلی	wesley	وسلی		N;SG
+ameliyat	عملیات	ameliyat	عملیات	N;NOM;SG;3	N;PL
+mercury	عطارد	mercury	عطارد	PROPN;NOM;SG;3	N;SG
+mercury	جیوه	mercury	جیوه	PROPN;NOM;SG;3	N;SG
+mercury	مرکوری	mercury	None	PROPN;NOM;SG;3	N;SG
+pearl	pearl	pearl	pearl		N;SG
+pearl	مروارید	pearl	مروارید		N;SG
+pearl	پرل	pearl	پرل		N;SG
+kaplar	کانتینر	kap	کانتینر	N;NOM;PL;3	N;SG
+taşlar	سنگها	taş	سنگ	ADJ;NOM;PL;3	N;PL
+taşlar	سنگها	taş	سنگ	ADJ;NOM;PL;3	N;PL
+hesaplama	محاسباتی	hesaplama	محاسبه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+hesaplama	محاسبات	hesaplama	محاسبه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+hesaplama	رایانه	hesaplama	رایانه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	رایانش	hesaplama	رایانش	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	محاسبه	hesaplama	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hesaplama	محاسبات	hesaplama	محاسبه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+cohen	کوهن	cohen	کوهن		N;SG
+cohen	کوئن	cohen	کوئن		N;SG
+ekvator	استوا	ekvator	استوا		N;SG
+ekvator	اکوادور	ekvator	None		N;SG
+anayasal	مشروطه	anayasal	None		N;SG
+jonas	جوناس	jonas	جوناس		N;SG
+ekler	درج	ek	درج		N;SG
+karen	کرن	karen	کرن		N;SG
+karen	کارن	karen	کارن		N;SG
+pascal	پاسکال	pascal	پاسکال		N;SG
+esp	esp	esp	esp		N;SG
+laurent	لوران	laurent	لوره	PROPN;NOM;SG;3	N;SG
+laurent	لورنت	laurent	لورنت	PROPN;NOM;SG;3	N;SG
+nazif	نظیف	nazif	None		N;SG
+touch	لمس	touch	None		N;SG
+touch	تاچ	touch	تاچ		N;SG
+kürek	رویینگ	kürek	رویینگ		N;SG
+kürek	پارو	kürek	پارو		N;SG
+kürek	سطر	kürek	سطر		N;SG
+bilbao	بیلبائو	bilbao	بیلبائو	PROPN;NOM;SG;3	N;SG
+bahçeleri	باغ	bahçe	باغ	N;ACC;PL;3	N;SG
+bahçeleri	بوستان	bahçe	بوستان	N;ACC;PL;3	N;SG
+takas	تجارت	takas	تجارت		N;SG
+takas	تجارت	takas	تجارت		N;SG
+takas	معاوضه	takas	معاوضه		N;SG
+takas	مبادله	takas	مبادله		N;SG
+takas	معاوضه	takas	معاوضه		N;SG
+takas	معاوضه	takas	معاوضه		N;SG
+takas	تبادل	takas	تبادل		N;SG
+takas	مبادله	takas	مبادله		N;SG
+cola	نوشابه	cola	نوشابه		N;SG
+cola	کوکا	cola	کوکا		N;SG
+cola	کولا	cola	None		N;SG
+yalancı	دروغگو	yalancı	دروغگو		N;SG
+yalancı	دروغگوی	yalancı	دروغگویی		N;SG
+dul	بیوه	dul	بیوه		N;SG
+dul	بیوه	dul	بیوه		N;SG
+xxx	xxx	xxx	xxx		N;SG
+bolton	بولتون	bolton	بولتون	PROPN;NOM;SG;3	N;SG
+romen	رومانیایی	romen	رومانیایی		N;SG
+romen	رومانی	romen	رومانی		N;SG
+komplo	رسم	komplo	رسم		N;SG
+komplo	نیرنگ	komplo	نیرنگ		N;SG
+komplo	توطئه	komplo	None		N;SG
+komplo	دسیسه	komplo	دسیسه		N;SG
+komplo	پاپوش	komplo	پاپوش		N;SG
+store	فروشگاه	store	فروشگاه		N;SG
+store	ذخیره	store	ذخیره		N;SG
+seine	سن	sein	سن	PROPN;NOM;SG;3	N;SG
+iletim	انتقال	iletim	انتقال		N;SG
+iletim	مخابره	iletim	None		N;SG
+beatles	بیتلز	beatles	بیتلز		N;SG
+kumaş	پارچه	kumaş	پارچه		N;SG
+kumaş	پارچه	kumaş	پارچه		N;SG
+kumaş	پارچه	kumaş	پارچه		N;SG
+reaksiyon	واکنشی	reaksiyon	واکنش		N;SG
+reaksiyon	واکنش	reaksiyon	واکنش		N;SG
+odak	کانون	odak	کانون		N;SG
+odak	تمرکز	odak	تمرکز		N;SG
+odak	کانونی	odak	کانونی		N;SG
+düsseldorf	دوسلدورف	düsseldorf	دوسلدورف	PROPN;NOM;SG;3	N;SG
+sınav	امتحانات	sınav	None	N;NOM;SG;3	N;PL
+tarama	پویش	tarama	پویش		N;SG
+tarama	مرور	tarama	مرور		N;SG
+tarama	اسکن	tarama	اسکن		N;SG
+tarama	پویش	tarama	پویش		N;SG
+tüyleri	پر	tüy	پر	ADJ;NOM;PL;3	N;SG
+tüyleri	پرهای	tüy	پر	ADJ;NOM;PL;3	N;PL
+donetsk	دونتسک	donetsk	دونتسک	PROPN;NOM;SG;3	N;SG
+nathan	نیتن	nathan	نیتن	PROPN;NOM;SG;3	N;SG
+nathan	ناتان	nathan	ناتان	PROPN;NOM;SG;3	N;SG
+fisher	فیشر	fishe	فیشر		N;SG
+satürn	زحل	satürn	زحل		N;SG
+sorunlu	آشفته	sorunlu	آشفته		ADJ
+karesi	مربع	kare	مربع		N;SG
+karesi	میدان	kare	میدان		N;SG
+komisyon	تصدی	komisyon	تصدی		N;SG
+komisyon	کمیسیون	komisyon	کمیسیون		N;SG
+komisyon	دلالی	komisyon	None		N;SG
+favori	محبوب	favori	محبوب		N;SG
+şef	سرآشپز	şef	سرآشپز		N;SG
+şef	آشپز	şef	آشپز		N;SG
+vergisi	مالیات	vergi	مالیه	N;NOM;SG;3	N;PL
+vergisi	مالیاتی	vergi	مالی	N;NOM;SG;3	N;PL
+telgraf	تلگرام	telgraf	تلگرام		N;SG
+telgraf	تلگراف	telgraf	تلگراف		N;SG
+parsons	پارسونز	parsons	پارسونز		N;SG
+arayan	داعی	ara	داعی	V;PFV;IND;POS;PRS;V.PTCP	N;SG
+ilim	دانش	ilim	دانش		N;SG
+ilim	آگاهی	ilim	آگاهی		N;SG
+ilim	علم	ilim	علم		N;SG
+ilim	معرفت	ilim	معرفت		N;SG
+bond	باند	bond	باند		N;SG
+bond	پیوند	bond	پیوند		N;SG
+yuri	یوری	yuri	یوری		N;SG
+gözde	محبوب	gözde	محبوب		N;SG
+tecrübe	تجربه	tecrübe	تجربه		N;SG
+andromeda	آندرومدا	androme	آندرومدا		N;SG
+nokia	نوکیا	nokia	نوکیا		N;SG
+çiçekler	گل	çiçek	گل	N;NOM;PL;3	N;SG
+stargate	استارگیت	stargate	استارگیت		N;SG
+gridcolor	gridcolor	gridco	gridcolor		N;SG
+zoolog	جانورشناس	zoolog	جانورشناس		N;SG
+dalları	شعبه	dal	شعبه	N;NOM;PL;3	N;SG
+dalları	شاخه	dal	شاخه	N;NOM;PL;3	N;SG
+stark	استارک	stark	استارک		N;SG
+soğutma	سرمایش	soğut	سرمایش		N;SG
+soğutma	سردسازی	soğut	سردسازی		N;SG
+abbasi	عباسی	abba	عباسی		N;SG
+nereye	کجا	nere	کجا	PRO;DAT;SG;3	ADV
+nereye	کجای	nere	کجا	PRO;DAT;SG;3	CONJ
+step	گام	step	گام		N;SG
+step	مرحله	step	مرحله		N;SG
+step	قدم	step	قدم		N;SG
+dale	دیل	dale	دیل		N;SG
+damar	رگها	damar	رگ		N;PL
+damar	رگهای	damar	رگ		N;PL
+damar	سیاهرگ	damar	سیاهرگ		N;SG
+damar	رگ	damar	رگ		N;SG
+damar	عروقی	damar	عروقی		N;SG
+damar	عروق	damar	عروق		N;PL
+rumen	رومانیایی	rumen	رومانیایی		N;SG
+rumen	رومانی	rumen	رومانی		N;SG
+erbil	اربیل	erbil	اربیل		N;SG
+psv	psv	psv	psv		N;SG
+mürettebat	سرنشینان	mürettebat	سرنشین	N;NOM;SG;3	N;PL
+riley	ریلی	riley	ریلی		N;SG
+riley	رایلی	riley	رایلی		N;SG
+göreceli	نسبی	gör	نسبی		N;SG
+göreceli	نسبیتی	gör	نسبیتی		N;SG
+mercan	کورال	mercan	کورال		N;SG
+mercan	مرجان	mercan	مرجان		N;SG
+mercan	مرجانی	mercan	مرجانی		N;SG
+arya	آریا	arya	آریا		N;SG
+lang	لنگ	lang	لنگ		N;SG
+feminist	فمینیست	feminist	فمینیست		N;SG
+feminist	feminist	feminist	feminist		N;SG
+organları	ارگان	organ	ارگان	N;NOM;PL;3	N;SG
+organları	اندام	organ	اندام	N;NOM;PL;3	N;SG
+doğumu	b	doğum	b	N;ACC;SG;3	INTJ
+mühimmat	مهمات	mühimmat	مهمه		N;PL
+louise	لوئیز	loui	لوئیز	PROPN;NOM;SG;3	N;SG
+louise	لوییز	loui	لوییز	PROPN;NOM;SG;3	N;SG
+izlenen	پایش	izle	پایش	V;PFV;IND;POS;PRS;V.PTCP;PASS	
+yugoslav	یوگوسلاوی	yugoslav	یوگوسلاوی		N;SG
+stand	استند	stand	است		N;SG
+stand	ایستادن	stand	None		N;SG
+notları	نوت	not	نوت	N;ACC;PL;3	N;SG
+notları	نمره	not	نمره	N;ACC;PL;3	N;SG
+blake	بلیک	blake	بلیک		N;SG
+çözmek	حل	çöz	حل	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+çözmek	حل	çöz	حل	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+mad	مجنون	mad	مجنون		N;SG
+mad	دیوانه	mad	دیوانه		N;SG
+ece	ece	ece	ece		N;SG
+zıt	مخالف	zıt	مخالف		N;SG
+gonzález	گونزالس	gonzález	گونزالس	PROPN;NOM;SG;3	N;SG
+helikopter	هلیکوپترها	helikopter	هلیکوپتر	N;NOM;SG;3	N;PL
+klaus	کلاوس	klaus	None		N;SG
+koch	کوخ	koch	کوخ		N;SG
+dışa	ظاهری	dış	ظاهری		N;SG
+mig	میگ	mig	میگ		N;SG
+yetenekleri	استعداد	yetenek	استعداد	N;NOM;PL;3	N;SG
+zaza	زازا	zaza	زازا		N;SG
+atı	جماعتی	at	جماعت		N;PL
+atı	ati	at	ati		N;SG
+masal	داستان	masal	داستان		N;SG
+masal	داستانی	masal	داستان		N;SG
+masal	قصه	masal	None		N;SG
+dinlenme	تفریح	dinlen	تفریح	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+dinlenme	تفریحات	dinlen	تفریح	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;PL
+dinlenme	آرامش	dinlen	آرامش	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+dinlenme	الباقی	dinlen	الباقی	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+dinlenme	استراحت	dinlen	استراحت	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;SG
+mhz	mhz	mhz	mhz		N;SG
+heinz	هاینتس	heinz	هاینتس	PROPN;NOM;SG;3	N;SG
+heinz	هاینز	heinz	هاینز	PROPN;NOM;SG;3	N;SG
+tatmin	ارضای	tatmin	None		N;SG
+tatmin	رضایت	tatmin	رضایت		N;SG
+tatmin	رضایت	tatmin	رضایت		N;SG
+tatmin	خشنود	tatmin	خشنود		ADJ
+tatmin	راضی	tatmin	راضی		ADJ
+porsche	پورشه	porsche	پورشه		N;SG
+malcolm	مالکوم	malcolm	مالکوم		N;SG
+kentucky	کنتاکی	kentucky	کنتاکی		N;SG
+ekseni	محور	ekseni	محور		N;SG
+enzim	آنزیم	enzi	آنزیم		N;SG
+enzim	آنزیم	enzi	آنزیم		N;SG
+haksız	ناعادلانه	haksız	ناعادلانه		ADJ
+seti	تنظیم	set	تنظیم		N;SG
+seti	ستی	set	ستی		N;SG
+makina	ماشینی	makina	ماشینی		N;SG
+makina	ماشین	makina	ماشین		N;SG
+makina	دستگاه	makina	دستگاه		N;SG
+makina	دستگاهها	makina	دستگاه		N;PL
+makina	ماشینها	makina	ماشین		N;PL
+tasarımcı	طراح	tasarımcı	طراح		N;SG
+tasarımcı	نگارنده	tasarımcı	نگارنده		N;SG
+tasarımcı	designer	tasarımcı	designer		N;SG
+tolkien	تالکین	tolkien	تالکین		N;SG
+sır	رازها	sır	راز		N;PL
+sır	اسرار	sır	سر		N;PL
+sır	راز	sır	راز		N;SG
+sır	محرمانه	sır	محرمانه		ADJ
+sır	رازی	sır	راز		N;SG
+sır	راز	sır	راز		N;SG
+sır	مخفی	sır	مخفی		N;SG
+aman	امان	aman	امان		N;SG
+six	شش	six	شش		NUM
+six	سیکس	six	سیکس		N;SG
+six	شیش	six	شیش		NUM
+rush	راش	rush	راش		N;SG
+bilinçli	هوشیاری	bilinçli	هوشیاری		N;SG
+yasağı	ممنوعیت	yasak	ممنوعیت		N;SG
+andre	آندره	andre	آندره		N;SG
+roller	راهسازی	rol	راهسازی		N;SG
+bull	بول	bull	بول		N;SG
+hani	هانی	hani	هانی		N;SG
+edwards	ادواردز	edwar	ادواردز		N;SG
+odaklı	متمرکز	odaklı	متمرکز		N;SG
+odaklı	تمرکز	odaklı	تمرکز		N;SG
+italia	ایتالیا	italia	ایتالیا	PROPN;NOM;SG;3	N;SG
+helena	هلنا	helen	هلنا	PROPN;NOM;SG;3	N;SG
+tartışmaları	بحثهای	tartış	بحث	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+katliam	کشتار	katlia	کشتار		N;SG
+katliam	اسلاتر	katlia	اسلاتر		N;SG
+katliam	کشتار	katlia	کشتار		N;SG
+katliam	سلاخی	katlia	سلاخی		N;SG
+katliam	کشتار	katlia	کشتار		N;SG
+varsayılan	پیشفرض	varsa	پیشفرض		N;SG
+lanka	لانکا	lanka	لانکا	PROPN;NOM;SG;3	N;SG
+wade	وید	wade	وید		N;SG
+holmes	هولمز	holmes	هولمز		N;SG
+holmes	هلمز	holmes	هلمز		N;SG
+yapıcı	صورتگر	yapıcı	صورتگر		N;SG
+yapıcı	سازنده	yapıcı	سازنده		N;SG
+iowa	آیووا	iowa	آیووا	PROPN;NOM;SG;3	N;SG
+çember	چرخه	çember	چرخه		N;SG
+çember	دایره	çember	دایره		N;SG
+isfahan	اصفهان	isfahan	اصفهان		N;SG
+karaciğer	جگر	karaciğer	جگر		N;SG
+karaciğer	کبد	karaciğer	کرد#کن		N;SG
+hatalar	خطاست	hata	خطاست	N;NOM;PL;3	N;SG
+atanmış	معین	atan	معین	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N;SG
+málaga	مالاگا	málaga	مالاگا	PROPN;NOM;SG;3	N;SG
+itici	دافع	itici	دافع		N;SG
+itici	صدایت	itici	صدایت		ADV
+itici	تکانشی	itici	تکانشی		N;SG
+litre	لیتر	litre	None		N;SG
+litre	لیتر	litre	None		N;SG
+litre	لیتر	litre	None		N;SG
+çalışkan	پرتلاش	çalışkan	پرتلاش		ADJ
+çalışkan	کوشا	çalışkan	کوشا		ADJ
+meşru	مشروع	meşru	None		N;SG
+meşru	قانونی	meşru	قانونی		N;SG
+kaçmak	گریز	kaç	گریز	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+kaçmak	فرار	kaç	فرار	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+asal	پرایم	asal	پرایم		N;SG
+asal	نخست	asal	نخست		N;SG
+radyoaktif	رادیواکتیو	radyoaktif	رادیواکتیو		N;SG
+radyoaktif	رادیواکتیوی	radyoaktif	رادیواکتیوی		N;SG
+öyküler	داستان	öykü	داستان	N;NOM;PL;3	N;SG
+yale	ییل	yale	ییل		N;SG
+iskandinav	نوردیک	iskandinav	نوردیک	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	N;SG
+iskandinav	اسکاندیناوی	iskandinav	اسکاندیناوی	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	N;SG
+kronik	مزمن	kronik	None		N;SG
+yarışmaları	رقابتها	yarış	رقابت	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+osetya	اوستیای	osetya	اوستیا	PROPN;NOM;SG;3	N;SG
+çim	چمن	çim	None		N;SG
+çim	چمن	çim	None		N;SG
+çim	چمنی	çim	چمنی		N;SG
+çim	علف	çim	None		N;SG
+sn	سک	sn	سک		N;SG
+balıkçı	ماهیگیران	balıkçı	ماهیگیر		N;PL
+balıkçı	ماهیگیر	balıkçı	ماهیگیر		N;SG
+balıkçı	فیشر	balıkçı	فیشر		N;SG
+balıkçı	ماهیگیر	balıkçı	ماهیگیر		N;SG
+niyet	قصدی	niyet	قصدی		N;SG
+niyet	قصدم	niyet	قصدم		ADV
+niyet	قصد	niyet	قصد		N;SG
+niyet	قصدش	niyet	قصدش		N;SG
+niyet	قصد	niyet	قصد		N;SG
+niyet	قصد	niyet	قصد		N;SG
+niyet	قصدی	niyet	قصدی		N;SG
+niyet	قصد	niyet	قصد		N;SG
+niyet	نیات	niyet	نیت		N;PL
+niyet	مقاصد	niyet	مقاصد		N;PL
+mansur	منصور	mansur	None		N;SG
+kaçış	گریز	kaçış	گریز		N;SG
+kaçış	گریز	kaçış	گریز		N;SG
+kaçış	فرار	kaçış	فرار		N;SG
+solomon	سلیمان	solomon	سلیمان	PROPN;NOM;SG;3	N;SG
+solomon	سولومون	solomon	سولومون	PROPN;NOM;SG;3	N;SG
+heyet	هیئت	heyet	هیئت		N;SG
+heyet	هیات	heyet	هیات		N;SG
+heyet	کمیته	heyet	کمیته		N;SG
+heyet	کمیسیون	heyet	کمیسیون		N;SG
+dresden	درسدن	dre	درسدن	PROPN;AT+ABL;SG;3	N;SG
+vancouver	ونکوور	vancouver	ونکوور	PROPN;NOM;SG;3	N;SG
+davud	داوید	davud	داوت#دار		N;SG
+davud	داود	davud	داود		N;SG
+davud	داوود	davud	داوود		N;SG
+davud	دیوید	davud	دیوید		N;SG
+davud	david	davud	david		N;SG
+hughes	هیوز	hughes	هیوز		N;SG
+kawasaki	کاوازاکی	kawasaki	کاوازاکی		N;SG
+eylemleri	کنش	eylem	None	N;ACC;PL;3	N;SG
+rotterdam	روتردام	rotter	روتردام	PROPN;NOM;SG;3	N;SG
+pat	پت	pat	پت		N;SG
+uganda	اوگاندا	uga	اوهاندا	PROPN;NOM;SG;3	N;SG
+württemberg	وورتمبرگ	württemberg	وورتمبرگ	PROPN;NOM;SG;3	N;SG
+karikatür	کمیک	karikat	None		N;SG
+karikatür	کمدی	karikat	None		N;SG
+karikatür	کمیک	karikat	None		N;SG
+karikatür	مصور	karikat	مصور		N;SG
+karikatür	کاریکاتور	karikat	None		N;SG
+karikatür	کارتون	karikat	کارتون		N;SG
+karikatür	کارتون	karikat	کارتون		N;SG
+masaüstü	رومیزی	masaüst	None		N;SG
+alpha	آلفا	alpha	آلفا		N;SG
+zirve	اوج	zirve	اوج		N;SG
+zirve	قله	zirve	قله		N;SG
+armağan	هدیه	armağan	هدیه		N;SG
+armağan	کادو	armağan	کادو		N;SG
+avn	avn	avn	avn		N;SG
+gelişmekte	درونِ	geliş	درونِ	V;PROG;IND;SG;3;POS;FORM;PRS	N;SG
+gelişmekte	توسعه	geliş	توسعه	V;PROG;IND;SG;3;POS;FORM;PRS	N;SG
+yansıtan	ازای	yansı	ازا	V;PFV;IND;POS;PRS;V.PTCP;CAUS	N;SG
+azaltmak	کاهش	azal	کاهش	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;SG
+werder	werder	werder	werder	PROPN;NOM;SG;3	N;SG
+atlantis	آتلانتیس	atlantis	آتلانتیس		N;SG
+üstte	بالا	üst	بالا	ADJ;ESS;SG;3	ADV;ESS
+üstte	top	üst	top	ADJ;ESS;SG;3	N;SG
+üstte	تاپ	üst	تاپ	ADJ;ESS;SG;3	N;SG
+üstte	اوج	üst	اوج	ADJ;ESS;SG;3	N;SG
+üstte	فاعل	üst	None	ADJ;ESS;SG;3	N;SG
+angela	آنگلا	angela	آنگلا		N;SG
+angela	آنجلا	angela	آنجلا		N;SG
+ihmal	قصور	ihmal	قصور		N;SG
+ihmal	غفلت	ihmal	غفلت		N;SG
+ihmal	غافل	ihmal	غافل		ADJ
+geometri	هندسه	geometri	هندسه		N;SG
+oynamak	پخش	oyna	پخش	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+chiba	چیبا	chiba	چیبا	PROPN;NOM;SG;3	N;SG
+görkemli	جلالت	görkemli	جلالت		N;SG
+görkemli	بزرگوار	görkemli	بزرگوار		N;SG
+engeli	انسداد	engel	None		N;SG
+seyir	ناوبری	seyir	ناوبری		N;SG
+ritim	نواخت	ritim	نواخت#نواز		V;SG;3;PST
+ritim	موزون	ritim	موزون		N;SG
+ritim	ریتم	ritim	None		N;SG
+mount	کوه	mount	کوه	PROPN;NOM;SG;3	N;SG
+mount	طور	mount	طور	PROPN;NOM;SG;3	N;SG
+danışman	مشاور	danış	مشاور		N;SG
+danışman	مشاور	danış	مشاور		N;SG
+danışman	مشاور	danış	مشاور		N;SG
+kırgız	قرقیزی	kırgız	قرقیزی		N;SG
+dinar	دینار	dinar	None		N;SG
+kirli	کثیف	kirli	None		N;SG
+kirli	کثیفی	kirli	کثیف		N;SG
+kirli	ناپاک	kirli	ناپاک		ADJ
+kirli	پلید	kirli	پلید		N;SG
+kirli	نجس	kirli	نجس		ADJ
+mir	میر	mir	میر		N;SG
+deutsche	دویچه	deutsche	دویچه	PROPN;NOM;SG;3	N;SG
+foton	فوتونها	foton	فوتون		N;PL
+foton	فوتون	foton	فوتون		N;SG
+objektif	عدسی	objektif	عدسی		N;SG
+objektif	لنز	objektif	لنز		N;SG
+objektif	عینی	objektif	عینی		N;SG
+tanzanya	تانزانیا	tanzan	تانزانیا	PROPN;NOM;SG;3	N;SG
+zaragoza	ساراگوسا	zaragoz	ساراگوسا	PROPN;NOM;SG;3	N;SG
+troll	ترول	troll	ترول		N;SG
+troll	غولها	troll	غول		N;PL
+aç	باز	aç	باز		ADJ
+aç	گرسنه	aç	گرسنه		ADJ
+sözcükler	واژه	sözcük	واژه	N;NOM;PL;3	N;SG
+yazılabilir	نوشتنی	yaz	نوشتنی	V;IPFV;POT;SG;3;POS	N;SG
+tiberius	تیبریوس	tiberius	تیبریوس		N;SG
+incir	انجیر	incir	انجیر		N;SG
+kayıplar	ضرر	kayıp	None	N;NOM;PL;3	N;SG
+delhi	دهلی	delhi	دهلی	PROPN;NOM;SG;3	N;SG
+dana	دانا	dan	دانا		N;SG
+dana	دینا	dan	دینا		N;SG
+dana	دنا	dan	دنا		N;SG
+hiçbiri	هیچکدام	hiçbiri	هیچکدام	PRO;NOM;SG;3	PRO
+bağırsak	روده	bağır	None	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	روده	bağır	None	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	روده	bağır	None	V;PFV;PL;1;POS;PRS	N;SG
+bağırsak	رودهای	bağır	رود	V;PFV;PL;1;POS;PRS	N;PL
+bağırsak	روده	bağır	None	V;PFV;PL;1;POS;PRS	N;SG
+dem	دم	de	دم		N;SG
+bilhassa	مخصوصا	bilhassa	مخصوصا		ADV
+bilhassa	بخصوص	bilhassa	بخصوص		CONJ
+gençleri	نوجوانان	genç	نوجوان	ADJ;ACC;PL;3	N;PL
+rom	رام	rom	رام		N;SG
+rom	rom	rom	rom		N;SG
+sofia	سوفیا	sofia	سوفیا		N;SG
+grey	خاکستری	grey	خاکستری		N;SG
+köşk	عمارت	köşk	عمارت		N;SG
+gerede	گریده	gere	گرفت#گرد		V;SG;3;V.PTCP
+devasa	بزرگی	devasa	بزرگی		N;SG
+devasa	مسیو	devasa	مسیو		N;SG
+devasa	حجیم	devasa	حجیم		ADJ
+ghost	شبح	ghost	شبح		N;SG
+ghost	گوست	ghost	گوست		N;SG
+ghost	روح	ghost	روح		N;SG
+dre	دری	dre	دری		N;SG
+düşüş	افت	düşüş	None		N;SG
+düşüş	کاهش	düşüş	کاهش		N;SG
+düşüş	سقوط	düşüş	سقوط		N;SG
+düşüş	پاییز	düşüş	پاییز		N;SG
+düşüş	fall	düşüş	fall		N;SG
+düşüş	افتادن	düşüş	افتادن		N;SG
+vekil	پیشکار	vekil	پیشکار		N;SG
+vekil	معاون	vekil	معاون		N;SG
+kalsiyum	کلسیم	kalsiyum	None		N;SG
+rocky	راکی	rocky	راکی		N;SG
+ideoloji	ایدئولوژی	ideoloji	ایدئولوژی		N;SG
+plaka	بشقاب	plaka	بشقاب		N;SG
+plaka	پلاک	plaka	None		N;SG
+plaka	بشقاب	plaka	بشقاب		N;SG
+vista	vista	vista	vista		N;SG
+vista	ویستا	vista	ویستا		N;SG
+saltanatı	حکمرانی	saltanat	حکمرانی	N;NOM;SG;3	N;PL
+levi	لوی	levi	لو		N;SG
+muhsin	محسن	muhi	محسن		N;SG
+metropolitan	متروپولیتن	metropolitan	متروپولیتن		N;SG
+kapıları	گیت	kapı	گرفت#گیر	N;ACC;PL;3	N;SG
+kapıları	گیتس	kapı	گیتس	N;ACC;PL;3	N;SG
+slogan	شعار	slogan	شعار		N;SG
+slogan	شعار	slogan	شعار		N;SG
+hero	قهرمان	hero	قهرمان		N;SG
+hero	پهلوان	hero	None		N;SG
+rex	رکس	rex	رکس		N;SG
+şahit	شاهدان	şahit	شاهد		N;PL
+şahit	شاهدین	şahit	شاهدین		N;SG
+şahit	مشهود	şahit	مشهود		ADJ
+şahit	شاهد	şahit	شاهد		N;SG
+şahit	ناظر	şahit	ناظر		N;SG
+şahit	شهادت	şahit	شهادت		N;SG
+şahit	شاهد	şahit	شاهد		N;SG
+şahit	شاهدی	şahit	شاهدی		N;SG
+şahit	گواه	şahit	گواه		N;SG
+tez	تز	tez	تز		N;SG
+mevki	موضع	mevki	موضع		N;SG
+mevki	موقعیت	mevki	موقعیت		N;SG
+lil	لیل	lil	لیل		N;SG
+lionel	لیونل	lionel	None		N;SG
+mısırlı	مصر	mısırlı	مصر		N;SG
+mısırlı	مصری	mısırlı	مصری		N;SG
+kullanışlı	مفید	kullanışlı	مفید		ADJ
+kullanışlı	هندی	kullanışlı	هندی		N;SG
+keşfedildi	کشف	keşfet	کشف	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+sasani	ساسانی	sasani	ساسانی		N;SG
+sasani	ساسانیان	sasani	ساسانی		N;PL
+pul	مهر	pul	مهر		N;SG
+pul	بکوب	pul	بکوب		V;IMP;SG;2
+pul	تمبر	pul	None		N;SG
+pul	پایت	pul	پایت		V;IMP;SG;2
+pul	تمبر	pul	None		N;SG
+pul	ترازوی	pul	ترازوی		N;SG
+gözlemevi	رصد	gözlemevi	رصد		N;SG
+gözlemevi	رصدخانه	gözlemevi	رصدخانه		N;SG
+panathinaikos	panathinaikos	panathinaikos	panathinaikos	PROPN;NOM;SG;3	N;SG
+earl	ارل	earl	ارل		N;SG
+pazartesi	دوشنبه	pazartesi	دوشنبه		N;SG
+hamlet	هملت	hamlet	هملت		N;SG
+reed	رید	reed	رید		N;SG
+muammer	معمر	muammer	معمر		N;SG
+trick	حیله	trick	None		N;SG
+trick	حقه	trick	حقه		N;SG
+trick	ترفند	trick	ترفند		N;SG
+trick	کلک	trick	None		N;SG
+eintracht	eintracht	eintracht	eintracht	PROPN;NOM;SG;3	N;SG
+dante	دانته	dant	دانت#دار		N;SG
+türkmenler	ترکمنها	türkmen	ترکمن	ADJ;NOM;PL;3	N;PL
+spesifik	خاص	spesifik	خاص		N;SG
+spesifik	مشخص	spesifik	مشخص		ADJ
+bilinç	هوشیاری	bilinç	هوشیاری		N;SG
+bilinç	خودآگاه	bilinç	خودآگاه		N;SG
+bilinç	آگاهی	bilinç	آگاهی		N;SG
+bilinç	هشیاری	bilinç	None		N;SG
+ideolojik	ایدئولوژیک	ideolojik	ایدئولوژیک		N;SG
+hendek	گودال	hendek	گودال		N;SG
+hendek	خندق	hendek	خندق		N;SG
+hendek	خندق	hendek	خندق		N;SG
+hendek	خندق	hendek	خندق		N;SG
+eğri	ناهموار	eğri	ناهموار		ADJ
+eğri	کجه	eğri	کجه		N;SG
+eğri	کج	eğri	کج		N;SG
+eğri	منحنی	eğri	منحنی		N;SG
+odun	هیزم	odun	هیزم		N;SG
+odun	چوبی	odun	چوبی		N;SG
+odun	وود	odun	None		N;SG
+odun	چوب	odun	چوب		N;SG
+odun	الوار	odun	الر		N;SG
+içten	اخلاص	içten	اخلاص		N;SG
+içten	خالص	içten	خالص		N;SG
+içten	مخلص	içten	مخلص		N;SG
+içten	خواهانم	içten	خواست#خواه		V;IMP;SG;2
+içten	کاندید	içten	کاند#کان		N;SG
+linda	لیندا	linda	لیندا		N;SG
+bira	بیر	bira	بیر		INTJ
+bira	آبجو	bira	آبجو		N;SG
+bira	آبجوی	bira	آبجوی		N;SG
+yang	یانگ	yang	یانگ		N;SG
+yurtdışı	اینترنشنال	yurtdışı	اینترنشنال		N;SG
+yurtdışı	بینالمللی	yurtdışı	بینالمللی		N;SG
+yurtdışı	جهانی	yurtdışı	جهانی		N;SG
+denetleme	حسابرسی	denetle	حسابرسی	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+denetleme	تفتیش	denetle	تفتیش	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+denetleme	بازرسی	denetle	بازرسی	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+timberlake	تیمبرلیک	timberlake	تیمبرلیک		N;SG
+shaw	شاو	shaw	شاو		N;SG
+işlev	کارکرد	işlev	None		N;SG
+işlev	تابع	işlev	None		N;SG
+çevrede	اطراف	çevre	اطراف	N;ESS;SG;3	N;PL
+çevrede	حوالی	çevre	حوالی	N;ESS;SG;3	N;PL
+mikro	میکرو	mikro	میکرو		N;SG
+armut	گلابی	armut	گلابی		N;SG
+hopkins	هاپکینز	hopkins	هاپکینز		N;SG
+sonlu	متناهی	sonlu	متناهی		N;SG
+atlantic	اطلس	atlantic	None	PROPN;NOM;SG;3	
+atlantic	اطلسی	atlantic	اطلسی	PROPN;NOM;SG;3	N;SG
+atlantic	آتلانتیک	atlantic	آتلانتیک	PROPN;NOM;SG;3	N;SG
+evlat	پسر	evlat	پسر		N;SG
+evlat	پسر	evlat	پسر		N;SG
+string	رشته	string	رشته		N;SG
+gündelik	سرسری	gündelik	سرسری		N;SG
+mar	مار	mar	مار		N;SG
+çevik	چابک	çevik	چابک		N;SG
+çevik	فرز	çevik	فرز		N;SG
+bach	باخ	bach	باخ		N;SG
+orantılı	متناسب	orantılı	متناسب		N;SG
+gurur	پراید	gurur	پراید		N;SG
+gurur	غرور	gurur	غرور		N;SG
+gurur	تکبر	gurur	تکبر		N;SG
+gurur	مغرور	gurur	مغرور		ADJ
+gurur	سرافراز	gurur	سرافراز		N;SG
+gurur	افتخار	gurur	افتخار		N;SG
+gurur	سربلند	gurur	سربلند		ADJ
+başlıyor	شروع	başla	شروع	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+başlıyor	آغاز	başla	آغاز	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+edmund	ادموند	ed	ادموند		N;SG
+humus	حمص	humus	حمص		N;SG
+sergio	سرجیو	sergio	سرجیو		N;SG
+sergio	سرخیو	sergio	سرخیو		N;SG
+delil	برهان	delil	برهان		N;SG
+delil	اثبات	delil	اثبات		N;SG
+delil	مدرک	delil	مدرک		N;SG
+delil	شواهد	delil	شاهد		N;PL
+delil	مدارک	delil	مدرک		N;PL
+delil	مدرک	delil	مدرک		N;SG
+izole	جداسازی	izole	جداسازی		N;SG
+izole	انزوا	izole	None		N;SG
+izole	منزوی	izole	منزوی		N;SG
+izole	ایزوله	izole	ایزوله		N;SG
+senatör	سناتور	senatör	سناتور		N;SG
+tiger	ببر	tiger	None		V;IMP;SG;2
+tiger	ببری	tiger	ببری		V;SBJV;SG;2
+tiger	تایگر	tiger	تایگر		N;SG
+tiger	پلنگ	tiger	پلنگ		N;SG
+turbo	توربوشارژ	turbo	توربوشارژ		N;SG
+turbo	توربو	turbo	توربو		N;SG
+olgun	بلوغ	olgun	بلوغ		N;SG
+olgun	ملو	olgun	ملو		N;SG
+olgun	بریزد	olgun	رفت#رید		V;SBJV;SG;3;PRS
+olgun	رطب	olgun	رطب		N;SG
+olgun	بلوغ	olgun	بلوغ		N;SG
+olgun	بالغ	olgun	بالغ		ADJ
+sadri	صدری	sadri	صدر		N;SG
+kendimi	خودم	kendi	None	PRO;ACC;SG;1;REFL	
+topal	لنگ	topal	لنگ		N;SG
+suzuki	سوزوکی	suzuki	سوزوکی		N;SG
+merzifon	مرزیفان	merzifon	مرزیف		N;PL
+fischer	فیشر	fischer	فیشر	PROPN;NOM;SG;3	N;SG
+ayrık	گسسته	ayrık	گسسته		N;SG
+honduras	هندوراس	honduras	هندوراس	PROPN;NOM;SG;3	N;SG
+cesaret	شهامت	cesaret	None		N;SG
+cesaret	شجاعت	cesaret	شجاعت		N;SG
+cesaret	رشادت	cesaret	رشادت		N;SG
+cesaret	دلیری	cesaret	دلیری		N;SG
+cesaret	جرأت	cesaret	None		N;SG
+cesaret	جرات	cesaret	None		N;SG
+cesaret	دلیری	cesaret	دلیری		N;SG
+cesaret	دلاوری	cesaret	دلاوری		N;SG
+bristol	بریستول	bristol	None	PROPN;NOM;SG;3	N;SG
+endişe	اضطراب	endiş	اضطراب		N;SG
+endişe	دلواپسی	endiş	دلواپسی		N;SG
+endişe	نگران	endiş	نگران		ADJ
+endişe	دلواپس	endiş	دلواپس		ADJ
+endişe	نگران	endiş	نگران		ADJ
+endişe	نگرانی	endiş	نگرانی		N;SG
+schmidt	اشمیت	schmidt	اشمیت		N;SG
+sánchez	سانچز	sánchez	سانچز	PROPN;NOM;SG;3	N;SG
+çoğul	جمع	çoğul	جمع		N;SG
+vicente	ویسنته	vicen	ویسنته	PROPN;NOM;SG;3	N;SG
+öğle	ناهار	öğle	ناهار		N;SG
+öğle	نهار	öğle	نهار		N;SG
+öğle	نیمروز	öğle	نیمروز		N;SG
+öğle	ظهر	öğle	ظهر		N;SG
+pistons	پیستون	pistons	پیستون		N;SG
+pen	قلم	pen	قلم		N;SG
+storm	استورم	stor	استورم		N;SG
+storm	توفان	stor	توفان		N;SG
+storm	طوفان	stor	طوفان		N;SG
+kaş	ابرو	kaş	ابرو		N;SG
+kaş	kas	kaş	kas		N;SG
+kaş	کاس	kaş	کاس		N;SG
+kaş	عضله	kaş	عضله		N;SG
+kaş	ماهیچه	kaş	ماهیچه		N;SG
+kaş	عضلات	kaş	عضله		N;PL
+kaş	ابرو	kaş	ابرو		N;SG
+kaş	ابرو	kaş	ابرو		N;SG
+gabler	گابلر	gab	گابلر		N;SG
+herodot	هرودوت	herodot	هرودوت		N;SG
+salzburg	سالزبورگ	salzburg	سالزبورگ	PROPN;NOM;SG;3	N;SG
+leicester	لستر	leicester	لستر	PROPN;NOM;SG;3	N;SG
+ward	وارد	ward	وارد		ADJ
+taşkent	تاشکند	taşkent	تاشکند	PROPN;NOM;SG;3	N;SG
+won	وون	won	وون		N;SG
+nepal	نپال	nepal	نپال	PROPN;NOM;SG;3	N;SG
+parantez	پرانتز	parantez	پرانتز		N;SG
+parantez	پرانتز	parantez	پرانتز		N;SG
+şerit	نواری	şerit	نواری		N;SG
+şerit	روبان	şerit	روبان		N;SG
+şerit	استریپ	şerit	استریپ		N;SG
+zevk	رضای	zevk	None		N;SG
+zevk	خوشنودی	zevk	خوشنودی		N;SG
+zevk	لذت	zevk	لذت		N;SG
+zevk	برخورداری	zevk	برخورداری		N;SG
+bird	پرنده	bird	پرنده		N;SG
+atıp	یاوه	at	یاوه	V;PFV;IND;POS;PRS;V.CVB	N;SG
+waters	آبها	waters	آب		N;PL
+waters	آبهای	waters	آب		N;PL
+jeremy	جرمی	jeremy	جرم		N;SG
+atın	گچ	at	گچ		N;SG
+atın	بیندازید	at	None		V;SBJV;PL;2;PRS
+atın	پرتاب	at	None		N;SG
+kopyası	کپی	kopya	None		N;SG
+kopyası	رونوشت	kopya	رونوشت		N;SG
+keşfetti	کشف	keşfet	کشف	V;PFV;IND;SG;3;POS;PST	N;SG
+bennett	بنت	bennett	بنت		N;SG
+sirius	سیریوس	sirius	سیریوس		N;SG
+nakliye	باربری	nakil	باربری		N;SG
+nakliye	کشتیرانی	nakil	کشتیرانی		N;PL
+nakliye	انتقال	nakil	انتقال		N;SG
+nakliye	ترابری	nakil	None		N;SG
+sektör	بخش	sektör	بخش		N;SG
+sektör	سکتور	sektör	سکتور		N;SG
+sektör	صنعت	sektör	صنعت		N;SG
+sektör	صنایع	sektör	صنعت		N;PL
+kıyamet	رستاخیز	kıyamet	رستاخیز		N;SG
+kıyamet	آخرالزمان	kıyamet	آخرالزم		N;SG
+kıyamet	آرماگدون	kıyamet	آرماگدون		N;SG
+kıyamet	مکاشفه	kıyamet	مکاشفه		N;SG
+kıyamet	آخرالزمان	kıyamet	آخرالزم		N;SG
+kepler	کپلر	kep	کپلر	N;NOM;PL;3	N;SG
+toros	toros	toros	toros		N;SG
+yem	تغذیه	ye	تغذیه		N;SG
+yem	خوراندن	ye	خوراندن		N;SG
+yem	طعمه	ye	طعمه		N;SG
+yem	البیت	ye	البیت		
+terörist	تروریست	terörist	تروریست		N;SG
+terörist	تروریستی	terörist	تروریستی		N;SG
+terörist	تروریستها	terörist	تروریست		N;PL
+terörist	تروریست	terörist	تروریست		N;SG
+ahlaki	اخلاقی	ahlaki	اخلاقی		N;SG
+ahlaki	اخلاق	ahlaki	اخلاق		N;SG
+tabur	گردان	tabur	گردان		N;SG
+senfonik	سمفونیک	senfonik	سمفونیک		N;SG
+tavır	نگرش	tavır	نگرش		N;SG
+tavır	منش	tavır	منش		N;SG
+tavır	گرایش	tavır	گرایش		N;SG
+pasif	غیرفعال	pasif	غیرفعال		N;SG
+pasif	منفعل	pasif	منفعل		N;SG
+pasif	غیرفعال	pasif	غیرفعال		N;SG
+anlık	زودگذر	anlık	زودگذر		N;SG
+anlık	فوری	anlık	فوری		N;SG
+mode	حالت	mode	حالت		N;SG
+gür	شاداب	gür	شاداب		ADJ
+gür	پشمالو	gür	پشمالو		N;SG
+fourier	فوریه	fourier	فوریه		N;SG
+buyuk	بیگ	buyuk	بیگ		N;SG
+buyuk	b	buyuk	b		N;SG
+buyuk	بزرگ	buyuk	بزرگ		ADJ
+buyuk	بزرگی	buyuk	بزرگی		N;SG
+oturum	جلسه	oturum	جلسه		N;SG
+oturum	نشست	oturum	نشست		N;SG
+oymak	تراشید	oy	تراشید		V;SG;3;PST
+arkası	پشت	arka	پشت	N;NOM;SG;3	ADP
+harper	هارپر	harper	هارپر		N;SG
+tamamıyla	کاملا	tamam	None	ADJ;INS;SG;3	ADV
+tamamıyla	کلا	tamam	None	ADJ;INS;SG;3	
+result	لکه	result	None		N;SG
+teatro	teatro	teatro	teatro	PROPN;NOM;SG;3	N;SG
+şikago	شیکاگو	şikago	شیکاگو		N;SG
+curtis	کورتیس	curtis	کورتیس		N;SG
+alba	آلبا	alba	آلبا	PROPN;NOM;SG;3	N;SG
+alba	البا	alba	البا	PROPN;NOM;SG;3	N;SG
+louisiana	لوئیزیانا	loui	لوئیزیانا	PROPN;NOM;SG;3	N;SG
+kabileler	قبیله	kabile	None	N;NOM;PL;3	N;SG
+kabileler	پشتون	kabile	پشتون	N;NOM;PL;3	N;SG
+thomson	تامسون	thomson	تامسون		N;SG
+döngü	حلقه	döngü	حلقه		N;SG
+döngü	سیکل	döngü	سیکل		N;SG
+döngü	چرخه	döngü	چرخه		N;SG
+uçaklar	هواپیمای	uçak	هواپیما	N;NOM;PL;3	N;SG
+uçaklar	هواگرد	uçak	هواگرد	N;NOM;PL;3	N;SG
+vurgu	تأکید	vurgu	تأکید		N;SG
+vurgu	تاکید	vurgu	تاکید		N;SG
+lucius	لوسیوس	lucius	لوسیوس		N;SG
+lynch	لینچ	lynch	لینچ		N;SG
+odaları	اتاق	oda	None	N;ACC;PL;3	N;SG
+sergei	سرگئی	sergei	سرگئی		N;SG
+sergei	سرگی	sergei	سرگی		N;SG
+tekne	قایقرانی	tekne	قایقرانی		N;SG
+tekne	قایق	tekne	None		N;SG
+tekne	کشتی	tekne	کشتی		N;SG
+klein	کلین	kle	کلین		N;SG
+klein	کلاین	kle	کلاین		N;SG
+sıralı	ترتیبی	sıralı	ترتیبی		N;SG
+sıralı	دنباله	sıralı	دنباله		N;SG
+ita	ita	ita	ita		N;SG
+komşuları	همسایه	komşu	همسایه	ADJ;NOM;PL;3	N;SG
+komşuları	همسایگان	komşu	همسایه	ADJ;NOM;PL;3	N;PL
+komşuları	همسایه	komşu	همسایه	ADJ;NOM;PL;3	N;SG
+komşuları	همسایگان	komşu	همسایه	ADJ;NOM;PL;3	N;PL
+gezgin	رهگذران	gezgin	رهگذان	N;NOM;SG;3	N;PL
+gezgin	واندرر	gezgin	واندرر	N;NOM;SG;3	ADJ
+tuzlu	شوره	tuzlu	شوره		N;SG
+tuzlu	شور	tuzlu	شور		N;SG
+mesele	مسئله	mesele	مسئله		N;SG
+oğul	پسر	oğul	پسر		N;SG
+bilgisayarlar	رایانه	bilgisayar	رایانه	N;NOM;PL;3	N;SG
+bilgisayarlar	کامپیوتر	bilgisayar	کامپیو	N;NOM;PL;3	N;SG
+nine	نانا	nine	نانا		N;SG
+elmalı	سیب	el	سیب		N;SG
+elmalı	apple	el	apple		N;SG
+elmalı	اپل	el	اپل		N;SG
+sınırlar	محدودیت	sınır	محدودیت	N;NOM;PL;3	N;SG
+sınırlar	مرز	sınır	مرز	N;NOM;PL;3	N;SG
+zeka	هوش	zeka	هوش		N;SG
+zeka	هوشی	zeka	هوشی		N;SG
+zeka	بذله	zeka	بذله		N;SG
+yıldönümü	سالانه	yıldönüm	سالانه	N;ACC;SG;3	ADJ
+sınıflar	کلاس	sınıf	کلاس	N;NOM;PL;3	N;SG
+gibson	گیبسون	gibson	گیبسون		N;SG
+porter	پورتر	porter	پورتر		N;SG
+porter	پرتر	porter	پرتر		N;SG
+batum	باتومی	batum	باتومی		N;SG
+dalgalar	موجی	dalga	موج	N;NOM;PL;3	N;SG
+nantes	نانت	nantes	نانت	PROPN;NOM;SG;3	N;SG
+musevi	یهود	musevi	یهود		N;SG
+musevi	یهودیان	musevi	یهودی		N;PL
+musevi	یهودی	musevi	یهودی		N;SG
+nat	نت	nat	نت		N;SG
+antonius	آنتونیوس	antonius	آنتونیوس		N;SG
+riko	ریکو	riko	ریکو	PROPN;NOM;SG;3	N;SG
+spider	عنکبوتی	spider	عنکبوتی		N;SG
+spider	اسپایدر	spider	اسپایدر		N;SG
+spider	عنکبوت	spider	عنکبوت		N;SG
+flüt	فلوت	flüt	فلوت		N;SG
+harap	مخروبه	harap	مخروبه		N;SG
+bölük	اسکادران	bölük	اسکادر		N;SG
+bölük	گروهان	bölük	گروه		N;PL
+bölük	شرکت	bölük	شرکت		N;SG
+bölük	company	bölük	None		N;SG
+bölük	کمپانی	bölük	کمپانی		N;SG
+bölük	جوخه	bölük	جوخه		N;SG
+bismarck	بیسمارک	bismarck	بیسمارک	PROPN;NOM;SG;3	N;SG
+manet	مانه	manet	مانه		N;SG
+tayfun	توفان	tayfun	توفان		N;SG
+molekül	مولکولها	molekül	مولکول	N;NOM;SG;3	N;PL
+molekül	مولکولهای	molekül	مولکول	N;NOM;SG;3	N;PL
+madencilik	مینر	madencilik	مینر	N;NOM;SG;3	
+papaz	کاهن	papaz	کاهن		N;SG
+papaz	کشیش	papaz	کشیش		N;SG
+papaz	کشیشی	papaz	کشیش		N;SG
+papaz	پاستور	papaz	پاستور		N;SG
+con	con	con	con	INTJ	N;SG
+edwin	ادوین	et	ادوین		N;SG
+queens	کویینز	queens	کویینز	PROPN;NOM;SG;3	N;SG
+queens	کوئینز	queens	کوئینز	PROPN;NOM;SG;3	N;SG
+yayıldı	پخش	yay	پخش	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+yayıldı	گسترده	yay	گسترده	V;PFV;IND;SG;3;POS;PST;PASS	ADJ
+terminal	ترمینال	terminal	ترمینال		N;SG
+terminal	پایانه	terminal	پایانه		N;SG
+bilişsel	شناختی	bilişsel	شناخت#شناس		N;SG
+yanma	احتراق	yan	احتراق		N;SG
+yanma	سوزاندن	yan	None		N;SG
+yanma	سوختن	yan	None		N;SG
+diger	دیگر	diger	دیگر		ADV
+diger	غیره	diger	غیره		N;SG
+diger	دیگران	diger	دیگری		PRO
+diger	دیگر	diger	دیگر		ADV
+çekmiş	منقبض	çek	منقبض	V;PFV;NFH;IND;SG;3;POS;PST	ADJ
+owen	آون	owen	آون	PROPN;NOM;SG;3	N;SG
+owen	اوون	owen	اوون	PROPN;NOM;SG;3	N;SG
+sophie	سوفی	sophie	سوفی		N;SG
+magazin	مجله	magazin	مجله		N;SG
+tüketim	مصرف	tüket	مصرف		N;SG
+saraybosna	سارایوو	saraybo	سارایوو	PROPN;NOM;SG;3	N;SG
+azalma	کاهش	azal	کاهش		N;SG
+azalma	تقلیل	azal	تقلیل		N;SG
+azalma	کاهی	azal	کاهی		N;SG
+azalma	کاهش	azal	کاهش		N;SG
+tara	تارا	tara	تارا		N;SG
+tara	اسکن	tara	اسکن		N;SG
+tara	پویش	tara	پویش		N;SG
+oya	رای	oya	None		N;SG
+oya	رأی	oya	رأی		N;SG
+gauss	گاوسی	gauss	گاوسی		N;SG
+gauss	گاوس	gauss	گاوس		N;SG
+gauss	گوس	gauss	گوس		N;SG
+jam	جم	jam	جم		N;SG
+jam	مربا	jam	مربا		N;SG
+dağıstan	داغستان	dağıs	داغستان		N;SG
+mantıksal	منطقی	mantıksal	منطقی	ADJ	ADV
+mantıksal	منطق	mantıksal	منطق	ADJ	N;SG
+mantıksal	منطقی	mantıksal	منطقی	ADJ	ADV
+morrison	موریسون	morrison	موریسون		N;SG
+tuzla	توزلا	tuz	توزلا		N;SG
+bölünmüş	تقسیم	böl	تقسیم	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG
+bölünmüş	شکافتن	böl	شکافتن	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG
+crown	کرون	crown	کرون		N;SG
+crown	کراون	crown	کراون		N;SG
+crown	تاج	crown	تاج		N;SG
+mineral	معدنی	mineral	معدنی		N;SG
+eşdeğer	معادل	eşdeğer	معادل		ADJ
+tuğla	آجرهای	tuğ	آجر		N;PL
+tuğla	آجر	tuğ	آجر		N;SG
+tuğla	بریک	tuğ	بریک		N;SG
+tuğla	آجر	tuğ	آجر		N;SG
+tuğla	آجری	tuğ	آجری		N;SG
+ekşi	ترش	ekşi	ترش		N;SG
+bitişik	همجوار	bitişik	همجوار		N;SG
+bitişik	مجاور	bitişik	مجاور		N;SG
+brandenburg	براندنبورگ	brandenburg	براندنبورگ	PROPN;NOM;SG;3	N;SG
+milton	میلتون	milton	میلتون	PROPN;NOM;SG;3	N;SG
+kap	کانتینر	kap	کانتینر		N;SG
+kap	محتوی	kap	محتوی		N;SG
+saçma	مسخره	saç	مسخره		N;SG
+tate	تیت	tate	تیت		N;SG
+bakkal	خواربار	bakkal	خواربار		N;SG
+bakkal	عطار	bakkal	عطار		N;SG
+bakkal	خواربار	bakkal	خواربار		N;SG
+bakkal	خواربار	bakkal	خواربار		N;SG
+finaller	فینال	final	فینال	N;NOM;PL;3	N;SG
+muhasebe	حسابرسی	muhasebe	حسابرسی		N;SG
+muhasebe	حسابداری	muhasebe	حسابداری		N;SG
+muhasebe	accounting	muhasebe	accounting		N;SG
+muhasebe	حسابدار	muhasebe	حسابدار		N;SG
+paylaştı	پست	paylaş	پست	V;PFV;IND;SG;3;POS;PST	N;SG
+leopold	لئوپولد	leopold	لئوپولد	PROPN;NOM;SG;3	N;SG
+eleştirmeni	معترض	eleştir	None	V;PFV;ACC;IND;POS;PRS;V.MSDR	ADJ
+eleştirmeni	منتقد	eleştir	منتقد	V;PFV;ACC;IND;POS;PRS;V.MSDR	N;SG
+sindirim	گوارش	sindir	گوارش		N;SG
+sindirim	هضم	sindir	هضم		N;SG
+sindirim	هاضمه	sindir	هاضمه		N;SG
+sindirim	گوارشی	sindir	گوارشی		N;SG
+tüccar	بازرگانی	tüccar	بازرگانی		N;SG
+tüccar	تاجر	tüccar	تاجر		N;SG
+tüccar	بازرگان	tüccar	بازره		N;SG
+motorlar	موتورز	motor	موتورز	N;NOM;PL;3	N;SG
+pancar	چغندر	pancar	چغندر		N;SG
+pancar	چغندر	pancar	چغندر		N;SG
+tacikistan	تاجیکستان	tacikistan	تاجیکستان	PROPN;NOM;SG;3	N;SG
+sacramento	ساکرامنتو	sacramento	ساکرامنتو	PROPN;NOM;SG;3	N;SG
+büyükler	بزرگان	büyük	بزرگ	ADJ;NOM;PL;3	N;PL
+büyükler	بزرگسال	büyük	بزرگسال	ADJ;NOM;PL;3	N;SG
+büyükler	بزرگسالان	büyük	بزرگسال	ADJ;NOM;PL;3	N;PL
+büyükler	بزرگترها	büyük	بزرگتر	ADJ;NOM;PL;3	N;PL
+dolgu	بالشتک	dolgu	بالشتک		N;SG
+dolgu	پرکننده	dolgu	پرکننده		N;SG
+tba	tb	tba	tb		N;SG
+solar	خورشیدی	solar	خورشید#خور		N;SG
+aydınlatma	نورپردازی	aydınlat	نورپردازی	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+aydınlatma	روشنایی	aydınlat	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+aydınlatma	برق	aydınlat	برق	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+wolfsburg	وولفسبورگ	wolfsburg	وولفسبورگ	PROPN;NOM;SG;3	N;SG
+soprano	سوپرانو	soprano	سوپرانو		N;SG
+atık	اتلاف	atık	None		N;SG
+atık	زباله	atık	زباله		N;SG
+atık	تلف	atık	None		N;SG
+atık	اسراف	atık	None		N;SG
+atık	پساب	atık	پساب		N;SG
+brooks	بروکس	brooks	بروکس		N;SG
+brooks	بروکز	brooks	بروکز		N;SG
+taşınır	حرکات	taşı	None	V;IPFV;IND;SG;3;POS;PASS	N;PL
+taşımak	حمل	taşı	حمل	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+taşımak	حامل	taşı	حامل	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+taşımak	حمل	taşı	حمل	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+seth	سث	seth	سث		N;SG
+seth	سِت	seth	سِت		N;SG
+unix	یونیکس	unix	یونیکس		N;SG
+devir	rpm	devir	rpm		N;SG
+abdul	عبدل	abdul	عبدل		N;SG
+boşnak	بوسنی	boşnak	None		N;SG
+temsili	نمایندگی	temsili	نمایندگی		N;SG
+nasır	ناصر	nasır	ناصر		N;SG
+nasır	پینه	nasır	پینه		N;SG
+kaplama	cladding	kapla	cladding		N;SG
+kaplama	دورانی	kapla	دورانی		N;SG
+kaplama	روکش	kapla	روکش		N;SG
+standartları	استانداردها	standart	استاندارد	ADJ;NOM;PL;3	N;PL
+standartları	استانداردهای	standart	استاندارد	ADJ;NOM;PL;3	N;PL
+eleman	عنصر	eleman	عنصر		N;SG
+dün	دیروز	dün	دیروز	N;NOM;SG;3	ADV
+rossi	روسی	ross	روسی		N;SG
+tanıttı	معرفی	tanı	معرفی	V;PFV;IND;SG;3;POS;PST;CAUS	N;SG
+vaftiz	تعمید	vaftiz	تعمید		N;SG
+vaftiz	نگارگری	vaftiz	نگارگری		N;SG
+vaftiz	تعمید	vaftiz	تعمید		N;SG
+xander	زاندر	xander	زاندر		ADJ;CMPR
+gelecekteki	اینده	gel	اینده	V;PFV;IND;SG;3;POS;FUT	
+gelecekteki	future	gel	future	V;PFV;IND;SG;3;POS;FUT	N;SG
+gelecekteki	آینده	gel	آینده	V;PFV;IND;SG;3;POS;FUT	N;SG
+laz	لاز	laz	لاز		N;SG
+telli	رشته	telli	رشته		N;SG
+bari	باری	bari	بار		N;SG
+benzin	بنزن	benz	بنزن		N;SG
+benzin	بنزینی	benz	بنزینی		N;SG
+benzin	بنزین	benz	None		N;SG
+benzin	گس	benz	گس		N;SG
+benzin	گاز	benz	گاز		N;SG
+benzin	سوخت	benz	سوخت		N;SG
+naruto	ناروتو	naruto	ناروتو		N;SG
+bastia	باستیا	bastia	باستیا	PROPN;NOM;SG;3	N;SG
+niçin	چرا	niçin	چرا		ADV
+nagoya	ناگویا	nago	ناگویا	PROPN;NOM;SG;3	N;SG
+rodríguez	رودریگز	rodríguez	رودریگز	PROPN;NOM;SG;3	N;SG
+zorluk	مشکلات	zorluk	مشکل	N;NOM;SG;3	N;PL
+wells	ولز	wells	ولز	PROPN;NOM;SG;3	N;SG
+huzur	آرامشی	huzur	آرامشی		N;SG
+huzur	سلامت	huzur	سلامت		N;SG
+huzur	سلام	huzur	None		N;SG
+huzur	صلح	huzur	صلح		N;SG
+huzur	آرام	huzur	آرام		ADV
+gömülü	نهفته	göm	نهفت#نویس		V;SG;3;NEG;V.PTCP
+gömülü	توکار	göm	توکار		N;SG
+spencer	اسپنسر	spencer	اسپنسر	PROPN;NOM;SG;3	N;SG
+mia	mia	mia	mia		N;SG
+mia	میا	mia	میا		N;SG
+düşünceler	افکارش	düşünce	افکارش	N;NOM;PL;3	N;SG
+saatler	ساعت	saat	ساعت	N;NOM;PL;3	N;SG
+rauf	رئوف	rauf	رئوف		N;SG
+swing	تاب	swing	تاب		N;SG
+swing	نوسان	swing	نوسان		N;SG
+foto	فتو	foto	فتو		N;SG
+foto	photo	foto	photo		N;SG
+foto	عکس	foto	عکس		N;SG
+foto	foto	foto	foto		N;SG
+kabuk	شل	kabuk	None		N;SG
+kabuk	پوسته	kabuk	پوسته		N;SG
+kabuk	پوسته	kabuk	پوسته		N;SG
+kabuk	صدف	kabuk	صدف		N;SG
+stalingrad	استالینگراد	stalingrad	استالینگراد		N;SG
+biçimli	شکل	biçimli	شکل		N;SG
+kutlu	مبارک	kutlu	مبارک		N;SG
+salim	سلیم	salim	None		N;SG
+marş	سرود	marş	سرود		N;SG
+marş	مارس	marş	مارس		N;SG
+marş	پیشروی	marş	پیشروی		N;SG
+marş	راهپیمایی	marş	راهپیمایی		N;SG
+saltanat	حکمرانی	saltanat	حکمرانی	N;NOM;SG;3	N;PL
+joker	جوکر	joker	None		N;SG
+melez	خودروی	melez	خودرو		N;SG
+melez	دورگه	melez	دورگه		N;SG
+derek	درک	derek	درک		N;SG
+yeryüzü	زمین	yeryüzü	زمین		N;SG
+jpeg	jpeg	jpeg	jpeg		N;SG
+bağlılık	وفادار	bağlılık	وفادار	N;NOM;SG;3	ADJ
+yar	یار	yar	یار		N;SG
+yar	yar	yar	yar		N;SG
+sınırlıdır	محدود	sınırlı	محدود		ADJ
+ihtiyaçları	نیاز	ihtiyaç	نیاز	N;NOM;PL;3	N;SG
+akabinde	متعاقبا	akabin	متعاقبا	N;ESS;SG;3	ADJ
+kombine	ترکیبی	kombine	ترکیب		N;SG
+kombine	ترکیب	kombine	ترکیب		N;SG
+eğitimci	educator	eğitimci	educator		N;SG
+gil	گیل	gil	گیل		N;SG
+bakmak	نگاه	bak	نگاه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+bakmak	نظاره	bak	نظاره	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+sunderland	ساندرلند	sunderlan	ساندرلند	PROPN;NOM;SG;3	N;SG
+led	led	i	led		N;SG
+led	رفاقت	i	رفاقت		N;SG
+oruç	روزه	oruç	روزه		N;SG
+gerçi	هرچند	gerçi	هرچند		CONJ
+gerçi	اگرچه	gerçi	اگرچه		CONJ
+gerçi	گرچه	gerçi	گرچه		CONJ
+gerçi	هرچند	gerçi	هرچند		CONJ
+gerçi	اگرچه	gerçi	اگرچه		CONJ
+gerçi	گرچه	gerçi	گرچه		CONJ
+uzlaşma	مصالحه	uzlaş	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	مصالحه	uzlaş	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	اجماع	uzlaş	اجماع	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	سازش	uzlaş	سازش	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	مصالحه	uzlaş	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+uzlaşma	توافق	uzlaş	توافق	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+kâr	سودش	kâr	سودش		N;SG
+kâr	منفعت	kâr	منفعت		N;SG
+kâr	سودی	kâr	None		N;SG
+kâr	سود	kâr	None		N;SG
+kâr	سود	kâr	None		N;SG
+leslie	لزلی	lesli	لزلی		N;SG
+leslie	لسلی	lesli	لسلی		N;SG
+çaylak	مبتدی	çaylak	مبتدی		N;SG
+çaylak	نوب	çaylak	نوب		N;SG
+güvence	تضمین	güvence	تضمین		N;SG
+güvence	اطمینانی	güvence	اطمینان		N;SG
+kökleri	ریشه	kök	ریشه	N;NOM;PL;3	N;SG
+freud	فرویدی	freud	فرویدی		N;SG
+freud	فروید	freud	فروید		N;SG
+kına	حنا	kına	حنا		N;SG
+met	متس	met	متس		N;SG
+met	متین	met	None		N;SG
+mevlana	مولوی	mevlan	مولوی		N;SG
+mevlana	رومی	mevlan	رومی		N;SG
+ronaldo	رونالدو	ronal	رونالدو		N;SG
+dostlar	دوستان	dost	دوست	ADJ;NOM;PL;3	N;PL
+stevens	استیونس	stevens	استیونس		N;SG
+stevens	استیونز	stevens	استیونز		N;SG
+juliet	جولیت	juliet	جولیت		N;SG
+juliet	ژولیت	juliet	ژولیت		N;SG
+sarhoş	مستی	sarhoş	مستی		N;SG
+sarhoş	مست	sarhoş	مست		N;SG
+yankı	پژواک	yankı	پژواک		N;SG
+yankı	پژواک	yankı	پژواک		N;SG
+yankı	اکو	yankı	None		N;SG
+keşiş	راهب	keşiş	راهب		N;SG
+temsilci	نماینده	temsilci	نماینده		N;SG
+temsilci	نماینده	temsilci	نماینده		N;SG
+temsilci	مامور	temsilci	None		N;SG
+temsilci	کارگزار	temsilci	کارگزار		N;SG
+temsilci	مأمور	temsilci	مأمور		N;SG
+sansür	سانسور	sansür	None		N;SG
+durağan	پایدار	durağan	پایدار	ADJ	N;SG
+resimli	مثلی	resimli	مثلی		N;SG
+pir	پیر	pir	پیر		N;SG
+pir	pir	pir	pir		N;SG
+strauss	اشتراوس	strauss	اشتراوس		N;SG
+faktör	فاکتور	faktör	فاکتور		N;SG
+faktör	عامل	faktör	عامل		N;SG
+sevinç	مسرت	sevinç	مسرت		N;SG
+sevinç	شادی	sevinç	شادی		N;SG
+sevinç	جوی	sevinç	جو		N;SG
+sevinç	شادمانی	sevinç	شادمانی		N;SG
+sevinç	خوشی	sevinç	None		N;SG
+canlılar	موجودات	canlı	None	ADJ;NOM;PL;3	N;PL
+canlılar	مخلوقات	canlı	مخلوق	ADJ;NOM;PL;3	N;PL
+canlılar	بندگان	canlı	بنده	ADJ;NOM;PL;3	N;PL
+yayıncı	ناشر	yayıncı	ناشر		N;SG
+tazminat	فدایی	tazminat	فدایی		N;SG
+tazminat	آسیبهای	tazminat	آسیب		N;PL
+tazminat	صدمات	tazminat	صدمه		N;PL
+joão	ژوائو	joão	ژائوه	PROPN;NOM;SG;3	N;SG
+manzara	مناظر	manzara	None	N;NOM;SG;3	N;PL
+manzara	مناظر	manzara	None	N;NOM;SG;3	N;PL
+manzara	نما	manzara	نما	N;NOM;SG;3	
+banks	بنک	banks	بنک		N;SG
+banks	بانکها	banks	بانک		N;PL
+banks	بانک	banks	بانک		N;SG
+banks	بنکس	banks	بنکس		N;SG
+göçmenler	مهاجران	göçmen	مهاجر	ADJ;NOM;PL;3	N;PL
+göçmenler	مهاجرین	göçmen	مهاجر	ADJ;NOM;PL;3	N;PL
+göçmenler	مهاجر	göçmen	مهاجر	ADJ;NOM;PL;3	N;SG
+göçmenler	مهاجران	göçmen	مهاجر	ADJ;NOM;PL;3	N;PL
+göçmenler	مهاجرین	göçmen	مهاجر	ADJ;NOM;PL;3	N;PL
+düğünler	عروسی	düğün	عروسی	N;NOM;PL;3	N;SG
+yerleştirilmiş	جاسازی	yerleş	جاسازی	V;PFV;NFH;IND;SG;3;POS;PST;PASS	N;SG
+yerleştirilmiş	بلغزد	yerleş	بلغزد	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;IMP;SG;2
+doom	doom	doom	doom		N;SG
+doom	عذاب	doom	None		N;SG
+amt	amt	amt	amt		N;SG
+jake	جیک	jake	جیک		N;SG
+eduardo	ادواردو	et	ادواردو		N;SG
+anlayış	اندیشیدن	anlayış	اندیشیدن		N;SG
+anlayış	بصیرت	anlayış	بصیرت		N;SG
+anlayış	عقل	anlayış	عقل		N;SG
+görünmez	نامریی	görün	نامریی	V;IPFV;IND;SG;3;NEG	N;SG
+görünmez	نامرئی	görün	نامرئی	V;IPFV;IND;SG;3;NEG	N;SG
+değirmen	میل	değir	None		N;SG
+değirmen	آسیاب	değir	None		N;SG
+değirmen	میلز	değir	میلز		N;SG
+sawyer	ساویر	sawyer	ساویر		N;SG
+sawyer	سایر	sawyer	سایر		N;SG
+inanan	مؤمن	inan	None		N;SG
+pensilvanya	پنسیلوانیا	pensilvanya	None	PROPN;NOM;SG;3	N;SG
+belirleyici	قاطع	belirleyici	قاطع		N;SG
+kil	کلی	kil	کلی		ADV
+kil	گلی	kil	گل		N;SG
+ölümsüz	ابدی	ölümsüz	None	ADJ	N;SG
+ölümsüz	جاودان	ölümsüz	جاود	ADJ	N;SG
+ölümsüz	جاویدان	ölümsüz	جاویدان	ADJ	N;SG
+ölümsüz	جاوید	ölümsüz	جاوید	ADJ	N;SG
+kanye	کانیه	kany	کانیه		N;SG
+masum	بیگناهان	masum	بیگناه		N;PL
+masum	بیگناه	masum	بیگناه		N;SG
+masum	بیگناهی	masum	بیگناهی		N;SG
+masum	بیگناه	masum	بیگناه		N;SG
+masum	معصوم	masum	معصوم		N;SG
+truva	تروا	truv	تروا		N;SG
+truva	تروی	truv	تروی		N;SG
+truva	تروجان	truv	تروج		N;SG
+yaya	یایا	yaya	یایا		N;SG
+yiyen	بهنام	yiyen	None		N;SG
+yiyen	خورنده	yiyen	خورنده		N;SG
+okuyucu	ریدر	okuyucu	ریدر		N;SG
+okuyucu	خواننده	okuyucu	خواننده		N;SG
+okuyucu	خوانندگان	okuyucu	خواننده		N;PL
+euler	اویلر	eu	اویلر		N;SG
+yorkshire	یورکشر	yorkshire	یورکشر	PROPN;NOM;SG;3	N;SG
+drive	درایو	driv	درایو		N;SG
+drive	رانندگی	driv	None		N;SG
+drive	سوق	driv	سوق		N;SG
+hannibal	هانیبال	hannibal	هانیبال		N;SG
+limon	لیمویی	limon	لیمویی		N;SG
+limon	لمون	limon	لمون		N;SG
+limon	لیمو	limon	لیمو		N;SG
+limon	لیمون	limon	لیمون		N;SG
+limon	لیموترش	limon	لیموترش		N;SG
+limon	لیمو	limon	لیمو		N;SG
+limon	آهک	limon	آهک		N;SG
+limon	لایم	limon	لایم		N;SG
+filip	فلیپ	fil	فلیپ		N;SG
+filip	فیلیپ	fil	None		N;SG
+yazıcı	چاپگر	yazıcı	چاپگر		N;SG
+yazıcı	چاپگرهای	yazıcı	چاپگرا		N;PL
+karayip	کارائیب	karay	کارائیب	ADV	N;SG
+stereo	استریو	stereo	استریو		N;SG
+sinek	پرواز	sinek	پرواز		N;SG
+sinek	مگس	sinek	مگس		N;SG
+yarbay	سرهنگ	yarbay	سرهنگ		N;SG
+tutarlı	سازگار	tutarlı	سازگار		N;SG
+tutarlı	همدوس	tutarlı	همدوس		N;SG
+mussolini	موسولینی	mussol	موسولینی		N;SG
+mecnun	مجنون	mecnun	مجنون		N;SG
+mitoloji	اساطیر	mitoloji	اساطیر		N;SG
+mitoloji	اسطوره	mitoloji	اسطوره		N;SG
+anlaşılan	ظاهرا	anlaş	ظاهراً	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADV
+tükenmiş	خسته	tüken	خسته	V;PFV;NFH;IND;POS;PST;V.PTCP	ADJ
+coruña	لاکرونیا	coru	لاکرونیا		N;SG
+auf	auf	auf	auf		N;SG
+fermi	فرمی	fermi	فرمی		N;SG
+motors	موتورز	motors	موتورز	PROPN;NOM;SG;3	N;SG
+sally	سالی	sally	سال		N;SG
+suçlar	توهینی	suç	توهینی	N;NOM;PL;3	N;SG
+suçlar	جرم	suç	جرم	N;NOM;PL;3	N;SG
+suçlar	جنایت	suç	جنایت	N;NOM;PL;3	N;SG
+suçlar	جُرم	suç	جُرم	N;NOM;PL;3	N;SG
+büyücü	وارلاک	büyücü	وارلاک		N;SG
+büyücü	جادوگر	büyücü	None		N;SG
+koku	بوش	koku	بوش		N;SG
+koku	بوی	koku	بوی		N;SG
+koku	خوشبو	koku	خوشبو		N;SG
+umman	عمان	umman	عمان		N;SG
+kamyon	کامیونی	kamyon	کامیونی		N;SG
+kamyon	کامیون	kamyon	کامیون		N;SG
+kamyon	کامیونت	kamyon	کامیونت		N;SG
+kamyon	وانت	kamyon	وانت		N;SG
+kamyon	کامیونها	kamyon	کامیون		N;PL
+kırılma	شکستن	kır	شکستن	V;PFV;NOM;IMP;POS;PRS;PASS	N;SG
+kırılma	شکنی	kır	شکنی	V;PFV;NOM;IMP;POS;PRS;PASS	N;SG
+kırılma	انکسار	kır	انکسار	V;PFV;NOM;IMP;POS;PRS;PASS	N;SG
+ayakları	پایی	ayak	پا	N;NOM;PL;3	N;SG
+ruanda	رواندا	rua	رواندا		N;SG
+minsk	مینسک	minsk	مینسک	PROPN;NOM;SG;3	N;SG
+işlevsel	تابعی	işlevsel	تابعی	ADJ	N;SG
+rehber	راهنما	rehber	None		N;SG
+rehber	هدایت	rehber	هدایت		N;SG
+rehber	راهبر	rehber	راهبر		N;SG
+birleştirme	ادغام	birleş	None	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+birleştirme	ادغام	birleş	None	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+birleştirme	ترکیب	birleş	ترکیب	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+birleştirme	یگانگی	birleş	یگانگی	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;SG
+sonuncu	آخری	sonuncu	آخری		N;SG
+sonuncu	لست	sonuncu	لست		ADP
+sonuncu	واپسین	sonuncu	واپسین		ADJ;RL
+sonuncu	آخرین	sonuncu	آخرین		ADJ;RL
+sonuncu	اخرین	sonuncu	اخرین		ADJ;RL
+jesus	خسوس	jesus	خسوس		N;SG
+marksizm	مارکسیسم	marksizm	مارکسیسم		N;SG
+interwiki	interwiki	interwiki	interwiki		N;SG
+uzatma	افزونه	uza	افزونه	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;SG
+uzatma	پسوند	uza	پسوند	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;SG
+çalma	دزدیدن	çal	دزدیدن		N;SG
+derinlik	اعماق	derinlik	عمق	N;NOM;SG;3	N;PL
+koza	پیله	koza	پیله		N;SG
+geliri	درآمدش	gel	درآمدش		N;SG
+tamer	تمر	tamer	تمر		N;SG
+hardy	اردی	hardy	اردی		N;SG
+hardy	هاردی	hardy	هاردی		N;SG
+kel	کچل	kel	کچل		N;SG
+kel	کچله	kel	کچله		N;SG
+kel	طاس	kel	طاس		N;SG
+yaratık	جانور	yarat	None		N;SG
+yaratık	دلبر	yarat	دلبر		N;SG
+yaratık	حیوان	yarat	None		N;SG
+yaratık	alien	yarat	alien		N;SG
+yaratık	بیگانه	yarat	بیگانه		ADJ
+yaratık	فضایی	yarat	فضا		N;SG
+yaratık	موجودی	yarat	None		N;SG
+yaratık	مخلوق	yarat	مخلوق		N;SG
+yaratık	جانوری	yarat	None		N;SG
+tardis	تاردیس	tardis	تاردیس		N;SG
+alessandro	الساندرو	alessandro	الساندرو		N;SG
+alessandro	آلساندرو	alessandro	آلساندرو		N;SG
+brandon	براندون	bra	براندون	PROPN;NOM;SG;3	N;SG
+brandon	برندون	bra	برندون	PROPN;NOM;SG;3	N;SG
+auguste	اگوست	auguste	اگوست		N;SG
+theodore	تئودور	theodore	تئودور		N;SG
+gidiyor	میرم	git	میرم	V;PROG;IND;SG;3;POS;INFM;PRS	V;SG;1;PRS
+gidiyor	ترک	git	ترک	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+clinton	کلینتون	clinton	کلینتون	PROPN;NOM;SG;3	N;SG
+barra	بارا	barra	بارا	PROPN;NOM;SG;3	N;SG
+fernández	فرناندز	fern	فرناندز	PROPN;NOM;SG;3	N;SG
+başlamak	شروع	başla	شروع	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+başlamak	آغاز	başla	آغاز	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+editor	ویرایشگر	et	ویرایشگر		N;SG
+makul	معقول	makul	معقول		ADJ
+css	css	css	css		N;SG
+sanayii	صنعت	sanayii	صنعت		N;SG
+sanayii	صنایع	sanayii	صنعت		N;PL
+sanayii	صنعتی	sanayii	صنعتی		N;SG
+duff	داف	duff	داف		N;SG
+jackie	جکی	jackie	جکی		N;SG
+tropik	گرمسیری	tropik	گرمسیری		N;SG
+komünizm	کمونیسم	komün	None		N;SG
+varlıklı	ثروتمندان	varlıklı	ثروتمند		N;PL
+varlıklı	ثروتمندی	varlıklı	ثروتمندی		N;SG
+varlıklı	پولدار	varlıklı	None		N;SG
+varlıklı	ثروتمند	varlıklı	ثروتمند		N;SG
+buffalo	بوفالو	buffalo	None	PROPN;NOM;SG;3	N;SG
+habsburg	هابسبورگ	habsburg	هابسبورگ	PROPN;NOM;SG;3	N;SG
+funk	فانک	funk	فانک		
+uygulanabilir	کاربردی	uygula	کاربردی	V;IPFV;POT;SG;3;POS;PASS	N;SG
+ömürlü	پایدار	ömürlü	پایدار	ADJ	N;SG
+iddialar	ادعا	iddia	ادعا	N;NOM;PL;3	N;SG
+yasaklandı	ممنوع	yasakla	ممنوع		ADJ
+yasaklandı	نهی	yasakla	نهی		N;SG
+yasaklandı	ممنوع	yasakla	ممنوع		ADJ
+yasaklandı	حرام	yasakla	None		N;SG
+knicks	نیکس	knicks	نیکس		N;SG
+altta	مفعول	altta	مفعول		N;SG
+altta	پایین	altta	پایین		ADV;ESS
+altta	باتوم	altta	باتوم		N;SG
+havayolları	ایرلاینز	havayol	None	N;NOM;PL;3	N;SG
+havayolları	هواپیمایی	havayol	هواپیمایی	N;NOM;PL;3	N;SG
+kalbi	قلبی	kalbi	قلبی	ADJ;NOM;SG;3	N;SG
+kalbi	دل	kalbi	دل	ADJ;NOM;SG;3	N;SG
+kalbi	قلب	kalbi	قلب	ADJ;NOM;SG;3	N;SG
+abdal	ابدال	abdal	ابدال		N;SG
+malik	مالک	malik	مالک		N;SG
+andorra	آندورا	andorra	آندورا	PROPN;NOM;SG;3	N;SG
+çıktılar	خروجی	çık	خروجی	V;PFV;IND;PL;3;POS;PST	N;SG
+seyrek	ندرت	seyrek	ندرت		ADV
+seyrek	بندرت	seyrek	بندرت		ADV
+seyrek	نادره	seyrek	نادره		N;SG
+seyrek	کمیاب	seyrek	کمیاب		N;SG
+seyrek	نادر	seyrek	نادر		N;SG
+seyrek	نادری	seyrek	نادری		N;SG
+tecavüz	تجاوز	tecavüz	None		N;SG
+rich	ثروتمند	rich	ثروتمند		N;SG
+rich	ثروتمندان	rich	ثروتمند		N;PL
+rich	پولدار	rich	None		N;SG
+rich	پولداری	rich	پولداری		N;SG
+rich	غنی	rich	غنی		ADJ
+rich	ریچ	rich	ریچ		N;SG
+kazılar	excavations	kazı	excavations	N;NOM;PL;3	N;SG
+defne	لارل	defne	لارل		N;SG
+defne	لورل	defne	لورل		N;SG
+defne	خلیج	defne	None		N;SG
+afgan	افغانی	afgan	افغانی		N;SG
+afgan	افغانی	afgan	افغانی		N;SG
+afgan	afghan	afgan	afghan		N;SG
+afgan	افغان	afgan	افغان		N;SG
+afgan	افغانها	afgan	افغان		N;PL
+dino	دینو	dino	دینو		N;SG
+phillips	فیلیپس	phillips	فیلیپس	PROPN;NOM;SG;3	N;SG
+bask	باسکی	bask	باسکی		N;SG
+jamaika	جامائیکا	jamaika	جامائیکا	PROPN;NOM;SG;3	N;SG
+jamaika	جامائیکا	jamaika	جامائیکا	PROPN;NOM;SG;3	N;SG
+otorite	تسلط	otorite	تسلط		N;SG
+otorite	سلطه	otorite	سلطه		N;SG
+hindu	هندو	hin	هندو		N;SG
+hindu	هندوستانی	hin	هندوستانی		N;SG
+hindu	هندوها	hin	هندو		N;PL
+butler	باتلر	butle	باتلر		N;SG
+opus	اپوس	opus	اپل		N;SG
+floyd	فلوید	floyd	فلوید		N;SG
+angelo	آنجلو	angelo	آنجلو		N;SG
+bulvarı	بلوار	bulvar	بلوار		N;SG
+enfeksiyon	عفونت	enfeksiyon	عفونت		N;SG
+enfeksiyon	عفونتهای	enfeksiyon	عفونت		N;PL
+enfeksiyon	آلودگی	enfeksiyon	آلودگی		N;SG
+enfeksiyon	عفونت	enfeksiyon	عفونت		N;SG
+lucy	لوسی	lucy	لوسی		N;SG
+pietro	پیترو	pietro	پیترو	PROPN;NOM;SG;3	N;SG
+çoktan	قبلا	çok	None	ADJ;AT+ABL;SG;3	ADV
+düğüm	گره	düğüm	None		N;SG
+düğüm	گره	düğüm	None		N;SG
+blu	بلو	blu	بلو		N;SG
+sung	سونگ	sung	سونگ		N;SG
+sung	سانگ	sung	سانگ		N;SG
+vezirköprü	وزیرکوپرو	vezirköprü	وزیرکوپرو	PROPN;NOM;SG;3	N;SG
+formül	فرمول	formül	None		N;SG
+dominik	دومینیکن	dominik	دومینیکن	N;NOM;SG;3	ADJ;RL
+dominik	دومینیکا	dominik	دومینیکا	N;NOM;SG;3	ADJ;RL
+dominik	دومینیک	dominik	دومینیک	N;NOM;SG;3	ADJ;RL
+inek	گیک	inek	گیک		N;SG
+inek	گاوها	inek	گاو		N;PL
+inek	اسکول	inek	اسکول		N;SG
+inek	مشنگ	inek	مشنگ		N;SG
+inek	گاوه	inek	گاوه		N;SG
+inek	گاوی	inek	گاوی		N;SG
+inek	گاو	inek	گاو		N;SG
+inek	کوش	inek	کوش		N;SG
+roosevelt	روزولت	roosevelt	روزولت		N;SG
+tahrir	تحریر	tahrir	تحریر		N;SG
+görüntüleme	نماها	görüntüleme	نما		N;PL
+görüntüleme	بازدیدهای	görüntüleme	بازدید		N;PL
+görüntüleme	نماهای	görüntüleme	نما		N;PL
+görüntüleme	مشاهده	görüntüleme	مشاهده		N;SG
+görüntüleme	مشاهدۀ	görüntüleme	مشاهدۀ		N;SG
+görüntüleme	تصویربرداری	görüntüleme	تصویربرداری		N;SG
+avantaj	مزایای	avantaj	مزایا		N;PL
+avantaj	مزایا	avantaj	None		N;PL
+avantaj	برتری	avantaj	برتری		ADJ;CMPR
+avantaj	مزیت	avantaj	مزیت		N;SG
+ulrich	اولریش	ulrich	اولریش	PROPN;NOM;SG;3	N;SG
+via	via	via	via	PROPN;NOM;SG;3	N;SG
+via	طریق	via	طریق	PROPN;NOM;SG;3	N;SG
+temple	پرستشگاه	temp	پرستشگاه	PROPN;NOM;SG;3	N;SG
+temple	عبادتگاه	temp	عبادتگاه	PROPN;NOM;SG;3	N;SG
+temple	معبد	temp	None	PROPN;NOM;SG;3	N;SG
+temple	تمپل	temp	تمپل	PROPN;NOM;SG;3	N;SG
+betty	بتی	bet	بتی		N;SG
+kablosuz	بیسیم	kablosuz	دیست#ییس	ADJ	N;SG
+kablosuz	وایرلس	kablosuz	وایرلس	ADJ	N;SG
+kablosuz	بیسیم	kablosuz	دیست#ییس	ADJ	N;SG
+emil	امیل	emil	None		N;SG
+soldan	چپ	sol	چپ	ADJ;AT+ABL;SG;3	N;SG
+onarım	تعمیر	o	تعمیر		N;SG
+onarım	تعمیرات	o	تعمیر		N;PL
+onarım	تعمیرات	o	تعمیر		N;PL
+onarım	بازگردانی	o	بازگردانی		N;SG
+onarım	مرمت	o	مرمت		N;SG
+onarım	ترمیم	o	ترمیم		N;SG
+günlükler	نشریات	günlük	نشریه	ADJ;NOM;PL;3	N;PL
+günlükler	مجلات	günlük	مجله	ADJ;NOM;PL;3	N;PL
+forbes	فوربس	forbes	فوربس		N;SG
+forbes	فوربز	forbes	فوربز		N;SG
+ücreti	اجرت	ücret	اجرت		N;SG
+ücreti	مزد	ücret	مزد		N;SG
+ücreti	دستمزد	ücret	دستمزد		N;SG
+ücreti	هزینه	ücret	هزینه		N;SG
+kabak	کدو	kabak	کدو		N;SG
+kabak	کدو	kabak	کدو		N;SG
+attila	آتیلا	attila	آتیلا		N;SG
+hammer	همر	hammer	همر		N;SG
+hammer	چکشی	hammer	چکش		N;SG
+hammer	چکش	hammer	چکش		N;SG
+capitol	کپیتول	capitol	کپیتول	PROPN;NOM;SG;3	N;SG
+capitol	کاپیتول	capitol	کاپیتول	PROPN;NOM;SG;3	N;SG
+dei	dei	de	dei	PROPN;NOM;SG;3	N;SG
+enflasyon	تورمی	enflasyon	تورمی		N;SG
+enflasyon	تورم	enflasyon	تورم		N;SG
+obama	اوباما	oba	اوباما		N;SG
+nord	نورد	nord	نورد	PROPN;NOM;SG;3	N;SG
+sakız	آدامس	sakız	آدامس		N;SG
+nina	نینا	nina	نینا		N;SG
+ned	ند	ned	هست		V;PL;3;PRS
+freiburg	فرایبورگ	freiburg	فرایبورگ	PROPN;NOM;SG;3	N;SG
+rogers	راجرز	rogers	راجرز		N;SG
+lejyon	لژیون	lejyon	لژیون		N;SG
+lejyon	سپاه	lejyon	سپاه		N;SG
+müthiş	عالی	müthiş	عالی		ADJ
+müthiş	عالیه	müthiş	عالیه		N;SG
+gate	دروازه	gate	دروازه		N;SG
+gate	گیت	gate	گرفت#گیر		N;SG
+gate	دری	gate	دری		N;SG
+dell	دل	dell	دل		N;SG
+grove	گروو	grove	گروو	PROPN;NOM;SG;3	N;SG
+grove	گرو	grove	None	PROPN;NOM;SG;3	N;SG
+dağılmış	پراکنده	dağıl	پراکنده		ADJ
+ofis	دفاتر	ofis	دفاتر		N;PL
+ofis	ادارات	ofis	ادارت		N;PL
+ofis	اداره	ofis	اداره		N;SG
+ofis	دفتر	ofis	دفتر		N;SG
+çizgili	خطدار	çizgili	خطدار		N;SG
+elektronlar	الکترون	elektron	الکترون	N;NOM;PL;3	N;SG
+ret	انکار	ret	انکار		N;SG
+ret	مردود	ret	مردود		ADJ
+reel	رئال	reel	رئال		N;SG
+reel	حقیقی	reel	حقیقی		N;SG
+reel	واقعی	reel	واقعی		ADJ
+akut	حاد	akut	None		N;SG
+connor	کانر	connor	کانر		N;SG
+istikrarlı	سازگار	istikrarlı	سازگار	ADJ	N;SG
+istikrarlı	پایدار	istikrarlı	پایدار	ADJ	N;SG
+acımasız	ظالم	acımasız	ظالم	ADJ	N;SG
+acımasız	ظالم	acımasız	ظالم	ADJ	N;SG
+acımasız	ظالمانه	acımasız	None	ADJ	ADV
+alım	بخرم	alım	خرم		V;SBJV;SG;1;PRS
+alım	خرید	alım	خرید		N;SG
+alım	بخرید	alım	رسید#خر		V;SBJV;PL;2;PRS
+magnus	ماگنوس	magnus	ماگنوس		N;SG
+filistinli	فلسطین	filistinli	فلسطین		N;PL
+filistinli	فلسطینی	filistinli	فلسطینی		N;PL
+petro	پترو	petro	پترو		N;SG
+duncan	دانکن	duncan	دانکن	PROPN;NOM;SG;3	N;SG
+marko	مارکو	marko	مارکو		N;SG
+afet	مصیبت	afet	مصیبت		N;SG
+afet	فاجعه	afet	فاجعه		N;SG
+afet	مصیبتی	afet	مصیبت		N;SG
+afet	حادثه	afet	حادثه		N;SG
+işlenmiş	پردازش	işle	پردازش	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;SG
+kullanılmayan	عادت	kullan	عادت	V;PFV;IND;NEG;PRS;V.PTCP;PASS	N;SG
+sığ	سطحی	sığ	سطحی		N;SG
+analog	آنالوگ	analog	None		ADJ
+analog	قیاسی	analog	قیاسی		N;SG
+yapraklar	برگ	yap	برگ	N;NOM;PL;3	N;SG
+canavar	جانور	canavar	None		N;SG
+canavar	دلبر	canavar	دلبر		N;SG
+canavar	حیوان	canavar	None		N;SG
+canavar	هیولا	canavar	هیولا		N;SG
+vinci	وینچی	vinci	وینچی		N;SG
+fazladan	اضافی	fazladan	None	ADV	N;SG
+fazladan	اضافه	fazladan	اضافه	ADV	ADJ
+court	دادگاه	court	دادگاه		N;SG
+court	دربار	court	دربار		N;SG
+elbise	لباسها	elbise	لباس	N;NOM;SG;3	N;PL
+elbise	لباسهای	elbise	لباس	N;NOM;SG;3	N;PL
+yonca	شبدر	yonca	شبدر		N;SG
+amor	amor	amor	amor		N;SG
+amor	آمور	amor	آمر		N;SG
+ekolojik	اکولوژیکی	ekolojik	اکولوژیکی		N;SG
+yükseliş	بلندی	yükseliş	بلندی		N;SG
+yükseliş	طلوع	yükseliş	طلوع		N;SG
+yükseliş	لیفت	yükseliş	لیفت		N;SG
+yükseliş	عروج	yükseliş	عروج		N;SG
+yükseliş	صعود	yükseliş	صعود		N;SG
+tüp	لوله	tüp	None		N;SG
+cool	خونسرد	cool	خونسرد		ADJ
+cool	خنک	cool	خنک		N;SG
+cool	cool	cool	cool		N;SG
+tango	تانگو	tango	تانگو		N;SG
+profil	profile	profil	profile		N;SG
+profil	نمایه	profil	نمایه		N;SG
+profil	پروفایل	profil	پروفایل		N;SG
+donna	دونا	donna	دونا		N;SG
+saddam	صدام	saddam	صدام		N;SG
+helenistik	هلنیستی	helenis	هلنیستی		N;SG
+astronomik	نجومی	astronomik	نجومی		N;SG
+astronomik	اخترشناسی	astronomik	اخترشناسی		N;SG
+weimar	وایمار	weimar	وایمار	PROPN;NOM;SG;3	N;SG
+güvercin	کبوتری	güvercin	کبوتری	N;NOM;SG;3	ADJ;CMPR
+güvercin	داو	güvercin	داو	N;NOM;SG;3	
+meyer	مایر	meyer	مایر		N;SG
+meyer	میر	meyer	میر		N;SG
+dökülen	ریخت	dök	ریخت#ریز	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;SG;3;PST
+meyveler	شقایق	meyve	شقایق	N;NOM;PL;3	N;SG
+meyveler	میوه	meyve	میوه	N;NOM;PL;3	N;SG
+meyveler	میوه	meyve	میوه	N;NOM;PL;3	N;SG
+seçenek	انتخاب	seçenek	انتخاب		N;SG
+seçenek	گزینه	seçenek	گزینه		N;SG
+isu	isu	isu	isu		N;SG
+palmiye	نخل	palmi	نخل		N;SG
+palmiye	خرمایی	palmi	خرمایی		N;SG
+vatandaş	شهروندان	vatandaş	شهروند		N;PL
+vatandaş	همشهری	vatandaş	None		N;SG
+vatandaş	شهروند	vatandaş	شهروند		N;SG
+vatandaş	شهروندی	vatandaş	شهروندی		N;SG
+windsor	ویندسور	windsor	ویندسور	PROPN;NOM;SG;3	N;SG
+windsor	ویندزور	windsor	ویندزور	PROPN;NOM;SG;3	N;SG
+eindhoven	آیندهوون	eindhoven	آیندهوون	PROPN;NOM;SG;3	N;SG
+çirkin	زشته	çirkin	زشته		N;SG
+çirkin	زشتی	çirkin	زشتی		N;SG
+çirkin	زشت	çirkin	None		ADJ
+ayrılma	جداسازی	ayrıl	جداسازی		N;SG
+ayrılma	جدایی	ayrıl	جدایی		N;SG
+ayrılma	تفکیک	ayrıl	تفکیک		N;SG
+ayrılma	فراق	ayrıl	فراق		N;SG
+internazionale	internazionale	internazion	internazionale	PROPN;NOM;SG;3	N;SG
+öldürme	کشتن	öl	کشتن	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;SG
+çamur	لجن	çamur	لجن		N;SG
+çamur	گِل	çamur	گِل		N;SG
+çamur	ماد	çamur	ماد		N;SG
+çamur	کلی	çamur	کلی		ADV
+çamur	گلی	çamur	گل		N;SG
+koşu	روان	koşu	روان		N;SG
+koşu	دویدن	koşu	None		N;SG
+koşu	اجرا	koşu	اجرا		N;SG
+davut	داوید	davut	داوت#دار		N;SG
+davut	داود	davut	داود		N;SG
+davut	داوود	davut	داوود		N;SG
+davut	دیوید	davut	دیوید		N;SG
+davut	david	davut	david		N;SG
+modu	حالت	modu	حالت		N;SG
+juniors	juniors	juniors	juniors	PROPN;NOM;SG;3	
+veliaht	دافین	veliaht	دافین		N;SG
+korece	کره	korece	کره		N;SG
+korece	کرهای	korece	کر		N;PL
+çimento	سیمان	çimento	سیمان		N;SG
+çimento	سیمانی	çimento	سیمانی		N;SG
+manken	model	manken	model		N;SG
+manken	مدل	manken	مدل		N;SG
+manken	مانکن	manken	مانکن		N;SG
+kaos	آشفتگی	kaos	آشفتگی		N;SG
+kaos	آشوب	kaos	آشوب		N;SG
+savaştı	جهاد	savaş	جهاد		N;SG
+kalkış	برخاست	kalkış	بر#خاست#خیز	N;NOM;SG;3	V;SG;3;PST
+dişli	دنده	dişli	دنده		N;SG
+dişli	دندانها	dişli	دندان		N;PL
+dişli	دندون	dişli	دندون		N;SG
+dişli	دندان	dişli	دندان		N;SG
+dişli	دندانهای	dişli	دندان		N;PL
+aids	ایدز	aids	ایدز		N;SG
+anders	آندرس	anders	آندرس		N;SG
+anders	اندرس	anders	اندرس		N;SG
+marilyn	مریلین	marilyn	مریلین		N;SG
+talepleri	خاسته	talep	خاست#خاه	N;NOM;PL;3	V;SG;3;V.PTCP
+talepleri	تقاضا	talep	تقاضا	N;NOM;PL;3	N;SG
+çalı	بوته	çalı	بوته		N;SG
+çalı	بوش	çalı	بوش		N;SG
+çalı	درختچه	çalı	درختچه		N;SG
+azalan	نزولی	azal	نزولی		N;SG
+laik	سکولار	laik	سکولار		N;SG
+hamburger	برگر	hamburger	برگر		N;SG
+hamburger	همبرگر	hamburger	همبرگر		N;SG
+hamburger	همبرگر	hamburger	همبرگر		N;SG
+sunmak	مجری	sun	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+olgu	پدیده	olgu	پدیده		N;SG
+olgu	پدیدهای	olgu	پدید		N;PL
+sapma	انحراف	sap	انحراف		N;SG
+sapma	انحراف	sap	انحراف		N;SG
+küp	مکعب	küp	None		N;SG
+küp	مکعبی	küp	مکعبی		N;SG
+küp	مکعب	küp	None		N;SG
+asgari	کمترین	asgari	کم		ADJ;RL
+asgari	کمترین	asgari	کم		ADJ;RL
+metz	متز	metz	متز	PROPN;NOM;SG;3	N;SG
+memeli	ممل	memel	ممل		N;SG
+memeli	پستانداران	memel	پستاندار		N;PL
+memeli	پستاندار	memel	پستاندار		N;SG
+memeli	پستانداران	memel	پستاندار		N;PL
+bekliyorum	منتظرم	bekle	منتظرم	V;PROG;IND;SG;1;POS;INFM;PRS	N;SG
+bekliyorum	انتظار	bekle	انتظار	V;PROG;IND;SG;1;POS;INFM;PRS	N;SG
+bekliyorum	منتظر	bekle	منتظر	V;PROG;IND;SG;1;POS;INFM;PRS	ADJ
+bekliyorum	منتظریم	bekle	منتظریم	V;PROG;IND;SG;1;POS;INFM;PRS	V;PL;1;PRS
+kıyafet	لباسها	kıyafet	لباس	N;NOM;SG;3	N;PL
+kıyafet	لباسهای	kıyafet	لباس	N;NOM;SG;3	N;PL
+medici	مدیچی	medici	مدیچی		N;SG
+aria	آریا	aria	آریا	PROPN;NOM;SG;3	N;SG
+gökyüzü	آسمان	gökyüzü	آسمان		N;SG
+gökyüzü	اسکای	gökyüzü	اسکا		N;SG
+ala	آلا	ala	آلا		N;SG
+alto	آلتو	alto	آلتو		N;SG
+alto	التو	alto	التو		N;SG
+aranan	جسته	ara	جسته		V;SG;3;V.PTCP
+aranan	میخواستند	ara	خواست#خواه		V;PL;3;PST
+aranan	خواست	ara	خواست#خواه		V;SG;3;PST
+yenileme	بازنشانی	yenilem	بازنشانی		N;SG
+yenileme	بازگردانی	yenilem	بازگردانی		N;SG
+yenileme	مرمت	yenilem	مرمت		N;SG
+yenileme	ترمیم	yenilem	ترمیم		N;SG
+yenileme	نوسازی	yenilem	نوسازی		N;SG
+yenileme	بازسازی	yenilem	بازسازی		N;SG
+yenileme	نوسازی	yenilem	نوسازی		N;SG
+yenileme	بازسازی	yenilem	بازسازی		N;SG
+yenileme	تجدید	yenilem	تجدید		N;SG
+alfonso	آلفونسو	alfonso	آلفونسو	PROPN;NOM;SG;3	N;SG
+nottingham	ناتینگهام	nottingham	ناتینگهام	PROPN;NOM;SG;3	N;PL
+davranışlar	رفتاری	davranış	رفتار	N;NOM;PL;3	N;SG
+davranışlar	سیرت	davranış	سیرت	N;NOM;PL;3	N;SG
+davranışlar	رفتار	davranış	رفتار	N;NOM;PL;3	N;SG
+davranışlar	رفتاری	davranış	رفتار	N;NOM;PL;3	N;SG
+davranışlar	رفتار	davranış	رفتار	N;NOM;PL;3	N;SG
+joyce	جویس	joyce	جویس		N;SG
+cromwell	کرامول	cromwell	کرامول	PROPN;NOM;SG;3	N;SG
+finanse	مالی	finanse	مالی		ADJ
+anya	آنیا	anya	آنیا		N;SG
+taksi	تاکسی	taksi	تاکسی		N;SG
+taksi	تاکسی	taksi	تاکسی		N;SG
+mülteci	پناهنده	mülteci	پناهنده		N;SG
+mülteci	مهاجر	mülteci	مهاجر		N;SG
+mülteci	پناهنده	mülteci	پناهنده		N;SG
+mülteci	پناهندگان	mülteci	None		N;PL
+mülteci	پناهجویان	mülteci	پناهجو		N;PL
+mülteci	مهاجرین	mülteci	مهاجر		N;PL
+soyuz	سایوز	soyuz	سایوز		N;SG
+mafya	mo	mafya	mo		N;SG
+mafya	اوباش	mafya	اوباش		N;SG
+mafya	مافیای	mafya	مافیا		N;SG
+mafya	مافیایی	mafya	مافیایی		N;SG
+mafya	مافیا	mafya	مافیا		N;SG
+liberty	لیبرتی	liberty	لیبرتی	PROPN;NOM;SG;3	N;SG
+carmen	کارمن	carmen	کارمن	PROPN;NOM;SG;3	N;SG
+bakteriler	باکتری	bakter	باکتری	N;NOM;PL;3	N;SG
+mozambik	موزامبیک	mozambik	موزامبیک	PROPN;NOM;SG;3	N;SG
+faso	فاسو	faso	فاسو		N;SG
+carroll	کرول	carroll	کرول	PROPN;NOM;SG;3	N;SG
+chase	چیس	chase	چیس	PROPN;NOM;SG;3	N;SG
+derby	دربی	derby	دربی		N;SG
+derby	داربی	derby	داشت#دار		N;SG
+içecek	نوشیدن	iç	نوشیدن	V;PFV;IND;POS;FUT	N;SG
+içecek	بنوش	iç	نوشید#نوش	V;PFV;IND;POS;FUT	V;IMP;SG;2
+içecek	بنوشید	iç	None	V;PFV;IND;POS;FUT	N;SG
+içecek	نوشیدنی	iç	نوشیدنی	V;PFV;IND;POS;FUT	N;SG
+nar	نار	nar	نار		N;SG
+nar	انار	nar	None		N;SG
+nar	انار	nar	None		N;SG
+sine	سینوسی	sin	سینوسی		N;SG
+ithaf	اهدا	ithaf	اهدا		N;SG
+ithaf	اهداء	ithaf	هدع		N;SG
+ithaf	فداکاری	ithaf	فداکاری		N;SG
+ithaf	تقدیم	ithaf	تقدیم		N;SG
+spiral	مارپیچ	spiral	مارپیچ		N;SG
+spiral	مارپیچی	spiral	مارپیچی		N;SG
+çarpma	ضرب	çarp	None		N;SG
+çarpma	ضربه	çarp	ضربه		N;SG
+çarpma	اصابت	çarp	اصابت		N;SG
+çarpma	برخوردی	çarp	برخوردی		N;SG
+çarpma	برخورد	çarp	برخورد		N;SG
+enstitü	موسسه	enstit	None		N;SG
+enstitü	مؤسسه	enstit	مؤسسه		N;SG
+enstitü	انستیتو	enstit	انستیتو		N;SG
+enstitü	موسسه	enstit	None		N;SG
+enstitü	مؤسسه	enstit	مؤسسه		N;SG
+anal	مقعد	anal	مقعد		N;SG
+anal	مقعدی	anal	مقعدی		N;SG
+haz	رضای	haz	None		N;SG
+haz	خوشنودی	haz	خوشنودی		N;SG
+haz	لذت	haz	لذت		N;SG
+aylar	ماهها	ay	ماه		N;PL
+aylar	ماه	ay	ماه		N;SG
+aylar	ماهه	ay	ماهه		N;SG
+aylar	ماههای	ay	ماه		N;PL
+aylar	ماهها	ay	ماه		N;PL
+bildiri	اعلام	bildiri	اعلام		N;SG
+bildiri	اعلان	bildiri	اعلان		N;SG
+mao	مائو	mao	مائو		N;SG
+doi	دوای	doi	دوا		N;SG
+mülkiyet	اموال	mülkiyet	مال	N;NOM;SG;3	N;PL
+ithal	واردشده	ithal	واردشده		ADJ;SG;3;V.PTCP
+ithal	وارداتی	ithal	وارداتی		N;PL
+romanlar	roma	roman	roma	N;NOM;PL;3	N;SG
+romanlar	روما	roman	روما	N;NOM;PL;3	N;SG
+romanlar	رمان	roman	رمان	N;NOM;PL;3	N;SG
+scooby	اسکوبی	Scooby	اسکوبی		N;SG
+aysel	آیسل	aysel	آیسل		N;SG
+luna	لونا	li	لونا		N;SG
+faiz	فیض	faiz	فیض		N;SG
+faiz	فائزه	faiz	فائزه		N;SG
+faiz	ربا	faiz	ربا		N;SG
+faiz	علاقه	faiz	علاقه		N;SG
+faiz	بهره	faiz	بهره		N;SG
+çalışanları	کارمند	çalışan	کارمند	N;ACC;PL;3	N;SG
+namibya	نامیبیا	namibya	نامیبیا	PROPN;NOM;SG;3	N;SG
+liège	لیژ	liège	لیژ	PROPN;NOM;SG;3	N;SG
+şer	شرور	şer	شرور		N;SG
+şer	شرارت	şer	شرارت		N;SG
+şer	بد	şer	بد		ADJ
+yakalanan	دستگیر	yakala	دستگیر	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADJ
+yakalanan	اسیر	yakala	اسیر	V;PFV;IND;POS;PRS;V.PTCP;PASS	N;SG
+çikolata	شکلاتی	çikolata	شکلاتی		N;SG
+çikolata	کاکائو	çikolata	کاکائو		N;SG
+çikolata	شکلات	çikolata	None		N;SG
+kayıpları	ضرر	kayıp	None	N;ACC;PL;3	N;SG
+yap	make	yap	make	V;PFV;IMP;SG;2;POS;PRS	
+yap	را	yap	را	V;PFV;IMP;SG;2;POS;PRS	PART
+balta	تیشه	balta	تیشه		N;SG
+balta	محورها	balta	محور		N;PL
+balta	تبر	balta	تبر		N;SG
+balta	اکس	balta	اکس		N;SG
+balta	axe	balta	axe		N;SG
+izi	چاپ	izi	چاپ		N;SG
+wang	وانگ	wang	وانگ		N;SG
+wang	ونگ	wang	ونگ		N;SG
+ortası	وسطی	orta	وسطی		N;SG
+ortası	میدل	orta	میدل		N;SG
+ortası	میانی	orta	None		N;SG
+ortası	میانه	orta	میانه		N;SG
+ortası	وسط	orta	وسط		ADP
+ortası	اواسط	orta	وسط		N;PL
+ortası	مید	orta	مید		N;SG
+vakum	مکنده	vakum	مکنده		N;SG
+vakum	مکش	vakum	مکش		N;SG
+vakum	خلاء	vakum	خلاء		N;SG
+vakum	خلأ	vakum	خلأ		N;SG
+vakum	خلا	vakum	خلا		N;SG
+mainz	ماینتس	mainz	ماینتس	PROPN;NOM;SG;3	N;SG
+minogue	مینوگ	minogue	مینوگ		N;SG
+jeanne	جوآن	Teanne	جوآن		N;SG
+jeanne	ژان	Teanne	ژان		N;SG
+jeanne	جوان	Teanne	جوان		N;SG
+jeanne	جون	Teanne	None		N;SG
+jeanne	ژان	Teanne	ژان		N;SG
+içeriğe	محتویات	içerik	محتویه	N;DAT;SG;3	N;PL
+içeriğe	خرسند	içerik	خرسند	N;DAT;SG;3	ADJ
+dürüst	راستگو	dürüst	None		N;SG
+dürüst	صادقانه	dürüst	صادقانه		ADV
+dürüst	صادق	dürüst	صادق		N;SG
+dürüst	صادقی	dürüst	صادقی		N;SG
+dürüst	امین	dürüst	None		N;SG
+stan	استن	stan	استن		N;SG
+nuh	نوح	nuh	نوح		N;SG
+nuh	نوا	nuh	نوا		N;SG
+nuh	نوآ	nuh	نوآ		N;SG
+vida	پیچ	vida	پیچ		N;SG
+vida	ویدا	vida	ویدا		N;SG
+andrey	آندری	andrey	آندری		N;SG
+geleceğin	اینده	gelecek	اینده	ADJ;GEN;SG;3	
+geleceğin	future	gelecek	future	ADJ;GEN;SG;3	N;SG
+geleceğin	آینده	gelecek	آینده	ADJ;GEN;SG;3	N;SG
+şapka	کاپ	şapka	کاپ		N;SG
+şapka	کلاهک	şapka	کلاهک		N;SG
+şapka	کپ	şapka	کپ		N;SG
+şapka	کلاه	şapka	کلاه		N;SG
+maine	مین	maine	مین	PROPN;NOM;SG;3	N;SG
+maine	ماین	maine	ماین	PROPN;NOM;SG;3	N;SG
+hapishane	زندانهای	hapishan	زندان		N;PL
+hapishane	زندانها	hapishan	زندان		N;PL
+hapishane	زندان	hapishan	زندان		N;SG
+hapishane	زندان	hapishan	زندان		N;SG
+churchill	چرچیل	churchill	چرچیل	PROPN;NOM;SG;3	N;SG
+karakol	پاسگاه	karakol	پاسگاه		N;SG
+karakol	ایستگاه	karakol	ایستگاه		N;SG
+karakol	پایگاه	karakol	None		N;SG
+lastik	لاستیکی	lastik	لاستیکی		N;SG
+lastik	لاستیک	lastik	لاستیک		N;SG
+lastik	تایر	lastik	تایر		N;SG
+lastik	کشسان	lastik	کشسان		N;SG
+lastik	تایر	lastik	تایر		N;SG
+lastik	لاستیک	lastik	لاستیک		N;SG
+chen	چن	chen	چن		NUM
+lily	لیلی	lily	لیلی		N;SG
+limit	محدودیتها	limit	محدودیت		N;PL
+limit	محدودیت	limit	محدودیت		N;SG
+limit	حد	limit	حد		N;SG
+limit	محدود	limit	محدود		ADJ
+limit	محدودیت	limit	محدودیت		N;SG
+mescid	مسجد	mescid	مسجد		N;SG
+ileriye	جلو	ileri	جلو	ADJ;DAT;SG;3	N;SG
+hisse	سهام	hisse	سهم	N;NOM;SG;3	N;PL
+alejandro	آلخاندرو	alejandro	آلخاندرو		N;SG
+bela	مشکل	bela	مشکل		N;SG
+bela	دردسر	bela	دردسر		N;SG
+bela	زحمت	bela	زحمت		N;SG
+lancaster	لنکستر	lancaster	لنکستر	PROPN;NOM;SG;3	N;SG
+çarşı	فروشگاه	çarşı	فروشگاه		N;SG
+çarşı	بازار	çarşı	بازار		N;SG
+gabon	گابن	gabon	گابن	PROPN;NOM;SG;3	N;SG
+teorileri	نظریه	teori	نظریه	N;ACC;PL;3	N;SG
+marmaris	مارماریس	marmaris	مارماریس	PROPN;NOM;SG;3	N;SG
+diyalog	محاوره	diyalog	محاوره		N;SG
+diyalog	محاوره	diyalog	محاوره		N;SG
+tufan	سیل	tuf	سیل		N;SG
+tufan	سیل	tuf	سیل		N;SG
+aramak	فراخوانی	ara	فراخوانی	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+val	وال	val	وال	INTJ	
+val	ول	val	ول	INTJ	N;SG
+becker	بکر	becker	بکر		N;SG
+torpido	اژدر	torpido	اژدر		N;SG
+mülk	ویژگی	mülk	ویژگی		N;SG
+mülk	دارایی	mülk	دارایی		N;SG
+mülk	ملک	mülk	ملک		N;SG
+mülk	اموال	mülk	مال		N;PL
+mülk	مالکیت	mülk	مالکیت		N;SG
+lucia	لوسیا	lucia	لوسیا	PROPN;NOM;SG;3	N;SG
+manavgat	ماناوگات	manavgat	ماناوگ	PROPN;NOM;SG;3	N;PL
+helyum	هلیم	helyu	هلیم		N;SG
+helyum	هلیوم	helyu	هلیوم		N;SG
+ebeveyn	والدین	ebevey	والد		N;PL
+ebeveyn	والدین	ebevey	والد		N;PL
+ashley	اشلی	ashley	اشلی	PROPN;NOM;SG;3	N;SG
+locke	لاک	locke	None		N;SG
+levha	ورقه	levha	None		N;SG
+levha	برگه	levha	برگه		N;SG
+levha	پلاک	levha	None		N;SG
+levha	بشقاب	levha	بشقاب		N;SG
+bear	خرس	bear	None	INTJ	N;SG
+bear	خرسی	bear	خرسی	INTJ	N;SG
+darkgrey	darkgrey	darkgrey	darkgrey		N;SG
+rita	ریتا	rita	ریتا		N;SG
+damla	افت	dam	None		N;SG
+damla	قطره	dam	قطره		N;SG
+damla	چکه	dam	چکه		N;SG
+damla	قطره	dam	قطره		N;SG
+damla	لکه	dam	None		N;SG
+hazırlandı	مهیا	hazırla	مهیا	V;PFV;IND;SG;3;POS;PST;PASS	ADJ
+keşke	آرزو	keşke	آرزو	ADV	N;SG
+keşke	ارزو	keşke	ارزو	ADV	N;SG
+keşke	ارزوی	keşke	ارزوی	ADV	N;SG
+dong	دونگ	dong	دونگ		N;SG
+söyle	بگویید	söyle	None		V;SBJV;PL;2;PRS
+söyle	بگو	söyle	None		V;IMP;SG;2
+söyle	بگویم	söyle	گفت#گو		V;SBJV;PL;1;PRS
+söyle	بگو	söyle	None		V;IMP;SG;2
+asır	قرن	asır	قرن		N;SG
+asır	قرنه	asır	قرنه		N;SG
+asır	سده	asır	سده		N;SG
+anarşist	آنارشیست	anarşist	آنارشیست		N;SG
+southampton	ساوتهمپتون	southa	ساوتهمپتون	PROPN;NOM;SG;3	N;SG
+kademeli	تدریجی	kademeli	None		N;SG
+percy	پرسی	percy	پرسی		N;SG
+reformu	اصلاحات	reform	اصلاح	N;NOM;SG;3	N;PL
+pusu	کمین	pus	کمین		N;SG
+pusu	کمینگاه	pus	کمینگاه		N;SG
+ruhani	معنوی	ruhani	معنوی		N;SG
+ruhani	روحانی	ruhani	روحانی		N;SG
+santo	سانتو	santo	سانتو	PROPN;NOM;SG;3	N;SG
+athena	آتنا	athena	آتنا		N;SG
+gsm	gsm	gsm	gsm		N;SG
+beck	بک	beck	بک		N;SG
+statü	وضعیت	stat	وضعیت		N;SG
+handan	هاندان	han	هاندان		N;SG
+zone	منطقه	zone	منطقه		N;SG
+zone	زون	zone	زون		N;SG
+münchen	مونشن	münchen	مونشن	PROPN;NOM;SG;3	N;SG
+mistik	مرموز	mistik	مرموز		N;SG
+mistik	عرفانی	mistik	عرفانی		N;SG
+mistik	اسرارآمیز	mistik	اسرارآمیز		ADJ
+mistik	صوفی	mistik	صوفی		N;SG
+mistik	میستیک	mistik	میستیک		N;SG
+pornografik	پورنو	pornografik	پورنو	ADJ	
+pornografik	پورنوگرافی	pornografik	پورنوگرافی	ADJ	N;SG
+sagan	ساگان	sagan	ساگان		N;SG
+beethoven	بتهوون	beethoven	بتهوون	PROPN;NOM;SG;3	N;SG
+wonder	تعجب	wonder	تعجب		N;SG
+evre	مرحله	evre	مرحله		N;SG
+evre	فازی	evre	فازی		N;SG
+evre	فاز	evre	فاز		N;SG
+katman	لایه	kat	لایه		N;SG
+kelt	سلتیک	kelt	سلتیک		N;SG
+lars	لارس	i	لارس		N;SG
+oturdu	نشستم	otur	None	V;PFV;IND;SG;3;POS;PST	V;SG;1;PST
+oturdu	نشست	otur	نشست	V;PFV;IND;SG;3;POS;PST	N;SG
+oturdu	نشستند	otur	None	V;PFV;IND;SG;3;POS;PST	V;PL;3;PST
+oturdu	بلندای	otur	بلندا	V;PFV;IND;SG;3;POS;PST	N;SG
+atlar	اسب	at	اسب	N;NOM;PL;3	N;SG
+zehir	زهر	zehir	زهر		N;SG
+zehir	زهر	zehir	زهر		N;SG
+zehir	مسموم	zehir	None		N;SG
+humboldt	هومبولت	humboldt	هومبولت		N;SG
+kıymetli	گرانبها	kıymetli	گرانبها		ADJ
+eight	هشت	eight	هشت		NUM
+izlemek	نظاره	izle	نظاره	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+izlemek	مراقبه	izle	مراقبه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+izlemek	تماشای	izle	تماشا	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+hogwarts	هاگوارتز	hogoarts	هاگوارتز		N;SG
+süslü	محبوبی	süslü	محبوبی		N;SG
+süslü	پندار	süslü	پندار		N;SG
+süslü	گمان	süslü	گمان		N;SG
+süslü	بزمجه	süslü	بزمجه		N;SG
+çalar	بدزدد	çal	دزد#بزن		V;SBJV;SG;3;PRS
+tabanca	تفنگ	tabanca	None		N;SG
+tabanca	تفنگی	tabanca	تفنگی		N;SG
+tabanca	اسلحه	tabanca	اسلحه		N;PL
+aba	عبا	aba	عبا		N;SG
+aba	آبا	aba	آبا		N;SG
+togo	توگو	togo	توگو	PROPN;NOM;SG;3	N;SG
+gran	گرن	gran	گرن	PROPN;NOM;SG;3	N;SG
+destiny	سرنوشت	dest	سرنوشت		N;SG
+destiny	تقدیر	dest	تقدیر		N;SG
+destiny	سرنوشتی	dest	سرنوشتی		N;SG
+espanyol	اسپانیول	espanyol	اسپانیول		N;SG
+montgomery	مونتگومری	montgomery	مونتگومری	PROPN;NOM;SG;3	N;SG
+montgomery	مانتگامری	montgomery	مانتگامری	PROPN;NOM;SG;3	N;SG
+barut	باروت	barut	باروت		N;SG
+barut	باروت	barut	باروت		N;SG
+barut	پودر	barut	پودر		N;SG
+wrestlemania	رسلمانیا	orestleman	رسلمانیا	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+baptiste	باپتیست	baptis	باپت#باپ		N;SG
+çukur	چاله	çukur	چاله		N;SG
+çukur	سوراخ	çukur	سوراخ		N;SG
+çukur	حفره	çukur	حفره		N;SG
+çukur	گودال	çukur	گودال		N;SG
+federico	فدریکو	federico	فدریکو	PROPN;NOM;SG;3	N;SG
+içeriyor	حاوی	içer	حاوی	V;PROG;IND;SG;3;POS;INFM;PRS	ADJ
+içeriyor	حاوی	içer	حاوی	V;PROG;IND;SG;3;POS;INFM;PRS	ADJ
+chandler	چندلر	chand	چندلر	N;NOM;PL;3	N;SG
+riga	ریگا	riga	ریگا	PROPN;NOM;SG;3	N;SG
+sezgin	سزگین	sezgin	سزگین		N;SG
+candan	صمیمی	candan	None		N;SG
+candan	اخلاص	candan	اخلاص		N;SG
+candan	خالص	candan	خالص		N;SG
+candan	مخلص	candan	مخلص		N;SG
+candan	خواهانم	candan	خواست#خواه		V;IMP;SG;2
+kusursuz	عالی	kusursuz	عالی		ADJ
+kusursuz	perfect	kusursuz	perfect		N;SG
+kusursuz	پرفکت	kusursuz	پرفکت		N;SG
+ekonomist	اقتصاددان	ekonomist	اقتصادد		N;SG
+aydınlanma	روشنفکری	aydınlan	روشنفکری	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+aydınlanma	روشنگری	aydınlan	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+çalışıyorum	کار	çalış	کار	V;PROG;IND;SG;1;POS;INFM;PRS	N;SG
+tiran	تیرانا	tir	تیرانا		N;SG
+tiran	ستمگر	tir	ستمگر		N;SG
+patricia	پاتریشیا	patricia	پاتریشیا		N;SG
+jong	جونگ	jong	جونگ		N;SG
+emirdağ	امیرداغ	emirdağ	امیرداغ	PROPN;NOM;SG;3	N;SG
+ark	قوس	ark	قوس		N;SG
+ark	کمان	ark	None		N;SG
+ark	آرک	ark	آرک		N;SG
+rodrigo	رودریگو	rodrigo	رودریگو		N;SG
+bağış	اهدا	bağış	اهدا		N;SG
+bağış	اهدای	bağış	اهدا		N;SG
+bağış	اهداکننده	bağış	اهداکننده		N;SG
+bağış	اهداء	bağış	هدع		N;SG
+bağış	اهدا	bağış	اهدا		N;SG
+bağış	عضو	bağış	عضو		N;SG
+bağış	صدقه	bağış	صدقه		N;SG
+bağış	اهدا	bağış	اهدا		N;SG
+bağış	سهم	bağış	سهم		N;SG
+toto	توتو	toto	توتو		N;SG
+toto	توتو	toto	توتو		N;SG
+fon	وجوه	fon	وجوه		N;PL
+fon	فونی	fon	فونی		N;SG
+olga	اولگا	olga	اول		N;SG
+zar	زار	zar	زار		N;SG
+zar	تاس	zar	تاس		N;SG
+zar	طاس	zar	طاس		N;SG
+zar	غشای	zar	غشا		N;SG
+zar	غشاء	zar	غشاء		N;PL
+sponsor	اسپانسر	sponsor	اسپانسر		N;SG
+sponsor	مولای	sponsor	مولای		N;SG
+sponsor	حامی	sponsor	حامی		N;SG
+sponsor	حامی	sponsor	حامی		N;SG
+günaydın	صبح	günay	صبح		N;SG
+günaydın	بامداد	günay	بامداد		N;SG
+wta	wta	wta	wta		N;SG
+notre	نوتر	notre	نوتر	PROPN;NOM;SG;3	N;SG
+luther	لوتر	luther	لوتر	PROPN;NOM;SG;3	N;SG
+esra	اسرا	esra	اسرا		N;PL
+plaj	بیچ	plaj	بیچ		N;SG
+plaj	ساحل	plaj	ساحل		N;SG
+nebraska	نبراسکا	nebraska	نبراسکا	PROPN;NOM;SG;3	N;SG
+yansıma	بازتاب	yansı	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+yansıma	انعکاس	yansı	انعکاس	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+vera	ورا	vera	ورا		N;SG
+şaka	جوک	şaka	جوک		N;SG
+şaka	شوخی	şaka	شوخی		N;SG
+şaka	شوخی	şaka	شوخی		N;SG
+şaka	لطیفه	şaka	لطیفه		N;SG
+şaka	جوک	şaka	جوک		N;SG
+orion	اوریون	orion	اوریون		N;SG
+casus	جاسوسی	casus	جاسوسی		N;SG
+casus	جاسوس	casus	جاسوس		N;SG
+casus	جاسوسان	casus	جاسوس		N;PL
+irene	آیرین	iren	آیرین		N;SG
+irene	ایرن	iren	ایرن		N;SG
+irene	ایرین	iren	ایرین		N;SG
+kurtulan	بازماندگان	kurtul	None		N;PL
+kurtulan	بازمانده	kurtul	بازمانده		N;SG
+idris	ادریس	idris	ادریس		N;SG
+singer	خواننده	i	خواننده		N;SG
+pontus	پنتوس	pontus	پنتوس		N;SG
+fantezi	فانتزی	fantezi	فانتزی		N;SG
+newman	نیومن	newman	نیومن		N;SG
+karlı	سودآور	karlı	سودآور		N;SG
+karlı	اسنو	karlı	اسنو		N;SG
+karlı	برف	karlı	برف		N;SG
+karlı	برفی	karlı	برفی		N;SG
+karlı	برفی	karlı	برفی		N;SG
+beraat	برائت	beraat	None		N;SG
+beraat	تبرئه	beraat	تبرئه		N;SG
+tebrik	تبریک	tebrik	تبریک		N;SG
+tebrik	احوالپرسی	tebrik	احوالپرسی		N;SG
+tebrik	درود	tebrik	درود		N;SG
+menteşe	منوط	menteşe	None		ADJ
+menteşe	لولا	menteşe	لولاً		N;SG
+müzisyenler	نوازنده	müzisyen	نوازنده	N;NOM;PL;3	N;SG
+reynolds	رینولدز	reynolds	رینولدز		N;SG
+müttefikler	متحدین	müttefik	None	N;NOM;PL;3	N;SG
+sendai	سندای	sendai	سندا	PROPN;NOM;SG;3	N;SG
+çinko	فلز	çinko	فلز		N;SG
+çinko	روی	çinko	رو		ADP
+mickey	میکی	mickey	میکی		N;SG
+tora	تورا	tor	None		N;SG
+canım	عزیز	can	عزیز	N;NOM;SG;3	ADJ
+canım	عزیزم	can	عزیزم	N;NOM;SG;3	INTJ
+akrabaları	خویشان	akraba	خویش	N;NOM;PL;3	N;SG
+zen	ذن	zen	ذن		N;SG
+preston	پرستون	preston	پرستون	PROPN;NOM;SG;3	N;SG
+manson	منسون	manson	منسون	PROPN;NOM;SG;3	N;SG
+chang	چنگ	chang	چنگ		N;SG
+chang	چانگ	chang	چانگ		N;SG
+chang	چانگان	chang	چانگان		N;SG
+yasaktır	ممنوعه	yasak	ممنوعه	ADJ	N;SG
+yasaktır	حرام	yasak	None	ADJ	N;SG
+yasaktır	نهی	yasak	نهی	ADJ	N;SG
+yasaktır	حرام	yasak	None	ADJ	N;SG
+saran	ساران	sara	سار		N;SG
+avcılar	شکارچیان	avcı	شکارچی		N;PL
+avcılar	هانتر	avcı	هانتر		N;SG
+avcılar	شکارچی	avcı	شکارچی		N;SG
+avcılar	درندگان	avcı	درنده		N;PL
+avcılar	قاتلین	avcı	قاتلین		N;PL
+merdiven	پلکانی	merdiven	پلکان		N;SG
+merdiven	پلکان	merdiven	پلک		N;SG
+merdiven	پلکان	merdiven	پلک		N;SG
+merdiven	نردبان	merdiven	نردب		N;SG
+merdiven	نردبانی	merdiven	نردبانی		N;SG
+merdiven	نردبان	merdiven	نردب		N;SG
+merdiven	نردبانها	merdiven	نردبان		N;PL
+merdiven	پلکان	merdiven	پلک		N;SG
+merdiven	پله	merdiven	پله		N;SG
+felaket	مصیبت	felaket	مصیبت		N;SG
+felaket	فاجعه	felaket	فاجعه		N;SG
+felaket	مصیبتی	felaket	مصیبت		N;SG
+felaket	حادثه	felaket	حادثه		N;SG
+cardiff	کاردیف	cardiff	کاردیف	PROPN;NOM;SG;3	N;SG
+geceler	شبا	gece	شبا	N;NOM;PL;3	N;SG
+geceler	شب	gece	شب	N;NOM;PL;3	N;SG
+geceler	شبی	gece	شب	N;NOM;PL;3	N;SG
+geceler	شب	gece	شب	N;NOM;PL;3	N;SG
+geceler	شبانه	gece	شبانه	N;NOM;PL;3	ADV
+kuyu	ولز	kuyu	ولز		N;SG
+tercüman	translator	tercüman	translator		N;SG
+tercüman	مترجم	tercüman	مترجم		N;SG
+tercüman	مترجم	tercüman	مترجم		N;SG
+tercüman	مفسر	tercüman	مفسر		N;SG
+dylan	دیلان	dylan	دیلان		N;SG
+dylan	دیلن	dylan	دیلن		N;SG
+yetkililer	مسئولین	yetkili	مسئولین	ADJ;NOM;PL;3	N;PL
+yetkililer	مقامات	yetkili	مقام	ADJ;NOM;PL;3	N;PL
+yetkililer	مسئولان	yetkili	مسئول	ADJ;NOM;PL;3	N;PL
+yetkililer	افسران	yetkili	افسر	ADJ;NOM;PL;3	N;PL
+yetkililer	مقامات	yetkili	مقام	ADJ;NOM;PL;3	N;PL
+aletler	ابزار	alet	ابزار	N;NOM;PL;3	N;SG
+konsept	مفهومی	konsept	مفهوم		N;SG
+konsept	مفهوم	konsept	مفهوم		N;SG
+bochum	بوخوم	boch	بوخوم	PROPN;NOM;SG;3	N;SG
+guillaume	گیوم	guillaume	گیوم	ADV	N;SG
+krasnodar	کراسنودار	krasnodar	کراسنودار	PROPN;NOM;SG;3	N;SG
+doğuştan	متولد	doğuş	متولد	N;AT+ABL;SG;3	ADJ
+neptün	نپتون	neptün	None		N;SG
+asa	آسا	asa	آسا		N;SG
+asa	کارمندان	asa	کارمند		N;PL
+asa	ستاد	asa	ستاد		N;SG
+asa	عصای	asa	عصا		N;SG
+amour	amour	amour	amour		N;SG
+école	école	école	école		N;SG
+olympia	olympia	olympia	olympia	PROPN;NOM;SG;3	N;SG
+olympia	المپیا	olympia	المپیا	PROPN;NOM;SG;3	N;SG
+zambiya	زامبیا	zambi	زامبیا	PROPN;NOM;SG;3	N;SG
+değişebilir	تغییرپذیر	değiş	تغییرپذیر	V;IPFV;POT;SG;3;POS	N;SG
+sant	سانت	sant	سانت#سان	PROPN;NOM;SG;3	N;SG
+ninja	نینجا	ninja	نینجا		N;SG
+ninja	نینجای	ninja	نینجا		N;SG
+als	als	als	als		N;SG
+alfredo	آلفردو	alfret	آلفردو		N;SG
+coca	کوکا	coca	کوکا		N;SG
+yönleri	دیدگاه	yön	دیدگاه	N;NOM;PL;3	N;SG
+yanan	سوزاندن	yan	None		N;SG
+yanan	سوختن	yan	None		N;SG
+eklem	مفصل	eklem	مفصل		N;SG
+enrique	انریکه	enriş	انریکه	PROPN;NOM;SG;3	N;SG
+kabil	کابل	kabil	کابل		N;SG
+kabil	قابیل	kabil	قابیل		N;SG
+hikâyeler	داستان	hikuye	داستان	N;NOM;PL;3	N;SG
+neşe	مسرت	neş	مسرت		N;SG
+neşe	شادی	neş	شادی		N;SG
+neşe	جوی	neş	جو		N;SG
+neşe	شادمانی	neş	شادمانی		N;SG
+neşe	خوشی	neş	None		N;SG
+kireç	آهک	kireç	آهک		N;SG
+kireç	لایم	kireç	لایم		N;SG
+andrews	اندروز	andrews	اندروز	PROPN;NOM;SG;3	N;SG
+rakipleri	رقیب	rakip	رقیب	N;ACC;PL;3	N;SG
+asma	اسما	as	اسما		N;SG
+zehra	zahra	zehra	zahra		N;SG
+zehra	زهرا	zehra	زهرا		N;SG
+hayırlı	مبارک	hayırlı	مبارک		N;SG
+düşme	سقوط	düş	سقوط		N;SG
+düşme	پاییز	düş	پاییز		N;SG
+düşme	fall	düş	fall		N;SG
+düşme	افتادن	düş	افتادن		N;SG
+besni	بسنی	besin	بسنی	PROPN;NOM;SG;3	N;SG
+oniki	دوازده	oniki	دوازده		NUM
+uzmanlar	متخصصین	uzman	متخصصین	ADJ;NOM;PL;3	N;PL
+uzmanlar	متخصصان	uzman	متخصص	ADJ;NOM;PL;3	N;PL
+uzmanlar	متخصصین	uzman	متخصصین	ADJ;NOM;PL;3	N;PL
+uzmanlar	کارشناسان	uzman	کارشناس	ADJ;NOM;PL;3	N;PL
+hertha	هرتا	hertha	هرتا		N;SG
+hükümdarlık	حکمرانی	hükümdarlık	حکمرانی	N;NOM;SG;3	N;PL
+yurtiçi	اهلی	yurtiçi	اهلی		N;SG
+portre	طولی	portre	طولی		N;SG
+portre	پرتره	portre	پرتره		ADJ;CMPR
+kanıtı	برهان	kanıt	برهان		N;SG
+kanıtı	اثبات	kanıt	اثبات		N;SG
+kanıtı	مدرک	kanıt	مدرک		N;SG
+darius	داریوش	darius	داریوش		N;SG
+genişlik	عرض	genişlik	عرض		N;SG
+karpuz	خربزه	karpuz	خربزه		N;SG
+karpuz	هندوانه	karpuz	هندوانه		N;SG
+mama	mama	mama	mama		N;SG
+mama	ماما	mama	ماما		N;SG
+mama	فرمول	mama	None		N;SG
+basitçe	سادگی	basitçe	سادگی		N;SG
+basitçe	ساده	basitçe	ساده		ADJ
+palmer	پالمر	palmer	پالمر	PROPN;NOM;SG;3	N;SG
+colo	کولو	colo	کولو		N;SG
+sikke	سکه	sikke	سکه		N;SG
+hırsız	دزدان	hırsız	دزد		N;PL
+hırsız	دزدها	hırsız	دزد		N;PL
+hırsız	دزد	hırsız	دزد		N;SG
+hırsız	دزده	hırsız	دزد		N;SG
+hırsız	سارق	hırsız	None		N;SG
+hırsız	دزد	hırsız	دزد		N;SG
+imalat	تولید	imalat	تولید		N;SG
+imalat	تولید	imalat	تولید		N;SG
+imalat	ساخت	imalat	ساخت		N;SG
+imalat	تولیدی	imalat	تولیدی		N;SG
+korunmuş	پایسته	korun	پایسته	V;PFV;NFH;IND;POS;PST;V.PTCP	N;SG
+korunmuş	محفوظ	korun	None	V;PFV;NFH;IND;POS;PST;V.PTCP	ADJ
+korunmuş	محفوظ	korun	None	V;PFV;NFH;IND;POS;PST;V.PTCP	ADJ
+çayır	پریری	çayır	پریری		N;SG
+çayır	علفزار	çayır	علفزار		N;SG
+çayır	چمنزار	çayır	چمنزار		N;SG
+joy	مسرت	joy	مسرت		N;SG
+joy	شادی	joy	شادی		N;SG
+joy	جوی	joy	جو		N;SG
+joy	شادمانی	joy	شادمانی		N;SG
+joy	خوشی	joy	None		N;SG
+krallar	کینگز	kral	کینگز	N;NOM;PL;3	N;SG
+beth	بت	beth	بت		N;SG
+beth	بث	beth	بث		N;SG
+doktorlar	دکترای	doktor	دکترای	N;NOM;PL;3	N;SG
+doktorlar	دکترا	doktor	دکترا	N;NOM;PL;3	N;SG
+yün	پشم	yün	پشم		N;SG
+kenny	کنی	kenny	کرد#کن		V;SBJV;SG;2;PRS
+bellmare	b	bellmare	b		N;SG
+konuşmalar	مکالمات	konuş	مکالمه	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;PL
+joachim	یواخیم	joachim	None		N;SG
+güneşi	سان	güneş	سان	N;NOM;SG;3	
+shimizu	شیمیزو	shi	شیمیزو	NUM;ACC;SG;3	N;SG
+diane	دایان	diane	دایان		N;SG
+imagesize	imagesize	images	imagesize		N;SG
+pound	پوند	pound	پوند		N;SG
+nano	نانو	nano	نانو		N;SG
+kimyager	شیمیدان	kimyager	شیمید		N;SG
+midilli	پونی	midilli	پونی		N;SG
+midilli	پونی	midilli	پونی		N;SG
+midilli	پانی	midilli	پانی		N;SG
+harbor	بندرگاه	harbor	بندرگاه	PROPN;NOM;SG;3	N;SG
+harbor	بندر	harbor	بندر	PROPN;NOM;SG;3	N;SG
+büyülü	جادویی	büyül	جادویی		N;SG
+büyülü	جادو	büyül	None		N;SG
+büyülü	سحر	büyül	سحر		N;SG
+büyülü	جادوی	büyül	جادوی		N;SG
+büyülü	جادویی	büyül	جادویی		N;SG
+kalıyor	موندن	kal	موندن	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+kalıyor	ماندن	kal	ماندن	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+kalıyor	اقامت	kal	اقامت	V;PROG;IND;SG;3;POS;INFM;PRS	N;SG
+oval	بیضی	oval	بیض		N;SG
+inka	اینکا	inka	اینکا		N;SG
+mallorca	مایورکا	mallorca	مایورکا	PROPN;NOM;SG;3	N;SG
+teleskop	تلسکوپهای	teleskop	تلسکوپ	N;NOM;SG;3	N;PL
+coupe	کوپه	coupe	کوپه		N;SG
+şekilli	شکل	şekilli	شکل		N;SG
+yahoo	یاهو	yahoo	یاهو		N;SG
+saatleri	ساعت	saat	ساعت	N;ACC;PL;3	N;SG
+loire	لوآر	loire	لوآر	PROPN;NOM;SG;3	N;SG
+harem	حرمسرا	harem	حرمسرا		N;SG
+gerald	جرالد	gerald	جرالد		N;SG
+sandal	صندل	sandal	صندل		N;SG
+sandal	قایقرانی	sandal	قایقرانی		N;SG
+sandal	قایق	sandal	None		N;SG
+sandal	کشتی	sandal	کشتی		N;SG
+çekiç	همر	çekiç	همر		N;SG
+çekiç	چکشی	çekiç	چکش		N;SG
+çekiç	چکش	çekiç	چکش		N;SG
+çekiç	پتک	çekiç	پتک		N;SG
+çizer	تصویرگر	çizer	تصویرگر		N;SG
+kant	کانت	kant	کانت#کان		N;SG
+verin	بده	ver	داد#ده	V;PFV;IMP;PL;2;POS;PRS	V;IMP;SG;2
+papua	پاپوآ	papua	پاپوآ	PROPN;NOM;SG;3	N;SG
+nikaragua	نیکاراگوئه	nikarag	نیکاراگوئه	PROPN;NOM;SG;3	N;SG
+boca	بوکا	boca	None		N;SG
+benzerlikler	شباهت	benzerlik	شباهت	N;NOM;PL;3	N;SG
+benzerlikler	تشابه	benzerlik	تشابه	N;NOM;PL;3	N;SG
+benzerlikler	شباهت	benzerlik	شباهت	N;NOM;PL;3	N;SG
+yenilikçi	مبتکرانه	yenilikçi	مبتکرانه	N;NOM;SG;3	ADV
+şebeke	توری	şebek	توری		N;SG
+şebeke	گرید	şebek	گرفت#گرد		N;SG
+şebeke	شبکه	şebek	شبکه		N;SG
+pokémon	پوکمون	pokémon	پوکمون		N;SG
+irving	ایروینگ	irving	ایروینگ	PROPN;NOM;SG;3	N;SG
+susuz	تشنه	susuz	تشنه		ADJ
+badem	بادام	badem	بادام		N;SG
+basamak	گام	basamak	گام		N;SG
+basamak	مرحله	basamak	مرحله		N;SG
+basamak	قدم	basamak	قدم		N;SG
+basamak	گامهای	basamak	گام		N;PL
+scalemajor	scalemajor	scalema	scalemajor		N;SG
+salgın	شیوع	salgın	شیوع		N;SG
+salgın	طاعون	salgın	طاعون		N;SG
+tüylü	پشمالو	tüylü	پشمالو		N;SG
+tüylü	پشمالو	tüylü	پشمالو		N;SG
+tüylü	خز	tüylü	خز		N;SG
+tüylü	درشکه	tüylü	درشکه		N;SG
+tüylü	فازی	tüylü	فازی		N;SG
+tüylü	نامشخص	tüylü	نامشخص		N;SG
+tüylü	مبهم	tüylü	مبهم		ADJ
+alta	التا	alta	التا		N;SG
+alta	آلتا	alta	آلتا		N;SG
+kyle	کایل	kyle	کایل		N;SG
+logan	لوگان	logan	لوگان	PROPN;NOM;SG;3	N;SG
+logan	لوگن	logan	لوگن	PROPN;NOM;SG;3	N;SG
+giysi	همسفر	giy	همسفر		N;SG
+giysi	لباس	giy	لباس		N;SG
+giysi	پوشاک	giy	None		N;SG
+jun	jun	jun	jun		N;SG
+jun	ژون	jun	ژون		N;SG
+yuki	یوکی	yuki	یوک		N;SG
+woods	وودز	woods	وودز		N;SG
+orton	اورتن	orton	اورتن		N;SG
+luca	لوکا	lica	لوکا		N;SG
+nash	نش	nash	نش		N;SG
+jenny	جنی	jenny	جنی		N;SG
+airways	ایرویز	airways	None		N;SG
+veba	طاعون	veba	طاعون		N;SG
+terme	ترمه	terme	ترمه	PROPN;NOM;SG;3	N;SG
+kopyala	کپی	kopyal	None	V;PFV;IMP;SG;2;POS;PRS	N;SG
+kopyala	رونوشت	kopyal	رونوشت	V;PFV;IMP;SG;2;POS;PRS	N;SG
+erdemli	متقیان	erdemli	متقی		N;PL
+erdemli	شایسته	erdemli	شایسته		ADJ
+erdemli	صالحان	erdemli	صالح		N;PL
+erdemli	نیکان	erdemli	نیک		N;SG
+erdemli	اردملی	erdemli	اردملی		N;SG
+erdemli	نیکوکاران	erdemli	None		N;PL
+vadeli	آتی	vadeli	آتی		ADJ
+fiber	فیبر	fiber	None		N;SG
+fiber	فایبر	fiber	فایبر		N;SG
+fiber	الیاف	fiber	الیاف		N;SG
+cent	سنت	cent	سنت		N;SG
+shakira	شکیرا	shakira	شکیرا		N;SG
+indirildi	بارگیری	in	بارگیری	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+bölünme	تقسیم	böl	تقسیم	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+bölünme	واحد	böl	واحد	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+boşandı	مطلقه	boşa	مطلقه	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+boşandı	طلاق	boşa	طلاق	V;PFV;IND;SG;3;POS;PST;PASS	N;SG
+teşkilat	سازمان	teşkilat	سازمان		N;SG
+teşkilat	نمایندگی	teşkilat	نمایندگی		N;SG
+teşkilat	آژانس	teşkilat	آژانس		N;SG
+qui	قویی	qui	قویی		N;SG
+qui	کوی	qui	کوی		N;SG
+columbus	کلمبوس	columbus	کلمبوس	PROPN;NOM;SG;3	N;SG
+ubuntu	اوبونتو	ubuntu	اوبونتو		N;SG
+dindar	مذهبی	dindar	مذهبی		ADJ
+dindar	دینی	dindar	دین		N;SG
+dindar	دیندار	dindar	دیندار		N;SG
+nxt	nxt	nxt	nxt		N;SG
+kilogram	کیلوگرم	kilogram	کیلوگرم		N;SG
+yıkıcı	برانداز	yıkıcı	برانداز		N;SG
+yıkıcı	مخرب	yıkıcı	None		N;SG
+simge	نماد	simge	نماد		N;SG
+simge	شمایل	simge	شمایل		N;SG
+simge	نماد	simge	نماد		N;SG
+sokaklar	خیابان	sokak	خیابان	N;NOM;PL;3	N;SG
+julio	جولیو	julio	جولیو		N;SG
+julio	خولیو	julio	خولیو		N;SG
+ayrıntı	جزئیات	ayrıntı	جزئی		N;PL
+ayrıntı	جزییات	ayrıntı	جزیی		N;PL
+ayrıntı	جزئیات	ayrıntı	جزئی		N;PL
+montaj	مجلس	montaj	مجلس		N;SG
+montaj	مجمع	montaj	مجمع		N;SG
+montaj	محفل	montaj	محفل		N;SG
+montaj	تدوین	montaj	تدوین		N;SG
+montaj	ویرایش	montaj	ویرایش		N;SG
+montaj	نصب	montaj	نصب		N;SG
+montaj	مونتاژ	montaj	None		N;SG
+portsmouth	پورتسموث	portsmouth	پورتسموث	PROPN;NOM;SG;3	N;SG
+öğretmenler	معلم	öğretmen	معلم	N;NOM;PL;3	N;SG
+öğretmenler	مدرس	öğretmen	مدرس	N;NOM;PL;3	N;SG
+boşa	اتلاف	boşa	None		N;SG
+boşa	زباله	boşa	زباله		N;SG
+boşa	تلف	boşa	None		N;SG
+boşa	اسراف	boşa	None		N;SG
+kibar	ملایم	kibar	None		N;SG
+kibar	نرم	kibar	نرم		N;SG
+kibar	مهربان	kibar	مهربان		ADJ
+kibar	مودب	kibar	None		N;SG
+kibar	مودبانه	kibar	مودبانه		ADV
+kibar	مؤدب	kibar	مؤدب		ADJ
+kibar	مؤدبانه	kibar	مؤدبانه		ADV
+griffin	گریفین	griffin	گریفین		N;SG
+detay	جزئیات	detay	جزئی		N;PL
+detay	جزییات	detay	جزیی		N;PL
+detay	جزئیات	detay	جزئی		N;PL
+konaklama	سازش	konakla	سازش	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+konaklama	پذیرایی	konakla	پذیرایی	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+mavericks	ماوریکس	mavericks	ماوریکس		N;SG
+bratislava	براتیسلاوا	bratislava	براتیسلاوا	PROPN;NOM;SG;3	N;SG
+yapıştır	چسباندن	yapış	چسباندن	V;PFV;IMP;SG;2;POS;PRS;CAUS	N;SG
+yapıştır	خمیر	yapış	خمیر	V;PFV;IMP;SG;2;POS;PRS;CAUS	N;SG
+koleksiyon	کلکسیونی	koleksiyon	کلکسیونی		N;SG
+koleksiyon	مجموعۀ	koleksiyon	مجموعۀ		N;SG
+koleksiyon	مجموعه	koleksiyon	مجموعه		N;SG
+nedenler	موجب	neden	موجب	N;NOM;PL;3	N;SG
+yıkım	براندازی	yık	براندازی		N;SG
+yıkım	تخریب	yık	تخریب		N;SG
+yıkım	تخریب	yık	تخریب		N;SG
+yıkım	هلاکت	yık	هلاکت		N;SG
+yıkım	نابودی	yık	نابودی		N;SG
+yıkım	خرابی	yık	خرابی		N;SG
+yıkım	ویرانی	yık	None		N;SG
+düş	دریم	düş	دریم		N;SG
+düş	خواب	düş	خواب		N;SG
+düş	رویا	düş	رویا		N;SG
+düş	رؤیا	düş	رؤیا		N;SG
+düş	رویای	düş	رویا		N;SG
+düş	رؤیای	düş	رؤیا		N;SG
+tabiat	سرشت	tabiat	None		N;SG
+tabiat	طبیعت	tabiat	طبیعت		N;SG
+göksel	آسمانی	göksel	آسمانی		N;SG
+tepeleri	هیلز	tepe	هیلز	N;ACC;PL;3	N;SG
+homojen	همگن	homojen	همگن		N;SG
+eylemler	کنش	eylem	None	N;NOM;PL;3	N;SG
+yaman	یمان	yaman	یمان		V;PL;1;PRS
+dominique	دومنیک	domin	دومنیک		N;SG
+plato	افلاطون	plato	افلاطون		N;SG
+talan	غارت	talan	غارت		N;SG
+pera	پرا	pera	پرا		N;SG
+timeaxis	timeaxis	timeaxis	timeaxis		N;SG
+falls	آبشار	falls	آبشار	PROPN;NOM;SG;3	N;SG
+falls	فالز	falls	فالز	PROPN;NOM;SG;3	N;SG
+monroe	مونرو	monroe	مونرو	PROPN;NOM;SG;3	N;SG
+melo	ملو	melo	ملو		N;SG
+melo	میلو	melo	میلو		N;SG
+verona	ورونا	veron	ورونا	PROPN;NOM;SG;3	N;SG
+cox	کاکس	cox	None		N;SG
+denemeler	آزمونهای	dene	آزمون		N;PL
+denemeler	تلاشهای	dene	تلاش		N;PL
+denemeler	تلاشها	dene	تلاش		N;PL
+denemeler	انشاء	dene	انشاء		N;SG
+denemeler	مقالات	dene	مقاله		N;PL
+tamamlanması	تکمیل	tamamla	تکمیل	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;SG
+yirminci	بیستمین	yirminci	بیستمین		NUM
+mukaddes	مقدس	mukaddes	مقدس		ADJ
+thor	تور	thor	تور		N;SG
+thor	ثور	thor	ثور		N;SG
+övgü	خراج	övgü	خراج		N;SG
+övgü	سپاس	övgü	سپاس		N;SG
+övgü	حمد	övgü	حمد		N;SG
+övgü	ستایش	övgü	ستایش		N;SG
+övgü	غزل	övgü	غزل		N;SG
+yamagata	یاماگاتا	yamagat	یاماگاتا	PROPN;NOM;SG;3	N;SG
+albion	البینو	albion	البینو	PROPN;NOM;SG;3	N;SG
+albion	آلبیون	albion	آلبیون	PROPN;NOM;SG;3	N;SG
+bilmek	دانستن	bil	None	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;SG
+isyancı	شورشی	isyancı	شورشی		N;SG
+isyancı	شورشی	isyancı	شورشی		N;SG
+isyancı	یاغی	isyancı	یاغ		N;SG
+isyancı	طغیان	isyancı	طغیان		N;SG
+isyancı	شورشی	isyancı	شورشی		N;SG
+isyancı	یاغی	isyancı	یاغ		N;SG
+prizren	پریزرن	prizren	پریزرن		N;SG
+sufi	صوفی	suf	صوفی		N;SG
+ayaz	ایاز	ayaz	از		N;SG
+aspx	aspx	aspx	aspx		N;SG
+explorer	کاوشگر	explorer	کاوشگر		N;SG
+explorer	اکسپلورر	explorer	اکسپلورر		N;SG
+kartları	کارتها	kart	کارت	ADJ;ACC;PL;3	N;PL
+kartları	ورق	kart	ورق	ADJ;ACC;PL;3	N;SG
+kartları	کارتهای	kart	کارت	ADJ;ACC;PL;3	N;PL
+kocaman	بیگ	kocaman	بیگ		N;SG
+kocaman	b	kocaman	b		N;SG
+kocaman	بزرگ	kocaman	بزرگ		ADJ
+kocaman	بزرگی	kocaman	بزرگی		N;SG
+kocaman	بزرگی	kocaman	بزرگی		N;SG
+feodal	فئودالی	feodal	None		N;SG
+açıklayıcı	اظهاری	açıklayıcı	اظهاری		N;SG
+açıklayıcı	شرحی	açıklayıcı	شرحی		N;SG
+açıklayıcı	توصیفی	açıklayıcı	توصیفی		N;SG
+tapu	زحمات	tapu	زحمت		N;PL
+mobilya	اثاث	mobilya	اثاث	N;NOM;SG;3	N;PL
+mobilya	اثاثیه	mobilya	اثاثیه	N;NOM;SG;3	N;PL
+bilerek	عمدا	bil	None	V;PFV;IND;POS;PRS;V.CVB	ADV
+şunlar	اینها	şu	این		PRO;PL
+karşılaştırmalı	تطبیقی	karşılaş	تطبیقی	V;PFV;IMP;SG;2;POS;PRS;CAUS	N;SG

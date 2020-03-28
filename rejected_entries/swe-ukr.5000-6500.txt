@@ -1,0 +1,2060 @@
+patienter	пацієнтам	patient	пацієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;DAT;MASC;PL
+patienter	пацієнтів	patient	пацієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+palme	пальме	palme	пальме	PROPN;NOM	N;INAN;NOM;MASC;SG
+erfarenheter	обставинах	erfarenhet	обставина	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;FEM;PL
+erfarenheter	враження	erfarenhet	враження	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+erfarenheter	досвід	erfarenhet	досвід	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+administratörer	адміністраторів	administratör	адміністратор	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+rat	rattus	rat	rattus	N;NOM;INDF;MASC+FEM;SG	
+hörnet	кутку	hörn	куток	N;NOM;DEF;NEUT;SG	N;INAN;DAT;MASC;SG
+hörnet	куті	hörn	кут	N;NOM;DEF;NEUT;SG	N;INAN;DAT;MASC;SG
+delong	делонг	delong	делонг	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+granada	ґранада	granad	ґранада	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+banor	рядками	bana	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;MASC;PL
+banor	рядків	bana	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+banor	лініями	bana	лінія	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;PL
+haag	гаазі	haag	гааз	PROPN;NOM	PROPN;INAN;DAT;MASC;SG
+haag	гаага	haag	гаага	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+tyngre	єгора	tung	єгора	ADJ;NOM;CMPR	PROPN;ANIM;NOM;MASC;SG
+salta	солі	salta	сіль	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+olga	ольга	olg	ольга	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+willy	віллі	willy	віллі	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+amiral	адмірал	amiral	адмірал	PROPN;NOM	N;ANIM;NOM;MASC;SG
+smala	вузький	smal	вузький	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+march	березні	march	березень	N;NOM;INDF;MASC+FEM;SG	ADV
+march	березня	march	березень	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+demo	демо	demo	дема	N;NOM;INDF;MASC+FEM;SG	
+mathias	матіас	mathias	мати	PROPN;NOM	N;ANIM;NOM;MASC;SG
+bristol	bristol	bristol	bristol	PROPN;NOM	
+lägg	додаю	lägg	додати	V;IMP;FIN;ACT	V;IPFV;IND;SG;1;PRS;FIN
+lägg	ставимо	lägg	ставити	V;IMP;FIN;ACT	V;IPFV;IND;PL;1;PRS;FIN
+reticulata	сітчасті	reticulat	сітчасть	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;NOM;PL
+svante	сванте	svante	свант	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+riktade	цільовий	riktad	цільовий	ADJ;NOM;PL;PST;V.PTCP	ADJ;NOM;MASC;SG
+hände	сталося	hände	статися	V;IMP;FIN;ACT	V;PFV;NEUT;IND;SG;PST;FIN
+hände	відбулося	hände	відбутися	V;IMP;FIN;ACT	V;PFV;NEUT;IND;SG;PST;FIN
+hände	трапилося	hände	трапитися	V;IMP;FIN;ACT	V;PFV;NEUT;IND;SG;PST;FIN
+hände	трапилось	hände	трапитися	V;IMP;FIN;ACT	V;PFV;NEUT;IND;SG;PST;FIN
+flyter	запас	flyta	запас	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+flyter	резерв	flyta	резерв	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+monroe	монро	monroe	монро	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+macdonald	макдональд	macdonald	макдональд	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sinensis	sinensis	sinensis	sinensis	N;NOM;INDF;MASC+FEM;SG	
+limenitis	limenitis	limenitis	limenitis	N;NOM;INDF;MASC+FEM;SG	
+clements	клементс	clement	клементс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+ansluter	підключення	ansluta	підключення	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+besegra	поразка	besegra	поразка	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+besegra	поразки	besegra	поразка	V;IMP;FIN;ACT	N;INAN;NOM;FEM;PL
+guenée	guenée	guenee	guenée	N;NOM;INDF;MASC+FEM;SG	
+morrison	моррісон	morrison	моррісон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+sällsynta	рідкісна	sällsynta	рідкісний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+sällsynta	рідкісний	sällsynta	рідкісний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+sällsynta	рідкість	sällsynta	рідкість	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+sällsynta	рідкісне	sällsynta	рідкісний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+tabell	таблиці	tabell	таблиця	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+utbyte	бірж	utbyte	бірж	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;PL
+fleming	флемінг	fleming	флемінг	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+malin	малін	malin	малін	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+arkitekter	архітекторів	arkitekt	архітектор	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+pristimantis	pristimantis	pristimantis	pristimantis	ADJ;NOM;INDF;MASC+FEM;SG	
+java	java	jav	java	N;NOM;INDF;MASC+FEM;SG	
+java	ява	jav	ява	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+mördad	вбив	mörda	вбити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+mördad	вбили	mörda	вбити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ovanliga	незвичайний	ovanlig	незвичайний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+ovanliga	незвичний	ovanlig	незвичний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+trädgården	садку	trädgård	садка	N;NOM;DEF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+stycke	фігуру	stycke	фігура	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+bass	бас	bass	бас	N	PROPN;ANIM;NOM;MASC;SG
+bass	басс	bass	басс	N	
+grönt	зелені	grön	зелений	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+holländska	нідерландська	holländsk	нідерландський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+holländska	голландська	holländsk	голландський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+präster	духовенство	präst	духовенство	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+smal	вузькі	smal	вузький	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+smal	slim	smal	slim	ADJ;NOM;INDF;MASC+FEM;SG	
+smal	тонкі	smal	тонкий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+columbus	колумб	columbus	колумб	PROPN;NOM	N;ANIM;NOM;MASC;SG
+juris	юріс	juris	юріс	N;NOM;INDF;MASC+FEM;SG	
+brandt	брандт	brand	брандт	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+caesar	цезар	caes	цезар	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+pommern	померанія	pommer	померанія	PROPN;NOM	N;INAN;NOM;NEUT;SG
+jessica	джессіка	jessic	джессіка	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+hjärnan	мозку	hjärna	мозок	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+grupperna	груп	grupp	група	N;NOM;DEF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+bränsle	пальне	bränsle	пальний	N;NOM;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+sänder	відсилання	sända	відсилання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+sänder	надсилання	sända	надсилання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+sänder	передача	sända	передача	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+sänder	ефіри	sända	ефір	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+sänder	трансляція	sända	трансляція	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+fiktiv	уявному	fiktiv	уявний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;DAT;MASC;SG
+fiktiv	фантастика	fiktiv	фантастика	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;SG
+fiktiv	штучно	fiktiv	штучно	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+kris	кріс	kris	кріс	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+kritisk	критичні	kritisk	критичний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+avslutad	завершено	avsluta	завершити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+avslutad	завершені	avsluta	завершений	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+avslutad	виконано	avsluta	виконати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+jerevan	єреван	jerevan	єреван	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+mata	mata	mata	mata	V;IMP;FIN;ACT	
+emilio	еміліо	emilio	еміліо	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+low	низький	low	низький	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+low	низька	low	низький	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+low	low	low	low	N;NOM;INDF;MASC+FEM;SG	
+cordillera	кордильєра	cordillera	кордильєра	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+presenteras	представили	presentera	представити	V;IND;PRS;FIN;PASS	V;PFV;IND;PL;PST;FIN
+presenteras	презентували	presentera	презентувати	V;IND;PRS;FIN;PASS	V;IPFV;IND;PL;PST;FIN
+presenteras	представлена	presentera	представлений	V;IND;PRS;FIN;PASS	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+presenteras	презентувала	presentera	презентувати	V;IND;PRS;FIN;PASS	V;IPFV;FEM;IND;SG;PST;FIN
+schumann	шуман	schumann	шуман	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+stund	мить	stund	мить	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+namibia	намібія	namibi	намібія	PROPN;NOM	N;INAN;NOM;FEM;SG
+chefen	головний	chef	головний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+chefen	boss	chef	boss	N;NOM;DEF;MASC+FEM;SG	
+chefen	босс	chef	босс	N;NOM;DEF;MASC+FEM;SG	
+fara	небезпеки	fara	небезпека	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+fara	небезпеці	fara	небезпека	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;FEM;SG
+ríos	ріос	ríos	ріос	PROPN;NOM	
+romarna	роман	rom	роман	N;NOM;DEF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+romarna	римлянам	rom	римлянин	N;NOM;DEF;MASC+FEM;PL	N;ANIM;DAT;MASC;PL
+varning	попередити	varning	попередити	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+passa	підбір	passa	підбір	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+passa	підійде	passa	підійти	V;IMP;FIN;ACT	V;PFV;IND;SG;3;FUT;FIN
+passa	підходить	passa	підходити	V;IMP;FIN;ACT	V;IPFV;IND;SG;3;PRS;FIN
+flög	прилетіли	flög	прилетіти	V;IMP;FIN;ACT	V;PFV;IND;PL;PST;FIN
+flög	пролетів	flög	пролетіти	V;IMP;FIN;ACT	V;PFV;MASC;IND;SG;PST;FIN
+flög	полетіли	flög	полетіти	V;IMP;FIN;ACT	V;PFV;IND;PL;PST;FIN
+flög	летів	flög	летіти	V;IMP;FIN;ACT	V;IPFV;MASC;IND;SG;PST;FIN
+flög	прилетіла	flög	прилетіти	V;IMP;FIN;ACT	V;PFV;FEM;IND;SG;PST;FIN
+medio	medio	medio	medio	N;NOM;INDF;MASC+FEM;SG	
+mia	mia	ja	mia	PROPN;NOM	
+mia	мія	ja	мія	PROPN;NOM	N;ANIM;NOM;FEM;SG
+mia	безвісти	ja	безвісти	PROPN;NOM	N;ANIM;NOM;MASC;PL
+mia	міа	ja	міа	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+påverkade	чинив	påverka	чинити	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+påverkade	ураження	påverka	ураження	ADJ;NOM;PL;PST;V.PTCP	N;INAN;NOM;NEUT;SG
+vacker	прекрасні	vacker	прекрасний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+vacker	красиві	vacker	красивий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+bevarad	зберегла	bevara	зберегти	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+bevarad	зберігав	bevara	зберігати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+administration	адміністрації	administration	адміністрація	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+monster	монстри	monster	монстр	N;NOM;INDF;NEUT;SG	N;ANIM;NOM;MASC;PL
+fastän	хоча	fastän	хоча	ADV	CONJ
+short	short	short	short	N;NOM;INDF;MASC+FEM;SG	
+short	короткий	short	короткий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+short	коротка	short	короткий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+short	скорочено	short	скорочити	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;0;FIN
+short	коротке	short	короткий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+short	короткі	short	короткий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+federala	федеральний	federal	федеральний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+federala	насамперед	federal	насамперед	ADJ;NOM;PL	ADV
+betong	бетонні	betong	бетонний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+julie	джулі	julie	джуль	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+derby	дербі	derby	дербий	N;NOM;INDF;NEUT;SG	PROPN;INAN;NOM;MASC;SG
+cornelius	корнелій	cornelius	корнелій	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+flickr	flickr	flick	flickr	N;NOM;INDF;MASC+FEM;SG	
+ahmed	ахмед	ahmed	ахмед	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+ahmed	ахмад	ahmed	ахмад	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+weir	вейр	weir	вейр	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+mott	мотт	mott	мотт	N;NOM;INDF;MASC+FEM;SG	
+adrar	адрар	adra	адрар	N;NOM;INDF;MASC+FEM;SG	
+inser	зрозумійте	inse	зрозуміти	V;IND;PRS;FIN;ACT	V;PFV;IMP;PL;2;FIN
+willow	верба	willow	верба	PROPN;NOM	N;INAN;NOM;FEM;SG
+angustifolia	вузьколиста	angustifoli	вузьколистий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+test	перевірити	test	перевірити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+test	test	test	test	N;NOM;INDF;NEUT;SG	
+test	перевірки	test	перевірка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+test	тести	test	тести	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+blockerad	заблоковано	blockera	заблокувати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+blockerad	заблокували	blockera	заблокувати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+blockerad	заблоковані	blockera	заблокований	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+léon	леон	léon	леон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+rosen	розен	ros	розний	N;NOM;DEF;MASC+FEM;SG	
+mälaren	меларен	mälare	меларен	N;NOM;DEF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+meriter	вчинок	merit	вчинка	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+statistiska	статистичних	statistisk	статистичний	ADJ;NOM;PL	ADJ;ACC;PL
+utförda	виступали	utföra	виступати	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;IND;PL;PST;FIN
+utförda	виступала	utföra	виступати	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;FEM;IND;SG;PST;FIN
+publicerat	опубліковано	publicerad	опубліковано	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+publicerat	опубліковані	publicerad	опублікований	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+publicerat	оприлюднено	publicerad	оприлюднити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+publicerat	опубліковано	publicerad	опубліковано	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+adolph	адольф	adolph	адольф	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+viking	вікінгів	viking	вікінг	N;NOM;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+tillväxt	росту	tillväxt	ростий	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+bildats	сформована	bilda	сформований	V;V.CVB;PASS	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+franco	франко	franco	франко	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+kemisk	хімічні	kemisk	хімічний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+museer	музеї	museer	музей	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+pekar	фокус	peka	фокус	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+landsväg	дорожні	landsväg	дорожній	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+landsväg	шосе	landsväg	шосе	N;NOM;INDF;MASC+FEM;SG	
+villosa	villosa	villos	villosa	N;NOM;INDF;MASC+FEM;SG	
+bros	bros	bros	bros	PROPN;NOM	
+fossil	пластові	fossil	пластовий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+skott	застрелив	skott	застрелити	N;NOM;INDF;NEUT;SG	V;PFV;MASC;IND;SG;PST;FIN
+skott	раунди	skott	раунда	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+skott	раундів	skott	раунд	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+skott	пострілів	skott	постріл	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+skott	постріли	skott	постріти	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+ändrar	зміна	ändra	зміна	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+torres	торрес	torres	торрес	PROPN;NOM	
+cold	холодні	cold	холодний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+cold	холодна	cold	холодний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+cold	холодно	cold	холодно	N;NOM;INDF;MASC+FEM;SG	ADV
+cold	холодний	cold	холодний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+pictures	картинки	pictures	картинка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+vuxen	дорослому	vuxen	дорослий	N;NOM;INDF;MASC+FEM;SG	ADJ;DAT;NEUT;SG
+vuxen	доросла	vuxen	дорости	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+vuxen	виріс	vuxen	виріс	N;NOM;INDF;MASC+FEM;SG	V;PFV;MASC;IND;SG;PST;FIN
+vuxen	дорослих	vuxen	дорослий	N;NOM;INDF;MASC+FEM;SG	ADJ;ACC;PL
+vuxen	доросла	vuxen	дорости	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+vuxen	дорослі	vuxen	дорослий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+vuxen	доросле	vuxen	дорослий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+vuxen	дорослий	vuxen	дорослий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+ciudad	сьюдад	ciuda	сьюдад	N;NOM;INDF;MASC+FEM;SG	
+blanche	blanche	blanche	blanche	N;NOM;INDF;MASC+FEM;SG	
+blanche	бланш	blanche	бланш	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+samlar	збір	samla	збір	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+samlar	збирання	samla	збирання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+heaven	heaven	heav	heaven	N;NOM;DEF;MASC+FEM;SG	
+heaven	небеса	heav	небес	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+heaven	небес	heav	небий	N;NOM;DEF;MASC+FEM;SG	
+heaven	небесне	heav	небесний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+eilema	eilema	eilem	eilema	V;IMP;FIN;ACT	
+efteråt	після	efteråt	після	ADV	ADP;GEN
+efteråt	обрядом	efteråt	обряд	ADV	N;INAN;INS;MASC;SG
+exil	вигнані	exil	вигнаний	N;NOM;INDF;MASC+FEM;SG	ADJ;PFV;NOM;PL;V.PTCP;PASS
+tillgångar	актив	tillgång	актив	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+konstnärlig	художні	konstnärlig	художній	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+konstnärlig	художнього	konstnärlig	художній	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;GEN;MASC;SG
+jiao	цзяо	jiao	цезь	N;NOM;INDF;MASC+FEM;SG	
+fastigheter	будівель	fastighet	будівля	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+fastigheter	властивість	fastighet	властивість	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+fastigheter	майна	fastighet	майна	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;SG
+fastigheter	власність	fastighet	власність	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+fastigheter	майно	fastighet	майно	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+rodríguez	родрігес	rodríguez	родрігес	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+myndigheten	правом	myndighet	право	N;NOM;DEF;MASC+FEM;SG	N;INAN;INS;MASC;SG
+handeln	комерційні	handel	комерційний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;PL
+handeln	комерційна	handel	комерційний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+handeln	комерційну	handel	комерційний	N;NOM;DEF;MASC+FEM;SG	ADJ;ACC;FEM;SG
+handeln	торгівлі	handel	торгівля	N;NOM;DEF;MASC+FEM;SG	N;INAN;ACC;FEM;PL
+owen	оуен	owen	оуен	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+anda	spirit	anda	spirit	N;NOM;INDF;MASC+FEM;SG	
+hjärtat	серцевий	hjärta	серцевий	N;NOM;DEF;NEUT;SG	ADJ;NOM;MASC;SG
+hjärtat	серцеві	hjärta	серцева	N;NOM;DEF;NEUT;SG	ADJ;NOM;PL
+psalm	псалми	psalm	псалма	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+kongressen	конгресу	kongress	конгрес	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+esperanza	есперанса	esperan	есперанс	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+berätta	розкажу	berätta	розказати	V;IMP;FIN;ACT	V;PFV;IND;SG;1;FUT;FIN
+individ	окремих	individ	окремий	N;NOM;INDF;MASC+FEM;SG	ADJ;GEN;PL
+individ	індивідуальна	individ	індивідуальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+individ	індивідуальні	individ	індивідуальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+individ	індивідуальне	individ	індивідуальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+individ	окремі	individ	окремий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+individ	індивідуальний	individ	індивідуальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+ansikte	обличчям	ansikte	обличчя	N;NOM;INDF;NEUT;SG	N;INAN;INS;NEUT;SG
+ansikte	face	ansikte	face	N;NOM;INDF;NEUT;SG	
+praia	прая	praia	прая	N;NOM;INDF;MASC+FEM;SG	
+spinosa	колюча	spinosa	колючий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+abel	абель	abel	абель	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+sous	су	sous	су	N;NOM;INDF;MASC+FEM;SG	
+hull	галл	hull	галл	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+neuquén	неукен	neuquén	неукно	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+sexuella	сексуальний	sexuell	сексуальний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+sexuella	сексуальної	sexuell	сексуальний	ADJ;NOM;PL	ADJ;GEN;FEM;SG
+sexuella	статевий	sexuell	статевий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+sexuella	сексуальне	sexuell	сексуальний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+hebreiska	єврейська	hebreisk	єврейський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+mit	mit	mit	mit	N;NOM;INDF;NEUT;SG	
+uppvisar	виставку	uppvisa	виставка	V;IND;PRS;FIN;ACT	N;INAN;ACC;FEM;SG
+uppvisar	експонат	uppvisa	експонат	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+uppvisar	експонатів	uppvisa	експонат	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;PL
+fotografier	photos	fotografi	photos	N;NOM;INDF;NEUT;PL	
+fotografier	фотографій	fotografi	фотографія	N;NOM;INDF;NEUT;PL	N;INAN;GEN;FEM;PL
+pittsburgh	піттсбург	pittsburgh	піттсбург	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+acceptera	приймаємо	acceptera	приймати	V;IMP;FIN;ACT	V;IPFV;IND;PL;1;PRS;FIN
+acceptera	приймаю	acceptera	приймати	V;IMP;FIN;ACT	V;IPFV;IND;SG;1;PRS;FIN
+gene	ген	gene	ген	PROPN;NOM	N;INAN;NOM;MASC;SG
+gene	джин	gene	джин	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+dragon	dragon	dragon	dragon	N;NOM;INDF;MASC+FEM;SG	
+sarawak	саравак	sarawak	саравак	PROPN;NOM	N;INAN;NOM;MASC;SG
+fläckar	плям	fläck	пляма	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+borlänge	бурленге	borlänge	бурленг	PROPN;NOM	
+vernon	вернон	vernon	вернон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+lucky	пощастило	lucky	пощастити	N;NOM;INDF;MASC+FEM;SG	V;PFV;NEUT;IND;SG;PST;FIN
+lucky	щасливим	lucky	щасливий	N;NOM;INDF;MASC+FEM;SG	ADJ;INS;NEUT;SG
+rossi	россі	rossi	россі	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+maranhão	мараньян	maranhão	мараньян	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+löst	вирішено	lösa	вирішити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+löst	недолік	lösa	недолік	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+löst	вирішено	lösa	вирішити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+löst	вирішили	lösa	вирішити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+löst	випустити	lösa	випустити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NFIN
+möts	знайомство	möta	знайомство	V;IND;PRS;FIN;PASS	N;INAN;NOM;NEUT;SG
+kula	рушниці	kula	рушниця	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+kula	кулю	kula	куля	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+kula	постріли	kula	постріти	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+kula	позначки	kula	позначка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+domen	речення	dom	речення	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;NEUT;PL
+baltimore	балтимор	baltimore	балтимор	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;PL;1;FUT;FIN
+alain	ален	alain	ален	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+olav	олав	olav	олати	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+puebla	puebla	puebel	puebla	PROPN;NOM	
+konstantin	костянтин	konstanti	костянтина	PROPN;NOM	N;ANIM;NOM;MASC;SG
+konstantin	костянтин	konstanti	костянтина	PROPN;NOM	N;ANIM;NOM;MASC;SG
+kopia	скопіюйте	kopia	скопіювати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IMP;PL;2;FIN
+kopia	скопіювати	kopia	скопіювати	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+kopia	копіювати	kopia	копіювати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;NFIN
+koppar	міді	koppa	міди	N;NOM;INDF;MASC+FEM;SG	
+koppar	чашки	koppa	чашка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+koppar	склянки	koppa	склянка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+koppar	cups	koppa	cups	N;NOM;INDF;MASC+FEM;SG	
+koppar	чашок	koppa	чашок	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;FEM;PL
+rice	рис	rice	риса	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;PL
+rice	рису	rice	риса	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+prata	поговоримо	prata	поговорити	V;IMP;FIN;ACT	V;PFV;IND;PL;1;FUT;FIN
+prata	розмова	prata	розмова	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+prata	talk	prata	talk	V;IMP;FIN;ACT	
+ringa	дзвінок	ringa	дзвінка	V;FIN;ACT	N;INAN;NOM;MASC;SG
+ringa	виклик	ringa	виклик	V;FIN;ACT	N;INAN;NOM;MASC;SG
+morning	morning	morning	morning	N;NOM;INDF;MASC+FEM;SG	
+morning	ранку	morning	ранок	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+morning	утро	morning	утро	N;NOM;INDF;MASC+FEM;SG	
+susan	сьюзен	susa	сьюзен	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+asa	аса	asa	аса	PROPN;NOM	
+statligt	стан	statlig	стан	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+statligt	держава	statlig	держава	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;SG
+nasa	наса	nasa	нас	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+nasa	nasa	nasa	nasa	PROPN;NOM	
+brittiskt	британці	brittisk	британець	ADJ;NOM;INDF;NEUT;SG	N;ANIM;NOM;MASC;PL
+brittiskt	британські	brittisk	британський	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+brittiskt	british	brittisk	british	ADJ;NOM;INDF;NEUT;SG	
+brittiskt	англієць	brittisk	англієць	ADJ;NOM;INDF;NEUT;SG	N;ANIM;NOM;MASC;SG
+cher	шер	cher	шер	V;IMP;FIN;ACT	
+individuellt	окремих	individuell	окремий	ADV	ADJ;GEN;PL
+individuellt	індивідуальна	individuell	індивідуальний	ADV	ADJ;NOM;FEM;SG
+individuellt	індивідуальні	individuell	індивідуальний	ADV	ADJ;NOM;PL
+individuellt	індивідуальне	individuell	індивідуальний	ADV	ADJ;NOM;NEUT;SG
+individuellt	окремі	individuell	окремий	ADV	ADJ;NOM;PL
+individuellt	індивідуальний	individuell	індивідуальний	ADV	ADJ;NOM;MASC;SG
+biologiska	біологічних	biologisk	біологічний	ADJ;NOM;PL	ADJ;ACC;PL
+biologiska	біологічна	biologisk	біологічний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+hyde	гайд	hyde	гайд	PROPN;NOM	
+skickas	надіслані	skicka	надісланий	V;IND;PRS;FIN;PASS	ADJ;PFV;NOM;PL;V.PTCP;PASS
+snokar	snoop	snoka	snoop	V;IND;PRS;FIN;ACT	
+marx	маркс	marx	маркс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+marx	маркса	marx	маркс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+christine	крістін	christine	крістін	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+christine	крістіна	christine	крістін	PROPN;NOM	N;ANIM;NOM;FEM;SG
+christine	христина	christine	христина	PROPN;NOM	N;ANIM;NOM;FEM;SG
+hämtade	отримано	hämta	отримати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+davies	девіс	davies	девес	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+önskar	бажання	önska	бажання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+önskar	побажання	önska	побажання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+unik	унікальні	unik	унікальний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+ltd	ltd	ltd	ltd	PROPN;NOM	
+fakulteten	факультету	fakultet	факультет	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+skaffa	get	skaffa	get	V;IMP;FIN;ACT	
+benny	бенні	benny	бенна	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+antiken	низки	antiken	низка	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;FEM;SG
+preussiska	прусська	preussisk	прусський	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+gambia	gambia	gambi	gambia	PROPN;NOM	
+fältet	поля	fält	поле	N;NOM;DEF;NEUT;SG	N;INAN;NOM;NEUT;PL
+hammer	молоток	hammer	молоток	PROPN;NOM	N;INAN;NOM;MASC;SG
+network	network	network	network	N;NOM;INDF;NEUT;SG	
+network	мережі	network	мережа	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+network	мережеві	network	мережевий	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+smeknamn	нік	smeknamn	нік	N;NOM;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+smeknamn	псевдоніми	smeknamn	псевдонім	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+belgrad	белграда	belgrad	белграда	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;GEN;MASC;SG
+egyptiska	єгипетський	egyptisk	єгипетський	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+egyptiska	єгипетська	egyptisk	єгипетський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+orsaka	причина	orsak	причина	V;IMP;NFIN;ACT	N;INAN;NOM;FEM;SG
+orsaka	причиною	orsak	причина	V;IMP;NFIN;ACT	N;INAN;INS;FEM;SG
+collection	колекції	collection	колекція	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+collection	collection	collection	collection	N;NOM;INDF;MASC+FEM;SG	
+nicolai	ніколай	nicolai	нікола	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+nicolai	микола	nicolai	микола	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+mäta	вимірювання	mäta	вимірювання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+mäta	вимірювання	mäta	вимірювання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+mäta	міру	mäta	міра	V;IMP;FIN;ACT	N;INAN;ACC;FEM;SG
+mäta	міра	mäta	міра	V;IMP;FIN;ACT	PROPN;ANIM;NOM;FEM;SG
+köket	кухні	kök	кухня	N;NOM;DEF;NEUT;SG	N;INAN;NOM;FEM;PL
+köket	кухню	kök	кухня	N;NOM;DEF;NEUT;SG	N;INAN;ACC;FEM;SG
+produktioner	production	produktion	production	N;NOM;INDF;MASC+FEM;PL	
+villeneuve	вільнев	villeneuve	вільнев	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+malm	руда	malm	руда	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+too	теж	too	теж	N;NOM;INDF;NEUT;SG	ADV
+too	надто	too	надто	N;NOM;INDF;NEUT;SG	ADV
+too	занадто	too	занадто	N;NOM;INDF;NEUT;SG	ADV
+pike	щука	pike	щука	PROPN;NOM	N;ANIM;NOM;FEM;SG
+pike	пайк	pike	пайк	PROPN;NOM	
+alma	альма	alm	альма	PROPN;NOM	N;INAN;NOM;FEM;SG
+alma	alma	alm	alma	PROPN;NOM	
+hat	ненавиджу	hat	ненавидж	N;NOM;INDF;NEUT;SG	V;IPFV;IND;SG;1;PRS;FIN
+hat	ненависті	hat	ненависть	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+belle	бель	belle	бель	N;NOM;INDF;NEUT;SG	
+agera	во	agera	во	V;IMP;FIN;ACT	
+agera	заступник	agera	заступник	V;IMP;FIN;ACT	N;ANIM;NOM;MASC;SG
+agera	акторська	agera	акторський	V;IMP;FIN;ACT	ADJ;NOM;FEM;SG
+agera	акт	agera	акт	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+vända	зворотний	vända	зворотний	V;IMP;FIN;ACT	ADJ;NOM;MASC;SG
+gonzález	гонсалес	gonzález	гонсалес	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+expressen	express	expresse	express	PROPN;NOM	
+expressen	експрес	expresse	експрес	PROPN;NOM	N;INAN;NOM;MASC;SG
+mineral	мінеральна	mineral	мінеральний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+mineral	мінерали	mineral	мінерал	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+fylla	заповнення	fylla	заповнення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+fylla	заповнення	fylla	заповнення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+kvarter	блоків	kvarter	блок	N;NOM;INDF;NEUT;PL	N;INAN;GEN;MASC;PL
+riktig	реал	riktig	реал	ADJ;NOM;INDF;MASC+FEM;SG	
+riktig	справжні	riktig	справжній	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+nationer	націй	nation	нація	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+saudiarabien	аравія	saudiarabien	аравія	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+saudiarabien	аравії	saudiarabien	аравія	PROPN;NOM	PROPN;INAN;GEN;FEM;SG
+badakhshan	бадахшанська	badakhshan	бадахшанський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+orsaker	причинами	orsak	причина	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;PL
+köpenhamns	копенгаген	köpenhamn	копенгаген	PROPN;GEN	PROPN;INAN;NOM;MASC;SG
+torre	торре	torr	торре	N;NOM;INDF;NEUT;SG	
+upplösning	resolution	upplösning	resolution	N;NOM;INDF;MASC+FEM;SG	
+edge	ребра	edge	ребро	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;PL
+edge	edge	edge	edge	N;NOM;INDF;MASC+FEM;SG	
+belgisk	бельгійські	belgisk	бельгійський	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+listar	переліку	lista	перелік	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;SG
+ladda	навантаження	ladda	навантаження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+ladda	завантаження	ladda	завантаження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+byarna	селах	byare	село	N;NOM;DEF;MASC+FEM;PL	N;INAN;ESS;NEUT;PL
+byarna	села	byare	село	N;NOM;DEF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+byarna	сіл	byare	сіль	N;NOM;DEF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+uppenbarligen	виявляється	uppenbarligen	виявлятися	ADV	V;IPFV;IND;SG;3;PRS;FIN
+pete	піт	pete	піт	PROPN;NOM	
+toppar	вершин	toppa	вершина	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+kirby	кірбі	kirby	кірба	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+hood	гуд	hood	гуда	N;NOM;INDF;MASC+FEM;SG	
+hood	худ	hood	худ	N;NOM;INDF;MASC+FEM;SG	
+rob	роб	rob	роб	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+citat	цитати	cita	цитати	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+citat	цитату	cita	цитата	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+citat	лапки	cita	лапка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+citat	цитати	cita	цитати	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+citat	лапки	cita	лапка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+springfield	springfield	springfield	springfield	PROPN;NOM	
+richmond	річмонд	richmond	річмонд	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+vaccinium	vaccinium	vaccinium	vaccinium	V;IMP;FIN;ACT	
+zamora	самора	zamor	самора	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+värsta	найгірше	ond	найгірший	ADJ;NOM;DEF;RL	ADV;RL
+värsta	найстрашніше	ond	найстрашніше	ADJ;NOM;DEF;RL	ADV;CMPR
+pulchra	pulchra	pulchra	pulchra	N;NOM;INDF;MASC+FEM;SG	
+återkomst	повернутися	återkomst	повернутися	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+komedi	комедії	komedi	комедія	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+federal	федеральний	federal	федеральний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+non	non	non	non	N;NOM;INDF;NEUT;SG	
+non	нон	non	нона	N;NOM;INDF;NEUT;SG	
+svara	відповідь	svara	відповідь	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+svara	відповідь	svara	відповідь	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+besöka	відвідання	besöka	відвідання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+besöka	візит	besöka	візит	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+besöka	відвідування	besöka	відвідування	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+turneringar	турнірів	turnering	турнір	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+turneringar	турнір	turnering	турнір	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+marius	маріус	marius	маріус	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sean	шон	sean	шон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+ägt	володів	äga	володіти	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+ronnie	ронні	ronnie	ронний	PROPN;NOM	
+marcos	маркос	marcos	маркос	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+kardinal	кількісний	kardinal	кількісний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+speciosa	speciosa	specios	speciosa	N;NOM;INDF;MASC+FEM;SG	
+symfoni	симфонічний	symfoni	симфонічний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+cesar	сезар	cesa	сезар	PROPN;NOM	N;INAN;NOM;MASC;SG
+effektivt	ефективно	effektiv	ефективно	ADJ;NOM;INDF;NEUT;SG	ADV
+effektivt	ефективні	effektiv	ефективний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+effektivt	ефективно	effektiv	ефективно	ADJ;NOM;INDF;NEUT;SG	ADV
+hubert	юбер	hubert	юбер	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sirius	sirius	sirius	sirius	PROPN;NOM	
+tidigast	найперший	tidig	найперший	ADJ;NOM;INDF;RL	ADJ;NOM;CMPR;MASC;SG
+tidigast	найшвидше	tidig	найшвидше	ADJ;NOM;INDF;RL	ADV;RL
+konstverk	малюнки	konstverk	малюнок	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+lopez	лопес	lopez	лопес	N;NOM;DEF;NEUT;SG	PROPN;ANIM;NOM;FEM;SG
+uppfinnare	винахідників	uppfinnare	винахідник	N;NOM;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+kunder	клієнтів	kund	клієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+kunder	клієнтами	kund	клієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;INS;MASC;PL
+kunder	клієнтів	kund	клієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+kunder	клієнтами	kund	клієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;INS;MASC;PL
+kunder	клієнтам	kund	клієнт	N;NOM;INDF;MASC+FEM;PL	N;ANIM;DAT;MASC;PL
+märke	бренду	märke	бренда	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+märke	brand	märke	brand	N;NOM;INDF;NEUT;SG	
+märke	кропивницький	märke	кропивницький	N;NOM;INDF;NEUT;SG	ADJ;NOM;MASC;SG
+besegrades	поразки	besegra	поразка	V;IND;PST;FIN;PASS	N;INAN;NOM;FEM;PL
+maskiner	техніка	maskin	техніка	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+maskiner	автоматів	maskin	автомат	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+maskiner	машинами	maskin	машина	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;PL
+rick	рік	råck	рік	PROPN;NOM	N;INAN;NOM;MASC;SG
+cherry	сакури	cherry	сакур	PROPN;NOM	N;INAN;NOM;FEM;PL
+cherry	вишенька	cherry	вишенький	PROPN;NOM	N;INAN;NOM;FEM;SG
+hagen	гаген	hag	гаген	N;NOM;DEF;MASC+FEM;SG	
+springer	springer	spring	springer	V;IND;PRS;FIN;ACT	
+flavescens	flavescens	flavesc	flavescens	N;NOM;INDF;MASC+FEM;SG	
+uttagen	зняття	uttagen	зняття	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;NOM;NEUT;SG
+militären	військові	militär	військовий	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;PL
+militären	військовий	militär	військовий	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+elvis	елвіс	elvis	елвіс	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sovjet	срср	sovjet	срср	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+sovjet	радянський	sovjet	радянський	PROPN;NOM	ADJ;NOM;MASC;SG
+sovjet	радянська	sovjet	радянський	PROPN;NOM	ADJ;NOM;FEM;SG
+sovjet	радянські	sovjet	радянський	PROPN;NOM	ADJ;NOM;PL
+grundarna	засновників	grundare	засновник	N;NOM;DEF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+mähren	моравія	mähr	моравія	PROPN;NOM	N;INAN;NOM;FEM;SG
+candida	candida	candid	candida	N;NOM;INDF;MASC+FEM;SG	
+über	über	über	über	V;IMP;FIN;ACT	
+önskade	бажав	önska	бажати	V;NOM;PL;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+önskade	побажав	önska	побажати	V;NOM;PL;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+varma	тепло	varma	тепло	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+varma	тепла	varma	тепло	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+blockerade	заблоковано	blockera	заблокувати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+blockerade	заблокували	blockera	заблокувати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ersatt	замінено	ersatt	замінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+ersatt	замінили	ersatt	замінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ersatt	замінила	ersatt	замінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+adelaide	аделаїда	adelaide	аделаїда	PROPN;NOM	N;ANIM;NOM;FEM;SG
+uppvuxen	виховали	uppvuxen	виховати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+uppvuxen	виростили	uppvuxen	виростити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+uppvuxen	карпатські	uppvuxen	карпатський	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;NOM;PL
+uppvuxen	підняли	uppvuxen	підняти	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ögat	eye	öga	eye	N;NOM;DEF;NEUT;SG	
+fångenskap	полоні	fångenskap	полон	N;NOM;INDF;NEUT;SG	N;INAN;DAT;MASC;SG
+zaragoza	сарагоса	zaragoz	сарагос	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+nixon	ніксон	nixon	ніксон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+pulchella	pulchella	pulchell	pulchella	N;NOM;INDF;MASC+FEM;SG	
+technology	технології	technology	технологія	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+kommersiell	комерційне	kommersiell	комерційний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+kommersiell	комерційного	kommersiell	комерційний	N;NOM;INDF;MASC+FEM;SG	ADJ;GEN;MASC;SG
+kommersiell	комерційні	kommersiell	комерційний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+kommersiell	комерційна	kommersiell	комерційний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+kommersiell	комерційний	kommersiell	комерційний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+hidalgo	ідальго	hidalgo	ідальго	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+dasineura	dasineura	dasineura	dasineura	N;NOM;INDF;MASC+FEM;SG	
+virgin	богородиці	virgi	богородика	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+ved	дрова	ved	дрова	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ved	вуд	ved	вуд.	N;NOM;INDF;MASC+FEM;SG	
+ved	лісова	ved	лісовий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+säljer	продаж	sälja	продаж	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+öppnar	відкриття	öppna	відкриття	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+öppnar	відкривання	öppna	відкривання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+magic	чарівна	magic	чарівний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+magic	magic	magic	magic	N;NOM;INDF;MASC+FEM;SG	
+expeditionen	мкс	expedition	мкс	N;NOM;DEF;MASC+FEM;SG	INTJ
+önskan	бажаю	önskan	бажати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;SG;1;PRS;FIN
+skapats	створені	skapa	створений	V;V.CVB;PASS	ADJ;PFV;NOM;PL;V.PTCP;PASS
+skapats	створене	skapa	створений	V;V.CVB;PASS	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+skapats	створена	skapa	створений	V;V.CVB;PASS	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+muslimer	мусульманин	muslim	мусульманин	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+strauss	штраус	strauss	штраус	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+innsbruck	інсбрук	innsbruck	інсбрука	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+illustrationer	ілюстрацій	illustration	ілюстрація	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+seattle	seattle	seattle	seattle	PROPN;NOM	
+rymmer	екранування	rymma	екранування	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+köpt	платні	köpa	платний	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;NOM;PL
+köpt	купили	köpa	купити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+köpt	купила	köpa	купити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+köpt	купив	köpa	купити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+snabbaste	найшвидший	snabb	найшвидший	ADJ;NOM;DEF;RL	ADJ;NOM;CMPR;MASC;SG
+snabbaste	найшвидше	snabb	найшвидше	ADJ;NOM;DEF;RL	ADV;RL
+kotka	котка	kotka	котка	PROPN;NOM	N;INAN;NOM;FEM;SG
+utlandet	закордоном	utland	закордон	N;NOM;DEF;NEUT;SG	N;INAN;INS;MASC;SG
+utlandet	закордон	utland	закордон	N;NOM;DEF;NEUT;SG	PROPN;INAN;NOM;MASC;SG
+omständigheter	обставин	omständighet	обставина	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+asteroid	астероїди	asteroid	астероїда	N;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+utvalda	обраний	utvalja	обраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+utvalda	вибрано	utvalja	вибрати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+utvalda	вибрана	utvalja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+utvalda	вибране	utvalja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+utvalda	вибраний	utvalja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+utvalda	вибраний	utvalja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+utvalda	обрані	utvalja	обран	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;NOM;MASC;PL
+utvalda	вибране	utvalja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+utvalda	вибрано	utvalja	вибрати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+utvalda	обрані	utvalja	обран	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;NOM;MASC;PL
+militärt	військові	militär	військовий	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+glasgow	glasgow	glasgow	glasgow	PROPN;NOM	
+greg	грег	greg	грег	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+grunda	мілка	grund	мілка	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+korea	корея	kore	корея	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+korea	кореї	kore	корія	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+loir	луар	loir	луар	N;NOM;INDF;MASC+FEM;SG	
+azul	azul	azul	azul	N;NOM;INDF;NEUT;SG	
+allvarliga	серйозне	allvarlig	серйозний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+allvarliga	серйозно	allvarlig	серйозно	ADJ;NOM;PL	ADV
+allvarliga	серйозна	allvarlig	серйозний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+allvarliga	серйозний	allvarlig	серйозний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+allvarliga	тяжкий	allvarlig	тяжкий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+undervisade	навчили	undervisa	навчити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+undervisade	вчили	undervisa	вчити	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;IND;PL;PST;FIN
+undervisade	навчила	undervisa	навчити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+undervisade	викладав	undervisa	викладати	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+undervisade	навчив	undervisa	навчити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+träffa	знайомство	träffa	знайомство	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+träffa	зустрічаються	träffa	зустрічатися	V;IMP;FIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+formosa	формоза	formos	формоза	PROPN;NOM	N;INAN;NOM;FEM;SG
+discogs	discogs	discag	discogs	N;MASC+FEM	
+metro	metro	metro	metro	N;NOM;INDF;MASC+FEM;SG	
+sibirien	сибір	sibirien	сибір	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+vänder	повороти	vända	повороти	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+vänder	повернули	vända	повернути	V;IND;PRS;FIN;ACT	V;PFV;IND;PL;PST;FIN
+single	окремі	singel	окремий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+single	single	singel	single	N;NOM;INDF;MASC+FEM;SG	
+single	самотній	singel	самотній	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+bekant	знайомі	bekant	знайомий	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+bekant	знайомі	bekant	знайомий	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+föreställningar	виступів	föreställning	виступ	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+uppdelad	розділив	uppdela	розділити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+kant	ребра	kunna	ребро	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;PL
+kant	edge	kunna	edge	N;NOM;INDF;MASC+FEM;SG	
+kant	рамки	kunna	рамка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+brunei	брунею	brunei	бруня	N;NOM;INDF;NEUT;SG	PROPN;INAN;NOM;FEM;SG
+templet	храму	tempel	храм	N;NOM;DEF;NEUT;SG	N;INAN;GEN;MASC;SG
+murcia	мурсія	murcia	мурсія	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+felaktig	невірно	felaktig	невірно	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+felaktig	неточні	felaktig	неточний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+lok	лок	lok	лок	N;NOM;INDF;NEUT;SG	
+lok	локомотивів	lok	локомотив	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+senna	сенна	senna	сенний	PROPN;NOM	N;ANIM;NOM;MASC;SG
+inledningsvis	спочатку	inledningsvis	спочатку	N;NOM;INDF;MASC+FEM;SG	ADV
+teologiska	духовна	teologisk	духовний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+senior	старший	senio	старший	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;CMPR;MASC;SG
+vuxit	дорослому	växa	дорослий	V;V.CVB;ACT	ADJ;DAT;NEUT;SG
+vuxit	доросла	växa	дорости	V;V.CVB;ACT	ADJ;NOM;FEM;SG
+olympic	олімпіади	olympic	олімпіада	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+olympic	олімпійська	olympic	олімпійський	N;NOM;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+olympic	олімпійський	olympic	олімпійський	N;NOM;INDF;NEUT;SG	ADJ;NOM;MASC;SG
+olympic	олімпійські	olympic	олімпійський	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+ande	genie	ande	genie	N;NOM;INDF;MASC+FEM;SG	
+ande	spirit	ande	spirit	N;NOM;INDF;MASC+FEM;SG	
+davidson	девідсон	davidson	девідсон	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+firas	святкували	fira	святкувати	V;IND;PRS;FIN;PASS	V;IPFV;IND;PL;PST;FIN
+firas	вітали	fira	вітати	V;IND;PRS;FIN;PASS	V;IPFV;IND;PL;PST;FIN
+tarn	тарн	tarn	тарн	V;IMP;FIN;ACT	
+talare	спікерів	talare	спікер	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+talare	доповідач	talare	доповідач	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+talare	гучномовець	talare	гучномовець	N;NOM;INDF;MASC+FEM;PL	ADJ;NOM;MASC;SG
+talare	диктора	talare	диктор	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;SG
+talare	диктор	talare	диктор	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+förvaltning	адміністрації	förvaltning	адміністрація	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+insåg	зрозуміла	inse	зрозуміти	V;IMP;FIN;ACT	V;PFV;FEM;IND;SG;PST;FIN
+claire	клер	claire	клер	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+kontinenten	континенті	kontinent	континент	N;NOM;DEF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+kontinenten	континенту	kontinent	континент	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+bruna	браун	brun	брауна	ADJ;NOM;PL	PROPN;ANIM;NOM;MASC;SG
+bruna	brown	brun	brown	ADJ;NOM;PL	
+bruna	коричневий	brun	коричневий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+termer	умовами	term	умова	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;PL
+vision	зір	vision	зір	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+vision	vision	vision	vision	N;NOM;INDF;MASC+FEM;SG	
+albanska	албанська	albanska	албанський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+monaco	монако	monaco	монако	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+forntida	давніх	forntida	давній	ADJ;NOM	ADJ;GEN;PL
+kejserliga	імператорський	kejserlig	імператорський	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+kejserliga	імперський	kejserlig	імперський	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+kejserliga	imperial	kejserlig	imperial	ADJ;NOM;PL	
+processer	процесів	process	процес	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+fest	партії	fest	партія	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;FEM;SG
+fest	вечірки	fest	вечірка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+fest	party	fest	party	N;NOM;INDF;MASC+FEM;SG	
+brahe	браге	brahe	брага	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+underjordisk	підземні	underjordisk	підземний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+underjordisk	підпілля	underjordisk	підпілля	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;SG
+fysisk	фізичні	fysisk	фізичний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+benz	benz	benz	benz	PROPN;NOM	
+skyldig	винен	skyldig	винний	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;SG
+skyldig	винним	skyldig	винний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;INS;MASC;SG
+castro	кастро	castro	кастро	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+livstid	лайф	livstid	Лайф	N;NOM;INDF;MASC+FEM;SG	
+vers	вірші	vers	вірш	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+trois	труа	trois	труа	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+crow	corvus	crow	corvus	PROPN;NOM	
+crow	crow	crow	crow	PROPN;NOM	
+crow	ворона	crow	вороний	PROPN;NOM	N;ANIM;NOM;FEM;SG
+interna	внутрішнє	intern	внутрішній	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+interna	внутрішній	intern	внутрішній	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+interna	внутрішня	intern	внутрішній	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+half	пів	half	пів	N;NOM;INDF;NEUT;SG	
+half	півтори	half	півтори	N;NOM;INDF;NEUT;SG	NUM;NOM
+half	половину	half	половина	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+half	наполовину	half	наполовину	N;NOM;INDF;NEUT;SG	ADV
+osäker	небезпечні	osäker	небезпечний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+osäker	небезпечно	osäker	небезпечно	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+osäker	невизначеності	osäker	невизначеність	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;FEM;SG
+thor	тор	thor	тор	PROPN;NOM	
+halvt	пів	halv	пів	ADJ;NOM;INDF;NEUT;SG	
+halvt	півтори	halv	півтори	ADJ;NOM;INDF;NEUT;SG	NUM;NOM
+halvt	половина	halv	половина	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;SG
+halvt	половину	halv	половина	ADJ;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+halvt	наполовину	halv	наполовину	ADJ;NOM;INDF;NEUT;SG	ADV
+pontus	понтус	pontus	понтус	PROPN;NOM	
+pago	паго	pago	паго	PROPN;NOM	
+dubia	сумнівна	dubia	сумнівний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+pont	міст	pont	місто	N;NOM;INDF;MASC+FEM;SG	
+pont	пон	pont	пон	N;NOM;INDF;MASC+FEM;SG	
+zheng	чжен	zheng	чжен	N;NOM;INDF;MASC+FEM;SG	
+index	індекси	index	індекс	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+index	index	index	index	N;NOM;INDF;NEUT;SG	
+index	індекси	index	індекс	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+portland	портленд	portland	портленд	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+färdiga	завершено	färdig	завершити	ADJ;NOM;PL	V;PFV;IND;0;FIN
+färdiga	закінчено	färdig	закінчити	ADJ;NOM;PL	V;PFV;IND;0;FIN
+färdiga	закінчиться	färdig	закінчитися	ADJ;NOM;PL	V;PFV;IND;SG;3;FUT;FIN
+färdiga	закінчив	färdig	закінчити	ADJ;NOM;PL	V;PFV;MASC;IND;SG;PST;FIN
+färdiga	готовий	färdig	готовий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+färdiga	напоготові	färdig	напоготові	ADJ;NOM;PL	ADV
+färdiga	готове	färdig	готовий	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+färdiga	готовність	färdig	готовність	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+färdiga	готова	färdig	готовий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+situationer	ситуаціях	situation	ситуація	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;FEM;PL
+situationer	ситуацій	situation	ситуація	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+aleppo	алеппо	aleppo	алеппо	N;NOM;DEF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+stop	стоп	stop	стоп	N;NOM;INDF;NEUT;SG	
+stop	припинити	stop	припинити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+stop	зупинки	stop	зупинка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+stop	зупинити	stop	зупинити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+stop	зупинитись	stop	зупинитися	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+utskott	комітетів	utskott	комітет	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+utskott	комітету	utskott	комітет	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+stiftelse	foundation	stiftelse	foundation	N;NOM;INDF;MASC+FEM;SG	
+stiftelse	бази	stiftelse	база	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+variera	вари	variera	вар	V;IMP;FIN;ACT	PROPN;INAN;NOM;MASC;SG
+kriterier	критерій	kriterium	критерій	N;NOM;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+ferguson	фергюсон	ferguson	фергюсон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+elektronisk	електронні	elektronisk	електронний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+elektronisk	електроніка	elektronisk	електроніка	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;SG
+brod	брод	brod	брод	N;NOM;INDF;MASC+FEM;SG	
+härskare	лінійка	härskare	лінійка	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+ansökan	програми	ansökan	програма	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+ansökan	додатки	ansökan	додаток	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ansökan	програми	ansökan	програма	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+lanceolata	lanceolata	lanceolat	lanceolata	N;NOM;INDF;MASC+FEM;SG	
+nätverket	network	nätverk	network	N;NOM;DEF;NEUT;SG	
+nätverket	мережі	nätverk	мережа	N;NOM;DEF;NEUT;SG	N;INAN;NOM;FEM;PL
+nätverket	мережеві	nätverk	мережевий	N;NOM;DEF;NEUT;SG	ADJ;NOM;PL
+préfecture	préfecture	préfecture	préfecture	V;IMP;FIN;ACT	
+jose	хосе	jose	хось	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+peace	миру	peace	мир	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+hainan	хайнань	haina	хайнання	PROPN;NOM	ADJ;NOM;NEUT;SG
+användarnamn	користувача	användarnamn	користувач	N;NOM;DEF;MASC+FEM;PL	N;ANIM;ACC;MASC;SG
+användarnamn	користувач	användarnamn	користувач	N;NOM;DEF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+lösningar	рішення	lösning	рішення	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+lösningar	вирішення	lösning	вирішення	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+skyddade	захищений	skydda	захищений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+skyddade	захищена	skydda	захищений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+skyddade	захищено	skydda	захищено	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+corner	кутку	corner	куток	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+corner	куті	corner	кут	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+verlag	verlag	verlag	verlag	N;NOM;INDF;NEUT;SG	
+symboler	символів	symbol	символ	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+talk	поговоримо	talk	поговорити	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;PL;1;FUT;FIN
+talk	talk	talk	talk	N;NOM;INDF;MASC+FEM;SG	
+talk	говорити	talk	говорити	N;NOM;INDF;MASC+FEM;SG	V;IPFV;NFIN
+utvecklad	розробили	utvecklad	розробити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+utvecklad	розроблено	utvecklad	розробити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+utvecklad	походять	utvecklad	походити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN
+dokumentär	документальний	dokumentär	документальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+länka	посиланням	länka	посилання	V;IMP;FIN;ACT	N;INAN;INS;NEUT;SG
+länka	посилання	länka	посилання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;PL
+länka	link	länka	link	V;IMP;FIN;ACT	
+länka	лінк	länka	лінк	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+länka	причетність	länka	причетність	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+sprint	спринт	sprint	спринт	N;NOM;INDF;MASC+FEM;SG	
+townsend	таунсенд	townsend	таунсенд	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+stephens	стефенс	stephen	стефенс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+shanxi	шаньсі	shanxi	шаніс	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+blandade	змішана	blandad	змішаний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+blandade	змішаний	blandad	змішаний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+franskt	френч	fransk	френч	ADJ;NOM;INDF;NEUT;SG	
+franskt	французькою	fransk	французький	ADJ;NOM;INDF;NEUT;SG	ADJ;INS;FEM;SG
+avgå	відставку	avgå	відставка	V;IMP;FIN;ACT	N;INAN;ACC;FEM;SG
+avgå	здача	avgå	здач	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+tang	тан	tang	тан	N;NOM;INDF;NEUT;SG	
+steel	сталь	steel	сталь	PROPN;NOM	N;INAN;NOM;FEM;SG
+tecknad	мультфільмів	tecknad	мультфільм	N;NOM;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+abc	abc	abc	abc	N;NOM;INDF;NEUT;SG	
+spirit	spirit	spirit	spirit	N;NOM;INDF;MASC+FEM;SG	
+onda	злому	onda	злий	ADJ;NOM;PL	N;INAN;GEN;MASC;SG
+onda	зла	onda	зло	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+onda	злом	onda	злом	ADJ;NOM;PL	N;INAN;INS;MASC;SG
+onda	evil	onda	evil	ADJ;NOM;PL	
+onda	зло	onda	зло	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+flores	флорес	flores	флорес	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+avsluta	вихід	avsluta	вихід	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+avsluta	фініш	avsluta	фініш	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+avsluta	кінець	avsluta	кінець	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+avsluta	закінчиться	avsluta	закінчитися	V;IMP;FIN;ACT	V;PFV;IND;SG;3;FUT;FIN
+avsluta	закінчення	avsluta	закінчення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+avsluta	вихід	avsluta	вихід	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+avsluta	виходу	avsluta	вихід	V;IMP;FIN;ACT	N;INAN;GEN;MASC;SG
+teodor	теодор	teoda	теодор	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+berkeley	берклі	berkeley	беркль	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+akustisk	акустична	akustisk	акустичний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+tjeckiska	чеською	tjeckisk	чеська	N;NOM;INDF;MASC+FEM;SG	ADJ;INS;FEM;SG
+tjeckiska	чеської	tjeckisk	чеський	N;NOM;INDF;MASC+FEM;SG	ADJ;GEN;FEM;SG
+tjeckiska	чеська	tjeckisk	чеський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+tjeckiska	чех	tjeckisk	чех	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+resterande	залишок	resterande	залишок	ADJ;NOM;PRS;V.PTCP	N;INAN;NOM;MASC;SG
+resterande	залишку	resterande	залишка	ADJ;NOM;PRS;V.PTCP	N;INAN;GEN;MASC;SG
+resterande	залишилося	resterande	залишитися	ADJ;NOM;PRS;V.PTCP	V;PFV;NEUT;IND;SG;PST;FIN
+resterande	залишилось	resterande	залишитися	ADJ;NOM;PRS;V.PTCP	V;PFV;NEUT;IND;SG;PST;FIN
+resterande	лишилось	resterande	лишитися	ADJ;NOM;PRS;V.PTCP	V;PFV;NEUT;IND;SG;PST;FIN
+turin	плащаниця	turin	плащаниця	PROPN;NOM	N;INAN;NOM;FEM;SG
+bayan	баян	bayan	баян	N;NOM;INDF;MASC+FEM;SG	
+dialekter	діалектів	dialekt	діалект	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+bekräftade	підтверджена	bekräftad	підтверджений	V;PST;V.PTCP;ACT	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+placera	розміщення	placera	розміщення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+placera	викладання	placera	викладання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+placera	місце	placera	місце	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+bearbetning	обробки	bearbetning	обробка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+bearbetning	обробку	bearbetning	обробка	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+rosenberg	розенберг	rosenberg	розенберг	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+amy	емі	amy	емі	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+globala	глобальний	global	глобальний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+globala	global	global	global	ADJ;NOM;PL	
+roth	рот	roth	рот	PROPN;NOM	N;INAN;NOM;MASC;SG
+bosatta	жителька	bosatt	жителька	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;NOM;FEM;SG
+bosatta	мешканці	bosatt	мешканець	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;NOM;MASC;PL
+bosatta	мешканців	bosatt	мешканець	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;ACC;MASC;PL
+pov	pov	pov	pov	N;NOM;INDF;MASC+FEM;SG	
+ferruginea	ferruginea	ferruginea	ferruginea	N;NOM;INDF;MASC+FEM;SG	
+igor	ігор	igo	гра	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+igor	ігоре	igo	ігоре	PROPN;NOM	
+fiol	скрипці	fiol	скрипка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+div	div	div	div	N;NOM;INDF;MASC+FEM;SG	
+bero	залежать	bero	залежати	V;IMP;FIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+begränsat	обмежено	begränsad	обмежити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+begränsat	обмежені	begränsad	обмежений	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+skickar	відсилання	skicka	відсилання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+skickar	надсилання	skicka	надсилання	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+dsc	дск	dsc	дск	PROPN;NOM	
+frukt	фрукти	frukt	фрукт	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+frukt	плоди	frukt	плода	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+frukt	фруктові	frukt	фруктовий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+frukt	фрукти	frukt	фрукт	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+frukt	плоди	frukt	плода	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+lejon	лев	lejon	лев	N;NOM;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+lejon	леви	lejon	лев	N;NOM;INDF;NEUT;SG	N;ANIM;NOM;MASC;PL
+andrews	ендрюс	andrews	ендрюс	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+glad	раді	glad	радий	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+glad	щасливі	glad	щасливий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+glad	щасливим	glad	щасливий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;INS;NEUT;SG
+ryttare	прокату	rytt	прокатий	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;SG
+bio	cinema	bio	cinema	N;NOM;INDF;MASC+FEM;SG	
+most	найцікавіше	most	найцікавіше	N;NOM;INDF;MASC+FEM;SG	ADV;RL
+natural	натуральний	natural	натуральний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+natural	натуральна	natural	натуральний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+natural	натуральні	natural	натуральний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+natural	природний	natural	природний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+natural	природні	natural	природний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+chi	чі	chi	чі	N;NOM;INDF;NEUT;SG	
+chi	хі	chi	хі	N;NOM;INDF;NEUT;SG	
+chi	chi	chi	chi	N;NOM;INDF;NEUT;SG	
+court	судові	court	судовий	PROPN;NOM	ADJ;NOM;PL
+court	суд	court	суд	PROPN;NOM	N;INAN;NOM;MASC;SG
+utsikt	погляди	utsikt	погляд	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+utsikt	перегляди	utsikt	перегляд	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+utsikt	view	utsikt	view	N;NOM;INDF;NEUT;SG	
+utsikt	переглянути	utsikt	переглянути	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+älskade	кохав	älskad	кохати	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+älskade	коханою	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;INS;FEM;SG;V.PTCP;PASS
+älskade	коханим	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;INS;MASC;SG;V.PTCP;PASS
+älskade	дорогоцінний	älskad	дорогоцінний	ADJ;NOM;PL;PST;V.PTCP	ADJ;NOM;MASC;SG
+älskade	коханої	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;GEN;FEM;SG;V.PTCP;PASS
+älskade	коханим	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;INS;MASC;SG;V.PTCP;PASS
+älskade	кохана	älskad	кохан	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+älskade	коханий	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+älskade	коханого	älskad	коханий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;GEN;MASC;SG;V.PTCP;PASS
+office	office	office	office	N;NOM;INDF;MASC+FEM;SG	
+sköt	постріл	sköta	постріл	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+sköt	застрелив	sköta	застрелити	V;IMP;FIN;ACT	V;PFV;MASC;IND;SG;PST;FIN
+given	дано	given	дати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+given	надано	given	надати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+given	даного	given	даний	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;GEN;MASC;SG;V.PTCP;PASS
+pund	кілограми	pund	кілограма	N;NOM;INDF;NEUT;SG	N;INAN;INS;FEM;PL
+pund	фунтів	pund	фунт	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+pund	фунти	pund	фунт	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+savoie	савойя	savoie	савий	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+parva	parva	parva	parva	N;NOM;INDF;MASC+FEM;SG	
+milton	мілтон	milton	мілтон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+minima	minima	minim	minima	N;NOM;INDF;MASC+FEM;SG	
+epirus	деспотат	epirus	деспотат	PROPN;NOM	N;INAN;NOM;FEM;SG
+blodet	blood	blod	blood	N;NOM;DEF;NEUT;SG	
+bud	заявки	bud	заявки	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+bud	бад	bud	бад	N;NOM;INDF;NEUT;SG	
+parviflora	parviflora	parviflora	parviflora	N;NOM;INDF;MASC+FEM;SG	
+lagstiftande	законодавчих	lagstiftande	законодавчий	ADJ;NOM;PRS;V.PTCP	ADJ;GEN;PL
+anläggningar	встановленого	anläggning	встановлений	N;NOM;INDF;MASC+FEM;PL	ADJ;PFV;GEN;MASC;SG;V.PTCP;PASS
+anläggningar	вкладів	anläggning	вклад	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+anläggningar	прийду	anläggning	прийти	N;NOM;INDF;MASC+FEM;PL	V;PFV;IND;SG;1;FUT;FIN
+arrangerade	організувала	arrangera	організувати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+arrangerade	організували	arrangera	організувати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+arrangerade	домовились	arrangera	домовитися	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ingmar	інгмар	ingmar	інгмар	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+xvi	xvi	xvi	xvi	PROPN;NOM	
+diplomatiska	дипломатичних	diplomatisk	дипломатичний	ADJ;NOM;PL	ADJ;ACC;PL
+förbud	заборонити	förbud	заборонити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+förbud	заборону	förbud	заборона	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+förbud	заблокувати	förbud	заблокувати	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+förbud	бан	förbud	бан	N;NOM;INDF;NEUT;SG	
+förbud	заборони	förbud	заборона	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+morpho	морфо	morpho	морфо	V;IMP;FIN;ACT	
+düsseldorf	дюссельдорф	düsseldorf	дюссельдорф	PROPN;NOM	PROPN;INAN;NOM;NEUT;SG
+inuti	inside	inuti	inside	N;NOM;INDF;MASC+FEM;SG	
+inuti	всередині	inuti	всередині	N;NOM;INDF;MASC+FEM;SG	
+läger	табір	läga	табір	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+läger	кам	läga	кам	N;NOM;INDF;MASC+FEM;PL	
+generationen	generation	generation	generation	N;NOM;DEF;MASC+FEM;SG	
+krona	головах	krona	голова	N;NOM;INDF;MASC+FEM;SG	N;INAN;ESS;FEM;PL
+krona	голів	krona	голіти	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+krona	голови	krona	голова	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+krona	головами	krona	голова	N;NOM;INDF;MASC+FEM;SG	N;INAN;INS;FEM;PL
+krona	корону	krona	корона	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+krona	корони	krona	корона	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+delaware	делавер	delaware	делавер	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+sjuk	зле	sjuk	зле	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;SG
+sjuk	хворим	sjuk	хворий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;INS;MASC;SG
+sjuk	хворі	sjuk	хвір	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+sjuk	хвора	sjuk	хвора	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;FEM;SG
+sjuk	захворіла	sjuk	захворіти	ADJ;NOM;INDF;MASC+FEM;SG	V;PFV;FEM;IND;SG;PST;FIN
+hämta	get	hämta	get	V;IMP;FIN;ACT	
+träning	тренінги	träning	тренінг	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+träning	фітнес	träning	фітний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+uri	uri	uri	uri	N;NOM;INDF;MASC+FEM;SG	
+utvecklar	розробка	utveckla	розробка	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+utvecklar	проведення	utveckla	проведення	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+utvecklar	розробку	utveckla	розробка	V;IND;PRS;FIN;ACT	N;INAN;ACC;FEM;SG
+duke	герцог	duke	герцог	PROPN;NOM	N;ANIM;NOM;MASC;SG
+duke	дюк	duke	дюк	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+rupert	руперт	rupert	руперт	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+liège	льєж	liège	льєж	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+prov	зразки	prov	зразок	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+prov	зразки	prov	зразок	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+prov	вкриває	prov	вкривати	N;NOM;INDF;NEUT;SG	V;IPFV;IND;SG;3;PRS;FIN
+queens	королеви	Pueens	королева	PROPN;NOM	N;ANIM;NOM;FEM;PL
+hörn	кути	hörn	кути	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+hörn	кутку	hörn	куток	N;NOM;INDF;NEUT;SG	N;INAN;DAT;MASC;SG
+hörn	куті	hörn	кут	N;NOM;INDF;NEUT;SG	N;INAN;DAT;MASC;SG
+ansiktet	обличчям	ansikt	обличчя	N;NOM;DEF;NEUT;SG	N;INAN;INS;NEUT;SG
+ansiktet	face	ansikt	face	N;NOM;DEF;NEUT;SG	
+rey	рей	rey	рей	N;NOM;INDF;NEUT;SG	
+money	гроші	money	гроші	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM
+huang	хуан	huang	хуан	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+nordic	скандинавських	nordic	скандинавський	PROPN;NOM	ADJ;GEN;PL
+hautes	верхні	haute	верхня	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+hoppa	перехід	hoppa	перехід	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+hoppa	стрибок	hoppa	стрибок	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+pressen	натиснути	press	натиснути	N;NOM;DEF;MASC+FEM;SG	V;PFV;NFIN
+pressen	прес	press	пресовий	N;NOM;DEF;MASC+FEM;SG	
+pressen	press	press	press	N;NOM;DEF;MASC+FEM;SG	
+rak	чесні	rak	чесний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+rak	стріт	rak	стріт	ADJ;NOM;INDF;MASC+FEM;SG	
+rak	прямі	rak	прямий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+rak	прямо	rak	прямо	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+rak	відверта	rak	відвертий	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;SG
+regina	регіна	regin	регін	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+player	гравця	play	гравець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;SG
+player	програвач	play	програвач	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+player	гравець	play	гравець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+förvärvade	придбані	förvärva	придбаний	V;NOM;PL;PST;V.PTCP;ACT	ADJ;PFV;NOM;PL;V.PTCP;PASS
+uppstå	виникнення	uppstå	виникнення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+alpha	alpha	alpha	alpha	PROPN;NOM	
+alpha	альфа	alpha	альфа	PROPN;NOM	N;INAN;NOM;FEM;SG
+decennier	грунту	decennium	грунт	N;NOM;INDF;NEUT;PL	N;INAN;GEN;MASC;SG
+sheffield	sheffield	sheffield	sheffield	PROPN;NOM	
+observera	зауваження	observera	зауваження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;PL
+observera	примітки	observera	примітка	V;IMP;FIN;ACT	N;INAN;NOM;FEM;PL
+observera	примітка	observera	примітка	V;IMP;FIN;ACT	ADV
+observera	нота	observera	нота	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+observera	спостереження	observera	спостереження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+läkaren	лікаря	läkare	лікар	N;NOM;DEF;MASC+FEM;SG	N;ANIM;ACC;MASC;SG
+läkaren	лікарю	läkare	лікар	N;NOM;DEF;MASC+FEM;SG	N;ANIM;DAT;MASC;SG
+machine	machine	machine	machine	N;NOM;INDF;NEUT;SG	
+florence	флоренції	florence	флоренція	N;NOM;INDF;NEUT;SG	PROPN;INAN;GEN;FEM;SG
+temple	храму	temple	храм	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+californica	californica	californic	californica	N;NOM;INDF;MASC+FEM;SG	
+förvaras	магазин	förvara	магазин	V;IND;PRS;FIN;PASS	N;INAN;NOM;MASC;SG
+recension	переглянути	recension	переглянути	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+kritiska	критична	kritisk	критичний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+kritiska	критичний	kritisk	критичний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+neville	невіл	neville	невіл	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+mörkare	темні	mörk	темний	ADJ;NOM;CMPR	ADJ;NOM;PL
+fröken	міс	fröka	мости	N;NOM;DEF;MASC+FEM;SG	
+betty	бетті	betty	бетті	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+emilia	емілія	emili	емілія	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+alonso	алонсо	alonso	алонсо	PROPN;NOM	
+öga	eye	öga	eye	N;NOM;INDF;NEUT;SG	
+maskin	machine	maskin	machine	N;NOM;INDF;MASC+FEM;SG	
+maskin	інженерних	maskin	інженерний	N;NOM;INDF;MASC+FEM;SG	ADJ;GEN;PL
+clair	клер	clair	клер	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+cristóbal	крістобаль	cristóbal	крістобаль	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+frön	насіння	frö	насіння	N;NOM;INDF;NEUT;PL	N;INAN;NOM;NEUT;SG
+blackburn	блекберн	blackburn	блекберн	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+dagarna	днів	dag	день	N;NOM;DEF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+schmid	шмід	schmid	шмід	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+dale	дейл	dal	дейл	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+anti	анти	anti	анта	V;IMP;FIN;ACT	
+anti	anti	anti	anti	V;IMP;FIN;ACT	
+schneider	шнайдер	schneider	шнайдер	N;NOM;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+tillåtet	дозволили	tillåtet	дозволити	ADJ;NOM;INDF;NEUT;SG	V;PFV;IND;PL;PST;FIN
+tillåtet	дозволено	tillåtet	дозволити	ADJ;NOM;INDF;NEUT;SG	V;PFV;IND;0;FIN
+tillåtet	дозволено	tillåtet	дозволити	ADJ;NOM;INDF;NEUT;SG	V;PFV;IND;0;FIN
+tillåtet	дозволені	tillåtet	дозволений	ADJ;NOM;INDF;NEUT;SG	ADJ;PFV;NOM;PL;V.PTCP;PASS
+distans	дистанції	distans	дистанція	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;PL
+jungfru	богородиці	jungfru	богородика	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+sussex	сассекс	sussex	сассекс	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+atlantic	атлантичний	atlantic	атлантичний	PROPN;NOM	ADJ;NOM;MASC;SG
+atlantic	атлантична	atlantic	атлантичний	PROPN;NOM	ADJ;NOM;FEM;SG
+atlantic	atlantic	atlantic	atlantic	PROPN;NOM	
+konstruerade	побудовано	konstruerad	побудовати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+konstruerade	проведена	konstruerad	проведений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+mao	мао	mao	мао	N;NOM;INDF;MASC+FEM;SG	
+entre	ентре	entre	ентре	N;NOM;INDF;MASC+FEM;SG	
+blom	цвіте	blom	цвісти	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;PRS;FIN
+blom	блум	blom	блум	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+netto	нетто	netto	нетто	N;NOM;INDF;MASC+FEM;SG	
+netto	net	netto	net	N;NOM;INDF;MASC+FEM;SG	
+verksamheter	діяльності	verksamhet	діяльність	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;SG
+verksamheter	діяльність	verksamhet	діяльність	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+uno	uno	uno	uno	PROPN;NOM	
+tillfälliga	тимчасове	tillfällig	тимчасовий	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+tillfälliga	тимчасова	tillfällig	тимчасовий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+tillfälliga	тимчасово	tillfällig	тимчасово	ADJ;NOM;PL	ADV
+tillfälliga	тимчасовий	tillfällig	тимчасовий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+tillfälliga	casual	tillfällig	casual	ADJ;NOM;PL	
+förekomst	події	förekomst	подія	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+niels	нільс	niels	нільс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+reynolds	рейнольдс	reynold	рейнольдс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+sasa	саса	sasa	сас	PROPN;NOM	
+budskap	вірші	budskap	вірш	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+budskap	повідомлень	budskap	повідомлення	N;NOM;INDF;NEUT;SG	N;INAN;GEN;NEUT;PL
+express	express	express	express	PROPN;NOM	
+express	експрес	express	експрес	PROPN;NOM	N;INAN;NOM;MASC;SG
+anteckningar	нотаток	anteckning	нотатка	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+legenden	легенду	legende	легенда	N;NOM;INDF;NEUT;PL	N;INAN;ACC;FEM;SG
+legenden	легенда	legende	легенда	N;NOM;INDF;NEUT;PL	N;INAN;NOM;FEM;SG
+sergej	сергій	sergej	сергія	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+sergej	сергій	sergej	сергія	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+botaniker	ботанік	botanik	ботанік	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+översatta	перекладено	översätta	перекласти	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+dorcadion	dorcadion	dorcadion	dorcadion	N;NOM;INDF;MASC+FEM;SG	
+seymour	сеймур	seymour	сеймур	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+pearl	перл	pearl	перл	N;NOM;INDF;NEUT;SG	
+pearl	перли	pearl	перти	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+pearl	перлини	pearl	перлин	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+lea	леа	lea	ле	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+auf	auf	auf	auf	V;IMP;FIN;ACT	
+lange	ланге	lange	ланге	PROPN;NOM	
+rader	рядками	rad	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;MASC;PL
+rader	рядків	rad	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+rader	рядками	rad	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;MASC;PL
+rader	рядків	rad	рядок	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+rader	лініями	rad	лінія	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;PL
+joniska	іонний	jonisk	іонний	ADJ;NOM;PL	N;INAN;NOM;MASC;SG
+joniska	іонічне	jonisk	іонічний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+shadow	тіней	shado	тінь	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;FEM;PL
+shadow	shadow	shado	shadow	N;NOM;INDF;MASC+FEM;SG	
+brien	браєн	brien	брати	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+förlorar	втрати	förlora	втрата	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;PL
+förlorar	програш	förlora	програш	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+förlorar	втратить	förlora	втратити	V;IND;PRS;FIN;ACT	V;PFV;IND;SG;3;FUT;FIN
+valda	обраний	välja	обраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+valda	вибрано	välja	вибрати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+valda	вибрана	välja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+valda	вибране	välja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+valda	вибраний	välja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+valda	обраний	välja	обраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+valda	обрання	välja	обрання	ADJ;NOM;PL;PST;V.PTCP	N;INAN;NOM;NEUT;SG
+valda	вибраний	välja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+valda	обрані	välja	обран	ADJ;NOM;PL;PST;V.PTCP	N;ANIM;NOM;MASC;PL
+valda	вибране	välja	вибраний	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+valda	вибрано	välja	вибрати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+dubbelt	дабл	dubbel	дабл	ADJ;NOM;INDF;NEUT;SG	
+dubbelt	двічі	dubbel	двічі	ADJ;NOM;INDF;NEUT;SG	ADV
+dubbelt	дубль	dubbel	дубль	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+boulenger	boulenger	bouleng	boulenger	N;NOM;INDF;MASC+FEM;SG	
+vetenskapen	науки	vetenskap	наука	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+floder	річок	flod	річка	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+latifolia	широколистий	latifoli	широколистий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+burke	берк	burke	берк	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+aurora	аврора	auror	аврора	N;NOM;INDF;NEUT;SG	
+bradley	бредлі	bradley	бредлі	PROPN;NOM	
+finn	фінн	finna	фінн	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+hadena	hadena	haden	hadena	N;NOM;INDF;MASC+FEM;SG	
+buss	шини	buss	шина	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+buss	бус	buss	бути	N;NOM;INDF;MASC+FEM;SG	
+märta	марта	märta	март	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+märta	марто	märta	марто	PROPN;NOM	
+märta	марта	märta	март	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+région	région	région	région	N;NOM;INDF;NEUT;SG	
+vetenskapligt	наукових	vetenskaplig	науковий	ADJ;NOM;INDF;NEUT;SG	ADJ;GEN;PL
+albany	олбані	albany	олбан	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+styrman	мате	styrma	мати	N;NOM;INDF;MASC+FEM;SG	
+styrman	керманичем	styrma	керманич	N;NOM;INDF;MASC+FEM;SG	N;ANIM;INS;MASC;SG
+face	обличчям	face	обличчя	N;NOM;INDF;MASC+FEM;SG	N;INAN;INS;NEUT;SG
+face	face	face	face	N;NOM;INDF;MASC+FEM;SG	
+flygande	польоту	flyga	політ	ADJ;NOM;PRS;V.PTCP	N;INAN;GEN;MASC;SG
+freeman	фрімен	freman	фрімен	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+palo	пало	palo	пало	PROPN;NOM	
+porsche	порше	porsche	порше	N;NOM;INDF;MASC+FEM;SG	
+porsche	porsche	porsche	porsche	N;NOM;INDF;MASC+FEM;SG	
+bom	bom	bom	bom	PROPN;NOM	
+bom	boom	bom	boom	PROPN;NOM	
+bom	бум	bom	бум	PROPN;NOM	N;INAN;NOM;MASC;SG
+nikolai	микола	nikolai	микола	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+nikolai	микола	nikolai	микола	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+erbjuda	пропозиція	erbjuda	пропозиція	V;IMP;NFIN;ACT	N;INAN;NOM;FEM;SG
+karel	карел	karel	карело	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+observationer	спостереження	observation	спостереження	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+observationer	спостережень	observation	спостереження	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;NEUT;PL
+drive	drive	drive	drive	N;NOM;INDF;MASC+FEM;SG	
+planerad	заплановану	planera	запланований	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;ACC;FEM;SG;V.PTCP;PASS
+planerad	заплановані	planera	запланований	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+planerad	заплановано	planera	заплановати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+planerad	заплановано	planera	заплановати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+walt	уолт	walt	уолт	PROPN;NOM	N;ANIM;NOM;MASC;SG
+avsett	розміщені	avse	розміщений	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+avsett	призначено	avse	призначити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+protester	протест	protest	протест	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+betyg	класі	betyg	клас	N;NOM;INDF;NEUT;SG	N;INAN;DAT;MASC;SG
+betyg	оцінкою	betyg	оцінка	N;NOM;INDF;NEUT;SG	N;INAN;INS;FEM;SG
+betyg	класи	betyg	клас	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+betyg	оцінок	betyg	оцінка	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;PL
+betyg	оцінки	betyg	оцінка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+övrig	інший	övrig	інший	ADJ;NOM;INDF;MASC+FEM;SG	DET;NOM;MASC;SG
+övrig	інша	övrig	інший	ADJ;NOM;INDF;MASC+FEM;SG	DET;NOM;FEM;SG
+övrig	інші	övrig	інший	ADJ;NOM;INDF;MASC+FEM;SG	DET;NOM;PL
+övrig	інше	övrig	інший	ADJ;NOM;INDF;MASC+FEM;SG	DET;NOM;NEUT;SG
+övrig	інших	övrig	інший	ADJ;NOM;INDF;MASC+FEM;SG	DET;GEN;PL
+hänvisning	посилання	hänvisning	посилання	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;PL
+hänvisning	зразковий	hänvisning	зразковий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+spara	зберігається	spara	зберігатися	V;IMP;FIN;ACT	V;IPFV;IND;SG;3;PRS;FIN
+spara	заощадження	spara	заощадження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;PL
+spara	збереження	spara	збереження	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+iata	iata	iata	iata	N;NOM;INDF;MASC+FEM;SG	
+nagy	nagy	nagy	nagy	PROPN;NOM	
+minut	хвилини	minut	хвилина	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+specifik	конкретних	specifik	конкретний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;GEN;PL
+specifik	конкретні	specifik	конкретний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+medveten	уважні	medveten	уважний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+medveten	відомо	medveten	відомо	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+medveten	усвідомлює	medveten	усвідомлювати	ADJ;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;PRS;FIN
+akademi	академії	akademi	академія	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+ljudet	sound	ljud	sound	N;NOM;DEF;NEUT;SG	
+brooklyn	бруклін	brooklyn	бруклін	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+lineata	lineata	lineat	lineata	N;NOM;INDF;MASC+FEM;SG	
+utgåvor	редакціях	utgåva	редакція	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;FEM;PL
+slutat	зупинено	sluta	зупинути	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+slutat	зупинили	sluta	зупинити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+slutat	зупинився	sluta	зупинитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+slutat	зупинка	sluta	зупинка	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	N;INAN;NOM;FEM;SG
+brunner	brunner	brunna	brunner	N;NOM;INDF;MASC+FEM;SG	
+fortsättning	тривале	fortsättning	тривалий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+fortsättning	продовжив	fortsättning	продовжити	N;NOM;INDF;MASC+FEM;SG	V;PFV;MASC;IND;SG;PST;FIN
+fortsättning	продовжували	fortsättning	продовжувати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;PL;PST;FIN
+fortsättning	продовжується	fortsättning	продовжуватися	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;PRS;FIN
+fortsättning	продовжила	fortsättning	продовжити	N;NOM;INDF;MASC+FEM;SG	V;PFV;FEM;IND;SG;PST;FIN
+eliza	еліза	eliza	еліза	PROPN;NOM	N;ANIM;NOM;FEM;SG
+tyler	тайлер	tyla	тайлер	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+planerat	заплановано	planera	заплановати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+fowler	фаулер	folla	фаулер	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+liberty	свобода	liberty	свобода	PROPN;NOM	N;INAN;NOM;FEM;SG
+stones	камені	ston	камінь	PROPN;NOM	N;INAN;NOM;MASC;PL
+stones	камінці	ston	камінець	PROPN;NOM	N;INAN;NOM;MASC;PL
+stones	каменів	ston	камінь	PROPN;NOM	N;INAN;GEN;MASC;PL
+fasad	façade	fasad	façade	N;NOM;INDF;MASC+FEM;SG	
+senegal	сенегалу	senegal	сенегал	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+trondheim	тронгейм	trondheim	тронгей	PROPN;NOM	N;INAN;NOM;MASC;SG
+discolor	discolor	discola	discolor	N;NOM;INDF;MASC+FEM;PL	
+bishop	єпископа	bishop	єпископ	PROPN;NOM	N;ANIM;ACC;MASC;SG
+bishop	єпископ	bishop	єпископ	PROPN;NOM	N;ANIM;NOM;MASC;SG
+anläggning	рослини	anläggning	рослина	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+anläggning	садити	anläggning	садити	N;NOM;INDF;MASC+FEM;SG	V;IPFV;NFIN
+anläggning	підприємстві	anläggning	підприємство	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;NEUT;SG
+detalj	докладно	detalj	докладно	N;NOM;INDF;MASC+FEM;SG	ADV
+detalj	детально	detalj	детально	N;NOM;INDF;MASC+FEM;SG	ADV
+detalj	подробиці	detalj	подробиця	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+detalj	детальні	detalj	детальня	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+jobba	роботи	jobba	робота	V;IMP;FIN;ACT	N;INAN;NOM;FEM;PL
+jobba	робота	jobba	робота	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+jobba	працюю	jobba	працювати	V;IMP;FIN;ACT	V;IPFV;IND;SG;1;PRS;FIN
+jobba	працюють	jobba	працювати	V;IMP;FIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+jobba	роботу	jobba	робота	V;IMP;FIN;ACT	N;INAN;ACC;FEM;SG
+jobba	робочий	jobba	робочий	V;IMP;FIN;ACT	ADJ;NOM;MASC;SG
+michail	михайло	michail	михайло	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+nutid	теперішній	nutid	теперішній	N;NOM;INDF;MASC+FEM;SG	ADJ;DAT;FEM;SG
+nutid	присутні	nutid	присутній	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+nutid	присутня	nutid	присутня	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+pernambuco	пернамбуку	pernambuco	пернамбук	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+summa	суму	summa	сума	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+summa	сум	summa	сума	N;NOM;INDF;MASC+FEM;SG	
+summa	усього	summa	усе	N;NOM;INDF;MASC+FEM;SG	PRO;INAN;GEN;NEUT;SG
+summa	всього	summa	все	N;NOM;INDF;MASC+FEM;SG	PRO;INAN;GEN;NEUT;SG
+summa	загалом	summa	загалом	N;NOM;INDF;MASC+FEM;SG	ADV
+summa	загальна	summa	загальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+summa	загальний	summa	загальний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+britton	бріттон	britton	бріттон	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+nederlag	поразки	nederlag	поразка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+eye	eye	eye	eye	N;NOM;INDF;MASC+FEM;SG	
+fördelar	перевагу	fördel	перевага	N;NOM;INDF;MASC+FEM;PL	N;INAN;ACC;FEM;SG
+fördelar	перевага	fördel	перевага	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+fördelar	перевагою	fördel	перевага	N;NOM;INDF;MASC+FEM;PL	N;INAN;INS;FEM;SG
+tillämpas	застосування	tillämpa	застосування	V;IND;PRS;FIN;PASS	N;INAN;NOM;NEUT;SG
+tillämpas	звернулася	tillämpa	звернутися	V;IND;PRS;FIN;PASS	V;PFV;FEM;IND;SG;PST;FIN
+taxon	таксон	taxon	таксон	N;NOM;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+marinen	вмс	marin	вмс	N;NOM;DEF;MASC+FEM;SG	
+benen	ніжки	ben	ніжка	N;NOM;DEF;NEUT;SG	N;INAN;NOM;FEM;PL
+benen	ноги	ben	нога	N;NOM;DEF;NEUT;SG	N;INAN;NOM;FEM;PL
+djupa	глибока	djup	глибока	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+djupa	deep	djup	deep	ADJ;NOM;PL	
+djupa	глибоко	djup	глибоко	ADJ;NOM;PL	ADV
+djupa	глибокий	djup	глибокий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+third	третє	third	третєпа	N;NOM;SG	NUM;NOM;NEUT
+third	третій	third	третій	N;NOM;SG	ADJ;NOM;MASC;SG
+third	третя	third	третій	N;NOM;SG	ADJ;NOM;FEM;SG
+bonus	бонуси	bonus	бонути	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+meddelande	комунікації	meddelande	комунікація	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+komplexa	комплекс	komplex	комплекс	ADJ;NOM;PL	N;INAN;NOM;MASC;SG
+rincón	рінкон	rinca	рінкон	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+utökade	розширена	utöka	розширений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+utökade	розширений	utöka	розширений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+utökade	збільшено	utöka	збільшити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+utökade	широкий	utöka	широкий	ADJ;NOM;PL;PST;V.PTCP	ADJ;NOM;MASC;SG
+dawn	світанок	da	світанок	PROPN;NOM	N;INAN;NOM;MASC;SG
+dawn	світанку	da	світанок	PROPN;NOM	N;INAN;GEN;MASC;SG
+generationer	комплексів	generation	комплекс	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+generationer	покоління	generation	покоління	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;NEUT;SG
+generationer	поколінь	generation	поколінь	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;NEUT;PL
+tjäna	подаємо	tjäna	подавати	V;IMP;FIN;ACT	V;IPFV;IND;PL;1;PRS;FIN
+volymer	каналах	volym	канал	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;FEM;PL
+sammanhängande	неперервним	sammanhängande	неперервний	ADJ;NOM;PRS;V.PTCP	ADJ;INS;NEUT;SG
+forbes	forbes	forbes	forbes	PROPN;NOM	
+nature	природня	nature	природній	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+mozart	моцарта	mommor	моцарт	PROPN;NOM	N;INAN;NOM;MASC;SG
+mozart	моцарт	mommor	моцарт	PROPN;NOM	N;INAN;NOM;MASC;SG
+återställa	відновлення	återställa	відновлення	V;IMP;NFIN;ACT	N;INAN;NOM;NEUT;SG
+återställa	скидаються	återställa	скидатися	V;IMP;NFIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+återställa	відновлення	återställa	відновлення	V;IMP;NFIN;ACT	N;INAN;NOM;NEUT;SG
+teman	тем	teman	тема	N;NOM;INDF;NEUT;PL	N;INAN;GEN;FEM;PL
+livsmedel	foods	livsmedel	foods	N;NOM;INDF;NEUT;SG	
+varvet	верф	varv	верф	N;NOM;DEF;NEUT;SG	
+värmdö	сандерленд	värmdö	сандерленд	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;NEUT;SG
+fördelade	поширюється	fördela	поширюватися	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN
+myspace	myspace	myspace	myspace	N;NOM;INDF;MASC+FEM;SG	
+underhuset	commons	underhus	commons	N;NOM;DEF;NEUT;SG	
+ensamma	наодинці	ensam	наодинці	ADJ;NOM;PL	ADV
+ensamma	поодинці	ensam	поодинець	ADJ;NOM;PL	ADV
+ensamma	сама	ensam	сам	ADJ;NOM;PL	DET;NOM;FEM;SG;REFL
+ensamma	самі	ensam	сам	ADJ;NOM;PL	DET;NOM;PL;REFL
+ensamma	самотнім	ensam	самотній	ADJ;NOM;PL	ADJ;INS;MASC;SG
+ensamma	самотня	ensam	самотній	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+ensamma	самотньо	ensam	самотньо	ADJ;NOM;PL	ADV
+mollis	mollis	mollis	mollis	N;NOM;INDF;MASC+FEM;SG	
+fuller	фуллер	fuller	фуллер	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+ricardo	рікардо	ricardo	рікардо	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+willem	віллем	willem	вілль	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+institution	установи	institution	установа	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+sylvia	сільвія	sylvia	сільвія	PROPN;NOM	N;ANIM;NOM;FEM;SG
+splendens	блискуча	splende	блискучий	N;NOM;INDF;NEUT;PL	ADJ;NOM;FEM;SG
+gara	гара	gara	гара	N;NOM;INDF;MASC+FEM;SG	
+sveti	светий	sveti	светий	PROPN;NOM	ADJ;NOM;MASC;SG
+räkning	білла	räkning	білла	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+räkning	білл	räkning	білл	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+räkning	біл	räkning	білий	N;NOM;INDF;MASC+FEM;SG	
+boulder	боулдер	bould	боулдер	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+akademisk	навчального	akademisk	навчальний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;GEN;MASC;SG
+desert	пустелі	desera	пустель	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+campus	університеті	campus	університет	N;NOM;INDF;NEUT;SG	N;INAN;DAT;MASC;SG
+industrin	галузі	industri	галузь	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+cola	кока	cola	кока	N;NOM;INDF;MASC+FEM;SG	
+cola	кокс	cola	кокс	N;NOM;INDF;MASC+FEM;SG	
+cola	колу	cola	коло	N;NOM;INDF;MASC+FEM;SG	
+case	випадку	case	випадок	N;NOM;INDF;MASC+FEM;SG	ADV
+primära	основний	primär	основний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+primära	основне	primär	основний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+primära	основна	primär	основний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+medborgarskap	нації	medborgarskap	нація	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;SG
+medborgarskap	націю	medborgarskap	нація	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+bröd	хліба	bröd	хліб	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+oberthür	oberthür	obertha	oberthür	N;NOM;INDF;MASC+FEM;SG	
+fas	етапу	fas	етап	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+fas	фазу	fas	фаза	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+fas	фази	fas	фаза	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+lissabon	лісабон	lissabon	лісабон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+markera	кропивницький	markera	кропивницький	V;IMP;FIN;ACT	ADJ;NOM;MASC;SG
+markera	підсвічування	markera	підсвічування	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+markera	вибір	markera	вибір	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+kritiserade	критикували	kritisera	критикувати	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;IND;PL;PST;FIN
+noterade	зауважимо	notera	зауважити	V;IND;PST;V.PTCP;ACT	V;PFV;IND;PL;1;FUT;FIN
+fragment	фрагмент	fragment	фрагмент	N;NOM;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+stand	стоїмо	stand	стояти	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;PL;1;PRS;FIN
+stand	stand	stand	stand	N;NOM;INDF;MASC+FEM;SG	
+konrad	конрад	konrad	конрад	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+chester	честер	chest	честер	PROPN;NOM	
+patricia	патриція	patricia	патрицій	PROPN;NOM	N;ANIM;NOM;FEM;SG
+kalender	календар	kalender	календар	N;NOM;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+ovanlig	незвичні	ovanlig	незвичний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+ovanlig	незвичайні	ovanlig	незвичайний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+ovanlig	незрозумілих	ovanlig	незрозумілий	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;GEN;PL
+sega	sega	sega	sega	N;NOM;INDF;MASC+FEM;PL	
+edmonton	едмонтон	edmonton	едмонтон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+wallenberg	валленберг	wallenberg	валленберг	PROPN;NOM	N;INAN;NOM;NEUT;SG
+antigua	антигуа	antigua	антигуа	N;NOM;INDF;NEUT;SG	PROPN;INAN;NOM;MASC;SG
+gardner	гарднер	gardn	гарднер	PROPN;NOM	
+negativt	ємних	negativ	ємний	ADJ;NOM;INDF;NEUT;SG	ADJ;GEN;PL
+negativt	негатив	negativ	негатив	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+negativt	негативні	negativ	негативний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+släkting	відносно	släkting	відносно	N;NOM;INDF;MASC+FEM;SG	ADV
+släkting	відносна	släkting	відносний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+släkting	відносний	släkting	відносний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+läsaren	reader	läsare	reader	N;NOM;DEF;MASC+FEM;SG	
+ham	ам	ham	ам	PROPN;NOM	
+sigrid	сігрід	sigrid	сігрід	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+armeniska	вірменська	armenisk	вірменський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+ngc	ngc	ngc	ngc	PROPN;NOM	
+antônio	антоніу	antônio	антоніу	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+etablerat	встановлено	etablera	встановити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+etablerat	подальшому	etablera	подальший	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;DAT;MASC;SG
+synpunkter	відгук	synpunkt	відгук	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+synpunkter	коментарях	synpunkt	коментар	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;MASC;PL
+synpunkter	коментарів	synpunkt	коментар	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+flyg	fly	flyg	fly	N;NOM;INDF;NEUT;SG	
+flyg	літати	flyg	літати	N;NOM;INDF;NEUT;SG	V;IPFV;NFIN
+flyg	польоту	flyg	політ	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+flyg	перельоти	flyg	перельоти	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+flyg	рейси	flyg	рейс	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+flyg	рейсів	flyg	рейс	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+ajax	аякс	ajax	аякс	PROPN;NOM	N;ANIM;NOM;MASC;SG
+stärka	посилення	stärka	посилення	V;NFIN;ACT	N;INAN;NOM;NEUT;SG
+enorma	величезна	enorm	величезний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+enorma	величезний	enorm	величезний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+klaus	клаус	klaus	клаус	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+gang	gang	gang	gang	N;NOM;INDF;MASC+FEM;SG	
+gang	банди	gang	банда	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+coenonympha	coenonympha	coenonympha	coenonympha	N;NOM;INDF;MASC+FEM;SG	
+anopheles	anopheles	anophel	anopheles	N;NOM;INDF;MASC+FEM;SG	
+morton	мортон	morton	мортон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+robotar	ракет	robota	ракета	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+dominerade	домінують	dominera	домінувати	V;NOM;PL;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN
+finansiella	фінанси	finansiell	фінанса	ADJ;NOM;PL	N;INAN;NOM;MASC;PL
+finansiella	фінансова	finansiell	фінансовий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+dawson	доусон	dawson	доусон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+magna	велика	magen	великий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+pia	пія	pia	пія	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+devon	девон	devon	девон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+delägare	партнер	delägare	партнер	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+delägare	напарник	delägare	напарник	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+delägare	партнерські	delägare	партнерський	N;NOM;INDF;MASC+FEM;PL	ADJ;NOM;PL
+croix	круа	croix	круа	N;NOM;INDF;MASC+FEM;SG	
+kenny	кенні	kenny	кенний	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+mick	мік	måcke	мік	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+bitar	бітів	bit	біт	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+bitar	біт	bit	біт	N;NOM;INDF;MASC+FEM;PL	
+gros	гро	gros	гро	N;NOM;INDF;NEUT;SG	
+ljusa	яскраве	ljus	яскравий	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+ljusa	яскрава	ljus	яскравий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+ljusa	зійшла	ljus	зійти	ADJ;NOM;PL	V;PFV;FEM;IND;SG;PST;FIN
+theodore	теодор	theodore	теодор	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+electric	електричний	electric	електричний	N;NOM;INDF;NEUT;SG	ADJ;NOM;MASC;SG
+diskuteras	дискусія	diskutera	дискусія	V;IND;PRS;FIN;PASS	N;INAN;NOM;FEM;SG
+diskuteras	обговорили	diskutera	обговорити	V;IND;PRS;FIN;PASS	V;PFV;IND;PL;PST;FIN
+diskuteras	обговорювали	diskutera	обговорювати	V;IND;PRS;FIN;PASS	V;IPFV;IND;PL;PST;FIN
+vitryska	білоруський	vitrysk	білоруський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+vitryska	білоруська	vitrysk	білоруський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+edith	едіт	edith	едіт	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+dynastin	династія	dynastin	династія	ADJ;NOM;DEF;RL	N;INAN;NOM;FEM;SG
+väntar	очікування	vänta	очікування	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+knapp	кнопку	knapp	кнопка	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+inter	інтер	inter	інтер	PROPN;NOM	
+madame	madame	madam	madame	N;NOM;INDF;MASC+FEM;SG	
+presentation	презентацію	presentation	презентація	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+presentation	презентації	presentation	презентація	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+utgivning	публікацією	utgivning	публікація	N;NOM;INDF;MASC+FEM;SG	N;INAN;INS;FEM;SG
+förstöra	занепад	förstöra	занепад	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+syre	киснем	syre	кисень	N;NOM;INDF;NEUT;SG	N;INAN;INS;MASC;SG
+kulturer	культур	kultur	культура	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+hawk	hawk	hawk	hawk	N;NOM;INDF;NEUT;SG	
+opus	opus	opus	opus	N;NOM;INDF;MASC+FEM;SG	
+slovenska	словенський	slovensk	словенський	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+befattning	функцію	befattning	функція	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+befattning	функції	befattning	функція	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+befattning	позиції	befattning	позиція	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+rättegången	судять	rättegång	судити	N;NOM;DEF;MASC+FEM;SG	V;IPFV;IND;PL;3;PRS;FIN
+planeras	запланована	planera	запланований	V;IND;PRS;FIN;PASS	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+planeras	запланований	planera	запланований	V;IND;PRS;FIN;PASS	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+planeras	заплановане	planera	запланований	V;IND;PRS;FIN;PASS	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+kontroversiella	фасаді	kontroversiell	фасад	ADJ;NOM;PL	N;INAN;NOM;MASC;SG
+datorn	computer	dator	computer	N;NOM;DEF;MASC+FEM;SG	
+kommersiellt	комерційного	kommersiell	комерційний	ADJ;NOM;INDF;NEUT;SG	ADJ;GEN;MASC;SG
+kommersiellt	комерційні	kommersiell	комерційний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+accepterade	прийнято	acceptera	прийнято	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+accepterade	прийняли	acceptera	прийняти	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+accepterade	прийнятий	acceptera	прийнятий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+justin	джастін	justin	джастін	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+orleans	орлеан	orleans	орлеан	PROPN;NOM	N;INAN;NOM;MASC;SG
+giro	джиро	giro	джирка	PROPN;NOM	PROPN;INAN;NOM;NEUT;SG
+levi	леві	levi	леві	N;NOM;INDF;MASC+FEM;SG	
+istanbul	стамбула	istanbul	стамбути	PROPN;NOM	N;INAN;GEN;MASC;SG
+istanbul	стамбулі	istanbul	стамбулий	PROPN;NOM	PROPN;INAN;DAT;MASC;SG
+istanbul	стамбул	istanbul	стамбула	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+uppträda	виконання	uppträda	виконання	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+cut	різати	cut	різати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;NFIN
+cut	вирізати	cut	вирізати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;NFIN
+väggen	стіну	vägg	стіна	N;NOM;DEF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+väggen	стіні	vägg	стіна	N;NOM;DEF;MASC+FEM;SG	N;INAN;DAT;FEM;SG
+elena	олена	elena	олена	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+elena	елена	elena	елена	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+westwood	вествуд	westwood	вествуд	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+somalia	сомалі	somali	сомалі	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+inställning	attitude	inställning	attitude	N;NOM;INDF;MASC+FEM;SG	
+santana	сантана	santan	сантан	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+burgos	бургос	burgos	бургос	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+hebei	хебей	hebei	хебія	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+efterföljare	читачів	efterföljare	читач	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+efterföljare	наступником	efterföljare	наступник	N;NOM;INDF;MASC+FEM;PL	N;ANIM;INS;MASC;SG
+artur	артур	artur	артур	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+artur	артур	artur	артур	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+gäst	гостя	gäsa	гість	N;NOM;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;SG
+gäst	guest	gäsa	guest	N;NOM;INDF;MASC+FEM;SG	
+gäst	гостем	gäsa	гість	N;NOM;INDF;MASC+FEM;SG	N;ANIM;INS;MASC;SG
+mänsklig	людина	mänsklig	людина	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;FEM;SG
+apamea	apamea	apame	apamea	N;NOM;INDF;MASC+FEM;SG	
+moss	мосс	moss	мосс	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+made	зробила	made	зробити	N;NOM;INDF;MASC+FEM;SG	V;PFV;FEM;IND;SG;PST;FIN
+made	made	made	made	N;NOM;INDF;MASC+FEM;SG	
+register	зареєструватись	regist	зареєструватися	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+register	зареєструвати	regist	зареєструвати	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+register	рекорди	regist	рекорда	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+register	records	regist	records	N;NOM;INDF;NEUT;SG	
+register	платівки	regist	платівка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+register	регістри	regist	регістр	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+kärnan	основний	kärna	основний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+kärnan	core	kärna	core	N;NOM;DEF;MASC+FEM;SG	
+systems	систем	system	система	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;PL
+systems	systems	system	systems	N;NOM;INDF;NEUT;SG	
+mini	mini	mini	mini	N;NOM;INDF;MASC+FEM;SG	
+mini	міні	mini	міні	N;NOM;INDF;MASC+FEM;SG	
+ökande	зростати	öka	зростати	ADJ;NOM;PRS;V.PTCP	V;IPFV;NFIN
+ökande	збільшення	öka	збільшення	ADJ;NOM;PRS;V.PTCP	N;INAN;NOM;NEUT;SG
+ökande	пробудження	öka	пробудження	ADJ;NOM;PRS;V.PTCP	N;INAN;NOM;NEUT;SG
+ökande	rising	öka	rising	ADJ;NOM;PRS;V.PTCP	
+ökande	піднімається	öka	підніматися	ADJ;NOM;PRS;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN
+feng	фен	feng	фен	N;NOM;INDF;MASC+FEM;SG	
+motte	мотт	motte	мотт	N;NOM;INDF;MASC+FEM;SG	
+jupiter	юпітер	jupit	юпітер	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+överlevande	survivors	överlevande	survivors	ADJ;NOM;PRS;V.PTCP	
+överlevande	вижили	överlevande	вижити	ADJ;NOM;PRS;V.PTCP	V;PFV;IND;PL;PST;FIN
+överlevande	survivor	överlevande	survivor	ADJ;NOM;PRS;V.PTCP	
+erkänner	визначить	erkänna	визначити	V;IND;PRS;FIN;ACT	V;PFV;IND;SG;3;FUT;FIN
+formica	formica	formic	formica	N;NOM;INDF;MASC+FEM;SG	
+synliga	видима	synlig	видимо	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+synliga	видимий	synlig	видимий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+synliga	видно	synlig	видно	ADJ;NOM;PL	ADV
+selma	сельма	selma	сельм	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+aus	aus	aus	aus	V;IMP;FIN;ACT	
+nationen	нації	nation	нація	N;NOM;DEF;MASC+FEM;SG	N;INAN;GEN;FEM;SG
+sålda	продано	såld	продати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+satsa	веселої	satsa	веселий	V;IMP;FIN;ACT	ADJ;GEN;FEM;SG
+satsa	заклад	satsa	заклад	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+satsa	парі	satsa	пара	V;IMP;FIN;ACT	N;INAN;DAT;FEM;SG
+marknad	marketplace	marknad	marketplace	N;NOM;INDF;MASC+FEM;SG	
+marknad	маркет	marknad	маркет	N;NOM;INDF;MASC+FEM;SG	
+marknad	ринкова	marknad	ринковий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+marknad	ринку	marknad	ринка	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;FEM;SG
+pension	пенсії	pension	пенсія	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;PL
+pension	пенсії	pension	пенсія	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;PL
+braun	браун	braun	брауна	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+knuten	вузол	knyta	вузол	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+jiang	цзян	jiang	цзян	PROPN;NOM	
+andrés	андрес	annan	андрес	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+filer	файлів	fil	файл	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+flykt	втечу	flykt	втеча	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+flykt	втекти	flykt	втекти	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+wen	вен	wen	вен	PROPN;NOM	
+humboldt	гумбольдт	humbold	гумбольдт	PROPN;NOM	N;INAN;NOM;MASC;SG
+grundandet	засновники	grundande	засновник	N;NOM;DEF;NEUT;SG	N;ANIM;NOM;MASC;PL
+willie	віллі	willie	віллі	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+zaire	заїр	zaimen	заїра	PROPN;NOM	
+passerade	пройшов	passera	пройти	ADJ;NOM;PL;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+passerade	пройдено	passera	пройти	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+passerade	передано	passera	передати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+passerade	перейшов	passera	перейти	ADJ;NOM;PL;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+passerade	минули	passera	минути	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+moder	матері	moder	мати	N;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;FEM;PL
+falla	осінь	falla	осінь	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+falla	fall	falla	fall	V;IMP;FIN;ACT	
+falla	падіння	falla	падіння	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+lincolnshire	лінкольншир	lincolnshire	лінкольншир	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+katedralen	соборна	katedral	соборний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+cima	cima	cima	cima	N;NOM;INDF;MASC+FEM;SG	
+förbättrade	покращений	förbättrad	покращений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+förbättrade	покращена	förbättrad	покращений	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;FEM;SG;V.PTCP;PASS
+webbplatsen	сайті	pebbplats	сайт	N;NOM;DEF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+kuk	дік	kuk	дік	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+schultz	шульц	schultz	шульц	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+canadiens	канадієнс	canadiun	канадієнс	PROPN;NOM	N;INAN;NOM;MASC;SG
+behandlade	переведено	behandla	перевести	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+behandlade	ставився	behandla	ставитися	ADJ;NOM;PL;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+behandlade	опрацювати	behandla	опрацювати	ADJ;NOM;PL;PST;V.PTCP	V;PFV;NFIN
+behandlade	оброблено	behandla	обробити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+halle	галле	halle	галло	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+mottagande	отримання	motta	отримання	ADJ;NOM;PRS;V.PTCP	N;INAN;NOM;NEUT;SG
+mottagande	прийом	motta	прийом	ADJ;NOM;PRS;V.PTCP	N;INAN;NOM;MASC;SG
+slåss	бійцівський	slåss	бійцівський	V;FIN;PASS	ADJ;NOM;MASC;SG
+slåss	боротьба	slåss	боротьба	V;FIN;PASS	N;INAN;NOM;FEM;SG
+slåss	боротьбі	slåss	боротьба	V;FIN;PASS	N;INAN;DAT;FEM;SG
+slåss	бойовий	slåss	бойовий	V;FIN;PASS	ADJ;NOM;MASC;SG
+slåss	бійка	slåss	бійка	V;FIN;PASS	N;INAN;NOM;FEM;SG
+slåss	бій	slåss	бій	V;FIN;PASS	N;INAN;NOM;MASC;SG
+slåss	бійка	slåss	бійка	V;FIN;PASS	N;INAN;NOM;FEM;SG
+slåss	fight	slåss	fight	V;FIN;PASS	
+bytt	змінився	byta	змінитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+bytt	змінилася	byta	змінитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+bytt	змінено	byta	змінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+bytt	змінені	byta	змінений	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+bytt	переплутали	byta	переплутати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ideal	ідеали	ideal	ідеал	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+ideal	ідеалів	ideal	ідеал	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+uppstått	виникало	uppstå	виникати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;IPFV;NEUT;IND;SG;PST;FIN
+israeliska	ізраїльська	israelisk	ізраїльський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+svaga	слабка	svag	слабкий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+svaga	слабкий	svag	слабкий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+indre	ендр	indre	ендр	N;NOM;INDF;MASC+FEM;SG	
+tomt	порожнім	tom	порожній	ADJ;NOM;INDF;NEUT;SG	ADJ;INS;FEM;SG
+tomt	порожні	tom	порожній	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+tomt	порожній	tom	порожній	ADJ;NOM;INDF;NEUT;SG	ADJ;DAT;FEM;SG
+tomt	бланк	tom	бланк	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+tomt	порожній	tom	порожній	ADJ;NOM;INDF;NEUT;SG	ADJ;DAT;FEM;SG
+sojuz	союз	sojuz	союз	PROPN;NOM	N;INAN;NOM;MASC;SG
+ritat	намалював	rita	намалювати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+ritat	дрю	rita	дря	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	PROPN;ANIM;NOM;MASC;SG
+ritat	намальовано	rita	намальовано	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+ritat	намальовані	rita	намальований	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+work	роботи	work	робота	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+work	працюю	work	працювати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;SG;1;PRS;FIN
+work	працюють	work	працювати	N;NOM;INDF;MASC+FEM;SG	V;IPFV;IND;PL;3;PRS;FIN
+work	роботу	work	робота	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+work	робочий	work	робочий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+thing	затори	thing	затор	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+evolution	evolution	evolution	evolution	N;NOM;INDF;MASC+FEM;SG	
+bestämd	фірмі	bestämd	фірма	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;DAT;FEM;SG
+bestämd	фірми	bestämd	фірма	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;NOM;FEM;PL
+bestämd	фірма	bestämd	фірма	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;NOM;FEM;SG
+bestämd	рішуче	bestämd	рішуче	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADV
+acronicta	acronicta	acronict	acronicta	N;NOM;INDF;MASC+FEM;SG	
+guizhou	гуйчжоу	guizhou	гуйчжо	PROPN;NOM	ADJ;NOM;FEM;SG
+lion	лев	lion	лев	N;NOM;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+born	народився	born	народитися	N;NOM;INDF;MASC+FEM;SG	V;PFV;MASC;IND;SG;PST;FIN
+born	борн	born	борно	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+born	народилась	born	народитися	N;NOM;INDF;MASC+FEM;SG	V;PFV;FEM;IND;SG;PST;FIN
+born	народилася	born	народитися	N;NOM;INDF;MASC+FEM;SG	V;PFV;FEM;IND;SG;PST;FIN
+maculatus	maculatus	maculatus	maculatus	N;NOM;INDF;MASC+FEM;SG	
+pinar	пінар	pin	пінар	N;NOM;INDF;MASC+FEM;SG	
+olsen	олсен	ols	олсен	N;NOM;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+aaron	аарон	aaron	аарон	PROPN;NOM	
+aaron	арон	aaron	арон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+fotografi	фотографії	fotografi	фотографія	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+fotografi	фотографію	fotografi	фотографія	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+inge	інге	inge	інге	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+ski	лижі	ski	лижа	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+ski	лижах	ski	лиж	N;NOM;INDF;NEUT;SG	N;INAN;DAT;FEM;PL
+ockuperade	зайнятого	ockupera	зайнятий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;GEN;MASC;SG;V.PTCP;PASS
+ockuperade	зайняте	ockupera	зайнятий	ADJ;NOM;PL;PST;V.PTCP	ADJ;PFV;NOM;NEUT;SG;V.PTCP;PASS
+ockuperade	зайнято	ockupera	зайнято	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+karen	карен	kar	карен	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+inblandad	звинувачували	inblandad	звинувачувати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;PST;FIN
+inblandad	звязок	inblandad	звязок	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+puy	пюї	puy	пюя	N;NOM;INDF;MASC+FEM;SG	
+lara	лара	lara	лара	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+cinerea	cinerea	cinere	cinerea	N;NOM;INDF;MASC+FEM;SG	
+qinghai	цінхай	qinghai	цінхати	PROPN;NOM	N;INAN;NOM;MASC;SG
+inkluderade	включено	inkludera	включити	ADJ;NOM;PL;PST;V.PTCP	V;PFV;IND;0;FIN
+plast	пластику	plast	пластика	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+plast	купляти	plast	купляти	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+laevis	laevis	laevis	laevis	N;NOM;INDF;MASC+FEM;SG	
+litterär	літературні	litterär	літературний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+magiska	чарівна	magisk	чарівний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+magiska	магія	magisk	магія	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+magiska	magic	magisk	magic	ADJ;NOM;PL	
+mörkt	темні	mörk	темний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+mörkt	темно	mörk	темно	ADJ;NOM;INDF;NEUT;SG	ADV
+sinclair	сінклер	sincla	сінклер	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+hastings	гастінгс	hasting	гастінгс	PROPN;NOM	N;INAN;NOM;NEUT;SG
+beni	бені	beni	бін	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+islamiska	ісламський	islamisk	ісламський	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+jyväskylä	ювяскюля	jyväskylä	ювяскюль	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+linder	ліндер	linder	ліндер	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+boeing	боїнг	boeing	боїнг	PROPN;NOM	N;INAN;NOM;MASC;SG
+boeing	boeing	boeing	boeing	PROPN;NOM	
+gifter	шлаки	gifta	шлак	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+gifter	токсини	gifta	токсина	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+grove	гаю	grov	гай	PROPN;NOM	N;INAN;DAT;MASC;SG
+nät	нетто	nät	нетто	N;NOM;INDF;NEUT;SG	
+nät	net	nät	net	N;NOM;INDF;NEUT;SG	
+nät	метеликів	nät	метелик	N;NOM;INDF;NEUT;SG	N;ANIM;ACC;MASC;PL
+xiii	xiii	xiii	xiii	PROPN;NOM	
+broar	мостів	bro	місто	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+sonic	sonic	sonic	sonic	PROPN;NOM	
+falkenberg	фалькенберг	falkenberg	фалькенберг	PROPN;NOM	
+brevis	brevis	brevis	brevis	N;NOM;INDF;MASC+FEM;SG	
+gemenskapen	спільноти	gemenskap	спільнота	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+bandera	бандера	bandera	бандер	N;NOM;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+evil	злом	evil	злом	N;NOM;INDF;MASC+FEM;SG	N;INAN;INS;MASC;SG
+evil	evil	evil	evil	N;NOM;INDF;MASC+FEM;SG	
+nikolaus	ніколаус	nikolaus	ніколаус	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+perfekt	perfect	perfekt	perfect	ADJ;NOM;INDF;NEUT;SG	
+perfekt	ідеально	perfekt	ідеально	ADJ;NOM;INDF;NEUT;SG	ADV
+perfekt	ідеальні	perfekt	ідеальний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+perfekt	досконало	perfekt	досконало	ADJ;NOM;INDF;NEUT;SG	ADV
+bol	боль	bol	боль	N	
+delia	делія	delia	делія	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+madagascariensis	madagascariensis	madagascariensis	madagascariensis	N;NOM;INDF;MASC+FEM;SG	
+variation	сорти	variation	сорт	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+variation	різноманітності	variation	різноманітність	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;FEM;SG
+lämpliga	відповідний	lämplig	відповідний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+lämpliga	відповідну	lämplig	відповідний	ADJ;NOM;PL	ADJ;ACC;FEM;SG
+lämpliga	підходить	lämplig	підходити	ADJ;NOM;PL	V;IPFV;IND;SG;3;PRS;FIN
+hoya	хойя	hoya	хойя	V;IMP;FIN;ACT	
+tunna	бочку	tun	бочка	ADJ;NOM;PL	N;INAN;ACC;FEM;SG
+tunna	бочка	tun	бочка	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+tunna	тонка	tun	тонкий	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+tunna	тонкий	tun	тонкий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+närhet	близькості	närhet	близькість	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;FEM;SG
+moses	мойсей	mose	мойсь	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+varumärke	бренду	varumärke	бренда	N;NOM;INDF;NEUT;SG	N;INAN;GEN;MASC;SG
+varumärke	brand	varumärke	brand	N;NOM;INDF;NEUT;SG	
+varumärke	торговельних	varumärke	торговельний	N;NOM;INDF;NEUT;SG	ADJ;ACC;PL
+rosta	rust	rosta	rust	V;IMP;FIN;ACT	
+stopp	стоп	stopp	стоп	N;NOM;INDF;NEUT;SG	
+stopp	припинити	stopp	припинити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+stopp	зупинки	stopp	зупинка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+stopp	зупинити	stopp	зупинити	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+stopp	зупинитись	stopp	зупинитися	N;NOM;INDF;NEUT;SG	V;PFV;NFIN
+uppehåll	стайні	uppehåll	стайний	N;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+manhattan	манхеттен	manhattan	манхеттен	N;NOM;DEF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+pietro	pietro	pietro	pietro	PROPN;NOM	
+formella	формальна	formell	формальний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+clemens	клеменс	clem	клеменс	PROPN;NOM	N;ANIM;NOM;MASC;SG
+terre	терр	terre	терр	N;NOM;INDF;NEUT;SG	
+#the	#	#the	#	N;NOM;INDF;MASC+FEM;SG	
+mai	май	mai	май	N;NOM;INDF;NEUT;SG	
+bortom	beyond	bortom	beyond	ADP	
+bortom	поза	bortom	поза	ADP	
+marin	марін	marin	марін	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+marin	морська	marin	морський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+partiklar	частинок	partikel	частинка	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+sutton	саттон	sutton	саттон	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+nürnberg	нюрнберг	nürnberg	нюрнберг	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+julien	жульєн	julien	жульєн	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+åldern	віці	ålder	вік	N;NOM;DEF;MASC+FEM;SG	ADV
+cichlidae	cichlidae	cichlidae	cichlidae	V;IMP;FIN;ACT	
+måns	манс	måns	манс	PROPN;NOM	
+turister	туристів	turist	турист	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+udda	одд	udda	одд	N;NOM;INDF;NEUT;SG	
+udda	дивно	udda	дивно	N;NOM;INDF;NEUT;SG	ADV
+udda	дивним	udda	дивний	N;NOM;INDF;NEUT;SG	ADJ;INS;NEUT;SG
+tiotal	десятки	tiotal	десяток	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+simmons	сіммонс	simmon	сіммонс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+ouagadougou	уагадугу	ouagadougou	уагадуга	PROPN;NOM	PROPN;INAN;GEN;MASC;SG
+nan	нан	nan	нан	N;NOM;INDF;NEUT;SG	
+nan	nan	nan	nan	N;NOM;INDF;NEUT;SG	
+vale	долини	väla	долина	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+cooke	кук	cooke	кук	PROPN;NOM	
+radcliffe	редкліфф	radcliffe	редкліфф	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+gate	gate	gate	gate	N;NOM;INDF;NEUT;SG	
+gate	ворота	gate	воротий	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+aktuellt	поточні	aktuell	поточний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+aktuellt	течія	aktuell	течія	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;SG
+aktuellt	струм	aktuell	струм	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+mills	міллс	mills	міллс	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+gåva	пожертву	gåva	пожертва	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+gåva	подарунку	gåva	подарунок	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+madonna	мадонна	madon	мадонний	PROPN;NOM	ADJ;NOM;FEM;SG
+lutea	жовті	lutea	жовтий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+lutea	lutea	lutea	lutea	N;NOM;INDF;MASC+FEM;SG	
+stade	стад	stad	стад	PROPN;NOM	
+anonym	наркомани	anonym	наркоман	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+övertygad	переконані	övertyga	переконаний	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+övertygad	переконали	övertyga	переконати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+antikens	давніх	antik	давній	N;GEN;DEF;MASC+FEM;SG	ADJ;GEN;PL
+antikens	стародавні	antik	стародавний	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;PL
+antikens	давні	antik	давний	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;PL
+antikens	стародавній	antik	стародавний	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+antikens	давній	antik	давній	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+riley	райлі	riley	райл	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+jämföra	порівняння	jämföra	порівняння	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+jämföra	порівняння	jämföra	порівняння	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+folkomröstning	референдуми	folkomröstning	референдум	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+straffar	карає	straffa	карати	N;NOM;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;PRS;FIN
+straffar	покарати	straffa	покарати	N;NOM;INDF;MASC+FEM;PL	V;PFV;NFIN
+straffar	карати	straffa	карати	N;NOM;INDF;MASC+FEM;PL	V;IPFV;NFIN
+straffar	штрафів	straffa	штраф	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+nash	неш	nash	неш	PROPN;NOM	
+nash	рівновага	nash	рівновага	PROPN;NOM	N;INAN;NOM;FEM;SG
+fairmaire	fairmaire	fairmaire	fairmaire	N;NOM;INDF;MASC+FEM;SG	
+campos	кампос	campos	кампос	PROPN;NOM	
+christoffer	крістофер	christoff	крістофер	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+yan	янь	yan	янь	PROPN;NOM	
+ruiz	руїс	ruiz	руїс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+radikala	ключ	radikal	ключ	ADJ;NOM;PL	N;INAN;NOM;MASC;SG
+radikala	радикальна	radikal	радикальний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+radikala	радикалів	radikal	радикал	ADJ;NOM;PL	N;INAN;GEN;MASC;PL
+radikala	радикали	radikal	радикати	ADJ;NOM;PL	N;ANIM;NOM;MASC;PL
+anor	lineage	anor	lineage	N;NOM;INDF;MASC+FEM;SG	
+förståelse	розуміючи	förståelse	розуміти	N;NOM;INDF;MASC+FEM;SG	V;IPFV;PRS;V.CVB
+tillåtna	дозволено	tillåten	дозволити	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;0;FIN
+tillåtna	дозволені	tillåten	дозволений	N;NOM;INDF;MASC+FEM;SG	ADJ;PFV;NOM;PL;V.PTCP;PASS
+tillåtna	дозволили	tillåten	дозволити	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;PL;PST;FIN
+tillåtna	дозволено	tillåten	дозволити	N;NOM;INDF;MASC+FEM;SG	V;PFV;IND;0;FIN
+konsekvenser	євросоюзу	konsekvens	євросіюз	N;NOM;INDF;MASC+FEM;PL	PROPN;INAN;GEN;MASC;SG
+statsman	statesman	statsman	statesman	N;NOM;INDF;MASC+FEM;SG	
+vorarlberg	форарльберг	vorarlberg	форарльберг	PROPN;NOM	N;INAN;NOM;FEM;SG
+bermuda	бермуди	bermuda	бермуди	PROPN;NOM	N;INAN;NOM;MASC;PL
+knox	нокс	knox	нокс	PROPN;NOM	
+emily	емілі	emily	еміль	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+studion	студії	studion	студія	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+studion	studio	studion	studio	N;NOM;DEF;MASC+FEM;SG	
+studion	студію	studion	студія	N;NOM;DEF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+studion	майстерні	studion	майстерня	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+studion	денне	studion	денний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+ovata	ovata	ovat	ovata	N;NOM;INDF;MASC+FEM;SG	
+kandidater	кандидатів	kandidat	кандидат	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+kalksten	вапняку	kalkst	вапняка	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+valuta	валюту	valut	валюта	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+valuta	валюти	valut	валюти	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+marsch	березні	marsch	березень	N;NOM;INDF;MASC+FEM;SG	ADV
+marsch	березня	marsch	березень	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+hendrik	гендрік	hendrik	гендрік	PROPN;NOM	N;ANIM;NOM;MASC;SG
+synligt	видима	synlig	видимо	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;SG
+synligt	видно	synlig	видно	ADJ;NOM;INDF;NEUT;SG	ADV
+synligt	видимі	synlig	видим	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+fernández	фернандес	fernández	фернандес	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+köper	закупівля	köpa	закупівля	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+köper	купівля	köpa	купівля	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+köper	купівлю	köpa	купівля	V;IND;PRS;FIN;ACT	N;INAN;ACC;FEM;SG
+köper	купівля	köpa	купівля	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+jamie	джеймі	jamie	джейм	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+lugn	спокій	lugn	спокій	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+lugn	спокійні	lugn	спокійний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+motion	русі	motion	рух	N;NOM;INDF;MASC+FEM;SG	N;INAN;DAT;MASC;SG
+motion	вправи	motion	вправа	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+bekämpa	combat	bekämpa	combat	V;IMP;FIN;ACT	
+bekämpa	бійця	bekämpa	бійце	V;IMP;FIN;ACT	N;ANIM;ACC;MASC;SG
+bekämpa	комбат	bekämpa	комбат	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+bekämpa	бойове	bekämpa	бойовий	V;IMP;FIN;ACT	ADJ;NOM;NEUT;SG
+prilep	прілеп	prilep	прілеп	N;NOM;INDF;MASC+FEM;SG	
+newman	ньюман	newman	ньюман	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+flint	кремінь	flin	кремінь	PROPN;NOM	N;INAN;NOM;MASC;SG
+skapare	творців	skapare	творець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+skapare	maker	skapare	maker	N;NOM;INDF;MASC+FEM;PL	
+skapare	творця	skapare	творець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;SG
+skapare	творець	skapare	творець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+skapare	автор	skapare	автор	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+skapare	створив	skapare	створити	N;NOM;INDF;MASC+FEM;PL	V;PFV;MASC;IND;SG;PST;FIN
+living	живі	living	живий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+flyktingar	біженців	flykting	біженець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+asp	asp	asp	asp	N;NOM;INDF;MASC+FEM;SG	
+exakta	точним	exakt	точний	ADJ;NOM;PL	ADJ;INS;NEUT;SG
+exakta	точний	exakt	точний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+exakta	точне	exakt	точний	ADJ;NOM;PL	ADJ;NOM;NEUT;SG
+exakta	точна	exakt	точний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+exakta	точний	exakt	точний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+rijeka	рієка	rijeka	рієка	PROPN;NOM	PROPN;INAN;NOM;FEM;SG
+altaret	сесії	altar	сесія	N;NOM;DEF;NEUT;SG	N;INAN;NOM;FEM;PL
+mega	мега	myge	мега	N;NOM;INDF;MASC+FEM;SG	
+cáceres	касерес	ctceres	касерес	N;NOM;DEF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+gais	гаіс	gais	гаіс	PROPN;NOM	
+respekt	respect	respekt	respect	N;NOM;INDF;MASC+FEM;SG	
+graven	могили	grav	могила	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+graven	могилу	grav	могила	N;NOM;DEF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+rikard	річард	rikard	річард	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+rosario	росаріо	rosario	росаріо	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+riskerar	ризику	riskera	ризик	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;SG
+darmstadt	дармштадтська	darmstadt	дармштадтський	PROPN;NOM	ADJ;NOM;FEM;SG
+predikstol	кафедрою	predikstol	кафедра	N;NOM;INDF;MASC+FEM;SG	N;INAN;INS;FEM;SG
+mad	божевільна	mad	божевільний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+mad	скажений	mad	скажений	N;NOM;INDF;MASC+FEM;SG	ADJ;PFV;NOM;MASC;SG;V.PTCP;PASS
+mad	mad	mad	mad	N;NOM;INDF;MASC+FEM;SG	
+mad	скажені	mad	скажений	N;NOM;INDF;MASC+FEM;SG	ADJ;PFV;NOM;PL;V.PTCP;PASS
+förbinder	підключення	förbind	підключення	V;IND;PRS;FIN;ACT	N;INAN;NOM;NEUT;SG
+prinsen	принца	prins	принца	N;NOM;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+hämnd	помсти	hämnd	помст	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+konkurrens	змагання	konkurrens	змагання	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;NEUT;PL
+matematiska	математична	matematisk	математичний	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+matematiska	математичних	matematisk	математичний	ADJ;NOM;PL	ADJ;GEN;PL
+matematiska	математичний	matematisk	математичний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+ris	рис	ris	риса	N;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;PL
+ris	рису	ris	риса	N;NOM;INDF;NEUT;SG	N;INAN;ACC;FEM;SG
+ris	рі	ris	рі	N;NOM;INDF;NEUT;SG	
+upptäcka	виявлення	upptäcka	виявлення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+upptäcka	discovering	upptäcka	discovering	V;IMP;FIN;ACT	
+mjölk	milk	mjölk	milk	N;NOM;INDF;MASC+FEM;SG	
+emi	emi	emi	emi	N;NOM;INDF;NEUT;SG	
+industrier	industries	industri	industries	N;NOM;INDF;MASC+FEM;PL	
+avesta	авеста	avesta	авеста	PROPN;NOM	N;INAN;NOM;FEM;SG
+damm	понд	damm	понд	N;NOM;INDF;MASC+FEM;SG	
+chilensis	chilensis	chilensis	chilensis	N;NOM;INDF;MASC+FEM;SG	
+hävda	assert	hävda	assert	V;IMP;FIN;ACT	
+dröm	dream	dröm	dream	N;NOM;INDF;MASC+FEM;SG	
+yves	ів	yves	ів.	PROPN;NOM	
+broder	брата	brod	брат	N;NOM;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;SG
+ávila	авіла	ávila	авіл	ADJ;NOM;DEF;SG	PROPN;ANIM;NOM;MASC;SG
+kingston	кінгстон	kingston	кінгстон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+estniska	естонська	estnisk	естонський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+presenterar	подарунки	presentera	подарунок	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+jeanne	жанна	jea	жанний	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+startat	почалося	starta	початися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NEUT;IND;SG;PST;FIN
+startat	почалось	starta	початися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;NEUT;IND;SG;PST;FIN
+startat	почали	starta	почати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+startat	розпочато	starta	розпочати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+startat	почався	starta	початися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+startat	почато	starta	почато	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;SG;3;FUT;FIN
+echo	echo	echo	echo	N;NOM;INDF;NEUT;SG	
+echo	ехо	echo	ехо	N;NOM;INDF;NEUT;SG	
+fuktiga	вологе	fuktig	вологий	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+fuktiga	волога	fuktig	вологий	ADJ;NOM;PL	N;INAN;NOM;FEM;SG
+fuktiga	школярем	fuktig	школяр	ADJ;NOM;PL	N;INAN;INS;MASC;SG
+fuktiga	вологого	fuktig	вологий	ADJ;NOM;PL	ADJ;GEN;MASC;SG
+flight	польоту	flight	політ	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+sonja	соня	sonja	сонь	PROPN;NOM	N;ANIM;NOM;FEM;SG
+sonja	соня	sonja	сонь	PROPN;NOM	N;ANIM;NOM;FEM;SG
+manche	манш	manche	манш	N;NOM;INDF;MASC+FEM;SG	
+linux	linux	linux	linux	N;NOM;INDF;NEUT;SG	
+flygbolag	антонова	flygbolag	антоновий	N;NOM;INDF;NEUT;PL	PROPN;ANIM;NOM;FEM;SG
+flygbolag	airlines	flygbolag	airlines	N;NOM;INDF;NEUT;PL	
+flygbolag	вузловий	flygbolag	вузловий	N;NOM;INDF;NEUT;PL	ADJ;NOM;MASC;SG
+jordanien	йорданії	jordanie	йорданія	PROPN;NOM	PROPN;INAN;GEN;FEM;SG
+jordanien	джордан	jordanie	джордан	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+lyfta	ліфт	lyfta	ліфт	V;IMP;NFIN;ACT	N;INAN;NOM;MASC;SG
+lyfta	підібрали	lyfta	підібрати	V;IMP;NFIN;ACT	V;PFV;IND;PL;PST;FIN
+publicera	дописі	publicera	допис	V;IMP;FIN;ACT	ADV
+publicera	допис	publicera	допис	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+publicera	допису	publicera	допис	V;IMP;FIN;ACT	N;INAN;GEN;MASC;SG
+publicera	видавництво	publicera	видавництво	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+publicera	оприлюднення	publicera	оприлюднення	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+publicera	публікацією	publicera	публікація	V;IMP;FIN;ACT	N;INAN;INS;FEM;SG
+publicera	публікація	publicera	публікація	V;IMP;FIN;ACT	N;INAN;NOM;FEM;SG
+publicera	публікування	publicera	публікування	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+mello	мелло	mello	мелло	N;NOM;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;FEM;SG
+passera	перевал	passera	переваль	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+bedöma	столу	bedöma	стіл	V;IMP;FIN;ACT	N;INAN;GEN;MASC;SG
+elliott	еліот	elliott	еліот	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+kirk	кірк	kirk	кірк	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+isabel	ізабель	isabel	ізабель	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+klein	кляйн	klei	кляйн	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+geografisk	географічні	geografisk	географічний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+geografisk	географічні	geografisk	географічний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+akademin	академії	akademin	академія	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+stridsvagnar	танків	stridsvagen	танок	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+dömd	засудили	dömd	засудити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+dömd	приречені	dömd	приречений	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+forever	назавжди	forever	назавжди	N;NOM;INDF;MASC+FEM;SG	
+forever	forever	forever	forever	N;NOM;INDF;MASC+FEM;SG	
+forever	навіки	forever	навіки	N;NOM;INDF;MASC+FEM;SG	
+pumila	pumila	pumil	pumila	N;NOM;INDF;MASC+FEM;SG	
+paolo	паоло	paolo	паоло	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+delat	спільну	delad	спільний	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;ACC;FEM;SG
+delat	поширив	delad	поширити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+delat	спільні	delad	спільний	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;NOM;PL
+delat	поширили	delad	поширити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+delat	розділив	delad	розділити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+magasin	magazine	magasin	magazine	N;NOM;INDF;NEUT;SG	
+glauca	glauca	glauca	glauca	N;NOM;INDF;MASC+FEM;SG	
+kill	вбити	kill	вбити	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+kill	kill	kill	kill	N;NOM;INDF;MASC+FEM;SG	
+lennon	леннон	lennon	леннон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+atp	атп	atp	атп	N;NOM;INDF;MASC+FEM;SG	
+biskopar	єпископів	biskopa	єпископ	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+aurea	aurea	auren	aurea	N;NOM;INDF;MASC+FEM;SG	
+sekund	другий	sekund	другий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+sekund	друге	sekund	другий	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+toyota	toyota	toyot	toyota	N;NOM;INDF;MASC+FEM;SG	
+cecil	сесіл	cecil	сесіл	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+drivande	пропала	drivande	пропасти	ADJ;NOM;PRS;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+sal	сел	sal	сел	N;NOM;INDF;MASC+FEM;SG	
+sal	селе	sal	селе	N;NOM;INDF;MASC+FEM;SG	
+enrico	енріко	enrico	енріко	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+laurence	лоренс	laurence	лоренс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+sjuka	хворим	sjuk	хворий	ADJ;NOM;PL	ADJ;INS;MASC;SG
+sjuka	хворі	sjuk	хвір	ADJ;NOM;PL	N;ANIM;NOM;MASC;PL
+sjuka	хвора	sjuk	хвора	ADJ;NOM;PL	N;ANIM;NOM;FEM;SG
+sjuka	хворий	sjuk	хворий	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+sjuka	захворіла	sjuk	захворіти	ADJ;NOM;PL	V;PFV;FEM;IND;SG;PST;FIN
+föraren	водія	föraren	водія	N;NOM;DEF;MASC+FEM;SG	N;ANIM;ACC;MASC;SG
+behandla	лікуванні	behandla	лікування	V;IMP;FIN;ACT	N;INAN;DAT;NEUT;SG
+heights	висоти	heights	висота	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+reaktioner	реакцій	reaktion	реакція	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;FEM;PL
+reaktioner	реакція	reaktion	реакція	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;FEM;SG
+vunna	здобула	vunna	здобути	ADJ;NOM;PL	V;PFV;FEM;IND;SG;PST;FIN
+vunna	переміг	vunna	перемогти	ADJ;NOM;PL	V;PFV;MASC;IND;SG;PST;FIN
+vunna	виграв	vunna	виграти	ADJ;NOM;PL	V;PFV;MASC;IND;SG;PST;FIN
+vunna	вон	vunna	вона	ADJ;NOM;PL	
+vunna	виграли	vunna	виграти	ADJ;NOM;PL	V;PFV;IND;PL;PST;FIN
+flyr	залишаються	flyr	залишатися	V;IMP;FIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+flyr	екранування	flyr	екранування	V;IMP;FIN;ACT	N;INAN;NOM;NEUT;SG
+flyr	тікає	flyr	тікати	V;IMP;FIN;ACT	V;IPFV;IND;SG;3;PRS;FIN
+isère	ізер	isère	ізер	N;NOM;INDF;MASC+FEM;SG	
+skadad	обстрілів	skada	обстріл	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	N;INAN;GEN;MASC;PL
+skadad	пошкоджені	skada	пошкоджений	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+skadad	боляче	skada	боляче	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADV
+skadad	поранених	skada	поранений	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;ANIM;PFV;ACC;PL;V.PTCP;PASS
+skadad	поранені	skada	поранений	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+navy	вмс	navy	вмс	N;NOM;INDF;NEUT;SG	
+pacifica	pacifica	pacific	pacifica	PROPN;NOM	
+lynn	лінн	lynn	лінн	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+clayton	клейтон	clayton	клейтон	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+eugene	євген	eugene	євген	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+eugene	юджин	eugene	юджин	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+eugene	євгеній	eugene	євгений	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+mänskligheten	людяності	mänsklighet	людяність	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+mänskligheten	людству	mänsklighet	людство	N;NOM;DEF;MASC+FEM;SG	N;INAN;DAT;NEUT;SG
+skal	оболонки	skal	оболонка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+skal	патрони	skal	патрон	N;NOM;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+skal	оболонки	skal	оболонка	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+skal	мушлі	skal	мушля	N;NOM;INDF;NEUT;SG	N;INAN;NOM;FEM;PL
+cuba	куби	cuba	куба	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+cuba	куба	cuba	кубий	N;NOM;INDF;MASC+FEM;SG	
+shannon	шеннон	shannon	шеннон	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+croton	кротон	croton	кротон	V;IMP;FIN;ACT	N;INAN;NOM;MASC;SG
+genetiska	генетичний	genetisk	генетичний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+rapporter	звітів	rapport	звіт	N;NOM;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;PL
+concepción	консепсьйон	concepción	консепсьйон	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+strålning	радіації	strålning	радіація	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+windsor	віндзор	pindsor	віндзор	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+överleva	виживають	överleva	виживати	V;IMP;FIN;ACT	V;IPFV;IND;PL;3;PRS;FIN
+atlético	атлетіко	atlético	атлетіко	PROPN;NOM	N;INAN;NOM;MASC;SG
+tillgängligt	доступні	tillgänglig	доступний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+tillgängligt	наявні	tillgänglig	наявний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+subsp	subsp	subsp	subsp	N;NOM;INDF;MASC+FEM;SG	
+suppleant	альтернативне	suppleant	альтернативний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+suppleant	альтернативний	suppleant	альтернативний	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+freiburg	фрайбург	freiburg	фрайбург	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+tredjedel	третє	tredjedel	третєпа	N;NOM;INDF;MASC+FEM;SG	NUM;NOM;NEUT
+tredjedel	третій	tredjedel	третій	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+tredjedel	третя	tredjedel	третій	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+teresa	тереза	teresa	тереза	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+ness	несс	ness	несс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+url	url	url	url	N;NOM;INDF;MASC+FEM;SG	
+kräva	попит	kräva	попит	V;IMP;NFIN;ACT	N;INAN;NOM;MASC;SG
+kräva	вимагаю	kräva	вимагати	V;IMP;NFIN;ACT	V;IPFV;IND;SG;1;PRS;FIN
+dynamo	dynamo	dynamu	dynamo	PROPN;NOM	
+dynamo	динамо	dynamu	динамо	PROPN;NOM	N;INAN;NOM;NEUT;SG
+animerade	анімація	animera	анімація	ADJ;NOM;PL;PST;V.PTCP	N;INAN;NOM;FEM;SG
+animerade	анімаційний	animera	анімаційний	ADJ;NOM;PL;PST;V.PTCP	ADJ;NOM;MASC;SG
+animerade	анімаційна	animera	анімаційний	ADJ;NOM;PL;PST;V.PTCP	ADJ;NOM;FEM;SG
+ile	ile	ile	ile	N;NOM;INDF;NEUT;SG	
+pierce	пірс	pierce	пірс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+tillverkat	зробила	tillverkad	зробити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+tillverkat	made	tillverkad	made	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	
+tillverkat	виготовлено	tillverkad	виготовити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+bolton	болтон	bolton	болтон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+syntes	синтез	synas	синтез	V;IND;PST;FIN	N;INAN;NOM;MASC;SG
+bysantinska	візантійська	bysantinsk	візантійський	ADJ;NOM;PL	ADJ;NOM;FEM;SG
+intermedius	intermedius	intermedius	intermedius	N;NOM;INDF;MASC+FEM;SG	
+richter	ріхтер	richt	ріхтер	PROPN;NOM	N;ANIM;NOM;MASC;SG
+barr	голки	barr	голка	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+barr	barr	barr	barr	N;NOM;INDF;MASC+FEM;SG	
+beat	били	bea	бити	N;NOM;INDF;NEUT;SG	V;IPFV;IND;PL;PST;FIN
+beat	біт	bea	біт	N;NOM;INDF;NEUT;SG	
+beat	побили	bea	побити	N;NOM;INDF;NEUT;SG	V;PFV;IND;PL;PST;FIN
+alexis	алексіс	alexis	алексіс	PROPN;NOM	PROPN;ANIM;NOM;MASC;SG
+alexis	алена	alexis	алена	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+återkommer	повториться	återkomma	повторитися	V;IND;PRS;FIN;ACT	V;PFV;IND;SG;3;FUT;FIN
+nisse	elf	nisse	elf	PROPN;NOM	
+ändring	change	ändring	change	N;NOM;INDF;MASC+FEM;SG	
+ändring	змінити	ändring	змінити	N;NOM;INDF;MASC+FEM;SG	V;PFV;NFIN
+tagen	taken	tagen	taken	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	
+tagen	взято	tagen	взяти	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+tagen	забрала	tagen	забрати	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+tagen	зроблено	tagen	зробити	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+slagen	бив	slag	бити	N;NOM;DEF;MASC+FEM;SG	V;IPFV;MASC;IND;SG;PST;FIN
+slagen	побили	slag	побити	N;NOM;DEF;MASC+FEM;SG	V;PFV;IND;PL;PST;FIN
+arbetsgivare	роботодавців	arbetsgivare	роботодавець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+arbetsgivare	роботодавець	arbetsgivare	роботодавець	N;NOM;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+juryn	жюрі	juryn	жюрий	N;NOM;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+oavgjort	краватку	oavgöra	краватка	N;NOM;INDF;MASC+FEM;SG	N;INAN;ACC;FEM;SG
+slavar	рабів	slava	раб	N;NOM;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+uppskattas	вдячністю	uppskatta	вдячність	V;NFIN;PASS	N;INAN;INS;FEM;SG
+elongatus	elongatus	elongatus	elongatus	N;NOM;INDF;MASC+FEM;SG	
+katt	коти	katt	кіт	N;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+katt	кішки	katt	кішка	N;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;FEM;PL
+logan	логан	loga	логан	N;NOM;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+dunn	данн	du	данн	PROPN;NOM	
+lärt	вивчили	lära	вивчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+lärt	навчився	lära	навчитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+lärt	вивчив	lära	вивчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+lärt	навчилися	lära	навчитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+lärt	навчили	lära	навчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+lärt	вчили	lära	вчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;IPFV;IND;PL;PST;FIN
+lärt	навчила	lära	навчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+lärt	викладав	lära	викладати	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;IPFV;MASC;IND;SG;PST;FIN
+lärt	навчив	lära	навчити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+organismer	організм	organism	організм	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+ersätter	заміри	ersätta	замір	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+ersätter	заміна	ersätta	заміна	V;IND;PRS;FIN;ACT	N;INAN;NOM;FEM;SG
+osäkert	небезпечні	osäker	небезпечний	ADJ;NOM;INDF;NEUT;SG	ADJ;NOM;PL
+osäkert	небезпечно	osäker	небезпечно	ADJ;NOM;INDF;NEUT;SG	ADV
+osäkert	невизначеності	osäker	невизначеність	ADJ;NOM;INDF;NEUT;SG	N;INAN;GEN;FEM;SG
+ändrat	змінився	ändra	змінитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;MASC;IND;SG;PST;FIN
+ändrat	змінилася	ändra	змінитися	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;FEM;IND;SG;PST;FIN
+ändrat	змінено	ändra	змінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+ändrat	змінені	ändra	змінений	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+ändrat	змінили	ändra	змінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;PL;PST;FIN
+ändrat	змінено	ändra	змінити	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	V;PFV;IND;0;FIN
+ändrat	змінені	ändra	змінений	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP	ADJ;PFV;NOM;PL;V.PTCP;PASS
+råkade	випадково	råka	випадково	V;IND;PST;FIN;ACT	ADV
+skribent	writer	skribent	writer	ADJ;NOM;INDF;MASC+FEM;SG	
+skribent	письменник	skribent	письменник	ADJ;NOM;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;SG
+karibiska	caribbean	karibisk	caribbean	ADJ;NOM;PL	
+cheng	чен	cheng	чен	PROPN;NOM	
+martha	марто	martha	марто	PROPN;NOM	
+martha	марта	martha	март	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+lägenhet	апартаменти	lägenhet	апартамент	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+fond	фонду	fond	фонд	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+iriska	ірландський	irisk	ірландський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+iriska	irish	irisk	irish	N;NOM;INDF;MASC+FEM;SG	
+iriska	ірландська	irisk	ірландський	N;NOM;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+ont	зла	ond	зло	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;NEUT;SG
+ont	злом	ond	злом	ADJ;NOM;INDF;NEUT;SG	N;INAN;INS;MASC;SG
+ont	evil	ond	evil	ADJ;NOM;INDF;NEUT;SG	
+ont	зло	ond	зло	ADJ;NOM;INDF;NEUT;SG	N;INAN;NOM;NEUT;SG
+ont	боляче	ond	боляче	ADJ;NOM;INDF;NEUT;SG	ADV
+preston	престон	preston	престон	PROPN;NOM	PROPN;INAN;NOM;MASC;SG
+école	еколь	école	еколь	N;NOM;INDF;MASC+FEM;SG	
+öknar	пустелях	öken	пустель	N;NOM;INDF;MASC+FEM;PL	N;INAN;ESS;MASC;PL
+sally	саллі	sally	салля	PROPN;NOM	PROPN;ANIM;NOM;FEM;SG
+årlig	щорічно	årlig	щорічно	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+årlig	річну	årlig	річний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;ACC;FEM;SG
+årlig	щороку	årlig	щороку	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+årlig	річні	årlig	річний	ADJ;NOM;INDF;MASC+FEM;SG	ADJ;NOM;PL
+ockupationen	окупаційні	ockupation	окупаційний	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;PL
+ockupationen	окупації	ockupation	окупація	N;NOM;DEF;MASC+FEM;SG	N;INAN;NOM;FEM;PL
+strikt	строга	strikt	строга	ADJ;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;FEM;SG
+strikt	суворо	strikt	суворо	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+strikt	строго	strikt	строго	ADJ;NOM;INDF;MASC+FEM;SG	ADV
+intäkter	прибуток	intäkt	прибуток	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+intäkter	дохід	intäkt	дохід	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+intäkter	прибуток	intäkt	прибуток	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+intäkter	дохід	intäkt	дохід	N;NOM;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+intäkter	надсилати	intäkt	надсилати	N;NOM;INDF;MASC+FEM;PL	V;IPFV;NFIN
+guvernören	губернатор	guvernör	губернатор	N;NOM;DEF;MASC+FEM;SG	ADJ;NOM;MASC;SG
+hypena	hypena	hypena	hypena	N;NOM;INDF;MASC+FEM;SG	
+avancerad	додаткові	avancerad	додатковий	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADJ;NOM;PL
+avancerad	додатково	avancerad	додатково	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP	ADV
+underjordiska	підземний	underjordisk	підземний	ADJ;NOM;PL	ADJ;NOM;MASC;SG
+underjordiska	підпілля	underjordisk	підпілля	ADJ;NOM;PL	N;INAN;NOM;NEUT;SG
+ost	сиру	ost	сир	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+ost	сири	ost	сира	N;NOM;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ost	сирів	ost	сир	N;NOM;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+medina	медіна	medin	медін	N;NOM;INDF;MASC+FEM;SG	PROPN;INAN;NOM;FEM;SG
+mohammed	мухаммед	mohammed	мухаммед	PROPN;NOM	N;ANIM;NOM;MASC;SG
+mohammed	мохаммед	mohammed	мохаммед	PROPN;NOM	N;ANIM;NOM;MASC;SG
+statistiskt	статистичні	statistisk	статистичний	ADV	ADJ;NOM;PL
+statistiskt	статистичних	statistisk	статистичний	ADV	ADJ;ACC;PL
+dominica	домініка	dominic	домініка	PROPN;NOM	N;ANIM;NOM;FEM;SG
+afc	afc	afc	afc	PROPN;NOM	

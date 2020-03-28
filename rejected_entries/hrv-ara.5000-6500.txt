@@ -1,0 +1,2365 @@
+seattle	سياتل	settlli	سِيَاتِل	N;NOM;MASC;SG	
+planeti	كواكب	planet	كَاكِب	N;DAT;FEM;SG	N;NOM;INDF;PL
+planeti	الكواكب	planet	كَاكِب	N;DAT;FEM;SG	N;NOM;DEF;PL
+terra	تيرا	terar	تيرا	N;NOM;MASC;SG	
+umjetna	اصطناعية	umjetan	اِصطِنَاعِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+umjetna	اصطناعي	umjetan	اِصطِنَاعِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+umjetna	الاصطناعي	umjetan	اِصطِنَاعِيّ	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+tesla	تيسلا	tesliti	تيسلا	N;NOM;MASC;SG	
+tesla	تسلا	tesliti	تسلا	N;NOM;MASC;SG	
+metro	مترو	metro	مترو	N;NOM;MASC;SG	
+metro	ميترو	metro	ميترو	N;NOM;MASC;SG	
+kamenje	الاحجار	kamenje	حَجَر	N;NOM;NEUT;SG	
+kamenje	احجار	kamenje	إِحجَار	N;NOM;NEUT;SG	
+kamenje	الصخور	kamenje	صُخُور	N;NOM;NEUT;SG	N;NOM;DEF;PL
+kamenje	صخور	kamenje	صُخُور	N;NOM;NEUT;SG	N;NOM;INDF;PL
+vodoravno	افقيا	vodoravno	أَفقِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+vodoravno	افقي	vodoravno	أُفقِيّ	ADV	N;NOM;INDF;SG
+vodoravno	افقيا	vodoravno	أَفقِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+vodoravno	افقية	vodoravno	افقية	ADV	ADJ;NOM;INDF;FEM;SG
+golf	جولف	golf	جُولف	N;NOM;MASC;SG	
+golf	غولف	golf	غولف	N;NOM;MASC;SG	
+većinski	الاغلبية	većinski	أَغلَبِيَّة	ADV	N;NOM;DEF;SG
+većinski	اغلبية	većinski	أَغلَبِيَّة	ADV	N;NOM;INDF;SG
+većinski	الغالبية	većinski	غَالِبِيَّة	ADV	N;NOM;DEF;SG
+optički	بصرية	optički	بَصَرِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+optički	بصري	optički	بَصَرِيّ	ADV	
+napoleona	نابليون	napoleon	نَابِلِيّ	N;ANIM;ACC;MASC;SG	N;NOM;INDF;PL
+napoleona	نابوليون	napoleon	نَابُولِيُون	N;ANIM;ACC;MASC;SG	
+ovaca	الخراف	ovac	خِرَاف	N;GEN;MASC;SG	N;NOM;DEF;PL
+ovaca	الخروف	ovac	خَرف	N;GEN;MASC;SG	N;NOM;DEF;SG
+ovaca	الاغنام	ovac	إِغنَام	N;GEN;MASC;SG	N;NOM;DEF;PL
+ovaca	خروف	ovac	خَرف	N;GEN;MASC;SG	
+ovaca	الغنم	ovac	غَنَم	N;GEN;MASC;SG	N;NOM;DEF;SG
+beck	بيك	beck	بَيكَ	N;NOM;MASC;SG	
+helen	هيلين	helen	هيلين	N;NOM;MASC;SG	
+manga	المانجا	manga	مَانجَا	N;NOM;MASC;SG	
+sigurnošću	يقين	sigurnost	يَقِين	N;INS;FEM;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+sigurnošću	التيقن	sigurnost	تَيَقُّن	N;INS;FEM;SG	N;NOM;DEF;SG
+sigurnošću	اليقين	sigurnost	يَقِين	N;INS;FEM;SG	
+kantona	الكانتونات	kanton	الكانتونات	N;GEN;MASC;SG	N;NOM;DEF;PL
+kantona	كانتون	kanton	كَانتُون	N;GEN;MASC;SG	
+teritoriji	الاقليم	teritorij	إِقلِيم	N;DAT;MASC;SG	
+teritoriji	اقليم	teritorij	اقليم	N;DAT;MASC;SG	
+sutra	الغد	sutra	غَد	ADV	N;NOM;DEF;SG
+sutra	بكره	sutra	بكره	ADV	PRO;ACC;MASC;SG;3
+sutra	بكرا	sutra	بكرا	ADV	N;ACC;INDF;SG
+sutra	بكرة	sutra	بَكرَة	ADV	N;NOM;INDF;SG
+sutra	غدا	sutra	غَد	ADV	N;ACC;INDF;SG
+kariba	الكاريبي	kariba	الكاريبي	N;GEN;MASC;SG	
+maroko	المغرب	maroko	مَغرِب	PROPN;NOM;MASC;SG	N;NOM;DEF;SG
+unutarnja	داخلي	unutarnji	دَاخِلِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+unutarnja	داخلية	unutarnji	دَاخِلِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+unutarnja	داخليا	unutarnji	دَاخِلِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;ACC;INDF;MASC;SG
+građanima	مواطنو	građanin	مُوَاطِن	N;DAT;MASC;PL	N;NOM;INDF;PL
+građanima	المواطنين	građanin	مُوَاطِن	N;DAT;MASC;PL	N;NOM;DEF;PL
+građanima	مواطنون	građanin	مُوَاطِن	N;DAT;MASC;PL	N;NOM;INDF;PL
+građanima	المواطنون	građanin	مُوَاطِن	N;DAT;MASC;PL	N;NOM;DEF;PL
+građanima	مواطنين	građanin	مُوَاطِن	N;DAT;MASC;PL	N;NOM;INDF;PL
+trinidad	ترينيداد	trinidad	ترينيداد	N;NOM;MASC;SG	
+alpe	الالب	alpe	أَلب	N;NOM;FEM;PL	
+springer	سبرينغر	springer	سبرينغر	N;NOM;MASC;SG	
+springer	سبرنجر	springer	سبرنجر	N;NOM;MASC;SG	
+jupitera	المشتري	jupiter	مُشتَرَى	N;ANIM;ACC;MASC;SG	
+jupitera	جوبيتر	jupiter	جوبيتر	N;ANIM;ACC;MASC;SG	
+gif	gif	gif	مُثَّة	PROPN;NOM;MASC;SG	
+sebastian	سباستيان	sebastian	سباستيان	N;NOM;MASC;SG	
+sebastian	سيباستيان	sebastian	سِيبَاستِيَان	N;NOM;MASC;SG	
+novinari	اضغط	novinar	اِضغَطّ	N;NOM;MASC;PL	
+novinari	الصحافة	novinar	صَحَافَة	N;NOM;MASC;PL	N;NOM;DEF;SG
+novinari	صحافة	novinar	صَحَافَة	N;NOM;MASC;PL	N;NOM;INDF;SG
+plaže	شاطئ	plaža	شَاطِئ	N;NOM;FEM;PL	N;NOM;INDF;SG
+plaže	شاطيء	plaža	شَاطِيّ	N;NOM;FEM;PL	N;NOM;INDF;SG
+plaže	الشاطئ	plaža	شَاطِئ	N;NOM;FEM;PL	N;NOM;DEF;SG
+plaže	بيتش	plaža	بيتش	N;NOM;FEM;PL	
+plaže	الشاطيء	plaža	شَاطِيء	N;NOM;FEM;PL	N;NOM;DEF;SG
+sony	سوني	sony	سُونِي	PROPN;NOM;MASC;SG	
+zec	هير	zec	هير	N;NOM;MASC;SG	
+zec	رابيت	zec	رابيت	N;NOM;MASC;SG	
+profesionalna	مهنية	profesionalan	مِهنِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+profesionalna	مهني	profesionalan	مِهنِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+profesionalna	محترف	profesionalan	مُحتَرَف	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+profesionalna	احترافية	profesionalan	احترافية	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+profesionalna	المهنية	profesionalan	مِهنِيّ	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+govornici	متكلمون	govornik	مُتَكَلِّم	N;NOM;MASC;PL	ADJ;NOM;INDF;MASC;PL
+govornici	المتكلمين	govornik	مُتَكَلِّم	N;NOM;MASC;PL	ADJ;ACC;DEF;MASC;PL
+govornici	المتكلمون	govornik	مُتَكَلِّم	N;NOM;MASC;PL	ADJ;NOM;DEF;MASC;PL
+bare	البرك	bara	بَرَك	N;NOM;FEM;SG	
+plodovi	فواكه	plod	فَاكِه	N;NOM;MASC;PL	
+plodovi	الثمار	plod	ثَمَر	N;NOM;MASC;PL	N;NOM;DEF;SG
+loša	سيئة	loš	سَيِّئ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+loša	باد	loš	بَاد	ADJ;NOM;DEF;FEM;SG	
+loša	سيء	loš	سِيَّة	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+loša	سيئ	loš	سَيِّئ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+loša	سئ	loš	سَأّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+promjeru	القطر	promjer	قَطَر	N;DAT;MASC;SG	N;NOM;DEF;SG
+boca	بوكا	boca	بوكا	N;NOM;FEM;SG	
+minas	ميناس	minas	ميناس	PROPN;NOM;FEM;SG	
+bavarske	البافاري	bavarski	البافاري	ADJ;NOM;DEF;FEM;PL	
+nominaciju	ترشيح	nominacija	تَرشِيح	N;ACC;FEM;SG	N;NOM;INDF;SG
+nominaciju	الترشيح	nominacija	تَرشِيح	N;ACC;FEM;SG	N;NOM;DEF;SG
+specifična	محدد	specifičan	مُحَدَّد	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+specifična	محددة	specifičan	مُحَدَّد	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+divlja	برية	divlji	بَرِّيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+prikupljanje	جمع	prikupljanje	جَمَع	N;NOM;NEUT;SG	V;PFV;MASC;SG;3;ACT
+ličnost	شخصيه	ličnost	شخصيه	N;NOM;FEM;SG	
+ličnost	الشخصية	ličnost	شَخصِيّ	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;SG
+drukčije	مختلف	drukčije	مُختَلِف	ADV	ADJ;NOM;INDF;MASC;SG
+drukčije	مختلفة	drukčije	مُختَلِف	ADV	ADJ;NOM;INDF;FEM;SG
+drukčije	مختلفا	drukčije	مُختَلِف	ADV	ADJ;ACC;INDF;MASC;SG
+drukčije	مختلفين	drukčije	مُختَلِف	ADV	ADJ;ACC;INDF;MASC;PL
+tribina	المدرجات	tribina	مُدَرَّج	N;NOM;FEM;SG	N;NOM;DEF;PL
+panorama	بانوراما	panora	بانوراما	N;NOM;FEM;PL	
+turističko	السياحية	turistički	سِيَاحِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+turističko	سائح	turistički	سَائِح	ADV	N;NOM;INDF;SG
+gps	g	gps	!	N;NOM;MASC;SG	
+mjuzikl	موسيقية	mjuzikl	مُوسِيقِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+daj	اعطاء	dati	إِعطَاء	INTJ	N;NOM;INDF;SG
+daj	اعطي	dati	أَعطَى	INTJ	V;PFV;MASC;SG;3;ACT
+tjedno	اسبوعيا	tjedno	أُسبُوعِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+tjedno	الاسبوعية	tjedno	أُسبُوعِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+tjedno	اسبوعي	tjedno	أُسبُوعِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+tjedno	الاسبوعي	tjedno	أُسبُوعِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+tjedno	اسبوعية	tjedno	أُسبُوعِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+torpedo	الطوربيد	torpedo	طُوربِيد	N;NOM;MASC;SG	N;NOM;DEF;PL
+dante	دانتي	danta	دَانتِي	N;NOM;MASC;SG	
+poljaci	البولنديين	poljak	بُولَندِيّ	N;NOM;MASC;PL	ADJ;ACC;DEF;MASC;PL
+poljaci	الاقطاب	poljak	قُطب	N;NOM;MASC;PL	N;NOM;DEF;SG
+englezi	الانجليزية	engleg	إِنجلِيزِيَّة	N;NOM;MASC;PL	N;NOM;DEF;SG
+englezi	انجليزي	engleg	أَنجِلِيزِيّ	N;NOM;MASC;PL	
+englezi	انجليزية	engleg	إِنجلِيزِيّ	N;NOM;MASC;PL	ADJ;NOM;INDF;FEM;SG
+englezi	الانكليزية	engleg	الانكليزية	N;NOM;MASC;PL	
+englezi	بالانكليزية	engleg	بَالانكلِيزِيّ	N;NOM;MASC;PL	
+tragove	مسارات	trag	مَسَار	N;ACC;MASC;PL	N;NOM;INDF;PL
+tragove	المسارات	trag	مَسَار	N;ACC;MASC;PL	N;NOM;DEF;PL
+tragove	دلائل	trag	دَلِيل	N;ACC;MASC;PL	N;NOM;INDF;PL
+salona	الصالون	salon	صَالُون	N;ACC;MASC;SG	N;NOM;DEF;SG
+salona	صالون	salon	صَالُون	N;ACC;MASC;SG	N;NOM;INDF;SG
+hat	القبعة	hat	قِبعَة	ADP	N;NOM;DEF;SG
+hat	قبعة	hat	قِبعَة	ADP	N;NOM;INDF;SG
+stvori	انشاء	stvor	إِنشَاء	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+stvori	انشئ	stvor	أَنشَأ	V;IND;SG;3;PRS;FIN	
+kopno	ارض	kopno	ارض	N;NOM;NEUT;SG	
+kopno	اراض	kopno	أَرض	N;NOM;NEUT;SG	N;NOM;INDF;PL
+kopno	الاراضي	kopno	أَرض	N;NOM;NEUT;SG	N;NOM;DEF;PL
+publikacija	منشورات	publikacija	مَنشُور	N;NOM;FEM;SG	N;NOM;INDF;PL
+publikacija	المطبوعات	publikacija	مَطبُوع	N;NOM;FEM;SG	N;NOM;DEF;PL
+publikacija	المنشورات	publikacija	مَنشُور	N;NOM;FEM;SG	N;NOM;DEF;PL
+provedena	منفذة	provesti	منفذة	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG
+voldemort	فولدمورت	voldemort	فُولدَمُور	N;INS;MASC;SG	
+planirao	المخطط	planirati	مُخَطَّط	V;MASC;SG;PST;V.PTCP;ACT	N;NOM;DEF;SG
+otrov	سما	otrov	سَمَّا	N;NOM;MASC;SG	
+otrov	سم	otrov	سَمّ	N;NOM;MASC;SG	
+berry	بيري	berry	بِيرِي	ADP	
+poplave	فيضان	poplava	فَيَضَان	N;NOM;FEM;PL	N;NOM;INDF;SG
+poplave	الفيضان	poplava	الفيضان	N;NOM;FEM;PL	N;NOM;DEF;SG
+poplave	الفيضان	poplava	الفيضان	N;NOM;FEM;PL	N;NOM;DEF;SG
+poplave	فيضان	poplava	فَيَضَان	N;NOM;FEM;PL	N;NOM;INDF;SG
+poplave	فلود	poplava	فُلُود	N;NOM;FEM;PL	
+poljoprivredu	الزراعة	poljoprivreda	زِرَاعَة	N;ACC;FEM;SG	N;NOM;DEF;SG
+poljoprivredu	زراعة	poljoprivreda	زِرَاعَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+susjedi	الجيران	susjed	جِيرَان	N;NOM;MASC;PL	N;NOM;DEF;SG
+susjedi	جيران	susjed	جِيرَان	N;NOM;MASC;PL	
+susjedi	الجيران	susjed	جِيرَان	N;NOM;MASC;PL	N;NOM;DEF;SG
+alkohol	الكحوليات	alkohol	الكحوليات	N;NOM;MASC;SG	N;NOM;DEF;PL
+dora	دورا	dora	دَور	N;NOM;FEM;SG	N;ACC;INDF;SG
+obiteljima	العائلات	obitelj	عَائِلَة	N;INS;MASC;PL	N;NOM;DEF;PL
+obiteljima	الاسر	obitelj	أُسرَة	N;INS;MASC;PL	N;NOM;DEF;PL
+obiteljima	العوائل	obitelj	عَائِلَة	N;INS;MASC;PL	N;NOM;DEF;PL
+obiteljima	اسر	obitelj	أُسرَة	N;INS;MASC;PL	
+obiteljima	عائلات	obitelj	عَائِلَة	N;INS;MASC;PL	N;NOM;INDF;PL
+peto	خامسا	peti	خَامِس	ADJ;NOM;NEUT;SG	
+mustafa	مصطفى	mustaf	مصطفى	N;NOM;MASC;SG	
+kamp	كامب	kamp	كَامب	N;NOM;MASC;SG	
+dojke	الصدر	dojka	الصدر	N;NOM;FEM;PL	
+dojke	الثدي	dojka	ثَدِيّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+komentara	تعليقات	komentar	تَعلِيق	N;GEN;MASC;PL	N;NOM;INDF;PL
+komentara	التعليقات	komentar	تَعلِيق	N;GEN;MASC;PL	N;NOM;DEF;PL
+uvale	الخلجان	uvala	خَلجَان	N;NOM;FEM;PL	
+svjedok	شاهد	svjedok	شَاهَد	N;NOM;MASC;SG	
+svjedok	شاهدة	svjedok	شَاهِدَة	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+aranžman	الترتيبات	aranžman	تَرتِيب	N;NOM;MASC;SG	N;NOM;DEF;PL
+aranžman	ترتيبات	aranžman	تَرتِيب	N;NOM;MASC;SG	N;NOM;INDF;PL
+batman	باتمان	batman	باتمان	N;NOM;MASC;SG	
+usvojen	اعتمدت	usvojiti	اِعتَمَد	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+koloniju	المستعمرة	kolonija	مُستَعمِر	N;ACC;FEM;SG	N;NOM;DEF;SG
+koloniju	مستعمرة	kolonija	مُستَعمِر	N;ACC;FEM;SG	N;NOM;INDF;SG
+pozitivan	الايجابي	pozitivan	إِيجَابِيّ	ADJ;NOM;INDF;MASC;SG	ADJ;NOM;DEF;MASC;SG
+pozitivan	الايجابية	pozitivan	إِيجَابِيّ	ADJ;NOM;INDF;MASC;SG	ADJ;NOM;DEF;FEM;SG
+pozitivan	موجب	pozitivan	مُوجِب	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+drevne	القدماء	drevan	قَدِيم	ADJ;NOM;DEF;FEM;PL	N;NOM;DEF;PL
+odluci	المقرر	odluka	مُقَرَّر	N;DAT;FEM;SG	ADJ;NOM;DEF;MASC;SG
+odluci	قرار	odluka	قَرَار	N;DAT;FEM;SG	N;NOM;INDF;SG
+odluci	القرار	odluka	قَرَار	N;DAT;FEM;SG	N;NOM;DEF;SG
+odluci	مقرر	odluka	مُقَرَّر	N;DAT;FEM;SG	
+apache	اباتشي	apache	اِبتَشَى	N;NOM;MASC;SG	
+podne	ظهرا	podne	ظُهر	N;NOM;FEM;SG	N;ACC;INDF;SG
+tina	تينا	tina	تينا	N;NOM;FEM;SG	
+sjene	ظلال	sjena	ظَلَال	N;NOM;FEM;PL	N;NOM;INDF;SG
+sjene	الظل	sjena	ظِلّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+sjene	الظل	sjena	ظِلّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+sjene	ظل	sjena	ظَلّ	N;NOM;FEM;PL	V;PFV;MASC;SG;3;ACT
+staljin	ستالين	staljin	ستالين	N;NOM;MASC;SG	N;ACC;INDF;DU
+pripovijetke	السرد	pripovijetak	سَرد	N;NOM;FEM;PL	N;NOM;DEF;SG
+lopez	لوبيز	lopez	لوبيز	N;NOM;FEM;SG	
+poteškoća	صعوبة	poteškoća	صُعُوبَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+poteškoća	الصعوبة	poteškoća	صُعُوبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+disanje	يتنفس	disanje	تَنَفَّس	N;NOM;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+software	برمجيات	softwar	بَرمَجِيّ	N;NOM;MASC;SG	N;NOM;INDF;PL
+software	البرمجيات	softwar	بَرمَجِيّ	N;NOM;MASC;SG	
+software	برامج	softwar	بَرنَامَج	N;NOM;MASC;SG	N;NOM;INDF;PL
+software	البرامج	softwar	بَرنَامَج	N;NOM;MASC;SG	N;NOM;DEF;PL
+jede	الاكل	jese	أَكل	V;IND;SG;3;PRS;FIN	N;NOM;DEF;SG
+jede	اكل	jese	أَكل	V;IND;SG;3;PRS;FIN	
+gusto	سميك	gusto	سميك	ADV	ADJ;NOM;INDF;MASC;SG
+gusto	سميكة	gusto	سمِيكَة	ADV	ADJ;NOM;INDF;FEM;SG
+kan	خان	kan	خان	N;NOM;MASC;SG	
+kan	kan	kan	ثَصَث	N;NOM;MASC;SG	
+sumnja	اشك	sumnjati	شَكّ	N;NOM;FEM;SG	
+sumnja	شكوك	sumnjati	شَكّ	N;NOM;FEM;SG	N;NOM;INDF;PL
+sumnja	الشكوك	sumnjati	شَكّ	N;NOM;FEM;SG	N;NOM;DEF;PL
+sumnja	يشتبه	sumnjati	اِشتَبَه	N;NOM;FEM;SG	V;IPFV;MASC;IND;SG;3;FIN;PASS
+uživa	الاستمتاع	uživati	اِستِمتَاع	V;IND;SG;3;PRS;FIN	N;NOM;DEF;SG
+igranje	يلعب	igranje	لَعِب	N;NOM;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+jaki	قوى	jak	قُوَّة	ADJ;NOM;DEF;MASC;PL	N;NOM;INDF;PL
+jaki	قويا	jak	قَوِيّ	ADJ;NOM;DEF;MASC;PL	ADJ;ACC;INDF;MASC;SG
+jaki	قوية	jak	قَوِيّ	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+jaki	قوي	jak	قَوِيّ	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+horn	هورن	horn	هُورن	ADP	
+horn	بوق	horn	بُوق	ADP	
+horn	قرن	horn	قَرن	ADP	N;NOM;INDF;SG
+horn	القرن	horn	قَرن	ADP	N;NOM;DEF;SG
+pobunjenika	المتمردين	pobunjenik	مُتَمَرِّد	N;ANIM;ACC;MASC;SG	N;NOM;DEF;PL
+pobunjenika	متمردة	pobunjenik	مُتَمَرِّد	N;ANIM;ACC;MASC;SG	ADJ;NOM;INDF;FEM;SG
+pobunjenika	المتمرد	pobunjenik	مُتَمَرِّد	N;ANIM;ACC;MASC;SG	N;NOM;DEF;SG
+pobunjenika	متمرد	pobunjenik	مُتَمَرِّد	N;ANIM;ACC;MASC;SG	ADJ;NOM;INDF;MASC;SG
+koordinate	الاحداثيات	koordinat	حَدَثِيَّة	N;NOM;FEM;PL	ADJ;NOM;DEF;FEM;PL
+koordinate	احداثيات	koordinat	حَدَثِيَّة	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;PL
+walesa	ويلز	wales	ويلز	N;GEN;MASC;SG	
+sao	ساو	sao	ساو	PROPN;NOM;MASC;SG	
+stockholm	استكهولم	stockholm	استكهولم	N;NOM;MASC;SG	
+stockholm	ستوكهولم	stockholm	ستوكهولم	N;NOM;MASC;SG	
+magnetsko	المغناطيسية	magnetski	مَغطَاطِيسِيَّة	ADV	N;NOM;DEF;SG
+zbunjen	محتار	zbunjen	محتار	ADJ;NOM;INDF;MASC;SG;V.PTCP	
+zbunjen	الخلط	zbunjen	خَلط	ADJ;NOM;INDF;MASC;SG;V.PTCP	N;NOM;DEF;SG
+standardima	معايير	standard	مِعيَار	N;INS;MASC;PL	N;NOM;INDF;PL
+standardima	المقاييس	standard	مِقيَاس	N;INS;MASC;PL	N;NOM;DEF;PL
+standardima	المعايير	standard	مِعيَار	N;INS;MASC;PL	N;NOM;DEF;PL
+kontroverze	خلاف	kontroverza	خِلَاف	N;NOM;FEM;PL	N;NOM;INDF;SG
+kontroverze	جدل	kontroverza	جَدَل	N;NOM;FEM;PL	N;NOM;INDF;SG
+kontroverze	الجدل	kontroverza	جَدَل	N;NOM;FEM;PL	N;NOM;DEF;SG
+kontroverze	الخلاف	kontroverza	خِلَاف	N;NOM;FEM;PL	N;NOM;DEF;SG
+abdul	عبد	abdul	عبد	PROPN;NOM;MASC;SG	
+margaret	مارغريت	margaret	مارغريت	N;NOM;FEM;SG	
+margaret	مارجريت	margaret	مارجريت	N;NOM;FEM;SG	
+price	الثمن	price	ثَمَن	N;NOM;FEM;PL	N;NOM;DEF;SG
+price	سعره	price	سعره	N;NOM;FEM;PL	PRO;NOM;FEM;SG;3
+price	سعر	price	سِعر	N;NOM;FEM;PL	N;NOM;INDF;SG
+price	السعر	price	سِعر	N;NOM;FEM;PL	N;NOM;DEF;SG
+stana	ستان	stan	ستان	N;GEN;MASC;SG	
+židove	يهود	žid	يَهُودِيّ	N;ACC;MASC;PL	N;NOM;INDF;PL
+židove	اليهود	žid	يَهُودِيّ	N;ACC;MASC;PL	ADJ;NOM;DEF;MASC;PL
+židove	يهودا	žid	يَهُودِيّ	N;ACC;MASC;PL	
+židove	يهود	žid	يَهُودِيّ	N;ACC;MASC;PL	N;NOM;INDF;PL
+židove	اليهودي	žid	يَهُودِيّ	N;ACC;MASC;PL	ADJ;NOM;DEF;MASC;SG
+židove	يهودي	žid	يَهُودِيّ	N;ACC;MASC;PL	ADJ;NOM;INDF;MASC;SG
+atlantic	الاطلسي	atlantic	أَطلَسِيّ	N;NOM;MASC;SG	
+atlantic	اتلانتيك	atlantic	إِتلَانِيك	N;NOM;MASC;SG	
+očuvanju	الحفظ	očuvanje	حِفظ	N;DAT;NEUT;SG	N;NOM;DEF;SG
+očuvanju	الحفاظ	očuvanje	حِفَاظ	N;DAT;NEUT;SG	N;NOM;DEF;SG
+očuvanju	المحافظة	očuvanje	مُحَافَظَة	N;DAT;NEUT;SG	N;NOM;DEF;SG
+svinje	الخنازير	svinja	خِنَازِير	N;NOM;FEM;PL	
+plamen	لهب	plamen	لَهَب	N;NOM;MASC;SG	
+plamen	لهب	plamen	لَهَب	N;NOM;MASC;SG	
+beat	تغلب	beat	تَغَلَّب	ADP	V;PFV;MASC;SG;3;ACT
+beat	ضرب	beat	ضَرب	ADP	N;NOM;INDF;SG
+čuvar	وصي	čuvar	وَصي	N;NOM;MASC;SG	
+ratko	راتكو	ratko	راتكو	PROPN;NOM;MASC;SG	
+melodije	الحان	melodija	حَان	N;NOM;FEM;PL	
+kiss	قبله	kiss	قبله	ADP	PRO;NOM;MASC;SG;3
+kiss	قبلة	kiss	قَبلَة	ADP	N;NOM;INDF;SG
+optužio	المتهمين	optužiti	مُتَّهَم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;ACC;DEF;MASC;PL
+optužio	متهم	optužiti	مُتَّهَم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;INDF;MASC;SG
+optužio	المتهم	optužiti	مُتَّهَم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;DEF;MASC;SG
+odgovorna	مسؤول	odgovoran	مَسؤُول	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+odgovorna	المسؤول	odgovoran	مَسؤُول	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+okusa	نكهات	okus	نَكهَة	N;GEN;MASC;SG	N;NOM;INDF;PL
+okusa	تذوق	okus	عَاق	N;GEN;MASC;SG	
+okusa	ذوق	okus	ذَوق	N;GEN;MASC;SG	N;NOM;INDF;SG
+okusa	الذوق	okus	ذَوق	N;GEN;MASC;SG	N;NOM;DEF;SG
+okusa	نكهة	okus	نَكهَة	N;GEN;MASC;SG	N;NOM;INDF;SG
+okusa	النكهة	okus	نَكهَة	N;GEN;MASC;SG	N;NOM;DEF;SG
+osjećaje	المشاعر	osjećati	مَشعَر	N;ACC;MASC;PL	N;NOM;DEF;PL
+osjećaje	مشاعر	osjećati	مَشعَر	N;ACC;MASC;PL	N;NOM;INDF;PL
+hipoteza	الفرضيات	hipoteza	فَرضِيَّة	N;NOM;FEM;SG	N;NOM;DEF;PL
+kylie	كايلي	kyli	كايلي	N;NOM;MASC;SG	
+pravno	قانونيا	pravan	قَانُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+pravno	قانوني	pravan	قانوني	ADV	ADJ;NOM;INDF;MASC;SG
+pravno	قانونية	pravan	قَانُونِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+pravno	القانوني	pravan	قَانُونِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+diamond	ماسة	diamond	مَاسَّة	N;NOM;MASC;SG	
+diamond	دايموند	diamond	دايموند	N;NOM;MASC;SG	
+duncan	دنكان	duncan	دَنكَان	PROPN;NOM;MASC;SG	
+duncan	دانكن	duncan	دَانكُن	PROPN;NOM;MASC;SG	
+duncan	دونكان	duncan	دُونكَان	PROPN;NOM;MASC;SG	
+clara	كلارا	clar	كلارا	N;NOM;FEM;SG	
+pera	ريشة	perati	ريشة	N;NOM;MASC;SG	
+pera	ريش	perati	ريش	N;NOM;MASC;SG	
+pera	ريش	perati	ريش	N;NOM;MASC;SG	
+norme	معيار	norma	مُعِير	N;NOM;FEM;PL	N;NOM;INDF;SG
+nosa	الانف	nos	أَنف	N;GEN;MASC;SG	N;NOM;DEF;SG
+nosa	انف	nos	أَنف	N;GEN;MASC;SG	N;NOM;INDF;SG
+bomba	بله	bomba	بَلَه	N;NOM;FEM;SG	
+metalni	المعدن	metalan	مَعدِن	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+metalni	معادن	metalan	مَعدِن	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;PL
+metalni	معدني	metalan	معدني	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+metalni	معدن	metalan	مَعدِن	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+metalni	المعادن	metalan	مَعدِن	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;PL
+metalni	معدنية	metalan	مَعدِنِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+metalni	معدني	metalan	معدني	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+bush	بوش	bush	بُوش	PROPN;NOM;MASC;SG	
+euonymus	مضاض	euonymus	مَضَض	ADP	
+ujak	عمو	ujak	عُمُوّ	N;NOM;MASC;SG	
+ujak	عمي	ujak	عمي	N;NOM;MASC;SG	
+ujak	عم	ujak	عَمّ	N;NOM;MASC;SG	
+ujak	العم	ujak	عَمّ	N;NOM;MASC;SG	
+dokumenta	الوثائق	dokument	وَثِيقَة	N;ACC;MASC;SG	N;NOM;DEF;PL
+dokumenta	وثائق	dokument	وَثِيقَة	N;ACC;MASC;SG	N;NOM;INDF;PL
+dokumenta	المستندات	dokument	مُستَنَد	N;ACC;MASC;SG	N;NOM;DEF;PL
+dokumenta	مستندات	dokument	مُستَنَد	N;ACC;MASC;SG	N;NOM;INDF;PL
+dokumenta	الوثيقة	dokument	وَثِيقَة	N;ACC;MASC;SG	N;NOM;DEF;SG
+dokumenta	وثيقة	dokument	وَثِيقَة	N;ACC;MASC;SG	N;NOM;INDF;SG
+dokumenta	مستند	dokument	مُستَنِد	N;ACC;MASC;SG	N;NOM;INDF;SG
+dokumenta	المستند	dokument	مُستَنِد	N;ACC;MASC;SG	N;NOM;DEF;SG
+bauer	باور	bauer	بَاوِر	N;NOM;MASC;SG	
+izvorna	اصلي	izvoran	أَصلِيّ	ADJ;NOM;DEF;FEM;SG	
+izvorna	الاصل	izvoran	أَصل	ADJ;NOM;DEF;FEM;SG	
+izvorna	اصلية	izvoran	أَصلِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+dominiraju	تهيمن	dominirati	تهيمن	V;IND;PL;3;PRS;FIN	V;IPFV;FEM;IND;SG;3;FIN;ACT
+dominiraju	الهيمنة	dominirati	هَيمَنَة	V;IND;PL;3;PRS;FIN	N;NOM;DEF;SG
+sara	ساره	sara	ساره	N;NOM;FEM;SG	
+sara	سارة	sara	سَارَة	N;NOM;FEM;SG	
+sara	سارا	sara	سَارَا	N;NOM;FEM;SG	
+lokomotive	القاطرة	lokomotiva	قَاطِرَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+neriješeno	تعادل	neriješen	تَعَادُل	ADJ;NOM;NEUT;SG	N;NOM;INDF;SG
+neriješeno	التعادل	neriješen	تَعَادُل	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+sullivan	سوليفان	sullivan	سوليفان	PROPN;NOM;MASC;SG	
+firenca	فلورنس	firenc	فلُورنِس	N;NOM;FEM;SG	
+firenca	فلورنسا	firenc	فِلُورَنسَا	N;NOM;FEM;SG	
+slabi	ضعيف	slab	ضَعِيف	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+slabi	ضعيفة	slab	ضَعِيف	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+slabi	الضعيف	slab	ضَعِيف	ADJ;NOM;DEF;MASC;PL	N;NOM;DEF;SG
+svijetlo	خفيف	svijetlo	خفيف	ADV	ADJ;NOM;INDF;MASC;SG
+svijetlo	الخفيفة	svijetlo	خَفِيف	ADV	N;NOM;DEF;SG
+svijetlo	ضوء	svijetlo	ضَوء	ADV	N;NOM;INDF;SG
+svijetlo	النور	svijetlo	النور	ADV	N;NOM;DEF;SG
+svijetlo	فاتح	svijetlo	فاتح	ADV	
+svijetlo	نور	svijetlo	نور	ADV	
+svijetlo	لامع	svijetlo	لَامِع	ADV	ADJ;NOM;INDF;MASC;SG
+svijetlo	ساطع	svijetlo	سَاطَع	ADV	
+svijetlo	المشرق	svijetlo	مَشرِق	ADV	N;NOM;DEF;SG
+svijetlo	مشرق	svijetlo	مَشرِق	ADV	N;NOM;INDF;SG
+braun	برون	braun	برون	N;NOM;MASC;SG	
+predsjednici	الرئيسان	predsjednik	رَئِيسَان	N;NOM;MASC;PL	N;NOM;DEF;DU
+robovi	عبيد	rob	عبيد	N;NOM;MASC;PL	
+zadatke	الانتداب	zadatak	اِنتِدَاب	N;ACC;MASC;PL	N;NOM;DEF;SG
+zadatke	المهام	zadatak	مَهَمَّة	N;ACC;MASC;PL	N;NOM;DEF;PL
+zadatke	مهام	zadatak	مَهَمَّة	N;ACC;MASC;PL	N;NOM;INDF;PL
+zadatke	المهام	zadatak	مَهَمَّة	N;ACC;MASC;PL	N;NOM;DEF;PL
+zadatke	مهام	zadatak	مَهَمَّة	N;ACC;MASC;PL	N;NOM;INDF;PL
+posjeti	زور	posjeta	زور	N;NOM;MASC;SG	
+posjeti	زيارات	posjeta	زِيَارَة	N;NOM;MASC;SG	N;NOM;INDF;PL
+posjeti	الزيارات	posjeta	زِيَارَة	N;NOM;MASC;SG	N;NOM;DEF;PL
+ekonomist	اقتصادي	ekonomist	اِقتِصَادِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+parkova	حدائق	park	حَدِيقَة	N;GEN;MASC;PL	N;NOM;INDF;PL
+parkova	الحدائق	park	حَدِيقَة	N;GEN;MASC;PL	N;NOM;DEF;PL
+pločice	البلاط	pločica	بَلَاط	N;NOM;FEM;PL	N;NOM;DEF;SG
+pločice	بلاط	pločica	بَلَاط	N;NOM;FEM;PL	N;NOM;INDF;SG
+pločice	البلاط	pločica	بَلَاط	N;NOM;FEM;PL	N;NOM;DEF;SG
+pločice	بلاط	pločica	بَلَاط	N;NOM;FEM;PL	N;NOM;INDF;SG
+vulkan	بركان	vulkan	بركان	N;NOM;MASC;SG	
+vulkan	فولكان	vulkan	فُولكَان	N;NOM;MASC;SG	
+jacob	يعقوب	jacob	يعقوب	N;NOM;MASC;SG	
+jacob	جيكوب	jacob	جيكوب	N;NOM;MASC;SG	
+jacob	جاكوب	jacob	جَاكُوب	N;NOM;MASC;SG	
+purcell	بورسيل	purcell	بُورسِيل	N;NOM;MASC;SG	
+okružuju	المحيطة	okruživati	مُحِيط	V;IND;PL;3;PRS;FIN	ADJ;NOM;DEF;FEM;SG
+okružuju	تحيط	okruživati	تَحَيُّط	V;IND;PL;3;PRS;FIN	V;IPFV;FEM;IND;SG;3;FIN;ACT
+intervencije	التدخل	intervencija	تَدَخُّل	N;NOM;FEM;PL	N;NOM;DEF;SG
+intervencije	تدخل	intervencija	تَدَخُّل	N;NOM;FEM;PL	N;NOM;INDF;SG
+tucker	تاكر	tucker	تَاكِر	N;NOM;MASC;SG	
+tucker	توكر	tucker	وَكَّر	N;NOM;MASC;SG	
+tucker	تكر	tucker	ذَكَر	N;NOM;MASC;SG	V;IPFV;MASC;IND;SG;2;FIN;ACT
+porez	ضريبي	porez	ضَرِيبِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+porez	ضرائب	porez	ضَرِيبَة	N;NOM;MASC;SG	N;NOM;INDF;PL
+porez	الضرائب	porez	ضَرِيبَة	N;NOM;MASC;SG	N;NOM;DEF;PL
+porez	ضرائب	porez	ضَرِيبَة	N;NOM;MASC;SG	N;NOM;INDF;PL
+porez	الضرائب	porez	ضَرِيبَة	N;NOM;MASC;SG	N;NOM;DEF;PL
+jame	حفرة	jama	حَفرَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+jame	الحفرة	jama	حَفرَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+portland	بورتلاند	portland	بُورتلَاند	N;NOM;MASC;SG	
+diana	ديانا	diana	دِيَانَا	N;NOM;FEM;SG	
+predgrađu	ضاحية	predgrađe	ضَاحِيَة	N;DAT;NEUT;SG	N;NOM;INDF;SG
+predgrađu	الضواحي	predgrađe	ضَاحِيَة	N;DAT;NEUT;SG	N;NOM;DEF;PL
+predgrađu	ضواحي	predgrađe	ضَاحِيَة	N;DAT;NEUT;SG	N;NOM;INDF;PL
+predgrađu	الضواحي	predgrađe	ضَاحِيَة	N;DAT;NEUT;SG	N;NOM;DEF;PL
+predgrađu	ضواحي	predgrađe	ضَاحِيَة	N;DAT;NEUT;SG	N;NOM;INDF;PL
+isaac	ايزاك	isaac	إِيزَاك	N;NOM;MASC;SG	
+isaac	اسحاق	isaac	سِحق	N;NOM;MASC;SG	
+gljive	فطر	gljiva	فِطر	N;NOM;FEM;PL	
+gljive	الفطر	gljiva	فِطر	N;NOM;FEM;PL	N;NOM;DEF;SG
+gljive	فطر	gljiva	فِطر	N;NOM;FEM;PL	
+pojačanje	تعزيزات	pojačanje	تَعزِيز	N;NOM;NEUT;SG	N;NOM;INDF;PL
+pojačanje	التعزيزات	pojačanje	تَعزِيز	N;NOM;NEUT;SG	N;NOM;DEF;PL
+pojačanje	احتياطي	pojačanje	اِحتِيَاطِيّ	N;NOM;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+logore	المعسكرات	logor	مُعَسكَر	N;ACC;MASC;PL	N;NOM;DEF;PL
+logore	مخيمات	logor	مُخَيَّمَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+logore	المخيمات	logor	مُخَيَّم	N;ACC;MASC;PL	N;NOM;DEF;PL
+logore	معسكرات	logor	مُعَسكَر	N;ACC;MASC;PL	N;NOM;INDF;PL
+sjeme	البذور	saj	بَذر	N;NOM;NEUT;SG	N;NOM;DEF;PL
+sjeme	بذور	saj	بَذر	N;NOM;NEUT;SG	N;NOM;INDF;PL
+sjeme	البذور	saj	بَذر	N;NOM;NEUT;SG	N;NOM;DEF;PL
+lucija	لوسيا	lucija	لوسيا	ADJ;NOM;DEF;CMPR;FEM;SG	
+rožnice	القرنية	rožnica	قَرَنِيّ	N;NOM;FEM;PL	
+poljoprivredi	الزراعة	poljoprivreda	زِرَاعَة	N;DAT;FEM;SG	N;NOM;DEF;SG
+poljoprivredi	زراعة	poljoprivreda	زِرَاعَة	N;DAT;FEM;SG	N;NOM;INDF;SG
+preostalo	المتبقية	preostati	مُتَبَقِّي	V;NEUT;SG;PST;V.PTCP;ACT	ADJ;NOM;DEF;FEM;SG
+silvio	سيلفيو	silviti	سيلفيو	N;NOM;MASC;SG	
+zur	zu	zur	مَثّ	ADP	
+smjernice	توجيه	smjernica	تَوجِيه	N;NOM;FEM;PL	N;NOM;INDF;SG
+smjernice	هدى	smjernica	هدى	N;NOM;FEM;PL	
+smjernice	ارشاد	smjernica	إِرشَاد	N;NOM;FEM;PL	N;NOM;INDF;SG
+smjernice	التوجيه	smjernica	تَوجِيه	N;NOM;FEM;PL	N;NOM;DEF;SG
+srebrni	فضي	srebrn	فضي	ADJ;NOM;DEF;MASC;SG	
+srebrni	الفضة	srebrn	فِضَّة	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+srebrni	فضة	srebrn	فَضَّة	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+srebrni	سيلفر	srebrn	سيلفر	ADJ;NOM;DEF;MASC;SG	
+srebrni	فضية	srebrn	فَضِيَّة	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+estonija	استونيا	estonija	إِستُونِيَا	N;NOM;FEM;SG	
+ibrahim	ابراهيم	ibrahim	ابراهيم	ADJ;NOM;MASC;SG	
+hladno	البرد	hladan	بُرد	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+hladno	بارد	hladan	بَارِد	ADJ;NOM;NEUT;SG	
+hladno	الباردة	hladan	بَارِد	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+hladno	برد	hladan	برد	ADJ;NOM;NEUT;SG	
+duhovno	روحاني	duhovno	روحاني	ADV	ADJ;NOM;INDF;MASC;SG
+duhovno	روحانية	duhovno	رُوحَانِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+duhovno	الروحية	duhovno	رُوحِيَّة	ADV	ADJ;NOM;DEF;FEM;SG
+duhovno	روحية	duhovno	رُوحِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+duhovno	روحيا	duhovno	رُوحِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+eduardo	ادواردو	eduardo	ادواردو	N;NOM;MASC;SG	
+grace	جريس	grac	جَرِيس	N;NOM;FEM;SG	
+grace	غريس	grac	غرِيس	N;NOM;FEM;SG	
+grace	غرايس	grac	غرَايس	N;NOM;FEM;SG	
+vladavinu	عهد	vladavina	عَهد	N;ACC;FEM;SG	N;NOM;INDF;SG
+komentare	تعليقات	komentar	تَعلِيق	N;ACC;MASC;PL	N;NOM;INDF;PL
+komentare	التعليقات	komentar	تَعلِيق	N;ACC;MASC;PL	N;NOM;DEF;PL
+pérez	بيريز	pérez	بِيرِيز	PROPN;NOM;MASC;SG	
+droga	العقاقير	droga	عَقَّار	N;NOM;FEM;SG	N;NOM;DEF;PL
+droga	عقاقير	droga	عَقَّاقِير	N;NOM;FEM;SG	N;NOM;INDF;PL
+droga	مخدرات	droga	مُخَدِّر	N;NOM;FEM;SG	N;NOM;INDF;PL
+droga	المخدرات	droga	مُخَدِّر	N;NOM;FEM;SG	N;NOM;DEF;PL
+mlađa	اصغر	mlad	أَصغَر	ADJ;NOM;DEF;CMPR;FEM;SG	ADJ;NOM;INDF;MASC;SG
+mlađa	الاصغر	mlad	أَصغَر	ADJ;NOM;DEF;CMPR;FEM;SG	N;NOM;DEF;SG
+pogubljen	اعدم	pogubiti	أَعدَم	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+julia	جوليا	juliti	جوليا	N;NOM;FEM;SG	
+julia	خوليا	juliti	خُولِيَا	N;NOM;FEM;SG	ADJ;ACC;INDF;MASC;SG
+tin	تين	tin	تين	PROPN;NOM;MASC;SG	
+tin	تن	tin	تن	PROPN;NOM;MASC;SG	
+tin	القصدير	tin	قَصدِير	PROPN;NOM;MASC;SG	
+baba	بابا	baba	بابا	N;NOM;FEM;SG	
+moto	موتو	moto	مُوتُو	N;NOM;MASC;SG	
+goli	عاري	gol	عَارِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+goli	عارية	gol	عَارِيَة	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+goli	عاريا	gol	عَارِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;ACC;INDF;MASC;SG
+goli	عراة	gol	عِرَاة	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;PL
+goli	عارية	gol	عَارِيَة	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+moral	معنويات	moral	مَعنَوِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;PL
+moral	المعنويات	moral	مَعنُوِّيَّة	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;PL
+moral	الاخلاق	moral	خُلق	N;NOM;MASC;SG	N;NOM;DEF;PL
+moral	الاخلاق	moral	خُلق	N;NOM;MASC;SG	N;NOM;DEF;PL
+jamie	جايمي	jamia	جايمي	PROPN;NOM;MASC;SG	
+podržavao	المدعومة	podržavati	مَدعُوم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;DEF;FEM;SG
+podržavao	مدعوم	podržavati	مَدعُوم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;INDF;MASC;SG
+podržavao	مدعومة	podržavati	مَدعُوم	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;INDF;FEM;SG
+valove	الامواج	val	مَاج	N;ACC;MASC;PL	N;NOM;DEF;PL
+valove	موج	val	مَوج	N;ACC;MASC;PL	N;NOM;INDF;SG
+valove	موجات	val	مَوجَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+valove	امواج	val	امواج	N;ACC;MASC;PL	
+valove	الموجات	val	مُوَجَّات	N;ACC;MASC;PL	N;NOM;DEF;PL
+con	يخدع	con	خَدَع	ADP	V;IPFV;MASC;IND;SG;3;FIN;ACT
+hunter	هانتر	hunter	هانتر	ADP	
+hunter	صياد	hunter	صياد	ADP	
+hunter	هنتر	hunter	هنتر	ADP	
+tajno	سرا	tajno	سِرّ	ADV	N;ACC;INDF;SG
+tajno	سر	tajno	سر	ADV	
+tajno	سري	tajno	سري	ADV	
+tajno	السر	tajno	سُرّ	ADV	N;NOM;DEF;SG
+tajno	سرية	tajno	سِرِّيّ	ADV	ADJ;NOM;INDF;FEM;SG
+uha	الاذن	uho	اَلذَذِن	N;GEN;NEUT;SG	N;NOM;DEF;SG
+qld	qld	qld	أَضَاح	ADP	
+ponuda	عروض	ponuda	عَرض	N;NOM;FEM;SG	N;NOM;INDF;PL
+ponuda	العروض	ponuda	عَرض	N;NOM;FEM;SG	N;NOM;DEF;PL
+holm	هولم	holm	هُولِم	N;NOM;MASC;SG	
+unutra	داخل	unutra	دَاخِلَ	ADV	ADP;ACC
+unutra	للداخل	unutra	لِ	ADV	N;NOM;DEF;SG
+unutra	داخلي	unutra	دَاخِلِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+unutra	بالداخل	unutra	بِ	ADV	N;GEN;DEF;SG
+unutra	الداخل	unutra	دَاخِل	ADV	N;NOM;DEF;SG
+meč	ماتش	meč	مَاتِش	N;NOM;MASC;SG	
+familia	فاميليا	familia	فاميليا	ADP	
+čaj	شاي	čaj	شاي	N;NOM;MASC;SG	
+čaj	شاى	čaj	شَاي	N;NOM;MASC;SG	
+inspiracija	الهام	inspiracija	هَامّ	N;NOM;FEM;SG	
+sateliti	سواتل	satelit	سُوَاتِل	N;NOM;MASC;PL	
+memorije	الذاكرة	memorija	الذاكرة	N;NOM;FEM;PL	N;NOM;DEF;SG
+memorije	الذكرى	memorija	ذِكرَى	N;NOM;FEM;PL	N;NOM;DEF;SG
+memorije	ذاكرة	memorija	ذَاكِرَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+memorije	ذكرى	memorija	ذِكرَى	N;NOM;FEM;PL	N;NOM;INDF;SG
+pride	فخر	pride	فَخر	N;NOM;MASC;SG	
+pride	كبرياء	pride	كَبرِيّ	N;NOM;MASC;SG	
+rex	ريكس	rex	ريكس	PROPN;NOM;MASC;SG	
+kent	كينت	kent	كَيَّن	PROPN;NOM;MASC;SG	
+kupila	اشتريت	kupiti	اِشتَرَى	V;FEM;SG;PST;V.PTCP;ACT	V;PFV;FEM;SG;3;PASS
+floridi	فلوريدا	florida	فِلُورِيدَا	N;DAT;FEM;SG	
+obred	طقوس	obred	طَقس	N;NOM;MASC;SG	N;NOM;INDF;PL
+pratnju	المرافقة	pratnja	مُرَافَقَة	N;ACC;FEM;SG	N;NOM;DEF;SG
+pratnju	مرافق	pratnja	مِرفَق	N;ACC;FEM;SG	N;NOM;INDF;PL
+pratnju	مرافقة	pratnja	مُرَافَقَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+had	هاديس	had	هَادِيس	ADP	
+pješaštvo	المشاة	pješaštvo	مَاشِي	N;NOM;NEUT;SG	N;NOM;DEF;PL
+pješaštvo	مشاة	pješaštvo	مَاشِي	N;NOM;NEUT;SG	N;NOM;INDF;PL
+poteškoće	صعوبة	poteškoća	صُعُوبَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+poteškoće	الصعوبة	poteškoća	صُعُوبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+sadašnjost	الحاضر	sadašnjost	حَاضِر	N;NOM;FEM;SG	
+sadašnjost	الحالي	sadašnjost	حَالِيّ	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+glina	طين	glina	طين	N;NOM;FEM;SG	
+glina	كلاي	glina	كَلَاي	N;NOM;FEM;SG	
+homer	هومر	homer	هُومُر	N;NOM;MASC;SG	
+blizine	القرب	blizina	قُرب	N;NOM;FEM;PL	N;NOM;DEF;SG
+chuck	تشاك	chuck	تشَاك	N;NOM;MASC;SG	
+chuck	تشوك	chuck	تشوك	N;NOM;MASC;SG	
+chuck	تشك	chuck	شَكَّك	N;NOM;MASC;SG	V;MASC;IMP;SG;FIN
+bis	مكررا	bis	مُكرَر	N	ADJ;ACC;INDF;MASC;SG
+službenik	ضابطة	službenik	ضَابِط	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+bijelci	بياض	bijelac	بَيَاض	N;NOM;MASC;PL	N;NOM;INDF;SG
+sajam	عادل	sajam	عادل	N;NOM;MASC;SG	
+sajam	عادلة	sajam	عَادِل	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+sajam	عدل	sajam	عدل	N;NOM;MASC;SG	
+sajam	منصف	sajam	مَنصِف	N;NOM;MASC;SG	
+primijetio	الاشعار	primijetiti	شَعَر	V;MASC;SG;PST;V.PTCP;ACT	N;NOM;DEF;PL
+primijetio	اشعار	primijetiti	شَعر	V;MASC;SG;PST;V.PTCP;ACT	N;NOM;INDF;PL
+prisilno	اجبرت	prisilno	أَجبَر	ADV	V;PFV;FEM;SG;3;ACT
+prisilno	اجبر	prisilno	أَجبَر	ADV	V;PFV;MASC;SG;3;ACT
+prisilno	مجبر	prisilno	مُجَبِّر	ADV	ADJ;NOM;INDF;MASC;SG
+prisilno	القسري	prisilno	قَسرِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+poslovna	العمل	poslovan	عَمَل	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+poslovna	الاعمال	poslovan	عَمَل	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;PL
+poslovna	عمل	poslovan	عَمَل	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+uvala	باي	uvala	باي	N;NOM;FEM;SG	
+ponos	فخر	ponos	فَخر	N;NOM;MASC;SG	
+ponos	كبرياء	ponos	كَبرِيّ	N;NOM;MASC;SG	
+cole	كول	col	كُول	N;NOM;MASC;SG	
+fosila	الحفريات	fositi	حَفرِيَّات	N;GEN;MASC;SG	
+mozaik	فسيفساء	mozaik	فسِيفسَاء	N;NOM;MASC;SG	
+sitne	تافه	sitan	تَافّ	ADJ;NOM;DEF;FEM;PL	
+marsh	مارش	marsh	مَارش	PROPN;NOM;MASC;SG	
+složene	مطوية	složiti	مطوية	ADJ;NOM;DEF;FEM;PL;V.PTCP	
+komponenta	المكون	komponenta	مُكَوِّن	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+komponenta	مكون	komponenta	مَكَّن	N;NOM;FEM;SG	ADJ;NOM;INDF;MASC;SG
+matične	جذعية	matičan	جِذعِيّ	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;INDF;FEM;SG
+gryllus	جدجد	gryllus	جدجد	PROPN;NOM;MASC;SG	
+podružnica	فرعية	podružnica	فَرعِيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+podružnica	فرعي	podružnica	فَرعِيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;MASC;SG
+zamisli	تخيلي	zamisao	تَخَيَّل	N;NOM;MASC;SG	
+zamisli	تخيلوا	zamisao	تَخَيَّل	N;NOM;MASC;SG	V;PFV;MASC;PL;3;ACT
+naslovi	القاب	naslov	قَابّ	N;NOM;MASC;PL	N;NOM;INDF;SG
+kažnjen	عاقب	kazniti	عَاقِب	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+kažnjen	معاقبة	kazniti	مُعَاقَبَة	ADJ;NOM;MASC;SG;V.PTCP;PASS	N;NOM;INDF;SG
+novaka	نوفاك	novak	نوفاك	N;ANIM;ACC;MASC;SG	
+novaka	المجندين	novak	مُجَنَّد	N;ANIM;ACC;MASC;SG	N;NOM;DEF;PL
+madrida	مدريد	madrid	مَدرِيد	N;GEN;MASC;SG	
+štap	عصا	štap	عَصَا	N;NOM;MASC;SG	
+oštećenje	الاضرار	oštećenje	ضَرَر	N;NOM;NEUT;SG	N;NOM;DEF;PL
+oštećenje	اضرار	oštećenje	ضَرَر	N;NOM;NEUT;SG	N;NOM;INDF;PL
+balkana	البلقان	balkan	بَلَق	N;GEN;MASC;SG	
+urbana	الحضر	urban	حَضَر	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+urbana	حضرية	urban	حَضَرِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+urbana	الحضري	urban	حَضَرِيّ	ADJ;NOM;DEF;FEM;SG	
+urbana	الحضرية	urban	حَضَرِيّ	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+urbana	حضري	urban	حضري	ADJ;NOM;DEF;FEM;SG	
+castle	قلعة	castle	قلعة	ADP	N;NOM;INDF;SG
+castle	القلعة	castle	قَلعَة	ADP	N;NOM;DEF;SG
+castle	كاسل	castle	كَاسِل	ADP	
+romane	روماني	roman	رُومَانِيّ	N;ACC;MASC;PL	ADJ;NOM;INDF;MASC;SG
+romane	رومان	roman	رُومَان	N;ACC;MASC;PL	
+romane	الروماني	roman	رُومَانِيّ	N;ACC;MASC;PL	ADJ;NOM;DEF;MASC;SG
+romane	الرومانية	roman	رُومَانِيّ	N;ACC;MASC;PL	ADJ;NOM;DEF;FEM;SG
+romane	روايات	roman	رِوَايَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+romane	الروايات	roman	رِوَايَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+ratove	حروب	rat	حَرب	N;ACC;MASC;PL	N;NOM;INDF;PL
+ratove	الحروب	rat	حَرب	N;ACC;MASC;PL	N;NOM;DEF;PL
+zvijeri	الوحش	zvijer	وَحش	N;NOM;FEM;PL	N;NOM;DEF;SG
+jurij	يوري	jurij	أَورَى	N;NOM;MASC;SG	
+elektronički	الالكتروني	elektronički	إِلِكترُونِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+elektronički	الكتروني	elektronički	إِلِكترُونِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+elektronički	الالكترونية	elektronički	إِلِكترُونِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+elektronički	الكترونية	elektronički	إِلِكترُونِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+elektronički	الكترونيا	elektronički	كِترُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+elektronički	الكترونيا	elektronički	كِترُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+carmen	كارمن	carmen	كارمن	N;NOM;FEM;SG	
+zube	اسنان	zub	إِسنَان	N;ACC;MASC;PL	N;NOM;INDF;SG
+zube	الاسنان	zub	الاسنان	N;ACC;MASC;PL	N;NOM;DEF;SG
+wheeler	ويلر	wheeler	ويلر	N;NOM;MASC;SG	
+ostvaren	انجزت	ostvariti	أَنجَز	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;PASS
+ostvaren	حققت	ostvariti	حَقَّق	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+julius	جوليوس	julius	جُولِيُوس	N;NOM;MASC;SG	
+sant	سانت	sant	سَان	N;NOM;MASC;SG	
+loza	فاينز	loza	فاينز	N;NOM;FEM;SG	
+albume	البومات	album	البومات	N;ACC;MASC;PL	N;NOM;DEF;PL
+albume	الالبومات	album	أَلبُومَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+jednaki	متساوية	jednak	مُتَسَاوِي	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+jednaki	متساو	jednak	مُتسَاو	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+jednaki	مساو	jednak	مَسَاو	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+jednaki	تساوي	jednak	تَسَاوِي	ADJ;NOM;DEF;MASC;PL	V;IPFV;MASC;IND;SG;3;FIN;ACT
+jednaki	يساوي	jednak	سَاوَى	ADJ;NOM;DEF;MASC;PL	V;IPFV;MASC;IND;SG;3;FIN;ACT
+indoneziji	اندونيسيا	indonezija	إِندُونِيسِيَا	N;DAT;FEM;SG	
+oklopna	مدرعة	oklopan	مُدَرَّع	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+oklopna	مصفحة	oklopan	مَصفَحَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+oklopna	المدرعة	oklopan	مَدرَعَة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+oklopna	مدرعة	oklopan	مُدَرَّع	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+oklopna	مصفحة	oklopan	مَصفَحَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+oklopna	المدرعة	oklopan	مَدرَعَة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+bjeloruski	بيلاروسية	bjeloruski	بيلاروسية	ADJ;NOM;MASC;SG	
+bjeloruski	البيلاروسي	bjeloruski	البيلاروسي	ADJ;NOM;MASC;SG	
+utvrđeni	محصن	utvrditi	محصن	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+izumiranja	الانقراض	izumiranje	اِنقِرَاض	N;NOM;NEUT;PL	N;NOM;DEF;SG
+helsinkiju	هلسنكي	helsinkija	هِلسِنكِي	N;DAT;MASC;SG	
+naočale	نظارة	naočala	نِظَارَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+naočale	النظارة	naočala	نِظَارَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+terapije	العلاج	terapija	عِلَاج	N;NOM;FEM;PL	N;NOM;DEF;SG
+terapije	علاج	terapija	عِلَاج	N;NOM;FEM;PL	N;NOM;INDF;SG
+piloti	الطيارين	pilot	طَيَّار	N;NOM;MASC;PL	N;ACC;DEF;DU
+alija	الي	alija	اليّ	N;NOM;MASC;SG	
+alija	علي	alija	علي	N;NOM;MASC;SG	
+alija	ali	alija	شَضَم	N;NOM;MASC;SG	
+sivi	رمادية	siv	رَمَادِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+sivi	الرمادي	siv	رَمَادِيّ	ADJ;NOM;DEF;MASC;SG	
+sivi	جراي	siv	جراي	ADJ;NOM;DEF;MASC;SG	
+sivi	رمادي	siv	رمادي	ADJ;NOM;DEF;MASC;SG	
+sivi	غراي	siv	غِرَاي	ADJ;NOM;DEF;MASC;SG	
+sivi	رمادي	siv	رمادي	ADJ;NOM;DEF;MASC;SG	
+nasilno	عنيف	nasilno	عَنِيف	ADV	ADJ;NOM;INDF;MASC;SG
+nasilno	عنف	nasilno	عُنف	ADV	N;NOM;INDF;SG
+nasilno	عنيفة	nasilno	عَنِيف	ADV	ADJ;NOM;INDF;FEM;SG
+sirije	سورية	siroc	سُورِيّ	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;SG
+sirije	syria	siroc	قُثَّة	N;NOM;FEM;PL	
+sirije	سوريا	siroc	سُورِيَا	N;NOM;FEM;PL	
+luther	لوثر	luther	لوثر	N;NOM;MASC;SG	
+uhvatiti	التقاط	uhvatiti	اِلتِقَاط	V;NFIN	N;NOM;INDF;SG
+uhvatiti	اسر	uhvatiti	أُسرَة	V;NFIN	
+uhvatiti	القبض	uhvatiti	قَبض	V;NFIN	N;NOM;DEF;SG
+uhvatiti	التقاط	uhvatiti	اِلتِقَاط	V;NFIN	N;NOM;INDF;SG
+xbox	بوكس	xbox	بوكس	PROPN;NOM;MASC;SG	
+reputaciju	سمعة	reputacija	سُمعَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+reputaciju	السمعة	reputacija	سُمعَة	N;ACC;FEM;SG	N;NOM;DEF;SG
+siva	رمادية	siv	رَمَادِيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+siva	الرمادي	siv	رَمَادِيّ	N;NOM;FEM;SG	
+siva	جراي	siv	جراي	N;NOM;FEM;SG	
+siva	رمادي	siv	رمادي	N;NOM;FEM;SG	
+siva	غراي	siv	غِرَاي	N;NOM;FEM;SG	
+siva	رمادي	siv	رمادي	N;NOM;FEM;SG	
+wells	ويلز	wells	ويلز	PROPN;NOM;MASC;SG	
+wells	ابار	wells	أَبَار	PROPN;NOM;MASC;SG	
+wells	الابار	wells	بِئر	PROPN;NOM;MASC;SG	N;NOM;DEF;PL
+harvard	هارفارد	harvard	هارفارد	N;NOM;MASC;SG	
+harvard	هارفرد	harvard	هارفرد	N;NOM;MASC;SG	
+gardner	غاردنر	gardner	غاردنر	ADV	
+phillips	فيليبس	phillips	فِيلِيبس	PROPN;NOM;MASC;SG	
+spencer	سبنسر	spencer	سبنسر	N;NOM;MASC;SG	
+spencer	سبينسر	spencer	سبينسر	N;NOM;MASC;SG	
+žensko	الانثى	ženski	أَنثِيّ	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+žensko	انثى	ženski	أَنثَى	ADJ;NOM;NEUT;SG	N;NOM;INDF;SG
+žensko	اناث	ženski	أَنَاث	ADJ;NOM;NEUT;SG	N;NOM;INDF;SG
+žensko	الاناث	ženski	أَنَاث	ADJ;NOM;NEUT;SG	N;NOM;DEF;PL
+poslovanje	الاعمال	poslovanje	عَمَل	N;NOM;NEUT;SG	N;NOM;DEF;PL
+orbitu	مدار	orbita	مَدَار	N;ACC;FEM;SG	N;NOM;INDF;SG
+orbitu	المدار	orbita	مَدَار	N;ACC;FEM;SG	N;NOM;DEF;SG
+break	تكسر	break	كَسَّر	ADP	V;IPFV;FEM;IND;SG;3;FIN;ACT
+break	كسر	break	كَسر	ADP	N;NOM;INDF;SG
+break	استراحة	break	اِستِرَاحَة	ADP	N;NOM;INDF;SG
+primarna	ابتدائي	primaran	اِبتِدَائِيّ	ADJ;NOM;DEF;FEM;SG	N;ACC;INDF;SG
+zarada	ارباح	zarada	رِبح	N;NOM;FEM;SG	N;NOM;INDF;PL
+zarada	الارباح	zarada	إِربَاح	N;NOM;FEM;SG	N;NOM;DEF;PL
+zarada	ارباح	zarada	رِبح	N;NOM;FEM;SG	N;NOM;INDF;PL
+zarada	الارباح	zarada	إِربَاح	N;NOM;FEM;SG	N;NOM;DEF;PL
+zarada	ارباح	zarada	رِبح	N;NOM;FEM;SG	N;NOM;INDF;PL
+zarada	الارباح	zarada	إِربَاح	N;NOM;FEM;SG	N;NOM;DEF;PL
+meadow	المرج	meadow	مَرَج	N;NOM;FEM;SG	
+meadow	ميدو	meadow	ميدو	N;NOM;FEM;SG	
+meadow	مرج	meadow	مرج	N;NOM;FEM;SG	
+jana	يناير	jana	يَنَايِر	N;NOM;FEM;SG	N;GEN;INDF;SG
+jana	جان	jana	جَان	N;NOM;FEM;SG	
+jana	يان	jana	يان	N;NOM;FEM;SG	
+jana	جانا	jana	جَان	N;NOM;FEM;SG	
+jedinstveno	فريدون	jedinstven	فريدون	ADJ;NOM;DEF;NEUT;SG	
+jedinstveno	فريدة	jedinstven	فَرِيد	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+jedinstveno	فريد	jedinstven	فريد	ADJ;NOM;DEF;NEUT;SG	
+pag	pag	pag	ثَصَث	PROPN;NOM;MASC;SG	
+ostavi	اترك	ostaviti	اترك	V;IND;SG;3;PRS;FIN	
+ostavi	مغادرة	ostaviti	مُغَادَرَة	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+kanadu	كندا	kanada	كَنَدَا	N;ACC;FEM;SG	
+tvorac	صانع	tvorac	صانع	N;NOM;MASC;SG	
+tvorac	الخالق	tvorac	خَالِق	N;NOM;MASC;SG	
+tvorac	خالق	tvorac	خَالِق	N;NOM;MASC;SG	
+uzvodno	المنبع	uzvodno	مَنبَع	ADV	N;NOM;DEF;SG
+napušten	هجرت	napustiti	هَجَر	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+preživjela	ناج	preživjeti	نَاج	V;FEM;SG;PST;V.PTCP;ACT	N;NOM;INDF;SG
+preživjela	الناجين	preživjeti	الناجين	V;FEM;SG;PST;V.PTCP;ACT	N;NOM;DEF;PL
+preživjela	الناجون	preživjeti	نَاجُون	V;FEM;SG;PST;V.PTCP;ACT	N;NOM;DEF;PL
+preživjela	ناجي	preživjeti	ناجي	V;FEM;SG;PST;V.PTCP;ACT	
+kolegama	الزملاء	kolega	زَمِيل	N;INS;MASC;PL	N;NOM;DEF;PL
+kolegama	زملاء	kolega	زَمِيل	N;INS;MASC;PL	N;NOM;INDF;PL
+mia	ميا	mia	ميا	PROPN;NOM;FEM;SG	
+odabran	مختار	odabrati	مختار	ADJ;NOM;MASC;SG;V.PTCP;PASS	
+odabran	اختير	odabrati	اِختَار	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;PASS
+odabran	المختار	odabrati	المختار	ADJ;NOM;MASC;SG;V.PTCP;PASS	
+lam	لام	lam	لَام	PROPN;NOM;MASC;SG	
+hoda	مشي	hodati	مَشي	N;NOM;MASC;SG	
+hoda	يمشي	hodati	أَمشَى	N;NOM;MASC;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+hoda	امشي	hodati	امشي	N;NOM;MASC;SG	
+svile	سيلك	sviti	سيلك	N;NOM;FEM;PL	
+svile	حرير	sviti	حَرِير	N;NOM;FEM;PL	
+svile	الحرير	sviti	حَرِير	N;NOM;FEM;PL	N;NOM;DEF;SG
+žile	عروق	žila	عروق	N;NOM;FEM;PL	
+žile	الاوعية	žila	وِعَاء	N;NOM;FEM;PL	
+žile	اوعية	žila	وِعِّيّ	N;NOM;FEM;PL	N;NOM;INDF;SG
+div	عملاقة	div	عِملَاق	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+stefana	ستيفان	stefan	ستِيفَان	N;ANIM;ACC;MASC;SG	
+ostavljajući	الرحيل	ostavijati	رَحِيل	ADV;RL	N;NOM;DEF;SG
+ostavljajući	مغادرة	ostavijati	مُغَادَرَة	ADV;RL	N;NOM;INDF;SG
+ostavljajući	يغادر	ostavijati	غَادَر	ADV;RL	V;IPFV;MASC;IND;SG;3;FIN;ACT
+sredina	الاوسط	sredini	أَوسَط	N;NOM;FEM;SG	ADJ;NOM;DEF;MASC;SG
+sedma	سابعا	sedma	سَابِع	ADJ;NOM;FEM;SG	ADJ;ACC;INDF;MASC;SG
+sharp	حادة	sharp	حَادّ	ADP	ADJ;NOM;INDF;FEM;SG
+sharp	شارب	sharp	شَارِب	ADP	
+sharp	حاد	sharp	حَادّ	ADP	ADJ;NOM;INDF;MASC;SG
+prostorno	المكاني	prostoran	مَكَانِي	ADV	N;NOM;DEF;SG
+podnijeti	مقبض	podnijeti	مُقَبَّض	V;NFIN	
+podnijeti	تقديم	podnijeti	تَقدِيم	V;NFIN	N;NOM;INDF;SG
+mason	ماسون	mason	ماسون	N;NOM;MASC;SG	
+mason	مايسن	mason	مايسن	N;NOM;MASC;SG	
+mason	مايسون	mason	مايسون	N;NOM;MASC;SG	
+mason	ميسن	mason	ميسن	N;NOM;MASC;SG	
+mason	ميسون	mason	ميسون	N;NOM;MASC;SG	
+vatikan	الفاتيكان	vatikan	الفاتيكان	N;NOM;MASC;SG	
+kung	الكونغ	kung	كُونغ	ADP	
+carice	الامبراطورة	carica	أُمبِرطَاطُورَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+che	تشي	che	تشي	ADP	
+cvijeće	زهور	cvijeće	زُهُور	N;NOM;NEUT;SG	
+cvijeće	ازهار	cvijeće	ازهار	N;NOM;NEUT;SG	
+kratera	الفوهات	kratera	الفوهات	N;GEN;MASC;SG	N;NOM;DEF;PL
+kratera	فوهة	kratera	فَوهَة	N;GEN;MASC;SG	N;NOM;INDF;SG
+buffalo	بافالو	buffalo	بافالو	N;NOM;MASC;SG	
+buffalo	الجاموس	buffalo	جَامُوس	N;NOM;MASC;SG	
+vežu	الزام	vezati	زَام	V;IND;PL;3;PRS;FIN	N;NOM;DEF;SG
+licence	رخص	licenca	رُخص	N;NOM;FEM;PL	N;NOM;INDF;SG
+nacionalizam	قومية	nacionalizam	قَومِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+nacionalizam	القومية	nacionalizam	قَومِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+najbliže	الاقرب	dlizak	أَقرَب	ADJ;NOM;DEF;RL;FEM;SG	
+najbliže	الاقرب	dlizak	أَقرَب	ADJ;NOM;DEF;RL;FEM;SG	
+prethodna	سابق	prethodan	سَابِق	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+prethodna	سابقة	prethodan	سَابِقَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+prethodna	السابق	prethodan	سَابِق	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+carolina	كارولاينا	carolina	كارولاينا	PROPN;NOM;FEM;SG	
+carolina	كارولينا	carolina	كارولينا	PROPN;NOM;FEM;SG	
+herman	هيرمان	herman	هَيرَمَان	N;NOM;MASC;SG	
+tursko	التركي	turski	تُركِيّ	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+tursko	تركي	turski	تُركِيّ	ADJ;NOM;NEUT;SG	
+benfica	بنفيكا	benfica	بِنفِيكَا	N;NOM;FEM;SG	
+redovnik	الراهب	redovnik	رَاهِب	N;NOM;MASC;SG	
+redovnik	مونك	redovnik	مونك	N;NOM;MASC;SG	
+redovnik	monk	redovnik	مَحَثّ	N;NOM;MASC;SG	
+islamski	الاسلامي	islamski	إِسلَامِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+islamski	اسلامية	islamski	إِسلَامِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+islamski	الاسلامية	islamski	إِسلَامِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+islamski	اسلامي	islamski	إِسلَامِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+asteroida	الكويكب	asteroida	الكويكب	N;GEN;MASC;SG	
+asteroida	كويكب	asteroida	كُوَيكب	N;GEN;MASC;SG	
+asteroida	الكويكبات	asteroida	الكويكبات	N;GEN;MASC;SG	
+vrta	حديقة	vrt	حَدِيقَة	N;GEN;MASC;SG	N;NOM;INDF;SG
+vrta	الحديقة	vrt	حَدِيقَة	N;GEN;MASC;SG	N;NOM;DEF;SG
+struke	المهنة	struka	مُهَنِّئ	N;NOM;FEM;PL	N;NOM;DEF;SG
+struke	مهنة	struka	مِهنَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+prikazane	معروض	prikazati	مَعرُوض	ADJ;NOM;FEM;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+prikazane	معروضة	prikazati	مَعرُوض	ADJ;NOM;FEM;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+iznose	المبالغ	iznositi	مَبلَغ	V;IND;PL;3;PRS;FIN	N;NOM;DEF;PL
+iznose	مبالغ	iznositi	مَبلَغ	V;IND;PL;3;PRS;FIN	N;NOM;INDF;SG
+šesta	سادسا	šesta	سَادِس	ADJ;NOM;FEM;SG	
+omogućeno	مكن	omogućiti	مَكَّن	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+chu	تشو	ch	تشو	PROPN;NOM;MASC;SG	
+glenn	جلين	glenn	جلين	PROPN;NOM;MASC;SG	
+demokracija	ديمقراطية	demokracija	دِيمُقرَاطِيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+koplja	الرمح	koplje	رَمح	N;NOM;NEUT;PL	N;NOM;DEF;SG
+koplja	رمح	koplje	رَمح	N;NOM;NEUT;PL	
+materije	مسالة	materija	مَسأَلَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+materije	المسالة	materija	مَسأَلَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+berlina	برلين	berlina	بَرلِين	N;GEN;MASC;SG	
+savi	سافي	sav	سافي	N;DAT;FEM;SG	
+grafika	رسومات	grafik	رَسم	N;NOM;FEM;SG	N;NOM;INDF;PL
+grafika	الرسومات	grafik	رَسمَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+nana	نانا	nan	نانا	N;NOM;FEM;SG	
+antoine	انطوان	antoine	أَنطُوَان	N;NOM;MASC;SG	
+strasti	شغف	strast	شغف	N;NOM;FEM;PL	
+strasti	الهوى	strast	هُوَيّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+strasti	العاطفة	strast	عَاطِفَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+strasti	الشغف	strast	شَغف	N;NOM;FEM;PL	N;NOM;DEF;SG
+mustela	m	mustel	فَ	N;NOM;FEM;SG	
+prosvjeda	الاحتجاجات	prosvjed	اِحتِجَاج	N;GEN;MASC;SG	N;NOM;DEF;PL
+prosvjeda	احتجاجات	prosvjed	اِحتِجَاج	N;GEN;MASC;SG	N;NOM;INDF;PL
+prosvjeda	المظاهرات	prosvjed	المظاهرات	N;GEN;MASC;SG	N;NOM;DEF;PL
+mont	مونت	mont	مونت	N;NOM;MASC;SG	
+nataša	نتاشا	nataša	نَتَاش	N;NOM;FEM;SG	
+nataša	ناتاشا	nataša	ناتاشا	N;NOM;FEM;SG	
+matej	ماثيو	matej	مَاثِيُو	PROPN;NOM;MASC;SG	
+kamiona	الشاحنات	kamion	شَاحِنَة	N;NOM;MASC;SG	N;NOM;DEF;PL
+kamiona	شاحنات	kamion	شَاحِنَة	N;NOM;MASC;SG	N;NOM;INDF;PL
+steel	الفولاذ	steel	فُولَاذ	ADP	N;NOM;DEF;SG
+steel	ستيل	steel	سَتِيل	ADP	
+steel	الصلب	steel	صُلب	ADP	N;NOM;DEF;SG
+lily	ليلي	lily	لَيلِيّ	PROPN;NOM;MASC;SG	
+lily	ليلى	lily	ليلى	PROPN;NOM;MASC;SG	
+dvorištu	يارد	dvorište	ارد	N;DAT;NEUT;SG	
+dvorištu	الساحة	dvorište	سَاحَة	N;DAT;NEUT;SG	N;NOM;DEF;SG
+dvorištu	ساحة	dvorište	سَاحَة	N;DAT;NEUT;SG	N;NOM;INDF;SG
+dvorištu	ياردة	dvorište	أَارِد	N;DAT;NEUT;SG	N;NOM;INDF;SG
+dvorištu	فناء	dvorište	فِنَاء	N;DAT;NEUT;SG	N;NOM;INDF;SG
+alonso	الونسو	alonso	اَلوُنسُو	N;NOM;MASC;SG	
+kira	كيرا	kira	كَيرَا	N;ACC;MASC;SG	
+inka	الانكا	inka	الانكا	N;NOM;MASC;SG	N;NOM;DEF;PL
+ustavni	دستورية	ustavan	دُستُورِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+ustavni	دستوري	ustavan	دُستُورِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+newcastle	نيوكاسل	newcastle	نِيُوكَاسل	PROPN;NOM;MASC;SG	
+ugrađeni	المضمنة	ugraditi	مَضمَنَة	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;DEF;FEM;SG
+ugrađeni	مدمج	ugraditi	مدمج	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;SG
+laurent	لوران	laurent	لُورَان	PROPN;NOM;MASC;SG	
+laurent	لورينت	laurent	لُورِينت	PROPN;NOM;MASC;SG	
+pretjerano	مفرط	pretjerano	مفرط	ADV	ADJ;NOM;INDF;MASC;SG
+pretjerano	فرط	pretjerano	فَرَط	ADV	
+pretjerano	الافراط	pretjerano	إِفرَاط	ADV	N;NOM;DEF;SG
+principa	مبادئ	princip	مَبدَأ	N;GEN;MASC;SG	N;NOM;INDF;PL
+principa	المبادئ	princip	مَبدَأ	N;GEN;MASC;SG	N;NOM;DEF;PL
+erik	ايريك	erik	أَيرِيك	N;NOM;MASC;SG	
+erik	اريك	erik	أَرِيك	N;NOM;MASC;SG	
+izotopa	النظائر	izotopa	نِظَائِر	N;GEN;MASC;SG	N;NOM;DEF;PL
+mapa	خريطه	mapa	خريطه	N;NOM;FEM;SG	PRO;NOM;MASC;SG;3
+ropstva	العبودية	ropstvo	عُبُودِيّ	N;NOM;NEUT;PL	N;NOM;DEF;SG
+ropstva	عبودية	ropstvo	عُبُودِيّ	N;NOM;NEUT;PL	N;NOM;INDF;SG
+ropstva	الاستعباد	ropstvo	اِستِعبَاد	N;NOM;NEUT;PL	N;NOM;DEF;SG
+teoretski	نظري	teoretski	نَظَر	ADV	
+uvjeren	ثقة	uvjeren	ثِقَة	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+uvjeren	واثق	uvjeren	وَاثِق	ADJ;NOM;INDF;MASC;SG	
+uvjeren	اقتنع	uvjeren	اِقتَنَع	ADJ;NOM;INDF;MASC;SG	V;PFV;MASC;SG;3;ACT
+gregory	جريجوري	gregory	جريجوري	N;NOM;MASC;SG	
+gregory	غريغوري	gregory	غريغوري	N;NOM;MASC;SG	
+allmusic	allmu	allmusic	allmu	N;NOM;MASC;SG	
+planirano	المخطط	planirati	مُخَطَّط	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;DEF;SG
+operativni	التشغيل	operativan	تَشغِيل	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+praga	براغ	praga	براغ	N;GEN;MASC;SG	
+ahmad	احمد	ahmad	احمد	PROPN;NOM;MASC;SG	
+manning	مانينغ	manning	مانينغ	PROPN;NOM;MASC;SG	
+prihvati	نقبل	prihvatiti	نقبل	V;IND;SG;3;PRS;FIN	V;IPFV;MASC;IND;PL;1;FIN;ACT
+prihvati	قبول	prihvatiti	قُبُول	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+odgovori	اجابة	odgovor	إِجَابَة	N;NOM;MASC;PL	N;NOM;INDF;SG
+odgovori	الاجابة	odgovor	إِجَابَة	N;NOM;MASC;PL	N;NOM;DEF;SG
+odgovori	جواب	odgovor	جَابّ	N;NOM;MASC;PL	N;NOM;INDF;SG
+odgovori	الجواب	odgovor	جَوَاب	N;NOM;MASC;PL	N;NOM;DEF;SG
+odgovori	الرد	odgovor	رَدّ	N;NOM;MASC;PL	N;NOM;DEF;SG
+odgovori	رد	odgovor	رَدّ	N;NOM;MASC;PL	V;PFV;MASC;SG;3;ACT
+registar	سجل	registar	سَجَّل	N;NOM;MASC;SG	V;PFV;MASC;SG;3;ACT
+godišnjak	الحولية	godišnjak	حَولِيّ	N;NOM;MASC;SG	
+godišnjak	حولية	godišnjak	حَولِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+paše	ملائم	pašiti	مُلَائِم	V;IND;SG;3;PRS;FIN	ADJ;NOM;INDF;MASC;SG
+standarde	معايير	standard	مِعيَار	N;ACC;MASC;PL	N;NOM;INDF;PL
+standarde	المقاييس	standard	مِقيَاس	N;ACC;MASC;PL	N;NOM;DEF;PL
+standarde	المعايير	standard	مِعيَار	N;ACC;MASC;PL	N;NOM;DEF;PL
+zmaju	تنين	zma	تَنَيَّن	N;DAT;MASC;SG	
+zmaju	التنين	zma	تَنَيَّن	N;DAT;MASC;SG	N;NOM;DEF;SG
+privremeni	مؤقتا	privremen	مُؤَقَّت	ADJ;NOM;DEF;MASC;SG	ADJ;ACC;INDF;MASC;SG
+privremeni	مؤقتة	privremen	مُؤَقَّت	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+privremeni	مؤقت	privremen	مُؤَقَّت	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+istrage	التحقيق	istraga	تَحقِيق	N;NOM;FEM;PL	N;NOM;DEF;SG
+istrage	تحقيق	istraga	تَحقِيق	N;NOM;FEM;PL	N;NOM;INDF;SG
+deveti	تاسعا	deveti	تَاسِع	ADJ;NOM;MASC;SG	ADJ;ACC;INDF;MASC;SG
+tajland	تايلند	tajland	تايلند	PROPN;NOM;MASC;SG	
+tajland	تايلاند	tajland	تَايلَاند	PROPN;NOM;MASC;SG	
+prijateljska	ودية	prijateljski	وُدِّيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+prijateljska	ودي	prijateljski	وُدِّيّ	ADJ;NOM;DEF;FEM;SG	
+biološki	البيولوجية	biološki	بِيُولُوجِيّ	ADV	
+biološki	بيولوجية	biološki	بِيُولُوجِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+biološki	بيولوجي	biološki	بيولوجي	ADV	N;NOM;INDF;SG
+biološki	بيولوجيا	biološki	بيولوجيا	ADV	
+pokušavajući	المحاولة	pokušavati	مُحَاوَلَة	ADV;RL	N;NOM;DEF;SG
+pokušavajući	احاول	pokušavati	احاول	ADV;RL	
+umijeće	المهارات	umijeće	مَهَارَة	N;NOM;NEUT;SG	N;NOM;DEF;PL
+umijeće	مهارات	umijeće	مهارات	N;NOM;NEUT;SG	N;NOM;INDF;PL
+stolica	كرسي	stolica	كرسي	N;NOM;FEM;SG	
+angelo	انجلو	angelo	أَنجَلُو	N;NOM;MASC;SG	
+angelo	انجيلو	angelo	أَنجِيلُو	N;NOM;MASC;SG	
+kornjača	تورتل	kornjača	تَوَرُّل	N;NOM;FEM;SG	
+oštećen	تضررت	oštetiti	تَضَرَّر	ADJ;NOM;MASC;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+oštećen	متضرر	oštetiti	مُتَضَرِّر	ADJ;NOM;MASC;SG;V.PTCP	N;NOM;INDF;SG
+katastrofa	الكوارث	katastrofa	كَارِثَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+uzastopnih	متتالية	uzastopan	مُتَتَالِي	ADJ;GEN;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+višestruko	المتعددة	višestruko	مُتَعَدِّد	ADV	ADJ;NOM;DEF;FEM;SG
+višestruko	تعدد	višestruko	عَدَّد	ADV	N;NOM;INDF;SG
+višestruko	متعدد	višestruko	مُتَعَدِّد	ADV	ADJ;NOM;INDF;MASC;SG
+višestruko	متعددة	višestruko	مُتَعَدِّد	ADV	ADJ;NOM;INDF;FEM;SG
+ljiljana	الزنابق	ljiljana	زُنبُقَة	PROPN;NOM;FEM;SG	
+pionir	رائدة	pionir	رَائِدَة	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+pionir	رائدا	pionir	رَائِد	N;NOM;MASC;SG	ADJ;ACC;INDF;MASC;SG
+pionir	بايونير	pionir	بايونير	N;NOM;MASC;SG	
+pionir	رائدة	pionir	رَائِدَة	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+jaje	بيض	jaje	بَيض	N;NOM;NEUT;SG	
+ted	تيد	ted	تيد	PROPN;NOM;MASC;SG	
+ted	تد	ted	تَدّ	PROPN;NOM;MASC;SG	V;IPFV;FEM;IND;SG;3;FIN;ACT
+višestruki	تعدد	višestruk	عَدَّد	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+višestruki	متعدد	višestruk	مُتَعَدِّد	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+višestruki	متعددة	višestruk	مُتَعَدِّد	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+mana	مانا	mana	مانا	N;NOM;FEM;SG	
+oštećena	تضررت	oštetiti	تَضَرَّر	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+oštećena	متضررة	oštetiti	مُتَضَرِّر	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG
+oštećena	متضرر	oštetiti	مُتَضَرِّر	ADJ;NOM;DEF;FEM;SG;V.PTCP	N;NOM;INDF;SG
+promociju	الترويج	promocija	تَروِيج	N;ACC;FEM;SG	N;NOM;DEF;SG
+promociju	الترقية	promocija	تُرقِيّ	N;ACC;FEM;SG	N;NOM;DEF;SG
+promociju	الترقيات	promocija	تُرقِيّ	N;ACC;FEM;SG	N;NOM;DEF;PL
+promociju	ترويج	promocija	تَروِيج	N;ACC;FEM;SG	N;NOM;INDF;SG
+promociju	تعزيز	promocija	تَعزِيز	N;ACC;FEM;SG	N;NOM;INDF;SG
+promociju	ترقية	promocija	تَرقِيَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+presude	احكام	presuda	حُكم	N;NOM;FEM;PL	N;NOM;INDF;SG
+zalihe	لوازم	zaliha	لوازم	N;NOM;FEM;PL	
+zalihe	المخزون	zaliha	مَخزُون	N;NOM;FEM;PL	N;NOM;DEF;SG
+usvojena	اعتمدت	usvojiti	اِعتَمَد	ADJ;NOM;FEM;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+instrumente	صكوك	instrument	صَكّ	N;ACC;MASC;PL	N;NOM;INDF;PL
+instrumente	الصكوك	instrument	صَكّ	N;ACC;MASC;PL	N;NOM;DEF;PL
+instrumente	الالات	instrument	آلَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+fotografiju	صورة	fotografija	صُورَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+fotografiju	الصورة	fotografija	صُورَة	N;ACC;FEM;SG	N;NOM;DEF;SG
+fotografiju	p	fotografija	!	N;ACC;FEM;SG	
+komplikacija	مضاعفات	komplikacija	مُضَاعَفَات	N;NOM;FEM;SG	N;NOM;INDF;PL
+komplikacija	التعقيدات	komplikacija	تَعقِيد	N;NOM;FEM;SG	N;NOM;DEF;PL
+komplikacija	تعقيدات	komplikacija	تَعقِيد	N;NOM;FEM;SG	N;NOM;INDF;PL
+komplikacija	المضاعفات	komplikacija	مُضَاعَفَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+dobitnici	الفائزين	dobitnik	فَائِز	N;NOM;MASC;PL	ADJ;NOM;DEF;MASC;PL
+crawford	كروفورد	crawford	كرُوفُورد	N;NOM;FEM;SG	
+crawford	كراوفورد	crawford	كراوفورد	N;NOM;FEM;SG	
+lana	لانا	lana	لانا	N;NOM;FEM;SG	
+crtež	ارسم	crtež	ارسم	N;NOM;MASC;SG	
+gupta	جوبتا	gupta	جُوبتَا	N;NOM;MASC;SG	
+gupta	غوبتا	gupta	غُوبِتَا	N;NOM;MASC;SG	
+tiger	تايجر	tiger	تايجر	ADP	
+tiger	النمر	tiger	نَمَر	ADP	N;NOM;DEF;SG
+tiger	نمر	tiger	نمر	ADP	
+kara	كارا	kara	كارا	N;NOM;MASC;SG	
+kos	الشحرور	kos	شُحرُور	PROPN;NOM;MASC;SG	
+pivo	جعة	pivo	جُعَّة	N;NOM;NEUT;SG	
+zakonski	قانونيا	zakonski	قَانُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+prah	غبار	prah	غِبَار	N;NOM;MASC;SG	
+prah	تراب	prah	رَاب	N;NOM;MASC;SG	
+prah	البارود	prah	بَارُود	N;NOM;MASC;SG	
+alternativni	البديل	alternativan	بَدِيل	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+alternativni	بديل	alternativan	بَدِيل	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+alternativni	بديلة	alternativan	بَدِيلَة	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+alternativni	البديل	alternativan	بَدِيل	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+alternativni	المناوب	alternativan	مَنُوب	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+alternativni	بديل	alternativan	بَدِيل	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+alternativni	بديلة	alternativan	بَدِيلَة	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+daniela	دانيلا	daniel	دانيلا	N;NOM;FEM;SG	
+daniela	دانيال	daniel	دَانِيَال	N;NOM;FEM;SG	
+daniela	دانييل	daniel	دَانِيِيل	N;NOM;FEM;SG	
+daniela	دانيل	daniel	دانيل	N;NOM;FEM;SG	
+strategije	استراتيجية	strategija	إِسترَاتِيجِيَّة	N;NOM;FEM;PL	N;NOM;INDF;SG
+strategije	الاستراتيجية	strategija	إِسترَاتِيجِيَّة	N;NOM;FEM;PL	N;NOM;DEF;SG
+tipični	نموذجية	tipičan	نَمُوذَجِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+tipični	نموذجي	tipičan	نَمُوذَجِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+psima	كلاب	pas	كَلَاب	N;INS;MASC;PL	N;NOM;INDF;PL
+psima	الكلاب	pas	كَلَاب	N;INS;MASC;PL	N;NOM;DEF;PL
+hrasta	البلوط	hrast	بَلوَط	N;GEN;MASC;SG	N;NOM;DEF;SG
+torinu	تورينو	torina	تورينو	N;DAT;MASC;SG	
+gloria	غلوريا	glor	غِلَورِيّ	N;NOM;FEM;SG	
+gloria	جلوريا	glor	جَلوَرِيّ	N;NOM;FEM;SG	
+moderno	حديثة	moderno	حَدِيث	ADV	ADJ;NOM;INDF;FEM;SG
+moderno	الحديثة	moderno	حَدِيث	ADV	ADJ;NOM;DEF;FEM;SG
+moderno	عصري	moderno	عصري	ADV	ADJ;NOM;INDF;MASC;SG
+berkeley	بيركيلي	berkeley	بِيركِيلِي	N;NOM;MASC;SG	
+berkeley	بيركلي	berkeley	بيركلي	N;NOM;MASC;SG	
+shi	شي	she	شي	PROPN;NOM;MASC;SG	
+armstrong	ارمسترونغ	armstrong	ارمسترونغ	N;NOM;MASC;SG	
+ranjeno	مجروح	raniti	مَجرُوح	ADJ;NOM;NEUT;SG;V.PTCP;PASS	
+ranjeno	جرح	raniti	جُرح	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+ranjeno	جرحى	raniti	جَرِيح	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;PL
+ranjeno	الجرحى	raniti	جَرِيح	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;DEF;PL
+ranjeno	جريح	raniti	جَرِيح	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+perkins	بيركنز	perkins	بِيركنز	N;NOM;MASC;SG	
+prijateljstva	الصداقة	prijateljstvo	صَدَاقَة	N;NOM;NEUT;PL	N;NOM;DEF;SG
+prijateljstva	صداقة	prijateljstvo	صَدَاقَة	N;NOM;NEUT;PL	N;NOM;INDF;SG
+neo	نيو	neo	نِيُو	PROPN;NOM;MASC;SG	
+seksualno	جنسي	seksualan	جِنسِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+seksualno	الجنسية	seksualan	جِنسِيَّة	ADV	N;NOM;DEF;SG
+seksualno	جنسية	seksualan	جِنسِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+seksualno	جنسيا	seksualan	جِنسِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+spielberg	سبيلبيرغ	spielberg	سبيلبيرغ	N;NOM;MASC;SG	
+arsen	الزرنيخ	arsen	زُرنِيخ	N;NOM;MASC;SG	
+pravna	قانوني	pravan	قانوني	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+pravna	قانونية	pravan	قَانُونِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+marine	مارينا	marina	مارينا	N;NOM;FEM;PL	
+poželjno	يفضل	poželjan	فَضَّل	ADJ;NOM;DEF;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+poželjno	مرغوب	poželjan	مرغوب	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+poželjno	مرغوبة	poželjan	مَرغُوب	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+medijski	الاعلام	medijski	إِعلَام	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+medijski	اعلام	medijski	إِعلَام	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+propustio	فوت	propustiti	فَوت	V;MASC;SG;PST;V.PTCP;ACT	
+ravnica	السهول	ravnica	سُهُول	N;NOM;FEM;SG	N;NOM;DEF;PL
+prihod	ايرادات	prihod	إِيرَاد	N;NOM;MASC;SG	N;NOM;INDF;PL
+prihod	الايرادات	prihod	إِيرَاد	N;NOM;MASC;SG	N;NOM;DEF;PL
+prihod	ايرادات	prihod	إِيرَاد	N;NOM;MASC;SG	N;NOM;INDF;PL
+prihod	الايرادات	prihod	إِيرَاد	N;NOM;MASC;SG	N;NOM;DEF;PL
+prihod	دخل	prihod	دَخَل	N;NOM;MASC;SG	V;PFV;MASC;SG;3;ACT
+hopkins	هوبكنز	hopkins	هوبكنز	N;NOM;MASC;SG	
+hopkins	هوبكينز	hopkins	هوبكينز	N;NOM;MASC;SG	
+salzburg	سالزبورغ	salzburg	سالزبورغ	N;NOM;MASC;SG	
+luca	لوكا	luc	لوكا	N;NOM;MASC;SG	
+magdalena	المجدلية	magdaliti	مُجَدَّلِيَّة	ADJ;NOM;FEM;SG	N;NOM;DEF;SG
+magdalena	ماجدالينا	magdaliti	ماجدالينا	ADJ;NOM;FEM;SG	
+detektiv	محقق	detektiv	محقق	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+detektiv	محققة	detektiv	محققة	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+promijeni	التغير	promijeniti	تَغَيُّر	V;IND;SG;3;PRS;FIN	N;NOM;DEF;SG
+promijeni	تغيير	promijeniti	تَغيِير	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+promijeni	التغيير	promijeniti	تَغيِير	V;IND;SG;3;PRS;FIN	N;NOM;DEF;SG
+promijeni	غير	promijeniti	غَير	V;IND;SG;3;PRS;FIN	N;ACC;PSSD;SG
+promijeni	تغير	promijeniti	تَغَيُّر	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+rame	كتف	rama	كتف	N;NOM;NEUT;SG	
+sluga	خادم	sluga	خَادِم	N;NOM;MASC;SG	
+sluga	خا	sluga	خَا	N;NOM;MASC;SG	
+mučenik	شهيدا	mučenik	شَهِيد	N;NOM;MASC;SG	N;ACC;INDF;SG
+mučenik	الشهيد	mučenik	شَهِيد	N;NOM;MASC;SG	
+rachel	راتشيل	rachel	راتشيل	N;NOM;FEM;SG	
+rachel	ريتشيل	rachel	ريتشيل	N;NOM;FEM;SG	
+rachel	ريتشل	rachel	رِيتشِل	N;NOM;FEM;SG	
+rachel	رايتشل	rachel	رَايتشِل	N;NOM;FEM;SG	
+rachel	راشيل	rachel	راشيل	N;NOM;FEM;SG	
+obavezno	الالزامية	obavezno	إِلزَامِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+obavezno	الزام	obavezno	زَام	ADV	N;NOM;DEF;SG
+obavezno	الزامية	obavezno	زَامِي	ADV	ADJ;NOM;DEF;FEM;SG
+naoružani	المسلحة	naoružati	مُسَلَّح	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;DEF;FEM;SG
+naoružani	مسلحين	naoružati	مُسَلَّح	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;PL
+naoružani	مسلح	naoružati	مُسَلَّح	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;SG
+naoružani	مسلحة	naoružati	مُسَلَّح	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+naoružani	مسلحون	naoružati	مُسَلَّح	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;PL
+zaštićeno	محمية	zaštititi	محمية	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+prorok	نبي	prorok	نبي	N;NOM;MASC;SG	
+noviji	الاحدث	nov	أَحدَث	ADJ;NOM;DEF;CMPR;MASC;SG	N;NOM;DEF;SG
+noviji	احدث	nov	أَحدَث	ADJ;NOM;DEF;CMPR;MASC;SG	
+zamisao	فكره	zamisao	فكره	N;NOM;FEM;SG	PRO;NOM;MASC;SG;3
+sposobni	قادر	sposoban	قَادِر	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+sposobni	قادرة	sposoban	قَادِر	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+sposobni	قادرين	sposoban	قَادِر	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;PL
+suze	دموع	suza	دُمُوع	N;NOM;FEM;PL	N;NOM;INDF;SG
+odraz	انعكاسات	odraz	اِنعِكَاس	N;NOM;MASC;SG	N;NOM;INDF;PL
+casas	كاساس	casas	كَاسَاس	N;NOM;MASC;SG	
+etno	عرقية	etno	عِرقِيّ	ADP	ADJ;NOM;INDF;FEM;SG
+etno	الاثنية	etno	اِثنِيّ	ADP	N;NOM;DEF;SG
+elena	الينا	elena	الينا	N;NOM;FEM;SG	
+elena	ايلينا	elena	ايلينا	N;NOM;FEM;SG	
+opterećenje	حمل	opterećenje	حَمَل	N;NOM;NEUT;SG	V;PFV;MASC;SG;3;ACT
+michelle	ميشيل	michella	ميشيل	N;NOM;FEM;SG	
+prijatelje	اصدقاء	prijatelj	صَدِيق	N;ACC;MASC;PL	N;NOM;INDF;PL
+prijatelje	الاصدقاء	prijatelj	صَدِيق	N;ACC;MASC;PL	N;NOM;DEF;PL
+prijatelje	صديقان	prijatelj	صديقان	N;ACC;MASC;PL	N;NOM;INDF;DU
+sluge	اتباع	sluga	اِتِّبَاع	N;NOM;FEM;PL	N;NOM;INDF;SG
+sluge	الخدم	sluga	خَدم	N;NOM;FEM;PL	N;NOM;DEF;SG
+sluge	خدم	sluga	خَدَم	N;NOM;FEM;PL	
+angela	انجيلا	angela	أَنجِيلَا	N;NOM;FEM;SG	
+depresije	الكابة	depresija	كَابَّة	N;NOM;FEM;PL	
+depresije	اكتئاب	depresija	اِكتِئَاب	N;NOM;FEM;PL	N;NOM;INDF;SG
+depresije	الاكتئاب	depresija	اِكتِئَاب	N;NOM;FEM;PL	N;NOM;DEF;SG
+depresije	الكساد	depresija	كَسَاد	N;NOM;FEM;PL	N;NOM;DEF;SG
+monroe	مونرو	monro	مونرو	PROPN;NOM;MASC;SG	
+einstein	اينشتاين	einstein	أَينشَة	N;NOM;MASC;SG	
+krzna	الفرو	krzna	فُرُوّ	N;NOM;MASC;SG	N;NOM;DEF;PL
+napusti	اترك	napustiti	اترك	V;IND;SG;3;PRS;FIN	
+napusti	مغادرة	napustiti	مُغَادَرَة	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+colin	كولن	colin	كُولِن	N;NOM;MASC;SG	
+kongu	الكونغو	kong	اَلكُونغُو	PROPN;DAT;MASC;SG	
+simpson	سيمبسون	simpson	سيمبسون	N;NOM;MASC;SG	
+simpson	سمبسون	simpson	سمبسون	N;NOM;MASC;SG	
+grove	بستان	groviti	بستان	N;NOM;MASC;SG	
+pakistana	باكستان	pakistati	بَاكِستَان	N;GEN;MASC;SG	N;NOM;INDF;SG
+brad	براد	brad	برَاد	PROPN;NOM;MASC;SG	
+himne	النشيد	himan	نَشِيد	N;NOM;FEM;PL	N;NOM;DEF;SG
+himne	نشيد	himan	نشيد	N;NOM;FEM;PL	N;NOM;INDF;SG
+troši	تنفق	trošiti	أَنفَق	V;IND;SG;3;PRS;FIN	V;IPFV;MASC;IND;SG;2;FIN;ACT
+francisca	فرانسيسكو	francisac	فرَانسِيسكُو	N;ANIM;ACC;MASC;SG	
+obavijesti	اخطار	obavijest	اخطار	N;NOM;FEM;PL	N;NOM;INDF;SG
+obavijesti	الاخطار	obavijest	خَطَر	N;NOM;FEM;PL	N;NOM;DEF;SG
+javi	خافي	javiti	خافي	V;IND;SG;3;PRS;FIN	
+padaju	سقوط	padati	سُقُوط	V;IND;PL;3;PRS;FIN	N;NOM;INDF;SG
+padaju	السقوط	padati	سُقُوط	V;IND;PL;3;PRS;FIN	N;NOM;DEF;SG
+keller	كيلر	keller	كيلر	N;NOM;FEM;SG	
+planinu	ماونتن	planina	مُاُونَة	N;ACC;FEM;SG	
+planinu	جبل	planina	جَبَل	N;ACC;FEM;SG	
+planinu	الجبل	planina	جَبَل	N;ACC;FEM;SG	N;NOM;DEF;SG
+piva	جعة	pivo	جُعَّة	N;NOM;NEUT;SG	
+upoznati	قابل	upoznati	قَابَل	V;NFIN	ADJ;NOM;INDF;MASC;SG
+upoznati	تلبية	upoznati	تَلبِيَة	V;NFIN	N;NOM;INDF;SG
+upoznati	نلتقي	upoznati	نلتقي	V;NFIN	
+upoznati	لقاء	upoznati	لِقَاء	V;NFIN	N;NOM;INDF;SG
+mrežnice	الشبكية	mrežnica	شَبَكِيّ	N;NOM;FEM;PL	
+bsk	bsk	bsk	مَعَثّ	N	
+prijateljica	صديقي	prijateljica	صديقي	N;NOM;FEM;SG	
+lakši	اخف	lak	أَخف	ADJ;NOM;DEF;CMPR;MASC;SG	
+ravnotežu	الرصيد	ravnoteža	رَصِيد	N;ACC;FEM;SG	N;NOM;DEF;SG
+ravnotežu	التوازن	ravnoteža	تَوَازُن	N;ACC;FEM;SG	N;NOM;DEF;SG
+ravnotežu	الميزان	ravnoteža	مِيزَان	N;ACC;FEM;SG	N;NOM;DEF;SG
+ravnotežu	رصيد	ravnoteža	رَصِيد	N;ACC;FEM;SG	N;NOM;INDF;SG
+ravnotežu	توازن	ravnoteža	تَوَازُن	N;ACC;FEM;SG	N;NOM;INDF;SG
+slavna	المشاهير	slavan	مَشهُور	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;PL
+linda	ليندا	linda	ليندا	N;NOM;FEM;SG	
+azijski	اسيا	azijski	آسِيَا	ADJ;NOM;DEF;MASC;SG	
+vicente	فيسينتي	vicent	فيسينتي	N;NOM;MASC;SG	
+vicente	فيسنتي	vicent	فيسنتي	N;NOM;MASC;SG	
+učinkovito	فعالة	učinkovito	فَعَّال	ADV	ADJ;NOM;INDF;FEM;SG
+učinkovito	فعالية	učinkovito	فَعَّالِيَّة	ADV	N;NOM;INDF;SG
+učinkovito	فعال	učinkovito	فَعَّال	ADV	ADJ;NOM;INDF;MASC;SG
+učinkovito	الفعال	učinkovito	فَعَّال	ADV	N;NOM;DEF;SG
+skuplja	يجمع	skup	جَمَّع	ADJ;NOM;DEF;CMPR;FEM;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+raznolikost	متنوعة	raznolikost	مُتَنَوِّع	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+surađivati	تعاون	surađivati	تَعَاوُن	V;NFIN	N;NOM;INDF;SG
+surađivati	تعاوني	surađivati	تَعَاوُنِيّ	V;NFIN	ADJ;NOM;INDF;MASC;SG
+brončana	البرونز	brončan	بُرُونز	ADJ;NOM;DEF;FEM;SG;V.PTCP	N;NOM;DEF;SG
+nancy	نانسي	nancy	نانسي	PROPN;NOM;MASC;SG	
+učiti	الدراسه	učiti	دِرَاسِه	V;NFIN	
+učiti	ادرس	učiti	أَدرَس	V;NFIN	
+učiti	دراسة	učiti	دِرَاسَة	V;NFIN	N;NOM;INDF;SG
+učiti	الدراسة	učiti	دِرَاسَة	V;NFIN	N;NOM;DEF;SG
+nakit	المجوهرات	nakit	مُجَوهَر	N;NOM;MASC;SG	N;NOM;DEF;PL
+nakit	مجوهرات	nakit	مُجَوهَر	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;PL
+nakit	جواهر	nakit	جَاهِر	N;NOM;MASC;SG	
+nakit	المجوهرات	nakit	مُجَوهَر	N;NOM;MASC;SG	N;NOM;DEF;PL
+nakit	مجوهرات	nakit	مُجَوهَر	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;PL
+nakit	جواهر	nakit	جَاهِر	N;NOM;MASC;SG	
+marcel	مارسيل	marcel	مارسيل	N;NOM;MASC;SG	
+mirna	سلمية	miran	سِلمِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+mirna	سلمي	miran	سِلمِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+greg	غريغ	greg	غريغ	PROPN;NOM;MASC;SG	
+greg	جريج	greg	جَرِيج	PROPN;NOM;MASC;SG	
+nord	نورد	nord	نورد	PROPN;NOM;MASC;SG	
+kriterija	معايير	kriterij	مِعيَار	N;GEN;MASC;PL	N;NOM;INDF;PL
+kriterija	المعايير	kriterij	مِعيَار	N;GEN;MASC;PL	N;NOM;DEF;PL
+izazov	تحد	izazov	أَحَدّ	N;NOM;MASC;SG	V;IPFV;FEM;IND;SG;3;FIN;ACT
+izazov	تحدى	izazov	تَحَدِّي	N;NOM;MASC;SG	
+domovi	المنازل	dom	مَنزِل	N;NOM;MASC;SG	N;NOM;DEF;PL
+domovi	منازل	dom	مَنزِل	N;NOM;MASC;SG	N;NOM;INDF;PL
+domovi	بيوت	dom	بَيت	N;NOM;MASC;SG	N;NOM;INDF;PL
+domovi	البيوت	dom	بَيت	N;NOM;MASC;SG	N;NOM;DEF;PL
+geološki	الجيولوجي	geološki	جِيُولُوجِيّ	ADV	
+geološki	الجيولوجية	geološki	جِيُولُوجِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+commonwealtha	كومنولث	commonwealth	كُومُنوِلث	N;GEN;MASC;SG	
+commonwealtha	الكومنولث	commonwealth	الكومنولث	N;GEN;MASC;SG	
+negativan	السلبية	negativan	سَلبِيّ	ADJ;NOM;INDF;MASC;SG	ADJ;NOM;DEF;FEM;SG
+negativan	سالب	negativan	سالب	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+šesto	سادسا	šesti	سَادِس	ADJ;NOM;NEUT;SG	
+pax	باكس	pax	بَاكِس	ADP	
+elite	نخبة	elita	نُخبَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+elite	النخبة	elita	نُخبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+bombardera	المفجر	bombarder	مُفَجَّر	N;ANIM;ACC;MASC;SG	N;NOM;DEF;SG
+mjesečno	الشهري	mjesečno	شَهرِيّ	ADV	
+mjesečno	شهرية	mjesečno	شَهرِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+mjesečno	الشهرية	mjesečno	شَهرِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+mjesečno	شهريا	mjesečno	شَهرِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+mjesečno	شهري	mjesečno	شَهرِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+leteći	طيران	leteći	طَيَرَان	ADV	N;NOM;INDF;SG
+leteći	الطيران	leteći	طَيَرَان	ADV	N;NOM;DEF;SG
+leteći	تطير	leteći	طَار	ADV	V;IPFV;FEM;IND;SG;3;FIN;ACT
+stazama	مسارات	staza	مَسَار	N;INS;FEM;PL	N;NOM;INDF;PL
+sljedbenici	اتباع	sljedbenik	اِتِّبَاع	N;NOM;MASC;PL	N;NOM;INDF;SG
+sljedbenici	متابع	sljedbenik	مُتَأَبِّع	N;NOM;MASC;PL	N;NOM;INDF;SG
+sjena	ظل	sjena	ظَلّ	N;NOM;FEM;SG	V;PFV;MASC;SG;3;ACT
+posjetiti	زور	posjetiti	زور	V;NFIN	
+posjetiti	الزيارة	posjetiti	زِيَارَة	V;NFIN	N;NOM;DEF;SG
+posjetiti	زيارة	posjetiti	زِيَارَة	V;NFIN	N;NOM;INDF;SG
+planova	الخطط	plan	خُطَّة	N;GEN;MASC;PL	N;NOM;DEF;PL
+planova	خطط	plan	خُطَّة	N;GEN;MASC;PL	
+osuđeni	ادين	osuditi	أَدِين	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+osuđeni	مدان	osuditi	مَدَّان	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;SG
+osuđeni	ادان	osuditi	أَدَان	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+osuđeni	مدان	osuditi	مَدَّان	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;SG
+stupovi	اعمدة	stup	اعمدة	N;NOM;MASC;PL	N;NOM;INDF;SG
+prosječni	متوسط	prosječni	مُتَوَسِّط	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+detalj	تفاصيل	detalj	تَفصِيل	N;NOM;MASC;SG	N;NOM;INDF;PL
+detalj	التفاصيل	detalj	تَفصِيل	N;NOM;MASC;SG	N;NOM;DEF;PL
+mišići	العضلة	mišić	عُضلَة	N;NOM;MASC;PL	N;NOM;DEF;SG
+mišići	عضلة	mišić	عضلة	N;NOM;MASC;PL	N;NOM;INDF;SG
+algoritam	خوارزمية	algoritam	خُورزَمِيّ	N;NOM;MASC;SG	
+eve	حواء	eva	حَوَاء	N;NOM;FEM;SG	
+eve	ايف	eva	ايف	N;NOM;FEM;SG	
+brandt	براندت	brandt	برَاندت	PROPN;NOM;MASC;SG	
+učinkovitosti	كفاءة	učinkovitost	كَفَاءَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+učinkovitosti	الكفاءة	učinkovitost	كَفَاءَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+učinkovitosti	الفعالية	učinkovitost	فَعَّالِيَّة	N;NOM;FEM;PL	N;NOM;DEF;SG
+medici	ميديتشي	medik	ميديتشي	PROPN;NOM;MASC;SG	
+organizmi	الكائن	organizam	كَائِن	N;NOM;MASC;PL	N;NOM;DEF;SG
+zamijenjena	استبدل	zamijeniti	اِستَبدَل	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+falls	الشلالات	falls	شَلَالَة	PROPN;NOM;MASC;SG	N;NOM;DEF;PL
+falls	شلالات	falls	شَلَالَة	PROPN;NOM;MASC;SG	N;NOM;INDF;PL
+mudrosti	الحكمة	mudrost	حِكمَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+mudrosti	حكمة	mudrost	حِكمَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+prepoznaje	تسلم	prepoznavati	تَسَلُّم	V;IND;SG;3;PRS;FIN	N;NOM;INDF;SG
+izolacije	عزلة	izolacija	عُزلَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+izolacije	العزل	izolacija	عَزل	N;NOM;FEM;PL	N;NOM;DEF;SG
+izolacije	العزلة	izolacija	عُزلَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+prepreka	العقبات	prepreka	عَقَبَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+prepreka	عقبات	prepreka	عَقَبَة	N;NOM;FEM;SG	N;NOM;INDF;PL
+prepreka	العراقيل	prepreka	عَرقَلَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+prepreka	العوائق	prepreka	عَائِق	N;NOM;FEM;SG	N;NOM;DEF;PL
+pehar	كاس	pehar	كَاس	N;NOM;MASC;SG	
+pehar	الكاس	pehar	كَاسّ	N;NOM;MASC;SG	
+topla	دافئة	topao	دَافِئ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+topla	دافئ	topao	دَافِئ	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+kapeli	شابل	kapela	شَابِل	N;DAT;FEM;SG	
+matematiku	رياضيات	matematika	رياضيات	N;ACC;FEM;SG	N;NOM;INDF;PL
+matematiku	الرياضيات	matematika	رِيَاضِيّ	N;ACC;FEM;SG	N;NOM;DEF;PL
+matematiku	رياضيات	matematika	رياضيات	N;ACC;FEM;SG	N;NOM;INDF;PL
+matematiku	الرياضيات	matematika	رِيَاضِيّ	N;ACC;FEM;SG	N;NOM;DEF;PL
+standardno	قياسي	standardno	قِيَاسِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+standardno	المعيار	standardno	مِعيَار	ADV	N;NOM;DEF;SG
+standardno	معيار	standardno	مُعِير	ADV	N;NOM;INDF;SG
+stolac	كرسي	stolac	كرسي	N;NOM;MASC;SG	
+konstruirao	شيدت	konstruirati	شَيَّد	V;MASC;SG;PST;V.PTCP;ACT	V;PFV;FEM;SG;3;PASS
+reci	قل	reći	قَلّ	INTJ	
+reci	نقول	reći	قَال	INTJ	V;IPFV;MASC;IND;PL;1;FIN;ACT
+reci	قولي	reći	قَولِيّ	INTJ	
+reci	قول	reći	قَول	INTJ	N;NOM;INDF;SG
+reci	اقول	reći	قَاوَل	INTJ	
+modula	وحدات	modul	وَحدَة	N;GEN;MASC;SG	N;NOM;INDF;PL
+modula	وحدة	modul	وَحدَة	N;GEN;MASC;SG	N;NOM;INDF;SG
+slo	سلو	slo	سُلُو	PROPN;NOM;MASC;SG	
+izračunati	احسب	izračunati	أَحسَب	V;NFIN	
+izračunati	حساب	izračunati	حِسَاب	V;NFIN	N;NOM;INDF;SG
+izračunati	حساب	izračunati	حِسَاب	V;NFIN	N;NOM;INDF;SG
+julie	جولى	juliti	جولى	N;NOM;FEM;SG	
+julie	جولي	juliti	جولي	N;NOM;FEM;SG	
+terminal	طرفية	terminal	طَرَفِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+terminal	الطرفية	terminal	طَرَفِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+susrete	المواجهات	susret	مُوَاجَهَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+susrete	مواجهات	susret	مُوَاجَهَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+susrete	لقاءات	susret	لِقَاء	N;ACC;MASC;PL	N;NOM;INDF;PL
+susrete	اللقاءات	susret	لِقَاء	N;ACC;MASC;PL	N;NOM;DEF;PL
+dano	نظرا	dati	نَظَر	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;ACC;INDF;SG
+nacisti	نازي	nacistiti	نازي	N;NOM;MASC;PL	
+nacisti	النازي	nacistiti	نَازِي	N;NOM;MASC;PL	
+nacisti	النازية	nacistiti	نَازِيَّة	N;NOM;MASC;PL	N;NOM;DEF;SG
+pouzdano	موثوق	pouzdano	مَوثُوق	ADV	ADJ;NOM;INDF;MASC;SG
+pouzdano	موثوقة	pouzdano	مَوثُوق	ADV	ADJ;NOM;INDF;FEM;SG
+uređaje	الاجهزة	uređaj	جِهَاز	N;ACC;MASC;PL	N;NOM;DEF;PL
+uređaje	اجهزة	uređaj	جِهَاز	N;ACC;MASC;PL	N;NOM;INDF;PL
+imenovanje	التعيينات	imenovanje	تَعيِين	N;NOM;NEUT;SG	N;NOM;DEF;PL
+planiranja	التخطيط	planiranje	تَخطِيط	N;NOM;NEUT;PL	N;NOM;DEF;SG
+planiranja	تخطيط	planiranje	تَخطِيط	N;NOM;NEUT;PL	N;NOM;INDF;SG
+galeb	النورس	galeb	النورس	N;NOM;MASC;SG	
+galeb	النورس	galeb	النورس	N;NOM;MASC;SG	
+galeb	نورس	galeb	نورس	N;NOM;MASC;SG	
+kuba	كوبا	kub	كُوبَا	PROPN;NOM;FEM;SG	
+ajax	اياكس	ajax	أَيَاكس	N;NOM;MASC;SG	
+vlage	الرطوبة	vlaga	رُطُوبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+vlage	الرطوبة	vlaga	رُطُوبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+zaštićen	محمية	zaštititi	محمية	ADJ;NOM;MASC;SG;V.PTCP;PASS	N;NOM;INDF;SG
+mode	ازياء	moda	زِيّ	N;NOM;FEM;SG	
+kanadska	كندا	kanadski	كَنَدَا	ADJ;NOM;DEF;FEM;SG	
+kanadska	كندي	kanadski	كَنَدِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+kanadska	كندية	kanadski	كَنَدِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+kanadska	الكندي	kanadski	كَنَدِيّ	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+izjavu	بيان	izjava	بَيَان	N;ACC;FEM;SG	N;NOM;INDF;SG
+izjavu	البيان	izjava	بَيَان	N;ACC;FEM;SG	N;NOM;DEF;SG
+meek	وديع	meek	وديع	PROPN;NOM;MASC;SG	
+kvalitetno	النوعية	kvalitetno	نَوعِيَّة	ADV	N;NOM;DEF;SG
+kvalitetno	جودة	kvalitetno	جَودَة	ADV	N;NOM;INDF;SG
+kvalitetno	الجودة	kvalitetno	جَودَة	ADV	N;NOM;DEF;SG
+opisa	الوصف	opis	وَصف	N;GEN;MASC;SG	N;NOM;DEF;SG
+opisa	وصف	opis	وَصَف	N;GEN;MASC;SG	V;PFV;MASC;SG;3;ACT
+ulicu	ستريت	ulica	سترِيت	N;ACC;FEM;SG	
+ulicu	الشارع	ulica	شَارِع	N;ACC;FEM;SG	N;NOM;DEF;SG
+ulicu	شارع	ulica	شَارِع	N;ACC;FEM;SG	N;NOM;INDF;SG
+romeo	روميو	rome	رُومِيُو	N;NOM;MASC;SG	
+pojedinac	فرد	pojedinac	فَرد	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+pojedinac	الفردية	pojedinac	فَردِيّ	ADJ;NOM;INDF;MASC;SG	ADJ;NOM;DEF;FEM;SG
+pojedinac	الفرد	pojedinac	فَرد	ADJ;NOM;INDF;MASC;SG	N;NOM;DEF;SG
+cox	كوكس	cox	كُوكس	PROPN;NOM;MASC;SG	
+dozvola	اسمح	dozvola	أَسمَح	N;NOM;FEM;SG	PRO;NOM;MASC;SG;2
+meksička	مكسيكية	meksički	مكسيكية	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+meksička	مكس	meksički	مَكس	ADJ;NOM;DEF;FEM;SG	
+meksička	المكسيكي	meksički	مَكسِيكِيّ	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+meksička	مكسيكي	meksički	مكسيكي	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+ovce	الخروف	ovac	خَرف	N;NOM;FEM;PL	N;NOM;DEF;SG
+ovce	خروف	ovac	خَرف	N;NOM;FEM;PL	
+ovce	الغنم	ovac	غَنَم	N;NOM;FEM;PL	N;NOM;DEF;SG
+vita	فيتا	vito	فِيتَا	N;NOM;MASC;SG	
+blagoslov	النعم	blagoslov	نِعم	N;NOM;MASC;SG	
+blagoslov	برك	blagoslov	بَرَك	N;NOM;MASC;SG	
+blagoslov	بركات	blagoslov	بَرَكَة	N;NOM;MASC;SG	
+nafta	بترول	nafta	بِترُول	N;NOM;FEM;SG	
+zvono	بيل	zvono	بِيل	N;NOM;NEUT;SG	
+majstori	الماجستير	majstor	الماجستير	N;NOM;MASC;PL	N;NOM;DEF;SG
+izgubljena	خسرت	izgubiti	خَسِر	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+izgubljena	خسر	izgubiti	خَسِر	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+izgubljena	فقدت	izgubiti	فَقَد	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+izgubljena	ضاع	izgubiti	ضَاع	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+izgubljena	ضائع	izgubiti	ضَائِع	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;MASC;SG
+nož	سكينة	nož	سَكِينَة	N;NOM;MASC;SG	
+nož	سكين	nož	سَكَين	N;NOM;MASC;SG	
+migracije	هجرة	migracija	هِجرَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+migracije	الهجرة	migracija	هِجرَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+todd	تود	todd	تود	PROPN;NOM;MASC;SG	
+nintendo	نينتندو	nintendo	نينتندو	N;NOM;MASC;SG	
+promijenjen	تغيرت	promijeniti	تَغَيَّر	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+promijenjen	تغير	promijeniti	تَغَيُّر	ADJ;NOM;MASC;SG;V.PTCP;PASS	N;NOM;INDF;SG
+dina	دينا	din	دينا	N;NOM;FEM;SG	
+lug	عروة	lug	عَروَة	N;NOM;MASC;SG	
+tragedije	الماسي	tragedija	مَاسِيّ	N;NOM;FEM;PL	ADJ;NOM;DEF;MASC;SG
+tragedije	ماسي	tragedija	ماسي	N;NOM;FEM;PL	
+civilna	مدنية	civilan	مَدَنِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+civilna	الاهلي	civilan	الاهلي	ADJ;NOM;DEF;FEM;SG	
+bridge	بريدج	bridge	بريدج	N;NOM;MASC;SG	
+mila	ميلا	mil	مِيل	N;NOM;FEM;SG	
+sličnost	التشابه	sličnost	تَشَابُه	N;NOM;FEM;SG	
+sličnost	التشابه	sličnost	تَشَابُه	N;NOM;FEM;SG	
+vermont	فيرمونت	vermont	فيرمونت	N;NOM;MASC;SG	
+dozvole	رخص	dozvola	رُخص	N;NOM;FEM;PL	N;NOM;INDF;SG
+poslana	ارسلت	poslati	أَرسَل	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;PASS
+poslana	ارسل	poslati	أَرسَل	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+prizor	بصر	prizor	بِصر	N;NOM;MASC;SG	
+trbuh	معدة	trbuh	مُعَدّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+trbuh	بطن	trbuh	بَطن	N;NOM;MASC;SG	
+trbuh	بطني	trbuh	بطني	N;NOM;MASC;SG	
+casa	كاسا	casa	كَاس	N;NOM;MASC;SG	
+casa	كازا	casa	كَاز	N;NOM;MASC;SG	
+clinton	كلينتون	clinton	كلِينتُون	PROPN;NOM;MASC;SG	
+clinton	كلنتون	clinton	كلنتون	PROPN;NOM;MASC;SG	
+orijentacija	توجه	orijentacija	تَوَجَّه	N;NOM;FEM;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+kupi	اشتري	kupiti	أَشتَر	V;IMP;SG;2;FIN	
+kupi	شراء	kupiti	شِرَاء	V;IMP;SG;2;FIN	N;NOM;INDF;SG
+zaposlenika	موظف	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;INDF;SG
+zaposlenika	الموظف	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;DEF;SG
+zaposlenika	موظفة	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;INDF;SG
+zaposlenika	العاملون	zaposlenik	عَامِل	N;ACC;MASC;PL	N;NOM;DEF;PL
+zaposlenika	موظفين	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;INDF;PL
+zaposlenika	الموظفون	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;DEF;PL
+zaposlenika	الموظفين	zaposlenik	مُوَظَّف	N;ACC;MASC;PL	N;NOM;DEF;PL
+gospodari	لوردات	gospodar	لوردات	N;NOM;MASC;PL	
+gospodari	الماجستير	gospodar	الماجستير	N;NOM;MASC;PL	N;NOM;DEF;SG
+aktivist	ناشطة	aktivist	نَاشِطَة	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+padovi	بادوا	pad	بَاد	N;DAT;FEM;SG	V;PFV;MASC;PL;3;ACT
+uništi	دمر	unište	دَمَّر	V;IMP;SG;2;FIN	V;PFV;MASC;SG;3;ACT
+uništi	تدمير	unište	تَدمِير	V;IMP;SG;2;FIN	N;NOM;INDF;SG
+uništi	تدمر	unište	دَمَّر	V;IMP;SG;2;FIN	
+potrošača	المستهلك	potrošač	مُستَهلِك	N;ACC;MASC;SG	N;NOM;DEF;SG
+laser	ليزر	laser	ليزر	N;NOM;MASC;SG	
+vanja	فانيا	vanjati	فَانِيّ	PROPN;NOM;MASC;SG	ADJ;ACC;INDF;MASC;SG
+zvuči	اصوات	zvučiti	صَوت	V;IND;SG;3;PRS;FIN	N;NOM;INDF;PL
+parametar	ضابطة	parametar	ضَابِط	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+parametar	المعامل	parametar	مُعَامِل	N;NOM;MASC;SG	N;NOM;DEF;PL
+udaraca	اللكمات	udarac	لِكمَة	N;GEN;MASC;PL	N;NOM;DEF;PL
+zidove	اسوار	zid	سُور	N;ACC;MASC;PL	
+zidove	الحوائط	zid	حَائِط	N;ACC;MASC;PL	N;NOM;DEF;PL
+zidove	الحيطان	zid	حِيطَان	N;ACC;MASC;PL	
+zidove	جدران	zid	جِدرَان	N;ACC;MASC;PL	
+zidove	الجدران	zid	جِدَار	N;ACC;MASC;PL	N;NOM;DEF;PL
+civilni	مدنية	civilan	مَدَنِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+civilni	مدني	civilan	مَدَنِيّ	ADJ;NOM;DEF;MASC;SG	
+civilni	المدنيون	civilan	مَدَنِيّ	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;PL
+betty	بيتى	betty	بِيتِي	PROPN;NOM;MASC;SG	
+betty	بيتي	betty	بِيتِي	PROPN;NOM;MASC;SG	
+radikalne	جذري	radikalan	جِذرِيّ	ADJ;NOM;FEM;PL	ADJ;NOM;INDF;MASC;SG
+radikalne	جذرية	radikalan	جِذرِيّ	ADJ;NOM;FEM;PL	ADJ;NOM;INDF;FEM;SG
+radikalne	متطرف	radikalan	مُتَطَرِّف	ADJ;NOM;FEM;PL	ADJ;NOM;INDF;MASC;SG
+magnus	ماغنوس	magnus	ماغنوس	N;NOM;MASC;SG	
+magnus	ماجنوس	magnus	ماجنوس	N;NOM;MASC;SG	
+obožavatelji	المعجبين	obožavatelj	مَعجِب	N;NOM;MASC;PL	ADJ;ACC;DEF;MASC;PL
+obožavatelji	معجبين	obožavatelj	مُعَجِّب	N;NOM;MASC;PL	ADJ;NOM;INDF;MASC;PL
+obožavatelji	لعشاق	obožavatelj	لعشاق	N;NOM;MASC;PL	N;GEN;DEF;SG
+obožavatelji	انصار	obožavatelj	أَنصَار	N;NOM;MASC;PL	
+guma	مطاطية	guma	مطاطية	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+guma	الاطارات	guma	إِطَار	N;NOM;FEM;SG	N;NOM;DEF;PL
+guma	اطارات	guma	إِطَار	N;NOM;FEM;SG	N;NOM;INDF;PL
+janice	جانيس	janica	جَانُوس	N;NOM;FEM;PL	
+janice	جينيس	janica	جِينِيس	N;NOM;FEM;PL	
+snimljeno	صورت	snimiti	صُورت	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+poboljšati	تحسين	poboljšati	تَحسِين	V;NFIN	N;NOM;INDF;SG
+pakistanu	باكستان	pakistan	بَاكِستَان	N;DAT;MASC;SG	N;NOM;INDF;SG
+dawson	دوسن	dawson	دُوسن	PROPN;NOM;MASC;SG	
+ograničene	المحدود	ograničen	مَحدُود	ADJ;NOM;DEF;FEM;PL;V.PTCP	ADJ;NOM;DEF;MASC;SG
+ograničene	محدود	ograničen	مَحدُود	ADJ;NOM;DEF;FEM;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+ograničene	محدودا	ograničen	مَحدُود	ADJ;NOM;DEF;FEM;PL;V.PTCP	ADJ;ACC;INDF;MASC;SG
+ograničene	محدودة	ograničen	مَحدُود	ADJ;NOM;DEF;FEM;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+ograničene	محدودية	ograničen	مَحدُودِيَّة	ADJ;NOM;DEF;FEM;PL;V.PTCP	N;NOM;INDF;SG
+prijatelju	صديق	prijatelj	صَدِيق	N;DAT;MASC;SG	N;NOM;INDF;SG
+prijatelju	الصديق	prijatelj	صَدِيق	N;DAT;MASC;SG	N;NOM;DEF;SG
+prijatelju	صديقي	prijatelj	صديقي	N;DAT;MASC;SG	
+stvorenja	المخلوقات	stvorenje	مَخلُوق	N;NOM;NEUT;PL	ADJ;NOM;DEF;FEM;PL
+stvorenja	مخلوقات	stvorenje	مُخلَوِق	N;NOM;NEUT;PL	ADJ;NOM;INDF;FEM;PL
+rome	r	rom	لَ	N;NOM;MASC;SG	
+izvući	الاستخراج	izvući	اِستِخرَاج	ADV	N;NOM;DEF;SG
+izvući	استخراج	izvući	اِستِخرَاج	ADV	N;NOM;INDF;SG
+izvući	استخرج	izvući	اِستَخرَج	ADV	V;PFV;MASC;SG;3;ACT
+izvući	استخلاص	izvući	اِستِخلَاص	ADV	N;NOM;INDF;SG
+zviježđa	الابراج	zviježđe	بَرَج	N;NOM;NEUT;PL	N;NOM;DEF;SG
+psihološki	نفسية	psihološki	نَفسِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+psihološki	النفسية	psihološki	النفسية	ADV	
+rgb	rgb	rgb	أَثَه	N	
+alma	الما	alma	أَلِمّ	N;NOM;FEM;SG	
+newman	نيومان	newman	نِيُومَان	PROPN;NOM;MASC;SG	
+opasan	خطر	opasan	خَطَر	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+istanbulu	اسطنبول	istanbul	اسطنبول	N;DAT;MASC;SG	
+kontinentu	القارة	kontinent	قَارَّة	N;DAT;MASC;SG	N;NOM;DEF;SG
+kontinentu	قارة	kontinent	قَارَّة	N;DAT;MASC;SG	N;NOM;INDF;SG
+muško	ذكرا	muški	ذِكر	ADJ;NOM;DEF;NEUT;SG	N;ACC;INDF;SG
+muško	الذكر	muški	ذِكر	ADJ;NOM;DEF;NEUT;SG	N;NOM;DEF;SG
+muško	ذكر	muški	ذَكَر	ADJ;NOM;DEF;NEUT;SG	V;PFV;MASC;SG;3;ACT
+muško	الذكور	muški	ذُكُور	ADJ;NOM;DEF;NEUT;SG	N;NOM;DEF;PL
+muško	ذكور	muški	ذَكّ	ADJ;NOM;DEF;NEUT;SG	N;NOM;INDF;PL
+norma	نورما	norma	نورما	N;NOM;FEM;SG	
+prodano	تباع	prodano	أَبَاع	ADJ;NOM;NEUT;SG;V.PTCP;PASS	V;IPFV;FEM;IND;SG;3;FIN;PASS
+prodano	بيعت	prodano	بَيع	ADJ;NOM;NEUT;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;PASS
+prodano	بيع	prodano	بَيع	ADJ;NOM;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+prodano	بعت	prodano	بَعَى	ADJ;NOM;NEUT;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+prodano	باع	prodano	بَاع	ADJ;NOM;NEUT;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+piano	بيانو	piano	بيانو	N;NOM;MASC;SG	
+pravosuđa	القضاء	pravosuđe	قَضَاء	N;NOM;NEUT;PL	N;NOM;DEF;SG
+gaze	الشاش	gaza	الشاش	N;NOM;FEM;PL	N;NOM;DEF;SG
+gaze	غزة	gaza	غَزَّة	N;NOM;FEM;PL	N;NOM;INDF;SG
+wade	ويد	wada	وَيِّد	PROPN;NOM;MASC;SG	
+wade	وايد	wada	وايد	PROPN;NOM;MASC;SG	
+niš	نيش	niš	نَاشِي	N;NOM;MASC;SG	
+escobar	اسكوبار	escobar	اسكوبار	N;NOM;MASC;SG	
+disco	ديسكو	disco	ديسكو	N;NOM;MASC;SG	
+adresu	العنوان	adresa	عُنوَان	N;ACC;FEM;SG	N;NOM;DEF;SG
+adresu	عنوان	adresa	عُنوَان	N;ACC;FEM;SG	N;NOM;INDF;SG
+misleći	افكر	misliti	افكر	ADV;RL;V.CVB	
+misleći	التفكير	misliti	تَفكِير	ADV;RL;V.CVB	N;NOM;DEF;SG
+misleći	تفكير	misliti	تَفكِير	ADV;RL;V.CVB	N;NOM;INDF;SG
+misleći	تفكر	misliti	فَكَّر	ADV;RL;V.CVB	V;IPFV;MASC;IND;SG;2;FIN;ACT
+zore	داون	zora	دَان	N;NOM;FEM;PL	
+zore	الفجر	zora	فَجر	N;NOM;FEM;PL	N;NOM;DEF;SG
+zore	فجر	zora	فَجر	N;NOM;FEM;PL	N;NOM;INDF;SG
+glasove	اصوات	glas	صَوت	N;ACC;MASC;PL	N;NOM;INDF;PL
+glasove	الاصوات	glas	صَوت	N;ACC;MASC;PL	N;NOM;DEF;PL
+glasove	اصوات	glas	صَوت	N;ACC;MASC;PL	N;NOM;INDF;PL
+glasove	الاصوات	glas	صَوت	N;ACC;MASC;PL	N;NOM;DEF;PL
+neda	نيد	nedati	نيد	INTJ	
+trave	العشب	trava	عَشَبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+trave	عشب	trava	عَشِبَ	N;NOM;FEM;PL	
+trave	الحشيش	trava	الحشيش	N;NOM;FEM;PL	N;NOM;DEF;SG
+opremljeni	مجهزة	opremljen	مُجَهَّز	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+opremljeni	مجهز	opremljen	مَجهَز	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+tenkove	دبابات	tenk	دَبَّابَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+tenkove	الدبابات	tenk	دَبَّابَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+tenkove	الخزانات	tenk	خِزَانَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+jaguar	جاكوار	jaguar	جاكوار	N;NOM;MASC;SG	
+jaguar	الفهد	jaguar	الفهد	N;NOM;MASC;SG	
+jaguar	جاغوار	jaguar	جاغوار	N;NOM;MASC;SG	
+zadovoljan	راضي	zadovoljan	راضي	ADJ;NOM;INDF;MASC;SG	
+zadovoljan	راض	zadovoljan	رَاضِي	ADJ;NOM;INDF;MASC;SG	
+zadovoljan	رضيت	zadovoljan	رضيت	ADJ;NOM;INDF;MASC;SG	V;PFV;FEM;SG;3;ACT
+zadovoljan	يسر	zadovoljan	سَرّ	ADJ;NOM;INDF;MASC;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+hana	هناء	hana	هِنَاء	N;NOM;FEM;SG	
+hana	هان	hana	هان	N;NOM;FEM;SG	
+hana	هانا	hana	هانا	N;NOM;FEM;SG	
+hana	حنا	hana	حنا	N;NOM;FEM;SG	
+halen	هالين	halen	هالين	N;NOM;MASC;SG	
+marvin	مارفن	marvin	مارفن	N;NOM;MASC;SG	
+očekivati	اتوقع	očekivati	اتوقع	V;NFIN	
+vraćena	اعيدت	vraćen	أَعَاد	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;PASS
+upravljati	ادارة	upravljati	إِدَارَة	V;NFIN	N;NOM;INDF;SG
+arhitekti	المعماريين	arhitekt	مُعَمَّار	N;NOM;MASC;PL	ADJ;NOM;DEF;MASC;PL
+zlatan	زلاتان	zlatan	زلاتان	N;NOM;MASC;SG	
+izlaganje	تعرض	izlaganje	عَرَض	N;NOM;NEUT;SG	V;PFV;MASC;SG;3;ACT
+osjetila	الحواس	osjetiti	حِوَاس	V;FEM;SG;PST;V.PTCP;ACT	N;NOM;DEF;PL
+cola	الكوكا	col	الكوكا	N;NOM;FEM;SG	
+cola	كوكا	col	كُوكَا	N;NOM;FEM;SG	
+cola	كولا	col	كُولَا	N;NOM;FEM;SG	
+matematika	رياضيات	matematika	رياضيات	N;NOM;FEM;SG	N;NOM;INDF;PL
+matematika	الرياضيات	matematika	رِيَاضِيّ	N;NOM;FEM;SG	N;NOM;DEF;PL
+matematika	رياضيات	matematika	رياضيات	N;NOM;FEM;SG	N;NOM;INDF;PL
+matematika	الرياضيات	matematika	رِيَاضِيّ	N;NOM;FEM;SG	N;NOM;DEF;PL
+sastojak	المكون	sastojak	مُكَوِّن	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+sastojak	مكون	sastojak	مَكَّن	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+tamna	ظلام	tamna	ظَلَام	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+tamna	مظلم	tamna	مُظلِم	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+tamna	الظلام	tamna	ظَلَام	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+tamna	مظلمة	tamna	مُظلِم	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+nošenje	ترتدي	nošenje	اِرتَدَى	N;NOM;NEUT;SG	V;IPFV;FEM;IND;SG;3;FIN;ACT
+nošenje	تلبس	nošenje	تَلَبُّس	N;NOM;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+annie	اني	anni	اني	N;NOM;FEM;SG	
+annie	انى	anni	إِنَى	N;NOM;FEM;SG	
+mega	ميغا	meg	ميغا	N;NOM;MASC;SG	
+aviv	ابيب	aviv	أَبِيب	N;NOM;MASC;SG	
+sisavci	الثدييات	sisavac	ثَدِيِّيّ	N;NOM;MASC;PL	ADJ;NOM;DEF;FEM;PL
+trske	القصب	trska	قَصب	ADJ;NOM;DEF;FEM;PL	N;NOM;DEF;SG
+ekstremno	المتطرف	ekstremno	مُتَطَرِّف	ADV	N;NOM;DEF;SG
+ekstremno	متطرف	ekstremno	مُتَطَرِّف	ADV	ADJ;NOM;INDF;MASC;SG
+ekstremno	المدقع	ekstremno	مُدَقَّع	ADV	N;NOM;DEF;SG
+ekstremno	متطرفة	ekstremno	مُتَطَرِّف	ADV	ADJ;NOM;INDF;FEM;SG
+sevilla	اشبيلية	sevilla	إِشبِيلِيّ	PROPN;NOM;FEM;SG	
+posjete	زيارات	posjet	زِيَارَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+posjete	الزيارات	posjet	زِيَارَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+ward	عنبر	ward	عُنبُر	PROPN;NOM;MASC;SG	
+ward	ورد	ward	وَرَد	PROPN;NOM;MASC;SG	
+ward	وارد	ward	وَارِد	PROPN;NOM;MASC;SG	
+carevi	الاباطرة	car	بَاطِرَة	N;NOM;MASC;PL	N;NOM;DEF;SG
+juda	يهوذا	jud	يهوذا	N;NOM;MASC;SG	
+juda	جودا	jud	جودا	N;NOM;MASC;SG	N;ACC;INDF;SG
+prognoza	توقعات	prognoza	تَوَقُّع	N;NOM;FEM;SG	N;NOM;INDF;PL
+prognoza	التوقعات	prognoza	تَوَقُّع	N;NOM;FEM;SG	N;NOM;DEF;PL
+korisne	المفيد	koristan	مُفِيد	ADJ;NOM;DEF;FEM;PL	
+korisne	مفيدة	koristan	مُفِيد	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;INDF;FEM;SG
+korisne	مفيد	koristan	مفيد	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;INDF;MASC;SG
+twin	توام	twin	تَوَام	ADP	
+diane	دايان	diana	دايان	N;NOM;FEM;PL	
+diane	ديان	diana	دِيَان	N;NOM;FEM;PL	
+iskapanja	التنقيب	iskapanje	تَنقِيب	N;NOM;NEUT;PL	N;NOM;DEF;SG
+iskapanja	الحفر	iskapanje	حَفر	N;NOM;NEUT;PL	N;NOM;DEF;SG
+iskapanja	الحفريات	iskapanje	حَفرِيَّات	N;NOM;NEUT;PL	
+slame	قش	slama	قَشّ	N;NOM;FEM;PL	
+slame	سترو	slama	سترو	N;NOM;FEM;PL	
+slame	القش	slama	قُشّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+slame	قشة	slama	قُشَّة	N;NOM;FEM;PL	N;NOM;INDF;SG
+žuto	الاصفر	žuto	أَصفَر	ADJ;NOM;NEUT;SG	N;NOM;DEF;SG
+žuto	اصفر	žuto	أَصفَر	ADJ;NOM;NEUT;SG	
+rodrigues	رودريغيز	rodrigues	رودريغيز	N;NOM;FEM;SG	
+rodrigues	رودريغز	rodrigues	رُودِرِيغ	N;NOM;FEM;SG	
+unutrašnji	داخلي	unutrašnji	دَاخِلِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+unutrašnji	داخلية	unutrašnji	دَاخِلِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+memphis	ممفيس	memphis	مُمفِيس	PROPN;NOM;MASC;SG	
+neslaganja	خلاف	neslaganje	خِلَاف	N;NOM;NEUT;PL	N;NOM;INDF;SG
+neslaganja	الاختلاف	neslaganje	اِختِلَاف	N;NOM;NEUT;PL	N;NOM;DEF;SG
+neslaganja	الخلاف	neslaganje	خِلَاف	N;NOM;NEUT;PL	N;NOM;DEF;SG
+kartica	تاب	kartica	تَاب	N;NOM;FEM;SG	
+kartica	كارد	kartica	كارد	N;NOM;FEM;SG	
+kartica	كارت	kartica	كَار	N;NOM;FEM;SG	
+nevjerojatno	مدهش	nevjerojatno	مدهش	ADV	
+financijska	مالي	financijski	مَالِيّ	ADJ;NOM;DEF;FEM;SG	
+financijska	مالية	financijski	مَالِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+financijska	المالية	financijski	مَالِيَّة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+dnevna	يومية	dnevni	يَومِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+dnevna	يوميا	dnevni	يَومِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;ACC;INDF;MASC;SG
+giorgio	جيورجيو	giorgiti	جيورجيو	PROPN;NOM;MASC;SG	
+giorgio	جورجيو	giorgiti	جُورجِيُو	PROPN;NOM;MASC;SG	
+razmišljanje	افكر	razmišljanje	افكر	N;NOM;NEUT;SG	
+razmišljanje	تفكر	razmišljanje	فَكَّر	N;NOM;NEUT;SG	V;IPFV;MASC;IND;SG;2;FIN;ACT
+koristan	المفيد	koristan	مُفِيد	ADJ;NOM;INDF;MASC;SG	
+zahvat	الاجراءات	zahvat	إِجرَاء	N;NOM;MASC;SG	N;NOM;DEF;PL
+eugene	يوجين	eugen	يُوجِين	N;NOM;MASC;SG	
+bukurešt	بوخارست	bukurešt	بُوخرَست	N;NOM;FEM;SG	
+stvoreni	خلق	stvoriti	خَلَق	ADJ;NOM;DEF;MASC;PL;V.PTCP	V;PFV;MASC;SG;3;ACT
+stvoreni	خلقت	stvoriti	خَلَق	ADJ;NOM;DEF;MASC;PL;V.PTCP	V;PFV;FEM;SG;3;ACT
+učinci	المؤثرات	učinak	مُؤَثِّر	N;NOM;MASC;PL	ADJ;NOM;DEF;FEM;PL
+kave	البن	kava	بُنّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+kave	القهوة	kava	قُهُوَّة	N;NOM;FEM;PL	N;NOM;DEF;SG
+kave	قهوة	kava	قَهوَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+pohvale	الثناء	pohvala	ثَنَاء	N;NOM;FEM;PL	N;NOM;DEF;SG
+pohvale	سبحان	pohvala	سُبحَان	N;NOM;FEM;PL	
+pohvale	ماشاء	pohvala	مَاشَاء	N;NOM;FEM;PL	
+pohvale	الحمد	pohvala	حَمد	N;NOM;FEM;PL	N;NOM;DEF;SG
+mao	ماو	mao	مَاو	PROPN;NOM;MASC;SG	
+pereira	بيريرا	pereirati	بَيرِيرَا	PROPN;NOM;MASC;SG	
+vječni	الابدي	vječan	أَبدِيّ	ADJ;NOM;DEF;MASC;SG	
+vječni	ابدي	vječan	أَبدِي	ADJ;NOM;DEF;MASC;SG	
+baltimore	بالتمور	baltimor	بالتمور	N;NOM;FEM;PL	N;NOM;DEF;SG
+baltimore	بالتيمور	baltimor	بِ	N;NOM;FEM;PL	
+obiluje	زاخر	obilovati	زَاخِر	V;IND;SG;3;PRS;FIN	
+urana	يورانيوم	uran	يُورَانيُوم	N;GEN;MASC;SG	
+urana	اليورانيوم	uran	اليورانيوم	N;GEN;MASC;SG	
+urana	باليورانيوم	uran	باليورانيوم	N;GEN;MASC;SG	
+urana	اورانوس	uran	أُورَانُوس	N;GEN;MASC;SG	
+genetski	وراثي	genetski	وراثي	ADV	
+nowrap	nowrap	nowrap	nowrap	N;NOM;MASC;SG	
+cat	القط	cat	قَطّ	ADP	
+cat	قطة	cat	قُطَّة	ADP	N;NOM;INDF;SG
+cat	قط	cat	قَطّ	ADP	
+cat	القطة	cat	قُطَّة	ADP	N;NOM;DEF;SG
+cat	كات	cat	كَات	ADP	
+vene	عروق	vena	عروق	N;NOM;FEM;PL	
+hidalgo	hidal	hidalgo	اِذَّذَظ	PROPN;NOM;MASC;SG	
+yuan	يوان	yuan	يوان	PROPN;NOM;MASC;SG	
+sacramento	ساكرامينتو	sacramento	ساكرامينتو	N;NOM;MASC;SG	
+sacramento	ساكرامنتو	sacramento	ساكرامنتو	N;NOM;MASC;SG	
+sacramento	سكرامنتو	sacramento	سكرامنتو	N;NOM;MASC;SG	
+fiat	فيات	fiat	فِيَّة	N;NOM;MASC;SG	
+čudno	غربة	čudno	غُربَة	ADV	N;NOM;INDF;SG
+čudno	غريب	čudno	غريب	ADV	
+organski	العضوية	organski	عُضوِيَّة	ADV	N;NOM;DEF;SG
+organski	عضوية	organski	عُضوِيَّة	ADV	N;NOM;INDF;SG
+organski	عضوي	organski	عُضوِيّ	ADV	
+lan	ايان	lan	إِيَان	N;NOM;MASC;SG	
+najniža	ادنى	nizak	أَدنَى	ADJ;NOM;DEF;RL;FEM;SG	
+točnost	دقة	točnost	دِقَّة	N;NOM;FEM;SG	N;ACC;INDF;SG
+katastrofe	كارثة	katastrofa	كَارِثَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+katastrofe	الكارثة	katastrofa	كَارِثَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+zarobljeni	اسر	zarobiti	أُسرَة	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+zarobljeni	محاصرة	zarobiti	مُحَاصَرَة	ADJ;NOM;DEF;MASC;PL;V.PTCP	N;NOM;INDF;SG
+blizanci	توام	blizanac	تَوَام	N;NOM;MASC;PL	
+epidemije	الاوبئة	epidemija	أُوبِئَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+filipini	الفلبينية	filipina	فِلِبِّينِيّ	N;NOM;MASC;PL	ADJ;NOM;DEF;FEM;SG
+filipini	الفلبين	filipina	الفلبين	N;NOM;MASC;PL	
+filipini	بالفلبين	filipina	بالفلبين	N;NOM;MASC;PL	
+lijekove	دواء	lijek	دَوَاء	N;ACC;MASC;PL	N;NOM;INDF;SG
+vista	فيستا	vista	فَيستَا	N;NOM;FEM;SG	
+dominantna	المهيمنة	dominantan	مُهَيَّم	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+dominantna	المهيمن	dominantan	المهيمن	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+diva	مغنية	div	مَغَنِيّ	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+diva	ديفا	div	ديفا	N;NOM;FEM;SG	
+viktorija	فكتوريا	viktorija	فكتوريا	N;NOM;FEM;SG	
+viktorija	فيكتوريا	viktorija	فيكتوريا	N;NOM;FEM;SG	
+nula	صفر	nuti	صفر	N;NOM;MASC;SG	
+nula	صفرا	nuti	صفرا	N;NOM;MASC;SG	N;ACC;INDF;SG
+trans	ترانس	trans	رَانَس	N;NOM;MASC;SG	
+trans	ترانس	trans	رَانَس	N;NOM;MASC;SG	
+slab	الضعيف	slab	ضَعِيف	ADJ;NOM;INDF;MASC;SG	N;NOM;DEF;SG
+gledanost	التصنيفات	gledanost	تَصنِيفَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+gledanost	التقييمات	gledanost	تَقيِيم	N;NOM;FEM;SG	N;NOM;DEF;PL
+gledanost	تقييمات	gledanost	تَقيِيم	N;NOM;FEM;SG	N;NOM;INDF;PL
+vektor	موجه	vektor	مُوَجَّه	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+vektor	متجه	vektor	مُتَّجِه	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+vektor	الموجه	vektor	مُوَجَّه	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+grandis	grand	grandis	مَلَاث	N;NOM;MASC;SG	
+bijes	غضب	bijes	غَضَب	N;NOM;MASC;SG	
+napoli	نابولي	napol	نابولي	PROPN;NOM;MASC;SG	
+dai	داي	dai	داي	PROPN;NOM;MASC;SG	
+izbjegava	تفادي	izbjegavati	تفادي	V;IND;SG;3;PRS;FIN	
+izbjegava	تتجنب	izbjegavati	تَجَنَّب	V;IND;SG;3;PRS;FIN	V;IPFV;MASC;IND;SG;2;FIN;ACT
+unatrag	الوراء	unatrag	وَرَاء	ADV	N;NOM;DEF;SG
+unatrag	متخلفة	unatrag	مُتَخَلِّف	ADV	ADJ;NOM;INDF;FEM;SG
+unatrag	الخلف	unatrag	خَلَف	ADV	N;NOM;DEF;SG
+floyd	فلويد	floyd	فلويد	PROPN;NOM;MASC;SG	
+truman	ترومان	truman	ترومان	N;NOM;MASC;SG	
+očekivanja	التوقع	očekivanje	تَوَقُّع	N;NOM;NEUT;PL	N;NOM;DEF;SG
+bayer	باير	bayer	بَايِر	PROPN;NOM;MASC;SG	
+server	خادم	server	خَادِم	N;NOM;MASC;SG	
+popov	بوبوف	popov	بوبوف	PROPN;NOM;MASC;SG	
+vozilima	مركبات	vozilo	مُرَكَّب	N;DAT;NEUT;PL	N;NOM;INDF;PL
+vozilima	عربات	vozilo	عَرَبَة	N;DAT;NEUT;PL	N;NOM;INDF;PL
+vozilima	العربات	vozilo	عَرَبَة	N;DAT;NEUT;PL	N;NOM;DEF;PL
+vozilima	المركبات	vozilo	مَركَبَة	N;DAT;NEUT;PL	N;NOM;DEF;PL
+navodnjavanje	ري	navodnjavanje	رَيّ	N;NOM;NEUT;SG	
+čvrsta	صلبة	čvrst	صُلبَة	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+čvrsta	متين	čvrst	متين	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+čvrsta	الصلبة	čvrst	صَلبَة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+čvrsta	صلب	čvrst	صُلب	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+patka	بط	patak	بَطّ	N;NOM;FEM;SG	
+patka	داك	patak	دَاك	N;NOM;FEM;SG	
+patka	بطة	patak	بَطَّة	N;NOM;FEM;SG	
+pacific	الهادي	pacific	الهادي	N;NOM;MASC;SG	
+slap	شلالات	slap	شَلَالَة	N;NOM;MASC;SG	N;NOM;INDF;PL
+slap	الشلالات	slap	شَلَالَة	N;NOM;MASC;SG	N;NOM;DEF;PL
+potajno	سرا	potajno	سِرّ	ADV	N;ACC;INDF;SG
+fly	ذبابة	fly	ذَبَّابَة	ADP	N;NOM;INDF;SG
+svjesni	مدرك	svjestan	مُدَرَّك	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+varijable	المتغير	varijable	مُتَغَيِّر	N;NOM;FEM;PL	N;NOM;DEF;SG
+varijable	متغير	varijable	مُتَغَيِّر	N;NOM;FEM;PL	ADJ;NOM;INDF;MASC;SG
+varijable	متغيرة	varijable	مُتَغَيِّر	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;SG
+varijable	متغيرات	varijable	مُتَغَيِّر	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;PL
+varijable	المتغيرات	varijable	مُتَغَيِّر	N;NOM;FEM;PL	ADJ;NOM;DEF;FEM;PL
+sreća	حظ	sreća	حَظّ	N;NOM;FEM;SG	
+izgubljen	خسرت	izgubiti	خَسِر	ADJ;NOM;MASC;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+izgubljen	خسر	izgubiti	خَسِر	ADJ;NOM;MASC;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+izgubljen	فقدت	izgubiti	فَقَد	ADJ;NOM;MASC;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+izgubljen	ضاع	izgubiti	ضَاع	ADJ;NOM;MASC;SG;V.PTCP	V;PFV;MASC;SG;3;ACT
+conrad	كونراد	conrad	كونراد	N;NOM;MASC;SG	
+osvoji	قهر	osvojiti	قُهر	V;IMP;SG;2;FIN	
+minimum	الادنى	minimum	أَدنَى	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+minimum	دنيا	minimum	دَنِيّ	N;NOM;MASC;SG	ADJ;ACC;INDF;MASC;SG
+tron	عرش	tron	عَرش	N;NOM;MASC;SG	
+tron	ترون	tron	رَأَى	N;NOM;MASC;SG	V;IPFV;MASC;IND;SG;2;FIN;ACT
+biografije	سيرة	biografija	سِيرَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+june	حزيران	juniti	حَزِيرَان	ADP	N;NOM;INDF;SG
+june	يونيو	juniti	يُونِيُو	ADP	N;GEN;INDF;SG
+claire	كلير	claira	كلير	N;NOM;FEM;SG	
+vruće	حار	vruć	حَارّ	ADJ;NOM;DEF;NEUT;SG	N;NOM;INDF;SG
+vruće	حارة	vruć	حَارّ	ADJ;NOM;DEF;NEUT;SG	N;NOM;INDF;SG
+vruće	ساخنة	vruć	سَاخِن	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+vruće	ساخن	vruć	سَاخِن	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+shvaćanje	فهم	shvaćanje	فَهِم	N;NOM;NEUT;SG	V;PFV;MASC;SG;3;ACT
+tokio	طوكيو	tokiti	طُوكِيُو	PROPN;NOM;MASC;SG	
+denver	دينفر	denver	دينفر	N;NOM;MASC;SG	
+denver	دنفر	denver	دُنفَر	N;NOM;MASC;SG	
+pinyin	بينيين	pinyin	بِينِيّ	PROPN;NOM;MASC;SG	
+dim	ديم	dim	دِيم	N;NOM;MASC;SG	
+lim	ليم	lim	ليم	N;NOM;MASC;SG	
+kinesko	الصينيون	kineski	صِينِيّ	ADJ;NOM;NEUT;SG	ADJ;NOM;DEF;MASC;PL
+rezolucije	قرار	rezolucija	قَرَار	N;NOM;FEM;PL	N;NOM;INDF;SG
+rezolucije	القرار	rezolucija	قَرَار	N;NOM;FEM;PL	N;NOM;DEF;SG
+marion	ماريون	marion	ماريون	PROPN;NOM;MASC;SG	
+poslanik	نبي	poslanik	نبي	N;NOM;MASC;SG	
+vani	الخارج	vani	خَارِج	ADV	N;NOM;DEF;SG
+vani	خارج	vani	خَارِجَ	ADV	ADP;ACC
+kriterije	معايير	kriterij	مِعيَار	N;ACC;MASC;PL	N;NOM;INDF;PL
+kriterije	المعايير	kriterij	مِعيَار	N;ACC;MASC;PL	N;NOM;DEF;PL
+myspace	myspa	myspac	myspa	N;NOM;MASC;SG	
+zadobio	المستدام	zadobiti	مُستَدَام	V;MASC;SG;PST;V.PTCP;ACT	ADJ;NOM;DEF;MASC;SG
+urednica	محررة	urednica	محررة	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;SG
+financiranje	مالية	financiranje	مَالِيّ	N;NOM;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+leeds	ليدز	leeds	ليدز	PROPN;NOM;MASC;SG	
+izbjegavati	تفادي	izbjegavati	تفادي	V;NFIN	
+izbjegavati	تجنب	izbjegavati	تجنب	V;NFIN	
+indijska	هندية	indijski	هِندِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+indijska	هندي	indijski	هِندِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+indijska	الهندية	indijski	الهندية	ADJ;NOM;DEF;FEM;SG	
+dostupno	متوفر	dostupan	متوفر	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+dostupno	متاح	dostupan	مُتَاح	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+dostupno	متاحة	dostupan	مُتَاح	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+dostupno	متوفرة	dostupan	مُتَوَفِّر	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+dostupno	تتوفر	dostupan	تَوَفَّر	ADJ;NOM;DEF;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+naruto	ناروتو	naruto	ناروتو	ADP	
+korisno	المفيد	korisno	مُفِيد	ADJ;NOM;DEF;NEUT;SG	
+korisno	مفيدة	korisno	مُفِيد	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+korisno	مفيد	korisno	مفيد	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+korisno	مفيدة	korisno	مُفِيد	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+korisno	مفيد	korisno	مفيد	ADJ;NOM;DEF;NEUT;SG	ADJ;NOM;INDF;MASC;SG
+nakita	المجوهرات	nakit	مُجَوهَر	N;GEN;MASC;SG	N;NOM;DEF;PL
+nakita	مجوهرات	nakit	مُجَوهَر	N;GEN;MASC;SG	ADJ;NOM;INDF;FEM;PL
+nakita	جواهر	nakit	جَاهِر	N;GEN;MASC;SG	
+nakita	المجوهرات	nakit	مُجَوهَر	N;GEN;MASC;SG	N;NOM;DEF;PL
+nakita	مجوهرات	nakit	مُجَوهَر	N;GEN;MASC;SG	ADJ;NOM;INDF;FEM;PL
+nakita	جواهر	nakit	جَاهِر	N;GEN;MASC;SG	
+baruna	بارونات	baruna	بارونات	N;NOM;MASC;SG	
+tanaka	تاناكا	tanka	تاناكا	N;NOM;MASC;SG	
+bravo	برافو	bravo	بَرفُو	N;NOM;MASC;SG	
+laguna	لاجونا	laguna	لاجونا	N;NOM;FEM;SG	
+emanuel	ايمانويل	emanuel	إِيمَانُوِيل	N;NOM;MASC;SG	
+procesor	معالج	procesor	مَعلَج	N;NOM;MASC;SG	
+vjeran	المؤمنين	vjeran	مُؤَمِّن	ADJ;NOM;MASC;SG	ADJ;NOM;DEF;MASC;PL
+motive	بواعث	motiv	بَاعِثَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+motive	الدوافع	motiv	دَافِع	N;ACC;MASC;PL	N;NOM;DEF;PL
+motive	دوافع	motiv	دَافِع	N;ACC;MASC;PL	N;NOM;INDF;PL
+natjecati	المتنافسة	natjecati	مُتَنَافِس	V;NFIN	ADJ;NOM;DEF;FEM;SG
+kramer	كرامر	kramer	كرَامر		
+prijedlozi	الاقتراح	prijedlog	اِقتِرَاح	N;NOM;MASC;PL	N;NOM;DEF;SG
+prijedlozi	اقتراح	prijedlog	اِقتِرَاح	N;NOM;MASC;PL	N;NOM;INDF;SG
+prijedlozi	مقترح	prijedlog	مُقتَرَح	N;NOM;MASC;PL	N;NOM;INDF;SG
+face	وجه	faca	وَجَّه	N;NOM;FEM;PL	V;PFV;MASC;SG;3;ACT
+face	واجه	faca	وَاجَه	N;NOM;FEM;PL	V;PFV;MASC;SG;3;ACT
+face	الوجه	faca	وَجه	N;NOM;FEM;PL	N;NOM;DEF;SG
+scoparia	عقربي	scoparia	عقربي	N;NOM;MASC;SG	
+bjelorusiji	بيلاروس	bjelorusija	بِيلَارُوس	N;DAT;FEM;SG	
+titan	التيتانيوم	titan	التيتانيوم	N;NOM;MASC;SG	
+titan	تيتانيوم	titan	تيتانيوم	N;NOM;MASC;SG	
+titan	تيتان	titan	تِيتَان	N;NOM;MASC;SG	
+smeđa	اسمر	smeđa	أَسمَر	N;NOM;FEM;SG	
+smeđa	براون	smeđa	براون	N;NOM;FEM;SG	
+sija	مشرقة	sija	مُشرِقَة	V;IND;SG;3;PRS;FIN	ADJ;NOM;INDF;FEM;SG
+snoop	سنوب	snoop	سَنُوب	N;NOM;MASC;SG	
+notre	نوت	notra	نَوت	ADP	
+entiteta	الكيانات	entitet	كِيَانَة	N;GEN;MASC;SG	N;NOM;DEF;PL
+entiteta	كيانات	entitet	كِيَان	N;GEN;MASC;SG	N;NOM;INDF;PL
+entiteta	كيان	entitet	كِيَان	N;GEN;MASC;SG	N;NOM;INDF;SG
+entiteta	الكيان	entitet	كِيَان	N;GEN;MASC;SG	N;NOM;DEF;SG
+tezu	اطروحة	teza	أُطرُوحَة	N;ACC;FEM;SG	N;NOM;INDF;SG
+tezu	الفرضية	teza	فَرضِيَّة	N;ACC;FEM;SG	N;NOM;DEF;SG
+luksemburg	لوكسمبورغ	luksemburg	لوكسمبورغ	N;NOM;MASC;SG	
+uhvati	التقاط	uhvati	اِلتِقَاط	V;IND;SG;2;PRS;FIN	N;NOM;INDF;SG
+krvarenje	تنزف	krvarenje	نَزَف	N;NOM;NEUT;SG	V;IPFV;FEM;IND;SG;3;FIN;ACT
+krvarenje	ينزف	krvarenje	أَنزَف	N;NOM;NEUT;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+alessandro	اليساندرو	alessandro	اليساندرو	N;NOM;MASC;SG	
+alessandro	al	alessandro	شَشّ	N;NOM;MASC;SG	
+misionar	التبشيرية	misionar	تَبشِيرِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+svježe	طازج	svježe	طَازَج	ADV	N;NOM;INDF;SG
+svježe	طازجة	svježe	طَازِج	ADV	ADJ;NOM;INDF;FEM;SG
+perez	بيريز	perez	بِيرِيز	PROPN;NOM;MASC;SG	
+sinove	ابناء	sin	اِبن	N;ACC;MASC;PL	N;NOM;INDF;PL
+sinove	الابناء	sin	الابناء	N;ACC;MASC;PL	N;NOM;DEF;PL
+pogodan	مناسبة	pogodan	مُنَاسَبَة	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+povrća	الخضار	povrće	خَضَار	N;NOM;NEUT;PL	N;NOM;DEF;SG
+povrća	خضار	povrće	خضار	N;NOM;NEUT;PL	N;NOM;INDF;SG
+povrća	الخضروات	povrće	الخضروات	N;NOM;NEUT;PL	
+falco	فالكو	falco	فالكو	N;NOM;MASC;SG	
+spojeni	متصلة	spojen	مُتَّصِل	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+spojeni	متصل	spojen	مُتَّصِل	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+spojeni	مرتبطة	spojen	مُرتَبِط	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+spojeni	مرتبط	spojen	مُرتَبِط	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+konkretno	ملموسة	konkretno	مَلمُوس	ADV	ADJ;NOM;INDF;FEM;SG
+konkretno	الاسمنت	konkretno	أَسمَنت	ADV	N;NOM;DEF;SG
+konkretno	الخرسانة	konkretno	خَرَسَانَة	ADV	N;NOM;DEF;SG
+konkretno	بالتحديد	konkretno	بِ	ADV	N;GEN;DEF;SG
+konkretno	تحديدا	konkretno	تَحدِيد	ADV	N;ACC;INDF;SG
+maslina	زيتون	maslina	زيتون	N;NOM;FEM;SG	
+maslina	زيتون	maslina	زيتون	N;NOM;FEM;SG	
+prilagoditi	ضبط	prilagoditi	ضَبط	V;NFIN	N;NOM;INDF;SG
+ultra	الترا	ultar	تِرَا	N;NOM;MASC;SG	
+upozorenja	التحذير	upozorenje	تَحذِير	N;NOM;NEUT;PL	N;NOM;DEF;SG
+upozorenja	تحذير	upozorenje	تَحذِير	N;NOM;NEUT;PL	N;NOM;INDF;SG
+zainteresiran	المهتمة	zainteresiran	مُهتَمّ	ADJ;NOM;INDF;MASC;SG	N;NOM;DEF;SG
+zainteresiran	مهتما	zainteresiran	مُهتَمّ	ADJ;NOM;INDF;MASC;SG	ADJ;ACC;INDF;MASC;SG
+makedonska	مقدونيا	makedonski	مَقدُونِيَا	ADJ;NOM;FEM;SG	
+makedonska	المقدونية	makedonski	مَقدُونِيّ	ADJ;NOM;FEM;SG	
+makedonska	مقدوني	makedonski	مَقدُونِيّ	ADJ;NOM;FEM;SG	
+reid	ريد	reid	ريد	PROPN;NOM;MASC;SG	
+eko	الايكولوجية	eko	إِيكُولُوجِيّ		ADJ;NOM;DEF;FEM;SG
+senator	سيناتور	senator	سيناتور	N;NOM;MASC;SG	
+senator	السناتور	senator	السناتور	N;NOM;MASC;SG	
+senator	السيناتور	senator	سِينَاتُور	N;NOM;MASC;SG	
+chaplin	تشابلين	chaplin	تشَابلِين	N;NOM;MASC;SG	
+chaplin	شابلن	chaplin	شَابِل	N;NOM;MASC;SG	
+chaplin	تشابلن	chaplin	تشابلن	N;NOM;MASC;SG	
+stockholmu	استكهولم	stockholm	استكهولم	N;DAT;MASC;SG	
+stockholmu	ستوكهولم	stockholm	ستوكهولم	N;DAT;MASC;SG	
+betona	ملموسة	beton	مَلمُوس	N;GEN;MASC;SG	ADJ;NOM;INDF;FEM;SG
+betona	الاسمنت	beton	أَسمَنت	N;GEN;MASC;SG	N;NOM;DEF;SG
+betona	الخرسانة	beton	خَرَسَانَة	N;GEN;MASC;SG	N;NOM;DEF;SG
+burke	بيرك	burka	بِيرك	N;NOM;MASC;SG	
+burke	بورك	burka	بُورك	N;NOM;MASC;SG	
+aida	عايدة	aida	عَايِد	N;NOM;FEM;SG	
+crosby	كروسبي	crosby	كروسبي	PROPN;NOM;MASC;SG	
+razvijanje	نامية	razvijanje	نَامِي	N;NOM;NEUT;SG	ADJ;NOM;INDF;FEM;SG
+povrće	الخضروات	povrće	الخضروات	N;NOM;NEUT;SG	
+kontinuitet	استمرارية	kontinuitet	اِستِمرَارِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+svjesno	بوعي	svjesno	بُوعِي	ADV	
+svjesno	واعي	svjesno	واعي	ADV	ADJ;NOM;INDF;MASC;SG
+dumbledore	دمبلدور	dumbledor	دَمبَلدُور	N;NOM;MASC;SG	
+stati	صالح	stati	صالح	V;NFIN	
+plazme	بلازما	plazma	بلازما	N;NOM;FEM;PL	
+plazme	البلازما	plazma	البلازما	N;NOM;FEM;PL	N;NOM;DEF;SG
+truba	بوق	trubati	بُوق	N;NOM;FEM;SG	
+koza	عنزة	koza	عِنزَة	N;NOM;FEM;SG	
+afrička	افريقية	afrički	أَفرِيقِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+afrička	افريقي	afrički	أَفرِيقِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+afrička	الافريقي	afrički	الافريقي	ADJ;NOM;DEF;FEM;SG	
+afrička	افريقيا	afrički	افريقيا	ADJ;NOM;DEF;FEM;SG	
+suza	الدموع	suz	دَمعَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+boki	بوكا	boka	بوكا	PROPN;DAT;FEM;SG	
+kruha	الخبز	kruh	خُبز	N;ACC;MASC;SG	N;NOM;DEF;SG
+kruha	خبز	kruh	خَبز	N;ACC;MASC;SG	N;NOM;INDF;SG
+citat	اقتبس	citat	اِقتَبَس	N;NOM;MASC;SG	V;PFV;MASC;SG;3;ACT
+klupi	مقعد	klupa	مَقعَد	N;DAT;FEM;SG	N;NOM;INDF;SG
+klupi	المقعد	klupa	مَقعَد	N;DAT;FEM;SG	N;NOM;DEF;SG
+polo	بولو	polo	بُولُو	N;NOM;MASC;SG	
+levy	ليفي	levy	لِيفِي	PROPN;NOM;MASC;SG	
+valle	فالي	valla	فالي	PROPN;NOM;MASC;SG	
+digitalno	رقميا	digitalan	رَقَمِيّ	ADV	ADJ;ACC;INDF;MASC;SG
+digitalno	رقمية	digitalan	رَقَمِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+digitalno	رقمي	digitalan	رَقَمِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+magna	magna	magan	magna	N;NOM;FEM;SG	
+ion	ايون	ion	إِين	N;NOM;MASC;SG	
+letova	رحلات	let	رِحلَة	N;GEN;MASC;PL	N;NOM;INDF;PL
+letova	الرحلات	let	رِحلَة	N;GEN;MASC;PL	N;NOM;DEF;PL
+danju	نهارا	danju	نَهَار	ADV	N;ACC;INDF;SG
+danju	النهار	danju	نَهَار	ADV	N;NOM;DEF;SG
+danju	نهار	danju	نَهَار	ADV	
+ravan	شقة	ravan	شَقَّة	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+longipes	longip	longipes	كَامَثَث	N;NOM;MASC;SG	
+osman	عثمان	osman	عثمان	N;NOM;MASC;SG	
+negativni	سلبية	negativan	سَلبِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+negativni	سلبي	negativan	سَلبِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+negativni	سالب	negativan	سالب	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+povelje	ميثاق	povelja	مِيثَاق	N;NOM;FEM;PL	N;NOM;INDF;SG
+povelje	الميثاق	povelja	مِيثَاق	N;NOM;FEM;PL	N;NOM;DEF;SG
+lucy	لوسى	lucy	لوسى	PROPN;NOM;MASC;SG	
+lucy	لوسي	lucy	لوسي	PROPN;NOM;MASC;SG	
+grey	غراي	grey	غِرَاي	PROPN;NOM;MASC;SG	
+grey	رمادي	grey	رمادي	PROPN;NOM;MASC;SG	
+organe	الاعضاء	organ	عُضو	N;ACC;MASC;PL	N;NOM;DEF;PL
+organe	اعضاء	organ	عُضو	N;ACC;MASC;PL	N;NOM;INDF;PL
+prihvaćeno	قبلت	prihvatiti	قَبِل	ADJ;NOM;NEUT;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+simptome	اعراض	simptom	اعراض	N;ACC;MASC;PL	N;NOM;INDF;PL
+simptome	الاعراض	simptom	عُرض	N;ACC;MASC;PL	N;NOM;DEF;PL
+ekvivalent	مكافئ	ekvivalent	مكافئ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+vrtovi	جنات	vrt	جِنَة	N;NOM;MASC;PL	
+aluminij	الالومنيوم	aluminij	الالومنيوم	N;NOM;MASC;SG	
+aluminij	الالومنيوم	aluminij	الالومنيوم	N;NOM;MASC;SG	
+raznolikosti	التنوع	raznolikost	تَنَوُّع	N;NOM;FEM;PL	N;NOM;DEF;SG
+raznolikosti	تنوع	raznolikost	تَنَوُّع	N;NOM;FEM;PL	N;NOM;INDF;SG
+holly	هولي	holly	هُوَ	PROPN;NOM;MASC;SG	
+tonova	نغمات	ton	نَغمَة	N;GEN;MASC;PL	N;NOM;INDF;PL
+putnici	الرحل	putnik	رَحل	N;NOM;MASC;PL	N;NOM;DEF;SG
+putnici	الرحالة	putnik	رِحَالَة	N;NOM;MASC;PL	N;NOM;DEF;SG
+susjedstvu	حي	susjedstvo	حَيّ	N;DAT;NEUT;SG	
+susjedstvu	الحي	susjedstvo	حَيّ	N;DAT;NEUT;SG	N;NOM;DEF;SG
+susjedstvu	الجوار	susjedstvo	جِوَار	N;DAT;NEUT;SG	N;NOM;DEF;SG
+proširenja	التوسيع	proširenje	تَوسِيع	N;NOM;NEUT;PL	N;NOM;DEF;SG
+proširenja	التوسع	proširenje	تَوَسُّع	N;NOM;NEUT;PL	N;NOM;DEF;SG
+proširenja	التوسيع	proširenje	تَوسِيع	N;NOM;NEUT;PL	N;NOM;DEF;SG
+proširenja	توسع	proširenje	تَوَسُّع	N;NOM;NEUT;PL	N;NOM;INDF;SG
+proširenja	توسيع	proširenje	تَوسِيع	N;NOM;NEUT;PL	N;NOM;INDF;SG
+kutija	مربع	kutija	مُرَبَّع	N;NOM;FEM;SG	ADJ;NOM;INDF;MASC;SG
+kutija	بوكس	kutija	بوكس	N;NOM;FEM;SG	
+sharon	شارون	sharon	شَارُون	PROPN;NOM;MASC;SG	
+muslimanski	المسلم	muslimanski	مُسلِم	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+muslimanski	مسلم	muslimanski	مُسلِم	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+muslimanski	اسلامي	muslimanski	إِسلَامِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+muslimanski	مسلمة	muslimanski	مُسلِم	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+emily	اميلي	emily	أَمِيلِيّ	PROPN;NOM;FEM;SG	
+emily	ايميلي	emily	أَيمِيلِي	PROPN;NOM;FEM;SG	
+odvojeni	منفصل	odvojen	مُنفَصِل	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+odvojeni	منفصل	odvojen	مُنفَصِل	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;MASC;SG
+odvojeni	منفصلة	odvojen	مُنفَصِل	ADJ;NOM;DEF;MASC;PL	ADJ;NOM;INDF;FEM;SG
+susjednoj	المجاورة	susjedan	مُجَاوِر	ADJ;DAT;DEF;FEM;SG	ADJ;NOM;DEF;FEM;SG
+susjednoj	مجاورة	susjedan	مُجَاوِر	ADJ;DAT;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+balet	الباليه	balet	الباليه	N;NOM;MASC;SG	
+balet	باليه	balet	باليه	N;NOM;MASC;SG	
+balet	البالية	balet	بَالِي	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+razgovori	الاحاديث	razgovor	حَدِيث	N;NOM;MASC;PL	
+jednostavnije	ابسط	jednostavan	أَبسَط	ADV;CMPR	
+članstva	العضوية	članstvo	عُضوِيَّة	N;NOM;NEUT;PL	N;NOM;DEF;SG
+članstva	العضوية	članstvo	عُضوِيَّة	N;NOM;NEUT;PL	N;NOM;DEF;SG
+članstva	عضوية	članstvo	عُضوِيَّة	N;NOM;NEUT;PL	N;NOM;INDF;SG
+montgomery	مونتغمري	montgomery	مونتغمري	N;NOM;MASC;SG	
+kristina	كريستينا	kristina	كريستينا	N;NOM;FEM;SG	
+kristina	كرستينا	kristina	كرستينا	N;NOM;FEM;SG	
+kristina	كرستين	kristina	كَرسَة	N;NOM;FEM;SG	N;NOM;INDF;DU
+kristina	كريستين	kristina	كرِيسَة	N;NOM;FEM;SG	
+potvrda	الشهادات	potvrda	شَهَادَة	N;NOM;FEM;SG	N;NOM;DEF;PL
+akademske	اكاديمية	akademski	أَكَادِيمِيَّة	ADJ;NOM;DEF;FEM;PL	N;NOM;INDF;SG
+akademske	الاكاديمي	akademski	إِكَادِيمِيّ	ADJ;NOM;DEF;FEM;PL	N;NOM;DEF;SG
+akademske	الاكاديمية	akademski	إِكَادِيمِيّ	ADJ;NOM;DEF;FEM;PL	
+akademske	اكاديمي	akademski	إِكَادِيمِيّ	ADJ;NOM;DEF;FEM;PL	
+napore	الجهود	napor	جَهد	N;ACC;MASC;PL	N;NOM;DEF;PL
+rimljanima	الرومان	rimljan	رُومَان	ADJ;INS;DEF;MASC;PL	N;NOM;DEF;SG
+privremena	مؤقتا	privremen	مُؤَقَّت	ADJ;NOM;DEF;FEM;SG	ADJ;ACC;INDF;MASC;SG
+privremena	مؤقتة	privremen	مُؤَقَّت	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+privremena	مؤقت	privremen	مُؤَقَّت	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+wan	وان	wan	وان	PROPN;NOM;MASC;SG	
+tamara	تمارا	tamar	تَمَار	N;NOM;FEM;SG	
+inicijative	مبادرة	inicijativa	مُبَادَرَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+inicijative	المبادرة	inicijativa	مُبَادَرَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+nevada	نيفادا	nevad	نيفادا	PROPN;NOM;MASC;SG	
+odgovore	الاجابات	odgovor	إِجَابَة	N;ACC;MASC;PL	N;NOM;DEF;PL
+odgovore	اجابات	odgovor	إِجَابَة	N;ACC;MASC;PL	N;NOM;INDF;PL
+piper	بايبر	piper	بايبر	N;NOM;MASC;SG	
+aston	استون	aston	استون	N;NOM;MASC;SG	
+trudna	الحوامل	trudan	حَامِل	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;PL
+trudna	حبلى	trudan	حَبلِيّ	ADJ;NOM;DEF;FEM;SG	V;PFV;FEM;SG;3;ACT
+trudna	حامل	trudan	حَامِل	ADJ;NOM;DEF;FEM;SG	
+duhan	تبغ	duhan	تبغ	N;NOM;MASC;SG	
+mehanika	الميكانيكا	mehanika	الميكانيكا	N;NOM;FEM;SG	N;NOM;DEF;PL
+metana	ميثان	metan	مَيثَان	N;GEN;MASC;SG	
+metana	الميثان	metan	مَيثَان	N;GEN;MASC;SG	N;NOM;DEF;SG
+kube	كوبا	kubiti	كُوبَا	N;NOM;FEM;PL	
+maske	قناع	maska	قناع	N;NOM;FEM;PL	N;NOM;INDF;SG
+maske	القناع	maska	قَنَاع	N;NOM;FEM;PL	N;NOM;DEF;SG
+maske	الاقنعة	maska	أَقنِعَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+kvadrata	المربعات	kvadrat	مُرَبِّع	N;GEN;MASC;SG	N;NOM;DEF;PL
+kvadrata	مربعات	kvadrat	مُرَبَّع	N;GEN;MASC;SG	ADJ;NOM;INDF;FEM;PL
+vrijedna	قيمة	vrijedan	قِيمَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+sljedbenika	اتباع	sljedbenik	اِتِّبَاع	N;ACC;MASC;SG	N;NOM;INDF;SG
+sljedbenika	متابعين	sljedbenik	مُتَأَابِع	N;ACC;MASC;SG	N;NOM;INDF;PL
+sljedbenika	متابع	sljedbenik	مُتَأَبِّع	N;ACC;MASC;SG	N;NOM;INDF;SG
+sljedbenika	المتابعين	sljedbenik	مُتَابِع	N;ACC;MASC;SG	N;NOM;DEF;PL
+razloge	دواعي	razlog	دَاعِي	N;ACC;MASC;PL	N;NOM;INDF;PL
+razloge	اسباب	razlog	سَبَب	N;ACC;MASC;PL	N;NOM;INDF;SG
+razloge	الاسباب	razlog	سَبَب	N;ACC;MASC;PL	N;NOM;DEF;PL
+vizualni	بصري	vizualan	بَصَرِيّ	ADJ;NOM;DEF;MASC;SG	
+vizualni	بصرية	vizualan	بَصَرِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+vizualni	مرئي	vizualan	مرئي	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+primljena	استقبل	primiti	اِستَقبَل	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+primljena	تلقت	primiti	تَلَقَّى	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+primljena	استلام	primiti	اِستِلَام	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	N;NOM;INDF;SG
+primljena	وردت	primiti	وَرَد	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+primljena	ورد	primiti	وَرَد	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	
+primljena	اعترفت	primiti	اِعتَرَف	ADJ;NOM;DEF;FEM;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;ACT
+bug	باغ	bug	بَاغ	N;NOM;MASC;SG	
+bug	باج	bug	باج	N;NOM;MASC;SG	
+dietrich	di	dietrich	مَثّ	N;NOM;FEM;SG	
+malcolm	مالكولم	malcolm	مالكولم	N;NOM;MASC;SG	
+malcolm	مالكوم	malcolm	مالكوم	N;NOM;MASC;SG	
+shan	شان	shan	شَان	ADP	
+milwaukee	ميلواكي	milwauke	مِيلُوَاكِي	N;ACC;MASC;PL	
+milwaukee	ميلووكي	milwauke	ميلووكي	N;ACC;MASC;PL	
+boba	بوب	boba	بوب	N;ACC;MASC;SG	
+aristotel	ارسطو	aristotel	أَرسَطُو	N;NOM;MASC;SG	
+julian	جوليان	julian	جوليان	PROPN;NOM;MASC;SG	
+jung	جونغ	jung	جُونغ	PROPN;NOM;MASC;SG	
+jung	جونج	jung	جونج	PROPN;NOM;MASC;SG	
+jung	جيونغ	jung	جِيُونغ	PROPN;NOM;MASC;SG	
+telefon	هاتف	telefon	هَاتِف	N;NOM;MASC;SG	
+telefon	تلفون	telefon	تَلَفَّن	N;NOM;MASC;SG	
+telefon	هاتف	telefon	هَاتِف	N;NOM;MASC;SG	
+telefon	تلفون	telefon	تَلَفَّن	N;NOM;MASC;SG	
+telefon	تليفون	telefon	تليفون	N;NOM;MASC;SG	
+barnes	بارنز	barnes	بارنز	PROPN;NOM;MASC;SG	
+predsjednički	رئاسية	predsjednički	رِئَاسِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+predsjednički	رئاسي	predsjednički	رِئَاسِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+cree	كري	cree	كري	ADP	
+jata	قطيع	jato	قطيع	N;NOM;NEUT;PL	N;NOM;INDF;SG
+balkanski	البلقان	balkanski	بَلَق	ADV	
+sretno	يسعد	sretno	سَعِد	ADV	V;IPFV;MASC;IND;SG;3;FIN;ACT
+sretno	سعيده	sretno	سعيده	ADV	PRO;NOM;FEM;SG;3
+sretno	هابي	sretno	هابي	ADV	
+sretno	سعيد	sretno	سعيد	ADV	
+sretno	سعيدة	sretno	سَعِيد	ADV	ADJ;NOM;INDF;FEM;SG
+maršal	مارشال	maršal	مارشال	N;NOM;MASC;SG	
+maršal	المارشال	maršal	مَارشَال	N;NOM;MASC;SG	
+svečanost	مراسم	svečanost	مَرسَم	N;NOM;FEM;SG	N;NOM;INDF;PL
+svečanost	المراسم	svečanost	مَرسَم	N;NOM;FEM;SG	N;NOM;DEF;PL
+svečanost	غالا	svečanost	غالا	N;NOM;FEM;SG	
+protona	البروتونات	proton	بِروَتُون	N;GEN;MASC;SG	N;NOM;DEF;PL
+holland	هولاند	holland	هولاند	N;NOM;FEM;SG	
+holland	هولندا	holland	هولندا	N;NOM;FEM;SG	
+tor	تور	tor	تَوَرّ	N;NOM;MASC;SG	
+tor	ثور	tor	ثُور	N;NOM;MASC;SG	
+boginja	الهة	boginjati	هَة	N;NOM;FEM;SG	
+nuklearno	نووية	nuklearno	نَوَوِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+nuklearno	نووي	nuklearno	نَوَوِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+nuklearno	النووية	nuklearno	نَوَوِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+privlače	جذب	privlačiti	جَذب	V;IND;PL;3;PRS;FIN	N;NOM;INDF;SG
+ženevi	جنيف	ženev	جِنِيف	N;DAT;FEM;SG	
+wimbledon	ويمبلدون	wimbledon	ويمبلدون	N;NOM;MASC;SG	
+uran	يورانيوم	uran	يُورَانيُوم	N;NOM;MASC;SG	
+uran	اليورانيوم	uran	اليورانيوم	N;NOM;MASC;SG	
+uran	باليورانيوم	uran	باليورانيوم	N;NOM;MASC;SG	
+uran	اورانوس	uran	أُورَانُوس	N;NOM;MASC;SG	
+tekući	سائلة	tekući	سَائِل	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+tekući	السائل	tekući	سَائِل	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+tekući	سائل	tekući	سَائِل	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+milje	ميل	milje	مِيل	N;NOM;FEM;SG	
+milje	مايلز	milje	مايلز	N;NOM;FEM;SG	
+milje	اميال	milje	مِيل	N;NOM;FEM;SG	N;NOM;INDF;PL
+promocije	الترويج	promocija	تَروِيج	N;NOM;FEM;PL	N;NOM;DEF;SG
+promocije	الترقية	promocija	تُرقِيّ	N;NOM;FEM;PL	N;NOM;DEF;SG
+promocije	ترويج	promocija	تَروِيج	N;NOM;FEM;PL	N;NOM;INDF;SG
+promocije	تعزيز	promocija	تَعزِيز	N;NOM;FEM;PL	N;NOM;INDF;SG
+promocije	ترقية	promocija	تَرقِيَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+podijelili	المشتركة	podijeliti	مُشتَرَك	V;MASC;PL;PST;V.PTCP;ACT	ADJ;NOM;DEF;FEM;SG
+podijelili	تقاسم	podijeliti	تَقَاسُم	V;MASC;PL;PST;V.PTCP;ACT	N;NOM;INDF;SG
+podijelili	مشترك	podijeliti	مُشتَرَك	V;MASC;PL;PST;V.PTCP;ACT	ADJ;NOM;INDF;MASC;SG
+davanja	العطاء	davanje	عَطَاء	N;NOM;NEUT;PL	N;NOM;DEF;SG
+davanja	اعطاء	davanje	إِعطَاء	N;NOM;NEUT;PL	N;NOM;INDF;SG
+trenutna	التيار	trenutan	تَيَّار	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+trenutna	تيار	trenutan	تَيَّار	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+bat	مضرب	bat	مُضرِب	N;NOM;MASC;SG	
+hrabrosti	شجاعة	hrabrost	شَجَاعَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+hrabrosti	الشجاعة	hrabrost	شَجَاعَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+oskar	اوسكار	oskar	اوسكار	N;NOM;MASC;SG	
+oskar	الاوسكار	oskar	وِسكَار	N;NOM;MASC;SG	
+okretaja	r	okretaj	لَ	N;GEN;MASC;SG	
+kopije	نسخ	kopija	نُسخَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+stolu	منضدة	stol	مُنَضَّد	N;DAT;MASC;SG	N;NOM;INDF;SG
+stolu	المكتب	stol	مَكتَب	N;DAT;MASC;SG	N;NOM;DEF;SG
+stolu	مكتب	stol	مَكتَب	N;DAT;MASC;SG	N;NOM;INDF;SG
+orijentaciju	توجيه	orijentacija	تَوجِيه	N;ACC;FEM;SG	N;NOM;INDF;SG
+orijentaciju	توجه	orijentacija	تَوَجَّه	N;ACC;FEM;SG	V;IPFV;MASC;IND;SG;3;FIN;ACT
+orijentaciju	التوجه	orijentacija	تَوَجُّه	N;ACC;FEM;SG	N;NOM;DEF;SG
+orijentaciju	التوجيه	orijentacija	تَوجِيه	N;ACC;FEM;SG	N;NOM;DEF;SG
+jules	جولز	jules	جولز	N;NOM;MASC;SG	
+financije	تمويل	financija	تَموِيل	N;NOM;FEM;PL	N;NOM;INDF;SG
+financije	المالية	financija	مَالِيَّة	N;NOM;FEM;PL	N;NOM;DEF;SG
+financije	مالية	financija	مَالِيّ	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;SG
+financije	التمويل	financija	تَموِيل	N;NOM;FEM;PL	N;NOM;DEF;SG
+financije	مالية	financija	مَالِيّ	N;NOM;FEM;PL	ADJ;NOM;INDF;FEM;SG
+financije	المالية	financija	مَالِيَّة	N;NOM;FEM;PL	N;NOM;DEF;SG
+traženje	ابحث	traženje	بَحَث	N;NOM;NEUT;SG	V;MASC;IMP;SG;FIN
+jednakosti	المساواة	jednakost	مُسَاوَاة	N;NOM;FEM;PL	N;NOM;DEF;SG
+tracy	تراسي	tracy	ترَاسِي	PROPN;NOM;MASC;SG	
+tracy	تريسي	tracy	تريسي	PROPN;NOM;MASC;SG	
+komercijalne	التجاري	komercijalan	تِجَارِيّ	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;DEF;MASC;SG
+komercijalne	تجاري	komercijalan	تِجَارِيّ	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;INDF;MASC;SG
+komercijalne	تجارية	komercijalan	تِجَارِيّ	ADJ;NOM;DEF;FEM;PL	ADJ;NOM;INDF;FEM;SG
+protestanti	البروتستانت	protestant	بِرُوتستَان	N;NOM;MASC;PL	
+tata	ابى	tata	ابى	N;NOM;MASC;SG	
+tata	ابي	tata	ابي	N;NOM;MASC;SG	
+mihael	مايكل	mihael	مَايكِل	PROPN;NOM;MASC;SG	
+woods	الغابات	woods	غَابَة	PROPN;NOM;MASC;SG	N;NOM;DEF;PL
+woods	غابات	woods	غَابَة	PROPN;NOM;MASC;SG	N;NOM;INDF;PL
+korijeni	الجذور	korijen	الجذور	N;NOM;MASC;PL	N;NOM;DEF;SG
+kapelu	شابل	kapela	شَابِل	N;ACC;FEM;SG	
+iphone	ipho	iphon	ثَذِيّ	N;NOM;MASC;SG	
+iphone	ايفون	iphon	ايفون	N;NOM;MASC;SG	
+duboka	عميقا	dubok	عَمِيق	ADJ;NOM;DEF;FEM;SG	ADJ;ACC;INDF;MASC;SG
+duboka	عميق	dubok	عَمِيق	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+duboka	عميقة	dubok	عَمِيق	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+duboka	عمق	dubok	عُمق	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+marta	مارتا	mart	مارتا	N;NOM;FEM;SG	
+marta	مارثا	mart	مَارِث	N;NOM;FEM;SG	
+slanje	ارسال	slanje	ارسال	N;NOM;NEUT;SG	
+benz	بنز	benz	بَنز	N;MASC;SG	
+okupljanje	جمع	okupljanje	جَمَع	N;NOM;NEUT;SG	V;PFV;MASC;SG;3;ACT
+krumpir	بطاطا	krumpir	بِطَاط	N;NOM;MASC;SG	
+krumpir	بطاطس	krumpir	بطاطس	N;NOM;MASC;SG	
+krumpir	بطاطا	krumpir	بِطَاط	N;NOM;MASC;SG	
+ruta	دروب	ruta	دَرب	N;NOM;FEM;SG	N;NOM;INDF;PL
+ruta	طرق	ruta	طَرِيقَة	N;NOM;FEM;SG	N;NOM;INDF;PL
+kartice	الالسنة	kartica	أَلسَنَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+grofica	الكونتيسة	grofica	الكونتيسة	N;NOM;FEM;SG	
+rolls	رولز	rolls	رُولز	N;NOM;MASC;SG	
+rolls	لفات	rolls	لفات	N;NOM;MASC;SG	
+spore	بوغ	spor	بُوغ	N;NOM;FEM;PL	
+digitalna	رقمية	digitalan	رَقَمِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+digitalna	رقمي	digitalan	رَقَمِيّ	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+ruby	روبي	ruby	رُوبِي	PROPN;NOM;MASC;SG	
+roditelje	الاهل	roditelj	أَهل	N;ACC;MASC;PL	N;NOM;DEF;SG
+roditelje	الوالدين	roditelj	الدالدين	N;ACC;MASC;PL	N;NOM;DEF;PL
+roditelje	الوالدان	roditelj	وَالِدَان	N;ACC;MASC;PL	N;NOM;DEF;PL
+roditelje	الاباء	roditelj	أَبَاء	N;ACC;MASC;PL	N;NOM;DEF;PL
+roditelje	اباء	roditelj	اباء	N;ACC;MASC;PL	N;NOM;INDF;PL
+najnovije	الاحدث	nov	أَحدَث	ADJ;NOM;DEF;RL;FEM;SG	N;NOM;DEF;SG
+najnovije	احدث	nov	أَحدَث	ADJ;NOM;DEF;RL;FEM;SG	
+najnovije	الاحدث	nov	أَحدَث	ADJ;NOM;DEF;RL;FEM;SG	N;NOM;DEF;SG
+prednja	واجهة	prednji	وَاجِهَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+prednja	جبهة	prednji	جَبهَة	ADJ;NOM;DEF;FEM;SG	N;NOM;INDF;SG
+prednja	الجبهة	prednji	جَبهَة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+mane	عيوب	mal	عَيب	N;NOM;FEM;PL	N;NOM;INDF;SG
+domingo	دومينغو	doming	دومينغو	N;NOM;MASC;SG	
+brač	براك	brač	برَاك	N;NOM;MASC;SG	
+tatjana	تاتيانا	tatjana	تاتيانا	N;NOM;FEM;SG	
+opasno	خطير	opasno	خَطِير	ADV	ADJ;NOM;INDF;MASC;SG
+opasno	خطر	opasno	خَطَر	ADV	N;NOM;INDF;SG
+opasno	خطيرة	opasno	خَطِير	ADV	ADJ;NOM;INDF;FEM;SG
+opasno	خطرة	opasno	خَطِر	ADV	ADJ;NOM;INDF;FEM;SG
+napuštena	مهجورة	napustiti	مهجورة	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG
+napuštena	مهجور	napustiti	مَهُور	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;MASC;SG
+napuštena	مهجور	napustiti	مَهُور	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;MASC;SG
+napuštena	مهجورة	napustiti	مهجورة	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG
+napuštena	هجرت	napustiti	هَجَر	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+odisej	od	odisej	إِذ	N;NOM;MASC;SG	
+odisej	يوليسيس	odisej	يوليسيس	N;NOM;MASC;SG	
+gorana	غوران	gorana	غُورَان	PROPN;NOM;MASC;SG	
+naveden	مدرجة	navesti	مَدرَجَة	ADJ;NOM;MASC;SG;V.PTCP;PASS	N;NOM;INDF;SG
+naveden	مدرج	navesti	مُدَرِّج	ADJ;NOM;MASC;SG;V.PTCP;PASS	N;NOM;INDF;SG
+winston	ونستون	winston	ونستون	PROPN;NOM;MASC;SG	
+winston	وينستون	winston	وينستون	PROPN;NOM;MASC;SG	
+melbourne	ملبورن	melbouran	ملبورن	ADV	
+leslie	ليسلي	leslia	ليسلي	PROPN;NOM;MASC;SG	
+leslie	ليزلي	leslia	ليزلي	PROPN;NOM;MASC;SG	
+ispuniti	الوفاء	ispuniti	وَفَاء	V;NFIN	N;NOM;DEF;SG
+ispuniti	ملء	ispuniti	مَلء	V;NFIN	N;NOM;INDF;SG
+ispuniti	ملا	ispuniti	مَلَا	V;NFIN	
+ispuniti	املا	ispuniti	أَمَل	V;NFIN	N;ACC;INDF;SG
+baja	باخا	baja	بَاخّ	N;NOM;MASC;SG	
+baja	باها	baja	باها	N;NOM;MASC;SG	
+kružni	التعميم	kružan	تَعمِيم	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+kružni	دائري	kružan	دَائِرِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+kružni	تعميم	kružan	تَعمِيم	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+sklonosti	ميول	sklonost	مِيُول	N;NOM;FEM;PL	
+grubo	الخام	grubo	خَام	ADV	ADJ;NOM;DEF;MASC;SG
+grubo	خشن	grubo	خَشن	ADV	N;NOM;INDF;SG
+grubo	قاسية	grubo	قَاسِي	ADV	ADJ;NOM;INDF;FEM;SG
+madison	ماديسون	madison	ماديسون	PROPN;NOM;MASC;SG	
+adrian	ادريان	adrian	أَدرِيَان	N;NOM;MASC;SG	
+sekundarni	الثانوية	sekundaran	ثَانَوِيّ	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+sekundarni	ثانوي	sekundaran	ثَانَوِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;MASC;SG
+sekundarni	ثانوية	sekundaran	ثَانَوِيّ	ADJ;NOM;DEF;MASC;SG	ADJ;NOM;INDF;FEM;SG
+sekundarni	الثانوي	sekundaran	ثَانَوِيّ	ADJ;NOM;DEF;MASC;SG	
+navodeći	مستشهدا	navoditi	مستشهدا	ADV;RL	N;ACC;INDF;SG
+jackie	جاكي	jakki	جَاكِي	N;NOM;MASC;SG	
+elektronski	الالكتروني	elektronski	إِلِكترُونِيّ	ADV	ADJ;NOM;DEF;MASC;SG
+elektronski	الكتروني	elektronski	إِلِكترُونِيّ	ADV	ADJ;NOM;INDF;MASC;SG
+elektronski	الالكترونية	elektronski	إِلِكترُونِيّ	ADV	ADJ;NOM;DEF;FEM;SG
+elektronski	الكترونية	elektronski	إِلِكترُونِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+elektronski	الكترونيا	elektronski	كِترُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+elektronski	الكترونيا	elektronski	كِترُونِيَا	ADV	ADJ;ACC;INDF;MASC;SG
+najbliža	الاقرب	dlizak	أَقرَب	ADJ;NOM;DEF;RL;FEM;SG	
+najbliža	الاقرب	dlizak	أَقرَب	ADJ;NOM;DEF;RL;FEM;SG	
+dokumentarac	الوثائقي	dokumentarac	وَثَائِقِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+dokumentarac	وثائقي	dokumentarac	وَثَائِقِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+poboljšana	المحسن	poboljšati	المحسن	ADJ;NOM;DEF;FEM;SG;V.PTCP	
+poboljšana	محسنة	poboljšati	مُحَسَّنَة	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG
+poboljšana	تحسن	poboljšati	تَحَسُّن	ADJ;NOM;DEF;FEM;SG;V.PTCP	N;NOM;INDF;SG
+poboljšana	محسن	poboljšati	محسن	ADJ;NOM;DEF;FEM;SG;V.PTCP	
+roosevelt	روزفلت	roosevelt	رُوزفِلت	N;NOM;MASC;SG	
+roosevelt	روزفيلت	roosevelt	رُوزفِيل	N;NOM;MASC;SG	
+torpeda	الطوربيدات	torped	طُوربِيد	N;NOM;MASC;SG	N;NOM;DEF;PL
+andrews	اندروز	andrews	اندروز	N;NOM;MASC;SG	
+odaje	الغرف	odavati	غُرفَة	V;IND;SG;3;PRS;FIN	N;NOM;DEF;PL
+odaje	الدوائر	odavati	دَائِرَة	V;IND;SG;3;PRS;FIN	N;NOM;DEF;PL
+odaje	ارباع	odavati	رِبع	V;IND;SG;3;PRS;FIN	N;NOM;INDF;PL
+ming	مينج	ming	مينج	PROPN;NOM;MASC;SG	
+ming	مينغ	ming	مينغ	PROPN;NOM;MASC;SG	
+napulj	نابولي	napulj	نابولي	PROPN;NOM;MASC;SG	
+osobnosti	شخصيه	osobnost	شخصيه	N;NOM;FEM;PL	
+osobnosti	الشخصية	osobnost	شَخصِيّ	N;NOM;FEM;PL	ADJ;NOM;DEF;FEM;SG
+osobnosti	شخصية	osobnost	شَخصِيَّة	N;NOM;FEM;PL	N;NOM;INDF;SG
+aero	ايرو	aero	ايرو	N;NOM;MASC;SG	
+nizak	منخفض	niz	مُنخَفِض	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+nizak	منخفضة	niz	مُنخَفِض	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+lotus	لوتس	lotus	لُوتس	N;NOM;MASC;SG	
+izmišljeni	خيالي	izmišliti	خيالي	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+izmišljeni	وهمي	izmišliti	وهمي	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+aaron	هارون	aaron	هارون	PROPN;NOM;MASC;SG	
+aaron	ارون	aaron	أَرُون	PROPN;NOM;MASC;SG	
+aaron	ايرون	aaron	إِيرُون	PROPN;NOM;MASC;SG	
+doktrina	الفقه	doktrina	فِقه	N;NOM;FEM;SG	
+zaliha	الامداد	zaliha	إِمدَاد	N;NOM;FEM;SG	N;NOM;DEF;PL
+radost	فرح	radost	فُرحَة	N;NOM;FEM;SG	
+radost	بهجة	radost	بَهجَة	N;NOM;FEM;SG	
+xml	xm	xml	هُوَ	PROPN;NOM;MASC;SG	
+popraviti	اصلاح	popraviti	إِصلَاح	V;NFIN	N;NOM;INDF;SG
+popraviti	اصلح	popraviti	أَصلَح	V;NFIN	
+herkul	هرقل	herkul	هرقل	N;NOM;MASC;SG	
+ruže	الورود	ruža	وُرُود	N;NOM;FEM;PL	N;NOM;DEF;SG
+ruže	الورد	ruža	وَرد	N;NOM;FEM;PL	N;NOM;DEF;SG
+veracruz	فيراكروز	veracruz	فيراكروز	PROPN;NOM;MASC;SG	
+smeđi	اسمر	smeđi	أَسمَر	ADJ;NOM;DEF;MASC;SG	
+smeđi	البني	smeđi	بَنِّيّ	ADJ;NOM;DEF;MASC;SG	N;NOM;DEF;SG
+smeđi	بنية	smeđi	بِنيَة	ADJ;NOM;DEF;MASC;SG	N;NOM;INDF;SG
+smeđi	براون	smeđi	براون	ADJ;NOM;DEF;MASC;SG	
+pčele	نحل	pčeti	نحل	N;NOM;FEM;PL	
+pčele	النحل	pčeti	نَحل	N;NOM;FEM;PL	N;NOM;DEF;SG
+rao	راو	rao	راو	PROPN;NOM;MASC;SG	
+frodo	فرودو	frodo	فرودو	N;NOM;MASC;SG	
+nin	nin	nin	مُثَّة	N;NOM;MASC;SG	
+miješa	منوعات	miješ	مُنَوِّع	V;IND;SG;3;PRS;FIN	N;NOM;INDF;PL
+lena	لينا	lena	لينا	N;NOM;FEM;SG	
+kriv	مذنب	kriv	مُذَنَّب	ADJ;NOM;INDF;MASC;SG	N;NOM;INDF;SG
+tigar	تايجر	tigar	تايجر	N;NOM;MASC;SG	
+tigar	نمر	tigar	نمر	N;NOM;MASC;SG	
+osvete	انتقام	osveta	اِنتِقَام	N;NOM;FEM;PL	N;NOM;INDF;SG
+osvete	الانتقام	osveta	اِنتِقَام	N;NOM;FEM;PL	N;NOM;DEF;SG
+usporediti	مقارنة	usporediti	مُقَارَنَة	V;NFIN	N;ACC;INDF;SG
+usporediti	قارن	usporediti	قَارِن	V;NFIN	
+tobago	توباغو	tobago	توباغو	N;NOM;MASC;SG	
+rušenja	هدم	rušenje	هَدم	N;NOM;NEUT;PL	N;NOM;INDF;SG
+rušenja	الهدم	rušenje	هَدم	N;NOM;NEUT;PL	N;NOM;DEF;SG
+tokiju	طوكيو	tok	طُوكِيُو	N;DAT;MASC;SG	
+felipe	فيليبي	felipa	فِيلِيبِي	PROPN;NOM;MASC;SG	
+ljepota	جمال	ljepota	جمال	N;NOM;FEM;SG	
+lambert	لامبرت	lambert	لَامبِرت	N;NOM;MASC;SG	
+lambert	لامبيرت	lambert	لَامبِير	N;NOM;MASC;SG	
+židov	اليهودية	židov	يَهُودِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;FEM;SG
+židov	يهودية	židov	يَهُودِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+židov	يهودي	židov	يَهُودِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+židov	يهودا	židov	يَهُودِيّ	N;NOM;MASC;SG	
+židov	يهود	židov	يَهُودِيّ	N;NOM;MASC;SG	N;NOM;INDF;PL
+židov	اليهودي	židov	يَهُودِيّ	N;NOM;MASC;SG	ADJ;NOM;DEF;MASC;SG
+židov	يهودي	židov	يَهُودِيّ	N;NOM;MASC;SG	ADJ;NOM;INDF;MASC;SG
+campo	كامبو	campo	كامبو	ADP	
+dečko	بوي	dečko	بوي	N;NOM;MASC;SG	
+dečko	خليل	dečko	خليل	N;NOM;MASC;SG	
+dečko	حبيب	dečko	حبيب	N;NOM;MASC;SG	
+dečko	الخليل	dečko	الخليل	N;NOM;MASC;SG	
+aus	a	aus	a	ADP	
+moždani	سكتة	moždan	سَكتَة	ADV	N;NOM;INDF;SG
+hindu	الهندوس	hind	هِندُوس	N;NOM;MASC;SG	N;NOM;DEF;PL
+odbijen	رفض	odbiti	رَفَض	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+muslimanima	المسلمين	musliman	مُسلِم	N;INS;MASC;PL	N;NOM;DEF;PL
+muslimanima	مسلمون	musliman	مُسلِم	N;INS;MASC;PL	N;NOM;INDF;PL
+muslimanima	المسلمون	musliman	مُسلِم	N;INS;MASC;PL	N;NOM;DEF;PL
+muslimanima	مسلمين	musliman	مُسلِم	N;INS;MASC;PL	N;NOM;INDF;PL
+jednoglasno	اجماع	jednoglasno	إِجمَاع	ADV	N;NOM;INDF;SG
+rab	rab	rab	أَصَام	PROPN;NOM;MASC;SG	
+diplomski	التخرج	diplomski	تَخَرُّج	ADV	N;NOM;DEF;SG
+diplomski	خريج	diplomski	خَرِيج	ADV	N;NOM;INDF;SG
+kai	كاي	kai	كَاي	PROPN;NOM;MASC;SG	
+klein	كلين	klein	كلين	PROPN;NOM;MASC;SG	
+klein	كلاين	klein	كلَايِن	PROPN;NOM;MASC;SG	
+ada	ادا	ada	أَدَّا		CONJ
+tvoja	تك	tvoj	تك	DET;NOM;FEM;SG;1	
+tvoja	ملكك	tvoj	ملكك	DET;NOM;FEM;SG;1	
+tvoja	لك	tvoj	لِكَ	DET;NOM;FEM;SG;1	
+spontano	عفوية	spontano	عُفوِيّ	ADV	ADJ;NOM;INDF;FEM;SG
+jesse	جيسي	biti	جيسي	PROPN;NOM;MASC;SG	
+prijedloge	اقتراحات	prijedlog	اِقتِرَاح	N;ACC;MASC;PL	N;NOM;INDF;PL
+prijedloge	الاقتراحات	prijedlog	اِقتِرَاح	N;ACC;MASC;PL	N;NOM;DEF;PL
+prijedloge	المقترحات	prijedlog	مُقتَرَح	N;ACC;MASC;PL	N;NOM;DEF;PL
+prijedloge	مقترحات	prijedlog	مُقتَرَح	N;ACC;MASC;PL	N;NOM;INDF;PL
+intervencija	التدخلات	intervencija	تَدَخُّل	N;NOM;FEM;SG	N;NOM;DEF;PL
+inteligencija	استخبارات	inteligencija	اِستِخبَار	N;NOM;FEM;SG	N;NOM;INDF;PL
+inteligencija	الاستخبارات	inteligencija	اِستِخبَار	N;NOM;FEM;SG	N;NOM;DEF;PL
+inteligencija	المخابرات	inteligencija	مُخَابَرَات	N;NOM;FEM;SG	N;NOM;DEF;PL
+inteligencija	مخابرات	inteligencija	مُخَابَرَات	N;NOM;FEM;SG	N;NOM;INDF;PL
+inteligencija	ذكاء	inteligencija	ذَكَاء	N;NOM;FEM;SG	
+viđen	شوهد	vidjeti	شوهد	ADJ;NOM;MASC;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+viđen	رايت	vidjeti	رَاي	ADJ;NOM;MASC;SG;V.PTCP;PASS	
+imovina	اصول	imovina	أَصل	N;NOM;FEM;SG	
+imovina	موجودات	imovina	مَوجُود	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;PL
+imovina	الاصول	imovina	أَصل	N;NOM;FEM;SG	N;NOM;DEF;PL
+imovina	الموجودات	imovina	مَوجُود	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+imovina	اصول	imovina	أَصل	N;NOM;FEM;SG	
+imovina	الاصول	imovina	أَصل	N;NOM;FEM;SG	N;NOM;DEF;PL
+imovina	الموجودات	imovina	مَوجُود	N;NOM;FEM;SG	ADJ;NOM;DEF;FEM;PL
+imovina	موجودات	imovina	مَوجُود	N;NOM;FEM;SG	ADJ;NOM;INDF;FEM;PL
+imovina	الممتلكات	imovina	مُمتَلَكَات	N;NOM;FEM;SG	N;NOM;DEF;PL
+imovina	ممتلكات	imovina	مُمتَلَكَات	N;NOM;FEM;SG	N;NOM;INDF;PL
+jelen	غزال	jelen	غزال	N;NOM;MASC;SG	
+jelen	ايل	jelen	ايل	N;NOM;MASC;SG	
+oak	البلوط	oak	بَلوَط	PROPN;NOM;MASC;SG	N;NOM;DEF;SG
+kanjon	كانيون	kanjon	كَانِيّ	N;NOM;MASC;SG	
+princeton	برينستون	princeton	برِينستُون	PROPN;NOM;MASC;SG	
+sparta	سبارتا	spart	سَبَار	N;NOM;FEM;SG	
+irsku	ايرلندا	irski	إِيرلَندَا	ADJ;ACC;DEF;FEM;SG	
+dogovoreno	اتفق	dogovoren	اِتَّفَق	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	V;PFV;MASC;SG;3;ACT
+dogovoreno	متفق	dogovoren	مُتَّفَق	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	ADJ;NOM;INDF;MASC;SG
+dogovoreno	التعامل	dogovoren	تَعَامُل	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;DEF;SG
+dogovoreno	صفقة	dogovoren	صَفقَة	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+dogovoreno	الاتفاق	dogovoren	اِتِّفَاق	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;DEF;SG
+dogovoreno	الصفقة	dogovoren	صَفقَة	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;DEF;SG
+dogovoreno	اتفاق	dogovoren	اِتِّفَاق	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	N;NOM;INDF;SG
+java	جافا	jav	جَافّ	N;NOM;FEM;SG	ADJ;ACC;INDF;MASC;SG
+sirius	سيريوس	sirius	سيريوس	N;NOM;MASC;SG	
+molitvu	الصلاة	molitva	صَلَاة	N;ACC;FEM;SG	N;NOM;DEF;SG
+molitvu	الدعاء	molitva	دُعَاء	N;ACC;FEM;SG	N;NOM;DEF;SG
+molitvu	دعاء	molitva	دِعَاء	N;ACC;FEM;SG	N;NOM;INDF;SG
+molitvu	صلاة	molitva	صَلَاة	N;ACC;FEM;SG	N;NOM;INDF;SG
+platon	افلاطون	platon	فِلَاط	N;NOM;MASC;SG	
+ara	ارا	ara	أَرّ	N;NOM;MASC;SG	V;PFV;MASC;SG;3;ACT
+provedbu	تنفيذ	provedba	تَنفِيذ	N;ACC;FEM;SG	N;NOM;INDF;SG
+provedbu	التنفيذ	provedba	تَنفِيذ	N;ACC;FEM;SG	N;NOM;DEF;SG
+intel	انتل	intel	أَنتَل	N;NOM;MASC;SG	
+basel	بازل	basel	بَازِل	PROPN;NOM;MASC;SG	
+uređena	زينت	urediti	زينت	ADJ;NOM;DEF;FEM;SG;V.PTCP	V;PFV;FEM;SG;3;ACT
+ncc	n	ncc	!		
+magnetski	المغناطيسية	magnetski	مَغطَاطِيسِيَّة	ADV	N;NOM;DEF;SG
+temple	المعبد	temple	مَعبَد	ADP	N;NOM;DEF;SG
+temple	تمبل	temple	مَبَّل	ADP	
+temple	معبد	temple	معبد	ADP	N;NOM;INDF;SG
+uvjerljivo	اقناع	uvjerljivo	إِقنَاع	ADV	N;NOM;INDF;SG
+istraga	التحقيقات	istraga	تَحقِيق	N;NOM;FEM;SG	N;NOM;DEF;PL
+gavran	غراب	gavran	غَرَّاب	N;NOM;MASC;SG	
+gavran	ريفن	gavran	ريفن	N;NOM;MASC;SG	
+morrison	موريسون	morrison	مُورِيسُون	PROPN;NOM;MASC;SG	
+adler	ادلر	adler	أَدلَر	PROPN;NOM;MASC;SG	
+uskrsnuće	البعث	uskrsnuće	البعث	N;NOM;NEUT;SG	
+plodnosti	الخصوبة	plodnost	خُصُوبَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+plodnosti	خصوبة	plodnost	خُصُوبَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+dylan	ديلين	dylan	ديلين	N;NOM;MASC;SG	
+dylan	ديلن	dylan	دَيلَن	N;NOM;MASC;SG	
+dylan	ديلان	dylan	دِيلَان	N;NOM;MASC;SG	
+logan	لوغان	logan	لُوغَان	N;NOM;MASC;SG	
+logan	لوجان	logan	لُوجَان	N;NOM;MASC;SG	
+opisano	وصفت	opisati	وَصَف	ADJ;NOM;DEF;NEUT;SG;V.PTCP;PASS	V;PFV;FEM;SG;3;PASS
+ogromna	ضخم	ogroman	ضَخم	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;MASC;SG
+ogromna	ضخمة	ogroman	ضَخم	ADJ;NOM;DEF;FEM;SG	ADJ;NOM;INDF;FEM;SG
+bordeaux	بوردو	bordeaux	بوردو	N;NOM;MASC;SG	
+brooks	بروكس	brooks	بروكس	PROPN;NOM;MASC;SG	
+izolirani	معزول	izolirati	مَعزُول	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;MASC;SG
+izolirani	معزولة	izolirati	مَعزُول	ADJ;NOM;DEF;MASC;PL;V.PTCP	ADJ;NOM;INDF;FEM;SG
+izolirani	عزل	izolirati	عزل	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+izolirani	منعزل	izolirati	مُنعَزِل	ADJ;NOM;DEF;MASC;PL;V.PTCP	
+žiri	قضاة	žiri	قَاضِي	N;NOM;MASC;SG	N;NOM;INDF;PL
+žiri	القضاة	žiri	قَاضِي	N;NOM;MASC;SG	N;NOM;DEF;PL
+slijed	متتالية	slijed	مُتَتَالِي	N;NOM;MASC;SG	ADJ;NOM;INDF;FEM;SG
+peraje	زعانف	peraja	زعانف	N;NOM;FEM;PL	
+peraje	زعانف	peraja	زعانف	N;NOM;FEM;PL	
+ribarstvo	المصائد	ribarstvo	مَصئِد	N;NOM;NEUT;SG	N;NOM;DEF;PL
+graditelji	بناة	graditelj	بِنَاة	N;NOM;MASC;PL	N;NOM;INDF;SG
+vili	ويلي	vila	ويلي	N;DAT;FEM;SG	
+neprijatelje	الاعداء	neprijatelj	عَدُوّ	N;ACC;MASC;PL	N;NOM;DEF;PL
+neprijatelje	اعداء	neprijatelj	اعداء	N;ACC;MASC;PL	
+robu	البضاعة	roba	بِضَاعَة	N;ACC;FEM;SG	N;NOM;DEF;SG
+robu	سلع	roba	سِلعَة	N;ACC;FEM;SG	N;NOM;INDF;PL
+robu	البضائع	roba	بِضَاعَة	N;ACC;FEM;SG	N;NOM;DEF;PL
+robu	السلع	roba	سِلعَة	N;ACC;FEM;SG	N;NOM;DEF;PL
+robu	بضائع	roba	بِضَاعَة	N;ACC;FEM;SG	N;NOM;INDF;PL
+torres	توريس	torres	توريس	N;NOM;MASC;SG	
+javier	خافيير	javier	خَافِيِير	N;NOM;MASC;SG	
+javier	خافير	javier	خَافِير	N;NOM;MASC;SG	
+kubi	كوبا	kubiti	كُوبَا	N;DAT;FEM;SG	
+gong	غونغ	gong	غونغ	N;NOM;MASC;SG	
+bee	النحلة	bee	النحلة	ADP	N;NOM;DEF;SG
+bee	نحل	bee	نحل	ADP	
+bee	نحلة	bee	نَحلَة	ADP	N;NOM;INDF;SG
+bee	النحل	bee	نَحل	ADP	N;NOM;DEF;SG
+pljačke	سرقة	pljačka	سَرِقَة	N;NOM;FEM;PL	N;NOM;INDF;SG
+pljačke	السرقة	pljačka	سَرِقَة	N;NOM;FEM;PL	N;NOM;DEF;SG
+chapman	تشابمان	chapman	تشابمان	N;NOM;MASC;SG	
+chapman	شابمان	chapman	شابمان	N;NOM;MASC;SG	
+magnetska	المغناطيسية	magnetski	مَغطَاطِيسِيَّة	ADJ;NOM;DEF;FEM;SG	N;NOM;DEF;SG
+prilagođena	العرف	prilagoditi	عَرف	ADJ;NOM;DEF;FEM;SG;V.PTCP	N;NOM;DEF;SG
+prilagođena	مخصص	prilagoditi	مُخَصَّص	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;MASC;SG
+prilagođena	مخصصة	prilagoditi	مُخَصَّص	ADJ;NOM;DEF;FEM;SG;V.PTCP	ADJ;NOM;INDF;FEM;SG

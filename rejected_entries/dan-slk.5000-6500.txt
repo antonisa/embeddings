@@ -1,0 +1,2238 @@
+dynasti	dynastie	dynasti	dynastie	N;INDF;NEUT;SG	N;NOM;FEM;PL
+glasgow	glasgow	glasgow	glasgow	PROPN	PROPN;INAN;NOM;MASC;SG
+secret	tajný	secret	tajný		ADJ;ANIM;NOM;MASC;SG
+secret	secret	secret	secret		N;NOM;FEM;SG
+secret	tajná	secret	tajný		ADJ;NOM;FEM;SG
+secret	tajomstvo	secret	tajomstvo		N;NOM;NEUT;SG
+secret	tajné	secret	tajný		ADJ;NOM;NEUT;SG
+journalister	novinárom	journalist	novinár	N;INDF;MASC+FEM;PL	N;ANIM;INS;MASC;SG
+mikhail	michail	mikhail	michail	PROPN	PROPN;ANIM;NOM;MASC;SG
+etage	podlahové	etage	podlahový	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+poesi	poézie	poesi	poézia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+mil	kilometre	mil	kilometer	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+mil	miles	mil	miles	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+mil	míle	mil	míla	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+mil	mil	mil	mil	N;INDF;MASC+FEM;SG	
+installeret	nainštalovaný	installere	nainštalovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+installeret	nainštalované	installere	nainštalovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+installeret	inštalované	installere	inštalovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udkanten	periférii	udkant	periféria	N;DEF;MASC+FEM;SG	N;DAT;FEM;PL
+varmt	horúci	varm	horúci	ADJ;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+varmt	sexi	varm	sexi	ADJ;INDF;NEUT;SG	N;NOM;FEM;SG
+varmt	hot	varm	hot	ADJ;INDF;NEUT;SG	
+varmt	horúce	varm	horúci	ADJ;INDF;NEUT;SG	ADJ;NOM;NEUT;PL
+varmt	teple	varm	teplo	ADJ;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+varmt	teplo	varm	teplo	ADJ;INDF;NEUT;SG	N;NOM;NEUT;SG
+passere	pass	passere	pass	V;NFIN;ACT	INTJ
+ideologi	ideológie	ideologi	ideológia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+colorado	colorado	colorado	colorado		N;ANIM;NOM;MASC;SG
+fungerende	fungovanie	fungerende	fungovanie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+fungerende	fungujúce	fungerende	fungujúci	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT
+væske	tekutín	væske	tekutín	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+væske	kvapalný	væske	kvapalný	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG
+væske	kvapalné	væske	kvapalný	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+væske	tekuté	væske	tekutý	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+mursten	tehly	mursten	tehla	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+mursten	brick	mursten	brick	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+forfatningen	ústavy	forfatning	ústav	N;DEF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+monica	monika	monica	monika		N;NOM;FEM;SG
+monica	monica	monica	monica		N;NOM;FEM;SG
+udkommet	publikované	udkomme	publikovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udkommet	zverejnená	udkomme	zverejnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+udkommet	zverejnené	udkomme	zverejnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udkommet	uverejnené	udkomme	uverejnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+inkluderede	zaradené	inkludere	zaradený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+inkluderede	zahrnuté	inkludere	zahrnutý	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+inkluderede	zahrnutý	inkludere	zahrnutý	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+unikke	jedinečný	unik	jedinečný	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+unikke	unikátne	unik	unikátny	ADJ;PL	ADJ;NOM;NEUT;SG
+unikke	jedinečné	unik	jedinečný	ADJ;PL	ADJ;NOM;NEUT;SG
+unikke	jedinečná	unik	jedinečný	ADJ;PL	ADJ;NOM;FEM;SG
+unikke	unikátny	unik	unikátny	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+banks	banks	banks	banks	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+banks	banky	banks	banka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+banks	bankami	banks	banka	N;INDF;MASC+FEM;SG	N;INS;FEM;PL
+banks	bánk	banks	banka	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+tove	lán	tov	lán	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+tove	laná	tov	laný	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+tove	tove	tov	tov	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+jupiter	jupiter	jupiter	jupiter		N;ANIM;NOM;MASC;SG
+xbox	xbox	xbox	xbox	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+skygge	tiene	skygge	tieň	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+passage	prekračovaní	passage	prekračovanie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+torv	štvorcový	torv	štvorcový	N;INDF;NEUT;SG	ADJ;INAN;NOM;MASC;SG
+torv	štvorcových	torv	štvorcový	N;INDF;NEUT;SG	ADJ;GEN;MASC;PL
+anhalt	anhaltsko	anhalt	anhaltsko	N;INDF;MASC+FEM;SG	ADV
+betty	betty	betty	bett		PROPN;NOM;FEM;SG
+levet	žili	leve	žiť	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+eksperimenter	experiment	eksperiment	experiment	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+eksperimenter	pokus	eksperiment	pokus	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+eksperimenter	experimentu	eksperiment	experiment	N;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;SG
+eksperimenter	experimentovanie	eksperiment	experimentovanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+måler	meranie	måle	meranie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+måler	meter	måle	meter	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+måler	merač	måle	merač	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+atlantic	atlantiku	atlantic	atlantika		N;INAN;GEN;MASC;SG
+atlantic	atlantic	atlantic	atlantica		N;INAN;NOM;MASC;SG
+atlantic	atlantický	atlantic	atlantický		ADJ;ANIM;NOM;MASC;SG
+atlantic	atlantik	atlantic	atlantik		N;INAN;NOM;MASC;SG
+helena	helen	helena	helen	N;DEF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+daf	daf	daf	daf		
+dick	kokot	dick	kokot		N;ANIM;NOM;MASC;SG
+spiser	jedenie	spise	jedenie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+spiser	stravovanie	spise	stravovanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+skift	posunúť	skift	posunúť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+skift	prepnúť	skift	prepnúť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+skift	zmeniť	skift	zmeniť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+skift	smeny	skift	smena	N;INDF;NEUT;SG	N;NOM;FEM;PL
+helene	helene	hel	helene	N;DEF;MASC+FEM;PL	N;NOM;FEM;SG
+ordning	schémy	ordning	schý	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ordning	systémy	ordning	systém	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+klint	klint	klint	klint	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+klint	cliff	klint	cliff	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+spin	spin	spin	spin	N;INDF;NEUT;SG	INTJ
+spin	točiť	spin	točiť	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+boris	boris	boris	boris		PROPN;ANIM;NOM;MASC;SG
+output	výstupný	output	výstupný	N;INDF;NEUT;SG	ADJ;INAN;NOM;MASC;SG
+output	výstupy	output	výstup	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+output	výstupov	output	výstup	N;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+düsseldorf	düsseldorf	düsseldorf	düsseldorf	N;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+highway	diaľnice	highway	diaľnica	N;INDF;NEUT;SG	N;NOM;FEM;PL
+overskud	prebytky	overskud	prebytok	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+overskud	prebytky	overskud	prebytok	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+overskud	zisky	overskud	ziska	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+krydse	prekračovaní	krydse	prekračovanie	V;NFIN;ACT	N;NOM;NEUT;PL
+krydse	križovatka	krydse	križovatko	V;NFIN;ACT	N;NOM;FEM;SG
+krydse	krížová	krydse	krížový	V;NFIN;ACT	ADJ;NOM;FEM;SG
+krydse	cross	krydse	cross	V;NFIN;ACT	PROPN;ANIM;NOM;MASC;SG
+krydse	kríž	krydse	kríž	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+krydse	krížové	krydse	krížový	V;NFIN;ACT	ADJ;NOM;NEUT;SG
+organisk	organický	organisk	organický	ADV	ADJ;ANIM;NOM;MASC;SG
+organisk	organické	organisk	organický	ADV	ADJ;NOM;NEUT;SG
+organisk	organická	organisk	organický	ADV	ADJ;NOM;FEM;SG
+organisk	ekologické	organisk	ekologický	ADV	ADJ;NOM;NEUT;SG
+ris	ryže	ris	ryže	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+ris	ryžové	ris	ryžový	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+ris	ris	ris	ris	N;INDF;MASC+FEM;SG	
+julian	julian	julian	julian		N;ANIM;NOM;MASC;SG
+julian	juliana	julian	julian		N;NOM;FEM;SG
+biologisk	biologickej	biologisk	biologický	ADV	ADJ;GEN;FEM;SG
+biologisk	biologický	biologisk	biologický	ADV	ADJ;ANIM;NOM;MASC;SG
+biologisk	biologické	biologisk	biologický	ADV	ADJ;NOM;NEUT;SG
+biologisk	biologická	biologisk	biologický	ADV	ADJ;NOM;FEM;SG
+henderson	henderson	henderson	henderson	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+paulo	paulo	paulo	paulo	PROPN	PROPN;ANIM;NOM;MASC;SG
+nyligt	najnovšie	nyligt	mový	ADV	ADV;RL
+nyligt	posledných	nyligt	posledný	ADV	ADJ;GEN;MASC;PL
+nyligt	posledné	nyligt	posledný	ADV	ADJ;NOM;NEUT;SG
+nyligt	nedávny	nyligt	nedávny	ADV	ADJ;INAN;NOM;MASC;SG
+nyligt	nedávne	nyligt	nedávne	ADV	ADJ;NOM;NEUT;SG
+nyligt	nedávna	nyligt	nedávny	ADV	ADJ;NOM;FEM;SG
+mexicanske	mexické	mexicansk	mexický	ADJ;PL	ADJ;NOM;NEUT;SG
+mexicanske	mexický	mexicansk	mexický	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+skarpt	ostrý	skarpt	ostrý	ADV	ADJ;INAN;NOM;MASC;SG
+skarpt	ostré	skarpt	ostrý	ADV	ADJ;NOM;NEUT;SG
+skarpt	ostrá	skarpt	ostrať	ADV	ADJ;NOM;FEM;SG
+forstæder	predmestí	forståde	predmestiť	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+forstæder	prímestskej	forståde	prímestský	N;INDF;MASC+FEM;PL	ADJ;GEN;FEM;SG
+nederlaget	poraziť	nederlag	poraziť	N;DEF;NEUT;SG	V;PFV;POS;NFIN
+bestemmer	nerozhodne	bestemme	nerozhodne	V;IND;PRS;FIN;ACT	ADV
+bestemmer	rozhodne	bestemme	rozhodne	V;IND;PRS;FIN;ACT	PART
+forandring	zmeniť	forandring	zmeniť	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+følelse	emócie	følelse	emócia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+følelse	emócií	følelse	emócia	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+rygter	reci	rygte	rec	N;INDF;NEUT;PL	INTJ
+rygter	reci	rygte	rec	N;INDF;NEUT;PL	INTJ
+singer	singer	singer	singer	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+separate	oddelený	separat	oddelený	N;INDF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+separate	samostatné	separat	samostatný	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+separate	oddelené	separat	oddelený	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+separate	samostatný	separat	samostatný	N;INDF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG
+separate	samostatná	separat	samostatný	N;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+level	úrovne	level	úroveň	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ivar	ivar	ivar	ivar		PROPN;ANIM;NOM;MASC;SG
+indbygget	vložené	indbygge	vložený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+indbygget	vložená	indbygge	vložený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+indbygget	vložený	indbygge	vložený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+indbygget	postavili	indbygge	postaviť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+indbygget	postavená	indbygge	postavený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+indbygget	postavené	indbygge	postavený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+indbygget	postavený	indbygge	postavený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+indbygget	stavali	indbygge	stavať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+indbygget	začlenili	indbygge	začleniť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+indbygget	začlenené	indbygge	začlenený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+diana	diana	diana	diana		N;NOM;FEM;SG
+teologisk	teologickej	teologisk	teologický	ADV	ADJ;GEN;FEM;SG
+giro	giro	giro	giro	N;INDF;MASC+FEM;SG	
+tilbagetrækning	výbery	tilbagetrækning	výber	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+tilbagetrækning	stiahnutia	tilbagetrækning	stiahnutie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+tilbagetrækning	odobrať	tilbagetrækning	odobrať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+algeriet	alžírska	algeri	alžírsky	N;DEF;NEUT;SG	ADJ;NOM;FEM;SG
+algeriet	alžírsko	algeri	alžírsko	N;DEF;NEUT;SG	ADV
+mus	myší	mus	myšať	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+mus	myšiach	mus	myšiť	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+virkelighed	reality	virkelighed	realita	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+virkelighed	reality	virkelighed	realita	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+über	über	über	hber	V;IND;PST;FIN;ACT	PROPN;ANIM;ACC;MASC;SG
+grundloven	ústavy	grundlov	ústav	N;DEF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+cleveland	clevelande	cleveland	clevelande		N;NOM;FEM;SG
+jer	jer	I	jer	PRO;ACC;MASC+FEM;PL;2	PROPN;ANIM;NOM;MASC;SG
+saa	dsp	saa	dsp	ADV	N;INAN;NOM;MASC;SG
+planerne	plánuje	plan	plánovať	N;DEF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+ingrid	ingrid	ingrid	ingrid	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+vanskelig	ťažko	vanskelig	ťažko	ADJ;INDF;MASC+FEM;SG	ADV
+holmes	holmes	holme	holmes	V;NFIN;PASS	PROPN;NOM;FEM;SG
+anbefalede	odporúčame	anbefale	odporúčať	V;IND;PST;FIN;ACT	V;IPFV;IND;PL;1;POS;PRS;FIN
+anbefalede	odporúčané	anbefale	odporúčaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+anbefalede	odporúča	anbefale	odporúčať	V;IND;PST;FIN;ACT	V;IPFV;IND;SG;3;POS;PRS;FIN
+anbefalede	odporúčaný	anbefale	odporúčaný	V;IND;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+anbefalede	odporúčaná	anbefale	odporúčaný	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+marker	políčka	mark	políček	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+marker	označiť	mark	označiť	N;INDF;MASC+FEM;PL	V;PFV;POS;NFIN
+marker	značka	mark	značka	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+marker	mark	mark	mark	N;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+ted	ted	ted	ted		PROPN;ANIM;NOM;MASC;SG
+tree	strom	tree	strom		N;INAN;NOM;MASC;SG
+tree	stromček	tree	stromček		N;INAN;NOM;MASC;SG
+tree	strome	tree	strom		N;INAN;ESS;MASC;SG
+tree	tre	tree	tre		PROPN;ANIM;NOM;MASC;SG
+porto	poštovné	porto	poštovný		ADJ;NOM;NEUT;SG
+porto	porto	porto	porto		PROPN;INAN;NOM;MASC;SG
+enkel	jednoduche	enkel	jednoduch	ADJ;INDF;MASC+FEM;SG	
+balkan	balkán	balkan	balkán		N;NOM;FEM;SG
+balkan	balkánu	balkan	balkán		N;INAN;GEN;MASC;SG
+balkan	balkán	balkan	balkán		N;NOM;FEM;SG
+balkan	balkánu	balkan	balkán		N;INAN;GEN;MASC;SG
+tilbagevendende	opakované	tilbagevendende	opakovaný	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+tilbagevendende	opakovaná	tilbagevendende	opakovaný	V;PRS;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+svaret	odpovedať	svar	odpovedať	N;DEF;NEUT;SG	V;IPFV;POS;NFIN
+edgar	edgar	edgar	edgar		PROPN;ANIM;NOM;MASC;SG
+angels	anjeli	angels	anjeli	N;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+angels	anjelov	angels	anjel	N;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+angels	angels	angels	angels	N;INDF;MASC+FEM;SG	
+dæk	pneumatika	dæk	pneumatika	N;INDF;NEUT;PL	N;NOM;FEM;SG
+dæk	paluba	dæk	paluba	N;INDF;NEUT;PL	N;NOM;FEM;SG
+dæk	palubu	dæk	paluba	N;INDF;NEUT;PL	N;ACC;FEM;SG
+dæk	palube	dæk	paluba	N;INDF;NEUT;PL	N;NOM;FEM;SG
+dæk	kryt	dæk	kryt	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+dæk	cover	dæk	cover	N;INDF;NEUT;PL	
+dæk	zakryť	dæk	zakryť	N;INDF;NEUT;PL	V;PFV;POS;NFIN
+dæk	krytie	dæk	krytie	N;INDF;NEUT;PL	N;NOM;NEUT;SG
+dæk	pokrytie	dæk	pokrytie	N;INDF;NEUT;PL	N;NOM;NEUT;SG
+dæk	pneumatika	dæk	pneumatika	N;INDF;NEUT;PL	N;NOM;FEM;SG
+nhl	nhl	nhl	nhl	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+metropolitan	metropolitná	metropolitan	metropolitný	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+drømme	sen	drøm	sen	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+drømme	snívať	drøm	snívať	N;INDF;MASC+FEM;PL	V;IPFV;POS;NFIN
+drømme	dream	drøm	dream	N;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+drømme	sna	drøm	sen	N;INDF;MASC+FEM;PL	N;INAN;GEN;MASC;SG
+drømme	snívať	drøm	snívať	N;INDF;MASC+FEM;PL	V;IPFV;POS;NFIN
+drømme	sníva	drøm	snívať	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+kanten	hrany	kant	hrana	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+neil	neil	neil	neiť		PROPN;ANIM;NOM;MASC;SG
+duo	duo	duo	duo		PROPN;ANIM;NOM;MASC;SG
+hjulpet	pomohli	hjælpe	pomôcť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+registrerede	registrovaných	registrere	registrovaný	V;PL;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+registrerede	registrované	registrere	registrovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+registrerede	zapísané	registrere	zapísaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+registrerede	zaregistrované	registrere	zaregistrovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+registrerede	registrovaný	registrere	registrovaný	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+eyes	oči	eyes	oko		N;NOM;NEUT;PL
+eyes	očká	eyes	očko		N;NOM;NEUT;PL
+eyes	očí	eyes	oko		N;GEN;NEUT;PL
+eyes	očami	eyes	oko		N;INS;NEUT;PL
+gulvet	podlahové	gulv	podlahový	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG
+estisk	estónska	estisk	estónsky	ADJ;INDF;SG	PROPN;NOM;FEM;SG
+maryland	marylande	maryland	marylande		N;INAN;NOM;MASC;SG
+bemærkelsesværdige	pozoruhodné	bemærkelsesværdig	pozoruhodný	ADJ;PL	ADJ;NOM;NEUT;SG
+bemærkelsesværdige	pozoruhodný	bemærkelsesværdig	pozoruhodný	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+bemærkelsesværdige	pozoruhodné	bemærkelsesværdig	pozoruhodný	ADJ;PL	ADJ;NOM;NEUT;SG
+bemærkelsesværdige	pozoruhodné	bemærkelsesværdig	pozoruhodný	ADJ;PL	ADJ;NOM;NEUT;SG
+buenos	buenos	bue	buenos	N;DEF;MASC+FEM;SG	PROPN;NOM;MASC;SG
+skulpturer	socha	skulptur	socha	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+brande	oheň	brand	oheň	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+brande	horí	brand	horieť	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+brande	požiar	brand	požiar	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+control	kontrola	control	kontrola		N;NOM;FEM;SG
+control	ovládanie	control	ovládanie		N;NOM;NEUT;SG
+control	ovládať	control	ovládať		V;IPFV;POS;NFIN
+control	kontrolovať	control	kontrolovať		V;IPFV;POS;NFIN
+eduard	eduard	eduard	eduard		PROPN;ANIM;NOM;MASC;SG
+oklahoma	oklahoma	oklahoma	oklah		N;INAN;NOM;MASC;SG
+sjæl	soul	sjæl	soul	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+grafisk	grafické	grafisk	grafický	ADV	ADJ;NOM;NEUT;SG
+grafisk	grafický	grafisk	grafický	ADV	ADJ;ANIM;NOM;MASC;SG
+grafisk	grafické	grafisk	grafický	ADV	ADJ;NOM;NEUT;SG
+grafisk	grafický	grafisk	grafický	ADV	ADJ;ANIM;NOM;MASC;SG
+grafisk	grafiku	grafisk	grafik	ADV	N;ACC;FEM;SG
+grafisk	grafické	grafisk	grafický	ADV	ADJ;NOM;NEUT;SG
+grafisk	grafika	grafisk	grafika	ADV	N;NOM;FEM;SG
+flot	pekny	flot	pekny	ADJ;INDF;SG	N;ANIM;NOM;MASC;SG
+flot	pekne	flot	pekne	ADJ;INDF;SG	ADV
+flot	nice	flot	nica	ADJ;INDF;SG	PROPN;ANIM;NOM;MASC;SG
+flot	fešáci	flot	fešác	ADJ;INDF;SG	N;ANIM;NOM;MASC;PL
+sierra	sierra	sierra	sierra		N;NOM;FEM;SG
+frigivet	prepustená	frigiv	prepustený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+frigivet	uvoľnená	frigiv	uvoľnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+frigivet	uvoľnené	frigiv	uvoľnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+frigivet	prepustený	frigiv	prepustený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+nazistiske	nacistické	nazistisk	nactistický	ADJ;PL	ADJ;NOM;NEUT;SG
+menighed	kongregácie	menighed	kongregácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+aktion	akcie	aktion	akcia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+aktion	akčné	aktion	akčný	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+tung	tung	tung	tung	ADJ;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+trænet	trénovaný	træne	trénovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+trænet	vyškolení	træne	vyškolenie	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+byzantinske	byzantský	byzantinsk	byzantský	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+forventet	očakávaný	forvente	očakávaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+forventet	očakávaná	forvente	očakávaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+forventet	predpokladaný	forvente	predpokladaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+forventet	očakávané	forvente	očakávaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forventet	očakáva	forvente	očakávať	V;INDF;SG;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PRS;FIN
+harrison	harrison	harrison	harrison		PROPN;ANIM;NOM;MASC;SG
+gaza	gaze	gaza	gaza	PROPN	N;NOM;FEM;SG
+grey	šedá	grey	šedý		N;NOM;FEM;SG
+grey	sivý	grey	sivý		ADJ;ANIM;NOM;MASC;SG
+grey	grey	grey	grey		PROPN;NOM;FEM;SG
+grey	šedé	grey	šedý		N;NOM;NEUT;SG
+grey	sivá	grey	sivý		ADJ;NOM;FEM;SG
+grey	sivé	grey	sivý		ADJ;NOM;NEUT;SG
+pyrénées	pyrénées	pyrknée	pyrénés	N;GEN;INDF;MASC+FEM;PL	
+aires	aires	aires	aires	PROPN	PROPN;INAN;NOM;MASC;SG
+raf	raf	raf	raf	PROPN	PROPN;ANIM;NOM;MASC;SG
+sigt	zamieriť	sigt	zamieriť	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+kirk	kirk	kirk	kirk		PROPN;ANIM;NOM;MASC;SG
+essays	eseje	essay	esej	N;INDF;NEUT;SG	N;NOM;FEM;PL
+racing	preteky	racing	preteky		N;INAN;NOM;MASC;PL
+racing	závodná	racing	závodný		ADJ;NOM;FEM;SG
+racing	pretekať	racing	pretekať		V;IPFV;POS;NFIN
+racing	dostihy	racing	dostiha		N;INAN;NOM;MASC;SG
+jamie	jamie	jamie	jamie		PROPN;ANIM;NOM;MASC;SG
+kontrollerede	kontrolovaný	kontrollere	kontrolovaný	V;PL;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+kontrollerede	riadený	kontrollere	riadený	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+kontrollerede	kontrolovaných	kontrollere	kontrolovaný	V;PL;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+kontrollerede	kontrolované	kontrollere	kontrolovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kontrollerede	kontrolovaná	kontrollere	kontrolovaný	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+kontrollerede	riadené	kontrollere	riadený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+hunter	hunter	hunte	hunter	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+hunter	lovec	hunte	lovec	N;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+elskede	milovaná	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+elskede	milovaný	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+elskede	milovaná	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+elskede	milovaní	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+elskede	milovaný	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+elskede	milované	elske	milovaný	V;DEF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+dramatiske	dramatický	dramatisk	dramatický	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+dramatiske	dramatické	dramatisk	dramatický	ADJ;PL	ADJ;NOM;NEUT;SG
+farlig	nebezpečných	farlig	nebezpečný	ADJ;INDF;MASC+FEM;SG	ADJ;GEN;MASC;PL
+kontroversielle	kontroverzné	kontroversiel	kontroverzný	ADJ;PL	ADJ;NOM;NEUT;SG
+revolutionære	revolučná	revolutionær	revolučný	ADJ;PL	ADJ;NOM;FEM;SG
+revolutionære	revolucionári	revolutionær	revolucionár	ADJ;PL	N;ANIM;NOM;MASC;PL
+bedt	modlili	bede	modliť	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+woman	ženská	woman	ženský		ADJ;NOM;FEM;SG
+woman	zena	woman	zena		
+woman	žena	woman	žena		N;NOM;FEM;SG
+philippe	philippe	philippe	philippa		PROPN;ANIM;NOM;MASC;SG
+fugl	bird	fugl	bird	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+udenlandsk	cudzích	udenlandsk	cudzí	ADJ;INDF;SG	ADJ;GEN;MASC;PL
+them	nich	them	on		PRO;ANIM;ACC;MASC;PL;3
+them	ich	them	on		PRO;NOM;MASC;PL;3
+them	ne	them	ono		PRO;NOM;MASC;PL;3
+heaven	neba	heaven	nebo		N;GEN;NEUT;SG
+heaven	nebesá	heaven	byť		N;NOM;NEUT;PL
+heaven	nebo	heaven	nebo		N;NOM;NEUT;SG
+istanbul	istanbule	istanbul	istanbule	PROPN	ADV
+celle	cely	celle	cela	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+celle	bunky	celle	bunka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+celle	cele	celle	cela	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+download	stiahnutie	download	stiahnutie	V;IMP	N;NOM;NEUT;SG
+download	sťahovanie	download	sťahovanie	V;IMP	N;NOM;NEUT;SG
+vidnesbyrd	svedectvá	vidnesbyrd	svedectvo	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+sammenstød	zrážky	sammenstød	zrážok	N;INDF;NEUT;SG	N;NOM;FEM;PL
+sammenstød	clash	sammenstød	clash	N;INDF;NEUT;SG	
+sammenstød	zrážkam	sammenstød	zrážok	N;INDF;NEUT;SG	N;DAT;FEM;PL
+inter	inter	inter	inter		N;INAN;NOM;MASC;SG
+edmund	edmund	edmund	edmunda	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+moses	mojžiš	moses	môjžiť	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+jagerfly	stíhačky	jagerfly	stíhačka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+jagerfly	bojovníci	jagerfly	bojovník	N;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+jagerfly	bojovníkov	jagerfly	bojovník	N;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+pacific	tichomorských	pacific	tichomorský		ADJ;GEN;MASC;PL
+pacific	pacific	pacific	pacific		N;INAN;NOM;MASC;SG
+engel	angel	engel	angel	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+erich	erich	erich	erich	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+myter	mýtus	myte	mýtus	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+frivillig	dobrovoľník	frivillig	dobrovoľník	ADJ;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;SG
+frost	frost	frost	frost	N;INDF;MASC+FEM;SG	
+egon	egon	egon	egon		PROPN;ANIM;NOM;MASC;SG
+sting	sting	sting	sting	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+fusionerede	zlúčené	fusionere	zlúčený	V;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fusionerede	zlúčený	fusionere	zlúčený	V;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+asiatiske	ázijské	asiatisk	ázijský	ADJ;PL	ADJ;NOM;NEUT;SG
+asiatiske	ázie	asiatisk	ázia	ADJ;PL	N;NOM;FEM;PL
+sweet	sladký	swe	sladký		ADJ;ANIM;NOM;MASC;SG
+sweet	sladká	swe	sladký		ADJ;NOM;FEM;SG
+sweet	sladké	swe	sladký		ADJ;NOM;NEUT;SG
+ler	íly	le	íla	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ler	smeje	le	smej	N;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN
+ler	hliny	le	hlina	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ler	clay	le	clay	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+fotografi	fotografie	fotografi	fotografia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+jagten	lovia	jagt	lovieť	N;DEF;MASC+FEM;SG	V;IPFV;IND;PL;3;POS;PRS;FIN
+jagten	loviť	jagt	loviť	N;DEF;MASC+FEM;SG	V;IPFV;POS;NFIN
+jagten	hunt	jagt	hunt	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+jagten	loviť	jagt	loviť	N;DEF;MASC+FEM;SG	V;IPFV;POS;NFIN
+jagten	love	jagt	lov	N;DEF;MASC+FEM;SG	
+bevidsthed	povedomia	bevidsthed	povedomie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+bevidsthed	vedomý	bevidsthed	vedomý	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+bevidsthed	vedomá	bevidsthed	vedomý	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+bevidsthed	vedomé	bevidsthed	vedomý	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+sproglige	jazykovej	sproglig	jazykový	ADJ;PL	ADJ;GEN;FEM;SG
+udkæmpet	bojovali	udkæmpe	bojovať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+houston	houston	houston	houston		PROPN;ANIM;NOM;MASC;SG
+spændende	zaujimave	spændende	zaujimav	ADJ	
+spændende	zaujímavosti	spændende	zaujímavosť	ADJ	N;NOM;FEM;PL
+bombe	bomby	bombe	bomba	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+anmodning	požiadať	anmodning	požiadať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+anmodning	vyžiadať	anmodning	vyžiadať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+flandern	flámsko	flande	flámsko	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+cbs	cbs	cbs	cbs	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+fremstiller	výrobca	fremstille	výrobca	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+fremstiller	výrobcu	fremstille	výrobec	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;SG
+antaget	predpokladá	antage	predpokladať	V;INDF;SG;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PRS;FIN
+antaget	predpokladaná	antage	predpokladaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+behandle	liečbu	behandle	liečba	V;NFIN;ACT	N;ACC;FEM;SG
+patent	patentov	patent	patent	N;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+patent	patenty	patent	patent	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+owen	owen	owen	owen		PROPN;ANIM;NOM;MASC;SG
+rafael	raphael	rafael	raphael		N;ANIM;NOM;MASC;SG
+rafael	rafael	rafael	rafael		N;ANIM;NOM;MASC;SG
+kæden	reťaze	kæde	reťaz	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+skatter	dane	skatter	daň	ADV	N;NOM;FEM;PL
+skatter	daní	skatter	daň	ADV	N;GEN;FEM;PL
+ravn	raven	ravn	raven	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+alabama	alabama	alabama	alabama		N;NOM;FEM;SG
+væbnede	ozbrojená	væbne	ozbrojený	ADJ;PL	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+væbnede	ozbrojený	væbne	ozbrojený	ADJ;PL	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+væbnede	ozbrojené	væbne	ozbrojený	ADJ;PL	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgt	študovali	undersøge	študovať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+undersøgt	skúmaný	undersøge	skúmaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+undersøgt	skúmané	undersøge	skúmaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgt	preskúmané	undersøge	preskúmaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgt	skúmané	undersøge	skúmaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgt	skúmaných	undersøge	skúmaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+organiske	organický	organisk	organický	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+organiske	organické	organisk	organický	ADJ;PL	ADJ;NOM;NEUT;SG
+organiske	organická	organisk	organický	ADJ;PL	ADJ;NOM;FEM;SG
+organiske	ekologické	organisk	ekologický	ADJ;PL	ADJ;NOM;NEUT;SG
+newton	newton	newton	newton		PROPN;ANIM;NOM;MASC;SG
+dybere	hlbší	dybere	hlbý	ADV;CMPR	ADJ;ANIM;NOM;CMPR;MASC;SG
+michelle	michelle	michel	michelle	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+olga	olga	olga	olga		PROPN;NOM;FEM;SG
+romantisk	romantický	romantisk	romantický	ADV	ADJ;ANIM;NOM;MASC;SG
+romantisk	romantické	romantisk	romantický	ADV	ADJ;NOM;NEUT;SG
+romantisk	romantická	romantisk	romantický	ADV	ADJ;NOM;FEM;SG
+romantisk	romantik	romantisk	romantik	ADV	N;ANIM;NOM;MASC;SG
+romantisk	romantika	romantisk	romantika	ADV	N;NOM;FEM;SG
+sevilla	sevilla	sevilla	sevillo	PROPN	N;NOM;FEM;SG
+sevilla	seville	sevilla	seville	PROPN	N;NOM;FEM;SG
+mel	mel	mel	mel	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+ronnie	ronnie	ronnie	ronnie		PROPN;ANIM;NOM;MASC;SG
+opvarmning	vykurovacie	opvarmning	vykurovacie	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;PL
+header	hlavičky	heade	hlavička	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+køb	zakúpiť	køb	zakúpiť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+køb	kúp	køb	kúp	N;INDF;NEUT;SG	V;PFV;IMP;SG;2;POS;FIN
+køb	kúpim	køb	kúp	N;INDF;NEUT;SG	V;PFV;IND;SG;1;POS;PRS;FIN
+køb	kúpiť	køb	kúpiť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+køb	nákupy	køb	nákup	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+køb	kupovať	køb	kupovať	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+statistisk	štatistická	statistisk	štatistický	ADV	ADJ;NOM;FEM;SG
+statistisk	štatistický	statistisk	štatistický	ADV	ADJ;ANIM;NOM;MASC;SG
+statistisk	štatistické	statistisk	štatistický	ADV	ADJ;NOM;NEUT;SG
+afslørede	odhalená	afsløre	odhalený	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afslørede	zjavené	afsløre	zjavený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+afslørede	odhalené	afsløre	odhalený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+trio	trio	trio	trio	N;INDF;MASC+FEM;SG	PROPN;NOM;MASC;SG
+sporten	športový	sport	športový	N;DEF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+sporten	sport	sport	sport	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sporten	športové	sport	športový	N;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+ruth	ruth	ruth	ruth	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+separat	oddelený	separat	oddelený	ADV	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+separat	samostatné	separat	samostatný	ADV	ADJ;NOM;NEUT;SG
+separat	oddelené	separat	oddelený	ADV	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+separat	samostatný	separat	samostatný	ADV	ADJ;ANIM;NOM;MASC;SG
+separat	samostatná	separat	samostatný	ADV	ADJ;NOM;FEM;SG
+wikidata	wikiúdaje	wikidata	wikiúdať		N;NOM;FEM;PL
+stein	stein	stein	stein	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+skulptur	sochy	skulptur	socha	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+pearl	pearl	pearl	pearl	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+trykte	vytlačené	trykte	vytlačený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+trykte	potlačené	trykte	potlačený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+trykte	tlačené	trykte	tlačený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG
+faciliteter	vybavenie	facilitet	vybavenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+godkendte	schválil	godkende	schváliť	V;PL;PST;V.PTCP	V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+godkendte	schválený	godkende	schválený	V;PL;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG
+godkendte	schválená	godkende	schválený	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG
+godkendte	schválené	godkende	schválený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG
+permanente	natrvalo	permanent	natrvať	ADJ;PL	V;PFV;NEUT;SG;POS;PST;V.PTCP
+permanente	trvalý	permanent	trvalý	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+permanente	trvalá	permanent	trvať	ADJ;PL	ADJ;NOM;FEM;SG
+permanente	trvalé	permanent	trvalý	ADJ;PL	ADJ;NOM;NEUT;SG
+permanente	trvalého	permanent	trvalý	ADJ;PL	ADJ;GEN;NEUT;SG
+winston	winston	winston	winston	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+fisker	ryby	fisker	ryba	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+fisker	rybársky	fisker	rybársky	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG
+fisker	rybárske	fisker	rybársky	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+dygtige	talentovaný	dygtig	talentovaný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+dygtige	talentovaná	dygtig	talentovaný	ADJ;PL	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+oldenburg	oldenburg	oldenburg	oldenburg		N;ANIM;NOM;MASC;SG
+beton	konkrétny	beton	konkrétny	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG
+beton	konkrétna	beton	konkrétny	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+beton	konkrétne	beton	konkrétny	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+dortmund	dortmund	dortmund	dortmund	PROPN	N;INAN;NOM;MASC;SG
+kæde	reťaze	kæde	reťaz	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+bureau	agentúry	bureau	agentúra	N;INDF;NEUT;SG	N;NOM;FEM;PL
+police	polície	police	polícia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+police	policajný	police	policajný	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+dragon	draka	dragon	drak		N;ANIM;ACC;MASC;SG
+dragon	dračí	dragon	dračiť		N;ANIM;NOM;MASC;SG
+dragon	drak	dragon	drak		PROPN;ANIM;NOM;MASC;SG
+rede	pripravená	rede	pripravený	N	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+rede	pripravené	rede	pripravený	N	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+rede	pripravení	rede	pripravený	N	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+chopin	chopin	chopin	chopin		N;ANIM;NOM;MASC;SG
+drab	vrážd	drab	vráždo	N;INDF;NEUT;SG	N;GEN;FEM;PL
+drab	vraždy	drab	vražda	N;INDF;NEUT;SG	N;NOM;FEM;PL
+drab	zabíjať	drab	zabíjať	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+gad	gad	gide	gad	V;IND;PST;FIN;ACT	PROPN;ANIM;NOM;MASC;SG
+dale	dale	dal	dale	N;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+pedro	pedro	pedro	pedro		PROPN;ANIM;NOM;MASC;SG
+barry	barry	barry	barra		N;NOM;FEM;SG
+allieret	allied	alliere	allied	V;INDF;SG;PST;V.PTCP	PROPN;NOM;FEM;SG
+allieret	spojenca	alliere	spojenec	V;INDF;SG;PST;V.PTCP	N;ANIM;ACC;MASC;SG
+allieret	spojenec	alliere	spojenec	V;INDF;SG;PST;V.PTCP	N;ANIM;NOM;MASC;SG
+allieret	spojencom	alliere	spojenec	V;INDF;SG;PST;V.PTCP	N;ANIM;INS;MASC;SG
+judas	judáš	judas	judieť		N;ANIM;NOM;MASC;SG
+lufthavne	letisko	lufthavne	letisko	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+lufthavne	letiskové	lufthavne	letiskový	N;INDF;MASC+FEM;PL	ADJ;NOM;NEUT;SG
+small	malá	small	malý		ADJ;NOM;FEM;SG
+small	small	small	small		PROPN;ANIM;NOM;MASC;SG
+small	malý	small	malý		ADJ;ANIM;NOM;MASC;SG
+small	malých	small	malý		N;ANIM;GEN;MASC;PL
+small	malé	small	malý		ADJ;NOM;NEUT;SG
+kentucky	kentucky	kentucky	kentucky		PROPN;ANIM;NOM;MASC;SG
+afløser	náhradné	afløser	náhradný	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+afløser	nahradenia	afløser	nahradenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+nassau	nassau	nassau	nassa	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+proteiner	bielkovina	protein	bielkovina	N;INDF;NEUT;PL	N;NOM;FEM;SG
+proteiner	proteín	protein	proteina	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+simpson	simpson	simpson	simpson		PROPN;ANIM;NOM;MASC;SG
+suppleret	doplnili	supplere	doplniť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+suppleret	doplnené	supplere	doplnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+suppleret	doplneného	supplere	doplnený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;GEN;MASC;SG;POS;V.PTCP;PASS
+suppleret	doplnená	supplere	doplnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+suppleret	doplnené	supplere	doplnený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+suppleret	doplneného	supplere	doplnený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;GEN;MASC;SG;POS;V.PTCP;PASS
+nepal	nepále	nepal	pále	PROPN	PROPN;NOM;MASC;SG
+koncentreret	sústredené	koncentrere	sústredený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+koncentreret	sústredený	koncentrere	sústredený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+koncentreret	koncentrované	koncentrere	koncentrovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+koncentreret	sústredenie	koncentrere	sústredenie	V;INDF;SG;PST;V.PTCP	N;NOM;NEUT;SG
+påstand	nárokovať	påstand	nárokovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+westfalen	vestfálsko	westfale	vestfálsko	N;DEF;MASC+FEM;SG	
+amy	amy	amy	amy	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+walk	kráčať	walk	kráčať		V;IPFV;POS;NFIN
+walk	peši	walk	pešiť		N;GEN;FEM;PL
+walk	chôdza	walk	chôdzať		N;NOM;FEM;SG
+walk	prechádzka	walk	prechádzkať		N;NOM;FEM;SG
+opdagelsesrejsende	explorer	opdagelsesrejsende	explorer	ADJ	N;NOM;MASC;SG
+opdagelsesrejsende	prieskumníci	opdagelsesrejsende	prieskumník	ADJ	N;ANIM;NOM;MASC;PL
+møbler	nábytok	møbel	nábytok	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+rick	rick	rick	rick		PROPN;ANIM;NOM;MASC;SG
+rick	ricka	rick	rick		N;ANIM;ACC;MASC;SG
+neutrale	neutrálny	neutral	neutrálny	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+neutrale	neutrálna	neutral	utrálny	ADJ;PL	ADJ;NOM;FEM;SG
+neutrale	neutrálne	neutral	utrálny	ADJ;PL	ADV
+rob	rob	rob	rob		PROPN;ANIM;VOC;MASC;SG
+omfattet	zahrnúť	omfatte	zahrnúť	N;DEF;NEUT;SG	V;PFV;POS;NFIN
+omfattet	zaradené	omfatte	zaradený	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+omfattet	zahrnuté	omfatte	zahrnutý	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+omfattet	zahrnutý	omfatte	zahrnutý	N;DEF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+omfattet	zakryté	omfatte	zakrytý	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+omfattet	pokryté	omfatte	pokrytý	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+omfattet	pokrytý	omfatte	pokrytý	N;DEF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+kriminelle	trestné	kriminel	trestný	ADJ;PL	ADJ;NOM;NEUT;SG
+kriminelle	zločinec	kriminel	zločinec	ADJ;PL	N;ANIM;NOM;MASC;SG
+kriminelle	trestná	kriminel	trestný	ADJ;PL	ADJ;NOM;FEM;SG
+kriminelle	zločincov	kriminel	zločinec	ADJ;PL	N;ANIM;ACC;MASC;PL
+kriminelle	zločinci	kriminel	zločinec	ADJ;PL	N;ANIM;NOM;MASC;PL
+kriminelle	kriminálnikov	kriminel	kriminálnik	ADJ;PL	N;ANIM;ACC;MASC;PL
+forøget	zvýšený	forøge	zvýšený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+forøget	zvýšená	forøge	zvýšený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+forøget	zvýšenie	forøge	zvýšenie	V;INDF;SG;PST;V.PTCP	N;NOM;NEUT;SG
+forøget	zvýšené	forøge	zvýšený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+regelmæssige	pravidelné	regelmæssig	pravidelný	ADJ;PL	ADJ;NOM;NEUT;SG
+regelmæssige	pravidelná	regelmæssig	pravidelný	ADJ;PL	ADJ;NOM;FEM;SG
+regelmæssige	pravidelne	regelmæssig	pravidelne	ADJ;PL	ADV
+regelmæssige	pravidelný	regelmæssig	pravidelný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+cypern	cyperská	cypern	cyperský	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+halve	polovice	halv	polovica	ADJ;PL	N;NOM;FEM;PL
+mitsubishi	mitsubishi	mitsubishi	mitsubis		N;INAN;NOM;MASC;SG
+skarpe	ostrý	skarp	ostrý	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+skarpe	ostré	skarp	ostrý	ADJ;PL	ADJ;NOM;NEUT;SG
+skarpe	ostro	skarp	ostro	ADJ;PL	ADV
+skarpe	ostrá	skarp	ostrať	ADJ;PL	ADJ;NOM;FEM;SG
+kriminalitet	zločiny	kriminalitet	zločin	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+undervist	učili	undervist	učiť	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+batteri	batérie	batteri	batéria	N;INDF;NEUT;SG	N;NOM;FEM;PL
+batteri	akumulátory	batteri	akumulátor	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+batteri	batérie	batteri	batéria	N;INDF;NEUT;SG	N;NOM;FEM;PL
+batteri	batérií	batteri	batérium	N;INDF;NEUT;SG	N;GEN;FEM;PL
+batteri	baterky	batteri	baterka	N;INDF;NEUT;SG	N;NOM;FEM;PL
+mur	steny	mur	stena	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+mur	wall	mur	wall	N;INDF;MASC+FEM;SG	
+motors	motors	motors	motors		N;INAN;NOM;MASC;SG
+motors	motory	motors	motor		N;INAN;NOM;MASC;PL
+passede	spôsobilý	passe	spôsobilý	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG
+passede	fit	passe	fit	V;IND;PST;FIN;ACT	N;INAN;NOM;MASC;SG
+cia	cia	cia	cia		PROPN;ANIM;NOM;MASC;SG
+cia	cia	cia	cia		PROPN;ANIM;NOM;MASC;SG
+forberede	príprava	forbere	príprava	V;NFIN;ACT	N;NOM;FEM;SG
+lissabon	lisabon	lissabon	lisabon		N;INAN;NOM;MASC;SG
+lissabon	lisabonská	lissabon	lisabonský		ADJ;NOM;FEM;SG
+lissabon	lisabonskej	lissabon	lisabonský		ADJ;GEN;FEM;SG
+lissabon	lisabonu	lissabon	lisabon		N;INAN;GEN;MASC;SG
+grace	pôvab	grace	pôvab		N;INAN;NOM;MASC;SG
+grace	grace	grace	grace		PROPN;NOM;FEM;SG
+grace	milosti	grace	milosť		N;NOM;FEM;PL
+grace	milosť	grace	milosť		N;NOM;FEM;SG
+sct	sct	sct	sct	N;INDF;MASC+FEM;SG	
+tusind	tisíc	tusind	tisíc	N;INDF;NEUT;SG	NUM;NOM;NEUT;SG
+templet	temple	temple	templo	N;DEF;NEUT;SG	PROPN;NOM;FEM;SG
+håbet	dúfajúc	håb	dúfať	N;DEF;NEUT;SG	V;IPFV;POS;V.CVB
+håbet	dúfajú	håb	dúfať	N;DEF;NEUT;SG	V;IPFV;IND;PL;3;POS;PRS;FIN
+håbet	dúfala	håb	dúfať	N;DEF;NEUT;SG	V;IPFV;FEM;SG;POS;PST;V.PTCP
+håbet	dúfali	håb	dúfať	N;DEF;NEUT;SG	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+håbet	dúfal	håb	dúfať	N;DEF;NEUT;SG	V;ANIM;IPFV;MASC;SG;POS;PST;V.PTCP
+indlagt	hospitalizovaný	indlægge	hospitalizovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+indlagt	hospitalizovaných	indlægge	hospitalizovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+indlagt	prijatý	indlægge	prijatý	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+indlagt	prijaté	indlægge	prijatý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+indlagt	prijatá	indlægge	prijatý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+reform	reformovať	reform	reformovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+reform	reformovať	reform	reformovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+videnskabeligt	vedecký	videnskabelig	vedecký	ADV	ADJ;INAN;NOM;MASC;SG
+videnskabeligt	vedecká	videnskabelig	vedecký	ADV	ADJ;NOM;FEM;SG
+videnskabeligt	vedecké	videnskabelig	vedecký	ADV	ADJ;NOM;NEUT;SG
+missioner	poslanie	mission	poslanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+psykisk	médium	psykisk	médium	ADJ;INDF;SG	N;NOM;NEUT;SG
+psykisk	mentálne	psykisk	mentálne	ADJ;INDF;SG	ADV
+psykisk	duševne	psykisk	duševne	ADJ;INDF;SG	ADV
+psykisk	mentálne	psykisk	mentálne	ADJ;INDF;SG	ADV
+psykisk	duševne	psykisk	duševne	ADJ;INDF;SG	ADV
+psykisk	psychicky	psykisk	psychicky	ADJ;INDF;SG	ADV
+clara	clara	clara	clara		N;NOM;FEM;SG
+clara	klára	clara	klár		N;NOM;FEM;SG
+beskadiget	poškodený	beskadige	poškodený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+beskadiget	poškodená	beskadige	poškodený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+beskadiget	poškodené	beskadige	poškodený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+rudolph	rudolph	rudolph	rudol	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+ward	ward	ward	ward		PROPN;ANIM;NOM;MASC;SG
+modtagelse	prijatí	modtagelse	prijatie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+modtagelse	užívajúcich	modtagelse	užívajúci	N;INDF;MASC+FEM;SG	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;ACT
+support	support	support	support	N;INDF;MASC+FEM;SG	INTJ
+support	podporiť	support	podporiť	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+support	podporovať	support	podporovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+hævet	zvýšený	hæve	zvýšený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+hævet	vznesené	hæve	vznesený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+hævet	vychovaný	hæve	vychovať	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+manuelt	manuál	manuel	manuál	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+manuelt	manuálne	manuel	manuálny	ADJ;INDF;SG	ADV
+manuelt	príručka	manuel	príručka	ADJ;INDF;SG	N;NOM;FEM;SG
+manuelt	príručke	manuel	príručka	ADJ;INDF;SG	N;DAT;FEM;SG
+manuelt	manuálne	manuel	manuálny	ADJ;INDF;SG	ADV
+manuelt	ručne	manuel	ručne	ADJ;INDF;SG	ADV
+inn	inn	inn	inn		N;INAN;NOM;MASC;SG
+atmosfæren	atmosféry	atmosfær	atmosféra	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+magic	magické	magic	magický		ADJ;NOM;NEUT;SG
+magic	magic	magic	magic		PROPN;NOM;MASC;SG
+magic	čary	magic	čary		N;NOM;FEM;PL
+magic	mágia	magic	mágia		N;NOM;FEM;SG
+magic	kúzlo	magic	kúzlo		N;NOM;NEUT;SG
+betragtede	posudzované	betragte	posudzovaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+racer	pretekár	race	pretekár	N;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+boksning	box	boksning	box	N;INDF;MASC+FEM;SG	
+iau	iau	iau	iau		N;NOM;MASC;SG
+specialiseret	špecializovaných	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+specialiseret	špecializované	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+specialiseret	špecializovaná	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+specialiseret	špecializovaný	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+specialiseret	špecializované	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+specialiseret	špecializovaná	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+specialiseret	špecializovaný	specialisere	špecializovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+voice	hlas	voice	hlas		N;INAN;NOM;MASC;SG
+voice	hlasové	voice	hlasový		ADJ;NOM;NEUT;SG
+cameron	cameron	cameron	cameron	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+fastholdt	udržiavané	fastholde	udržiavaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fastholdt	zachované	fastholde	zachovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fastholdt	udržiavaná	fastholde	udržiavaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+øre	ucha	øre	ucho	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+øre	uši	øre	ucho	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+øre	ušami	øre	ucho	N;INDF;MASC+FEM;SG	N;INS;NEUT;PL
+øre	uší	øre	ucho	N;INDF;MASC+FEM;SG	N;GEN;NEUT;PL
+walt	walt	walt	walt		PROPN;ANIM;NOM;MASC;SG
+hudson	hudson	hudson	hudson		PROPN;ANIM;NOM;MASC;SG
+schwerin	schwerin	schwerin	schwerin	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+rapporterede	nahlásené	rapportere	nahlásený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+rapporterede	hlásené	rapportere	hlásený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+susan	susan	susan	susan	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+elben	labe	elben	laba	PROPN	PROPN;NOM;FEM;SG
+karsten	karsten	karsten	karsten	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+triple	trojnásobok	triple	trojnásobok		N;NOM;FEM;SG
+triple	triple	triple	tripnúť		N;NOM;FEM;SG
+klassificeret	klasifikovaný	klassificere	klasifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+klassificeret	utajované	klassificere	utajovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+klassificeret	klasifikované	klassificere	klasifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+sædvanlige	zvyčajný	sædvanlig	zvyčajný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+sædvanlige	obvyklé	sædvanlig	obvyklý	ADJ;PL	ADJ;NOM;NEUT;SG
+sædvanlige	zvyčajne	sædvanlig	zvyčajne	ADJ;PL	ADV
+taber	porazený	tabe	porazený	V;IND;PRS;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+broadway	broadway	broadway	broadwa	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+armenien	arménskej	armenie	arménsky	N;DEF;MASC+FEM;SG	ADJ;GEN;FEM;SG
+armenien	arménska	armenie	arménsky	N;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+armenien	arménska	armenie	arménsky	N;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+tropiske	tropické	tropisk	tropický	ADJ;PL	ADJ;NOM;NEUT;SG
+tropiske	tropického	tropisk	tropický	ADJ;PL	ADJ;GEN;NEUT;SG
+hand	ruka	hand	ruka		N;NOM;FEM;SG
+hand	ručné	hand	ručný		ADJ;NOM;NEUT;SG
+hand	rukou	hand	ruka		N;INS;FEM;SG
+hand	ruku	hand	ruka		N;ACC;FEM;SG
+munch	munch	munch	mun		N;ANIM;NOM;MASC;SG
+busk	bush	busk	bush	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+rapporter	správa	rapport	správa	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+rapporter	hlásiť	rapport	hlásiť	N;INDF;MASC+FEM;PL	V;IPFV;POS;NFIN
+rapporter	hlásenie	rapport	hlásenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+rapporter	nahlásiť	rapport	nahlásiť	N;INDF;MASC+FEM;PL	V;PFV;POS;NFIN
+kompleks	komplex	kompleks	komplex	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+fænomener	jav	fænomene	jav	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+fænomener	fenomén	fænomene	fenomén	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+koncept	koncepcie	koncept	koncepcia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+wallace	wallace	wallace	wallaci	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+glenn	glenn	glenn	glenn		PROPN;ANIM;NOM;MASC;SG
+eksport	exportovať	eksport	exportovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+lært	učili	lære	učiť	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+elite	elity	elite	elity	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+elite	elite	elite	elita	N;INDF;MASC+FEM;SG	
+nedsatte	znížená	nedsat	znížený	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+nedsatte	znížené	nedsat	znížený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+nedsatte	znížený	nedsat	znížený	V;PL;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+kørsel	jazdy	kørsel	jazda	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ment	myslené	mene	myslený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+jules	jules	jules	jules	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+bloch	bloch	bloch	byť	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+legendariske	legendárna	legendarisk	legendárny	ADJ;PL	ADJ;NOM;FEM;SG
+legendariske	legendárny	legendarisk	legendárny	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+memorial	pamätník	memorial	pamätník		N;INAN;NOM;MASC;SG
+memorial	memorial	memorial	memoriať		PROPN;ANIM;NOM;MASC;SG
+polo	polo	polo	polo	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+frugter	ovocia	frugte	ovoc	N;INDF;MASC+FEM;PL	N;GEN;NEUT;SG
+frugter	ovocia	frugte	ovoc	N;INDF;MASC+FEM;PL	N;GEN;NEUT;SG
+tunesien	tunisko	tunesien	tunisko	PROPN	N;NOM;NEUT;SG
+tunesien	tunisku	tunesien	tunisko	PROPN	N;DAT;NEUT;SG
+tunesien	tuniska	tunesien	tunisko	PROPN	N;NOM;NEUT;SG
+tunesien	tuniský	tunesien	tuniský	PROPN	ADJ;ANIM;NOM;MASC;SG
+hood	hood	hood	hood	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+tobias	tobias	tobias	tobias	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+anklager	žalobca	anklage	žalobec	N;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+anklager	prokurátora	anklage	prokurátor	N;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;SG
+anklager	prokurátor	anklage	prokurátor	N;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;SG
+peters	peters	peters	peters		PROPN;ANIM;NOM;MASC;SG
+venezuela	venezuelskej	venezuela	venezuelský		ADJ;GEN;FEM;SG
+venezuela	venezuela	venezuela	venezuiť		N;NOM;FEM;SG
+alexandria	alexandrii	alexandria	alexandria		N;DAT;FEM;SG
+ride	jazdenie	ride	jazdenie	V;NFIN;ACT	N;NOM;NEUT;SG
+ride	jazda	ride	jazda	V;NFIN;ACT	N;NOM;FEM;SG
+ride	odvoz	ride	odvoz	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+ride	jazdu	ride	jazda	V;NFIN;ACT	N;ACC;FEM;SG
+ride	jazda	ride	jazda	V;NFIN;ACT	N;NOM;FEM;SG
+forklarede	vysvetlené	forklare	vysvetlený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+samtale	konverzácie	samtale	konverzácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ridge	hrebeň	ridge	hrebeň		N;INAN;NOM;MASC;SG
+ridge	ridge	ridge	ridga		PROPN;ANIM;NOM;MASC;SG
+classic	klasika	classic	klasik		N;NOM;FEM;SG
+classic	klasická	classic	klasický		ADJ;NOM;FEM;SG
+classic	klasický	classic	klasický		ADJ;ANIM;NOM;MASC;SG
+classic	klasické	classic	klasický		ADJ;NOM;NEUT;SG
+ritualer	rituál	ritual	rituál	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+sekund	druhá	sekund	druhý	N;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+sekund	druhé	sekund	druhý	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+sekund	druhe	sekund	druh	N;INDF;NEUT;SG	ADJ;INAN;NOM;MASC;SG
+sekund	druhý	sekund	druhý	N;INDF;NEUT;SG	ADJ;INAN;NOM;MASC;SG
+mændene	men	mand	men	N;DEF;MASC+FEM;PL	
+statsborgerskab	občianstva	statsborgerskab	občianstvo	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+newcastle	newcastle	newcastel	newcastle		PROPN;NOM;NEUT;SG
+fyldte	plnené	fylde	plnený	V;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fyldte	vyplnený	fylde	vyplnený	V;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+fyldte	naplnený	fylde	naplnený	V;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+fyldte	naplnená	fylde	naplnený	V;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+fyldte	plnené	fylde	plnený	V;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fyldte	vyplnené	fylde	vyplnený	V;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+ontario	ontario	ontario	ontario		PROPN;ANIM;NOM;MASC;SG
+åndelige	duchovný	åndelig	duchovný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+åndelige	duchovného	åndelig	duchovný	ADJ;PL	ADJ;ANIM;GEN;MASC;SG
+åndelige	duchovné	åndelig	duchovný	ADJ;PL	ADJ;NOM;NEUT;SG
+panzer	panzer	panze	panzer	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+tropperne	vojsko	trop	vojsko	N;DEF;MASC+FEM;PL	N;NOM;NEUT;SG
+svendsen	svendsen	svends	svendsen	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+gottorp	gottorp	gottorp	gottorp	PROPN	N;INAN;NOM;MASC;SG
+særskilt	oddelene	særskilt	oddelene	ADJ;INDF;SG	ADV
+særskilt	samostatne	særskilt	samostatne	ADJ;INDF;SG	ADV
+højdepunkt	zdôrazniť	højdepunkt	zdôrazniť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+højdepunkt	zvýrazniť	højdepunkt	zvýrazniť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+formodes	predpokladaná	formode	predpokladaný	V;PRS;NFIN;PASS	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+formodes	predpokladaný	formode	predpokladaný	V;PRS;NFIN;PASS	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+formodes	predpokladané	formode	predpokladaný	V;PRS;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kommunistisk	komunistická	kommunistisk	komunistický	ADV	ADJ;NOM;FEM;SG
+kommunistisk	komunista	kommunistisk	komunista	ADV	N;ANIM;NOM;MASC;SG
+sko	obuv	sko	obuv	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+sko	topánku	sko	topánka	N;INDF;MASC+FEM;PL	N;ACC;FEM;SG
+sko	topánka	sko	topánka	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+bakken	hill	bakke	hill	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+simpelt	jednoduche	simpel	jednoduch	ADJ	
+ikast	ikast	ikast	ikast		N;NOM;MASC;SG
+opererer	prevádzkové	operere	prevádzkový	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG
+opererer	prevádzková	operere	prevádzkový	V;IND;PRS;FIN;ACT	ADJ;NOM;FEM;SG
+mælk	mlieka	mælk	mlieko	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+track	koľaj	track	koľať		N;NOM;FEM;SG
+track	koľaje	track	koľať		N;NOM;FEM;PL
+track	trať	track	trať		N;NOM;FEM;SG
+track	sledovať	track	sledovať		V;IPFV;POS;NFIN
+intelligens	inteligencia	intellig	inteligencia	N;GEN;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+intelligens	spravodajstvo	intellig	spravodajstvo	N;GEN;INDF;MASC+FEM;SG	N;NOM;NEUT;SG
+intelligens	inteligenciu	intellig	inteligencia	N;GEN;INDF;MASC+FEM;SG	N;ACC;FEM;SG
+intelligens	spravodajská	intellig	spravodajský	N;GEN;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+eastwood	eastwood	eastwood	eastwood		PROPN;ANIM;NOM;MASC;SG
+virus	vírusy	virus	vírus	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+virus	vírusov	virus	vírus	N;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+virus	vírusy	virus	vírus	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+marcel	marcela	marcel	marcieť		N;ANIM;NOM;MASC;SG
+marcel	marcel	marcel	marcieť		N;ANIM;NOM;MASC;SG
+leonard	leonard	leonard	leonard		N;ANIM;NOM;MASC;SG
+halle	halle	halle	hallí	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+birger	birger	birger	birger	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+seattle	seattle	seattle	seattľa		PROPN;ANIM;NOM;MASC;SG
+seattle	seattli	seattle	seattľnúť		PROPN;ANIM;NOM;MASC;SG
+mozart	mozart	mozart	mozart		N;ANIM;NOM;MASC;SG
+adm	adm	adm	adm	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+korstog	výpravy	korstog	výprava	N;INDF;NEUT;SG	N;NOM;FEM;PL
+evil	zlo	evil	zlo		N;NOM;NEUT;SG
+evil	zla	evil	zlo		N;GEN;NEUT;SG
+evil	zlom	evil	zlom		N;INS;NEUT;SG
+dylan	dylan	dylan	dylan		PROPN;ANIM;NOM;MASC;SG
+vision	vízie	vision	víziať	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+vision	videnia	vision	videnie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+statsborger	občan	statsborger	občan	ADJ;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;SG
+statsborger	občana	statsborger	občan	ADJ;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;SG
+definerer	definovanie	definere	definovanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+definerer	vymedzenie	definere	vymedzenie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+definerer	definovanie	definere	definovanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+brasilianske	brazílsky	brasiliansk	brazílsky	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+siddepladser	sedenie	siddeplads	sedenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+zulu	zulu	zulu	zula		PROPN;ANIM;NOM;MASC;SG
+beat	beat	beat	beat	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+beat	biť	beat	biť	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+beat	poraziť	beat	poraziť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+gradvis	postupné	gradvis	postupný	ADV	ADJ;NOM;NEUT;SG
+gradvis	postupný	gradvis	postupný	ADV	ADJ;INAN;NOM;MASC;SG
+winter	zime	winter	zimať		ADV
+winter	zimný	winter	zimný		ADJ;INAN;NOM;MASC;SG
+winter	zimná	winter	zimný		ADJ;NOM;FEM;SG
+winter	zima	winter	zima		N;NOM;FEM;SG
+winter	zimné	winter	zimný		ADJ;NOM;NEUT;SG
+vinden	veterná	vind	veterný	N;DEF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+peace	pokoj	peace	pokoj		N;INAN;NOM;MASC;SG
+peace	mier	peace	mier		N;INAN;NOM;MASC;SG
+peace	peace	peace	peace		INTJ
+peace	mieru	peace	mier		N;ACC;FEM;SG
+ralph	ralph	ralph	ralp		PROPN;ANIM;NOM;MASC;SG
+matcher	zápasy	matcher	zápas	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+matcher	zhody	matcher	zhod	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+matcher	zhoda	matcher	zhoda	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+matcher	zápalky	matcher	zápalka	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+matcher	porovnávanie	matcher	porovnávanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+matcher	zhodné	matcher	zhodný	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG
+matcher	zodpovedajúce	matcher	zodpovedajúci	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT
+matcher	zodpovedajúca	matcher	zodpovedajúci	V;IND;PRS;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;ACT
+matcher	zápas	matcher	zápas	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+matcher	zhoda	matcher	zhoda	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+matcher	zhody	matcher	zhod	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+vedrører	obavy	vedrøre	obava	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+vedrører	obáv	vedrøre	obávať	V;IND;PRS;FIN;ACT	N;GEN;FEM;PL
+vedrører	znepokojenie	vedrøre	znepokojenie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+tilbyde	ponuka	tilbyde	ponuka	V;NFIN;ACT	N;NOM;FEM;SG
+tilbyde	ponuku	tilbyde	ponuka	V;NFIN;ACT	N;ACC;FEM;SG
+fejlagtigt	omylom	fejlagtigt	omyl	ADV	N;INAN;INS;MASC;SG
+hope	nádej	hope	nádej		N;NOM;FEM;SG
+regelmæssigt	pravidelné	regelmæssigt	pravidelný	ADV	ADJ;NOM;NEUT;SG
+regelmæssigt	pravidelná	regelmæssigt	pravidelný	ADV	ADJ;NOM;FEM;SG
+regelmæssigt	pravidelný	regelmæssigt	pravidelný	ADV	ADJ;ANIM;NOM;MASC;SG
+nævne	zmienka	nævne	zmienka	V;NFIN;ACT	N;NOM;FEM;SG
+renæssance	renesancie	renæssance	renesancie	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+finansieret	financovaný	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+finansieret	financovaná	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+finansieret	financované	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+finansieret	financovaný	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+finansieret	financovaná	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+finansieret	financované	finansiere	financovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+akt	act	akt	act	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+akt	konať	akt	konať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+personale	zamestnanci	personal	zamestnanec	ADJ;PL	N;ANIM;NOM;MASC;PL
+personale	personál	personal	personál	ADJ;PL	N;INAN;NOM;MASC;SG
+personale	personálne	personal	personálne	ADJ;PL	ADV
+personale	zamestnanci	personal	zamestnanec	ADJ;PL	N;ANIM;NOM;MASC;PL
+personale	personál	personal	personál	ADJ;PL	N;INAN;NOM;MASC;SG
+halen	chvosty	han	chvost	N;DEF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+happy	šťastný	happy	šťastný		ADJ;ANIM;NOM;MASC;SG
+happy	šťastne	happy	šťastne		ADV
+happy	šťastné	happy	šťastný		ADJ;NOM;NEUT;SG
+ansøgning	aplikácie	ansøgning	aplikácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ansøgning	prihlášky	ansøgning	prihláška	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ansøgning	aplikácií	ansøgning	aplikácia	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+ansøgning	aplikácie	ansøgning	aplikácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ansøgning	žiadosti	ansøgning	žiadosť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+command	veliteľstvo	command	veliteľstvo		N;NOM;NEUT;SG
+command	príkaz	command	príkaz		N;INAN;NOM;MASC;SG
+command	velenie	command	velenie		N;NOM;NEUT;SG
+joakim	joakim	joakim	joaki		N;INAN;NOM;MASC;SG
+joakim	scrooge	joakim	scrogga		PROPN;ANIM;NOM;MASC;SG
+genopbygget	zrekonštruovaného	genopbygget	zrekonštruovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;SG;POS;V.PTCP;PASS
+hemmelig	secret	hemmelig	secret	ADJ;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+hemmelig	tajomstvo	hemmelig	tajomstvo	ADJ;INDF;MASC+FEM;SG	N;NOM;NEUT;SG
+følges	sledovaní	følges	sledovanie	V;NFIN;PASS	N;NOM;NEUT;PL
+følges	sledované	følges	sledovaný	V;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+bue	arch	bue	arch	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+christoph	christoph	christoph	christu	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+værksted	garáže	værksted	garáž	N;INDF;NEUT;SG	N;NOM;FEM;PL
+værksted	workshopy	værksted	workshopy	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+simpsons	simpsonovcov	simpsons	simpsonovec	N;GEN;INDF;MASC+FEM;SG	N;ANIM;ACC;MASC;PL
+simpsons	simpson	simpsons	simpson	N;GEN;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+weekend	víkendové	weekend	víkendový	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+weekend	vikend	weekend	vikend	N;INDF;MASC+FEM;SG	INTJ
+wta	wta	wta	wta	N;INDF;MASC+FEM;SG	
+madison	madison	madison	madison		PROPN;ANIM;NOM;MASC;SG
+pulje	združovania	pulje	združovanie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+sørger	smútku	sørge	smútok	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;SG
+sørger	smútok	sørge	smútok	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+sørger	smúti	sørge	smúť	V;IND;PRS;FIN;ACT	N;NOM;MASC;SG
+blom	blom	blom	blom	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+indtaget	prevzaté	indtage	prevziať	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+indtaget	prijatých	indtage	prijatý	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+indtaget	prijaté	indtage	prijatý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+indtaget	príjem	indtage	príjem	V;INDF;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+indtaget	spotrebované	indtage	spotrebovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+devil	diabla	devil	diabol		N;ANIM;NOM;MASC;SG
+devil	čert	devil	čert		N;ANIM;NOM;MASC;SG
+devil	diabol	devil	diabnuť		N;ANIM;NOM;MASC;SG
+ungdoms	mládež	ungdom	mládež	N;GEN;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+ungdoms	mladosť	ungdom	mladosť	N;GEN;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+ungdoms	mládeže	ungdom	mládež	N;GEN;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+ungdoms	mladosti	ungdom	mladosť	N;GEN;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+søgning	hľadať	søgning	hľadať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+søgning	vyhľadať	søgning	vyhľadať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+søgning	hľadám	søgning	hľadať	N;INDF;MASC+FEM;SG	V;IPFV;IND;SG;1;POS;PRS;FIN
+evolution	evolúcie	evolution	evolúcia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+landede	vyložené	lande	vyložený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+foretrak	prednostne	foretrak	prednostne	V;IND;PST;FIN;ACT	ADV
+foretrak	uprednostňujú	foretrak	uprednostňovať	V;IND;PST;FIN;ACT	V;IPFV;IND;PL;3;POS;PRS;FIN
+foretrak	radšej	foretrak	rád	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;CMPR;MASC;SG
+foretrak	uprednostňuje	foretrak	uprednostňovať	V;IND;PST;FIN;ACT	V;IPFV;IND;SG;3;POS;PRS;FIN
+beskeden	správu	beskeden	správa	ADJ;INDF;MASC+FEM;SG	N;ACC;FEM;SG
+beskeden	odkaz	beskeden	odkaz	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+beskeden	posolstvo	beskeden	posolstvo	ADJ;INDF;MASC+FEM;SG	N;NOM;NEUT;SG
+beskeden	správa	beskeden	správa	ADJ;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+zar	car	zar	car	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+zar	cár	zar	cár	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+lead	vedenia	lead	vedenie		N;NOM;NEUT;PL
+lead	vedúci	lead	vedúci		N;ANIM;NOM;MASC;SG
+lead	olovo	lead	olovo		N;NOM;NEUT;SG
+lead	vedenie	lead	vedenie		N;NOM;NEUT;SG
+lead	viesť	lead	viesť		V;IPFV;POS;NFIN
+montana	montana	montana	montana		N;NOM;FEM;SG
+brock	brock	brock	brock	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+falsk	fake	falsk	fak	ADJ;INDF;SG	INTJ
+observeret	pozorovali	observere	pozorovať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+observeret	pozorovaný	observere	pozorovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+observeret	zistená	observere	zistený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+observeret	pozorovaná	observere	pozorovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+observeret	pozorované	observere	pozorovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+nash	nash	nash	nash	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+pil	šíp	pil	šíp	V;IMP	N;INAN;NOM;MASC;SG
+pil	šípka	pil	šípka	V;IMP	N;NOM;FEM;SG
+pil	arrow	pil	arrow	V;IMP	PROPN;ANIM;NOM;MASC;SG
+mhz	mhz	mhz	mhz	N;INDF;MASC+FEM;SG	
+moral	morálny	moral	morálny	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+moral	morálnu	moral	morálny	N;INDF;MASC+FEM;SG	ADJ;ACC;FEM;SG
+moral	morálne	moral	morálne	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+moral	morálna	moral	morálny	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+moral	morálky	moral	morálka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+moral	morálky	moral	morálka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+gilbert	gilbert	gilbert	gilbert	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sandsynlighed	pravdepodobnosti	sandsynlighed	pravdepodobnosť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+håbede	dúfajú	håbe	dúfať	V;IND;PST;FIN;ACT	V;IPFV;IND;PL;3;POS;PRS;FIN
+dokumenteret	zdokumentované	dokumenteret	zdokumentovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+dokumenteret	dokázaná	dokumenteret	dokázaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+dokumenteret	preukázané	dokumenteret	preukázaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+dokumenteret	preukázaná	dokumenteret	preukázaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+dokumenteret	dokázané	dokumenteret	dokázaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kosovo	kosova	kosovo	kosova	PROPN	N;INAN;GEN;MASC;SG
+kosovo	kosovo	kosovo	kosovo	PROPN	N;NOM;MASC;SG
+nacional	nacional	nacional	nacionať		PROPN;INAN;NOM;MASC;SG
+afvikles	usadený	afvikle	usadený	V;IND;PRS;FIN;PASS	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+afvikles	vyrovnaná	afvikle	vyrovnaný	V;IND;PRS;FIN;PASS	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+strengt	prísna	strengt	prísny	ADV	ADJ;NOM;FEM;SG
+strengt	prísny	strengt	prísny	ADV	ADJ;INAN;NOM;MASC;SG
+torino	torino	torino	torino	PROPN	N;INAN;NOM;MASC;SG
+torino	turíne	torino	turína	PROPN	N;INAN;NOM;MASC;SG
+konference	konferencie	konference	konferencia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+massive	masívny	massive	masívny	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+massive	masívne	massive	masívne	ADJ;PL	ADV
+massive	massive	massive	massiva	ADJ;PL	N;INAN;NOM;MASC;SG
+leveres	doručený	levere	doručený	V;IND;PRS;FIN;PASS	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+leveres	dodané	levere	dodaný	V;IND;PRS;FIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+leveres	doručené	levere	doručený	V;IND;PRS;FIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+leveres	doručila	levere	doručiť	V;IND;PRS;FIN;PASS	V;PFV;FEM;SG;POS;PST;V.PTCP
+kyster	pobrežie	kyste	pobrežie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+frisk	čerstvú	frisk	čerstvý	ADJ;INDF;SG	N;ACC;FEM;SG
+frisk	fresh	frisk	fresh	ADJ;INDF;SG	
+forbrug	spotreby	forbrug	spotreby	N;INDF;NEUT;SG	N;NOM;FEM;PL
+germain	germain	germain	germaina	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+seat	sedadla	seat	sedadlo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+tyndt	riedko	tyndt	riedko	ADJ;INDF;NEUT;SG	ADV
+anime	anime	anim	anima		
+ask	ask	ask	ask		
+ask	opýtať	ask	opýtať		V;PFV;POS;NFIN
+ask	popol	ask	popol		N;INAN;NOM;MASC;SG
+ask	ash	ask	ash		PROPN;ANIM;NOM;MASC;SG
+limited	limited	limited	limited		N;NOM;FEM;SG
+limited	obmedzený	limited	obmedzený		ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+limited	limitované	limited	limitovaný		ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+limited	obmedzené	limited	obmedzený		ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+limited	limitovaná	limited	limitovaný		ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+limited	obmedzená	limited	obmedzený		ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+chefen	šéfe	chef	šéf	N;DEF;MASC+FEM;SG	INTJ
+chefen	boss	chef	boss	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+murphy	murphy	murphy	murpeh		PROPN;NOM;FEM;SG
+diesel	dieselové	diesel	dieselový	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+tromsø	tromsø	tromsø	tromsø	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+analyser	analytics	analyse	analytics	N;INDF;MASC+FEM;PL	N;NOM;MASC;SG
+analyser	rozbor	analyse	rozbor	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+analyser	analýza	analyse	analýza	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+analyser	analýzu	analyse	analýza	N;INDF;MASC+FEM;PL	N;ACC;FEM;SG
+faxe	fax	faxe	fax		N;INAN;NOM;MASC;SG
+diamond	diamond	diamond	diamond		PROPN;ANIM;NOM;MASC;SG
+diamond	diamant	diamond	diamant		N;ANIM;NOM;MASC;SG
+forårsagede	spôsobené	forårsage	spôsobený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forårsagede	spôsobená	forårsage	spôsobený	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+detaljeret	podrobne	detaljeret	podrobne	V;INDF;SG;PST;V.PTCP	ADV
+detaljeret	detailné	detaljeret	detailný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+detaljeret	podrobné	detaljeret	podrobný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+detaljeret	podrobná	detaljeret	podrobný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+mærker	značenie	mærke	značenie	N;INDF;NEUT;PL	N;NOM;NEUT;SG
+mærker	tags	mærke	tags	N;INDF;NEUT;PL	
+tråd	drôty	tråd	drôt	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+tråd	nite	tråd	niť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+edge	hrane	edge	hraň		N;NOM;FEM;SG
+edge	okraja	edge	okraj		N;INAN;GEN;MASC;SG
+edge	okraj	edge	okraj		N;INAN;NOM;MASC;SG
+edge	hrany	edge	hrana		N;NOM;FEM;PL
+døren	dvere	dør	dvere	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+døren	dverí	dør	dvere	N;DEF;MASC+FEM;SG	N;GEN;FEM;PL
+viet	venované	viet	venovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+viet	oddaná	viet	oddaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+viet	oddaný	viet	oddaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+viet	viet	viet	vedieť	V;INDF;SG;PST;V.PTCP	N;GEN;FEM;PL
+bertel	bertel	bertel	bertel	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+smukt	krasne	smuk	krasne	ADJ;INDF;NEUT;SG	
+smukt	krásne	smuk	krásne	ADJ;INDF;NEUT;SG	ADV
+torpedoer	torpéda	torpedoe	torpéda	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+hugh	hugh	hugh	hugh		PROPN;ANIM;NOM;MASC;SG
+grundstoffer	elementárneho	grundstof	elementárny	N;INDF;NEUT;PL	ADJ;GEN;NEUT;SG
+ryg	späť	ryg	späť	N;INDF;MASC+FEM;SG	ADV
+ryg	back	ryg	back	N;INDF;MASC+FEM;SG	PROPN;ANIM;VOC;MASC;SG
+ryg	naspäť	ryg	naspäť	N;INDF;MASC+FEM;SG	ADV
+ryg	fajčiť	ryg	fajčiť	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+faldende	zostupne	falde	zostupne	V;PRS;V.PTCP	
+faldende	klesajúci	falde	klesajúci	V;PRS;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT
+faldende	klesajúcej	falde	klesajúci	V;PRS;V.PTCP	ADJ;GEN;FEM;SG;POS;V.PTCP;ACT
+faldende	klesajúci	falde	klesajúci	V;PRS;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT
+mund	papule	mund	papuľa	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+mund	ústa	mund	ústa	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+huskes	spomenul	huske	spomenúť	V;IND;PRS;FIN;PASS	V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+ram	ram	ram	ram		N;INAN;NOM;MASC;SG
+tna	tna	tna	tna	PROPN	N;ANIM;NOM;MASC;SG
+justin	justin	justin	justin	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+trusler	ohrozenie	trusel	ohrozenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+trusler	ohrozenie	trusel	ohrozenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+trusler	hrozba	trusel	hrozba	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+lau	lau	lau	lau		PROPN;NOM;FEM;SG
+willy	willy	willy	willy		N;ANIM;NOM;MASC;SG
+eminem	eminem	eminem	eminúť		N;VOC;FEM;SG
+andersson	andersson	andersson	andersson	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+coast	pobrežie	coast	pobrežie		N;NOM;NEUT;SG
+fjernsyn	televízory	fjernsyn	televízor	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+fjernsyn	tv	fjernsyn	tv	N;INDF;NEUT;SG	
+fjernsyn	televízie	fjernsyn	televízia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+fjernsyn	televízne	fjernsyn	televízny	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+ture	jazdí	tur	jazdiť	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+leon	leon	leon	leon		PROPN;ANIM;NOM;MASC;SG
+forstået	pochopili	forstå	pochopiť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+opfandt	vymyslený	opfinde	vymyslený	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+denis	denis	denis	denis		PROPN;ANIM;NOM;MASC;SG
+logik	logiky	logik	logika	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+logik	logické	logik	logický	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+latinsk	latinsky	latinsk	latinsky	ADJ;INDF;SG	ADV
+forbliver	pozostatky	forblive	pozostatok	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+forbliver	pobyty	forblive	pobyt	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+event	udalosti	event	udalosť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+investeringer	investovanie	investering	investovanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+investeringer	investícia	investering	investícia	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+investeringer	investovanie	investering	investovanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+israelsk	izraelských	israelsk	izraelský	ADJ;INDF;SG	ADJ;GEN;MASC;PL
+israelsk	izraela	israelsk	izrael	ADJ;INDF;SG	N;NOM;FEM;SG
+israelsk	izrael	israelsk	izrael	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+israelsk	izraelom	israelsk	izrael	ADJ;INDF;SG	N;INAN;INS;MASC;SG
+skåret	rez	skære	rez	V;INDF;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+skåret	strih	skære	strih	V;INDF;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+skåret	črep	skære	črep	V;INDF;SG;PST;V.PTCP	N;INAN;NOM;MASC;SG
+mindesmærke	memorial	mindesmærke	memoriať	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+lane	lane	lane	lana		N;NOM;FEM;SG
+lane	pruh	lane	pruh		N;INAN;NOM;MASC;SG
+suðuroy	suðuroy	suðuroy	sumuros		N;INAN;NOM;MASC;SG
+fødslen	narodenia	fødsel	narodenie	N;DEF;MASC+FEM;SG	N;NOM;NEUT;PL
+tusindvis	tisícoch	tusindvis	tisíc	ADV	N;ANIM;ACC;MASC;PL
+tusindvis	tisíce	tusindvis	tisíc`1000	ADV	N;NOM;MASC;PL
+fjernede	odstránené	fjerne	odstránený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fjernede	odstránený	fjerne	odstránený	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+fjernede	odstránená	fjerne	odstránený	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+ulykker	úraz	ulykke	úraz	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+ulykker	nehoda	ulykke	nehoda	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+ulykker	havária	ulykke	havária	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+pete	pete	pete	pet	PROPN	PROPN;ANIM;NOM;MASC;SG
+pete	peta	pete	peto	PROPN	PROPN;ANIM;NOM;MASC;SG
+pete	peťo	pete	peťo	PROPN	PROPN;ANIM;NOM;MASC;SG
+privilegier	oprávnení	privilegi	oprávnenie	N;INDF;MASC+FEM;PL	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+nicholas	nicholas	nicholas	nicholas		PROPN;ANIM;NOM;MASC;SG
+mann	mann	mann	mann	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+beograd	belehrade	beograd	belehrad		N;INAN;NOM;MASC;SG
+omgivende	okolie	omgive	okolie	ADJ	N;NOM;NEUT;SG
+omgivende	okolia	omgive	okolie	ADJ	N;NOM;NEUT;PL
+ost	syry	ost	syr	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ost	syrov	ost	syr	N;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+ost	syry	ost	syr	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+vegetation	vegetácie	vegetation	vegetácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+værre	horsie	slem	horsieť	ADJ;CMPR	
+renoveret	zrekonštruovaný	renovere	zrekonštruovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+hulk	hulk	hulk	hulk	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+legenden	vysvetlivky	legende	vysvetlivka	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+legenden	legendy	legende	legenda	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+playoff	playoff	playoff	playoff	N;INDF;NEUT;SG	N;NOM;FEM;PL
+troen	viery	tro	viera	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+troen	viery	tro	viera	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+add	pridaj	add	pridaj	N;INDF;NEUT;SG	V;PFV;IMP;SG;2;POS;FIN
+add	pridať	add	pridať	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+lara	lara	lara	lara	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+overveje	zamyslenie	overveje	zamyslenie	V;NFIN;ACT	N;NOM;NEUT;SG
+svækket	oslabenie	svæk	oslabenie	V;INDF;SG;PST;V.PTCP	N;NOM;NEUT;SG
+svækket	oslabený	svæk	oslabený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+svækket	oslabené	svæk	oslabený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+svækket	oslabených	svæk	oslabený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+est	est	est	est		
+arkiver	archív	arkive	archív	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+udgår	odstránený	udgå	odstránený	V;IND;PRS;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+udgår	vymazané	udgå	vymazaný	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udgår	odstránená	udgå	odstránený	V;IND;PRS;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+udgår	odstránené	udgå	odstránený	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udgår	vypustené	udgå	vypustený	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+vægten	závažie	vægt	závažie	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+vægten	hmotnosti	vægt	hmotnosť	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+botaniske	botanickej	botanisk	botanický	ADJ;PL	ADJ;GEN;FEM;SG
+diskuteres	diskutabilné	diskutere	diskutabilný	V;NFIN;PASS	ADJ;NOM;NEUT;SG
+helen	helen	hel	helen	N;DEF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+españa	españa	españa	españa		PROPN;INAN;NOM;MASC;SG
+child	detský	child	detský		ADJ;ANIM;NOM;MASC;SG
+child	dieťaťa	child	dieťa		N;NOM;NEUT;PL
+child	dieťa	child	dieťa		N;NOM;NEUT;SG
+child	child	child	child		PROPN;ANIM;NOM;MASC;SG
+krim	krym	krim	krym	PROPN	N;INAN;NOM;MASC;SG
+misbrug	zneužitia	misbrug	zneužitie	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+misbrug	zneužitia	misbrug	zneužitie	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+kulturelt	kultúrna	kulturelt	kultúrny	ADV	ADJ;NOM;FEM;SG
+kulturelt	kultúrny	kulturelt	kultúrny	ADV	ADJ;INAN;NOM;MASC;SG
+kulturelt	kultúrne	kulturelt	kultúrny	ADV	ADJ;NOM;NEUT;SG
+kulturelt	kultúrne	kulturelt	kultúrny	ADV	ADJ;NOM;NEUT;SG
+savage	savage	savage	savaga		PROPN;ANIM;NOM;MASC;SG
+savage	divoký	savage	divoký		ADJ;ANIM;NOM;MASC;SG
+sub	sub	sub	sub		
+fastsat	stanovené	fastsætte	stanovený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fastsat	opravené	fastsætte	opravený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+hercegovina	hercegovine	hercegovina	hercegovina		N;DAT;FEM;SG
+hercegovina	hercegovina	hercegovina	hercegovina		N;NOM;FEM;SG
+foretrukne	prednostne	foretrukne	prednostne	ADJ;PL	ADV
+foretrukne	uprednostňujú	foretrukne	uprednostňovať	ADJ;PL	V;IPFV;IND;PL;3;POS;PRS;FIN
+foretrukne	radšej	foretrukne	rád	ADJ;PL	ADJ;ANIM;NOM;CMPR;MASC;SG
+foretrukne	uprednostňuje	foretrukne	uprednostňovať	ADJ;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+amerikaner	americké	amerikaner	americký	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+amerikaner	americká	amerikaner	americký	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+amerikaner	americký	amerikaner	americký	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+mandskab	crew	mandskab	crew	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+mandskab	posádky	mandskab	posádka	N;INDF;NEUT;SG	N;NOM;FEM;PL
+erkendelse	uznania	erkendelse	uznanie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+erkendelse	realizácie	erkendelse	realizácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+abel	abel	abel	abel	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+peer	partnerského	peer	partnerský	N;INDF;MASC+FEM;SG	ADJ;GEN;NEUT;SG
+helsingfors	helsinkách	helsingfors	helsinky	N;INDF;NEUT;SG	N;GEN;FEM;PL
+siddet	sedeli	sidde	sedieť	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+siddet	sat	sidde	sat	V;INDF;SG;PST;V.PTCP	
+vindende	víťazné	vinde	víťazný	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG
+vindende	výhra	vinde	výhra	V;PRS;V.PTCP	N;NOM;FEM;SG
+vindende	výhru	vinde	výhra	V;PRS;V.PTCP	N;ACC;FEM;SG
+six	šesť	six	šesť		NUM;NOM;NEUT;SG
+six	six	six	six		
+six	šiestich	six	šesť		NUM;GEN;MASC;PL
+six	šiesti	six	šiesť		NUM;ANIM;NOM;MASC;PL
+adrian	adrian	adrian	adrian		PROPN;ANIM;NOM;MASC;SG
+svalbard	svalbard	svalbard	svalbard		N;INAN;NOM;MASC;SG
+brooklyn	brooklyn	brooklyn	brooklyn	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+brooklyn	brooklyne	brooklyn	brooklyne	N;INDF;MASC+FEM;SG	ADV
+discovery	objavenie	discovery	objavenie		N;NOM;NEUT;SG
+discovery	objav	discovery	objav		N;INAN;NOM;MASC;SG
+lukas	luke	lukas	luka	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+lukas	lukas	lukas	lukas	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+avenue	avenue	avenue	avenue		N;INAN;NOM;MASC;SG
+kælenavn	prezývky	kælenavn	prezývka	N;INDF;NEUT;SG	N;NOM;FEM;PL
+kid	kid	kid	kid	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+spencer	spencer	spence	spencer	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+berømmelse	fame	berømmelse	fam	N;INDF;MASC+FEM;SG	
+born	narodená	born	narodený		ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+born	narodené	born	narodený		ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+born	narodený	born	narodený		ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+alter	svätyne	alter	svätyňa	N;INDF;NEUT;SG	N;NOM;FEM;PL
+alberto	alberto	alberto	alberto		PROPN;ANIM;NOM;MASC;SG
+nansen	nansen	nans	nansen	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+logisk	logika	logisk	logika	ADJ;INDF;SG	N;NOM;FEM;SG
+logisk	logiky	logisk	logika	ADJ;INDF;SG	N;NOM;FEM;PL
+logisk	logiku	logisk	logik	ADJ;INDF;SG	N;ACC;FEM;SG
+udgifter	výdavok	udgift	výdavok	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+udstedt	emitované	udstedt	emitovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udstedt	vydané	udstedt	vydané	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udstedt	vydávaný	udstedt	vydávaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+udstedt	vydaný	udstedt	vydaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+philipp	philipp	philipp	philipp		PROPN;ANIM;NOM;MASC;SG
+erhvervet	nadobudnuté	erhvervet	nadobudnutý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+erhvervet	získaná	erhvervet	získaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+erhvervet	získané	erhvervet	získaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+linket	spojiť	linke	spojiť	N;DEF;NEUT;SG	V;PFV;POS;NFIN
+linket	prepojiť	linke	prepojiť	N;DEF;NEUT;SG	V;PFV;POS;NFIN
+velegnet	hodilo	velegnet	hodiť	ADJ;INDF;SG	V;IPFV;NEUT;SG;POS;PST;V.PTCP
+billigere	lacnejšie	billig	lacne	ADJ;CMPR	ADV;CMPR
+himmel	nebesá	himmel	byť	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+himmel	sky	himmel	sky	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+wang	wang	wang	wang		PROPN;ANIM;NOM;MASC;SG
+ansvarlige	zodpovedný	ansvarlig	zodpovedný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+ansvarlige	zodpovedné	ansvarlig	zodpovedný	ADJ;PL	ADJ;NOM;NEUT;SG
+ansvarlige	zodpovedných	ansvarlig	zodpovedný	ADJ;PL	N;ANIM;GEN;MASC;PL
+ansvarlige	zodpovedná	ansvarlig	zodpovedný	ADJ;PL	ADJ;NOM;FEM;SG
+redskaber	výstroj	redskab	výstroj	N;INDF;NEUT;PL	N;NOM;FEM;SG
+redskaber	výstroja	redskab	výstroj	N;INDF;NEUT;PL	N;INAN;GEN;MASC;SG
+redskaber	výstroj	redskab	výstroj	N;INDF;NEUT;PL	N;NOM;FEM;SG
+redskaber	výstroja	redskab	výstroj	N;INDF;NEUT;PL	N;INAN;GEN;MASC;SG
+redskaber	náradie	redskab	náradie	N;INDF;NEUT;PL	N;NOM;NEUT;SG
+biograf	divadla	biograf	divadlo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+blik	eye	blik	eye	N;INDF;NEUT;SG	
+blik	okom	blik	oko	N;INDF;NEUT;SG	ADV
+greg	grega	greg	grega		PROPN;ANIM;NOM;MASC;SG
+greg	greg	greg	greg		PROPN;ANIM;NOM;MASC;SG
+roberts	roberts	rober	roberts	N;GEN;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+unger	detská	unge	detský	N;INDF;MASC+FEM;PL	ADJ;NOM;FEM;SG
+unger	unger	unge	unger	N;INDF;MASC+FEM;PL	
+discogs	discogs	discog	discogs	N;INDF;MASC+FEM;SG	
+serbiske	srb	serbisk	srb	ADJ;PL	PROPN;ANIM;NOM;MASC;SG
+serbiske	srbská	serbisk	srbský	ADJ;PL	ADJ;NOM;FEM;SG
+serbiske	srbskom	serbisk	srbský	ADJ;PL	ADJ;INS;NEUT;SG
+serbiske	srbskej	serbisk	srbský	ADJ;PL	ADJ;GEN;FEM;SG
+ferie	sviatky	ferie	sviatok	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ferie	prázdniny	ferie	prázdniny	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ferie	prázdniny	ferie	prázdniny	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ferie	dovolenky	ferie	dovolenka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ferie	sviatky	ferie	sviatok	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+ferie	dovolenky	ferie	dovolenka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+freedom	slobody	freedom	sloboda		N;NOM;FEM;PL
+freedom	sloboda	freedom	sloboda		N;NOM;FEM;SG
+freedom	voľnosť	freedom	voľnosť		N;NOM;FEM;SG
+freedom	slobodu	freedom	sloboda		N;ACC;FEM;SG
+rex	rex	rex	rex	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+elektronik	elektroniky	elektronik	elektronika	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+cykel	bicyklov	cykel	bicykel	N;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+botanisk	botanickej	botanisk	botanický	ADV	ADJ;GEN;FEM;SG
+polens	poľsko	polen	poľsko	N;GEN;DEF;MASC+FEM;SG	PROPN;NOM;NEUT;SG
+huden	kože	huden	koža	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+passager	cestujúcich	passager	cestujúci	N;INDF;MASC+FEM;SG	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;ACT
+passager	osobná	passager	osobný	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+passager	cestujúci	passager	cestujúci	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT
+passager	pasáže	passager	pasáž	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+pol	pol	pol	pol		NUM;NOM;NEUT;SG
+burma	barme	burma	barm		N;DAT;FEM;PL
+burma	mjanmarsko	burma	mjanmarsko		N;NOM;NEUT;SG
+fattigdom	chudoby	fattigdom	chudoba	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+slægtninge	príbuzné	slægtning	príbuzný	N;INDF;MASC+FEM;PL	ADJ;NOM;NEUT;PL
+tchad	čade	tchad	čad	PROPN	N;DAT;FEM;SG
+tchad	chad	tchad	chad	PROPN	PROPN;ANIM;NOM;MASC;SG
+sammenbrud	zabaliť	sammenbrud	zabaliť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+sammenbrud	zbaliť	sammenbrud	zbaliť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+facto	facto	facto	facto	ADJ;INDF;SG	N;NOM;MASC;SG
+konferencen	konferencie	konference	konferencia	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+udpegede	určené	udpege	určený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udpegede	určený	udpege	určený	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+depression	depresie	depression	depresie	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+steffen	steffen	steffe	steffen		PROPN;ANIM;NOM;MASC;SG
+tænkte	myšlienka	tænke	myšlienka	V;IND;PST;FIN;ACT	N;NOM;FEM;SG
+tænkte	myslenia	tænke	myslenie	V;IND;PST;FIN;ACT	N;NOM;NEUT;PL
+tænkte	premýšľanie	tænke	premýšľanie	V;IND;PST;FIN;ACT	N;NOM;NEUT;SG
+tænkte	myslenie	tænke	myslenie	V;IND;PST;FIN;ACT	N;NOM;NEUT;SG
+tænkte	premýšľa	tænke	premýšľa	V;IND;PST;FIN;ACT	V;IPFV;IND;SG;3;POS;PRS;FIN
+gregorianske	gregoriánsky	gregoriansk	gregoriánsky	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+slås	boje	slås	boj	V;NFIN;PASS	N;INAN;NOM;MASC;PL
+kold	zima	kold	zima	ADJ;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+kold	chlad	kold	chlad	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+værft	lodenice	værft	lodenica	N;INDF;NEUT;SG	N;NOM;FEM;PL
+værft	lodenice	værft	lodenica	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tjekkiske	česká	tjekkisk	česká	ADJ;PL	ADJ;NOM;FEM;SG
+tjekkiske	české	tjekkisk	český	ADJ;PL	ADJ;NOM;NEUT;SG
+tjekkiske	czech	tjekkisk	czech	ADJ;PL	
+tjekkiske	český	tjekkisk	český	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+tjekkiske	českého	tjekkisk	český	ADJ;PL	ADJ;ANIM;GEN;MASC;SG
+krisen	krízy	kris	kríza	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+palæstinensiske	palestínske	palæstinensisk	palestínsky	ADJ;PL	ADJ;NOM;NEUT;SG
+kronet	korunovaný	kron	korunovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+wiener	wiener	wiener	wiener	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+colin	colin	colin	colin	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+efterretningstjeneste	spravodajská	efterretningstjeneste	spravodajský	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+interwiki	interwiki	interwiki	intergik		N;NOM;FEM;PL
+udløste	spustené	udløse	spustený	V;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udløste	spúšťa	udløse	spúšťa	V;PST;V.PTCP	V;PFV;IND;SG;3;POS;PRS;FIN
+udløste	spustený	udløse	spustený	V;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+syriske	sýrskej	syrisk	sýrský	ADJ;PL	ADJ;GEN;FEM;SG
+matthias	matej	matthias	matej		PROPN;ANIM;NOM;MASC;SG
+matthias	matthias	matthias	matthias		PROPN;ANIM;NOM;MASC;SG
+moss	moss	moss	moss		PROPN;NOM;FEM;SG
+moss	mach	moss	mach		N;ANIM;NOM;MASC;SG
+renovering	rekonštrukcie	renovering	rekonštrukcia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+face	face	face	faca	N;INDF;NEUT;SG	
+bosættelser	zúčtovanie	bosættelse	zúčtovanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+bosættelser	urovnanie	bosættelse	urovnanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+kontrolleret	kontrolované	kontrollere	kontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kontrolleret	skontrolované	kontrollere	skontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kontrolleret	kontrolovaný	kontrollere	kontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+kontrolleret	riadený	kontrollere	riadený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+kontrolleret	kontrolovaných	kontrollere	kontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+kontrolleret	kontrolované	kontrollere	kontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kontrolleret	kontrolovaná	kontrollere	kontrolovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+kontrolleret	riadené	kontrollere	riadený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kontrolleret	overená	kontrollere	overený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+kontrolleret	overený	kontrollere	overený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+kontrolleret	overené	kontrollere	overený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+break	break	break	break		N;INAN;NOM;MASC;SG
+break	zlom	break	zlom		N;INS;NEUT;SG
+break	rozbiť	break	rozbiť		V;PFV;POS;NFIN
+break	prestávka	break	prestávka		N;NOM;FEM;SG
+break	zlomiť	break	zlomiť		V;PFV;POS;NFIN
+done	hotová	done	hotový		ADJ;NOM;FEM;SG
+done	urobené	done	urobený		ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+done	hotové	done	hotový		ADJ;NOM;NEUT;SG
+done	hotovo	done	hotovo		ADV
+done	vykonané	done	vykonaný		ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+done	urobil	done	urobiť		V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+radar	radarové	radar	radarový	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+elias	elias	elias	elias	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+hertz	hertz	hertz	hertz	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+halsen	hrdla	hals	hrdlo	N;DEF;MASC+FEM;SG	N;NOM;NEUT;PL
+nancy	nancy	nancy	nanca		PROPN;NOM;FEM;SG
+repræsentation	zastúpenia	repræsentation	zastúpenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+glee	glee	gle	glee	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+spirit	duchu	spirit	duch		N;INAN;DAT;MASC;SG
+spirit	ducha	spirit	duch		N;INAN;ACC;MASC;SG
+spirit	duša	spirit	duša		N;NOM;FEM;SG
+spirit	duch	spirit	duch		N;ANIM;NOM;MASC;SG
+spirit	spirit	spirit	spirit		PROPN;ANIM;NOM;MASC;SG
+fed	odvážne	fed	odvážne	ADJ;INDF;MASC+FEM;SG	ADV
+fed	tuku	fed	tuka	ADJ;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;SG
+fed	tuk	fed	tuk	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+fed	tuky	fed	tuka	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+fed	fat	fed	fat	ADJ;INDF;MASC+FEM;SG	
+iss	iss	iss	iss	N;INDF;NEUT;SG	
+tusinder	tisícky	tusinde	tisícky	N;INDF;NEUT;PL	ADV
+shepherd	pastier	shepherd	pastier		N;ANIM;NOM;MASC;SG
+prøvet	skúšali	prøve	skúšať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+prøvet	testovaný	prøve	testovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+prøvet	skúša	prøve	skúša	V;INDF;SG;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PRS;FIN
+prøvet	testovaná	prøve	testovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+prøvet	testované	prøve	testovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+prøvet	skúšaný	prøve	skúšaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+thompson	thompson	thompson	thompson		PROPN;ANIM;NOM;MASC;SG
+daily	denná	daily	denný		ADJ;NOM;FEM;SG
+daily	denne	daily	denne		ADV
+daily	denný	daily	denný		ADJ;INAN;NOM;MASC;SG
+daily	daily	daily	daila		N;NOM;FEM;PL
+daily	denné	daily	denný		ADJ;NOM;NEUT;SG
+sagn	vysvetlivky	sagn	vysvetlivka	N;INDF;NEUT;SG	N;NOM;FEM;PL
+sagn	legendy	sagn	legenda	N;INDF;NEUT;SG	N;NOM;FEM;PL
+sagn	legiend	sagn	legenda	N;INDF;NEUT;SG	N;GEN;FEM;PL
+sagn	legendy	sagn	legenda	N;INDF;NEUT;SG	N;NOM;FEM;PL
+blank	prázdna	blank	prázdno	ADJ;INDF;MASC+FEM;SG	N;NOM;FEM;SG
+dårligere	horsie	dårlig	horsieť	ADV;CMPR	
+nature	priroda	natur	priroda		N;NOM;FEM;SG
+nature	prírodu	natur	príroda		N;ACC;FEM;SG
+nature	povaha	natur	povaha		N;NOM;FEM;SG
+nature	príroda	natur	príroda		N;NOM;FEM;SG
+nature	charakter	natur	charakter		N;INAN;NOM;MASC;SG
+aktuelt	aktuálne	aktuel	aktuálny	ADJ;INDF;NEUT;SG	ADV
+aktuelt	momentálne	aktuel	momentálne	ADJ;INDF;NEUT;SG	ADV
+speed	rýchlosti	speed	rýchlosť		N;NOM;FEM;PL
+speed	rýchlosť	speed	rýchlosť		N;NOM;FEM;SG
+speed	otáčky	speed	otáčka		N;NOM;FEM;PL
+argentinske	argentínska	argentinsk	argentínsky	ADJ;PL	ADJ;NOM;FEM;SG
+zagreb	záhreb	zagreb	záhreb		PROPN;INAN;NOM;MASC;SG
+tilfældigt	náhodný	tilfældigt	náhodný	ADV	ADJ;ANIM;NOM;MASC;SG
+tilfældigt	random	tilfældigt	randý	ADV	N;NOM;MASC;SG
+tilfældigt	náhodné	tilfældigt	náhodný	ADV	ADJ;NOM;NEUT;SG
+tilfældigt	náhody	tilfældigt	náhod	ADV	N;NOM;FEM;PL
+tilfældigt	náhoda	tilfældigt	náhod	ADV	N;NOM;FEM;SG
+smart	smart	smart	smart	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+fangenskab	zajatí	fangenskab	zajatie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+fangenskab	zajatí	fangenskab	zajatie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+holding	holding	holding	holding	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+holding	drží	holding	držať	N;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN
+turner	turner	turner	turner	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+primitive	primitívne	primitiv	primitívne	ADJ;PL	ADJ;NOM;NEUT;SG
+wing	krídlo	wing	krídlo		N;NOM;NEUT;SG
+wing	wing	wing	wing		PROPN;ANIM;NOM;MASC;SG
+udnævnelse	vymenovaní	udnævnelse	vymenovanie	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+udnævnelse	termin	udnævnelse	termin	N;INDF;MASC+FEM;SG	INTJ
+nytte	užitočnosť	nytte	užitočnosť	V;NFIN;ACT	N;NOM;FEM;SG
+nytte	úžitkové	nytte	úžitkový	V;NFIN;ACT	ADJ;NOM;NEUT;SG
+nytte	užitočnosť	nytte	užitočnosť	V;NFIN;ACT	N;NOM;FEM;SG
+joan	joan	joan	joan		PROPN;ANIM;NOM;MASC;SG
+afhængige	závislé	afhængig	závislý	ADJ;PL	ADJ;NOM;NEUT;SG
+afhængige	závislá	afhængig	závislo	ADJ;PL	N;NOM;FEM;SG
+afhængige	závislý	afhængig	závislý	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+afhængige	závislá	afhængig	závislo	ADJ;PL	N;NOM;FEM;SG
+dirty	špinavá	dirty	špinavý		ADJ;NOM;FEM;SG
+dirty	špinavé	dirty	špinavý		ADJ;NOM;NEUT;SG
+dirty	špinavý	dirty	špinavý		ADJ;ANIM;NOM;MASC;SG
+hud	kože	hud	koža	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+landing	pristátia	landing	pristátiť	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+landing	pristáť	landing	pristáť	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+skyder	streľba	skyde	streľba	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+indledning	začatia	indledning	začatiť	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+præsenterede	prezentované	præsentere	prezentovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+præsenterede	predstavené	præsentere	predstavený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+præsenterede	predložené	præsentere	predložený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+præsenterede	predkladané	præsentere	predkladaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+præsenterede	predstavený	præsentere	predstavený	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+dekoreret	zdobené	dekorere	zdobený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+orientering	orientácie	orientering	orientácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+bin	bin	bin	bin		PROPN;ANIM;NOM;MASC;SG
+bin	kôš	bin	kôš		N;INAN;NOM;MASC;SG
+floyd	floyd	floyd	floyd		
+hegn	ploty	hegn	plot	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+liège	liège	liège	lijga		N;INAN;NOM;MASC;SG
+lilla	fialová	lilla	fialový		ADJ;NOM;FEM;SG
+lilla	fialové	lilla	fialový		ADJ;NOM;NEUT;SG
+massiv	masívne	massiv	masívne	ADJ;INDF;MASC+FEM;SG	ADV
+massiv	massive	massiv	massiva	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+bros	bros	bros	bros		PROPN;NOM;FEM;SG
+bros	bratia	bros	brat		N;ANIM;NOM;MASC;PL
+groft	drsný	groft	drsný	ADV	ADJ;ANIM;NOM;MASC;SG
+groft	zhruba	groft	zhruba	ADV	PART
+groft	hrubo	groft	hrubo	ADV	N;NOM;FEM;SG
+krydset	križovatky	kryds	križovatka	N;DEF;NEUT;SG	N;NOM;FEM;PL
+krydset	palce	kryds	palec	N;DEF;NEUT;SG	N;INAN;NOM;MASC;PL
+krydset	prekročili	kryds	prekročiť	N;DEF;NEUT;SG	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+overdrev	prehnané	overdrev	prehnaný	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+ledsaget	sprevádzaná	ledsag	sprevádzaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+ledsaget	sprevádzané	ledsag	sprevádzaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+iowa	iowa	iowa	iowa		PROPN;ANIM;NOM;MASC;SG
+litteraturen	literatúry	litteratur	literatúra	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+gennemgang	preskúmať	gennemgang	preskúmať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+gennemgang	skontrolovať	gennemgang	skontrolovať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+drager	drakov	drage	drak	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;PL
+butler	butler	butle	butler	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+kaos	kaos	kaos	kaos	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+arrangerede	usporiadané	arrangere	usporiadaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+kvaliteten	kvalitné	kvalitet	kvalitný	N;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+kvaliteten	kvality	kvalitet	kvalita	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+sværere	ťažšie	svær	ťažký	ADJ;CMPR	ADV;CMPR
+sværere	tvrdšie	svær	tvrdý	ADJ;CMPR	ADV;CMPR
+sværere	silnejšie	svær	silne	ADJ;CMPR	ADV;CMPR
+pablo	pablo	pablo	pabnúť		PROPN;ANIM;NOM;MASC;SG
+split	rozdeliť	split	rozdeliť		V;PFV;POS;NFIN
+split	rozdelenie	split	rozdelenie		N;NOM;NEUT;SG
+johnston	johnston	johnston	johnston	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+luftwaffe	luftwaffe	luftwaffe	luftwaffa	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+begrænsninger	obmedzenie	begrænsning	obmedzenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+gaver	predkladá	gave	predkladať	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+gaver	prezentuje	gave	prezentovať	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+oplevelse	skúsenosti	oplevelse	skúsenosť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+oplevelse	zažiť	oplevelse	zažiť	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+mystiske	tajomný	mystisk	tajomný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+mystiske	záhadné	mystisk	záhadný	ADJ;PL	ADJ;NOM;NEUT;SG
+mystiske	tajomná	mystisk	tajomný	ADJ;PL	ADJ;NOM;FEM;SG
+mystiske	záhadná	mystisk	záhadný	ADJ;PL	ADJ;NOM;FEM;SG
+mystiske	tajomné	mystisk	tajomný	ADJ;PL	ADJ;NOM;NEUT;SG
+mystiske	mystické	mystisk	mystický	ADJ;PL	ADJ;NOM;NEUT;SG
+mystiske	mystic	mystisk	mystica	ADJ;PL	N;NOM;FEM;SG
+paradise	paradise	paradis	paradisa	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+sri	sri	sri	sri	PROPN	N;INAN;NOM;MASC;SG
+sri	srí	sri	srať	PROPN	N;INAN;NOM;MASC;SG
+kvartfinalen	štvrťfinále	kvartfinale	štvrťfinál	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+filosofisk	filozofické	filosofisk	filozofický	ADV	ADJ;NOM;NEUT;SG
+glade	šťastný	glad	šťastný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+glade	šťastne	glad	šťastne	ADJ;PL	ADV
+glade	šťastné	glad	šťastný	ADJ;PL	ADJ;NOM;NEUT;SG
+bestilt	zadané	bestille	zadaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+bestilt	rezervované	bestille	rezervovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+bestilt	objednané	bestille	objednaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+bestilt	objednali	bestille	objednať	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+cola	kokaín	cola	kokain		N;INAN;NOM;MASC;SG
+cola	colu	cola	cola		N;ACC;FEM;SG
+cola	koks	cola	koks		N;INAN;NOM;MASC;SG
+cola	cola	cola	cola		N;NOM;FEM;SG
+cola	cola	cola	cola		N;NOM;FEM;SG
+queens	kráľovné	que	kráľovná	N;GEN;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;PL
+queens	queens	que	queens	N;GEN;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+moser	moser	mose	moser	N;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+afsluttende	dokončovacie	afslutte	dokončovací	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG
+afsluttende	uzavretie	afslutte	uzavretie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+afsluttende	zatvorenie	afslutte	zatvorenie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+afsluttende	zatváranie	afslutte	zatváranie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+afsluttende	konečné	afslutte	konečný	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG
+afsluttende	konečná	afslutte	konečný	V;PRS;V.PTCP	ADJ;NOM;FEM;SG
+afsluttende	záverečná	afslutte	záverečná	V;PRS;V.PTCP	ADJ;NOM;FEM;SG
+afsluttende	konečný	afslutte	konečný	V;PRS;V.PTCP	ADJ;ANIM;NOM;MASC;SG
+afsluttende	záverečné	afslutte	záverečný	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG
+emilie	emilie	emilie	emilie		PROPN;NOM;FEM;SG
+utah	utahu	utah	utah		N;INAN;GEN;MASC;SG
+joint	kĺb	joint	kĺb		N;INAN;NOM;MASC;SG
+joint	joint	joint	joint		N;INAN;NOM;MASC;SG
+joint	spoločné	joint	spoločný		ADJ;NOM;NEUT;SG
+joint	spoločná	joint	spoločný		ADJ;NOM;FEM;SG
+joint	spoločný	joint	spoločný		ADJ;INAN;NOM;MASC;SG
+ondt	zlo	ondt	zlo	ADV	N;NOM;NEUT;SG
+ondt	zla	ondt	zlo	ADV	N;GEN;NEUT;SG
+ondt	zlom	ondt	zlom	ADV	N;INS;NEUT;SG
+ondt	zranená	ondt	zranený	ADV	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+ondt	zranený	ondt	zranený	ADV	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+ondt	ublížiť	ondt	ublížiť	ADV	V;PFV;POS;NFIN
+ondt	krutý	ondt	krutý	ADV	ADJ;ANIM;NOM;MASC;SG
+ondt	krutá	ondt	krutý	ADV	ADJ;NOM;FEM;SG
+ondt	kruté	ondt	krutý	ADV	ADJ;NOM;NEUT;SG
+fattig	chudobných	fattig	chudobný	ADJ;INDF;MASC+FEM;SG	ADJ;GEN;MASC;PL
+fattig	chudák	fattig	chudák	ADJ;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;SG
+fattig	chudobní	fattig	chudobniť	ADJ;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;PL
+funktionen	funkcie	funktion	funkcia	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+mainsnak	mainsnak	mainsnak	mainsnak		ADV
+avanceret	pokročilý	avanceret	pokročilý	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG
+avanceret	pokročilé	avanceret	pokročilý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+avanceret	rozšírené	avanceret	rozšírený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fauna	fauny	fauna	fauna	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+udsatte	odložiť	udsat	odložiť	ADJ;PL	V;PFV;POS;NFIN
+udsatte	odložené	udsat	odložený	ADJ;PL	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udsatte	odložený	udsat	odložený	ADJ;PL	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+udsatte	odložiť	udsat	odložiť	ADJ;PL	V;PFV;POS;NFIN
+udsatte	odložené	udsat	odložený	ADJ;PL	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udsatte	odložili	udsat	odložiť	ADJ;PL	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+udsatte	zraniteľné	udsat	zraniteľný	ADJ;PL	ADJ;NOM;NEUT;SG
+udsatte	zraniteľná	udsat	zraniteľný	ADJ;PL	ADJ;NOM;FEM;SG
+udsatte	zraniteľný	udsat	zraniteľný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+craig	craig	craig	craig		PROPN;ANIM;NOM;MASC;SG
+stjernen	star	stjerne	star	N;DEF;MASC+FEM;SG	
+stjernen	hviezdny	stjerne	hviezdny	N;DEF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+bonn	bonne	bonn	bonne	PROPN	PROPN;NOM;MASC;SG
+mekaniske	mechanické	mekanisk	mechanický	ADJ;PL	ADJ;NOM;NEUT;SG
+mekaniske	mechanická	mekanisk	mechanický	ADJ;PL	ADJ;NOM;FEM;SG
+mekaniske	mechanický	mekanisk	mechanický	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+flytning	premiestnenia	flytning	premiestnenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+undersøgte	preskúmané	undersøge	preskúmaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgte	skúmané	undersøge	skúmaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+undersøgte	skúmaných	undersøge	skúmaný	V;IND;PST;FIN;ACT	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+gottlieb	gottlieb	gottlie	gottleb	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+jung	jung	jung	jung		N;ANIM;NOM;MASC;SG
+sheffield	sheffield	sheffield	sheffield		N;INAN;NOM;MASC;SG
+offensiven	urážlivé	offensiv	urážlivý	N;DEF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+truman	truman	truman	truman		N;ANIM;NOM;MASC;SG
+harbor	harbor	harbor	harbor		N;INAN;NOM;MASC;SG
+harbor	prístav	harbor	prístava		N;INAN;NOM;MASC;SG
+påstande	tvrdí	påstande	tvrdiť	N;INDF;MASC+FEM;PL	V;IPFV;IND;SG;3;POS;PRS;FIN
+påstande	obvinení	påstande	obvinenie	N;INDF;MASC+FEM;PL	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+eftermiddagen	poobede	eftermiddag	poobede	N;DEF;MASC+FEM;SG	ADV
+eftermiddagen	popoludní	eftermiddag	popoludní	N;DEF;MASC+FEM;SG	ADV
+cm³	cm³	cm³	cm³		PROPN;ANIM;NOM;MASC;SG
+deutschen	deutschen	deutschen	deutschen	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+crystal	crystal	crystal	crystať		PROPN;ANIM;NOM;MASC;SG
+crystal	kryštál	crystal	kryštál		N;INAN;NOM;MASC;SG
+vedligeholdelse	údržby	vedligeholdelse	údržey	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+sid	sid	sid	sid	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+homo	homo	homo	homo		N;INAN;NOM;MASC;SG
+malcolm	malcolm	malcolm	malcol		N;ANIM;NOM;MASC;SG
+perfekt	perfektne	perfekt	perfektne	ADJ;INDF;SG	ADV
+fugtige	vlhké	fugtig	vlhký	ADJ;PL	ADJ;NOM;NEUT;SG
+fugtige	vlhký	fugtig	vlhký	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+fugtige	vlhké	fugtig	vlhký	ADJ;PL	ADJ;NOM;NEUT;SG
+fugtige	vlhko	fugtig	vlhko	ADJ;PL	N;NOM;NEUT;SG
+cat	kocúr	cat	kocúr		N;ANIM;NOM;MASC;SG
+cat	mačka	cat	mačka		N;NOM;FEM;SG
+cat	cat	cat	cat		PROPN;ANIM;VOC;MASC;SG
+sild	slede	sild	sled	N;INDF;MASC+FEM;PL	ADV
+udfald	výsledky	udfald	výsledok	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+udfald	výstupy	udfald	výstup	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+commonwealth	spoločenstva	commonwealth	spoločenstvo		N;NOM;NEUT;PL
+commonwealth	spoločenstvo	commonwealth	spoločenstvo		N;NOM;NEUT;SG
+kunstig	umelých	kunstig	umelý	ADJ;INDF;MASC+FEM;SG	ADJ;GEN;MASC;PL
+dos	dos	dos	dos		PROPN;ANIM;NOM;MASC;SG
+fods	pešo	fod	pešo	N;INDF	ADV
+oregon	oregon	oregon	oregon		PROPN;ANIM;NOM;MASC;SG
+bordeaux	bordeaux	bordeaux	bordeaux		N;INAN;NOM;MASC;SG
+earl	earl	earl	earl		PROPN;ANIM;NOM;MASC;SG
+bæres	nosenie	bære	nosenie	V;IND;PRS;FIN;PASS	N;NOM;NEUT;SG
+fotos	photos	fotos	photos	N;INDF;NEUT;PL	N;NOM;MASC;SG
+mistanke	podozrenia	mistanke	podozrenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+mistanke	podozrivé	mistanke	podozrivý	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+mistanke	podozrivý	mistanke	podozrivý	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+mistanke	podozrivá	mistanke	podozrivý	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+mistanke	podozrivý	mistanke	podozrivý	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+mistanke	podozrenia	mistanke	podozrenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+antager	predpokladajme	antage	predpokladať	V;IND;PRS;FIN;ACT	V;IPFV;IMP;PL;1;POS;FIN
+paradis	paradise	paradis	paradisa	N;INDF;NEUT;SG	N;NOM;FEM;PL
+svømmer	kúpanie	svømme	kúpanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+svømmer	plávanie	svømme	plávanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+svømmer	plávajúce	svømme	plávajúci	V;IND;PRS;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT
+svømmer	záchranár	svømme	záchranár	V;IND;PRS;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+svømmer	plavec	svømme	plavec	V;IND;PRS;FIN;ACT	N;ANIM;NOM;MASC;SG
+maine	maine	maine	maina	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+afgrænset	definovaný	afgrænse	definovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+afgrænset	vymedzená	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	definované	afgrænse	definovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+afgrænset	definovaná	afgrænse	definovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	vymedzených	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+afgrænset	vymedzená	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	vymedzené	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+afgrænset	vymedzenú	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;ACC;FEM;SG;POS;V.PTCP;PASS
+afgrænset	vymedzená	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	vymedzená	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	vymedzenú	afgrænse	vymedzený	V;INDF;SG;PST;V.PTCP	ADJ;ACC;FEM;SG;POS;V.PTCP;PASS
+afgrænset	ohraničená	afgrænse	ohraničený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+afgrænset	ohraničené	afgrænse	ohraničený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+afgrænset	ohraničenú	afgrænse	ohraničený	V;INDF;SG;PST;V.PTCP	ADJ;ACC;FEM;SG;POS;V.PTCP;PASS
+moderat	stredne	moderat	strednúť	ADJ;INDF;MASC+FEM;SG	ADV
+moderat	pomerne	moderat	pomerne	ADJ;INDF;MASC+FEM;SG	PART
+moderat	mierne	moderat	mierne	ADJ;INDF;MASC+FEM;SG	ADV
+moderat	stredne	moderat	strednúť	ADJ;INDF;MASC+FEM;SG	ADV
+brændende	pálenie	brænde	pálenie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+brændende	spaľovanie	brænde	spaľovanie	V;PRS;V.PTCP	N;NOM;NEUT;SG
+friends	priatelia	friends	priateľ	V;PRS;V.PTCP	N;ANIM;NOM;MASC;PL
+friends	priateľov	friends	priateľ	V;PRS;V.PTCP	N;ANIM;ACC;MASC;PL
+friends	kamaráti	friends	kamarát	V;PRS;V.PTCP	N;ANIM;NOM;MASC;PL
+dedikeret	venovaná	dedikere	venovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+gemt	ukryté	gemme	ukrytý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+gemt	skrytý	gemme	skrytý	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+gemt	skrytá	gemme	skrytý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+gemt	skryté	gemme	skrytý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+gemt	uložená	gemme	uložený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+gemt	uložené	gemme	uložený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+gemt	zachránený	gemme	zachránený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+gemt	zachránili	gemme	zachrániť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+oplyste	osvietený	oplyse	osvietený	V;IND;PST;FIN;ACT	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+tang	tang	tang	tang	N;INDF;MASC+FEM;SG	INTJ
+opretter	vytvorte	oprette	vytvoriť	V;IND;PRS;FIN;ACT	V;PFV;IMP;PL;2;POS;FIN
+opretter	vytváranie	oprette	vytváranie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+opretter	vytvorenie	oprette	vytvorenie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+opretter	stvoriteľ	oprette	stvoriteľ	V;IND;PRS;FIN;ACT	N;ANIM;NOM;MASC;SG
+opretter	tvorca	oprette	tvorca	V;IND;PRS;FIN;ACT	N;ANIM;NOM;MASC;SG
+midterste	blízkom	midter	blízky	ADJ;DEF;RL	ADJ;INS;NEUT;SG
+midterste	stredný	midter	stredný	ADJ;DEF;RL	ADJ;ANIM;NOM;MASC;SG
+midterste	stredné	midter	stredný	ADJ;DEF;RL	ADJ;NOM;NEUT;SG
+midterste	stredná	midter	stredný	ADJ;DEF;RL	ADJ;NOM;FEM;SG
+midterste	stred	midter	stred	ADJ;DEF;RL	N;INAN;NOM;MASC;SG
+forkerte	nesprávna	forkert	správny	ADJ;PL	ADJ;NOM;FEM;SG
+forkerte	zle	forkert	zle	ADJ;PL	ADV
+forkerte	nesprávne	forkert	nesprávny	ADJ;PL	ADV
+forkerte	nesprávny	forkert	nesprávny	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+affald	odpady	affald	odpad	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+affald	odpady	affald	odpad	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+maximilian	maximilian	maximilian	maximilian	N;INDF;MASC+FEM;SG	N;ANIM;NOM;MASC;PL
+suzuki	suzuki	suzuki	suzuk		N;INAN;NOM;MASC;SG
+jelena	jelena	jelena	jeleno		N;NOM;FEM;SG
+lægen	doctor	læge	doctor	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+taktik	taktiky	taktik	taktika	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+medina	medina	medina	medina		PROPN;ANIM;NOM;MASC;SG
+munden	papule	mund	papuľa	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+munden	ústa	mund	ústa	N;DEF;MASC+FEM;SG	N;NOM;NEUT;PL
+konrad	konrad	konrad	konrad		PROPN;ANIM;NOM;MASC;SG
+kæmpet	bojovali	kæmpe	bojovať	V;INDF;SG;PST;V.PTCP	V;ANIM;IPFV;MASC;PL;POS;PST;V.PTCP
+filmet	natočené	film	natočený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+arkiveret	archivované	arkivere	archivovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+arkiveret	podané	arkivere	podaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+arkiveret	podaná	arkivere	podaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+rocky	rocky	rocky	rocky	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+larsson	larsson	larsson	larsson		PROPN;ANIM;NOM;MASC;SG
+bemærkede	zaznamenaná	bemærket	zaznamenaný	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+bemærkede	zaznamenané	bemærket	zaznamenaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+sorg	zial	sorg	ziať	N;INDF;MASC+FEM;SG	INTJ
+edith	edith	edith	edith	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+olof	olof	olof	olof	PROPN	PROPN;ANIM;NOM;MASC;SG
+wulff	wulff	wulff	wulff		PROPN;ANIM;NOM;MASC;SG
+smed	kováč	smide	kováč	V;IND;PST;FIN;ACT	N;ANIM;NOM;MASC;SG
+absolutte	absolútna	absolutte	absolútny	ADJ;PL	ADJ;NOM;FEM;SG
+absolutte	absolútnu	absolutte	absolútny	ADJ;PL	N;ACC;FEM;SG
+absolutte	absolútne	absolutte	absolútny	ADJ;PL	ADV
+absolutte	absolútny	absolutte	absolútny	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+aske	ash	aske	ash	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+davies	davies	davie	daviesť		PROPN;ANIM;NOM;MASC;SG
+sår	rany	sår	rana	N;INDF;NEUT;SG	N;NOM;FEM;PL
+sår	rán	sår	rán	N;INDF;NEUT;SG	N;GEN;FEM;PL
+sår	poranenia	sår	poranenie	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+sår	rany	sår	rana	N;INDF;NEUT;SG	N;NOM;FEM;PL
+kulturarv	dedičstva	kulturarv	dedičstvo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+trine	katka	trine	katka		N;NOM;FEM;SG
+alliancen	aliancie	alliance	aliancia	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+identificeret	identifikovaná	identificere	identifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+identificeret	identifikované	identificere	identifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+identificeret	identifikovaný	identificere	identifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+identificeret	identifikovaných	identificere	identifikovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+afskediget	prepustený	afskedige	prepustený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+afskediget	odvolaný	afskedige	odvolaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+afskediget	zamietnuté	afskedige	zamietnutý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+money	money	money	money		N;INAN;NOM;MASC;SG
+money	peňazí	money	peniaze		N;INAN;GEN;MASC;PL
+money	peniaze	money	peniaz		N;INAN;NOM;MASC;PL
+knut	knut	knut	knut		PROPN;ANIM;NOM;MASC;SG
+leeds	leeds	leeds	leeds		PROPN;INAN;NOM;MASC;SG
+protein	bielkovín	protein	bielkovina	N;INDF;NEUT;SG	N;GEN;FEM;PL
+protein	proteíny	protein	proteina	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+protein	bielkoviny	protein	bielkovina	N;INDF;NEUT;SG	N;NOM;FEM;PL
+protein	proteíny	protein	proteina	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+protein	bielkoviny	protein	bielkovina	N;INDF;NEUT;SG	N;NOM;FEM;PL
+netværket	siete	netværk	sieť	N;DEF;NEUT;SG	N;NOM;FEM;PL
+netværket	sieťové	netværk	sieťový	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG
+roberto	roberto	roberto	roberto		PROPN;ANIM;NOM;MASC;SG
+genetisk	geneticky	genetisk	geneticky	ADJ;INDF;SG	ADV
+tømmer	drevo	tømme	drevo	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+intellektuelle	intelektuálov	intellektuel	intelektuál	ADJ;PL	N;INAN;GEN;MASC;PL
+intellektuelle	intelektuálne	intellektuel	intelektuálne	ADJ;PL	ADV
+intellektuelle	duševného	intellektuel	duševný	ADJ;PL	ADJ;GEN;NEUT;SG
+intellektuelle	duševné	intellektuel	duševný	ADJ;PL	ADJ;NOM;NEUT;SG
+ibm	ibm	ibm	ibm	N;INDF;MASC+FEM;SG	
+udtrykt	vyjadrené	udtrykke	vyjadrený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udtrykt	vyjadrený	udtrykke	vyjadrený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+berkeley	berkeley	berkeley	berkeley		N;NOM;FEM;PL
+indkomst	príjmy	indkomst	príjmy	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+indkomst	výnosy	indkomst	výnos	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+björn	björn	björn	björn	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+faldne	padol	falden	padnúť	ADJ;PL	V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+faldne	padli	falden	padnúť	ADJ;PL	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+tegneserie	comic	tegneserie	comic	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+tegneserie	kreslené	tegneserie	kreslený	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;PL;POS;V.PTCP;PASS
+bedrifter	držba	bedrifter	držba	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+koalition	koalície	koalition	koalícia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+forever	navždy	foreve	navždy	N;INDF;MASC+FEM;SG	ADV
+forever	naveky	foreve	naveky	N;INDF;MASC+FEM;SG	ADV
+perron	platformy	perron	platforma	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+omar	omar	omar	omar	PROPN	PROPN;ANIM;NOM;MASC;SG
+blok	blokovať	blok	blokovať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+blok	zablokovať	blok	zablokovať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+spænder	spony	spænde	spon	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+spænder	uzávery	spænde	uzáver	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+klinisk	klinických	klinisk	klinický	ADV	ADJ;GEN;MASC;PL
+klinisk	klinická	klinisk	klinický	ADV	ADJ;NOM;FEM;SG
+klinisk	klinického	klinisk	klinický	ADV	ADJ;GEN;NEUT;SG
+klinisk	klinické	klinisk	klinický	ADV	ADJ;NOM;NEUT;SG
+klinisk	klinický	klinisk	klinický	ADV	ADJ;ANIM;NOM;MASC;SG
+klinisk	klinickej	klinisk	klinický	ADV	ADJ;GEN;FEM;SG
+indså	realizovaná	indså	realizovaný	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+indså	realizovaný	indså	realizovaný	V;IND;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+indså	realizované	indså	realizovaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+word	slova	word	slovo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+onsdag	streda	onsdag	streda	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+onsdag	stredy	onsdag	stred	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+biologi	biológie	biologi	biológia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+palme	palm	palme	palm	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+frekvens	frekvencie	frekve	frekvencia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+airways	airways	airway	airways		N;NOM;FEM;SG
+maksimalt	maximálna	maksimalt	maximálny	ADV	ADJ;NOM;FEM;SG
+maksimalt	maximálny	maksimalt	maximálny	ADV	ADJ;INAN;NOM;MASC;SG
+maksimalt	maximum	maksimalt	maximum	ADV	N;INAN;NOM;MASC;SG
+hør	ľan	høre	ľan	V;IMP	N;INAN;NOM;MASC;SG
+defensiv	obranný	defensiv	obranný	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG
+defensiv	obranná	defensiv	obranný	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+defensiv	obranné	defensiv	obranný	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+patienten	trpezlivý	patient	trpezlivý	N;DEF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+patienten	pacientky	patient	pacientka	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+hannibal	hannibal	hannibal	hannibal	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+købes	kúp	købe	kúp	V;IND;PRS;NFIN;PASS	V;PFV;IMP;SG;2;POS;FIN
+købes	zakúpené	købe	zakúpený	V;IND;PRS;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+købes	kúpené	købe	kúpený	V;IND;PRS;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+købes	kúpila	købe	kúpiť	V;IND;PRS;NFIN;PASS	V;PFV;FEM;SG;POS;PST;V.PTCP
+købes	zakúpené	købe	zakúpený	V;IND;PRS;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+købes	kúpené	købe	kúpený	V;IND;PRS;NFIN;PASS	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+købes	kúpil	købe	kúpiť	V;IND;PRS;NFIN;PASS	V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+janeiro	janeiro	janeiro	janeiro		
+gotha	gotha	gotha	gotha		PROPN;ANIM;NOM;MASC;SG
+genoptog	obnovený	genoptog	obnovený	V;IND;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+genoptog	obnovená	genoptog	obnovený	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+genoptog	obnovené	genoptog	obnovený	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forbeholdt	rezervované	forbeholde	rezervovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forbeholdt	vyhradené	forbeholde	vyhradený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forbeholdt	vyhradená	forbeholde	vyhradený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+indvandring	prisťahovalectva	indvandring	prisťahovalectvo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+indvandring	migrácie	indvandring	migrácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+hjalmar	hjalmar	hjalmar	hjalmar		N;ANIM;NOM;MASC;SG
+derby	derby	derby	derba	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+salvador	salvador	salvador	salvador		N;ANIM;NOM;MASC;SG
+duke	duke	duke	duka		PROPN;ANIM;NOM;MASC;SG
+duke	vojvoda	duke	vojvoda		N;ANIM;NOM;MASC;SG
+mønt	mince	mønt	minca	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+isaac	isaac	isaac	isaac		N;ANIM;NOM;MASC;SG
+myspace	myspace	myspace	myspaca	N;INDF;NEUT;SG	N;NOM;FEM;PL
+forhandle	rokovania	forhandle	rokovanie	V;NFIN;ACT	N;NOM;NEUT;PL
+forhandle	vyjednávanie	forhandle	vyjednávanie	V;NFIN;ACT	N;NOM;NEUT;SG
+forhandle	rokovanie	forhandle	rokovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+lis	liz	lis	liz		PROPN;NOM;FEM;SG
+lis	lis	lis	lis		N;INAN;NOM;MASC;SG
+indeholdende	obsahujúce	indeholde	obsahujúci	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT
+indeholdende	obsahujúca	indeholde	obsahujúci	V;PRS;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;ACT
+indeholdende	obsahujúci	indeholde	obsahujúci	V;PRS;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;ACT
+genoptaget	obnovený	genoptage	obnovený	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+genoptaget	obnovená	genoptage	obnovený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+genoptaget	obnovené	genoptage	obnovený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+påvirkede	ovplyvnený	påvirke	ovplyvnený	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+påvirkede	ovplyvnil	påvirke	ovplyvniť	V;PL;PST;V.PTCP	V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+påvirkede	ovplyvnené	påvirke	ovplyvnený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+påvirkede	ovplyvnená	påvirke	ovplyvnený	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+påvirkede	postihnutý	påvirke	postihnutý	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG
+påvirkede	ovplyvnené	påvirke	ovplyvnený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+påvirkede	ovplyvnená	påvirke	ovplyvnený	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+påvirkede	zasiahnuté	påvirke	zasiahnutý	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+påvirkede	postihnutá	påvirke	postihnutý	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG
+grafik	grafické	grafik	grafický	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+grafik	grafický	grafik	grafický	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG
+grafik	grafické	grafik	grafický	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+forældet	zastarané	forælde	zastaraný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forældet	zastarané	forælde	zastaraný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+fantasi	fantázie	fantasi	fantázia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+rostock	rostock	rostock	rostock	N;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+mos	moss	mos	moss	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+farvel	dovidenia	farvel	dovidenie	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+farvel	dovidenia	farvel	dovidenie	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+specialiserede	špecializovaných	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+specialiserede	špecializované	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+specialiserede	špecializovaná	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+specialiserede	špecializovaný	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+specialiserede	špecializované	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+specialiserede	špecializovaná	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+specialiserede	špecializovaný	specialisere	špecializovaný	V;PL;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+geologisk	geologická	geologisk	geologický	ADV	ADJ;NOM;FEM;SG
+geologisk	geologické	geologisk	geologický	ADV	ADJ;NOM;NEUT;SG
+jin	jin	jin	jin		N;NOM;FEM;SG
+vandret	horizontálne	vandret	horizontálne	V;INDF;SG;PST;V.PTCP	ADV
+vandret	horizontálny	vandret	horizontálny	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG
+vandret	horizontálne	vandret	horizontálne	V;INDF;SG;PST;V.PTCP	ADV
+vandret	horizontálna	vandret	horizontálny	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+isle	isle	isle	isle	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+homoseksuelle	gayov	homoseksuel	gay	ADJ;PL	N;ANIM;ACC;MASC;PL
+homoseksuelle	homosexuál	homoseksuel	homosexuál	ADJ;PL	N;ANIM;NOM;MASC;SG
+homoseksuelle	homosexuálov	homoseksuel	homosexuál	ADJ;PL	N;ANIM;ACC;MASC;PL
+gennemgået	preskúmané	gennemgå	preskúmaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+aluminium	hliníkové	aluminium	hliníkový	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+aluminium	hliníkové	aluminium	hliníkový	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+tanzania	tanzánia	tanzania	tanzániť		N;NOM;FEM;SG
+miguel	miguel	miguel	miguel		PROPN;ANIM;NOM;MASC;SG
+rosen	rosen	rose	rosen	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+clinton	clinton	clinton	clinton		PROPN;ANIM;NOM;MASC;SG
+tungere	ťažšie	tung	ťažký	ADJ;CMPR	ADV;CMPR
+uddrag	výťažky	uddrag	výťažka	N;INDF;NEUT;SG	N;NOM;FEM;PL
+uddrag	výpisy	uddrag	výpis	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+uddrag	úryvky	uddrag	úryvok	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+rimelig	pomerne	rimelig	pomerne	ADJ;INDF;MASC+FEM;SG	PART
+rimelig	spravodlivo	rimelig	spravodlivo	ADJ;INDF;MASC+FEM;SG	ADV
+rimelig	fér	rimelig	fér	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+rimelig	veľtrh	rimelig	veľtrh	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+ødelæggelse	ničenia	ødelæggelse	ničenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+lander	lander	land	lander	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+lander	pristátia	land	pristátiť	V;IND;PRS;FIN;ACT	N;NOM;NEUT;PL
+lander	pristátie	land	pristátiť	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+lander	land	land	land	V;IND;PRS;FIN;ACT	
+lander	pozemok	land	pozemok	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+lander	pôdy	land	pôda	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+lander	pozemky	land	pozemok	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+lander	pôda	land	pôda	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+kids	deti	kids	dieťa	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+kids	detská	kids	detský	N;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+kids	decká	kids	decko	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+hang	hung	hænge	hung	V;IMP	PROPN;ANIM;NOM;MASC;SG
+hang	závesné	hænge	závesný	V;IMP	ADJ;NOM;NEUT;SG
+hang	visí	hænge	visieť	V;IMP	V;IPFV;IND;SG;3;POS;PRS;FIN
+ålborg	aalborg	ålborg	aalborg		PROPN;INAN;NOM;MASC;SG
+ioc	mov	ioc	mov	PROPN	
+mai	mai	mai	mať		PROPN;ANIM;NOM;MASC;SG
+udrustet	vybavené	udruste	vybavený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udrustet	vybavená	udruste	vybavený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+udrustet	vybavený	udruste	vybavený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+tænkning	myslenia	tænkning	myslenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+tænkning	myslel	tænkning	myslieť	N;INDF;MASC+FEM;SG	V;ANIM;IPFV;MASC;SG;POS;PST;V.PTCP
+tænkning	premýšľa	tænkning	premýšľa	N;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN
+village	dediny	villag	dedina		N;NOM;FEM;PL
+village	dedinka	villag	dedinka		N;NOM;FEM;SG
+village	dedine	villag	dedina		N;DAT;FEM;SG
+village	dedina	villag	dedina		N;NOM;FEM;SG
+village	obec	villag	obec		N;NOM;FEM;SG
+straffe	trest	straffe	trest	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+straffe	pokuta	straffe	pokut	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+straffe	sankcia	straffe	sankcia	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+straffe	treste	straffe	trest	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+straffe	potrestať	straffe	potrestať	N;INDF;MASC+FEM;PL	V;PFV;POS;NFIN
+straffe	trestať	straffe	trestať	N;INDF;MASC+FEM;PL	V;IPFV;POS;NFIN
+straffe	trest	straffe	trest	N;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;SG
+straffe	potrestanie	straffe	potrestanie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+straffe	trestom	straffe	trest	N;INDF;MASC+FEM;PL	N;INAN;INS;MASC;SG
+fladt	byt	fladt	byt	ADV	N;INAN;NOM;MASC;SG
+fladt	ploché	fladt	plochý	ADV	ADJ;NOM;NEUT;SG
+fladt	plochá	fladt	plochý	ADV	ADJ;NOM;FEM;SG
+raw	surový	raw	surový		ADJ;ANIM;NOM;MASC;SG
+raw	surové	raw	surový		ADJ;NOM;NEUT;SG
+raw	raw	raw	raw		
+psykiske	psychologický	psykisk	psychologický	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+psykiske	psychické	psykisk	psychický	ADJ;PL	ADJ;NOM;NEUT;SG
+psykiske	psychologické	psykisk	psychologický	ADJ;PL	ADJ;NOM;NEUT;SG
+psykiske	mentálne	psykisk	mentálne	ADJ;PL	ADV
+psykiske	duševne	psykisk	duševne	ADJ;PL	ADV
+psykiske	duševná	psykisk	duševný	ADJ;PL	ADJ;NOM;FEM;SG
+psykiske	duševné	psykisk	duševný	ADJ;PL	ADJ;NOM;NEUT;SG
+georgien	gruzínska	georgi	gruzínsky	PROPN	N;NOM;FEM;SG
+georgien	georgia	georgi	georgia	PROPN	PROPN;NOM;FEM;SG
+georgien	gruzínsko	georgi	gruzínsko	PROPN	N;NOM;NEUT;SG
+jefferson	jefferson	jefferson	jefferson	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+francesco	francesco	francesco	francesco	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+kommercielt	komerčné	kommercielt	komerčný	ADV	ADJ;NOM;NEUT;SG
+kommercielt	obchodný	kommercielt	obchodný	ADV	ADJ;ANIM;NOM;MASC;SG
+kommercielt	obchodná	kommercielt	obchodný	ADV	ADJ;NOM;FEM;SG
+kommercielt	komerčný	kommercielt	komerčný	ADV	ADJ;ANIM;NOM;MASC;SG
+kommercielt	obchodné	kommercielt	obchodný	ADV	ADJ;NOM;NEUT;SG
+ekspeditioner	expedícia	ekspedition	expedícia	N;INDF;MASC+FEM;PL	N;NOM;FEM;SG
+menigheden	kongregácie	menighed	kongregácia	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+ørkenen	púšte	ørken	púšiť	N;DEF;MASC+FEM;SG	N;NOM;FEM;PL
+hurtigste	najrýchlejšie	hurtigst	rýchlo	ADJ;DEF;RL	ADV;RL
+værelse	izby	værelse	izba	N;INDF;NEUT;SG	N;NOM;FEM;PL
+værelse	miestnosti	værelse	miestnosť	N;INDF;NEUT;SG	N;NOM;FEM;PL
+monroe	monroe	monroe	monro		PROPN;NOM;FEM;SG
+ssr	ssr	ssr	ssr	ADJ;INDF;MASC+FEM;SG	
+connecticut	connecticute	connecticut	connecticut	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+gibraltar	gibraltár	gibraltar	gibraltár	ADJ;INDF;SG	N;NOM;MASC;SG
+gudinde	bohyne	gudinde	bohyňa	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+américa	américa	américa	américa		N;NOM;FEM;SG
+kristina	kristina	kristina	kristina		N;NOM;FEM;SG
+pittsburgh	pittsburghu	pittsburgh	pittsburgha		N;INAN;GEN;MASC;SG
+frataget	zbavený	fratag	zbavený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+flok	stáda	flok	stádať	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+dawn	dawn	dawn	dawn	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+gennemsnitlig	priemer	gennemsnitlig	priemer	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+gennemsnitlig	priemerne	gennemsnitlig	priemerne	ADJ;INDF;MASC+FEM;SG	ADV
+mile	míľu	mil	míľ		N;ACC;FEM;SG
+mile	mile	mil	milo		N;NOM;MASC;SG
+bristol	bristol	bristol	bristnúť		PROPN;INAN;NOM;MASC;SG
+blokere	blokovania	blok	blokovanie	V;NFIN;ACT	N;NOM;NEUT;PL
+blokere	zablokovanie	blok	zablokovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+blokere	blokovanie	blok	blokovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+blokere	blok	blok	blok	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+blokere	blokovanie	blok	blokovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+blokere	zablokovanie	blok	zablokovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+blokere	bloku	blok	blok	V;NFIN;ACT	N;INAN;GEN;MASC;SG
+rimeligt	primerane	rimelig	primerane	ADJ;INDF;NEUT;SG	ADV
+rimeligt	rozumne	rimelig	rozumne	ADJ;INDF;NEUT;SG	ADV
+rimeligt	fér	rimelig	fér	ADJ;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+rimeligt	veľtrh	rimelig	veľtrh	ADJ;INDF;NEUT;SG	N;INAN;NOM;MASC;SG
+distance	vzdialenosti	distance	vzdialenosť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+forberedt	pripravená	forberede	pripravený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+forberedt	pripravené	forberede	pripravený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forberedt	pripravení	forberede	pripravený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+negativt	negatívna	negativt	gatívny	ADV	ADJ;NOM;FEM;SG
+negativt	negatívny	negativt	negatívny	ADV	ADJ;INAN;NOM;MASC;SG
+negativt	záporné	negativt	záporný	ADV	ADJ;NOM;NEUT;SG
+efterladte	preživších	efterlade	preživý	V;PL;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL
+efterladte	neprežil	efterlade	prežiť	V;PL;PST;V.PTCP	V;ANIM;PFV;MASC;SG;NEG;PST;V.PTCP
+kompliceret	komplex	kompliceret	komplex	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+bonus	bonusy	bonus	bonus	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+bonus	prémie	bonus	prémieť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ghana	ghana	ghana	ghan	PROPN	N;NOM;FEM;SG
+giuseppe	giuseppe	giuseppe	giuseppa	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+sejlads	navigačných	sejlads	navigačný	N;INDF;MASC+FEM;SG	ADJ;GEN;MASC;PL
+orienteret	orientované	orientere	orientovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+orienteret	orientovaný	orientere	orientovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+orienteret	orientovaná	orientere	orientovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+orienteret	informovaní	orientere	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+orienteret	informované	orientere	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+orienteret	informovaný	orientere	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+oplyst	svetelné	oplyse	svetelný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+oplyst	informovaní	oplyse	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;PL;POS;V.PTCP;PASS
+oplyst	informované	oplyse	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+oplyst	informovaný	oplyse	informovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+oplyst	osvietený	oplyse	osvietený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+gemme	save	gemme	sav	V;NFIN;ACT	
+gemme	uloženie	gemme	uloženie	V;NFIN;ACT	N;NOM;NEUT;SG
+jeanne	jeanne	jeanne	jeanne	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+eugen	eugen	eugen	eugen	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+serv	slúžia	serv	slúžiť	N;INDF;MASC+FEM;SG	V;IPFV;IND;PL;3;POS;PRS;FIN
+serv	slúžiť	serv	slúžiť	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+mon	mon	mon	mon	ADV	PROPN;ANIM;NOM;MASC;SG
+lily	lily	lily	lila		N;NOM;FEM;SG
+medie	médií	medie	médieť	N;INDF;NEUT;SG	N;GEN;FEM;PL
+medie	media	medie	medieť	N;INDF;NEUT;SG	
+medie	médiá	medie	médiať	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+medie	média	medie	média	N;INDF;NEUT;SG	N;NOM;NEUT;PL
+medie	mediálne	medie	mediálny	N;INDF;NEUT;SG	ADV
+medie	stredne	medie	strednúť	N;INDF;NEUT;SG	ADV
+medie	stredný	medie	stredný	N;INDF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG
+medie	stredná	medie	stredný	N;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+medie	stredné	medie	stredný	N;INDF;NEUT;SG	ADJ;NOM;NEUT;SG
+gene	gene	gene	gena	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+fisher	fisherová	fishe	fisherový	N;INDF;MASC+FEM;SG	ADJ;NOM;FEM;SG
+fisher	fisher	fishe	fisher	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+styr	riadiť	styr	riadiť	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+udnyttede	využité	udnytte	využitý	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udnyttede	využívaná	udnytte	využívaný	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+udnyttede	využívaná	udnytte	využívaný	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+udnyttede	využitá	udnytte	využitý	V;IND;PST;FIN;ACT	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+dsu	dus	dsu	dus	N;INDF;NEUT;SG	INTJ
+håkon	haakon	håkon	haakon		N;INAN;NOM;MASC;SG
+boks	box	boks	box	N;INDF;MASC+FEM;SG	
+overlevet	prežili	overleve	prežiť	V;INDF;SG;PST;V.PTCP	V;ANIM;PFV;MASC;PL;POS;PST;V.PTCP
+bøde	pokuty	bøde	pokut	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+bøde	pokút	bøde	pokút	N;INDF;MASC+FEM;SG	N;GEN;FEM;PL
+beholder	udržiavanie	beholde	udržiavanie	V;IND;PRS;FIN;ACT	N;NOM;NEUT;SG
+beholder	nádoba	beholde	nádob	V;IND;PRS;FIN;ACT	N;NOM;FEM;SG
+beholder	kontajner	beholde	kontajner	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;SG
+beholder	kontajnery	beholde	kontajner	V;IND;PRS;FIN;ACT	N;INAN;NOM;MASC;PL
+relief	úľavy	relief	úľava	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+mallorca	malorka	mallorca	malorka		N;NOM;FEM;SG
+mallorca	mallorca	mallorca	mallorca		N;INAN;NOM;MASC;SG
+fejre	oslava	fejre	oslava	V;NFIN;ACT	N;NOM;FEM;SG
+dogg	dogg	dogg	dogg		PROPN;ANIM;NOM;MASC;SG
+severin	severin	severin	severin	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+radioen	rádia	radio	rádio	N;DEF;MASC+FEM;SG	N;NOM;NEUT;PL
+madonna	madonna	madonna	madonna		N;NOM;FEM;SG
+skinner	skinner	skinne	skinner	V;IND;PRS;FIN;ACT	N;ANIM;NOM;MASC;SG
+skinner	koľajnice	skinne	koľajnica	V;IND;PRS;FIN;ACT	N;NOM;FEM;PL
+hjort	jeleň	hjort	jeleň		N;ANIM;NOM;MASC;SG
+hjort	jeleňa	hjort	jeleň		N;ANIM;ACC;MASC;SG
+rapporteret	nahlásené	rapportere	nahlásený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+rapporteret	hlásené	rapportere	hlásený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+puerto	puerto	puerto	puerto		N;INAN;NOM;MASC;SG
+kalmar	kalmar	kalmar	kalmar	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+organisere	zorganizovanie	organisere	zorganizovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+organisere	organizovanie	organisere	organizovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+udnyttelse	vykorisťovania	udnyttelse	vykorisťovanie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+annie	annie	annie	anniť	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+stabile	stabilné	stabil	stabilný	ADJ;PL	ADJ;NOM;NEUT;SG
+stabile	stabilná	stabil	stabilný	ADJ;PL	ADJ;NOM;FEM;SG
+stabile	stabilný	stabil	stabilný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+regnede	prší	regne	pršať	V;IND;PST;FIN;ACT	V;IPFV;IND;SG;3;POS;PRS;FIN
+internt	vnútorné	internt	vnútorný	ADV	ADJ;NOM;NEUT;SG
+internt	interné	internt	interný	ADV	N;INAN;NOM;MASC;PL
+internt	vnútorná	internt	vnútorný	ADV	ADJ;NOM;FEM;SG
+internt	interný	internt	interný	ADV	N;INAN;NOM;MASC;SG
+internt	vnútorný	internt	vnútorný	ADV	ADJ;ANIM;NOM;MASC;SG
+internt	interne	internt	interne	ADV	N;INAN;NOM;MASC;SG
+betjent	cop	betjene	cop	ADJ;INDF;SG	N;INAN;NOM;MASC;SG
+betjent	policajt	betjene	policajt	ADJ;INDF;SG	N;ANIM;NOM;MASC;SG
+betjent	úradník	betjene	úradník	ADJ;INDF;SG	N;ANIM;NOM;MASC;SG
+betjent	dôstojník	betjene	dôstojník	ADJ;INDF;SG	N;ANIM;NOM;MASC;SG
+betjent	strážnik	betjene	strážnik	ADJ;INDF;SG	N;ANIM;NOM;MASC;SG
+udstedte	emitované	udstedt	emitovaný	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udstedte	vydané	udstedt	vydané	V;IND;PST;FIN;ACT	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+udstedte	vydávaný	udstedt	vydávaný	V;IND;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+udstedte	vydaný	udstedt	vydaný	V;IND;PST;FIN;ACT	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+horne	horne	horne	horne		N;NOM;FEM;SG
+identiske	zhodné	identisk	zhodný	ADJ;PL	ADJ;NOM;NEUT;SG
+identiske	identické	identisk	identický	ADJ;PL	ADJ;NOM;NEUT;SG
+udtrykke	express	udtrykke	express	V;NFIN;ACT	PROPN;ANIM;NOM;MASC;SG
+husk	pamätaj	husk	pamätať	V;IMP	INTJ
+hvile	odpočinok	hvile	odpočinok	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+hvile	oddych	hvile	oddych	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+hvile	zvyšok	hvile	zvyšok	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+hvile	odpočinku	hvile	odpočinka	V;NFIN;ACT	N;INAN;GEN;MASC;SG
+challenge	vyzvať	challenge	vyzvať	N;INDF;MASC+FEM;SG	V;PFV;POS;NFIN
+metaller	metal	metal	metať	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+metaller	kovová	metal	kovovať	N;INDF;NEUT;PL	ADJ;NOM;FEM;SG
+metaller	kovové	metal	kovový	N;INDF;NEUT;PL	ADJ;NOM;NEUT;SG
+metaller	kov	metal	kov	N;INDF;NEUT;PL	N;INAN;NOM;MASC;SG
+tilskud	subvencie	tilskud	subvencia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	dotácie	tilskud	dotácia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	dotácií	tilskud	dotácia	N;INDF;NEUT;SG	N;GEN;FEM;PL
+tilskud	subvencie	tilskud	subvencia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	dotácie	tilskud	dotácia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	granty	tilskud	grant	N;INDF;NEUT;SG	N;INAN;NOM;MASC;PL
+tilskud	grantov	tilskud	grant	N;INDF;NEUT;SG	N;INAN;GEN;MASC;PL
+tilskud	subvencie	tilskud	subvencia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	dotácie	tilskud	dotácia	N;INDF;NEUT;SG	N;NOM;FEM;PL
+tilskud	udeliť	tilskud	udeliť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+alla	alla	alla	all	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+bern	bern	bern	bern	N;INDF;MASC+FEM;SG	PROPN;INAN;NOM;MASC;SG
+bern	berne	bern	berne	N;INDF;MASC+FEM;SG	PROPN;NOM;FEM;SG
+cook	kuchárka	cook	kuchárka		N;NOM;FEM;SG
+cook	cook	cook	cook		PROPN;ANIM;NOM;MASC;SG
+cook	kuchár	cook	kuchár		N;ANIM;NOM;MASC;SG
+cook	variť	cook	variť		V;IPFV;POS;NFIN
+trøndelag	trøndelag	trøndelag	trøndelag		V;IPFV;FEM;SG;POS;PST;V.PTCP
+somalia	somálsko	somalia	somálsko		N;NOM;NEUT;SG
+somalia	somálsku	somalia	somálsky		N;DAT;NEUT;SG
+somalia	sýria	somalia	sýria		N;NOM;FEM;SG
+somalia	somálska	somalia	somálsky		ADJ;NOM;FEM;SG
+kære	milí	kære	milý	ADJ;DEF;SG	ADJ;ANIM;NOM;MASC;PL
+styrmand	pilotný	styrmand	pilotný	N;INDF;MASC+FEM;SG	ADJ;INAN;NOM;MASC;SG
+styrmand	pilotného	styrmand	pilotný	N;INDF;MASC+FEM;SG	ADJ;GEN;NEUT;SG
+koncentration	koncentrácie	koncentration	koncentrácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+udløbet	vypršala	udløb	vypršať	N;DEF;NEUT;SG	V;PFV;FEM;SG;POS;PST;V.PTCP
+udløbet	skončila	udløb	skončiť	N;DEF;NEUT;SG	V;PFV;FEM;SG;POS;PST;V.PTCP
+kunstige	umelé	kunstig	umelý	ADJ;PL	ADJ;NOM;NEUT;SG
+kunstige	umelá	kunstig	umelať	ADJ;PL	ADJ;NOM;FEM;SG
+kunstige	umelý	kunstig	umelý	ADJ;PL	ADJ;INAN;NOM;MASC;SG
+vinci	vinci	vinci	vinca		N;ANIM;NOM;MASC;SG
+afc	afc	afc	afc	PROPN	PROPN;ANIM;NOM;MASC;SG
+guddommelige	božská	guddommelig	božský	ADJ;PL	ADJ;NOM;FEM;SG
+guddommelige	božské	guddommelig	božský	ADJ;PL	ADJ;NOM;NEUT;SG
+forsinket	neskorý	forsinke	neskorý	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG
+forsinket	neskoro	forsinke	neskoro	V;INDF;SG;PST;V.PTCP	ADV
+forsinket	oneskorené	forsinke	oneskorený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forsinket	neskoré	forsinke	neskorý	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+forsinket	meškanie	forsinke	meškanie	V;INDF;SG;PST;V.PTCP	N;NOM;NEUT;SG
+forsinket	oneskorené	forsinke	oneskorený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forsinket	oneskorenie	forsinke	oneskorenie	V;INDF;SG;PST;V.PTCP	N;NOM;NEUT;SG
+forsinket	oneskorené	forsinke	oneskorený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+forsinket	oneskorene	forsinke	oneskorene	V;INDF;SG;PST;V.PTCP	ADV
+baltimore	baltimore	baltimor	baltimor		N;INAN;NOM;MASC;SG
+franco	franco	franco	franco		PROPN;ANIM;NOM;MASC;SG
+jag	jag	jag	jag	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+hviler	odpočinku	hvile	odpočinka	V;IND;PRS;FIN;ACT	N;INAN;GEN;MASC;SG
+innovation	inovácie	innovation	inovácia	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+june	jún	jun	jún	N;INDF;MASC+FEM;SG	INTJ
+godkendelse	schválenia	godkendelse	schválenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+godkendelse	oprávnenia	godkendelse	oprávnenie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+nilsson	nilsson	nilsson	nilsson		PROPN;ANIM;NOM;MASC;SG
+ski	lyže	ski	lyže	N;INDF;NEUT;SG	N;NOM;FEM;PL
+ski	lyžovať	ski	lyžovať	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+ski	lyžiarske	ski	lyžiarsky	N;INDF;NEUT;SG	ADJ;NOM;NEUT;PL
+ski	lyžovať	ski	lyžovať	N;INDF;NEUT;SG	V;IPFV;POS;NFIN
+gear	prevody	gear	prevoda	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+vega	vega	vega	vega	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+jordskælvet	zemetrasenia	jordskælv	zemetrasenie	N;DEF;NEUT;SG	N;NOM;NEUT;PL
+engineering	inžinierske	engineering	inžiniersky	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+engineering	inžinierstva	engineering	inžinierstvo	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+udsendelse	vysielať	udsendelse	vysielať	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+udsendelse	vysielania	udsendelse	vysielanie	N;INDF;MASC+FEM;SG	N;NOM;NEUT;PL
+forrest	forrest	forrest	forrest		PROPN;ANIM;NOM;MASC;SG
+kfum	ymca	kfum	ymca	N;INDF;NEUT;SG	PROPN;ANIM;NOM;MASC;SG
+porte	gates	porte	gates	N;INDF;MASC+FEM;PL	PROPN;ANIM;NOM;MASC;SG
+gregor	gregor	gregor	gregor	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+gregor	gregory	gregor	gregor	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+gregor	gregor	gregor	gregor	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+aston	aston	aston	aston	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+advarsel	varuje	advarsel	varovať	N;INDF;MASC+FEM;SG	V;IPFV;IND;SG;3;POS;PRS;FIN
+kollegium	vysoká	kollegium	vysoký	N;INDF;NEUT;SG	ADJ;NOM;FEM;SG
+doctor	lekára	doctor	lekár		N;ANIM;ACC;MASC;SG
+doctor	doktor	doctor	doktor		N;ANIM;NOM;MASC;SG
+doctor	lekár	doctor	lekár		N;ANIM;NOM;MASC;SG
+doctor	lekárka	doctor	lekárka		N;NOM;FEM;SG
+doctor	doctor	doctor	doctor		PROPN;ANIM;NOM;MASC;SG
+definere	definovanie	definere	definovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+definere	definovanie	definere	definovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+definere	vymedzenie	definere	vymedzenie	V;NFIN;ACT	N;NOM;NEUT;SG
+reguleret	regulované	regulere	regulovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+reguleret	regulovaná	regulere	regulovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+reguleret	regulovaný	regulere	regulovaný	V;INDF;SG;PST;V.PTCP	ADJ;INAN;NOM;MASC;SG;POS;V.PTCP;PASS
+casino	kasína	casino	kasín	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+telefon	telefónne	telefon	telefónňa	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG
+dæmningen	dam	dæmning	dam	N;DEF;MASC+FEM;SG	
+retningslinjer	usmernenie	retningslinje	usmernenie	N;INDF;MASC+FEM;PL	N;NOM;NEUT;SG
+brænde	pálenie	brænde	pálenie	V;NFIN;ACT	N;NOM;NEUT;SG
+brænde	spaľovanie	brænde	spaľovanie	V;NFIN;ACT	N;NOM;NEUT;SG
+utc	utc	utc	utc	N;INDF;MASC+FEM;SG	
+mercury	ortuť	mercury	ortuť		N;NOM;FEM;SG
+mercury	ortuti	mercury	ortuti		N;INAN;GEN;MASC;SG
+ulf	ulf	ulf	ulf	PROPN	PROPN;ANIM;NOM;MASC;SG
+markus	markus	markus	markus		N;ANIM;NOM;MASC;SG
+masters	majstri	mast	majster	N;GEN;INDF;MASC+FEM;PL	N;ANIM;NOM;MASC;PL
+masters	kapitánov	mast	kapitán	N;GEN;INDF;MASC+FEM;PL	N;ANIM;ACC;MASC;PL
+masters	majstrov	mast	majster	N;GEN;INDF;MASC+FEM;PL	N;INAN;NOM;MASC;PL
+moralsk	morálny	moralsk	morálny	ADV	ADJ;ANIM;NOM;MASC;SG
+moralsk	morálnu	moralsk	morálny	ADV	ADJ;ACC;FEM;SG
+moralsk	morálne	moralsk	morálne	ADV	ADJ;NOM;NEUT;SG
+moralsk	morálka	moralsk	morálka	ADV	N;NOM;FEM;SG
+moralsk	morálna	moralsk	morálny	ADV	ADJ;NOM;FEM;SG
+intern	interné	intern	interný	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+intern	interný	intern	interný	ADJ;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;SG
+søværnet	námorný	søværn	námorný	N;DEF;NEUT;SG	ADJ;ANIM;NOM;MASC;SG
+søværnet	námorné	søværn	námorný	N;DEF;NEUT;SG	ADJ;NOM;NEUT;SG
+afrikansk	afrických	afrikansk	africký	ADJ;INDF;SG	ADJ;ANIM;GEN;MASC;PL
+givne	daný	givn	daný	ADJ;PL	ADJ;ANIM;NOM;MASC;SG
+givne	vzhľadom	givn	vzhľad	ADJ;PL	N;INAN;INS;MASC;SG
+givne	dané	givn	daný	ADJ;PL	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+givne	daná	givn	daň	ADJ;PL	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+nordic	nordic	nordic	nordic		N;NOM;FEM;SG
+efterår	padnúť	efterår	padnúť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+efterår	spadnúť	efterår	spadnúť	N;INDF;NEUT;SG	V;PFV;POS;NFIN
+reserveret	rezervované	reservere	rezervovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+reserveret	rezervované	reservere	rezervovaný	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+reserveret	vyhradené	reservere	vyhradený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+reserveret	vyhradená	reservere	vyhradený	V;INDF;SG;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+helikopter	vrtuľníkov	helikopter	vrtuľník	N;INDF;MASC+FEM;SG	N;INAN;GEN;MASC;PL
+helikopter	vrtuľníky	helikopter	vrtuľník	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+helikopter	helikoptéry	helikopter	helikoptéra	N;INDF;MASC+FEM;SG	N;INAN;NOM;MASC;PL
+udvist	vylúčený	udvise	vylúčený	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+udvist	deportovaný	udvise	deportovaný	V;INDF;SG;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+prægede	potlačou	præge	potlač	V;IND;PST;FIN;ACT	N;INS;FEM;SG
+stanford	stanford	stanford	stanford	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+emily	emily	emily	emila		N;NOM;FEM;PL
+hukommelse	pamäte	hukommelse	pamäť	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+exchange	výmenu	exchange	výmena		N;ACC;FEM;SG
+exchange	výmena	exchange	výmena		N;NOM;FEM;SG
+exchange	burza	exchange	burza		N;NOM;FEM;SG
+stormen	storm	stor	storý	N;DEF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+behandlede	liečené	behandle	liečený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+behandlede	ošetrené	behandle	ošetrený	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+behandlede	liečení	behandle	liečenie	V;PL;PST;V.PTCP	N;NOM;NEUT;SG
+behandlede	liečených	behandle	liečený	V;PL;PST;V.PTCP	ADJ;ANIM;GEN;MASC;PL;POS;V.PTCP;PASS
+behandlede	spracúva	behandle	spracúvať	V;PL;PST;V.PTCP	V;IPFV;IND;SG;3;POS;PRS;FIN
+behandlede	spracovaný	behandle	spracovaný	V;PL;PST;V.PTCP	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;PASS
+behandlede	spracovaná	behandle	spracovaný	V;PL;PST;V.PTCP	ADJ;NOM;FEM;SG;POS;V.PTCP;PASS
+behandlede	spracované	behandle	spracovaný	V;PL;PST;V.PTCP	ADJ;NOM;NEUT;SG;POS;V.PTCP;PASS
+phillips	phillips	phillips	phillips	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+beverly	beverly	beverly	beverla		N;NOM;FEM;PL
+said	povedal	said	povedať		V;ANIM;PFV;MASC;SG;POS;PST;V.PTCP
+said	povedalo	said	povedať		V;PFV;NEUT;SG;POS;PST;V.PTCP
+said	povedala	said	povedať		V;PFV;FEM;SG;POS;PST;V.PTCP
+living	žijúci	living	žijúci	N;INDF;MASC+FEM;SG	ADJ;ANIM;NOM;MASC;SG;POS;V.PTCP;ACT
+living	žijúce	living	žijúci	N;INDF;MASC+FEM;SG	ADJ;NOM;NEUT;SG;POS;V.PTCP;ACT
+living	žiť	living	žiť	N;INDF;MASC+FEM;SG	V;IPFV;POS;NFIN
+løkke	slučky	løkke	slučka	N;INDF;MASC+FEM;SG	N;NOM;FEM;PL
+ensemble	komplet	ensemble	komplet	N;INDF;NEUT;SG	
+scheel	scheel	scheel	scheel	N;INDF;MASC+FEM;SG	PROPN;ANIM;NOM;MASC;SG
+relativ	relatívny	relativ	relatívny	ADV	ADJ;INAN;NOM;MASC;SG
+relativ	relatívna	relativ	relatívny	ADV	ADJ;NOM;FEM;SG
+relativ	príbuzný	relativ	príbuzný	ADV	N;ANIM;NOM;MASC;SG
+klippe	útes	klippe	útes	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+klippe	cliff	klippe	cliff	V;NFIN;ACT	PROPN;ANIM;NOM;MASC;SG
+klippe	skala	klippe	skala	V;NFIN;ACT	N;NOM;FEM;SG
+klippe	kameň	klippe	kameň	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+klippe	skaly	klippe	skala	V;NFIN;ACT	N;NOM;FEM;PL
+klippe	rock	klippe	rock	V;NFIN;ACT	N;INAN;NOM;MASC;SG
+powell	powell	powell	pohell		PROPN;ANIM;NOM;MASC;SG
+nba	nba	nba	nba		

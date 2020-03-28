@@ -1,0 +1,2624 @@
+stadtzentrum	下町	stadtzentrum	下町	V;V.PTCP	N
+stadtzentrum	中央	stadtzentrum	中央	V;V.PTCP	N
+stadtzentrum	センター	stadtzentrum	センター	V;V.PTCP	N
+stadtzentrum	中心	stadtzentrum	中心	V;V.PTCP	N
+decke	天井	decken	天井		N
+decke	毛布	decken	毛布		N
+decke	ブランケット	decken	ブランケット		N
+decke	毛布	decken	毛布		N
+decke	天井	decken	天井		N
+decke	屋上	decken	屋上		N
+decke	屋根	decken	屋根		N
+schritte	足音	schritt	足音		N
+schritte	歩数	schritt	歩数		N
+schritte	手順	schritt	手順		N
+schritte	ステップ	schritt	ステップ		N
+geschafft	made	schaffen	made	V;V.PTCP	PROPN
+michail	ミハイル	michail	ミハイル	PROPN;NOM;MASC;SG	PROPN
+linden	リンデン	linden	リンデン		PROPN
+globe	グローブ	glob	グローブ	PROPN;NOM;SG	N
+ulrike	サラ	ulrike	サラ	PROPN;NOM;FEM;SG	PROPN
+ulrike	ジュリア	ulrike	ジュリア	PROPN;NOM;FEM;SG	PROPN
+ulrike	ユリア	ulrike	ユリア	PROPN;NOM;FEM;SG	PROPN
+nicholas	ニコラス	nicholas	ニコラス	PROPN;NOM;SG	PROPN
+jubiläum	ジュビリー	jubiläum	ジュビリー	N;NOM;NEUT;SG	PROPN
+schnabel	くちばし	schnabel	くちばし	ADJ	N
+schriftlich	筆記	schriftlich	筆記	ADJ	N
+schriftlich	執筆	schriftlich	執筆	ADJ	V
+schriftlich	書き込み	schriftlich	書き込み	ADJ	V
+schriftlich	筆記	schriftlich	筆記	ADJ	N
+palästina	パレスチナ	palästina	パレスチナ	PROPN;NOM;SG	PROPN
+palästina	パレスチナ	palästina	パレスチナ	PROPN;NOM;SG	PROPN
+klärung	釈明	klärung	釈明	ADJ	V
+wilfried	ウィルフレッド	wilfrieden	ウィルフレッド	PROPN;NOM;MASC;SG	PROPN
+still	hush	still	hush	ADJ	PROPN
+still	スティル	still	スティル	ADJ	N
+still	それ	still	それ	ADJ	PRO
+still	まだ	still	まだ	ADJ	ADV
+vorgaben	プリセット	vorgeben	プリセット	V;NFIN	N
+vorgaben	デフォルト	vorgeben	デフォルト	V;NFIN	PROPN
+beobachter	オブザーバー	beobachter	オブザーバー	ADJ	N
+beobachter	オブザーバ	beobachter	オブザーバ	ADJ	PROPN
+beobachter	モニタ	beobachter	モニタ	ADJ	N
+beobachter	オブザーバー	beobachter	オブザーバー	ADJ	N
+beobachter	オブザーバ	beobachter	オブザーバ	ADJ	PROPN
+bilanz	残高	bilanz	残高		N
+bilanz	バランス	bilanz	バランス		N
+produkten	プロダクト	produkt	プロダクト	V;IND;PL;3;FIN	N
+produkten	商品	produkt	商品	V;IND;PL;3;FIN	N
+produkten	製品	produkt	製品	V;IND;PL;3;FIN	N
+fürth	フュルト	fürth	フュルト	PROPN;SG	PROPN
+indirekt	間接	indirekt	間接	ADJ	N
+mtv	mtv	mtv	mtv	PROPN;NOM	PROPN
+alias	別名	alias	別名	PROPN;NOM;SG	N
+alias	偽名	alias	偽名	PROPN;NOM;SG	N
+alias	エイリアス	alias	エイリアス	PROPN;NOM;SG	PROPN
+alias	aka	alias	aka	PROPN;NOM;SG	PROPN
+bestätigung	確認	Bestätigung	確認	N;NOM;FEM;SG	V
+bestätigung	確認	Bestätigung	確認	N;NOM;FEM;SG	V
+bestätigung	検証	Bestätigung	検証	N;NOM;FEM;SG	V
+mühlen	ミル	mühlen	ミル	V;NFIN	PROPN
+mühlen	風車	mühlen	風車	V;NFIN	N
+massaker	虐殺	massaker	虐殺	ADJ	V
+suffix	サフィックス	suffix	サフィックス	ADJ	N
+rudolph	ルドルフ	rudolph	ルドルフ	PROPN;NOM;MASC;SG	PROPN
+umgangssprachlich	俗語	umgangssprachlich	俗語	ADJ	N
+umgangssprachlich	スラング	umgangssprachlich	スラング	ADJ	N
+rennfahrer	レーサー	rennfahrer	レーサー	ADJ	N
+rennfahrer	レーサー	rennfahrer	レーサー	ADJ	N
+matrix	配列	matrix	配列	PROPN	N
+matrix	アレイ	matrix	アレイ	PROPN	N
+matrix	行列	matrix	行列	PROPN	N
+matrix	マトリックス	matrix	マトリックス	PROPN	PROPN
+empfehlung	推奨	empfehlung	推奨	N;NOM;FEM;SG	V
+empfehlung	提案	empfehlung	提案	N;NOM;FEM;SG	V
+empfehlung	暗示	empfehlung	暗示	N;NOM;FEM;SG	V
+empfehlung	推薦	empfehlung	推薦	N;NOM;FEM;SG	V
+bedrohung	威嚇	bedrohung	威嚇	N;FEM;SG	
+bedrohung	脅迫	bedrohung	脅迫	N;FEM;SG	V
+bedrohung	威嚇	bedrohung	威嚇	N;FEM;SG	
+einweihung	奉納	einweihung	奉納	N	V
+einweihung	発足	einweihung	発足	N	V
+landkreise	ディストリクト	landkreise	ディストリクト	PROPN	PROPN
+landkreise	カウンティ	landkreise	カウンティ	PROPN	PROPN
+landung	着陸	landung	着陸	N;NOM;FEM;SG	V
+landung	上陸	landung	上陸	N;NOM;FEM;SG	V
+sozialer	ソーシャル	sozial	ソーシャル	ADJ	N
+dallas	ダラス	dallas	ダラス	PROPN;NOM;MASC;SG	PROPN
+bindung	バインディング	bindung	バインディング	N;NOM;FEM;SG	PROPN
+bindung	バインディング	bindung	バインディング	N;NOM;FEM;SG	PROPN
+bindung	拘束	bindung	拘束	N;NOM;FEM;SG	V
+bindung	ボンド	bindung	ボンド	N;NOM;FEM;SG	PROPN
+schwimmen	水泳	schwimmen	水泳	V;NFIN	N
+schwimmen	スイミング	schwimmen	スイミング	V;NFIN	N
+schwimmen	競泳	schwimmen	競泳	V;NFIN	N
+schwimmen	水泳	schwimmen	水泳	V;NFIN	N
+early	アーリー	early	アーリー	PROPN	PROPN
+early	早い	early	早い	PROPN	ADJ
+abkürzungen	ショート	abkürzingen	ショート	V;NFIN	N
+abkürzungen	略語	abkürzingen	略語	V;NFIN	N
+abkürzungen	略称	abkürzingen	略称	V;NFIN	N
+abkürzungen	略語	abkürzingen	略語	V;NFIN	N
+messina	メッシーナ	messina	メッシーナ	PROPN	PROPN
+kugel	球体	kugeln	球体		N
+kugel	球面	kugeln	球面		N
+kugel	球形	kugeln	球形		N
+kugel	グローブ	kugeln	グローブ		N
+kugel	ボール	kugeln	ボール		N
+kugel	オーブ	kugeln	オーブ		N
+kugel	弾丸	kugeln	弾丸		N
+kugel	銃弾	kugeln	銃弾		N
+kosovo	コソボ	kosovo	コソボ	PROPN;NOM;SG	PROPN
+delegation	委任	delegation	委任		V
+delegation	委嘱	delegation	委嘱		V
+färbung	塗り	färbung	塗る	N;NOM;FEM;SG	V
+trophy	トロフィー	trophy	トロフィー	PROPN	N
+ausstrahlung	放送	ausstrahlung	放送	N;NOM;FEM;SG	V
+ausstrahlung	配信	ausstrahlung	配信	N;NOM;FEM;SG	V
+ausstrahlung	放送	ausstrahlung	放送	N;NOM;FEM;SG	V
+pest	ペスト	pest	ペスト		PROPN
+pest	疫病	pest	疫病		N
+pest	ペスト	pest	ペスト		PROPN
+universum	宇宙	universum	宇宙	ADV	N
+gespräche	会話	gespräch	会話	ADJ	V
+gespräche	スレッド	gespräch	スレッド	ADJ	N
+gespräche	インタビュー	gespräch	インタビュー	ADJ	N
+gespräche	ディスカッション	gespräch	ディスカッション	ADJ	N
+biathlon	バイアスロン	biathlon	バイアスロン	ADJ	PROPN
+wärme	ヒート	wärm	ヒート		N
+wärme	あったかい	wärm	あったかい		ADJ
+wärme	暖かい	wärm	暖かい		ADJ
+wärme	温かい	wärm	温かい		ADJ
+wärme	暖房	wärm	暖房		N
+kommerzielle	コマーシャル	kommerziell	コマーシャル	ADJ;NOM;FEM;PL	N
+kommerzielle	商用	kommerziell	商用	ADJ;NOM;FEM;PL	V
+kommerzielle	商業	kommerziell	商業	ADJ;NOM;FEM;PL	N
+korrigieren	フィックス	korrigieren	フィックス	V;NFIN	N
+korrigieren	正解	korrigieren	正解	V;NFIN	
+korrigieren	正しい	korrigieren	正しい	V;NFIN	ADJ
+bezeugt	証言	bezeugen	証言	ADJ;V.PTCP	V
+erfüllung	充実	Erfüllung	充実	N;SG	V
+schach	チェス	schach	チェス	ADJ	N
+hauptquartier	本社	hauptquartier	本社		N
+hauptquartier	本部	hauptquartier	本部		PROPN
+hauptquartier	司令部	hauptquartier	司令部		N
+ward	ウォード	werden	ウォード		PROPN
+vieles	多数	viel	多数	PRO;NOM;INDF;NEUT;SG	N
+einheitlich	unified	einheitlich	unified	ADJ	PROPN
+einheitlich	ユニタリ	einheitlich	ユニタリ	ADJ	PROPN
+einheitlich	一律	einheitlich	一律	ADJ	N
+einheitlich	ユニフォーム	einheitlich	ユニフォーム	ADJ	N
+einheitlich	制服	einheitlich	制服	ADJ	N
+ehrungen	朝貢	ehringen	朝貢	V;NFIN	N
+einbau	設立	einbau	設立	N;SG	V
+einbau	設置	einbau	設置	N;SG	V
+steinen	ストーンズ	stein	ストーンズ	V;NFIN	PROPN
+breitengrad	緯度	breitengrad	緯度	ADJ	N
+breitengrad	パラレル	breitengrad	パラレル	ADJ	N
+breitengrad	並列	breitengrad	並列	ADJ	N
+breitengrad	経度	breitengrad	経度	ADJ	N
+silberne	シルバー	silbern	シルバー	ADJ;NOM;FEM;PL	N
+commonwealth	コモンウェルス	commonwealth	コモンウェルス	ADJ	PROPN
+commonwealth	cac	commonwealth	cac	ADJ	PROPN
+klang	サウンド	klingen	サウンド		N
+malta	マルタ	malta	マルタ		PROPN
+bolivien	ボリビア	bolivien	ボリビア	PROPN;NOM;NEUT;SG	PROPN
+bolivien	ボリビア	bolivien	ボリビア	PROPN;NOM;NEUT;SG	PROPN
+wohin	どこ	wohin	どこ	ADV	PRO
+schwerpunkte	見	schwerpunkt	見る	ADJ;SG	V
+schwerpunkte	ハイライト	schwerpunkt	ハイライト	ADJ;SG	N
+schwerpunkte	焦点	schwerpunkt	焦点	ADJ;SG	N
+schwerpunkte	フォーカス	schwerpunkt	フォーカス	ADJ;SG	N
+seoul	ソウル	seoul	ソウル	PROPN;NOM;MASC;SG	PROPN
+relevanter	関連	relevant	関連	ADJ	V
+verpflichtung	義務	verpflichtung	義務	V;IND;SG;3;PRS;FIN	N
+verpflichtung	債務	verpflichtung	債務	V;IND;SG;3;PRS;FIN	N
+verpflichtung	コミットメント	verpflichtung	コミットメント	V;IND;SG;3;PRS;FIN	N
+verpflichtung	収容	verpflichtung	収容	V;IND;SG;3;PRS;FIN	N
+aufsatz	随筆	aufsatzen	随筆		N
+aufsatz	エッセイ	aufsatzen	エッセイ		N
+benutzung	使い	Benutzung	使う	N;FEM;SG	V
+leiche	死体	leiche	死体	ADJ;NOM;FEM;SG	N
+leiche	死体	leiche	死体	ADJ;NOM;FEM;SG	N
+warner	ワーナー	warn	ワーナー	PROPN	PROPN
+verträge	契約	verträgen	契約	N;NOM;PL	V
+nordsee	ノース	nordsee	ノース	PROPN;NOM;SG	PROPN
+abschied	別れ	abscheiden	別れ		V
+abschied	さようなら	abscheiden	さようなら		CONJ
+perfekt	パーフェクト	perfekt	パーフェクト	ADJ	N
+burgruine	廃墟	burgruin	廃墟	PROPN;NOM;SG	N
+burgruine	遺跡	burgruin	遺跡	PROPN;NOM;SG	N
+ngc	ngc	ngc	ngc	PROPN;NOM;SG	PROPN
+definieren	define	definieren	define	V;NFIN	PROPN
+gotischen	ゴシック	gotisch	ゴシック	ADJ	PROPN
+werdegang	経歴	werdegang	経歴		N
+werdegang	キャリア	werdegang	キャリア		N
+werdegang	履歴	werdegang	履歴		N
+werdegang	由緒	werdegang	由緒		N
+werdegang	歴史	werdegang	歴史		N
+werdegang	沿革	werdegang	沿革		N
+organ	臓器	organ	臓器		N
+organ	機関	organ	機関		N
+organ	臓器	organ	臓器		N
+organ	オルガン	organ	オルガン		N
+busse	バス	büssen	バス		PROPN
+busse	コーチ	büssen	コーチ		N
+busse	バス	büssen	バス		PROPN
+mineral	鉱物	mineral	鉱物	PROPN	N
+mineral	鉱物	mineral	鉱物	PROPN	N
+mixed	ミックス	mixed	ミックス	PROPN	N
+mixed	混合	mixed	混合	PROPN	N
+konzerten	コンサート	konzern	コンサート	V;FIN	N
+kommissar	刑事	kommissar	刑事	PROPN	N
+kommissar	検査官	kommissar	検査官	PROPN	N
+kommissar	警視	kommissar	警視	PROPN	N
+dream	ドリーム	dream	ドリーム		N
+dream	dream	dream	dream		PROPN
+aktien	株式	akteinen	株式		N
+aktien	ストック	akteinen	ストック		N
+aktien	株式	akteinen	株式		N
+aktien	シェア	akteinen	シェア		N
+aktien	エクイティ	akteinen	エクイティ		PROPN
+aktien	持分	akteinen	持分		N
+grammatik	文法	grammatik	文法	ADJ	N
+fernseh	テレビ	fernseh	テレビ		N
+silver	シルバー	silver	シルバー	PROPN	N
+case	ケース	case	ケース		N
+filter	フィルタ	filter	フィルタ	ADJ	N
+filter	フィルター	filter	フィルター	ADJ	N
+filter	フィルタ	filter	フィルタ	ADJ	N
+filter	フィルター	filter	フィルター	ADJ	N
+hölle	ヘル	höllen	ヘル		PROPN
+hölle	地獄	höllen	地獄		N
+beat	beat	beaten	beat	PROPN;SG	PROPN
+beat	ビート	beaten	ビート	PROPN;SG	N
+meta	メタ	meta	メタ	PROPN;NOM;SG	PROPN
+charakteristisch	特徴	charakteristisch	特徴	ADJ	N
+charakteristisch	特性	charakteristisch	特性	ADJ	N
+grade	学年	grad	学年		N
+grade	グレード	grad	グレード		N
+mönch	修道士	mönch	修道士	PROPN;SG	N
+mönch	モンク	mönch	モンク	PROPN;SG	PROPN
+plateau	台地	plateau	台地	ADJ	N
+plateau	高原	plateau	高原	ADJ	PROPN
+amateur	アマチュア	amateur	アマチュア	PROPN	N
+nachbarschaft	近所	nachbarschaft	近所	ADJ	N
+nachbarschaft	近所	nachbarschaft	近所	ADJ	N
+nachbarschaft	近隣	nachbarschaft	近隣	ADJ	N
+staatsanwaltschaft	訴追	staatsanwaltschaft	訴追	ADJ	V
+staatsanwaltschaft	公訴	staatsanwaltschaft	公訴	ADJ	V
+staatsanwaltschaft	検察官	staatsanwaltschaft	検察官	ADJ	N
+staatsanwaltschaft	検察官	staatsanwaltschaft	検察官	ADJ	N
+staatsanwaltschaft	検事	staatsanwaltschaft	検事	ADJ	N
+popularität	人気	popularität	人気	ADJ	N
+oberhausen	オーバー	oberhausen	オーバー	PROPN;NOM;NEUT;SG	N
+laurent	ローラン	laurent	ローラン	PROPN;NOM;SG	PROPN
+belgische	ベルギー	belgisch	ベルギー	ADJ;NOM;FEM;PL	PROPN
+rechtsprechung	管轄	rechtsprechung	管轄	ADJ	V
+rechtsprechung	司法	rechtsprechung	司法	ADJ	N
+rechtsprechung	法学	rechtsprechung	法学	ADJ	N
+martha	マーサ	martha	マーサ	PROPN;NOM;SG	PROPN
+pan	パン	pan	パン	PROPN;NOM;MASC;SG	N
+channel	チャネル	channel	チャネル	PROPN;NOM;SG	N
+channel	チャンネル	channel	チャンネル	PROPN;NOM;SG	N
+channel	海峡	channel	海峡	PROPN;NOM;SG	N
+börse	交換	börsen	交換		V
+kings	キングス	kings	キングス	PROPN;NOM;SG	PROPN
+taunus	タウヌス	taunus	タウヌス	PROPN;NOM;SG	PROPN
+damm	ダム	damm	ダム		N
+genua	ジェノヴァ	genua	ジェノヴァ	PROPN;NOM;SG	PROPN
+cook	コック	cook	コック	PROPN;NOM;SG	N
+cook	クック	cook	クック	PROPN;NOM;SG	PROPN
+exzellent	優れ	exzellent	優れる	ADJ	V
+rum	ラム	rum	ラム		N
+sekunde	番目	sekunde	番目		N
+sekunde	セカンド	sekunde	セカンド		N
+sekunde	sec	sekunde	sec		PROPN
+warren	ウォーレン	warr	ウォーレン		PROPN
+nigeria	ナイジェリア	nigeria	ナイジェリア	PROPN;NOM;NEUT;SG	PROPN
+nigeria	ナイジェリア	nigeria	ナイジェリア	PROPN;NOM;NEUT;SG	PROPN
+orient	オリエント	orient	オリエント		PROPN
+benötigen	ニーズ	benötigen	ニーズ	V;NFIN	N
+benötigen	require	benötigen	require	V;NFIN	PROPN
+benötigen	ニーズ	benötigen	ニーズ	V;NFIN	N
+bezirke	ディストリクト	bezirken	ディストリクト		PROPN
+bezirke	カウンティ	bezirken	カウンティ		PROPN
+paare	カップル	paaren	カップル		N
+paare	ペア	paaren	ペア		N
+paare	ペア	paaren	ペア		N
+blood	血液	blood	血液	PROPN	N
+blood	ブラッド	blood	ブラッド	PROPN	PROPN
+mathematische	数学	mathematisch	数学	ADJ;NOM;FEM;PL	N
+set	集合	set	集合		N
+set	セット	set	セット		N
+protagonisten	主人	protagonisten	主人		N
+störung	干渉	störung	干渉	N;FEM;SG	V
+störung	擾乱	störung	擾乱	N;FEM;SG	
+störung	無秩序	störung	無秩序	N;FEM;SG	
+gefüllt	剥製	füllen	剥製	V;V.PTCP	N
+auslegung	解釈	auslegung	解釈	ADV	V
+auslegung	解釈	auslegung	解釈	ADV	V
+auslegung	通訳	auslegung	通訳	ADV	V
+auslegung	通訳	auslegung	通訳	ADV	V
+haushalt	世帯	haushalt	世帯		N
+haushalt	世帯	haushalt	世帯		N
+haushalt	予算	haushalt	予算		N
+haushalt	家事	haushalt	家事		N
+marschall	マーシャル	marschall	マーシャル	ADJ	PROPN
+marschall	元帥	marschall	元帥	ADJ	N
+installation	設置	installation	設置	N;SG	V
+schöner	ビューティフル	schön	ビューティフル	ADJ	N
+schöner	ナイス	schön	ナイス	ADJ	PROPN
+schöner	ニース	schön	ニース	ADJ	PROPN
+ecken	エッジ	ecken	エッジ		N
+ecken	頂点	ecken	頂点		N
+ecken	コーナー	ecken	コーナー		N
+speichern	セーブ	speichern	セーブ	V;NFIN	N
+speichern	店舗	speichern	店舗	V;NFIN	N
+speichern	ストア	speichern	ストア	V;NFIN	N
+schuss	銃声	schassen	銃声	ADJ	N
+schuss	ショット	schassen	ショット	ADJ	N
+gehäuse	住居	gehäus	住居		N
+gehäuse	住宅	gehäus	住宅		N
+gehäuse	囲い	gehäus	囲い		V
+gehäuse	同	gehäus	同		ADJ
+zylinder	円柱	zylinder	円柱		N
+zylinder	シリンダー	zylinder	シリンダー		N
+zylinder	シリンダー	zylinder	シリンダー		N
+zylinder	バレル	zylinder	バレル		N
+wähler	有権	wählern	有権		N
+wähler	有権	wählern	有権		N
+populär	人気	populär	人気	ADJ	N
+gewinnung	採石	gewinnung	採石	ADJ	N
+fotografien	撮影	fotografien	撮影		V
+fotografien	写真	fotografien	写真		N
+fotografien	写真	fotografien	写真		N
+zuständige	主務	zuständig	主務	ADJ;NOM;FEM;PL	N
+nachteil	ハンディ	nachteil	ハンディ		N
+nachteil	欠点	nachteil	欠点		N
+nachteil	短所	nachteil	短所		N
+nachteil	難点	nachteil	難点		N
+nachteil	不利益	nachteil	不利益		ADJ
+gramm	グラム	gramm	グラム		N
+gramm	グラム	gramm	グラム		N
+begleitung	監視	begleitung	監視	N;NOM;FEM;SG	V
+begleitung	エスコート	begleitung	エスコート	N;NOM;FEM;SG	V
+begleitung	護送	begleitung	護送	N;NOM;FEM;SG	V
+abwehr	抗弁	abwehr	抗弁	N;SG	V
+konkurrenten	ライバル	konkurrent	ライバル	ADJ	
+konkurrenten	競合	konkurrent	競合	ADJ	V
+wiederholte	繰り返し	wiederholt	繰り返し	V;IND;SG;3;PST;FIN	ADV
+chancen	確率	chancen	確率	V;NFIN	N
+chancen	好機	chancen	好機	V;NFIN	N
+chancen	機会	chancen	機会	V;NFIN	N
+chancen	機会	chancen	機会	V;NFIN	N
+gastgeber	ホスト	gastgeber	ホスト	ADJ	N
+gastgeber	主催	gastgeber	主催	ADJ	V
+gastgeber	ホスト	gastgeber	ホスト	ADJ	N
+gastgeber	ホスティング	gastgeber	ホスティング	ADJ	PROPN
+gastgeber	主催	gastgeber	主催	ADJ	V
+gastgeber	主催	gastgeber	主催	ADJ	V
+kämpfer	戦士	kämpfer	戦士	ADJ	N
+kämpfer	ウォリアーズ	kämpfer	ウォリアーズ	ADJ	PROPN
+kämpfer	ファイターズ	kämpfer	ファイターズ	ADJ	PROPN
+kämpfer	ファイター	kämpfer	ファイター	ADJ	N
+kämpfer	戦士	kämpfer	戦士	ADJ	N
+blumen	お	blum	お	V;NFIN	N
+blumen	flower	blum	flower	V;NFIN	PROPN
+blumen	フラワー	blum	フラワー	V;NFIN	N
+wünschen	wish	wünschen	wish	V;NFIN	PROPN
+wünschen	ウィッシュ	wünschen	ウィッシュ	V;NFIN	PROPN
+wünschen	願い	wünschen	願い	V;NFIN	N
+venus	ウェヌス	venus	ウェヌス	PROPN;NOM;SG	PROPN
+venus	金星	venus	金星	PROPN;NOM;SG	N
+venus	ヴィーナス	venus	ヴィーナス	PROPN;NOM;SG	PROPN
+schema	スキーム	schema	スキーム		N
+schema	スキーマ	schema	スキーマ		N
+alexandra	アレクサンドラ	alexandra	アレクサンドラ	PROPN;NOM;SG	PROPN
+split	分ける	split	分ける	PROPN	V
+split	分割	split	分割	PROPN	V
+split	スプリット	split	スプリット	PROPN	N
+unruhen	暴動	unruh	暴動	V;NFIN	N
+unruhen	暴動	unruh	暴動	V;NFIN	N
+rosen	ローゼン	rosen	ローゼン	N;NOM;PL	PROPN
+rosen	rose	rosen	rose	N;NOM;PL	PROPN
+keith	キース	keith	キース	PROPN;NOM;SG	PROPN
+tante	おばさん	tanen	おばさん		N
+tante	おばさん	tanen	おばさん		N
+tante	叔母	tanen	叔母		N
+tante	おば	tanen	おば		N
+einstellungen	求人	einstellingen	求人	V;NFIN	N
+einstellungen	態度	einstellingen	態度	V;NFIN	N
+einstellungen	セッティング	einstellingen	セッティング	V;NFIN	N
+selbständig	インディペンデント	selbständig	インディペンデント	ADJ	N
+selbständig	セルフ	selbständig	セルフ	ADJ	N
+selbständig	自己	selbständig	自己	ADJ	N
+wohn	住宅	wohn	住宅	;SG	N
+wohn	住宅地	wohn	住宅地	;SG	N
+hudson	ハドソン	hudson	ハドソン	PROPN;NOM;MASC;SG	PROPN
+sorte	バラエティ	sorten	バラエティ		N
+sorte	変種	sorten	変種		N
+jüngsten	最年	jung	最年	ADJ;PL	N
+jüngsten	最近	jung	最近	ADJ;PL	N
+fdl	fdl	fdl	fdl		PROPN
+lehrerin	家庭	lehrerin	家庭	ADJ	N
+lehrerin	チューター	lehrerin	チューター	ADJ	N
+lehrerin	講師	lehrerin	講師	ADJ	N
+lehrerin	インストラクター	lehrerin	インストラクター	ADJ	N
+lehrerin	教員	lehrerin	教員	ADJ	N
+lehrerin	教師	lehrerin	教師	ADJ	N
+lehrerin	先生	lehrerin	先生	ADJ	N
+finanzen	財務	finanzen	財務		N
+finanzen	金融	finanzen	金融		N
+finanzen	財政	finanzen	財政		N
+finanzen	ファイナンス	finanzen	ファイナンス		N
+vorgänge	プロセス	vorgängen	プロセス		N
+jungfrau	処女	jungfrau	処女	PROPN;SG	N
+jungfrau	ヴァージン	jungfrau	ヴァージン	PROPN;SG	PROPN
+jungfrau	ユング	jungfrau	ユング	PROPN;SG	PROPN
+jungfrau	処女	jungfrau	処女	PROPN;SG	N
+marsch	マーチ	marsch	マーチ	ADJ	N
+marsch	行進	marsch	行進	ADJ	N
+marsch	行軍	marsch	行軍	ADJ	N
+brooklyn	ブルックリン	brooklyn	ブルックリン	PROPN	PROPN
+tel	tel	tel	tel		PROPN
+doppelte	ダブル	doppelt	ダブル	ADJ;NOM;FEM;PL	N
+doppelte	二	doppelt	二	ADJ;NOM;FEM;PL	NUM
+doppelte	重	doppelt	重	ADJ;NOM;FEM;PL	N
+doppelte	複製	doppelt	複製	ADJ;NOM;FEM;PL	V
+doppelte	デュアル	doppelt	デュアル	ADJ;NOM;FEM;PL	N
+teilchen	粒子	teilch	粒子		N
+teilchen	パーティクル	teilch	パーティクル		N
+teilchen	粒子	teilch	粒子		N
+kong	コング	kong	コング	PROPN;NOM;MASC;SG	PROPN
+achtung	尊敬	achtung	尊敬		V
+achtung	尊重	achtung	尊重		V
+achtung	リスペクト	achtung	リスペクト		N
+achtung	敬	achtung	敬		PROPN
+achtung	注意	achtung	注意		V
+achtung	注目	achtung	注目		V
+achtung	注意	achtung	注意		V
+achtung	警報	achtung	警報		V
+achtung	警告	achtung	警告		V
+salon	サロン	salon	サロン	PROPN;SG	N
+salon	サルーン	salon	サルーン	PROPN;SG	N
+buddhismus	仏教	buddhismus	仏教	PROPN	N
+buddhismus	仏教	buddhismus	仏教	PROPN	N
+buddhismus	仏教	buddhismus	仏教	PROPN	N
+sauer	sauer	sauer	sauer	ADJ	PROPN
+sauer	怒り	sauer	怒り	ADJ	V
+sauer	酸っぱい	sauer	酸っぱい	ADJ	N
+sauer	すっぱい	sauer	すっぱい	ADJ	PROPN
+sauer	サワー	sauer	サワー	ADJ	N
+zufall	チャンス	zufall	チャンス		N
+zufall	フルーク	zufall	フルーク		PROPN
+zufall	ランダム	zufall	ランダム		ADJ
+zufall	アクシデント	zufall	アクシデント		N
+zufall	事故	zufall	事故		N
+zufall	偶然	zufall	偶然		ADV
+jay	ジェイ	jays	ジェイ	PROPN;NOM;MASC;SG	PROPN
+jay	カケス	jays	カケス	PROPN;NOM;MASC;SG	PROPN
+suite	スイート	suite	スイート		N
+suite	スイート	suite	スイート		N
+kommend	来る	kommend	来る	ADJ	V
+kommend	カミング	kommend	カミング	ADJ	PROPN
+monaco	モナコ	monaco	モナコ	PROPN;NOM;SG	PROPN
+guillaume	ギヨーム	guillaume	ギヨーム	PROPN;NOM;SG	PROPN
+export	輸出	export	輸出		V
+export	エクスポート	export	エクスポート		N
+export	エクスポート	export	エクスポート		N
+swr	swr	swr	swr		PROPN
+kollege	同僚	kolleg	同僚		N
+kollege	同僚	kolleg	同僚		N
+future	フューチャー	futur	フューチャー	PROPN	N
+future	未来	futur	未来	PROPN	N
+future	将来	futur	将来	PROPN	
+helen	エレーヌ	helen	エレーヌ	PROPN;NOM;SG	PROPN
+helen	ヘレン	helen	ヘレン	PROPN;NOM;SG	PROPN
+bretagne	ブルターニュ	bretagne	ブルターニュ	PROPN;NOM;FEM;SG	PROPN
+söhnen	息子	söhnen	息子	V;NFIN	N
+railroad	鉄道	railroad	鉄道	PROPN;NOM;SG	N
+entfernte	遠い	entfernen	遠い	V;IND;SG;3;PST;FIN	ADJ
+entfernte	リモート	entfernen	リモート	V;IND;SG;3;PST;FIN	N
+volumen	音量	volum	音量	V;NFIN	N
+volumen	ボリューム	volum	ボリューム	V;NFIN	N
+volumen	体積	volum	体積	V;NFIN	N
+volumen	ボリューム	volum	ボリューム	V;NFIN	N
+volumen	体積	volum	体積	V;NFIN	N
+normandie	ノルマンディー	normandie	ノルマンディー	PROPN;NOM;SG	PROPN
+larry	ラリー	larry	ラリー	PROPN;NOM;SG	N
+ghana	ガーナ	ghana	ガーナ	PROPN;NOM;MASC;SG	PROPN
+himmelfahrt	アセンション	himmelfahren	アセンション	ADJ	PROPN
+himmelfahrt	想定	himmelfahren	想定	ADJ	V
+himmelfahrt	就任	himmelfahren	就任	ADJ	V
+regierungen	政府	regierung	政府	V;NFIN	N
+besserung	改善	besserung	改善	ADJ	V
+wilden	ワイルド	wild	ワイルド		PROPN
+wilden	野生	wild	野生		N
+wilden	サベージ	wild	サベージ		PROPN
+deep	ディープ	deep	ディープ		N
+deep	深い	deep	深い		ADJ
+talsperre	ダム	talsperre	ダム	PROPN;NOM;SG	N
+talsperre	貯水池	talsperre	貯水池	PROPN;NOM;SG	N
+volleyball	バレー	volleyball	バレー		N
+volleyball	バレーボール	volleyball	バレーボール		N
+sortiert	sort	sortieren	sort	ADJ;V.PTCP	PROPN
+sortiert	ソート	sortieren	ソート	ADJ;V.PTCP	V
+urlaub	祝日	urlaub	祝日	ADV	N
+urlaub	休日	urlaub	休日	ADV	N
+urlaub	ホリデー	urlaub	ホリデー	ADV	PROPN
+urlaub	休暇	urlaub	休暇	ADV	N
+urlaub	バカンス	urlaub	バカンス	ADV	N
+urlaub	バケーション	urlaub	バケーション	ADV	N
+urlaub	祝日	urlaub	祝日	ADV	N
+urlaub	休日	urlaub	休日	ADV	N
+südöstlichen	南東	südöstlich	南東	ADJ	N
+plural	複数	plural	複数	ADJ	N
+sportlichen	アスレチック	sportlich	アスレチック	ADJ	N
+julie	ジュリー	julie	ジュリー	PROPN;NOM;FEM;SG	PROPN
+oldid	oldid	oldid	oldid		PROPN
+inspiriert	インス	inspirieren	インス	V;V.PTCP	N
+inspiriert	インス	inspirieren	インス	V;V.PTCP	N
+metro	地下鉄	metro	地下鉄	PROPN	N
+metro	メトロ	metro	メトロ	PROPN	PROPN
+regina	レジーナ	Regina	レジーナ	PROPN;NOM;FEM;SG	PROPN
+schriftliche	筆記	schriftlich	筆記	ADJ;NOM;FEM;PL	N
+niedergang	辞退	niedergang	辞退	N	V
+niedergang	拒否	niedergang	拒否	N	V
+niedergang	却下	niedergang	却下	N	V
+klage	アクション	klage	アクション	ADJ	N
+klage	苦情	klage	苦情	ADJ	N
+klage	クレーム	klage	クレーム	ADJ	N
+klage	訴訟	klage	訴訟	ADJ	V
+klage	訴え	klage	訴える	ADJ	V
+fortschritt	プログレス	fortschreiten	プログレス	PROPN	PROPN
+fortschritt	経過	fortschreiten	経過	PROPN	V
+fortschritt	進捗	fortschreiten	進捗	PROPN	
+fortschritt	振興	fortschreiten	振興	PROPN	N
+endgültige	最終	endgültig	最終	ADJ;NOM;FEM;PL	N
+endgültige	決勝	endgültig	決勝	ADJ;NOM;FEM;PL	N
+endgültige	ファイナル	endgültig	ファイナル	ADJ;NOM;FEM;PL	PROPN
+track	トラック	track	トラック		N
+dachau	ダッハウ	dachau	ダッハウ		PROPN
+sms	sms	sms	sms		PROPN
+strauss	ブーケ	strauss	ブーケ	PROPN;NOM;MASC;SG	N
+strauss	シュトラウス	strauss	シュトラウス	PROPN;NOM;MASC;SG	PROPN
+leere	無効	leer	無効		ADJ
+leere	ボイド	leer	ボイド		PROPN
+leere	空っ	leer	空る		V
+leere	空欄	leer	空欄		V
+leere	ブランク	leer	ブランク		N
+steuer	ヘルム	steuer	ヘルム		PROPN
+steuer	租税	steuer	租税		N
+steuer	税金	steuer	税金		N
+steuer	税金	steuer	税金		N
+bull	ブル	bull	ブル		PROPN
+irene	イレーネ	iren	イレーネ	PROPN;NOM;FEM;SG	PROPN
+irene	アイリーン	iren	アイリーン	PROPN;NOM;FEM;SG	PROPN
+aussprache	発音	aussprechen	発音		N
+aussprache	ディベート	aussprechen	ディベート		N
+perry	ペリー	perry	ペリー	PROPN;NOM;MASC;SG	PROPN
+aufgeben	辞める	aufgeben	辞める	ADJ	V
+aufgeben	終了	aufgeben	終了	ADJ	V
+aufgeben	降伏	aufgeben	降伏	ADJ	V
+aufgeben	廃棄	aufgeben	廃棄	ADJ	V
+synthese	合成	synthese	合成	N;NOM;FEM;SG	V
+vermieden	忌避	vermeiden	忌避	V;V.PTCP	
+montag	月曜日	montag	月曜日	ADV	N
+montag	月曜	montag	月曜	ADV	N
+montag	月曜日	montag	月曜日	ADV	N
+kurve	カーブ	kurv	カーブ	ADJ	N
+kurve	曲線	kurv	曲線	ADJ	N
+goldener	ゴールデン	golden	ゴールデン	ADJ	N
+goldener	黄金	golden	黄金	ADJ	N
+rettung	救済	rettung	救済	N;FEM;SG	V
+rettung	救助	rettung	救助	N;FEM;SG	V
+ems	エムス	ems	エムス		PROPN
+ems	ems	ems	ems		PROPN
+empfänger	宛先	empfänger	宛先	ADJ	N
+empfänger	宛先	empfänger	宛先	ADJ	N
+kaiserliche	インペリアル	kaiserlich	インペリアル	ADJ;NOM;FEM;PL	PROPN
+konsequent	一貫	konsequent	一貫	ADJ	N
+erläuterung	説明	Erläuterung	説明	ADJ;SG	V
+erläuterung	解説	Erläuterung	解説	ADJ;SG	V
+erläuterung	解説	Erläuterung	解説	ADJ;SG	V
+tokyo	東京	tokyo	東京	PROPN;NOM;MASC;SG	PROPN
+beton	コンクリート	beton	コンクリート		N
+santo	サント	santo	サント	PROPN	PROPN
+playoffs	プレーオフ	playoffs	プレーオフ	PROPN	N
+playoffs	プレイオフ	playoffs	プレイオフ	PROPN	N
+holen	フェッチ	holen	フェッチ	V;NFIN	N
+holen	get	holen	get	V;NFIN	PROPN
+jünger	弟子	jung	弟子	ADJ	N
+jünger	弟子	jung	弟子	ADJ	N
+gotische	ゴシック	gotisch	ゴシック	ADJ;NOM;FEM;PL	PROPN
+glücklich	ラッキー	glücklich	ラッキー	ADJ	PROPN
+glücklich	ハッピー	glücklich	ハッピー	ADJ	N
+termin	締め切り	termin	締め切り	N;SG	V
+termin	選任	termin	選任	N;SG	V
+termin	任命	termin	任命	N;SG	V
+termin	予約	termin	予約	N;SG	V
+anbieten	供物	anbieten	供物	V;NFIN	N
+anbieten	オファー	anbieten	オファー	V;NFIN	N
+anbieten	クーポン	anbieten	クーポン	V;NFIN	N
+rakete	ロケット	raken	ロケット	ADJ;NOM;SG	N
+rakete	ミサイル	raken	ミサイル	ADJ;NOM;SG	N
+spezifische	特定	spezifisch	特定	ADJ;NOM;FEM;PL	
+ausgleich	補て	ausgleich	補てる	ADJ	V
+ausgleich	補償	ausgleich	補償	ADJ	V
+ausgleich	賠償	ausgleich	賠償	ADJ	V
+ausgleich	弁償	ausgleich	弁償	ADJ	V
+ausgleich	報酬	ausgleich	報酬	ADJ	N
+ausgleich	オフセット	ausgleich	オフセット	ADJ	N
+wallace	ウォレス	wallace	ウォレス	PROPN;NOM;SG	PROPN
+schnellste	最速	schnell	最速	ADJ;NOM;FEM;SG	N
+kapital	資本	kapital	資本		N
+kapital	首都	kapital	首都		N
+kapital	キャピタル	kapital	キャピタル		PROPN
+abschaffung	廃止	abschaffung	廃止	N;NOM;FEM;SG	V
+abschaffung	廃止	abschaffung	廃止	N;NOM;FEM;SG	V
+helena	ヘレナ	helena	ヘレナ	PROPN;NOM;SG	PROPN
+helena	エレーヌ	helena	エレーヌ	PROPN;NOM;SG	PROPN
+helena	ヘレン	helena	ヘレン	PROPN;NOM;SG	PROPN
+unterhalten	コンバース	unterhalten	コンバース	V;V.PTCP	PROPN
+anwesend	現在	anwesend	現在	ADJ	N
+anwesend	present	anwesend	present	ADJ	PROPN
+anwesend	プレゼント	anwesend	プレゼント	ADJ	N
+moses	モーゼ	moses	モーゼ	PROPN;NOM;MASC;SG	PROPN
+moses	モーゼス	moses	モーゼス	PROPN;NOM;MASC;SG	PROPN
+champion	チャンプ	champion	チャンプ	PROPN	N
+champion	チャンピオン	champion	チャンピオン	PROPN	N
+singapur	シンガポール	singapur	シンガポール	PROPN;NOM;MASC;SG	PROPN
+toulouse	トゥールーズ	toulouse	トゥールーズ	PROPN;NOM;MASC;SG	PROPN
+nordöstlichen	北東	nordöstlich	北東	ADJ;NOM;MASC;PL	N
+lyriker	詩人	lyrik	詩人	ADJ	N
+lyriker	歌人	lyrik	歌人	ADJ	N
+lyriker	詩人	lyrik	詩人	ADJ	N
+lyriker	作詞	lyrik	作詞	ADJ	N
+muslime	イスラム	muslim	イスラム		N
+muslime	ムスリム	muslim	ムスリム		N
+muslime	イスラム	muslim	イスラム		N
+muslime	ムスリム	muslim	ムスリム		N
+stille	サイレント	still	サイレント		N
+stille	無音	still	無音		N
+stille	サイレンス	still	サイレンス		PROPN
+stille	無音	still	無音		N
+stille	沈黙	still	沈黙		V
+miles	マイル	miles	マイル	PROPN;NOM;SG	N
+christlich	クリスチャン	christlich	クリスチャン	ADJ	PROPN
+christlich	キリスト	christlich	キリスト	ADJ	N
+christlich	キリスト教徒	christlich	キリスト教徒	ADJ	N
+fell	毛皮	fell	毛皮		N
+zitate	引用	zitat	引用		V
+zitate	引用	zitat	引用		V
+sternen	stars	sternen	stars	V;NFIN	PROPN
+sternen	スターズ	sternen	スターズ	V;NFIN	PROPN
+argumenten	論証	argument	論証	V;NFIN	N
+argumenten	引数	argument	引数	V;NFIN	N
+bemerkungen	備考	bemerkungen	備考	V;NFIN	N
+bemerkungen	注記	bemerkungen	注記	V;NFIN	N
+bemerkungen	メモ	bemerkungen	メモ	V;NFIN	N
+bemerkungen	備考	bemerkungen	備考	V;NFIN	N
+bemerkungen	ノート	bemerkungen	ノート	V;NFIN	N
+bemerkungen	コメント	bemerkungen	コメント	V;NFIN	N
+cleveland	クリーブランド	cleveland	クリーブランド	PROPN;NOM;SG	PROPN
+sinnlos	役立	sinnlos	役立	ADJ	V
+santos	サントス	santos	サントス	PROPN	PROPN
+gefangene	捕虜	gefangen	捕虜	ADJ;NOM;FEM;PL	N
+gefangene	囚人	gefangen	囚人	ADJ;NOM;FEM;PL	N
+gefangene	囚人	gefangen	囚人	ADJ;NOM;FEM;PL	N
+geiger	ヴァイオリン	geiger	ヴァイオリン		N
+geiger	ガイガー	geiger	ガイガー		PROPN
+minor	マイナー	minor	マイナー	PROPN;SG	
+god	ゴッド	god	ゴッド	PROPN	PROPN
+situationen	状況	situation	状況	V;NFIN	N
+situationen	情勢	situation	情勢	V;NFIN	N
+piper	パイパー	piper	パイパー	PROPN;NOM;MASC;SG	PROPN
+bemühen	エンデバー	bemühen	エンデバー	V;NFIN	PROPN
+besuchern	ビジター	besuchern	ビジター	V;NFIN	N
+besuchern	ビジター	besuchern	ビジター	V;NFIN	N
+algerien	アルジェ	algerien	アルジェ		PROPN
+algerien	アルジェリア	algerien	アルジェリア		PROPN
+algerien	アルジェリア	algerien	アルジェリア		PROPN
+kanzler	宰相	kanzl	宰相	ADJ	N
+provence	プロヴァンス	provence	プロヴァンス	PROPN;NOM;SG	PROPN
+verwaltungsgemeinschaft	ヴァレリー	verwaltungsgemeinschaft	ヴァレリー	ADJ	PROPN
+streitigkeiten	訴訟	streitigkeit	訴訟	N;NOM;FEM;PL	V
+streitigkeiten	申し立て	streitigkeit	申し立て	N;NOM;FEM;PL	V
+erhob	ローズ	erheben	ローズ	V;IND;SG;3;PST;FIN	N
+erhob	ロゼ	erheben	ロゼ	V;IND;SG;3;PST;FIN	N
+erhob	バラ	erheben	バラ	V;IND;SG;3;PST;FIN	N
+erhob	rose	erheben	rose	V;IND;SG;3;PST;FIN	PROPN
+erhob	薔薇	erheben	薔薇	V;IND;SG;3;PST;FIN	N
+kenneth	ケネス	kenneth	ケネス	PROPN;NOM;SG	PROPN
+franziska	フランチェスカ	franziska	フランチェスカ	PROPN;NOM;FEM;SG	PROPN
+franziska	フランセス	franziska	フランセス	PROPN;NOM;FEM;SG	PROPN
+newton	ニュートン	newton	ニュートン	PROPN	PROPN
+mdb	mdb	mdb	mdb		PROPN
+weiterbildung	トレーニング	weiterbildung	トレーニング	ADJ	N
+weiterbildung	講習	weiterbildung	講習	ADJ	N
+weiterbildung	修行	weiterbildung	修行	ADJ	V
+weiterbildung	訓練	weiterbildung	訓練	ADJ	V
+weiterbildung	研修	weiterbildung	研修	ADJ	V
+weiterbildung	教育	weiterbildung	教育	ADJ	N
+weiterbildung	学歴	weiterbildung	学歴	ADJ	N
+weiterbildung	継続	weiterbildung	継続	ADJ	V
+weiterbildung	アカデミー	weiterbildung	アカデミー	ADJ	N
+charaktere	文字	charakt	文字	ADJ;NOM;PL	N
+charaktere	キャラクター	charakt	キャラクター	ADJ;NOM;PL	N
+torhüter	ゴールキーパー	torhüter	ゴールキーパー		N
+summer	ブザー	summer	ブザー	PROPN	N
+lords	諸	lords	諸	PROPN;NOM	N
+after	肛門	aft	肛門	PROPN;NOM;SG	PROPN
+after	アフター	aft	アフター	PROPN;NOM;SG	PROPN
+ignaz	イグナティウス	ignaz	イグナティウス	PROPN;NOM;MASC;SG	PROPN
+true	トゥルー	treen	トゥルー		N
+true	true	treen	true		PROPN
+true	本当	treen	本当		N
+wohnhäuser	住宅	wohnhaus	住宅		N
+wohnhäuser	住宅地	wohnhaus	住宅地		N
+wohnhäuser	住居	wohnhaus	住居		N
+wohnhäuser	邸宅	wohnhaus	邸宅		N
+qualitätssicherung	品質	qualitätssicherung	品質	ADJ	N
+qualitätssicherung	クオリティ	qualitätssicherung	クオリティ	ADJ	N
+qualitätssicherung	画質	qualitätssicherung	画質	ADJ	N
+qualitätssicherung	quality	qualitätssicherung	quality	ADJ	PROPN
+automatische	自動	automatisch	自動	ADJ;NOM;FEM;PL	N
+automatische	オートマチック	automatisch	オートマチック	ADJ;NOM;FEM;PL	N
+quartett	カルテット	quartett	カルテット	V;IND;SG;3;PRS;FIN	PROPN
+viola	ヴィオラ	viola	ヴィオラ		PROPN
+viola	ビオラ	viola	ビオラ		PROPN
+namibia	ナミビア	namibia	ナミビア	PROPN;NOM;MASC;SG	PROPN
+gottesdienst	崇拝	gottesdienst	崇拝	ADJ	V
+verteilen	拡散	verteilen	拡散	V;NFIN	N
+verteilen	スプレッド	verteilen	スプレッド	V;NFIN	N
+verteilen	分散	verteilen	分散	V;NFIN	N
+univ	univ	univ	univ		PROPN
+salomon	サロモン	salomon	サロモン	PROPN;NOM;SG	PROPN
+salomon	ソロモン	salomon	ソロモン	PROPN;NOM;SG	PROPN
+greifen	グリップ	greifen	グリップ	V;NFIN	N
+greifen	グラブ	greifen	グラブ	V;NFIN	N
+erika	えりか	erika	えりか	PROPN;NOM;FEM;SG	
+erika	エリカ	erika	エリカ	PROPN;NOM;FEM;SG	PROPN
+negativen	マイナス	negativ	マイナス	ADJ	
+negativen	ネガ	negativ	ネガ	ADJ	N
+negativen	ネガ	negativ	ネガ	ADJ	N
+konvention	コンベンション	konvention	コンベンション		N
+konvention	大会	konvention	大会		N
+but	でも	bun	でも		CONJ
+but	しかし	bun	しかし		CONJ
+atlantik	アトランティック	atlantik	アトランティック		PROPN
+atlantik	大西洋	atlantik	大西洋		PROPN
+wettbewerben	コンテスト	wettbewerben	コンテスト	V;NFIN	N
+geburtsdatum	生年月	geburtsdatum	生年月	ADJ	N
+geburtsdatum	生年月	geburtsdatum	生年月	ADJ	N
+geburtsdatum	バースデー	geburtsdatum	バースデー	ADJ	N
+zusammenbruch	崩壊	zusammenbruch	崩壊	ADJ	V
+zusammenbruch	たたむ	zusammenbruch	たたむ	ADJ	
+draußen	アウトドア	draußen	アウトドア	ADV	N
+draußen	屋外	draußen	屋外	ADV	N
+draußen	アウト	draußen	アウト	ADV	N
+draußen	アウトドア	draußen	アウトドア	ADV	N
+draußen	屋外	draußen	屋外	ADV	N
+marina	marina	marina	marina	PROPN;NOM;SG	PROPN
+marina	マリーナ	marina	マリーナ	PROPN;NOM;SG	N
+gehalt	給料	halten	給料		N
+gehalt	俸給	halten	俸給		N
+gehalt	給与	halten	給与		N
+gehalt	コンテンツ	halten	コンテンツ		N
+gehalt	内容	halten	内容		N
+gehalt	給与	halten	給与		N
+sauber	ザウバー	sauber	ザウバー	ADJ	PROPN
+sauber	クリーン	sauber	クリーン	ADJ	N
+forstwirtschaft	林業	forstwirtschaft	林業	ADJ	N
+forstwirtschaft	農林	forstwirtschaft	農林	ADJ	N
+forstwirtschaft	森林	forstwirtschaft	森林	ADJ	N
+forstwirtschaft	フォレスト	forstwirtschaft	フォレスト	ADJ	N
+forstwirtschaft	森林	forstwirtschaft	森林	ADJ	N
+herzogin	公爵夫人	herzogin	公爵夫人	PROPN;NOM;SG	N
+harrison	ハリソン	harrison	ハリソン	PROPN;NOM;MASC;SG	PROPN
+diana	ダイアナ	diana	ダイアナ	PROPN;NOM;FEM;SG	PROPN
+handschrift	筆跡	handschreifen	筆跡	ADJ	N
+handschrift	手書き	handschreifen	手書き	ADJ	N
+handschrift	原稿	handschreifen	原稿	ADJ	N
+handschrift	写本	handschreifen	写本	ADJ	N
+ron	ロン	ron	ロン	PROPN;NOM;MASC;SG	PROPN
+landwirt	農家	landwiren	農家		N
+landwirt	農家	landwiren	農家		N
+mehrzahl	過半数	mehrzahl	過半数	ADJ	N
+mehrzahl	複数	mehrzahl	複数	ADJ	N
+nordwestlichen	北西部	nordwestlich	北西部	ADJ;NOM;MASC;PL	N
+sorge	関心	sorgen	関心		N
+malaysia	マレーシア	malaysia	マレーシア	PROPN;NOM;SG	PROPN
+augustus	オーガスタス	augustus	オーガスタス	PROPN;NOM;MASC;SG	PROPN
+augustus	アウグストゥス	augustus	アウグストゥス	PROPN;NOM;MASC;SG	PROPN
+strahlung	放射線	strahlung	放射線	PROPN	N
+strahlung	放射	strahlung	放射	PROPN	N
+eintragung	エントリー	eintragung	エントリー	ADJ	N
+eintragung	エントリ	eintragung	エントリ	ADJ	N
+eintragung	登録	eintragung	登録	ADJ	V
+eintragung	登記	eintragung	登記	ADJ	N
+vera	ヴェラ	vera	ヴェラ	PROPN;NOM;SG	N
+internen	内部	intern	内部		N
+alexandria	アレクサンドリア	alexandria	アレクサンドリア	PROPN;NOM;MASC;SG	PROPN
+abends	夕方	abends	夕方	ADV	N
+ruft	コーリング	rufen	コーリング	V;IND;SG;3;PRS;FIN	N
+bush	ブッシュ	bush	ブッシュ	PROPN;NOM;MASC;SG	PROPN
+belastung	読み込む	belastung	読み込む	ADJ	V
+belastung	ロード	belastung	ロード	ADJ	N
+belastung	読み込み	belastung	読み込み	ADJ	V
+belastung	変形	belastung	変形	ADJ	V
+belastung	ストレス	belastung	ストレス	ADJ	N
+belastung	重荷	belastung	重荷	ADJ	N
+belastung	負担	belastung	負担	ADJ	V
+verbundene	関連	verbunden	関連	ADJ;NOM;FEM;SG	V
+bordeaux	ボルドー	bordeaux	ボルドー	PROPN	PROPN
+erscheinungsbild	出演	erscheinungsbild	出演	ADJ	V
+erscheinungsbild	外観	erscheinungsbild	外観	ADJ	N
+elite	エリート	elite	エリート	PROPN;NOM	N
+realen	real	real	real	ADJ;SG	PROPN
+realen	本物	real	本物	ADJ;SG	N
+elias	エリアス	elias	エリアス	PROPN;NOM;MASC;SG	PROPN
+elias	イライアス	elias	イライアス	PROPN;NOM;MASC;SG	PROPN
+elias	エリア	elias	エリア	PROPN;NOM;MASC;SG	N
+hochwasser	洪水	hochwasser	洪水		N
+hochwasser	洪水	hochwasser	洪水		N
+hochwasser	洪水	hochwasser	洪水		N
+vertraut	おなじみ	vertraut	おなじみ	ADJ	CONJ
+vertraut	信頼	vertraut	信頼	ADJ	V
+vertraut	信託	vertraut	信託	ADJ	N
+erleben	エクスペリエンス	erleben	エクスペリエンス	V;NFIN	N
+abwesenheit	不在	abwesenheit	不在	ADJ	V
+abwesenheit	欠席	abwesenheit	欠席	ADJ	V
+abwesenheit	欠席	abwesenheit	欠席	ADJ	V
+gerichtshof	法廷	gerichtshof	法廷	PROPN	N
+gerichtshof	コート	gerichtshof	コート	PROPN	N
+gerichtshof	裁判所	gerichtshof	裁判所	PROPN	N
+rallye	ラリー	rallye	ラリー		N
+willkommen	ウェルカム	willkommen	ウェルカム	ADJ	N
+willkommen	ようこそ	willkommen	ようこそ	ADJ	CONJ
+willkommen	歓迎	willkommen	歓迎	ADJ	V
+abb	abb	abb	abb		PROPN
+abb	イチジク	abb	イチジク		N
+kraus	クラウス	kraus	クラウス	PROPN;NOM;SG	PROPN
+automobil	自動車	automobil	自動車	ADJ	N
+einstein	アインシュタイン	einstein	アインシュタイン		PROPN
+motivation	モチベーション	motivation	モチベーション	ADJ	N
+einnahme	摂取	einnehmen	摂取		V
+faz	faz	faz	faz	PROPN;NOM;SG	PROPN
+apostel	使徒	apostel	使徒		N
+apostel	使徒	apostel	使徒		N
+islamische	イスラム	islamisch	イスラム	ADJ;NOM;FEM;PL	N
+spalten	カラム	spalten	カラム	V;NFIN	N
+wolfsburg	ヴォルフスブルク	wolfsburg	ヴォルフスブルク	ADJ	PROPN
+singer	シンガー	singer	シンガー	PROPN;SG	N
+widmen	専用	widmen	専用	V;NFIN	N
+aufsicht	監督	aufsichen	監督		N
+middle	真ん中	middle	真ん中	PROPN	N
+middle	ミドル	middle	ミドル	PROPN	N
+feder	フェザー	feder	フェザー		PROPN
+feder	羽根	feder	羽根		N
+feder	羽毛	feder	羽毛		N
+feder	pen	feder	pen		PROPN
+feder	ペン	feder	ペン		N
+ausgegeben	発行	ausgeben	発行	V;V.PTCP	N
+gutachten	意見	gutacht	意見	V;NFIN	N
+gutachten	意見	gutacht	意見	V;NFIN	N
+bock	ボック	bock	ボック	PROPN;SG	PROPN
+prima	プリマ	prima	プリマ	ADJ	PROPN
+prima	うねり	prima	うねり	ADJ	V
+winkler	ウィンクラー	winkler	ウィンクラー	PROPN	PROPN
+match	マッチ	match	マッチ	PROPN	N
+match	一致	match	一致	PROPN	V
+erneuerung	リニューアル	Erneuerung	リニューアル	ADJ;NOM;FEM;SG	N
+colin	コリン	colin	コリン	PROPN	PROPN
+phasen	舞台	phasen	舞台	V;NFIN	N
+phasen	ステージ	phasen	ステージ	V;NFIN	N
+stärksten	最強	stark	最強	ADJ	N
+olga	オルガ	olga	オルガ	PROPN;NOM;FEM;SG	PROPN
+italiener	ピザ	italiener	ピザ		N
+italiener	イタリアン	italiener	イタリアン		N
+industrielle	工業	industriell	工業	ADJ;NOM;FEM;PL	N
+attentat	暗殺	attentaben	暗殺	N;NOM;SG	V
+gefühle	感情	gefühlen	感情	ADJ	N
+gefühle	気分	gefühlen	気分	ADJ	N
+gefühle	フィーリング	gefühlen	フィーリング	ADJ	N
+gefühle	感情	gefühlen	感情	ADJ	N
+gefühle	気持ち	gefühlen	気持ち	ADJ	N
+gefühle	感情	gefühlen	感情	ADJ	N
+atlantic	アトランティック	atlantic	アトランティック	PROPN	PROPN
+atlantic	大西洋	atlantic	大西洋	PROPN	PROPN
+steffen	ロナルド	steffen	ロナルド	PROPN	PROPN
+steffen	フレディ	steffen	フレディ	PROPN	PROPN
+verweise	引用	verweisen	引用		V
+verweise	参考	verweisen	参考		N
+verweise	参照	verweisen	参照		V
+verweise	リファレンス	verweisen	リファレンス		PROPN
+verweise	リンク	verweisen	リンク		V
+anhang	付録	anhang	付録		N
+anhang	差	anhang	差		N
+anhang	添付	anhang	添付		V
+anhang	愛着	anhang	愛着		N
+anhang	別館	anhang	別館		PROPN
+schulden	負債	schulden	負債	V;NFIN	N
+schulden	債務	schulden	債務	V;NFIN	N
+barth	バルト	barth	バルト	PROPN	PROPN
+naturforscher	博物学	naturforsch	博物学	ADJ	N
+nebel	星雲	nebel	星雲		PROPN
+carmen	カルメン	carme	カルメン	PROPN;NOM	PROPN
+ffffff	ffffff	ffffff	ffffff		N
+codex	コデックス	codex	コデックス	PROPN	PROPN
+turniere	トーナメント	turnieren	トーナメント		N
+überlebenden	サバイバー	überlebend	サバイバー	V;IND;PL;3;FIN	PROPN
+gesichtet	斑点	sichten	斑点	V;V.PTCP	N
+endgültigen	最終	endgültig	最終	ADJ	N
+endgültigen	決勝	endgültig	決勝	ADJ	N
+endgültigen	ファイナル	endgültig	ファイナル	ADJ	PROPN
+león	レオン	león	レオン	PROPN;NOM;MASC;SG	PROPN
+león	レオン	león	レオン	PROPN;NOM;MASC;SG	PROPN
+caesar	シーザー	caesar	シーザー	PROPN;NOM;SG	PROPN
+gerichtsbarkeit	管轄	gerichtsbarkeit	管轄	ADJ;NOM;FEM	V
+gerichtsbarkeit	司法	gerichtsbarkeit	司法	ADJ;NOM;FEM	N
+bundesländer	ランダー	bundesland	ランダー	ADJ;NOM;PL	PROPN
+susan	スーザン	susan	スーザン	PROPN;NOM;SG	PROPN
+exemplar	標本	exemplar	標本	ADJ	N
+exemplar	見本	exemplar	見本	ADJ	N
+unrecht	悪事	unrecht	悪事	ADJ	N
+analysen	analytics	analyse	analytics	V;NFIN	PROPN
+treppe	歩数	treppe	歩数		N
+treppe	手順	treppe	手順		N
+treppe	ステップ	treppe	ステップ		N
+treppe	階段	treppe	階段		N
+treppe	階段	treppe	階段		N
+treppe	階段	treppe	階段		N
+songwriter	ソングライター	songwriter	ソングライター	ADJ	N
+diplomatischen	外交	diplomatisch	外交	ADJ;NOM;MASC;SG	N
+holmes	ホームズ	holm	ホームズ	N;NOM;NEUT;SG	PROPN
+dramatiker	劇作家	dramatiker	劇作家	ADJ	N
+restaurants	レストラン	restaurants	レストラン	PROPN	N
+kantone	広東	kanton	広東	N;NOM;FEM;PL	PROPN
+kantone	カントン	kanton	カントン	N;NOM;FEM;PL	PROPN
+heck	尾翼	heck	尾翼	ADJ	N
+heck	しっぽ	heck	しっぽ	ADJ	PROPN
+heck	ヘック	heck	ヘック	ADJ	PROPN
+heck	スターン	heck	スターン	ADJ	PROPN
+heck	船尾	heck	船尾	ADJ	N
+großstadt	大都市	großstadt	大都市	ADJ	N
+großstadt	メトロポリス	großstadt	メトロポリス	ADJ	N
+hardware	金物	hardware	金物		N
+hardware	ハードウェア	hardware	ハードウェア		N
+stolz	プライド	stolz	プライド	ADJ	N
+stolz	傲慢	stolz	傲慢	ADJ	N
+stolz	誇り	stolz	誇る	ADJ	V
+stolz	自慢	stolz	自慢	ADJ	N
+stolz	誇り	stolz	誇る	ADJ	V
+schicken	ファンシー	schicken	ファンシー	V;NFIN	N
+schicken	空想	schicken	空想	V;NFIN	N
+vorgehensweise	進入	vorgehensweise	進入	ADV	V
+vorgehensweise	アプローチ	vorgehensweise	アプローチ	ADV	V
+vorgehensweise	参道	vorgehensweise	参道	ADV	N
+vorgehensweise	プロシージャ	vorgehensweise	プロシージャ	ADV	N
+vorgehensweise	手順	vorgehensweise	手順	ADV	N
+vorgehensweise	手続き	vorgehensweise	手続き	ADV	V
+göttin	女神	göttin	女神		N
+barocken	バロック	barock	バロック	ADJ	N
+schweigen	サイレント	schweigen	サイレント	V;NFIN	N
+schweigen	無音	schweigen	無音	V;NFIN	N
+schweigen	サイレンス	schweigen	サイレンス	V;NFIN	PROPN
+schweigen	無音	schweigen	無音	V;NFIN	N
+elektronik	エレクトロニクス	elektronik	エレクトロニクス	ADJ	N
+elektronik	エレクトロニック	elektronik	エレクトロニック	ADJ	PROPN
+revision	改正	revision	改正		V
+revision	改定	revision	改定		V
+instanz	インスタンス	instanz	インスタンス		PROPN
+witz	ジョーク	witz	ジョーク		N
+witz	機知	witz	機知		N
+witz	ウィット	witz	ウィット		PROPN
+witz	ジョーク	witz	ジョーク		N
+munition	弾薬	Munition	弾薬		N
+munition	弾薬	Munition	弾薬		N
+aschaffenburg	aschaffenburg	aschaffenburg	aschaffenburg	PROPN;NOM;SG	PROPN
+vegas	vegas	vegas	vegas	PROPN;NOM;MASC;SG	PROPN
+vegas	ベガス	vegas	ベガス	PROPN;NOM;MASC;SG	PROPN
+neil	ニール	neil	ニール	PROPN;NOM;SG	PROPN
+serbischen	セルビア	serbisch	セルビア	ADJ;NOM;PL	PROPN
+kramer	クレイマー	kram	クレイマー	ADJ	PROPN
+utah	ユタ	utah	ユタ	PROPN;NOM;MASC;SG	PROPN
+celle	celle	celle	celle		PROPN
+trek	トレック	trek	トレック	PROPN;NOM;SG	PROPN
+trek	トレッキング	trek	トレッキング	PROPN;NOM;SG	PROPN
+brett	ブレット	breten	ブレット		PROPN
+slowakischen	スロバキア	slowakisch	スロバキア	ADJ;NOM;PL	PROPN
+unterhaltung	会話	unterhaltung	会話	N;NOM;SG	V
+unterhaltung	娯楽	unterhaltung	娯楽	N;NOM;SG	
+zukünftige	フューチャー	zukünftig	フューチャー	ADJ;NOM;FEM;PL	N
+zukünftige	未来	zukünftig	未来	ADJ;NOM;FEM;PL	N
+zukünftige	将来	zukünftig	将来	ADJ;NOM;FEM;PL	
+allan	アラン	allan	アラン	PROPN;NOM;MASC;SG	PROPN
+gutenberg	グーテンベルク	gutenberg	グーテンベルク	ADJ	PROPN
+kosmos	cosmos	kosmos	cosmos		PROPN
+kosmos	コスモス	kosmos	コスモス		PROPN
+kontinent	コンチネンタル	kontinent	コンチネンタル		PROPN
+kontinent	大陸	kontinent	大陸		N
+kontinent	大陸	kontinent	大陸		N
+konstruiert	工学	konstruieren	工学	V;V.PTCP	N
+aufgeführten	上場	aufgeführt	上場	V;IND;PL;3;PST;FIN	N
+castro	カストロ	castro	カストロ	PROPN;NOM;SG	PROPN
+happy	ハッピー	happy	ハッピー	PROPN;SG	N
+happy	幸せ	happy	幸せ	PROPN;SG	ADJ
+föderation	連邦	Föderation	連邦	ADJ	N
+widmet	専用	widmen	専用	V;IND;SG;3;PRS;FIN	N
+haas	ハース	haas	ハース	PROPN;NOM;MASC;SG	PROPN
+aktiver	アクティブ	aktiv	アクティブ	ADJ	N
+fluggesellschaft	キャリア	fluggesellschaft	キャリア	ADJ	N
+hopkins	ホプキンス	hopkins	ホプキンス	PROPN;NOM;MASC;SG	PROPN
+nfl	nfl	nfl	nfl	PROPN;NOM;MASC;SG	PROPN
+rohr	パイプ	Rohr	パイプ		N
+danny	ダニー	danny	ダニー	PROPN;NOM;MASC;SG	PROPN
+dean	ディーン	dean	ディーン	PROPN;NOM;MASC;SG	PROPN
+ringe	リング	ring	リング		N
+ringe	指輪	ring	指輪		N
+neutrale	中性	neutral	中性	ADJ;NOM;FEM;PL	N
+neutrale	ニュートラル	neutral	ニュートラル	ADJ;NOM;FEM;PL	N
+liberale	リベラル	liberal	リベラル	ADJ;NOM;FEM;PL	N
+zell	ツェル	zell	ツェル		PROPN
+gross	グロス	groß	グロス	ADJ	PROPN
+albanien	ティラナ	albanien	ティラナ	PROPN;NOM;SG	PROPN
+angreifer	アタッカー	angreifer	アタッカー	ADJ	N
+valencia	バレンシア	valencia	バレンシア	PROPN;NOM;SG	PROPN
+umgehend	プロンプト	umgehend	プロンプト	ADJ	N
+alexandre	アレクサンドロス	alexandre	アレクサンドロス	PROPN;NOM;MASC;SG	PROPN
+alexandre	アレクサンダー	alexandre	アレクサンダー	PROPN;NOM;MASC;SG	PROPN
+alexandre	アレキサンダー	alexandre	アレキサンダー	PROPN;NOM;MASC;SG	PROPN
+vertreibung	除名	vertreibung	除名	N;NOM;FEM;SG	V
+vertreibung	退学	vertreibung	退学	N;NOM;FEM;SG	V
+schlachten	屠殺	schlachten	屠殺	V;NFIN	
+schlachten	合戦	schlachten	合戦	V;NFIN	N
+marmor	大理石	marmor	大理石		N
+marmor	marble	marmor	marble		PROPN
+marmor	ビー玉	marmor	ビー玉		N
+längste	最長	lang	最長	ADJ;NOM;FEM;PL	PART
+katze	子猫	katz	子猫		N
+katze	キャッツ	katz	キャッツ		PROPN
+katze	ネコ	katz	ネコ		N
+katze	キティ	katz	キティ		PROPN
+katze	ネコ	katz	ネコ		N
+katze	ねこ	katz	ねこ		PROPN
+brd	frg	brd	frg		PROPN
+judith	ジュディス	judith	ジュディス	PROPN;NOM;SG	PROPN
+adalbert	アダルベルト	adalbern	アダルベルト	PROPN	PROPN
+sternbild	星座	sternbild	星座	PROPN	N
+lok	機関	lok	機関		N
+justus	ユストゥス	justus	ユストゥス	PROPN;NOM;MASC;SG	PROPN
+objekten	オブジェクト	objekt	オブジェクト	V;NFIN	N
+monster	怪物	monster	怪物		N
+monster	モンスター	monster	モンスター		N
+monster	怪獣	monster	怪獣		N
+monster	モンスターズ	monster	モンスターズ		PROPN
+kinofilm	映画	kinofilm	映画	PROPN	N
+kinofilm	ムービー	kinofilm	ムービー	PROPN	N
+kinofilm	映画	kinofilm	映画	PROPN	N
+kinofilm	フィルム	kinofilm	フィルム	PROPN	N
+kinofilm	映画	kinofilm	映画	PROPN	N
+kinofilm	シネマ	kinofilm	シネマ	PROPN	PROPN
+call	通話	call	通話	ADJ	V
+call	コール	call	コール	ADJ	N
+statistiken	統計	statistik	統計	V;NFIN	N
+statistiken	統計	statistik	統計	V;NFIN	N
+pos	pos	pos	pos		N
+kulturgeschichte	文明	kulturgeschichte	文明	ADJ;NOM;FEM;PL	N
+sorten	品種	sorten	品種	V;IND;PL;3;FIN	
+sorten	品種	sorten	品種	V;IND;PL;3;FIN	
+sorten	バラエティ	sorten	バラエティ	V;IND;PL;3;FIN	N
+sorten	変種	sorten	変種	V;IND;PL;3;FIN	N
+liberal	リベラル	liberal	リベラル	ADJ	N
+march	マーチ	march	マーチ	PROPN	N
+march	行進	march	行進	PROPN	N
+paula	ポーラ	paula	ポーラ	PROPN;NOM;SG	N
+alb	alb	alb	alb		PROPN
+cape	ケープ	cape	ケープ	PROPN;NOM;SG	PROPN
+hampshire	ハンプシャー	hampshire	ハンプシャー	PROPN;NOM;SG	PROPN
+senioren	先輩	senior	先輩		N
+senioren	先輩	senior	先輩		N
+senioren	上級	senior	上級		N
+rudi	ルディ	rudi	ルディ	PROPN;NOM;MASC;SG	PROPN
+rudi	ルドルフ	rudi	ルドルフ	PROPN;NOM;MASC;SG	PROPN
+rudi	ルディ	rudi	ルディ	PROPN;NOM;MASC;SG	PROPN
+nah	閉じる	nah	閉じる	ADJ	V
+nah	クローズ	nah	クローズ	ADJ	N
+nah	付近	nah	付近	ADJ	N
+nah	近く	nah	近く	ADJ	ADV
+record	レコード	record	レコード	PROPN;NOM;SG	N
+record	記録	record	記録	PROPN;NOM;SG	V
+konservative	保守	konservativ	保守	ADJ;NOM;FEM;PL	N
+limited	限定	limited	限定	PROPN;NOM;SG	V
+limited	limited	limited	limited	PROPN;NOM;SG	PROPN
+limited	ltd	limited	ltd	PROPN;NOM;SG	PROPN
+äthiopien	エチオピア	äthiopien	エチオピア	PROPN;NOM;NEUT;SG	PROPN
+äthiopien	エチオピア	äthiopien	エチオピア	PROPN;NOM;NEUT;SG	PROPN
+harten	一生	hart	一生	ADJ	N
+harten	ハード	hart	ハード	ADJ	N
+birmingham	バーミンガム	birmingham	バーミンガム	PROPN;NOM;SG	PROPN
+anfragen	リクエスト	anfragen	リクエスト	V;NFIN	N
+anfragen	リクエスト	anfragen	リクエスト	V;NFIN	N
+waldemar	ヴァルデマー	waldemar	ヴァルデマー	PROPN;NOM;MASC;SG	PROPN
+heidelberger	heidelberger	heidelberger	heidelberger	PROPN	PROPN
+alba	アルバ	Alba	アルバ	PROPN;NOM;SG	PROPN
+zucker	砂糖	zucker	砂糖	ADJ	N
+ida	アイダ	ida	アイダ	PROPN;NOM;FEM;SG	PROPN
+ida	イダ	ida	イダ	PROPN;NOM;FEM;SG	PROPN
+anregung	刺激	anregung	刺激		V
+anregung	励起	anregung	励起		N
+anregung	インセンティブ	anregung	インセンティブ		N
+anregung	提案	anregung	提案		V
+anregung	暗示	anregung	暗示		V
+singt	sing	singen	sing	V;IND;SG;3;PRS;FIN	PROPN
+beliebig	ランダム	beliebig	ランダム	ADV	ADJ
+beliebig	任意	beliebig	任意	ADV	N
+fertigung	製作	Fertigung	製作	N;NOM;FEM;SG	V
+fertigung	生産	Fertigung	生産	N;NOM;FEM;SG	V
+dargelegt	アウトライン	darlegen	アウトライン	V;V.PTCP	N
+erlassen	養子	erlassen	養子	V;NFIN	N
+short	短い	short	短い	PROPN	ADJ
+short	ショート	short	ショート	PROPN	N
+sigmund	ジークムント	sigmund	ジークムント	PROPN;NOM;MASC;SG	PROPN
+haare	ヘアー	haaren	ヘアー		N
+haare	髪	haaren	髪		N
+haare	ヘア	haaren	ヘア		N
+haare	毛髪	haaren	毛髪		N
+engels	エンジェル	engels	エンジェル		N
+engels	天使	engels	天使		N
+battle	バトル	battl	バトル	PROPN;SG	N
+battle	戦闘	battl	戦闘	PROPN;SG	V
+battle	戦い	battl	戦う	PROPN;SG	V
+budget	予算	budgen	予算		N
+budget	予算	budgen	予算		N
+nicole	ニコル	nicole	ニコル	PROPN;NOM;FEM;SG	PROPN
+transkription	転写	transkription	転写	ADJ	V
+lucius	ルシウス	lucius	ルシウス	PROPN;NOM;MASC;SG	PROPN
+lucius	ルキウス	lucius	ルキウス	PROPN;NOM;MASC;SG	PROPN
+abzug	値引き	abzugen	値引き		N
+abzug	引き金	abzugen	引き金		V
+abzug	トリガー	abzugen	トリガー		N
+abzug	引き算	abzugen	引き算		V
+maschinenbau	力学	maschinenbau	力学	ADJ	N
+maschinenbau	工学	maschinenbau	工学	ADJ	N
+maschinenbau	エンジニアリング	maschinenbau	エンジニアリング	ADJ	N
+maschinenbau	機械	maschinenbau	機械	ADJ	N
+circle	サークル	circle	サークル		N
+präsentation	プレゼン	präsentation	プレゼン	ADJ	N
+präsentation	プレゼンテーション	präsentation	プレゼンテーション	ADJ	N
+präsentation	プレゼン	präsentation	プレゼン	ADJ	N
+präsentation	プレゼンテーション	präsentation	プレゼンテーション	ADJ	N
+ringen	リング	ringen	リング	V;NFIN	N
+ringen	指輪	ringen	指輪	V;NFIN	N
+ringen	レスリング	ringen	レスリング	V;NFIN	N
+ringen	レスリング	ringen	レスリング	V;NFIN	N
+getreide	小麦	getreide	小麦		N
+getreide	コムギ	getreide	コムギ		N
+getreide	穀物	getreide	穀物		N
+getreide	コーン	getreide	コーン		N
+getreide	トウモロコシ	getreide	トウモロコシ		N
+getreide	とうもろこし	getreide	とうもろこし		ADV
+getreide	シリアル	getreide	シリアル		N
+getreide	シリアル	getreide	シリアル		N
+sigismund	ジグムント	sigismund	ジグムント	PROPN;NOM;MASC;SG	PROPN
+sigismund	ジギスムント	sigismund	ジギスムント	PROPN;NOM;MASC;SG	PROPN
+fpö	fpö	fpö	fpö	PROPN;NOM;MASC;SG	PROPN
+bulgarischen	ブルガリア	bulgarisch	ブルガリア	ADJ;NOM;MASC;PL	PROPN
+vorliegenden	現在	vorliegend	現在	V;NFIN	N
+vorliegenden	present	vorliegend	present	V;NFIN	PROPN
+vorliegenden	プレゼント	vorliegend	プレゼント	V;NFIN	N
+umland	田舎	umlinden	田舎		N
+perspektiven	outlook	perspektiv	outlook	ADJ	PROPN
+perspektiven	視点	perspektiv	視点	ADJ	N
+perspektiven	遠近	perspektiv	遠近	ADJ	N
+perspektiven	遠近	perspektiv	遠近	ADJ	N
+perspektiven	視点	perspektiv	視点	ADJ	N
+madison	マディソン	madison	マディソン	PROPN;NOM;SG	PROPN
+magic	magic	magic	magic		PROPN
+magic	魔法	magic	魔法		N
+magic	マジック	magic	マジック		N
+respekt	尊敬	respeken	尊敬	PROPN	V
+respekt	尊重	respeken	尊重	PROPN	V
+respekt	リスペクト	respeken	リスペクト	PROPN	N
+respekt	敬	respeken	敬	PROPN	PROPN
+büros	オフィス	büros	オフィス		N
+büros	事務局	büros	事務局		N
+büros	事務所	büros	事務所		N
+büros	オフィス	büros	オフィス		N
+rundschau	rundschau	rundschau	rundschau	PROPN	PROPN
+kommerziell	コマーシャル	kommerziell	コマーシャル	ADJ	N
+kommerziell	商用	kommerziell	商用	ADJ	V
+kommerziell	商業	kommerziell	商業	ADJ	N
+protestantischen	プロテスタント	protestantisch	プロテスタント	ADJ;NOM;PL	N
+erläuterungen	備考	erläuterung	備考	V;NFIN	N
+oma	おば	oma	おば		N
+oma	祖母	oma	祖母		N
+oma	おば	oma	おば		N
+audi	アウディ	audi	アウディ	PROPN;NOM;MASC;SG	PROPN
+tipp	チップ	tipp	チップ		N
+tipp	tip	tipp	tip		PROPN
+tipp	ヒント	tipp	ヒント		N
+tipp	ヒント	tipp	ヒント		N
+ausreichende	足りる	ausreichend	足りる	ADJ;NOM;FEM;PL	V
+ländereien	土地	ländereien	土地	V;NFIN	N
+geworfen	キャスト	werfen	キャスト	V;V.PTCP	N
+geworfen	ギプス	werfen	ギプス	V;V.PTCP	N
+senats	元老院	senats	元老院		PROPN
+zufrieden	満足	zufrieden	満足	ADJ	
+zufrieden	満足	zufrieden	満足	ADJ	
+zufrieden	ハッピー	zufrieden	ハッピー	ADJ	N
+veraltet	時代	veralten	時代	ADJ	N
+veraltet	時代	veralten	時代	ADJ	N
+bozen	ボルツァーノ	bozen	ボルツァーノ	PROPN;NOM;SG	PROPN
+vollen	いっぱい	voll	いっぱい		N
+vollen	フル	voll	フル		N
+butler	バトラー	butler	バトラー	PROPN;NOM;SG	PROPN
+knight	騎士	knight	騎士	PROPN	N
+knight	ナイト	knight	ナイト	PROPN	N
+vegetation	植生	vegetation	植生		N
+säule	カラム	säul	カラム		N
+primera	プリメーラ	primera	プリメーラ	PROPN;NOM;SG	PROPN
+empfehlen	おすすめ	empfehlen	おすすめ	V;NFIN	N
+empfehlen	おすすめ	empfehlen	おすすめ	V;NFIN	N
+armstrong	アームストロング	armstrong	アームストロング	PROPN	PROPN
+quatsch	でたらめ	quatsch	でたらめ	ADV	
+quatsch	ごみ	quatsch	ごみ	ADV	N
+quatsch	ナンセンス	quatsch	ナンセンス	ADV	PROPN
+isaac	アイザック	isaac	アイザック	PROPN;NOM;MASC;SG	PROPN
+isaac	イサク	isaac	イサク	PROPN;NOM;MASC;SG	PROPN
+humor	ユーモア	humor	ユーモア	PROPN	N
+humor	ユーモア	humor	ユーモア	PROPN	N
+angelegenheit	物質	anlegegenheit	物質	ADJ	N
+angelegenheit	事柄	anlegegenheit	事柄	ADJ	N
+meiningen	マイニンゲン	meiningen	マイニンゲン	PROPN;NOM;NEUT;SG	PROPN
+kessel	ボイラー	kessel	ボイラー		N
+kessel	やかん	kessel	やかぶ		N
+kessel	ボイラー	kessel	ボイラー		N
+kessel	ケッセル	kessel	ケッセル		PROPN
+messer	ナイフ	messe	ナイフ		N
+messer	ナイフ	messe	ナイフ		N
+legion	レギオン	legion	レギオン	PROPN;NOM	PROPN
+ergo	エルゴ	ergo	エルゴ		PROPN
+aristoteles	アリストテレス	aristoteles	アリストテレス	ADJ;NOM;NEUT;SG	PROPN
+expansion	膨張	expansion	膨張		V
+side	サイド	side	サイド		N
+schlag	ブロウ	schlagen	ブロウ		PROPN
+schlag	ブロー	schlagen	ブロー		PROPN
+schlag	hit	schlagen	hit		PROPN
+schlag	ヒット	schlagen	ヒット		V
+schlag	beat	schlagen	beat		PROPN
+schlag	ビート	schlagen	ビート		N
+schlag	パンチ	schlagen	パンチ		N
+schlag	平手	schlagen	平手		N
+schlag	ストライキ	schlagen	ストライキ		N
+schlag	ストライク	schlagen	ストライク		N
+konzentrieren	焦点	konzentrieren	焦点	V;NFIN	N
+konzentrieren	フォーカス	konzentrieren	フォーカス	V;NFIN	N
+igor	イーゴリ	igor	イーゴリ	PROPN;NOM;MASC;SG	PROPN
+par	パー	par	パー		N
+vernunft	理由	vernunft	理由		N
+vernunft	理性	vernunft	理性		N
+zensur	検閲	zensur	検閲		V
+zensur	検閲	zensur	検閲		V
+nachteile	短所	nachteil	短所	ADJ;NOM	N
+nachteile	欠点	nachteil	欠点	ADJ;NOM	N
+nachteile	欠点	nachteil	欠点	ADJ;NOM	N
+nachteile	短所	nachteil	短所	ADJ;NOM	N
+dreieck	トライアングル	dreieck	トライアングル		N
+dreieck	三角形	dreieck	三角形		N
+gepflegt	身だし	pflegen	身だし	ADJ;V.PTCP	N
+gepflegt	栽培	pflegen	栽培	ADJ;V.PTCP	V
+intelligenz	知能	intelligenz	知能	ADJ	N
+intelligenz	知能	intelligenz	知能	ADJ	N
+pol	ポル	pol	ポル		PROPN
+entkommen	エスケープ	entkommen	エスケープ	V;NFIN	N
+entkommen	エスケープ	entkommen	エスケープ	V;NFIN	N
+senkrecht	垂直	senkrecht	垂直	ADJ	N
+senkrecht	直交	senkrecht	直交	ADJ	N
+mediawiki	mediawiki	mediawiki	mediawiki	PROPN;NOM;SG	PROPN
+experte	エキスパート	expern	エキスパート		N
+augusta	オーガスタ	augusta	オーガスタ	PROPN;NOM;MASC;SG	PROPN
+bauch	お	bauch	お		N
+bauch	お	bauch	お		N
+fördert	フォスターズ	fördern	フォスターズ	V;V.PTCP	PROPN
+logos	ロゴ	logos	ロゴ	ADJ	N
+logos	ロゴス	logos	ロゴス	ADJ	PROPN
+logos	ロゴ	logos	ロゴ	ADJ	N
+blockiert	ブロッキング	blockieren	ブロッキング	V;V.PTCP	N
+bankier	銀行員	bankei	銀行員	PROPN;NOM;SG	N
+low	低い	low	低い		ADJ
+seattle	シアトル	seattle	シアトル	PROPN;NOM;SG	PROPN
+grundsatz	原理	grundsatz	原理	ADV	N
+fünfter	フィフス	fünft	フィフス	ADJ	PROPN
+fächer	ファン	fach	ファン	ADJ	N
+fächer	科目	fach	科目	ADJ	N
+fächer	ファン	fach	ファン	ADJ	N
+apsis	アプス	apsis	アプス	ADJ	PROPN
+bundesweit	全国	bundesweit	全国	ADJ	N
+bio	バイオ	bio	バイオ	;SG	N
+bio	有機	bio	有機	;SG	N
+gefährdung	危険	gefährdung	危険	N;FEM;SG	ADJ
+begeistert	わくわく	begeistern	わくわく	ADJ	
+begeistert	ワクワク	begeistern	ワクワク	ADJ	PROPN
+begeistert	興奮	begeistern	興奮	ADJ	V
+begeistert	かぶり	begeistern	かぶる	ADJ	N
+mangelnde	欠如	mangelnd	欠如	ADJ;NOM;FEM;PL	V
+mangelnde	不足	mangelnd	不足	ADJ;NOM;FEM;PL	V
+arbeitnehmer	社員	arbeitnehmer	社員	ADJ	N
+arbeitnehmer	職員	arbeitnehmer	職員	ADJ	N
+arbeitnehmer	社員	arbeitnehmer	社員	ADJ	N
+watson	ワトソン	watson	ワトソン	PROPN;NOM;SG	PROPN
+iris	アイリス	iris	アイリス	PROPN;NOM;FEM;SG	PROPN
+wiese	芝生	weisen	芝生		N
+wiese	草地	weisen	草地		N
+seltsam	好奇心	seltsam	好奇心	ADJ	N
+seltsam	興味	seltsam	興味	ADJ	N
+seltsam	オッド	seltsam	オッド	ADJ	PROPN
+seltsam	奇数	seltsam	奇数	ADJ	N
+labels	ラベル	labels	ラベル		N
+überzeugung	説得	überzeugung	説得	ADV	V
+überzeugung	信仰	überzeugung	信仰	ADV	N
+überzeugung	信念	überzeugung	信念	ADV	N
+überzeugung	信念	überzeugung	信念	ADV	N
+gasse	裏通り	geß	裏通り		N
+gasse	路地	geß	路地		N
+ältester	長老	alt	長老	ADJ	N
+ältester	長子	alt	長子	ADJ	N
+ältester	長老	alt	長老	ADJ	N
+amtliche	職員	amtlich	職員	ADJ;NOM;FEM;PL	N
+nachdenken	思考	nachdenken	思考	V;NFIN	N
+nachdenken	反射	nachdenken	反射	V;NFIN	N
+nachdenken	リフレクション	nachdenken	リフレクション	V;NFIN	N
+kunststoff	プラスチック	kunststoff	プラスチック	PROPN	N
+kunststoff	合成樹	kunststoff	合成樹	PROPN	PROPN
+kunststoff	ビニール	kunststoff	ビニール	PROPN	N
+kunststoff	プラスチック	kunststoff	プラスチック	PROPN	N
+kunststoff	プラスティック	kunststoff	プラスティック	PROPN	N
+folk	フォーク	folk	フォーク	ADJ	N
+gemeinsames	関節	gemeinsam	関節	ADJ;NOM;NEUT;SG	N
+gemeinsames	共通	gemeinsam	共通	ADJ;NOM;NEUT;SG	V
+bestandteile	コンポーネント	bestandteile	コンポーネント		N
+bestandteile	材料	bestandteile	材料		N
+bestandteile	食材	bestandteile	食材		N
+bestandteile	成分	bestandteile	成分		N
+tauchen	ダイビング	tauchen	ダイビング	V;NFIN	N
+tauchen	ダイビング	tauchen	ダイビング	V;NFIN	N
+tauchen	スキューバ	tauchen	スキューバ	V;NFIN	N
+ibm	ibm	ibm	ibm	PROPN;NOM;MASC;SG	PROPN
+sophia	ソフィア	sophia	ソフィア	PROPN;NOM;FEM;SG	PROPN
+unvollständig	未	unvollständig	未	ADJ	N
+umstellung	変換	umstellung	変換	N;NOM;FEM;SG	V
+georgien	グルジア	george	グルジア	PROPN;NOM;NEUT;SG	PROPN
+georgien	ジョージア	george	ジョージア	PROPN;NOM;NEUT;SG	PROPN
+professorin	教授	professorin	教授	ADJ	N
+gedächtnis	思い出	gedächtnis	思い出		V
+gedächtnis	メモリ	gedächtnis	メモリ		N
+gedächtnis	メモリー	gedächtnis	メモリー		N
+gedächtnis	記憶	gedächtnis	記憶		V
+spitznamen	愛称	spitznamen	愛称	V;FIN	N
+spitznamen	ニックネーム	spitznamen	ニックネーム	V;FIN	N
+spitznamen	愛称	spitznamen	愛称	V;FIN	N
+spitznamen	ニックネーム	spitznamen	ニックネーム	V;FIN	N
+illustrator	イラストレーター	illustrator	イラストレーター	ADJ	N
+anschlag	攻撃	anschlagen	攻撃	N;SG	V
+anschlag	暗殺	anschlagen	暗殺	N;SG	V
+anschlag	アサルト	anschlagen	アサルト	N;SG	PROPN
+anschlag	暴行	anschlagen	暴行	N;SG	V
+heimlich	秘密	heimlich	秘密	ADJ	
+saar	ザール	saar	ザール	PROPN;NOM;SG	PROPN
+verletzte	外傷	verletzen	外傷	V;IND;SG;3;PST;FIN	N
+wertvolle	尊い	wertvoll	尊いる	ADJ;NOM;FEM;PL	N
+wertvolle	precious	wertvoll	precious	ADJ;NOM;FEM;PL	PROPN
+tempo	ペース	tempo	ペース	ADJ	N
+tempo	テンポ	tempo	テンポ	ADJ	N
+reinhardt	ラインハルト	reinharden	ラインハルト	PROPN	PROPN
+professionellen	プロフェッショナル	professionell	プロフェッショナル	ADJ	N
+verkehrs	トラフィック	verkehrs	トラフィック		N
+verkehrs	交通	verkehrs	交通		N
+parallelen	パラレル	parallel	パラレル	V;NFIN	N
+parallelen	並列	parallel	並列	V;NFIN	N
+parallelen	平行線	parallel	平行線	V;NFIN	
+verheiratete	既婚	verheiraten	既婚	V;IND;SG;3;PST;FIN	N
+klubs	クラブ	klubsen	クラブ	ADV	N
+square	正方	squar	正方	PROPN	N
+square	四角	squar	四角	PROPN	PROPN
+square	広場	squar	広場	PROPN	N
+mist	がっかり	messen	がっかり		ADV
+cousin	従姉妹	cousin	従姉妹		N
+cousin	従兄弟	cousin	従兄弟		N
+cousin	いとこ	cousin	いとこ		N
+cousin	いとこ	cousin	いとこ		N
+getriebe	歯車	getreib	歯車		N
+getriebe	ギア	getreib	ギア		N
+getriebe	伝送	getreib	伝送		V
+getriebe	ギア	getreib	ギア		N
+unmittelbaren	即時	unmittelbar	即時	ADJ	N
+ungültig	ボイド	ungültig	ボイド	ADJ	PROPN
+emeritierung	退職	Emeritierung	退職	ADJ	V
+aufgebot	ポッセ	aufbieten	ポッセ	V;V.PTCP	PROPN
+dietz	ディーツ	dietz	ディーツ	PROPN;NOM;MASC;SG	PROPN
+optisch	ビジュアル	optisch	ビジュアル	ADJ	N
+optisch	光学	optisch	光学	ADJ	N
+optisch	光学	optisch	光学	ADJ	N
+jeanne	ジャンヌ	jeann	ジャンヌ	PROPN;NOM;FEM;SG	PROPN
+herzegowina	ヘルツェゴヴィナ	herzegowina	ヘルツェゴヴィナ	PROPN;NOM;SG	PROPN
+secret	秘密	secren	秘密	PROPN;SG	
+experimente	実験	experiment	実験	ADJ;NOM;PL	N
+experimente	実験	experiment	実験	ADJ;NOM;PL	N
+armut	貧困	armut	貧困		N
+libanon	レバノン	libanon	レバノン	PROPN;NOM;SG	PROPN
+lieutenant	警部	lieutenanen	警部	ADJ	N
+lieutenant	中尉	lieutenanen	中尉	ADJ	N
+unbrauchbar	役立	unbrauchbar	役立	ADJ	V
+protein	タンパク	protein	タンパク	PROPN	N
+protein	たんぱく	protein	たんぱく	PROPN	N
+organe	臓器	organ	臓器		N
+organe	機関	organ	機関		N
+organe	機関	organ	機関		N
+ensembles	アンサンブル	ensembl	アンサンブル		N
+vorwärts	進む	vorwärts	進む	ADV	V
+vorwärts	フォワード	vorwärts	フォワード	ADV	N
+vorwärts	転送	vorwärts	転送	ADV	V
+vorwärts	進む	vorwärts	進む	ADV	V
+mathilde	マチルダ	mathild	マチルダ	PROPN;NOM;FEM;SG	PROPN
+jugendlicher	ティーン	jugendlich	ティーン	ADJ	N
+gran	グラン	gran	グラン		PROPN
+blind	ブラインド	blind	ブラインド	ADJ	N
+blind	盲人	blind	盲人	ADJ	N
+verfehlt	はずれ	verfehlen	はずれ	ADJ;V.PTCP	V
+gonzález	ゴンサレス	gonzález	ゴンサレス	PROPN;NOM;MASC;SG	PROPN
+leidenschaft	パッション	leidenschaft	パッション	ADJ	PROPN
+leidenschaft	情熱	leidenschaft	情熱	ADJ	N
+leidenschaft	受難	leidenschaft	受難	ADJ	N
+glockenturm	鐘楼	glockenturm	鐘楼	ADJ	
+vereinbarung	覚書	vereinbarung	覚書	ADJ	N
+vereinbarung	協定	vereinbarung	協定	ADJ	V
+vereinbarung	合意	vereinbarung	合意	ADJ	V
+vereinbarung	mou	vereinbarung	mou	ADJ	PROPN
+vereinbarung	配置	vereinbarung	配置	ADJ	V
+vereinbarung	編曲	vereinbarung	編曲	ADJ	N
+thriller	スリラー	thriller	スリラー	ADJ	N
+gitarristen	ギタリスト	gitarrist	ギタリスト		N
+gitarristen	ギタリスト	gitarrist	ギタリスト		N
+sachverhalt	事実	sachverhalt	事実	ADJ	ADV
+dokumenten	ドキュメント	dokument	ドキュメント	V;NFIN	N
+dokumenten	ドキュメント	dokument	ドキュメント	V;NFIN	N
+dokumenten	書類	dokument	書類	V;NFIN	N
+dokumenten	文書	dokument	文書	V;NFIN	N
+amerikanisches	アメリカン	amerikanisch	アメリカン	ADJ;NOM;NEUT;SG	N
+neutralen	中性	neutral	中性	ADJ	N
+neutralen	ニュートラル	neutral	ニュートラル	ADJ	N
+täglichen	everyday	täglich	everyday	ADJ	PROPN
+täglichen	日常	täglich	日常	ADJ	N
+täglichen	毎日	täglich	毎日	ADJ	N
+hölzerne	木造	hölzern	木造	ADJ	N
+hölzerne	木製	hölzern	木製	ADJ	N
+eifel	アイフェル	eifel	アイフェル	PROPN;NOM;SG	PROPN
+con	con	con	con		PROPN
+verhältnismäßig	比較的	verhältnismäßig	比較的	ADJ	ADV
+verhältnismäßig	比例	verhältnismäßig	比例	ADJ	N
+verhältnismäßig	比較的	verhältnismäßig	比較的	ADJ	ADV
+opel	オペル	opel	オペル	PROPN;NOM;MASC;SG	PROPN
+linda	linda	linda	linda	PROPN;NOM;SG	PROPN
+linda	リンダ	linda	リンダ	PROPN;NOM;SG	PROPN
+rita	リタ	rita	リタ	PROPN;NOM;FEM;SG	PROPN
+angelo	アンジェロ	angelo	アンジェロ	PROPN;NOM;MASC;SG	PROPN
+lebewesen	生き物	lebewesen	生き物		N
+martina	マルティナ	martina	マルティナ	PROPN;NOM;FEM;SG	PROPN
+aue	アウエ	aue	アウエ	PROPN;NOM;MASC;SG	PROPN
+brechen	ブレーク	brechen	ブレーク	V;NFIN	N
+isabella	イサベル	isabella	イサベル	PROPN;NOM;FEM;SG	PROPN
+isabella	イザベッラ	isabella	イザベッラ	PROPN;NOM;FEM;SG	PROPN
+ville	ヴィル	vill	ヴィル	PROPN;NOM;SG	PROPN
+künstliche	人工	künstlich	人工	ADJ;NOM;FEM;PL	N
+motorsport	モーター	motorsport	モーター	PROPN	N
+motorsport	モーター	motorsport	モーター	PROPN	N
+treiben	フローティング	treiben	フローティング	V;NFIN	N
+treiben	浮動	treiben	浮動	V;NFIN	N
+treiben	ドリフト	treiben	ドリフト	V;NFIN	N
+flache	浅瀬	flach	浅瀬	ADJ;NOM;FEM;PL	N
+trust	トラスト	trusen	トラスト	PROPN	PROPN
+trust	trust	trusen	trust	PROPN	PROPN
+trust	信頼	trusen	信頼	PROPN	V
+müll	ジャンク	müll	ジャンク	ADV	N
+müll	ごみ箱	müll	ごみ箱	ADV	N
+müll	ゴミ	müll	ゴミ	ADV	N
+müll	ごみ	müll	ごみ	ADV	N
+müll	ゴミ	müll	ゴミ	ADV	N
+müll	ごみ	müll	ごみ	ADV	N
+höchster	supreme	hoch	supreme	ADJ	PROPN
+honda	本	honda	本	PROPN;NOM;SG	N
+honda	ホンダ	honda	ホンダ	PROPN;NOM;SG	PROPN
+honda	本田	honda	本田	PROPN;NOM;SG	PROPN
+palermo	パレルモ	palermo	パレルモ	PROPN;SG	PROPN
+handwerker	職人	handwerker	職人	ADJ	N
+handwerker	職人	handwerker	職人	ADJ	N
+handwerker	職人	handwerker	職人	ADJ	N
+handwerker	職人	handwerker	職人	ADJ	N
+verwandtschaft	親族	verwandtschaft	親族	ADJ	N
+verwandtschaft	親戚	verwandtschaft	親戚	ADJ	N
+verwandtschaft	親族	verwandtschaft	親族	ADJ	N
+beute	捕食	beuten	捕食		V
+kompromiss	妥協	kompromiss	妥協	N	V
+elektrisch	エレクトリック	elektrisch	エレクトリック	ADJ	N
+elektrisch	電気	elektrisch	電気	ADJ	N
+kunstwerke	art	kunstwerk	art	N;NOM;PL	PROPN
+münze	硬貨	münze	硬貨		N
+münze	コイン	münze	コイン		N
+münze	硬貨	münze	硬貨		N
+münze	コイン	münze	コイン		N
+münze	ミント	münze	ミント		PROPN
+veranstalter	主催	veranstalt	主催	ADJ	V
+rechtschreibung	つづり	rechtschreibung	つづり	ADJ	V
+rechtschreibung	スペル	rechtschreibung	スペル	ADJ	PROPN
+rechtschreibung	スペリング	rechtschreibung	スペリング	ADJ	PROPN
+rechtschreibung	呪文	rechtschreibung	呪文	ADJ	N
+rechtschreibung	スペル	rechtschreibung	スペル	ADJ	PROPN
+panorama	パノラマ	panorama	パノラマ		N
+panorama	パノラマ	panorama	パノラマ		N
+professionelle	プロフェッショナル	professionell	プロフェッショナル	ADJ;NOM;FEM;PL	N
+rechtzeitig	タイムリー	rechtzeitig	タイムリー	ADJ	N
+moral	士気	moral	士気		N
+moral	道徳	moral	道徳		N
+tallinn	タリン	tallinn	タリン	PROPN;NOM;SG	PROPN
+romeo	ロミオ	romeo	ロミオ		PROPN
+romeo	ロメオ	romeo	ロメオ		PROPN
+kasachstan	カザフ	kasachstan	カザフ	PROPN;NOM;SG	PROPN
+kasachstan	カザフスタン	kasachstan	カザフスタン	PROPN;NOM;SG	PROPN
+nils	ニルス	nils	ニルス	PROPN;NOM;MASC;SG	PROPN
+märtyrer	殉教	märtyrer	殉教	ADJ	
+märtyrer	殉教	märtyrer	殉教	ADJ	
+explosion	爆発	explosion	爆発	N;NOM;FEM;SG	V
+geschäftsmann	ビジネスマン	geschäftsmann	ビジネスマン		N
+niemanden	ヌーン	niemand	ヌーン	ADV	PROPN
+drogen	ドラッグ	drogen	ドラッグ		V
+drogen	薬物	drogen	薬物		N
+drogen	麻薬	drogen	麻薬		N
+drogen	ドラッグ	drogen	ドラッグ		V
+drogen	薬物	drogen	薬物		N
+arabisch	アラブ	arabisch	アラブ	ADJ	PROPN
+gewässern	ウォーターズ	gewäßtern	ウォーターズ	V;NFIN	PROPN
+kurse	コース	kürsen	コース	ADJ	N
+argentinischen	アルゼンチン	argentinisch	アルゼンチン	ADJ;NOM;MASC;PL	PROPN
+argentinischen	アルゼンチン	argentinisch	アルゼンチン	ADJ;NOM;MASC;PL	PROPN
+osteuropa	東部	osteuropa	東部	ADJ	PROPN
+nachweise	証明	nachweise	証明	N;NOM;FEM;SG	V
+novelle	小説	novell	小説	ADJ;NOM;FEM;SG	N
+tibet	チベット	tiben	チベット	PROPN;NOM;SG	PROPN
+sparen	貯蓄	sparen	貯蓄	V;NFIN	N
+sparen	貯金	sparen	貯金	V;NFIN	N
+sparen	預金	sparen	預金	V;NFIN	N
+sparen	セーブ	sparen	セーブ	V;NFIN	N
+homo	ホモ	homo	ホモ	PROPN	N
+nacheinander	歴代	nacheinander	歴代	ADV	N
+booten	ブーツ	booen	ブーツ	V;NFIN	N
+jefferson	ジェファーソン	jefferson	ジェファーソン	PROPN;NOM;SG	PROPN
+womöglich	たぶん	womöglich	たぶん	ADJ	CONJ
+womöglich	多分	womöglich	多分	ADJ	
+pascal	パスカル	pascal	パスカル	PROPN;NOM;MASC;SG	PROPN
+homosexualität	lgbt	homosexualität	lgbt	ADJ	PROPN
+homosexualität	同性	homosexualität	同性	ADJ	N
+formale	フォーマル	formal	フォーマル	ADJ;NOM;FEM;PL	N
+zeuge	証人	zeuge	証人		N
+zeuge	証人	zeuge	証人		N
+hope	ホープ	hopen	ホープ	PROPN	PROPN
+hope	希望	hopen	希望	PROPN	V
+billboard	看板	billboard	看板	PROPN	N
+militärisch	軍事	militärisch	軍事	ADJ	N
+militärisch	軍隊	militärisch	軍隊	ADJ	N
+bowl	ボウル	bowl	ボウル	PROPN;NOM;SG	PROPN
+edwards	エドワーズ	edwards	エドワーズ	PROPN;NOM;MASC;SG	PROPN
+aufträge	契約	aufträg	契約	ADJ	V
+aufträge	コミッション	aufträg	コミッション	ADJ	N
+aufträge	命令	aufträg	命令	ADJ	V
+aufträge	オーダー	aufträg	オーダー	ADJ	N
+aufträge	注文	aufträg	注文	ADJ	V
+oberseite	top	oberseite	top	ADJ	PROPN
+oberseite	上部	oberseite	上部	ADJ	N
+oberseite	トップ	oberseite	トップ	ADJ	N
+opfern	生贄	opfern	生贄	V;NFIN	N
+jenny	ジェニー	jenny	ジェニー	PROPN;NOM;MASC;SG	PROPN
+sevilla	セビリア	sevilla	セビリア	PROPN;NOM;NEUT;SG	PROPN
+sevilla	セビージャ	sevilla	セビージャ	PROPN;NOM;NEUT;SG	PROPN
+sevilla	セビリア	sevilla	セビリア	PROPN;NOM;NEUT;SG	PROPN
+birgit	テレサ	birgit	テレサ	PROPN;NOM;FEM;SG	PROPN
+birgit	ペーター	birgit	ペーター	PROPN;NOM;FEM;SG	PROPN
+birgit	peter	birgit	peter	PROPN;NOM;FEM;SG	PROPN
+birgit	ピーター	birgit	ピーター	PROPN;NOM;FEM;SG	PROPN
+verwickelt	連座	verwickeln	連座	V;V.PTCP	N
+korrektur	矯正	korrektur	矯正	N;SG	V
+korrektur	補正	korrektur	補正	N;SG	V
+korrektur	修正	korrektur	修正	N;SG	V
+korrektur	補正	korrektur	補正	N;SG	V
+korrektur	訂正	korrektur	訂正	N;SG	V
+entdecker	探検	entdecker	探検	ADJ	V
+entdecker	エクスプローラー	entdecker	エクスプローラー	ADJ	N
+holt	ホルト	holten	ホルト	V;IND;SG;3;PRS;FIN	PROPN
+countys	カウンティ	countys	カウンティ	ADV	PROPN
+wöchentlich	毎週	wöchentlich	毎週	ADJ	N
+wöchentlich	週間	wöchentlich	週間	ADJ	N
+wöchentlich	週刊	wöchentlich	週刊	ADJ	N
+wöchentlich	ウィークリー	wöchentlich	ウィークリー	ADJ	PROPN
+ideal	理想	ideal	理想	ADJ	N
+erzeugung	ジェネレーション	erzeugung	ジェネレーション	N;SG	PROPN
+erzeugung	製作	erzeugung	製作	N;SG	V
+erzeugung	生産	erzeugung	生産	N;SG	V
+tff	tff	tff	tff	PROPN	PROPN
+künstlich	人工	künstlich	人工	ADJ	N
+spencer	スペンサー	spencer	スペンサー	PROPN;NOM;MASC;SG	PROPN
+hardy	ハーディ	hardy	ハーディ	PROPN;NOM;MASC;SG	PROPN
+angestellte	クラークス	angestellt	クラークス	ADJ;NOM;FEM;SG	PROPN
+angestellte	社員	angestellt	社員	ADJ;NOM;FEM;SG	N
+ram	ラム	ram	ラム		N
+ram	ram	ram	ram		PROPN
+brauch	ニーズ	brauch	ニーズ	V;IND;SG;3;PRS;FIN	N
+brauch	風習	brauch	風習	V;IND;SG;3;PRS;FIN	N
+brauch	カスタム	brauch	カスタム	V;IND;SG;3;PRS;FIN	N
+eigenständig	スタンド	eigenständig	スタンド	ADJ	N
+verkürzt	短縮	verkürzen	短縮	ADJ;V.PTCP	V
+verkürzt	短縮	verkürzen	短縮	ADJ;V.PTCP	V
+verkürzt	ショートニング	verkürzen	ショートニング	ADJ;V.PTCP	N
+olivier	オリヴィエ	olivier	オリヴィエ	PROPN;NOM;MASC;SG	PROPN
+schmuck	宝石	schmuck	宝石		N
+schmuck	ジュエリー	schmuck	ジュエリー		N
+schmuck	宝石	schmuck	宝石		N
+schmuck	ジュエリー	schmuck	ジュエリー		N
+innovation	革新	innovation	革新	PROPN	V
+innovation	イノベーション	innovation	イノベーション	PROPN	N
+aufruf	呼び出し	aufruf	呼び出し	N;SG	V
+aufruf	通話	aufruf	通話	N;SG	V
+craig	クレイグ	craig	クレイグ	PROPN;SG	PROPN
+zivilen	文官	zivil	文官	ADJ;PL	N
+einheitlichen	unified	einheitlich	unified	ADJ	PROPN
+einheitlichen	ユニタリ	einheitlich	ユニタリ	ADJ	PROPN
+musikalisch	ミュージカル	musikalisch	ミュージカル	ADJ	N
+dumont	デュモン	dumont	デュモン	PROPN;NOM;SG	PROPN
+boten	メッセンジャー	bieten	メッセンジャー	V;IND;PL;3;PST;FIN	PROPN
+boten	messenger	bieten	messenger	V;IND;PL;3;PST;FIN	PROPN
+schräg	傾ける	schräg	傾ける	ADJ	V
+schräg	傾き	schräg	傾く	ADJ	V
+flüssigkeit	液体	flüssigkeit	液体	ADJ	N
+flüssigkeit	流体	flüssigkeit	流体	ADJ	N
+flüssigkeit	液体	flüssigkeit	液体	ADJ	N
+flüssigkeit	流体	flüssigkeit	流体	ADJ	N
+persischen	ペルシャ	persisch	ペルシャ	ADJ	PROPN
+bausteine	ブロック	bausteine	ブロック	ADJ;NOM;SG	N
+bausteine	モジュール	bausteine	モジュール	ADJ;NOM;SG	N
+steinbruch	採石	steinbruch	採石	PROPN	N
+steinbruch	採石	steinbruch	採石	PROPN	N
+privater	非	privat	非	ADJ	N
+privater	プライベート	privat	プライベート	ADJ	N
+mähren	モラヴィア	mähren	モラヴィア		PROPN
+entschuldigung	言い訳	Entschuldigung	言い訳	ADJ	V
+entschuldigung	謝罪	Entschuldigung	謝罪	ADJ	V
+entschuldigung	謝る	Entschuldigung	謝る	ADJ	V
+entschuldigung	謝罪	Entschuldigung	謝罪	ADJ	V
+editor	エディタ	editor	エディタ		N
+editor	エディター	editor	エディター		PROPN
+ordentlich	tidy	ordentlich	tidy	ADJ	PROPN
+ordentlich	従卒	ordentlich	従卒	ADJ	
+ordentlich	ストレート	ordentlich	ストレート	ADJ	N
+ordentlich	きちんと	ordentlich	きちんと	ADJ	ADV
+alessandro	アレッサンドロ	alessandro	アレッサンドロ	PROPN;NOM;SG	PROPN
+mix	mix	mixen	mix		PROPN
+mix	ミックス	mixen	ミックス		N
+mix	混ぜる	mixen	混ぜる		V
+gfdl	gfdl	gfdl	gfdl		PROPN
+aka	aka	aka	aka		PROPN
+umfrage	アンケート	umfragen	アンケート		N
+umfrage	アンケート	umfragen	アンケート		N
+umfrage	調査	umfragen	調査		V
+umfrage	アンケート	umfragen	アンケート		N
+else	else	else	else	PROPN;NOM;SG	PROPN
+jennifer	ジェニファー	jennifer	ジェニファー	PROPN;NOM;MASC;SG	PROPN
+schilling	シリング	schillingen	シリング	PROPN	PROPN
+schilling	シリング	schillingen	シリング	PROPN	PROPN
+bemerkung	コメント	bemerkung	コメント		N
+bemerkung	メモ	bemerkung	メモ		N
+bemerkung	ノート	bemerkung	ノート		N
+bemerkung	備考	bemerkung	備考		N
+bemerkung	傍聴	bemerkung	傍聴		V
+bemerkung	観察	bemerkung	観察		V
+bemerkung	観測	bemerkung	観測		V
+allgäu	アルゴイ	allgäu	アルゴイ	PROPN;SG	PROPN
+rezensionen	レビュー	rezension	レビュー	V;NFIN	N
+cannes	カンヌ	cannes	カンヌ	PROPN;NOM;NEUT;SG	PROPN
+tänzerin	ダンサー	tänzerin	ダンサー	ADJ;NOM;FEM	N
+anklage	告発	anklage	告発	ADJ;NOM;FEM;SG	V
+anklage	公訴	anklage	公訴	ADJ;NOM;FEM;SG	V
+anklage	訴追	anklage	訴追	ADJ;NOM;FEM;SG	V
+anklage	公訴	anklage	公訴	ADJ;NOM;FEM;SG	V
+anklage	検察官	anklage	検察官	ADJ;NOM;FEM;SG	N
+weiden	ウィロー	weid	ウィロー		PROPN
+weiden	ヤナギ	weid	ヤナギ		PROPN
+weiden	牧草	weid	牧草		N
+weiden	牧草	weid	牧草		N
+lettland	ラトビア	lettland	ラトビア	PROPN	PROPN
+sammler	コレクター	samml	コレクター	ADJ	N
+etappen	舞台	etapp	舞台	V;NFIN	N
+etappen	ステージ	etapp	ステージ	V;NFIN	N
+regisseurin	監督	regisseurin	監督	ADJ	N
+regisseurin	ディレクター	regisseurin	ディレクター	ADJ	PROPN
+regisseurin	取締役	regisseurin	取締役	ADJ	N
+apollo	アポロ	apollo	アポロ	PROPN;NOM;SG	PROPN
+sudan	スーダン	sudan	スーダン	PROPN;NOM;SG	PROPN
+bewerten	格付	bewerten	格付	V;NFIN	N
+mut	ガッツ	mut	ガッツ	N	PROPN
+arms	アームス	arms	アームス		PROPN
+crew	クルー	crew	クルー	PROPN	PROPN
+enterprise	エンター	enterprise	エンター	PROPN;NOM;SG	PROPN
+enterprise	企業	enterprise	企業	PROPN;NOM;SG	N
+prominente	セレブリティ	prominent	セレブリティ	ADJ;NOM;FEM;PL	PROPN
+prominente	有名人	prominent	有名人	ADJ;NOM;FEM;PL	N
+prominente	有名人	prominent	有名人	ADJ;NOM;FEM;PL	N
+stützen	カラム	stützen	カラム	V;NFIN	N
+lüttich	リエージュ	lüttich	リエージュ	PROPN	PROPN
+lüttich	リエージュ	lüttich	リエージュ	PROPN	PROPN
+algorithmus	アルゴリズム	algorithmus	アルゴリズム	PROPN	N
+uno	宇野	uno	宇野	PROPN;NOM;MASC;SG	PROPN
+uno	uno	uno	uno	PROPN;NOM;MASC;SG	PROPN
+étienne	エティエンヌ	étienne	エティエンヌ	PROPN;NOM;SG	PROPN
+watt	ワット	watt	ワット		PROPN
+watt	ワッツ	watt	ワッツ		PROPN
+balthasar	バルタザール	balthasar	バルタザール	PROPN;NOM;SG	PROPN
+fern	シダ	fern	シダ	ADJ	PROPN
+reis	ご飯	reis	ご飯		N
+reis	ライス	reis	ライス		N
+bär	クマ	bär	クマ		N
+bär	クマ	bär	クマ		N
+slam	スラム	slam	スラム		N
+gert	ゲルト	gert	ゲルト	PROPN;NOM;MASC;SG	PROPN
+zielen	aim	zielen	aim	V;NFIN	PROPN
+ecuador	エクアドル	ecuador	エクアドル	PROPN;NOM;NEUT;SG	PROPN
+ecuador	エクアドル	ecuador	エクアドル	PROPN;NOM;NEUT;SG	PROPN
+potential	ポテンシャル	potential	ポテンシャル	ADJ	N
+ilse	イルゼ	ilse	イルゼ	PROPN;NOM;FEM;SG	PROPN
+haar	ヘアー	haar	ヘアー		N
+haar	髪	haar	髪		N
+haar	ヘア	haar	ヘア		N
+haar	毛髪	haar	毛髪		N
+rosenheim	ローゼン	rosenheim	ローゼン	PROPN	N
+trinken	飲み物	trinken	飲み物	V;NFIN	N
+trinken	ドリンク	trinken	ドリンク	V;NFIN	N
+potter	ポッター	pott	ポッター	PROPN;NOM;SG	PROPN
+pazifik	パシフィック	pazifik	パシフィック	PROPN;NOM;SG	PROPN
+elektrotechnik	エレクトロニクス	elektrotechnik	エレクトロニクス	ADJ	N
+elektrotechnik	エレクトロ	elektrotechnik	エレクトロ	ADJ	N
+zahlung	支払	zahlung	支払	N;FEM;SG	V
+zahlung	支払い	zahlung	支払う	N;FEM;SG	V
+nathan	ネイサン	nathan	ネイサン	PROPN;NOM;SG	PROPN
+ausländer	エイリアン	ausländer	エイリアン		PROPN
+ausländer	エイリアン	ausländer	エイリアン		PROPN
+spitz	スピッツ	spitz	スピッツ	ADJ	PROPN
+guatemala	グアテマラ	guatemala	グアテマラ	PROPN;NOM;NEUT;SG	PROPN
+guatemala	グアテマラ	guatemala	グアテマラ	PROPN;NOM;NEUT;SG	PROPN
+spam	スパム	spamen	スパム		N
+quartier	quartier	quartier	quartier		PROPN
+annette	アネット	annett	アネット	PROPN;NOM;FEM;SG	PROPN
+anschließen	プラグ	anschließen	プラグ	V;NFIN	N
+geliebte	愛人	geliebt	愛人	ADJ;NOM;FEM;SG	N
+geliebte	最愛	geliebt	最愛	ADJ;NOM;FEM;SG	N
+geliebte	恋人	geliebt	恋人	ADJ;NOM;FEM;SG	N
+theresia	テレサ	theresia	テレサ	PROPN;NOM;NEUT;SG	PROPN
+optische	光学	optisch	光学	ADJ;NOM;FEM;PL	N
+optische	光学	optisch	光学	ADJ;NOM;FEM;PL	N
+rico	リコ	rico	リコ	PROPN;NOM;MASC;SG	PROPN
+willem	ウィレム	willem	ウィレム	PROPN;NOM;SG	PROPN
+leonardo	レオナルド	leonardo	レオナルド	PROPN;NOM;SG	PROPN
+flash	flash	flash	flash	PROPN	PROPN
+flash	フラッシュ	flash	フラッシュ	PROPN	N
+fonds	資金	fonds	資金		N
+fonds	ファンド	fonds	ファンド		N
+inhalten	コンテンツ	inhalt	コンテンツ	V;NFIN	N
+inhalten	内容	inhalt	内容	V;NFIN	N
+verdienen	メリット	verdienen	メリット	V;NFIN	N
+locker	ルース	locker	ルース	ADJ	PROPN
+unterstützer	サポーター	unterstützer	サポーター	ADJ	N
+unterstützer	サポーター	unterstützer	サポーター	ADJ	N
+vergabe	授与	vergaben	授与	N;NOM;SG	V
+seven	seven	seven	seven	PROPN;NOM;SG	PROPN
+seven	セブン	seven	セブン	PROPN;NOM;SG	PROPN
+helle	ブライト	hell	ブライト	ADJ;NOM;FEM;PL	N
+risiken	リスク	risik	リスク	V;NFIN	N
+risiken	リスク	risik	リスク	V;NFIN	N
+beleidigung	違反	beleidigung	違反	ADJ	V
+beleidigung	侮蔑	beleidigung	侮蔑	ADJ	N
+beleidigung	侮辱	beleidigung	侮辱	ADJ	N
+differenzen	差分	differenzen	差分	V;NFIN	N
+simone	シモーネ	simone	シモーネ	PROPN;NOM;FEM;SG	PROPN
+simone	シモーヌ	simone	シモーヌ	PROPN;NOM;FEM;SG	PROPN
+inter	inter	inter	inter		PROPN
+fühlen	feel	fühlen	feel	V;NFIN	PROPN
+fühlen	フィール	fühlen	フィール	V;NFIN	N
+fühlen	気分	fühlen	気分	V;NFIN	N
+fühlen	フィーリング	fühlen	フィーリング	V;NFIN	N
+bratislava	ブラチスラヴァ	bratislava	ブラチスラヴァ	PROPN	PROPN
+nächstes	next	nah	next	ADJ;NOM;NEUT;SG	PROPN
+grace	恩寵	grac	恩寵	PROPN;NOM;SG	N
+grace	グレース	grac	グレース	PROPN;NOM;SG	PROPN
+grace	グレイス	grac	グレイス	PROPN;NOM;SG	PROPN
+elektronen	電子	elektron	電子		N
+elektronen	電子	elektron	電子		N
+klassisch	ビンテージ	klassisch	ビンテージ	ADJ	N
+klassisch	クラシック	klassisch	クラシック	ADJ	N
+klassisch	古典	klassisch	古典	ADJ	N
+klassisch	クラシック	klassisch	クラシック	ADJ	N
+klassisch	古典	klassisch	古典	ADJ	N
+klassisch	classic	klassisch	classic	ADJ	PROPN
+preisen	価格	preisen	価格	V;NFIN	N
+preisen	懸賞	preisen	懸賞	V;NFIN	N
+preisen	賞品	preisen	賞品	V;NFIN	N
+stuhl	いす	stuhl	いす		N
+stuhl	チェア	stuhl	チェア		N
+stuhl	椅子	stuhl	椅子		N
+beweise	証明	Beweis	証明	N;NOM;PL	V
+beweise	証明	Beweis	証明	N;NOM;PL	V
+doctor	医師	doctor	医師	PROPN	N
+doctor	ドクター	doctor	ドクター	PROPN	N
+doctor	先生	doctor	先生	PROPN	N
+doctor	医者	doctor	医者	PROPN	N
+lektüre	読書	lektür	読書		V
+nachwuchs	子孫	nachwuchs	子孫		N
+laufzeit	期間	laufzeit	期間	ADJ	N
+laufzeit	生涯	laufzeit	生涯	ADJ	N
+laufzeit	通算	laufzeit	通算	ADJ	N
+laufzeit	満期	laufzeit	満期	ADJ	N
+mar	mar	mar	mar	PROPN	PROPN
+glaub	信じる	glaub	信じる		V
+glaub	believe	glaub	believe		PROPN
+glaub	信ずる	glaub	信ずる		V
+biologische	生物	biologisch	生物	ADJ;NOM;FEM;PL	N
+nützlich	役立	nützlich	役立	ADJ	V
+nützlich	役	nützlich	役	ADJ	N
+druckerei	印刷	druckerei	印刷		V
+druckerei	プリンタ	druckerei	プリンタ		N
+druckerei	プリンター	druckerei	プリンター		N
+druckerei	プリンタ	druckerei	プリンタ		N
+lambert	ランバート	lambern	ランバート	PROPN	PROPN
+lima	リマ	lima	リマ	PROPN;NOM;SG	PROPN
+geschossen	ショット	schießen	ショット	V;V.PTCP	N
+buchhandlung	本屋	buchhandlung	本屋	PROPN;NOM;SG	N
+buchhandlung	本屋	buchhandlung	本屋	PROPN;NOM;SG	N
+buchhandlung	書店	buchhandlung	書店	PROPN;NOM;SG	N
+buchhandlung	本屋	buchhandlung	本屋	PROPN;NOM;SG	N
+angeklagt	被告人	anklagen	被告人	V;V.PTCP	N
+schädel	頭蓋	schädel	頭蓋	ADJ	N
+schädel	髑髏	schädel	髑髏	ADJ	N
+schädel	頭蓋	schädel	頭蓋	ADJ	N
+toyota	豊田	toyota	豊田	PROPN;NOM;SG	PROPN
+toyota	トヨタ	toyota	トヨタ	PROPN;NOM;SG	PROPN
+willkürlich	任意	willkürlich	任意	ADJ	N
+schuster	シューメーカー	schuster	シューメーカー	ADJ	PROPN
+make	メイク	maken	メイク	PROPN	N
+make	make	maken	make	PROPN	PROPN
+make	メイク	maken	メイク	PROPN	N
+make	化粧	maken	化粧	PROPN	V
+nepomuk	nepomuk	nepomuk	nepomuk	PROPN;NOM;SG	PROPN
+dec	dec	der	dec		PROPN
+mbh	mbh	mbh	mbh		PROPN
+beliebige	任意	beliebig	任意	ADJ;NOM;FEM;PL	N
+str	str	str	str	V;IND;SG;3;FIN	PROPN
+kate	kate	kate	kate	PROPN;NOM;SG	PROPN
+kate	ケイト	kate	ケイト	PROPN;NOM;SG	PROPN
+hervorgehoben	ハイライト	hervorheben	ハイライト	V;V.PTCP	N
+hervorgehoben	下線	hervorheben	下線	V;V.PTCP	N
+gregory	グレゴリー	gregory	グレゴリー	PROPN;NOM;SG	PROPN
+return	return	return	return	PROPN	PROPN
+return	リターン	return	リターン	PROPN	N
+balken	バー	balken	バー	V;NFIN	N
+balken	バール	balken	バール	V;NFIN	N
+balken	バー	balken	バー	V;NFIN	N
+balken	ビーム	balken	ビーム	V;NFIN	N
+schlesischen	シレジア	schlesisch	シレジア	ADJ;NOM;MASC;PL	PROPN
+cia	cia	cia	cia	PROPN;NOM;MASC;SG	PROPN
+taufe	洗礼	taufen	洗礼		N
+kompetenz	専門	kompetenz	専門	ADJ	N
+eingliederung	設立	eingliederung	設立	ADJ;NOM;FEM;SG	V
+eingliederung	統合	eingliederung	統合	ADJ;NOM;FEM;SG	V
+eingliederung	インテグレーション	eingliederung	インテグレーション	ADJ;NOM;FEM;SG	N
+race	人種	race	人種		N
+race	競走	race	競走		N
+race	レース	race	レース		N
+kay	ケイ	kay	ケイ	PROPN;NOM;MASC;SG	PROPN
+hinrichtung	処刑	hinrichtung	処刑	N;NOM;FEM;SG	V
+hinrichtung	実行	hinrichtung	実行	N;NOM;FEM;SG	V
+hinrichtung	執行	hinrichtung	執行	N;NOM;FEM;SG	V
+socke	靴下	socken	靴下		N
+socke	ソックス	socken	ソックス		N
+socke	靴下	socken	靴下		N
+socke	socks	socken	socks		PROPN
+pittsburgh	ピッツバーグ	pittsburgh	ピッツバーグ	PROPN;NOM;MASC;SG	PROPN
+prosa	散文	prosa	散文		N
+bosch	ボッシュ	bosch	ボッシュ		PROPN
+romantik	ロマンス	romantik	ロマンス	PROPN	N
+romantik	ロマンチック	romantik	ロマンチック	PROPN	ADJ
+signale	シグナル	signal	シグナル	ADJ;NOM;FEM;PL	N
+signale	合図	signal	合図	ADJ;NOM;FEM;PL	N
+signale	信号	signal	信号	ADJ;NOM;FEM;PL	N
+mechanik	力学	mechanik	力学		N
+karosserie	本文	karosserie	本文	ADJ	N
+karosserie	身体	karosserie	身体	ADJ	N
+karosserie	本体	karosserie	本体	ADJ	N
+karosserie	ボディ	karosserie	ボディ	ADJ	N
+unterbrechung	中断	unterbrechung	中断	ADJ	V
+nachname	名字	nachname	名字		N
+spezifischen	特定	spezifisch	特定	ADJ	
+ewig	フォーエバー	ewig	フォーエバー		N
+heftigen	激戦	heftig	激戦	ADJ;PL	N
+westküste	海岸	westküst	海岸		N
+plastik	プラスチック	plastik	プラスチック	ADJ	N
+plastik	合成樹	plastik	合成樹	ADJ	PROPN
+plastik	彫刻	plastik	彫刻	ADJ	N
+plastik	ビニール	plastik	ビニール	ADJ	N
+plastik	プラスチック	plastik	プラスチック	ADJ	N
+plastik	プラスティック	plastik	プラスティック	ADJ	N
+ausbreitung	伝播	ausbreitung	伝播	N;NOM;FEM;SG	V
+ausbreitung	布教	ausbreitung	布教	N;NOM;FEM;SG	V
+ausbreitung	広がる	ausbreitung	広がる	N;NOM;FEM;SG	V
+beta	ベータ	beta	ベータ		N
+tunesien	チュニス	Tunesien	チュニス	PROPN;NOM;SG	PROPN
+hintergründe	背景	hintergründe	背景	ADJ	N
+hintergründe	生い立ち	hintergründe	生い立ち	ADJ	V
+hintergründe	背景	hintergründe	背景	ADJ	N
+hintergründe	バックグラウンド	hintergründe	バックグラウンド	ADJ	N
+hintergründe	壁紙	hintergründe	壁紙	ADJ	N
+diagnose	診断	diagnose	診断	N;NOM;FEM;SG	V
+diagnose	診断	diagnose	診断	N;NOM;FEM;SG	V
+verstärkung	強化	verstärkung	強化	ADJ	V
+verstärkung	強化	verstärkung	強化	ADJ	V
+npov	npov	npov	npov		PROPN
+justin	ジャスティン	justin	ジャスティン	PROPN;NOM;MASC;SG	PROPN
+transformation	変換	transformation	変換	PROPN	V
+transformation	変換	transformation	変換	PROPN	V
+transformation	変形	transformation	変形	PROPN	V
+event	イベント	event	イベント		N
+event	行事	event	行事		N
+großmutter	おば	großmutt	おば	ADJ	N
+großmutter	祖母	großmutt	祖母	ADJ	N
+großmutter	おば	großmutt	おば	ADJ	N
+maurer	メイソン	maur	メイソン	ADJ	PROPN
+möchten	欲しい	mögen	欲しい	V;IND;PL;3;PST;FIN	ADJ
+extreme	エクストリーム	extrem	エクストリーム	N;NOM;FEM;PL	PROPN
+ostern	イースター	ostern	イースター		N
+bevölkerungszahl	人口	bevölkerungszahl	人口	ADJ	N
+saga	サガ	saga	サガ	PROPN;NOM;SG	PROPN
+saga	佐賀	saga	佐賀	PROPN;NOM;SG	PROPN
+frist	締切	fresen	締切	ADJ	N
+frist	締め切り	fresen	締め切り	ADJ	V
+frist	期限	fresen	期限	ADJ	N
+schienen	rails	schienen	rails	V;NFIN	PROPN
+schienen	トラック	schienen	トラック	V;NFIN	N
+terminal	端末	terminal	端末		N
+terminal	ターミナル	terminal	ターミナル		PROPN
+spring	ジャンプ	springen	ジャンプ	PROPN	N
+spring	スプリング	springen	スプリング	PROPN	N
+trend	トレンド	trend	トレンド	ADJ	N
+trend	流行	trend	流行	ADJ	V
+trend	傾向	trend	傾向	ADJ	N
+umgestaltung	更生	Umgestaltung	更生	N;NOM;FEM;SG	V
+umgestaltung	変換	Umgestaltung	変換	N;NOM;FEM;SG	V
+inbetriebnahme	発足	inbetriebnahme	発足	N;NOM;FEM;SG	V
+inbetriebnahme	起動	inbetriebnahme	起動	N;NOM;FEM;SG	V
+telefon	電話	telefon	電話		N
+telefon	電話	telefon	電話		N
+telefon	電話	telefon	電話		N
+telefon	電話	telefon	電話		N
+colonel	大佐	colonel	大佐	PROPN;NOM;MASC;SG	N
+fiat	フィアット	faten	フィアット	PROPN;NOM;SG	PROPN
+fragmente	断片	fragment	断片	ADJ;NOM;SG	N
+fragmente	フラグメント	fragment	フラグメント	ADJ;NOM;SG	N
+klassik	古典	klassik	古典		N
+klassik	クラシカル	klassik	クラシカル		ADJ
+klassik	クラシック	klassik	クラシック		N
+klassik	古典	klassik	古典		N
+klassik	クラシック	klassik	クラシック		N
+klassik	古典	klassik	古典		N
+klassik	classic	klassik	classic		PROPN
+zustimmen	賛成	zustimmen	賛成	V;NFIN	N
+opus	opus	opus	opus		PROPN
+schlimm	バッド	schlimm	バッド	ADJ	PROPN
+zwangsläufig	必然	zwangsläufig	必然	ADJ	ADV
+viktoria	ビクトリア	viktoria	ビクトリア	PROPN;NOM;SG	PROPN
+viktoria	ヴィクトリア	viktoria	ヴィクトリア	PROPN;NOM;SG	PROPN
+nordwest	北西部	nordwest	北西部	PROPN;NOM;SG	N
+nordwest	北西	nordwest	北西	PROPN;NOM;SG	N
+hong	ホン	hong	ホン	PROPN;NOM;MASC;SG	PROPN
+adressen	アドレス	adressen	アドレス	V;NFIN	N
+adressen	アドレス	adressen	アドレス	V;NFIN	N
+adressen	住所	adressen	住所	V;NFIN	N
+nevada	ネバダ	nevada	ネバダ	PROPN;NOM;SG	PROPN
+rogers	ロジェ	rogers	ロジェ	PROPN;NOM;MASC;SG	PROPN
+rogers	ロジャー	rogers	ロジャー	PROPN;NOM;MASC;SG	PROPN
+rogers	ロジャース	rogers	ロジャース	PROPN;NOM;MASC;SG	PROPN
+konstant	定数	konstant	定数	ADJ	N
+tee	お茶	tee	お茶		N
+tee	紅茶	tee	紅茶		N
+tee	ティー	tee	ティー		N
+probe	サンプリング	prob	サンプリング		N
+probe	サンプル	prob	サンプル		N
+probe	リハーサル	prob	リハーサル		N
+probe	標本	prob	標本		N
+probe	見本	prob	見本		N
+probe	プローブ	prob	プローブ		N
+schatz	ハニー	schatz	ハニー		PROPN
+schatz	はちみつ	schatz	はちみつ		N
+schatz	蜂蜜	schatz	蜂蜜		N
+schatz	ベイビー	schatz	ベイビー		N
+schatz	赤ちゃん	schatz	赤ちゃん		N
+schatz	恋人	schatz	恋人		N
+schatz	宝物	schatz	宝物		N
+schatz	財宝	schatz	財宝		N
+schatz	ダーリン	schatz	ダーリン		PROPN
+schatz	ダーリング	schatz	ダーリング		PROPN
+merkel	メルケル	merkel	メルケル		PROPN
+focus	焦点	focus	焦点	PROPN;NOM;SG	N
+focus	フォーカス	focus	フォーカス	PROPN;NOM;SG	N
+kontroverse	論争	kontroverse	論争	ADJ;NOM;FEM;SG	N
+irische	アイリッシュ	irisch	アイリッシュ	ADJ;NOM;FEM;PL	PROPN
+aufforderung	勧誘	aufforderung	勧誘	ADJ	V
+aufforderung	招聘	aufforderung	招聘	ADJ	V
+aufforderung	招待	aufforderung	招待	ADJ	V
+palazzo	パラッツォ	palazzo	パラッツォ	PROPN;NOM;SG	PROPN
+storm	ストーム	storm	ストーム	PROPN	N
+heftig	激戦	heftig	激戦	ADJ	N
+npd	npd	npd	npd		PROPN
+klarinette	クラリネット	klarinette	クラリネット	N;NOM;FEM;PL	PROPN
+kapitulation	降伏	kapitulation	降伏	N;SG	V
+insolvenz	倒産	insolvenz	倒産		V
+insolvenz	破産	insolvenz	破産		V
+insolvenz	倒産	insolvenz	倒産		V
+rhythmus	テンポ	rhythmus	テンポ	ADJ	N
+rhythmus	リズム	rhythmus	リズム	ADJ	N
+rhythmus	リズム	rhythmus	リズム	ADJ	N
+nordost	北東	nordost	北東	PROPN	N
+monatlich	毎月	monatlich	毎月	ADJ	N
+monatlich	月間	monatlich	月間	ADJ	N
+monatlich	月刊	monatlich	月刊	ADJ	N
+spezialisierte	専門	spezialisieren	専門	V;IND;SG;3;PST;FIN	N
+stabilität	安定	stabilität	安定		V
+stabilität	安定	stabilität	安定		N
+madame	マダム	madam	マダム	PROPN;NOM;SG	PROPN
+madame	マダム	madam	マダム	PROPN;NOM;SG	PROPN
+lücke	抜け	lücken	抜ける		V
+lücke	ギャップ	lücken	ギャップ		N
+lücke	gap	lücken	gap		PROPN
+tonträger	レコーディング	tonträger	レコーディング	ADJ	N
+giorgio	ジョルジョ	giorgio	ジョルジョ	PROPN;NOM;SG	PROPN
+clarke	クラーク	clarke	クラーク	PROPN;SG	PROPN
+göteborg	ヨーテボリ	göteborg	ヨーテボリ	PROPN;NOM;SG	PROPN
+doc	doc	doc	doc		PROPN
+doc	ドク	doc	ドク		PROPN
+lizenzen	ライセンス	lizenzen	ライセンス	V;NFIN	N
+lizenzen	免許	lizenzen	免許	V;NFIN	N
+lizenzen	ライセンス	lizenzen	ライセンス	V;NFIN	N
+lizenzen	ライセンス	lizenzen	ライセンス	V;NFIN	N
+peace	ピース	peace	ピース	PROPN;NOM;SG	N
+peace	平和	peace	平和	PROPN;NOM;SG	ADJ
+organischen	有機	organisch	有機	ADJ	N
+kult	カルト	kult	カルト	ADJ	N
+synonyme	類義	synonym	類義	ADJ	PROPN
+synonyme	類義	synonym	類義	ADJ	PROPN
+cat	ネコ	cat	ネコ		N
+cat	ねこ	cat	ねこ		PROPN
+nsg	npl	nsg	npl	PROPN;NOM;SG	PROPN
+stevens	スティーヴンス	stevens	スティーヴンス	PROPN;NOM;SG	PROPN
+währenddessen	その	währenddessen	その	ADV	DET
+währenddessen	一方	währenddessen	一方	ADV	CONJ
+aaron	アロン	aaron	アロン	PROPN;NOM;MASC;SG	PROPN
+aaron	アーロン	aaron	アーロン	PROPN;NOM;MASC;SG	PROPN
+survey	調査	survey	調査	PROPN	V
+survey	アンケート	survey	アンケート	PROPN	N
+staatsanwalt	検察官	staatsanwalt	検察官	PROPN	N
+staatsanwalt	検事	staatsanwalt	検事	PROPN	N
+bangkok	バンコク	bangkok	バンコク	PROPN;NOM;SG	PROPN
+passenden	マッチング	passend	マッチング	ADJ	N
+ausgeprägt	発音	ausprägen	発音	ADJ	N
+leibniz	ライプニッツ	leibniz	ライプニッツ		PROPN
+variablen	変数	variablen	変数		N
+variablen	可変	variablen	可変		N
+variablen	変数	variablen	変数		N
+sub	サブ	sub	サブ		N
+resonanz	共鳴	resonanz	共鳴	ADJ	V
+swiss	スイス	sweß	スイス		PROPN
+angestellter	社員	angestellt	社員	ADJ	N
+angestellter	職員	angestellt	職員	ADJ	N
+angestellter	事務員	angestellt	事務員	ADJ	N
+angestellter	書記官	angestellt	書記官	ADJ	N
+angestellter	事務職	angestellt	事務職	ADJ	N
+japaner	日本人	japaner	日本人	ADJ	N
+japaner	ジャパニーズ	japaner	ジャパニーズ	ADJ	N
+japaner	日本語	japaner	日本語	ADJ	N
+armenien	アルメニア	armenien	アルメニア	PROPN;NOM;SG	PROPN
+murphy	マーフィー	murphy	マーフィー	PROPN;NOM;SG	PROPN
+rick	リック	racken	リック	PROPN;NOM;SG	PROPN
+petit	プチ	petit	プチ	PROPN;SG	N
+überrascht	驚き	überraschen	驚き	ADJ	V
+überrascht	サプライズ	überraschen	サプライズ	ADJ	N
+braune	褐色	braun	褐色	ADJ;NOM;FEM;PL	N
+braune	茶色	braun	茶色	ADJ;NOM;FEM;PL	N
+braune	ブラウン	braun	ブラウン	ADJ;NOM;FEM;PL	N
+rob	ロブ	rib	ロブ	PROPN;NOM;SG	PROPN
+stalin	スターリン	stalin	スターリン	PROPN;NOM;MASC;SG	PROPN
+selbstmord	自殺	selbstmord	自殺		V
+meldungen	記事	meldung	記事	V;NFIN	N
+meldungen	ストーリー	meldung	ストーリー	V;NFIN	N
+meldungen	メッセージ	meldung	メッセージ	V;NFIN	N
+meldungen	レポート	meldung	レポート	V;NFIN	N
+meldungen	お	meldung	お	V;NFIN	N
+flur	廊下	flur	廊下		N
+flur	ホール	flur	ホール		N
+flur	回廊	flur	回廊		N
+flur	廊下	flur	廊下		N
+pensionierung	退職	pensionierung	退職	ADJ	V
+braut	花嫁	brauen	花嫁		N
+braut	ブライダル	brauen	ブライダル		N
+braut	ひよこ	brauen	ひよこ		PROPN
+verhaftung	逮捕	verhaftung	逮捕	N;NOM;FEM;SG	V
+verhaftung	逮捕	verhaftung	逮捕	N;NOM;FEM;SG	V
+scheibe	ディスク	scheiben	ディスク		N
+scheibe	円盤	scheiben	円盤		N
+scheibe	ディスク	scheiben	ディスク		N
+scheibe	スライス	scheiben	スライス		N
+pilz	菌類	pilz	菌類		N
+pilz	菌類	pilz	菌類		N
+pilz	キノコ	pilz	キノコ		N
+pilz	マッシュルーム	pilz	マッシュルーム		PROPN
+demnächst	soon	demnächst	soon	ADV	PROPN
+geordnet	編曲	ordnen	編曲	ADJ;V.PTCP	N
+linde	リンデン	linde	リンデン	PROPN;NOM;SG	PROPN
+vorort	郊外	vorort	郊外	ADV	N
+vorort	郊外	vorort	郊外	ADV	N
+vorort	郊外	vorort	郊外	ADV	N
+letzteren	後者	letzt	後者	PRO;NOM;INDF;PL	N
+discovery	ディスカバリー	discovery	ディスカバリー		PROPN
+discovery	発見	discovery	発見		V
+ted	テッド	ted	テッド	PROPN;NOM;MASC;SG	PROPN
+ted	ted	ted	ted	PROPN;NOM;MASC;SG	PROPN
+weiblich	女性	weiblich	女性	ADJ	N
+quelltext	コード	quelltext	コード	V;IND;SG;3;PST;FIN	N
+quelltext	符号	quelltext	符号	V;IND;SG;3;PST;FIN	N
+isoliert	隔離	isolieren	隔離	ADJ;V.PTCP	V
+isoliert	孤立	isolieren	孤立	ADJ;V.PTCP	V
+isoliert	絶縁	isolieren	絶縁	ADJ;V.PTCP	V
+einbindung	設立	einbindung	設立	N;FEM;SG	V
+einbindung	関与	einbindung	関与	N;FEM;SG	V
+einbindung	統合	einbindung	統合	N;FEM;SG	V
+chan	チャン	chan	チャン	PROPN;NOM;MASC;SG	PROPN
+gestein	ストーン	gestein	ストーン		N
+gestein	岩石	gestein	岩石		N
+gestein	ロックス	gestein	ロックス		PROPN
+gestein	ロック	gestein	ロック		N
+arbeitsplätze	ワークステーション	arbeitsplatz	ワークステーション	ADJ;NOM;FEM;PL	N
+arbeitsplätze	雇用	arbeitsplatz	雇用	ADJ;NOM;FEM;PL	V
+arbeitsplätze	ジョブ	arbeitsplatz	ジョブ	ADJ;NOM;FEM;PL	N
+arbeitsplätze	求人	arbeitsplatz	求人	ADJ;NOM;FEM;PL	N
+weltrangliste	ランキング	weltrangliste	ランキング	ADJ	N
+lane	レーン	lane	レーン	PROPN;NOM;SG	N
+lane	車線	lane	車線	PROPN;NOM;SG	N
+rückgang	辞退	rückgang	辞退	ADJ	V
+rückgang	拒否	rückgang	拒否	ADJ	V
+rückgang	却下	rückgang	却下	ADJ	V
+rückgang	減らす	rückgang	減らす	ADJ	V
+rückgang	収縮	rückgang	収縮	ADJ	V
+kürzlich	最近	kürzlich	最近	ADV	N
+kürzlich	最近	kürzlich	最近	ADV	N
+delhi	デリー	delhi	デリー	PROPN;NOM;MASC;SG	PROPN
+zusammengestellt	校合	zusammenstellen	校合	V;V.PTCP	
+muttersprache	ネイティブ	muttersprechen	ネイティブ	ADJ;NOM;SG	PROPN
+wenns	ifs	wenns	ifs	ADV	PROPN
+zivilisten	文官	zivilist	文官		N
+delle	デント	dellen	デント	PROPN;NOM;SG	PROPN
+tötet	キル	töten	キル	V;IND;SG;3;PRS;FIN	PROPN
+tötet	kill	töten	kill	V;IND;SG;3;PRS;FIN	PROPN
+tötet	kill	töten	kill	V;IND;SG;3;PRS;FIN	PROPN
+garantiert	保証	garantieren	保証	V;V.PTCP	N
+germain	ジェルマン	germain	ジェルマン	PROPN;NOM;SG	PROPN
+henrik	ヘンリク	henrik	ヘンリク	PROPN;NOM;MASC;SG	PROPN
+spezial	スペシャル	spezial	スペシャル		N
+heavy	重い	heavy	重い	PROPN	ADJ
+heavy	ヘビー	heavy	ヘビー	PROPN	N
+filialen	店舗	filialen	店舗	ADJ;PL	N
+wirksam	実効	wirksam	実効	ADJ	N
+key	キー	key	キー		N
+key	key	key	key		PROPN
+abständen	音程	abständen	音程	V;NFIN	N
+abständen	間隔	abständen	間隔	V;NFIN	N
+scheidung	離婚	scheidung	離婚	PROPN	V
+scheidung	離婚	scheidung	離婚	PROPN	V
+einschränkung	制限	einschränkung	制限	N;FEM;SG	V
+einschränkung	制限	einschränkung	制限	N;FEM;SG	V
+einschränkung	制約	einschränkung	制約	N;FEM;SG	V
+afrikanische	アフリカ	afrikanisch	アフリカ	ADJ;NOM;FEM;PL	PROPN
+rauch	スモーク	rauch	スモーク		N
+zivile	文官	zivil	文官	ADJ;NOM;FEM;PL	N
+gemischten	ミックス	gemischt	ミックス	ADJ	N
+gemischten	混合	gemischt	混合	ADJ	N
+bergland	高地	bergland	高地		N
+bergland	高地	bergland	高地		N
+bird	鳥類	bied	鳥類	PROPN;SG	N
+bird	バード	bied	バード	PROPN;SG	N
+programmen	演目	programm	演目	V;NFIN	N
+programmen	プログラム	programm	プログラム	V;NFIN	N
+boxen	ボックス	boxen	ボックス	V;NFIN	N
+boxen	ボクシング	boxen	ボクシング	V;NFIN	N
+playstation	playstation	playstation	playstation	PROPN;NOM;SG	PROPN
+wachsende	栽培	wachsend	栽培	ADJ;NOM;FEM;PL	V
+wachsende	成長	wachsend	成長	ADJ;NOM;FEM;PL	V
+wachsende	増加	wachsend	増加	ADJ;NOM;FEM;PL	V
+trocken	ドライ	trocken	ドライ	ADJ	N
+trocken	乾燥	trocken	乾燥	ADJ	V
+lena	レナ	lena	レナ	PROPN;NOM;MASC;SG	PROPN
+dunkler	ダーク	dunkel	ダーク	ADJ	N
+rex	レックス	rex	レックス		PROPN
+schloß	キャッスル	schließen	キャッスル		N
+schloß	シャトー	schließen	シャトー		PROPN
+schachspieler	チェス	schachspiel	チェス	ADJ	N
+reporter	リポーター	reporter	リポーター	ADJ	N
+reporter	レポーター	reporter	レポーター	ADJ	N
+reporter	リポーター	reporter	リポーター	ADJ	N
+alma	アルマ	alma	アルマ	PROPN;NOM;SG	PROPN
+nagel	ネイル	nagel	ネイル		N
+grundsätze	原則	grundsätze	原則	N;NOM;FEM;SG	V
+wirksamkeit	実効	wirksamkeit	実効	ADJ	N
+wirksamkeit	効能	wirksamkeit	効能	ADJ	N
+semester	学期	semester	学期		N
+hauptseite	ホームページ	hauptseite	ホームページ		N
+bundeskanzler	宰相	bundeskanzler	宰相	ADJ	N
+grauen	灰色	grau	灰色		N
+grauen	グレイ	grau	グレイ		PROPN
+grauen	グレー	grau	グレー		N
+grauen	ホラー	grau	ホラー		N
+grauen	灰色	grau	灰色		N
+grauen	グレイ	grau	グレイ		PROPN
+grauen	グレー	grau	グレー		N
+move	ムーブ	move	ムーブ		N
+move	移動	move	移動		V
+xxx	xxx	xxx	xxx		PROPN
+ökonom	エコノミスト	ökonom	エコノミスト	PROPN;NOM;SG	PROPN
+lópez	ロペス	lópez	ロペス	PROPN;NOM;MASC;SG	PROPN
+lópez	ロペス	lópez	ロペス	PROPN;NOM;MASC;SG	PROPN
+pfeiler	ピアーズ	pfeil	ピアーズ	ADJ	PROPN
+schah	シャー	schehen	シャー	PROPN;NOM;MASC;SG	PROPN
+langes	ランゲ	lang	ランゲ	ADJ;NOM;NEUT;SG	PROPN
+niederlassung	設立	niederlassung	設立	ADJ	V
+niederlassung	事務局	niederlassung	事務局	ADJ	N
+niederlassung	事務所	niederlassung	事務所	ADJ	N
+niederlassung	オフィス	niederlassung	オフィス	ADJ	N
+niederlassung	支店	niederlassung	支店	ADJ	N
+niederlassung	支社	niederlassung	支社	ADJ	N
+niederlassung	ブランチ	niederlassung	ブランチ	ADJ	N
+niederlassung	支部	niederlassung	支部	ADJ	N
+ballett	バレエ	ballett	バレエ	PROPN	N
+fernández	フェルナンデス	fernández	フェルナンデス	PROPN;NOM;MASC;SG	PROPN
+fernández	フェルナンデス	fernández	フェルナンデス	PROPN;NOM;MASC;SG	PROPN
+triumph	トライアンフ	triumph	トライアンフ	PROPN	PROPN
+mongolei	モンゴル	mongolei	モンゴル	PROPN;NOM;FEM;SG	PROPN
+fließen	フロー	fließen	フロー	V;NFIN	N
+vilnius	ヴィリニュス	vilnius	ヴィリニュス	PROPN;NOM;SG	PROPN
+turn	ターン	turn	ターン	PROPN	N
+turn	曲	turn	曲	PROPN	N
+rodríguez	ロドリゲス	rodríguez	ロドリゲス	PROPN;NOM;MASC;SG	PROPN
+beitritt	会員	beitreten	会員	V;IND;SG;3;FIN	N
+chirurgie	手術	chirurgie	手術		V
+weißrussland	ベラルーシ	weißrußland	ベラルーシ	ADJ	PROPN
+weißrussland	イエメン	weißrußland	イエメン	ADJ	PROPN
+challenger	チャレンジャー	challeng	チャレンジャー	PROPN;NOM;SG	N
+werkstätten	ワークショップ	werkstätten	ワークショップ	V;NFIN	N
+werkstätten	作業	werkstätten	作業	V;NFIN	N
+werkstätten	ワークショップ	werkstätten	ワークショップ	V;NFIN	N
+solingen	ゾーリンゲン	solingen	ゾーリンゲン	PROPN;NOM	PROPN
+präsidentin	大統領	präsidentin	大統領	ADJ	N
+präsidentin	プレジデント	präsidentin	プレジデント	ADJ	PROPN
+präsidentin	社長	präsidentin	社長	ADJ	N
+kaplan	カプラン	kaplan	カプラン	PROPN;NOM;SG	PROPN
+verlage	出版	verlagen	出版		V
+verlage	パブリッシング	verlagen	パブリッシング		N
+verlage	出版	verlagen	出版		V
+verlage	パブリッシャー	verlagen	パブリッシャー		N
+verlage	出版社	verlagen	出版社		N
+grundlegenden	基本	grundlegend	基本	V;FIN	N
+grundlegenden	ベーシック	grundlegend	ベーシック	V;FIN	N
+grundlegenden	basic	grundlegend	basic	V;FIN	PROPN
+streiten	けんか	streiten	けんか	V;NFIN	N
+frucht	フルーツ	fruchen	フルーツ	PROPN	N
+frucht	果実	fruchen	果実	PROPN	N
+frucht	果物	fruchen	果物	PROPN	N
+frucht	フルーツ	fruchen	フルーツ	PROPN	N
+frucht	果実	fruchen	果実	PROPN	N
+frucht	果物	fruchen	果物	PROPN	N
+baseball	ベースボール	baseball	ベースボール	ADJ	PROPN
+baseball	野球	baseball	野球	ADJ	N
+selbe	同じ	selb	同じ		ADJ
+selbe	おなじ	selb	おなじる		V
+gunther	ギュンター	gunther	ギュンター	PROPN;NOM;SG	PROPN
+luftfahrt	航空	luftfahren	航空	PROPN	N
+luftfahrt	航空機	luftfahren	航空機	PROPN	N
+luftfahrt	飛行機	luftfahren	飛行機	PROPN	N
+förderer	スポンサー	förder	スポンサー	ADJ	N
+förderer	スポンサー	förder	スポンサー	ADJ	N
+ricardo	リカルド	ricardo	リカルド	PROPN;NOM;MASC;SG	PROPN
+schnittstelle	インターフェース	schnittstellen	インターフェース	ADJ;NOM;FEM;SG	N
+schnittstelle	インタフェース	schnittstellen	インタフェース	ADJ;NOM;FEM;SG	N
+schnittstelle	インターフェース	schnittstellen	インターフェース	ADJ;NOM;FEM;SG	N
+schnittstelle	インタフェース	schnittstellen	インタフェース	ADJ;NOM;FEM;SG	N
+feststellung	検知	feststellung	検知	ADJ	V
+feststellung	検出	feststellung	検出	ADJ	V
+feststellung	裁決	feststellung	裁決	ADJ	V
+christa	クリスタ	christa	クリスタ	PROPN;NOM;FEM;SG	PROPN
+abwechselnd	交代	abwechselnd	交代	ADJ	V
+fahrten	クルーズ	fahren	クルーズ	V;IND;PL;3;FIN	PROPN
+fahrten	配車	fahren	配車	V;IND;PL;3;FIN	N
+vetter	従姉妹	vett	従姉妹		N
+vetter	従兄弟	vett	従兄弟		N
+vetter	いとこ	vett	いとこ		N
+isle	アイル	isle	アイル	PROPN;NOM;SG	PROPN
+offizielles	職員	offiziell	職員	ADJ;NOM;NEUT;SG	N
+offizielles	職員	offiziell	職員	ADJ;NOM;NEUT;SG	N
+nachmittag	午後	nachmittag	午後	ADV	N
+präsentieren	プレゼン	präsentieren	プレゼン	V;NFIN	N
+präsentieren	現在	präsentieren	現在	V;NFIN	N
+präsentieren	present	präsentieren	present	V;NFIN	PROPN
+präsentieren	プレゼント	präsentieren	プレゼント	V;NFIN	N
+präsentieren	ショーケース	präsentieren	ショーケース	V;NFIN	N
+millimetern	ミリメートル	millimetern	ミリメートル	V;NFIN	N
+konsequenz	帰結	konsequenz	帰結	ADV	V
+konsequenz	一貫	konsequenz	一貫	ADV	N
+archiviert	アーカイブ	archivieren	アーカイブ	V;V.PTCP	N
+hubschrauber	ヘリコプター	hubschrauber	ヘリコプター	ADJ	N
+hubschrauber	チョッパー	hubschrauber	チョッパー	ADJ	PROPN
+globalen	global	global	global	ADJ	PROPN
+kopien	コピー	kopien	コピー	N;NOM;PL	V
+schrittweise	徐々に	schrittweise	徐々に	ADJ	ADV
+schrittweise	プログレッシブ	schrittweise	プログレッシブ	ADJ	N
+friedens	ピース	friedens	ピース		N
+friedens	平和	friedens	平和		ADJ
+adligen	貴族	adlig	貴族	ADJ;PL	N
+fortuna	フォルトゥーナ	fortuna	フォルトゥーナ	PROPN;NOM;SG	PROPN
+reale	real	real	real	ADJ;NOM;FEM;PL	PROPN
+reale	本物	real	本物	ADJ;NOM;FEM;PL	N
+wandern	ハイキング	wandern	ハイキング	V;NFIN	N
+wandern	ウォーキング	wandern	ウォーキング	V;NFIN	N
+wandern	歩行	wandern	歩行	V;NFIN	N
+wandern	ハイキング	wandern	ハイキング	V;NFIN	N
+wandern	トレッキング	wandern	トレッキング	V;NFIN	PROPN
+anmelden	ログイン	anmelden	ログイン	V;NFIN	N
+anmelden	原簿	anmelden	原簿	V;NFIN	N
+anmelden	レジスタ	anmelden	レジスタ	V;NFIN	N
+anmelden	ログ	anmelden	ログ	V;NFIN	N
+anmelden	log	anmelden	log	V;NFIN	PROPN
+hmm	hmm	hmm	hmm		PROPN
+investitionen	投資	investitionen	投資	V;NFIN	N
+investitionen	投資	investitionen	投資	V;NFIN	N
+investitionen	投資	investitionen	投資	V;NFIN	N
+baumann	バウマン	baumann	バウマン	PROPN;SG	PROPN
+panama	パナマ	panama	パナマ	PROPN;NOM;MASC;SG	PROPN
+panama	パナマ	panama	パナマ	PROPN;NOM;MASC;SG	PROPN
+gläubigen	信者	gläubig	信者	ADJ	N
+normaler	ノーマル	normal	ノーマル	ADJ	N
+sichtbaren	可視	sichtbar	可視	ADJ	N
+bestrebungen	願望	bestrebungen	願望	V;NFIN	N
+hypothese	仮説	hypothese	仮説		N
+fink	fink	fanken	fink	PROPN;NOM;SG	PROPN
+frédéric	フレデリック	frédéric	フレデリック	PROPN;NOM;MASC;SG	PROPN
+killer	キラーズ	kill	キラーズ	PROPN	PROPN
+killer	キラー	kill	キラー	PROPN	PROPN
+killer	暗殺	kill	暗殺	PROPN	V
+margarethe	マーガレット	margarethe	マーガレット	ADJ	PROPN
+befürworter	サポーター	befürworter	サポーター		N
+arndt	アーント	arnden	アーント	PROPN;SG	PROPN
+bibliothekar	司書	bibliothekar	司書	ADJ	N
+spirit	精神	spirit	精神	PROPN;NOM;SG	N
+spirit	スピリット	spirit	スピリット	PROPN;NOM;SG	N
+keines	なし	kein	なす	ADV	
+symphony	交響曲	symphony	交響曲		N
+symphony	シンフォニー	symphony	シンフォニー		N
+usb	usb	usb	usb	PROPN;NOM;MASC;SG	N
+erklärungen	ステートメント	erklärung	ステートメント	V;NFIN	N
+hieronymus	ジローラモ	hieronymus	ジローラモ	PROPN;NOM;SG	PROPN
+hieronymus	ヒエロニムス	hieronymus	ヒエロニムス	PROPN;NOM;SG	PROPN
+hieronymus	ジェローム	hieronymus	ジェローム	PROPN;NOM;SG	PROPN
+frey	フレイ	frey	フレイ	PROPN;NOM;MASC;SG	PROPN
+que	que	que	que		PROPN
+pyramide	ピラミッド	pyramide	ピラミッド		N
+mäßig	中道	mäßig	中道	ADJ	PROPN
+mäßig	そこ	mäßig	そこ	ADJ	PRO
+nebraska	ネブラスカ	nebraska	ネブラスカ	PROPN;NOM;SG	PROPN
+brasilianische	ブラジル	brasilianisch	ブラジル	ADJ;NOM;FEM;PL	PROPN
+anpassen	カスタマイズ	anpassen	カスタマイズ	V;NFIN	N
+anpassen	カスタマイズ	anpassen	カスタマイズ	V;NFIN	N
+steuermann	ヘルム	steuermann	ヘルム		PROPN
+steuermann	ナビゲータ	steuermann	ナビゲータ		N
+gesellschafter	パートナー	gesellschaft	パートナー	ADJ	N
+gesellschafter	株主	gesellschaft	株主	ADJ	N
+gesellschafter	株主	gesellschaft	株主	ADJ	N
+gesellschafter	パートナー	gesellschaft	パートナー	ADJ	N
+abhandlung	エセー	abhandlung	エセー	N;SG	PROPN
+merseburg	メルゼブルク	merseburg	メルゼブルク	PROPN;NOM;SG	PROPN
+zuständigkeit	管轄	zuständigkeit	管轄	ADJ	V
+geistige	メンタル	geistig	メンタル	ADJ;NOM;FEM;PL	N
+ing	ing	ing	ing	PROPN;NOM;MASC;SG	PROPN
+fahne	バナー	fahnen	バナー		N
+fahne	横断幕	fahnen	横断幕		N
+fahne	フラグ	fahnen	フラグ		PROPN
+fahne	国旗	fahnen	国旗		N
+logisch	論理	logisch	論理	ADJ	N
+logisch	論理	logisch	論理	ADJ	N
+kasten	ボックス	kasten	ボックス	V;NFIN	N
+längsten	最長	lang	最長	ADJ;PL	PART
+piraten	パイレーツ	pirat	パイレーツ		PROPN
+piraten	海賊	pirat	海賊		N
+piraten	海賊	pirat	海賊		N
+selbstständige	スタンド	selbständig	スタンド	ADJ;NOM;FEM;PL	N
+käse	チーズ	kassen	チーズ		N
+käse	チーズ	kassen	チーズ		N
+ladung	読み込む	ladung	読み込む	N;SG	V
+ladung	読み込み	ladung	読み込み	N;SG	V
+ladung	呼出	ladung	呼出	N;SG	V
+ladung	召喚	ladung	召喚	N;SG	V
+unterdessen	その	unterdessen	その	ADV	DET
+unterdessen	一方	unterdessen	一方	ADV	CONJ
+helfer	助っ人	helf	助っ人	ADJ	N
+helfer	ヘルパー	helf	ヘルパー	ADJ	N
+gasthaus	居酒屋	gasthaus	居酒屋	PROPN	N
+gasthaus	宿屋	gasthaus	宿屋	PROPN	N
+gasthaus	旅館	gasthaus	旅館	PROPN	N
+gasthaus	ゲストハウス	gasthaus	ゲストハウス	PROPN	N
+lotus	ハス	lotus	ハス	PROPN	N
+lotus	ロータス	lotus	ロータス	PROPN	N
+cohen	コーヘン	cohe	コーヘン	PROPN;NOM;SG	PROPN
+cohen	コーエン	cohe	コーエン	PROPN;NOM;SG	PROPN
+ausschluss	除名	ausschließen	除名	ADV	V
+ausschluss	退学	ausschließen	退学	ADV	V
+ausschluss	除外	ausschließen	除外	ADV	V
+ausschluss	除外	ausschließen	除外	ADV	V
+ausschluss	除外	ausschließen	除外	ADV	V
+kameras	カメラ	kameras	カメラ	ADV	N
+kameras	カメラ	kameras	カメラ	ADV	N
+gärtner	庭師	gärtner	庭師	ADJ	N
+gärtner	庭師	gärtner	庭師	ADJ	N
+biologischen	生物	biologisch	生物	ADJ;ACC;SG	N
+karibik	カリブ	karibik	カリブ	PROPN	PROPN
+pazifischen	パシフィック	pazifisch	パシフィック	ADJ;NOM;MASC;PL	PROPN
+kuppel	ドーム	kuppel	ドーム		N
+individuell	個別	individuell	個別	ADJ	
+individuell	個人	individuell	個人	ADJ	N
+individuell	個別	individuell	個別	ADJ	
+gloria	グロリア	gloria	グロリア	PROPN;NOM;SG	PROPN
+orléans	オルレアン	orléans	オルレアン	PROPN;NOM;MASC;SG	PROPN
+orléans	オルレアン	orléans	オルレアン	PROPN;NOM;MASC;SG	PROPN
+kranken	病気	krank	病気	V;NFIN	N
+kiss	キス	kessen	キス	PROPN;NOM;SG	V
+kiss	kiss	kessen	kiss	PROPN;NOM;SG	PROPN
+kiss	接吻	kessen	接吻	PROPN;NOM;SG	N
+angegebene	特定	angegeben	特定	ADJ;NOM;FEM;PL	
+angegebene	指定	angegeben	指定	ADJ;NOM;FEM;PL	V
+dreizehn	thirteen	dreizehn	thirteen	NUM	PROPN
+luke	ルカ	laken	ルカ	PROPN;NOM;SG	PROPN
+luke	ハッチ	laken	ハッチ	PROPN;NOM;SG	PROPN
+luke	孵化	laken	孵化	PROPN;NOM;SG	
+platziert	播種	plazieren	播種	V;V.PTCP	N
+ermittlung	調査	ermittlung	調査	ADJ	V
+ermittlung	捜査	ermittlung	捜査	ADJ	N
+granit	花崗	granit	花崗		N
+phillips	フィリップス	phillips	フィリップス	PROPN;NOM;MASC;SG	PROPN
+kammern	チェンバーズ	kammern	チェンバーズ	V;NFIN	PROPN
+kammern	チェンバース	kammern	チェンバース	V;NFIN	PROPN
+böhm	ベーム	böhmen	ベーム	PROPN;NOM;MASC;SG	PROPN
+fenstern	windows	fenstern	windows	V;NFIN	N
+dankbar	感謝	dankbar	感謝	ADJ	V
+dankbar	感謝	dankbar	感謝	ADJ	V
+triathlon	トライアスロン	triathlon	トライアスロン	ADJ	N
+warnung	警報	warnung	警報	N;NOM;SG	V
+warnung	警告	warnung	警告	N;NOM;SG	V
+warnung	警告	warnung	警告	N;NOM;SG	V
+formalen	フォーマル	formal	フォーマル	ADJ	N
+verlagsanstalt	verlagsanstalt	verlagsanstalt	verlagsanstalt		PROPN
+optischen	光学	optisch	光学	ADJ;ACC;SG	N
+optischen	光学	optisch	光学	ADJ;ACC;SG	N
+relation	比率	relation	比率		N
+relation	関係	relation	関係		N
+redir	redir	redir	redir		PROPN
+bert	バート	bert	バート	PROPN;NOM;MASC;SG	PROPN
+diesel	ディーゼル	diesel	ディーゼル		PROPN
+gaststätte	居酒屋	gaststätte	居酒屋	;SG	N
+gaststätte	宿屋	gaststätte	宿屋	;SG	N
+gaststätte	旅館	gaststätte	旅館	;SG	N
+gaststätte	パブ	gaststätte	パブ	;SG	N
+gaststätte	レストラン	gaststätte	レストラン	;SG	N
+gaststätte	飲食店	gaststätte	飲食店	;SG	N
+made	made	made	made	PROPN;SG	PROPN
+gleichfalls	同じく	gleichfalls	同じく	ADV	CONJ
+geboten	十戒	bieten|gebieten	十戒	V;V.PTCP	N
+erlass	布告	erlassen	布告	N;SG	V
+legal	合法	legal	合法		N
+unglück	不運	unglück	不運	N;NOM;NEUT;SG	ADJ
+schuldig	有罪	schuldig	有罪	ADJ	V
+schuldig	guilty	schuldig	guilty	ADJ	PROPN
+anträge	リクエスト	anträg	リクエスト	ADJ;NOM	N
+variationen	バリエーション	variation	バリエーション	V;NFIN	N
+variationen	変奏曲	variation	変奏曲	V;NFIN	N
+permanent	パーマネント	permanent	パーマネント	ADJ	N
+referenz	リファレンス	referenz	リファレンス	ADJ	PROPN
+referenz	参照	referenz	参照	ADJ	V
+referenz	参考	referenz	参考	ADJ	N
+kohl	キャベツ	kohl	キャベツ	PROPN;NOM;MASC;SG	N
+kohl	キャベツ	kohl	キャベツ	PROPN;NOM;MASC;SG	N
+kohl	ケール	kohl	ケール	PROPN;NOM;MASC;SG	PROPN
+grammy	グラミー	grammy	グラミー	PROPN	N
+hughes	ヒューズ	hughes	ヒューズ	PROPN;NOM;SG	PROPN
+herford	herford	herfirden	herford	PROPN;NOM;MASC;SG	PROPN
+claudius	クラウディウス	claudius	クラウディウス	PROPN;NOM;SG	PROPN
+kriegsmarine	海軍	kriegsmarin	海軍	ADJ;NOM;FEM;SG	N
+kriegsmarine	ネイビー	kriegsmarin	ネイビー	ADJ;NOM;FEM;SG	N
+kiefer	マツ	kiefer	マツ		N
+kiefer	あご	kiefer	あご		N
+kiefer	マツ	kiefer	マツ		N
+kiefer	パイン	kiefer	パイン		N
+neuesten	最新	neu	最新	ADJ	N
+neuesten	最新	neu	最新	ADJ	N
+bettina	ベッティーナ	bettina	ベッティーナ	PROPN;NOM;SG	PROPN
+alliance	アライアンス	alliance	アライアンス	PROPN;NOM;SG	N
+kennzeichnung	同定	kennzeichnung	同定	N;NOM;FEM;SG	V
+kennzeichnung	識別	kennzeichnung	識別	N;NOM;FEM;SG	V
+füße	フィート	füß	フィート		N
+füße	両足	füß	両足		N
+schmal	スキニー	schmal	スキニー	ADJ	N
+schmal	スリム	schmal	スリム	ADJ	N
+schmal	スレンダー	schmal	スレンダー	ADJ	PROPN
+alphabet	アルファベット	alphabet	アルファベット		N
+jutta	ニール	jutta	ニール	PROPN;NOM;FEM;SG	PROPN
+jutta	テリー	jutta	テリー	PROPN;NOM;FEM;SG	PROPN
+jutta	ジュディス	jutta	ジュディス	PROPN;NOM;FEM;SG	PROPN
+harvey	ハービー	harvey	ハービー	PROPN;NOM;SG	PROPN
+harvey	ハーヴィー	harvey	ハーヴィー	PROPN;NOM;SG	PROPN
+harvey	ハーヴェイ	harvey	ハーヴェイ	PROPN;NOM;SG	PROPN
+kompetenzen	スキル	kompetenz	スキル	V;NFIN	N
+autorität	権威	autorität	権威		N
+autorität	権限	autorität	権限		N
+autorität	職権	autorität	職権		N
+apotheker	薬剤師	apotheker	薬剤師	ADJ	N
+banner	バナー	bann	バナー		N
+banner	横断幕	bann	横断幕		N
+banner	バナー	bann	バナー		N
+banner	横断幕	bann	横断幕		N
+nerven	緊張	nerven	緊張		V
+nerven	神経質	nerven	神経質		ADJ
+nerven	神経	nerven	神経		N
+anonym	アノニマス	anonym	アノニマス		PROPN
+anonym	匿名	anonym	匿名		N
+siena	シエナ	siena	シエナ	PROPN;NOM;SG	PROPN
+siena	シエナ	siena	シエナ	PROPN;NOM;SG	PROPN
+maya	マヤ	maya	マヤ	PROPN;NOM;SG	PROPN
+wiederholung	繰り返し	wiederholung	繰り返し	N;NOM;FEM;SG	ADV
+wiederholung	繰り返す	wiederholung	繰り返す	N;NOM;FEM;SG	V
+wiederholung	繰り返し	wiederholung	繰り返し	N;NOM;FEM;SG	ADV
+wiederholung	リプレイ	wiederholung	リプレイ	N;NOM;FEM;SG	PROPN
+kunde	カスタマー	kund	カスタマー		PROPN
+kunde	顧客	kund	顧客		N
+kunde	クライアント	kund	クライアント		N
+beschwerden	クレーム	beschwerden	クレーム	V;NFIN	N
+beschwerden	苦情	beschwerden	苦情	V;NFIN	N
+beschwerden	苦情	beschwerden	苦情	V;NFIN	N
+beschwerden	クレーム	beschwerden	クレーム	V;NFIN	N
+gleichgewicht	残高	leichwechen	残高	ADJ	N
+gleichgewicht	バランス	leichwechen	バランス	ADJ	N
+gleichgewicht	平衡	leichwechen	平衡	ADJ	N
+gleichgewicht	均衡	leichwechen	均衡	ADJ	V
+heimatland	家路	heimatland	家路	ADV	N
+globale	global	global	global	ADJ;NOM;FEM;PL	PROPN
+steigerung	増加	steigerung	増加	ADJ;NOM;FEM;SG	V
+steigerung	増額	steigerung	増額	ADJ;NOM;FEM;SG	V
+steigerung	増やす	steigerung	増やす	ADJ;NOM;FEM;SG	V
+steigerung	宣伝	steigerung	宣伝	ADJ;NOM;FEM;SG	V
+fahrrad	バイク	Fahrrad	バイク	ADJ	N
+fahrrad	自転車	Fahrrad	自転車	ADJ	N
+fahrrad	サイクリング	Fahrrad	サイクリング	ADJ	N
+fahrrad	バイク	Fahrrad	バイク	ADJ	N
+fahrrad	自転車	Fahrrad	自転車	ADJ	N
+fahrrad	自転車	Fahrrad	自転車	ADJ	N
+fahrrad	サイクリング	Fahrrad	サイクリング	ADJ	N
+komponente	コンポーネント	komponent	コンポーネント	ADJ;NOM;FEM;SG	N
+terra	テラ	Terra	テラ		N
+tänzer	ダンサー	tänzer	ダンサー	ADJ	N
+tänzer	踊り子	tänzer	踊り子	ADJ	N
+tänzer	ダンサー	tänzer	ダンサー	ADJ	N
+manuell	manual	manuell	manual	ADJ	PROPN
+manuell	手動	manuell	手動	ADJ	N
+manuell	マニュアル	manuell	マニュアル	ADJ	N
+manuell	手動	manuell	手動	ADJ	N
+möller	メラー	möll	メラー	PROPN	PROPN
+tafeln	テーブル	tafeln	テーブル		N
+tafeln	パネル	tafeln	パネル		N
+tafeln	錠剤	tafeln	錠剤		N
+tafeln	ボード	tafeln	ボード		N
+verb	動詞	verb	動詞		N
+feature	機能	featur	機能		N
+feature	フィーチャー	featur	フィーチャー		V
+feature	特徴	featur	特徴		N
+ana	ana	ana	ana	PROPN;NOM;SG	PROPN
+ana	アナ	ana	アナ	PROPN;NOM;SG	PROPN
+strömung	フロー	strömung	フロー	ADJ	N
+strömung	流れ	strömung	流れる	ADJ	V
+empfehle	おすすめ	empfehlen	おすすめ	V;IND;SG;3;PRS;FIN	N
+gemüse	野菜	gemüser	野菜		N
+gemüse	野菜	gemüser	野菜		N
+balkan	バルカン	balkan	バルカン	PROPN	PROPN
+befestigung	差	Befestigung	差	ADJ	N
+befestigung	添付	Befestigung	添付	ADJ	V
+befestigung	愛着	Befestigung	愛着	ADJ	N
+befestigung	マウント	Befestigung	マウント	ADJ	N
+befestigung	ファスナー	Befestigung	ファスナー	ADJ	N
+akademischer	アカデミック	akademisch	アカデミック	ADJ	N
+weltweite	global	weltweit	global	ADJ;NOM;FEM;PL	PROPN
+kurier	courier	kurieren	courier		PROPN
+ästhetik	美学	ästhetik	美学	PROPN	N
+wohnort	住居	wohnoren	住居	ADJ	N
+wohnort	居所	wohnoren	居所	ADJ	N
+nintendo	任天堂	nintendo	任天堂	ADJ	PROPN
+grafiken	チャート	grafik	チャート	V;NFIN	N
+grafiken	グラフ	grafik	グラフ	V;NFIN	N
+grafiken	グラフィック	grafik	グラフィック	V;NFIN	N
+grafiken	グラフィックス	grafik	グラフィックス	V;NFIN	N
+dragon	ドラゴン	dragon	ドラゴン	PROPN;NOM;SG	PROPN

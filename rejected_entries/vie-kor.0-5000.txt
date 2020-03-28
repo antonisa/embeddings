@@ -1,0 +1,6221 @@
+loại	형식	loại	형식	N	
+loại	타입	loại	타입	N	
+một	하나	một	하나	NUM	
+năm	수년	năm	수년	N	
+năm	다섯	năm	다섯	N	NUM
+năm	파이브	năm	파이브	N	
+năm	year	năm	year	N	
+năm	연도	năm	연도	N	
+các	당신은	các	당신+은	DET	PRO
+các	귀하	các	귀하	DET	
+các	당신	các	당신	DET	PRO
+này	이거	này	이거	PROPN	
+này	헤이	này	헤+이	PROPN	
+vật	애니멀	vật	애니멀	N	
+thích	좋아한	thích	좋아하+ㄴ	V	
+học	공부	học	공부	V	N
+học	공부	học	공부	V	N
+học	연구	học	연구	V	N
+học	학교	học	학교	V	N
+học	학교는	học	학교+는	V	N
+học	스쿨	học	스쿨	V	
+học	학원	học	학원	V	
+học	학습	học	학습	V	N
+học	배운다	học	배우+ㄴ다	V	
+học	배워	học	배우+어	V	
+người	명인	người	명인	N	
+thực	진짜	thực	진짜	V	N
+thực	리얼	thực	리얼	V	
+thực	레알	thực	레알	V	
+thực	사실	thực	사실	V	N
+thực	실제로	thực	실제로	V	ADV
+thực	정통	thực	정통	V	
+thực	정말로	thực	정말로	V	ADV
+thực	정말	thực	정말	V	ADV
+tham	관절	tham	관절	V	N
+kết	끝내기	kết	끝내+기	N	V
+đầu	헤드	đầu	헤드	N	
+đầu	우선	đầu	우선	N	ADV
+đầu	퍼스트	đầu	퍼스트	N	
+đầu	먼저	đầu	먼저	N	ADV
+ngoài	밖에서	ngoài	밖+에서	N	ADV
+ngoài	외부	ngoài	외부	N	
+khoa	과학	khoa	과학		N
+khoa	학부	khoa	학부		N
+khoa	교수	khoa	교수		N
+với	함께	với	함께	ADP	ADV
+tháng	개월	tháng	개월	N	
+cho	give	cho	give	V	
+không	아님	không	아니+ㅁ	;NEG	
+tiên	페어리	tiên	페어리	N	
+hoa	united	hoa	united	N	
+hoa	유나이티드	hoa	유나이티드	N	PROPN
+hoa	플라워	hoa	플라우+어	N	
+ngày	날짜	ngày	날짜	N	
+ngày	날짜	ngày	날짜	N	
+ngày	데이	ngày	데이	N	
+ngày	데이즈	ngày	데이즈	N	
+những	그들이	những	그+들+이	DET	PRO
+những	그들은	những	그+들+은	DET	PRO
+nam	수컷	nam	수컷	N	
+nam	수컷	nam	수컷	N	
+nam	nan	nam	nan	N	
+nam	남부	nam	남부	N	
+nam	사우스	nam	사우스	N	
+nam	남쪽	nam	남+쪽	N	
+nam	nam	nam	nam	N	
+quốc	시골	quốc	시골	N	
+quốc	컨트리	quốc	컨트리	N	
+chính	심지어	chính	심지어	PART	ADV
+chính	조차도	chính	조차도	PART	
+chính	소유	chính	소유	PART	
+chính	메인	chính	메인	PART	
+động	동적	động	동적	V	N
+động	다이내믹	động	다이내믹	V	
+động	자동	động	자동	V	N
+khi	언제	khi	언제	N	
+đến	입국	đến	입국	PART	N
+đến	도착	đến	도착	PART	N
+đến	도착했다	đến	도착+하+었+다	PART	V
+đến	출시	đến	출시	PART	N
+đến	coming	đến	coming	PART	
+theo	팔로우	theo	팔로우	V	
+tỉnh	깨어	tỉnh	깨+어	N	
+sau	나중에	sau	나중+에	N	ADV
+trung	미디엄	trung	미디엄	N	
+trung	중부	trung	중부	N	
+trung	센트럴	trung	센트렇+ㄹ	N	
+nhà	집에	nhà	집+에	N	ADV
+nhà	고향	nhà	고향	N	
+nhà	집으로	nhà	집+으로	N	ADV
+nhà	가정	nhà	가정	N	
+nhà	하우스	nhà	하우스	N	
+thị	그래프	thị	그래프	N	
+nước	워터	nước	워터	N	
+gia	가족	gia	가족	N	
+thời	타임	thời	타임	N	
+thời	time	thời	time	N	
+bản	네덜란드	bản	네덜란드	N	PROPN
+bản	네덜란드인	bản	네덜란드인	N	V
+bản	네덜란드령	bản	네덜란드령	N	PROPN
+bản	네덜란드어	bản	네덜란드어	N	
+hành	양파	hành	양파	N	
+hiện	표시	hiện	표시	N	
+hiện	보이기	hiện	보이+기	N	V
+lại	다시	lại	다시		ADV
+lại	또다시	lại	또다시		ADV
+cũng	또한	cũng	또한		CONJ
+việt	베트남	việt	베트남	N	
+nhất	최고	nhất	최고		N
+nhất	베스트	nhất	베스트		N
+hình	이미지	hình	이미지	N	
+nhân	환자	nhân	환자		N
+phát	방송	phát	방송	V	N
+anh	당신은	anh	당신+은	N	PRO
+anh	귀하	anh	귀하	N	
+anh	당신	anh	당신	N	PRO
+pháp	프랑스	pháp	프랑스	N	PROPN
+pháp	프랑스어	pháp	프랑스어	N	PROPN
+pháp	프렌치	pháp	프렌치	N	
+pháp	프랑스	pháp	프랑스	N	PROPN
+danh	가져오기	danh	가져오+기	N	V
+danh	불러오기	danh	부르+어+오+기	N	V
+danh	리스트	danh	리스트	N	
+chúng	그들	chúng	그+들	PROPN	N
+chúng	그들이	chúng	그+들+이	PROPN	PRO
+chúng	그들은	chúng	그+들+은	PROPN	PRO
+nhiều	많이	nhiều	많이	ADJ	ADV
+nhiều	훨씬	nhiều	훨씬	ADJ	ADV
+nhiều	다중	nhiều	다중	ADJ	N
+chỉ	단발	chỉ	단발		
+chỉ	오직	chỉ	오직		ADV
+chỉ	단지	chỉ	단지		ADV
+chỉ	그냥	chỉ	그냥		ADV
+vùng	zone	vùng	zone	N	
+vùng	면적	vùng	면적	N	
+đây	여기	đây	여기	PROPN	PRO
+đây	여기에	đây	여기+에	PROPN	ADV
+sinh	born	sinh	born	V	
+sinh	출생	sinh	출생	V	N
+sinh	탄생	sinh	탄생	V	N
+sinh	출생	sinh	출생	V	N
+sinh	탄생	sinh	탄생	V	N
+sinh	출산	sinh	출산	V	N
+con	아이유	con	아이유	N	
+quan	책임자	quan	책임자	V	N
+quan	경관	quan	경관	V	N
+quan	경찰관	quan	경찰관	V	N
+quan	장교	quan	장교	V	N
+tin	believe	tin	believe		
+tin	스토리	tin	스토리		N
+tin	소식	tin	소식		N
+tin	뉴스	tin	뉴스		N
+tin	소식	tin	소식		N
+tin	신탁	tin	신탁		N
+đồng	구리	đồng	구리	N	
+đồng	청동	đồng	청동	N	
+viên	파크	viên	파크	N	
+viên	비엔나	viên	비엔나	N	PROPN
+hai	두두	hai	두두	NUM	
+hai	두분	hai	두분	NUM	
+phải	오른쪽	phải	오른쪽	V	N
+việc	욥기	việc	욥기	N	
+bắc	노스	bắc	노스	N	
+tiểu	초등	tiểu	초등		N
+khác	달라	khác	달+라	ADJ	
+khác	다름	khác	다르+ㅁ	ADJ	
+khác	기타	khác	기타	ADJ	N
+khác	또다른	khác	또다른	ADJ	DET
+khác	기타	khác	기타	ADJ	N
+cao	하이	cao	하이	ADJ	
+cao	가오	cao	가+오	ADJ	
+tây	서쪽	tây	서쪽	N	
+tây	서부	tây	서부	N	
+tây	웨스트	tây	웨스트	N	
+tây	웨스턴	tây	웨스턴	N	
+tây	서부	tây	서부	N	
+trường	필드	trường	필드	N	
+trường	현장	trường	현장	N	
+trường	스쿨	trường	스쿨	N	
+trường	학원	trường	학원	N	
+trường	필드	trường	필드	N	
+hội	기회	hội	기회	N	
+cùng	동일	cùng	동일	ADJ	
+cùng	똑같이	cùng	똑같이	ADJ	ADV
+giải	복싱	giải	복싱	V	N
+giải	해결	giải	해결	V	N
+giải	해상도	giải	해상+도	V	N
+giải	결의	giải	결의	V	N
+bang	당국	bang	당국		N
+bang	상태	bang	상태		N
+bang	국가	bang	국가		N
+điểm	지점	điểm	지점	N	
+điểm	포인트	điểm	포인트	N	
+điểm	스팟	điểm	스팟	N	
+điểm	지점	điểm	지점	N	
+điểm	포인트	điểm	포인트	N	
+đông	동부	đông	동부	ADJ	N
+đông	이스트	đông	이스트	ADJ	
+đông	동쪽	đông	동+쪽	ADJ	
+phố	타운	phố	타우+ㄴ	N	
+phố	시티	phố	시티	N	
+phố	스트리트	phố	스트리트	N	
+phố	길거리	phố	길거리	N	
+xuất	내보내기	xuất	내보내+기	N	V
+khu	워드	khu	워드	N	
+nhưng	근데	nhưng	근데	CONJ	
+cánh	윙스	cánh	윙스	N	
+chủ	루트	chủ	루트	N	
+chủ	뿌리	chủ	뿌리	N	
+lập	독립	lập	독립	V	N
+lập	독립적	lập	독립+적	V	N
+bình	건전지	bình	건전지	N	
+cách	방법	cách	방법	V	N
+đội	team	đội	team	N	
+phần	파트	phần	파트	N	
+dưới	아래에	dưới	아래+에	N	ADV
+dưới	밑바닥	dưới	밑+바닥	N	
+dưới	하단	dưới	하단	N	
+dưới	바닥	dưới	바닥	N	
+giới	월드	giới	월드	N	
+châu	아메리카	châu	아메리카	N	PROPN
+châu	차우	châu	차우	N	
+châu	초우	châu	초우	N	
+đoàn	아홉번째	đoàn	아홉번+째	N	
+bay	flying	bay	flying		
+bay	비행	bay	비행		N
+bay	항공편	bay	항공+편		N
+bay	비행	bay	비행		N
+bài	짧게	bài	짧+게	N	
+bài	쇼트	bài	쇼트	N	
+bài	짧은	bài	짧+ㄴ	N	ADJ
+tích	정적	tích	정적	N	
+giáo	스피어	giáo	스피어	N	
+lớn	대형	lớn	대형	ADJ	N
+phim	필름	phim	필름		N
+phim	영화	phim	영화		N
+phim	영화	phim	영화		N
+phim	필름	phim	필름		N
+phim	영화	phim	영화		N
+phim	영화	phim	영화		N
+trước	우선	trước	우선		ADV
+trước	처음	trước	처음		N
+trước	먼저	trước	먼저		ADV
+trước	이전	trước	이전		N
+trước	이전	trước	이전		N
+trước	전에	trước	전+에		ADV
+đức	독일	đức	독일	N	PROPN
+đức	독일어	đức	독일어	N	
+đức	독일	đức	독일	N	PROPN
+đêm	밤에	đêm	밤+에	N	ADV
+đêm	나이트	đêm	나이트	N	
+bằng	같음	bằng	같+ㅁ	ADP	
+bằng	함께	bằng	함께	ADP	ADV
+nhỏ	작아	nhỏ	작+아	ADJ	
+nhỏ	소작	nhỏ	소작	ADJ	
+nhỏ	리틀	nhỏ	리틀	ADJ	
+nhỏ	주니어	nhỏ	주+려어	ADJ	
+hợp	fit	hợp	fit	ADJ	
+hợp	동맹	hợp	동맹	ADJ	N
+hợp	연맹	hợp	연맹	ADJ	N
+hợp	유니언	hợp	유니언	ADJ	
+hợp	연합	hợp	연합	ADJ	N
+đường	도로	đường	도로	N	
+đường	로드	đường	로드	N	
+đường	웨이팅	đường	웨이팅	N	
+đường	way	đường	way	N	
+đường	웨이	đường	웨+이	N	
+đường	슈가	đường	슈+가	N	
+đường	슈슈	đường	슈슈	N	
+thêm	추가	thêm	추가	V	
+thêm	추가	thêm	추가	V	
+thêm	기타	thêm	기타	V	N
+xem	표정	xem	표정	V	N
+xem	표시	xem	표시	V	
+xem	공연	xem	공연	V	N
+xem	시계	xem	시계	V	N
+xem	조회	xem	조회	V	
+diễn	연기	diễn	연기	V	N
+diễn	배우	diễn	배우	V	N
+máy	호스트	máy	호스트	N	
+máy	호스트	máy	호스트	N	
+hoàng	프린스	hoàng	프린스	N	
+dương	양수	dương	양수	N	
+dương	긍정적인	dương	긍정+적+이+ㄴ	N	V
+thủ	일치하기	thủ	일치+하+기	N	V
+thủ	일치합니다	thủ	일치+하+ㅂ니다	N	V
+thủ	매치	thủ	매치	N	
+thủ	일치	thủ	일치	N	
+lực	파워	lực	파우+어	N	
+hay	좋다	hay	좋+다	CONJ	ADJ
+sống	생활	sống	생활	V	N
+sống	생방송	sống	생방송	V	N
+sống	라이브	sống	라이브	V	
+sống	alive	sống	alive	V	
+thường	보통	thường	보통		N
+thường	정규	thường	정규		
+thường	보통	thường	보통		N
+thường	정규	thường	정규		
+thường	보통	thường	보통		N
+thường	평범	thường	평범		
+thường	정상	thường	정상		
+bướm	나비	bướm	나비	N	
+bướm	나비	bướm	나비	N	
+tính	계산	tính	계산	V	N
+tính	계산	tính	계산	V	N
+ban	소개	ban	소개		N
+ban	밴드	ban	밴드		N
+ban	금지	ban	금지		N
+jpg	jpeg	jpg	jpeg	N	
+jpg	jpg	jpg	jpg	N	
+nhận	주장	nhận	주장	V	
+nhận	get	nhận	get	V	
+nhận	수신	nhận	수신	V	N
+qua	과거	qua	과거	V	N
+qua	비아	qua	비+아	V	
+qua	via	qua	via	V	
+qua	통해	qua	통하+어	V	CONJ
+qua	패스	qua	패스	V	
+ảnh	이미지	ảnh	이미지	N	
+thái	테마	thái	테마	N	
+thái	타이	thái	타이	N	
+hòa	피스	hòa	피스	N	
+hòa	peace	hòa	peace	N	
+hòa	프레드	hòa	프레드	N	
+tổng	캔턴	tổng	캔턴	N	
+minh	minh	minh	minh	N	
+minh	스마트	minh	스마트	N	
+quyền	권한	quyền	권+하+ㄴ	N	
+tác	원본	tác	원본	N	
+tác	오리지널	tác	오리지널	N	
+gồm	포함	gồm	포함	V	
+gồm	포함	gồm	포함	V	
+kinh	베이징	kinh	베이징	V	PROPN
+kinh	베이징	kinh	베이징	V	PROPN
+biển	바닷가	biển	바닷가	N	
+biển	비치	biển	비치	N	
+biển	바다	biển	바다	N	
+biển	바다	biển	바다	N	
+biển	오션	biển	오션	N	
+cứng	열심히	cứng	열심히	ADJ	ADV
+cứng	하드	cứng	하드	ADJ	
+cứng	어려워	cứng	어렵+어	ADJ	
+tiếp	다음	tiếp	다음	V	N
+tiếp	넥스트	tiếp	넥스트	V	
+xếp	sort	xếp	sort	V	
+xếp	정렬	xếp	정렬	V	
+thảo	콘퍼런스	thảo	콘퍼런스	N	
+thảo	회의	thảo	회의	N	
+đánh	beat	đánh	beat	V	
+đánh	이겨	đánh	이기+어	V	
+đánh	비트	đánh	비트	V	
+đánh	히트	đánh	히트	V	
+đánh	hit	đánh	hit	V	
+nhạc	음악	nhạc	음악	V	N
+nhạc	뮤직	nhạc	뮤직	V	N
+nhạc	뮤지컬	nhạc	껍지+ㄴ	V	N
+hóa	화학물질	hóa	화학+물질		N
+hóa	화학	hóa	화학		N
+hóa	화학	hóa	화학		N
+gọi	통화	gọi	통화	V	N
+gọi	전화	gọi	전화	V	N
+gọi	호출	gọi	호출	V	N
+gọi	calling	gọi	calling	V	
+trang	측면	trang	측면	N	
+trang	사이드	trang	사이드	N	
+trang	페이지	trang	페이지	N	
+trang	페이지	trang	페이지	N	
+nguyên	소재	nguyên	소재	N	
+nguyên	아톰	nguyên	아톰	N	
+nguyên	위안	nguyên	위안	N	
+tạo	생성	tạo	생성	V	N
+tạo	만듭니다	tạo	만들+ㅂ니다	V	
+tạo	생성	tạo	생성	V	N
+tạo	만드세요	tạo	만들+세요	V	
+tạo	생성	tạo	생성	V	N
+tạo	창조	tạo	창조	V	N
+tạo	team	tạo	team	V	
+tạo	생성	tạo	생성	V	N
+cầu	다리	cầu	다리	N	
+cầu	브리지	cầu	브리+지	N	
+cầu	브리지스	cầu	브리지스	N	
+cầu	다리	cầu	다리	N	
+cầu	브리지	cầu	브리+지	N	
+cầu	브릿지	cầu	브릿지	N	
+cầu	스피어	cầu	스피어	N	
+đặc	단색	đặc	단색	N	
+đặc	입체	đặc	입체	N	
+đặc	솔리드	đặc	솔리드	N	
+đặc	소말리아	đặc	소말리아	N	PROPN
+trận	배틀	trận	배틀	N	
+phương	팡팡	phương	걸+이+라	N	
+lịch	캘린더	lịch	캘린더	N	
+lịch	캘린더	lịch	캘린더	N	
+lịch	스케줄	lịch	스케줄	N	
+bắt	캐치	bắt	캐치	V	
+bắt	캡쳐	bắt	요치+어	V	
+bắt	캡처	bắt	캡처	V	N
+bắt	take	bắt	take	V	
+tinh	플래닛	tinh	플래닛	N	
+vực	면적	vực	면적	N	
+rất	아주	rất	아주		ADV
+rất	매우	rất	매우		ADV
+đất	earth	đất	earth	N	
+đất	대지	đất	대+지	N	
+đất	그라운드	đất	그라운드	N	
+thức	레시피	thức	레시피	V	
+thức	wake	thức	wake	V	
+thức	깨워	thức	깨우+어	V	
+tới	출시	tới	출시	V	N
+tới	coming	tới	coming	V	
+luận	코멘트	luận	코멘트	N	
+cấp	레벨	cấp	레벨	N	
+cấp	수준	cấp	수준	N	
+cấp	레벨	cấp	레벨	N	
+cấp	수준	cấp	수준	N	
+khoảng	소개	khoảng	소개	ADJ	N
+khoảng	대략	khoảng	대략	ADJ	
+khoảng	공간	khoảng	공간	ADJ	N
+khoảng	공백	khoảng	공백	ADJ	N
+khoảng	주위	khoảng	주위	ADJ	N
+khoảng	주변	khoảng	주변	ADJ	N
+khoảng	대충	khoảng	대충	ADJ	ADV
+lần	타임스	lần	타임스	N	
+lần	타임즈	lần	타임즈	N	
+làng	빌리지	làng	빌리+지	N	
+vương	왕관	vương	왕관	N	
+vương	크라운	vương	크랍+ㄴ	N	
+vương	부자	vương	부자	N	
+nhật	일본	nhật	일본		PROPN
+viết	프린터	viết	프린터	V	N
+lan	lan	lan	lan	N	
+đơn	싱글	đơn	싱글	N	
+đơn	단일	đơn	단일	N	
+thiên	파라다이스	thiên	파라다이스	N	
+thiên	천국	thiên	천국	N	
+thiên	낙원	thiên	낙원	N	
+thấy	읽음	thấy	읽+ㅁ	V	
+bao	never	bao	never		
+bao	어떻게	bao	어떻+게		CONJ
+truyền	전송	truyền	전송	V	N
+truyền	전송	truyền	전송	V	N
+nghiệp	불쌍한	nghiệp	불쌍+하+ㄴ	ADJ	V
+nghiệp	경력	nghiệp	경력	ADJ	N
+nghiệp	직업	nghiệp	직업	ADJ	N
+nghiệp	커리어	nghiệp	커리어	ADJ	
+nội	할아버지	nội	할아버지	N	
+nội	외할아버지	nội	외할아버지	N	
+nội	할아버지	nội	할아버지	N	
+thuật	magic	thuật	magic	N	
+thuật	매직	thuật	매직	N	
+tiêu	후추	tiêu	후추	N	
+tiêu	고추	tiêu	고추	N	
+tiêu	페퍼	tiêu	페퍼	N	
+gian	타임	gian	타임	N	
+gian	time	gian	time	N	
+tướng	일반인	tướng	일반+이+ㄴ	N	
+phong	도넛	phong	도넛	N	
+phong	펑펑	phong	펑펑	N	
+đảo	제도	đảo	제도	N	
+utc	utc	utc	utc	N	
+utc	표준시	utc	표준시	N	
+utc	gmt	utc	gmt	N	
+tâm	중앙	tâm	중앙		N
+tâm	중심	tâm	중심		N
+tâm	센터	tâm	센터		
+thanh	보컬	thanh	보+니+ㄴ		N
+thanh	thanh	thanh	thanh		
+thanh	도구모음	thanh	도구모음		N
+dùng	사용	dùng	사용	V	N
+dùng	이용	dùng	이용	V	N
+dùng	사용하다	dùng	사용+하+다	V	
+dùng	사용자	dùng	사용자	V	N
+nói	say	nói	say	V	
+nói	talk	nói	talk	V	
+hoạt	애니메이트	hoạt	애니메이트	V	
+hoạt	애니메이션	hoạt	애니메이션	V	
+shift	쉬프트	shift	쉬프트	N	
+shift	shift	shift	shift	N	
+shift	시프트	shift	시프트	N	
+giữa	가운데	giữa	가운데	ADP	N
+giữa	중간	giữa	중간	ADP	N
+giữa	가운데	giữa	가운데	ADP	N
+giữa	가운데	giữa	가운데	ADP	N
+giữa	중심있는	giữa	중심있+는	ADP	
+phòng	로마	phòng	로마	N	PROPN
+đổi	사용	đổi	사용	V	N
+đổi	변화	đổi	변화	V	N
+đổi	변경	đổi	변경	V	N
+chuyển	전송	chuyển	전송	V	N
+chuyển	스위치	chuyển	스위치	V	N
+chuyển	switch	chuyển	switch	V	
+chuyển	전환	chuyển	전환	V	N
+chuyển	움직여	chuyển	움직이+어	V	
+chuyển	움직임	chuyển	움직이+ㅁ	V	
+chuyển	이동	chuyển	이동	V	N
+nay	오늘도	nay	오늘+도	PROPN	
+nay	오늘	nay	오늘	PROPN	N
+trọng	중요	trọng	중요		N
+trọng	중요하다	trọng	중요+하+다		V
+dịch	번역중	dịch	번역+중		N
+dịch	번역기	dịch	번역기		N
+dịch	번역기	dịch	번역기		N
+dịch	번역하기	dịch	번역+하+기		V
+tài	재능있는	tài	재능있+는	N	
+chế	brew	chế	brew	N	
+chế	made	chế	made	N	
+chế	만든	chế	만들+ㄴ	N	
+nằm	거짓말	nằm	거짓말	V	
+nằm	lay	nằm	lay	V	
+chất	지정됨	chất	지정+되+ㄴ	N	V
+sáng	아침밥	sáng	아침밥	N	
+sáng	밝아	sáng	밝+아	N	
+sáng	밝고	sáng	밝+고	N	
+sáng	밝은	sáng	밝+ㄴ	N	
+sáng	밝게	sáng	밝+게	N	
+sáng	모닝	sáng	모닝	N	
+thân	시체	thân	시체		N
+thân	몸매	thân	몸매		N
+thân	몸매가	thân	몸매+가		N
+cuối	라스트	cuối	라스트	N	
+tăng	증가	tăng	증가	V	N
+tăng	탱크	tăng	탱크	V	N
+tăng	전차	tăng	전차	V	N
+tăng	tanks	tăng	tanks	V	
+tăng	탱크	tăng	탱크	V	N
+tăng	전차	tăng	전차	V	N
+tăng	증가	tăng	증가	V	N
+trưởng	캡틴	trưởng	캡틴		
+trưởng	대위	trưởng	대위		N
+trưởng	선장	trưởng	선장		N
+lưu	저장	lưu	저장	V	
+sân	마당	sân	마당	N	
+sân	테라스	sân	테라스	N	
+nổi	유명한	nổi	유명+하+ㄴ		V
+nổi	유명해	nổi	유명+하+어		V
+nổi	유명인	nổi	유명+이+ㄴ		V
+nổi	유명하다	nổi	유명+하+다		V
+nổi	연예인	nổi	연예+이+ㄴ		V
+đặt	집합	đặt	집합	V	N
+đặt	세트	đặt	세트	V	
+đặt	설정	đặt	설정	V	N
+đặt	선택	đặt	선택	V	N
+đình	가족	đình	가족	N	
+đình	가족과	đình	가족+과	N	CONJ
+đình	패밀리	đình	패밀리	N	
+bóng	섀도	bóng	섀도	N	
+bóng	섀도우	bóng	섀도우	N	
+bóng	섀도	bóng	섀도	N	
+vua	킹스	vua	킹스	N	
+phi	아프리카	phi	아프리카	N	
+biến	변광성	biến	변광성	V	N
+biến	변수	biến	변수	V	N
+biến	변환	biến	변환	V	N
+biến	변신	biến	변신	V	N
+biến	변형	biến	변형	V	N
+hậu	여왕	hậu	여왕		
+chương	chapter	chương	chapter	N	
+chương	챕터	chương	챕터	N	
+chưa	아직	chưa	아직		ADV
+thu	수집	thu	수집	V	N
+bên	측면	bên	측면	N	
+bên	사이드	bên	사이드	N	
+vẫn	아직도	vẫn	아직도		ADV
+vẫn	여전히	vẫn	여전+히		ADV
+mất	분실	mất	분실	V	N
+mất	로스트	mất	로스트	V	
+mất	잃어버린	mất	잃+어+버리+ㄴ	V	V
+liệu	문서로	liệu	문서+로	V	ADV
+liệu	문서	liệu	문서	V	N
+sơn	paint	sơn	paint	N	
+sơn	페인트	sơn	페인트	N	
+sơn	페인팅	sơn	페인팅	N	
+báo	팬더	báo	팬더	N	
+tìm	검색	tìm	검색	V	N
+kiến	개미	kiến	개미	N	
+kiến	개미	kiến	개미	N	
+giao	인터페이스	giao	인터+바이스	V	
+giao	배달	giao	배달	V	N
+thần	지니	thần	지니	N	
+bạn	당신은	bạn	당신+은	N	PRO
+bạn	귀하	bạn	귀하	N	
+bạn	당신	bạn	당신	N	PRO
+hữu	소유자	hữu	소유자		N
+thay	변화	thay	변화	V	N
+thay	변경	thay	변경	V	N
+nhóm	그룹	nhóm	그룹	N	
+nhóm	그룹	nhóm	그룹	N	
+giá	프라이스	giá	프라이스	N	
+chí	동지	chí	동지	N	
+nhiệt	히트	nhiệt	히트	N	
+nhiệt	기온	nhiệt	기온	N	
+nhiệt	체온	nhiệt	체온	N	
+vai	어깨	vai	어깨	N	
+vai	어깨	vai	어깨	N	
+gần	거의	gần	거의	ADJ	ADV
+gần	닫기	gần	닫+기	ADJ	
+gần	닫습니다	gần	닫+습니다	ADJ	
+gần	닫아	gần	닫+아	ADJ	V
+gần	근처	gần	근처	ADJ	
+cứu	저장	cứu	저장	V	
+cứu	도움	cứu	도움	V	
+cứu	도움말	cứu	도움말	V	
+cứu	구출	cứu	구출	V	N
+cứu	구조	cứu	구조	V	N
+lớp	레이어	lớp	레이어	N	
+lớp	레이어	lớp	레이어	N	
+lớp	team	lớp	team	N	
+quyết	결심	quyết	결심	N	
+thương	부상	thương	부상	V	N
+thương	귀여워	thương	귀엽+어	V	
+hát	sing	hát	sing	V	
+hát	노래	hát	노래	V	N
+hát	노래	hát	노래	V	N
+tiền	머니	tiền	머니	N	
+triều	법원	triều	법원	N	
+phục	서버	phục	서버	V	N
+tuổi	나이에	tuổi	나이+에	N	ADV
+tuổi	늙은	tuổi	늙+ㄴ	N	
+tuổi	오래된	tuổi	오래+되+ㄴ	N	V
+chân	다리	chân	다리	N	
+chân	다리	chân	다리	N	
+tân	버진	tân	버지+ㄴ	N	
+tân	처녀	tân	처녀	N	
+đời	라이프	đời	라이프	N	
+hoàn	히어로	hoàn	히어+로		
+hoàn	영웅	hoàn	영웅		N
+chơi	놀기	chơi	놀+기	V	ADJ
+chơi	재생	chơi	재생	V	N
+chơi	연주	chơi	연주	V	N
+chơi	플레이	chơi	플레이	V	
+chơi	게임	chơi	게임	V	N
+chơi	경기	chơi	경기	V	N
+mùa	시즌	mùa	시즌	N	
+mùa	시즌	mùa	시즌	N	
+nguồn	소스	nguồn	소스	N	
+nguồn	원본	nguồn	원본	N	
+nguồn	소스	nguồn	소스	N	
+long	드래곤볼	long	드래+어+보+ㄹ	N	V
+long	드래곤	long	드래+곤	N	
+đưa	give	đưa	give	V	
+đóng	닫기	đóng	닫+기	V	
+đóng	닫습니다	đóng	닫+습니다	V	
+đóng	닫기	đóng	닫+기	V	
+đóng	비공개	đóng	비공개	V	N
+đóng	닫힌	đóng	닫히+ㄴ	V	
+đóng	닫기	đóng	닫+기	V	
+đóng	닫습니다	đóng	닫+습니다	V	
+dẫn	리드	dẫn	리드	V	
+thắng	win	thắng	win	N	
+thắng	승리자	thắng	승리자	N	
+thắng	winner	thắng	winner	N	
+giáp	갑옷	giáp	갑옷	V	
+giáp	기갑	giáp	기갑	V	N
+giáp	갑옷	giáp	갑옷	V	
+khí	에어	khí	에어	N	
+hướng	오리엔테이션	hướng	오리엔테이션	N	
+huy	커맨드	huy	커맨드	N	
+huy	지휘	huy	지휘	N	
+cây	트리	cây	트리	N	
+cây	트리	cây	트리	N	
+thư	메일	thư	메일	N	
+thư	글자	thư	글자	N	
+giữ	유지	giữ	유지	V	N
+cảnh	현장	cảnh	현장	N	
+tra	tra	tra	tra	V	
+tra	체크	tra	체크	V	
+tra	확인	tra	확인	V	N
+tra	점검	tra	점검	V	N
+nga	러시아어	nga	러시아어	N	
+nga	러시아	nga	러시아	N	PROPN
+nga	nga	nga	nga	N	
+triệu	백만명	triệu	백만명	NUM	
+triệu	백만	triệu	백만	NUM	
+triệu	수백만	triệu	수백만	NUM	
+phép	권한	phép	권+하+ㄴ	N	
+phép	허락	phép	허락	N	
+phép	허용	phép	허용	N	
+yếu	약한	yếu	약하+ㄴ	N	
+yếu	약해	yếu	약하+어	N	
+mật	시크릿	mật	시크릿	N	
+mạng	네트워크	mạng	네트워크	N	
+mạng	네트워킹	mạng	네트워킹	N	
+mạng	네트워크	mạng	네트워크	N	
+mạng	네트워크	mạng	네트워크	N	
+đài	라디오	đài	라디오	N	
+tượng	여신상	tượng	여신상	N	
+chống	용기	chống	용기	V	N
+đảng	party	đảng	party	N	
+nhập	입력	nhập	입력	V	N
+nhập	입력기	nhập	입력기	V	N
+nhập	입출력	nhập	입출력	V	N
+nhập	입력	nhập	입력	V	N
+nhập	가져오기	nhập	가져오+기	V	V
+nhập	불러오기	nhập	부르+어+오+기	V	V
+nhập	수입	nhập	수입	V	N
+hạt	핵심	hạt	핵심	N	
+hạt	코어	hạt	코어	N	
+chết	죽음	chết	죽음	V	N
+chết	사망	chết	사망	V	N
+chết	데스	chết	데스	V	
+chết	사망	chết	사망	V	N
+chết	데드	chết	데드	V	
+lạc	문의	lạc	문+의	N	
+lạc	연락	lạc	연락	N	
+chung	상호	chung	상호	ADJ	N
+chung	장군	chung	장군	ADJ	N
+chung	일반	chung	일반	ADJ	N
+chung	일반인	chung	일반+이+ㄴ	ADJ	
+tộc	클랜	tộc	클랜	N	
+màu	색상	màu	색상	N	
+màu	컬러	màu	컬러	N	
+màu	색상	màu	색상	N	
+màu	색상	màu	색상	N	
+màu	컬러	màu	컬러	N	
+trần	옥상	trần	옥상	N	
+mẫu	형식	mẫu	형식	N	
+mẫu	견본	mẫu	견보+ㄴ	N	
+mạnh	stronger	mạnh	stronger	ADJ	
+mạnh	스트롱	mạnh	스트롱	ADJ	
+trái	좌파	trái	좌파		N
+bán	팔아	bán	팔+아	V	
+bán	판매	bán	판매	V	N
+bán	판매	bán	판매	V	N
+bán	판매	bán	판매	V	N
+bán	판매	bán	판매	V	N
+bán	세일	bán	세일	V	
+bán	매출	bán	매출	V	N
+bán	영업	bán	영업	V	N
+bán	판매	bán	판매	V	N
+rộng	너비	rộng	너비	ADJ	N
+rộng	와이드	rộng	와이드	ADJ	
+rộng	넓이	rộng	넓이	ADJ	
+rộng	광범위	rộng	광범위	ADJ	
+rộng	광범위한	rộng	광범위+하+ㄴ	ADJ	V
+thủy	마녀	thủy	마녀	V	N
+đạt	달성	đạt	달성	V	N
+quy	비스킷	quy	비스킷	N	
+giờ	이제	giờ	이제	N	
+mỗi	꼴찌	mỗi	꼴찌	NUM	
+mỗi	각각	mỗi	각각	NUM	ADV
+núi	마운트	núi	마운트	N	
+núi	산맥	núi	산맥	N	
+sang	호화	sang	호화	V	
+lấy	take	lấy	take	V	
+lấy	get	lấy	get	V	
+phản	배신	phản	배신	V	N
+phản	반역죄	phản	반역죄	V	N
+phản	반역	phản	반역	V	N
+đoạn	세그먼트	đoạn	세그먼트	N	
+yêu	러브	yêu	러브	V	
+yêu	사랑	yêu	사랑	V	N
+yêu	luv	yêu	lu+부	V	
+yêu	loving	yêu	loving	V	
+môi	입술이	môi	입술+이	N	
+kiện	sue	kiện	sue	V	
+kiện	고소	kiện	고소	V	
+biên	모서리	biên	모서리	N	
+biên	가장자리	biên	가장자리	N	
+biên	경계선	biên	경계선	N	
+biên	테두리	biên	테두리	N	
+align	정렬	align	정렬		
+nhện	스파이더	nhện	스파이더	N	
+độc	홀로	độc	홀로	ADJ	ADV
+độc	혼자	độc	혼자	ADJ	ADV
+độc	독성	độc	독성	ADJ	N
+độc	유독성	độc	유독성	ADJ	
+hiệp	라운드	hiệp	라운드	N	
+pháo	전지현	pháo	전지현	N	
+pháo	폭죽	pháo	폭죽	N	
+giúp	도움	giúp	도움	V	
+giúp	도움말	giúp	도움말	V	
+phá	브레이크	phá	브레이크	V	
+phá	휴식	phá	휴식	V	N
+phá	break	phá	break	V	
+phá	깨짐	phá	깨+ㅁ	V	V
+phá	브레이킹	phá	브레이킹	V	
+tay	팔이	tay	팔+이	N	
+hồng	분홍색	hồng	분홍색	N	
+hồng	분홍	hồng	분홍	N	
+hồng	핑크	hồng	핑크	N	
+hồng	홍대	hồng	홍대	N	
+rồi	그때	rồi	그때	CONJ	
+nghị	버드	nghị	버드	N	
+chia	공유	chia	공유	V	N
+chia	나눈	chia	나누+ㄴ	V	
+chia	공유	chia	공유	V	N
+chia	스플리트	chia	스플리트	V	PROPN
+chia	스플릿	chia	스플릿	V	
+chia	분할	chia	분할	V	
+chia	나누기	chia	나누+기	V	
+chia	나누기	chia	나누+기	V	
+lời	워드	lời	워드	N	
+lời	word	lời	word	N	
+lời	단어	lời	단어	N	
+lời	words	lời	words	N	
+lời	단어	lời	단어	N	
+ruồi	날아라	ruồi	날+아라	N	
+ruồi	플라이	ruồi	플라이	N	
+chọn	선택	chọn	선택	V	N
+chọn	선택	chọn	선택	V	N
+chọn	선택	chọn	선택	V	N
+lục	녹색	lục	녹색	N	
+lục	그린	lục	그리+ㄴ	N	
+lục	초록색	lục	초록색	N	
+lục	초록	lục	초록	N	
+bàn	탁자	bàn	탁자	N	
+bàn	식탁	bàn	식탁	N	
+bàn	테이블	bàn	테이블	N	
+bàn	테이블	bàn	테이블	N	
+tông	콘크리트	tông	콘크리트	N	
+tuần	주일	tuần	주일	N	
+tuần	일주일	tuần	일주일	N	
+ngoại	할머니	ngoại	할머니	N	
+trực	직접	trực	직접	V	
+trực	직통	trực	직통	V	N
+trực	direct	trực	direct	V	
+trực	다이렉트	trực	다이렉트	V	N
+dung	콘텐츠	dung	콘텐츠		N
+dung	컨텐츠	dung	컨텐츠		N
+dung	내용	dung	내용		N
+dung	목차	dung	목차		N
+dung	콘텐츠	dung	콘텐츠		N
+dung	내용	dung	내용		N
+bệnh	아파	bệnh	아프+아	N	
+bệnh	아픈	bệnh	아프+ㄴ	N	
+bệnh	아프다	bệnh	아프+다	N	
+vòng	라운드	vòng	라운드	N	
+phái	보내기	phái	보내+기	N	V
+đào	복숭아	đào	복숭아	N	
+đào	타오	đào	타오	N	
+đào	복숭아	đào	복숭아	N	
+đào	피치	đào	피치	N	
+khai	주장	khai	주장	V	
+khai	발급	khai	발급	V	N
+lệnh	명령	lệnh	명령		N
+lệnh	명령어	lệnh	명령+어		N
+lệnh	명령	lệnh	명령		N
+lệnh	명령어	lệnh	명령+어		N
+lệnh	사령부	lệnh	사령부		N
+lệnh	주문	lệnh	주문		N
+chuẩn	스탠더드	chuẩn	스탠더드	V	
+chuẩn	표준	chuẩn	표준	V	
+chuẩn	정규	chuẩn	정규	V	
+chuẩn	보통	chuẩn	보통	V	N
+chuẩn	평범	chuẩn	평범	V	
+chuẩn	정상	chuẩn	정상	V	
+chữ	글자	chữ	글자	N	
+duy	단발	duy	단발	N	
+duy	오직	duy	오직	N	ADV
+thiếu	실종	thiếu	실종	V	N
+thiếu	누락	thiếu	누락	V	
+thiếu	missing	thiếu	missing	V	
+lợi	이득	lợi	이득	N	
+hết	모두	hết	모두	V	ADV
+hết	전체	hết	전체	V	N
+hán	한한	hán	한하+ㄴ	N	
+hầu	거의	hầu	거의		ADV
+hầu	hou	hầu	hou		
+mặc	착용	mặc	착용	V	N
+tuyến	라이베리아	tuyến	라이베리아	N	PROPN
+tuyến	직선형	tuyến	직선형	N	
+hạn	극한	hạn	극한	N	
+trùng	복사	trùng	복사	V	N
+trùng	중복	trùng	중복	V	N
+trùng	복제	trùng	복제	V	N
+đĩa	디스크	đĩa	디스크		N
+đĩa	접시	đĩa	접시		N
+đĩa	디스크	đĩa	디스크		N
+đĩa	접시	đĩa	접시		N
+khỏi	출신	khỏi	출신	V	N
+tưởng	생각	tưởng	생각	V	
+vàng	골드	vàng	골드	N	
+vàng	황금	vàng	황금	N	
+vàng	노란색	vàng	노란색	N	
+vàng	노랑	vàng	노랑	N	
+quang	두개골	quang	두개골	N	
+quang	해골	quang	해골	N	
+dòng	라인	dòng	라인	N	
+dòng	라인	dòng	라인	N	
+hàn	한국인	hàn	한국인	N	
+hàn	한국	hàn	한국	N	PROPN
+hàn	한국어	hàn	한국어	N	
+hàn	한국	hàn	한국	N	PROPN
+hàn	코리아	hàn	코리아	N	
+hàn	한한	hàn	한하+ㄴ	N	
+ngay	즉시	ngay	즉시	PART	
+ngay	이제	ngay	이제	PART	
+ngay	지금	ngay	지금	PART	N
+cận	닫기	cận	닫+기	V	
+đậu	콩깍지	đậu	콩갑지	V	
+đậu	기도	đậu	기도	V	N
+khách	게스트로	khách	게스트+로	N	ADV
+khách	손님	khách	손님	N	
+khách	게스트	khách	게스트	N	
+khách	방문	khách	방문	N	
+khách	방문하기	khách	방문+하+기	N	V
+khách	손님	khách	손님	N	
+khách	게스트	khách	게스트	N	
+thánh	세인트	thánh	세인트	N	
+thánh	거룩한	thánh	거룩+하+ㄴ	N	V
+thánh	거룩	thánh	거룩	N	
+trẻ	영영	trẻ	영영	N	
+trẻ	젊은	trẻ	젊+ㄴ	N	ADJ
+phó	부관	phó	부관		N
+trai	boy	trai	boy	N	
+trai	보이	trai	보이	N	
+cải	브로콜리	cải	브로콜리	N	
+chạy	달리기	chạy	달리+기	V	
+chạy	런닝	chạy	런닝	V	
+chạy	달려	chạy	달리+어	V	
+chạy	실행	chạy	실행	V	N
+chạy	달리기	chạy	달리+기	V	
+chạy	런닝	chạy	런닝	V	
+chạy	드라이브	chạy	드라이브	V	
+tuyên	선포	tuyên	선포	V	N
+thuận	거래	thuận	거래	ADJ	N
+tức	즉각	tức	즉각		ADV
+tức	sur	tức	sur		
+bảng	탁자	bảng	탁자	N	
+bảng	식탁	bảng	식탁	N	
+bảng	테이블	bảng	테이블	N	
+bảng	파운드	bảng	파운드	N	
+bảng	테이블	bảng	테이블	N	
+chiều	크기	chiều	크기	N	
+cực	아주	cực	아주		ADV
+cực	매우	cực	매우		ADV
+cực	극성	cực	극성		N
+dục	계단	dục	계단	N	
+lương	임금	lương	임금	N	
+mét	미터	mét	미터	N	
+mét	미터	mét	미터	N	
+mét	미터	mét	미터	N	
+mét	야드	mét	야드	N	
+gặp	만나	gặp	만나+아	V	
+blank	비어	blank	비+어	V	
+bại	패배	bại	패배	V	N
+bại	패배	bại	패배	V	N
+chu	아마도	chu	아마도		ADV
+chu	아마	chu	아마		ADV
+chuyên	전문가	chuyên	전문가	ADJ	
+chuyên	전문	chuyên	전문	ADJ	N
+lai	미래	lai	미래		
+lai	퓨처	lai	퓨처		
+lai	라이	lai	라이		
+vài	몇몇	vài	몇몇	DET	ADJ
+nền	배경색	nền	배경색		N
+nền	배경	nền	배경		N
+song	쌍둥이	song	쌍둥이	CONJ	
+song	트윈	song	트윈	CONJ	
+song	부모	song	부모	CONJ	
+song	부모님	song	부모님	CONJ	N
+song	송송	song	송송	CONJ	
+song	노래	song	노래	CONJ	N
+giai	melody	giai	melody		
+quay	회전	quay	회전	V	N
+quay	턴제	quay	턴제	V	N
+quay	회전	quay	회전	V	N
+quay	스핀	quay	스핀	V	
+xuân	봄이	xuân	봄+이	N	
+xuân	스프링	xuân	스프링	N	
+xuân	봄철	xuân	봄철	N	
+điển	사전	điển	사전	N	
+trúc	팬더	trúc	팬더	N	
+american	아메리칸	american	아메리칸	N	
+rừng	우즈	rừng	우즈	N	
+rừng	정글	rừng	정글	N	
+thưởng	보너스	thưởng	보너스	V	
+thưởng	보상	thưởng	보상	V	N
+list	리스트	list	리스트	ADJ	
+list	목록	list	목록	ADJ	N
+list	명단	list	명단	ADJ	N
+xuống	다운	xuống	다우+ㄴ	V	
+xuống	아래로	xuống	아래+로	V	
+đứng	standing	đứng	standing	V	
+đứng	스탠딩	đứng	스탠딩	V	
+đứng	스탠드	đứng	스탠드	V	N
+truyện	읽고	truyện	읽+고	N	V
+truyện	읽기	truyện	읽+기	N	V
+môn	미묘	môn	미묘	N	
+môn	미묘한	môn	미묘+하+ㄴ	N	V
+phóng	스케일	phóng	스케일	V	
+phóng	축척	phóng	축척	V	N
+phóng	척도	phóng	척도	V	
+phóng	규모	phóng	규모	V	N
+phóng	출시	phóng	출시	V	N
+phóng	실행	phóng	실행	V	N
+phóng	발사	phóng	발사	V	N
+phóng	런칭	phóng	런칭	V	
+đốc	주지사	đốc	주지사		
+khởi	시작	khởi	시작	V	N
+bầu	투표	bầu	투표	V	N
+bầu	임신	bầu	임신	V	N
+mềm	부드러워	mềm	부드럽+어	N	
+mềm	청량	mềm	청량	N	
+mềm	부드럽게	mềm	부드럽+게	N	
+mềm	부드러운	mềm	부드럽+ㄴ	N	ADJ
+mềm	소프트	mềm	소프트	N	
+giành	적립	giành	적립	V	N
+giết	킬링	giết	킬링	V	
+nhanh	빨라	nhanh	빠르+아	ADJ	
+nhanh	빠름	nhanh	빠르+ㅁ	ADJ	
+nhanh	빠르게	nhanh	빠르+게	ADJ	CONJ
+giấy	종이	giấy	종이	N	
+giấy	페이퍼	giấy	페이퍼	N	
+thấp	low	thấp	low	ADJ	
+kiểu	형식	kiểu	형식	N	
+kiểu	타입	kiểu	타입	N	
+nghiệm	실험	nghiệm	실험	V	N
+tối	어둡게	tối	어둡+게	N	ADJ
+tối	다크	tối	다크	N	
+tối	어두운	tối	어둡+ㄴ	N	ADJ
+giảm	축소	giảm	축소	V	N
+giảm	감소	giảm	감소	V	N
+bắn	촬영	bắn	촬영	V	N
+bắn	촬영	bắn	촬영	V	N
+bắn	총격	bắn	총격	V	N
+bắn	사격	bắn	사격	V	N
+website	웹사이트	website	웹사이트	N	
+website	사이트	website	사이트	N	
+tốc	자동차도	tốc	자동차+도	N	ADV
+đôi	더블	đôi	더블	NUM	
+đôi	커플	đôi	커플	NUM	N
+đôi	부부	đôi	부부	NUM	N
+đôi	때로는	đôi	때+로+는	NUM	N
+đôi	가끔은	đôi	가끔+은	NUM	
+đôi	가끔	đôi	가끔	NUM	ADV
+đôi	때때로	đôi	때때로	NUM	ADV
+đôi	복식	đôi	복식	NUM	N
+gái	딸이	gái	딸+이	N	
+gái	girl	gái	girl	N	
+lĩnh	브러시	lĩnh	브러시	N	
+cáo	신고	cáo	신+고	N	
+cáo	보고서	cáo	보고서	N	
+cáo	보고	cáo	보+고	N	
+cáo	폭스	cáo	폭스	N	
+tam	tam	tam	tam	N	
+tam	탬버린	tam	태버리+ㄴ	N	
+tam	삼각형	tam	삼각형	N	
+sai	잘못된	sai	잘못+되+ㄴ	ADJ	V
+sai	거짓	sai	거짓	ADJ	
+sai	가짜	sai	가짜	ADJ	
+sai	오류	sai	오류	ADJ	N
+sửa	편집	sửa	편집	V	N
+sửa	수정	sửa	수정	V	N
+sửa	보정	sửa	보정	V	N
+sửa	교정	sửa	교정	V	N
+dựa	기반	dựa	기반	V	N
+dựa	기반으로	dựa	기반+으로	V	ADV
+lửa	불꽃	lửa	불꽃	N	
+lửa	불꽃	lửa	불꽃	N	
+tuyển	고용	tuyển	고용	V	N
+tuyển	고용	tuyển	고용	V	N
+trương	디렉터	trương	디렉터	N	
+nặng	무겁게	nặng	무겁+게	ADJ	
+nặng	무거워	nặng	무겁+어	ADJ	
+nặng	무거움	nặng	무거움	ADJ	
+mức	레벨	mức	레벨	N	
+mức	수준	mức	수준	N	
+ngành	그의	ngành	그+의	N	PRO
+trắng	하얀	trắng	하얗+ㄴ	N	
+trắng	화이트	trắng	화이트	N	
+trắng	흰색	trắng	흰+색	N	
+trắng	하얀색	trắng	하얀색	N	
+trắng	하얗게	trắng	하얗+게	N	ADJ
+đọc	읽음	đọc	읽+ㅁ	V	
+đọc	읽어보기	đọc	읽+어+보+기	V	V
+đọc	독서	đọc	독서	V	N
+xung	충동	xung	충동	V	
+xung	임펄스	xung	임펄스	V	
+xung	갈등	xung	갈등	V	N
+xung	갈등이	xung	갈등+이	V	N
+xung	충돌	xung	충돌	V	N
+xung	분쟁	xung	분쟁	V	N
+chịu	고통받고	chịu	고통받+고	V	
+nhìn	표정	nhìn	표정	V	N
+quý	숙녀	quý	숙녀	N	
+quý	소중한	quý	소중+하+ㄴ	N	V
+quý	분기	quý	분기	N	
+quý	쿼터	quý	쿼터	N	
+luyện	훈련	luyện	훈련	V	N
+luyện	트레이닝	luyện	트레이닝	V	N
+thật	진짜	thật	진짜	PART	N
+thật	리얼	thật	리얼	PART	
+thật	레알	thật	레알	PART	
+thật	진실	thật	진실	PART	
+thật	진리	thật	진리	PART	
+thật	정말로	thật	정말로	PART	ADV
+thật	정말	thật	정말	PART	ADV
+kéo	뽑기	kéo	뽑+기	V	
+kéo	당겨	kéo	당기+어	V	
+kéo	당기	kéo	당기	V	
+kéo	드래그	kéo	드래그	V	
+kéo	puff	kéo	puff	V	
+kéo	쉐프	kéo	쉐프	V	
+đen	검은색	đen	검은색	ADJ	
+đen	검정	đen	검정	ADJ	
+đen	검정색	đen	검정색	ADJ	
+đen	블랙	đen	블랙	ADJ	
+chứa	포함	chứa	포함	V	
+mực	오징어	mực	오징어	N	
+trời	스카이	trời	스카이	N	
+ngắn	짧게	ngắn	짧+게	ADJ	
+ngắn	쇼트	ngắn	쇼트	ADJ	
+trả	지불	trả	지불	V	
+trả	지불	trả	지불	V	
+trả	결제	trả	결제	V	N
+trả	지불	trả	지불	V	
+niệm	기념품	niệm	기념품	V	N
+lao	라오스	lao	라오스		PROPN
+luôn	항상	luôn	항상		ADV
+luôn	언제나	luôn	언제나		ADV
+côn	클러치	côn	클러치	N	
+côn	아직도	côn	아직도	N	ADV
+côn	여전히	côn	여전+히	N	ADV
+thạch	젤리	thạch	젤리	N	
+phúc	제이슨	phúc	제이슨	N	PROPN
+phúc	해피	phúc	해피	N	
+phúc	행복해	phúc	행복+하+어	N	CONJ
+phúc	행복하다	phúc	행복+하+다	N	
+phúc	행복한	phúc	행복+하+ㄴ	N	V
+sâu	깊게	sâu	깊+게	ADJ	
+khó	열심히	khó	열심히	ADJ	ADV
+khó	하드	khó	하드	ADJ	
+khó	어려워	khó	어렵+어	ADJ	
+khó	어려움	khó	어렵+ㅁ	ADJ	V
+khó	어려워	khó	어렵+어	ADJ	
+cục	연장	cục	연장		N
+kịch	드라마	kịch	드라마	N	
+rút	뽑기	rút	뽑+기	V	
+rút	당겨	rút	당기+어	V	
+rút	당기	rút	당기	V	
+rút	인출	rút	인출	V	N
+phường	워드	phường	워드	N	
+ngọc	제이드	ngọc	제이드	N	
+ngọc	보석	ngọc	보석	N	
+top	인기	top	인기		N
+tải	로드	tải	로드	V	
+tải	로딩	tải	로딩	V	N
+tải	로딩	tải	로딩	V	N
+hàm	턱시도	hàm	턱시+도	N	
+hàm	조스	hàm	조스	N	
+wikipedia	위키백과의	wikipedia	위키백+과+의	V	PROPN
+wikipedia	위키백과	wikipedia	위키백+과	V	CONJ
+phật	beat	phật	beat	N	
+phật	이겨	phật	이기+어	N	
+phật	비트	phật	비트	N	
+nghi	용의자	nghi	용의자	V	N
+nghi	용의자	nghi	용의자	V	N
+nghi	의심	nghi	의심	V	
+thừa	르노	thừa	르노	ADJ	PROPN
+thừa	리노	thừa	리노	ADJ	
+vốn	이자	vốn	이자	N	
+vốn	흥미	vốn	흥미	N	
+vốn	수도	vốn	수+도	N	
+vốn	캐피탈	vốn	캐피탈	N	
+vốn	캐피털	vốn	캐피털	N	
+hùng	히어로	hùng	히어+로	N	
+buộc	강제	buộc	강제	V	N
+buộc	포스	buộc	포스	V	
+sóng	파도	sóng	파+도	N	
+sóng	파도	sóng	파+도	N	
+sóng	웨이브	sóng	웨이브	N	
+sóng	물결	sóng	물결	N	
+đăng	게시	đăng	게시	V	N
+đăng	게시글	đăng	게시글	V	
+đăng	포스트	đăng	포스트	V	
+đăng	게시물	đăng	게시물	V	N
+đăng	게시	đăng	게시	V	N
+đăng	포스팅	đăng	포스팅	V	
+đăng	게시	đăng	게시	V	N
+đăng	출판	đăng	출판	V	N
+đăng	발행	đăng	발행	V	N
+đăng	게시	đăng	게시	V	N
+kiếm	도검	kiếm	도검	V	
+kiếm	도검	kiếm	도검	V	
+hiểu	이해	hiểu	이해	V	N
+hiểu	이해	hiểu	이해	V	N
+bụng	복부	bụng	복부	ADJ	N
+bụng	위장	bụng	위장	ADJ	N
+bụng	복부	bụng	복부	ADJ	N
+nuôi	애완동물	nuôi	애완동물	V	N
+nuôi	채택	nuôi	채택	V	N
+nuôi	입양	nuôi	입양	V	N
+đầy	가득	đầy	가득	ADJ	ADV
+xóa	삭제	xóa	삭제	V	N
+xóa	제거	xóa	제거	V	N
+xóa	지우	xóa	지우	V	
+xóa	지워	xóa	지우+어	V	
+xóa	삭제	xóa	삭제	V	N
+kính	잔다	kính	잔+ㄴ다	N	
+kính	유리	kính	유리	N	
+kính	글래스	kính	글래스	N	
+cạnh	엣지	cạnh	짙+지	N	
+cạnh	모서리	cạnh	모서리	N	
+cạnh	edge	cạnh	edge	N	
+vừa	미디엄	vừa	미디엄		
+vừa	미디어	vừa	미디어		N
+vừa	중간	vừa	중간		N
+vừa	적당히	vừa	적당+히		ADV
+thử	테스트	thử	테스트	V	N
+thử	시험	thử	시험	V	N
+brasil	브라질	brasil	브라질	N	
+lược	콤스	lược	콤스	N	
+paris	파리	paris	파리		PROPN
+tội	innocent	tội	innocent	N	
+tầng	바닥	tầng	바닥	N	
+tầng	레벨	tầng	레벨	N	
+tầng	수준	tầng	수준	N	
+băng	테이프	băng	테이프	N	
+băng	빙빙	băng	빙빙	N	
+băng	아이스	băng	아이스	N	
+khắc	기념일	khắc	기념일	N	
+mua	구매	mua	구매	V	N
+mua	구입	mua	구입	V	N
+mua	사기	mua	사기	V	
+mua	구매	mua	구매	V	N
+mua	샀다	mua	사+ㅆ+다	V	
+bật	활성화	bật	활성화	V	N
+bật	활성화	bật	활성화	V	N
+tái	재구성	tái	재구성		N
+khối	블록	khối	블록	N	
+khối	블럭	khối	블럭	N	
+khối	깎은	khối	깎+ㄴ	N	V
+chiếu	체스	chiếu	체스	V	N
+chùa	파고다	chùa	파+ㄴ다+고	N	
+chùa	템플	chùa	템플	N	
+ist	ist	ist	ist		
+york	요크	york	요크	N	
+tháp	타워	tháp	타우+어	N	
+tháp	타워	tháp	타우+어	N	
+vườn	가든	vườn	가든	N	
+vườn	정원	vườn	정원	N	
+vườn	낙원	vườn	낙원	N	
+vườn	정원	vườn	정원	N	
+group	집단	group	집단		N
+loạt	지방	loạt	지방		N
+loạt	지역	loạt	지역		N
+loạt	구역	loạt	구역		N
+loạt	영역	loạt	영역		N
+loạt	지역	loạt	지역		N
+team	team	team	team		
+suất	성과	suất	성과	N	
+xanh	파란색	xanh	파란색	N	
+xanh	푸른	xanh	푸르+ㄴ	N	ADJ
+xanh	블루	xanh	블루	N	
+xanh	파랑	xanh	파랑	N	
+xanh	푸른색	xanh	푸른색	N	
+khóa	자물쇠	khóa	자물쇠	N	
+khóa	잠겨	khóa	잠기+어	N	V
+khóa	locked	khóa	locked	N	
+khóa	키키	khóa	키키	N	
+suy	생각	suy	생각	V	
+đích	목적지는	đích	목적지+는		N
+đích	목적지	đích	목적지		N
+đúng	오른쪽	đúng	오른쪽	ADJ	N
+đúng	정답	đúng	정답	ADJ	N
+ngân	뱅크	ngân	뱅크	N	
+trách	비난	trách	비난	V	N
+vây	지느러미	vây	지느러미	V	
+vây	저항운동	vây	저항+운동	V	N
+vây	저항성	vây	저항성	V	N
+vây	저항	vây	저항	V	N
+van	밸브	van	밸브	V	N
+van	밸브	van	밸브	V	N
+video	동영상	video	동영상	N	
+video	동영상	video	동영상	N	
+cường	하이퍼	cường	하이퍼	N	
+gray	회색	gray	회색		N
+bom	bom	bom	bom	N	
+nghe	청취	nghe	청취	V	N
+ngựa	포니	ngựa	포니	N	
+giác	느낌	giác	느끼+ㅁ	N	
+vân	아직	vân	아직	N	ADV
+tai	태극권	tai	태극권		N
+bước	단계	bước	단계		N
+bước	단계	bước	단계		N
+séc	체코	séc	체코	N	PROPN
+séc	체코어	séc	체코어	N	
+canada	캐나다	canada	캐나다	N	PROPN
+nạn	교통사고	nạn	교통+사고	N	
+nạn	사고	nạn	사고	N	
+cát	모래	cát	모래	N	
+vinh	영광	vinh	영광	N	
+vinh	영광	vinh	영광	N	
+vinh	글로리	vinh	글로리	N	
+bác	삼촌	bác	삼촌		N
+bác	아저씨	bác	아저씨		N
+dầu	오일	dầu	오일	N	
+dầu	기름	dầu	기름	N	
+hôn	키스	hôn	키스	V	
+hôn	키스	hôn	키스	V	
+hôn	kiss	hôn	kiss	V	
+trừ	빼기	trừ	빼+기	V	
+trừ	빼빼로	trừ	빼빼+로	V	
+trừ	빼고	trừ	빼+고	V	
+ship	선박	ship	선박	V	N
+kháng	엘레베이터	kháng	엘레베이터	N	ADV
+kháng	엘리베이터	kháng	엘리베이터	N	
+xương	다리	xương	다리	N	
+california	캘리포니아	california	캘리포니아		PROPN
+đẹp	아름다워	đẹp	아름답+어	ADJ	
+đẹp	나이스	đẹp	나이스	ADJ	
+cai	cai	cai	cai	N	
+cai	깨끗한	cai	깨끗하+ㄴ	N	ADJ
+cai	깨끗하다	cai	깨끗하+다	N	V
+hơi	약간	hơi	약간		
+phút	민아	phút	민+아	N	
+phút	민지	phút	민지	N	
+phút	민수	phút	민수	N	
+loạn	반란	loạn	반란	V	N
+loạn	폭동	loạn	폭동	V	N
+loạn	반란	loạn	반란	V	N
+svg	svg	svg	svg	N	
+khủng	테러리스트	khủng	테러리스트	ADJ	N
+cấm	금지	cấm	금지	V	N
+cấm	금지	cấm	금지	V	N
+cấm	금지	cấm	금지	V	N
+ủng	장화	ủng	장화	V	N
+ủng	부츠	ủng	부츠	V	N
+nâng	상승	nâng	상승	V	N
+nâng	승강기	nâng	승강기	V	N
+nâng	리프트	nâng	리프트	V	
+hủy	취소	hủy	취소	V	N
+hủy	취소	hủy	취소	V	N
+hủy	중단	hủy	중단	V	N
+hủy	중지	hủy	중지	V	N
+hủy	취소	hủy	취소	V	N
+mai	내일	mai	내일		N
+cảng	항만	cảng	항만	N	
+cảng	포트	cảng	포트	N	
+cảng	하버	cảng	하버	N	
+tách	cups	tách	cups	V	
+tách	스플리트	tách	스플리트	V	PROPN
+tách	스플릿	tách	스플릿	V	
+tách	분할	tách	분할	V	
+tách	나누기	tách	나누+기	V	
+tách	cup	tách	cup	V	
+bạch	하얀	bạch	하얗+ㄴ	N	
+bạch	화이트	bạch	화이트	N	
+bạch	흰색	bạch	흰+색	N	
+bạch	하얀색	bạch	하얀색	N	
+bạch	하얗게	bạch	하얗+게	N	ADJ
+bạch	바이	bạch	바이	N	
+liền	본토	liền	본토		N
+cắt	잘라	cắt	자르+아	V	
+cắt	잘라내기	cắt	잘라내+기	V	V
+cắt	농작물	cắt	농작물	V	N
+cắt	삭감	cắt	삭감	V	N
+xâm	침략	xâm	침략	V	N
+bạc	실버	bạc	실버	N	
+http	http	http	http		
+đền	템플	đền	템플	N	
+web	웹툰	web	웹툰	N	
+web	net	web	net	N	
+bào	프레스	bào	프레스	N	
+bào	누르기	bào	누르+기	N	V
+chỉnh	조정	chỉnh	조정	V	N
+chỉnh	튜닝	chỉnh	튜닝	V	N
+đỉnh	top	đỉnh	top	N	
+nghề	욥기	nghề	욥기	N	
+ngăn	방지	ngăn	방지	V	N
+ngăn	예방	ngăn	예방	V	N
+bão	타이푼	bão	타이푼	N	
+bão	허리케인	bão	허리케+이+ㄴ	N	V
+bão	hurricane	bão	hurricane	N	
+bão	폭풍우	bão	폭풍우	N	
+bão	스톰	bão	스톰	N	
+sur	sur	sur	sur	NUM	
+bày	화면	bày	화면	V	N
+bày	스크린	bày	스크린	V	
+nghĩ	생각	nghĩ	생각	V	
+nghĩ	생각	nghĩ	생각	V	
+nghĩ	생각	nghĩ	생각	V	
+nguy	위험	nguy	위험	V	N
+quyển	노트북	quyển	노트북		N
+rắn	뱀과	rắn	뱀+과	N	CONJ
+rắn	뱀과	rắn	뱀+과	N	CONJ
+sắt	철쭉	sắt	철쭉	N	
+thác	폭포수	thác	폭포수	N	
+thác	버림	thác	버리+ㅁ	N	
+tường	성벽	tường	성벽	N	
+sung	플러그인	sung	플러그+이+ㄴ	V	
+thiến	거세	thiến	거세	V	
+gửi	전송	gửi	전송	V	N
+gửi	제출	gửi	제출	V	N
+gửi	송금	gửi	송금	V	N
+gửi	보냅니다	gửi	보내+ㅂ니다	V	
+gửi	전송	gửi	전송	V	N
+gửi	제출	gửi	제출	V	N
+thụ	에너지	thụ	에너지	V	N
+thụ	초과	thụ	초+과	V	
+com	com	com	com	N	
+nhớ	그리워	nhớ	그립+어	V	
+nhớ	미스	nhớ	미스	V	
+nhớ	remember	nhớ	remember	V	
+nhớ	기억	nhớ	기억	V	N
+thoát	종료	thoát	종료	V	N
+thoát	종료	thoát	종료	V	N
+thoát	출구	thoát	출구	V	N
+thoát	나가기	thoát	나가+기	V	
+thoát	exit	thoát	exit	V	
+thoát	출구	thoát	출구	V	N
+thoát	탈출	thoát	탈출	V	N
+chảy	녹음	chảy	녹음	V	N
+chảy	녹아	chảy	녹+아	V	
+đẩy	밀어	đẩy	밀+어	V	
+đẩy	푸시	đẩy	푸시	V	
+vạn	출처	vạn	출처	ADJ	N
+trại	캠프	trại	캠프	N	
+trại	캠프	trại	캠프	N	
+lượt	턴제	lượt	턴제		N
+lượt	여행	lượt	여행		N
+vuông	제곱	vuông	제곱	ADJ	
+vuông	스퀘어	vuông	스퀘어	ADJ	
+vuông	광장	vuông	광장	ADJ	N
+vuông	사각형	vuông	사각형	ADJ	
+vuông	정사각형	vuông	정사각형	ADJ	
+wiki	위키	wiki	위키	N	
+wiki	위키위키	wiki	위키+위키	N	
+nửa	절반	nửa	절반	NUM	
+đan	훌륭한	đan	훌륭+하+ㄴ		V
+united	united	united	united	N	
+united	유나이티드	united	유나이티드	N	PROPN
+dây	줄넘기	dây	줄히+기	N	
+dây	와이어	dây	와이어	N	
+hung	헝가리	hung	헝가리	N	PROPN
+hung	헝가리어	hung	헝가리어	N	PROPN
+ngụy	웨이	ngụy	웨+이	V	
+thẳng	똑바로	thẳng	똑바로	ADJ	
+thẳng	스트레이트	thẳng	스트레이트	ADJ	
+vịnh	베이	vịnh	베이	N	
+soạn	작성	soạn	작성	V	N
+cup	cup	cup	cup	N	
+chuồn	클로버	chuồn	클로버	N	
+illinois	일리노이	illinois	일리노이	N	PROPN
+tiện	선반	tiện	선반	ADJ	N
+bậc	밑바닥	bậc	밑+바닥	N	
+bậc	하단	bậc	하단	N	
+bậc	바닥	bậc	바닥	N	
+mông	엉덩이	mông	엉덩이	N	
+mông	엉덩이	mông	엉덩이	N	
+mông	엉덩이	mông	엉덩이	N	
+ngược	뒤로	ngược	뒤+로	V	ADV
+ngược	반대편	ngược	반대편	V	
+ngược	반대로	ngược	반대+로	V	ADV
+ngược	반대	ngược	반대	V	N
+bánh	케이크	bánh	케이크	N	
+bánh	케이크	bánh	케이크	N	
+london	런던	london	런던		PROPN
+điền	채워	điền	채우+어	V	
+điền	fill	điền	fill	V	
+sáu	여섯	sáu	여섯	NUM	
+quỹ	재단	quỹ	재단	N	
+tặng	give	tặng	give	V	
+tặng	선물	tặng	선물	V	N
+tắc	눈금	tắc	눈금	V	
+tắc	진드기	tắc	진드기	V	N
+tắc	체크	tắc	체크	V	
+dọc	수직으로	dọc	수직+으로	N	ADV
+dọc	세로로	dọc	세로+로	N	ADV
+dọc	세로	dọc	세+로	N	
+rgb	rgb	rgb	rg+과	N	
+dạy	교육	dạy	교육	V	N
+dạy	교사	dạy	교사	V	N
+máu	피피	máu	피피	N	
+máu	블러드	máu	블러드	N	
+sớm	초기	sớm	초기	ADJ	N
+sớm	일찍	sớm	일찍	ADJ	ADV
+lông	모피	lông	모피	N	
+săn	헌트	săn	헌트	N	
+cương	발기	cương	발기	N	
+hungary	헝가리	hungary	헝가리	N	PROPN
+hungary	헝가리	hungary	헝가리	N	PROPN
+hungary	헝가리어	hungary	헝가리어	N	PROPN
+tắt	비활성화	tắt	비활+성화		N
+tắt	비활성화	tắt	비활+성화		N
+tắt	끄기	tắt	끄기		V
+quê	시골	quê	시골	N	
+chấm	dots	chấm	dots	V	
+chấm	반점	chấm	반점	V	
+chấm	dot	chấm	dot	V	
+chấm	지점	chấm	지점	V	
+chấm	포인트	chấm	포인트	V	
+mũi	mui	mũi	mui	N	
+mũi	코코	mũi	코코	N	
+tĩnh	정적	tĩnh	정적	N	
+tri	예언자	tri	예언자		N
+trích	복사	trích	복사	V	N
+trích	카피	trích	카피	V	
+trích	복사본	trích	복사본	V	N
+trích	사본	trích	사본	V	N
+body	시체	body	시체		N
+body	몸매	body	몸매		N
+body	몸매가	body	몸매+가		N
+hài	코메디	hài	코메디	N	
+trồng	공장	trồng	공장	V	
+trồng	식물	trồng	식물	V	N
+trồng	식물학	trồng	식물학	V	N
+trồng	자라	trồng	자+이+라	V	
+increment	증가	increment	증가	V	N
+chó	개그	chó	개그	N	
+thước	사이즈	thước	사이즈	N	
+thước	크기	thước	크기	N	
+mexico	멕시코	mexico	멕시코	N	PROPN
+ngang	수평	ngang	수평	ADJ	N
+ngang	수평으로	ngang	수평+으로	ADJ	ADV
+ngang	수평	ngang	수평	ADJ	N
+nhẹ	가볍게	nhẹ	가볍+게		CONJ
+nhẹ	가벼운	nhẹ	가볍+ㄴ		ADJ
+nhẹ	쉽게	nhẹ	쉽+게		CONJ
+nhẹ	쉬운	nhẹ	쉽+ㄴ		ADJ
+nhẹ	쉬워	nhẹ	쉽+어		ADJ
+nhẹ	아쉬운	nhẹ	아쉽+ㄴ		ADJ
+đáp	육지	đáp	육지	V	
+đáp	랜드	đáp	랜드	V	
+khô	건조	khô	건조	V	N
+khô	드라이	khô	드라이	V	
+xúc	모욕	xúc	모욕	V	
+xúc	모욕을	xúc	모욕+을	V	N
+xúc	모욕	xúc	모욕	V	
+rơi	폭포	rơi	폭포	V	N
+rơi	떨어짐	rơi	떨어지+ㄹ	V	
+rơi	falling	rơi	falling	V	
+kém	bad	kém	bad	ADJ	
+huyền	에픽	huyền	에픽	N	
+philippines	필리핀	philippines	필리핀	N	PROPN
+cúp	트로피	cúp	트로피	N	
+cúp	트로피	cúp	트로피	N	
+tổn	트라우마	tổn	트라우마	V	
+tổn	외상	tổn	외상	V	N
+mời	초대	mời	초대	V	
+mời	초대	mời	초대	V	
+mời	초대	mời	초대	V	
+mời	초청	mời	초청	V	N
+mời	초대	mời	초대	V	
+chinh	십자가	chinh	십자가		N
+hoà	네덜란드	hoà	네덜란드		PROPN
+hoà	네덜란드인	hoà	네덜란드인		V
+hoà	네덜란드령	hoà	네덜란드령		PROPN
+hoà	네덜란드어	hoà	네덜란드어		
+pennsylvania	펜실베이니아	pennsylvania	펜실베이니아		PROPN
+trinh	버진	trinh	버지+ㄴ	N	
+trinh	처녀	trinh	처녀	N	
+trinh	처녀	trinh	처녀	N	
+thiệt	진짜	thiệt	진짜	PART	N
+thiệt	리얼	thiệt	리얼	PART	
+thiệt	레알	thiệt	레알	PART	
+lang	코리더	lang	코리더	N	
+lào	라오스	lào	라오스	N	PROPN
+lào	라오스	lào	라오스	N	PROPN
+đuôi	뒷면	đuôi	뒷면	N	
+màn	커튼	màn	커튼	N	
+chữa	치료	chữa	치료	V	N
+chữa	경화	chữa	경화	V	N
+chợ	마켓	chợ	마켓	N	
+lỗi	벅스	lỗi	벅스	N	
+lỗi	버그	lỗi	버그	N	
+lỗi	잘못된	lỗi	잘못+되+ㄴ	N	V
+lỗi	벌레	lỗi	벌레	N	
+lỗi	버그	lỗi	버그	N	
+background	배경색	background	배경색		N
+background	배경	background	배경		N
+lôi	드래그	lôi	드래그	V	
+ngọt	달콤한	ngọt	달콤+하+ㄴ	ADJ	V
+ngọt	맥주	ngọt	맥주	ADJ	N
+ngọt	양조	ngọt	양조	ADJ	
+thăm	방문	thăm	방문	V	
+bảy	세븐	bảy	세븐	NUM	
+bảy	일곱	bảy	일곱	NUM	
+huân	주님	huân	주님	N	
+sóc	다람쥐과	sóc	다람쥐+과	V	CONJ
+sóc	다람쥐	sóc	다람쥐	V	N
+sóc	다람쥐과	sóc	다람쥐+과	V	CONJ
+sóc	다람쥐	sóc	다람쥐	V	N
+chặn	차단	chặn	차단	V	N
+chặn	블록	chặn	블록	V	
+chặn	블럭	chặn	블럭	V	
+chặn	차단	chặn	차단	V	N
+chặn	차단	chặn	차단	V	N
+chặn	블록	chặn	블록	V	
+chặn	블럭	chặn	블럭	V	
+thôi	취소	thôi	취소	PART	N
+ống	touch	ống	touch	N	
+ống	파이프	ống	파이프	N	
+ống	파이프라인	ống	파이프라인	N	
+phước	축복	phước	축복	N	
+phước	축복받은	phước	축복받+ㄴ	N	
+cừu	양양	cừu	양양	N	
+gió	바람	gió	바람	N	
+gió	바람	gió	바람	N	
+gió	바람	gió	바람	N	
+trống	드럼	trống	들+요	V	N
+trống	비어	trống	비+어	V	
+trống	드럼	trống	들+요	V	N
+trống	드럼은	trống	드럼+은	V	
+trống	비어	trống	비+어	V	
+indonesia	인도네시아어	indonesia	인도네시아어	N	
+indonesia	인도네시아	indonesia	인도네시아	N	PROPN
+indonesia	인도네시아	indonesia	인도네시아	N	PROPN
+nhánh	지점	nhánh	지점	N	
+nhánh	분기	nhánh	분기	N	
+tàn	잔해	tàn	잔+하+어	ADJ	N
+tàn	질식	tàn	질식	ADJ	
+đuổi	체이스	đuổi	체이스	V	PROPN
+bách	심각한	bách	심각+하+ㄴ	N	V
+bách	심각해	bách	심각+하+어	N	V
+bách	심각하다	bách	심각+하+다	N	V
+bách	심각하게	bách	심각+하+게	N	CONJ
+png	png	png	png	N	
+hút	연기	hút	연기	V	N
+hút	담배	hút	담배	V	N
+hút	빨려	hút	빨리+어	V	
+william	윌리엄	william	윌리엄		PROPN
+air	항공	air	항공		N
+air	공기	air	공기		N
+cam	오렌지	cam	오렌지	N	
+cam	오렌지색	cam	오렌지색	N	
+cam	오렌지	cam	오렌지	N	
+họp	모임	họp	모임	V	N
+họp	회의	họp	회의	V	
+họp	만남	họp	만남	V	N
+họp	미팅	họp	미팅	V	N
+usd	usd	usd	usd	N	
+usd	미화	usd	미화	N	
+may	바느질	may	바느끼+ㄹ	ADJ	
+may	럭키	may	럭키	ADJ	
+may	행운	may	행운	ADJ	
+chép	복사	chép	복사	V	N
+chép	카피	chép	카피	V	
+chép	복사본	chép	복사본	V	N
+chép	사본	chép	사본	V	N
+kia	kia	kia	kia	PROPN	
+kia	기아	kia	기아	PROPN	
+kia	거기	kia	거기	PROPN	
+kia	거기에	kia	거기+에	PROPN	ADV
+robert	로버트	robert	로버트		PROPN
+đinh	체인	đinh	체인	N	
+david	데이비드	david	데이비드		PROPN
+david	다비드	david	다비드		PROPN
+ohio	오하이오	ohio	오하+이+오	N	PROPN
+dặm	마일스	dặm	마일스	N	
+dặm	마일리지	dặm	마일리+지	N	
+dặm	마일	dặm	마일	N	
+dặm	마일리	dặm	마일리	N	
+dặm	마일즈	dặm	마일즈	N	
+dặm	마일	dặm	마일	N	
+đồn	명성	đồn	명성	N	
+hoang	와일드	hoang	와일드	ADJ	
+hoang	야생	hoang	야생	ADJ	N
+pop	pop	pop	pop	N	
+luân	샤크라	luân	샤크라	N	
+đâu	어디서	đâu	어디+서	PROPN	ADV
+đâu	어디	đâu	어디	PROPN	
+đâu	어디에	đâu	어디+에	PROPN	ADV
+đâu	어디로	đâu	어디+로	PROPN	ADV
+sắp	거의	sắp	거의		ADV
+cân	무게	cân	무게	V	
+cân	몸무게	cân	몸무+게	V	N
+cân	몸무게가	cân	몸무게+가	V	N
+cân	체중	cân	체중	V	N
+hiếu	대접	hiếu	대접		
+tận	터미널	tận	터미널	ADP	
+mong	바라며	mong	바라+며	V	
+mong	희망	mong	희망	V	N
+rối	말썽꾸러기	rối	말+말+으로+기	V	
+rối	꼭두각시	rối	꼭두각시	V	
+rượu	위스키	rượu	위스키	N	
+rượu	알코올	rượu	알코올	N	
+rượu	와인	rượu	와인	N	
+rượu	포도주	rượu	포도주	N	
+texas	텍사스	texas	텍사스	N	PROPN
+minnesota	미네소타	minnesota	미네소타	N	PROPN
+dakota	다코타	dakota	다코타	N	PROPN
+góc	구석	góc	구석	N	
+góc	모퉁이	góc	모퉁+이	N	
+góc	코너	góc	코너	N	
+góc	앵글	góc	앵글	N	
+góc	모서리	góc	모서리	N	
+james	제임스	james	제임스	N	
+nghỉ	방학	nghỉ	방학	V	N
+nghỉ	휴가	nghỉ	휴가	V	N
+nghỉ	쉬어	nghỉ	쉬+어	V	
+nghỉ	휴식	nghỉ	휴식	V	N
+thua	루저	thua	루저	V	
+thua	패자	thua	패자	V	N
+thua	분실	thua	분실	V	N
+thua	로스트	thua	로스트	V	
+thua	잃어버린	thua	잃+어+버리+ㄴ	V	V
+thua	lose	thua	lose	V	
+rock	바위	rock	바위	N	
+rock	rock	rock	rock	N	
+uống	음주	uống	음주	V	
+uống	마시기	uống	말+시+기	V	
+uống	음료	uống	음료	V	N
+uống	음료수	uống	음료수	V	N
+uống	음료	uống	음료	V	N
+uống	음료수	uống	음료수	V	N
+nhu	필요	nhu	필요	N	
+đoán	추측	đoán	추측	V	
+đoán	추측	đoán	추측	V	
+đoán	추측	đoán	추측	V	
+chị	언니	chị	언니	N	
+chị	언니	chị	언니	N	
+chị	누나	chị	누나+아	N	
+phe	측면	phe	측면	N	
+phe	사이드	phe	사이드	N	
+ukraina	우크라이나	ukraina	우크라이나	N	PROPN
+del	del	del	del		
+trà	홍차	trà	홍차	N	
+link	링크	link	링크	N	
+kiên	인내심	kiên	인내심	ADJ	
+kiên	인내	kiên	인내	ADJ	
+hạc	황새	hạc	황새	N	
+hạc	두루미	hạc	두루미	N	
+hạc	크레인	hạc	크레인	N	
+hạc	하프	hạc	하프	N	
+malaysia	말레이시아	malaysia	말레이시아	N	
+malaysia	말레이시아어	malaysia	말레이시아어	N	
+malaysia	말레이시아	malaysia	말레이시아	N	
+malaysia	말레이시아어	malaysia	말레이시아어	N	
+nóng	덥다	nóng	덥+다	ADJ	
+nóng	hot	nóng	hot	ADJ	
+nóng	뜨겁다	nóng	뜨겁+다	ADJ	
+pha	make	pha	make	N	
+phức	현미경	phức	현미경	V	N
+tròn	서클	tròn	서클	ADJ	
+tròn	circle	tròn	circle	ADJ	
+nhảy	점프	nhảy	점프	V	N
+nhảy	장애물	nhảy	장애물	V	N
+nhảy	점핑	nhảy	점핑	V	
+nhảy	점프	nhảy	점프	V	N
+lạnh	감기	lạnh	감기	ADJ	N
+lạnh	추위	lạnh	추위	ADJ	N
+washington	워싱턴	washington	워싱턴		PROPN
+tiêm	주사	tiêm	주사	V	
+tiêm	주입	tiêm	주입	V	N
+tiêm	분사	tiêm	분사	V	N
+tiêm	조건	tiêm	조건	V	N
+bottom	아래쪽	bottom	아래+쪽		N
+bottom	아래	bottom	아래		N
+thầy	마스터	thầy	마스터	N	
+thầy	선생님	thầy	선생님	N	
+đau	아파	đau	아프+아	ADJ	
+đau	통증	đau	통증	ADJ	N
+đau	통증이	đau	통증+이	ADJ	N
+đau	고통	đau	고통	ADJ	N
+lọc	필터링	lọc	필터링	V	N
+lọc	필터	lọc	필터	V	N
+lọc	필터링	lọc	필터링	V	N
+lọc	필터	lọc	필터	V	N
+vui	재미	vui	재미		N
+vui	행복	vui	행복		N
+vui	행복해	vui	행복+하+어		CONJ
+vui	행복한	vui	행복+하+ㄴ		V
+israel	이스라엘	israel	이스라엘		PROPN
+khổ	비참한	khổ	비참+하+ㄴ	ADJ	V
+khổ	고통	khổ	고통	ADJ	N
+khổ	열심히	khổ	열심히	ADJ	ADV
+khổ	하드	khổ	하드	ADJ	
+khổ	어려워	khổ	어렵+어	ADJ	
+khổ	misery	khổ	misery	ADJ	
+canh	육수	canh	육수	N	
+thuế	납세	thuế	납세	N	
+thuế	여보	thuế	여보	N	
+thuế	허니	thuế	허니	N	
+kansas	캔자스	kansas	캔자스	N	PROPN
+love	사랑	love	사랑		N
+rập	아라비아	rập	아라비아	N	PROPN
+des	des	des	des	N	
+trạm	터미널	trạm	터미널	N	
+trạm	역시	trạm	역시	N	ADV
+trạm	스테이션	trạm	스테이션	N	
+khổng	부어	khổng	붓+어	N	
+michael	미하엘	michael	미하엘		PROPN
+mộc	목수	mộc	목수	N	
+mộc	카펜터	mộc	카펜터	N	
+tám	여덟	tám	여덟	NUM	
+tám	eight	tám	eight	NUM	
+thảm	융단	thảm	융단	N	
+thảm	담요	thảm	담요	N	
+thảm	융단	thảm	융단	N	
+thảm	카펫	thảm	카펫	N	
+thảm	카펫	thảm	카펫	N	
+thảm	융단	thảm	융단	N	
+campuchia	캄보디아	campuchia	캄보디아	N	PROPN
+campuchia	캄보디아	campuchia	캄보디아	N	PROPN
+colombia	콜롬비아	colombia	콜롬비아	N	PROPN
+colombia	콜롬비아	colombia	콜롬비아	N	PROPN
+lưới	눈금	lưới	눈금	N	
+lưới	그리드	lưới	그리드	N	
+charles	샤를	charles	샤+를		PROPN
+charles	찰스	charles	찰스		PROPN
+chối	거부	chối	거부	V	N
+chối	부정	chối	부정	V	N
+than	석탄	than	석탄		N
+tuấn	jun	tuấn	jun	N	
+đốt	화상	đốt	화상	V	
+henry	헨리	henry	헨리		PROPN
+trứng	계란	trứng	계란	N	
+trứng	계란	trứng	계란	N	
+chuột	mice	chuột	mice	N	
+chuột	마우스	chuột	마우스	N	
+buôn	상인	buôn	상인	V	
+buôn	업체	buôn	업체	V	N
+buôn	판매자	buôn	판매자	V	N
+buôn	코카인	buôn	코카인	V	
+buôn	딜러	buôn	딜러	V	
+tùng	가게	tùng	가게	N	
+tùng	스토어	tùng	스토어	N	
+loire	루아르	loire	루아르	N	PROPN
+đua	레이스	đua	레이스	V	
+đua	경주	đua	경주	V	PROPN
+đua	인종	đua	인종	V	N
+đua	경쟁	đua	경쟁	V	N
+đua	경주	đua	경주	V	PROPN
+đua	레이싱	đua	레이싱	V	
+nhị	그들의	nhị	그+들+의	N	PRO
+cướp	강탈	cướp	강탈	V	N
+cướp	강도	cướp	강도	V	N
+tim	심장	tim	심장		N
+tim	마음	tim	마음		N
+tim	tim	tim	tim		
+điệu	댄스	điệu	댄스	N	
+man	남자	man	남자		N
+man	남성	man	남성		N
+man	사람	man	사람		N
+nghèo	불쌍한	nghèo	불쌍+하+ㄴ	ADJ	V
+nghèo	가난	nghèo	가난	ADJ	
+nghèo	빈곤	nghèo	빈곤	ADJ	N
+cột	칼럼	cột	칼+처	N	
+cột	기둥	cột	기둥	N	
+cột	칼럼	cột	칼+처	N	
+cột	기둥	cột	기둥	N	
+windows	윈도우	windows	윈도우	N	
+đồi	언덕	đồi	언덕	N	
+đồi	힐스	đồi	힐스	N	
+đồi	언덕	đồi	언덕	N	
+martin	마르틴	martin	마르틴		PROPN
+martin	마틴	martin	마틴		PROPN
+cãi	싸움	cãi	싸움	V	
+túc	성실	túc	성실	N	
+giàu	부자	giàu	부자	ADJ	
+lái	스티어링	lái	스티어링	V	N
+lái	핸들링	lái	핸들링	V	N
+nobel	노벨	nobel	노벨	N	
+www	www	www	www	N	
+chụp	캡쳐	chụp	요치+어	V	
+chụp	캡처	chụp	캡처	V	N
+chụp	take	chụp	take	V	
+chụp	그립	chụp	그립	V	N
+khỏe	체력	khỏe	체력	ADJ	N
+khỏe	헬스	khỏe	헬스	ADJ	
+khỏe	건강	khỏe	건강	ADJ	N
+khỏe	보건	khỏe	보건	ADJ	
+khỏe	미세먼지	khỏe	미세지+ㄴ지	ADJ	
+nâu	브라운	nâu	브라+ㄴ	N	
+đầm	숙녀	đầm	숙녀	N	
+đầm	레이디	đầm	레이디	N	
+đầm	아줌마	đầm	아줌마	N	
+đầm	석호	đầm	석호	N	
+lũng	골짜기	lũng	골짜기	N	
+lũng	밸리	lũng	밸리	N	
+lũng	계곡	lũng	계곡	N	
+ecuador	에콰도르	ecuador	에콰도르	N	PROPN
+ecuador	에콰도르	ecuador	에콰도르	N	PROPN
+thomas	토머스	thomas	토머스		PROPN
+cháy	화재	cháy	화재	V	N
+cháy	불화	cháy	불화	V	N
+cháy	번스	cháy	번스	V	
+cháy	화상	cháy	화상	V	
+cháy	화상	cháy	화상	V	
+cháy	불타는	cháy	불타+는	V	
+cán	드라이브	cán	드라이브	N	
+hộp	box	hộp	box	N	
+hộp	박스	hộp	박스	N	
+hộp	박스	hộp	박스	N	
+park	파크	park	파크	N	
+chìm	침몰	chìm	침몰	V	N
+đực	수컷	đực	수컷	N	
+mái	프린지	mái	프리+지	V	
+mái	옥상	mái	옥상	V	
+mái	지붕	mái	지붕	V	N
+bát	비스킷	bát	비스킷	N	
+bát	사발	bát	사발	N	
+bát	그릇	bát	그릇	N	
+bát	그릇	bát	그릇	N	
+chư	마리아	chư	마리아	N	
+thai	임신	thai	임신	V	N
+thai	임신	thai	임신	V	N
+ngừng	중지	ngừng	중지	V	N
+ngừng	중단	ngừng	중단	V	N
+ngừng	정지	ngừng	정지	V	N
+già	늙은	già	늙+ㄴ	ADJ	
+già	오래된	già	오래+되+ㄴ	ADJ	V
+alt	alt	alt	alt	N	
+missouri	미주리	missouri	미주리	N	PROPN
+argentina	아르헨티나	argentina	아르헨티나		PROPN
+argentina	아르헨티나인	argentina	아르헨티나인		V
+argentina	아르헨티나	argentina	아르헨티나		PROPN
+argentina	아르헨티나인	argentina	아르헨티나인		V
+dao	dao	dao	dao	N	
+dao	나이프	dao	나이프	N	
+dao	나이프	dao	나이프	N	
+chín	아홉	chín	아홉	ADJ	
+singapore	싱가포르	singapore	싱가포르	N	PROPN
+singapore	싱가포르가	singapore	싱가포르+가	N	PROPN
+singapore	싱가폴	singapore	싱가폴	N	PROPN
+singapore	싱가포르	singapore	싱가포르	N	PROPN
+đôn	런던	đôn	런던	N	PROPN
+hiếm	희귀한	hiếm	희귀+하+ㄴ	ADJ	V
+hiếm	귀한	hiếm	귀하+ㄴ	ADJ	
+hiếm	희귀	hiếm	희귀	ADJ	N
+hiếm	드문	hiếm	드물+ㄴ	ADJ	
+les	레즈비언	les	레즈비언		N
+australia	오스트레일리아	australia	오스트레일리아	N	PROPN
+australia	오스트레일리아의	australia	오스트레일리아+의	N	PROPN
+friedrich	프레더릭	friedrich	프레더릭		PROPN
+friedrich	프리드리히	friedrich	프리드리히		PROPN
+tuyết	스노우	tuyết	스노우	N	
+berlin	베를린	berlin	베를린	N	PROPN
+tokyo	도쿄	tokyo	도쿄		PROPN
+hang	동굴	hang	동굴		N
+hang	동굴	hang	동굴		N
+phỏng	인터뷰	phỏng	인터뷰	V	N
+phỏng	면접	phỏng	면접	V	N
+trúng	히트	trúng	히트	V	
+trúng	hit	trúng	hit	V	
+chạm	touch	chạm	touch	V	
+chạm	터치	chạm	터치	V	N
+thép	제철	thép	제철	N	
+louis	루이스	louis	루이스		PROPN
+louis	루이	louis	루이		PROPN
+lợn	돼지	lợn	돼지	N	
+lợn	돼지	lợn	돼지	N	
+răng	치아	răng	치+아	N	
+răng	이빨	răng	이빨	N	
+răng	이빨	răng	이빨	N	
+răng	치아	răng	치+아	N	
+lồng	새장	lồng	새장	V	N
+lồng	cage	lồng	cage	V	
+lồng	케이지	lồng	케+이+지	V	
+lồng	연습장	lồng	연습장	V	N
+war	전쟁	war	전쟁		N
+thả	방울	thả	방울	V	
+thả	drop	thả	drop	V	
+thả	드롭	thả	드롭	V	
+ngồi	앉은	ngồi	앉+ㄴ	V	
+ngồi	sat	ngồi	sat	V	
+kèm	포함	kèm	포함	V	
+giam	교도소	giam	교도소	V	N
+giam	감옥	giam	감옥	V	N
+bột	밀가루	bột	밀가루	N	
+bột	가루	bột	가루	N	
+bột	파우더	bột	파우더	N	
+chậm	느려	chậm	느리+어	ADJ	
+maria	마리아	maria	마리아	N	
+xong	완료	xong	완료	V	N
+xong	완료	xong	완료	V	N
+quen	알려진	quen	알리+어+지+ㄴ	V	V
+richard	리처드	richard	리처드		PROPN
+hawaii	하와이와	hawaii	하와이+와	N	CONJ
+hawaii	하와이	hawaii	하와이	N	PROPN
+hawaii	하와이	hawaii	하와이	N	PROPN
+khoáng	미네랄	khoáng	미네랄	N	
+duyên	매력적인	duyên	매력+적+이+ㄴ	ADJ	V
+duyên	매력	duyên	매력	ADJ	N
+quế	시나몬	quế	시나몬	N	
+ếch	개구리목	ếch	개구리목	N	
+ếch	개구리목	ếch	개구리목	N	
+lằn	도마뱀과	lằn	도마뱀+과	N	CONJ
+hồn	소울	hồn	소울	N	
+white	하얗게	white	하얗+게		ADJ
+nòng	배럴	nòng	배르+ㄹ	N	
+nòng	배럴	nòng	배르+ㄹ	N	
+wisconsin	위스콘신	wisconsin	위스콘신	N	PROPN
+thục	shu	thục	shu	N	
+tour	둘러보기	tour	둘러보+기	N	V
+mèo	고양이	mèo	고양+이	N	
+mèo	고양이	mèo	고양+이	N	
+thang	사다리	thang	사다리	N	
+thang	win	thang	win	N	
+thang	사다리	thang	사다리	N	
+thang	승리자	thang	승리자	N	
+thang	winner	thang	winner	N	
+hằng	상수	hằng	상수		N
+hằng	상수	hằng	상수		N
+xưởng	워크샵	xưởng	워크샵	N	
+xưởng	워크숍	xưởng	워크숍	N	
+tựa	제목	tựa	제목		N
+điệp	스파이	điệp	스파+이	N	
+sáp	왁스	sáp	왁스	V	
+sáp	떨어짐	sáp	떨어지+ㄹ	V	
+series	시리즈	series	시리즈	N	
+hal	hal	hal	hal		
+alexander	알렉산드르	alexander	알렉산드르	N	PROPN
+alexander	알렉산더르	alexander	알렉산더르	N	
+alexander	알렉산더	alexander	알렉산더	N	PROPN
+wales	웨일스	wales	웨일스	N	PROPN
+xích	체인	xích	체인	N	
+xích	체인	xích	체인	N	
+xích	링크	xích	링크	N	
+sữa	밀크	sữa	밀크	N	
+jackson	잭슨	jackson	잭슨	N	
+peter	베드로	peter	베드+로		ADV
+dừng	중지	dừng	중지	V	N
+dừng	중단	dừng	중단	V	N
+dừng	정지	dừng	정지	V	N
+arkansas	아칸소	arkansas	아칸소	N	PROPN
+cambridge	케임브리지	cambridge	케임브리지		PROPN
+brazil	브라질	brazil	브라질	N	
+brazil	브라질	brazil	브라질	N	
+don	don	don	don		
+bút	pen	bút	pen	N	
+duyệt	탐색	duyệt	탐색	V	N
+duyệt	찾아보기	duyệt	찾+아+보+기	V	V
+duyệt	브라우징	duyệt	브라우징	V	N
+duyệt	브라우저	duyệt	브라우저	V	PROPN
+vang	와인	vang	와인	N	
+vang	포도주	vang	포도주	N	
+xấu	bad	xấu	bad	ADJ	
+iran	이란	iran	이+란	N	
+kho	창고	kho	창고	N	
+kho	재고	kho	재고	N	
+peru	페루	peru	페루	N	PROPN
+huyết	피피	huyết	피피	N	
+huyết	블러드	huyết	블러드	N	
+chờ	기다림	chờ	기다리+ㄹ	V	
+chăn	담요	chăn	담요	N	
+chăn	커튼	chăn	커튼	N	
+chăn	카펫	chăn	카펫	N	
+chăn	융단	chăn	융단	N	
+bia	bia	bia	bia	N	
+guinea	기니	guinea	기+니	N	PROPN
+canvas	캔버스	canvas	캔버스	N	
+baker	베이커	baker	베이커		PROPN
+che	커버	che	커버	N	
+che	덮개	che	덮개	N	
+che	표지	che	표지	N	
+cuba	쿠바인	cuba	쿠바+이+ㄴ	N	
+cuba	쿠바	cuba	쿠바	N	PROPN
+cuba	쿠바	cuba	쿠바	N	PROPN
+rồng	드래곤스	rồng	드래곤스	N	
+rồng	드래곤	rồng	드래+곤	N	
+rồng	드래곤즈	rồng	드래곤즈	N	
+rồng	드래곤볼	rồng	드래+어+보+ㄹ	N	V
+rồng	드래곤	rồng	드래+곤	N	
+pakistan	파키스탄	pakistan	파키스탄	N	PROPN
+pakistan	파키스탄	pakistan	파키스탄	N	PROPN
+seoul	서울	seoul	서울		PROPN
+nuts	땅콩	nuts	땅콩		N
+sạch	순수	sạch	순수	V	N
+sạch	청소	sạch	청소	V	N
+sạch	깨끗한	sạch	깨끗하+ㄴ	V	ADJ
+manchester	맨체스터	manchester	맨체스터	N	PROPN
+trâu	버팔로	trâu	버팔+로	N	
+trâu	버펄로	trâu	버티+로	N	ADV
+cổng	게이츠	cổng	게이츠	N	
+cổng	대문	cổng	대문	N	
+cổng	게이트	cổng	게이트	N	
+cổng	포탈	cổng	포탈	N	
+cổng	포트	cổng	포트	N	
+cổng	게이트웨이	cổng	게이트웨+이	N	
+entertainment	엔터테인먼트	entertainment	엔터테인먼트	N	
+gấp	접어	gấp	접+어	V	
+gấp	fold	gấp	fold	V	
+gấp	접힘	gấp	접힘	V	
+gấp	브렛	gấp	브렛	V	PROPN
+bấy	트리거	bấy	트리거	PROPN	
+măng	아스파라거스	măng	아스파라거스	N	
+nét	무작위로	nét	무작위+로	N	ADV
+hứa	약속	hứa	약속	V	
+hứa	약속	hứa	약속	V	
+tags	태그	tags	태그	CONJ	N
+hassan	hassan	hassan	hassan	N	
+scotland	스코틀랜드	scotland	스코틀랜드		PROPN
+pos	pos	pos	pos	N	
+uss	uss	uss	uss	N	
+hẹp	좁아	hẹp	좁+아	ADJ	
+nấm	버섯	nấm	버섯	N	
+nấm	버섯	nấm	버섯	N	
+màng	플로	màng	플로	N	
+màng	플로우	màng	플로우	N	
+màng	흐름	màng	흐름	N	
+rio	리오	rio	리오	N	
+chuỗi	엄격한	chuỗi	엄격+하+ㄴ	N	V
+thuê	임대료	thuê	임대료	V	N
+thuê	월세	thuê	월세	V	
+thuê	임대	thuê	임대	V	N
+thuê	렌트	thuê	렌트	V	N
+thuê	렌트	thuê	렌트	V	N
+thuê	임대	thuê	임대	V	N
+thuê	임대	thuê	임대	V	N
+ngã	타락	ngã	타락	N	
+ngã	떨어지지	ngã	떨어지+지	N	V
+ngã	떨어지는	ngã	떨어지+는	N	V
+ngã	떨어짐	ngã	떨어지+ㄹ	N	
+nai	무스	nai	무스	NUM	
+vết	트레이스	vết	트레이스	N	
+vết	궤적	vết	궤적	N	
+mọc	자라	mọc	자+이+라	V	
+suối	스트리밍	suối	스트리밍	N	
+suối	흐름	suối	흐름	N	
+cưới	결혼	cưới	결혼	V	N
+cưới	결혼식	cưới	결혼식	V	N
+cưới	웨딩	cưới	웨딩	V	N
+mây	흐린	mây	흐리+ㄴ	N	
+mây	흐림	mây	흐리+ㅁ	N	V
+mây	클라우드	mây	클라우드	N	
+bayern	바이에른	bayern	바이가+라	N	PROPN
+mảnh	piece	mảnh	piece	N	
+ngại	부끄러워	ngại	부끄럽+어	V	
+ngại	부끄러움	ngại	부끄럽+ㅁ	V	
+ngại	부끄러운	ngại	부끄럽+ㄴ	V	
+muối	소금	muối	소금	N	
+fifa	fifa	fifa	fifa	N	
+day	하루	day	하루		N
+edward	에드워드	edward	에드워드		PROPN
+joseph	조셉	joseph	조셉	N	
+joseph	요제프	joseph	요제프	N	PROPN
+joseph	조제프	joseph	조제프	N	PROPN
+joseph	조지프	joseph	조지프	N	PROPN
+joseph	요셉	joseph	요셉	N	
+tia	티아라	tia	티아+이+라	N	
+tia	티아	tia	티아	N	
+xám	그레이	xám	그레이	N	
+xám	그레이	xám	그레이	N	
+size	사이즈	size	사이즈	N	
+size	크기	size	크기	N	
+bàng	이글	bàng	이글	N	
+nạp	로드	nạp	로드	V	
+nạp	로딩	nạp	로딩	V	N
+nạp	로딩	nạp	로딩	V	N
+nạp	충전	nạp	충전	V	N
+venezuela	베네수엘라	venezuela	베네수엘라		PROPN
+venezuela	베네수엘라	venezuela	베네수엘라		PROPN
+leo	리오	leo	리오	V	
+leo	사자자리	leo	사자자리	V	N
+leo	레오	leo	레오	V	
+thận	신장	thận	신장	V	N
+thận	콩팥	thận	콩팥	V	
+thận	신장	thận	신장	V	N
+moskva	모스크바	moskva	모스크바	N	PROPN
+tang	장례식장	tang	장례+식장		N
+tang	장례식	tang	장례식		N
+tang	장례	tang	장례		N
+giận	mad	giận	mad	V	
+hoại	타자	hoại	타+자	V	N
+tre	대나무	tre	대나무	N	
+cống	특수	cống	특수	N	
+cống	특별한	cống	특별+하+ㄴ	N	V
+cống	스페셜	cống	스페셜	N	
+cống	특별	cống	특별	N	
+google	구글	google	구글	N	
+dáng	스타일스	dáng	스타일스	N	
+dáng	스타일	dáng	스타일	N	
+ngập	권한	ngập	권+하+ㄴ	V	
+ngập	허가	ngập	허+가	V	N
+đợi	기다림	đợi	기다리+ㄹ	V	
+hot	뜨거운	hot	뜨겁+ㄴ		ADJ
+guitar	guitar	guitar	guitar	N	
+british	브리티시	british	브리티시	N	PROPN
+british	영국	british	영국	N	PROPN
+gián	바퀴벌레	gián	바퀴벌레	V	
+gián	인터럽트	gián	인터럽트	V	N
+gián	바퀴벌레	gián	바퀴벌레	V	
+león	레온	león	레온	NUM	
+oscar	오스카	oscar	오스카	N	
+oscar	오스카	oscar	오스카	N	
+centre	센터	centre	센터	N	
+khen	칭찬	khen	칭찬	V	
+khen	찬미	khen	찬미	V	
+khen	찬양	khen	찬양	V	N
+khen	칭찬	khen	칭찬	V	
+chile	칠레	chile	칠레	N	PROPN
+chile	칠레	chile	칠레	N	PROPN
+bội	배신자	bội	배신자	N	
+bội	반역자	bội	반역자	N	
+madrid	마드리드	madrid	마드리드	N	PROPN
+young	젊은	young	젊+ㄴ		ADJ
+vịt	오리	vịt	오리	N	
+khuyên	충고	khuyên	충+고	V	
+khuyên	조언	khuyên	조언	V	N
+khuyên	충고	khuyên	충+고	V	
+khuyên	조언	khuyên	조언	V	N
+khuyên	피어싱	khuyên	피어치+ㄴ	V	
+dơi	bat	dơi	bat	N	
+dơi	박쥐	dơi	박쥐	N	
+dơi	박쥐	dơi	박쥐	N	
+hầm	스튜	hầm	스튜	N	
+hầm	지하	hầm	지하	N	
+hầm	지하도	hầm	지하+도	N	
+max	최대	max	최대		N
+max	max	max	max		
+karl	카를	karl	카+를		PROPN
+ong	벌벌	ong	벌벌	N	
+ong	벌벌	ong	벌벌	N	
+kín	닫기	kín	닫+기	V	
+kín	닫습니다	kín	닫+습니다	V	
+oxford	옥스포드	oxford	옥스포드	N	
+oxford	옥스퍼드	oxford	옥스퍼드	N	
+grand	그랜드	grand	그랜드	N	
+nhấn	프레스	nhấn	프레스	V	
+nhấn	누르세요	nhấn	누르+세요	V	
+nhấn	누르면	nhấn	누르+면	V	
+nhấn	클릭	nhấn	클릭	V	N
+radio	라디오방송	radio	라디오방송		N
+lỏng	액체	lỏng	액체	V	N
+lỏng	리퀴드	lỏng	리퀴드	V	N
+show	보이기	show	보이+기		V
+show	공연	show	공연		N
+lắp	마운트	lắp	마운트	V	
+lật	뒤집기	lật	뒤집+기	V	
+brt	brt	brt	brt	N	
+super	슈퍼	super	슈퍼	N	
+mát	상실	mát	상실	ADJ	N
+mát	손실	mát	손실	ADJ	N
+xoay	회전	xoay	회전	V	N
+xoay	회전	xoay	회전	V	N
+xoay	회전	xoay	회전	V	N
+columbia	콜롬비아	columbia	콜롬비아	N	PROPN
+columbia	콜럼비아	columbia	콜럼비아	N	PROPN
+columbia	컬럼비아	columbia	컬럼비아	N	PROPN
+gạo	라이스	gạo	라이스	N	
+đèn	불빛	đèn	불빛	N	
+đèn	등불	đèn	등불	N	
+đèn	가볍게	đèn	가볍+게	N	CONJ
+đèn	가벼운	đèn	가볍+ㄴ	N	ADJ
+đèn	라이트	đèn	라이트	N	
+đèn	가벼움	đèn	가벼움	N	
+iraq	이라크	iraq	이라크	N	PROPN
+iraq	이라크	iraq	이라크	N	PROPN
+live	생방송	live	생방송		N
+live	alive	live	alive		
+trộn	병합	trộn	병합	V	N
+trộn	합치기	trộn	합치+기	V	
+trộn	통합	trộn	통합	V	N
+trộn	믹스	trộn	믹스	V	
+trộn	혼합	trộn	혼합	V	
+ngợi	주장	ngợi	주장	V	
+ngợi	발급	ngợi	발급	V	N
+ngợi	장미	ngợi	장미	V	
+ngợi	로즈	ngợi	로즈	V	
+indiana	인디애나	indiana	인디애+나	N	PROPN
+phẳng	평평한	phẳng	평평+하+ㄴ	N	V
+phẳng	플랫	phẳng	플랫	N	
+roma	로마	roma	로마	N	PROPN
+roma	로마	roma	로마	N	PROPN
+trân	진주	trân	진주	N	
+cốc	잔다	cốc	잔+ㄴ다	N	
+cốc	유리	cốc	유리	N	
+cốc	글래스	cốc	글래스	N	
+cốc	노크	cốc	노크	N	
+cốc	cup	cốc	cup	N	
+thiệp	고급	thiệp	고급	V	
+dải	스트라이프스	dải	스트라이프스	N	
+mượn	빌려	mượn	빌리+어	V	
+mượn	빌려서	mượn	빌리+어서	V	
+mượn	빌려	mượn	빌리+어	V	
+florida	플로리다	florida	플로리다	N	PROPN
+inch	인치	inch	인치	N	
+brown	갈색	brown	갈색		N
+mig	mig	mig	mig	N	
+não	두뇌	não	두뇌	N	
+não	브레인	não	브레인	N	
+angeles	앤젤레스	angeles	앤젤레스	N	PROPN
+tốn	비용	tốn	비용	ADJ	
+dời	움직여	dời	움직이+어	V	
+dời	움직임	dời	움직이+ㅁ	V	
+dời	이동	dời	이동	V	N
+canton	캔턴	canton	캔턴	N	
+dâm	명시	dâm	명시	N	
+costa	코스타	costa	코스타	N	
+đáy	바닥	đáy	바닥	N	
+đáy	밑바닥	đáy	밑+바닥	N	
+đáy	하단	đáy	하단	N	
+đáy	바닥	đáy	바닥	N	
+sàn	바닥	sàn	바닥	N	
+sàn	바닥	sàn	바닥	N	
+khải	계시	khải	계시	N	
+sườn	갈비	sườn	갈비	N	
+real	리얼	real	리얼	N	
+real	레알	real	레알	N	
+românia	루마니아	românia	루마니아	NUM	PROPN
+românia	루마니아인	românia	루마니아인	NUM	N
+românia	루마니아어	românia	루마니아어	NUM	PROPN
+buồn	슬픔	buồn	슬픔	V	N
+buồn	슬픔	buồn	슬픔	V	N
+buồn	슬픈	buồn	슬프+ㄴ	V	
+buồn	슬프다	buồn	슬프다	V	
+francisco	프란시스코	francisco	프란시스코		PROPN
+bồi	종업원	bồi	종업원	V	N
+bồi	웨이터	bồi	웨이터	V	
+bồi	젝스키스	bồi	젝스키스	V	
+ruột	시스터스	ruột	시스터스	N	
+ruột	자매	ruột	자매	N	
+ruột	내장	ruột	내장	N	
+ngủ	수면	ngủ	수면	V	N
+bulgaria	불가리아	bulgaria	불가리아	N	PROPN
+nút	버튼	nút	버튼	N	
+nút	단추	nút	단추	N	
+nút	버튼	nút	버튼	N	
+nút	단추	nút	단추	N	
+phùng	펑펑	phùng	펑펑	N	
+phượng	피닉스	phượng	피닉스	N	
+hảo	완벽	hảo	완벽	N	
+hảo	완벽한	hảo	완벽+하+ㄴ	N	V
+star	항성	star	항성		N
+algérie	알제리	algérie	알제리	N	PROPN
+algérie	알제리	algérie	알제리	N	PROPN
+thách	도전	thách	도전	V	N
+tha	그레이스	tha	그레이스	V	
+tha	은혜	tha	은혜	V	
+hms	오시	hms	오시	N	
+hms	hms	hms	hms	N	
+nấu	요리사	nấu	요리사	V	
+lincoln	링컨	lincoln	링컨	N	
+virus	바이러스성	virus	바이러스성		N
+virus	안티바이러스	virus	안티바이러스		PROPN
+mảng	어레이	mảng	어레이		N
+mảng	배열	mảng	배열		N
+frank	프랑크	frank	프랑크		PROPN
+đậm	굵게	đậm	굵+게	ADJ	
+đậm	굵은	đậm	굵+ㄴ	ADJ	
+đậm	대담	đậm	대담	ADJ	N
+volume	볼륨	volume	볼륨		N
+tươi	신선	tươi	신선	N	
+tươi	신선한	tươi	신선+하+ㄴ	N	V
+afghanistan	아프가니스탄	afghanistan	아프가니스탄		PROPN
+japan	재팬	japan	재팬	N	
+japan	일본	japan	일본	N	PROPN
+móng	발톱	móng	발톱	N	
+gạch	브릭	gạch	브릭	N	
+radar	레이더	radar	레이더	V	N
+say	가득	say	가득	V	ADV
+say	취해	say	취하+어	V	
+vietnam	베트남	vietnam	베트남	N	
+bùng	확산	bùng	확산	V	N
+italia	이탈리아	italia	이탈리아	N	PROPN
+syria	시리아	syria	시리아	N	PROPN
+syria	시리아	syria	시리아	N	PROPN
+madagascar	마다가스카	madagascar	마다가스카	N	
+madagascar	마다가스카르	madagascar	마다가스카르	N	PROPN
+hâm	열정	hâm	열정	V	N
+walter	월터	walter	월터	N	
+walter	발터	walter	발터	N	PROPN
+code	코드	code	코드	N	
+hỏng	깨짐	hỏng	깨+ㅁ	V	V
+hỏng	부러진	hỏng	부러지+ㄴ	V	
+hỏng	깨진	hỏng	깨+어+지+ㄴ	V	V
+hỏng	손상	hỏng	손상	V	N
+phấn	꽃가루	phấn	꽃가루	N	
+phấn	가루	phấn	가루	N	
+phấn	파우더	phấn	파우더	N	
+wilson	윌슨	wilson	윌슨	N	
+ghép	이식	ghép	이식	V	N
+mau	빨라	mau	빠르+아	ADJ	
+mau	빠름	mau	빠르+ㅁ	ADJ	
+java	자바	java	자바	N	
+two	두두	two	두두	NUM	
+two	두분	two	두분	NUM	
+royal	로열	royal	로열	N	
+royal	로얄	royal	로얄	N	
+bangalore	벵갈루루	bangalore	벵갈루루	N	PROPN
+sri	sri	sri	sri	N	
+bơi	수영	bơi	수영	V	N
+bơi	수영	bơi	수영	V	N
+lệch	편차	lệch	편차	ADJ	
+tảo	녹조류	tảo	녹조류	V	
+tảo	조류	tảo	조류	V	N
+táng	불태웠다	táng	불태우+었+다	N	
+táng	화상	táng	화상	N	
+giây	둘째	giây	둘째		NUM
+giây	두번째	giây	두번+째		N
+giây	sec	giây	sec		
+khmer	크메르어	khmer	크메르어	N	
+khmer	기자	khmer	기자	N	
+khmer	저널리스트	khmer	저널리스트	N	
+cong	커브	cong	커브		N
+cong	곡률	cong	곡률		N
+serbia	세르비아	serbia	세르비아	N	PROPN
+serbia	세르비아	serbia	세르비아	N	PROPN
+serbia	세르비아어	serbia	세르비아어	N	
+nhựa	플라스틱	nhựa	플라스틱	N	
+nhựa	성형외과	nhựa	성형외+과	N	CONJ
+nhựa	플라스틱	nhựa	플라스틱	N	
+nhựa	비닐	nhựa	비닐	N	
+premier	프리미어	premier	프리미어	N	
+premier	상금	premier	상금	N	
+china	중국인	china	중국인	N	
+china	중국	china	중국	N	PROPN
+china	차이나	china	차이+나	N	
+cậy	의자	cậy	의자		N
+walker	워커	walker	워크+ㄴ	N	
+williams	윌리엄스	williams	윌리엄스		PROPN
+milan	밀란	milan	밀란	N	
+milan	밀라노	milan	밀라노	N	PROPN
+ngộ	배운다	ngộ	배우+ㄴ다	V	
+ngộ	배워	ngộ	배우+어	V	
+hãm	멘트	hãm	멘트	V	N
+hãm	남성	hãm	남성	V	N
+hãm	남자	hãm	남자	V	N
+quét	스캔	quét	스희+ㄴ	V	
+quét	스캔	quét	스희+ㄴ	V	
+lạng	온스	lạng	온스	N	
+carolina	카롤리나	carolina	카롤리+나	N	
+carolina	캐롤라이나	carolina	캐롤라이나	N	
+moore	무어	moore	무어	N	
+nhịp	맥박	nhịp	맥박	V	N
+nhịp	펄스	nhịp	펄스	V	N
+victoria	빅토리아	victoria	빅토리아	N	
+cạn	힘내	cạn	힘내+어	V	
+cạn	얕은	cạn	얕+ㄴ	V	
+cạn	싱크로	cạn	싱크+로	V	
+val	val	val	val		
+diệu	기적	diệu	기적	ADJ	
+gdp	gdp	gdp	gdp	N	
+jones	존스	jones	존스	N	PROPN
+tràn	오버플로	tràn	오버화+로	V	ADV
+tràn	오버플로우	tràn	오버플로우	V	
+bích	저장하기	bích	저장+하+기	N	V
+bích	저장	bích	저장	N	
+bích	스페이드	bích	스페이드	N	
+bích	스페이드	bích	스페이드	N	
+gương	거울	gương	거울	N	
+gương	미러	gương	미+러	N	
+gương	거울	gương	거울	N	
+gương	미러	gương	미+러	N	
+congo	콩고	congo	콩고	N	PROPN
+dvd	dvd	dvd	dvd	V	
+dvd	dvd	dvd	dvd	V	
+armenia	아르메니아어	armenia	아르메니아어	N	
+armenia	아르메니아	armenia	아르메니아	N	PROPN
+armenia	아르메니아인	armenia	아르메니아인	N	PROPN
+armenia	아르메니아	armenia	아르메니아	N	PROPN
+armenia	아르메니아인	armenia	아르메니아인	N	PROPN
+gói	패키지	gói	패키+지	N	
+gói	소포	gói	소포	N	
+gói	패키지	gói	패키+지	N	
+tràng	say	tràng	say	N	
+đói	배고픈	đói	배고프+ㄴ	V	V
+đói	굶주림	đói	굶주리+ㄹ	V	
+đói	헝거	đói	헝거	V	
+đói	배고픔	đói	배고픔	V	
+tom	탐라	tom	탐라	N	
+panama	파나마	panama	파나마	N	PROPN
+panama	파나마	panama	파나마	N	PROPN
+mầm	콩나물	mầm	콩나물	N	
+media	미디어	media	미디어		N
+gọn	컴팩트	gọn	컴팩트	ADJ	
+gọn	콤팩트	gọn	콤팩트	ADJ	
+lanka	스리랑카	lanka	스리랑카	N	PROPN
+anderson	앤더슨	anderson	앤더슨	N	
+nhạt	가볍게	nhạt	가볍+게	ADJ	CONJ
+nhạt	라이트	nhạt	라이트	ADJ	
+nhạt	가벼움	nhạt	가벼움	ADJ	
+chua	사워	chua	사우+어	N	
+nhai	씹는	nhai	씹+는	V	
+mỏng	얇은	mỏng	얇+은	ADJ	
+táo	사과	táo	사과	ADJ	
+táo	애플	táo	애플	ADJ	
+táo	사과	táo	사과	ADJ	
+albert	알베르트	albert	알베르트		PROPN
+elizabeth	엘리자베스	elizabeth	엘리자베스		PROPN
+lặp	올가미	lặp	올가미	V	
+lặp	루프	lặp	루프	V	
+lặp	반복	lặp	반복	V	N
+liverpool	liverpool	liverpool	liverpool	N	
+liverpool	리버풀	liverpool	리버풀	N	PROPN
+quên	잊혀진	quên	잊히+어+지+ㄴ	V	V
+quên	잊어	quên	잊+어	V	
+quên	깜빡	quên	깜빡	V	
+johnson	존슨	johnson	존슨	N	
+euro	유로로	euro	유로+로		ADV
+tết	스테이크	tết	스테이크	N	
+gấu	베어스	gấu	베어스	N	
+gấu	베어	gấu	베+어	N	
+latin	가정교사	latin	가정교사		N
+latin	라틴어	latin	라틴어		PROPN
+ottoman	오스만	ottoman	오스만	N	PROPN
+queensland	퀸즐랜드	queensland	퀸즐랜드	N	PROPN
+grande	그란데	grande	그란데	N	
+julius	줄리어스	julius	줄리어스	N	
+opera	opera	opera	opera		
+html	html	html	html	N	
+múa	댄스	múa	댄스	N	
+túi	포켓	túi	포켓	N	
+túi	주머니	túi	주머니	N	
+túi	봉지	túi	봉지	N	
+túi	주머니	túi	주머니	N	
+chelsea	첼시	chelsea	첼시	N	
+chelsea	chelsea	chelsea	chelsea	N	
+sâm	인삼	sâm	인삼	N	
+làn	레인	làn	레인	N	
+làn	차로	làn	차로	N	
+bolivia	볼리비아	bolivia	볼리비아	N	PROPN
+chicago	시카고	chicago	시카고		PROPN
+tanzania	탄자니아	tanzania	탄자니아	N	PROPN
+cóc	두꺼비	cóc	두꺼비	V	
+cóc	납치	cóc	납치	V	N
+cóc	개구리목	cóc	개구리목	V	
+cóc	개구리	cóc	개구리	V	N
+piano	피아노	piano	피아노	N	
+khỉ	원숭이	khỉ	원숭이	N	
+khỉ	몽키	khỉ	몽키	N	
+khỉ	원숭이	khỉ	원숭이	N	
+khỉ	몽키스	khỉ	몽키스	N	
+heo	돼지	heo	돼지	N	
+heo	돼지	heo	돼지	N	
+lừa	당나귀	lừa	당나귀	V	
+lừa	바보	lừa	바보	V	
+lừa	당나귀	lừa	당나귀	V	
+lừa	뚜껑	lừa	뚜껑	V	N
+lừa	속임수	lừa	속임수	V	
+lừa	트릭	lừa	트릭	V	
+normandie	노르망디	normandie	노르망디	NUM	PROPN
+nhắm	aim	nhắm	aim	V	
+nhắm	조준	nhắm	조준	V	N
+vượng	번영	vượng	번영	N	
+part	부분	part	부분		N
+part	부품	part	부품		N
+latinh	라티나	latinh	라티나	N	
+bbc	bbc	bbc	bbc	N	
+nepal	네팔	nepal	네팔	V	
+nepal	네팔	nepal	네팔	V	
+nepal	네팔어	nepal	네팔+어	V	
+dốc	전이	dốc	전+이	N	
+christian	기독교	christian	기독교		N
+christian	크리스티안	christian	크리스티안		PROPN
+barcelona	바르셀로나	barcelona	바르셀로나	N	PROPN
+photo	사진	photo	사진		N
+khe	칼럼	khe	칼+처	N	
+khe	기둥	khe	기둥	N	
+cua	턴제	cua	턴제		N
+thô	raw	thô	raw	ADJ	
+thô	그로브	thô	그로브	ADJ	
+chém	잘라	chém	자르+아	V	
+chém	슬래시	chém	슬래시	V	N
+nghịch	장난꾸러기	nghịch	장난+끼대기	V	
+nghịch	장난	nghịch	장난	V	
+tuệ	퍼즐	tuệ	퍼+세	N	
+doãn	yun	doãn	yun	N	
+khoan	드릴	khoan	드리+ㄹ	V	
+khoan	훈련	khoan	훈련	V	N
+khoan	기다린다	khoan	기다리+ㄴ다	V	
+khoan	기다림	khoan	기다리+ㄹ	V	
+khoan	기다렸다	khoan	기다리+었+다	V	
+ngon	맛있는	ngon	맛있+는	ADJ	
+ngon	맛있는	ngon	맛있+는	ADJ	
+ngon	맛있다	ngon	맛있+다	ADJ	
+ngon	맛있는	ngon	맛있+는	ADJ	
+đứt	snap	đứt	snap	V	
+đứt	스냅	đứt	스냅	V	
+móc	소매치기	móc	소매치+기	N	V
+hẹn	약속	hẹn	약속	V	
+hẹn	예약	hẹn	예약	V	N
+hẹn	예약	hẹn	예약	V	N
+sói	soi	sói	soi	N	
+sói	볼프	sói	볼프	N	
+sói	울프	sói	울프	N	
+phiến	반란군	phiến	반란군	N	
+bốc	box	bốc	box	V	
+bốc	상자	bốc	상자	V	N
+bốc	박스	bốc	박스	V	
+bốc	복싱	bốc	복싱	V	N
+ching	칭칭	ching	칭칭	N	
+yến	스위프트	yến	스위프트	N	
+yến	swift	yến	swift	N	
+yến	연회장	yến	연회장	N	
+phun	스프레이	phun	스프레이	V	
+die	죽는다	die	죽+는다		V
+mốc	마일스톤	mốc	마일스톤	N	
+trượt	슬라이드	trượt	슬라이드	V	
+trượt	슬립	trượt	슬립	V	
+trượt	slip	trượt	slip	V	
+cười	스마일	cười	스마일	V	
+cười	미소	cười	미소	V	
+cười	웃음	cười	웃음	V	
+cười	웃음	cười	웃음	V	
+cười	웃어라	cười	웃+어라	V	
+cười	웃음	cười	웃음	V	
+cười	웃어	cười	웃+어	V	
+cười	미소	cười	미소	V	
+cười	스마일	cười	스마일	V	
+cười	웃어	cười	웃+어	V	
+cười	미소	cười	미소	V	
+cười	웃어	cười	웃+어	V	
+acacia	아카시아	acacia	아카시아	N	
+net	net	net	net	N	
+romania	루마니아	romania	루마니아	N	PROPN
+romania	루마니아어	romania	루마니아어	N	PROPN
+paulo	파울루	paulo	파울루	N	
+tím	보라색	tím	보라색	N	
+tím	자주색	tím	자주색	N	
+đâm	파업	đâm	파업	V	N
+đâm	스트라이크	đâm	스트라이크	V	
+đâm	아찔한	đâm	아찔하+ㄴ	V	ADJ
+rạp	극장	rạp	극장	V	N
+rạp	영화관	rạp	영화관	V	N
+hong	홍대	hong	홍대	N	
+phiêu	동안	phiêu	동안	V	
+midi	미디	midi	미디	N	
+midi	midi	midi	midi	N	
+alabama	앨라배마	alabama	앨라배마	N	PROPN
+nghiêng	틸트	nghiêng	틸트	ADJ	N
+nghiêng	기울기	nghiêng	기울+기	ADJ	V
+nghiêng	기울여	nghiêng	기울이+어	ADJ	V
+nghiêng	기울임꼴	nghiêng	기울임꼴	ADJ	
+nghiêng	이탤릭체	nghiêng	이탤릭체	ADJ	
+mẫn	힘든	mẫn	힘들+ㄴ		V
+mẫn	터프	mẫn	터프		
+scott	스콧	scott	스콧		PROPN
+art	예술	art	예술		N
+art	미술	art	미술		N
+tiễn	로켓	tiễn	로켓	V	N
+vay	융자	vay	융자	V	N
+vay	대출	vay	대출	V	N
+vay	대출	vay	대출	V	N
+vay	빌려	vay	빌리+어	V	
+vay	모기지	vay	모기+지	V	N
+who	who	who	who	NUM	
+kenya	케냐	kenya	케+로	N	
+rạch	절개	rạch	절개	N	
+napoléon	나폴레옹	napoléon	나폴레옹		PROPN
+champions	챔피언스	champions	後피언스	N	
+schmidt	슈미트	schmidt	슈미트	N	
+sen	늦은	sen	늦+ㄴ	N	
+sen	지각	sen	지각	N	
+sen	늦게	sen	늦+게	N	ADJ
+sen	센다	sen	세+ㄴ다	N	
+cơm	라이스	cơm	라이스	N	
+jordan	조던	jordan	조+이+던	N	
+jordan	조르당	jordan	조르당	N	
+châm	가볍게	châm	가볍+게	N	CONJ
+châm	가벼운	châm	가볍+ㄴ	N	ADJ
+châm	라이트	châm	라이트	N	
+châm	가벼움	châm	가벼움	N	
+xoá	지우기	xoá	지우+기		V
+xoá	삭제	xoá	삭제		N
+xoá	지우기	xoá	지우+기		V
+xoá	삭제하기	xoá	삭제+하+기		V
+douglas	더글러스	douglas	더글러스		PROPN
+remix	리믹스	remix	리믹스		N
+ngc	ngc	ngc	ngc	N	
+sốt	열이	sốt	열+이		N
+end	종료	end	종료		N
+end	끝내기	end	끝내+기		V
+moselle	모젤	moselle	모젤	N	PROPN
+marshall	마셜	marshall	마셜		PROPN
+tiệc	party	tiệc	party	N	
+youtube	youtube	youtube	youtube	N	
+bretagne	브르타뉴	bretagne	브르타뉴	NUM	PROPN
+bretagne	브리트니	bretagne	브리트니	NUM	PROPN
+free	free	free	free		
+free	무료	free	무료		
+free	자유	free	자유		
+mix	섞어	mix	섞+어		V
+rửa	세탁	rửa	세탁	V	N
+rửa	세척	rửa	세척	V	N
+feet	발발	feet	발발		N
+doraemon	도라에몽	doraemon	도라에몽	N	
+chổi	빗자루	chổi	빗자루	N	
+chổi	브러시	chổi	브러시	N	
+chèo	수년	chèo	수년	V	
+croatia	크로아티아	croatia	크로아티아	N	PROPN
+croatia	크로아티아인	croatia	크로아티아인	N	PROPN
+nộp	제출	nộp	제출	V	N
+boston	보스턴	boston	보스턴	N	PROPN
+mysore	마이소르	mysore	마이소르	NUM	PROPN
+sương	이슬	sương	이슬	N	
+sương	이슬이	sương	이슬+이	N	
+georgia	조지아	georgia	조지아		PROPN
+airways	항공	airways	항공		N
+khoang	캡슐	khoang	캡슐	V	
+khoang	객실	khoang	객실	V	N
+lorraine	로렌	lorraine	로렌	NUM	
+lorraine	로레인	lorraine	로레인	NUM	
+min	민아	min	민+아	N	
+min	민지	min	민지	N	
+min	민수	min	민수	N	
+rùa	거북이	rùa	거북+이+에게	N	
+lõi	핵심	lõi	핵심	N	
+lõi	코어	lõi	코어	N	
+lawrence	로런스	lawrence	로런스		PROPN
+lawrence	로렌스	lawrence	로렌스		PROPN
+dại	광견병	dại	광견병	V	N
+arsenal	아스널	arsenal	아스널	N	PROPN
+arsenal	아스날	arsenal	아스날	N	
+arsenal	arsenal	arsenal	arsenal	N	
+củi	우드	củi	우드	N	
+rào	담장	rào	담장	N	
+macedonia	마케도니아어	macedonia	마케도니아어	N	
+macedonia	마케도니아	macedonia	마케도니아	N	PROPN
+macedonia	마케도니아인	macedonia	마케도니아인	N	V
+macedonia	마케도니아	macedonia	마케도니아	N	PROPN
+macedonia	마케도니아	macedonia	마케도니아	N	PROPN
+macedonia	마케도니아인	macedonia	마케도니아인	N	V
+münchen	뮌헨	münchen	뮌헨	N	PROPN
+img	img	img	img	N	
+muộn	늦은	muộn	늦+ㄴ	ADJ	
+muộn	지각	muộn	지각	ADJ	
+girl	girl	girl	girl	N	
+spring	듣기	spring	듣+기		V
+cameroon	카메룬	cameroon	카메루+ㄴ	N	PROPN
+bit	비트	bit	비트	N	
+bit	비트	bit	비트	N	
+bit	깨물어	bit	깨물+어	N	
+papua	파푸아	papua	파푸아	N	PROPN
+dâu	딸기	dâu	딸기	N	
+dâu	딸기	dâu	딸기	N	
+dâu	열매	dâu	열매	N	
+dâu	산딸기	dâu	산딸기	N	
+dâu	치마	dâu	치마	N	
+dâu	스커트	dâu	스커트	N	
+main	메인	main	메인	N	
+nén	압축	nén	압축		N
+allen	앨런	allen	앨런		PROPN
+nhiễu	소음	nhiễu	소음	V	N
+nhiễu	잡음	nhiễu	잡음	V	
+nhạy	감도	nhạy	감+도	ADJ	
+rác	쓰레기통	rác	쓰레기통	N	
+hoãn	지연	hoãn	지연	V	N
+hoãn	지연이	hoãn	지연+이	V	N
+hoãn	지연	hoãn	지연	V	N
+thùng	배럴	thùng	배르+ㄹ	N	
+thùng	트레이	thùng	트레이	N	
+tấu	콰르텟	tấu	콰르텟	V	
+tấu	사중주	tấu	사중주	V	
+gốm	세라믹	gốm	세라믹	N	
+gốm	세라믹	gốm	세라믹	N	
+béo	뚱뚱한	béo	뚱뚱하+ㄴ	N	
+béo	살찐	béo	살찌+ㄴ	N	
+chase	체이스	chase	체이스		PROPN
+nảy	바운스	nảy	바운스	PROPN	
+ludwig	루트비히	ludwig	루트비히	N	PROPN
+ludwig	루드비히	ludwig	루드비히	N	PROPN
+nhược	약한	nhược	약하+ㄴ	N	
+nhược	약해	nhược	약하+어	N	
+franklin	프랭클린	franklin	프랭클린		PROPN
+ltd	ltd	ltd	ltd	N	
+nồi	냄비	nồi	냄비	N	
+champion	챔피언십	champion	後피+언감	V	
+champion	챔피언	champion	챔피언	V	N
+mtv	mtv	mtv	mtv		
+buồng	수컷	buồng	수컷	N	
+roi	채찍	roi	채찍		N
+yemen	예멘	yemen	예멘	N	PROPN
+yemen	남예멘	yemen	남예멘	N	
+ham	욕망	ham	욕망	N	
+mekong	메콩	mekong	메콩	N	PROPN
+vẹn	챔버스	vẹn	챔버스	ADJ	
+wikimedia	위키미디어	wikimedia	위키미디어	N	
+party	party	party	party		
+party	파티	party	파티		N
+stone	석기	stone	석기		N
+nhọn	샤프	nhọn	샤프	V	
+nhọn	예리	nhọn	예리	V	
+bus	버스	bus	버스	N	
+union	유니언	union	유니언	N	
+phổi	허파	phổi	허파	N	
+street	거리가	street	거리+가		N
+street	거리	street	거리		N
+puerto	푸에르토	puerto	푸에르토	N	PROPN
+ngai	상속인	ngai	상속+이+ㄴ	N	V
+ngai	상속자	ngai	상속자	N	
+bad	bad	bad	bad		
+bad	나쁜	bad	나쁘+ㄴ		ADJ
+bad	나쁘다	bad	나쁘+다		ADJ
+bad	목욕탕	bad	목욕탕		N
+bad	목욕	bad	목욕		N
+nhẫn	링링	nhẫn	링링	N	
+nhẫn	고리	nhẫn	고리	N	
+sét	썬더	sét	썬더	N	
+sét	천둥	sét	천둥	N	
+sét	선더	sét	선더	N	
+ghét	증오	ghét	증오	V	N
+ghét	혐오	ghét	혐오	V	N
+mississippi	미시시피	mississippi	미시시피	N	PROPN
+lụt	대홍수	lụt	대홍수	V	
+lụt	홍수	lụt	홍수	V	N
+lụt	홍수	lụt	홍수	V	N
+logo	로고	logo	로고	N	
+usa	미국	usa	미국		PROPN
+lewis	루이스	lewis	루이스		PROPN
+davis	데이비스	davis	데이비스	N	PROPN
+wild	야생	wild	야생		N
+sôi	끓는	sôi	끓+는	V	
+sôi	종기	sôi	종기	V	
+lùn	난쟁이	lùn	난쟁+이	ADJ	N
+lùn	왜소은하	lùn	왜소은하	ADJ	
+cồn	알코올	cồn	알코올	N	
+sút	폭포	sút	폭포	V	N
+sút	떨어짐	sút	떨어지+ㄹ	V	
+miến	미얀마	miến	미얀마	N	
+miến	버마	miến	버마	N	
+khâu	바느질	khâu	바느끼+ㄹ	N	
+khâu	스티치	khâu	스티치	N	
+tắm	샤워	tắm	샤우+어	V	
+tắm	욕실	tắm	욕실	V	N
+tắm	화장실	tắm	화장실	V	N
+tắm	목욕	tắm	목욕	V	N
+tắm	목욕탕	tắm	목욕탕	V	N
+tắm	바스	tắm	바스	V	
+tắm	목욕	tắm	목욕	V	N
+tắm	욕조	tắm	욕조	V	
+trôi	드리프트	trôi	드리프트	V	
+iso	iso	iso	iso	N	
+pdf	pdf	pdf	pdf	N	
+bass	베이스	bass	베이스	N	
+bass	배스	bass	배스	N	
+mập	뚱뚱한	mập	뚱뚱하+ㄴ	ADJ	
+mập	지방	mập	지방	ADJ	N
+mập	살찐	mập	살찌+ㄴ	ADJ	
+fan	팬들	fan	팬+들		N
+thở	호흡	thở	호흡	V	N
+thở	호흡	thở	호흡	V	N
+thở	호흡	thở	호흡	V	N
+đốm	스팟	đốm	스팟	N	
+đốm	반점	đốm	반점	N	
+jersey	저지	jersey	저지	N	
+samsung	삼성	samsung	삼성	N	
+vắng	결석	vắng	결석	ADJ	
+bill	윌리엄	bill	윌리엄		PROPN
+khan	간신히	khan	간신+히	V	ADV
+trù	버릇	trù	버릇	N	
+dừa	코코넛	dừa	코코넛	N	
+dừa	코코넛	dừa	코코넛	N	
+vôi	라임	vôi	라임	N	
+ethiopia	에티오피아	ethiopia	에티오피아	N	PROPN
+ethiopia	에티오피아	ethiopia	에티오피아	N	PROPN
+cành	나뭇가지	cành	나뭇가+지	N	CONJ
+cành	지점	cành	지점	N	
+cành	분기	cành	분기	N	
+sachsen	작센	sachsen	작세+ㄴ	N	PROPN
+khoá	자물쇠	khoá	자물쇠	N	
+khóc	외침	khóc	외침	V	
+khóc	울음	khóc	울음	V	
+khóc	울음	khóc	울음	V	
+battle	전투	battle	전투		N
+đeo	착용	đeo	착용	V	N
+sydney	시드니	sydney	시드니		PROPN
+villa	빌라	villa	빌+라	N	
+nắng	햇볕	nắng	햇볕	N	
+nắng	햇살이	nắng	햇살+이	N	
+nắng	햇살	nắng	햇살	N	
+nắng	선샤인	nắng	선샤인	N	
+nắng	써니	nắng	쓰+었+다	N	
+nắng	화창한	nắng	화창+하+ㄴ	N	V
+nắng	맑음	nắng	맑음	N	
+clb	클럽	clb	클럽	N	
+eng	eng	eng	eng		
+lãi	이자	lãi	이자	N	
+lãi	흥미	lãi	흥미	N	
+php	php	php	php	N	
+xén	잘라내기	xén	잘라내+기	V	V
+xén	농작물	xén	농작물	V	N
+watson	왓슨	watson	왓슨		PROPN
+adams	애덤스	adams	애덤스		PROPN
+adams	아담스	adams	아담스		PROPN
+nhung	경주	nhung	경주		PROPN
+nhung	인종	nhung	인종		N
+nhung	경쟁	nhung	경쟁		N
+harvard	하버드	harvard	하버드	N	
+diêm	일치하는	diêm	일치+하+는	N	V
+diêm	성냥	diêm	성냥	N	
+diêm	일치	diêm	일치	N	
+playstation	플레이스테이션	playstation	플레이스테이션	N	PROPN
+tamil	타밀어	tamil	타밀+어	N	PROPN
+dragon	드래곤볼	dragon	드래+어+보+ㄹ	N	V
+dragon	드래곤	dragon	드래+곤	N	
+alfred	알프레드	alfred	알프레드	N	PROPN
+alfred	앨프레드	alfred	앨프레드	N	
+alfred	앨프리드	alfred	앨프리드	N	PROPN
+gối	무릎	gối	무릎	N	
+gối	무릎	gối	무릎	N	
+gối	베개	gối	베개	N	
+gối	베개	gối	베개	N	
+miếng	piece	miếng	piece	N	
+bangladesh	방글라데시	bangladesh	방글+라조시	N	
+bangkok	방콕	bangkok	방콕	N	PROPN
+cắn	깨물어	cắn	깨물+어	V	
+cắn	물린	cắn	물리+ㄴ	V	
+cắn	비트	cắn	비트	V	
+nhường	항복	nhường	항복	V	N
+pin	전지현	pin	전지현	N	
+pin	건전지	pin	건전지	N	
+pin	pin	pin	pin	N	
+pin	고정	pin	고정	N	
+đèo	패스	đèo	패스	N	
+eric	에리크	eric	에리크		PROPN
+hollywood	헐리우드	hollywood	헐리우드	V	
+hollywood	할리우드	hollywood	할리우드	V	PROPN
+nato	nato	nato	nato	N	
+girls	소녀	girls	소녀		N
+girls	소녀들	girls	소녀+들		N
+girls	걸스	girls	걸스		N
+lường	포춘	lường	포춘	V	
+hoạ	엔지니어	hoạ	엔지니+어	N	
+carlos	카를로스	carlos	카를로스		PROPN
+inc	inc	inc	inc		
+nigeria	나이지리아	nigeria	나이지리아	N	PROPN
+chart	차트	chart	차트	ADJ	N
+provence	프로방스	provence	프로방스	N	PROPN
+alaska	알래스카	alaska	알래스카	N	PROPN
+khớp	일치하는	khớp	일치+하+는	N	V
+khớp	성냥	khớp	성냥	N	
+khớp	일치	khớp	일치	N	
+khớp	매칭	khớp	매칭	N	
+khớp	일치하는	khớp	일치+하+는	N	V
+khớp	일치	khớp	일치	N	
+khớp	일치하기	khớp	일치+하+기	N	V
+khớp	일치합니다	khớp	일치+하+ㅂ니다	N	V
+khớp	매치	khớp	매치	N	
+khớp	일치	khớp	일치	N	
+khớp	일치	khớp	일치	N	
+cắm	플러그	cắm	플러그	V	N
+cắm	플러그인	cắm	플러그+이+ㄴ	V	
+cắm	소켓	cắm	소켓	V	N
+fox	여우	fox	여우		N
+mác	표시	mác	표시	N	
+mác	마르크	mác	마르크	N	
+mác	마크	mác	마크	N	
+albania	알바니아	albania	알바니아	N	PROPN
+albania	알바니아인	albania	알바니아인	N	
+albania	알바니아어	albania	알바니아어	N	
+albania	알바니아	albania	알바니아	N	PROPN
+cape	케이프	cape	케이프	N	PROPN
+andrew	앤드류	andrew	앤드류		PROPN
+andrew	앤드루	andrew	앤드루		PROPN
+montana	몬태나	montana	몬태+나	N	PROPN
+khuất	그늘	khuất	그늘	N	
+norman	노먼	norman	노서+ㄴ		PROPN
+iceland	아이슬란드	iceland	아이슬란드	N	PROPN
+heart	심장	heart	심장		N
+heart	마음	heart	마음		N
+rỗng	비어	rỗng	비+어	V	
+palestine	팔레스타인	palestine	팔레스타인	N	PROPN
+palestine	팔레스타인인	palestine	팔레스타인인	N	V
+info	정보	info	정보		N
+đao	나이프	đao	나이프	N	
+nướng	구운	nướng	굽+ㄴ	N	
+nướng	그릴	nướng	그리+ㄹ	N	
+nướng	구워	nướng	구우+어	N	
+grant	그랜트	grant	그랜트		PROPN
+xoáy	트위스트	xoáy	트위스트	V	
+xoáy	소용돌이	xoáy	소용돌+이	V	
+roman	로만	roman	로만	N	
+roman	로마	roman	로마	N	PROPN
+azerbaijan	아제르바이잔	azerbaijan	아제르바스+이+란	N	PROPN
+francis	프랜시스	francis	프랜시스		PROPN
+madonna	마돈나	madonna	마돈+나	N	
+victor	빅토르	victor	빅토르		PROPN
+nhái	미사	nhái	미사	V	N
+nhái	매스	nhái	매스	V	
+nhái	대량	nhái	대량	V	
+nhái	질량	nhái	질량	V	N
+nhái	개구리목	nhái	개구리목	V	
+nhái	개구리	nhái	개구리	V	N
+ngu	멍청이	ngu	멍청이	V	
+ngu	바보	ngu	바보	V	
+clarke	클라크	clarke	클라크	N	
+gruzia	조지아어	gruzia	조지아어	N	
+gruzia	조지아	gruzia	조지아	N	PROPN
+guatemala	과테말라	guatemala	과테말라	N	PROPN
+bengal	벵골	bengal	벵골	N	PROPN
+off	끄기	off	끄기		V
+gãy	깨짐	gãy	깨+ㅁ	V	V
+gãy	부러진	gãy	부러지+ㄴ	V	
+gãy	깨진	gãy	깨+어+지+ㄴ	V	V
+gãy	골절	gãy	골절	V	N
+trộm	도둑놈	trộm	도둑놈	ADJ	
+trộm	도둑	trộm	도둑	ADJ	
+trộm	도난	trộm	돕+이+ㄴ	ADJ	
+trộm	절도	trộm	절도	ADJ	
+trộm	도둑	trộm	도둑	ADJ	
+arizona	애리조나	arizona	애리조+나	N	PROPN
+ngừa	백신	ngừa	백신	V	N
+torino	토리노	torino	토리노	NUM	PROPN
+angola	앙골라	angola	앙골+라	N	
+belarus	벨라루스	belarus	벨라루스	N	PROPN
+belarus	벨라루스어	belarus	벨라루스어	N	PROPN
+belarus	벨라루스	belarus	벨라루스	N	PROPN
+den	den	den	den		
+lụa	명주	lụa	명주	N	
+lụa	실크	lụa	실크로드	N	
+lụa	비단	lụa	비단	N	ADV
+frederick	프레더릭	frederick	프레더릭	N	PROPN
+frederick	프리드리히	frederick	프리드리히	N	PROPN
+band	밴드	band	밴드		N
+stephen	스테파노	stephen	스테파노		PROPN
+empire	제국	empire	제국		N
+frankfurt	프랑크푸르트	frankfurt	프랑크푸르트	N	PROPN
+xoắn	트위스트	xoắn	트위스트	N	
+nếp	주름	nếp	주름	N	
+libya	리비아	libya	리비아	N	PROPN
+solo	solo	solo	solo		
+kiềm	저항	kiềm	저항	V	N
+kiềm	알칼리	kiềm	알칼리	V	N
+review	검토	review	검토	ADJ	N
+review	검토하기	review	검토+하+기	ADJ	V
+review	검수	review	검수	ADJ	N
+review	리뷰	review	리뷰	ADJ	
+beatles	beatles	beatles	beatles		
+beatles	비틀즈	beatles	비틀즈		N
+caribe	캐리비안	caribe	캐리비안	N	
+caribe	카리브	caribe	카리브	N	PROPN
+gác	다락방	gác	다락방	N	
+gác	로프트	gác	로프트	N	
+nebraska	네브라스카	nebraska	네브라스카	N	PROPN
+nebraska	네브래스카	nebraska	네브래스카	N	PROPN
+nasa	nasa	nasa	nasa	N	
+ngắm	aim	ngắm	aim	V	
+ngắm	조준	ngắm	조준	V	N
+colorado	콜로라도	colorado	콜로라도	N	PROPN
+imperial	임페리얼	imperial	임페리얼	N	
+player	플레이어	player	플레이어	N	
+baden	바덴	baden	바덴	N	PROPN
+blog	블로그	blog	블로그	N	
+khoai	감자	khoai	감자	N	
+wolf	볼프	wolf	볼프	N	
+wolf	울프	wolf	울프	N	
+tẩy	숙녀	tẩy	숙녀	V	
+tẩy	레이디	tẩy	레이디	V	
+tẩy	아줌마	tẩy	아줌마	V	
+tẩy	지우개	tẩy	지우개	V	
+tẩy	블리치	tẩy	블리치	V	
+alan	앨런	alan	앨런		PROPN
+vladimir	블라디미르	vladimir	블라디미르		PROPN
+golden	황금	golden	황금	N	
+golden	골든	golden	골든	N	
+gregory	그레고리	gregory	그레고리		PROPN
+gregory	그레고리우스	gregory	그레고리우스		PROPN
+dai	다이족	dai	다이족	N	PROPN
+dai	다이	dai	다이	N	
+dai	dai	dai	dai	N	
+foundation	재단	foundation	재단	N	
+banks	은행	banks	은행		N
+jacques	자크	jacques	자크	N	PROPN
+otto	오토	otto	오토	N	
+sultan	술탄	sultan	술탄	N	PROPN
+bùn	mud	bùn	mud	N	
+bùn	머드	bùn	머드	N	
+huynh	오빠	huynh	오빠	N	
+huynh	아우	huynh	아우	N	
+sọc	비트	sọc	비트	N	
+bush	부시	bush	부시	N	
+điên	미쳐	điên	미치+어	V	CONJ
+điên	미친	điên	미치+ㄴ	V	
+solomon	솔로몬	solomon	솔로몬	N	
+baltic	발트	baltic	발트	N	PROPN
+boys	소년	boys	소년		N
+boys	소년들	boys	소년+들		N
+boys	boys	boys	boys		
+boys	보이즈	boys	보이즈		N
+boy	boy	boy	boy		
+boy	소년	boy	소년		N
+boy	남자아이	boy	남자아+이		N
+short	짧은	short	짧+ㄴ		ADJ
+rome	로마	rome	로마	N	PROPN
+sharp	샤프	sharp	샤프	N	
+sharp	예리	sharp	예리	N	
+jun	jun	jun	jun	N	
+kazakhstan	카자흐스탄	kazakhstan	카자흐스탄	N	PROPN
+port	포트	port	포트	N	
+mph	mph	mph	mph	N	
+luồng	스트림	luồng	스트림		N
+junior	주니어	junior	주+려어	N	
+brian	브라이언	brian	브라이언		PROPN
+neo	앵커	neo	앵커	N	
+neo	네오지오	neo	네오+어+지+오	N	
+neo	네오	neo	네오	N	
+heinrich	하인리히	heinrich	하인리히	N	PROPN
+slovenia	슬로베니아	slovenia	슬로베니아	NUM	PROPN
+slovenia	슬로베니아어	slovenia	슬로베니아어	NUM	
+santo	산토	santo	산토	N	
+cuộn	롤스	cuộn	롤스	N	
+cuộn	스크롤	cuộn	스크롤	N	
+franz	프란츠	franz	프란츠		PROPN
+okinawa	오키나와	okinawa	오키나와	N	PROPN
+myanmar	미얀마어	myanmar	미끄리+어	N	
+myanmar	미얀마	myanmar	미얀마	N	
+marx	마르크스	marx	마르크스	N	PROPN
+ten	어레이	ten	어레이		N
+ten	배열	ten	배열		N
+ten	톱니바퀴	ten	톱니+바퀴		N
+set	집합	set	집합		N
+set	설정	set	설정		N
+chuối	바나나	chuối	바나나	N	
+chuối	바나나	chuối	바나나	N	
+format	형식	format	형식	N	
+format	형식으로	format	형식+으로	N	ADV
+hamilton	해밀턴	hamilton	해밀턴	N	
+mac	mac	mac	mac	N	
+borneo	보르네오	borneo	보르네오	N	PROPN
+extra	연장	extra	연장		N
+christopher	크리스토퍼	christopher	크리스토퍼	V	PROPN
+census	인구조사	census	인구+조사		N
+miss	그리워	miss	그립+어	N	
+miss	미스	miss	미스	N	
+visual	비주얼	visual	비주얼	N	
+chì	리드	chì	리드	N	
+uruguay	우루과이	uruguay	우루과이	N	PROPN
+lặn	다이빙	lặn	다이빙	V	N
+lặn	잠수	lặn	잠수	V	N
+lặn	dive	lặn	dive	V	
+lặn	다이빙	lặn	다이빙	V	N
+lặn	잠수	lặn	잠수	V	N
+tiger	호랑이	tiger	호랑이	N	
+tiger	타이거	tiger	타이거	N	
+chích	주사	chích	주사	V	
+chích	자연	chích	자연	V	N
+chích	천연	chích	천연	V	N
+amazon	아마존	amazon	아마존	N	
+nhục	부끄러운	nhục	부끄럽+ㄴ	N	
+nhục	부끄러움	nhục	부끄럽+ㅁ	N	
+nhục	겸손	nhục	겸손	N	
+nhục	겸손한	nhục	겸손+하+ㄴ	N	V
+swift	swift	swift	swift		
+thiêu	브렌트	thiêu	브렌트	V	
+vòm	아치	vòm	아치	N	
+uganda	우간다	uganda	우간+이+다	N	PROPN
+han	한글	han	한글	N	
+han	한한	han	한하+ㄴ	N	
+xinh	예뻐	xinh	예+어	N	
+august	아우구스트	august	아우구스트		PROPN
+prince	프린스	prince	프린스	N	
+zimbabwe	짐바브웨	zimbabwe	짐바브웨	N	PROPN
+play	놀기	play	놀+기	V	ADJ
+play	재생	play	재생	V	N
+play	연주	play	연주	V	N
+play	플레이	play	플레이	V	
+chanh	레몬	chanh	레몬	N	
+chanh	레몬	chanh	레몬	N	
+chanh	라임	chanh	라임	N	
+facebook	facebook	facebook	facebook	N	
+facebook	페이스북	facebook	페이스북	N	
+slovakia	슬로바키아	slovakia	슬로바키아	N	PROPN
+houston	휴스턴	houston	휴스턴	N	PROPN
+ngõ	골목길	ngõ	골목길	N	
+ngõ	앨리	ngõ	앨리	N	
+sierra	시에라	sierra	시+이+라	N	
+calvados	칼바도스	calvados	칼바도스	N	
+khử	근절	khử	근절	V	N
+full	가득	full	가득		ADV
+bẫy	트랩	bẫy	트랩	V	
+bẫy	트랩	bẫy	트랩	V	
+bẫy	함정	bẫy	함정	V	N
+pan	냄비	pan	냄비	N	
+bank	뱅크	bank	뱅크	N	
+corse	코르시카	corse	코르시카	N	PROPN
+italy	이탈리아	italy	이탈리아	N	PROPN
+litva	리투아니아	litva	리투아니아	N	PROPN
+philadelphia	필라델피아	philadelphia	필라델피아	N	PROPN
+potter	포터	potter	포터		N
+khôn	스마트	khôn	스마트	ADJ	
+plan	계획	plan	계획		N
+đun	모듈	đun	모듈	V	N
+philip	펠리페	philip	펠리페		PROPN
+philip	필립	philip	필립		PROPN
+đếm	카운트	đếm	카운트	V	
+đếm	카운트	đếm	카운트	V	
+ann	ann	ann	ann	N	
+dark	어둡게	dark	어둡+게		ADJ
+dark	어두운	dark	어둡+ㄴ		ADJ
+dark	어둠	dark	어둠		N
+khoái	좋아한	khoái	좋아하+ㄴ	ADJ	
+ain	아인	ain	아인	NUM	
+gay	게이	gay	게이	N	
+gay	게이이	gay	게이+이	N	
+caesar	카이사르	caesar	카이사르	N	
+caesar	시저	caesar	시저	N	
+liban	레바논	liban	레바논	N	PROPN
+robot	로봇과	robot	로봇+과	N	CONJ
+jamaica	자메이카	jamaica	자메이카	N	PROPN
+alex	알렉스	alex	알렉스	N	
+alex	앨릭스	alex	앨릭스	N	
+pedro	페드로	pedro	페드+로	N	ADV
+das	das	das	das	N	
+dập	dap	dập	dap	V	
+dập	가지	dập	가지	V	
+cia	cia	cia	cia	N	
+get	받기	get	받+기		V
+praha	프라하	praha	프라하	N	PROPN
+nón	원뿔	nón	원뿔	N	
+munich	뮌헨	munich	뮌헨	N	PROPN
+galaxy	갤럭시	galaxy	갤럭시	N	
+linux	linux	linux	linux	N	
+trán	이마	trán	이마	N	
+trán	이마	trán	이마	N	
+ford	포드	ford	포드	N	
+ankara	앙카라	ankara	앙카라	N	PROPN
+moscow	모스크바	moscow	모스크바	N	PROPN
+ballad	발라드	ballad	발라드	N	
+osaka	오사카	osaka	오사카	N	PROPN
+view	조회	view	조회	V	
+bận	바쁜	bận	바쁘+ㄴ	V	
+bận	바쁘다	bận	바쁘+다	V	
+bận	바빠	bận	바부	V	
+templates	템플릿	templates	템플릿	V	N
+amsterdam	암스테르담	amsterdam	암스테르담		PROPN
+jazz	재즈	jazz	재즈	N	
+xii	xii	xii	xii	NUM	
+anthony	안토니우스	anthony	안토니우스		PROPN
+phím	키키	phím	키키	N	
+phím	열쇠	phím	열쇠	N	
+phím	느린	phím	느리+ㄴ	N	ADJ
+phím	느려	phím	느리+어	N	
+phím	느리게	phím	느리+게	N	ADJ
+phím	키키	phím	키키	N	
+santiago	산티아고	santiago	산티아+고		PROPN
+trơn	젖은	trơn	젖+ㄴ	N	V
+trơn	젖어	trơn	젖+어	N	V
+estonia	에스토니아어	estonia	에스토니아어	N	PROPN
+estonia	에스토니아	estonia	에스토니아	N	PROPN
+estonia	에스토니아	estonia	에스토니아	N	PROPN
+đắt	비싸다	đắt	비싸+다	ADJ	
+singles	singles	singles	singles	NUM	
+singles	싱글	singles	싱글	NUM	
+chán	지루한	chán	지루+하+ㄴ	ADJ	V
+tennessee	테네시	tennessee	테네시	N	PROPN
+creek	크리크	creek	크리크	N	
+down	다운	down	다우+ㄴ	N	
+down	아래로	down	아래+로	N	
+gán	할당	gán	할당	V	N
+phà	페리	phà	페리	N	
+commons	커먼즈	commons	커먼즈	N	
+lát	조각	lát	조각		N
+lát	순간	lát	순간		N
+vincent	빈센트	vincent	빈센트		PROPN
+dứa	파인애플	dứa	파인애플	N	
+dứa	파인애플	dứa	파인애플	N	
+malta	몰타	malta	몰타		PROPN
+tem	스탬프	tem	스탬프	N	
+tem	스탬프	tem	스탬프	N	
+jerusalem	예루살렘	jerusalem	예루살렘	N	PROPN
+saudi	사우디아	saudi	사우디아	N	
+edwards	에드워즈	edwards	에드워즈		PROPN
+kiev	키예프	kiev	키예프	N	PROPN
+festival	축제	festival	축제		N
+trưa	도시락	trưa	도시락	N	
+trưa	점심	trưa	점심	N	
+brunei	브루나이	brunei	브루나이	N	PROPN
+soc	soc	soc	soc	N	
+human	인간	human	인간		N
+human	인체	human	인체		N
+human	인간인	human	인간인		V
+sumatra	수마트라	sumatra	수마트+이+라	N	
+stuttgart	슈투트가르트	stuttgart	슈투트가르트	N	PROPN
+paraguay	파라과이	paraguay	파라과+이	N	PROPN
+aragon	아라곤	aragon	아라곤	NUM	PROPN
+lầu	윗층	lầu	윗층	N	
+lầu	위층	lầu	위층	N	
+nắp	top	nắp	top	N	
+sony	소니	sony	소니	N	
+andré	안드레	andré	안드레		PROPN
+andré	안드레	andré	안드레		PROPN
+istanbul	이스탄불	istanbul	이스탄불		PROPN
+lucas	루카스	lucas	루카스		PROPN
+lucas	루커스	lucas	루커스		PROPN
+lenin	레닌	lenin	레닌	N	PROPN
+ivan	이반	ivan	이반		PROPN
+nan	nan	nan	nan	N	
+mozambique	모잠비크	mozambique	모잠비크	N	PROPN
+chiên	볶음	chiên	볶음	N	
+kiêu	부어	kiêu	붓+어	ADJ	
+vảy	껍질	vảy	껍질	N	
+milano	밀란	milano	밀란	NUM	
+milano	밀라노	milano	밀라노	NUM	PROPN
+rìa	엣지	rìa	짙+지	ADJ	
+rìa	모서리	rìa	모서리	ADJ	
+rìa	edge	rìa	edge	ADJ	
+dẻo	융통성	dẻo	융통성	V	
+malawi	말라위	malawi	말라위	N	PROPN
+thề	맹세	thề	맹세	V	
+wayne	웨인	wayne	웨인	N	
+wayne	wayne	wayne	wayne	N	
+cuống	줄기	cuống	줄기		N
+bull	황소	bull	황소		
+korea	한국	korea	한국		PROPN
+clinton	클린턴	clinton	클린턴	N	PROPN
+ngưu	종아리	ngưu	종아리	N	
+ngưu	송아지	ngưu	송+아+지+지	N	
+ngưu	황소	ngưu	황소	N	
+rasmussen	라스무센	rasmussen	라스무센	V	
+admin	관리자	admin	관리자		N
+phiền	마음	phiền	마음	V	N
+chéo	대각선	chéo	대각선	V	
+phơi	사용	phơi	사용	V	N
+lyon	lyon	lyon	lyon	N	
+lyon	리옹	lyon	리옹	N	PROPN
+christ	그리스도	christ	그리스도	N	PROPN
+christ	크라이스트	christ	크라이스트	N	PROPN
+valencia	발렌시아	valencia	발렌시아	N	PROPN
+mart	마트	mart	마트	N	
+maroc	모로코	maroc	모로코	N	PROPN
+melbourne	멜버른	melbourne	멜버르+ㄴ		PROPN
+melbourne	멜번	melbourne	멜번		PROPN
+blake	블레이크	blake	블레이크	N	
+maine	메인	maine	메인	N	
+keo	아카시아	keo	아카시아	N	
+hiroshi	히로시	hiroshi	히로시	N	
+sái	cai	sái	cai	N	
+honduras	온두라스	honduras	온두라스	N	PROPN
+chay	간간	chay	간간	V	
+chay	간디	chay	간디	V	
+ferdinand	페르디난트	ferdinand	페르디난트		PROPN
+luxembourg	룩셈부르크	luxembourg	룩셈부르크	N	PROPN
+họng	목이	họng	목+이	N	
+wwe	wwe	wwe	wwe	N	PROPN
+nghiện	중독자	nghiện	중독자	V	N
+nghiện	중독	nghiện	중독	V	N
+nghiện	중독증	nghiện	중독증	V	
+nghiện	중독	nghiện	중독	V	N
+nghiện	훈제	nghiện	훈제	V	
+muỗi	모기	muỗi	모기	V	
+muỗi	모기	muỗi	모기	V	
+ryan	라이언	ryan	라이언		PROPN
+giun	벌레	giun	벌레	N	
+giun	보름	giun	보름	N	
+giun	지렁이	giun	지렁이	N	
+giun	보름스	giun	보름스	N	PROPN
+kavkaz	캅카스	kavkaz	캅카스	N	PROPN
+nóc	배럴	nóc	배르+ㄹ	N	
+aleksandr	알렉산드르	aleksandr	알렉산드르	N	PROPN
+aleksandr	알렉산더르	aleksandr	알렉산더르	N	
+aleksandr	알렉산더	aleksandr	알렉산더	N	PROPN
+android	android	android	android	N	
+android	안드로이드	android	안드로이드	N	
+nicaragua	니카라과	nicaragua	니카라과	N	PROPN
+nicaragua	니카라과의	nicaragua	니카라과+의	N	PROPN
+ccd	ccd	ccd	ccd	N	
+drama	드라마	drama	드라마	N	
+lượn	서클	lượn	서클	N	
+lượn	circle	lượn	circle	N	
+huỷ	거부	huỷ	거부	V	N
+summer	여름	summer	여름		N
+gộp	일괄	gộp	일괄	V	N
+gộp	대량	gộp	대량	V	
+gộp	벌크	gộp	벌크	V	
+gộp	덴트	gộp	덴트	V	
+diều	연이	diều	연+이	N	
+diều	드래곤볼	diều	드래+어+보+ㄹ	N	V
+diều	드래곤	diều	드래+곤	N	
+chuồng	cage	chuồng	cage	N	
+chuồng	케이지	chuồng	케+이+지	N	
+hamburg	함부르크	hamburg	함부르크	N	PROPN
+sáo	휘파람	sáo	휘파람	N	
+sáo	플룻	sáo	플룻	N	
+rèn	대장장이	rèn	대장장이	V	
+leader	지도자	leader	지도자		N
+ardennes	아르덴	ardennes	아르덴	N	
+sicilia	시칠리아	sicilia	시칠리아	N	
+bern	베른	bern	베르+ㄴ	N	
+ghana	가나	ghana	가+나	N	
+chồn	선택하기	chồn	선택+하+기	N	V
+chồn	족제비	chồn	족제비	N	
+chồn	족제비과	chồn	족제비+과	N	CONJ
+flower	플라워	flower	플라우+어	N	
+description	헬리오스	description	헬리오스	N	
+beach	바닷가	beach	바닷가	N	
+beach	비치	beach	비치	N	
+khiếp	bad	khiếp	bad	V	
+khiếp	나쁜	khiếp	나쁘+ㄴ	V	ADJ
+khiếp	나쁘다	khiếp	나쁘+다	V	ADJ
+claude	클로드	claude	클로드	N	PROPN
+toronto	토론토	toronto	토론토	N	PROPN
+norfolk	노퍽	norfolk	노퍽	N	
+soul	소울	soul	소울	N	
+bernard	베르나르	bernard	베르나르		PROPN
+giếng	웰스	giếng	웰스	N	
+nọc	재단	nọc	재단	N	
+gov	정부	gov	정부		N
+index	색인	index	색인	N	
+index	인덱스	index	인덱스	N	
+ralph	랠프	ralph	랠프		PROPN
+mép	모서리	mép	모서리	N	
+mép	가장자리	mép	가장자리	N	
+mép	엣지	mép	짙+지	N	
+mép	모서리	mép	모서리	N	
+mép	edge	mép	edge	N	
+head	머리	head	머리		N
+rang	계급	rang	계급		N
+rang	순위	rang	순위		N
+alpha	알파	alpha	알파	N	
+trễ	늦은	trễ	늦+ㄴ	ADJ	
+trễ	지각	trễ	지각	ADJ	
+trễ	지연	trễ	지연	ADJ	N
+patrick	파트리크	patrick	파트리크		PROPN
+laser	레이저	laser	레이저	N	
+laser	레이저	laser	레이저	N	
+final	파이널	final	파이널	N	
+uốn	위조	uốn	위조	V	N
+manila	마닐라	manila	마+겠+라	N	PROPN
+latvia	라트비아	latvia	라트비아	N	PROPN
+dream	드림	dream	드리+ㅁ	N	
+adolf	아돌프	adolf	아돌프	N	PROPN
+marine	해병대	marine	해병대		N
+einstein	아인슈타인	einstein	아인슈타인	V	
+bơm	펌프	bơm	펌프	V	N
+bơm	펌프	bơm	펌프	V	N
+bơm	펌핑	bơm	펌핑	V	
+giuse	조셉	giuse	조셉	N	
+giuse	요제프	giuse	요제프	N	PROPN
+giuse	조제프	giuse	조제프	N	PROPN
+giuse	조지프	giuse	조지프	N	PROPN
+giuse	요셉	giuse	요셉	N	
+jason	제이슨	jason	제이슨	N	PROPN
+mar	mar	mar	mar		
+raymond	레이먼드	raymond	레이먼드		PROPN
+len	양모	len	양모		N
+đuối	익사	đuối	익사	V	N
+đuối	익사	đuối	익사	V	N
+maryland	메릴랜드	maryland	메릴랜드		PROPN
+bôi	포인팅	bôi	포인팅	V	
+case	케이스	case	케이스		N
+case	사례	case	사례		N
+alexandros	알렉산드르	alexandros	알렉산드르	N	PROPN
+alexandros	알렉산더르	alexandros	알렉산더르	N	
+alexandros	알렉산더	alexandros	알렉산더	N	PROPN
+oklahoma	오클라호마	oklahoma	오클라호마	N	PROPN
+khoác	코트	khoác	코트	N	
+virgin	버진	virgin	버지+ㄴ	N	
+virgin	처녀	virgin	처녀	N	
+mobile	모바일	mobile	모바+이+ㄹ	N	
+ontario	온타리오	ontario	온타리오	N	PROPN
+nhôm	올리기	nhôm	올리+기	N	V
+rước	행진	rước	행진	V	N
+rước	행렬	rước	행렬	V	N
+roosevelt	루스벨트	roosevelt	루스벨트		PROPN
+roosevelt	루즈벨트	roosevelt	루즈벨트		PROPN
+cay	매운	cay	맵+ㄴ	N	
+rung	진동	rung	진동	V	N
+rung	진동	rung	진동	V	N
+rung	shake	rung	shake	V	
+rung	흔들흔들	rung	흔들흔+들	V	
+rung	흔들어	rung	흔들+어	V	
+samuel	새뮤얼	samuel	새뮤얼		PROPN
+abc	abc	abc	abc	N	
+abc	가나다순	abc	가나+고+조+ㄴ	N	
+abc	가나다순으로	abc	가나다듬+으로	N	ADV
+côi	고아	côi	고아	N	PROPN
+côi	고아	côi	고아	N	PROPN
+brandenburg	브란덴부르크	brandenburg	브란덴부르크	N	PROPN
+box	box	box	box	N	
+box	박스	box	박스	N	
+đùa	농담	đùa	농담	V	N
+đùa	농담	đùa	농담	V	N
+đùa	농담	đùa	농담	V	N
+đùa	농담	đùa	농담	V	N
+chày	베이스볼	chày	베이스볼	N	
+pyotr	표트르	pyotr	표트르	N	PROPN
+adn	dna	adn	dna	N	
+lót	springboard	lót	springboard	V	
+lót	스프링보드	lót	스프링보드	V	
+lót	속옷	lót	속옷	V	N
+niger	니제르	niger	니제르	N	PROPN
+guyana	가이아나	guyana	가이아나	N	PROPN
+ted	테드	ted	테드	N	
+ted	ted	ted	ted	N	
+andy	앤디	andy	앤디	N	
+sky	하늘	sky	하늘		N
+sky	구름	sky	구름		N
+maurice	모리스	maurice	모리스	N	PROPN
+namibia	나미비아	namibia	나미비아	N	PROPN
+trinidad	트리니다드	trinidad	트리니다드	N	PROPN
+cấy	공장	cấy	공장	V	
+cấy	식물	cấy	식물	V	N
+cấy	식물학	cấy	식물학	V	N
+somalia	소말리아	somalia	소말리아	N	PROPN
+steven	스티븐스	steven	스티븐스		PROPN
+nat	nat	nat	nat	N	
+vatican	바티칸	vatican	바티칸	N	PROPN
+mass	미사	mass	미사		N
+mass	질량	mass	질량		N
+march	행진	march	행진		N
+nhuộm	염색	nhuộm	염색	V	N
+nhuộm	색상	nhuộm	색상	V	
+nhuộm	컬러	nhuộm	컬러	V	
+nhuộm	염색	nhuộm	염색	V	N
+muôn	소망	muôn	소망	N	
+muôn	소원	muôn	소원	N	
+her	그녀	her	그녀	NUM	
+her	그녀의	her	그녀+의	NUM	PRO
+hông	엉덩이	hông	엉덩이	N	
+hông	허리	hông	허리	N	
+hông	엉덩이	hông	엉덩이	N	
+monte	몬테	monte	몬테	N	
+porto	포르토	porto	포르토	N	
+porto	포르투	porto	포르투	N	PROPN
+napoli	나폴리	napoli	나폴리	N	PROPN
+napoli	나폴리	napoli	나폴리	N	PROPN
+lau	건조	lau	건조	V	N
+lau	드라이	lau	드라이	V	
+lau	가뭄	lau	가물	V	N
+zambia	잠비아	zambia	잠비아	N	PROPN
+watanabe	와타나베	watanabe	와타나베	N	
+quạ	crow	quạ	crow	N	
+quạ	까마귀	quạ	까마귀	N	
+quạ	까마귀	quạ	까마귀	N	
+quạ	레이븐	quạ	레이븐	N	
+quạ	까마귀	quạ	까마귀	N	
+bismarck	비스마르크	bismarck	비스마르크	N	
+arn	rna	arn	rna	N	
+zero	제로	zero	제로	N	
+jimmy	지미	jimmy	지미	N	
+alba	알바	alba	알바	N	
+ngao	소스	ngao	소스	V	
+gởi	송금	gởi	송금	V	N
+gởi	보냅니다	gởi	보내+ㅂ니다	V	
+gởi	전송	gởi	전송	V	N
+url	url	url	url	N	
+url	url	url	url	N	
+bhutan	부탄	bhutan	부탄	N	
+mitchell	미첼	mitchell	미첼		PROPN
+louisiana	루이지애나	louisiana	루이지애나		PROPN
+control	ctrl	control	ctrl	N	
+marcus	마커스	marcus	마커스	N	PROPN
+marcus	마르쿠스	marcus	마르쿠스	N	PROPN
+benjamin	벤저민	benjamin	벤저민	N	PROPN
+benjamin	벤자민	benjamin	벤자민	N	PROPN
+gallery	화랑	gallery	화랑	N	
+gallery	갤러리	gallery	갤러리	N	
+stewart	스튜어트	stewart	스튜어트		PROPN
+copenhagen	코펜하겐	copenhagen	코펜+하+게	N	PROPN
+tvb	tvb	tvb	t+곤+의	N	
+mueang	므앙	mueang	므앙	N	
+sắm	쇼핑	sắm	쇼핑	V	N
+dna	dna	dna	dna	N	
+kèn	트롬본	kèn	트롬빈	N	
+kèn	트럼펫	kèn	트럼펫	N	
+kèn	나팔	kèn	나팔	N	
+alexandria	알렉산드리아	alexandria	알렉산드리아	N	PROPN
+spider	스파이더	spider	스파이더	N	
+đũa	젓가락	đũa	젓가락	N	
+uzbekistan	우즈베키스탄	uzbekistan	우즈베키스탄	N	PROPN
+fair	페어	fair	페+어	N	
+jay	제이	jay	제이	N	
+ngoan	귀여워	ngoan	귀엽+어	ADJ	
+muhammad	무하마드	muhammad	무하마드	N	PROPN
+muhammad	무함마드	muhammad	무함마드	N	PROPN
+stanley	스탠리	stanley	스탠리		PROPN
+dsc	dsc	dsc	dsc	N	
+metro	메트로	metro	메트+로	N	
+stockholm	스톡홀름	stockholm	스톡홀름	N	PROPN
+hop	힙합	hop	힙합		N
+delhi	델리	delhi	델리	N	
+dave	데이브	dave	데이브		PROPN
+insects	곤충	insects	곤충	ADJ	N
+venezia	베네치아	venezia	베네치아	N	PROPN
+venezia	베니스	venezia	베니스	N	PROPN
+timor	티모르	timor	티모르	N	
+nứt	땅콩	nứt	땅콩	V	N
+tunisia	튀니지	tunisia	튀니지	N	PROPN
+fiji	피지	fiji	피+지	N	
+gươm	도검	gươm	도검	N	
+gươm	도검	gươm	도검	N	
+nhào	폭풍	nhào	폭풍	V	N
+hermann	헤르만	hermann	헤르만	N	PROPN
+mit	mit	mit	mit	N	
+sảnh	똑바로	sảnh	똑바로	N	
+sảnh	스트레이트	sảnh	스트레이트	N	
+sảnh	로비	sảnh	로비	N	
+afc	afc	afc	afc	N	
+miami	마이애미	miami	마이애미	N	
+email	이메일로	email	이메일+로	N	
+email	이메일	email	이메일	N	
+email	이메일	email	이메일	N	
+napoleon	나폴레옹	napoleon	나폴레옹		PROPN
+beta	베타	beta	베타	N	
+lăn	눈물	lăn	눈물	N	
+newcastle	뉴캐슬	newcastle	뉴캐슬	N	PROPN
+xiii	xiii	xiii	xiii		NUM
+kyoto	교토	kyoto	교토	N	
+thoả	침묵	thoả	침묵	V	N
+tag	태그	tag	태그		N
+germain	제르맹	germain	제르맹	V	PROPN
+germain	생제르맹	germain	생제르맹	V	PROPN
+season	계절	season	계절		N
+jong	종종	jong	종종	N	ADV
+dos	dos	dos	dos	N	
+shah	샤샤	shah	샤샤	N	
+shah	샤이니	shah	샤+이+니	N	
+apollo	아폴로	apollo	아틸+로		ADV
+carey	캐리	carey	캐리	N	
+camera	카메라	camera	카메라	N	
+abu	abu	abu	abu	N	
+amin	아민	amin	아민	N	
+faso	파소	faso	파소	N	PROPN
+múi	zone	múi	zone	N	
+ficus	무화과	ficus	무화+과	N	CONJ
+casablanca	카사블랑카	casablanca	카사블랑카		PROPN
+legend	전설	legend	전설	V	N
+legend	레전드	legend	레전드	V	
+doi	doi	doi	doi	N	
+foot	발발	foot	발발		N
+santos	산토스	santos	산토스	N	PROPN
+winter	겨울	winter	겨울		N
+chớp	번쩍	chớp	번쩍	V	
+gậy	가운	gậy	가우+ㄴ	N	
+gậy	스틱스	gậy	스틱스	N	
+gậy	스틱	gậy	스틱	N	
+berkeley	버클리	berkeley	버클리	N	
+weber	웨버	weber	웨버		PROPN
+princeton	프린스턴	princeton	프린스턴		PROPN
+busan	부산	busan	부산	N	
+robinson	로빈슨	robinson	로빈슨	N	
+kentucky	켄터키	kentucky	켄터키		PROPN
+mine	광산	mine	광산		N
+bấm	프레스	bấm	프레스	V	
+bấm	클릭	bấm	클릭	V	N
+gif	gif	gif	gif	N	
+gif	gif	gif	gif	N	
+cameron	캐머런	cameron	캐머렇+ㄴ		PROPN
+kbs	kbs	kbs	kbs	N	
+form	형태	form	형태		N
+form	모양	form	모양		N
+sin	sin	sin	sin	N	
+concert	연주회	concert	연주회		N
+concert	콘서트	concert	콘서트		N
+xvi	xvi	xvi	xvi		
+luther	루터	luther	루터	N	PROPN
+síp	키프로스	síp	키프로스	N	PROPN
+síp	키프로스	síp	키프로스	N	PROPN
+related	관련	related	관련	V	N
+lgbt	lgbt	lgbt	lgbt		
+css	css	css	css	N	
+becker	becker	becker	becker		
+lay	lay	lay	lay	N	
+buồm	항해	buồm	항하+어	N	
+buồm	항해	buồm	항하+어	N	
+graham	그레이엄	graham	그레이엄		PROPN
+vuốt	클리프	vuốt	클리프	V	
+vuốt	절벽	vuốt	절벽	V	
+ram	ram	ram	ram	N	
+dreadnought	드레드노트	dreadnought	드레드노트	N	PROPN
+parthia	파르티아	parthia	파르티아	N	PROPN
+camp	캠프	camp	캠프	N	
+britain	브리튼	britain	브리튼	N	PROPN
+mùng	넷째	mùng	넷째	N	NUM
+giovanni	조반니	giovanni	조반니		PROPN
+ninja	닌자	ninja	닌자	N	
+ninja	닌자	ninja	닌자	N	
+austin	오스틴	austin	오스틴	N	PROPN
+lách	비장	lách	비장	ADJ	N
+angel	천사	angel	천사		N
+nixon	닉슨	nixon	닉슨	N	PROPN
+đắng	열심히	đắng	열심히	ADJ	ADV
+đắng	하드	đắng	하드	ADJ	
+đắng	어려워	đắng	어렵+어	ADJ	
+kẹo	사탕	kẹo	사탕	N	
+kẹo	캔디	kẹo	캔디	N	
+kẹo	사탕	kẹo	사탕	N	
+obama	오바마	obama	오바마	N	
+jose	조제	jose	조제	N	
+philippine	필리핀	philippine	필리핀	N	PROPN
+churchill	처칠	churchill	처칠	N	
+incheon	인천	incheon	인천	N	
+cat	고양이	cat	고양+이	N	
+rap	랩핑	rap	랩핑	N	
+rap	랩터	rap	랩터	N	
+lung	허파	lung	허파	N	
+billy	빌리	billy	빌리	N	
+square	광장	square	광장		N
+budapest	부다페스트	budapest	부다페스트	N	PROPN
+trượng	캠퍼스	trượng	캠퍼스	N	
+dec	적위	dec	적위		N
+giọt	방울	giọt	방울	N	
+giọt	drop	giọt	drop	N	
+giọt	떨어뜨리기	giọt	떨어뜨리+기	N	V
+giọt	드롭	giọt	드롭	N	
+giọt	물방울	giọt	물방울	N	
+blackburn	블랙번	blackburn	블랙번	N	PROPN
+titan	타이탄	titan	타이탄	N	PROPN
+titan	티탄	titan	티탄	N	
+gieo	공장	gieo	공장	V	
+gieo	식물	gieo	식물	V	N
+gieo	식물학	gieo	식물학	V	N
+montgomery	몽고메리	montgomery	몽고메리		PROPN
+athena	아테나	athena	아테나	N	
+chèn	삽입	chèn	삽입	V	N
+chèn	삽입	chèn	삽입	V	N
+nhát	겁쟁이	nhát	겁쟁이	V	N
+nhát	황색	nhát	황색	V	N
+nhát	노랑색	nhát	노랑색	V	N
+nhát	노란색	nhát	노란색	V	
+nhát	노랑	nhát	노랑	V	
+johnny	조니	johnny	조니	N	
+johnny	쟈니	johnny	보+니	N	
+johnny	자니	johnny	자니	N	
+stanford	스탠퍼드	stanford	스탠퍼드	N	
+stanford	스탠포드	stanford	스탠포드	N	
+miguel	미겔	miguel	미겔		PROPN
+jonathan	조나단	jonathan	조나단	N	
+flying	flying	flying	flying	N	
+flying	플라잉	flying	플라잉	N	
+flying	날아라	flying	날+아라	N	
+campania	캄파니아	campania	캄파니아	N	
+florence	플로렌스	florence	플로렌스	N	PROPN
+florence	피렌체	florence	피렌체	N	PROPN
+sập	붕괴	sập	붕괴	V	N
+sập	축소	sập	축소	V	N
+sập	축소	sập	축소	V	N
+copa	코파	copa	코파	N	PROPN
+nokia	노키아	nokia	노키아	N	
+hunter	사냥꾼	hunter	사냥꾼		N
+putnam	퍼트넘	putnam	퍼트넘	N	
+que	스틱스	que	스틱스	N	
+que	스틱	que	스틱	N	
+gabon	가봉	gabon	가봉	N	PROPN
+trãi	어린시절	trãi	어린차절	N	
+kẹt	갇혀있는	kẹt	갇히+어+있+는	V	V
+liga	리가	liga	리+가	N	
+stars	항성	stars	항성		N
+hawk	호크	hawk	호크	N	
+phêrô	베드로	phêrô	베드+로	N	ADV
+phêrô	피터	phêrô	피터	N	
+thóc	헛간	thóc	헛간	N	
+baltimore	볼티모어	baltimore	볼티모어	N	PROPN
+toledo	톨레도	toledo	톨레도	N	PROPN
+mod	mod	mod	mod	N	
+delta	삼각주	delta	삼각주		PROPN
+kent	켄트	kent	켄트		PROPN
+hopkins	홉킨스	hopkins	홉킨스	N	PROPN
+hip	엉덩이	hip	엉덩이	N	
+infobox	정보상자	infobox	정보+상자	N	
+müller	뮐러	müller	지르+어	N	PROPN
+low	낮은	low	낮+ㄴ		ADJ
+low	낮음	low	낮+ㅁ		ADJ
+low	low	low	low		
+haiti	아이티	haiti	아이티		N
+tỉa	다듬기	tỉa	다듬기	V	
+tỉa	트림	tỉa	트림	V	
+spin	스핀	spin	스핀	N	
+búa	망치	búa	망치	V	N
+búa	해머	búa	해머	V	N
+kuwait	쿠웨이트	kuwait	쿠웨이트	N	PROPN
+kem	아이스크림	kem	아이스크림	N	
+kem	크림	kem	크림	N	
+jennifer	제니퍼	jennifer	제니퍼	N	
+soi	늑대	soi	늑대	V	N
+soi	볼프	soi	볼프	V	
+soi	울프	soi	울프	V	
+atlanta	애틀랜타	atlanta	애틀+선타	N	PROPN
+atlanta	아틀란타	atlanta	아틀란타	N	
+atlanta	애틀란타	atlanta	애틀+란타	N	PROPN
+gân	힘줄	gân	힘줄+ㄹ	N	
+gân	달리기	gân	달리+기	N	
+gân	러닝	gân	러닝	N	
+christina	크리스티나	christina	크리스티나	N	PROPN
+peak	피크	peak	피크	N	
+chao	차오	chao	차오	PART	
+justin	저스틴	justin	저스틴	N	PROPN
+bundesliga	분데스리가	bundesliga	분데스리가	N	PROPN
+athens	아테네	athens	아테네	N	PROPN
+ppp	ppp	ppp	ppp	N	
+giàn	bps	giàn	bps	N	
+luke	루가	luke	루+가	N	
+luke	루크	luke	루크	N	
+athletic	애슬레틱	athletic	애슬레틱	N	PROPN
+tasmania	태즈메이니아	tasmania	태즈메이니아		PROPN
+vancouver	밴쿠버	vancouver	밴쿠버	N	PROPN
+bonaparte	보나파르트	bonaparte	보나파르트	N	
+montenegro	몬테네그로	montenegro	몬테네그+로	N	ADV
+carthage	카르타고	carthage	카르타+고	N	
+ngói	타일	ngói	타이+ㄹ	N	
+thompson	톰프슨	thompson	톰프슨		PROPN
+jeff	제프	jeff	제프	N	
+jeff	jeff	jeff	jeff	N	
+update	갱신	update	갱신	V	
+update	업데이트	update	업데이트	V	N
+harold	해럴드	harold	해럴드		PROPN
+atlas	atlas	atlas	atlas		
+kìm	긴장감	kìm	긴장감	V	N
+kìm	긴장	kìm	긴장	V	N
+fernando	페르난도	fernando	페르난도	N	PROPN
+fernando	페르난두	fernando	페르난두	N	
+alternative	얼터너티브	alternative	얼터너티브	N	
+charlotte	샬럿	charlotte	샬럿		PROPN
+suzuki	스즈키	suzuki	스즈키	N	
+seattle	시애틀	seattle	시애틀		PROPN
+julia	율리아	julia	율리아	N	
+julia	쥘리아	julia	쥘리아	N	
+julia	줄리아	julia	줄리아	N	
+cpu	cpu	cpu	cpu	N	
+cuenca	쿠엥카	cuenca	쿠엥카	N	PROPN
+gabriel	가브리엘	gabriel	가브리엘		PROPN
+blues	블루스	blues	블루스	N	
+evolution	편지	evolution	편지		N
+evolution	우편	evolution	우편		N
+mịn	부드럽게	mịn	부드럽+게	N	
+arnold	아르놀트	arnold	아르놀트		PROPN
+yoon	윤아	yoon	윤+아	N	
+yoon	윤서	yoon	윤서	N	
+cairo	카이로	cairo	카이+로	N	
+kurt	쿠르트	kurt	쿠르트		PROPN
+stuart	스튜어트	stuart	스튜어트		PROPN
+bristol	브리스틀	bristol	브리스틀		PROPN
+fields	필드	fields	필드	N	
+jacob	제이콥	jacob	제이콥	N	
+jacob	야곱	jacob	야곱	N	
+abraham	아브라함	abraham	아브라함		PROPN
+abraham	에이브러햄	abraham	에이브러햄		PROPN
+viền	경계선	viền	경계선	N	
+viền	경계선	viền	경계선	N	
+viền	테두리	viền	테두리	N	
+nhô	juicy	nhô	juicy	N	
+xoa	희망	xoa	희망		N
+sofia	소피아	sofia	소피아		PROPN
+sofia	소피아	sofia	소피아		PROPN
+maharashtra	마하라슈트라	maharashtra	마하라슈트라	N	PROPN
+leonard	레오나드	leonard	레오나드		PROPN
+leonard	레너드	leonard	레너드		PROPN
+asura	아수라	asura	아수라	N	
+willis	윌리스	willis	윌리스	N	
+jpeg	jpeg	jpeg	jpeg	N	
+nhúng	임베디드	nhúng	임베디드	V	N
+hiroshima	히로시마로	hiroshima	히로시마로		ADV
+hiroshima	히로시마	hiroshima	히로시마		PROPN
+margaret	마거릿	margaret	마거릿		PROPN
+margaret	마르그리트	margaret	마르그리트		PROPN
+connecticut	코네티컷	connecticut	코네티컷		PROPN
+midway	미드웨이	midway	미드웨이	N	
+juventus	유벤투스	juventus	유벤투스	N	PROPN
+lily	릴리	lily	릴리	N	
+nicholas	니컬러스	nicholas	니컬러스		PROPN
+nicholas	니콜라스	nicholas	니콜라스		PROPN
+nicholas	니콜라우스	nicholas	니콜라우스		PROPN
+deep	깊은	deep	깊+ㄴ		ADJ
+canadian	캐나디안	canadian	캐나디안	N	
+canadian	캐나다인	canadian	캐나다+이+ㄴ	N	
+cúm	인플루엔자	cúm	인플루+자자	N	
+cúm	인플루엔자	cúm	인플루+자자	N	
+cúm	아파	cúm	아프+아	N	
+cúm	아픈	cúm	아프+ㄴ	N	
+cúm	아프다	cúm	아프+다	N	
+thomson	톰슨	thomson	톰슨	N	
+samoa	사모아	samoa	사모아	N	
+bón	bonn	bón	bonn	V	
+magic	magic	magic	magic	N	
+magic	매직	magic	매직	N	
+kẹp	짜장면	kẹp	짜장+면	N	
+kẹp	안아	kẹp	안+아	N	
+ngạo	자존심	ngạo	자존심	N	
+ngạo	프라이드	ngạo	프라이드	N	
+ngạo	거만	ngạo	거만	N	
+call	통화	call	통화		N
+call	전화	call	전화		N
+call	호출	call	호출		N
+đọng	중간	đọng	중간	V	N
+đọng	가운데	đọng	가운데	V	N
+hunt	사냥	hunt	사냥		N
+cyrus	사이러스	cyrus	사이러스	N	
+bẩn	더러운	bẩn	더럽+ㄴ	V	
+phạn	산스크리트어	phạn	산스크리트어	N	
+thoáng	에어리	thoáng	에어리	V	
+crawford	크로포드	crawford	크로포드		PROPN
+chà	우와	chà	우+와	N	
+chà	와우	chà	와우	N	
+vienna	비엔나	vienna	비엔나		PROPN
+jakarta	자카르타	jakarta	자카르타	N	PROPN
+peters	피터스	peters	피터스		PROPN
+mail	편지	mail	편지	V	N
+mail	메일	mail	메일	V	
+mail	우편	mail	우편	V	N
+felix	펠릭스	felix	펠릭스	N	PROPN
+rangers	레인저스	rangers	레인저스	V	N
+rangers	레인저	rangers	레인저	V	N
+sấm	썬더	sấm	썬더	N	
+sấm	천둥	sấm	천둥	N	
+sấm	선더	sấm	선더	N	
+sấm	바닐라	sấm	바라+라	N	
+iberia	이베리아	iberia	이베리아	N	PROPN
+iberia	이베리아	iberia	이베리아	N	PROPN
+chê	추천	chê	추천	ADJ	
+chê	대표	chê	대표	ADJ	
+leipzig	라이프치히	leipzig	라이프치히	N	PROPN
+col	col	col	col		
+portland	포틀랜드	portland	포틀랜드	N	PROPN
+pax	팍스	pax	팍스	N	
+greenland	그린란드	greenland	그린란드	N	
+eagle	이글	eagle	이글	N	
+venice	베네치아	venice	베네치아	N	PROPN
+venice	베니스	venice	베니스	N	PROPN
+takeshi	타케시	takeshi	타케시	N	
+hat	미움	hat	미움	N	
+cooper	쿠퍼	cooper	쿠퍼		PROPN
+copy	카피	copy	카피	N	
+rhine	라인	rhine	라인	N	
+cưa	쏘우	cưa	쏘우	V	
+violin	바이올린	violin	바이올린	N	
+ernest	어니스트	ernest	어니스트		PROPN
+sparta	스파르타	sparta	스파르타	N	
+kosovo	코소보	kosovo	코소보		PROPN
+bún	국수	bún	국수	N	
+bóp	지갑	bóp	지갑	V	N
+bóp	지갑	bóp	지갑	V	N
+mauritius	모리셔스	mauritius	모리셔스	N	PROPN
+nguyền	저주	nguyền	저주	V	N
+birmingham	버밍엄	birmingham	버밍엄		PROPN
+catarina	카타리나	catarina	카타리+나	N	
+catarina	카탈리나	catarina	카탈리+나	N	PROPN
+catarina	캐서린	catarina	캐+서+이+ㄴ	N	
+catarina	카트린	catarina	카트린	N	
+trăn	python	trăn	python	N	
+trăn	파이썬	trăn	파이썬	N	
+nintendo	닌텐도	nintendo	긴텐도		PROPN
+auckland	오클랜드	auckland	오클랜드	N	PROPN
+vẹt	앵무새	vẹt	앵무새	N	
+vẹt	앵무새	vẹt	앵무새	N	
+diễu	퍼레이드	diễu	퍼레이드	V	
+mbc	mbc	mbc	mbc	N	
+lắc	떨리는	lắc	떨리+는	V	
+lắc	shake	lắc	shake	V	
+lắc	흔들흔들	lắc	흔들흔+들	V	
+lắc	흔들어	lắc	흔들+어	V	
+sweet	달콤한	sweet	달콤+하+ㄴ		V
+nana	nana	nana	nana		
+thối	돼지	thối	돼지	V	
+thối	돼지	thối	돼지	V	
+dallas	댈러스	dallas	댈러스	N	PROPN
+dallas	달라스	dallas	달라스	N	
+qatar	카타르	qatar	카타르	N	PROPN
+terry	테리	terry	테리	N	
+sỏi	자갈	sỏi	자가+ㄹ	N	
+ono	오노	ono	오노	N	
+ono	오노노	ono	오노노	N	
+phillips	필립스	phillips	필립스		N
+crystal	크리스털	crystal	크리스털	N	
+crystal	크리스탈	crystal	크리스탈	N	
+versailles	베르사이유	versailles	베르사이유	N	
+versailles	베르사유	versailles	베르사유	N	PROPN
+coast	코스트	coast	코스트	N	
+coast	해안	coast	해안	N	
+chàm	남색	chàm	남색	N	
+chàm	인디고	chàm	인디고	N	
+palau	팔라우	palau	팔라우	N	
+punjab	펀자브	punjab	펀자브	N	PROPN
+darwin	다윈	darwin	다윈	N	
+puebla	푸에블라	puebla	푸에블라	N	PROPN
+alain	알랭	alain	알+이+ㄹ	N	
+britney	브리트니	britney	브리트니	N	PROPN
+britney	브리트니	britney	브리트니	N	PROPN
+britney	britney	britney	britney	N	
+campbell	캠벨	campbell	캠벨	V	
+ent	ent	ent	ent	N	
+dubai	두바이	dubai	두바+이	N	PROPN
+soviet	소련	soviet	소련		PROPN
+jon	jon	jon	jon	N	
+leone	레온	leone	레온	N	
+brussels	브뤼셀	brussels	브뤼셀	N	PROPN
+enterprise	엔터프라이즈	enterprise	엔터프이즈즈		PROPN
+enterprise	기업	enterprise	기업		N
+ukraine	우크라이나	ukraine	우크라이나	N	PROPN
+mumbai	뭄바이	mumbai	神바+이	N	PROPN
+portal	포털	portal	포털		N
+marion	매리언	marion	매리언		PROPN
+gustav	구스타프	gustav	구스타프	N	PROPN
+act	act	act	act	NUM	
+win	win	win	win	N	
+ring	반지	ring	반지		N
+ring	소환	ring	소환		N
+ajax	아이아스	ajax	아이아스	N	
+edge	edge	edge	edge		
+werner	베르너	werner	베르너	N	PROPN
+tía	pop	tía	pop	N	
+test	테스트	test	테스트	V	N
+test	시험	test	시험	V	N
+kayseri	카이세리	kayseri	카이세리	N	PROPN
+edinburgh	에든버러	edinburgh	에든버러	N	PROPN
+manhattan	맨해튼	manhattan	맨해튼		PROPN
+vụn	해상도	vụn	해상+도	ADJ	N
+vụn	결의	vụn	결의	ADJ	N
+mhz	mhz	mhz	mhz	N	
+violet	바이올렛	violet	바이올렛	N	
+wallace	월리스	wallace	월리스	N	PROPN
+hero	히어로	hero	히어+로	N	
+joel	조엘	joel	조엘	N	
+fletcher	fletcher	fletcher	fletcher		
+dominica	도미니카	dominica	도미니카	N	PROPN
+tobago	토바고	tobago	토바+고	NUM	PROPN
+leopold	레오폴드	leopold	레오폴드	N	
+leopold	레오폴트	leopold	레오폴트	N	PROPN
+bobby	바비	bobby	바비	N	
+hudson	허드슨	hudson	허드슨	N	
+tien	돈이	tien	돈+이		N
+marcel	마르셀	marcel	마르+고	N	PROPN
+stevens	스티븐스	stevens	스티븐스		PROPN
+moldova	몰도바	moldova	몰도바	N	PROPN
+warszawa	바르샤바	warszawa	바르샤바	N	PROPN
+block	차단	block	차단		N
+tẩu	체이스	tẩu	체이스	N	PROPN
+cell	셀프	cell	셀프	N	
+herzog	헤어초크	herzog	헤어초크	N	
+wat	wat	wat	wat	N	
+lén	몰래	lén	몰래	V	
+vietnamese	베트남어	vietnamese	베트남어	N	
+vietnamese	베트남	vietnamese	베트남	N	
+vietnamese	베트남인	vietnamese	베트남인	N	
+rené	르네	rené	르네	N	
+rené	레네	rené	레네	N	
+rené	르네	rené	르네	N	
+meta	메타	meta	메타	N	
+rudolf	루돌프	rudolf	루돌프		PROPN
+oda	oda	oda	oda	N	
+morris	모리스	morris	모리스		PROPN
+oslo	오슬로	oslo	오슬+로	N	PROPN
+sms	sms	sms	sms		
+bologna	볼로냐	bologna	볼+로+이+냐	N	
+soundtrack	사운드트랙	soundtrack	사운드트랙	N	
+della	델라	della	델라	N	
+phone	숨겨져	phone	숨기+어+지+어	N	V
+phone	숨겨진	phone	숨기+어+지+ㄴ	N	V
+danny	대니	danny	대+이+니	N	PROPN
+barry	배리	barry	배리		PROPN
+wolfgang	볼프강	wolfgang	볼프강	N	PROPN
+owen	오웬	owen	오웬	N	PROPN
+fischer	피셔	fischer	피시+어	N	
+suriname	수리남	suriname	수리남	N	PROPN
+saxony	작센	saxony	작세+ㄴ	N	PROPN
+cọp	호랑이	cọp	호랑이	N	
+cọp	타이거	cọp	타이거	N	
+bug	벌레	bug	벌레	N	
+bug	버그	bug	버그	N	
+price	가격	price	가격		N
+alberto	알베르토	alberto	알베르토	N	PROPN
+hẻm	캐니언	hẻm	캐니언	N	PROPN
+hẻm	골목길	hẻm	골목길	N	
+hẻm	앨리	hẻm	앨리	N	
+ávila	아빌라	ávila	아끼+라		PROPN
+nuốt	삼킬	nuốt	삼키+ㄹ	V	
+váy	치마	váy	치마	N	
+váy	스커트	váy	스커트	N	
+váy	치마	váy	치마	N	
+download	다운로드	download	다운로드	V	
+download	오픈	download	오프+ㄴ	V	
+download	열기	download	열+기	V	
+memorial	기념비	memorial	기념비		N
+memorial	기념관	memorial	기념관		N
+sim	sim	sim	sim	N	
+quất	휩트	quất	휩트+아	N	
+quất	그들이	quất	그+들+이	N	PRO
+quất	그들은	quất	그+들+은	N	PRO
+tel	tel	tel	tel		
+hispanic	히스패닉	hispanic	히스패닉		N
+carlo	카를로	carlo	카를+로	N	ADV
+emilia	에밀리아	emilia	에밀리아	N	PROPN
+saigon	사이공	saigon	사이공	N	PROPN
+rhein	라인	rhein	라인	N	
+trans	트랜스	trans	트랜스		
+trans	트랜스월드	trans	트랜스월드		PROPN
+trans	트랜스포트	trans	트랜스포트		
+toan	스트레스	toan	스트레스		N
+brooklyn	브루클린	brooklyn	브루클리+ㄴ	N	PROPN
+brooklyn	브룩클린	brooklyn	브룩클리+ㄴ	N	
+mason	mason	mason	mason		
+helena	헬레나	helena	헬레+나		PROPN
+vector	벡터	vector	벡터	N	
+break	휴식	break	휴식		N
+break	break	break	break		
+monaco	모나코	monaco	모나코	N	
+xoài	망고	xoài	망고	N	
+xoài	망고	xoài	망고	N	
+mach	mach	mach	mach	N	
+atp	atp	atp	atp	N	
+triple	트리플	triple	트리플	NUM	
+triple	삼중	triple	삼중	NUM	
+ibm	ibm	ibm	ibm	N	
+elo	elo	elo	elo	N	
+cọc	챔피언십	cọc	後피+언감	N	
+nản	좌절	nản	좌절	V	N
+discovery	디스커버리	discovery	디스크리리	N	
+nielsen	nielsen	nielsen	nielsen		
+mae	메이	mae	메이	N	
+hello	hello	hello	hello		
+gạt	국립	gạt	국립	V	N
+gạt	내셔널	gạt	내+시+어+요+ㄴ	V	
+gạt	국민	gạt	국민	V	N
+phanxicô	프랜시스	phanxicô	프랜시스	N	PROPN
+bremen	브레멘	bremen	브레멘	N	PROPN
+putin	푸틴	putin	푸틴	N	
+belize	벨리즈	belize	벨리즈	N	PROPN
+botswana	보츠와나	botswana	보츠+와+나	N	CONJ
+torres	토레스	torres	토레스	N	PROPN
+davies	데이비스	davies	데이비스	N	PROPN
+davies	davies	davies	davies	N	
+base	기지	base	기지		N
+base	베이스	base	베이스		
+louise	루이즈	louise	루이즈		PROPN
+siberia	시베리아	siberia	시베리아	N	
+hanover	하노버	hanover	하노버		PROPN
+hanover	하노버	hanover	하노버		PROPN
+bryant	브라이언트	bryant	브라이언트	N	PROPN
+simpson	심슨	simpson	심슨	N	
+led	led	led	led	N	
+ghost	귀신	ghost	귀신	V	
+ghost	유령	ghost	유령	V	N
+ghost	고스트	ghost	고스트	V	
+helsinki	헬싱키	helsinki	헬싱키	N	PROPN
+ren	레이스	ren	레이스	N	
+hebrew	히브리어	hebrew	히브리어	N	PROPN
+hebrew	히브리	hebrew	히브리	N	
+ana	ana	ana	ana	N	
+ana	아나	ana	아나	N	
+mút	빨아	mút	빨+아	N	
+thoa	버터	thoa	버터	V	
+thoa	인페르노	thoa	인페르노	V	
+thoa	스테인드	thoa	스테인드	V	
+plus	플러스	plus	플러스	N	
+wei	웨이	wei	웨+이	N	
+giò	엉덩이	giò	엉덩이	N	
+lít	리터	lít	리터	N	
+lít	리터	lít	리터	N	
+lít	갤런	lít	갤런	N	
+lít	리터	lít	리터	N	
+pascal	파스칼	pascal	파스칼	N	
+zone	지대	zone	지대		N
+zone	zone	zone	zone		
+zone	영역	zone	영역		N
+bohemia	보헤미아	bohemia	보헤미아	N	PROPN
+ibn	이븐	ibn	이븐	N	
+duke	듀크	duke	듀크	N	
+galicia	갈리시아	galicia	갈리시아	NUM	
+galicia	갈리시아어	galicia	갈리시아어	NUM	
+louvre	루브르	louvre	루브르	N	PROPN
+seleukos	셀레우코스	seleukos	셀레우코스	N	PROPN
+gram	그램	gram	그램	N	
+gram	그람	gram	그람	N	
+gram	그램	gram	그램	N	
+cạp	스콜피온	cạp	스콜피온	N	
+ngắt	인터럽트	ngắt	인터럽트	V	N
+ngắt	인터럽트	ngắt	인터럽트	V	N
+frigate	프리깃	frigate	프리깃	N	PROPN
+frigate	프리깃함	frigate	프리+합함	N	
+delaware	델라웨어	delaware	델라웨어	N	PROPN
+mozart	모차르트	mozart	모차르트	N	PROPN
+rwanda	르완다	rwanda	르완+ㄴ다	N	PROPN
+turkmenistan	투르크메니스탄	turkmenistan	투르크메니스탄	N	PROPN
+köln	쾰른	köln	쾰른	N	PROPN
+burundi	부룬디	burundi	부룬디	N	PROPN
+gothic	고딕	gothic	고딕	N	
+andrea	안드레아	andrea	안드레아	N	
+hotspur	핫스퍼	hotspur	핫스퍼	N	
+frog	개구리	frog	개구리		N
+henderson	헨더슨	henderson	헨더슨		PROPN
+granada	그라나다	granada	그라나다	N	PROPN
+living	생활	living	생활		N
+marina	마리나	marina	마리+나	N	
+jerry	제리	jerry	제리	N	
+itunes	아이튠스	itunes	아이튠스	N	
+lướt	rolling	lướt	rolling	V	
+lướt	굴러	lướt	구르+어	V	
+lướt	롤링	lướt	롤링	V	
+lướt	서핑	lướt	서핑	V	N
+wings	윙스	wings	윙스	N	
+illustrated	삽화	illustrated	삽화		N
+illustrated	삽화가	illustrated	삽화+가		N
+nôn	구토	nôn	구토	V	N
+nôn	구토	nôn	구토	V	N
+liberia	라이베리아	liberia	라이베리아		PROPN
+tỏi	리크	tỏi	리크	N	
+wells	웰스	wells	웰스	N	
+quấn	포장	quấn	포장	V	N
+seychelles	세이셸	seychelles	세이+로	N	PROPN
+calvin	켈빈	calvin	켈빈		N
+đùi	허벅지	đùi	허벅지	N	
+đùi	허벅지	đùi	허벅지	N	
+richardson	리처드슨	richardson	리처드슨		PROPN
+sol	sol	sol	sol		
+forbes	포브스	forbes	포브스		PROPN
+bergamo	베르가모	bergamo	베르가모	NUM	PROPN
+brno	브르노	brno	브르노	N	PROPN
+caribbean	캐리비안	caribbean	캐리비안	N	
+caribbean	카리브	caribbean	카리브	N	PROPN
+panther	팬더	panther	팬더	N	
+fame	명성	fame	명성	N	
+fame	페임	fame	페임	N	
+bach	바흐	bach	바흐	N	PROPN
+tủy	골수	tủy	골수	N	
+brest	브레스트	brest	브레스트	N	PROPN
+socks	socks	socks	socks	N	
+bold	굵게	bold	굵+게	N	
+bold	굵은	bold	굵+ㄴ	N	
+bihar	비하르	bihar	비하르	N	
+bryan	브라이언	bryan	브라이언		PROPN
+andrews	앤드루스	andrews	앤드루스	N	PROPN
+nano	나노	nano	나노	N	
+wien	wien	wien	wien	N	
+joachim	요아킴	joachim	요아탑	N	
+franco	프랑코	franco	프랑코		PROPN
+hlv	트레이너	hlv	트레이너	N	
+ciudad	시우	ciudad	시우	N	
+wake	wake	wake	wake		
+veracruz	베라크루스	veracruz	베라크루스		PROPN
+gibraltar	지브롤터	gibraltar	지브롤터	N	PROPN
+camus	카뮈	camus	카뮈	N	
+holmes	홈스	holmes	홈스		N
+sắn	카사바	sắn	카사바	N	
+kiss	kiss	kiss	kiss		
+rovers	로버스	rovers	로버스	N	PROPN
+lạch	크리크	lạch	크리크	N	
+buffalo	버팔로	buffalo	버팔+로	N	
+buffalo	버펄로	buffalo	버티+로	N	ADV
+antoine	앙투안	antoine	앙투안	N	PROPN
+twitter	twitter	twitter	twitter		
+kenneth	케네스	kenneth	케네스		PROPN
+michelin	미슐랭	michelin	미슐랭	N	
+nến	촛불	nến	촛불	N	
+nến	촛불	nến	촛불	N	
+nến	플레어	nến	플레어	N	
+nến	플레인	nến	플레인	N	
+era	era	era	era		
+era	시대	era	시대		N
+cleveland	클리블랜드	cleveland	클리블랜드	N	PROPN
+ashley	애슐리	ashley	애슐리	N	
+cut	잘라	cut	자르+아	N	
+habsburg	합스부르크	habsburg	합스부르크	N	PROPN
+mercury	머큐리	mercury	머큐리	N	
+guardian	수호	guardian	수호		N
+guardian	보호자	guardian	보호자		N
+gamma	감마	gamma	감마	N	
+silesia	실레시아	silesia	실레시아	N	
+wyoming	와이오밍	wyoming	와이오밍	N	PROPN
+canberra	캔버라	canberra	캔버라		PROPN
+prunus	벚나무	prunus	벚나무	N	
+hughes	휴스	hughes	휴스		PROPN
+acoustic	어쿠스틱	acoustic	어쿠스틱		N
+euler	오일러	euler	오일러	N	
+columbus	콜롬버스	columbus	콜롬버스	N	
+columbus	콜럼버스	columbus	콜럼버스	N	
+alberta	앨버타	alberta	앨버타	N	PROPN
+hood	후드	hood	후드	N	
+giant	자이언트	giant	자이언트	N	
+giant	거대	giant	거대	N	
+bahamas	바하마	bahamas	바하마	N	PROPN
+comic	코믹	comic	코믹	N	
+wonder	원더	wonder	원더	N	
+wonder	궁금해	wonder	궁금+하+어	N	V
+fisher	피셔	fisher	피시+어	N	
+productions	프로덕션	productions	프로덕션	N	
+productions	프로덕션스	productions	프로덕션스	N	
+leonardo	레오나르도	leonardo	레오나르+도	N	PROPN
+bolshevik	볼셰비키	bolshevik	볼셰비키		PROPN
+add	추가하기	add	추가+하+기		V
+dresden	드레스덴	dresden	드레스덴	N	PROPN
+broadway	브로드웨이	broadway	브로드웨+이	N	PROPN
+rapper	래퍼	rapper	래퍼		N
+janet	재닛	janet	재닛	N	
+janet	자넷	janet	자넷	N	
+gam	그램	gam	그램	N	
+gam	그람	gam	그람	N	
+gam	그램	gam	그램	N	
+ahmed	아흐메드	ahmed	아흐메드	N	PROPN
+ahmed	아메드	ahmed	아메드	N	PROPN
+đấm	펀치	đấm	펀치	N	
+destiny	운명	destiny	운명		N
+harper	하퍼	harper	하퍼	N	
+hancock	핸콕	hancock	핸콕		PROPN
+sardinia	사르데냐	sardinia	사르데냐	N	
+explorer	익스플로러	explorer	익스플로러	N	
+cuneo	피에몬테	cuneo	피에몬테	N	
+assyria	아시리아	assyria	아시리아	N	PROPN
+leicester	leicester	leicester	leicester	N	
+leicester	레스터	leicester	레스터	N	PROPN
+warriors	워리어스	warriors	워리어스	N	PROPN
+close	닫기	close	닫+기	V	
+close	닫습니다	close	닫+습니다	V	
+zürich	취리히	zürich	취리히	N	PROPN
+fuji	후지	fuji	후지	N	
+eleanor	엘리너	eleanor	엘리너	N	
+flow	플로	flow	플로	N	
+flow	플로우	flow	플로우	N	
+flow	흐름	flow	흐름	N	
+chester	체스터	chester	체스터		PROPN
+segovia	세고비아	segovia	세고비아	NUM	
+zeus	제우스	zeus	제우스	N	
+kyrgyzstan	키르기스스탄	kyrgyzstan	키르기스스탄	V	PROPN
+warsaw	바르샤바	warsaw	바르샤바	N	PROPN
+mexicana	멕시카나	mexicana	멕시카+나	N	CONJ
+sample	표본	sample	표본		N
+sample	샘플링	sample	샘플링		N
+sample	샘플	sample	샘플		N
+khảm	모자이크	khảm	모자이크	N	
+khảm	모나코	khảm	모나코	N	
+riga	리가	riga	리+가	N	
+dublin	더블린	dublin	더블린		PROPN
+pak	pak	pak	pak	N	
+lửng	갇힌	lửng	갇히+ㄴ	N	V
+lửng	갇혀있는	lửng	갇히+어+있+는	N	V
+lửng	갇혀	lửng	갇히+어	N	V
+diana	diana	diana	diana	N	
+sunderland	선덜랜드	sunderland	선덜랜드	N	PROPN
+glasgow	글래스고	glasgow	글래스+고		PROPN
+cháo	수프	cháo	수프	V	
+idaho	아이다호	idaho	아이다호	N	PROPN
+mimosa	미모사	mimosa	미모사	N	
+aston	애스턴	aston	애스턴	N	
+firefox	파이어폭스	firefox	파이어폭스	N	PROPN
+firefox	firefox	firefox	firefox	N	
+layer	계층	layer	계층		N
+bahrain	바레인	bahrain	바레인	N	PROPN
+kashmir	카슈미르	kashmir	카슈미르	N	PROPN
+lyrics	노랫말	lyrics	노랫말	N	
+porter	포터	porter	포터		N
+rise	상승	rise	상승		N
+rise	rise	rise	rise		
+hannover	하노버	hannover	하노버	N	PROPN
+hannover	하노버	hannover	하노버	N	PROPN
+jonas	조나스	jonas	조나스	N	PROPN
+jonas	조너스	jonas	조너스	N	
+zeppelin	체펠린	zeppelin	체펠린	N	
+amy	에이미	amy	에이미	N	
+portsmouth	포츠머스	portsmouth	포츠머스	N	PROPN
+akira	akira	akira	akira		
+stage	스테이지	stage	스테이+지	N	
+kharkov	하리코프	kharkov	하리코프		PROPN
+chử	덴덴	chử	덴덴	N	
+chử	den	chử	den	N	
+sci	sci	sci	sci	N	
+icao	icao	icao	icao	N	
+native	네이티브	native	네이티브		
+yuan	위안	yuan	위안	N	
+nassau	나사우	nassau	나사우	N	
+formosa	포르모사	formosa	포르모사	N	
+lac	lac	lac	lac	N	
+gom	수집	gom	수집	V	N
+gom	모임	gom	모임	V	N
+gom	바이패스	gom	바이패스	V	
+gom	우회로	gom	우회+로	V	ADV
+gom	우회	gom	우회	V	N
+lucia	루시아	lucia	루시아	N	
+méo	잘라	méo	자르+아	V	
+nguyen	크리스티안	nguyen	크리스티안	N	PROPN
+nguyen	크리스천	nguyen	크리스천	N	
+nguyen	크리스찬	nguyen	크리스찬	N	
+titanic	타이타닉	titanic	타이타닉	N	
+gmt	gmt	gmt	gmt	N	
+bond	본드	bond	본드	N	
+oman	오만	oman	오만	N	
+oman	오만의	oman	오만+의	N	PROPN
+release	출시	release	출시		N
+release	발매	release	발매		N
+release	릴리스	release	릴리스		N
+release	개봉	release	개봉		N
+ghz	ghz	ghz	ghz	N	
+hart	하트	hart	하트	N	
+colombo	콜롬보	colombo	콜롬보	N	
+organ	장기	organ	장기	N	
+organ	오르간	organ	오르케	N	
+typhoon	타이푼	typhoon	타이푼	N	
+rốn	배꼽	rốn	배꼽	N	
+concacaf	concacaf	concacaf	concacaf	N	
+crete	크레타	crete	크레타	N	PROPN
+genova	제노바	genova	제노바	N	PROPN
+macdonald	맥도날드	macdonald	맥도날드	N	
+andreas	안드레아스	andreas	안드레아스	N	PROPN
+basel	바젤	basel	바젤	N	PROPN
+croat	크로아티아인	croat	크로아티아인	N	PROPN
+romance	연애	romance	연애		N
+romance	로맨스	romance	로맨스		N
+classic	클래식	classic	클래식	N	
+classic	고전	classic	고전	N	
+bừa	엉망	bừa	엉망	V	N
+bừa	엉망이	bừa	엉망+이	V	
+mediawiki	미디어위키	mediawiki	미디어위키	N	
+sarawak	사라왁	sarawak	사라블	N	PROPN
+homo	호모	homo	호모	N	
+cis	cis	cis	cis	N	
+ricardo	히카르도	ricardo	히카르+도	CONJ	
+ricardo	리카르도	ricardo	리카르+도	CONJ	PROPN
+ricardo	히카르두	ricardo	히카르두	CONJ	
+hye	혜리	hye	혜리	N	
+kate	kate	kate	kate		
+ngoặc	괄호	ngoặc	괄호	N	
+nero	nero	nero	nero		
+them	그들	them	그+들		N
+ách	에이스	ách	에이스	N	
+ách	에이스	ách	에이스	N	
+ách	ace	ách	ace	N	
+pharaoh	파라오	pharaoh	파라오	N	
+pharaoh	파라오	pharaoh	파라오	N	
+contemporary	현대	contemporary	현대	V	N
+rogers	로저스	rogers	로저스		PROPN
+tajikistan	타지키스탄	tajikistan	타지키스탄	N	PROPN
+carroll	캐롤	carroll	캐롤	N	
+carroll	캐럴	carroll	캐+아+내+ㄹ	N	
+hercules	허큘리스	hercules	허큘리스		PROPN
+hercules	헤라클레스	hercules	헤라클레스		PROPN
+yokohama	요코하마	yokohama	요코하마	N	PROPN
+ottawa	오타와	ottawa	오타+와	N	PROPN
+córdoba	코르도바	córdoba	코르도바	N	PROPN
+quebec	퀘벡	quebec	퀘벡	N	PROPN
+hercegovina	헤르체고비나	hercegovina	헤르체고비+나	N	CONJ
+odessa	오데사	odessa	오데사	N	PROPN
+taiwan	타이완	taiwan	타이완	N	PROPN
+taiwan	대만	taiwan	대만	N	
+michelle	미셸	michelle	미셸	N	PROPN
+trump	트럼프	trump	트럼프	N	
+schott	쇼트	schott	쇼트	N	
+wanderers	원더러스	wanderers	원더러스	N	PROPN
+monster	괴물이	monster	괴물+이		N
+vampire	흡혈귀	vampire	흡혈귀		N
+scandinavia	스칸디나비아	scandinavia	스칸디나비아		PROPN
+scandinavia	스칸디나비아	scandinavia	스칸디나비아		PROPN
+sướng	즐거움	sướng	즐거움	N	
+demo	데모	demo	데모		N
+survey	설문조사	survey	설문조사		N
+alps	알프스	alps	알프스	N	PROPN
+xáo	소란	xáo	소란	V	
+xáo	경주	xáo	경주	V	PROPN
+xáo	인종	xáo	인종	V	N
+rama	라마	rama	라마	N	
+rom	rom	rom	rom	N	
+lancaster	랭커스터	lancaster	랭커스터		PROPN
+bordeaux	보르도	bordeaux	보르+도	N	PROPN
+wimbledon	윔블던	wimbledon	윔블던	N	PROPN
+capitol	의사당	capitol	의사당		N
+lười	게으름	lười	게으름	ADJ	
+inoue	이노우에	inoue	이노우+에	N	ADV
+tommy	토미	tommy	토미	N	
+saga	부분	saga	부분		N
+saga	부품	saga	부품		N
+bermuda	버뮤다	bermuda	버티+다	N	
+thailand	태국	thailand	태국	N	PROPN
+thailand	타이	thailand	타이	N	
+câm	벙어리	câm	벙어리	V	
+jorge	호르헤	jorge	호르헤	N	PROPN
+ceo	최고경영자	ceo	최고+경영자		N
+basque	바스크어	basque	바스크어	NUM	
+basque	바스크	basque	바스크	NUM	PROPN
+codes	코드	codes	코드	N	
+bee	꿀벌	bee	꿀벌		N
+hack	해킹	hack	해킹	N	
+hack	해킹	hack	해킹	N	
+hack	hack	hack	hack	N	
+hack	해킹	hack	해킹	N	
+omar	오마르	omar	오마르	N	PROPN
+gambia	감비아	gambia	감비아	N	PROPN
+usb	usb	usb	us+과	N	
+constantine	콘스탄틴	constantine	콘스탄틴	N	
+constantine	콘스탄티노스	constantine	콘스탄티노스	N	PROPN
+constantine	콘스탄티누스	constantine	콘스탄티누스	N	PROPN
+southampton	사우샘프턴	southampton	사우샘프턴		PROPN
+lotus	로터스	lotus	로터스	N	
+minsk	민스크	minsk	민스크	N	PROPN
+six	여섯	six	여섯	NUM	
+wellington	웰링턴	wellington	웰링턴		PROPN
+wellington	wellington	wellington	wellington		
+salzburg	잘츠부르크	salzburg	잘츠부르크	N	PROPN
+chiba	치바	chiba	치바	NUM	
+chiba	지바	chiba	지바	NUM	
+aichi	아이치	aichi	아이치	N	
+motion	움직임	motion	움직이+ㅁ	N	
+fang	팡팡	fang	걸+이+라	N	
+erik	에리크	erik	에리크		PROPN
+chechnya	체첸	chechnya	체첸	N	PROPN
+bis	bis	bis	bis		
+blair	블레어	blair	블레어		PROPN
+blair	blair	blair	blair		
+sưng	부어	sưng	붓+어	ADJ	
+sưng	부어	sưng	붓+어	ADJ	
+shakespeare	셰익스피어	shakespeare	셰익스피어	N	PROPN
+algeria	알제리	algeria	알제리	N	PROPN
+sên	손바닥	sên	손바닥	N	
+sên	palm	sên	palm	N	
+sên	슬러그	sên	슬러그	N	
+sên	달팽이	sên	달팽이	N	
+sên	민달팽이	sên	민달팽이	N	
+troy	트로이아	troy	트로이아	N	PROPN
+troy	트로이	troy	트로이	N	
+polynesia	폴리네시아	polynesia	폴리네시아	N	PROPN
+polynesia	폴리네시아	polynesia	폴리네시아	N	PROPN
+cào	발톱	cào	발톱	V	
+sock	양말	sock	양말		N
+catalonia	카탈루냐	catalonia	카탈루+아	N	
+bai	존경	bai	존경		N
+bai	존중	bai	존중		N
+dutch	네덜란드	dutch	네덜란드	N	PROPN
+dutch	네덜란드인	dutch	네덜란드인	N	V
+dutch	네덜란드령	dutch	네덜란드령	N	PROPN
+dutch	네덜란드어	dutch	네덜란드어	N	
+lebanon	레바논	lebanon	레바논	N	PROPN
+normandy	노르망디	normandy	노르망디	N	PROPN
+omega	오메가	omega	오메+가	N	
+vắt	짜장면	vắt	짜장+면	V	
+gnu	gnu	gnu	gnu	N	
+ref	ref	ref	ref	N	
+kings	킹스	kings	킹스	N	
+como	코모	como	코모	NUM	
+pest	해충	pest	해충		N
+taipei	타이페이	taipei	타이+페이	N	
+taipei	타이베이	taipei	타이베이	N	PROPN
+thêu	자수	thêu	자수	N	
+cleopatra	클레오파트라	cleopatra	클레오파트+라	N	
+palermo	팔레르모	palermo	팔레르모	N	PROPN
+dép	슬리퍼	dép	슬리퍼	N	
+dép	슬리퍼	dép	슬리퍼	N	
+mohamed	모하메드	mohamed	모하메드	N	PROPN
+theodore	시어도어	theodore	시어도+어	V	
+julian	율리우스	julian	율리우스		PROPN
+edwin	에드윈	edwin	에드윈	N	
+amiens	아미앵	amiens	아미앵	N	
+cạo	면도	cạo	면+도	V	
+cạo	스크랩	cạo	스크랩	V	
+hét	질러	hét	지르+어	V	
+detroit	디트로이트	detroit	디트로이트		PROPN
+arc	아크	arc	아크	N	
+arc	arc	arc	arc	N	
+asahi	아사히	asahi	아사히	N	
+beast	비스트	beast	비스트		N
+toulouse	툴루즈	toulouse	툴루즈	NUM	PROPN
+toulouse	랜턴	toulouse	랜턴	NUM	
+mikoyan	미코얀	mikoyan	미코얗+ㄴ	N	
+faroe	페로	faroe	페로	N	PROPN
+bishop	비숍	bishop	비숍	N	
+digimon	디지몬	digimon	디지몬	N	
+phanh	브레이크	phanh	브레이크	N	
+phanh	브레이크	phanh	브레이크	N	
+felipe	펠리페	felipe	펠리페	N	PROPN
+chaplin	채플린	chaplin	채플린	V	PROPN
+răn	버드	răn	버드	V	
+ign	ign	ign	ign		
+trailer	트럭	trailer	트럭		N
+trailer	예고편	trailer	예고편		N
+devil	악마	devil	악마		N
+bênh	감정	bênh	감정	V	N
+schneider	슈나이더	schneider	슈나이더	N	
+senegal	세네갈	senegal	세네가+ㄹ	N	
+catalina	카탈리나	catalina	카탈리+나		PROPN
+webster	웹스터	webster	웹스터	N	
+kepler	케플러	kepler	케플러		PROPN
+ossetia	오세티야	ossetia	오세티야	N	
+inca	잉카	inca	잉카	N	
+santander	산탄데르	santander	산탄데르	N	PROPN
+div	div	div	di+고	N	
+réunion	레위니옹	réunion	레위+니옹	N	PROPN
+gầy	슬림	gầy	슬림	ADJ	
+gầy	얇은	gầy	얇+은	ADJ	
+medina	메디나	medina	메디+나	N	PROPN
+ferguson	퍼거슨	ferguson	퍼거슨	N	
+shadow	섀도우	shadow	섀도우	N	
+shadow	섀도	shadow	섀도	N	
+viktor	빅토르	viktor	빅토르		PROPN
+rìu	도끼	rìu	도끼		N
+rìu	도끼	rìu	도끼		N
+num	num	num	num	N	
+leeds	led	leeds	led	N	
+leeds	리즈	leeds	리즈	N	PROPN
+rảnh	free	rảnh	free	V	
+rảnh	무료	rảnh	무료	V	
+rảnh	자유	rảnh	자유	V	
+bourbon	부르봉	bourbon	부르봉	N	
+bourbon	버번	bourbon	버번	N	
+waters	워터스	waters	워터스	N	
+văng	소파	văng	소파	V	N
+complex	콤플렉스	complex	콤플렉스	N	
+cap	cap	cap	cap	N	
+bradley	브래들리	bradley	브래+들+리		N
+webb	웨브	webb	웨브	N	
+plaza	플라자	plaza	플라자	N	
+daegu	대구	daegu	대구	N	PROPN
+mozilla	모질라	mozilla	모질라	N	PROPN
+kamikaze	가미카제	kamikaze	가미카제	N	
+garcia	가르시아	garcia	가르시아	N	
+bat	bat	bat	bat		
+eritrea	에리트레아	eritrea	에리트레아	N	PROPN
+wave	파도	wave	파+도	N	
+wave	웨이브	wave	웨이브	N	
+wave	물결	wave	물결	N	
+nhớt	오일	nhớt	오일	N	
+nhớt	기름	nhớt	기름	N	
+springfield	스프링필드	springfield	스프링필드		PROPN
+ghita	guitar	ghita	guitar	N	
+knuth	커누스	knuth	커누스	N	
+gas	lpg	gas	lpg	N	
+abdullah	압둘라	abdullah	압돌+라	N	
+pen	pen	pen	pen	N	
+byte	바이트	byte	바이트	N	
+byte	바이트	byte	바이트	N	
+prime	소수	prime	소수		N
+makino	마키노	makino	마키노	N	
+đớp	깨물어	đớp	깨물+어	V	
+yun	yun	yun	yun	N	
+leopard	레오파르트	leopard	레오파르트		N
+leopard	표범	leopard	표범		N
+johnston	존스턴	johnston	존스턴		PROPN
+cacbonat	탄산염	cacbonat	탄산염	N	
+strasbourg	스트라스부르	strasbourg	스트라스부르		PROPN
+trade	트레이드	trade	트레이드	N	
+vanuatu	바누아투	vanuatu	바누아투	N	PROPN
+essex	에식스	essex	에식스	N	PROPN
+trát	종이	trát	종이	N	
+trát	페이퍼	trát	페이퍼	N	
+chật	타이트	chật	타이트	ADJ	
+angela	안젤라	angela	안젤라	N	
+angela	안젤로	angela	안젤+로	N	ADV
+alexandra	알렉산드라	alexandra	알렉산드라	N	
+fukuoka	후쿠오카	fukuoka	후쿠오카	N	PROPN
+floyd	플로이드	floyd	플로이드	N	PROPN
+dùi	스틱스	dùi	스틱스	N	
+dùi	스틱	dùi	스틱	N	
+maximilian	막시밀리아노	maximilian	막시밀리아노	N	
+prague	프라하	prague	프라하	N	PROPN
+cagliari	칼리아리	cagliari	칼리아리	N	PROPN
+celtic	셀틱	celtic	셀틱	N	PROPN
+genoa	제노바	genoa	제노바	N	PROPN
+nicole	니콜	nicole	니콜	N	
+orion	오리온자리	orion	오리온자리	N	
+orion	오리온	orion	오리+오+ㄴ	N	
+arab	아랍인	arab	아랍인	N	
+arab	아랍	arab	아랍	N	PROPN
+eiffel	에펠	eiffel	에펠	N	
+stefan	스테판	stefan	스테판	N	PROPN
+stefan	슈테판	stefan	슈테판	N	PROPN
+bavaria	바이에른	bavaria	바이가+라	N	PROPN
+lund	룬드	lund	룬드		PROPN
+solar	태양광	solar	태양광		N
+solar	태양	solar	태양		N
+francesco	프란체스코	francesco	프란체스코	N	PROPN
+tchad	차드	tchad	차드	N	PROPN
+guốc	물방울	guốc	물방울	N	
+edmund	에드먼드	edmund	에드먼드		PROPN
+python	python	python	python	N	
+python	파이썬	python	파이썬	N	
+beethoven	베토벤	beethoven	베토벤	V	PROPN
+wesley	웨슬리	wesley	웨슬리	N	
+forever	영원히	forever	영원+히		ADV
+forever	forever	forever	forever		
+forever	영원한	forever	영원+하+ㄴ		V
+franc	프랑	franc	프랑	N	PROPN
+percy	퍼시	percy	퍼시	N	
+said	말했다	said	말하+었+다		V
+heroes	히어로	heroes	히어+로	N	
+heroes	히어로즈	heroes	히어로즈	N	PROPN
+venus	금성	venus	금성		PROPN
+emily	emily	emily	emily	N	
+emily	에밀리	emily	에밀리	N	PROPN
+mcdonnell	맥도넬	mcdonnell	맥도+하+지	N	PROPN
+tehran	테헤란	tehran	테헤+란	N	
+brisbane	브리즈번	brisbane	브리즈번	N	PROPN
+brisbane	커리	brisbane	커리	N	
+brisbane	태즈메이니아	brisbane	태즈메이니아	N	PROPN
+guinness	기네스	guinness	기네스	N	
+niğde	보르	niğde	보르	N	
+honolulu	호놀룰루	honolulu	호놀루+ㄹ		PROPN
+glee	글리	glee	글리	N	
+jamie	제이미	jamie	제이미	N	PROPN
+brad	브래드	brad	브래드	N	PROPN
+maiden	처녀	maiden	처녀	N	
+clayton	클레이턴	clayton	클레이턴	N	PROPN
+silent	침묵	silent	침묵		N
+olympia	올림피아	olympia	올림피아	N	
+falcon	팰컨	falcon	팰컨	N	
+falcon	팰콘	falcon	팰콘	N	
+tucker	터커	tucker	터히+ㄴ	N	
+scandal	스캔들	scandal	스캔들		N
+kerala	케랄라	kerala	케라르+아	N	
+starcraft	스타크래프트	starcraft	스타크래프트	N	
+mohammed	모하메드	mohammed	모하메드	N	PROPN
+mohammed	무함마드	mohammed	무함마드	N	PROPN
+bates	베이츠	bates	베이츠	N	PROPN
+isabella	이사벨라	isabella	이사벨+이+라		PROPN
+isabella	이사벨	isabella	이사벨		PROPN
+browning	브라우닝	browning	브라우닝		PROPN
+osprey	오스프리	osprey	오스프리	N	
+potsdam	포츠담	potsdam	포츠담		PROPN
+lươn	장어	lươn	장+어	N	
+lươn	장어	lươn	장+어	N	
+rex	렉스	rex	렉스	N	
+fbi	fbi	fbi	fbi	N	
+marathon	마라톤	marathon	마라톤	N	
+cola	코카콜라	cola	코카콜라	N	
+cola	콜라	cola	콜라	N	
+cola	콜라보	cola	콜라보	N	
+cola	콜라	cola	콜라	N	
+gibson	깁슨	gibson	3+닉		PROPN
+lốc	돌풍	lốc	돌풍	N	
+lốc	회오리	lốc	회오리	N	
+lốc	트위스터	lốc	트위스터	N	
+debut	데뷔해	debut	데증+하+어		V
+debut	데뷔	debut	데뷔		N
+đôla	달러	đôla	달러		N
+kit	다음	kit	다음		N
+kit	키트	kit	키트		N
+touch	touch	touch	touch	N	
+barbados	바베이도스	barbados	바베이도스		PROPN
+nagoya	나고야	nagoya	나고+아야	N	
+designer	디자이너	designer	디자이너	N	
+designer	디자이너가	designer	디자+이너+가	N	
+reeve	리브	reeve	리브	N	
+rách	조각	rách	조각	V	N
+hoffman	호프만	hoffman	호프+만		PROPN
+hoffman	호프만	hoffman	호프+만		PROPN
+cbs	cbs	cbs	cbs	N	
+mohammad	모하마드	mohammad	모하마드	N	PROPN
+altai	알타이	altai	알타이	N	PROPN
+ural	우랄	ural	우랄	N	
+vệt	트레일	vệt	트레일		N
+vệt	흔적	vệt	흔적		N
+diệc	헤론	diệc	헤론	N	
+shinji	신지	shinji	신+지	N	
+aim	조준	aim	조준		N
+ver	alma	ver	alma		
+ver	val	ver	val		
+api	api	api	api	N	
+api	api	api	api	N	
+api	apis	api	apis	N	
+kanji	간지	kanji	간지	N	
+magna	magna	magna	magna	N	
+reid	리드	reid	리드	N	
+hepburn	헵번식	hepburn	헵번식	N	
+hepburn	헵번	hepburn	헵번	N	
+sophia	소피아	sophia	소피아	N	PROPN
+aids	에이즈	aids	에이즈	N	
+salerno	살레르노	salerno	살레르노	N	PROPN
+mann	mann	mann	mann	N	
+ahmad	아흐메드	ahmad	아흐메드	N	PROPN
+ahmad	아흐마드	ahmad	아흐마드	N	PROPN
+rca	rca	rca	rca	N	
+tui	tui	tui	tui		
+brescia	브레시아	brescia	브레시아	NUM	PROPN
+alonso	알론소	alonso	알론소	N	PROPN
+xvii	xvi	xvii	xvi	NUM	
+parma	파르마	parma	파르마	N	PROPN
+flanders	플랜더스	flanders	플랜더스	N	
+salem	세일럼	salem	세일+처		ADV
+yamamoto	야마모토	yamamoto	야마모토	N	PROPN
+islam	이슬람주의	islam	이슬람+주의	N	
+ios	ios	ios	ios	N	
+lambert	람베르트	lambert	람베르트	N	
+lambert	램버트	lambert	램버트	N	
+gps	gps	gps	gps	N	
+canon	캐논	canon	캐논	N	
+micronesia	미크로네시아	micronesia	미크로네시아	N	PROPN
+mid	중순	mid	중순	N	
+mid	미드	mid	미드	N	
+mid	mid	mid	mid	N	
+acre	에이커	acre	에이커	N	
+acre	아크레	acre	아크레	N	
+sonata	소나타	sonata	소나타	N	
+súp	수프	súp	수프	N	
+domingo	도밍고	domingo	도밍고	N	
+sheffield	셰필드	sheffield	셰필드	N	PROPN
+perkins	퍼킨스	perkins	퍼킨스	N	
+lexington	렉싱턴	lexington	렉싱턴		PROPN
+charleston	찰스턴	charleston	찰스턴		PROPN
+thảy	던지기	thảy	던지기		V
+gerald	제럴드	gerald	제럴드		PROPN
+eden	이든	eden	이+든	N	
+eden	에덴	eden	에덴	N	
+junkers	융커스	junkers	융커스	N	
+rumani	루마니아	rumani	루마니아		PROPN
+rumani	루마니아인	rumani	루마니아인		N
+rumani	루마니아어	rumani	루마니아어		PROPN
+care	케어	care	케+어		N
+past	과거	past	과거		N
+xiên	스피어	xiên	스피어	N	
+wiley	윌리	wiley	윌리	N	
+fowler	파울러	fowler	파울러	N	
+rudy	루디	rudy	루디	N	
+annie	애니	annie	애+니	N	
+vinci	다빈치	vinci	다빈치	N	
+thick	두껍게	thick	두껍+게		ADJ
+thick	두꺼운	thick	두껍+ㄴ		ADJ
+nürnberg	뉘른베르크	nürnberg	뉘른베르크	N	PROPN
+antonius	안토니우스	antonius	안토니우스	N	PROPN
+ibrahim	이브라힘	ibrahim	이브라힘	N	
+ibrahim	아브라함	ibrahim	아브라함	N	PROPN
+abbas	압바스	abbas	압바스	N	PROPN
+abbas	아바스	abbas	아바스	N	PROPN
+adm	adm	adm	adm	N	
+conrad	콘라트	conrad	콘라트		PROPN
+denver	덴버	denver	덴버		PROPN
+christine	크리스틴	christine	크리스틴		PROPN
+falkland	포클랜드	falkland	포클랜드	N	PROPN
+bung	확장	bung	확장	V	N
+bung	확대	bung	확대	V	N
+pisa	피사	pisa	피사	N	PROPN
+bombay	봄베이	bombay	봄베이		PROPN
+jenny	jenny	jenny	jenny	N	
+jenny	제니	jenny	제+니	N	
+krishna	크리슈나	krishna	크리슈+나	N	
+northrop	노스럽	northrop	노스럽		PROPN
+voronezh	보로네시	voronezh	보로네시	N	PROPN
+ieee	ieee	ieee	ieee	N	
+pearson	피어슨	pearson	피어슨	N	
+cebu	세부	cebu	세부	N	
+lốp	타이어	lốp	타이어	N	
+lốp	타이어	lốp	타이어	N	
+lốp	타이어	lốp	타이어	N	
+liège	리에주	liège	리에주	NUM	
+twinkle	반짝이는	twinkle	반짝이+는	N	
+twinkle	반짝반짝	twinkle	반짝반짝	N	
+natal	나탈	natal	나누+ㄹ	N	
+moses	모세스	moses	모세스	N	
+moses	모세	moses	모세	N	
+moses	모스	moses	모스	N	
+memphis	멤피스	memphis	멤피스	N	PROPN
+chapman	채프먼	chapman	채프먼		PROPN
+norwich	노리치	norwich	노리치	N	PROPN
+alta	알타	alta	알타	N	
+adelaide	애들레이드	adelaide	애들레이드	N	PROPN
+adelaide	아델라이드	adelaide	아델라이드	N	PROPN
+angelo	안젤로	angelo	안젤+로		ADV
+messier	메시에	messier	메시+에	N	ADV
+dreams	드림	dreams	드리+ㅁ	N	
+kylie	카일리	kylie	카일리	N	PROPN
+federer	페더러	federer	페더러	N	PROPN
+vụng	어설픈	vụng	어설프+ㄴ	ADJ	
+zombie	좀비	zombie	좀비	N	
+mẩu	ark	mẩu	ark	N	
+turn	체조	turn	체조		N
+hen	진심	hen	진심	V	
+hen	심각하게	hen	심각+하+게	V	CONJ
+hen	진지하게	hen	진지+하+게	V	CONJ
+hen	천식	hen	천식	V	N
+plymouth	플리머스	plymouth	플리머스		PROPN
+anglo	앵글로	anglo	앵글+로	N	ADV
+palm	손바닥	palm	손바닥	N	
+palm	palm	palm	palm	N	
+montreal	몬트리올	montreal	몬트리올	N	PROPN
+root	루트	root	루트	N	
+root	뿌리	root	뿌리	N	
+portugal	포르투갈	portugal	포르투갈	NUM	PROPN
+waterloo	워털루	waterloo	워털루	N	PROPN
+halifax	핼리팩스	halifax	핼리팩스	N	PROPN
+milton	밀턴	milton	밀턴		PROPN
+cac	당신은	cac	당신+은		PRO
+cac	당신	cac	당신		PRO
+archer	아처	archer	아처	N	
+brooks	브룩스	brooks	브룩스	N	
+ferry	페리	ferry	페리	N	
+strauss	스트라우스	strauss	스트라우스	N	
+strauss	슈트라우스	strauss	슈트라우스	N	
+naples	나폴리	naples	나폴리		PROPN
+allison	앨리슨	allison	앨리슨	N	
+lionel	라이오넬	lionel	라이오넬	N	
+lionel	리오넬	lionel	리오넬	N	PROPN
+thani	타니	thani	타+니	N	
+catalan	카탈루냐	catalan	카탈루+아	N	
+catalan	카탈루냐어	catalan	카탈루타어	N	
+rpg	rpg	rpg	rpg	N	
+compact	컴팩트	compact	컴팩트	N	
+compact	콤팩트	compact	콤팩트	N	
+cornell	코넬	cornell	코넬	N	
+motor	모터	motor	모터		N
+motor	전동기	motor	전동기		N
+sat	sat	sat	sat	NUM	
+andersen	안데르센	andersen	안데르센	N	
+elisabeth	엘리자베스	elisabeth	엘리자베스		PROPN
+chiapas	치아파스	chiapas	치아파스	N	PROPN
+primates	영장류	primates	영장류		N
+magnus	매그너스	magnus	매그너스		N
+sục	파워	sục	파우+어	V	
+sục	전력	sục	전력	V	N
+sục	권력	sục	권력	V	N
+abe	아베	abe	아베	N	
+hòm	ark	hòm	ark	V	
+hòm	방주	hòm	방주	V	N
+mọng	juicy	mọng	juicy	ADJ	
+polo	폴로	polo	폴+로	N	
+prairie	프레리	prairie	프레리	N	
+timothy	티모시	timothy	티모시	N	
+cloud	구름	cloud	구름		N
+loét	위궤양	loét	위궤양	N	
+nbc	nbc	nbc	nbc		
+rotterdam	로테르담	rotterdam	로테르담	N	PROPN
+hikaru	히카루의	hikaru	히카루+의	N	PROPN
+hikaru	히카루	hikaru	히카루	N	
+mcdonald	맥도날드	mcdonald	맥도날드	N	
+eminem	에미넴	eminem	에미넴	N	
+rim	rim	rim	rim		
+ferrara	페라라	ferrara	페라+라	N	PROPN
+mượt	부드럽게	mượt	부드럽+게	ADJ	
+perth	퍼스	perth	퍼스	N	PROPN
+lev	레프	lev	레프	N	
+lev	레프트	lev	레프트	N	
+dmitri	드미트리	dmitri	드미트리	N	PROPN
+chad	차드	chad	차드	N	PROPN
+zagreb	자그레브	zagreb	자그레브	N	PROPN
+sấy	멸치	sấy	멸치	V	N
+sấy	드라이어	sấy	드라이어	V	
+sấy	건조	sấy	건조	V	N
+pine	소나무	pine	소나무	N	
+pine	파인	pine	파인	N	
+trút	쏟아져	trút	쏟+아+지+어	V	V
+trút	쏟아지는	trút	쏟+아+지+는	V	V
+anatolia	아나톨리아	anatolia	아나톨리아	N	PROPN
+spam	스팸	spam	스팸	V	N
+cardiff	카디프	cardiff	카디프	N	PROPN
+videos	비디오	videos	비디오		N
+derek	데릭	derek	데릭	N	PROPN
+belgrade	베오그라드	belgrade	베오그라드	N	PROPN
+teresa	테레사	teresa	테레사	N	
+đuốc	토치	đuốc	토치	N	
+đuốc	횃불	đuốc	횃불	N	
+jeremy	제레미	jeremy	제레미	N	
+nakamura	나카무라	nakamura	나카무라	N	
+veronica	베로니카	veronica	베로니카		PROPN
+vision	비전	vision	비전	N	
+nách	겨드랑이	nách	겨드랑이	N	
+polish	폴란드어	polish	폴란드어	NUM	
+polish	폴란드	polish	폴란드	NUM	PROPN
+elvis	elvis	elvis	elvis	N	
+elvis	엘비스	elvis	엘비스	N	
+sting	스팅	sting	스팅		N
+hesse	헤센	hesse	헤센	N	PROPN
+marcos	마르코스	marcos	마르코스		PROPN
+parks	공원	parks	공원		N
+sưởi	맨틀	sưởi	맨틀	V	N
+holocaust	홀로코스트	holocaust	홀로코스트		PROPN
+lisbon	리스본	lisbon	리스본	N	PROPN
+paramount	파라마운트	paramount	파라마파트	N	PROPN
+hít	호흡	hít	호흡	V	N
+continental	콘티넨탈	continental	콘티넨탈	N	
+continental	대륙	continental	대륙	N	
+nexus	넥서스	nexus	넥서스	N	
+kabul	카불	kabul	카불	N	
+còi	휘파람	còi	휘파람	ADJ	
+preston	프레스턴	preston	프레스턴	N	PROPN
+preston	프레스톤	preston	프레스톤	N	
+emi	emi	emi	emi		
+luca	루카	luca	루카	N	
+aria	aria	aria	aria		
+saitama	사이타마	saitama	사이타마	N	
+jake	제이크	jake	제이크		PROPN
+cave	케이브	cave	케이브	N	
+jensen	jensen	jensen	jensen		
+wembley	웸블리	wembley	웸블리	N	PROPN
+vale	베일	vale	베이+ㄹ	N	
+mustang	무스탕	mustang	무스탕	N	
+mustang	머스탱	mustang	머스탱	N	
+wwf	wwe	wwf	wwe	N	PROPN
+wwf	wwf	wwf	wwf	N	
+ballet	발레	ballet	발레	N	
+bali	발리	bali	발리	N	
+click	클릭	click	클릭	V	N
+malay	말레이어	malay	말레+이+어	N	
+malay	말레이시아어	malay	말레이시아어	N	
+baldwin	보두앵	baldwin	보두앵	N	
+baldwin	볼드윈	baldwin	볼드윈	N	
+gomez	고메즈	gomez	고메즈	N	
+diva	디바	diva	디바	N	
+katsuura	가쓰우라	katsuura	가쓰+더라	N	
+exo	엑소	exo	엑소	N	
+aquila	독수리자리	aquila	독수리+자리	N	PROPN
+apache	아파치	apache	아파치	N	
+swaziland	스와질란드	swaziland	스와질란드	N	PROPN
+ngất	기절	ngất	기절	V	N
+dem	dem	dem	dem	N	
+cincinnati	신시내티	cincinnati	신시내티	N	PROPN
+strong	강한	strong	강하+ㄴ		ADJ
+wto	wto	wto	wto		
+morales	모랄레스	morales	모랄레스		PROPN
+campos	캄포스	campos	캄포스	N	PROPN
+quincy	quincy	quincy	quincy	N	
+quincy	퀸시	quincy	퀸시	N	
+fury	퓨리	fury	퓨리	N	
+lviv	리비우	lviv	리비우	NUM	PROPN
+log	로그	log	로그	N	
+claudius	클라우디우스	claudius	클라우디우스	N	PROPN
+plasma	플라즈마	plasma	플라즈마	N	
+avro	아브로	avro	아브+로	N	
+turk	투르크	turk	투르크		PROPN
+yangon	양곤	yangon	양곤	N	PROPN
+strike	스트라이크	strike	스트라이크	N	
+ranger	레인저	ranger	레인저		N
+bucharest	부쿠레슈티	bucharest	부쿠레슈티	N	PROPN
+konstantinos	콘스탄틴	konstantinos	콘스탄틴	N	
+konstantinos	콘스탄티노스	konstantinos	콘스탄티노스	N	PROPN
+konstantinos	콘스탄티누스	konstantinos	콘스탄티누스	N	PROPN
+int	int	int	int	N	
+lufthansa	루프트한자	lufthansa	루프트한자	N	
+connor	코너	connor	코너	N	
+dynamo	다이너모	dynamo	다이너모	N	
+harrier	해리어	harrier	하+어+지+어	N	
+ôliu	올리브	ôliu	올리브	N	
+ôliu	올리브	ôliu	올리브	N	
+liechtenstein	리히텐슈타인	liechtenstein	리히+정레타인		PROPN
+sứa	해파리	sứa	해파리	N	
+cromwell	크롬웰	cromwell	크롬웰	N	PROPN
+queens	퀸즈	queens	퀸즈	N	
+queens	퀸스	queens	퀸스	N	PROPN
+plain	평원	plain	평원		N
+cello	첼로	cello	k+로	N	
+robertson	로버트슨	robertson	로버트슨	N	
+rán	프라이	rán	프라이	N	
+quầy	요리사	quầy	요리사	N	
+dracula	드라큘라	dracula	드라큘+이+라	N	
+metropolitan	메트로폴리탄	metropolitan	메트로폴리탄	N	PROPN
+pass	패스	pass	패스	N	
+canyon	캐니언	canyon	캐니언	N	PROPN
+malacca	믈라카	malacca	믈라카	N	
+christie	크리스티	christie	크리스티	N	
+fleet	플리트	fleet	플리트	N	
+tours	투르	tours	투르	N	
+maldives	몰디브	maldives	몰디브	N	PROPN
+rosario	로사리오	rosario	로사리오		PROPN
+rollins	롤린스	rollins	롤린스	N	PROPN
+antwerp	앤트워프	antwerp	앤트워프	N	PROPN
+jeju	제주	jeju	제주	N	
+diếp	양상추	diếp	양상추	N	
+diếp	상추	diếp	상추	N	
+lesotho	레소토	lesotho	레소토	N	PROPN
+aristotle	아리스토텔레스	aristotle	아리스토텔레스		PROPN
+ultra	울트라	ultra	울트+라	N	
+arcade	아케이드	arcade	아케이드	N	
+kolkata	콜카타	kolkata	콜카타	N	
+wasp	wasp	wasp	wasp	N	
+pratt	프랫	pratt	프랫	N	
+kawasaki	카와사키	kawasaki	카와사키	N	
+kawasaki	가와사키	kawasaki	가와사키	N	PROPN
+amanda	아만다	amanda	아만+이+다	N	
+malcolm	맬컴	malcolm	맬컴		N
+winchester	윈체스터	winchester	윈체스터		PROPN
+cnn	cnn	cnn	cnn	N	
+nhấp	클릭	nhấp	클릭	V	N
+chronicle	연대기	chronicle	연대기		N
+turku	투르쿠	turku	투르쿠	NUM	PROPN
+bradford	브래드퍼드	bradford	브래드퍼드		PROPN
+bradford	브래드포드	bradford	브래드포드		PROPN
+seki	세키	seki	세키	N	
+ein	ein	ein	ein	N	
+messina	메시나	messina	메시+나	N	PROPN
+sếu	크레인	sếu	크레인	N	
+sếu	두루미	sếu	두루미	N	
+sếu	크레인	sếu	크레인	N	
+mandela	만델라	mandela	만델라	N	
+asm	asm	asm	asm	N	
+xiếc	서커스	xiếc	서커스	N	
+dom	dom	dom	dom	N	
+belfast	벨파스트	belfast	벨파스트	N	PROPN
+joy	기쁨	joy	기쁘+ㅁ	N	
+joy	조이	joy	종이	N	
+verdun	베르됭	verdun	베르됭	N	PROPN
+macau	마카오	macau	마카오	N	PROPN
+bryansk	브랸스크	bryansk	브랸스크	N	PROPN
+hare	토끼	hare	토끼		N
+jasper	jasper	jasper	jasper	N	
+jasper	재스퍼	jasper	재스퍼	N	
+nba	nba	nba	nba	N	
+plata	플라타	plata	플라타	N	
+trafford	트래포드	trafford	트래포드	N	
+trafford	트래퍼드	trafford	트래퍼드	N	PROPN
+emirates	에미리트	emirates	에미리트	N	
+sum	합계	sum	합계		N
+swiss	스위스	swiss	스위스	N	PROPN
+rna	rna	rna	rna	N	
+düsseldorf	뒤셀도르프	düsseldorf	뒤셀도르프	NUM	PROPN
+düsseldorf	뒤셀도르프	düsseldorf	뒤셀도르프	NUM	PROPN
+usda	usda	usda	usda	N	
+lives	생명	lives	생명		N
+tyson	타이슨	tyson	타이슨	N	
+sonic	소닉	sonic	소닉	N	
+javascript	javascript	javascript	javascript	N	
+javascript	자바스크립트	javascript	자바스크립트	N	
+sigma	시그마	sigma	시그마	N	
+adventures	어드벤처	adventures	어드벤처		N
+adventures	모험	adventures	모험		N
+varese	바레세	varese	바레세	NUM	PROPN
+sparrow	참새	sparrow	참새	N	
+sparrow	스패로	sparrow	스패+로	N	
+heli	헬륨	heli	헬륨		N
+wii	wii	wii	wi+니	N	
+thames	템스	thames	템스	N	PROPN
+guadeloupe	과들루프	guadeloupe	과들루프	N	PROPN
+guadeloupe	과달루페	guadeloupe	과달루페	N	PROPN
+romero	로메로	romero	로메+로	N	ADV
+pittsburgh	피츠버그	pittsburgh	피츠버그		PROPN
+weimar	바이마르	weimar	바이마르	N	PROPN
+gauss	가우스	gauss	가우스	N	
+sakhalin	사할린	sakhalin	사하+려	N	
+banner	경로	banner	경로	N	
+banner	현수	banner	현수	N	
+pao	lbs	pao	l+bs	N	NUM
+pao	파운드	pao	파운드	N	
+maru	마루	maru	마루	N	
+africanus	아프리카누스	africanus	아프리카누스	N	
+hindi	힌디어	hindi	힌디어	N	
+tango	탱고	tango	탱+고	N	
+montréal	몬트리올	montréal	몬트리올		PROPN
+adrian	아드리안	adrian	아드리안	N	PROPN
+prescott	프레스콧	prescott	프레스콧	N	
+ark	방주	ark	방주		N
+marsh	마시	marsh	마시	N	
+gómez	고메즈	gómez	고메즈	V	
+gómez	고메즈	gómez	고메즈	V	
+coldplay	콜드플레이	coldplay	콜드플레이	N	
+yamaguchi	야마구치	yamaguchi	야마구치	N	PROPN
+brit	브릿	brit	브릿	N	PROPN
+rod	지팡이	rod	지팡이		N
+amazing	놀라운	amazing	놀랍+ㄴ	N	ADJ
+amazing	어메이징	amazing	어메이+징	N	
+joshua	joshua	joshua	joshua	N	
+joshua	조슈아	joshua	조슈아	N	PROPN
+amber	호박	amber	호박		N
+nhk	nhk	nhk	nhk	N	
+montevideo	몬테비데오	montevideo	몬테비+데+오	N	PROPN
+hanoi	하노이	hanoi	하노+이		PROPN
+richter	리히터	richter	리히터	N	
+gamble	도박	gamble	도박	N	
+shiki	시키	shiki	시키	N	
+kurd	쿠르드어	kurd	쿠르드어	N	PROPN
+bethlehem	베들레헴	bethlehem	베들레헴	N	PROPN
+bolt	bolt	bolt	bolt	N	
+invincible	천하무적	invincible	천하무적		N
+mainz	마인츠	mainz	마인츠	N	PROPN
+tracy	트레이시	tracy	트레이시		PROPN
+mickey	미키	mickey	미키	N	
+grenada	그레나다	grenada	그레나다	N	PROPN
+grenada	그레나다의	grenada	그레나다+의	N	PROPN
+xml	xml	xml	xml		
+antigua	앤티가	antigua	앤티+가	N	PROPN
+claudia	클로디아	claudia	클로디아	N	
+claudia	클라우디아	claudia	클라우디아	N	
+aung	아웅	aung	아웅	N	
+dynamics	동역학	dynamics	동역학	N	
+dynamics	다이내믹스	dynamics	다이내믹스	N	
+stoke	스토크	stoke	스토크	N	PROPN
+baku	바쿠	baku	바쿠	N	
+car	자동차	car	자동차		N
+car	차량	car	차량		N
+eduardo	에두아르도	eduardo	에두아르+도	N	PROPN
+albany	올버니	albany	올버니	N	
+blade	블레이드	blade	블레이드	N	
+mat	푸드	mat	푸드	N	
+mat	mat	mat	mat	N	
+mat	매트	mat	매트	N	
+asp	asp	asp	asp		
+penny	페니	penny	페니	N	
+quýt	만다린	quýt	만다리+ㄴ	N	
+quýt	중국어	quýt	중국어	N	
+minamoto	미나모토노	minamoto	미나모토노	N	PROPN
+hacker	hack	hacker	hack		
+durham	더럼	durham	더럼	N	
+chong	chong	chong	chong	N	
+thor	토르	thor	토르	N	
+padova	파도바	padova	파도바	N	PROPN
+ruby	ruby	ruby	ruby		
+comoros	코모로	comoros	코모+로	N	
+sheridan	셰리던	sheridan	카리+던		PROPN
+boa	boa	boa	boa		
+cube	정육면체	cube	정육+면체		N
+rahman	라흐만	rahman	라라만	V	
+resort	리조트	resort	리조트	N	
+williamson	윌리엄슨	williamson	윌리엄슨		PROPN
+bmw	bmw	bmw	bmw	N	
+cartoon	만화	cartoon	만화		N
+penang	페낭	penang	페낭		PROPN
+gớm	염증	gớm	염증	PART	N
+toro	토로	toro	토+로	N	
+toro	토토로	toro	토토+로	N	
+sủa	나무껍질	sủa	나무껍질	ADJ	
+cholesterol	콜레스테롤	cholesterol	콜레스테롤	V	N
+chihuahua	치와와	chihuahua	치오+와	N	CONJ
+chihuahua	치와와	chihuahua	치오+와	N	CONJ
+madeira	마데이라	madeira	마데+이+라	N	
+micro	마이크로	micro	마이크+로	N	
+micro	마이크로	micro	마이크+로	N	
+micro	마이크	micro	마이크	N	
+bath	목욕탕	bath	목욕탕		N
+bath	목욕	bath	목욕		N
+blanc	블랑	blanc	블랑	N	
+cornwall	콘월	cornwall	콘월	N	
+uae	아랍에미리트	uae	아랍에미리트	N	PROPN
+uae	uae	uae	uae	N	
+udine	우디네	udine	우디네	NUM	
+gập	접힘	gập	접힘	V	
+lens	렌즈	lens	렌즈		N
+lens	누출	lens	누출		N
+beirut	베이루트	beirut	베이루트	N	PROPN
+hahn	한한	hahn	한하+ㄴ	N	
+dot	dot	dot	dot	N	
+andersson	안데르손	andersson	안데르손	N	
+elip	타원	elip	타원	N	
+lafayette	라피엣	lafayette	라피엣	N	PROPN
+lafayette	라파예트	lafayette	라파예트	N	PROPN
+tatar	타타르어	tatar	타타르+어	N	
+tatar	타타르	tatar	타타르	N	
+dumbledore	덤블도어	dumbledore	덤블+이+어	N	
+reo	의심	reo	의심	V	
+reo	울림	reo	울리+ㅁ	V	
+fiction	허구	fiction	허구	N	
+sidney	시드니	sidney	시드니		PROPN
+musashi	무사시	musashi	무사시	N	PROPN
+pluto	명왕성	pluto	명왕성	N	PROPN
+adobe	어도비	adobe	어도비	N	
+hyundai	현대그룹	hyundai	현대+그룹		N
+hyundai	현대	hyundai	현대		N
+direct	직통	direct	직통		N
+direct	direct	direct	direct		
+direct	다이렉트	direct	다이렉트		N
+vermont	버몬트	vermont	버몬트	N	PROPN
+craven	크레이븐	craven	크레이븐		PROPN
+kato	카토	kato	카토	N	
+nomura	노무라	nomura	노무라	V	
+thrace	트라키아	thrace	트라키아	N	PROPN
+sugar	설탕	sugar	설탕		N
+antiochos	안티오코스	antiochos	안티오코스	N	PROPN
+kyushu	큐슈	kyushu	큐슈	N	
+kyushu	규슈	kyushu	규슈	N	PROPN
+cremona	크레모나	cremona	크레모+나	N	
+handel	헨델	handel	헨델	N	
+turing	튜링	turing	튜링		N
+shannon	섀넌	shannon	개너+ㄴ		PROPN
+cayman	캘거리	cayman	캘거리	N	PROPN
+martinique	마르티니크	martinique	마르티니크	N	PROPN
+baghdad	바그다드	baghdad	바그다드	N	PROPN
+haas	하스	haas	하스	N	
+tolstoy	톨스토이	tolstoy	톨스토이	N	PROPN
+palawan	팔라완	palawan	팔라완	N	PROPN
+neptune	해왕성	neptune	해왕성	N	PROPN
+neptune	넵튠	neptune	넵튠	N	
+alfonso	알폰소	alfonso	알폰소	N	PROPN
+djibouti	지부티	djibouti	지부티	N	PROPN
+hattori	핫토리	hattori	핫토리	N	
+training	훈련	training	훈련	DET	N
+training	트레이닝	training	트레이닝	DET	N
+lil	lil	lil	lil		
+oakland	오클랜드	oakland	오클랜드	N	PROPN
+toscana	토스카나	toscana	토스카나	N	PROPN
+ambrose	앰브로즈	ambrose	앰브로즈	N	PROPN
+sheikh	셰이크	sheikh	셰이크	N	PROPN
+gear	템포	gear	템포	N	
+gear	기어	gear	기+어	N	
+gear	속도	gear	속도	N	
+benedict	베네딕도	benedict	베네증+도	N	PROPN
+benedict	베네딕토	benedict	베네딕토	N	PROPN
+benedict	베네딕트	benedict	베네딕트	N	
+palmer	팔머	palmer	팔머	N	
+palmer	파머	palmer	파머	N	
+clement	클레멘트	clement	클레멘트	N	
+clement	클레멘스	clement	클레멘스	N	PROPN
+paulus	파울루스	paulus	파울루스	N	
+chopin	쇼팽	chopin	쇼팽	V	PROPN
+ghẻ	딱지	ghẻ	딱+지	N	
+konrad	콘라트	konrad	콘라트		PROPN
+kung	kung	kung	kung	N	
+beograd	베오그라드	beograd	베오그라드	N	PROPN
+avril	에이브릴	avril	에이브릴	N	
+khuya	늦은	khuya	늦+ㄴ	N	
+khuya	지각	khuya	지각	N	
+khuya	늦게	khuya	늦+게	N	ADJ
+kimi	키미	kimi	키미	N	
+beaufort	보퍼트	beaufort	보퍼트	N	
+ferrari	페라리	ferrari	페라리	N	
+stan	스탠리	stan	스탠리		PROPN
+rebel	반군	rebel	반군		N
+bruxelles	브뤼셀	bruxelles	브뤼셀	N	PROPN
+citation	표창	citation	표창		N
+chuck	투척	chuck	투척		N
+bergen	베르겐	bergen	베르+게	N	PROPN
+scottish	스코틀랜드	scottish	스코틀랜드	NUM	PROPN
+scottish	스코틀랜드인	scottish	스코틀랜랜인	NUM	V
+trinity	트리니티	trinity	트리니티	NUM	
+trinity	삼위일체	trinity	삼위일체	NUM	
+antigonos	안티고노스	antigonos	안티고노스	N	PROPN
+shop	가게	shop	가게	N	
+shop	가게	shop	가게	N	
+kafka	카프카	kafka	카프카	N	
+hubert	휴버트	hubert	휴버트		N
+schumacher	슈마허	schumacher	슈마허	N	
+bertrand	베르트랑	bertrand	베르트랑		PROPN
+turin	토리노	turin	토리노	NUM	PROPN
+sylvia	실비아	sylvia	실비아	N	PROPN
+valentin	발렌틴	valentin	발렌틴		PROPN
+thriller	thriller	thriller	thriller	N	
+thriller	스릴러	thriller	스릴러	N	
+brittany	브르타뉴	brittany	브르타뉴		PROPN
+brittany	브리트니	brittany	브리트니		PROPN
+giặt	빨래	giặt	빨래	V	
+giặt	세탁	giặt	세탁	V	N
+giặt	세탁소	giặt	세탁소	V	N
+middlesbrough	미들즈브러	middlesbrough	미들즈스러	N	PROPN
+philipp	필립	philipp	필립		PROPN
+andre	안드레	andre	안드레		PROPN
+andre	안드레	andre	안드레		PROPN
+pierce	피어스	pierce	피어스		PROPN
+rfc	rfc	rfc	rfc	N	
+catania	카타니아	catania	카타니아	N	PROPN
+canary	카나리아	canary	카나리아	N	PROPN
+hilton	힐튼	hilton	힐튼	N	
+hilton	힐턴	hilton	힐턴	N	
+sexy	섹시한	sexy	섹시+하+ㄴ	N	V
+sexy	섹시	sexy	섹시	N	
+vinyl	비닐	vinyl	비닐	N	
+cược	내기	cược	내+기	N	
+cược	내기	cược	내+기	N	
+cược	bet	cược	bet	N	
+chẻ	구멍	chẻ	구멍		N
+chẻ	구멍이	chẻ	구멍+이		N
+vilnius	빌뉴스	vilnius	빌뉴스	N	PROPN
+pharaon	파라오	pharaon	파라오	N	
+sirius	시리우스	sirius	시리우스	N	PROPN
+leonid	레오니트	leonid	레오니트	N	PROPN
+leonid	레오니드	leonid	레오니드	N	PROPN
+fuller	풀러	fuller	풀러	N	
+kino	키노	kino	키노	V	
+concorde	콩코드	concorde	콩코드	N	
+sec	sec	sec	sec	N	
+natalie	나탈리	natalie	나탈리	N	
+cassini	카시니	cassini	카시니	N	
+halloween	할로윈	halloween	할로+씨	V	
+mono	모노	mono	모노	N	
+rót	부어	rót	붓+어	V	
+skin	피부	skin	피부		N
+container	컨테이너	container	컨테이너	N	
+tít	듣기	tít	듣+기		V
+eight	여덟	eight	여덟	NUM	
+eight	eight	eight	eight	NUM	
+cobain	코베인	cobain	코베인	N	
+cody	코디	cody	코디	N	
+shiva	시바	shiva	시바	N	
+merlin	멀린	merlin	멀리+ㄴ	N	
+anchor	앵커	anchor	앵커	N	
+phillip	필립	phillip	필립		PROPN
+martinez	마르티네스	martinez	마르티네스	N	PROPN
+martinez	마르티네즈	martinez	마르티네즈	N	PROPN
+teaser	티저	teaser	티저		N
+teaser	teaser	teaser	teaser		
+edison	에디슨	edison	에디슨	N	
+chằng	인대	chằng	인대	V	N
+sẹo	흉터	sẹo	흉터	N	
+sẹo	흉터	sẹo	흉터	N	
+bravo	bravo	bravo	bravo		
+tahiti	타히티	tahiti	타히티	N	PROPN
+wolfsburg	볼프스부르크	wolfsburg	볼프스부르크	N	PROPN
+kalinin	칼리닌	kalinin	칼리리+ㄴ	N	
+goa	고아	goa	고아		PROPN
+soft	부드러운	soft	부드럽+ㄴ		ADJ
+theodosius	테오도시우스	theodosius	테오도시우스	N	PROPN
+coca	코카콜라	coca	코카콜라	N	
+coca	콜라	coca	콜라	N	
+coca	콜라보	coca	콜라보	N	
+breed	품종	breed	품종		N
+lcd	lcd	lcd	lcd	N	
+bonus	보너스	bonus	보너스	N	
+burma	미얀마	burma	미얀마	N	
+burma	버마	burma	버마	N	
+baptist	침례	baptist	침례	N	
+infinity	인피니티	infinity	인피니티	N	
+infinity	무한	infinity	무하+ㄴ	N	
+hayes	헤이즈	hayes	헤이즈	N	
+hayes	헤이스	hayes	헤이스	N	
+lombard	롬바르드	lombard	롬바르드	N	
+lombard	롬바드	lombard	롬바드	N	
+bịp	속임수	bịp	속임수	N	
+bịp	트릭	bịp	트릭	N	
+forrest	포레스트	forrest	포레스트	N	
+cornelius	코르넬리우스	cornelius	코르넬리우스	N	PROPN
+cornelius	코넬리우스	cornelius	코넬리우스	N	
+tvxq	동방신기	tvxq	동방신기	N	
+robbie	로비	robbie	로비	N	
+sally	샐리	sally	샐리		N
+zurich	취리히	zurich	취리히	N	PROPN
+jyp	jyp	jyp	jyp	N	
+mứt	마멀레이드	mứt	마멀레이드	N	
+tna	tna	tna	tna	N	
+hpa	hpa	hpa	hpa	N	
+benny	베니	benny	베니	N	
+hindenburg	힌덴부르크	hindenburg	힌덴부르크		PROPN
+attila	아틸라	attila	아틸라	N	
+tbilisi	트빌리시	tbilisi	트빌리시	N	PROPN
+rochester	로체스터	rochester	로체스터		PROPN
+aka	aka	aka	aka		
+ngứa	발톱	ngứa	발톱	V	
+rebecca	리베카	rebecca	리베카		PROPN
+panorama	파노라마	panorama	파노라마	N	
+schultz	슐츠	schultz	슐츠	N	
+prop	소품	prop	소품		N
+trumpet	트럼펫	trumpet	트럼펫	N	
+trumpet	나팔	trumpet	나팔	N	
+pot	화분	pot	화분		N
+alma	alma	alma	alma	NUM	
+alma	알마	alma	알마	NUM	
+gsm	gsm	gsm	gsm	N	
+hwan	환희	hwan	환희	N	
+homer	호머	homer	호머	N	
+fourier	푸리에	fourier	푸리+에	N	ADV
+hub	허브	hub	허브	N	
+tivi	텔레비전	tivi	텔레비전	ADJ	N
+tivi	tv	tivi	tv	ADJ	
+argentine	아르헨티나	argentine	아르헨티나	N	PROPN
+argentine	아르헨티나인	argentine	아르헨티나인	N	V
+benin	베냉	benin	베냉	N	PROPN
+sar	sar	sar	sar	N	
+saddam	사담	saddam	사담	N	PROPN
+psv	psv	psv	ps+만	N	
+picasso	피카소	picasso	피카소	N	PROPN
+bien	표시	bien	표시	N	
+bien	표시됨	bien	표시+되+ㄴ	N	V
+hoffmann	호프만	hoffmann	호프+만		PROPN
+heather	헤더	heather	헤더	N	
+joey	조이	joey	종이	N	
+nuremberg	뉘른베르크	nuremberg	뉘른베르크	N	PROPN
+silicon	실리콘	silicon	실리콘	N	
+silicon	실리콘	silicon	실리콘	N	
+isabel	이사벨	isabel	이사벨		PROPN
+damascus	다마스쿠스	damascus	다마스쿠스	N	PROPN
+toyotomi	도요토미	toyotomi	도요토미	PROPN	PROPN
+chatham	채텀	chatham	채텀	N	PROPN
+fountain	분수	fountain	분수	N	
+imp	imp	imp	imp		
+imp	노출	imp	노출		N
+bandai	반다이	bandai	반다이	N	
+beckham	베컴	beckham	베컴	N	
+reyes	레예스	reyes	레예스	N	PROPN
+wendy	wendy	wendy	wendy		
+holiday	휴일	holiday	휴일		N
+holiday	명절	holiday	명절		N
+holiday	연휴	holiday	연휴		N
+holiday	휴가	holiday	휴가		N
+holiday	공휴일	holiday	공휴+이+ㄹ		N
+chocolate	초콜릿	chocolate	초콜릿	N	
+chocolate	초콜렛	chocolate	초콜렛	N	
+transistor	트랜지스터	transistor	트랜지스터	N	
+táp	깨물어	táp	깨물+어	V	
+hybrid	하이브리드	hybrid	하이브리드	N	
+bittorrent	비트토렌트	bittorrent	비트토렌트	N	
+battlefield	배틀필드	battlefield	배틀필드	N	PROPN
+pushkin	푸시킨	pushkin	푸시키+ㄴ	N	
+circus	서커스	circus	서커스	N	
+montpellier	몽펠리에	montpellier	몽펠리+에	N	ADV
+atatürk	아타튀르크	atatürk	아타튀르크	N	PROPN
+dawson	도슨	dawson	도슨	N	
+stress	스트레스	stress	스트레스		N
+pattern	패턴	pattern	패턴	V	N
+greece	그리스	greece	그리스	N	PROPN
+levant	레반트	levant	레반트	N	
+sapporo	삿포로	sapporo	예포+로	N	ADV
+buchanan	뷰캐넌	buchanan	섬캐너+ㄴ		PROPN
+alive	alive	alive	alive		
+rodriguez	로드리게스	rodriguez	로드리게스		PROPN
+lẻn	몰래	lẻn	몰래	V	
+fra	fra	fra	fra		
+cuốc	무작위로	cuốc	무작위+로	N	ADV
+ftp	ftp	ftp	ftp	N	
+tudor	튜더	tudor	튜더	N	
+novara	노바라	novara	노바+라	NUM	
+pal	pal	pal	pal		
+kelvin	켈빈	kelvin	켈빈		N
+sergio	세르지오	sergio	세르+지+오	N	
+hawking	호킹	hawking	호킹	N	
+trier	트리어	trier	트리어	N	PROPN
+medium	미디어	medium	미디어		N
+medium	중간	medium	중간		N
+somali	소말리아	somali	소말리아	N	PROPN
+hardcore	하드코어	hardcore	하드코+어	N	
+milk	우유	milk	우유		N
+jackie	재키	jackie	재키	N	PROPN
+livingston	리빙스턴	livingston	리빙스턴		PROPN
+thierry	티에리	thierry	티에리	N	PROPN
+serena	세레나	serena	세레+나	N	
+serena	세리나	serena	세리+나	N	
+graz	그라츠	graz	그라츠		PROPN
+flo	flo	flo	flo	N	
+cessna	세스나	cessna	세스+나	N	PROPN
+kangaroo	캥거루	kangaroo	캥거루		PROPN
+kangaroo	캥거루	kangaroo	캥거루		PROPN
+kangaroo	캥거루과	kangaroo	後거루+과		CONJ
+chrome	chrome	chrome	chrome	N	
+chrome	크롬	chrome	크롬	N	
+ismail	이스마엘	ismail	이스마엘	N	
+irkutsk	이르쿠츠크	irkutsk	이르쿠츠크	N	PROPN
+alejandro	알레한드로	alejandro	알레한드+로	N	ADV
+infinite	인피니트	infinite	인피니트	N	
+infinite	무한	infinite	무하+ㄴ	N	
+myspace	마이스페이스	myspace	마이스페이스	N	
+buri	부리	buri	부리	N	
+gloucester	글로스터	gloucester	글로스터		PROPN
+hamburger	햄버거	hamburger	햄버거	N	
+hamburger	햄버거	hamburger	햄버거	N	
+sarajevo	사라예보	sarajevo	사라예보	N	PROPN
+breda	브레다	breda	브레다	N	PROPN
+lift	상승	lift	상승		N
+lift	승강기	lift	승강기		N
+inn	inn	inn	inn	N	
+esp	esp	esp	esp	N	
+phuket	푸켓	phuket	푸켓	N	PROPN
+phuket	푸껫	phuket	푸껫	N	
+gap	간격	gap	간격	V	N
+karelia	카렐리야	karelia	카+더리야	N	PROPN
+ogg	ogg	ogg	ogg	N	
+ulsan	울산	ulsan	울산	N	PROPN
+frances	프랜시스	frances	프랜시스		PROPN
+cafe	커피	cafe	커피	N	
+cafe	카페	cafe	카페	N	
+extreme	극단	extreme	극단		N
+bun	불가리아	bun	불가리아		PROPN
+multi	멀티	multi	멀티	DET	
+newark	뉴어크	newark	뉴어크	N	
+armour	갑옷	armour	갑옷	N	
+fat	뚱뚱한	fat	뚱뚱하+ㄴ	N	
+fat	살찐	fat	살찌+ㄴ	N	
+pegasus	페가수스	pegasus	페가수스		PROPN
+pegasus	페가수스자리	pegasus	페가수스자리		PROPN
+seymour	시모어	seymour	시모어		PROPN
+browne	브라운	browne	브라+ㄴ	N	
+plato	플라톤	plato	플라톤	N	
+olympus	올림푸스	olympus	올림푸스	N	
+olympus	올림포스	olympus	올림포스	N	PROPN
+tashkent	타슈켄트	tashkent	타슈켄트	N	PROPN
+hcl	hci	hcl	hci	N	
+fukushima	후쿠시마	fukushima	후쿠시마	N	
+nicola	니콜라	nicola	니콜라	N	
+nicola	니컬라	nicola	니+이+라	N	
+burgundy	부르고뉴	burgundy	부르고뉴	N	PROPN
+renault	르노	renault	르노		PROPN
+mecca	메카	mecca	메카	N	
+augsburg	아우크스부르크	augsburg	아우크스부르크	N	PROPN
+switch	switch	switch	switch	N	
+switch	바꾸기	switch	바꾸+기	N	V
+melanie	멜라니	melanie	크+이+라니		PROPN
+muse	뮤즈	muse	뮤즈	N	
+kazakh	카자흐스탄	kazakh	카자흐스탄	N	PROPN
+kazakh	카자흐어	kazakh	카자흐+어	N	
+pioneer	파이어니어	pioneer	파이어지+어	N	
+pioneer	파이오니아	pioneer	파이오니아	N	
+toulon	툴롱	toulon	툴롱	N	PROPN
+romano	로마노	romano	로마노		PROPN
+bedford	베드퍼드	bedford	베드퍼드	N	
+bedford	베드포드	bedford	베드포드	N	PROPN
+cash	캐시	cash	캐시		N
+cash	현금	cash	현금		N
+cash	cash	cash	cash		
+runner	달리기	runner	달리+기	N	
+twilight	트와일라잇	twilight	트와일라인	N	ADV
+twilight	황혼	twilight	황혼	N	
+voltaire	볼테르	voltaire	볼테르	N	PROPN
+robson	롭슨	robson	3+슨	N	
+mask	마스크	mask	마스크		N
+salmon	연어	salmon	연+어	N	
+nhả	출시	nhả	출시	V	N
+nhả	발매	nhả	발매	V	N
+nhả	릴리스	nhả	릴리스	V	N
+nhả	릴리즈	nhả	릴리즈	V	
+nhả	개봉	nhả	개봉	V	N
+minneapolis	미니애폴리스	minneapolis	미니애폴리스		PROPN
+lions	라이온스	lions	라이온스	N	
+lions	라이언스	lions	라이언스	N	
+lions	사자	lions	사자	N	
+buckingham	버킹엄	buckingham	버킹엄		PROPN
+petersen	피터슨	petersen	피터슨	V	PROPN
+mona	모나	mona	모나	N	
+elsa	엘사	elsa	엘사	N	
+madeleine	마들렌	madeleine	마들렌	N	
+madeleine	매들린	madeleine	매들리+ㄴ	N	
+backstreet	backstreet	backstreet	backstreet		
+nagano	나가노	nagano	나가노	N	PROPN
+kana	카나	kana	카+나	N	
+coventry	코번트리	coventry	코번트리	N	PROPN
+pbs	pbs	pbs	pbs		
+baek	baek	baek	baek	N	
+fitzgerald	피츠제럴드	fitzgerald	피츠제럴드	N	
+treviso	트레비소	treviso	트레비소	N	PROPN
+romeo	로미오	romeo	로미오	N	
+romeo	romeo	romeo	romeo	N	
+joyce	조이스	joyce	조이스	N	
+meet	만나	meet	만나+아	ADJ	
+alexis	알렉시스	alexis	알렉시스	N	
+alexis	알렉세이	alexis	알렉세+이	N	PROPN
+greenwich	그리니치	greenwich	그리니치	N	PROPN
+kinabalu	키나발루	kinabalu	키나발루	N	PROPN
+titus	티투스	titus	티투스	N	PROPN
+titus	타이터스	titus	타이터스	N	PROPN
+messenger	messenger	messenger	messenger	N	
+messenger	메신저	messenger	메신저	N	
+por	por	por	por		
+stream	스트림	stream	스트림		N
+petra	페트라	petra	페트라	N	
+oldenburg	올덴부르크	oldenburg	올덴부르크		PROPN
+jacobs	제이컵스	jacobs	제이컵스	N	
+jacobs	제이콥스	jacobs	제이콥스	N	PROPN
+sikorsky	시코르스키	sikorsky	시코르스키	N	PROPN
+reims	랭스	reims	랭스	N	PROPN
+sio	시오	sio	시오	N	
+niigata	니가타	niigata	니가타	N	PROPN
+ericsson	에릭슨	ericsson	에릭슨	N	PROPN
+achilles	아킬레스	achilles	아킬레스	N	
+cast	깁스	cast	깁스	N	
+cast	캐스트	cast	캐스트	N	
+constance	콘스탄스	constance	콘스탄스	N	PROPN
+dhaka	다카	dhaka	다카	N	
+seem	sem	seem	sem	ADJ	
+amor	amor	amor	amor		
+michele	미셸	michele	미셸	N	PROPN
+swansea	스완지	swansea	스완지	N	PROPN
+guadalupe	과달루페	guadalupe	과달루페	N	PROPN
+mendoza	멘도사	mendoza	멘도사	N	PROPN
+lampard	램퍼드	lampard	램퍼드	N	
+tunis	튀니스	tunis	튀니스	N	PROPN
+nigel	나이젤	nigel	나이젤	N	
+sue	sue	sue	sue		
+garfield	가필드	garfield	가필드		PROPN
+tula	툴라	tula	띠+라	NUM	
+hermes	헤르메스	hermes	헤르메스	N	
+registry	레지스트리	registry	레지스트리		N
+gogh	고흐	gogh	고흐		N
+jedi	제다이	jedi	제다+이	N	
+iglesias	이글레시아스	iglesias	이글레시아스	N	PROPN
+harley	할리	harley	하+ㄹ리	N	
+survivor	survivor	survivor	survivor	N	
+gauge	궤간	gauge	궤간		N
+reno	르노	reno	르노	N	PROPN
+reno	리노	reno	리노	N	
+nháp	초안	nháp	초안	V	N
+nháp	드래프트	nháp	드래프트	V	N
+nháp	임시	nháp	임시	V	
+chát	채팅	chát	채팅	ADJ	N
+lahore	라호르	lahore	라호르	N	PROPN
+melody	melody	melody	melody		
+sterling	스털링	sterling	스털링	V	
+northampton	노샘프턴	northampton	노샘프턴		PROPN
+judith	주디스	judith	주디스	N	PROPN
+shirley	셜리	shirley	셜리		PROPN
+michelangelo	미켈란젤로	michelangelo	미즈란레+로		ADV
+nairobi	나이로비	nairobi	나이로비	N	PROPN
+cate	케이틀린	cate	케이틀린	N	
+lou	루키	lou	루키	N	
+advance	미리	advance	미리	N	ADV
+pocket	포켓	pocket	포켓	N	
+pocket	주머니	pocket	주머니	N	
+elite	엘리트	elite	엘리트	N	
+angry	앵그리	angry	앵그리	N	
+angry	화나	angry	화나	N	
+angry	화난	angry	화난	N	
+lisboa	리스본	lisboa	리스본		PROPN
+stamford	스탬퍼드	stamford	스탬퍼드	N	
+faust	파우스트	faust	파우스트	N	PROPN
+kansai	간사이	kansai	간사+이		PROPN
+mannheim	만하임	mannheim	만하+이	N	
+mannheim	만하임	mannheim	만하+이	N	
+everest	에베레스트	everest	에베레스트	N	PROPN
+mpeg	mpeg	mpeg	mpeg	N	
+atm	atm	atm	atm	N	
+dover	도버	dover	도버	N	
+bohr	보어	bohr	보+어	N	PROPN
+bray	브레이드	bray	브레이드	NUM	N
+bray	브레이	bray	브레+이	NUM	
+giỏ	포켓	giỏ	포켓	N	
+giỏ	주머니	giỏ	주머니	N	
+giỏ	바스켓	giỏ	바스켓	N	
+giỏ	바구니	giỏ	바구니	N	
+giỏ	바구니	giỏ	바구니	N	
+sap	sap	sap	sap		
+marta	마르타	marta	마르타	N	
+tạt	겨자	tạt	겨자	ADJ	
+tạt	머스터드	tạt	머스터드	ADJ	
+cascade	캐스케이드	cascade	캐스케이드	N	
+cascade	계단식	cascade	계단식	N	
+howe	하우	howe	하우	N	
+manitoba	매니토바	manitoba	매니토바	N	PROPN
+cật	신장	cật	신장	V	N
+tea	홍차	tea	홍차	N	
+stern	stern	stern	stern		
+breaking	깨짐	breaking	깨+ㅁ		V
+alien	외계인	alien	외계+이+ㄴ		V
+kumamoto	구마모토	kumamoto	구마모토		PROPN
+jungle	정글	jungle	정글	N	
+lorenz	로렌츠	lorenz	로렌츠		PROPN
+hillary	힐러리	hillary	힐러리	N	PROPN
+genie	지니	genie	지니	N	
+mangan	망가니즈	mangan	망가니즈	N	
+compton	콤프턴	compton	콤프턴	N	PROPN
+mgm	mgm	mgm	mgm	N	
+msn	msn	msn	msn		
+fleming	플레밍	fleming	플레밍	N	
+glucose	포도당	glucose	포도당	N	
+credit	크레딧	credit	크레딧		N
+credit	신용	credit	신용		N
+credit	신용카드	credit	신용카드		N
+galápagos	갈라파고스	galápagos	갈라파고스		N
+utrecht	위트레흐트	utrecht	위트레트트	N	PROPN
+jacqueline	재클린	jacqueline	재클린	N	
+café	카페	café	카페	N	
+café	카페	café	카페	N	
+freiburg	프라이부르크	freiburg	프라이부르크	N	PROPN
+arras	아라스	arras	아라스	N	PROPN
+điếc	청각	điếc	청각	V	N
+xxi	xxi	xxi	xxi	NUM	
+concept	concept	concept	concept	N	
+concept	컨셉	concept	컨셉	N	
+casino	카지노	casino	카지노	N	
+sami	sami	sami	sami		
+marilyn	마릴린	marilyn	마릴리+ㄴ	N	
+hyde	하이드	hyde	하이드	N	
+ulysses	율리시스	ulysses	율리시스	N	
+gifu	기후	gifu	기후	N	
+rệp	벅스	rệp	벅스	N	
+rệp	버그	rệp	버그	N	
+sacramento	새크라멘토	sacramento	새크라멘토	N	PROPN
+wallis	왈리스	wallis	왈리스	N	
+jericho	제리코	jericho	제리코	N	PROPN
+thatcher	대처	thatcher	대처	V	
+khz	khz	khz	khz	N	
+zip	zip	zip	zip	N	
+kharkiv	하르키우	kharkiv	하르키우	N	
+moravia	모라비아	moravia	모라비아	N	
+fermat	페르마	fermat	페르마	N	
+alexios	알렉시오스	alexios	알렉시오스	N	
+colt	colt	colt	colt	N	
+colt	콜트	colt	콜트	N	
+danzig	단치히	danzig	단치히	N	ADV
+clarence	클래런스	clarence	클래런스		PROPN
+livingstone	리빙스턴	livingstone	리빙스턴		PROPN
+caracas	카라카스	caracas	카라카스	N	PROPN
+judy	주디	judy	주디	N	
+judy	쥬디	judy	쥬디	N	
+mầu	색상	mầu	색상	N	
+mầu	컬러	mầu	컬러	N	
+mcmahon	맥마흔	mcmahon	맥마흔	N	
+jobs	작업	jobs	작업		N
+jobs	일자리	jobs	일자리		N
+jobs	직업	jobs	직업		N
+safari	사파리	safari	사파리	N	
+atr	atr	atr	atr		
+bonnie	보니	bonnie	보+니	N	
+som	som	som	som	N	
+rumble	럼블	rumble	럼블	N	
+stay	머무르지	stay	머무르+지	N	V
+stay	머물러	stay	머무르+어	N	V
+stay	머무르고	stay	머무르+고	N	V
+worms	보름스	worms	보름스		PROPN
+nháy	플래시	nháy	플래시	V	N
+nháy	타격	nháy	타격	V	N
+nháy	타자	nháy	타+자	V	N
+nháy	깜빡	nháy	깜빡	V	
+calhoun	캘훈	calhoun	캘훈	N	
+castilla	카스티야	castilla	카스티야	N	PROPN
+superman	슈퍼맨	superman	슈퍼맨	N	
+champ	챔피언	champ	챔피언		N
+saints	성인인	saints	성인인	N	V
+perez	페레즈	perez	페레즈	N	
+jerome	제롬	jerome	제롬	N	PROPN
+rapunzel	라푼젤	rapunzel	라푼젤	V	
+clemens	클레멘스	clemens	클레멘스	N	PROPN
+trọc	대머리	trọc	대머리	V	N
+meiji	메이지	meiji	메이지	N	
+sạc	충전기	sạc	충전기	V	N
+sạc	청구	sạc	청구	V	N
+sạc	충전	sạc	충전	V	N
+sạc	전하	sạc	전하	V	
+imax	아이맥스	imax	아이맥스	N	
+fossil	화석	fossil	화석	NUM	N
+karachi	카라치	karachi	카라치	N	PROPN
+esther	에스더	esther	에스더	N	
+esther	에스텔	esther	에스텔	N	
+cdp	cdp	cdp	cdp	N	
+laurence	로렌스	laurence	로렌스	N	PROPN
+lester	레스터	lester	레스터		PROPN
+carson	카슨	carson	카슨	N	PROPN
+aoi	아오이	aoi	아오이	N	
+alpine	알파인	alpine	알파+이+ㄴ	N	
+sicily	시칠리아	sicily	시칠리아	N	
+sicily	시칠리아	sicily	시칠리아	N	
+antony	안토니우스	antony	안토니우스		PROPN
+reeves	리브스	reeves	리브스	N	
+laplace	라플라스	laplace	라플라스	N	PROPN
+ufo	ufo	ufo	ufo	N	
+platinum	플래티넘	platinum	플래티넘	N	
+arad	아라드	arad	아라드	N	
+savoy	사보이아	savoy	사보이아	N	
+savoy	사보이	savoy	사보+이	N	
+cyprus	사이프러스	cyprus	사이프러스	N	
+cyprus	사이프레스	cyprus	사이프레스	N	
+bio	바이오	bio	바이오	N	
+fig	fig	fig	fig	N	
+fig	무화과	fig	무화+과	N	CONJ
+electra	엘렉트라	electra	엘렁트+라	N	PROPN
+electra	일렉트라	electra	일렉트+이+라	N	
+trip	여행	trip	여행		N
+morocco	모로코	morocco	모로코	N	PROPN
+camden	캠던	camden	줄+던	N	
+shia	샤이아	shia	샤이아	N	
+hittite	히타이트	hittite	히타이트	N	PROPN
+eclipse	일식	eclipse	일식	V	
+eclipse	이클립스	eclipse	이클립스	V	
+tap	참가자	tap	참가자		N
+foo	foo	foo	foo	N	
+gwangju	광주	gwangju	광주	N	PROPN
+lover	연인	lover	연인		N
+lover	애인	lover	애인		N
+honshu	혼슈	honshu	혼슈	N	
+kirov	키로프	kirov	키로프	N	PROPN
+tor	tor	tor	tor	V	
+tor	토르	tor	토르	V	
+capo	카포	capo	카포	N	
+orient	오리엔트	orient	오리엔트	N	
+romanov	로마노프	romanov	로마노프		PROPN
+cos	cos	cos	cos	N	
+natalia	나탈리아	natalia	나탈리아	N	
+gmbh	gmbh	gmbh	gmb+과		
+abrams	에이브람스	abrams	에이브람스	N	
+warwick	워릭	warwick	워릭	N	
+watford	왓퍼드	watford	왓퍼드	N	PROPN
+watford	왓포드	watford	왓포드	N	
+râm	그늘	râm	그늘	ADJ	
+milwaukee	밀워키	milwaukee	밀워키		PROPN
+edith	에디스	edith	에디스	N	PROPN
+edith	에디트	edith	에디트	N	
+noah	노아	noah	노아	N	
+caucasus	캅카스	caucasus	캅카스	N	PROPN
+lynx	살쾡이	lynx	살증+이		N
+app	어플리케이션	app	어플리케이션	N	
+brook	브룩	brook	브룩	N	PROPN
+peso	페소	peso	페소		PROPN
+peso	페소	peso	페소		PROPN
+fontainebleau	퐁텐블로	fontainebleau	증텐블+로	N	ADV
+perugia	페루자	perugia	페루+자	NUM	PROPN
+shock	충격	shock	충격		N
+shock	쇼크	shock	쇼크		N
+tchaikovsky	차이콥스키	tchaikovsky	차이콥스키	N	
+fusion	융합	fusion	융합		N
+fusion	핵융합	fusion	핵융합		N
+fyodor	표도르	fyodor	표도르	N	PROPN
+coffee	커피	coffee	커피	N	
+pla	pla	pla	pla	N	
+flemish	플랑드르	flemish	플랑드르	N	PROPN
+khosrau	호스로	khosrau	호스+로	N	
+ala	ala	ala	ala	N	
+itf	itf	itf	itf	N	
+isis	isis	isis	isis		
+pizza	피자	pizza	피자	N	
+shikoku	시코쿠	shikoku	시코쿠	N	
+cobra	코브라	cobra	코브+이+라	N	
+lumia	루미아	lumia	루미아	N	
+rsa	rsa	rsa	rsa	N	
+hockey	하키	hockey	하키	N	
+xỉn	취해	xỉn	취하+어	ADJ	
+fed	fed	fed	fed	N	
+sherlock	셜록	sherlock	셜록		PROPN
+sinatra	시나트라	sinatra	시나트+라	N	
+briggs	브릭스	briggs	브릭스	N	
+julio	훌리오	julio	자리+오	N	PROPN
+fortune	포춘	fortune	포춘	N	
+faraday	패러데이	faraday	패러데이	N	
+tate	테이트	tate	테이트		PROPN
+rapid	급속한	rapid	급속+하+ㄴ		V
+potosí	포토시	potosí	포토시		PROPN
+clyde	클라이드	clyde	클라이드	N	PROPN
+kiribati	키리바시	kiribati	키리바시	N	PROPN
+karlsruhe	카를스루에	karlsruhe	카를스루+에	N	ADV
+goodman	굿맨	goodman	굿맨	N	
+memoirs	회상록	memoirs	회상록	N	
+memoirs	회고록	memoirs	회+고록	N	
+muller	뮐러	muller	지르+어	N	PROPN
+perseus	페르세우스자리	perseus	페르세우스자리		PROPN
+perseus	페르세우스	perseus	페르세우스		PROPN
+ria	ria	ria	ria	NUM	
+olivia	olivia	olivia	olivia	N	
+olivia	올리비아	olivia	올리비아	N	PROPN
+dodge	닷지	dodge	오+지	N	
+spike	스파이크	spike	스파이크	N	
+augustine	아우구스틴	augustine	아우구스틴	N	PROPN
+matsumoto	마츠모토	matsumoto	마츠모토		PROPN
+gangnam	강남	gangnam	강남	N	
+cdma	cdma	cdma	cdma	N	
+aruba	아루바	aruba	아루바	N	PROPN
+burt	버트	burt	버트	N	
+avignon	아비뇽	avignon	아비뇽	N	PROPN
+monarch	모나크	monarch	모나크	N	
+olive	올리브	olive	올리브	N	
+kitts	키트	kitts	키트		N
+equus	에쿠스	equus	에쿠스	N	
+voyage	항해	voyage	항하+어	N	
+agnes	아그네스	agnes	아그네스	N	
+calgary	캘거리	calgary	캘거리	N	PROPN
+dalmatia	달마티아	dalmatia	달마티아	N	PROPN
+haydn	하이든	haydn	하+든	N	
+murad	무라트	murad	무라트	N	
+escape	탈출	escape	탈출		N
+salon	미용실	salon	미용실		N
+salon	미용실	salon	미용실		N
+bikini	비키니	bikini	비키니	N	
+ita	ita	ita	ita	N	
+mika	미카	mika	미카	N	
+maggie	매기	maggie	매+기	N	
+siết	포옹	siết	포옹	V	N
+siết	안아	siết	안+아	V	
+siết	짜장면	siết	짜장+면	V	
+visa	비자	visa	비자	V	N
+tsushima	쓰시마	tsushima	쓰시마	N	
+alger	녹조류	alger	녹조류	N	
+pompey	폼페이우스	pompey	폼페이우스	N	PROPN
+daewoo	대우	daewoo	대우	N	
+martini	마티니	martini	마티니	N	
+clarkson	클라크슨	clarkson	클라크슨	N	
+nazi	파시스트	nazi	파시스트		N
+brazilian	브라질	brazilian	브라질	N	
+creed	크리드	creed	크리드		N
+trail	흔적	trail	흔적		N
+trail	트레일	trail	트레일		N
+bosco	보스코	bosco	보스코	N	
+shore	해변	shore	해변		N
+hyo	효자	hyo	효자	N	
+billie	billie	billie	billie		
+chaos	카오스	chaos	카오스	N	
+karaoke	가라오케	karaoke	가라오케	N	
+vargas	바르가스	vargas	바르가스	N	PROPN
+feat	feat	feat	feat	N	
+rostock	로스토크	rostock	로스토크	NUM	PROPN
+marin	마린	marin	마리+ㄴ	NUM	
+nazareth	나사렛	nazareth	나사렛	N	PROPN
+nazareth	나사렛	nazareth	나사렛	N	PROPN
+cctv	cctv	cctv	cctv	N	
+melissa	멜리사	melissa	멜리사	N	
+tar	tar	tar	tar		
+uppsala	웁살라	uppsala	後살+라	N	PROPN
+juliet	줄리엣	juliet	줄리엣	N	
+angus	앵거스	angus	앵거스	N	PROPN
+horus	호루스	horus	호루스	N	
+yui	yui	yui	yui	N	
+cas	cas	cas	cas	N	
+hamas	하마스	hamas	하마스	N	
+vfl	vfl	vfl	vfl		
+mchenry	맥헨리	mchenry	맥헨리		PROPN
+palmyra	팔미라	palmyra	팔미+라	N	
+loc	loc	loc	loc	N	
+ishikawa	이시카와	ishikawa	이시카+와		CONJ
+frozen	냉동	frozen	냉동	N	
+frozen	프로즌	frozen	프로즌	N	
+poincaré	푸앵카레	poincaré	푸앵카레	N	PROPN
+barbuda	바부다	barbuda	바부+이+다	N	PROPN
+akita	아키타	akita	아키타	N	
+zenit	제니트	zenit	제니트	N	
+charter	헌장	charter	헌장		N
+charter	전세	charter	전세		N
+geoff	제프	geoff	제프	N	
+kyiv	키예프	kyiv	키예프		PROPN
+sanders	샌더스	sanders	샌더스	N	
+spy	구토	spy	구토		N
+bmp	bmp	bmp	bmp	N	
+stereo	stereo	stereo	stereo	N	
+murcia	무르시아	murcia	무르시아	NUM	PROPN
+georgetown	조지타운	georgetown	조지럽+ㄴ	ADJ	
+pedersen	페데르센	pedersen	페데르센	N	
+lance	랜스	lance	랜스	N	
+amd	amd	amd	amd	N	
+vladivostok	블라디보스톡	vladivostok	블라디보스톡	N	
+vladivostok	블라디보스토크	vladivostok	블라디보스토크	N	PROPN
+blogger	블로거	blogger	블로거	N	
+blogger	블로그	blogger	블로그	N	
+stephanie	스테퍼니	stephanie	스테퍼니	N	
+stephanie	스테파니	stephanie	스테파니	N	
+bing	bing	bing	bing	N	
+itō	이토	itō	이토	N	
+shotgun	샷건	shotgun	샷건	N	
+chapel	채플	chapel	채플	N	
+acb	acb	acb	ac+하+게	N	
+khít	포장	khít	포장	ADJ	N
+gee	gee	gee	gee	N	
+rhodesia	로디지아	rhodesia	로디지아	N	
+bert	버트	bert	버트	N	
+westinghouse	웨스팅하우스	westinghouse	웨스팅하우스	V	
+harmony	조화	harmony	조화		N
+diaz	디아즈	diaz	디아즈	N	
+diaz	디아스	diaz	디아스	N	PROPN
+vầng	황금	vầng	황금	N	
+vầng	골든	vầng	골든	N	
+odyssey	오디세이	odyssey	오디세이	N	
+ngo	ngo	ngo	ngo	N	
+kashima	가시마	kashima	가시마	N	
+davidson	데이비드슨	davidson	데이비드슨	N	PROPN
+chernobyl	체르노빌	chernobyl	체르노빌	V	N
+murakami	무라카미	murakami	무라카미	N	
+hammond	하몬드	hammond	하몬드	N	
+hammond	해먼드	hammond	해먼드	N	
+hastings	헤이스팅스	hastings	헤이스팅스	N	PROPN
+patagonia	파타고니아	patagonia	파타고니아	N	
+fairfield	페어필드	fairfield	페어필드	N	
+găm	단검	găm	단검	V	N
+ava	ava	ava	ava		
+cristina	크리스티나	cristina	크리스티나		PROPN
+plc	plc	plc	plc	N	
+gerrard	제라드	gerrard	제라드	N	
+futsal	풋살	futsal	풋살	N	
+anthology	anthology	anthology	anthology		
+ishida	이시다	ishida	이+시+다	N	
+pia	pia	pia	pia	N	
+steam	증기	steam	증기		N
+spa	spa	spa	spa	N	
+spa	스파	spa	스파	N	
+spa	스파	spa	스파	N	
+tornado	토네이도	tornado	토네이도	N	
+vin	vin	vin	vin	V	
+keane	킨텍스	keane	킨텍스	N	PROPN
+keane	지킨	keane	지키+ㄴ	N	
+chorus	합창	chorus	합창		N
+paxton	팩스턴	paxton	팩스턴		PROPN
+char	char	char	char	N	
+genesis	천지창조	genesis	천지+창조		N
+corinth	코린토스	corinth	코린토스	N	
+mir	mir	mir	mir		
+gabrielle	가브리엘	gabrielle	가브리엘		PROPN
+gustaf	구스타프	gustaf	구스타프		PROPN
+peterson	피터슨	peterson	피터슨		PROPN
+garrett	개릿	garrett	개릿		PROPN
+rình	스토킹	rình	스토킹	V	
+rình	스토커	rình	스토커	V	
+rình	스토킹	rình	스토킹	V	
+aladdin	알라딘	aladdin	알라디+ㄴ	N	
+aix	aix	aix	aix		
+clifford	클리퍼드	clifford	클리퍼드	N	
+worlds	세계	worlds	세계		N
+providence	프로비던스	providence	프로비던스		PROPN
+psp	psp	psp	psp	N	
+generic	일반	generic	일반	V	N
+daniels	대니얼스	daniels	대니얼스		PROPN
+brady	브래디	brady	브래디	N	
+identity	정체성	identity	정체성		N
+identity	본인	identity	본인		
+launch	출시	launch	출시		N
+launch	실행	launch	실행		N
+launch	발사	launch	발사		N
+telescope	망원경	telescope	망원경	V	N
+vfb	vfb	vfb	vf+의	N	
+destroyer	구축함	destroyer	구축+하+ㅁ	N	V
+rodgers	로저스	rodgers	로저스		PROPN
+dolphin	돌고래	dolphin	돌고래		V
+kern	kern	kern	kern	N	
+pavlov	파블로프	pavlov	파블로프		
+syracuse	시러큐스	syracuse	시러큐스	N	PROPN
+gdi	gdi	gdi	gdi	N	
+aleksey	알렉세이	aleksey	알렉세+이	N	PROPN
+squad	분대	squad	분대		N
+squad	스쿼드	squad	스쿼드		N
+jeon	전전	jeon	전전	N	
+khartoum	하르툼	khartoum	하르+투	N	
+mackenzie	맥켄지	mackenzie	맥켄지	V	
+mackenzie	매켄지	mackenzie	매앙지	V	
+steroid	스테로이드	steroid	스테로이드	N	
+steroid	스테로이드	steroid	스테로이드	N	
+scene	uml	scene	uml		
+ipod	ipod	ipod	ipod	N	
+atkinson	앳킨슨	atkinson	앳킨슨	N	
+arlington	알링턴	arlington	알링턴	N	PROPN
+kessler	케슬러	kessler	케슬러	N	
+exeter	엑서터	exeter	엑서터	N	
+brotherhood	브라더후드	brotherhood	브라더후드	N	
+brotherhood	형제단	brotherhood	형제단	N	
+tampa	탬파	tampa	탬파	N	PROPN
+vat	젖은	vat	젖+ㄴ		V
+vat	젖어	vat	젖+어		V
+rewrite	재작성	rewrite	재작성		N
+hades	하데스	hades	하데스	N	
+hague	헤이그	hague	헤이그	N	
+pskov	프스코프	pskov	프스코프	N	
+richie	리치	richie	리치	N	
+satan	사탄	satan	사탄	N	
+arch	아치	arch	아치	N	
+lübeck	뤼베크	lübeck	뤼베크	N	
+liam	liam	liam	liam	N	
+tiffany	티파니	tiffany	티파니	N	
+braga	브라가	braga	브라+가	N	
+hilary	힐러리	hilary	힐러리		PROPN
+hilary	힐러리	hilary	힐러리		PROPN
+savannah	사바나	savannah	사바+나	N	
+savannah	서배너	savannah	서배너	N	
+conquest	정복	conquest	정복		N
+claus	클라우스	claus	클라우스	N	PROPN
+claus	클로스	claus	클로스	N	
+beatrice	베아트리스	beatrice	베아트리스		PROPN
+daisy	데이지	daisy	데이지		N
+léopold	레오폴드	léopold	레오폴드	N	
+léopold	레오폴트	léopold	레오폴트	N	PROPN
+pleistocene	플라이스토세	pleistocene	플라이스토세	V	PROPN
+rubik	큐브	rubik	큐브	N	
+matthias	마티아스	matthias	마티아스	N	PROPN
+ribbon	리본	ribbon	리본	N	
+pali	팔리어	pali	팔리어	N	
+boer	보어	boer	보+어	N	PROPN
+boer	보어인	boer	보+어인	N	
+owl	올빼미	owl	올빼미	N	
+owl	부엉이	owl	부엉+이	N	
+sassari	사르데냐	sassari	사르데냐	NUM	
+goliath	골리앗	goliath	골리앗	N	
+cdc	cdc	cdc	cdc	N	
+vát	원수	vát	원수	V	N
+sanskrit	산스크리트어	sanskrit	산스크리트어	N	
+crash	추락	crash	추락		N
+crash	충돌	crash	충돌		N
+adsl	adsl	adsl	adsl	N	
+gaia	가이아	gaia	가이아	N	PROPN
+handley	핸들리	handley	핸들리		N
+amelia	아멜리아	amelia	아멜리아	N	
+challenger	챌린저	challenger	챌린저		PROPN
+kanye	카니예	kanye	카니예	N	
+cska	cska	cska	cska	N	
+mapo	마포구	mapo	마포구		PROPN
+wook	웍스	wook	웍스	N	
+terrier	테리어	terrier	테리어		
+seasons	계절	seasons	계절		N
+osman	오스만	osman	오스만	N	PROPN
+lte	lte	lte	lte	N	
+vẩn	헛소리	vẩn	헛소리	PART	
+ppm	ppm	ppm	ppm	N	
+clan	클랜	clan	클랜	N	
+oecd	oecd	oecd	oecd	N	
+emilio	에밀리오	emilio	에밀리오	NUM	PROPN
+loop	루프	loop	루프	N	
+vip	vip	vip	vip	V	
+teenage	십대	teenage	십대		N
+raphael	라파엘	raphael	라파엘		PROPN
+morley	몰리	morley	몰리	N	
+pub	술집	pub	술집		N
+platon	플라톤	platon	플라톤	N	
+mccarthy	매카시	mccarthy	매카시		PROPN
+fin	지느러미	fin	지느러미	N	
+kremlin	크렘린	kremlin	크렘린	V	PROPN
+westphalia	베스트팔렌	westphalia	베스트팔렌		PROPN
+griffith	그리피스	griffith	그리피스		PROPN
+everett	에버렛	everett	에버렛		PROPN
+shu	shu	shu	shu	N	
+mercy	자비	mercy	자비	V	
+grenadines	그레나딘	grenadines	그레나디+ㄴ		PROPN
+jaguar	재규어	jaguar	재규어	N	
+mathieu	마티외	mathieu	마티외	N	
+dartmouth	다트머스	dartmouth	다트머스	N	PROPN
+mamluk	맘루크	mamluk	맘루크	N	PROPN
+miura	미우라	miura	미우+이+라	N	
+torii	토리이	torii	토리+이	N	
+ozawa	오자와	ozawa	오자+와	N	PROPN
+ipad	ipad	ipad	ipad	N	
+fifth	fifth	fifth	fifth	N	
+pauli	파울리	pauli	파울리	N	PROPN
+isa	isa	isa	isa		
+gpu	gpu	gpu	gpu	N	
+elle	elle	elle	elle		
+hắt	재채기	hắt	재채기	V	N
+cocktail	칵테일	cocktail	무테+이+ㄹ	N	
+hiro	히로	hiro	히+로	N	
+hiro	히로인	hiro	히로+이+ㄴ	N	V
+pamela	파멜라	pamela	파멜라	N	
+georgy	게오르기	georgy	게오르+기	ADJ	PROPN
+minerva	미네르바	minerva	미네르바	N	
+luanda	루안다	luanda	루안+이+다		PROPN
+kumar	쿠마	kumar	쿠마	N	
+kumar	쿠마르	kumar	쿠마르	N	
+perm	파마	perm	파마	NUM	
+wta	wta	wta	wta	N	
+sql	sql	sql	sql		
+brooke	브룩	brooke	브룩		PROPN
+rubens	루벤스	rubens	루벤스	N	
+anguilla	앵귈라	anguilla	앵닐라	N	PROPN
+toby	toby	toby	toby	N	
+chennai	첸나이	chennai	첸나이	N	PROPN
+geisha	게이샤	geisha	게이샤	N	
+gale	강풍	gale	강풍		N
+dinar	디나르	dinar	디나르		PROPN
+damon	데이먼	damon	데이먼	N	PROPN
+isabelle	이사벨	isabelle	이사벨		PROPN
+crusader	크루세이더	crusader	크루세이더	N	
+expo	박람회	expo	박람회		N
+tráp	트랩	tráp	트랩	N	
+danish	덴마크어	danish	덴마크+어	N	
+danish	덴마크	danish	덴마크	N	PROPN
+omaha	오마하	omaha	오마하	N	PROPN
+cologne	쾰른	cologne	쾰른	N	PROPN
+samson	샘슨	samson	샘슨	N	
+tulip	튤립	tulip	튤립	N	
+gmail	gmail	gmail	gmail	N	
+cosmos	코스모스	cosmos	코스모스	N	
+britannia	브리타니아	britannia	브리타니아	N	
+lotte	롯데	lotte	롯데	N	
+alicante	알리칸테	alicante	알리칸테	N	PROPN
+kamchatka	캄차카	kamchatka	캄차카	N	PROPN
+chesapeake	체사피크	chesapeake	체사피크		PROPN
+maori	무어인	maori	무어이+ㄴ		V
+maki	마키	maki	마키	N	
+kyo	kyo	kyo	kyo	N	
+darmstadt	다름슈타트	darmstadt	다름슈타트	N	PROPN
+xịt	모자	xịt	모자	V	N
+brutus	브루투스	brutus	브루투스	N	
+nicobar	니코바르	nicobar	니코바르	N	PROPN
+cliff	클리프	cliff	클리프	N	
+cliff	절벽	cliff	절벽	N	
+eagles	eagles	eagles	eagles	N	
+eagles	이글스	eagles	이글스	N	PROPN
+morse	모스	morse	모스	V	
+lympho	림프종	lympho	림프종	N	
+dfb	dfb	dfb	df+과	N	
+beer	맥주	beer	맥주		N
+boss	보스	boss	보스	N	
+coppola	코폴라	coppola	코폴라	N	PROPN
+sasaki	사사키	sasaki	사사키	N	PROPN
+indi	인듐	indi	인듐	N	
+groove	그루브	groove	그루브	N	
+freddie	프레디	freddie	프레디		PROPN
+theodora	테오도라	theodora	테오도+라	V	
+tráo	설치하기	tráo	설치+하+기	N	V
+brenda	brenda	brenda	brenda		
+dreyfus	드레퓌스	dreyfus	드레퓌스	N	
+navajo	나바호	navajo	나바호	N	
+avg	avg	avg	avg	N	
+bronx	브롱크스	bronx	브롱크스	N	PROPN
+gateway	게이트웨이	gateway	게이트웨+이	N	
+lutheran	루터교	lutheran	루터교	N	PROPN
+maastricht	마스트리흐트	maastricht	마스트리흐트	N	PROPN
+anastasia	아나스타샤	anastasia	아나스타샤	N	
+anastasia	아나스타시아	anastasia	아나스타시아	N	
+rudolph	루돌프	rudolph	루돌프	V	PROPN
+linz	린츠	linz	린츠	N	PROPN
+willard	윌러드	willard	윌러드		PROPN
+udon	우동	udon	우동	N	
+andromeda	안드로메다자리	andromeda	안드로메다자리	N	
+andromeda	안드로메다	andromeda	안드로메+이+다	N	PROPN
+condor	콘도르	condor	콘도르	N	
+shine	shine	shine	shine		
+macro	매크로	macro	매크+로	N	
+steele	스틸	steele	스틸		N
+clive	클라이브	clive	클라이브	N	
+colossus	콜로서스	colossus	콜로서스	N	
+hbo	hbo	hbo	hbo	N	
+copernicus	코페르니쿠스	copernicus	코페르니쿠스	N	PROPN
+zola	졸라	zola	졸르+아	N	
+kiso	기소	kiso	기소		N
+crc	crc	crc	crc	N	
+jeddah	지다	jeddah	지+다	N	
+mira	미라	mira	미+라	N	
+crop	잘라내기	crop	잘라내+기		V
+crop	농작물	crop	농작물		N
+crop	자르기	crop	자르+기		V
+nme	nme	nme	nme		

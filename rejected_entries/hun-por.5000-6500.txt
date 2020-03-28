@@ -1,0 +1,2198 @@
+elment	gone	elment	gone	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+amazon	amazónia	amaz	amazónia		N;FEM;SG
+amazon	amazon	amaz	amazon		N;MASC;SG
+amazon	amazonas	amaz	amazona		N;MASC;SG
+amazon	amazona	amaz	amazona		N;FEM;SG
+amazon	amazônia	amaz	amazônia		N;FEM;SG
+formátum	formatar	formátum	formatar	N;NOM;SG	V;NFIN
+pokémon	pokémon	pokém	pokémon		N;MASC;SG
+pokémon	pokemon	pokém	pokemon		N;MASC;SG
+néztem	assisti	néz	assistir	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;1;PST;FIN
+néztem	assistiu	néz	assistir	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+néztem	assistiram	néz	assistir	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;PL;3;FIN
+néma	silêncio	néma	silêncio		N;MASC;SG
+néma	silencioso	néma	silencioso		ADJ;MASC;SG
+néma	silent	néma	silent		N;MASC;SG
+néma	muda	néma	mudar		V;IND;SG;3;PRS;FIN
+néma	mudo	néma	mudo		N;MASC;SG
+néma	mudos	néma	mudo		N;MASC;PL
+monica	monica	monica	monicar		N;FEM;SG
+monica	mônica	monica	mônica		N;FEM;SG
+monica	mónica	monica	mónico		N;FEM;SG
+fájdalom	dores	fájdalom	dor	N;NOM;SG	N;FEM;PL
+foglaló	deposito	foglaló	deposito		N;MASC;SG
+foglaló	depósito	foglaló	depósito		N;MASC;SG
+foglaló	depositar	foglaló	depositar		V;NFIN
+meglátogatta	visitei	meg+lát	visitar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+meglátogatta	visitados	meg+lát	visitar	V;DEF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+geometria	geométrico	geometria	geométrico	N;NOM;SG	ADJ;MASC;SG
+geometria	geométrica	geometria	geométrico	N;NOM;SG	ADJ;FEM;SG
+domináns	dominante	domináns	dominante		ADJ;MASC;SG
+domináns	dominador	domináns	dominador		ADJ;MASC;SG
+domináns	dominantes	domináns	dominante		N;MASC;PL
+költségek	custo	költség	custo	N;NOM;PL	N;MASC;SG
+költségek	cost	költség	cost	N;NOM;PL	N;MASC;SG
+elhagyott	abandonadas	el+hagyott	abandonar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+elhagyott	abandonados	el+hagyott	abandonar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+sergio	sergio	sergio	sergio		N;MASC;SG
+sergio	sérgio	sergio	sérgio		N;MASC;SG
+bihari	bihari	bihari	bihari		N;MASC;SG
+richter	richter	richter	richter		N;FEM;SG
+pascal	pascal	pascal	pascal		N;MASC;SG
+láthatatlan	invisíveis	láthatatlan	invisível	ADJ;NOM;SG	ADJ;MASC;PL
+warren	warren	warren	warren		N;MASC;SG
+szuper	incrível	szuper	incrível		ADJ;MASC;SG
+szuper	fantástico	szuper	fantástico		ADJ;MASC;SG
+szuper	espetacular	szuper	espetacular		ADJ;MASC;SG
+szuper	super	szuper	super		N;MASC;SG
+bond	vínculo	bond	vínculo		N;MASC;SG
+bond	laço	bond	laço		N;MASC;SG
+bond	bond	bond	bond		N;MASC;SG
+infravörös	infravermelhos	infravörös	infravermelho	N;NOM;SG	N;MASC;PL
+nézet	ver	néz	ver	N;NOM;SG	V;NFIN
+nézet	visualizar	néz	visualizar	N;NOM;SG	V;NFIN
+páncélozott	blindados	páncélozott	blindar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+páncélozott	blindados	páncélozott	blindar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+caius	caio	caius	caio		N;MASC;SG
+caius	caius	caius	cais		N;MASC;SG
+racionális	racionais	racionális	racional	ADJ;NOM;SG	N;MASC;PL
+fejedelmi	principesco	fejedelmi	principesco		N;MASC;SG
+kevesen	poucas	kevés	pouco	ADV	PRO;FEM;PL
+kevesen	poucos	kevés	pouco	ADV	PRO;MASC;PL
+megnyitás	abrindo	megnyitás	abrir	N;NOM;SG	V;V.MSDR
+massa	massa	massa	massa	PROPN;NOM;SG	N;FEM;SG
+támad	atentados	támad	atentado	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+támad	ataques	támad	ataque	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+koch	koch	koch	koch		N;MASC;SG
+törekvés	ambições	törekvés	ambição	N;NOM;SG	N;FEM;PL
+unit	unidade	únit	unidade		N;FEM;SG
+productions	produções	productions	produção	N;NOM;SG	N;FEM;PL
+füst	fumar	füst	fumar	N;NOM;SG	V;NFIN
+füst	fumos	füst	ser	N;NOM;SG	N;MASC;PL
+füst	fuma	füst	fumar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+brüsszeli	bruxelas	brüsszeli	bruxela	ADJ;NOM;SG	N;FEM;PL
+kimagasló	pendentes	kimagasló	pendente		N;MASC;PL
+doo	doo	doo	doo		N;MASC;SG
+esp	pes	esp	pes		N;MASC;SG
+esp	esp	esp	esp		N;MASC;SG
+kent	kent	ken	kent		N;MASC;SG
+meuse	meuse	meuse	meu	PROPN;NOM;SG	V;IND;SG;3;PRS;FIN
+cole	cole	cole	cole		V;SBJV;SG;3;PRS;FIN
+alekszej	alexei	alekszik	alexar		N;MASC;SG
+meyer	meyer	meyer	meyer		N;MASC;SG
+kérés	pedir	kérés	pedir	N;NOM;SG	V;NFIN
+kérés	solicitar	kérés	solicitar	N;NOM;SG	V;NFIN
+narancs	laranjas	narancs	laranja	N;NOM;SG	N;FEM;PL
+cum	cum	cum	cum		N;MASC;SG
+örökre	forever	örök	forever		N;MASC;SG
+örökre	eternamente	örök	eternamente		ADV
+egyszerűsített	simplificados	egyszerűsít	simplificar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+kognitív	cognitivas	kognitív	cognitivo	N;NOM;SG	N;FEM;PL
+szabálytalan	irregulares	szabálytalan	irregular		ADJ;MASC;PL
+szabálytalan	irregular	szabálytalan	irregular		ADJ;MASC;SG
+lanka	lanca	lanka	lanca		V;IND;SG;3;PRS;FIN
+lanka	lanka	lanka	lanka		N;MASC;SG
+remete	reclusão	remete	reclusão		N;FEM;SG
+remete	eremita	remete	eremitar		N;MASC;SG
+remete	recluso	remete	recluso		ADJ;MASC;SG
+remete	eremita	remete	eremitar		N;MASC;SG
+építő	construtor	építő	construtor	ADJ;NOM;SG	N;MASC;SG
+luc	luc	luc	luc		N;MASC;SG
+kevert	mista	kevert	misturar		V;FEM;SG;V.PTCP
+kevert	misturados	kevert	misturar		V;MASC;PL;V.PTCP
+kevert	misturado	kevert	misturar		V;MASC;SG;V.PTCP
+kevert	misto	kevert	misto		V;MASC;SG;V.PTCP
+kevert	misturado	kevert	misturar		V;MASC;SG;V.PTCP
+tengerészeti	naval	tengerészeti	naval	ADJ;NOM;SG	N;MASC;SG
+tengerészeti	marítimo	tengerészeti	marítimo	ADJ;NOM;SG	N;MASC;SG
+tengerészeti	maritime	tengerészeti	maritime	ADJ;NOM;SG	N;MASC;SG
+tengerészeti	marítima	tengerészeti	marítimo	ADJ;NOM;SG	N;FEM;SG
+ásványi	minerais	ásványi	mineral	N;NOM;SG	N;MASC;PL
+gyalog	foot	gyalog	foot		N;MASC;SG
+gyalog	pé	gyalog	pé		N;MASC;SG
+gyalog	caminhada	gyalog	caminhar		N;FEM;SG
+gyalog	passear	gyalog	passear		V;NFIN
+gyalog	andar	gyalog	andar		V;NFIN
+gyalog	caminhar	gyalog	caminhar		V;NFIN
+gyalog	peão	gyalog	peão		N;MASC;SG
+gyalog	caminhada	gyalog	caminhar		N;FEM;SG
+gyalog	passear	gyalog	passear		V;NFIN
+gyalog	andar	gyalog	andar		V;NFIN
+gyalog	caminhar	gyalog	caminhar		V;NFIN
+gyalog	passeio	gyalog	passeio		N;MASC;SG
+churchill	churchill	churchill	churchill		N;MASC;SG
+teljesül	preenchidas	teljesül	preencher	V;INDF;IND;SG;3;PRS;FIN;ACT	V;FEM;PL;V.PTCP
+szörnyű	horrível	szörnyű	horrível		ADJ;MASC;SG
+szörnyű	horrivel	szörnyű	horrivel		ADJ;MASC;SG
+szörnyű	terrível	szörnyű	terrível		ADJ;MASC;SG
+szörnyű	terrivel	szörnyű	terrivel		ADJ;MASC;SG
+szörnyű	terríveis	szörnyű	terrível		ADJ;MASC;PL
+szörnyű	terrível	szörnyű	terrível		ADJ;MASC;SG
+szörnyű	horrível	szörnyű	horrível		ADJ;MASC;SG
+szörnyű	horrivel	szörnyű	horrivel		ADJ;MASC;SG
+magyarázatot	explicações	magyarázat	explicação	N;ACC;SG	N;FEM;PL
+magyarázatot	explicações	magyarázat	explicação	N;ACC;SG	N;FEM;PL
+classic	clássica	classic	clássico		N;FEM;SG
+classic	clássicos	classic	clássico		N;MASC;PL
+classic	classic	classic	classic		N;MASC;SG
+classic	clássico	classic	clássico		N;MASC;SG
+wood	madeiras	wood	madeira		N;FEM;PL
+wood	madeira	wood	madeira		N;FEM;SG
+global	global	global	global		ADJ;MASC;SG
+global	globais	global	global		ADJ;MASC;PL
+fenyő	pinus	fenyő	pinu		N;FEM;PL
+fenyő	pinheiro	fenyő	pinheiro		N;MASC;SG
+fenyő	pine	fenyő	pine		N;MASC;SG
+fenyő	pinho	fenyő	pinho		N;MASC;SG
+weiss	weiss	weiss	weis		N;MASC;SG
+felette	acima	felet	acima	PRO;NOM;SG;3	ADV
+austin	austin	austin	austin		N;MASC;SG
+indítás	lançar	indítás	lançar	N;NOM;SG	V;NFIN
+statisztikák	estatística	statisztika	estatístico	N;NOM;PL	N;FEM;SG
+kilátás	ver	kilátás	ver	N;NOM;SG	V;NFIN
+kilátás	visualizar	kilátás	visualizar	N;NOM;SG	V;NFIN
+sophie	sophie	sophie	sophie		N;FEM;SG
+sophie	sofia	sophie	sofiar		N;FEM;SG
+etióp	etíope	etióp	etíope		N;MASC;SG
+etióp	etiópia	etióp	etiópia		N;FEM;SG
+utazik	viagens	utazik	viagem	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+előkészítő	preparatório	előkészítő	preparatório	ADJ;NOM;SG	N;MASC;SG
+előkészítő	preparatória	előkészítő	preparatória	ADJ;NOM;SG	N;FEM;SG
+élve	viva	élve	vivo		N;FEM;SG
+élve	vivos	élve	vivo		N;MASC;PL
+élve	vivas	élve	viva		N;FEM;PL
+élve	vivo	élve	vivo		N;MASC;SG
+élve	alive	élve	alive		N;MASC;SG
+borbély	barber	borbély	barber		N;MASC;SG
+borbély	barbeiro	borbély	barbeiro		N;MASC;SG
+edwards	edwards	edwards	edwards		N;MASC;SG
+bella	bella	bella	bella		N;FEM;SG
+tevékenységek	atividade	tevékenység	atividade	N;NOM;PL	N;FEM;SG
+tevékenységek	actividade	tevékenység	actividade	N;NOM;PL	N;FEM;SG
+harcosok	warriors	harcos	warrior	N;NOM;PL	N;MASC;SG
+jonas	jonas	jonas	jona		N;MASC;SG
+növekedés	aumente	növekedés	aumente	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+növekedés	aumentem	növekedés	aumentar	N;NOM;SG	V;SBJV;PL;3;PRS;FIN
+növekedés	aumentar	növekedés	aumentar	N;NOM;SG	V;NFIN
+növekedés	aumenta	növekedés	aumentar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+növekedés	incrementar	növekedés	incrementar	N;NOM;SG	V;NFIN
+tanulás	estudando	tanulás	estudar	N;NOM;SG	V;V.MSDR
+tanulás	estudar	tanulás	estudar	N;NOM;SG	V;NFIN
+tanulás	estuda	tanulás	estudar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+tanulás	estude	tanulás	estude	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+tanulás	estudar	tanulás	estudar	N;NOM;SG	V;NFIN
+tanulás	aprender	tanulás	aprender	N;NOM;SG	V;NFIN
+tanulás	aprendizado	tanulás	aprendizar	N;NOM;SG	V;MASC;SG;V.PTCP
+tanulás	aprendendo	tanulás	aprender	N;NOM;SG	V;V.MSDR
+flash	clarão	flash	clarão		N;MASC;SG
+flash	flash	flash	flash		N;MASC;SG
+computer	computador	computer	computador		N;MASC;SG
+moto	moto	moto	moto		N;FEM;SG
+una	una	una	una		N;FEM;SG
+ismételten	repetidamente	ismételt	repetidamente	ADJ;FRML;SG	ADV
+okos	esperta	okos	esperto		ADJ;FEM;SG
+okos	esperto	okos	esperto		ADJ;MASC;SG
+okos	inteligente	okos	inteligente		ADJ;MASC;SG
+okos	esperta	okos	esperto		ADJ;FEM;SG
+okos	esperto	okos	esperto		ADJ;MASC;SG
+okos	smart	okos	smart		N;MASC;SG
+okos	inteligente	okos	inteligente		ADJ;MASC;SG
+élesen	bruscamente	éles	bruscamente	ADJ;FRML;SG	ADV
+élesen	acentuadamente	éles	acentuadamente	ADJ;FRML;SG	ADV
+lane	lane	lane	lane		N;MASC;SG
+grafika	gráficos	grafika	gráfico	N;NOM;SG	N;MASC;PL
+atlas	atlas	atlas	atlas		N;MASC;SG
+isère	isère	isere	isère		N;FEM;SG
+brad	brad	brad	brad	PROPN;NOM;SG	N;MASC;SG
+kapcsolódott	conectados	kapcsolódott	conectar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+kapcsolódott	ligados	kapcsolódott	ligar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+kapcsolódott	ligados	kapcsolódott	ligar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+problémás	problemática	problémás	problemática		N;FEM;SG
+problémás	problemáticas	problémás	problemático		N;FEM;PL
+problémás	problemático	problémás	problemático		ADJ;MASC;SG
+problémás	problemáticos	problémás	problemático		ADJ;MASC;PL
+problémás	perturbado	problémás	perturbar		V;MASC;SG;V.PTCP
+problémás	perturbados	problémás	perturbado		V;MASC;PL;V.PTCP
+problémás	perturbada	problémás	perturbar		V;FEM;SG;V.PTCP
+problémás	incomodado	problémás	incomodar		V;MASC;SG;V.PTCP
+versailles	versalhes	versailles	versalhe		N;MASC;PL
+versailles	versailles	versailles	versailles		N;MASC;PL
+sainte	sainte	sainte	sainte		N;MASC;SG
+gironde	gironde	girond	gironde	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+ger	ger	ger	ger		N;MASC;SG
+ger	tbm	ger	tbm		INTJ
+bass	bass	bass	bass		N;MASC;SG
+bass	baixo	bass	baixo		ADV
+spirituális	espiritual	spirituális	espiritual	N;NOM;SG	ADJ;MASC;SG
+spirituális	espirituais	spirituális	espiritual	N;NOM;SG	ADJ;MASC;PL
+sekély	raso	sekély	raso		ADJ;MASC;SG
+sekély	superficial	sekély	superficial		ADJ;MASC;SG
+sekély	rasa	sekély	rasa		N;FEM;SG
+kulcs	chaves	kulcs	chave	N;NOM;SG	N;MASC;PL
+kulcs	teclas	kulcs	tecla	N;NOM;SG	N;FEM;PL
+kulcs	chaves	kulcs	chave	N;NOM;SG	N;MASC;PL
+ajánlatot	ofereça	ajánlat	oferecer	N;ACC;SG	V;SBJV;SG;3;PRS;FIN
+ajánlatot	oferecer	ajánlat	oferecer	N;ACC;SG	V;NFIN
+újonc	novata	újonc	novato		N;FEM;SG
+újonc	novato	újonc	novato		N;MASC;SG
+újonc	recruta	újonc	recruta		N;FEM;SG
+újonc	recrutar	újonc	recrutar		V;NFIN
+újonc	novata	újonc	novato		N;FEM;SG
+újonc	novato	újonc	novato		N;MASC;SG
+hannover	hannover	hannover	hannover		N;MASC;SG
+hannover	hanôver	hannover	hanôver		N;MASC;SG
+schiller	schiller	schiller	schiller		N;MASC;SG
+leone	leoa	lesz	leo		N;FEM;SG
+leone	leone	lesz	leone		N;MASC;SG
+lmbt	lgbt	lmb	lgbt		N;MASC;SG
+lmbt	homossexualidade	lmb	homossexualidade		N;FEM;SG
+jövőbeli	futuro	jövőbeli	futuro	ADJ;NOM;SG	N;MASC;SG
+jövőbeli	future	jövőbeli	future	ADJ;NOM;SG	N;MASC;SG
+jövőbeli	futuras	jövőbeli	futuro	ADJ;NOM;SG	ADJ;FEM;PL
+jövőbeli	futuros	jövőbeli	futuro	ADJ;NOM;SG	ADJ;MASC;PL
+jövőbeli	futura	jövőbeli	futuro	ADJ;NOM;SG	N;FEM;SG
+kezeli	alças	kezeli	alça	V;DEF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+jogszabályok	lei	jogszabály	lei	N;NOM;PL	N;FEM;SG
+jogszabályok	direito	jogszabály	direito	N;NOM;PL	N;MASC;SG
+jogszabályok	law	jogszabály	law	N;NOM;PL	N;MASC;SG
+jogszabályok	legislação	jogszabály	legislação	N;NOM;PL	N;FEM;SG
+chuck	chuck	chuck	chuck		N;MASC;SG
+planet	planet	planet	planet		N;MASC;SG
+planet	planeta	planet	planeta		N;MASC;SG
+mer	mer	mer	mer		N;MASC;SG
+megközelítőleg	aproximado	megközelítőleg	aproximar	ADJ;FRML;SG	V;MASC;SG;V.PTCP
+megközelítőleg	aproximada	megközelítőleg	aproximar	ADJ;FRML;SG	V;FEM;SG;V.PTCP
+megközelítőleg	aproximadamente	megközelítőleg	aproximadamente	ADJ;FRML;SG	ADV
+torres	torres	torres	torres		N;FEM;PL
+hong	hong	hong	hong		PROPN;MASC;SG
+indre	indre	indre	indre		N;MASC;SG
+miles	miles	miles	mile		N;MASC;SG
+miles	quilómetros	miles	quilómetro		N;MASC;PL
+miles	milhas	miles	milha		N;FEM;PL
+szárnyak	wings	szárny	wing	N;NOM;PL	N;MASC;SG
+gees	gees	gees	gees	N;NOM;SG	N;MASC;PL
+arányos	proporcionais	arányos	proporcional	ADJ;NOM;SG	ADJ;MASC;PL
+arányos	proporcionada	arányos	proporcionar	ADJ;NOM;SG	V;FEM;SG;V.PTCP
+arányos	proporcionais	arányos	proporcional	ADJ;NOM;SG	ADJ;MASC;PL
+arányos	proporcionado	arányos	proporcionar	ADJ;NOM;SG	V;MASC;SG;V.PTCP
+arányos	proporcionados	arányos	proporcionar	ADJ;NOM;SG	V;MASC;PL;V.PTCP
+arányos	proporcionadas	arányos	proporcionar	ADJ;NOM;SG	V;FEM;PL;V.PTCP
+humanista	humanista	humanista	humanista		ADJ;MASC;SG
+festői	pitoresco	festői	pitoresco	N;NOM;SG	ADJ;MASC;SG
+aragón	aragão	aragó	aragão		N;MASC;SG
+nancy	nancy	nancy	nancy		N;FEM;SG
+filmeket	cinema	film	cinema	N;ACC;PL	N;MASC;SG
+mesterek	masters	mester	master	N;NOM;PL	N;MASC;SG
+mesterek	mestrado	mester	mestrado	N;NOM;PL	N;MASC;SG
+anita	anita	anita	anitar	PROPN;NOM;SG	N;FEM;SG
+lausanne	lausanne	laus	lausanne		N;MASC;SG
+készülék	aparelhos	készülék	aparelho	N;NOM;SG	N;MASC;PL
+házas	casou	házas	casar		V;IND;SG;3;PST;FIN
+házas	casada	házas	casado		N;FEM;SG
+házas	casado	házas	casado		N;MASC;SG
+házas	casados	házas	casado		N;MASC;PL
+tirol	tirol	tirol	tirol	PROPN;NOM;SG	N;MASC;SG
+extrém	extremos	extrém	extremo		N;MASC;PL
+extrém	extrema	extrém	extremo		ADJ;FEM;SG
+extrém	extremo	extrém	extremo		N;MASC;SG
+extrém	extreme	extrém	extremer		N;MASC;SG
+terra	terra	terra	terra		N;FEM;SG
+sawyer	sawyer	sawyer	sawyer	PROPN;NOM;SG	N;MASC;SG
+vladimir	vladimir	vladimir	vladimir		N;MASC;SG
+atom	átomos	atom	átomo	N;NOM;SG	N;MASC;PL
+menő	fixe	menő	fixe		V;SBJV;SG;3;PRS;FIN
+menő	maneiro	menő	maneiro		ADJ;MASC;SG
+menő	legal	menő	legal		ADJ;MASC;SG
+menő	cool	menő	cool		N;MASC;SG
+janus	janus	janus	janu		N;MASC;SG
+októberi	outubro	októberi	outubro	ADJ;NOM;SG	N;MASC;SG
+arabul	árabe	arab	árabe		N;MASC;SG
+arabul	árabes	arab	árabe		N;MASC;PL
+milliméter	milímetros	milliméter	milímetro	N;NOM;SG	N;MASC;PL
+kábel	cabos	kábel	cabo	N;NOM;SG	N;MASC;PL
+büntetést	castigado	büntetés	castigar	N;ACC;SG	V;MASC;SG;V.PTCP
+büntetést	castigados	büntetés	castigar	N;ACC;SG	V;MASC;PL;V.PTCP
+büntetést	punido	büntetés	punido	N;ACC;SG	V;MASC;SG;V.PTCP
+többségi	maioria	többségi	maioria	ADJ;NOM;SG	N;FEM;SG
+spears	lanças	spears	lança	N;NOM;SG	N;FEM;PL
+kenny	kenny	kenny	kenny		N;MASC;SG
+jakob	jakob	ja	jakob		N;MASC;SG
+műholdas	satélite	műholdas	satélite		N;MASC;SG
+műholdas	satellite	műholdas	satellite		N;MASC;SG
+műholdas	satélites	műholdas	satélite		N;MASC;PL
+cső	canos	cső	cano	N;NOM;SG	N;MASC;PL
+gyümölcs	frutos	gyümölcs	fruto	N;NOM;SG	N;MASC;PL
+gyümölcs	frutas	gyümölcs	fruta	N;NOM;SG	N;FEM;PL
+gyümölcs	frutas	gyümölcs	fruta	N;NOM;SG	N;FEM;PL
+gyümölcs	frutos	gyümölcs	fruto	N;NOM;SG	N;MASC;PL
+model	model	model	model		N;MASC;SG
+model	modelo	model	modelo		N;MASC;SG
+szociológiai	sociológica	szociológiai	sociológico	ADJ;NOM;SG	N;FEM;SG
+elisabeth	elisabeth	elisabeth	elisabeth		N;FEM;SG
+specifikus	específicas	specifikus	específico	ADJ;NOM;SG	ADJ;FEM;PL
+specifikus	específicos	specifikus	específico	ADJ;NOM;SG	ADJ;MASC;PL
+specifikus	especifico	specifikus	especifico	ADJ;NOM;SG	N;MASC;SG
+természettudós	naturalista	természettudós	naturalista	N;NOM;SG	ADJ;MASC;SG
+viselkedése	comportamentos	viselkedés	comportamento	N;NOM;SG	N;MASC;PL
+oldódik	solúvel	oldódik	solúvel	V;INDF;IND;SG;3;PRS;FIN;ACT	ADJ;MASC;SG
+oldódik	solúveis	oldódik	solúvel	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+firenzei	florentino	firenzei	florentino	N;NOM;PL	N;MASC;SG
+#fff	#fff	#fff	#fff		N;MASC;SG
+anti	anti	anti	anti		N;MASC;SG
+hírességek	celebridade	híresség	celebridade	N;NOM;PL	N;FEM;SG
+auguste	auguste	auguste	auguste		N;MASC;SG
+hetente	semanal	hetenik	semanal	N;NOM;SG	ADJ;MASC;SG
+hetente	semanalmente	hetenik	semanalmente	N;NOM;SG	ADV
+hetente	semanais	hetenik	semanal	N;NOM;SG	N;MASC;PL
+tang	tang	tang	tang		N;MASC;SG
+demográfiai	demografia	demográfiai	demografia	ADJ;NOM;SG	N;FEM;SG
+demográfiai	demográfica	demográfiai	demográfica	ADJ;NOM;SG	N;FEM;SG
+demográfiai	demográfico	demográfiai	demográfico	ADJ;NOM;SG	N;MASC;SG
+demográfiai	demográficas	demográfiai	demográfico	ADJ;NOM;SG	N;FEM;PL
+értékelte	apreciados	értékel	apreciar	V;DEF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+értékelte	apreciadas	értékel	apreciar	V;DEF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+mostanában	recentemente	mostanában	recentemente	N;IN+ESS;SG	ADV
+mostanában	ultimamente	mostanában	ultimamente	N;IN+ESS;SG	ADV
+kompatibilis	compatível	kompatibilis	compatível	N;NOM;SG	ADJ;MASC;SG
+kompatibilis	compatíveis	kompatibilis	compatível	N;NOM;SG	ADJ;MASC;PL
+edge	borda	edge	borda		N;FEM;SG
+edge	aresta	edge	aresta		N;FEM;SG
+edge	edge	edge	edge		N;MASC;SG
+fokozott	aumentado	fokozik	aumentar		V;MASC;SG;V.PTCP
+fokozott	aumentados	fokozik	aumentar		V;MASC;PL;V.PTCP
+fokozott	aumentou	fokozik	aumentar		V;IND;SG;3;PST;FIN
+fokozott	aumentada	fokozik	aumentar		V;FEM;SG;V.PTCP
+jam	geleia	jam	geleia		N;FEM;SG
+jam	compota	jam	compota		N;FEM;SG
+jam	jam	jam	jam		N;MASC;SG
+jam	geléia	jam	geléia		N;FEM;SG
+creek	creek	cr	creek		N;MASC;SG
+creek	riacho	cr	riacho		N;MASC;SG
+ajánlom	recomende	ajánlom	recomender	V;DEF;IND;SG;1;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+ajánlom	recomenda	ajánlom	recomendar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+sarki	polar	sarki	polar		N;MASC;SG
+figyelmeztetés	avisos	figyelmeztetés	aviso	N;NOM;SG	N;MASC;PL
+figyelmeztetés	advertências	figyelmeztetés	advertência	N;NOM;SG	N;FEM;PL
+narancssárga	orange	narancssárga	orange		N;MASC;SG
+narancssárga	laranja	narancssárga	laranja		N;FEM;SG
+meggyilkolták	assassinado	meggyilkolta	assassinar	V;DEF;IND;PL;3;PST;FIN;ACT	V;MASC;SG;V.PTCP
+meggyilkolták	assassinada	meggyilkolta	assassinar	V;DEF;IND;PL;3;PST;FIN;ACT	V;FEM;SG;V.PTCP
+scooby	scooby	scooby	scooby		N;MASC;SG
+lent	abaixo	lesz	abaixo		ADV
+boldogság	felicidades	boldogság	felicidade	N;NOM;SG	N;FEM;PL
+boldogság	feliz	boldogság	feliz	N;NOM;SG	ADJ;MASC;SG
+boldogság	felizes	boldogság	feliz	N;NOM;SG	ADJ;MASC;PL
+szög	unhas	szög	unha	N;NOM;SG	N;FEM;PL
+megválasztott	eleitos	megválasztott	eleger	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+időszakos	periódicos	időszakos	periódico	N;NOM;SG	N;MASC;PL
+időszakos	intermitente	időszakos	intermitente	N;NOM;SG	ADJ;MASC;SG
+időszakos	intermitentes	időszakos	intermitente	N;NOM;SG	N;MASC;PL
+julian	julian	julian	julian		N;MASC;SG
+julian	juliano	julian	juliano		N;MASC;SG
+julian	julián	julian	julián		N;MASC;SG
+vienne	vienne	vien	vienne	PROPN;NOM;SG	N;MASC;SG
+trombita	trombeta	trombita	trombetar		N;FEM;SG
+trombita	trompete	trombita	trompetir		N;MASC;SG
+pan	panela	pan	panela		N;FEM;SG
+pan	frigideira	pan	frigideira		N;FEM;SG
+pan	pan	pan	pan		N;MASC;SG
+pan	pã	pan	pã		N;MASC;SG
+péntek	sexta	pén	sexta		N;FEM;SG
+moldova	moldávia	moldova	moldávia		N;FEM;SG
+bányászati	mineira	bányászati	mineira	ADJ;NOM;SG	N;FEM;SG
+bányászati	mineração	bányászati	mineração	ADJ;NOM;SG	N;FEM;SG
+korrekt	corrija	korrekt	corrija		V;SBJV;SG;3;PRS;FIN
+korrekt	correcta	korrekt	correcto		ADJ;FEM;SG
+korrekt	correto	korrekt	correto		ADJ;MASC;SG
+korrekt	corrigir	korrekt	corrigir		V;NFIN
+korrekt	justo	korrekt	justo		ADJ;MASC;SG
+korrekt	fair	korrekt	fair		N;MASC;SG
+korrekt	feira	korrekt	feira		N;FEM;SG
+annie	annie	az	annie	PROPN;NOM;SG	N;FEM;SG
+vizsgált	testado	vizsgál	testar		V;MASC;SG;V.PTCP
+vizsgált	testados	vizsgál	testar		V;MASC;PL;V.PTCP
+vizsgált	testadas	vizsgál	testar		V;FEM;PL;V.PTCP
+vizsgált	testada	vizsgál	testar		V;FEM;SG;V.PTCP
+vizsgált	examinou	vizsgál	examinar		V;IND;SG;3;PST;FIN
+vizsgált	examinado	vizsgál	examinar		V;MASC;SG;V.PTCP
+vizsgált	examinada	vizsgál	examinar		V;FEM;SG;V.PTCP
+vizsgált	examinadas	vizsgál	examinar		V;FEM;PL;V.PTCP
+vizsgált	examinados	vizsgál	examinar		V;MASC;PL;V.PTCP
+vizsgált	investigado	vizsgál	investigado		V;MASC;SG;V.PTCP
+vizsgált	investigadas	vizsgál	investigar		V;FEM;PL;V.PTCP
+vizsgált	investigados	vizsgál	investigar		V;MASC;PL;V.PTCP
+vizsgált	investigou	vizsgál	investigar		V;IND;SG;3;PST;FIN
+vizsgált	investigada	vizsgál	investigar		V;FEM;SG;V.PTCP
+tölgy	carvalhos	tölgy	carvalho	N;NOM;SG	N;MASC;PL
+tojás	ovos	tojás	ovo	N;NOM;SG	N;MASC;PL
+tojás	ovos	tojás	ovo	N;NOM;SG	N;MASC;PL
+értelmezhető	significativas	értelmezhető	significativo	ADJ;NOM;SG	ADJ;FEM;PL
+megszállt	possuída	megszállt	possuído		V;FEM;SG;V.PTCP
+megszállt	possuído	megszállt	possuir		V;MASC;SG;V.PTCP
+megszállt	ocupados	megszállt	ocupar		V;MASC;PL;V.PTCP
+megszállt	ocupado	megszállt	ocupar		V;MASC;SG;V.PTCP
+megszállt	ocupada	megszállt	ocupar		V;FEM;SG;V.PTCP
+megszállt	ocupadas	megszállt	ocupar		V;FEM;PL;V.PTCP
+klorid	cloretos	klorid	cloreto	N;NOM;SG	N;MASC;PL
+klorid	cloretos	klorid	cloreto	N;NOM;SG	N;MASC;PL
+fix	corrigir	fix	corrigir		V;NFIN
+fix	arranjar	fix	arranjar		V;NFIN
+fix	consertar	fix	consertar		V;NFIN
+fix	conserta	fix	consertar		V;IND;SG;3;PRS;FIN
+fix	fixo	fix	fixo		N;MASC;SG
+fix	fixas	fix	fixo		N;FEM;PL
+fix	fixos	fix	fixo		ADJ;MASC;PL
+fix	corrigido	fix	corrigir		V;MASC;SG;V.PTCP
+fix	fixa	fix	fixo		N;FEM;SG
+homok	areias	hom	areio	N;NOM;SG	N;FEM;PL
+csók	beijando	csók	beijar	N;NOM;SG	V;V.MSDR
+csók	beijar	csók	beijar	N;NOM;SG	V;NFIN
+csók	beijinhos	csók	beijinho	N;NOM;SG	N;MASC;PL
+csók	beijos	csók	beijo	N;NOM;SG	N;MASC;PL
+spontán	espontâneos	spontán	espontâneo		ADJ;MASC;PL
+spontán	espontâneo	spontán	espontâneo		ADJ;MASC;SG
+spontán	espontânea	spontán	espontâneo		ADJ;FEM;SG
+spontán	espontâneas	spontán	espontâneo		ADJ;FEM;PL
+spontán	espontaneamente	spontán	espontaneamente		ADV
+derby	derby	derby	derby		N;MASC;SG
+evolúció	evolutiva	evolúció	evolutivo	N;NOM;SG	ADJ;FEM;SG
+evolúció	evolutivo	evolúció	evolutivo	N;NOM;SG	ADJ;MASC;SG
+üzemeltető	operador	üzemeltető	operador	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+üzemeltető	operadora	üzemeltető	operadora	V;INDF;IND;SG;3;PST;FIN;ACT	N;FEM;SG
+üzemeltető	operadores	üzemeltető	operador	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;PL
+conrad	conrad	conrad	conrad		N;MASC;SG
+analízis	análises	analízis	análise	N;NOM;SG	N;FEM;PL
+mongólia	mongólia	mongólia	mongólia		N;FEM;SG
+luna	luna	luna	luna		N;FEM;SG
+privát	privada	priva	privado		ADJ;FEM;SG
+privát	privado	priva	privado		ADJ;MASC;SG
+privát	private	priva	private		N;MASC;SG
+kezdetek	começando	kezdet	começar	N;NOM;PL	V;V.MSDR
+kezdetek	iniciando	kezdet	iniciar	N;NOM;PL	V;V.MSDR
+kezdetek	início	kezdet	início	N;NOM;PL	N;MASC;SG
+kezdetek	começo	kezdet	começo	N;NOM;PL	N;MASC;SG
+szülő	pais	szülő	pai	N;NOM;SG	N;MASC;PL
+harvey	harvey	harvey	harvey		N;MASC;SG
+áruház	conservar	áruház	conservar	N;NOM;SG	V;NFIN
+áruház	armazenar	áruház	armazenar	N;NOM;SG	V;NFIN
+atlanta	atlanta	atlan	atlantar		N;MASC;SG
+koordináta	coordenada	koordináta	coordenar	N;NOM;SG	V;FEM;SG;V.PTCP
+koordináta	coordenadas	koordináta	coordenada	N;NOM;SG	V;FEM;PL;V.PTCP
+koordináta	coordenar	koordináta	coordenar	N;NOM;SG	V;NFIN
+koordináta	coordena	koordináta	coordeno	N;NOM;SG	V;IND;SG;3;PRS;FIN
+koordináta	coordenadas	koordináta	coordenada	N;NOM;SG	V;FEM;PL;V.PTCP
+claudius	cláudio	claudius	cláudio		N;MASC;SG
+átadott	transferidos	átadott	transferir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+átadott	transferidas	átadott	transferir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+potenciális	potencialidades	potenciális	potencialidade		N;FEM;PL
+potenciális	potencial	potenciális	potencial		N;MASC;SG
+potenciális	potenciais	potenciális	potencial		N;MASC;PL
+lambert	lambert	lamber	lambert		N;MASC;SG
+eltávolították	removida	el+távolít	remover	V;DEF;IND;PL;3;PST;FIN;ACT	V;FEM;SG;V.PTCP
+eltávolították	eliminado	el+távolít	eliminar	V;DEF;IND;PL;3;PST;FIN;ACT	V;MASC;SG;V.PTCP
+eltávolították	removido	el+távolít	remover	V;DEF;IND;PL;3;PST;FIN;ACT	V;MASC;SG;V.PTCP
+hamburger	hambúrgueres	hamburger	hamburguer	N;NOM;SG	N;MASC;PL
+hamburger	hambúrgueres	hamburger	hamburguer	N;NOM;SG	N;MASC;PL
+várta	aguardava	vár	aguardar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+reeder	reeder	reeder	reeder		N;MASC;SG
+szál	fibras	szál	fibra	N;NOM;SG	N;FEM;PL
+szál	tópicos	szál	tópico	N;NOM;SG	N;MASC;PL
+szál	fios	szál	fio	N;NOM;SG	N;MASC;PL
+centrum	centrar	centrum	centrar	N;NOM;SG	V;NFIN
+centrum	centralizar	centrum	centralizar	N;NOM;SG	V;NFIN
+fát	madeiras	fát	madeira	N;ACC;SG	N;FEM;PL
+keserű	amargo	keserű	amargo		N;MASC;SG
+keserű	amarga	keserű	amarga		ADJ;FEM;SG
+keserű	amargos	keserű	amargo		ADJ;MASC;PL
+keserű	amargas	keserű	amarga		N;FEM;PL
+kutatói	pesquisador	kutató	pesquisador	N;NOM;PL	N;MASC;SG
+kutatói	investigadora	kutató	investigadora	N;NOM;PL	N;FEM;SG
+kutatói	investigador	kutató	investigador	N;NOM;PL	N;MASC;SG
+lennon	lennon	lesz	lennon		N;MASC;SG
+bomba	bomba	bomba	bomba		N;FEM;SG
+bomba	bombas	bomba	bomba		N;FEM;PL
+tudatosan	conscientemente	tudatos	conscientemente	ADJ;FRML;SG	ADV
+tudatosan	conscientemente	tudatos	conscientemente	ADJ;FRML;SG	ADV
+pérez	pérez	pérez	pérez		PROPN;MASC;SG
+abraham	abraham	abraha	abrahar		N;MASC;SG
+abraham	abraão	abraha	abraão		N;MASC;SG
+szerencsétlen	azar	szerencsétlen	azar		N;MASC;SG
+szerencsétlen	azarado	szerencsétlen	azarado		N;MASC;SG
+szerencsétlen	lamentável	szerencsétlen	lamentável		ADJ;MASC;SG
+szerencsétlen	infeliz	szerencsétlen	infeliz		ADJ;MASC;SG
+szerencsétlen	infelizes	szerencsétlen	infeliz		N;MASC;PL
+felszerelve	equipados	felszerelve	equipar	ADV;V.CVB	V;MASC;PL;V.PTCP
+felszerelve	equipado	felszerelve	equipar	ADV;V.CVB	V;MASC;SG;V.PTCP
+felszerelve	equipados	felszerelve	equipar	ADV;V.CVB	V;MASC;PL;V.PTCP
+felszerelve	equipada	felszerelve	equipar	ADV;V.CVB	V;FEM;SG;V.PTCP
+felszerelve	equipadas	felszerelve	equipar	ADV;V.CVB	V;FEM;PL;V.PTCP
+felszerelve	equipado	felszerelve	equipar	ADV;V.CVB	V;MASC;SG;V.PTCP
+ibc	ibc	ibc	ibc	N;NOM;PL	N;MASC;SG
+gene	gene	gene	gene		N;MASC;SG
+gene	genes	gene	gene		N;MASC;PL
+oslo	oslo	oslo	oslo	PROPN;NOM;SG	N;MASC;SG
+csonka	truncado	csonka	truncado		V;MASC;SG;V.PTCP
+diploma	graus	diploma	grau	N;NOM;SG	N;MASC;PL
+egyetértés	acordo	egyetértés	acordo		N;MASC;SG
+egyetértés	concordância	egyetértés	concordância		N;FEM;SG
+egyetértés	entendendo	egyetértés	entender		V;V.MSDR
+egyetértés	compreender	egyetértés	compreender		V;NFIN
+egyetértés	compreendendo	egyetértés	compreender		V;V.MSDR
+egyetértés	entendimento	egyetértés	entendimento		N;MASC;SG
+egyetértés	compreensão	egyetértés	compreensão		N;FEM;SG
+egyetértés	consenso	egyetértés	consenso		N;MASC;SG
+egyetértés	consensos	egyetértés	consenso		N;MASC;PL
+belseje	interiores	belső	interior	N;NOM;SG	N;MASC;PL
+hetes	sete	hetes	sete	N;NOM;SG	NUM
+lucia	lúcia	lucia	lúcia		N;FEM;SG
+lucia	lucia	lucia	lucia		N;FEM;SG
+fészek	ninhos	fész	ninho	N;NOM;SG	N;MASC;PL
+ars	ars	ars	ars		N;MASC;SG
+pat	pat	pat	pat		N;MASC;SG
+propaganda	propaganda	propaganda	propaganda		N;FEM;SG
+botrány	escândalos	botrány	escândalo	N;NOM;SG	N;MASC;PL
+botrány	escandaloso	botrány	escandaloso	N;NOM;SG	ADJ;MASC;SG
+botrány	escandalosa	botrány	escandaloso	N;NOM;SG	ADJ;FEM;SG
+szilveszter	silvestre	szilveszter	silvestre		N;MASC;SG
+szilveszter	sylvester	szilveszter	sylvester		N;MASC;SG
+santo	santo	santo	santo		N;MASC;SG
+tök	abóbora	tök	abóborar		N;FEM;SG
+joel	joel	joel	joel		N;MASC;SG
+ipa	ipa	ipa	ipa		N;MASC;SG
+ipa	afi	ipa	afi		N;MASC;SG
+gót	gótica	gó	gótica		N;FEM;SG
+gót	gótico	gó	gótico		ADJ;MASC;SG
+végrehajtási	execução	végrehajtási	execução	ADJ;NOM;SG	N;FEM;SG
+végrehajtási	implementar	végrehajtási	implementar	ADJ;NOM;SG	V;NFIN
+tengerentúli	ultramarinos	tengerentúli	ultramarino	ADJ;NOM;SG	N;MASC;PL
+tengerentúli	ultramar	tengerentúli	ultramar	ADJ;NOM;SG	N;MASC;SG
+düsseldorf	düsseldorf	düsseldorf	düsseldorf		N;MASC;SG
+düsseldorf	dusseldorf	düsseldorf	dusseldorf		N;MASC;SG
+termelt	produzidos	termelt	produzir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+termelt	produzidas	termelt	produzir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+spider	spider	spider	spider		N;MASC;SG
+spider	aranha	spider	aranhar		N;FEM;SG
+interaktív	interativo	interaktív	interativo	N;NOM;SG	ADJ;MASC;SG
+interaktív	interactiva	interaktív	interactivo	N;NOM;SG	ADJ;FEM;SG
+interaktív	interactivo	interaktív	interactivo	N;NOM;SG	ADJ;MASC;SG
+feltöltött	carregadas	feltöltött	carregar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+feltöltött	carregados	feltöltött	carregar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+paramount	paramount	paramoun	paramount		N;MASC;SG
+kai	kai	kai	kai		N;MASC;SG
+kazahsztán	cazaquistão	kaza+hsz	cazaquistão		N;MASC;SG
+puy	puy	puy	puy		N;MASC;SG
+utazási	viajar	utazási	viajar	N;NOM;SG	V;NFIN
+utazási	viaje	utazási	viaje	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+utazási	viagens	utazási	viagem	N;NOM;SG	N;FEM;PL
+linnaeus	linnaeus	linnaeus	linnaeu	PROPN;NOM;SG	N;MASC;SG
+radioaktív	radioactivos	radioaktív	radioactivo	N;NOM;SG	ADJ;MASC;PL
+radioaktív	radioativo	radioaktív	radioativo	N;NOM;SG	ADJ;MASC;SG
+radioaktív	radioactivo	radioaktív	radioactivo	N;NOM;SG	ADJ;MASC;SG
+lezárt	selados	lezárt	selar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+jamaica	jamaica	jamaica	jamaica		N;FEM;SG
+kopasz	careca	kopasz	careca		N;MASC;SG
+kopasz	careca	kopasz	careca		N;MASC;SG
+kopasz	calvo	kopasz	calvo		N;MASC;SG
+kopasz	carecas	kopasz	careca		N;MASC;PL
+kaukázusi	cáucaso	kaukázusi	cáucaso	ADJ;NOM;SG	N;MASC;SG
+bokor	arbustos	bokor	arbusto		N;MASC;PL
+bokor	mato	bokor	mato		N;MASC;SG
+bokor	bush	bokor	bush		PROPN;MASC;SG
+bokor	arbusto	bokor	arbusto		N;MASC;SG
+bokor	arbusto	bokor	arbusto		N;MASC;SG
+egységesen	uniformemente	egységes	uniformemente	ADJ;FRML;SG	ADV
+bónusz	bonus	bónusz	bonu		N;MASC;SG
+bónusz	bônus	bónusz	bônus		N;MASC;SG
+bónusz	bónus	bónusz	bónu		N;MASC;SG
+bónusz	bônus	bónusz	bônus		N;MASC;SG
+bónusz	bónus	bónusz	bónu		N;MASC;SG
+mióta	since	mióta	since	ADV	N;MASC;SG
+mióta	desde	mióta	desde	ADV	ADP
+jelentéktelen	insignificante	jelentéktelen	insignificante		ADJ;MASC;SG
+jelentéktelen	insignificantes	jelentéktelen	insignificante		ADJ;MASC;PL
+alpha	alpha	alpha	alpha		N;MASC;SG
+alpha	alfa	alpha	alfar		N;MASC;SG
+sör	cervejas	sör	cerveja	N;NOM;SG	N;FEM;PL
+hughes	hughes	hughes	hughe		N;MASC;SG
+morva	morávia	morva	morávia		N;FEM;SG
+jake	jake	jake	jake		N;MASC;SG
+hopkins	hopkins	hopkins	hopkins		N;MASC;SG
+stark	stark	stark	stark	PROPN;NOM;SG	N;MASC;SG
+olivier	olivier	olivier	olivier		N;MASC;SG
+ned	ned	ned	ned		N;MASC;SG
+gks	gks	gks	gks		N;MASC;SG
+niger	níger	niger	níger		N;MASC;SG
+megjelölt	marcada	megjelölt	marcar		V;FEM;SG;V.PTCP
+megjelölt	marcados	megjelölt	marcar		V;MASC;PL;V.PTCP
+megjelölt	identificado	megjelölt	identificar		V;MASC;SG;V.PTCP
+megjelölt	marcado	megjelölt	marcar		V;MASC;SG;V.PTCP
+megjelölt	identificada	megjelölt	identificar		V;FEM;SG;V.PTCP
+megjelölt	marcadas	megjelölt	marcar		V;FEM;PL;V.PTCP
+megjelölt	marcou	megjelölt	marcar		V;IND;SG;3;PST;FIN
+megjelölt	marcados	megjelölt	marcar		V;MASC;PL;V.PTCP
+megjelölt	marcado	megjelölt	marcar		V;MASC;SG;V.PTCP
+megjelölt	marcada	megjelölt	marcar		V;FEM;SG;V.PTCP
+kizárólagos	exclusividade	kizárólagos	exclusividade	ADJ;NOM;SG	N;FEM;SG
+kizárólagos	exclusivas	kizárólagos	exclusivo	ADJ;NOM;SG	ADJ;FEM;PL
+kizárólagos	exclusivos	kizárólagos	exclusivo	ADJ;NOM;SG	ADJ;MASC;PL
+dakota	dakota	dakota	dakota		N;FEM;SG
+dakota	dacota	dakota	dacota		N;MASC;SG
+szombaton	sábados	szombat	sábado	N;ON+ESS;SG	N;MASC;PL
+évenként	anualmente	évenkén	anualmente	N;ABS;SG	ADV
+évenként	anual	évenkén	anual	N;ABS;SG	ADJ;MASC;SG
+koncepció	conceito	koncepció	conceito		N;MASC;SG
+jeanne	joana	jelenik	joana		N;FEM;SG
+jeanne	joan	jelenik	joan		N;FEM;SG
+jeanne	joana	jelenik	joana		N;FEM;SG
+jeanne	jeanne	jelenik	jeanne		N;FEM;SG
+átalakított	modificados	átalakított	modificar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+átalakított	convertidas	átalakított	converter	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+átalakított	convertidos	átalakított	converter	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+átalakított	transformadas	átalakított	transformar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+átalakított	transformados	átalakított	transformar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+átalakított	adaptados	átalakított	adaptar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+átalakított	adaptadas	átalakított	adaptar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+előnyös	benéfica	előnyös	benéfico		ADJ;FEM;SG
+előnyös	benéfico	előnyös	benéfico		ADJ;MASC;SG
+előnyös	benéficos	előnyös	benéfico		ADJ;MASC;PL
+előnyös	vantajoso	előnyös	vantajoso		ADJ;MASC;SG
+előnyös	vantajosas	előnyös	vantajoso		ADJ;FEM;PL
+előnyös	vantajosa	előnyös	vantajoso		ADJ;FEM;SG
+törlése	apagar	törlés	apagar	N;NOM;SG	V;NFIN
+törlése	excluir	törlés	excluir	N;NOM;SG	V;NFIN
+törlése	apaga	törlés	apagar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+törlése	eliminar	törlés	eliminar	N;NOM;SG	V;NFIN
+bizonyítékok	evidência	bizonyítékok	evidência	N;NOM;PL	N;FEM;SG
+bizonyítékok	prova	bizonyítékok	prova	N;NOM;PL	N;FEM;SG
+bsc	bsc	bsc	bsc		N;MASC;SG
+ávila	ávila	ávila	ávila		N;MASC;SG
+eduardo	eduardo	eduardo	eduardo		N;MASC;SG
+simpson	simpson	simpson	simpson		N;MASC;SG
+nílus	nilo	nílus	nilo		N;MASC;SG
+orange	orange	orang	orange		N;MASC;SG
+orange	laranja	orang	laranja		N;FEM;SG
+számláló	balcão	számláló	balcão		N;MASC;SG
+számláló	contador	számláló	contador		N;MASC;SG
+számláló	numerador	számláló	numerador		N;MASC;SG
+elkerülése	evitando	elkerülés	evitar	N;NOM;SG	V;V.MSDR
+elkerülése	evitar	elkerülés	evitar	N;NOM;SG	V;NFIN
+elkerülése	evitar	elkerülés	evitar	N;NOM;SG	V;NFIN
+elkerülése	evita	elkerülés	evitar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+elkerülése	evitem	elkerülés	evitar	N;NOM;SG	V;SBJV;PL;3;PRS;FIN
+elkerülése	evite	elkerülés	evite	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+elkerülése	evitar	elkerülés	evitar	N;NOM;SG	V;NFIN
+konszenzus	consensos	konszenzus	consenso	N;NOM;SG	N;MASC;PL
+paula	paula	paula	paula		N;FEM;SG
+gerhard	gerhard	gerhard	gerhard		N;MASC;SG
+közreműködő	contribuinte	közreműködő	contribuinte	ADJ;NOM;SG	N;MASC;SG
+közreműködő	colaborador	közreműködő	colaborador	ADJ;NOM;SG	N;MASC;SG
+közreműködő	contribuintes	közreműködő	contribuinte	ADJ;NOM;SG	N;MASC;PL
+közreműködő	colaboradores	közreműködő	colaborador	ADJ;NOM;SG	N;MASC;PL
+nicaragua	nicarágua	nicarag	nicarágua	N;NOM;SG	V;IND;SG;3;FUT;FIN
+castro	castro	castro	castro		N;MASC;SG
+rhône	ródano	rhône	ródano		N;MASC;SG
+rhône	rhône	rhône	rhône		N;MASC;SG
+mobile	móvel	mobile	móvel		N;MASC;SG
+mobile	telemóvel	mobile	telemóvel		N;MASC;SG
+mobile	celular	mobile	celular		N;MASC;SG
+mobile	móveis	mobile	móvel		N;MASC;PL
+glenn	glenn	glenn	glenn		N;MASC;SG
+stein	stein	stein	stein		N;MASC;SG
+gombák	fungo	gomba	fungo	N;NOM;PL	N;MASC;SG
+gombák	fungo	gomba	fungo	N;NOM;PL	N;MASC;SG
+ablakok	windows	ablak	window	N;NOM;PL	N;MASC;SG
+brno	brno	brno	brno	PROPN;NOM;SG	N;MASC;SG
+armstrong	armstrong	armstrong	armstrong		N;MASC;SG
+törvénytelen	ilegítimo	törvénytelen	ilegítimo		N;MASC;SG
+törvénytelen	ilegítima	törvénytelen	ilegítimo		ADJ;FEM;SG
+törvénytelen	ilegalidade	törvénytelen	ilegalidade		N;FEM;SG
+törvénytelen	ilegal	törvénytelen	ilegal		ADJ;MASC;SG
+aranyos	fofo	aranyos	fofo		ADJ;MASC;SG
+aranyos	giro	aranyos	giro		N;MASC;SG
+aranyos	fofos	aranyos	fofo		N;MASC;PL
+aranyos	gracinha	aranyos	gracinha		N;FEM;SG
+aranyos	fofa	aranyos	fofa		ADJ;FEM;SG
+próbáltam	tentaram	próbál	tentar	V;INDF;IND;SG;1;PST;FIN;ACT	V;IND;PL;3;FIN
+próbáltam	tentou	próbál	tentar	V;INDF;IND;SG;1;PST;FIN;ACT	V;IND;SG;3;PST;FIN
+palermo	palermo	palermo	palermo		N;MASC;SG
+bezárt	fechados	bezárt	fechar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+csökkentése	reduzir	csökkentés	reduzir	N;NOM;SG	V;NFIN
+csökkentése	reduza	csökkentés	reduzir	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+csökkentése	redutores	csökkentés	redutor	N;NOM;SG	N;MASC;PL
+csökkentése	reduzir	csökkentés	reduzir	N;NOM;SG	V;NFIN
+csökkentése	reduzindo	csökkentés	reduzir	N;NOM;SG	V;V.MSDR
+rain	chuva	rain	chuva		N;FEM;SG
+rain	chover	rain	chover		V;NFIN
+rain	rain	rain	rain		N;MASC;SG
+auto	auto	auto	auto		N;MASC;SG
+auto	automático	auto	automático		ADJ;MASC;SG
+kitörés	despertado	kitörés	despertar	N;NOM;SG	V;MASC;SG;V.PTCP
+freddie	freddie	freddie	freddie		N;MASC;SG
+apache	apaches	apac	apache	N;NOM;SG	N;MASC;PL
+esküvő	bodas	esküvő	boda	N;NOM;SG	N;FEM;PL
+hudson	hudson	huds	hudson		N;MASC;SG
+technikailag	tecnicamente	technikai	tecnicamente	ADJ;FRML;SG	ADV
+perui	peruano	perui	peruano		N;MASC;SG
+perui	peruana	perui	peruano		N;FEM;SG
+perui	perú	perui	perú		N;MASC;SG
+perui	peru	perui	peru		N;MASC;SG
+kiadások	gastar	kiadás	gastar	N;NOM;PL	V;NFIN
+kiadások	despesa	kiadás	despesa	N;NOM;PL	N;FEM;SG
+hollywoodi	hollywood	hollywoodi	hollywood		N;MASC;SG
+christoph	christoph	christoph	christoph		N;MASC;SG
+nicole	nicole	nicole	nicole		N;FEM;SG
+nepál	nepal	nepál	nepal	PROPN;NOM;SG	N;MASC;SG
+deux	deux	deux	deux		N;MASC;SG
+távközlési	telecomunicações	távközlési	telecomunicação	N;NOM;SG	N;FEM;PL
+felújítás	renovações	felújítás	renovação	N;NOM;SG	N;FEM;PL
+professzionális	professional	professzionális	professional	ADJ;NOM;SG	N;MASC;SG
+professzionális	profissionais	professzionális	profissional	ADJ;NOM;SG	N;MASC;PL
+professzionális	profissional	professzionális	profissional	ADJ;NOM;SG	N;MASC;SG
+houston	houston	houst	houston		N;MASC;SG
+ulrich	ulrich	ulrich	ulrich		N;MASC;SG
+működés	funcionando	működés	funcionar	N;NOM;SG	V;V.MSDR
+lika	lika	lika	lika	PROPN;NOM;SG	N;FEM;SG
+hidak	bridges	híd	bridge	N;NOM;PL	N;MASC;SG
+lombard	lombardo	lombard	lombardo		N;MASC;SG
+lombard	lombard	lombard	lombard		N;MASC;SG
+waters	águas	waters	água		N;FEM;PL
+waters	aguas	waters	agua		N;FEM;PL
+későn	tarde	későn	tarde		ADV
+későn	atrasada	későn	atrasar		V;FEM;SG;V.PTCP
+későn	tardia	későn	tardio		N;FEM;SG
+későn	atrasados	későn	atrasar		V;MASC;PL;V.PTCP
+későn	atrasado	későn	atrasar		V;MASC;SG;V.PTCP
+vert	vert	ver	vert	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+cape	cape	cap	cape		N;MASC;SG
+cape	cabo	cap	cabo		N;MASC;SG
+cape	capa	cap	capa		N;FEM;SG
+kimondottan	especificamente	kimond	especificamente	ADJ;FRML;SG	ADV
+vilma	vilma	vilma	vilma		N;FEM;SG
+lili	lily	lili	lily		N;FEM;SG
+lili	lilly	lili	lilly		N;MASC;SG
+lili	lírio	lili	lírio		N;MASC;SG
+lili	lili	lili	lili		N;FEM;SG
+lili	lili	lili	lili		N;FEM;SG
+harald	harald	harald	harald		N;MASC;SG
+harald	haroldo	harald	haroldo		N;MASC;SG
+plus	plus	plus	plus		N;MASC;SG
+érvénytelen	inválidas	érvénytelen	inválido		N;FEM;PL
+érvénytelen	inválida	érvénytelen	inválido		ADJ;FEM;SG
+érvénytelen	inválido	érvénytelen	inválido		ADJ;MASC;SG
+érvénytelen	inválidos	érvénytelen	inválido		ADJ;MASC;PL
+kövér	gordura	kövér	gordura		N;FEM;SG
+kövér	gordo	kövér	gordo		N;MASC;SG
+kövér	gorda	kövér	gorda		N;FEM;SG
+kövér	gordas	kövér	gorda		N;FEM;PL
+kövér	fat	kövér	fat		N;MASC;SG
+nézett	parecia	nézett	parecer	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+nézett	olhei	nézett	olhar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+kínál	ofertas	kínál	oferta	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+kínál	oferenda	kínál	oferenda	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;SG
+kolostorban	mosteiros	kolostor	mosteiro	N;IN+ESS;SG	N;MASC;PL
+kerék	rodas	kerék	roda	N;NOM;SG	N;FEM;PL
+emelet	andar	emelet	andar	N;NOM;SG	V;NFIN
+kártya	cartões	kártya	cartão	N;NOM;SG	N;MASC;PL
+kártya	cartas	kártya	carta	N;NOM;SG	N;FEM;PL
+kártya	cards	kártya	cards	N;NOM;SG	N;MASC;PL
+holmes	holmes	holmes	holme		N;MASC;SG
+kötés	vinculativo	kötés	vinculativo	N;NOM;SG	ADJ;MASC;SG
+kötés	vinculativas	kötés	vinculativo	N;NOM;SG	ADJ;FEM;PL
+ezentúl	doravante	ezentúl	doravante		ADV
+tulajdonság	propriedades	tulajdonság	propriedade	N;NOM;SG	N;FEM;PL
+tulajdonság	imóveis	tulajdonság	imóvel	N;NOM;SG	N;MASC;PL
+tulajdonság	propriedades	tulajdonság	propriedade	N;NOM;SG	N;FEM;PL
+légkör	atmosféricos	légkör	atmosférico	N;NOM;SG	N;MASC;PL
+kurd	curdo	kurd	curdo		N;MASC;SG
+kurd	curdos	kurd	curdo		N;MASC;PL
+kurd	curda	kurd	curdo		N;FEM;SG
+kurd	curdos	kurd	curdo		N;MASC;PL
+mainz	mainz	mainz	mainz		N;MASC;SG
+orne	orne	or	orne		N;FEM;SG
+heinz	heinz	heinz	heinz		PROPN;MASC;SG
+sárgás	amarelada	sárgás	amarelar		V;FEM;SG;V.PTCP
+felmérés	inquéritos	felmérés	inquérito	N;NOM;SG	N;MASC;PL
+caf	caf	caf	caf	N;NOM;PL	N;MASC;SG
+eugène	eugène	euget	eugène		N;MASC;SG
+gyanús	desconfiado	gyanús	desconfiar		V;MASC;SG;V.PTCP
+gyanús	suspeita	gyanús	suspeita		N;FEM;SG
+gyanús	suspeito	gyanús	suspeito		N;MASC;SG
+gyanús	suspeitas	gyanús	suspeita		N;FEM;PL
+gyanús	suspeita	gyanús	suspeita		N;FEM;SG
+gyanús	suspeito	gyanús	suspeito		N;MASC;SG
+gyanús	suspeitos	gyanús	suspeito		N;MASC;PL
+henger	cilindros	henger	cilindro	N;NOM;SG	N;MASC;PL
+henger	cilindros	henger	cilindro	N;NOM;SG	N;MASC;PL
+műsorok	mostra	műsor	mostrar	N;NOM;PL	V;IND;SG;3;PRS;FIN
+venezia	venezia	venezia	venezer		N;FEM;SG
+csökkenő	descendo	csökkenő	descer	ADJ;NOM;SG	V;V.MSDR
+csökkenő	descendente	csökkenő	descendente	ADJ;NOM;SG	N;MASC;SG
+csökkenő	declínio	csökkenő	declínio	ADJ;NOM;SG	N;MASC;SG
+csökkenő	diminuindo	csökkenő	diminuir	ADJ;NOM;SG	V;V.MSDR
+todd	todd	todd	todd		N;MASC;SG
+parma	parma	parma	parma		N;MASC;SG
+infrastruktúra	infraestruturas	infrastruktúra	infraestrutura	N;NOM;SG	N;FEM;PL
+fegyvereket	guns	fegyver	guns	N;ACC;PL	N;MASC;SG
+vágy	desejos	vágy	desejo	N;NOM;SG	N;MASC;PL
+romboló	destruidor	romboló	destruidor		N;MASC;SG
+romboló	destroyer	romboló	destroyer		N;MASC;SG
+romboló	destruidora	romboló	destruidor		ADJ;FEM;SG
+ugrás	saltar	ugrás	saltar	N;NOM;SG	V;NFIN
+ugrás	pula	ugrás	pular	N;NOM;SG	V;IND;SG;3;PRS;FIN
+ugrás	pular	ugrás	pular	N;NOM;SG	V;NFIN
+erotikus	eróticos	erotikus	erótico	ADJ;NOM;SG	N;MASC;PL
+erotikus	erótica	erotikus	erótico	ADJ;NOM;SG	N;FEM;SG
+homo	homo	homo	homo		N;MASC;SG
+hibrid	híbrida	hibrid	híbrida		ADJ;FEM;SG
+hibrid	híbrido	hibrid	híbrido		ADJ;MASC;SG
+hibrid	híbridos	hibrid	híbrido		N;MASC;PL
+dráva	drava	dráva	drava		N;FEM;SG
+bon	bon	bon	bon		N;MASC;SG
+robbie	robbie	robbi	robbie		N;MASC;SG
+robbie	robby	robbi	robby		N;MASC;SG
+morris	morris	morris	morrer		N;MASC;SG
+europa	europa	europa	europa		N;FEM;SG
+cukor	bombons	cukor	bombom	N;NOM;SG	N;MASC;PL
+cukor	doces	cukor	doce	N;NOM;SG	N;MASC;PL
+cukor	açúcares	cukor	açúcar	N;NOM;SG	N;MASC;PL
+cukor	sugar	cukor	sugar	N;NOM;SG	V;NFIN
+terhes	grávida	terhes	grávida		N;FEM;SG
+terhes	grávidas	terhes	grávido		N;FEM;PL
+érvek	argumentação	érv	argumentação	N;NOM;PL	N;FEM;SG
+mdf	mdf	mdf	mdf	PROPN;NOM;SG	N;FEM;SG
+tömör	compactos	tömör	compacto		N;MASC;PL
+tömör	compacto	tömör	compacto		N;MASC;SG
+tömör	compacta	tömör	compacto		ADJ;FEM;SG
+tömör	sólidos	tömör	sólido		N;MASC;PL
+tömör	sólido	tömör	sólido		ADJ;MASC;SG
+tömör	sólida	tömör	sólido		ADJ;FEM;SG
+tömör	sucinta	tömör	sucinta		ADJ;FEM;SG
+tömör	sucinto	tömör	sucinto		ADJ;MASC;SG
+tömör	concisa	tömör	concisar		ADJ;FEM;SG
+tömör	conciso	tömör	conciso		ADJ;MASC;SG
+anhalt	anhalt	anhal	anhalt	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+kórházi	hospital	kórházi	hospital		N;MASC;SG
+kórházi	hospitalares	kórházi	hospitalar		N;MASC;PL
+kórházi	hospitalar	kórházi	hospitalar		ADJ;MASC;SG
+ita	ita	ita	ita		N;MASC;SG
+víztározó	aquífero	víztározó	aquífero	ADJ;NOM;SG	N;MASC;SG
+víztározó	reservatório	víztározó	reservatório	ADJ;NOM;SG	N;MASC;SG
+roth	roth	roth	roth		N;MASC;SG
+csont	ossos	csont	osso	N;NOM;SG	N;MASC;PL
+csont	espinhas	csont	espinha	N;NOM;SG	N;FEM;PL
+csont	ossos	csont	osso	N;NOM;SG	N;MASC;PL
+bennett	bennett	bennett	bennett		N;MASC;SG
+bennett	bennet	bennett	bennet		N;FEM;SG
+arizona	arizona	arizona	arizonar		N;MASC;SG
+jegyzett	subscritos	jegyzett	subscrever	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+jegyzett	citadas	jegyzett	citar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+jegyzett	citados	jegyzett	citar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+baseball	beisebol	baseball	beisebol		N;MASC;SG
+baseball	baseball	baseball	baseball		N;MASC;SG
+baseball	basebol	baseball	basebol		N;MASC;SG
+egyezik	partidas	egyezik	partida	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+egyezik	correspondências	egyezik	correspondência	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+egyezik	fósforos	egyezik	fósforo	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+egyezik	match	egyezik	match	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+bolond	idiota	bolond	idiota		N;FEM;SG
+bolond	bobo	bolond	bobo		ADJ;MASC;SG
+bolond	tolo	bolond	tolo		ADJ;MASC;SG
+bolond	parvo	bolond	parvo		ADJ;MASC;SG
+bolond	tola	bolond	tola		N;FEM;SG
+bolond	tolo	bolond	tolo		ADJ;MASC;SG
+kínaiak	chinesa	kínai	chinês	N;NOM;PL	N;FEM;SG
+kínaiak	chinês	kínai	chinês	N;NOM;PL	N;MASC;SG
+tibet	tibete	tibet	tibete		N;MASC;SG
+őszintén	sinceramente	őszintén	sinceramente		ADV
+őszintén	honestamente	őszintén	honestamente		ADV
+ovális	oval	ovális	oval		N;MASC;SG
+ovális	ovais	ovális	oval		N;MASC;PL
+megosztott	divididas	megosztott	dividir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+megosztott	divididos	megosztott	dividir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+tematikus	temática	tematikus	temático	ADJ;NOM;SG	N;FEM;SG
+tematikus	temáticos	tematikus	temático	ADJ;NOM;SG	N;MASC;PL
+egyenlítői	equatorial	egyenlítő	equatorial	N;NOM;PL	ADJ;MASC;SG
+munkahelyek	emprego	munkahely	emprego	N;NOM;PL	N;MASC;SG
+hanna	hannah	hanna	hannah		N;FEM;SG
+hanna	hanna	hanna	hanna		N;FEM;SG
+halottak	morta	halott	morto	N;NOM;PL	N;FEM;SG
+halottak	morto	halott	morrer	N;NOM;PL	V;MASC;SG;V.PTCP
+halottak	dead	halott	dead	N;NOM;PL	N;MASC;SG
+burton	burton	burt	burton		N;MASC;SG
+nacionalista	nacionalistas	nacionalista	nacionalista	ADJ;NOM;SG	N;MASC;PL
+kezelő	operador	kezelő	operador	ADJ;NOM;SG	N;MASC;SG
+kezelő	operadora	kezelő	operadora	ADJ;NOM;SG	N;FEM;SG
+kezelő	operadores	kezelő	operador	ADJ;NOM;SG	N;MASC;PL
+kezelő	gerenciador	kezelő	gerenciador	ADJ;NOM;SG	N;MASC;SG
+kezelő	gerente	kezelő	gerente	ADJ;NOM;SG	N;MASC;SG
+kezelő	gestor	kezelő	gestor	ADJ;NOM;SG	N;MASC;SG
+kezelő	manipulador	kezelő	manipulador	ADJ;NOM;SG	N;MASC;SG
+vatikáni	vaticano	vatikáni	vaticano		N;MASC;SG
+módszertani	metodológicos	módszert	metodológico	ADJ;NOM;SG	ADJ;MASC;PL
+módszertani	metodológicas	módszert	metodológico	ADJ;NOM;SG	N;FEM;PL
+módszertani	metodológica	módszert	metodológico	ADJ;NOM;SG	N;FEM;SG
+hírhedt	notória	hír	notória		ADJ;FEM;SG
+hírhedt	notório	hír	notório		ADJ;MASC;SG
+hírhedt	infames	hír	infame		N;MASC;PL
+hírhedt	infame	hír	infame		N;MASC;SG
+tokiói	tokyo	tokiói	tokyo	ADJ;NOM;SG	N;MASC;SG
+tokiói	tóquio	tokiói	tóquio	ADJ;NOM;SG	N;MASC;SG
+józan	sóbrio	józan	sóbrio		ADJ;MASC;SG
+józan	sóbrios	józan	sóbrio		ADJ;MASC;PL
+józan	sóbria	józan	sóbria		ADJ;FEM;SG
+költség	custos	költség	custo	N;NOM;SG	N;MASC;PL
+költség	custos	költség	custo	N;NOM;SG	N;MASC;PL
+költség	despesas	költség	despesa	N;NOM;SG	N;FEM;PL
+ricardo	ricardo	ricardo	ricardo		N;MASC;SG
+mel	mel	mel	mel		N;MASC;SG
+alpesi	alpina	alpesi	alpinar		N;FEM;SG
+alpesi	alpino	alpesi	alpino		N;MASC;SG
+szekeres	szekeres	szekeres	szeker		N;MASC;PL
+törtek	fracções	tört	fracção	V;INDF;IND;PL;3;PST;FIN;ACT	N;FEM;PL
+törtek	frações	tört	fração	V;INDF;IND;PL;3;PST;FIN;ACT	N;FEM;PL
+galamb	pomba	galamb	pomba		N;FEM;SG
+galamb	dove	galamb	dover		N;MASC;SG
+galamb	pomba	galamb	pomba		N;FEM;SG
+galamb	pombo	galamb	pombo		N;MASC;SG
+galamb	pombos	galamb	pombo		N;MASC;PL
+szervező	promotor	szervező	promotor		N;MASC;SG
+szervező	promotora	szervező	promotora		N;FEM;SG
+szervező	organizador	szervező	organizador		N;MASC;SG
+szervező	organizador	szervező	organizador		N;MASC;SG
+macskák	cats	macska	cats	N;NOM;PL	N;MASC;SG
+befolyásos	influentes	befolyásos	influente	ADJ;NOM;SG	ADJ;MASC;PL
+elpusztította	destruídos	elpusztít	destruir	V;DEF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+elpusztította	arrasaram	elpusztít	arrasar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+hús	carnes	hús	carne	N;NOM;SG	N;FEM;PL
+követelt	exigi	követelt	exigir	V;INDF;IND;SG;3;PST;FIN;ACT	INTJ
+követelt	exigia	követelt	exigir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+serena	serena	serena	serena		N;FEM;SG
+vosges	vosges	vosges	vosge	PROPN;NOM;SG	N;MASC;SG
+hirdetett	anunciados	hirdet	anunciar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+hirdetett	promovidos	hirdet	promover	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+hirdetett	promovidas	hirdet	promover	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+logó	logo	logó	logo	N;NOM;SG	ADV
+katalógus	catálogos	katalógus	catálogo	N;NOM;SG	N;MASC;PL
+platform	plataforma	platform	plataforma		N;FEM;SG
+platform	plataformas	platform	plataforma		N;FEM;PL
+kollektív	coletiva	kollektív	coletivo		N;FEM;SG
+kollektív	colectivo	kollektív	colectivo		N;MASC;SG
+kollektív	colectiva	kollektív	colectivo		ADJ;FEM;SG
+kollektív	coletivo	kollektív	coletivo		N;MASC;SG
+hazafias	patriótico	hazafias	patriótico		ADJ;MASC;SG
+hazafias	patriótica	hazafias	patriótico		N;FEM;SG
+hazafias	patriota	hazafias	patriota		N;FEM;SG
+rogers	rogers	rogers	roger		N;MASC;SG
+tudor	tudor	tudor	tudor		N;MASC;SG
+jefferson	jefferson	jeffers	jefferson		N;MASC;SG
+meghívást	convide	meghívás	convidir	N;ACC;SG	V;SBJV;SG;3;PRS;FIN
+meghívást	convidar	meghívás	convidar	N;ACC;SG	V;NFIN
+meghívást	convida	meghívás	convida	N;ACC;SG	V;IND;SG;3;PRS;FIN
+akkád	acádio	akkád	acádio		N;MASC;SG
+suriname	suriname	suriname	suriname	PROPN;NOM;SG	N;FEM;SG
+értelmezni	interprete	értelmez	interpretar	V;NFIN;ACT	N;MASC;SG
+bauer	bauer	bauer	bauer		N;MASC;SG
+muzulmán	muçulmano	muzulom	muçulmano		N;MASC;SG
+muzulmán	muçulmanos	muzulom	muçulmano		N;MASC;PL
+muzulmán	muçulmanas	muzulom	muçulmano		N;FEM;PL
+muzulmán	muçulmana	muzulom	muçulmano		N;FEM;SG
+montana	montana	mont	montana		N;FEM;SG
+nélkülözhetetlen	indispensável	nélkülözhetetlen	indispensável		ADJ;MASC;SG
+nélkülözhetetlen	indispensáveis	nélkülözhetetlen	indispensável		ADJ;MASC;PL
+nélkülözhetetlen	imprescindível	nélkülözhetetlen	imprescindível		ADJ;MASC;SG
+nélkülözhetetlen	essencial	nélkülözhetetlen	essencial		ADJ;MASC;SG
+nélkülözhetetlen	essenciais	nélkülözhetetlen	essencial		ADJ;MASC;PL
+biztonság	seguranças	biztonság	segurança	N;NOM;SG	N;FEM;PL
+biztonság	seguros	biztonság	seguro	N;NOM;SG	N;MASC;PL
+biztonság	segura	biztonság	seguro	N;NOM;SG	ADJ;FEM;SG
+len	linho	len	linho		N;MASC;SG
+len	len	len	len		N;MASC;SG
+ismétlődő	duplicado	ismétlődő	duplicar	ADJ;NOM;SG	V;MASC;SG;V.PTCP
+ismétlődő	duplicados	ismétlődő	duplicar	ADJ;NOM;SG	V;MASC;PL;V.PTCP
+ismétlődő	duplicar	ismétlődő	duplicar	ADJ;NOM;SG	V;NFIN
+ismétlődő	repetitivos	ismétlődő	repetitivo	ADJ;NOM;SG	ADJ;MASC;PL
+ismétlődő	recorrentes	ismétlődő	recorrente	ADJ;NOM;SG	ADJ;MASC;PL
+ismétlődő	repetido	ismétlődő	repetir	ADJ;NOM;SG	V;MASC;SG;V.PTCP
+ismétlődő	repetidas	ismétlődő	repetir	ADJ;NOM;SG	V;FEM;PL;V.PTCP
+ismétlődő	repetidos	ismétlődő	repetir	ADJ;NOM;SG	V;MASC;PL;V.PTCP
+ismétlődő	repetida	ismétlődő	repetir	ADJ;NOM;SG	V;FEM;SG;V.PTCP
+bűnös	culpada	bűnös	culpar		V;FEM;SG;V.PTCP
+bűnös	culpado	bűnös	culpar		V;MASC;SG;V.PTCP
+bűnös	culpados	bűnös	culpar		V;MASC;PL;V.PTCP
+bűnös	pecadora	bűnös	pecadora		N;FEM;SG
+bűnös	pecadores	bűnös	pecador		N;MASC;PL
+bűnös	pecador	bűnös	pecador		N;MASC;SG
+elsődlegesen	principalmente	elsődlegesen	principalmente	ADJ;FRML;SG	ADV
+elsődlegesen	primariamente	elsődlegesen	primariamente	ADJ;FRML;SG	ADV
+kiejtés	pronúncia	kiejtés	pronúncia		N;FEM;SG
+admirális	almirante	admirális	almirante		N;MASC;SG
+tarka	pied	tarka	pied		N;MASC;SG
+váltakozó	alternando	váltakozó	alternar		V;V.MSDR
+váltakozó	alternância	váltakozó	alternância		N;FEM;SG
+váltakozó	alternados	váltakozó	alternado		V;MASC;PL;V.PTCP
+váltakozó	alternada	váltakozó	alternar		V;FEM;SG;V.PTCP
+tedd	coloca	tedd	colocar	V;DEF;IMP;SG;2;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+tedd	coloque	tedd	coloque	V;DEF;IMP;SG;2;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+mérhető	mensuráveis	mérhető	mensurável		ADJ;MASC;PL
+mérhető	mensurável	mérhető	mensurável		ADJ;MASC;SG
+puha	soft	puha	soft		N;MASC;SG
+puha	suave	puha	suave		ADJ;MASC;SG
+puha	macio	puha	macio		ADJ;MASC;SG
+puha	mole	puha	mole		ADJ;MASC;SG
+puha	suaves	puha	suave		ADJ;MASC;PL
+zavaros	confusa	zavaros	confusa		ADJ;FEM;SG
+zavaros	confusos	zavaros	confuso		ADJ;MASC;PL
+zavaros	confundido	zavaros	confundir		V;MASC;SG;V.PTCP
+zavaros	confuso	zavaros	confuso		ADJ;MASC;SG
+zavaros	nublado	zavaros	nublar		V;MASC;SG;V.PTCP
+zavaros	confusa	zavaros	confusa		ADJ;FEM;SG
+zavaros	confusas	zavaros	confusa		ADJ;FEM;PL
+zavaros	confuso	zavaros	confuso		ADJ;MASC;SG
+hubert	humberto	huber	humberto		N;MASC;SG
+hubert	hubert	huber	hubert		N;MASC;SG
+gers	gers	gers	gers		N;MASC;SG
+hitte	acreditou	hit	acreditar	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+hitte	acreditavam	hit	acreditar	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IND;PL;3;IPFV;FIN
+hitte	acreditava	hit	acreditar	V;DEF;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;IPFV;FIN
+rap	rap	rap	rap		N;MASC;SG
+sértő	ofensivos	sértő	ofensivo		ADJ;MASC;PL
+sértő	ofensivo	sértő	ofensivo		ADJ;MASC;SG
+sértő	ofensiva	sértő	ofensiva		N;FEM;SG
+sértő	ofensivas	sértő	ofensiva		ADJ;FEM;PL
+sértő	insultuoso	sértő	insultuoso		ADJ;MASC;SG
+sértő	insulto	sértő	insulto		N;MASC;SG
+sértő	insultar	sértő	insultar		V;NFIN
+iowa	iowa	iowa	iowa		N;MASC;SG
+medina	medina	medina	medina		N;MASC;SG
+kölcsön	emprestado	kölcsön	emprestar	N;NOM;SG	V;MASC;SG;V.PTCP
+kölcsön	emprestada	kölcsön	emprestar	N;NOM;SG	V;FEM;SG;V.PTCP
+kölcsön	empréstimos	kölcsön	empréstimo	N;NOM;SG	N;MASC;PL
+kölcsön	emprestar	kölcsön	emprestar	N;NOM;SG	V;NFIN
+kölcsön	empresta	kölcsön	emprestar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+clarke	clarke	clarke	clarke		N;MASC;SG
+túlélte	sobreviveram	túlél	sobreviver	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+régiók	região	régió	região	N;NOM;PL	N;FEM;SG
+módosult	alterados	módosul	alterar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+módosult	alteradas	módosul	alterar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+módosult	modificados	módosul	modificar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+hallgatta	ouvia	hallgat	ouvir	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+marton	marton	marton	marton		N;MASC;SG
+randy	randy	randy	randy		N;MASC;SG
+ferde	torto	ferde	torto		N;MASC;SG
+ferde	oblíqua	ferde	oblíqua		ADJ;FEM;SG
+ferde	slant	ferde	slant		N;MASC;SG
+ontario	ontário	ontario	ontário	PROPN;NOM;SG	N;MASC;SG
+esély	chances	esély	chance	N;NOM;SG	N;FEM;PL
+esély	hipóteses	esély	hipótese	N;NOM;SG	N;FEM;PL
+esély	chances	esély	chance	N;NOM;SG	N;FEM;PL
+esély	probabilidades	esély	probabilidade	N;NOM;SG	N;FEM;PL
+szárnyas	alado	szárnyas	alado		N;MASC;SG
+ünnepség	cerimónias	ünnepség	cerimónia	N;NOM;SG	N;FEM;PL
+rossi	rossi	rossi	rossi		N;MASC;SG
+temetkezési	coveiro	temetkezési	coveiro	ADJ;NOM;SG	N;MASC;SG
+temetkezési	undertaker	temetkezési	undertaker	ADJ;NOM;SG	N;MASC;SG
+bis	bpi	bis	bpi		N;MASC;SG
+bis	bis	bis	bis		N;MASC;SG
+kibocsátott	emitidos	kibocsátott	emitir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+kibocsátott	emitidas	kibocsátott	emitir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+laboratóriumi	laboratório	laboratóriumi	laboratório	ADJ;NOM;SG	N;MASC;SG
+laboratóriumi	laboratórios	laboratóriumi	laboratório	ADJ;NOM;SG	N;MASC;PL
+berg	berg	berg	berg		N;MASC;SG
+albrecht	albrecht	albrecht	albrecht		N;MASC;SG
+gomba	cogumelos	gomba	cogumelo	N;NOM;SG	N;MASC;PL
+gomba	fungos	gomba	fungo	N;NOM;SG	N;MASC;PL
+gomba	fungos	gomba	fungo	N;NOM;SG	N;MASC;PL
+gomba	cogumelos	gomba	cogumelo	N;NOM;SG	N;MASC;PL
+szavazott	votaram	szavazott	votar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+szavazott	votei	szavazott	votar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+biztosítva	segurado	biztosítva	segurar	ADV;V.CVB	V;MASC;SG;V.PTCP
+biztosítva	segurados	biztosítva	segurar	ADV;V.CVB	N;MASC;PL
+biztosítva	seguro	biztosítva	seguro	ADV;V.CVB	N;MASC;SG
+steiner	steiner	steiner	steiner		N;MASC;SG
+állítólagos	alegado	állítólagos	alegar		V;MASC;SG;V.PTCP
+állítólagos	alegados	állítólagos	alegar		V;MASC;PL;V.PTCP
+állítólagos	alegada	állítólagos	alegar		V;FEM;SG;V.PTCP
+szándéka	intenções	szándék	intenção	N;NOM;SG	N;FEM;PL
+szándéka	intenções	szándék	intenção	N;NOM;SG	N;FEM;PL
+genova	génova	genova	génova		N;MASC;SG
+genova	gênova	genova	gênova		N;FEM;SG
+genova	genova	genova	genova		N;MASC;SG
+világosabb	isqueiro	világos	isqueiro	ADJ;NOM;CMPR;SG	N;MASC;SG
+elérés	alcança	elérés	alcançar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+elérés	alcançar	elérés	alcançar	N;NOM;SG	V;NFIN
+visszafelé	recuar	visszafelé	recuar		V;NFIN
+visszafelé	atrasados	visszafelé	atrasar		V;MASC;PL;V.PTCP
+ptolemaiosz	ptolomeu	ptolemaiosz	ptolomer	N;NOM;PL	N;MASC;SG
+cliff	penhasco	cliff	penhasco		N;MASC;SG
+cliff	precipício	cliff	precipício		N;MASC;SG
+cliff	cliff	cliff	cliff		N;MASC;SG
+nicola	nicola	nicola	nicola		N;MASC;SG
+képviselt	representada	képvisel	representar		V;FEM;SG;V.PTCP
+képviselt	representado	képvisel	representar		V;MASC;SG;V.PTCP
+képviselt	representados	képvisel	representar		V;MASC;PL;V.PTCP
+képviselt	representadas	képvisel	representar		V;FEM;PL;V.PTCP
+képviselt	representou	képvisel	representar		V;IND;SG;3;PST;FIN
+egyenletes	uniformemente	egyenletes	uniformemente		ADV
+egyenletes	firme	egyenletes	firme		ADJ;FEM;SG
+brecht	brecht	brecht	brecht		N;MASC;SG
+martínez	martínez	martínez	martínez		N;MASC;SG
+julien	julien	julien	julien		N;MASC;SG
+julien	juliano	julien	juliano		N;MASC;SG
+üzemeltetett	operados	üzemeltet	operar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+törzsi	tribais	törzsi	tribal	ADJ;NOM;SG	N;MASC;PL
+törzsi	tribal	törzsi	tribal	ADJ;NOM;SG	N;MASC;SG
+cartman	cartman	cartman	cartman		N;MASC;SG
+beavatkozás	interferências	beavatkozás	interferência	N;NOM;SG	N;FEM;PL
+beavatkozás	intervenções	beavatkozás	intervenção	N;NOM;SG	N;FEM;PL
+karcsú	slim	karcsú	slim		N;MASC;SG
+karcsú	magra	karcsú	magro		N;FEM;SG
+karcsú	delgada	karcsú	delgada		N;FEM;SG
+tanít	ensino	tanít	ensino	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+kétséges	duvido	kétséges	duvido	ADJ;NOM;SG	V;IND;SG;1;PRS;FIN
+kétséges	dúvidas	kétséges	dúvida	ADJ;NOM;SG	N;FEM;PL
+kétséges	duvidas	kétséges	duvida	ADJ;NOM;SG	N;FEM;PL
+kétséges	dúvida	kétséges	dúvida	ADJ;NOM;SG	N;FEM;SG
+kétséges	duvida	kétséges	duvidar	ADJ;NOM;SG	N;FEM;SG
+kétséges	duvido	kétséges	duvido	ADJ;NOM;SG	V;IND;SG;1;PRS;FIN
+dobó	lançador	dobó	lançador		N;MASC;SG
+dobó	arremessador	dobó	arremessador		N;MASC;SG
+dobó	jarro	dobó	jarro		N;MASC;SG
+leslie	leslie	lesl	leslie		N;MASC;SG
+pusztító	destrutivos	pusztító	destrutivo	ADJ;NOM;SG	ADJ;MASC;PL
+pusztító	devastadoras	pusztító	devastador	ADJ;NOM;SG	ADJ;FEM;PL
+pusztító	devastadores	pusztító	devastador	ADJ;NOM;SG	N;MASC;PL
+pusztító	destruidor	pusztító	destruidor	ADJ;NOM;SG	N;MASC;SG
+pusztító	destroyer	pusztító	destroyer	ADJ;NOM;SG	N;MASC;SG
+pearl	pearl	pearl	pearl		N;MASC;SG
+pearl	pérola	pearl	pérola		N;FEM;SG
+átdolgozott	revisto	átdolgozott	revisto		V;MASC;SG;V.PTCP
+átdolgozott	revista	átdolgozott	revista		N;FEM;SG
+átdolgozott	revisado	átdolgozott	revisar		V;MASC;SG;V.PTCP
+álma	sonhar	álma	sonhar	N;NOM;SG	V;NFIN
+essen	essen	essen	essen	V;INDF;IMP;SG;3;PRS;FIN;ACT	N;MASC;SG
+feldolgozó	processador	feldolgozó	processador	ADJ;NOM;SG	N;MASC;SG
+feldolgozó	processadores	feldolgozó	processador	ADJ;NOM;SG	N;MASC;PL
+elena	helena	elena	heleno		N;FEM;SG
+elena	elena	elena	elenar		N;FEM;SG
+elektron	elétrons	elektron	elétron	N;NOM;SG	N;MASC;PL
+elektron	electrões	elektron	eletrão	N;NOM;SG	N;MASC;PL
+telek	terrenos	tél	terreno	N;NOM;SG	N;MASC;PL
+telek	terras	tél	terra	N;NOM;SG	N;FEM;PL
+par	par	par	par		N;MASC;SG
+dôme	dôme	dem	dômer		N;MASC;SG
+singer	cantora	singer	cantora		N;FEM;SG
+singer	singer	singer	singer		N;MASC;SG
+singer	cantor	singer	cantor		N;MASC;SG
+anatómiai	anatômicas	anatómiai	anatômico	ADJ;NOM;SG	N;FEM;PL
+zambia	zâmbia	zambia	zâmbia		N;FEM;SG
+leon	león	lesz	león		N;MASC;SG
+leon	léon	lesz	léon		N;MASC;SG
+leon	leon	lesz	leon		N;MASC;SG
+laosz	laos	laosz	lao	PROPN;NOM;SG	N;MASC;SG
+vezetni	drive	vezet	drive	V;NFIN;ACT	N;MASC;SG
+rico	rico	rico	rico		ADJ;MASC;SG
+haydn	haydn	haydn	haydn		N;MASC;SG
+felhasználás	usar	felhasználás	usar	N;NOM;SG	V;NFIN
+felhasználás	use	felhasználás	usar	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+felhasználás	utilizar	felhasználás	utilizar	N;NOM;SG	V;NFIN
+korong	disquete	korong	disquete		N;MASC;SG
+korong	disco	korong	disco		N;MASC;SG
+korong	puck	korong	puck		N;MASC;SG
+korong	disc	korong	disc		N;MASC;SG
+korong	disco	korong	disco		N;MASC;SG
+hűséges	leais	hűséges	leal	ADJ;NOM;SG	N;MASC;PL
+hűséges	fieis	hűséges	fial	ADJ;NOM;SG	N;MASC;PL
+hűséges	fiéis	hűséges	fiel	ADJ;NOM;SG	N;MASC;PL
+elektronikai	eletrônica	elektronikai	eletrônico	ADJ;NOM;SG	N;FEM;SG
+elektronikai	electrónica	elektronikai	electrónica	ADJ;NOM;SG	N;FEM;SG
+elektronikai	eletrônicos	elektronikai	eletrônico	ADJ;NOM;SG	N;MASC;PL
+venezuelai	venezuelano	venezuelai	venezuelano	ADJ;NOM;SG	N;MASC;SG
+venezuelai	venezuela	venezuelai	venezuela	ADJ;NOM;SG	N;FEM;SG
+paradicsom	tomates	paradicsom	tomate	N;NOM;SG	N;MASC;PL
+fenntartása	manter	fenntartás	manter	N;NOM;SG	V;NFIN
+fenntartása	mantendo	fenntartás	manter	N;NOM;SG	V;V.MSDR
+fenyegető	ameaçador	fenyegető	ameaçador		ADJ;MASC;SG
+fenyegető	ameaçadora	fenyegető	ameaçador		ADJ;FEM;SG
+fenyegető	ameaçador	fenyegető	ameaçador		ADJ;MASC;SG
+fenyegető	ameaçando	fenyegető	ameaçar		V;V.MSDR
+fenyegető	ameaçar	fenyegető	ameaçar		V;NFIN
+harmadszor	terceira	harmadszor	terceiro		ADJ;FEM;SG
+harmadszor	terço	harmadszor	terço		ADJ;MASC;SG
+harmadszor	terceiro	harmadszor	terceiro		ADJ;MASC;SG
+federico	frederico	federico	frederico		N;MASC;SG
+federico	federico	federico	federico		N;MASC;SG
+növelése	aumente	növelés	aumente	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+növelése	aumentem	növelés	aumentar	N;NOM;SG	V;SBJV;PL;3;PRS;FIN
+növelése	aumentar	növelés	aumentar	N;NOM;SG	V;NFIN
+növelése	aumenta	növelés	aumentar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+emily	emily	emily	emily		N;FEM;SG
+eredményezett	resultaram	eredményezett	resultar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+giacomo	giacomo	giacomo	giacomo		N;MASC;SG
+martina	martina	martina	martina		N;FEM;SG
+darwin	darwin	darwin	darwin		N;MASC;SG
+domenico	domenico	domenico	domenico		N;MASC;SG
+küld	envio	küld	envio	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+küld	envie	küld	enviar	V;INDF;IND;SG;3;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+küld	mandem	küld	mander	V;INDF;IND;SG;3;PRS;FIN;ACT	V;SBJV;PL;3;PRS;FIN
+doug	doug	doug	doug		N;MASC;SG
+republikánus	republicanos	republikánus	republicano	N;NOM;SG	N;MASC;PL
+rosszindulatú	malévolo	rosszindulatú	malévolo	N;NOM;SG	ADJ;MASC;SG
+rosszindulatú	abusivo	rosszindulatú	abusivo	N;NOM;SG	ADJ;MASC;SG
+rosszindulatú	abusivas	rosszindulatú	abusivo	N;NOM;SG	ADJ;FEM;PL
+rosszindulatú	abusivos	rosszindulatú	abusivo	N;NOM;SG	ADJ;MASC;PL
+rosszindulatú	abusiva	rosszindulatú	abusivo	N;NOM;SG	ADJ;FEM;SG
+rosszindulatú	malicioso	rosszindulatú	malicioso	N;NOM;SG	ADJ;MASC;SG
+rosszindulatú	maldoso	rosszindulatú	maldoso	N;NOM;SG	ADJ;MASC;SG
+rosszindulatú	maliciosa	rosszindulatú	malicioso	N;NOM;SG	ADJ;FEM;SG
+rosszindulatú	malignas	rosszindulatú	maligna	N;NOM;SG	N;FEM;PL
+rosszindulatú	malignos	rosszindulatú	maligno	N;NOM;SG	N;MASC;PL
+elemzés	análises	elemzés	análise	N;NOM;SG	N;FEM;PL
+tehetségét	talentos	tehetség	talento	N;ACC;SG	N;MASC;PL
+veronika	veronika	veronika	veroniko		N;FEM;SG
+nomád	nómada	nomád	nómada		V;FEM;SG;V.PTCP
+nomád	nômades	nomád	nômade		N;MASC;PL
+nomád	nómadas	nomád	nómar		N;MASC;PL
+nomád	nómada	nomád	nómada		V;FEM;SG;V.PTCP
+nomád	nomad	nomád	nomar		N;MASC;SG
+járvány	epidemias	járvány	epidemia	N;NOM;SG	N;FEM;PL
+megfigyelő	observadora	megfigyelő	observador	N;NOM;SG	ADJ;FEM;SG
+megfigyelő	observadores	megfigyelő	observador	N;NOM;SG	N;MASC;PL
+lille	lille	lille	lille	PROPN;NOM;SG	N;MASC;SG
+vicces	engraçado	vicces	engraçado		V;MASC;SG;V.PTCP
+vicces	engraçada	vicces	engraçada		V;FEM;SG;V.PTCP
+vicces	hilário	vicces	hilário		N;MASC;SG
+vicces	hilariante	vicces	hilariante		N;MASC;SG
+laurent	laurent	laurent	laurent		N;MASC;SG
+válás	divórcios	válás	divórcio	N;NOM;SG	N;MASC;PL
+chan	chan	chan	chan	PROPN;NOM;SG	N;MASC;SG
+halászat	pescarias	halász	pescaria	N;NOM;SG	N;FEM;PL
+halászat	pescas	halász	pesca	N;NOM;SG	N;FEM;PL
+halászat	pescar	halász	pescar	N;NOM;SG	V;NFIN
+létrejövő	resultando	létrejövő	resultar	ADJ;NOM;SG	V;V.MSDR
+neill	neill	neill	neill		N;MASC;SG
+lánc	correntes	lánc	corrente		N;MASC;PL
+lánc	cadeias	lánc	cadeia		N;FEM;PL
+lánc	cadeia	lánc	cadeia		N;FEM;SG
+lánc	corrente	lánc	corrente		N;FEM;SG
+oxid	óxidos	oxid	óxido	N;NOM;SG	N;MASC;PL
+illetékes	competentes	illetékes	competente		N;MASC;PL
+illetékes	competente	illetékes	competente		ADJ;MASC;SG
+fortuna	fortuna	fortuna	fortuna		N;FEM;SG
+nielsen	nielsen	niels	nielsen		N;MASC;SG
+vega	vega	vega	vega		N;MASC;SG
+vega	vegan	vega	vegan		N;MASC;SG
+befejeződött	concluídas	befejeződik	concluir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+befejeződött	concluídos	befejeződik	concluir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+boris	boris	boris	bori		N;MASC;SG
+fenyegeti	ameaça	fenyegeti	ameaça	V;DEF;IND;SG;3;PRS;FIN;ACT	N;FEM;SG
+tűzoltó	bombeiro	tűzoltó	bombeiro	ADJ;NOM;SG	N;MASC;SG
+tűzoltó	bombeiro	tűzoltó	bombeiro	ADJ;NOM;SG	N;MASC;SG
+nagyobbak	maiores	nagy	grande	ADV	ADJ;MASC;PL
+nagyobbak	maior	nagy	grande	ADV	ADJ;MASC;SG
+nagyobbak	maiores	nagy	grande	ADV	ADJ;MASC;PL
+nagyobbak	maior	nagy	grande	ADV	ADJ;MASC;SG
+utazók	viajante	utazó	viajante	N;NOM;PL	N;MASC;SG
+kőolaj	óleos	kőolaj	óleos	N;NOM;SG	N;MASC;PL
+spin	spin	spin	spin		N;MASC;SG
+spin	girar	spin	girar		V;NFIN
+hallottam	ouviu	hall	ouvir	V;DEF;IND;SG;1;PST;FIN;ACT	V;IND;SG;3;PST;FIN
+hallottam	ouviram	hall	ouvir	V;DEF;IND;SG;1;PST;FIN;ACT	V;IND;PL;3;FIN
+hasonlóképpen	similarmente	hasonlóképpen	similarmente		ADV
+krónikus	crónicas	krónikus	crónica	N;NOM;SG	N;FEM;PL
+krónikus	crônicas	krónikus	crônica	N;NOM;SG	N;FEM;PL
+rajza	desenhar	rajza	desenhar	N;NOM;SG	V;NFIN
+rajza	desenhando	rajza	desenhar	N;NOM;SG	V;V.MSDR
+logikus	lógico	logikus	lógico		ADJ;MASC;SG
+logikus	lógica	logikus	lógico		N;FEM;SG
+logikus	lógicas	logikus	lógico		N;FEM;PL
+kertészeti	horticultura	kertészeti	horticultura		N;FEM;SG
+kertészeti	jardinagem	kertészeti	jardinagem		N;FEM;SG
+hasi	abdominais	hasi	abdominal	N;NOM;SG	N;MASC;PL
+jürgen	jürgen	jürgen	jürgen		N;MASC;SG
+jürgen	jurgen	jürgen	jurgen		N;MASC;SG
+vád	encargos	vád	encargo		N;MASC;PL
+vád	cobranças	vád	cobrança		N;FEM;PL
+vád	acusações	vád	acusação		N;FEM;PL
+vád	débitos	vád	débito		N;MASC;PL
+vád	acusação	vád	acusação		N;FEM;SG
+vád	acusação	vád	acusação		N;FEM;SG
+végrehajtása	implementar	végrehajtás	implementar	N;NOM;SG	V;NFIN
+végrehajtása	implementa	végrehajtás	implementa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+végrehajtása	aplicar	végrehajtás	aplicar	N;NOM;SG	V;NFIN
+ellenálló	resistente	ellenálló	resistente		ADJ;MASC;SG
+ellenálló	resistentes	ellenálló	resistente		ADJ;MASC;PL
+ellenálló	resistências	ellenálló	resistência		N;FEM;PL
+ellenálló	resistência	ellenálló	resistência		N;FEM;SG
+lucy	lúcia	lucy	lúcia		N;FEM;SG
+lucy	lucy	lucy	lucy		N;FEM;SG
+lucy	lucia	lucy	lucia		N;FEM;SG
+liter	litros	liter	litro	N;NOM;SG	N;MASC;PL
+liter	litros	liter	litro	N;NOM;SG	N;MASC;PL
+dylan	dylan	dylan	dylan		N;MASC;SG
+derek	derek	derek	derek		N;MASC;SG
+camp	acampamento	camp	acampamento		N;MASC;SG
+camp	camp	camp	camp		N;MASC;SG
+camp	campo	camp	campo		N;MASC;SG
+kontinensen	continente	kontinens	continente	ADJ;FRML;SG	N;MASC;SG
+eltávolítása	removendo	eltávolítás	remover	N;NOM;SG	V;V.MSDR
+eltávolítása	remover	eltávolítás	remover	N;NOM;SG	V;NFIN
+eltávolítása	remova	eltávolítás	removo	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+eltávolítása	remover	eltávolítás	remover	N;NOM;SG	V;NFIN
+eltávolítása	eliminar	eltávolítás	eliminar	N;NOM;SG	V;NFIN
+nyíló	florescendo	nyíló	florescer		V;V.MSDR
+kritikát	críticas	kritika	crítica	N;ACC;SG	N;FEM;PL
+merőleges	perpendicular	merőleges	perpendicular		ADJ;MASC;SG
+nevezetesen	nomeadamente	nevezetesen	nomeadamente		ADV
+nevezetesen	notavelmente	nevezetesen	notavelmente		ADV
+kenyér	pães	kenyér	pão	N;NOM;SG	N;MASC;PL
+kinga	king	kinga	king		N;MASC;SG
+kinga	rei	kinga	rei		N;MASC;SG
+karen	karen	kar	karen		N;FEM;SG
+vista	vista	vista	vista		N;FEM;SG
+tulajdon	propriedade	tulajdon	propriedade		N;FEM;SG
+tulajdon	imóvel	tulajdon	imóvel		N;MASC;SG
+tulajdon	propriedades	tulajdon	propriedade		N;FEM;PL
+marokkói	marroquina	marokkói	marroquina	ADJ;NOM;SG	N;FEM;SG
+marokkói	marroquinos	marokkói	marroquino	ADJ;NOM;SG	N;MASC;PL
+marokkói	marroquino	marokkói	marroquino	ADJ;NOM;SG	N;MASC;SG
+hódító	conquistador	hódító	conquistador		N;MASC;SG
+hódító	conquistando	hódító	conquistar		V;V.MSDR
+lábát	pernas	lába	perna	N;ACC;SG	N;FEM;PL
+amanda	amanda	amanda	amanda		N;FEM;SG
+cleveland	cleveland	cleveland	cleveland		N;MASC;SG
+folytatás	recomeçar	folytatás	recomeçar	N;NOM;SG	V;NFIN
+folytatás	retomar	folytatás	retomar	N;NOM;SG	V;NFIN
+folytatás	continuar	folytatás	continuar	N;NOM;SG	V;NFIN
+folytatás	continuando	folytatás	continuar	N;NOM;SG	V;V.MSDR
+folytatás	continue	folytatás	continuar	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+folytatás	continuem	folytatás	continuar	N;NOM;SG	V;SBJV;PL;3;PRS;FIN
+folytatás	continuar	folytatás	continuar	N;NOM;SG	V;NFIN
+folytatás	continua	folytatás	continuar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+folytatás	continuaram	folytatás	continuar	N;NOM;SG	V;IND;PL;3;FIN
+folytatás	continuado	folytatás	continuar	N;NOM;SG	V;MASC;SG;V.PTCP
+folytatás	continuou	folytatás	continuar	N;NOM;SG	V;IND;SG;3;PST;FIN
+hittem	acreditou	hit	acreditar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+hittem	acreditavam	hit	acreditar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;PL;3;IPFV;FIN
+hittem	acreditava	hit	acreditar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;IPFV;FIN
+hittem	pensei	hit	pensar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;1;PST;FIN
+hittem	pensamento	hit	pensamento	V;DEF;IND;SG;1;PRS;FIN;ACT	N;MASC;SG
+hittem	pensou	hit	pensar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+fasiszta	fascista	fasiszta	fascista		N;MASC;SG
+fasiszta	fascistas	fasiszta	fascista		N;MASC;PL
+gregory	gregory	gregory	gregory		N;MASC;SG
+gregory	gregório	gregory	gregório		N;MASC;SG
+dominikai	dominicana	dominikai	dominicano		N;FEM;SG
+dominikai	dominica	dominikai	dominicar		N;FEM;SG
+kocka	geek	kocka	geek		N;MASC;SG
+kocka	nerd	kocka	nerd		N;MASC;SG
+kocka	cubo	kocka	cubo		N;MASC;SG
+kocka	totó	kocka	totó		N;MASC;SG
+kocka	nerd	kocka	nerd		N;MASC;SG
+örülök	prazer	örül	prazer	V;DEF;IND;SG;1;PRS;FIN;ACT	N;MASC;SG
+tárgyalás	negociações	tárgyalás	negociação	N;NOM;SG	N;FEM;PL
+befejezetlen	inacabada	befejezetlen	inacabar		V;FEM;SG;V.PTCP
+befejezetlen	inacabado	befejezetlen	inacabado		V;MASC;SG;V.PTCP
+befejezetlen	incompletas	befejezetlen	incompleta		ADJ;FEM;PL
+befejezetlen	incompleta	befejezetlen	incompletar		ADJ;FEM;SG
+befejezetlen	incompleto	befejezetlen	incompleto		ADJ;MASC;SG
+befejezetlen	incompletos	befejezetlen	incompleto		ADJ;MASC;PL
+lemond	lemond	lemond	lemond	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+detroit	detroit	detroit	detroit		N;MASC;SG
+konfliktusok	conflito	konfliktus	conflito	N;NOM;PL	N;MASC;SG
+eindhoven	eindhoven	eindhoven	eindhoven	PROPN;NOM;SG	N;MASC;SG
+fehérje	proteínas	fehér	proteína	N;NOM;SG	N;FEM;PL
+fehérje	proteínas	fehér	proteína	N;NOM;SG	N;FEM;PL
+haut	haut	haut	haut		N;MASC;SG
+részecske	partículas	részecske	partícula	N;NOM;SG	N;FEM;PL
+szabályozó	regulador	szabályozó	regulador	ADJ;NOM;SG	N;MASC;SG
+molekula	moleculares	molekula	molecular	N;NOM;SG	N;MASC;PL
+molekula	molecular	molekula	molecular	N;NOM;SG	ADJ;MASC;SG
+molekula	moléculas	molekula	molécula	N;NOM;SG	N;FEM;PL
+elegáns	elegantes	elegáns	elegante	ADJ;NOM;SG	ADJ;MASC;PL
+elegáns	chic	elegáns	chic	ADJ;NOM;SG	N;MASC;SG
+cáceres	cáceres	cáceres	cácer		N;MASC;SG
+vegas	vegas	vegas	vega		N;FEM;PL
+donna	donna	donna	donna		N;FEM;SG
+abd	abd	abd	abd		PROPN;MASC;SG
+bekezdés	parágrafo	bekezdés	parágrafo		N;MASC;SG
+bekezdés	parágrafos	bekezdés	parágrafo		N;MASC;PL
+nyilas	sagitário	nyilas	sagitário		N;MASC;SG
+természetfeletti	supernatural	természetfelett	supernatural	ADJ;NOM;SG	N;MASC;SG
+rocky	rochoso	rocky	rochoso		N;MASC;SG
+rocky	rocky	rocky	rocky		N;MASC;SG
+megfogalmazott	formulados	megfogalmazott	formular	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+megfogalmazott	formuladas	megfogalmazott	formular	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+fan	ventilador	fan	ventilador		N;MASC;SG
+fan	torcedor	fan	torcedor		N;MASC;SG
+fan	fã	fan	fã		N;MASC;SG
+fan	ventoinha	fan	ventoinha		N;FEM;SG
+kellően	suficientemente	kellő	suficientemente	ADJ;FRML;SG	ADV
+fogak	dente	fog	dente	N;NOM;PL	N;MASC;SG
+vizsgálati	testar	vizsgálati	testar	N;NOM;SG	V;NFIN
+vizsgálati	testando	vizsgálati	testar	N;NOM;SG	V;V.MSDR
+vizsgálati	ensaios	vizsgálati	ensaio	N;NOM;SG	N;MASC;PL
+vizsgálati	testes	vizsgálati	teste	N;NOM;SG	N;MASC;PL
+rákok	chatos	rák	chato	N;NOM;PL	ADJ;MASC;PL
+rákok	camarão	rák	camarão	N;NOM;PL	V;IND;SG;3;FUT;FIN
+vaszilij	vasily	vaszilij	vasily		N;MASC;SG
+vaszilij	basílio	vaszilij	basílio		N;MASC;SG
+fertőző	infeccioso	fertőző	infeccioso	N;NOM;SG	ADJ;MASC;SG
+fertőző	infecciosas	fertőző	infeccioso	N;NOM;SG	N;FEM;PL
+fertőző	infecciosa	fertőző	infeccioso	N;NOM;SG	ADJ;FEM;SG
+fertőző	contagiosas	fertőző	contagioso	N;NOM;SG	N;FEM;PL
+fertőző	contagiosa	fertőző	contagioso	N;NOM;SG	ADJ;FEM;SG
+fertőző	contagioso	fertőző	contagioso	N;NOM;SG	ADJ;MASC;SG
+fertőző	contagiante	fertőző	contagiante	N;NOM;SG	ADJ;MASC;SG
+képregények	comics	képregény	comics	N;NOM;PL	N;MASC;SG
+fertőzött	infectados	fertőz	infectar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+fertőzött	infectadas	fertőz	infectar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+fertőzött	contaminadas	fertőz	contaminar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+fertőzött	contaminados	fertőz	contaminar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+aligha	dificilmente	aligha	dificilmente		ADV
+naruto	naruto	naruto	naruto		N;MASC;SG
+brescia	brescia	brescia	brescer		N;MASC;SG
+ming	ming	ming	ming		N;MASC;SG
+tizenhét	dezassete	tizenh	dezassete		ADV
+tizenhét	seventeen	tizenh	seventeen		N;MASC;SG
+tizenhét	dezessete	tizenh	dezessete		V;IND;SG;3;IPFV;FIN
+zavart	confusão	zavart	confusão		N;FEM;SG
+zavart	confusões	zavart	confusão		N;FEM;PL
+zavart	perturbado	zavart	perturbar		V;MASC;SG;V.PTCP
+zavart	perturbada	zavart	perturbar		V;FEM;SG;V.PTCP
+zavart	perturbados	zavart	perturbado		V;MASC;PL;V.PTCP
+zavart	incomodado	zavart	incomodar		V;MASC;SG;V.PTCP
+zavart	confusa	zavart	confusa		ADJ;FEM;SG
+zavart	confusos	zavart	confuso		ADJ;MASC;PL
+zavart	confundido	zavart	confundir		V;MASC;SG;V.PTCP
+zavart	confuso	zavart	confuso		ADJ;MASC;SG
+jin	jin	jin	jin		N;MASC;SG
+jesse	jesse	jesse	jesser		N;MASC;SG
+kedvezőtlen	desfavoráveis	kedvezőtlen	desfavorável	ADJ;NOM;SG	ADJ;MASC;PL
+kedvezőtlen	desfavoráveis	kedvezőtlen	desfavorável	ADJ;NOM;SG	ADJ;MASC;PL
+politikailag	politicamente	politikai	politicamente		ADV
+tölteni	gastos	tölt	gasto	V;NFIN;ACT	N;MASC;PL
+platón	platão	platón	platão		N;MASC;SG
+tőke	participações	tőke	participação	N;NOM;SG	N;FEM;PL
+tőke	capitais	tőke	capital	N;NOM;SG	N;MASC;PL
+csatolt	anexada	csatolt	anexar		V;FEM;SG;V.PTCP
+csatolt	anexados	csatolt	anexar		V;MASC;PL;V.PTCP
+csatolt	anexa	csatolt	anexo		N;FEM;SG
+csatolt	anexado	csatolt	anexado		V;MASC;SG;V.PTCP
+steel	aço	steel	aço		N;MASC;SG
+steel	siderurgia	steel	siderurgia		N;FEM;SG
+kanári	canárias	kanári	canária		N;FEM;PL
+kanári	canário	kanári	canário		N;MASC;SG
+kanári	canárias	kanári	canária		N;FEM;PL
+mason	pedreiro	mason	pedreiro		N;MASC;SG
+mason	mason	mason	mason		N;MASC;SG
+case	case	case	case		N;MASC;SG
+case	caso	case	caso		N;MASC;SG
+edwin	edwin	edwin	edwin		N;MASC;SG
+eklektikus	eclético	eklektikus	eclético	N;NOM;SG	ADJ;MASC;SG
+viva	viva	viva	vivo		N;FEM;SG
+aux	aux	aux	aux		N;MASC;SG
+jeremy	jeremy	jeremy	jeremy		N;MASC;SG
+tárolt	armazenados	tárolt	armazenar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+tárolt	armazenadas	tárolt	armazenar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+elengedhetetlen	indispensáveis	elengedhetetlen	indispensável	ADJ;NOM;SG	ADJ;MASC;PL
+elengedhetetlen	essenciais	elengedhetetlen	essencial	ADJ;NOM;SG	ADJ;MASC;PL
+termés	culturas	termés	cultura	N;NOM;SG	N;FEM;PL
+termés	colheitas	termés	colheita	N;NOM;SG	N;FEM;PL
+alfaj	subespécies	alfaj	subespécie	N;NOM;SG	N;FEM;PL
+fordulat	torcer	fordulat	torcer	N;NOM;SG	V;NFIN
+fordulat	torce	fordulat	torce	N;NOM;SG	V;IND;SG;3;PRS;FIN
+jelzés	sinalizar	jelzés	sinalizar	N;NOM;SG	V;NFIN
+műszerek	instrumentação	műszer	instrumentação	N;NOM;PL	N;FEM;SG
+számítástechnikai	computação	számítástechnikai	computação	ADJ;NOM;SG	N;FEM;SG
+számítástechnikai	informática	számítástechnikai	informática	ADJ;NOM;SG	N;FEM;SG
+fogoly	cativa	fogoly	cativa	N;NOM;SG	V;IND;SG;3;PRS;FIN
+fogoly	cativas	fogoly	cativa	N;NOM;SG	N;MASC;PL
+kiszolgáló	servidor	kiszolgáló	servidor		N;MASC;SG
+kiszolgáló	server	kiszolgáló	server		N;MASC;SG
+líbiai	líbia	líbiai	líbia	ADJ;NOM;SG	N;FEM;SG
+líbiai	líbio	líbiai	líbio	ADJ;NOM;SG	N;MASC;SG
+kecske	cabra	kecske	cabra		N;MASC;SG
+kecske	bode	kecske	bode		N;MASC;SG
+kecske	caprinos	kecske	caprino		N;MASC;PL
+kecske	cabras	kecske	cabra		N;FEM;PL
+kecske	bodes	kecske	bodes		N;MASC;PL
+huber	huber	huber	huber		N;MASC;SG
+etikai	ética	etikai	ética		N;FEM;SG
+etikai	ético	etikai	ético		ADJ;MASC;SG
+etikai	ética	etikai	ética		N;FEM;SG
+mccartney	mccartney	mccartney	mccartney		N;MASC;SG
+sötétség	trevas	sötétség	treva	N;NOM;SG	N;FEM;PL
+foster	foster	foster	foster	PROPN;NOM;SG	N;MASC;SG
+búr	boer	búr	boer		N;MASC;SG
+enrique	enrique	enrió	enrique		N;MASC;SG
+dom	dom	dom	dom		N;MASC;SG
+tartása	mantendo	tartás	manter	N;NOM;SG	V;V.MSDR
+tartása	manter	tartás	manter	N;NOM;SG	V;NFIN
+ideológiai	ideológicos	ideológiai	ideológico	ADJ;NOM;SG	ADJ;MASC;PL
+duncan	duncan	duncan	duncan		N;MASC;SG
+amphibia	amphibia	amphibia	amphibia	PROPN;NOM;SG	N;FEM;SG
+hansen	hansen	hans	hansen		N;MASC;SG
+guido	guido	guido	guido		N;MASC;SG
+nyújtó	proporcionando	nyújtó	proporcionar		V;V.MSDR
+nyújtó	fornecendo	nyújtó	fornecer		V;V.MSDR
+ügyes	esperta	ügyes	esperto		ADJ;FEM;SG
+ügyes	esperto	ügyes	esperto		ADJ;MASC;SG
+ügyes	inteligente	ügyes	inteligente		ADJ;MASC;SG
+szegények	coitado	szegény	coitado	N;NOM;PL	V;MASC;SG;V.PTCP
+szegények	pobre	szegény	pobre	N;NOM;PL	ADJ;MASC;SG
+berkeley	berkeley	berkeley	berkeley		N;MASC;SG
+hangzott	soava	hangzik	soava	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+végzetes	fatal	végzetes	fatal		ADJ;MASC;SG
+végzetes	fatais	végzetes	fatal		ADJ;MASC;PL
+email	email	email	email		N;MASC;SG
+megerősítve	confirmaram	megerősítve	confirmar	ADV;V.CVB	V;IND;PL;3;FIN
+megerősítve	confirmado	megerősítve	confirmar	ADV;V.CVB	V;MASC;SG;V.PTCP
+megerősítve	confirmou	megerősítve	confirmar	ADV;V.CVB	V;IND;SG;3;PST;FIN
+megerősítve	confirmados	megerősítve	confirmar	ADV;V.CVB	V;MASC;PL;V.PTCP
+megerősítve	confirmada	megerősítve	confirmar	ADV;V.CVB	V;FEM;SG;V.PTCP
+megerősítve	afirmativo	megerősítve	afirmativo	ADV;V.CVB	N;MASC;SG
+megerősítve	afirmativa	megerősítve	afirmativa	ADV;V.CVB	N;FEM;SG
+megerősítve	confirmando	megerősítve	confirmar	ADV;V.CVB	V;V.MSDR
+megerősítve	confirmar	megerősítve	confirmar	ADV;V.CVB	V;NFIN
+megerősítve	confirmem	megerősítve	confirmar	ADV;V.CVB	V;SBJV;PL;3;PRS;FIN
+megerősítve	confirme	megerősítve	confirmar	ADV;V.CVB	V;SBJV;SG;3;PRS;FIN
+bűncselekmények	criminalidade	bűncselekmény	criminalidade	N;NOM;PL	N;FEM;SG
+bűncselekmények	delito	bűncselekmény	delito	N;NOM;PL	N;MASC;SG
+bűncselekmények	crime	bűncselekmény	crime	N;NOM;PL	N;MASC;SG
+térképek	mapa	térkép	mapa	N;NOM;PL	N;MASC;SG
+zeusz	zeus	zeusz	zeu		N;MASC;SG
+curtis	curtis	curtis	curti		N;MASC;SG
+lőszer	munições	lőszer	munição	N;NOM;SG	N;FEM;PL
+lőszer	munições	lőszer	munição	N;NOM;SG	N;FEM;PL
+phillips	philips	phillips	philip		N;MASC;SG
+phillips	phillips	phillips	phillips		N;MASC;SG
+jelentések	denunciar	jelentés	denunciar	N;NOM;PL	V;NFIN
+zászlók	flags	zászló	flags	N;NOM;PL	N;MASC;SG
+megszálló	ocupando	megszálló	ocupar		V;V.MSDR
+megszálló	invadindo	megszálló	invadir		V;V.MSDR
+megszálló	invasor	megszálló	invasor		N;MASC;SG
+rajzolt	drew	rajzolt	drew	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+megmutatta	mostrei	meg+mutat	mostrar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+megmutatta	mostraram	meg+mutat	mostrar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+grey	cinzenta	grey	cinzento		ADJ;FEM;SG
+grey	cinzento	grey	cinzento		ADJ;MASC;SG
+grey	cinza	grey	cinza		N;FEM;SG
+grey	grey	grey	grey		N;MASC;SG
+grey	cinzentos	grey	cinzento		N;MASC;PL
+michelangelo	michelangelo	michelangelo	michelangelo		N;MASC;SG
+forever	forever	forever	forever		N;MASC;SG
+forever	eternamente	forever	eternamente		ADV
+liu	liu	liu	ler		N;MASC;SG
+osztva	divididas	osztva	dividir	ADV;V.CVB	V;FEM;PL;V.PTCP
+osztva	dividida	osztva	dividir	ADV;V.CVB	V;FEM;SG;V.PTCP
+osztva	dividido	osztva	dividir	ADV;V.CVB	V;MASC;SG;V.PTCP
+osztva	divididos	osztva	dividir	ADV;V.CVB	V;MASC;PL;V.PTCP
+osztva	divido	osztva	divido	ADV;V.CVB	V;MASC;SG;V.PTCP
+érme	moedas	érer	moeda	N;NOM;SG	N;FEM;PL
+érme	moedas	érer	moeda	N;NOM;SG	N;FEM;PL
+antonius	antónio	antonius	antónio		N;MASC;SG
+antonius	antony	antonius	antony		N;MASC;SG
+antonius	antônio	antonius	antônio		N;MASC;SG
+protokoll	protocolos	protokoll	protocolo	N;NOM;SG	N;MASC;PL
+hallott	ouviram	hall	ouvir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+hallott	ouvi	hall	ouvir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+sajnálom	desculpa	sajnál	desculpa	V;DEF;IND;SG;1;PRS;FIN;ACT	N;FEM;SG
+sajnálom	desculpe	sajnál	desculpar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;IND;SG;3;PRS;FIN
+asztalos	carpinteiro	asztalos	carpinteiro		N;MASC;SG
+asztalos	carpenter	asztalos	carpenter		N;MASC;SG
+asztalos	industriais	asztalos	industrial		N;MASC;PL
+asztalos	carpintaria	asztalos	carpintaria		N;FEM;SG
+mérési	medir	mérési	medir	ADJ;NOM;SG	V;NFIN
+mérési	medindo	mérési	medir	ADJ;NOM;SG	V;V.MSDR
+mérési	medição	mérési	medição	ADJ;NOM;SG	N;FEM;SG
+névleges	classificou	névleges	classificar	N;NOM;SG	V;IND;SG;3;PST;FIN
+névleges	avaliado	névleges	avaliar	N;NOM;SG	V;MASC;SG;V.PTCP
+névleges	nominal	névleges	nominal	N;NOM;SG	ADJ;MASC;SG
+névleges	classificados	névleges	classificar	N;NOM;SG	V;MASC;PL;V.PTCP
+névleges	classificado	névleges	classificar	N;NOM;SG	V;MASC;SG;V.PTCP
+névleges	nominais	névleges	nominal	N;NOM;SG	ADJ;MASC;PL
+névleges	nominal	névleges	nominal	N;NOM;SG	ADJ;MASC;SG
+szabályzat	regras	szabályzat	regra	N;NOM;SG	N;FEM;PL
+szabályzat	regulamentações	szabályzat	regulamentação	N;NOM;SG	N;FEM;PL
+szabályzat	regulamentos	szabályzat	regulamento	N;NOM;SG	N;MASC;PL
+ardennes	ardenas	ardennes	ardena		N;FEM;PL
+feliratok	legenda	fel+irat	legenda	N;NOM;PL	N;FEM;SG
+morrison	morrison	morrison	morrison		N;MASC;SG
+jogszabály	lei	jogszabály	lei		N;FEM;SG
+jogszabály	direito	jogszabály	direito		N;MASC;SG
+jogszabály	law	jogszabály	law		N;MASC;SG
+jogszabály	leis	jogszabály	lei		N;FEM;PL
+jogszabály	legislação	jogszabály	legislação		N;FEM;SG
+mérték	taxa	mér	taxa		N;FEM;SG
+mérték	classifique	mér	classificar		V;SBJV;SG;3;PRS;FIN
+mérték	medidos	mér	medido		V;MASC;PL;V.PTCP
+mérték	medido	mér	medido		V;MASC;SG;V.PTCP
+mérték	medida	mér	medida		N;FEM;SG
+mérték	medir	mér	medir		V;NFIN
+mérték	mede	mér	medir		V;IND;SG;3;PRS;FIN
+mérték	medida	mér	medida		N;FEM;SG
+romlott	rotten	romlik	rotten	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+romlott	podre	romlik	podre	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG
+romlott	podres	romlik	podre	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;PL
+primitív	primitivo	primitív	primitivo		ADJ;MASC;SG
+primitív	primitivos	primitív	primitivo		ADJ;MASC;PL
+primitív	primitivas	primitív	primitivo		ADJ;FEM;PL
+primitív	primitiva	primitív	primitivo		N;FEM;SG
+tengerpart	praias	tengerpart	praia	N;NOM;SG	N;FEM;PL
+tengerpart	praias	tengerpart	praia	N;NOM;SG	N;FEM;PL
+műszer	aparelhos	műszer	aparelho	N;NOM;SG	N;MASC;PL
+üresen	vazios	üres	vazio	ADJ;FRML;SG	ADJ;MASC;PL
+üresen	esvaziar	üres	esvaziar	ADJ;FRML;SG	V;NFIN
+üresen	vazias	üres	vazio	ADJ;FRML;SG	N;FEM;PL
+szervez	organize	szervez	organizar	V;INDF;IND;SG;3;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+izom	músculos	izom	músculo	N;NOM;SG	N;MASC;PL
+izom	músculos	izom	músculo	N;NOM;SG	N;MASC;PL
+bizonyított	provei	bizonyított	prover	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+képzési	formação	képzési	formação	ADJ;NOM;SG	N;FEM;SG
+képzési	treinamento	képzési	treinamento	ADJ;NOM;SG	N;MASC;SG
+képzési	treinos	képzési	treino	ADJ;NOM;SG	N;MASC;PL
+képzési	treino	képzési	treino	ADJ;NOM;SG	N;MASC;SG
+ismételt	repetidas	ismételt	repetir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+ismételt	repetidos	ismételt	repetir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+párbeszéd	dialogar	párbeszéd	dialogar	N;NOM;SG	V;NFIN
+párbeszéd	diálogos	párbeszéd	diálogo	N;NOM;SG	N;MASC;PL
+veszett	raiva	veszett	raiva	V;INDF;IND;SG;3;PST;FIN;ACT	N;FEM;SG
+veszett	raivoso	veszett	raivoso	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG
+veszett	raivosos	veszett	raivoso	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;PL
+emlékezett	lembrei	emlékezett	lembrar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+hills	colinas	hills	colina		N;FEM;PL
+hills	hills	hills	hills		N;MASC;SG
+fedezett	cobertas	fedezett	cobrir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+fedezett	cobertos	fedezett	cobrir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+fedezett	abrangidos	fedezett	abranger	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+fedezett	cobertos	fedezett	cobrir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+gran	gran	gran	gran		N;MASC;SG
+zsoldos	mercenário	zsoldos	mercenário		N;MASC;SG
+zsoldos	mercenários	zsoldos	mercenário		N;MASC;PL
+rossini	rossini	rossini	rossini		N;MASC;SG
+kiegészítés	complementar	kiegészítés	complementar	N;NOM;SG	ADJ;MASC;SG
+kiegészítés	suplementos	kiegészítés	suplemento	N;NOM;SG	N;MASC;PL
+kiegészítés	suplementar	kiegészítés	suplementar	N;NOM;SG	ADJ;MASC;SG
+égő	queimador	égő	queimador		N;MASC;SG
+égő	queimando	égő	queimar		V;V.MSDR
+égő	queimar	égő	queimar		V;NFIN
+égő	queima	égő	queima		N;FEM;SG
+keverés	misturando	keverés	misturar	N;NOM;SG	V;V.MSDR
+keverés	misturar	keverés	misturar	N;NOM;SG	V;NFIN
+keverés	mexendo	keverés	mexer	N;NOM;SG	V;V.MSDR
+amsterdam	amsterdam	amsterdam	amsterdar	N;NOM;SG	N;MASC;PL
+nigel	nigel	nigel	nigel		N;MASC;SG
+választható	opcionais	választható	opcional	ADJ;NOM;SG	N;MASC;PL
+közvetett	indiretas	közvetett	indireta	V;INDF;IND;SG;3;PST;FIN;ACT	N;FEM;PL
+közvetett	indirecto	közvetett	indirecto	V;INDF;IND;SG;3;PST;FIN;ACT	N;MASC;SG
+közvetett	indirectas	közvetett	indirecta	V;INDF;IND;SG;3;PST;FIN;ACT	N;FEM;PL
+közvetett	indirecta	közvetett	indirecta	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;FEM;SG
+közvetett	indireta	közvetett	indiretar	V;INDF;IND;SG;3;PST;FIN;ACT	N;FEM;SG
+közvetett	circunstancial	közvetett	circunstancial	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;SG
+közvetett	circunstanciais	közvetett	circunstancial	V;INDF;IND;SG;3;PST;FIN;ACT	ADJ;MASC;PL
+büszke	orgulhoso	büszke	orgulhoso		ADJ;MASC;SG
+büszke	orgulhosos	büszke	orgulhoso		ADJ;MASC;PL
+büszke	orgulho	büszke	orgulho		N;MASC;SG
+büszke	orgulhosa	büszke	orgulhoso		ADJ;FEM;SG
+mia	mia	mia	mia		N;FEM;SG
+dinoszaurusz	dinossauros	dinoszaurusz	dinossauro	N;NOM;SG	N;MASC;PL
+eredményezte	resultaram	eredményez	resultar	V;DEF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+kambodzsa	camboja	kambodzs	camboja		N;MASC;SG
+yonne	yonne	yonne	yonne	PROPN;NOM;SG	N;FEM;SG
+forgács	aparas	forgács	apara		N;FEM;PL
+kifejtett	expressos	kifejtett	esprimir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+kifejtett	expressas	kifejtett	esprimir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+bristol	bristol	bristol	bristol		N;MASC;SG
+gyümölcsök	fruto	gyümölcs	fruto	N;NOM;PL	N;MASC;SG
+gyümölcsök	fruta	gyümölcs	fruta	N;NOM;PL	N;FEM;SG
+bretagne	bretagne	bretag	bretagne		N;MASC;SG
+moss	musgo	moss	musgo		N;MASC;SG
+moss	moss	moss	moss		N;MASC;SG
+énekelni	sing	énekel	sing	V;NFIN;ACT	N;MASC;SG
+anders	anders	anders	ander	PROPN;NOM;SG	N;MASC;SG
+téglalap	retangular	téglalap	retangular		ADJ;MASC;SG
+téglalap	retângulo	téglalap	retângulo		N;MASC;SG
+téglalap	rectângulo	téglalap	rectângulo		N;MASC;SG
+téglalap	retangular	téglalap	retangular		ADJ;MASC;SG
+téglalap	rectangular	téglalap	rectangular		ADJ;MASC;SG
+líra	liras	líra	lira	N;NOM;SG	N;FEM;PL
+feleségek	housewives	fel+eség	housewive	N;NOM;PL	N;FEM;SG
+olvasott	lidos	olvasot	ler	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+olvasott	leia	olvasot	ler	V;INDF;IND;SG;3;PST;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+olvasott	lê	olvasot	ler	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;PRS;FIN
+bolton	bolton	bolton	bolton		N;MASC;SG
+milton	milton	milton	milton		N;MASC;SG
+nagyok	large	nagy	large	N;NOM;PL	N;MASC;SG
+nagyok	grande	nagy	grande	N;NOM;PL	ADJ;MASC;SG
+nagyok	big	nagy	big	N;NOM;PL	N;MASC;SG
+nagyok	grande	nagy	grande	N;NOM;PL	ADJ;MASC;SG
+zimbabwe	zimbabué	zimbabwe	zimbabué		N;MASC;SG
+zimbabwe	zimbabwe	zimbabwe	zimbabwe		N;MASC;SG
+zimbabwe	zimbábue	zimbabwe	zimbábue		N;MASC;SG
+csupasz	nuas	csupasz	nu		N;FEM;PL
+csupasz	despido	csupasz	despido		ADJ;MASC;SG
+csupasz	nua	csupasz	nu		N;FEM;SG
+garcia	garcia	garcia	garcia		N;MASC;SG
+repül	fly	repül	fly	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+repül	voe	repül	voe	V;INDF;IND;SG;3;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+repül	mosca	repül	mosco	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;SG
+repül	flying	repül	flying	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+sullivan	sullivan	sullivan	sullivan		N;MASC;SG
+airways	airways	airways	airway	N;NOM;SG	N;MASC;PL
+érzelmek	emoção	érzelem	emoção	N;NOM;PL	N;FEM;SG
+galaxy	galaxy	galaxy	galaxy		N;MASC;SG
+galaxy	galáxia	galaxy	galáxia		N;FEM;SG
+jung	jung	jung	jung		N;MASC;SG
+dallam	melodias	dallam	melodia	N;NOM;SG	N;FEM;PL
+dallam	sintonizar	dallam	sintonizar	N;NOM;SG	V;NFIN
+helyzetű	desfavorecidas	helyzetű	desfavorecer	ADJ;NOM;SG	V;FEM;PL;V.PTCP
+helyzetű	desfavorecidos	helyzetű	desfavorecido	ADJ;NOM;SG	V;MASC;PL;V.PTCP
+helyzetű	desfavorecida	helyzetű	desfavorecer	ADJ;NOM;SG	V;FEM;SG;V.PTCP
+sandra	sandra	sand	sandra		N;FEM;SG
+sebész	cirurgiões	sebész	cirurgião	N;NOM;SG	N;MASC;PL
+sebész	cirurgiões	sebész	cirurgião	N;NOM;SG	N;MASC;PL
+málna	framboesas	mál	framboesa	N;NOM;SG	N;FEM;PL
+algériai	argelino	algériai	argelino	ADJ;NOM;SG	N;MASC;SG
+algériai	argelina	algériai	argelino	ADJ;NOM;SG	N;FEM;SG
+algériai	argélia	algériai	argélia	ADJ;NOM;SG	N;FEM;SG
+algériai	argelinos	algériai	argelino	ADJ;NOM;SG	N;MASC;PL
+övé	dela	övé	dela	V;DEF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+regina	regina	regina	regina		N;FEM;SG
+simone	simone	simone	simone		N;FEM;SG
+gyermekkori	infância	gyermekkori	infância		N;FEM;SG
+richards	richards	richards	richard		N;MASC;PL
+órák	horário	óra	horário	N;NOM;PL	N;MASC;SG
+órák	relojoaria	óra	relojoaria	N;NOM;PL	N;FEM;SG
+marion	marion	marion	marion		N;MASC;SG
+tizennyolc	dezoito	tizennyolc	dezoito		NUM
+tizennyolc	eighteen	tizennyolc	eighteen		N;MASC;SG
+lev	lev	lev	lev		PROPN;MASC;SG
+christina	christina	christina	christina		N;FEM;SG
+christina	cristina	christina	cristina		N;FEM;SG
+helmut	helmut	helmut	helmut		N;MASC;SG
+említ	menções	említ	menção	V;DEF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+nathan	nathan	nat	nathan		N;MASC;SG
+nero	nero	nero	nero		N;MASC;SG
+szabadalmi	patentes	szabadalmi	patente	N;NOM;SG	N;MASC;PL
+fenntartott	reservadas	fenntartott	reservar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+fenntartott	reservados	fenntartott	reservar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+toledo	toledo	toledo	toledo		N;MASC;SG
+petri	petri	petri	petri		N;MASC;SG
+operatív	operacional	operatív	operacional	ADJ;NOM;SG	N;MASC;SG
+operatív	operacionais	operatív	operacional	ADJ;NOM;SG	N;MASC;PL
+tévedés	erros	tévedés	erro	N;NOM;SG	N;MASC;PL
+bern	berna	bern	berna		N;FEM;SG
+bern	bern	bern	bern		N;MASC;SG
+gard	gard	gard	gard	PROPN;NOM;SG	N;MASC;SG
+braun	braun	braun	braun		N;MASC;SG
+aude	aude	aude	auder		N;FEM;SG
+megújult	renovados	megújul	renovar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+megújult	renovadas	megújul	renovar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+megmenteni	save	megment	save	V;NFIN;ACT	N;MASC;SG
+megmenteni	salve	megment	salve	V;NFIN;ACT	N;FEM;SG
+megmenteni	poupança	megment	poupança	V;NFIN;ACT	N;FEM;SG
+kivételek	excepção	kivétel	excepção	N;NOM;PL	N;FEM;SG
+kivételek	exceção	kivétel	exceção	N;NOM;PL	N;FEM;SG
+rajongó	ventilador	rajongó	ventilador		N;MASC;SG
+rajongó	torcedor	rajongó	torcedor		N;MASC;SG
+rajongó	fã	rajongó	fã		N;MASC;SG
+rajongó	ventoinha	rajongó	ventoinha		N;FEM;SG
+hozzáférhető	acessíveis	hozzáférhető	acessível	ADJ;NOM;SG	ADJ;MASC;PL
+günther	günther	günther	günther		N;MASC;SG
+chase	perseguição	chase	perseguição		N;FEM;SG
+chase	chase	chase	chase		N;MASC;SG
+szenegál	senegal	szenegál	senegal		N;MASC;SG
+metropolitan	metropolitanas	metropolitan	metropolitano		N;FEM;PL
+metropolitan	metropolitana	metropolitan	metropolitana		N;FEM;SG
+metropolitan	metropolitano	metropolitan	metropolitano		N;MASC;SG
+metropolitan	metropolitan	metropolitan	metropolitan		N;MASC;SG
+időbeli	temporais	időbeli	temporal	ADJ;NOM;SG	ADJ;MASC;PL
+figyelt	assisti	figyelt	assistir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+figyelt	assistiram	figyelt	assistir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+judo	judô	judo	judô		N;MASC;SG
+díszlet	paisagens	díszlet	paisagem	N;NOM;SG	N;FEM;PL
+díszlet	conjuntos	díszlet	conjunto	N;NOM;SG	N;MASC;PL
+díszlet	sets	díszlet	set	N;NOM;SG	N;MASC;PL
+duke	duque	duke	duque		N;MASC;SG
+duke	duke	duke	duke		N;MASC;SG
+ellátás	suprimentos	ellátás	suprimento	N;NOM;SG	N;MASC;PL
+ellátás	fornecimentos	ellátás	fornecimento	N;NOM;SG	N;MASC;PL
+gedeon	gideon	gedeon	gideon		N;MASC;SG
+ruhát	roupas	ruha	roupa	N;ACC;SG	N;FEM;PL
+rákos	canceroso	rákos	canceroso		ADJ;MASC;SG
+rákos	câncer	rákos	câncer		N;MASC;SG
+rákos	cancro	rákos	cancro		N;MASC;SG
+rákos	cancer	rákos	cancer		N;MASC;SG
+far	far	far	far		N;MASC;SG
+far	longe	far	longe		ADV
+alabama	alabama	alabam	alabama		N;MASC;SG
+teatro	teatro	teatro	teatro		N;MASC;SG
+merész	arrojado	merész	arrojar		V;MASC;SG;V.PTCP
+merész	negrito	merész	negrito		N;MASC;SG
+merész	ousada	merész	ousar		V;FEM;SG;V.PTCP
+merész	ousado	merész	ousado		V;MASC;SG;V.PTCP
+merész	ousadia	merész	ousadia		N;FEM;SG
+merész	ousada	merész	ousar		V;FEM;SG;V.PTCP
+merész	ousado	merész	ousado		V;MASC;SG;V.PTCP
+josh	josh	josh	josh		N;MASC;SG
+dohány	tabaco	dohány	tabaco		N;MASC;SG
+elkészített	preparadas	elkészített	preparar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+elkészített	preparados	elkészített	preparar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+megszökött	escaparam	megszökött	escapar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+üstökös	cometas	üstökös	cometa	N;NOM;SG	N;MASC;PL
+univerzális	universal	univerzális	universal		N;MASC;SG
+univerzális	universais	univerzális	universal		ADJ;MASC;PL
+platina	platina	platina	platina		N;FEM;SG
+powell	powell	powell	powell		N;MASC;SG
+nyitó	abertura	nyitó	abertura		N;FEM;SG
+nyitó	abrindo	nyitó	abrir		V;V.MSDR
+nyitó	inauguração	nyitó	inauguração		N;FEM;SG
+szerencse	fortuna	szerencse	fortuna		N;FEM;SG
+szerencse	fortune	szerencse	fortune		N;MASC;SG
+szerencse	sortuda	szerencse	sortuda		N;FEM;SG
+szerencse	sorte	szerencse	sorte		N;FEM;SG
+szerencse	lucky	szerencse	lucky		N;MASC;SG
+szerencse	sortudo	szerencse	sortudo		N;MASC;SG
+szerencse	sorte	szerencse	sorte		N;FEM;SG
+szerencse	luck	szerencse	luck		N;MASC;SG
+szalag	fitas	szalag	fita	N;NOM;SG	N;FEM;PL
+szalag	despir	szalag	despir	N;NOM;SG	V;NFIN
+vágás	cortando	vágás	cortar	N;NOM;SG	V;V.MSDR
+vágás	cortar	vágás	cortar	N;NOM;SG	V;NFIN
+vágás	desmancha	vágás	desmancha	N;NOM;SG	V;IND;SG;3;PRS;FIN
+vágás	corta	vágás	cortar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+vágás	cortar	vágás	cortar	N;NOM;SG	V;NFIN
+vágás	editando	vágás	editar	N;NOM;SG	V;V.MSDR
+vágás	corta	vágás	cortar	N;NOM;SG	V;IND;SG;3;PRS;FIN
+vágás	cortes	vágás	corte	N;NOM;SG	N;MASC;PL
+felismerhető	reconhecíveis	felismerhető	reconhecível	ADJ;NOM;SG	ADJ;MASC;PL
+felismerhető	reconhecíveis	felismerhető	reconhecível	ADJ;NOM;SG	ADJ;MASC;PL
+qui	qui	qui	que		N;MASC;SG
+manhattan	manhattan	manhat	manhattan	V;INDF;POT;SG;3;PST;FIN;ACT	N;MASC;SG
+tisztviselő	oficial	tisztviselő	oficial	N;NOM;SG	ADJ;MASC;SG
+tisztviselő	oficiais	tisztviselő	oficial	N;NOM;SG	N;MASC;PL
+állatorvos	veterinários	állatorvos	veterinário	N;NOM;SG	N;MASC;PL
+szabályozása	regular	szabályozás	regular	N;NOM;SG	ADJ;MASC;SG
+szabályozása	regulam	szabályozás	regular	N;NOM;SG	V;IND;PL;3;PRS;FIN
+brüsszelben	bruxelas	brüsszel	bruxela	N;IN+ESS;SG	N;FEM;PL
+eugene	eugène	eug	eugène	PROPN;NOM;SG	N;MASC;SG
+eugene	eugene	eug	eugene	PROPN;NOM;SG	PROPN;MASC;SG
+fogadó	organizador	fogadó	organizador		N;MASC;SG
+fogadó	hospedeiro	fogadó	hospedeiro		N;MASC;SG
+fogadó	anfitrião	fogadó	anfitrião		N;MASC;SG
+fogadó	host	fogadó	host		N;MASC;SG
+fogadó	apresentador	fogadó	apresentador		N;MASC;SG
+fogadó	acolhimento	fogadó	acolhimento		N;MASC;SG
+fogadó	estalagem	fogadó	estalagem		N;FEM;SG
+fogadó	pousada	fogadó	pousada		N;FEM;SG
+fogadó	inn	fogadó	inn		N;MASC;SG
+fogadó	receptor	fogadó	receptor		N;MASC;SG
+fogadó	destinatário	fogadó	destinatário		N;MASC;SG
+szándékos	intencional	szándékos	intencional		ADJ;MASC;SG
+szándékos	intencionais	szándékos	intencional		ADJ;MASC;PL
+szándékos	deliberada	szándékos	deliberar		V;FEM;SG;V.PTCP
+szándékos	deliberado	szándékos	deliberar		V;MASC;SG;V.PTCP
+kezdetleges	rudimentar	kezdetleges	rudimentar		ADJ;MASC;SG
+abdul	abdul	azdul	abdul		N;MASC;SG
+íze	provar	íze	provar	N;NOM;SG	V;NFIN
+íze	prove	íze	provar	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+íze	gostos	íze	gosto	N;NOM;SG	N;MASC;PL
+túlélő	sobreviventes	túlélő	sobrevivente	ADJ;NOM;SG	N;MASC;PL
+túlélő	sobrevivendo	túlélő	sobreviver	ADJ;NOM;SG	V;V.MSDR
+túlélő	sobreviver	túlélő	sobreviver	ADJ;NOM;SG	V;NFIN
+túlélő	sobreviventes	túlélő	sobrevivente	ADJ;NOM;SG	N;MASC;PL
+túlélő	survivor	túlélő	survivor	ADJ;NOM;SG	N;MASC;SG
+graf	graf	graf	grafo		N;MASC;SG
+tengerparton	praias	tengerpart	praia	N;ON+ESS;SG	N;FEM;PL
+kristályos	cristais	kristályos	cristal	N;NOM;SG	N;MASC;PL
+kristályos	cristalino	kristályos	cristalino	N;NOM;SG	ADJ;MASC;SG
+kristályos	cristalina	kristályos	cristalina	N;NOM;SG	ADJ;FEM;SG
+xavier	xavier	xavier	xavier	PROPN;NOM;SG	N;MASC;SG
+csúnya	feias	csúny	feio		N;FEM;PL
+csúnya	feia	csúny	feio		ADJ;FEM;SG
+csúnya	feios	csúny	feio		ADJ;MASC;PL
+csúnya	feioso	csúny	feioso		ADJ;MASC;SG
+csúnya	feio	csúny	fazer		ADJ;MASC;SG
+csúnya	desagradável	csúny	desagradável		ADJ;MASC;SG
+csúnya	sórdido	csúny	sórdido		ADJ;MASC;SG
+viszonylagos	parente	viszonylagos	parente		N;MASC;SG
+viszonylagos	relativa	viszonylagos	relativo		N;FEM;SG
+viszonylagos	relativo	viszonylagos	relativo		ADJ;MASC;SG
+oregon	oregon	oregon	oregon		N;MASC;SG
+sztár	estrelas	sztár	estrela	N;NOM;SG	N;FEM;PL
+kevesebbet	menos	kevesebb	menos		ADV
+silvio	silvio	silvio	silvio		N;MASC;SG
+xxii	xxii	xxii	xxii		N;MASC;SG
+orlando	orlando	orlando	orlar		V;V.MSDR
+june	june	june	june		N;FEM;SG
+june	junho	june	junho		N;MASC;SG
+bernhard	bernhard	bernhard	bernhard		N;MASC;SG
+bernhard	bernardo	bernhard	bernardo		N;MASC;SG
+jevgenyij	yevgeny	jevgenyij	yevgeny		N;MASC;SG
+díszítették	adornada	díszít	adornar	V;DEF;IND;PL;3;PST;FIN;ACT	V;FEM;SG;V.PTCP
+megegyezés	liquidação	megegyezés	liquidação		N;FEM;SG
+megegyezés	povoamento	megegyezés	povoamento		N;MASC;SG
+megegyezés	assentamento	megegyezés	assentamento		N;MASC;SG
+megegyezés	acordo	megegyezés	acordo		N;MASC;SG
+megegyezés	concordância	megegyezés	concordância		N;FEM;SG
+megegyezés	arranjos	megegyezés	arranjo		N;MASC;PL
+megegyezés	acordo	megegyezés	acordo		N;MASC;SG
+megegyezés	arranjo	megegyezés	arranjo		N;MASC;SG
+megegyezés	convénio	megegyezés	convénio		N;MASC;SG
+felépített	construídos	felépít	construir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+felépített	construídas	felépít	construir	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+barcelonai	barcelona	barcelonai	barcelona	V;DEF;IND;PL;3;PRS;FIN;ACT	N;FEM;SG
+igazolja	justifique	igazol	justifiquer	V;DEF;IND;SG;3;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+vándor	errante	vándor	errante		ADJ;MASC;SG
+ingatlan	propriedades	ingatlan	propriedade	N;NOM;SG	N;FEM;PL
+ital	bebidas	ital	bebida	N;NOM;SG	N;FEM;PL
+ital	beber	ital	beber	N;NOM;SG	V;NFIN
+ital	beba	ital	bebar	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+ital	bebidas	ital	bebida	N;NOM;SG	N;FEM;PL
+ital	drinks	ital	drink	N;NOM;SG	N;MASC;PL
+szemek	eyes	szem	eyes	N;NOM;PL	N;MASC;SG
+sovány	skinny	sovány	skinny		N;MASC;SG
+sovány	magra	sovány	magro		N;FEM;SG
+sovány	magra	sovány	magro		N;FEM;SG
+sovány	fina	sovány	fino		ADJ;FEM;SG
+sovány	finos	sovány	fino		N;MASC;PL
+sovány	magra	sovány	magro		N;FEM;SG
+sovány	magro	sovány	magro		ADJ;MASC;SG
+sovány	fino	sovány	fino		ADJ;MASC;SG
+erődítmény	fortificações	erődítmény	fortificação	N;NOM;SG	N;FEM;PL
+erődítmény	fortificações	erődítmény	fortificação	N;NOM;SG	N;FEM;PL
+ciudad	ciudad	ciudad	ciudad		N;MASC;SG
+szintetikus	sintética	szintetikus	sintético	N;NOM;SG	ADJ;FEM;SG
+szintetikus	sintéticas	szintetikus	sintético	N;NOM;SG	N;FEM;PL
+szintetikus	sintético	szintetikus	sintético	N;NOM;SG	ADJ;MASC;SG
+szintetikus	sintéticos	szintetikus	sintético	N;NOM;SG	N;MASC;PL
+kézikönyv	manuais	kézikönyv	manual	N;NOM;SG	N;MASC;PL
+megkötött	concluíram	megkötött	concluir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+megkötött	concluídos	megkötött	concluir	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+dio	dio	dio	dio		N;MASC;SG
+tobago	tobago	tobago	tobago	PROPN;NOM;SG	N;MASC;SG
+uralta	dominados	ural	dominar	V;DEF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+uralta	dominadas	ural	dominar	V;DEF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+adler	adler	adler	adler		N;MASC;SG
+gmbh	gmbh	gmbh	gmbh	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+jet	jato	jet	jato		N;MASC;SG
+jet	jacto	jet	jacto		N;MASC;SG
+jet	jet	jet	jet		N;MASC;SG
+elhelyezve	posicionadas	elhelyezve	posicionar	ADV;V.CVB	V;FEM;PL;V.PTCP
+elhelyezve	posicionado	elhelyezve	posicionar	ADV;V.CVB	V;MASC;SG;V.PTCP
+elhelyezve	posicionada	elhelyezve	posicionar	ADV;V.CVB	V;FEM;SG;V.PTCP
+elhelyezve	posicionados	elhelyezve	posicionar	ADV;V.CVB	V;MASC;PL;V.PTCP
+zen	zen	zen	zen		N;MASC;SG
+szatirikus	satírico	szatirikus	satírico	N;NOM;SG	ADJ;MASC;SG
+hangos	alto	hangos	alto		ADV
+hangos	barulhenta	hangos	barulhenta		ADJ;FEM;SG
+hangos	barulhento	hangos	barulhento		ADJ;MASC;SG
+hangos	barulhentos	hangos	barulhento		ADJ;MASC;PL
+hangos	barulhento	hangos	barulhento		ADJ;MASC;SG
+hangos	barulhenta	hangos	barulhenta		ADJ;FEM;SG
+mono	mono	mono	mono		N;MASC;SG
+lars	lars	lars	lar		N;MASC;SG
+polo	polo	polo	polo		N;MASC;SG
+polo	pólo	polo	pólo		N;MASC;SG
+tank	tanques	tank	tanque		N;MASC;PL
+tank	tanque	tank	tanque		N;MASC;SG
+tank	reservatório	tank	reservatório		N;MASC;SG
+tank	tank	tank	tank		N;MASC;SG
+tao	tao	tao	tao		N;MASC;SG
+érzés	sentimento	érzés	sentimento		N;MASC;SG
+érzés	sentindo	érzés	sentir		V;V.MSDR
+érzés	sensação	érzés	sensação		N;FEM;SG
+érzés	feeling	érzés	feeling		N;MASC;SG
+deutsch	deutsch	deutsch	deutsch		N;MASC;SG
+ártatlan	inocentes	ártatlan	inocente		N;MASC;PL
+ártatlan	inocente	ártatlan	inocente		ADJ;MASC;SG
+vigyázz	assista	vigyázz	assistar	V;DEF;IND;SG;1;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+vigyázz	relógio	vigyázz	relógio	V;DEF;IND;SG;1;PRS;FIN;ACT	N;MASC;SG
+vigyázz	assistam	vigyázz	assistir	V;DEF;IND;SG;1;PRS;FIN;ACT	V;SBJV;PL;3;PRS;FIN
+kaiser	kaiser	kaiser	kaiser		N;MASC;SG
+tanul	aprendizagem	tanul	aprendizagem	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;SG
+tanul	aprenda	tanul	aprender	V;INDF;IND;SG;3;PRS;FIN;ACT	V;SBJV;SG;3;PRS;FIN
+incidens	incidentes	incidens	incidente	N;NOM;SG	N;MASC;PL
+díszítő	ornamentais	díszítő	ornamental	ADJ;NOM;SG	N;MASC;PL
+nicolae	nicolae	nicolae	nicolae		N;MASC;SG
+butler	butler	butler	butler		N;MASC;SG
+butler	mordomo	butler	mordomo		N;MASC;SG
+dale	dale	dale	dale	PROPN;NOM;SG	N;MASC;SG
+roosevelt	fdr	roosevelt	fdr		N;MASC;SG
+roosevelt	roosevelt	roosevelt	roosevelt		N;MASC;SG
+kézműves	artesãos	kézműves	artesão	ADJ;NOM;SG	N;FEM;PL
+kézműves	artesão	kézműves	artesão	ADJ;NOM;SG	N;MASC;SG
+kézműves	artesanato	kézműves	artesanato	ADJ;NOM;SG	N;MASC;SG
+kézműves	artesanais	kézműves	artesanal	ADJ;NOM;SG	N;MASC;PL
+kézműves	artesão	kézműves	artesão	ADJ;NOM;SG	N;MASC;SG
+kézműves	artesanato	kézműves	artesanato	ADJ;NOM;SG	N;MASC;SG
+michele	michele	michele	michele		N;MASC;SG
+chen	chen	chen	chen		N;MASC;SG
+enzim	enzimas	enzik	enzimo	N;NOM;SG	N;FEM;PL
+enzim	enzimas	enzik	enzimo	N;NOM;SG	N;FEM;PL
+robbant	explodiram	robban	explodir	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+halvány	desmaio	halvány	desmaio		N;MASC;SG
+halvány	desmaiar	halvány	desmaiar		V;NFIN
+halvány	pálido	halvány	pálido		ADJ;MASC;SG
+halvány	pálida	halvány	pálida		ADJ;FEM;SG
+tárgyalt	negociadas	tárgyal	negociar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+táplálék	alimentos	táplálék	alimento	N;NOM;SG	N;MASC;PL
+funkciók	funcionalidade	funkció	funcionalidade	N;NOM;PL	N;FEM;SG
+promóciós	promo	promóciós	promo	ADJ;NOM;SG	N;FEM;SG
+promóciós	promoção	promóciós	promoção	ADJ;NOM;SG	N;FEM;SG
+promóciós	promocional	promóciós	promocional	ADJ;NOM;SG	N;MASC;SG
+promóciós	promocionais	promóciós	promocional	ADJ;NOM;SG	N;MASC;PL
+palmer	palmer	palmer	palmer	PROPN;NOM;SG	N;MASC;SG
+edzés	malhar	edzés	malhar	N;NOM;SG	V;NFIN
+edzés	praticar	edzés	praticar	N;NOM;SG	V;NFIN
+edzés	pratique	edzés	pratique	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+edzés	treinos	edzés	treino	N;NOM;SG	N;MASC;PL
+tmb	tmb	tmb	tmb		N;MASC;SG
+mássalhangzó	consoante	mássalhangzó	consoante	N;NOM;SG	ADV
+próba	testar	pró	testar	N;NOM;SG	V;NFIN
+próba	testando	pró	testar	N;NOM;SG	V;V.MSDR
+próba	ensaios	pró	ensaio	N;NOM;SG	N;MASC;PL
+próba	testes	pró	teste	N;NOM;SG	N;MASC;PL
+win	win	win	win		N;MASC;SG
+win	ganhe	win	ganhar		V;SBJV;SG;3;PRS;FIN
+win	ganhar	win	ganhar		V;NFIN
+win	vencer	win	vencer		V;NFIN
+win	vitória	win	vitória		N;FEM;SG
+fellini	fellini	fellini	fellini		N;MASC;SG
+fokozatos	progressiva	fokozatos	progressivo	ADJ;NOM;SG	N;FEM;SG
+angela	ângela	angela	ângela		N;FEM;SG
+angela	angela	angela	angela		N;FEM;SG
+öröm	joy	öröm	joy		N;MASC;SG
+öröm	alegria	öröm	alegria		N;FEM;SG
+öröm	alegrias	öröm	alegria		N;FEM;PL
+öröm	prazer	öröm	prazer		N;MASC;SG
+madridi	madrid	madridi	madrid		N;MASC;SG
+madridi	madri	madridi	madri		N;MASC;SG
+faji	racial	faji	racial		N;MASC;SG
+faji	raciais	faji	racial		N;MASC;PL
+texasi	texano	texasi	texano		N;MASC;SG
+texasi	texas	texasi	texa		N;MASC;SG
+összecsapás	confrontos	összecsapás	confronto	N;NOM;SG	N;MASC;PL
+közzétett	postei	közzétett	postar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;1;PST;FIN
+közzétett	publicados	közzétett	publicar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+közzétett	publicadas	közzétett	publicar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+kozák	cossaco	koza	cossaco		N;MASC;SG
+reformok	reformar	reform	reformar	N;NOM;PL	V;NFIN
+reformok	reforma	reform	reforma	N;NOM;PL	N;FEM;SG
+társult	associadas	társul	associar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+társult	associados	társul	associado	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+társult	associados	társul	associado	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+diamond	diamond	diamond	diamond		N;MASC;SG
+diamond	diamante	diamond	diamante		N;MASC;SG
+diamond	diamantes	diamond	diamante		N;MASC;PL
+termelő	produtivas	termelő	produtivo		N;FEM;PL
+termelő	produtiva	termelő	produtivo		ADJ;FEM;SG
+termelő	produtivo	termelő	produtivo		ADJ;MASC;SG
+termelő	produtivos	termelő	produtivo		ADJ;MASC;PL
+termelő	produtora	termelő	produtor		N;FEM;SG
+termelő	produtor	termelő	produtor		N;MASC;SG
+chapman	chapman	chapman	chapman		N;MASC;SG
+millennium	milênio	millennium	milênio		N;MASC;SG
+millennium	millennium	millennium	millennium		N;MASC;SG
+millennium	milénio	millennium	milénio		N;MASC;SG
+cicero	cícero	cicero	cícero		N;MASC;SG
+tisztelet	respeitar	tisztelet	respeitar	N;NOM;SG	V;NFIN
+tisztelet	respeitem	tisztelet	respeitir	N;NOM;SG	V;SBJV;PL;3;PRS;FIN
+tisztelet	respeite	tisztelet	respeitir	N;NOM;SG	V;SBJV;SG;3;PRS;FIN
+tisztelet	respeitador	tisztelet	respeitador	N;NOM;SG	ADJ;MASC;SG
+tisztelet	respeitoso	tisztelet	respeitoso	N;NOM;SG	ADJ;MASC;SG
+vöröses	avermelhada	vöröses	avermelhar	N;NOM;SG	V;FEM;SG;V.PTCP
+betöltötte	preenchidos	betöltöt	preencher	V;DEF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+burkina	burkina	burkina	burkina	V;INDF;IND;SG;3;PRS;FIN;ACT	N;MASC;SG
+irma	irma	irma	irma	PROPN;NOM;SG	N;FEM;SG
+dalmát	dálmata	dalmát	dálmato		N;MASC;SG
+közvetítő	corretor	közvetítő	corretor	ADJ;NOM;SG	N;MASC;SG
+közvetítő	intermediários	közvetítő	intermediário	ADJ;NOM;SG	N;MASC;PL
+közvetítő	mediadores	közvetítő	mediador	ADJ;NOM;SG	N;MASC;PL
+közvetítő	mediador	közvetítő	mediador	ADJ;NOM;SG	N;MASC;SG
+terápiás	terapêuticas	terápiás	terapêutica	N;NOM;SG	N;FEM;PL
+terápiás	terapêutico	terápiás	terapêutico	N;NOM;SG	ADJ;MASC;SG
+küzd	lutas	küzd	luta	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;PL
+miranda	miranda	miranda	miranda		N;FEM;SG
+hülye	estúpido	hülye	estúpido		ADJ;MASC;SG
+hülye	estúpida	hülye	estúpido		ADJ;FEM;SG
+fejes	cabeçalho	fejes	cabeçalho		N;MASC;SG
+örökké	forever	örökké	forever		N;MASC;SG
+örökké	eternamente	örökké	eternamente		ADV
+damon	damon	damon	damon	PROPN;NOM;SG	N;MASC;SG
+szerelvény	treinar	szerelvény	treinar	N;NOM;SG	V;NFIN
+szerelvény	comboios	szerelvény	comboio	N;NOM;SG	N;MASC;PL
+domain	domínio	domain	domínio		N;MASC;SG
+domain	dominio	domain	dominio		N;MASC;SG
+helena	helena	helena	heleno		N;FEM;SG
+reakciók	reacção	reakció	reacção	N;NOM;PL	N;FEM;SG
+reakciók	reação	reakció	reação	N;NOM;PL	N;FEM;SG
+elsüllyedt	afundaram	elsüllyed	afundar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+elsüllyedt	afundaram	elsüllyed	afundar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;PL;3;FIN
+bejegyzett	registados	bejegyzett	registar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+alany	sujeito	alany	sujeitar	N;NOM;SG	V;MASC;SG;V.PTCP
+asztali	tabela	asztali	tabela		N;FEM;SG
+asztali	mesa	asztali	mesa		N;FEM;SG
+asztali	quadro	asztali	quadro		N;MASC;SG
+asztali	ecrã	asztali	ecrã		N;MASC;SG
+asztali	desktop	asztali	desktop		N;MASC;SG
+hyde	hyde	hyd	hyde		N;MASC;SG
+hajnalban	alvorada	hajnal	alvorada	N;IN+ESS;SG	V;FEM;SG;V.PTCP
+őszinte	sincero	őszinte	sincero		ADJ;MASC;SG
+őszinte	sinceras	őszinte	sincera		ADJ;FEM;PL
+őszinte	sinceros	őszinte	sincero		ADJ;MASC;PL
+őszinte	sincera	őszinte	sincer		ADJ;FEM;SG
+őszinte	genuíno	őszinte	genuíno		ADJ;MASC;SG
+őszinte	genuína	őszinte	genuíno		ADJ;FEM;SG
+őszinte	genuínos	őszinte	genuíno		ADJ;MASC;PL
+őszinte	genuínas	őszinte	genuíno		N;FEM;PL
+őszinte	sincero	őszinte	sincero		ADJ;MASC;SG
+őszinte	honesto	őszinte	honesto		ADJ;MASC;SG
+őszinte	honesta	őszinte	honesto		ADJ;FEM;SG
+őszinte	sincera	őszinte	sincer		ADJ;FEM;SG
+meteor	meteorito	meteor	meteorito		N;MASC;SG
+meteor	meteoro	meteor	meteoro		N;MASC;SG
+meteor	meteorito	meteor	meteorito		N;MASC;SG
+meteor	meteoros	meteor	meteoro		N;MASC;PL
+szertartás	cerimónias	szertartás	cerimónia	N;NOM;SG	N;FEM;PL
+szertartás	rituais	szertartás	ritual	N;NOM;SG	N;MASC;PL
+fájdalmas	dolorosa	fájdalmas	doloroso		ADJ;FEM;SG
+fájdalmas	dolorosos	fájdalmas	doloroso		ADJ;MASC;PL
+fájdalmas	doloroso	fájdalmas	doloroso		ADJ;MASC;SG
+lantos	lantos	lantos	lanto		N;MASC;PL
+alkalmanként	ocasionalmente	alkalman	ocasionalmente	N;ABS;SG	ADV
+alkalmanként	ocasional	alkalman	ocasional	N;ABS;SG	ADJ;MASC;SG
+alkalmanként	ocasionais	alkalman	ocasional	N;ABS;SG	ADJ;MASC;PL
+alkalmanként	ocasionalmente	alkalman	ocasionalmente	N;ABS;SG	ADV
+menekülés	escapar	menekülés	escapar	N;NOM;SG	V;NFIN
+rev	rev	rev	rev		N;MASC;SG
+rev	reverendo	rev	reverendo		N;MASC;SG
+elvis	elvis	elvis	elvi		N;MASC;SG
+befolyás	influencia	befolyás	influencia	N;NOM;SG	V;IND;SG;3;PRS;FIN
+befolyás	influências	befolyás	influência	N;NOM;SG	N;FEM;PL
+befolyás	influenciar	befolyás	influenciar	N;NOM;SG	V;NFIN
+számol	contagem	számol	contagem	V;INDF;IND;SG;3;PRS;FIN;ACT	N;FEM;SG
+trió	trio	trió	trio		N;MASC;SG
+javítás	reparar	javítás	reparar	N;NOM;SG	V;NFIN
+javítás	reparações	javítás	reparação	N;NOM;SG	N;FEM;PL
+javítás	reparos	javítás	reparo	N;NOM;SG	N;MASC;PL
+javítás	reparações	javítás	reparação	N;NOM;SG	N;FEM;PL
+feltételes	condicional	feltételes	condicional		ADJ;MASC;SG
+feltételes	condicionais	feltételes	condicional		ADJ;MASC;PL
+ich	ich	ich	ich		N;MASC;SG
+befolyással	influencia	befolyás	influencia	N;INS;SG	V;IND;SG;3;PRS;FIN
+befolyással	influências	befolyás	influência	N;INS;SG	N;FEM;PL
+befolyással	influenciar	befolyás	influenciar	N;INS;SG	V;NFIN
+bevált	trabalhava	bevált	trabalhar	V;INDF;IND;SG;3;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+bevált	trabalhadas	bevált	trabalhar	V;INDF;IND;SG;3;PST;FIN;ACT	V;FEM;PL;V.PTCP
+bevált	trabalhados	bevált	trabalhar	V;INDF;IND;SG;3;PST;FIN;ACT	V;MASC;PL;V.PTCP
+meggyilkolt	assassinado	meggyilkolt	assassinar		V;MASC;SG;V.PTCP
+meggyilkolt	assassinadas	meggyilkolt	assassinar		V;FEM;PL;V.PTCP
+meggyilkolt	assassinada	meggyilkolt	assassinar		V;FEM;SG;V.PTCP
+meggyilkolt	assassinados	meggyilkolt	assassinar		V;MASC;PL;V.PTCP
+oldalsó	lateral	oldalsó	lateral		N;MASC;SG
+oldalsó	laterais	oldalsó	lateral		N;MASC;PL
+vonattal	treinar	vonat	treinar	N;NOM;SG	V;NFIN
+vonattal	comboios	vonat	comboio	N;NOM;SG	N;MASC;PL
+megmenti	resgates	megment	resgate	V;DEF;IND;SG;3;PRS;FIN;ACT	N;MASC;PL
+ronnie	ronnie	ronnie	ronnie		N;MASC;SG

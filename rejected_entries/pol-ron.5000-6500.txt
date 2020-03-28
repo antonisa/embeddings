@@ -1,0 +1,3104 @@
+psy	psy	pies	psy	N;NOM;MASC;PL	N;INDF;MASC;SG
+psy	câinii	pies	câine	N;NOM;MASC;PL	N;DEF;MASC;PL
+psy	câine	pies	câine	N;NOM;MASC;PL	N;INDF;MASC;SG
+psy	dog	pies	dogă	N;NOM;MASC;PL	N;INDF;MASC;SG
+psy	caine	pies	caină	N;NOM;MASC;PL	N;INDF;MASC;SG
+apg	apg	apg	apg		N;INDF;MASC;SG
+liczyć	conte	liczyć	conte	V;IPFV;NFIN;ACT	N;INDF;MASC;SG
+liczyć	contele	liczyć	conte	V;IPFV;NFIN;ACT	N;DEF;MASC;SG
+liczyć	numărarea	liczyć	numărare	V;IPFV;NFIN;ACT	N;DEF;FEM;SG
+liczyć	numărare	liczyć	numărare	V;IPFV;NFIN;ACT	N;INDF;FEM;SG
+portrety	portretele	portret	portret	N;NOM;MASC;PL	N;DEF;FEM;PL
+ofiarą	victimă	ofiara	victimă	N;INS;FEM;SG	N;INDF;FEM;SG
+ofiarą	victima	ofiara	victimă	N;INS;FEM;SG	N;DEF;FEM;SG
+warstwa	stratul	warstwa	strat	N;NOM;FEM;SG	N;DEF;MASC;SG
+pomiaru	măsurare	pomiar	măsurare	N;GEN;MASC;SG	N;INDF;FEM;SG
+pomiaru	măsurarea	pomiar	măsurare	N;GEN;MASC;SG	N;DEF;FEM;SG
+pomiaru	măsurare	pomiar	măsurare	N;GEN;MASC;SG	N;INDF;FEM;SG
+pomiaru	măsurarea	pomiar	măsurare	N;GEN;MASC;SG	N;DEF;FEM;SG
+pomiaru	măsurători	pomiar	măsurător	N;GEN;MASC;SG	N;INDF;MASC;PL
+osobowości	personalitati	osobowość	personalitati	N;GEN;FEM;SG	N;INDF;MASC;PL
+osobowości	personalităţi	osobowość	personalitar	N;GEN;FEM;SG	N;INDF;FEM;PL
+osobowości	personalitate	osobowość	personalitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+osobowości	personalitatea	osobowość	personalitate	N;GEN;FEM;SG	N;DEF;FEM;SG
+kamiński	kamiński	kamiński	kamiński	PROPN;NOM;MASC;SG	
+seulu	seul	seul	seu	PROPN;NOM;MASC;SG	N;DEF;MASC;SG
+seulu	seoul	seul	seoul	PROPN;NOM;MASC;SG	N;DEF;MASC;SG
+poprzednie	fosta	poprzednie	fost		ADJ;DEF;FEM;SG
+poprzednie	anterior	poprzednie	anterior		ADV
+poprzednie	precedentă	poprzednie	precedent		ADJ;INDF;FEM;SG
+poprzednie	anterioare	poprzednie	anterior		ADJ;INDF;FEM;PL
+poprzednie	precedent	poprzednie	precedent		N;INDF;MASC;SG
+electric	electrice	electric	electric		ADJ;INDF;FEM;PL
+electric	electric	electric	electric		ADJ;INDF;MASC;SG
+electric	electrică	electric	electric		ADJ;INDF;FEM;SG
+schumacher	schumacher	schumacher	schumacher	N;NOM;MASC;SG	PROPN
+królową	regină	królowa	regina	N;INS;FEM;SG	ADJ;INDF;FEM;SG
+królową	damă	królowa	damă	N;INS;FEM;SG	N;INDF;FEM;SG
+królową	regina	królowa	regină	N;INS;FEM;SG	N;DEF;FEM;SG
+komentarze	comentariile	komentarz	comentariu	N;NOM;MASC;PL	N;DEF;FEM;PL
+keith	keith	keith	keith	PROPN;NOM;MASC;SG	PROPN
+naczynia	vesela	naczynie	vesel	N;NOM;NEUT;PL	ADJ;DEF;FEM;SG
+zastąpić	înlocuit	zastąpić	înlocui	V;PFV;NFIN;ACT	ADJ;INDF;MASC;SG
+zastąpić	înlocuită	zastąpić	înlocui	V;PFV;NFIN;ACT	ADJ;INDF;FEM;SG
+zastąpić	înlocuite	zastąpić	înlocuit	V;PFV;NFIN;ACT	ADJ;INDF;FEM;PL
+zastąpić	substitut	zastąpić	substitut	V;PFV;NFIN;ACT	ADJ;INDF;MASC;SG
+reakcje	reacțiile	reakcja	reacție	N;NOM;FEM;PL	N;DEF;FEM;PL
+reakcje	reactie	reakcja	reactie	N;NOM;FEM;PL	N;INDF;FEM;SG
+reakcje	reacția	reakcja	reacție	N;NOM;FEM;PL	N;DEF;FEM;SG
+reakcje	reacție	reakcja	reacție	N;NOM;FEM;PL	N;INDF;FEM;SG
+reakcje	reacţie	reakcja	reacţie	N;NOM;FEM;PL	N;INDF;FEM;SG
+oddziela	separă	oddzielać	separa	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+ekipa	echipă	ekipa	echipă	N;NOM;FEM;SG	N;INDF;FEM;SG
+ekipa	echipa	ekipa	echipă	N;NOM;FEM;SG	N;DEF;FEM;SG
+ekipa	echipajul	ekipa	echipaj	N;NOM;FEM;SG	N;DEF;MASC;SG
+piętrze	etajul	piętro	etaj	N;ACC;NEUT;SG	N;DEF;MASC;SG
+piętrze	podea	piętro	podea	N;ACC;NEUT;SG	N;INDF;FEM;SG
+hieronim	hieronim	hieronić	hieronim	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+reklamy	reclame	reklama	reclam	N;ACC;FEM;SG	N;INDF;FEM;PL
+reklamy	anunturi	reklama	anunt	N;ACC;FEM;SG	
+reklamy	reclamele	reklama	reclam	N;ACC;FEM;SG	N;DEF;FEM;PL
+reklamy	reclame	reklama	reclam	N;ACC;FEM;SG	N;INDF;FEM;PL
+reklamy	reclamele	reklama	reclam	N;ACC;FEM;SG	N;DEF;FEM;PL
+reklamy	publicitatea	reklama	publicitate	N;ACC;FEM;SG	N;DEF;FEM;SG
+reklamy	reclamă	reklama	reclama	N;ACC;FEM;SG	N;INDF;FEM;SG
+reklamy	publicitate	reklama	publicitate	N;ACC;FEM;SG	N;INDF;FEM;SG
+odznaki	insigne	odznak	insign	V;IPFV;IND;SG;3;FIN;ACT	N;INDF;FEM;PL
+odznaki	insignele	odznak	insign	V;IPFV;IND;SG;3;FIN;ACT	N;DEF;FEM;PL
+kent	kent	kent	kent	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+zestawienie	rezumatul	zestawienie	rezumat	N;NOM;NEUT;SG	N;DEF;MASC;SG
+pomocnicze	auxiliare	pomocniczy	auxiliar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+mali	mali	mala	mali		PROPN
+pruski	prusac	pruski	prusac	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+colin	colin	colina	colin	N;NOM;MASC;SG	PROPN
+początkowa	inițială	początkowy	inițial	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+początkowa	iniţială	początkowy	inigial	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+początkowa	inițiale	początkowy	inițial	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+początkowa	initiala	początkowy	initial	ADJ;NOM;FEM;SG	ADJ;DEF;FEM;SG
+początkowa	inițial	początkowy	inițial	ADJ;NOM;FEM;SG	ADV
+pacific	pacificului	pacifica	pacific	N;NOM;MASC;SG	N;DEF;MASC;SG
+pacific	pacificul	pacifica	pacific	N;NOM;MASC;SG	N;DEF;MASC;SG
+ralph	ralph	ralph	ralph	PROPN;NOM;MASC;SG	PROPN
+todd	todd	todd	todd	PROPN;NOM;MASC;SG	PROPN
+joan	joan	joan	joan	PROPN;NOM;MASC;SG	PROPN
+joan	ioana	joan	ioană	PROPN;NOM;MASC;SG	N;DEF;FEM;SG
+encyklopedyczna	enciclopedice	encyklopycyczny	enciclopedic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+global	global	global	global		ADJ;INDF;MASC;SG
+global	globală	global	global		ADJ;INDF;FEM;SG
+global	globale	global	global		ADJ;INDF;FEM;PL
+karla	karla	karla	karla		N;DEF;FEM;SG
+karla	karl	karla	karl		PROPN
+ośrodki	centrele	ośrodek	centru	N;NOM;MASC;PL	N;DEF;FEM;PL
+ośrodki	centrelor	ośrodek	centru	N;NOM;MASC;PL	N;DEF;FEM;PL
+stwierdzenie	declarație	stwierdzenie	declarație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+stwierdzenie	declarația	stwierdzenie	declarație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zwalczania	eradicare	zwalczać	eradicare	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zwalczania	eradicarea	zwalczać	eradicare	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+zwalczania	combat	zwalczać	combate	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	V;IND;PL;3;PRS;FIN
+autonomii	autonomie	autonomia	autonomie	N;GEN;FEM;SG	N;INDF;FEM;SG
+autonomii	autonomia	autonomia	autonomie	N;GEN;FEM;SG	N;DEF;FEM;SG
+powszechne	universală	powszechny	universal	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+powszechne	universale	powszechny	universal	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+fotografie	fotografiile	fotografia	fotografie	N;NOM;FEM;PL	N;DEF;FEM;PL
+fotografie	fotografie	fotografia	fotografie	N;NOM;FEM;PL	N;INDF;FEM;SG
+fotografie	fotografia	fotografia	fotografie	N;NOM;FEM;PL	N;DEF;FEM;SG
+zależne	dependentă	zależny	dependent	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+zależne	dependente	zależny	dependent	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zależne	filialele	zależny	filială	ADJ;NOM;NEUT;SG	N;DEF;FEM;PL
+zależne	filiale	zależny	filial	ADJ;NOM;NEUT;SG	N;INDF;FEM;PL
+niebieskie	albastră	niebieski	albastru	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+niszczyciele	distrugătoare	niszczyciel	distrugător	N;NOM;MASC;PL	ADJ;INDF;FEM
+owoców	fructul	owóc	fruct	N;GEN;MASC;PL	N;DEF;MASC;SG
+owoców	fructele	owóc	fruct	N;GEN;MASC;PL	N;DEF;FEM;PL
+owoców	fruct	owóc	fruct	N;GEN;MASC;PL	N;INDF;MASC;SG
+owoców	fructele	owóc	fruct	N;GEN;MASC;PL	N;DEF;FEM;PL
+pius	pius	pius	pius	PROPN;NOM;MASC;SG	PROPN
+męski	bărbat	męski	bărbat	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+męski	mascul	męski	masc	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+męski	barbat	męski	barbat	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+męski	bărbătesc	męski	bărbăti	ADJ;NOM;MASC;SG	ADV
+weryfikacji	verificarea	weryfikacja	verificare	N;GEN;FEM;SG	N;DEF;FEM;SG
+weryfikacji	verificare	weryfikacja	verificare	N;GEN;FEM;SG	N;INDF;FEM;SG
+chińskich	chineza	chiński	chineza	ADJ;GEN;MASC;PL	N;DEF;FEM;SG
+chińskich	chineză	chiński	chinez	ADJ;GEN;MASC;PL	ADJ;INDF;FEM;SG
+chińskich	chinezesc	chiński	chinezesc	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+chińskich	chinez	chiński	chinez	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+narzędzie	unealtă	narzęd	unealtă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+uznawane	recunoscute	uznawać	recunoscut	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uznawane	recunoscută	uznawać	recunoaște	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+uznawane	recunoscute	uznawać	recunoscut	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uznawane	recunoscută	uznawać	recunoaște	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+organizmów	organismele	organizm	organism	N;GEN;MASC;PL	N;DEF;FEM;PL
+używanie	folosind	używać	folosi	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;V.MSDR
+używanie	folosirea	używać	folosire	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+używanie	utilizarea	używać	utilizare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+używanie	utilizând	używać	utiliza	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;V.MSDR
+cząstek	particulele	cząstka	particulă	N;GEN;FEM;PL	N;DEF;FEM;PL
+cząstek	particula	cząstka	particulă	N;GEN;FEM;PL	N;DEF;FEM;SG
+cząstek	particulă	cząstka	particulă	N;GEN;FEM;PL	N;INDF;FEM;SG
+przypuszczalnie	presupus	przypuszczalnie	presupune	ADV	ADJ;INDF;MASC;SG
+duchu	stafie	duch	stafie	N;ACC;MASC;SG	N;INDF;FEM;SG
+duchu	fantoma	duch	fantomă	N;ACC;MASC;SG	N;DEF;FEM;SG
+duchu	fantomă	duch	fantomă	N;ACC;MASC;SG	N;INDF;FEM;SG
+duchu	spiritul	duch	spirit	N;ACC;MASC;SG	N;DEF;MASC;SG
+komputerów	calculatoarele	komputer	calculatoare	N;GEN;MASC;PL	N;DEF;FEM;PL
+niebo	ceruri	niebo	cer	N;NOM;NEUT;SG	N;INDF;FEM;PL
+niebo	rai	niebo	rai	N;NOM;NEUT;SG	
+niebo	raiul	niebo	rai	N;NOM;NEUT;SG	N;DEF;MASC;SG
+niebo	cerul	niebo	cer	N;NOM;NEUT;SG	N;DEF;MASC;SG
+niebo	cer	niebo	cere	N;NOM;NEUT;SG	V;IND;SG;3;PRS;FIN
+niebo	ceruri	niebo	cer	N;NOM;NEUT;SG	N;INDF;FEM;PL
+kłopoty	belea	kłopot	belea	N;ACC;MASC;PL	
+kłopoty	necaz	kłopot	necaz	N;ACC;MASC;PL	N;INDF;MASC;SG
+kłopoty	belele	kłopot	bele	N;ACC;MASC;PL	N;DEF;FEM;PL
+kłopoty	necazurile	kłopot	necaz	N;ACC;MASC;PL	N;DEF;FEM;PL
+węgierska	ungară	węgierski	unga	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+węgierska	maghiară	węgierski	maghiar	ADJ;NOM;FEM;SG	N;INDF;FEM;SG
+cleveland	cleveland	cleveland	cleveland	N;NOM;MASC;SG	PROPN
+kampanię	campanie	kampania	campanie	N;ACC;FEM;SG	N;INDF;FEM;SG
+kampanię	campaniei	kampania	campanie	N;ACC;FEM;SG	N;DEF;FEM;SG
+kampanię	campania	kampania	campanie	N;ACC;FEM;SG	N;DEF;FEM;SG
+tłumaczy	explică	tłumaczyć	explica	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+tłumaczy	translators	tłumaczyć	translators	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;MASC;SG
+wood	lemn	wood	lemn		N;INDF;MASC;SG
+wood	lemnul	wood	lemn		N;DEF;MASC;SG
+wood	wood	wood	wood		PROPN
+wood	lemne	wood	lemn		N;INDF;FEM;PL
+odkryte	descoperite	odkryć	descoperi	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+odkryte	descoperită	odkryć	descoperi	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+mont	mont	mont	mont		N;INDF;MASC;SG
+tlenu	oxigenul	tlen	oxigen	N;GEN;MASC;SG	N;DEF;MASC;SG
+franciszkanów	franciscan	franciszkan	franciscan	N;ACC;MASC;PL	N;INDF;MASC;SG
+classic	clasică	classicie	clasic		ADJ;INDF;FEM;SG
+classic	clasic	classicie	clasic		ADV
+classic	clasica	classicie	clasică		ADJ;DEF;FEM;SG
+classic	classic	classicie	classic		PROPN
+konto	contul	konto	cont	N;NOM;NEUT;SG	N;DEF;MASC;SG
+pat	remiză	pat	remiză		N;INDF;FEM;SG
+pat	impas	pat	impas		N;INDF;MASC;SG
+pat	pat	pat	pat		N;INDF;MASC;SG
+solidarność	solidaritate	solidarność	solidaritate	N;NOM;FEM;SG	N;INDF;FEM;SG
+solidarność	solidaritatea	solidarność	solidaritate	N;NOM;FEM;SG	N;DEF;FEM;SG
+castro	castro	castro	castro	PROPN;NOM;MASC;SG	PROPN
+zalecenia	recomandare	zalecenie	recomandare	N;NOM;NEUT;PL	N;INDF;FEM;SG
+zalecenia	recomandarea	zalecenie	recomandare	N;NOM;NEUT;PL	N;DEF;FEM;SG
+zalecenia	recomandările	zalecenie	recomandare	N;NOM;NEUT;PL	N;DEF;FEM;PL
+roberts	roberts	roberts	roberts	PROPN;NOM;MASC;SG	PROPN
+róża	trandafir	róża	trandafir		N;INDF;MASC;SG
+róża	rose	róża	rosă		PROPN
+róża	rosa	róża	rosa		N;DEF;FEM;SG
+armaty	cannon	armata	cannon	N;ACC;FEM;SG	PROPN
+armaty	tunul	armata	tun	N;ACC;FEM;SG	N;DEF;MASC;SG
+armaty	tunuri	armata	tun	N;ACC;FEM;SG	N;INDF;FEM;PL
+armaty	tunurile	armata	tun	N;ACC;FEM;SG	N;DEF;FEM;PL
+jung	jung	junga	jung	PROPN;NOM;MASC;SG	PROPN
+dowody	dovadă	dowód	dovadă	N;NOM;MASC;PL	N;INDF;FEM;SG
+dowody	dovada	dowód	dovadă	N;NOM;MASC;PL	N;DEF;FEM;SG
+dowody	dovadă	dowód	dovadă	N;NOM;MASC;PL	N;INDF;FEM;SG
+dowody	dovada	dowód	dovadă	N;NOM;MASC;PL	N;DEF;FEM;SG
+zachowany	reținute	zachować	reține	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zachowany	conservată	zachować	conserva	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zachowany	conservate	zachować	conserva	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zachowany	păstrate	zachować	păstrat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zachowany	păstrată	zachować	păstrat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+amerykanie	americanilor	amerykanin	american	N;NOM;MASC;PL	N;DEF;MASC;PL
+amerykanie	americanii	amerykanin	american	N;NOM;MASC;PL	N;DEF;MASC;PL
+amerykanie	americani	amerykanin	american	N;NOM;MASC;PL	ADJ;INDF;MASC;PL
+ósemka	opt	ósemka	opt	N;NOM;FEM;SG	NUM;PL
+obsługiwane	service	obsługiwać	servic	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;INDF;FEM;SG
+obsługiwane	operate	obsługiwać	opera	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+obsługiwane	operată	obsługiwać	opera	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+basista	basistul	basisty	basist	N;NOM;MASC;SG	N;DEF;MASC;SG
+impreza	petrecere	impreza	petrecere	N;NOM;FEM;SG	N;INDF;FEM;SG
+uszkodzony	deteriorată	uszkodzić	deteriora	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+uszkodzony	avariate	uszkodzić	avaria	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uszkodzony	deteriorate	uszkodzić	deteriorat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uszkodzony	coruptă	uszkodzić	corupt	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+uszkodzony	defect	uszkodzić	defect	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	N;INDF;MASC;SG
+uszkodzony	defectă	uszkodzić	defect	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+administratorem	administratorul	administrator	administrator	N;INS;MASC;SG	N;DEF;MASC;SG
+administratorem	administratorul	administrator	administrator	N;INS;MASC;SG	N;DEF;MASC;SG
+airways	airways	airways	airways		PROPN
+trofeum	trofeul	trofeum	trofeu	N;ACC;MASC;SG	N;DEF;MASC;SG
+mandatu	mandatului	mandat	mandat	N;GEN;MASC;SG	N;DEF;MASC;SG
+mandatu	mandatul	mandat	mandat	N;GEN;MASC;SG	N;DEF;MASC;SG
+legia	legiune	legia	legiune		N;INDF;FEM;SG
+legia	legiunea	legia	legiune		N;DEF;FEM;SG
+legia	legia	legia	legie		N;DEF;FEM;SG
+gabinet	cabinetul	gabinet	cabinet	N;NOM;MASC;SG	N;DEF;MASC;SG
+zniszczenie	devastare	zniszczyć	devastare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zniszczenie	distrugere	zniszczyć	distrugere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zniszczenie	distrugerea	zniszczyć	distrugere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+zniszczenie	distrugeri	zniszczyć	distrugere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+umieścić	pus	umieścić	pune	V;PFV;NFIN;ACT	ADJ;INDF;MASC;SG
+pfalz	pfalz	pfalzyć	pfalz	PROPN;NOM;MASC;SG	PROPN
+zabrze	zabrze	zabrze	zabrză	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+iran	iran	iran	iran	PROPN;NOM;MASC;SG	PROPN
+iran	iranul	iran	iran	PROPN;NOM;MASC;SG	N;DEF;MASC;SG
+han	han	han	han	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+dekret	decretul	dekret	decret	N;NOM;MASC;SG	N;DEF;MASC;SG
+pisanie	scrierea	pisać	scriere	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+pisanie	scriind	pisać	scrie	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;V.MSDR
+pisanie	scriere	pisać	scriere	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+pisanie	scriu	pisać	scrie	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;PL;3;PRS;FIN
+olympic	olimpice	olympic	olimpic		ADJ;INDF;FEM;PL
+olympic	olimpic	olympic	olimpic		ADJ;INDF;MASC;SG
+olympic	olympic	olympic	olympic		PROPN
+dochód	veniturile	dochód	venit	N;NOM;MASC;SG	N;DEF;FEM;PL
+dochód	venituri	dochód	venit	N;NOM;MASC;SG	N;INDF;FEM;PL
+dochód	venitul	dochód	venit	N;NOM;MASC;SG	N;DEF;MASC;SG
+dochód	venituri	dochód	venit	N;NOM;MASC;SG	N;INDF;FEM;PL
+dochód	veniturile	dochód	venit	N;NOM;MASC;SG	N;DEF;FEM;PL
+winter	iarnă	winter	iarnă		N;INDF;FEM;SG
+winter	iarna	winter	iarnă		N;DEF;FEM;SG
+poprawki	amendamentele	poprawka	amendament	N;ACC;FEM;PL	N;DEF;FEM;PL
+poprawki	revizuirile	poprawka	revizuire	N;ACC;FEM;PL	N;DEF;FEM;PL
+samolotem	avionul	samolot	avion	N;INS;MASC;SG	N;DEF;MASC;SG
+zhang	zhang	zhang	zhang	PROPN;NOM;MASC;SG	PROPN
+seattle	seattle	seatle	seattlă	PROPN;NOM;MASC;SG	PROPN
+nadawania	radiodifuziune	nadawać	radiodifuziune	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+łączna	cumulate	łączny	cumula	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+łączna	cumulative	łączny	cumulativ	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+zbędne	inutile	zbędny	inutil	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zbędne	inutilă	zbędny	inutil	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+dzieciństwie	copilărie	dzieciństwo	copilărie	N;DAT;NEUT;SG	N;INDF;FEM;SG
+dzieciństwie	copilarie	dzieciństwo	copilarie	N;DAT;NEUT;SG	N;INDF;FEM;SG
+dzieciństwie	copilăria	dzieciństwo	copilărie	N;DAT;NEUT;SG	N;DEF;FEM;SG
+dzieciństwie	copilaria	dzieciństwo	copilarie	N;DAT;NEUT;SG	N;DEF;FEM;SG
+santo	santo	santo	santo	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+bristol	bristol	bristol	bristol	PROPN;NOM;MASC;SG	PROPN
+jolanta	jolanta	jolant	jolantă	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+centralna	centrala	centralny	centrală	ADJ;NOM;FEM;SG	ADJ;DEF;FEM;SG
+centralna	centrale	centralny	centrală	ADJ;NOM;FEM;SG	N;INDF;FEM;PL
+centralna	centrală	centralny	central	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+mosty	podurile	most	pod	N;NOM;MASC;PL	N;DEF;FEM;PL
+traci	traci	tracić	trac	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;MASC;PL
+działki	parcela	działka	parcelă	N;ACC;FEM;PL	N;DEF;FEM;SG
+działki	colet	działka	colet	N;ACC;FEM;PL	N;INDF;MASC;SG
+działki	parcelă	działka	parcelă	N;ACC;FEM;PL	N;INDF;FEM;SG
+działki	complot	działka	complot	N;ACC;FEM;PL	N;INDF;MASC;SG
+działki	intriga	działka	intriga	N;ACC;FEM;PL	N;DEF;FEM;SG
+działki	intrigă	działka	intriga	N;ACC;FEM;PL	N;INDF;FEM;SG
+krajowym	domestice	krajowy	domestic	ADJ;INS;MASC;SG	ADJ;INDF;FEM;PL
+równanie	ecuatie	równać	ecuatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+davisa	davis	davisa	davis		PROPN
+rzekomo	chipurile	rzekomo	chipurile	N;DAT;FEM;PL	N;DEF;FEM;PL
+więzień	prizonierul	więzienie	prizonier	N;GEN;NEUT;PL	N;DEF;MASC;SG
+więzień	prizonier	więzienie	prizonier	N;GEN;NEUT;PL	N;INDF;MASC;SG
+więzień	detinut	więzienie	detine	N;GEN;NEUT;PL	ADJ;INDF;MASC;SG
+więzień	deținut	więzienie	deține	N;GEN;NEUT;PL	ADJ;INDF;MASC;SG
+więzień	închisorile	więzienie	închisoare	N;GEN;NEUT;PL	N;DEF;FEM;PL
+poinformował	informat	poinformować	informat	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+poinformował	informată	poinformować	informat	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+poinformował	informați	poinformować	informa	V;PFV;MASC;IND;SG;PST;FIN;ACT	V;IND;PL;2;IPFV;FIN
+telefon	telefonul	telefon	telefon	N;NOM;MASC;SG	N;DEF;MASC;SG
+jasno	luminos	jasno	luminos	ADV	ADJ;INDF;MASC;SG
+jasno	bright	jasno	bright	ADV	N;INDF;MASC;SG
+kuba	cuba	kuba	cubă	PROPN;NOM;MASC;SG	PROPN
+utc	utc	utco	utc		N
+felix	felix	felix	felix	PROPN;NOM;MASC;SG	PROPN
+aktualne	curentul	aktualny	curent	ADJ;NOM;NEUT;SG	N;DEF;MASC;SG
+aktualne	curent	aktualny	curent	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+aktualne	curentului	aktualny	curent	ADJ;NOM;NEUT;SG	N;DEF;MASC;SG
+aktualne	actuală	aktualny	actual	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+franka	frank	franek	frank		PROPN
+ujednoznacznienie	dezambiguizare	ujednoznacznić	dezambiguizare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+dachau	dachau	dachau	dacha	PROPN;NOM;MASC;SG	PROPN
+przemiany	transformarea	przemiać	transformare	N;ACC;FEM;SG	N;DEF;FEM;SG
+przemiany	transformare	przemiać	transformare	N;ACC;FEM;SG	N;INDF;FEM;SG
+dziwne	ciudat	dziwny	ciudat	ADJ;NOM;NEUT;SG	ADV
+dziwne	ciudat	dziwny	ciudat	ADJ;NOM;NEUT;SG	ADV
+dziwne	straniu	dziwny	straniu	ADJ;NOM;NEUT;SG	ADV
+dziwne	ciudat	dziwny	ciudat	ADJ;NOM;NEUT;SG	ADV
+gerard	gérard	gerard	gérard	N;NOM;MASC;SG	PROPN
+zagraniczne	străine	zagraniczny	străin	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zagraniczne	străină	zagraniczny	străin	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+zagraniczne	străinătate	zagraniczny	străinătate	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+wyrzutni	lansator	wyrzutniać	lansator	V;IPFV;IND;SG;FIN;ACT	N;INDF;MASC;SG
+turynie	torino	turyn	torină	PROPN;NOM;MASC;SG	PROPN
+recenzji	recenzii	recenzja	recenzie	V;IPFV;IND;SG;2;FIN;ACT	N;INDF;FEM;PL
+pastor	pastorul	pastor	pastor	N;NOM;MASC;SG	N;DEF;MASC;SG
+pastor	pastore	pastor	pastor	N;NOM;MASC;SG	
+brzegi	marginile	brzeg	margine	N;NOM;MASC;PL	N;DEF;FEM;PL
+urban	urban	urbany	urban		ADJ;INDF;MASC;SG
+urban	urbane	urbany	urban		ADJ;INDF;FEM;PL
+urban	urbană	urbany	urban		ADJ;INDF;FEM;SG
+zaatakował	agresat	zaatakować	agresa	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+zaatakował	atacată	zaatakować	ataca	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+zaatakował	atacat	zaatakować	ataca	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+turystyczna	turist	turystyczny	turist	ADJ;NOM;FEM;SG	N;INDF;MASC;SG
+turystyczna	turistice	turystyczny	turistic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+symboli	simbolurile	symbolia	simbol		N;DEF;FEM;PL
+symboli	simboluri	symbolia	simbol		N;INDF;FEM;PL
+podania	aplicații	podać	aplicație	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+podania	cereri	podać	cerere	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+podania	aplicatii	podać	aplicat	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+zabił	ucis	zabić	ucis	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+zabił	ucisă	zabić	ucide	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+zabił	omorât	zabić	omorât	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+rzeczywistość	realitate	rzeczywistość	realitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+rzeczywistość	realitatea	rzeczywistość	realitate	N;NOM;FEM;SG	N;DEF;FEM;SG
+korporacji	societăți	korporacja	societate	N;GEN;FEM;SG	N;INDF;FEM;PL
+ludzkości	omenirea	ludzkość	omenire	N;GEN;FEM;SG	N;DEF;FEM;SG
+ludzkości	umanitate	ludzkość	umanitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+ludzkości	omenire	ludzkość	omenire	N;GEN;FEM;SG	N;INDF;FEM;SG
+ludzkości	umanitatea	ludzkość	umanitate	N;GEN;FEM;SG	N;DEF;FEM;SG
+ludzkości	omenirea	ludzkość	omenire	N;GEN;FEM;SG	N;DEF;FEM;SG
+ludzkości	omenirii	ludzkość	omenire	N;GEN;FEM;SG	N;DEF;FEM;SG
+ludzkości	omenire	ludzkość	omenire	N;GEN;FEM;SG	N;INDF;FEM;SG
+twierdza	fortăreaţa	twierdzać	fortărea		N;DEF;FEM;SG
+twierdza	cetatea	twierdzać	cetate		N;DEF;FEM;SG
+twierdza	fortareata	twierdzać	fortareat		N;DEF;FEM;SG
+obserwacje	observare	obserwacja	observare	N;NOM;FEM;PL	N;INDF;FEM;SG
+obserwacje	observație	obserwacja	observație	N;NOM;FEM;PL	N;INDF;FEM;SG
+satelity	satelitul	satelita	satelit	N;ACC;FEM;PL	N;DEF;MASC;SG
+satelity	satelit	satelita	satelit	N;ACC;FEM;PL	N;INDF;MASC;SG
+szyi	gât	szyi	gât		N;INDF;MASC;SG
+szyi	gâtul	szyi	gât		N;DEF;MASC;SG
+młodzi	tânără	młody	tânăr	N;NOM;MASC;PL	ADJ;INDF;FEM;SG
+młodzi	tânăr	młody	tânăr	N;NOM;MASC;PL	ADJ;INDF;MASC;SG
+młodzi	tinere	młody	tânăr	N;NOM;MASC;PL	ADJ;INDF;FEM;PL
+młodzi	young	młody	young	N;NOM;MASC;PL	PROPN
+akademickich	academic	akademicki	academic	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+akademickich	academică	akademicki	academic	ADJ;GEN;MASC;PL	ADJ;INDF;FEM;SG
+stalina	stalin	stalina	stalin		PROPN
+borys	boris	borys	boris	PROPN;NOM;MASC;SG	PROPN
+uznana	recunoscute	uznać	recunoscut	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uznana	recunoscută	uznać	recunoaște	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+uznana	recunoscute	uznać	recunoscut	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+uznana	recunoscută	uznać	recunoaște	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+tożsamość	identitate	tożsamość	identitate	N;ACC;FEM;SG	N;INDF;FEM;SG
+tożsamość	identitatea	tożsamość	identitate	N;ACC;FEM;SG	N;DEF;FEM;SG
+machine	mașină	machina	mașină		N;INDF;FEM;SG
+składników	ingredientele	składnik	ingredient	N;GEN;MASC;PL	N;DEF;FEM;PL
+sławy	vedete	sława	vedet		N;INDF;FEM;PL
+sławy	faimă	sława	faimă		N;INDF;FEM;SG
+sławy	faima	sława	faimă		N;DEF;FEM;SG
+sławy	fame	sława	famă		N;INDF;MASC;SG
+wykonawcy	antreprenor	wykonawca	antreprenor	N;NOM;MASC;PL	N;INDF;MASC;SG
+wykonawcy	contractor	wykonawca	contractor	N;NOM;MASC;PL	N;INDF;MASC;SG
+zaliczony	numărate	zaliczyć	număra	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zaliczony	numarat	zaliczyć	numarat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;MASC;SG;V.PTCP
+beta	beta	bet	beta		N;INDF;MASC
+rodríguez	rodriguez	rodríguez	rodriguez	PROPN;NOM;MASC;SG	PROPN
+rodríguez	rodríguez	rodríguez	rodrguez	PROPN;NOM;MASC;SG	PROPN
+zysk	profitul	zysk	profit	N;NOM;MASC;SG	N;DEF;MASC;SG
+zysk	profiturilor	zysk	profit	N;NOM;MASC;SG	N;DEF;FEM;PL
+zysk	profituri	zysk	profit	N;NOM;MASC;SG	N;INDF;FEM;PL
+zysk	profiturile	zysk	profit	N;NOM;MASC;SG	N;DEF;FEM;PL
+ring	ring	ring	ring		N;INDF;MASC;SG
+ring	inelul	ring	inel		N;DEF;MASC;SG
+ring	inel	ring	inel		N;INDF;MASC;SG
+ludzkie	umane	ludzki	uman	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+ludzkie	om	ludzki	om	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+ludzkie	umană	ludzki	uman	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+wykonywanie	efectuarea	wykonywać	efectuare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+resztki	resturile	resztka	rest	N;ACC;FEM;PL	N;DEF;FEM;PL
+martínez	martínez	martrnez	martínez	PROPN;NOM;MASC;SG	PROPN
+dzieciństwa	copilărie	dzieciństwo	copilărie	N;GEN;NEUT;SG	N;INDF;FEM;SG
+dzieciństwa	copilarie	dzieciństwo	copilarie	N;GEN;NEUT;SG	N;INDF;FEM;SG
+dzieciństwa	copilăria	dzieciństwo	copilărie	N;GEN;NEUT;SG	N;DEF;FEM;SG
+dzieciństwa	copilaria	dzieciństwo	copilarie	N;GEN;NEUT;SG	N;DEF;FEM;SG
+portów	porturile	port	port	N;GEN;MASC;PL	N;DEF;FEM;PL
+nicholas	nicholas	nicholas	nicholas	PROPN;NOM;MASC;SG	PROPN
+nicholas	nicolae	nicholas	nicolae	PROPN;NOM;MASC;SG	PROPN
+mateusza	matei	mateusz	mată	N;ACC;MASC;SG	N;DEF;MASC;SG
+mateusza	matthew	mateusz	matthew	N;ACC;MASC;SG	PROPN
+punk	derbedeu	punk	derbedeu		N;INDF;MASC;SG
+punk	punk	punk	punk		N;INDF;MASC;SG
+brać	ia	brać	lua	V;IPFV;NFIN;ACT	
+brać	luati	brać	lua	V;IPFV;NFIN;ACT	
+specjalistów	profesionisti	specjalista	profesionist	N;ACC;MASC;PL	ADJ;INDF;MASC;PL
+specjalistów	profesioniști	specjalista	profesionist	N;ACC;MASC;PL	ADJ;INDF;MASC;PL
+spencer	spencer	spencer	spencer	PROPN;NOM;MASC;SG	PROPN
+wiatru	vantul	wiatr	vant	N;GEN;MASC;SG	N;DEF;MASC;SG
+wiatru	vant	wiatr	vant	N;GEN;MASC;SG	
+wiatru	wind	wiatr	wind	N;GEN;MASC;SG	PROPN
+wiatru	vântul	wiatr	vânt	N;GEN;MASC;SG	N;DEF;MASC;SG
+syberii	siberia	syberia	siberie	N;GEN;FEM;SG	N;DEF;FEM;SG
+tarcza	scutul	tarczyć	scut	N;NOM;FEM;SG	N;DEF;MASC;SG
+romuald	romuald	romuald	romuald	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+przedstawiciela	reprezentativ	przedstawiciel	reprezentativ	N;ACC;MASC;SG	ADJ;INDF;MASC;SG
+przedstawiciela	reprezentativă	przedstawiciel	reprezentativ	N;ACC;MASC;SG	ADJ;INDF;FEM;SG
+przedstawiciela	reprezentantul	przedstawiciel	reprezentant	N;ACC;MASC;SG	N;DEF;MASC;SG
+przedstawiciela	reprezentative	przedstawiciel	reprezentativ	N;ACC;MASC;SG	ADJ;INDF;FEM;PL
+piwo	bere	piwo	bere	N;NOM;NEUT;SG	N;INDF;FEM;SG
+piwo	berea	piwo	bere	N;NOM;NEUT;SG	N;DEF;FEM;SG
+piwo	beri	piwo	beri	N;NOM;NEUT;SG	N;INDF;FEM;PL
+piwo	berile	piwo	beră	N;NOM;NEUT;SG	N;DEF;FEM;PL
+kultur	culturile	kultur	cultură		N;DEF;FEM;PL
+kultur	culturi	kultur	cultură		N;INDF;FEM;PL
+willi	willi	willa	willi	N;GEN;FEM;SG	PROPN
+willi	vile	willa	vilă	N;GEN;FEM;SG	N;INDF;FEM;PL
+katastrof	dezastrele	katastrofa	dezastru	N;GEN;FEM;PL	N;DEF;FEM;PL
+komenda	comanda	komenda	comandă		N;DEF;FEM;SG
+komenda	comandă	komenda	comandă		N;INDF;FEM;SG
+atlantic	atlantic	atlantic	atlantic		ADV
+atlantic	atlanticul	atlantic	atlantic		N;DEF;MASC;SG
+atlantic	atlanticului	atlantic	atlantic		N;DEF;MASC;SG
+pokonać	înfrângere	pokonać	înfrângere	V;PFV;NFIN;ACT	N;INDF;FEM;SG
+pokonać	înfrângerea	pokonać	înfrângere	V;PFV;NFIN;ACT	N;DEF;FEM;SG
+age	varsta	age	varsta		N;DEF;FEM;SG
+age	vârstă	age	vârstă		N;INDF;FEM;SG
+age	vârsta	age	vârstă		N;DEF;FEM;SG
+rysunek	poza	rysunek	poză	N;NOM;MASC;SG	N;DEF;FEM;SG
+rysunek	poză	rysunek	poză	N;NOM;MASC;SG	N;INDF;FEM;SG
+rysunek	imagine	rysunek	imagine	N;NOM;MASC;SG	N;INDF;FEM;SG
+rysunek	schita	rysunek	schită	N;NOM;MASC;SG	N;DEF;FEM;SG
+rysunek	schiţa	rysunek	schigă	N;NOM;MASC;SG	N;DEF;FEM;SG
+rysunek	schiţă	rysunek	schiţă	N;NOM;MASC;SG	N;INDF;FEM;SG
+rysunek	figură	rysunek	figură	N;NOM;MASC;SG	N;INDF;FEM;SG
+rysunek	figura	rysunek	figură	N;NOM;MASC;SG	N;DEF;FEM;SG
+rysunek	desenul	rysunek	desen	N;NOM;MASC;SG	N;DEF;MASC;SG
+rysunek	desenez	rysunek	deseni	N;NOM;MASC;SG	V;IND;SG;1;PRS;FIN
+urzędnicy	oficiali	urzędnik	oficial	N;NOM;MASC;PL	ADJ;INDF;MASC;PL
+urzędnicy	funcționarii	urzędnik	funcționar	N;NOM;MASC;PL	N;DEF;MASC;PL
+urzędnicy	oficialii	urzędnik	oficial	N;NOM;MASC;PL	N;DEF;MASC;PL
+panorama	panorama	panoram	panoramă	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+panorama	panoramă	panoram	panoramă	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;SG
+gitarze	chitară	gitarz	chitară	V;IPFV;IND;SG;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+gitarze	chitara	gitarz	chitară	V;IPFV;IND;SG;PRS;FIN;ACT	N;DEF;FEM;SG
+karne	pedeapsă	karny	pedeapsă	N;NOM;MASC;SG	N;INDF;FEM;SG
+karne	pedeapsa	karny	pedeapsă	N;NOM;MASC;SG	N;DEF;FEM;SG
+karne	penalizare	karny	penalizare	N;NOM;MASC;SG	N;INDF;FEM;SG
+dole	dole	dół	dolă	V;PFV;IND;SG;PRS;FIN;ACT	PROPN
+marsa	mars	marsa	mars		N;INDF;MASC;SG
+podpis	descriere	podpis	descriere	N;ACC;MASC;SG	N;INDF;FEM;SG
+podpis	legendă	podpis	legendă	N;ACC;MASC;SG	N;INDF;FEM;SG
+podpis	semnătură	podpis	semnătură	N;ACC;MASC;SG	N;INDF;FEM;SG
+podpis	semnatura	podpis	semnatură	N;ACC;MASC;SG	N;DEF;FEM;SG
+podpis	semnătura	podpis	semnătură	N;ACC;MASC;SG	N;DEF;FEM;SG
+znajomości	legături	znajomość	legătură	N;GEN;FEM;SG	N;INDF;FEM;PL
+znajomości	conexiuni	znajomość	conexiune	N;GEN;FEM;SG	N;INDF;FEM;PL
+nigerii	nigerian	nigeria	nigerian		N;INDF;MASC;SG
+nigerii	nigeria	nigeria	nigerie		PROPN
+posiadać	au	posiadać	avea	V;IPFV;NFIN;ACT	V;PL;3
+potencjał	potențialul	potencjać	potențial	N;ACC;MASC;SG	N;DEF;MASC;SG
+potencjał	potential	potencjać	potential	N;ACC;MASC;SG	ADJ;INDF;MASC;SG
+włoskie	italiana	włoski	italiană	ADJ;NOM;NEUT;SG	N;DEF;FEM;SG
+włoskie	italiană	włoski	italiană	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+xbox	xbox	xbox	xbox		N;INDF;MASC;SG
+niespodziewanie	surprinzator	niespodziewanie	surprinzator	ADV	ADJ;INDF;MASC;SG
+wirginia	virginia	wirginia	virginie		N;DEF;FEM;SG
+dick	sculă	dick	sculă	PROPN;NOM;MASC;SG	N;INDF;FEM;SG
+dick	dick	dick	dick	PROPN;NOM;MASC;SG	PROPN
+dick	pula	dick	pula	PROPN;NOM;MASC;SG	N;DEF;FEM;SG
+dick	pulă	dick	pulă	PROPN;NOM;MASC;SG	N;INDF;FEM;SG
+konie	cailor	koń	cal	N;NOM;MASC;PL	N;DEF;MASC;PL
+konie	caii	koń	cal	N;NOM;MASC;PL	N;DEF;MASC;PL
+konie	calul	koń	cal	N;NOM;MASC;PL	N;DEF;MASC;SG
+konie	horse	koń	horsă	N;NOM;MASC;PL	
+konie	cal	koń	cal	N;NOM;MASC;PL	N;INDF;MASC;SG
+agresji	agresiune	agresja	agresiune	N;GEN;FEM;SG	N;INDF;FEM;SG
+agresji	agresivitate	agresja	agresivitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+agresji	agresiunea	agresja	agresiune	N;GEN;FEM;SG	N;DEF;FEM;SG
+kiss	pup	kiss	pup		V;IND;SG;1;PRS;FIN
+rezerw	rezervele	rezerw	rezervă		N;DEF;FEM;PL
+rezerw	rezerve	rezerw	rezervă		N;INDF;FEM;PL
+kolejność	comanda	kolejność	comandă	N;NOM;FEM;SG	N;DEF;FEM;SG
+kolejność	ordinea	kolejność	ordine	N;NOM;FEM;SG	N;DEF;FEM;SG
+kolejność	comandă	kolejność	comandă	N;NOM;FEM;SG	N;INDF;FEM;SG
+kolejność	ordine	kolejność	ordine	N;NOM;FEM;SG	N;INDF;FEM;SG
+kolejność	secventa	kolejność	secventa	N;NOM;FEM;SG	N;DEF;FEM;SG
+imigrantów	imigrant	imigrant	imigrant	N;GEN;MASC;PL	N;INDF;MASC;SG
+pogrzeb	înmormântare	pogrzeb	înmormântare	N;NOM;MASC;SG	N;INDF;FEM;SG
+pogrzeb	înmormântare	pogrzeb	înmormântare	N;NOM;MASC;SG	N;INDF;FEM;SG
+pogrzeb	funeralii	pogrzeb	funeralii	N;NOM;MASC;SG	N;DEF;MASC;PL
+pogrzeb	înmormântarea	pogrzeb	înmormântare	N;NOM;MASC;SG	N;DEF;FEM;SG
+pogrzeb	funeraliile	pogrzeb	funeralii	N;NOM;MASC;SG	N;DEF;FEM;PL
+angelo	angelo	angelo	angelo		PROPN
+mostów	podurile	most	pod	N;GEN;MASC;PL	N;DEF;FEM;PL
+petra	petra	petr	petra	PROPN;NOM;FEM;SG	PROPN
+bułgaria	bulgaria	bułgarium	bulgarie	N;NOM;FEM;SG	PROPN
+straße	straße	stras	straße	INTJ	N;INDF;MASC;SG
+kopia	copia	kopia	copie	N;NOM;FEM;SG	N;DEF;FEM;SG
+kopia	copiere	kopia	copiere	N;NOM;FEM;SG	N;INDF;FEM;SG
+kopia	copie	kopia	copie	N;NOM;FEM;SG	N;INDF;FEM;SG
+kopia	copiază	kopia	copia	N;NOM;FEM;SG	V;IND;3;PRS;FIN
+bogate	bogata	bogaty	bogat	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+bogate	bogată	bogaty	bogat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+bogate	rich	bogaty	rich	ADJ;NOM;NEUT;SG	PROPN
+odziedziczył	moștenit	odziedziczyć	moștenit	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+odziedziczył	mostenit	odziedziczyć	mostenit	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+delegacji	delegația	delegacja	delegație	N;GEN;FEM;SG	N;DEF;FEM;SG
+delegacji	delegarea	delegacja	delegare	N;GEN;FEM;SG	N;DEF;FEM;SG
+delegacji	delegare	delegacja	delegare	N;GEN;FEM;SG	N;INDF;FEM;SG
+ems	ems	ems	ems		N;INDF;MASC;SG
+chelsea	chelsea	chelsie	chelsea		N;DEF;FEM;SG
+zwolennicy	suporterii	zwolennik	suporter	N;NOM;MASC;PL	N;DEF;MASC;PL
+wątek	firul	wątek	fir	N;ACC;MASC;SG	N;DEF;MASC;SG
+związani	legată	związać	lega	ADJ;NOM;MASC;PL	ADJ;INDF;FEM;SG
+związani	legat	związać	lega	ADJ;NOM;MASC;PL	ADJ;INDF;MASC;SG
+nigdzie	nicăieri	nigdzie	nicăieri		ADV
+nigdzie	niciunde	nigdzie	niciunde		ADV
+ograniczone	limited	ograniczyć	limited	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+ograniczone	limitate	ograniczyć	limitat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+ograniczone	limitată	ograniczyć	limitat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+kowalczyk	kowalczyk	kowalczyk	kowalczyk	PROPN;NOM;MASC;SG	PROPN
+amerykanów	americanilor	amerykanin	american	N;GEN;MASC;PL	N;DEF;MASC;PL
+amerykanów	americanii	amerykanin	american	N;GEN;MASC;PL	N;DEF;MASC;PL
+amerykanów	americani	amerykanin	american	N;GEN;MASC;PL	ADJ;INDF;MASC;PL
+dowolny	freestyle	dowolny	freestyle	ADJ;NOM;MASC;SG	
+dowolny	oricare	dowolny	oricare	ADJ;NOM;MASC;SG	PRO;3
+dowolny	orice	dowolny	orice	ADJ;NOM;MASC;SG	PRO;SG;3
+alfons	alfonso	alfons	alfonso	PROPN;NOM;MASC;SG	PROPN
+alfons	proxenet	alfons	proxenet	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+właściwy	competentă	właściwy	competent	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+właściwy	competente	właściwy	competent	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+amerykanin	american	amerykanin	american	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+amerykanin	americană	amerykanin	american	N;NOM;MASC;SG	ADJ;INDF;FEM;SG
+amerykanin	americancă	amerykanin	americanc	N;NOM;MASC;SG	ADJ;INDF;FEM;SG
+bordeaux	bordeaux	bordeaux	bordeaux	N;NOM;MASC;SG	PROPN
+teorie	teorie	teoria	teorie	N;NOM;FEM;PL	N;INDF;FEM;SG
+teorie	teoria	teoria	teorie	N;NOM;FEM;PL	N;DEF;FEM;SG
+teorie	teoriile	teoria	teorie	N;NOM;FEM;PL	N;DEF;FEM;PL
+hierarchii	ierarhia	hierarchia	ierarhie	N;GEN;FEM;SG	N;DEF;FEM;SG
+hierarchii	ierarhie	hierarchia	ierarhie	N;GEN;FEM;SG	N;INDF;FEM;SG
+centralne	centrala	centralny	centrală	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+centralne	centrale	centralny	centrală	ADJ;NOM;NEUT;SG	N;INDF;FEM;PL
+centralne	centrală	centralny	central	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+porsche	porsche	porscha	porsche		N;INDF;MASC;SG
+emilia	emilia	emilia	emilie	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+emilia	emilie	emilia	emilie	PROPN;NOM;FEM;SG	PROPN
+sołectwo	sołectwo	sołectwo	sołectwo	N;NOM;NEUT;SG	
+powiązane	asociate	powiązać	asociat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+powiązane	asociată	powiązać	asociat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+powiązane	conectate	powiązać	conecta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+powiązane	conectată	powiązać	conecta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+powiązane	legate	powiązać	legat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+powiązane	legată	powiązać	lega	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+powiązane	legate	powiązać	legat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+milion	milioane	milion	milion		NUM;INDF;FEM;PL
+milion	milion	milion	milion		NUM;INDF;MASC;SG
+etiopii	etiopia	etiopia	etiopia		N;DEF;FEM;SG
+etiopii	etiopian	etiopia	etiopian		ADJ;INDF;MASC;SG
+błędne	eronată	błędny	erona	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+błędne	eronate	błędny	erona	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+otwór	hole	otwór	hol	N;NOM;MASC;SG	
+otwór	gaură	otwór	gaură	N;NOM;MASC;SG	N;INDF;FEM;SG
+otwór	gaura	otwór	gaură	N;NOM;MASC;SG	N;DEF;FEM;SG
+justyna	justine	justyn	justin	PROPN;NOM;FEM;SG	N;INDF;MASC;SG
+justyna	justin	justyn	justin	PROPN;NOM;FEM;SG	
+propagandy	propaganda	propaganda	propagandă	N;GEN;FEM;SG	N;DEF;FEM;SG
+propagandy	propagandă	propaganda	propagandă	N;GEN;FEM;SG	N;INDF;FEM;SG
+odpowiedzialność	responsabilitate	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+odpowiedzialność	răspundere	odpowiedzialność	răspundere	N;NOM;FEM;SG	N;INDF;FEM;SG
+odpowiedzialność	răspunderea	odpowiedzialność	răspundere	N;NOM;FEM;SG	N;DEF;FEM;SG
+odpowiedzialność	responsabilități	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;INDF;FEM;PL
+odpowiedzialność	responsabilitățile	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;DEF;FEM;PL
+odpowiedzialność	responsabilitatea	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;DEF;FEM;SG
+odpowiedzialność	responsabilitate	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+odpowiedzialność	responsabilitate	odpowiedzialność	responsabilitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+police	poliție	polic	poliție		N;INDF;FEM;SG
+police	politia	polic	politie		N;DEF;FEM;SG
+police	poliția	polic	poliție		N;DEF;FEM;SG
+bundesligi	bundesliga	bundesliga	bundesligă	N;ACC;MASC;PL	N;DEF;FEM;SG
+dysku	discul	dysk	disc	N;GEN;MASC;SG	N;DEF;MASC;SG
+dysku	discheta	dysk	discheta	N;GEN;MASC;SG	N;DEF;FEM;SG
+liu	liu	liel	liu	PROPN;NOM;MASC;SG	N
+wyjaśnienia	explicatie	wyjaśnienie	explicatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienia	explicatia	wyjaśnienie	explicatie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyjaśnienia	explicație	wyjaśnienie	explicație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienia	explicații	wyjaśnienie	explicație	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyjaśnienia	explicatii	wyjaśnienie	explicat	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyjaśnienia	clarificare	wyjaśnienie	clarificare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienia	clarificări	wyjaśnienie	clarificare	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyjaśnienia	clarificarea	wyjaśnienie	clarificare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+ołeksandr	oleksandr	ołeksandr	oleksandr	N;NOM;MASC;SG	PROPN
+okrążenia	poala	okrążyć	poală	N;NOM;NEUT;PL	N;DEF;FEM;SG
+okrążenia	poală	okrążyć	poală	N;NOM;NEUT;PL	N;INDF;FEM;SG
+hop	hop	hop	hop		N;INDF;MASC;SG
+współrzędnych	coordonatele	współrzędny	coordonată	ADJ;GEN;MASC;PL	N;DEF;FEM;PL
+współrzędnych	coordonate	współrzędny	coordonată	ADJ;GEN;MASC;PL	N;INDF;FEM;PL
+marynarzy	marinarii	marynarz	marinar	N;GEN;MASC;PL	N;DEF;MASC;PL
+marynarzy	marinarii	marynarz	marinar	N;GEN;MASC;PL	N;DEF;MASC;PL
+marynarzy	marinarilor	marynarz	marinar	N;GEN;MASC;PL	N;DEF;MASC;PL
+marynarzy	navigatorilor	marynarz	navigator	N;GEN;MASC;PL	N;DEF;MASC;PL
+marynarzy	mariners	marynarz	mariners	N;GEN;MASC;PL	N;INDF;MASC;SG
+avenue	avenue	avenu	avenue		N;INDF;MASC;SG
+gustav	gustav	gustav	gustav	PROPN;NOM;MASC;SG	PROPN
+mobile	mobile	mobil	mobil		N;INDF;FEM;PL
+mobile	mobil	mobil	mobil		N;INDF;MASC;SG
+mobile	mobilă	mobil	mobilă		N;INDF;FEM;SG
+filadelfii	philly	filadelfia	philly	PROPN;NOM;MASC;SG	
+filadelfii	philadelphia	filadelfia	philadelphie	PROPN;NOM;MASC;SG	PROPN
+kadencja	termenul	kadencja	termen	N;NOM;FEM;SG	N;DEF;MASC;SG
+kadencja	mențiune	kadencja	mențiune	N;NOM;FEM;SG	N;INDF;FEM;SG
+kadencja	cadence	kadencja	cadenc	N;NOM;FEM;SG	
+poczta	posta	poczta	postă	N;NOM;FEM;SG	N;DEF;FEM;SG
+poczta	poștă	poczta	poștă	N;NOM;FEM;SG	N;INDF;FEM;SG
+poczta	postează	poczta	posta	N;NOM;FEM;SG	V;IND;3;PRS;FIN
+poczta	postare	poczta	postare	N;NOM;FEM;SG	N;INDF;FEM;SG
+poczta	postarea	poczta	postare	N;NOM;FEM;SG	N;DEF;FEM;SG
+wenus	venus	wenus	venu		N;INDF;MASC;SG
+graf	graf	grafa	graf		N;INDF;MASC;SG
+cosworth	cosworth	coswory	cosworth		N;INDF;MASC;SG
+funduszu	fondul	fundusz	fond	N;GEN;MASC;SG	N;DEF;MASC;SG
+felipe	felipe	felipy	felipă	PROPN;NOM;MASC;SG	PROPN
+zasług	merite	zasługa	merit	N;GEN;FEM;SG	N;INDF;FEM;PL
+wyemigrował	emigrat	wyemigrować	emigra	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+wyemigrował	emigrat	wyemigrować	emigra	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+zurychu	zürich	zurych	zürich	PROPN;NOM;MASC;SG	PROPN
+zurychu	zurich	zurych	zurich	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+pasażerski	pasageri	pasażerski	pasager	ADJ;NOM;MASC;SG	N;INDF;MASC;PL
+pasażerski	pasager	pasażerski	pasager	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+pasażerski	pasagerul	pasażerski	pasager	ADJ;NOM;MASC;SG	N;DEF;MASC;SG
+cia	cia	cia	cil		N
+cia	cia	cia	cil		N
+pojedynczy	singură	pojedynczy	singur	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+pojedynczy	single	pojedynczy	single	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+sprinter	sprinter	sprinter	sprinter		N;INDF;MASC;SG
+ból	durerea	ból	durere	N;NOM;MASC;SG	N;DEF;FEM;SG
+ból	durere	ból	durere	N;NOM;MASC;SG	N;INDF;FEM;SG
+ból	dureri	ból	durere	N;NOM;MASC;SG	N;INDF;FEM;PL
+rgb	rgb	rgba	rgb		N
+pierwotne	primare	pierwotny	primar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+pierwotne	primară	pierwotny	primar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+pierwotne	primar	pierwotny	primar	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+martín	martín	martín	martín	PROPN;NOM;MASC;SG	PROPN
+więzienie	închisoare	więzienie	închisoare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+więzienie	puscarie	więzienie	puscarie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+więzienie	închisoarea	więzienie	închisoare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+więzienie	închisoare	więzienie	închisoare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+więzienie	inchisoare	więzienie	inchisoare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+więzienie	inchisoarea	więzienie	inchisoare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+więzienie	închisoarea	więzienie	închisoare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+kupił	cumparat	kupić	cumpara	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+kupił	cumpărată	kupić	cumpăra	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+kupił	cumpărat	kupić	cumpărat	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+kupił	cumpărate	kupić	cumpăra	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;PL
+wycofany	retrase	wycofać	retrage	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	V;IND;SG;3;PST;FIN
+wycofany	retrasă	wycofać	retrage	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+justin	justin	justin	justin	PROPN;NOM;MASC;SG	
+beck	beck	beck	beck	PROPN;NOM;MASC;SG	N
+true	adevărat	true	adevărat		ADV
+true	adevarat	true	adevarat		ADJ;INDF;MASC;SG
+ginie	gina	ginąć	gină	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+collegium	collegium	collegium	collegium		PROPN
+sprawdzone	verificate	sprawdzić	verifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+sprawdzone	verificată	sprawdzić	verifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+sprawdzone	verificate	sprawdzić	verifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+sprawdzone	verificată	sprawdzić	verifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+sprawdzone	inspectate	sprawdzić	inspecta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+sprawdzone	testate	sprawdzić	testa	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+sprawdzone	testată	sprawdzić	testat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+żużlu	speedway	żużel	speedway		PROPN
+rzymskie	romană	rzymski	roman	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+rzymskie	roman	rzymski	roman	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+godło	emblema	godć	emblemă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+godło	emblemă	godć	emblemă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+hampshire	hampshire	hampshiry	hampshire		PROPN
+motywy	considerentele	motyw	considert	N;NOM;MASC;PL	N;DEF;FEM;PL
+tras	rutele	tras	rută	N;GEN;FEM;PL	N;DEF;FEM;PL
+rakieta	racheta	rakieta	rachetă	N;NOM;FEM;SG	N;DEF;FEM;SG
+rakieta	rachetă	rakieta	rachetă	N;NOM;FEM;SG	N;INDF;FEM;SG
+rakieta	rachetă	rakieta	rachetă	N;NOM;FEM;SG	N;INDF;FEM;SG
+hart	hart	hart	hart		PROPN
+khan	khan	khana	khan	PROPN;NOM;MASC;SG	PROPN
+podanie	aplicarea	podanie	aplicare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+podanie	aplicație	podanie	aplicație	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+podanie	cerere	podanie	cerere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+podanie	trece	podanie	trece	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PRS;FIN
+podanie	pasa	podanie	pasă	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+podanie	pasă	podanie	pasa	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PST;FIN
+luca	luca	luca	luca	PROPN;NOM;MASC;SG	N;DEF;FEM;SG
+akademickie	academică	akademicki	academic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+akademickie	academice	akademicki	academic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+przywilej	privilegiul	przywilej	privilegiu	N;ACC;MASC;SG	N;DEF;MASC;SG
+przywilej	privilegiile	przywilej	privilegiu	N;ACC;MASC;SG	N;DEF;FEM;PL
+przywilej	privilegii	przywilej	privilegiu	N;ACC;MASC;SG	N;INDF;FEM;PL
+sri	sri	srać	sru	PROPN;NOM;MASC;SG	N
+lekki	lumină	lekki	lumină	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+lekki	light	lekki	light	ADJ;NOM;MASC;SG	
+lekki	lumina	lekki	lumină	ADJ;NOM;MASC;SG	N;DEF;FEM;SG
+karaibów	caraibe	karaib	caraib	N;GEN;MASC;PL	
+konserwatorium	conservatorul	konserwatorium	conservator	N;ACC;NEUT;SG	N;DEF;MASC;SG
+konserwatorium	conservator	konserwatorium	conservator	N;ACC;NEUT;SG	ADJ;INDF;MASC;SG
+basen	piscina	basen	piscină	N;NOM;MASC;SG	N;DEF;FEM;SG
+basen	piscină	basen	piscină	N;NOM;MASC;SG	N;INDF;FEM;SG
+roll	rola	roll	rola		N;DEF;FEM;SG
+roll	roll	roll	roll		N;INDF;MASC;SG
+uchodźców	refugiat	uchodźca	refugiat	N;ACC;MASC;PL	ADJ;INDF;MASC;SG
+uchodźców	refugiati	uchodźca	refugia	N;ACC;MASC;PL	ADJ;INDF;MASC;PL
+uchodźców	refugiați	uchodźca	refugia	N;ACC;MASC;PL	V;IND;PL;2;IPFV;FIN
+owoc	fructul	owoc	fruct	N;NOM;MASC;SG	N;DEF;MASC;SG
+owoc	fructe	owoc	fruct	N;NOM;MASC;SG	N;INDF;FEM;PL
+owoc	fructele	owoc	fruct	N;NOM;MASC;SG	N;DEF;FEM;PL
+empire	empire	empir	empire		N;INDF;MASC;SG
+empire	imperiul	empir	imperiu		N;DEF;MASC;SG
+empire	imperiu	empir	imperiu		N;INDF;MASC;SG
+empire	imperiului	empir	imperiu		N;DEF;MASC;SG
+pióra	penele	pióra	penă	N;ACC;NEUT;PL	N;DEF;FEM;PL
+ski	schi	skiot	schi		N;INDF;MASC;SG
+okręgów	districtele	okręg	district	N;GEN;MASC;PL	N;DEF;FEM;PL
+regularne	regulată	regularny	regulat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+regularne	regulate	regularny	regulat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+regularne	regulat	regularny	regulat	ADJ;NOM;NEUT;SG	ADV
+break	break	break	break		N;INDF;MASC;SG
+break	rupe	break	rupe		V;IND;SG;3;PRS;FIN
+break	pauza	break	pauză		N;DEF;FEM;SG
+break	sparge	break	sparge		V;IND;SG;3;PRS;FIN
+break	pauză	break	pauză		N;INDF;FEM;SG
+druku	imprimare	druk	imprimare	N;GEN;MASC;SG	N;INDF;FEM;SG
+druku	imprimarea	druk	imprimare	N;GEN;MASC;SG	N;DEF;FEM;SG
+druku	tipărire	druk	tipărire	N;GEN;MASC;SG	N;INDF;FEM;SG
+zasoby	resursa	zasóba	resursă	N;NOM;MASC;PL	N;DEF;FEM;SG
+zasoby	resursă	zasóba	resursa	N;NOM;MASC;PL	N;INDF;FEM;SG
+zasoby	resursele	zasóba	resursă	N;NOM;MASC;PL	N;DEF;FEM;PL
+zasoby	stocul	zasóba	stoc	N;NOM;MASC;PL	N;DEF;MASC;SG
+zasoby	stoc	zasóba	stoc	N;NOM;MASC;PL	N;INDF;MASC;SG
+ran	rana	rana	rană		N;DEF;FEM;SG
+ran	rană	rana	rană		N;INDF;FEM;SG
+ran	rănile	rana	rană		N;DEF;FEM;PL
+ran	răni	rana	rană		N;INDF;FEM;PL
+objętości	volumul	objętość	volum	N;GEN;FEM;SG	N;DEF;MASC;SG
+objętości	volume	objętość	volum	N;GEN;FEM;SG	N;INDF;FEM;PL
+objętości	volumele	objętość	volum	N;GEN;FEM;SG	N;DEF;FEM;PL
+radosław	radosław	radosław	radospaw	PROPN;NOM;MASC;SG	
+czystości	puritate	czystość	puritate	N;GEN;FEM;SG	N;INDF;FEM;SG
+czystości	puritatea	czystość	puritate	N;GEN;FEM;SG	N;DEF;FEM;SG
+oskar	oscar	oskar	oscar	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+oskar	oskar	oskar	oskar	PROPN;NOM;MASC;SG	PROPN
+szczęścia	norocul	szczęście	noroc	N;GEN;NEUT;SG	N;DEF;MASC;SG
+szczęścia	fericirea	szczęście	fericire	N;GEN;NEUT;SG	N;DEF;FEM;SG
+szczęścia	fericire	szczęście	fericire	N;GEN;NEUT;SG	N;INDF;FEM;SG
+modlitwa	rugăciuni	modlitwa	rugăciune	N;NOM;FEM;SG	N;INDF;FEM;PL
+modlitwa	rugăciunile	modlitwa	rugăciune	N;NOM;FEM;SG	N;DEF;FEM;PL
+modlitwa	rugăciune	modlitwa	rugăciune	N;NOM;FEM;SG	N;INDF;FEM;SG
+modlitwa	rugăciunea	modlitwa	rugăciune	N;NOM;FEM;SG	N;DEF;FEM;SG
+modlitwa	rugaciunea	modlitwa	rugaciune	N;NOM;FEM;SG	N;DEF;FEM;SG
+modlitwa	rugaciune	modlitwa	rugaciune	N;NOM;FEM;SG	N;INDF;FEM;SG
+marine	marin	mariny	marin		N;INDF;MASC;SG
+marine	marină	mariny	marină		N;INDF;FEM;SG
+marine	marine	mariny	marin		N;INDF;FEM;PL
+rasa	rasă	rasa	rasă	N;NOM;FEM;SG	ADJ;INDF;FEM;SG
+rasa	rasa	rasa	rasă	N;NOM;FEM;SG	N;DEF;FEM;SG
+rasa	rasa	rasa	rasă	N;NOM;FEM;SG	N;DEF;FEM;SG
+rasa	cursa	rasa	cursă	N;NOM;FEM;SG	N;DEF;FEM;SG
+rasa	rasă	rasa	rasă	N;NOM;FEM;SG	ADJ;INDF;FEM;SG
+rasa	race	rasa	race	N;NOM;FEM;SG	
+rasa	cursă	rasa	cursă	N;NOM;FEM;SG	N;INDF;FEM;SG
+tymczasowy	temporare	tymczasowy	temporare	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+tymczasowy	temporara	tymczasowy	temporar	ADJ;NOM;MASC;SG	N;DEF;FEM;SG
+tymczasowy	temporar	tymczasowy	temporar	ADJ;NOM;MASC;SG	ADV
+tymczasowy	temporară	tymczasowy	temporar	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+tymczasowy	interimar	tymczasowy	interimar	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+tymczasowy	provizorii	tymczasowy	provizoriu	ADJ;NOM;MASC;SG	ADJ;INDF;PL
+tymczasowy	provizoriu	tymczasowy	provizoriu	ADJ;NOM;MASC;SG	ADV
+tymczasowy	provizorie	tymczasowy	provizorie	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+satelita	satelitul	satelita	satelit	N;NOM;MASC;SG	N;DEF;MASC;SG
+pérez	pérez	porez	pérez	PROPN;NOM;MASC;SG	PROPN
+era	epoca	era	epocă		N;DEF;FEM;SG
+lang	lang	lang	lang		PROPN
+królowie	regilor	król	regilor	N;NOM;MASC;PL	N;DEF;MASC;PL
+królowie	kings	król	kings	N;NOM;MASC;PL	N;INDF;MASC;SG
+pascal	pascal	pascal	pascal		N;INDF;MASC;SG
+pomógł	ajutat	pomóc	ajuta	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+gridcolor	gridcolor	gridcolor	gridcolor		N;INDF;MASC;SG
+dyskografia	discografia	dyskografia	discografie	N;NOM;FEM;SG	N;DEF;FEM;SG
+koń	calul	koń	cal	N;NOM;MASC;SG	N;DEF;MASC;SG
+koń	horse	koń	horsă	N;NOM;MASC;SG	
+pacjenta	pacienta	pacjent	pacientă	N;ACC;MASC;SG	N;DEF;FEM;SG
+pacjenta	pacientul	pacjent	pacient	N;ACC;MASC;SG	N;DEF;MASC;SG
+pacjenta	pacientă	pacjent	pacientă	N;ACC;MASC;SG	N;INDF;FEM;SG
+potrzebna	nevoie	potrzebny	nevoie	ADJ;NOM;FEM;SG	N;INDF;FEM;SG
+potrzebna	nevoie	potrzebny	nevoie	ADJ;NOM;FEM;SG	N;INDF;FEM;SG
+uderzenie	impactul	uderzenie	impact	N;NOM;NEUT;SG	N;DEF;MASC;SG
+uderzenie	lovit	uderzenie	lovi	N;NOM;NEUT;SG	ADJ;INDF;MASC;SG
+uderzenie	loveste	uderzenie	lovest	N;NOM;NEUT;SG	V;IND;SG;3;PRS;FIN
+popełnił	comis	popełnić	comite	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+popełnił	comise	popełnić	comite	V;PFV;MASC;IND;SG;PST;FIN;ACT	V;IND;PL;3;PST;FIN
+piaski	sands	piasek	sands		N;INDF;MASC;SG
+piaski	nisipuri	piasek	nisip		N;INDF;FEM;PL
+piaski	nisipurile	piasek	nisip		N;DEF;FEM;PL
+annie	annie	annie	annie		PROPN
+secret	secretă	secret	secret		ADJ;INDF;FEM;SG
+secret	secret	secret	secret		N;INDF;MASC;SG
+secret	secreta	secret	secret		N;DEF;FEM;SG
+secret	secrete	secret	secret		N;INDF;FEM;PL
+secret	secretul	secret	secret		N;DEF;MASC;SG
+polecenia	comenzi	polecenie	comandă	N;NOM;NEUT;SG	N;INDF;FEM;PL
+polecenia	comanda	polecenie	comandă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+polecenia	comandă	polecenie	comandă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+fortu	fortul	fort	fort	N;GEN;MASC;SG	N;DEF;MASC;SG
+aleksandrii	alexandria	aleksandria	alexandrie	N;GEN;FEM;SG	PROPN
+praktyka	practici	praktyka	practică	N;NOM;FEM;SG	N;INDF;FEM;PL
+praktyka	exersează	praktyka	exersa	N;NOM;FEM;SG	V;IND;3;PRS;FIN
+praktyka	practică	praktyka	practica	N;NOM;FEM;SG	V;IND;SG;3;PST;FIN
+praktyka	practica	praktyka	practică	N;NOM;FEM;SG	N;DEF;FEM;SG
+sainte	sainte	sainty	sainte	V;IPFV;IND;SG;2;PRS;FIN;ACT	PROPN
+środowisk	mediile	środowisko	medie	N;GEN;NEUT;PL	N;DEF;FEM;PL
+ska	ska	sko	ska		N;INDF;MASC;SG
+zaangażowany	implicate	zaangażować	implicat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+zaangażowany	implicată	zaangażować	implica	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+zaangażowany	comise	zaangażować	comite	ADJ;NOM;MASC;SG	V;IND;PL;3;PST;FIN
+pomiarów	măsurătorile	pomiar	măsurătoare	N;GEN;MASC;PL	N;DEF;FEM;PL
+renesansu	renascentist	renesans	renascentist	N;GEN;MASC;SG	ADJ;INDF;MASC;SG
+częste	comună	częsty	comun		ADJ;INDF;FEM;SG
+częste	comun	częsty	comun		ADJ;INDF;MASC;SG
+częste	comuna	częsty	comună		N;DEF;FEM;SG
+częste	frecvente	częsty	frecvent		ADJ;INDF;FEM;PL
+grażyna	grażyna	grażyna	grażyna	PROPN;NOM;FEM;SG	
+jelita	intestinele	jelita	intestin		N;DEF;FEM;PL
+jelita	intestinul	jelita	intestin		N;DEF;MASC;SG
+jelita	intestinului	jelita	intestin		N;DEF;MASC;SG
+jelita	intestinul	jelita	intestin		N;DEF;MASC;SG
+jelita	intestinale	jelita	intestinal		ADJ;INDF;FEM;PL
+jelita	intestinal	jelita	intestinal		ADJ;INDF;MASC;SG
+jelita	intestinală	jelita	intestinal		ADJ;INDF;FEM;SG
+jelita	intestinele	jelita	intestin		N;DEF;FEM;PL
+zdrowie	sanatate	zdrowie	sanata	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zdrowie	sănătatea	zdrowie	sănătate	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zdrowie	sănătate	zdrowie	sănătate	N;NOM;NEUT;SG	N;INDF;FEM;SG
+cbs	cbs	cbs	cbs		PROPN
+rolnicze	agricole	rolniczy	agricol	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+partnerem	partenere	partner	partenere	N;INS;MASC;SG	ADJ;INDF;FEM;PL
+partnerem	parteneră	partner	partener	N;INS;MASC;SG	N;INDF;FEM;SG
+partnerem	partenerul	partner	partener	N;INS;MASC;SG	N;DEF;MASC;SG
+przedstawiono	prezentat	przedstawić	prezenta	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+przedstawiono	prezentată	przedstawić	prezentat	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;SG
+przedstawiono	prezentate	przedstawić	prezentat	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;PL
+honoru	onoare	honor	onoare	N;GEN;MASC;SG	N;INDF;FEM;SG
+honoru	onoarea	honor	onoare	N;GEN;MASC;SG	N;DEF;FEM;SG
+honoru	onoare	honor	onoare	N;GEN;MASC;SG	N;INDF;FEM;SG
+honoru	onoarea	honor	onoare	N;GEN;MASC;SG	N;DEF;FEM;SG
+square	pătrat	squary	pătrat		N;INDF;MASC;SG
+square	square	squary	square		N;INDF;MASC;SG
+square	patrat	squary	patrat		N;INDF;MASC;SG
+odrębne	distinctă	odrębny	distinct	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+odrębne	distincte	odrębny	distinct	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+odrębne	separă	odrębny	separa	ADJ;NOM;NEUT;SG	V;IND;SG;3;PST;FIN
+odrębne	separată	odrębny	separa	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+odrębne	separate	odrębny	separat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+obydwa	amandoua	obydwa	amandoi	V;IPFV;IND;SG;PST;FIN;ACT	
+obydwa	amândoi	obydwa	amândoi	V;IPFV;IND;SG;PST;FIN;ACT	NUM;MASC;PL
+obydwa	ambele	obydwa	ambii	V;IPFV;IND;SG;PST;FIN;ACT	NUM;FEM;PL
+obydwa	amândouă	obydwa	amândoi	V;IPFV;IND;SG;PST;FIN;ACT	NUM;FEM;PL
+czaszki	craniile	czaszki	craniu	N;ACC;FEM;PL	N;DEF;FEM;PL
+czaszki	craniu	czaszki	craniu	N;ACC;FEM;PL	N;INDF;MASC;SG
+czaszki	skull	czaszki	skull	N;ACC;FEM;PL	N;INDF;MASC;SG
+czaszki	craniul	czaszki	craniu	N;ACC;FEM;PL	N;DEF;MASC;SG
+fischer	fischer	fischer	fischer		PROPN
+białek	proteinele	białek	proteină		N;DEF;FEM;PL
+białek	proteine	białek	proteină		N;INDF;FEM;PL
+publiczny	publice	publiczny	public	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+publiczny	publică	publiczny	publica	ADJ;NOM;MASC;SG	V;IND;SG;3;PST;FIN
+mail	mail	mail	mail		N;INDF;MASC;SG
+mail	posta	mail	postă		N;DEF;FEM;SG
+mail	poștă	mail	poștă		N;INDF;FEM;SG
+tronie	tronul	trona	tron	N;DAT;MASC;SG	N;DEF;MASC;SG
+tronie	tron	trona	tron	N;DAT;MASC;SG	
+kogo	cine	kto	cine	PRO;ACC;MASC;SG	PRO;3
+kogo	care	kto	care	PRO;ACC;MASC;SG	PRO;3
+francuz	francez	francuz	francez	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+francuz	francezul	francuz	francez	N;NOM;MASC;SG	N;DEF;MASC;SG
+heaven	ceruri	heaven	cer		N;INDF;FEM;PL
+heaven	raiul	heaven	rai		N;DEF;MASC;SG
+cen	cen	cen	cen		N;INDF
+rozkładu	descompunerea	rozkład	descompunere	N;GEN;MASC;SG	N;DEF;FEM;SG
+rozkładu	descompunere	rozkład	descompunere	N;GEN;MASC;SG	N;INDF;FEM;SG
+piła	băut	pić	băut		N;INDF;MASC;SG
+piła	băut	pić	băut		N;INDF;MASC;SG
+piła	văzut	pić	văzut		ADJ;INDF;MASC;SG
+piła	fierăstrău	pić	fierăstrău		N;INDF;MASC;SG
+piła	ferăstrău	pić	ferăstrău		N;INDF;MASC;SG
+śniegu	zăpada	śnieg	zăpadă	N;GEN;MASC;SG	N;DEF;FEM;SG
+śniegu	ninsoare	śnieg	ninsoare	N;GEN;MASC;SG	N;INDF;FEM;SG
+śniegu	zăpadă	śnieg	zăpadă	N;GEN;MASC;SG	N;INDF;FEM;SG
+śniegu	zapada	śnieg	zapadă	N;GEN;MASC;SG	N;DEF;FEM;SG
+damian	damian	damian	damian	PROPN;NOM;MASC;SG	PROPN
+istoty	ființe	istota	ființă	N;ACC;FEM;SG	N;INDF;FEM;PL
+istoty	fiinte	istota	fiinte	N;ACC;FEM;SG	N;INDF;FEM;PL
+istoty	creaturile	istota	creatură	N;ACC;FEM;SG	N;DEF;FEM;PL
+istoty	creaturi	istota	creatură	N;ACC;FEM;SG	N;INDF;FEM;PL
+ołtarzu	altarul	ołtarz	altar	N;INS;MASC;SG	N;DEF;MASC;SG
+policjant	cop	policjant	cop	N;NOM;MASC;SG	
+toledo	toledo	toledo	toledo		PROPN
+cannes	cannes	cannes	cannes		N;INDF;MASC;SG
+geschichte	geschichte	geschicht	geschichte		N;INDF;MASC;SG
+gospodarstwo	ferma	gospodarstwo	fermă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+gospodarstwo	fermă	gospodarstwo	fermă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wiosce	satul	wioska	sat	N;DAT;FEM;SG	N;DEF;MASC;SG
+wiosce	village	wioska	villag	N;DAT;FEM;SG	PROPN
+wiosce	satului	wioska	sat	N;DAT;FEM;SG	N;DEF;MASC;SG
+teologiczne	teologice	teologiczny	teologic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+ograniczona	limited	ograniczony	limited	ADJ;NOM;FEM;SG	N;INDF;MASC;SG
+ograniczona	limitate	ograniczony	limitat	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+ograniczona	limitată	ograniczony	limitat	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+dem	dem	dem	dem		N;INDF;MASC;SG
+potwierdzenie	confirmarea	potwierdzenie	confirmare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+potwierdzenie	confirmare	potwierdzenie	confirmare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+management	gestionare	management	gestionare		N;INDF;FEM;SG
+management	conducerea	management	conducere		N;DEF;FEM;SG
+management	managementul	management	management		N;DEF;MASC;SG
+management	gestionarea	management	gestionare		N;DEF;FEM;SG
+management	management	management	management		N;INDF;MASC;SG
+split	împărțit	split	împărți		ADJ;INDF;MASC;SG
+split	divizat	split	diviza		ADJ;INDF;MASC;SG
+split	split	split	split		N;INDF;MASC;SG
+split	împarte	split	împărți		V;IND;SG;3;PRS;FIN
+kenneth	kenneth	kenneth	kenneth	N;NOM;MASC;SG	PROPN
+przeżył	supraviețuit	przeżyć	supraviețui	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+przeżył	supravietuit	przeżyć	supravietui	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+sosna	pine	sosna	pine		N;INDF;MASC;SG
+sosna	pin	sosna	pin		N;INDF;MASC;SG
+paragwaju	paraguay	paragwaj	paraguay	N;GEN;MASC;SG	PROPN
+bunt	revolta	bunt	revolta	N;NOM;MASC;SG	N;DEF;FEM;SG
+bunt	revoltă	bunt	revolta	N;NOM;MASC;SG	N;INDF;FEM;SG
+bunt	revolta	bunt	revolta	N;NOM;MASC;SG	N;DEF;FEM;SG
+bunt	revoltă	bunt	revolta	N;NOM;MASC;SG	N;INDF;FEM;SG
+bunt	rebeliune	bunt	rebeliune	N;NOM;MASC;SG	N;INDF;FEM;SG
+bunt	rebeliunea	bunt	rebeliune	N;NOM;MASC;SG	N;DEF;FEM;SG
+pete	pete	pete	pată	PROPN;NOM;MASC;SG	N;INDF;FEM;PL
+suche	usca	suchy	usca		V;IND;SG;3;IPFV;FIN
+suche	uscate	suchy	uscat		ADJ;INDF;FEM;PL
+suche	uscat	suchy	uscat		ADJ;INDF;MASC;SG
+suche	uscată	suchy	uscat		ADJ;INDF;FEM;SG
+ward	ward	warda	ward	PROPN;NOM;MASC;SG	PROPN
+owłosione	păroasă	owłosić	păroasă	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+promieniowanie	radiații	promieniować	radiație	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+promieniowanie	radiatii	promieniować	radiat	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+eduardo	eduardo	eduardo	eduardo	PROPN;NOM;MASC;SG	PROPN
+sweet	sweet	sweet	sweet		N;INDF;MASC;SG
+sweet	dulci	sweet	dulce		ADJ;INDF;PL
+skierowane	regia	skierować	regie	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;DEF;FEM;SG
+kolorów	culorile	kolor	culoare	N;GEN;MASC;PL	N;DEF;FEM;PL
+fernández	fernández	fernndez	fernandez	PROPN;NOM;MASC;SG	PROPN
+rycerz	knight	rycerz	knight	N;NOM;MASC;SG	PROPN
+rycerz	cavalerul	rycerz	cavaler	N;NOM;MASC;SG	N;DEF;MASC;SG
+watson	watson	watson	watson		PROPN
+wyraża	exprimă	wyrażać	exprima	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+wprowadzona	introdusă	wprowadzić	introduce	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wprowadzona	introduse	wprowadzić	introduce	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	V;IND;PL;3;PST;FIN
+zwrot	rambursare	zwrot	rambursare	N;NOM;MASC;SG	N;INDF;FEM;SG
+zwrot	restituirea	zwrot	restituire	N;NOM;MASC;SG	N;DEF;FEM;SG
+zwrot	restituire	zwrot	restituire	N;NOM;MASC;SG	N;INDF;FEM;SG
+zwrot	întoarcere	zwrot	întoarcere	N;NOM;MASC;SG	N;INDF;FEM;SG
+zwrot	rambursare	zwrot	rambursare	N;NOM;MASC;SG	N;INDF;FEM;SG
+zwrot	rambursarea	zwrot	rambursare	N;NOM;MASC;SG	N;DEF;FEM;SG
+funkcjonowanie	operație	funkcjonowanie	operație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+funkcjonowanie	operațiune	funkcjonowanie	operațiune	N;NOM;NEUT;SG	N;INDF;FEM;SG
+funkcjonowanie	operațiunea	funkcjonowanie	operațiune	N;NOM;NEUT;SG	N;DEF;FEM;SG
+funkcjonowanie	operaţiunea	funkcjonowanie	operagiune	N;NOM;NEUT;SG	N;DEF;FEM;SG
+białoruś	belarus	białoruś	belarus		PROPN
+socjalistyczna	socialistă	socjalistyczny	socialist	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+socjalistyczna	socialiste	socjalistyczny	socialist	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+egzemplarze	copiile	egzemplarz	copie	N;NOM;MASC;PL	N;DEF;FEM;PL
+słowackiej	slovacă	słowacki	slovac	ADJ;GEN;FEM;SG	N;INDF;FEM;SG
+słowackiej	slovacia	słowacki	slovacie	ADJ;GEN;FEM;SG	PROPN
+widział	văzut	widzieć	văzut	V;IPFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+widział	fierăstrău	widzieć	fierăstrău	V;IPFV;MASC;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+widział	ferăstrău	widzieć	ferăstrău	V;IPFV;MASC;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+patrol	patrulă	patrol	patrulă	N;NOM;MASC;SG	N;INDF;FEM;SG
+patrol	patrula	patrol	patrulă	N;NOM;MASC;SG	N;DEF;FEM;SG
+patrol	patrulare	patrol	patrular	N;NOM;MASC;SG	N;INDF;FEM;SG
+litera	scrisoare	liter	scrisoare	N;NOM;FEM;SG	N;INDF;FEM;SG
+litera	scrisoarea	liter	scrisoare	N;NOM;FEM;SG	N;DEF;FEM;SG
+litera	literă	liter	literă	N;NOM;FEM;SG	N;INDF;FEM;SG
+oznaczony	etichetate	oznaczyć	etichetate	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+oznaczony	etichetată	oznaczyć	eticheta	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+oznaczony	marcată	oznaczyć	marca	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+oznaczony	marcate	oznaczyć	marca	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+control	control	control	control		N;INDF;MASC;SG
+control	controlează	control	controla		V;IND;3;PRS;FIN
+control	controlul	control	control		N;DEF;MASC;SG
+chóru	cor	chór	cor		N;INDF;MASC;SG
+chóru	corul	chór	cor		N;DEF;MASC;SG
+chóru	refren	chór	refren		N;INDF;MASC;SG
+chóru	cor	chór	cor		N;INDF;MASC;SG
+chóru	corul	chór	cor		N;DEF;MASC;SG
+starcia	ciocniri	starcie	ciocnire	N;NOM;NEUT;SG	N;INDF;FEM;PL
+maroka	marocan	marok	marocan	PROPN;GEN;MASC;SG	ADJ;INDF;MASC;SG
+athletic	atletic	athletic	atletic		ADJ;INDF;MASC;SG
+aresztowania	arestări	aresztowanie	arestare	N;GEN;NEUT;SG	N;INDF;FEM;PL
+aresztowania	arestările	aresztowanie	arestare	N;GEN;NEUT;SG	N;DEF;FEM;PL
+okien	windows	okno	windows		PROPN
+okien	ferestre	okno	fereastră		N;INDF;FEM;PL
+okien	geamuri	okno	geam		N;INDF;FEM;PL
+okien	ferestrele	okno	fereastră		N;DEF;FEM;PL
+karen	karen	karen	karen	PROPN;NOM;FEM;SG	PROPN
+reorganizacji	reorganizarea	reorganizacja	reorganizare	N;GEN;FEM;SG	N;DEF;FEM;SG
+reorganizacji	reorganizare	reorganizacja	reorganizare	N;GEN;FEM;SG	N;INDF;FEM;SG
+reorganizacji	reorganizarea	reorganizacja	reorganizare	N;GEN;FEM;SG	N;DEF;FEM;SG
+reorganizacji	reorganizare	reorganizacja	reorganizare	N;GEN;FEM;SG	N;INDF;FEM;SG
+odpowiedni	adecvată	odpowiedni	adecvat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+odpowiedni	adecvată	odpowiedni	adecvat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+odpowiedni	adecvate	odpowiedni	adecvat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+śledztwo	anchetă	śledztwo	anchetă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+śledztwo	ancheta	śledztwo	anchetă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+śledztwo	investigație	śledztwo	investigație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wrc	wrc	wrzeć	wrc		PROPN
+praktyczny	practice	praktyczny	practica	ADJ;NOM;MASC;SG	
+praktyczny	practică	praktyczny	practica	ADJ;NOM;MASC;SG	V;IND;SG;3;PST;FIN
+praktyczny	practic	praktyczny	practic	ADJ;NOM;MASC;SG	ADV
+ograniczony	limited	ograniczyć	limited	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+ograniczony	limitate	ograniczyć	limitat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+ograniczony	limitată	ograniczyć	limitat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+arabskie	arabă	arabski	arab	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+arabskie	arabe	arabski	arab	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+arabskie	araba	arabski	araba	ADJ;NOM;NEUT;SG	N;DEF;FEM;SG
+arabskie	arabă	arabski	arab	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+lewo	stâng	lewo	stâng		N;INDF;MASC;SG
+lewo	stânga	lewo	stângă		N;DEF;FEM;SG
+lewo	stanga	lewo	stanga		N;DEF;FEM;SG
+lewo	stînga	lewo	stângă		N;DEF;FEM;SG
+kopenhadze	copenhaga	kopenhadz	copenhaga	PROPN;DAT;MASC;SG	PROPN
+gracze	jucătorii	gracz	jucător	N;NOM;MASC;PL	N;DEF;MASC;PL
+holland	olanda	holland	olanda		PROPN
+holland	holland	holland	holland		PROPN
+halle	halle	hall	hall		PROPN
+sumy	sumă	suma	sumă		N;INDF;FEM;SG
+sumy	suma	suma	sumă		N;DEF;FEM;SG
+sumy	sumele	suma	sumă		N;DEF;FEM;PL
+sumy	sume	suma	sumă		N;INDF;FEM;PL
+bractwa	fraternitate	bractwo	fraternitate	N;ACC;NEUT;SG	N;INDF;FEM;SG
+bractwa	fraternitate	bractwo	fraternitate	N;ACC;NEUT;SG	N;INDF;FEM;SG
+tajemnica	misterul	tajemnica	mister	N;NOM;FEM;SG	N;DEF;MASC;SG
+tajemnica	secretă	tajemnica	secret	N;NOM;FEM;SG	ADJ;INDF;FEM;SG
+tajemnica	secreta	tajemnica	secret	N;NOM;FEM;SG	N;DEF;FEM;SG
+tajemnica	secrete	tajemnica	secret	N;NOM;FEM;SG	N;INDF;FEM;PL
+tajemnica	secretul	tajemnica	secret	N;NOM;FEM;SG	N;DEF;MASC;SG
+targ	piață	targa	piață	N;NOM;MASC;SG	N;INDF;FEM;SG
+targ	piața	targa	piață	N;NOM;MASC;SG	N;DEF;FEM;SG
+targ	piaţă	targa	piaţă	N;NOM;MASC;SG	N;INDF;FEM;SG
+targ	piaţa	targa	piagă	N;NOM;MASC;SG	N;DEF;FEM;SG
+targ	piata	targa	piată	N;NOM;MASC;SG	N;DEF;FEM;SG
+połączony	conectate	połączyć	conecta	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+połączony	conectată	połączyć	conecta	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+kraina	terenuri	kraina	teren	N;NOM;FEM;SG	N;INDF;FEM;PL
+szeregi	rândurile	szereg	rând	N;ACC;MASC;SG	N;DEF;FEM;PL
+szeregi	serie	szereg	serie	N;ACC;MASC;SG	N;INDF;FEM;SG
+szeregi	serii	szereg	serie	N;ACC;MASC;SG	N;INDF;FEM;PL
+szeregi	seria	szereg	serie	N;ACC;MASC;SG	N;DEF;FEM;SG
+potrzebny	nevoie	potrzebny	nevoie	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+potrzebny	nevoie	potrzebny	nevoie	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+mig	mig	mig	mig		N;INDF;MASC;SG
+oryginalna	originala	oryginalny	original	ADJ;NOM;FEM;SG	ADJ;DEF;FEM;SG
+oryginalna	originale	oryginalny	original	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+oryginalna	originală	oryginalny	original	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+kanały	canalele	kanał	canalel	N;NOM;MASC;PL	N;DEF;FEM;PL
+kanały	canal	kanał	canal	N;NOM;MASC;PL	N;INDF;MASC;SG
+kanały	canalul	kanał	canal	N;NOM;MASC;PL	N;DEF;MASC;SG
+kanały	channel	kanał	channel	N;NOM;MASC;PL	N;INDF;MASC;SG
+konklawe	conclav	konklawy	conclav	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+boczny	lateral	boczny	lateral	ADJ;NOM;MASC;SG	ADV
+boczny	laterală	boczny	lateral	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+zoo	zoo	zoo	zoo		N;INDF;MASC;SG
+pokryta	acoperită	pokryć	acoperi	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+pokryta	acoperite	pokryć	acoperit	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+turner	turner	turner	turner		PROPN
+ambasady	ambasade	ambasada	ambasad	N;GEN;FEM;SG	N;INDF;FEM;PL
+ambasady	ambasadei	ambasada	ambasadă	N;GEN;FEM;SG	N;DEF;FEM;SG
+ambasady	ambasada	ambasada	ambasadă	N;GEN;FEM;SG	N;DEF;FEM;SG
+ambasady	ambasadă	ambasada	ambasadă	N;GEN;FEM;SG	N;INDF;FEM;SG
+jefferson	jefferson	jefferson	jefferson	PROPN;NOM;MASC;SG	PROPN
+spartak	spartak	spartak	spartak		PROPN
+partner	partenere	partner	partenere	N;NOM;MASC;SG	ADJ;INDF;FEM;PL
+partner	parteneră	partner	partener	N;NOM;MASC;SG	N;INDF;FEM;SG
+partner	partenerul	partner	partener	N;NOM;MASC;SG	N;DEF;MASC;SG
+partner	afiliat	partner	afilia	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+transmisji	transmitere	transmisja	transmitere	N;GEN;FEM;SG	N;INDF;FEM;SG
+transmisji	transmisie	transmisja	transmisie	N;GEN;FEM;SG	N;INDF;FEM;SG
+transmisji	transmiterea	transmisja	transmitere	N;GEN;FEM;SG	N;DEF;FEM;SG
+transmisji	transmisiune	transmisja	transmisiune	N;GEN;FEM;SG	N;INDF;FEM;SG
+transmisji	difuzat	transmisja	difuza	N;GEN;FEM;SG	ADJ;INDF;MASC;SG
+transmisji	transmisie	transmisja	transmisie	N;GEN;FEM;SG	N;INDF;FEM;SG
+transmisji	transmisiune	transmisja	transmisiune	N;GEN;FEM;SG	N;INDF;FEM;SG
+transmisji	difuzare	transmisja	difuzare	N;GEN;FEM;SG	N;INDF;FEM;SG
+teodora	teodora	teodor	teodora		N;DEF;FEM;SG
+teodora	theodora	teodor	theodora		N;DEF;FEM;SG
+właściciele	proprietarii	właściciel	proprietar	N;NOM;MASC;PL	N;DEF;MASC;PL
+właściciele	proprietarilor	właściciel	proprietar	N;NOM;MASC;PL	N;DEF;MASC;PL
+albrecht	albrecht	albrecht	albrecht	PROPN;NOM;MASC;SG	PROPN
+kolonie	colonii	kolonie	colonie	N;NOM;FEM;SG	N;INDF;FEM;PL
+kolonie	coloniile	kolonie	colonie	N;NOM;FEM;SG	N;DEF;FEM;PL
+joão	joão	joão	joão	PROPN;NOM;MASC;SG	PROPN
+heinz	heinz	heinz	heinz	PROPN;NOM;MASC;SG	PROPN
+wygrana	castiga	wygrać	castiga	N;NOM;FEM;SG	V;IND;SG;3;IPFV;FIN
+wygrana	victorie	wygrać	victorie	N;NOM;FEM;SG	N;INDF;FEM;SG
+wygrana	câștiga	wygrać	câștiga	N;NOM;FEM;SG	V;IND;SG;3;IPFV;FIN
+wygrana	câștigătoare	wygrać	câștigător	N;NOM;FEM;SG	ADJ;INDF;FEM
+regulamin	regulamentul	regulamin	regulament	N;ACC;MASC;SG	N;DEF;MASC;SG
+regulamin	reglementare	regulamin	reglementare	N;ACC;MASC;SG	N;INDF;FEM;SG
+regulamin	reglementarea	regulamin	reglementare	N;ACC;MASC;SG	N;DEF;FEM;SG
+rachel	rachel	rachel	rachel	PROPN;NOM;FEM;SG	PROPN
+flotylli	flotilei	flotylla	flotilă	N;GEN;FEM;SG	N;DEF;FEM;SG
+wenecja	veneţia	wenecja	veneţia	N;NOM;FEM;SG	PROPN
+wenecja	veneția	wenecja	veneția	N;NOM;FEM;SG	N;DEF;FEM;SG
+wenecja	venetia	wenecja	venetia	N;NOM;FEM;SG	N;DEF;FEM;SG
+idee	ideile	idee	idee	N;NOM;MASC;PL	N;DEF;FEM;PL
+wynalazca	inventatorul	wynalazca	inventator	N;NOM;MASC;SG	N;DEF;MASC;SG
+bei	bei	być	bea		V;IND;SG;2;PRS;FIN
+skarb	prețios	skarb	prețios	N;ACC;MASC;SG	ADJ;INDF;MASC;SG
+skarb	pretios	skarb	pretios	N;ACC;MASC;SG	ADJ;INDF;MASC;SG
+skarb	prețioase	skarb	prețios	N;ACC;MASC;SG	ADJ;INDF;FEM;PL
+skarb	comoară	skarb	comoară	N;ACC;MASC;SG	N;INDF;FEM;SG
+skarb	comoara	skarb	comoară	N;ACC;MASC;SG	N;DEF;FEM;SG
+skarb	comori	skarb	comori	N;ACC;MASC;SG	N;INDF;FEM;PL
+ogrody	grădinile	ogród	grădină	N;NOM;MASC;PL	N;DEF;FEM;PL
+ogrody	gardens	ogród	gardens	N;NOM;MASC;PL	N;INDF;MASC;SG
+prokurator	procurorul	prokurator	procuror	N;NOM;MASC;SG	N;DEF;MASC;SG
+pamiętnik	jurnalul	pamiętnik	jurnal	N;ACC;MASC;SG	N;DEF;MASC;SG
+pamiętnik	jurnalul	pamiętnik	jurnal	N;ACC;MASC;SG	N;DEF;MASC;SG
+stawu	balta	staw	baltă	N;GEN;MASC;SG	N;DEF;FEM;SG
+stawu	iazul	staw	iaz	N;GEN;MASC;SG	N;DEF;MASC;SG
+przewodnictwem	președinția	przewodnictwo	președinție	N;INS;NEUT;SG	N;DEF;FEM;SG
+prawdopodobne	probabilă	prawdopodobny	probabil	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+procedury	procedurile	procedura	procedură	N;ACC;FEM;PL	N;DEF;FEM;PL
+procedury	procedură	procedura	procedură	N;ACC;FEM;PL	N;INDF;FEM;SG
+procedury	procedura	procedura	procedură	N;ACC;FEM;PL	N;DEF;FEM;SG
+disco	discotecă	disco	discotecă		N;INDF;FEM;SG
+disco	discoteca	disco	discotecă		N;DEF;FEM;SG
+disco	disco	disco	disco		N;INDF;MASC;SG
+sumę	sum	suma	sum	N;ACC;FEM;SG	
+sumę	sumă	suma	sumă	N;ACC;FEM;SG	N;INDF;FEM;SG
+sumę	suma	suma	sumă	N;ACC;FEM;SG	N;DEF;FEM;SG
+uczestniczyło	participat	uczestniczyć	participa	V;IPFV;NEUT;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+prawny	juridice	prawny	juridic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+prawny	legale	prawny	legal	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+prawny	legală	prawny	legal	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+cząsteczki	particulele	cząsteczka	particulă	N;NOM;FEM;PL	N;DEF;FEM;PL
+cząsteczki	moleculele	cząsteczka	moleculă	N;NOM;FEM;PL	N;DEF;FEM;PL
+cząsteczki	particula	cząsteczka	particulă	N;NOM;FEM;PL	N;DEF;FEM;SG
+cząsteczki	particulă	cząsteczka	particulă	N;NOM;FEM;PL	N;INDF;FEM;SG
+fair	echitabil	fair	echitabil		ADJ;INDF;MASC;SG
+fair	fair	fair	fair		N;INDF;MASC;SG
+fair	corect	fair	corect		ADV
+czysto	clar	czysto	clar		ADV
+czysto	limpede	czysto	limpede		ADV
+urzędy	birourile	urząd	birou	N;NOM;MASC;PL	N;DEF;FEM;PL
+plemiona	triburile	plemię	trib	N;NOM;NEUT;SG	N;DEF;FEM;PL
+plemiona	triburi	plemię	trib	N;NOM;NEUT;SG	N;INDF;FEM;PL
+nadzwyczajny	extraordinara	nadzwyczajny	extraordinar	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+nadzwyczajny	extraordinar	nadzwyczajny	extraordinar	ADJ;NOM;MASC;SG	ADV
+nadzwyczajny	extraordinară	nadzwyczajny	extraordinar	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+nadzwyczajny	extraordinare	nadzwyczajny	extraordinar	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+linda	linda	linda	lindă	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+musical	muzical	musical	muzical	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+zawodowo	profesional	zawodowo	profesional	ADV	ADJ;INDF;MASC;SG
+virginia	virginia	virginia	virginie		N;DEF;FEM;SG
+mistrzowie	masterat	mistrz	masterat	N;NOM;MASC;PL	N;INDF;MASC;SG
+mistrzowie	masters	mistrz	masters	N;NOM;MASC;PL	N;INDF;MASC;SG
+mistrzowie	stăpâni	mistrz	stăpâni	N;NOM;MASC;PL	
+mistrzowie	stăpânii	mistrz	stăpân	N;NOM;MASC;PL	N;DEF;MASC;PL
+mistrzowie	campionii	mistrz	campion	N;NOM;MASC;PL	N;DEF;MASC;PL
+mistrzowie	campionilor	mistrz	campion	N;NOM;MASC;PL	N;DEF;MASC;PL
+drewno	lemnul	drewno	lemn	N;NOM;NEUT;SG	N;DEF;MASC;SG
+drewno	wood	drewno	wood	N;NOM;NEUT;SG	PROPN
+drewno	lemne	drewno	lemn	N;NOM;NEUT;SG	N;INDF;FEM;PL
+drewno	cherestea	drewno	chereste	N;NOM;NEUT;SG	N;DEF;FEM;SG
+salvador	salvador	salvador	salvador	PROPN;NOM;MASC;SG	PROPN
+dąbrówka	dąbrówka	dąbrówka	dąbrówka	N;NOM;FEM;SG	
+islam	islamul	islam	islam	N;NOM;MASC;SG	N;DEF;MASC;SG
+islam	islamului	islam	islam	N;NOM;MASC;SG	N;DEF;MASC;SG
+wagner	wagner	wagner	wagner	PROPN;NOM;MASC;SG	PROPN
+prasa	presă	prasa	presă	N;NOM;FEM;SG	N;INDF;FEM;SG
+prasa	apasa	prasa	apasa	N;NOM;FEM;SG	V;IND;SG;3;IPFV;FIN
+prasa	apăsați	prasa	apăsa	N;NOM;FEM;SG	V;IND;PL;2;IPFV;FIN
+prasa	apasă	prasa	apăsa	N;NOM;FEM;SG	V;IND;3;PRS;FIN
+łańcuch	string	łańcuch	stringe	N;NOM;MASC;SG	
+łańcuch	lanțul	łańcuch	lanț	N;NOM;MASC;SG	N;DEF;MASC;SG
+grubość	grosimea	grubość	grosime	N;NOM;FEM;SG	N;DEF;FEM;SG
+grubość	grosime	grubość	grosime	N;NOM;FEM;SG	N;INDF;FEM;SG
+stevens	stevens	stevens	stevens	PROPN;NOM;MASC;SG	PROPN
+kapitał	capitala	kapitał	capitală	N;ACC;MASC;SG	N;DEF;FEM;SG
+kapitał	capitală	kapitał	capitală	N;ACC;MASC;SG	N;INDF;FEM;SG
+monica	monica	monica	monică	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;DEF;FEM;SG
+galaktyki	galaxiile	galaktyk	galaxie	N;ACC;FEM;PL	N;DEF;FEM;PL
+galaktyki	galaxie	galaktyk	galaxie	N;ACC;FEM;PL	N;INDF;FEM;SG
+galaktyki	galaxia	galaktyk	galaxia	N;ACC;FEM;PL	N;DEF;FEM;SG
+galaktyki	galaxy	galaktyk	galaxy	N;ACC;FEM;PL	N;INDF;MASC;SG
+aktualny	curentul	aktualny	curent	ADJ;NOM;MASC;SG	N;DEF;MASC;SG
+aktualny	curent	aktualny	curent	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+aktualny	curentului	aktualny	curent	ADJ;NOM;MASC;SG	N;DEF;MASC;SG
+aktualny	actuală	aktualny	actual	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+kontrola	controlează	kontrola	controla	N;NOM;FEM;SG	V;IND;3;PRS;FIN
+kontrola	controlul	kontrola	control	N;NOM;FEM;SG	N;DEF;MASC;SG
+kontrola	auditul	kontrola	audit	N;NOM;FEM;SG	N;DEF;MASC;SG
+kontrola	inspecția	kontrola	inspecție	N;NOM;FEM;SG	N;DEF;FEM;SG
+kontrola	inspecție	kontrola	inspecție	N;NOM;FEM;SG	N;INDF;FEM;SG
+mieszane	amestecate	mieszany	amestecat	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+mieszane	mixtă	mieszany	mixt	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+typowo	tipic	typowo	tipic		ADV
+typowo	tipice	typowo	tipic		ADJ;INDF;FEM;PL
+warunek	stare	warunek	stare	N;ACC;MASC;SG	N;INDF;FEM;SG
+warunek	condiția	warunek	condiție	N;ACC;MASC;SG	N;DEF;FEM;SG
+warunek	condiție	warunek	condiție	N;ACC;MASC;SG	N;INDF;FEM;SG
+zawieszenia	suspendare	zawiesić	suspendare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zawieszenia	suspendarea	zawiesić	suspendare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zawieszenia	suspensie	zawiesić	suspensie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zawieszenia	suspensia	zawiesić	suspensie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zawieszenia	suspendări	zawiesić	suspendare	N;NOM;NEUT;SG	N;INDF;FEM;PL
+naftowej	brută	naftowy	brut	ADJ;GEN;FEM;SG	ADJ;INDF;FEM;SG
+koleje	ferate	kolej	ferată	N;NOM;FEM;SG	N;INDF;FEM;PL
+regina	regina	regina	regină	N;NOM;FEM;SG	N;DEF;FEM;SG
+działka	intriga	działko	intriga	N;NOM;FEM;SG	N;DEF;FEM;SG
+działka	intrigă	działko	intriga	N;NOM;FEM;SG	N;INDF;FEM;SG
+rozwiązany	rezolvată	rozwiązać	rezolva	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+rozwiązany	rezolvate	rozwiązać	rezolva	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+rozwiązany	rezolvate	rozwiązać	rezolva	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+znaczny	substanțiale	znaczny	substanțial	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+znaczny	semnificative	znaczny	semnificativ	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+znaczny	semnificativă	znaczny	semnificativ	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+znaczny	semnificativ	znaczny	semnificativ	ADJ;NOM;MASC;SG	ADV
+floryda	florida	floryd	florida		N;DEF;FEM;SG
+księżnej	ducesă	księżny	ducesă	ADJ;GEN;FEM;SG	N;INDF;FEM;SG
+księżnej	ducesa	księżny	ducesa	ADJ;GEN;FEM;SG	N;DEF;FEM;SG
+geograficzny	geografice	geograficzny	geografic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+geograficzny	geografică	geograficzny	geografic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+geograficzny	geografice	geograficzny	geografic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+geograficzny	geografică	geograficzny	geografic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+autobus	autobuzul	autobus	autobuz	N;NOM;MASC;SG	N;DEF;MASC;SG
+właścicielami	proprietarii	właściciel	proprietar	N;INS;MASC;PL	N;DEF;MASC;PL
+właścicielami	proprietarilor	właściciel	proprietar	N;INS;MASC;PL	N;DEF;MASC;PL
+wewnętrzny	internă	wewnętrzny	intern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+wewnętrzny	interne	wewnętrzny	intern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+wewnętrzny	interior	wewnętrzny	interior	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+wewnętrzny	interioară	wewnętrzny	interior	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+jeana	jean	jeany	jean		PROPN
+sex	sexul	sex	sex		N;DEF;MASC;SG
+sex	sex	sex	sex		N;INDF;MASC;SG
+samców	masculii	samc	mascul		N;DEF;MASC;PL
+samców	masculi	samc	mascul		ADJ;INDF;MASC;PL
+zbrodnie	infractiuni	zbrodnie	infractiune	N;NOM;FEM;SG	N;INDF;FEM;PL
+zbrodnie	delicte	zbrodnie	delict	N;NOM;FEM;SG	N;INDF;FEM;PL
+zbrodnie	infracțiuni	zbrodnie	infracțiune	N;NOM;FEM;SG	N;INDF;FEM;PL
+zbrodnie	crime	zbrodnie	crimă	N;NOM;FEM;SG	N;INDF;FEM;PL
+zbrodnie	crimă	zbrodnie	crimă	N;NOM;FEM;SG	N;INDF;FEM;SG
+zbrodnie	crima	zbrodnie	crimă	N;NOM;FEM;SG	N;DEF;FEM;SG
+zbrodnie	criminalitate	zbrodnie	criminalitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+filharmonii	filarmonicii	filharmonia	filarmonic	N;GEN;MASC;SG	N;DEF;MASC;PL
+bycie	fiind	bycie	fi		V;V.MSDR
+dar	cadoul	dar	cadou	N;NOM;MASC;SG	N;DEF;MASC;SG
+row	rândul	row	rând		N;DEF;MASC;SG
+row	rând	row	rând		N;INDF;MASC;SG
+row	row	row	row		N;INDF;MASC;SG
+wewnętrzna	internă	wewnętrzny	intern	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+wewnętrzna	interne	wewnętrzny	intern	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+wewnętrzna	interior	wewnętrzny	interior	ADJ;NOM;FEM;SG	N;INDF;MASC;SG
+wewnętrzna	interioară	wewnętrzny	interior	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+podróże	călătorie	podróż	călătorie	N;ACC;FEM;PL	N;INDF;FEM;SG
+podróże	călătorind	podróż	călători	N;ACC;FEM;PL	V;V.MSDR
+podróże	călătorind	podróż	călători	N;ACC;FEM;PL	V;V.MSDR
+podróże	călătoresc	podróż	călători	N;ACC;FEM;PL	V;IND;PL;3;PRS;FIN
+pokrywy	acoperă	pokrywy	acoperi	N;ACC;FEM;PL	V;IND;3;PRS;FIN
+lewandowski	lewandowski	lewandowski	lewandowski	ADJ;NOM;MASC;SG	PROPN
+przekazano	înaintat	przekazać	înainta	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+przekazano	delegate	przekazać	delega	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;PL
+przekazano	delegat	przekazać	delega	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+umieszczenie	plasare	umieszczenie	plasare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+umieszczenie	plasarea	umieszczenie	plasare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+umieszczenie	plasarea	umieszczenie	plasare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+umieszczenie	punerea	umieszczenie	punere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+kapłan	preotul	kapłan	preot	N;NOM;MASC;SG	N;DEF;MASC;SG
+aglomeracji	aglomerare	aglomeracja	aglomerare	N;GEN;FEM;SG	N;INDF;FEM;SG
+pokrewne	legate	pokrewny	legat		ADJ;INDF;FEM;PL
+artystyczna	artistice	artystyczny	artistic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+artystyczna	artistică	artystyczny	artistic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+orlando	orlando	orlando	orlando	N;NOM;NEUT;SG	PROPN
+opinia	părere	opinia	părere	N;NOM;FEM;SG	N;INDF;FEM;SG
+opinia	parere	opinia	parere	N;NOM;FEM;SG	
+opinia	opinie	opinia	opinie	N;NOM;FEM;SG	N;INDF;FEM;SG
+alessandro	alessandro	alessandro	alessandro	PROPN;NOM;MASC;SG	PROPN
+pogoń	urmărire	pogonić	urmărire		N;INDF;FEM;SG
+pogoń	chase	pogonić	chasă		PROPN
+bycia	fiind	być	fi		V;V.MSDR
+postawy	atitudinea	postawa	atitudine	N;GEN;FEM;SG	N;DEF;FEM;SG
+postawy	atitudine	postawa	atitudine	N;GEN;FEM;SG	N;INDF;FEM;SG
+postawy	atitudini	postawa	atitudine	N;GEN;FEM;SG	N;INDF;FEM;PL
+postawy	postură	postawa	postură	N;GEN;FEM;SG	N;INDF;FEM;SG
+postawy	postura	postawa	postură	N;GEN;FEM;SG	N;DEF;FEM;SG
+kasy	banii	kasa	ban	N;ACC;FEM;SG	N;DEF;MASC;PL
+kasy	bani	kasa	ban	N;ACC;FEM;SG	N;INDF;MASC;PL
+klaus	klaus	klaus	klaus	PROPN;NOM;MASC;SG	PROPN
+studenci	elevii	student	elev	N;NOM;MASC;PL	N;DEF;MASC;PL
+studenci	studentă	student	studentă	N;NOM;MASC;PL	N;INDF;FEM;SG
+studenci	elevă	student	elevă	N;NOM;MASC;PL	N;INDF;FEM;SG
+studenci	elev	student	elev	N;NOM;MASC;PL	N;INDF;MASC;SG
+studenci	student	student	student	N;NOM;MASC;PL	N;INDF;MASC;SG
+duszy	sufletul	dusza	suflet	N;GEN;FEM;SG	N;DEF;MASC;SG
+przeznaczeniem	destinul	przeznaczenie	destin	N;INS;NEUT;SG	N;DEF;MASC;SG
+finały	finala	finały	finală	N;NOM;MASC;PL	N;DEF;FEM;SG
+obywatel	cetatean	obywatel	cetatean	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+irlandia	irlanda	irlandia	irlanda	N;NOM;FEM;SG	PROPN
+irlandia	irlandei	irlandia	irlandă	N;NOM;FEM;SG	PROPN;DEF;FEM;SG
+osobno	separat	osobno	separat	ADV	ADJ;INDF;MASC;SG
+zeszyt	caiet	zeszyt	caiet	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+zeszyt	notebook	zeszyt	notebook	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+act	actul	act	act		N;DEF;MASC;SG
+act	acționează	act	acționa		V;IND;3;PRS;FIN
+act	act	act	act		N;INDF;MASC;SG
+nationale	nationale	nationale	national		ADJ;INDF;FEM;PL
+skała	piatră	skała	piatră	N;NOM;FEM;SG	N;INDF;FEM;SG
+skała	piatra	skała	piatră	N;NOM;FEM;SG	N;DEF;FEM;SG
+skała	stânca	skała	stâncă	N;NOM;FEM;SG	N;DEF;FEM;SG
+skała	stâncă	skała	stâncă	N;NOM;FEM;SG	N;INDF;FEM;SG
+ponownego	reapariție	ponowny	reapariție	ADJ;ACC;MASC;SG	N;INDF;FEM;SG
+leonarda	leonard	leonard	leonard		N;INDF;MASC;SG
+łaski	mercy	łaska	mercy	N;ACC;FEM;SG	
+łaski	milă	łaska	milă	N;ACC;FEM;SG	N;INDF;FEM;SG
+łaski	mila	łaska	milă	N;ACC;FEM;SG	N;DEF;FEM;SG
+łaski	harul	łaska	har	N;ACC;FEM;SG	N;DEF;MASC;SG
+łaski	grace	łaska	grac	N;ACC;FEM;SG	PROPN
+łaski	grație	łaska	grație	N;ACC;FEM;SG	N;INDF;FEM;SG
+wykorzystane	utilizate	wykorzystać	utilizat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+wykorzystane	folosite	wykorzystać	folosit	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+wykorzystane	folosită	wykorzystać	folosit	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wykorzystane	utilizată	wykorzystać	utiliza	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wykorzystane	exploatată	wykorzystać	exploata	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wykorzystane	exploatate	wykorzystać	exploata	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zamieszkania	locuire	zamieszkanie	locuire	N;GEN;NEUT;SG	N;INDF;FEM;SG
+nina	nina	nina	nină	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+zachowań	comportamentele	zachowanie	comportament	N;GEN;NEUT;PL	N;DEF;FEM;PL
+montana	montana	montany	montan		N;DEF;FEM;SG
+hansen	hansen	hansen	hansen		PROPN
+parametr	parametrul	parametr	parametru	N;NOM;MASC;SG	N;DEF;MASC;SG
+narciarstwo	ski	narciarstwo	ski	N;NOM;NEUT;SG	
+eyes	ochii	eyes	ochi		N;DEF;MASC;PL
+eyes	ochi	eyes	ochi		N;INDF;MASC
+terytoriów	teritoriile	terytoria	teritoriu	N;GEN;NEUT;PL	N;DEF;FEM;PL
+ochotników	voluntarii	ochotnik	voluntar	N;ACC;MASC;PL	N;DEF;MASC;PL
+pojęć	conceptele	pojęć	concept	N;GEN;NEUT;PL	N;DEF;FEM;PL
+circle	cercul	circle	cerc		N;DEF;MASC;SG
+circle	circle	circle	circlu		N;INDF;MASC;SG
+circle	cerc	circle	cerc		N;INDF;MASC;SG
+otoczone	înconjurată	otoczyć	înconjura	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+auf	auf	auf	auf		N;INDF;MASC;SG
+uruchomienie	lansare	uruchomienie	lansare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+uruchomienie	lansează	uruchomienie	lansa	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;3;PRS;FIN
+uruchomienie	lansarea	uruchomienie	lansare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+uruchomienie	mobilizare	uruchomienie	mobilizare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+uruchomienie	mobilizarea	uruchomienie	mobilizare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+uruchomienie	lansare	uruchomienie	lansare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+uruchomienie	lansarea	uruchomienie	lansare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+imdb	imdb	imdb	imdb		N;INDF;MASC;SG
+gilles	gilles	gilles	gilles	N;NOM;MASC;SG	PROPN
+diana	diana	diana	diană	N;NOM;FEM;SG	N;DEF;FEM;SG
+senat	senatul	senat	senat		N;DEF;MASC;SG
+senat	senat	senat	sena		N;INDF;MASC;SG
+senat	senatului	senat	senat		N;DEF;MASC;SG
+zaproszenie	invita	zaprosić	invita	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;3;IPFV;FIN
+zaproszenie	invită	zaprosić	invita	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PST;FIN
+zaproszenie	invitație	zaprosić	invitație	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zaproszenie	invitatie	zaprosić	invitatie	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zaproszenie	invitație	zaprosić	invitație	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zamiar	intentie	zamiar	intentie	V;PFV;IND;PRS;FIN;ACT	N;INDF;FEM;SG
+zamiar	intenția	zamiar	intenție	V;PFV;IND;PRS;FIN;ACT	N;DEF;FEM;SG
+zamiar	intenție	zamiar	intenție	V;PFV;IND;PRS;FIN;ACT	N;INDF;FEM;SG
+zamiar	intentie	zamiar	intentie	V;PFV;IND;PRS;FIN;ACT	N;INDF;FEM;SG
+zamiar	intenția	zamiar	intenție	V;PFV;IND;PRS;FIN;ACT	N;DEF;FEM;SG
+zamiar	intenție	zamiar	intenție	V;PFV;IND;PRS;FIN;ACT	N;INDF;FEM;SG
+iranie	iran	iran	iran		PROPN
+iranie	iranul	iran	iran		N;DEF;MASC;SG
+lane	lane	lany	lană		PROPN
+minas	minas	minas	minas		N;INDF;MASC;SG
+reggae	reggae	reggać	reggae		N;INDF;MASC;SG
+blog	blogul	blog	blog	N;NOM;MASC;SG	N;DEF;MASC;SG
+dziesiątki	zeci	dziesiątka	zece		NUM;INDF;FEM;PL
+dziesiątki	zeci	dziesiątka	zece		NUM;INDF;FEM;PL
+dziesiątki	duzini	dziesiątka	duzin		N;INDF;FEM;PL
+orbicie	orbită	orbić	orbită	N;DAT;FEM;SG	N;INDF;FEM;SG
+orbicie	orbita	orbić	orbită	N;DAT;FEM;SG	N;DEF;FEM;SG
+aten	atena	aten	atena	PROPN;NOM;NEUT;SG	PROPN
+lars	lars	lars	lars	PROPN;NOM;MASC;SG	PROPN
+full	plina	full	plină		ADJ;DEF;FEM;SG
+full	plin	full	plin		ADV
+full	plină	full	plin		ADJ;INDF;FEM;SG
+odra	pojar	odra	pojar		N;INDF;MASC;SG
+odra	odra	odra	odră		PROPN
+afryka	africa	afryka	africa		N;DEF;FEM;SG
+afryka	africani	afryka	african		ADJ;INDF;MASC;PL
+afryka	africană	afryka	african		ADJ;INDF;FEM;SG
+afryka	africane	afryka	african		ADJ;INDF;FEM;PL
+afryka	african	afryka	african		ADJ;INDF;MASC;SG
+opublikowano	postată	opublikować	posta	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;SG
+opublikowano	postat	opublikować	posta	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+opublikowano	publicate	opublikować	publica	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;PL
+opublikowano	publicat	opublikować	publica	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+opublikowano	publicată	opublikować	publicat	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;SG
+monet	monedele	monet	monede	N;GEN;FEM;PL	N;DEF;FEM;PL
+monet	monet	monet	monet	N;GEN;FEM;PL	PROPN
+lufy	butoi	lufa	butoi	N;GEN;FEM;PL	N;INDF;MASC;SG
+kosmiczny	cosmice	kosmiczny	cosmic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+kosmiczny	cosmică	kosmiczny	cosmic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+money	banii	money	ban		N;DEF;MASC;PL
+money	bani	money	ban		N;INDF;MASC;PL
+korzyść	beneficii	korzyść	beneficiu	N;NOM;FEM;SG	N;INDF;FEM;PL
+korzyść	beneficiul	korzyść	beneficiu	N;NOM;FEM;SG	N;DEF;MASC;SG
+korzyść	avantajul	korzyść	avantaj	N;NOM;FEM;SG	N;DEF;MASC;SG
+calgary	calgary	calgary	calgary	N;NOM;MASC;SG	PROPN
+bakterii	bacteriene	bakteria	bacterian		N;INDF;FEM;PL
+bakterii	bacteriană	bakteria	bacterian		ADJ;INDF;FEM;SG
+bakterii	bacterie	bakteria	bacterie		N;INDF;FEM;SG
+bakterii	bacterii	bakteria	bacterie		N;INDF;FEM;PL
+bakterii	bacteriile	bakteria	bacterie		N;DEF;FEM;PL
+bakterii	bacteria	bakteria	bacterie		N;DEF;FEM;SG
+gospodarcza	economică	gospodarczy	economic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+gospodarcza	economice	gospodarczy	economic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+przełom	descoperire	przełom	descoperire	N;NOM;MASC;SG	N;INDF;FEM;SG
+texas	texas	texas	texas		PROPN
+texas	texasul	texas	texas		N;DEF;MASC;SG
+heavy	heavy	heav	heavy		N;INDF;MASC;SG
+heavy	greu	heav	greu		ADV
+heavy	grele	heav	greu		ADJ;INDF;FEM;PL
+heavy	grea	heav	greu		ADJ;INDF;FEM;SG
+heavy	grei	heav	grei		ADJ;INDF;MASC;PL
+rysunki	desenele	rysunek	desen	N;NOM;MASC;PL	N;DEF;FEM;PL
+jake	jake	jaki	jake		PROPN
+historycy	istoricii	historyk	istoric	N;NOM;MASC;PL	N;DEF;MASC;PL
+portland	portland	portland	portland	N;NOM;MASC;SG	PROPN
+terytoria	teritoriile	terytoria	teritoriu	N;NOM;NEUT;PL	N;DEF;FEM;PL
+terytoria	teritoriu	terytoria	teritoriu	N;NOM;NEUT;PL	N;INDF;MASC;SG
+terytoria	teritoriul	terytoria	teritoriu	N;NOM;NEUT;PL	N;DEF;MASC;SG
+algorytm	algoritmul	algoryt	algoritm	N;ACC;MASC;SG	N;DEF;MASC;SG
+koronę	coroana	korona	coroană	N;ACC;FEM;SG	N;DEF;FEM;SG
+koronę	coroană	korona	coroană	N;ACC;FEM;SG	N;INDF;FEM;SG
+koronę	crown	korona	crown	N;ACC;FEM;SG	PROPN
+wróć	retur	wróć	retur	V;PFV;IMP;SG;2;FIN;ACT	N;INDF;MASC;SG
+wróć	întoarcere	wróć	întoarcere	V;PFV;IMP;SG;2;FIN;ACT	N;INDF;FEM;SG
+kamienie	pietrele	kamień	pietru	N;NOM;MASC;PL	N;DEF;FEM;PL
+kamienie	piatră	kamień	piatră	N;NOM;MASC;PL	N;INDF;FEM;SG
+kamienie	stone	kamień	stonă	N;NOM;MASC;PL	PROPN
+kamienie	piatra	kamień	piatră	N;NOM;MASC;PL	N;DEF;FEM;SG
+honor	onoare	honor	onoare		N;INDF;FEM;SG
+honor	onoarea	honor	onoare		N;DEF;FEM;SG
+honor	onoare	honor	onoare		N;INDF;FEM;SG
+honor	onoarea	honor	onoare		N;DEF;FEM;SG
+umiera	mor	umierać	muri	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;PL;3;PRS;FIN
+przemysłowe	industriala	przemysłowy	industrial	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+przemysłowe	industrială	przemysłowy	industrial	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+przemysłowe	industriale	przemysłowy	industrial	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+tunel	tunelul	tunel	tunel	N;NOM;MASC;SG	N;DEF;MASC;SG
+zbiorniki	tancurile	zbiornik	tanc	N;NOM;MASC;PL	N;DEF;FEM;PL
+niewielu	puține	niewiele	puțin		PRO;FEM;PL;3
+niewielu	puțini	niewiele	puțin		PRO;MASC;PL;3
+sprzedano	vandut	sprzedać	vandut	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+sprzedano	vândute	sprzedać	vinde	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;PL
+sprzedano	vândută	sprzedać	vânde	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;SG
+sprzedano	vândut	sprzedać	vinde	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+chen	chen	chen	chen	PROPN;NOM;MASC;SG	PROPN
+tygodniach	saptamani	tydzień	saptaman	N;GEN;MASC;PL	
+tygodniach	săptămânile	tydzień	săptămână	N;GEN;MASC;PL	N;DEF;FEM;PL
+ewakuacji	evacuare	ewakuacja	evacuare	N;GEN;FEM;SG	N;INDF;FEM;SG
+ewakuacji	evacuarea	ewakuacja	evacuare	N;GEN;FEM;SG	N;DEF;FEM;SG
+jürgen	jürgen	jürgen	jürgen	PROPN;NOM;MASC;SG	PROPN
+wymiar	dimensiune	wymiar	dimensiune	N;NOM;MASC;SG	N;INDF;FEM;SG
+wymiar	dimensiunea	wymiar	dimensiune	N;NOM;MASC;SG	N;DEF;FEM;SG
+bonus	bonusul	bonus	bonus	N;NOM;MASC;SG	N;DEF;MASC;SG
+sncf	sncf	sncf	sncf		PROPN
+connecticut	connecticut	connecticut	connecticut		N;INDF;MASC;SG
+rolnictwo	agricol	rolnictwo	agricol	N;NOM;NEUT;SG	ADJ;INDF;MASC;SG
+rolnictwo	agricole	rolnictwo	agricol	N;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+rolnictwo	agricultura	rolnictwo	agricultură	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rolnictwo	agricultură	rolnictwo	agricultură	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rolnictwo	agricultura	rolnictwo	agricultură	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rolnictwo	agricultură	rolnictwo	agricultură	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zmieniona	modificată	zmienić	modifica	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+simone	simone	simon	simon	PROPN;NOM;FEM;SG	PROPN
+juniors	juniori	juniors	junior	PROPN;NOM;MASC;SG	N;INDF;MASC;PL
+poezja	poezia	poezja	poezie		N;DEF;FEM;SG
+poezja	poezii	poezja	poezie		N;INDF;FEM;PL
+poezja	poezie	poezja	poezie		N;INDF;FEM;SG
+litwa	lituaniei	litwa	lituanie		PROPN;DEF;FEM;SG
+litwa	lituania	litwa	lituanie		PROPN
+pokład	punte	pokład	punte	N;NOM;MASC;SG	N;INDF;FEM;SG
+pokład	puntea	pokład	puntea	N;NOM;MASC;SG	N;DEF;FEM;SG
+sprzeciw	opoziția	sprzeciw	opoziție	N;NOM;MASC;SG	N;DEF;FEM;SG
+sprzeciw	opozitie	sprzeciw	opozitie	N;NOM;MASC;SG	N;INDF;FEM;SG
+sprzeciw	opoziție	sprzeciw	opoziție	N;NOM;MASC;SG	N;INDF;FEM;SG
+atlanta	atlanta	atlant	atlanta	N;NOM;MASC;SG	PROPN
+sól	salt	sól	salt		N;INDF;MASC;SG
+sól	sarea	sól	sare		N;DEF;FEM;SG
+sól	sare	sól	sare		N;INDF;FEM;SG
+kolonię	colonia	kolonia	colonie	N;ACC;FEM;SG	N;DEF;FEM;SG
+kolonię	colonie	kolonia	colonie	N;ACC;FEM;SG	N;INDF;FEM;SG
+opady	precipitare	opad	precipitar	N;NOM;MASC;PL	N;INDF;FEM;SG
+słowacja	slovacia	słowacja	slovacie	N;NOM;FEM;SG	PROPN
+odchodzi	plecarea	odchodzić	plecare	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+usuwanie	îndepărtarea	usuwać	îndepărtare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+usuwanie	ștergerea	usuwać	ștergere	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+usuwanie	eliminare	usuwać	eliminare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+usuwanie	eliminarea	usuwać	eliminare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+usuwanie	ștergere	usuwać	ștergere	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+usuwanie	îndepărtare	usuwać	îndepărtare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+usuwanie	îndepărtarea	usuwać	îndepărtare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+odzyskał	recăpătat	odzyskać	recăpăta	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+klein	klein	klein	klein		PROPN
+odwrót	retragere	odwrót	retragere	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;FEM;SG
+odwrót	retragerea	odwrót	retragere	V;IPFV;IND;SG;PRS;FIN;ACT	N;DEF;FEM;SG
+rany	rana	rana	rană	N;ACC;FEM;SG	N;DEF;FEM;SG
+rany	rană	rana	rană	N;ACC;FEM;SG	N;INDF;FEM;SG
+rany	rani	rana	rană	N;ACC;FEM;SG	
+rany	rănile	rana	rană	N;ACC;FEM;SG	N;DEF;FEM;PL
+rany	răni	rana	rană	N;ACC;FEM;SG	N;INDF;FEM;PL
+substancje	substanță	substancja	substanță	N;NOM;FEM;PL	N;INDF;FEM;SG
+substancje	substanța	substancja	substanță	N;NOM;FEM;PL	N;DEF;FEM;SG
+publikowane	publicate	publikować	publica	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+publikowane	publicată	publikować	publicat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+pływak	înotătoare	pływak	înotătoare	N;NOM;MASC;SG	N;INDF;FEM;SG
+ogromny	imensă	ogromny	imens	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ogromny	massive	ogromny	massiva	ADJ;NOM;MASC;SG	
+ogromny	masive	ogromny	masiv	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+ogromny	masivă	ogromny	masiv	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ogromny	enormă	ogromny	enorm	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ogromny	enorm	ogromny	enorm	ADJ;NOM;MASC;SG	
+ogromny	enorma	ogromny	enorm	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+ogromny	enorme	ogromny	enorm	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+nagrodzony	răsplătită	nagrodzić	răsplăti	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+schemat	diagrama	schemat	diagramă	N;NOM;MASC;SG	N;DEF;FEM;SG
+schemat	diagramă	schemat	diagramă	N;NOM;MASC;SG	N;INDF;FEM;SG
+oczywiste	evidentă	oczywisty	evident	V;IPFV;IND;SG;PRS;FIN;ACT	ADJ;INDF;FEM;SG
+oczywiste	evidenta	oczywisty	evident	V;IPFV;IND;SG;PRS;FIN;ACT	N;DEF;FEM;SG
+oczywiste	evidente	oczywisty	evident	V;IPFV;IND;SG;PRS;FIN;ACT	ADJ;INDF;FEM;PL
+oczywiste	evident	oczywisty	evident	V;IPFV;IND;SG;PRS;FIN;ACT	ADV
+fotografia	fotografie	fotografia	fotografie	N;NOM;FEM;SG	N;INDF;FEM;SG
+fotografia	photo	fotografia	photo	N;NOM;FEM;SG	
+fotografia	foto	fotografia	foto	N;NOM;FEM;SG	
+fotografia	fotografia	fotografia	fotografie	N;NOM;FEM;SG	N;DEF;FEM;SG
+fotografia	poză	fotografia	poză	N;NOM;FEM;SG	N;INDF;FEM;SG
+fotografia	fotografie	fotografia	fotografie	N;NOM;FEM;SG	N;INDF;FEM;SG
+fotografia	fotografia	fotografia	fotografie	N;NOM;FEM;SG	N;DEF;FEM;SG
+gmt	gmt	gętić	gmt	PROPN;NOM;MASC;SG	N;INDF
+krajobraz	peisajului	krajobraz	peisaj	N;NOM;MASC;SG	N;DEF;MASC;SG
+krajobraz	peisajul	krajobraz	peisaj	N;NOM;MASC;SG	N;DEF;MASC;SG
+ted	ted	ted	ted		PROPN
+tramwaj	tramvaiul	tramwa	tramvai	N;NOM;MASC;SG	N;DEF;MASC;SG
+tramwaj	tramvaiul	tramwa	tramvai	N;NOM;MASC;SG	N;DEF;MASC;SG
+zdecydowała	decisă	zdecydować	decide	V;PFV;FEM;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+zdecydowała	decis	zdecydować	decide	V;PFV;FEM;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+zdecydowała	hotărât	zdecydować	hotărî	V;PFV;FEM;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+belgradzie	belgrad	belgrad	belgrad	PROPN;DAT;MASC;SG	N;INDF;MASC;SG
+belgradzie	belgradul	belgrad	belgrad	PROPN;DAT;MASC;SG	N;DEF;MASC;SG
+tkanki	țesut	tkanka	țesut	N;ACC;FEM;PL	N;INDF;MASC;SG
+tkanki	tesut	tkanka	tesut	N;ACC;FEM;PL	N;INDF;MASC;SG
+skuteczność	performanțe	skuteczność	performanță	N;NOM;FEM;SG	N;INDF;FEM;PL
+skuteczność	performanta	skuteczność	performant	N;NOM;FEM;SG	N;DEF;FEM;SG
+skuteczność	performanța	skuteczność	performanță	N;NOM;FEM;SG	N;DEF;FEM;SG
+skuteczność	performanță	skuteczność	performanță	N;NOM;FEM;SG	N;INDF;FEM;SG
+skuteczność	eficacitate	skuteczność	eficacitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+skuteczność	eficacitatea	skuteczność	eficacitate	N;NOM;FEM;SG	N;DEF;FEM;SG
+skuteczność	eficacitate	skuteczność	eficacitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+skuteczność	eficacitatea	skuteczność	eficacitate	N;NOM;FEM;SG	N;DEF;FEM;SG
+skuteczność	eficiență	skuteczność	eficiență	N;NOM;FEM;SG	N;INDF;FEM;SG
+skuteczność	eficiența	skuteczność	eficiență	N;NOM;FEM;SG	N;DEF;FEM;SG
+skuteczność	eficienta	skuteczność	eficient	N;NOM;FEM;SG	ADJ;DEF;FEM;SG
+tryby	modurile	tryb	mod	N;NOM;MASC;PL	N;DEF;FEM;PL
+erich	erich	erich	erich	PROPN;NOM;MASC;SG	PROPN
+dama	doamna	dam	doamnă		N;DEF;FEM;SG
+dama	doamnă	dam	doamnă		N;INDF;FEM;SG
+ślad	trace	ślad	trace	N;NOM;MASC;SG	
+przyjęte	acceptate	przyjąć	accepta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+przyjęte	acceptata	przyjąć	acceptată	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;DEF;FEM;SG
+przyjęte	acceptată	przyjąć	accepta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+przyjęte	adoptată	przyjąć	adopta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+niska	scăzută	niska	scăzut		ADJ;INDF;FEM;SG
+niska	scăzut	niska	scăzut		ADJ;INDF;MASC;SG
+twierdzą	revendicare	twierdzić	revendicare	V;IPFV;IND;PL;3;PRS;FIN;ACT	N;INDF;FEM;SG
+twierdzą	revendică	twierdzić	revendic	V;IPFV;IND;PL;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+testament	testamentul	testament	testament	N;ACC;MASC;SG	N;DEF;MASC;SG
+berg	berg	berg	berg	PROPN;NOM;MASC;SG	PROPN
+anhalt	anhalt	anhalt	anhalt	PROPN;NOM;MASC;SG	PROPN
+podobieństwo	asemănare	podobieństwo	asemănare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+podobieństwo	asemănare	podobieństwo	asemănare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+podobieństwo	similitudine	podobieństwo	similitudine	N;NOM;NEUT;SG	N;INDF;FEM;SG
+mitsubishi	mitsubishi	mitsubisha	mitsubish		N;INDF;MASC;SG
+zatrudnienie	angajare	zatrudnienie	angajare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zatrudnienie	angajare	zatrudnienie	angajare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zatrudnienie	angajarea	zatrudnienie	angajare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zatrudnienie	angajări	zatrudnienie	angajare	N;NOM;NEUT;SG	N;INDF;FEM;PL
+horror	groază	horror	groază	N;NOM;MASC;SG	N;INDF;FEM;SG
+horror	groaza	horror	groază	N;NOM;MASC;SG	N;DEF;FEM;SG
+horror	oroare	horror	oroare	N;NOM;MASC;SG	N;INDF;FEM;SG
+technologia	tehnologie	technologia	tehnologie	N;NOM;FEM;SG	N;INDF;FEM;SG
+technologia	tehnologii	technologia	tehnologie	N;NOM;FEM;SG	N;INDF;FEM;PL
+technologia	tehnologia	technologia	tehnologie	N;NOM;FEM;SG	N;DEF;FEM;SG
+oklahoma	oklahoma	oklahy	oklahoma	N;NOM;NEUT;SG	PROPN
+konkretne	specifică	konkretny	specifica	ADJ;NOM;NEUT;SG	V;IND;SG;3;PST;FIN
+konkretne	specifice	konkretny	specific	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+konkretne	beton	konkretny	beton	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+konkretne	concrete	konkretny	concret	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+konflikty	conflictele	konflikt	conflict	N;NOM;MASC;PL	N;DEF;FEM;PL
+konflikty	conflictul	konflikt	conflict	N;NOM;MASC;PL	N;DEF;MASC;SG
+konflikty	conflict	konflikt	conflict	N;NOM;MASC;PL	N;INDF;MASC;SG
+sophie	sophie	soph	sophie	N;NOM;FEM;SG	PROPN
+kings	regilor	kings	regilor		N;DEF;MASC;PL
+kings	kings	kings	kings		N;INDF;MASC;SG
+kings	regii	kings	regie		N;INDF;MASC;PL
+kings	regi	kings	rege		N;INDF;MASC;PL
+dokładne	precise	dokładny	precis	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+dokładne	precis	dokładny	precis	ADJ;NOM;NEUT;SG	ADV
+dokładne	precisă	dokładny	precis	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+dokładne	precise	dokładny	precis	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+dokładne	precisă	dokładny	precis	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+dokładne	exacte	dokładny	exact	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+dokładne	exacta	dokładny	exacta	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+dokładne	exact	dokładny	exact	ADJ;NOM;NEUT;SG	ADV
+dokładne	exactă	dokładny	exact	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+podziemia	underground	podziemiać	underground		N;INDF;MASC;SG
+podziemia	subteran	podziemiać	subteran		ADJ;INDF;MASC;SG
+zapobiec	preveni	zapobiec	preveni	V;PFV;NFIN;ACT	
+skrzyżowanie	intersecţia	skrzyżowanie	intersechie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+skrzyżowanie	intersectie	skrzyżowanie	intersectie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+poprawę	îmbunătățirea	poprawa	îmbunătățire	N;ACC;FEM;SG	N;DEF;FEM;SG
+muza	muza	muza	muza		N;DEF;FEM;SG
+muza	muză	muza	muză		N;INDF;FEM;SG
+czytać	citire	czytać	citire	V;IPFV;NFIN;ACT	N;INDF;FEM;SG
+organizatorów	organizatorii	organizator	organizatoriu	N;ACC;MASC;PL	N;DEF;MASC;PL
+organizatorów	organizatorii	organizator	organizatoriu	N;ACC;MASC;PL	N;DEF;MASC;PL
+dopuszczalna	acceptabile	dopuścizalny	acceptabil	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+dopuszczalna	acceptabilă	dopuścizalny	acceptabil	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+dopuszczalna	admisibile	dopuścizalny	admisibil	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+dopuszczalna	admisibil	dopuścizalny	admisibil	ADJ;NOM;FEM;SG	ADV
+dopuszczalna	admisibilă	dopuścizalny	admisibil	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+spada	falls	spadać	fall	V;IPFV;IND;SG;3;PRS;FIN;ACT	PROPN
+dramatyczny	dramatice	dramatyczny	dramatic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+dramatyczny	dramatică	dramatyczny	dramatic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+zapasy	proviziile	zapas	provizie	N;NOM;MASC;PL	N;DEF;FEM;PL
+zapasy	stocurile	zapas	stoc	N;NOM;MASC;PL	N;DEF;FEM;PL
+zapasy	wrestling	zapas	wrestling	N;NOM;MASC;PL	PROPN
+zapasy	lupte	zapas	lupta	N;NOM;MASC;PL	
+zapasy	stocul	zapas	stoc	N;NOM;MASC;PL	N;DEF;MASC;SG
+zapasy	stoc	zapas	stoc	N;NOM;MASC;PL	N;INDF;MASC;SG
+żyły	vene	żyły	veni	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;INDF;FEM;PL
+żyły	venele	żyły	venă	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;DEF;FEM;PL
+żyły	vena	żyły	vena	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;DEF;FEM;SG
+żyły	venă	żyły	venă	V;PFV;MASC;IND;PL;PST;FIN;ACT	N;INDF;FEM;SG
+donieck	donețk	donieck	donețk	PROPN;NOM;MASC;SG	PROPN
+cesarzem	împăratul	cesarz	împărat	N;INS;MASC;SG	N;DEF;MASC;SG
+organiczny	organici	organiczny	organic	ADJ;NOM;MASC;SG	N;INDF;MASC;PL
+organiczny	organice	organiczny	organic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+organiczny	organică	organiczny	organic	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+make	face	maka	face		V;IND;SG;3;PRS;FIN
+instrukcji	instrucțiunile	instrukcja	instrucțiune	N;GEN;FEM;SG	N;DEF;FEM;PL
+instrukcji	instrucțiuni	instrukcja	instrucțiune	N;GEN;FEM;SG	N;INDF;FEM;PL
+instrukcji	instructiuni	instrukcja	instructiune	N;GEN;FEM;SG	N;INDF;FEM;PL
+hope	speranta	hopy	sperant		N;DEF;FEM;SG
+hope	sper	hopy	spera		V;IND;SG;1;PRS;FIN
+hope	speranța	hopy	speranță		N;DEF;FEM;SG
+hope	speranță	hopy	speranță		N;INDF;FEM;SG
+zgoda	consimțământul	zgoda	consimțământ	N;NOM;FEM;SG	N;DEF;MASC;SG
+zgoda	convenit	zgoda	convenit	N;NOM;FEM;SG	ADJ;INDF;MASC;SG
+zgoda	convenite	zgoda	conveni	N;NOM;FEM;SG	ADJ;INDF;FEM;PL
+face	faţă	faka	faţă		N;INDF;FEM;SG
+face	fata	faka	fată		N;DEF;FEM;SG
+face	fața	faka	față		N;DEF;FEM;SG
+face	faţa	faka	fagă		N;DEF;FEM;SG
+face	față	faka	față		N;INDF;FEM;SG
+opada	falls	opadać	fall	V;IPFV;IND;SG;3;PRS;FIN;ACT	PROPN
+genewie	geneva	genew	genevă	N;NOM;MASC;SG	PROPN
+zapewnienie	asigurând	zapewnić	asigura	N;PFV;NOM;NEUT;SG;POS;V.MSDR	V;V.MSDR
+barwa	culoare	barwa	culoare	N;NOM;FEM;SG	N;INDF;FEM;SG
+barwa	color	barwa	color	N;NOM;FEM;SG	ADJ
+barwa	culoarea	barwa	culoare	N;NOM;FEM;SG	N;DEF;FEM;SG
+barwa	culoare	barwa	culoare	N;NOM;FEM;SG	N;INDF;FEM;SG
+barwa	color	barwa	color	N;NOM;FEM;SG	ADJ
+barwa	culoarea	barwa	culoare	N;NOM;FEM;SG	N;DEF;FEM;SG
+wspomnień	amintirile	wspomnienie	amintire	N;GEN;NEUT;PL	N;DEF;FEM;PL
+inżynieria	inginerie	inżynierie	inginerie	N;NOM;FEM;SG	N;INDF;FEM;SG
+inżynieria	ingineria	inżynierie	inginerie	N;NOM;FEM;SG	N;DEF;FEM;SG
+inżynieria	ingineri	inżynierie	inginer	N;NOM;FEM;SG	N;INDF;MASC;PL
+inżynieria	inginerii	inżynierie	inginer	N;NOM;FEM;SG	N;DEF;MASC;PL
+turbo	turbo	turbo	turbo		N;INDF;MASC;SG
+sale	vanzare	sala	vanzare	N;NOM;FEM;PL	N;INDF;FEM;SG
+sale	vânzare	sala	vânzare	N;NOM;FEM;PL	N;INDF;FEM;SG
+sale	vânzarea	sala	vânzare	N;NOM;FEM;PL	N;DEF;FEM;SG
+literaturę	literatură	literatura	literatură	N;ACC;FEM;SG	N;INDF;FEM;SG
+literaturę	literatura	literatura	literatură	N;ACC;FEM;SG	N;DEF;FEM;SG
+artyleria	artileria	artylerium	artilerie	N;NOM;FEM;SG	N;DEF;FEM;SG
+artyleria	artilerie	artylerium	artilerie	N;NOM;FEM;SG	N;INDF;FEM;SG
+siatkówki	retina	siatkówka	retina	N;NOM;FEM;SG	N;DEF;FEM;SG
+siatkówki	retină	siatkówka	retină	N;NOM;FEM;SG	N;INDF;FEM;SG
+siatkówki	retina	siatkówka	retina	N;NOM;FEM;SG	N;DEF;FEM;SG
+siatkówki	volei	siatkówka	volei	N;NOM;FEM;SG	N;DEF;FEM;PL
+design	proiectare	design	proiectare		N;INDF;FEM;SG
+design	design	design	design		N;INDF;MASC;SG
+design	proiectarea	design	proiectare		N;DEF;FEM;SG
+sklepy	magazinele	sklep	magazin	N;NOM;MASC;PL	N;DEF;FEM;PL
+seweryn	seweryn	seweryn	seweryn	N;NOM;MASC;SG	
+concacaf	concacaf	concacaf	concacaf	N;GEN;MASC;SG	PROPN
+maks	max	maks	max		N;INDF;MASC;SG
+maks	maxim	maks	maxim		ADJ;INDF;MASC;SG
+majewski	majewski	majewski	majewski	ADJ;NOM;MASC;SG	
+buffalo	bivoli	buffalo	bivol	N;NOM;MASC;SG	N;INDF;MASC;PL
+buffalo	bizoni	buffalo	bizon	N;NOM;MASC;SG	N;INDF;MASC;PL
+prawdopodobieństwo	probabilitate	prawdopodobieństwo	probabilitate	N;NOM;NEUT;SG	N;INDF;FEM;SG
+prawdopodobieństwo	probabilitate	prawdopodobieństwo	probabilitate	N;NOM;NEUT;SG	N;INDF;FEM;SG
+prawdopodobieństwo	probabilitatea	prawdopodobieństwo	probabilitate	N;NOM;NEUT;SG	N;DEF;FEM;SG
+hetman	hatman	hetman	hatman		N;INDF;MASC;SG
+zwłoki	cadavru	zwłoki	cadavru	N;ACC;NEUT;PL	N;INDF;MASC;SG
+pokoleń	generatii	pokolenie	generat		N;DEF;MASC;PL
+pokoleń	generații	pokolenie	generație		N;INDF;FEM;PL
+wieczny	eternă	wieczny	etern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+wieczny	eterna	wieczny	eterna	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+wieczny	eterne	wieczny	etern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+odkryć	descoperirile	odkryć	descoperire	V;PFV;NFIN;ACT	N;DEF;FEM;PL
+odkryć	descoperiri	odkryć	descoperire	V;PFV;NFIN;ACT	N;INDF;FEM;PL
+stężenie	concentrațiile	stężyć	concentrație	N;NOM;NEUT;SG	N;DEF;FEM;PL
+stężenie	concentrații	stężyć	concentrație	N;NOM;NEUT;SG	N;INDF;FEM;PL
+stężenie	concentrație	stężyć	concentrație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+stężenie	concentrare	stężyć	concentrare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+stężenie	concentrația	stężyć	concentrație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zrobione	luată	zrobić	lua	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zrobione	luate	zrobić	luat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zrobione	făcute	zrobić	făcut	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zrobione	made	zrobić	made	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	
+zrobione	făcută	zrobić	făcut	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zrobione	făcut	zrobić	face	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	V;MASC;SG;V.PTCP
+rozbił	zdrobit	rozbić	zdrobit	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+rozbił	prăbușit	rozbić	prăbuși	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+inżynierów	inginerii	inżynier	inginer	N;ACC;MASC;PL	N;DEF;MASC;PL
+bonaparte	bonaparte	bonaparty	bonaparte		N;INDF;FEM;PL
+odwołany	anulate	odwołać	anula	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+odwołany	anulată	odwołać	anula	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+odwołany	anulate	odwołać	anula	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+odwołany	anulată	odwołać	anula	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+żyła	trăia	żyć	trăi	V;IPFV;FEM;IND;SG;PST;FIN;ACT	V;IND;SG;3;IPFV;FIN
+żyła	trăită	żyć	trăi	V;IPFV;FEM;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+żyła	vena	żyć	vena	V;IPFV;FEM;IND;SG;PST;FIN;ACT	N;DEF;FEM;SG
+żyła	venă	żyć	venă	V;IPFV;FEM;IND;SG;PST;FIN;ACT	N;INDF;FEM;SG
+uczestniczy	participă	uczestniczyć	participa	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+zjednoczenie	unitate	zjednoczenie	unitate	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zjednoczenie	unitatea	zjednoczenie	unitate	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+zjednoczenie	unificarea	zjednoczenie	unificare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+zjednoczenie	unificare	zjednoczenie	unificare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+zjednoczenie	reuniunea	zjednoczenie	reuniune	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+zjednoczenie	reuniune	zjednoczenie	reuniune	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+wnioski	cererile	wniosek	cerere	N;NOM;MASC;PL	N;DEF;FEM;PL
+wnioski	concluzia	wniosek	concluzie	N;NOM;MASC;PL	N;DEF;FEM;SG
+wnioski	concluzie	wniosek	concluzie	N;NOM;MASC;PL	N;INDF;FEM;SG
+wnioski	concluziile	wniosek	concluzie	N;NOM;MASC;PL	N;DEF;FEM;PL
+podłoża	substraturi	podłoże	substratură		N;INDF;FEM;PL
+rak	cancerul	rak	cancer	N;NOM;MASC;SG	N;DEF;MASC;SG
+radiowy	radio	radiowy	radio	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+emi	emi	em	eu		N;INDF;MASC
+somerset	somerset	somerset	somerset	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+atlantyku	atlantic	atlantyk	atlantic	N;GEN;MASC;SG	ADV
+atlantyku	atlanticul	atlantyk	atlantic	N;GEN;MASC;SG	N;DEF;MASC;SG
+atlantyku	atlanticului	atlantyk	atlantic	N;GEN;MASC;SG	N;DEF;MASC;SG
+pytaj	cere	pytać	cere	V;IPFV;IMP;SG;2;FIN;ACT	V;IND;SG;3;PRS;FIN
+pytaj	întreabă	pytać	întreba	V;IPFV;IMP;SG;2;FIN;ACT	V;IND;3;PRS;FIN
+pytaj	intreaba	pytać	intreba	V;IPFV;IMP;SG;2;FIN;ACT	N;DEF;FEM;SG
+ronald	ronald	ronald	ronald	N;NOM;MASC;SG	PROPN
+parki	park	park	park	N;NOM;MASC;PL	N;INDF;MASC;SG
+parki	parc	park	parc	N;NOM;MASC;PL	N;INDF;MASC;SG
+parki	parcul	park	parc	N;NOM;MASC;PL	N;DEF;MASC;SG
+parki	parks	park	parks	N;NOM;MASC;PL	PROPN
+parki	parcurile	park	parc	N;NOM;MASC;PL	N;DEF;FEM;PL
+konstrukcje	structurile	konstrukcja	structură	N;NOM;FEM;PL	N;DEF;FEM;PL
+konstrukcje	structurilor	konstrukcja	structură	N;NOM;FEM;PL	N;DEF;FEM;PL
+hong	hong	hong	hong	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+rain	ploaie	raina	ploaie		N;INDF;FEM;SG
+rain	plouă	raina	ploua		V;IND;SG;3;PRS;FIN
+rain	ploi	raina	ploaie		N;INDF;FEM;PL
+jam	yam	ja	yam		PROPN
+jam	gem	ja	gem		N;INDF;MASC;SG
+połączyć	îmbinare	połączyć	îmbinare	V;PFV;NFIN;ACT	N;INDF;FEM;SG
+połączyć	unire	połączyć	unire	V;PFV;NFIN;ACT	N;INDF;FEM;SG
+połączyć	unificare	połączyć	unificare	V;PFV;NFIN;ACT	N;INDF;FEM;SG
+połączyć	combine	połączyć	combine	V;PFV;NFIN;ACT	N;INDF;FEM;PL
+pozytywne	pozitivă	pozytywny	pozitiv	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+pozytywne	pozitive	pozytywny	pozitiv	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+pętli	buclele	pętla	buclă		N;DEF;FEM;PL
+pętli	bucle	pętla	buclă		N;INDF;FEM;PL
+pętli	buclă	pętla	buclă		N;INDF;FEM;SG
+pętli	bucla	pętla	buclă		N;DEF;FEM;SG
+historie	povestiri	histora	povestire	N;NOM;FEM;SG	N;INDF;FEM;PL
+historie	povesti	histora	povesti	N;NOM;FEM;SG	N;INDF;FEM;PL
+historie	povești	histora	poveste	N;NOM;FEM;SG	N;INDF;FEM;PL
+sheffield	sheffield	sheffield	sheffield	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+intensywnie	intensa	intensywnie	intensa	ADV	ADJ;DEF;FEM;SG
+intensywnie	intense	intensywnie	intens	ADV	ADJ;INDF;FEM;PL
+intensywnie	intensă	intensywnie	intens	ADV	ADJ;INDF;FEM;SG
+niepełnosprawnych	dezactivată	niepełnosprawny	dezactiva	ADJ;GEN;MASC;PL	ADJ;INDF;FEM;SG
+niepełnosprawnych	dezactivat	niepełnosprawny	dezactiva	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+niepełnosprawnych	handicapat	niepełnosprawny	handicapat	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+magnus	magnus	magnus	magnus	N;NOM;MASC;SG	PROPN
+przejęcia	achizițiile	przejąć	achiziție	N;NOM;NEUT;SG	N;DEF;FEM;PL
+przejęcia	achiziții	przejąć	achiziție	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przejęcia	preluare	przejąć	preluare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+przejęcia	preluarea	przejąć	preluare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+libii	libiei	libić	libie	PROPN;GEN;FEM;SG	PROPN;DEF;FEM;SG
+libii	libia	libić	libie	PROPN;GEN;FEM;SG	PROPN
+fizyka	fizică	fizyk	fizic		ADJ;INDF;FEM;SG
+fizyka	fizica	fizyk	fizică		N;DEF;FEM;SG
+islamu	islamul	islam	islam		N;DEF;MASC;SG
+islamu	islamului	islam	islam		N;DEF;MASC;SG
+islamu	islam	islam	islam		N;INDF;MASC;SG
+sporów	disputele	spór	dispută		N;DEF;FEM;PL
+sporów	litigii	spór	litigiu		N;INDF;FEM;PL
+sporów	litigiile	spór	litigiu		N;DEF;FEM;PL
+sporów	dispute	spór	dispută		N;INDF;FEM;PL
+jeremy	jeremy	jeremć	jeremy	PROPN;NOM;MASC;SG	PROPN
+nagrobek	mormântul	nagrobek	mormânt	N;ACC;MASC;SG	N;DEF;MASC;SG
+haiti	haiti	haiti	haiti		PROPN
+haiti	haitian	haiti	haitian		N;INDF;MASC;SG
+rozmieszczenie	desfășurare	rozmieszczenie	desfășurare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+rozmieszczenie	desfășurarea	rozmieszczenie	desfășurare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+calcio	calcio	calcio	calcio	INTJ	N;INDF;MASC;SG
+przekształcenia	transformări	przekształcenie	transformare	N;NOM;NEUT;SG	N;INDF;FEM;PL
+dłoni	palma	dłoń	palmă	N;GEN;FEM;SG	N;DEF;FEM;SG
+wiara	credinta	wiara	credintă	N;NOM;FEM;SG	N;DEF;FEM;SG
+wiara	credința	wiara	credință	N;NOM;FEM;SG	N;DEF;FEM;SG
+wiara	credință	wiara	credință	N;NOM;FEM;SG	N;INDF;FEM;SG
+wiara	credința	wiara	credință	N;NOM;FEM;SG	N;DEF;FEM;SG
+jesień	toamna	jesień	toamnă		N;DEF;FEM;SG
+jesień	toamnă	jesień	toamnă		N;INDF;FEM;SG
+jesień	cazi	jesień	cădea		V;IND;SG;2;PRS;FIN
+jesień	toamna	jesień	toamnă		N;DEF;FEM;SG
+jesień	cădea	jesień	cădea		V;IND;SG;3;IPFV;FIN
+rejestracji	înregistrări	rejestracja	înregistrare	N;GEN;FEM;SG	N;INDF;FEM;PL
+rejestracji	înregistrare	rejestracja	înregistrare	N;GEN;FEM;SG	N;INDF;FEM;SG
+rejestracji	inregistrare	rejestracja	inregistrare	N;GEN;FEM;SG	N;INDF;FEM;SG
+myślenia	gândire	myślenie	gândire	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+myślenia	gândirea	myślenie	gândire	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+myślenia	gândind	myślenie	gândi	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;V.MSDR
+krakowska	krakowska	krakowski	krakowska	ADJ;NOM;FEM;SG	PROPN
+zmiennych	variabilele	zmienny	variabilă	ADJ;GEN;MASC;PL	N;DEF;FEM;PL
+zmiennych	variabile	zmienny	variabilă	ADJ;GEN;MASC;PL	N;INDF;FEM;PL
+zmiennych	variabilelor	zmienny	variabilă	ADJ;GEN;MASC;PL	N;DEF;FEM;PL
+kolorado	colorado	kolorado	colorado		N;INDF;MASC;SG
+bezpośredni	directa	bezpośredni	directa		ADJ;DEF;FEM;SG
+bezpośredni	directe	bezpośredni	direct		ADJ;INDF;FEM;PL
+bezpośredni	directă	bezpośredni	direct		ADJ;INDF;FEM;SG
+bezpośredni	direct	bezpośredni	direct		ADV
+błony	membranele	błon	membrană		N;DEF;FEM;PL
+derby	derby	derba	derby		N;INDF;MASC;SG
+głębokie	adanc	głęboki	adanc	ADJ;NOM;NEUT;SG	
+głębokie	profund	głęboki	profund	ADJ;NOM;NEUT;SG	ADV
+głębokie	adâncă	głęboki	adânc	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+głębokie	adânc	głęboki	adânc	ADJ;NOM;NEUT;SG	ADV
+głębokie	profund	głęboki	profund	ADJ;NOM;NEUT;SG	ADV
+głębokie	profundă	głęboki	profund	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+przejęcie	preluare	przejąć	preluare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+przejęcie	preluarea	przejąć	preluare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+przejęcie	achiziția	przejąć	achiziție	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+przejęcie	achiziție	przejąć	achiziție	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+pieszych	pieton	pieszy	pieton		N;INDF;MASC;SG
+pieszych	pietoni	pieszy	pieton		N;INDF;MASC;PL
+laurent	laurent	laurent	laurent	PROPN;NOM;MASC;SG	PROPN
+przedstawiona	prezentată	przedstawić	prezentat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+przedstawiona	prezentate	przedstawić	prezentat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+plakat	posterul	plakat	poster	N;NOM;MASC;SG	N;DEF;MASC;SG
+inicjatywa	initiativa	inicjatywa	initiativă	N;NOM;FEM;SG	N;DEF;FEM;SG
+inicjatywa	inițiativă	inicjatywa	inițiativă	N;NOM;FEM;SG	N;INDF;FEM;SG
+inicjatywa	inițiativa	inicjatywa	inițiativă	N;NOM;FEM;SG	N;DEF;FEM;SG
+bohaterka	eroina	bohaterka	eroina	N;NOM;FEM;SG	N;DEF;FEM;SG
+bohaterka	eroină	bohaterka	eroină	N;NOM;FEM;SG	N;INDF;FEM;SG
+palermo	palermo	palermo	palermo	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+wdowa	vaduva	wdowa	vaduva	N;NOM;FEM;SG	N;DEF;FEM;SG
+wdowa	văduva	wdowa	văduvă	N;NOM;FEM;SG	N;DEF;FEM;SG
+wdowa	văduvă	wdowa	văduv	N;NOM;FEM;SG	ADJ;INDF;FEM;SG
+cole	cole	cól	cola		PROPN
+kulturowe	culturală	kulturowy	cultural	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+kulturowe	culturale	kulturowy	cultural	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+mma	mma	mma	mm		N;INDF;MASC;SG
+prywatny	privată	prywatny	privat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+prywatny	private	prywatny	privat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+usuwania	eliminare	usuwać	eliminare	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+usuwania	eliminarea	usuwać	eliminare	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+gil	gil	gil	gil	PROPN;NOM;MASC;SG	PROPN
+boliwii	bolivian	boliwia	bolivian		ADJ;INDF;MASC;SG
+boliwii	bolivia	boliwia	bolivie		PROPN
+wyrażenia	frazele	wyrażenie	frază	N;NOM;NEUT;SG	N;DEF;FEM;PL
+wyrażenia	fraze	wyrażenie	frază	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyrażenia	expresii	wyrażenie	expresie	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyrażenia	expresiile	wyrażenie	expresie	N;NOM;NEUT;SG	N;DEF;FEM;PL
+wyrażenia	expresii	wyrażenie	expresie	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyrażenia	expresia	wyrażenie	expresie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyrażenia	exprimare	wyrażenie	exprimare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyrażenia	expresie	wyrażenie	expresie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+gazy	gazele	gaz	gaz	N;NOM;MASC;PL	N;DEF;FEM;PL
+gazy	gaza	gaz	gază	N;NOM;MASC;PL	PROPN
+edu	edu	edeb	ed		N
+nasion	semințe	nasiono	sămânță		N;INDF;FEM;PL
+nasion	semințe	nasiono	sămânță		N;INDF;FEM;PL
+nasion	sămânță	nasiono	sămânță		N;INDF;FEM;SG
+flora	flora	flor	flor		N;DEF;FEM;SG
+śródziemnego	mediterana	śródziemny	mediteran	ADJ;ACC;MASC;SG	N;DEF;FEM;SG
+śródziemnego	mediterană	śródziemny	mediteran	ADJ;ACC;MASC;SG	ADJ;INDF;FEM;SG
+śródziemnego	mediteranean	śródziemny	mediteranean	ADJ;ACC;MASC;SG	ADV
+starsza	elder	stary	elder	ADJ;NOM;CMPR;FEM;SG	N;INDF;MASC;SG
+esp	esp	espy	esp		N;INDF;MASC
+porównania	comparația	porównanie	comparație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+porównania	comparație	porównanie	comparație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównania	comparatie	porównanie	comparatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównania	comparaţie	porównanie	comparaţie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównania	compararea	porównanie	comparare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+phillips	philips	phillips	philips	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+phillips	phillips	phillips	phillips	PROPN;NOM;MASC;SG	PROPN
+jiří	jiří	jiří	jiří	PROPN;NOM;MASC;SG	PROPN
+seine	sena	seiny	sena		N;DEF;FEM;SG
+seine	seine	seiny	senee		PROPN
+antwerpii	antwerp	antwerpia	antwerp	PROPN;NOM;MASC;SG	PROPN
+münchen	münchen	münchen	münchen	PROPN;NOM;MASC;SG	PROPN
+poczęcia	conceperea	począć	concepere	N;GEN;NEUT;SG	N;DEF;FEM;SG
+chaos	mutilare	chaos	mutilar	N;NOM;MASC;SG	N;INDF;FEM;SG
+chaos	haosul	chaos	haos	N;NOM;MASC;SG	N;DEF;MASC;SG
+zarzut	pledoarie	zarzut	pledoarie	N;NOM;MASC;SG	N;INDF;FEM;SG
+dziób	ciocul	dziób	cioc	N;NOM;MASC;SG	N;DEF;MASC;SG
+ustaw	setată	ustawa	seta	V;IPFV;IMP;SG;2;FIN;ACT	ADJ;INDF;FEM;SG
+ustaw	stabilește	ustawa	stabili	V;IPFV;IMP;SG;2;FIN;ACT	V;IND;SG;3;PRS;FIN
+ustaw	set	ustawa	set	V;IPFV;IMP;SG;2;FIN;ACT	N;INDF;MASC;SG
+ustaw	setează	ustawa	seta	V;IPFV;IMP;SG;2;FIN;ACT	V;IND;3;PRS;FIN
+ustaw	setat	ustawa	setat	V;IPFV;IMP;SG;2;FIN;ACT	ADJ;INDF;MASC;SG
+dialog	dialogul	dialog	dialog	N;NOM;MASC;SG	N;DEF;MASC;SG
+dialog	dialoguri	dialog	dialog	N;NOM;MASC;SG	N;INDF;FEM;PL
+palace	palatul	palak	palat	N;NOM;MASC;SG	N;DEF;MASC;SG
+sztuczne	artificiale	sztuczny	artificial	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+sztuczne	artificială	sztuczny	artificial	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+sztuczne	artificiala	sztuczny	artificială	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+sztuczne	artificial	sztuczny	artificial	ADJ;NOM;NEUT;SG	ADV
+baltimore	baltimore	baltimor	baltimore	N;NOM;MASC;SG	PROPN
+ogrodzie	grădină	ogród	grădină	N;DAT;MASC;SG	N;INDF;FEM;SG
+ogrodzie	grădina	ogród	grădină	N;DAT;MASC;SG	N;DEF;FEM;SG
+ogrodzie	gradina	ogród	gradină	N;DAT;MASC;SG	N;DEF;FEM;SG
+robertson	robertson	robertson	robertson	PROPN;NOM;MASC;SG	PROPN
+apple	mere	appo	mere		N;INDF;FEM;PL
+apple	măr	appo	măr		N;INDF;MASC;SG
+apple	apple	appo	appla		N;INDF
+iwona	yvonne	iwon	yvonn	PROPN;NOM;FEM;SG	PROPN
+galaktyk	galaxiile	galaktyk	galaxie	N;GEN;MASC;PL	N;DEF;FEM;PL
+wiosna	primavara	wiosna	primavară		N;DEF;FEM;SG
+wiosna	primăvară	wiosna	primăvară		N;INDF;FEM;SG
+wiosna	primăvara	wiosna	primăvară		N;DEF;FEM;SG
+wiosna	izvor	wiosna	izvor		N;INDF;MASC;SG
+wiosna	spring	wiosna	springe		N;INDF;MASC;SG
+rządowe	guvernul	rządowy	guvern	ADJ;NOM;NEUT;SG	N;DEF;MASC;SG
+rządowe	guvernare	rządowy	guvernare	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+rządowe	guvern	rządowy	guvern	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+śpiewa	cântă	śpiewać	cânta	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+śpiewa	canto	śpiewać	canto	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;MASC;SG
+śpiewa	cantand	śpiewać	cantand	V;IPFV;IND;SG;3;PRS;FIN;ACT	
+przekonany	convinsă	przekonany	convinge	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+kaliber	calibrul	kaliber	calibru		N;DEF;MASC;SG
+kaliber	calibru	kaliber	calibru		N;INDF;MASC;SG
+kaliber	calibru	kaliber	calibru		N;INDF;MASC;SG
+jessica	jessica	jessica	jessică	N;NOM;FEM;SG	N;DEF;FEM;SG
+bibliotekę	bibliotecă	biblioteka	bibliotecă	N;ACC;FEM;SG	N;INDF;FEM;SG
+bibliotekę	biblioteca	biblioteka	bibliotecă	N;ACC;FEM;SG	N;DEF;FEM;SG
+bibliotekę	librărie	biblioteka	librărie	N;ACC;FEM;SG	N;INDF;FEM;SG
+moritz	moritz	moritz	morit	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+orbitę	orbită	orbić	orbită	N;ACC;FEM;SG	N;INDF;FEM;SG
+orbitę	orbita	orbić	orbită	N;ACC;FEM;SG	N;DEF;FEM;SG
+mohamed	mohamed	mohamed	mohamed	N;NOM;MASC;SG	PROPN
+osobowość	personalitate	osobowość	personalitate	N;NOM;FEM;SG	N;INDF;FEM;SG
+osobowość	personalitatea	osobowość	personalitate	N;NOM;FEM;SG	N;DEF;FEM;SG
+ciężki	heavy	ciężki	heavy	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+ciężki	greu	ciężki	greu	ADJ;NOM;MASC;SG	ADV
+ciężki	grele	ciężki	greu	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+ciężki	grea	ciężki	greu	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ciężki	grei	ciężki	grei	ADJ;NOM;MASC;SG	ADJ;INDF;MASC;PL
+zarejestrowany	înregistrate	zarejestrować	înregistra	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zarejestrowany	înregistrată	zarejestrować	înregistrat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zarejestrowany	înregistrate	zarejestrować	înregistra	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zarejestrowany	înregistrată	zarejestrować	înregistrat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zależność	dependenta	zależność	dependenta	N;NOM;FEM;SG	N;DEF;FEM;SG
+zależność	dependența	zależność	dependență	N;NOM;FEM;SG	N;DEF;FEM;SG
+zależność	dependența	zależność	dependență	N;NOM;FEM;SG	N;DEF;FEM;SG
+child	copile	child	copil		N;INDF;FEM;PL
+child	copila	child	copilă		N;DEF;FEM;SG
+child	copil	child	copil		N;INDF;MASC;SG
+child	copilă	child	copil		N;INDF;FEM;SG
+oddanie	dăruire	oddanie	dăruire	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+oddanie	devotamentul	oddanie	devotament	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;MASC;SG
+podejścia	abordările	podejść	abordare	N;GEN;NEUT;SG	N;DEF;FEM;PL
+podejścia	abordări	podejść	abordare	N;GEN;NEUT;SG	N;INDF;FEM;PL
+podejścia	abordarea	podejść	abordare	N;GEN;NEUT;SG	N;DEF;FEM;SG
+podejścia	abordare	podejść	abordare	N;GEN;NEUT;SG	N;INDF;FEM;SG
+okładki	acoperi	okładka	acoperi	N;ACC;FEM;PL	
+okładki	acoperă	okładka	acoperi	N;ACC;FEM;PL	V;IND;3;PRS;FIN
+okładki	coperta	okładka	copertă	N;ACC;FEM;PL	N;DEF;FEM;SG
+okładki	copertă	okładka	copertă	N;ACC;FEM;PL	N;INDF;FEM;SG
+okładki	cover	okładka	cover	N;ACC;FEM;PL	N;INDF;MASC;SG
+okładki	acoperire	okładka	acoperire	N;ACC;FEM;PL	N;INDF;FEM;SG
+okładki	acoperă	okładka	acoperi	N;ACC;FEM;PL	V;IND;3;PRS;FIN
+podmiot	subiectul	podmiot	subiect	N;NOM;MASC;SG	N;DEF;MASC;SG
+podmiot	entitate	podmiot	entitate	N;NOM;MASC;SG	N;INDF;FEM;SG
+podmiot	entitatea	podmiot	entitate	N;NOM;MASC;SG	N;DEF;FEM;SG
+volley	salvă	volley	salvă		N;INDF;FEM;SG
+url	url	urla	url		N;INDF;MASC;SG
+rzymian	romani	rzymianin	roman		N;INDF;MASC;PL
+zaproszony	invitată	zaprosić	invita	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zbiorowe	colective	zbiorowy	colectiv	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zbiorowe	colectivă	zbiorowy	colectiv	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+zbiorowe	colectivul	zbiorowy	colectiv	ADJ;NOM;NEUT;SG	N;DEF;MASC;SG
+reprezentujący	reprezentând	reprezentować	reprezenta	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;V.MSDR
+wież	towers	wież	towers	N;GEN;FEM;PL	PROPN
+wież	turnurile	wież	turn	N;GEN;FEM;PL	N;DEF;FEM;PL
+ostro	dur	ostro	dur		ADJ;INDF;MASC;SG
+kość	oase	kość	os	N;NOM;FEM;SG	N;INDF;FEM;PL
+kość	osul	kość	os	N;NOM;FEM;SG	N;DEF;MASC;SG
+kość	bone	kość	bonă	N;NOM;FEM;SG	
+sucha	usca	suchy	usca		V;IND;SG;3;IPFV;FIN
+sucha	uscate	suchy	uscat		ADJ;INDF;FEM;PL
+sucha	uscat	suchy	uscat		ADJ;INDF;MASC;SG
+sucha	uscată	suchy	uscat		ADJ;INDF;FEM;SG
+współpracownik	asociat	współpracownik	asociat	N;NOM;MASC;SG	ADJ;INDF;MASC;SG
+współpracownik	asociază	współpracownik	asocia	N;NOM;MASC;SG	V;IND;3;PRS;FIN
+współpracownik	asociată	współpracownik	asociat	N;NOM;MASC;SG	ADJ;INDF;FEM;SG
+lokomotywy	locomotiva	lokomotywa	locomotivă	N;ACC;FEM;PL	N;DEF;FEM;SG
+lokomotywy	locomotivă	lokomotywa	locomotivă	N;ACC;FEM;PL	N;INDF;FEM;SG
+zagrzeb	zagreb	zagrzeb	zagreb	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+kalisz	kalisz	kalisz	kalisz	N;NOM;MASC;SG	PROPN
+tomáš	tomáš	tomry	tomáš	PROPN;NOM;MASC;SG	PROPN
+księżniczki	prințesă	księżniczka	prințesă	N;GEN;FEM;SG	N;INDF;FEM;SG
+księżniczki	printesa	księżniczka	printesă	N;GEN;FEM;SG	N;DEF;FEM;SG
+księżniczki	prințesa	księżniczka	prințesă	N;GEN;FEM;SG	N;DEF;FEM;SG
+kopiowania	copierea	kopiować	copiere	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+kopiowania	copiere	kopiować	copiere	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+techniczna	tehnică	techniczny	tehnică	ADJ;NOM;FEM;SG	N;INDF;FEM;SG
+techniczna	tehnice	techniczny	tehnic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+świadomość	constiinta	świadomość	constiinta	N;NOM;FEM;SG	N;DEF;FEM;SG
+świadomość	sensibilizare	świadomość	sensibilizare	N;NOM;FEM;SG	N;INDF;FEM;SG
+miles	miles	miles	miles		PROPN
+miles	kilometri	miles	kilometru		N;INDF;MASC;PL
+piechota	infanterie	piechoty	infanterie	N;NOM;FEM;SG	N;INDF;FEM;SG
+piechota	infanteria	piechoty	infanterie	N;NOM;FEM;SG	N;DEF;FEM;SG
+mongolii	mongolia	mongolia	mongolie		N;DEF;FEM;SG
+smak	gusturi	smak	gust	N;NOM;MASC;SG	N;INDF;FEM;PL
+smak	gusta	smak	gusta	N;NOM;MASC;SG	V;IND;SG;3;IPFV;FIN
+smak	gustul	smak	gust	N;NOM;MASC;SG	N;DEF;MASC;SG
+smak	gustă	smak	gustă	N;NOM;MASC;SG	V;IND;SG;3;PST;FIN
+smak	savoare	smak	savoare	N;NOM;MASC;SG	N;INDF;FEM;SG
+smak	aromă	smak	aromă	N;NOM;MASC;SG	N;INDF;FEM;SG
+smak	aroma	smak	aroma	N;NOM;MASC;SG	N;DEF;FEM;SG
+smak	savoare	smak	savoare	N;NOM;MASC;SG	N;INDF;FEM;SG
+smak	aromă	smak	aromă	N;NOM;MASC;SG	N;INDF;FEM;SG
+smak	aroma	smak	aroma	N;NOM;MASC;SG	N;DEF;FEM;SG
+tabor	tabor	tabor	tabor	N;NOM;MASC;SG	
+utrata	pierderi	utratać	pierdere	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;PL
+utrata	pierderea	utratać	pierdere	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+utrata	pierdere	utratać	pierdere	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;SG
+weber	weber	weber	weber		PROPN
+zatwierdzony	validată	zatwierdzić	validat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zatwierdzony	validate	zatwierdzić	valida	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zatwierdzony	aprobate	zatwierdzić	aprobat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zatwierdzony	aprobată	zatwierdzić	aproba	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+potocki	potocki	potocka	potock	PROPN;NOM;MASC;SG	PROPN
+michelle	michelle	michelle	michellă	PROPN;NOM;FEM;SG	PROPN
+baden	baden	baden	baden		PROPN
+przestępstwa	infracțiuni	przestępstwo	infracțiune	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przestępstwa	infractiuni	przestępstwo	infractiune	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przestępstwa	delicte	przestępstwo	delict	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przestępstwa	infracțiuni	przestępstwo	infracțiune	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przestępstwa	crime	przestępstwo	crimă	N;NOM;NEUT;SG	N;INDF;FEM;PL
+przestępstwa	crimă	przestępstwo	crimă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+przestępstwa	crima	przestępstwo	crimă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+przestępstwa	criminalitate	przestępstwo	criminalitate	N;NOM;NEUT;SG	N;INDF;FEM;SG
+alma	alma	alma	alm		PROPN
+jutro	mâine	jutro	mâine	ADV	
+jutro	maine	jutro	maină	ADV	
+ostre	sharp	ostry	sharp		N;INDF;MASC;SG
+ostre	picante	ostry	picant		ADJ;INDF;FEM;PL
+ostre	picantă	ostry	picantă		N;INDF;FEM;SG
+ostre	picant	ostry	picant		N;INDF;MASC;SG
+ostre	condimentat	ostry	condimentat		ADJ;INDF;MASC;SG
+ostre	acute	ostry	acut		N;INDF;FEM;PL
+ostre	acut	ostry	acut		ADJ;INDF;MASC;SG
+ostre	acută	ostry	acut		ADJ;INDF;FEM;SG
+luftwaffe	luftwaffe	luftwaffe	luftwaffă		PROPN
+szybkość	viteză	szybkość	viteză	N;ACC;FEM;SG	N;INDF;FEM;SG
+szybkość	viteza	szybkość	viteză	N;ACC;FEM;SG	N;DEF;FEM;SG
+szybkość	turația	szybkość	turație	N;ACC;FEM;SG	N;DEF;FEM;SG
+podgatunki	subspecii	podgatunka	subspeciu	N;NOM;MASC;PL	N;DEF;FEM;PL
+software	software	softwary	software		N;INDF;MASC;SG
+zatopiony	scufundate	zatopić	scufunda	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zatopiony	scufundată	zatopić	scufunda	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zatopiony	scufundată	zatopić	scufunda	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wiktorii	victoriei	wiktoria	victorie	N;GEN;FEM;SG	PROPN;DEF;FEM;SG
+wiktorii	victoria	wiktoria	victorie	N;GEN;FEM;SG	N;DEF;FEM;SG
+giorgio	giorgio	giorgio	giorgio		PROPN
+alejandro	alejandro	alejandro	alejandro	N;NOM;MASC;SG	PROPN
+sandra	sandra	sandra	sandra	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+wallace	wallace	wallace	wallace		PROPN
+wellington	wellington	wellington	wellington		PROPN
+regionalny	regională	regionalny	regional	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+regionalny	regionale	regionalny	regional	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+następna	urmatorul	następny	urmator		N;DEF;MASC;SG
+następna	următorul	następny	următor		N;DEF;MASC;SG
+następna	următor	następny	următor		ADJ;INDF;MASC;SG
+następna	următoarea	następny	următor		ADJ;DEF;FEM;SG
+wyroby	articolele	wyrób	articol	N;NOM;MASC;PL	N;DEF;FEM;PL
+wyroby	produsele	wyrób	produs	N;NOM;MASC;PL	N;DEF;FEM;PL
+strategii	strategii	strategia	strategie	N;GEN;FEM;SG	N;INDF;FEM;PL
+strategii	strategiile	strategia	strategie	N;GEN;FEM;SG	N;DEF;FEM;PL
+strategii	strategie	strategia	strategie	N;GEN;FEM;SG	N;INDF;FEM;SG
+strategii	strategia	strategia	strategie	N;GEN;FEM;SG	N;DEF;FEM;SG
+emmy	emmy	emmy	emmy	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;INDF;MASC;SG
+nadzoru	supervizare	nadzór	supervizare	N;GEN;MASC;SG	N;INDF;FEM;SG
+nadzoru	supraveghere	nadzór	supraveghere	N;GEN;MASC;SG	N;INDF;FEM;SG
+nadzoru	supravegherea	nadzór	supraveghere	N;GEN;MASC;SG	N;DEF;FEM;SG
+nadzoru	supraveghere	nadzór	supraveghere	N;GEN;MASC;SG	N;INDF;FEM;SG
+nadzoru	supravegherea	nadzór	supraveghere	N;GEN;MASC;SG	N;DEF;FEM;SG
+nadzoru	supravegherea	nadzór	supraveghere	N;GEN;MASC;SG	N;DEF;FEM;SG
+satelitarne	satelitul	satelitarny	satelit	ADJ;NOM;NEUT;SG	N;DEF;MASC;SG
+satelitarne	satelit	satelitarny	satelit	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+zabawy	distracție	zabawa	distracție	N;ACC;FEM;SG	N;INDF;FEM;SG
+zabawy	distractiv	zabawa	distractiv	N;ACC;FEM;SG	ADJ;INDF;MASC;SG
+zabawy	distractie	zabawa	distractie	N;ACC;FEM;SG	N;INDF;FEM;SG
+operatora	operatorul	operator	operator	N;ACC;MASC;SG	N;DEF;MASC;SG
+operatora	operatorului	operator	operator	N;ACC;MASC;SG	N;DEF;MASC;SG
+nico	nico	nico	nico		N;INDF;MASC;SG
+wymiana	înlocuirea	wymianać	înlocuire	N;NOM;FEM;SG	N;DEF;FEM;SG
+wymiana	înlocuitor	wymianać	înlocuitor	N;NOM;FEM;SG	ADJ;INDF;MASC;SG
+wymiana	înlocuire	wymianać	înlocuire	N;NOM;FEM;SG	N;INDF;FEM;SG
+wymiana	schimbul	wymianać	schimb	N;NOM;FEM;SG	N;DEF;MASC;SG
+przeznaczenia	destinul	przeznaczenie	destin	N;GEN;NEUT;SG	N;DEF;MASC;SG
+przeznaczenia	soarta	przeznaczenie	soartă	N;GEN;NEUT;SG	N;DEF;FEM;SG
+przeznaczenia	soartă	przeznaczenie	soartă	N;GEN;NEUT;SG	N;INDF;FEM;SG
+łuk	plecăciune	łuk	plecăciune	N;NOM;MASC;SG	N;INDF;FEM;SG
+łuk	arcul	łuk	arc	N;NOM;MASC;SG	N;DEF;MASC;SG
+łuk	bow	łuk	bow	N;NOM;MASC;SG	PROPN
+lucie	lucie	luto	lucie	PROPN;NOM;FEM;SG	N;INDF;FEM;SG
+atlancie	atlanta	atlant	atlanta	N;DAT;MASC;SG	PROPN
+regionalna	regională	regionalny	regional	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+regionalna	regionale	regionalny	regional	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+smoka	dragonul	smoka	dragon	N;ACC;MASC;SG	N;DEF;MASC;SG
+opisano	descrise	opisać	descrie	V;PFV;IND;0;PST;FIN;ACT	V;IND;SG;3;PST;FIN
+opisano	descrisă	opisać	descris	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;FEM;SG
+opisano	descris	opisać	descris	V;PFV;IND;0;PST;FIN;ACT	ADJ;INDF;MASC;SG
+kwatera	sferturi	kwater	sfert	N;NOM;FEM;SG	N;INDF;FEM;PL
+tajne	secretă	tajny	secret		ADJ;INDF;FEM;SG
+tajne	secret	tajny	secret		N;INDF;MASC;SG
+tajne	secreta	tajny	secret		N;DEF;FEM;SG
+tajne	secrete	tajny	secret		N;INDF;FEM;PL
+tajne	secretul	tajny	secret		N;DEF;MASC;SG
+tajne	clasificate	tajny	clasificat		ADJ;INDF;FEM;PL
+tajne	clasificat	tajny	clasifica		ADJ;INDF;MASC;SG
+tajne	clasificată	tajny	clasificat		ADJ;INDF;FEM;SG
+julius	julius	julius	juliu	PROPN;NOM;MASC;SG	PROPN
+julius	iulius	julius	iulius	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+ciepło	caldura	ciepło	caldura		N;DEF;FEM;SG
+ciepło	heat	ciepło	heat		N;INDF;MASC;SG
+ciepło	căldură	ciepło	căldură		N;INDF;FEM;SG
+ciepło	căldura	ciepło	căldură		N;DEF;FEM;SG
+ciepło	calde	ciepło	cald		ADJ;INDF;FEM;PL
+ciepło	cald	ciepło	cald		ADJ;INDF;MASC;SG
+ciepło	caldă	ciepło	cald		ADJ;INDF;FEM;SG
+ciepło	caldura	ciepło	caldura		N;DEF;FEM;SG
+ciepło	căldură	ciepło	căldură		N;INDF;FEM;SG
+ciepło	căldura	ciepło	căldură		N;DEF;FEM;SG
+alexandre	alexandre	alexandre	alexandre	N;NOM;MASC;SG	PROPN
+jankowski	jankowski	jankowski	jankowsk	PROPN;NOM;MASC;SG	PROPN
+aniołów	ingerii	anioł	inger	N;GEN;MASC;PL	N;DEF;MASC;PL
+aniołów	angels	anioł	angels	N;GEN;MASC;PL	N;INDF;MASC;SG
+aniołów	îngerii	anioł	înger	N;GEN;MASC;PL	N;DEF;MASC;PL
+wycofanie	retrageri	wycofać	retragere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+wycofanie	retragere	wycofać	retragere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+wycofanie	retragerea	wycofać	retragere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+gość	vizitatorul	gość	vizitator	V;IPFV;IND;SG;PST;FIN;ACT	N;DEF;MASC;SG
+gość	vizitator	gość	vizitator	V;IPFV;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+gość	guy	gość	guy	V;IPFV;IND;SG;PST;FIN;ACT	PROPN
+gość	tip	gość	tip	V;IPFV;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+gość	musafir	gość	musafir	V;IPFV;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+gość	oaspete	gość	oaspete	V;IPFV;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+gość	invitat	gość	invita	V;IPFV;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+gran	gran	grano	gran		N;INDF;MASC;SG
+fale	undei	fala	undei	N;NOM;FEM;PL	
+fale	val	fala	val	N;NOM;FEM;PL	N;INDF;MASC;SG
+fale	valul	fala	val	N;NOM;FEM;PL	N;DEF;MASC;SG
+fale	valurile	fala	val	N;NOM;FEM;PL	N;DEF;FEM;PL
+statut	statutul	statut	statut	N;NOM;MASC;SG	N;DEF;MASC;SG
+dochodów	venitul	dochód	venit	N;GEN;MASC;PL	N;DEF;MASC;SG
+dochodów	veniturile	dochód	venit	N;GEN;MASC;PL	N;DEF;FEM;PL
+strażnik	garda	strażnik	gardă	N;NOM;MASC;SG	N;DEF;FEM;SG
+koszalin	koszalin	koszalin	koszalin		N;INDF;MASC;SG
+dyplomatyczne	diplomatice	dyplomatyczny	diplomatic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+dyplomatyczne	diplomatică	dyplomatyczny	diplomatic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+częstotliwość	frecvență	częstotliwość	frecvență	N;NOM;FEM;SG	N;INDF;FEM;SG
+częstotliwość	frecvența	częstotliwość	frecvență	N;NOM;FEM;SG	N;DEF;FEM;SG
+too	prea	too	prea		ADV
+podyplomowe	postuniversitare	podyplomowy	postuniversitar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+matematyka	matematică	matematyka	matematică	N;NOM;FEM;SG	N;INDF;FEM;SG
+matematyka	matematică	matematyka	matematică	N;NOM;FEM;SG	N;INDF;FEM;SG
+matematyka	matematica	matematyka	matematică	N;NOM;FEM;SG	N;DEF;FEM;SG
+matematyka	matematic	matematyka	matematic	N;NOM;FEM;SG	ADJ;INDF;MASC;SG
+matematyka	mate	matematyka	mate	N;NOM;FEM;SG	
+matematyka	matematică	matematyka	matematică	N;NOM;FEM;SG	N;INDF;FEM;SG
+matematyka	matematica	matematyka	matematică	N;NOM;FEM;SG	N;DEF;FEM;SG
+wbc	wbc	wbiąć	wbc		N
+berkeley	berkeley	berkeley	berkeley	N;NOM;MASC;SG	PROPN
+rydze	riga	ryda	riga		PROPN
+wiarę	credinta	wiara	credintă	N;ACC;FEM;SG	N;DEF;FEM;SG
+wiarę	credința	wiara	credință	N;ACC;FEM;SG	N;DEF;FEM;SG
+wiarę	credință	wiara	credință	N;ACC;FEM;SG	N;INDF;FEM;SG
+kostki	glezna	kostka	gleznă		N;DEF;FEM;SG
+kostki	gleznă	kostka	gleznă		N;INDF;FEM;SG
+kostki	glezne	kostka	gleznă		N;INDF;FEM;PL
+kostki	cuburi	kostka	cub		N;INDF;FEM;PL
+rozbudowa	extensie	rozbudowy	extensie		N;INDF;FEM;SG
+rozbudowa	prelungirea	rozbudowy	prelungire		N;DEF;FEM;SG
+rozbudowa	extindere	rozbudowy	extindere		N;INDF;FEM;SG
+rozbudowa	prelungire	rozbudowy	prelungire		N;INDF;FEM;SG
+rozbudowa	extensia	rozbudowy	extensie		N;DEF;FEM;SG
+rozbudowa	expansiune	rozbudowy	expansiune		N;INDF;FEM;SG
+rozbudowa	extinderea	rozbudowy	extindere		N;DEF;FEM;SG
+rozbudowa	expansiunea	rozbudowy	expansiune		N;DEF;FEM;SG
+rozbudowa	extindere	rozbudowy	extindere		N;INDF;FEM;SG
+nowoczesne	moderni	nowoczesny	modern	ADJ;NOM;NEUT;SG	ADJ;INDF;MASC;PL
+nowoczesne	moderna	nowoczesny	moderna	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+nowoczesne	moderne	nowoczesny	modern	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+nowoczesne	modernă	nowoczesny	modern	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+analogicznie	similar	analogicznie	similar	ADV	ADJ;INDF;MASC;SG
+emily	emily	emil	emily	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+ostateczny	finală	ostateczny	finală	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+ostateczny	final	ostateczny	final	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+ostateczny	finala	ostateczny	finală	ADJ;NOM;MASC;SG	N;DEF;FEM;SG
+ostateczny	definitivă	ostateczny	definitiv	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ostateczny	definitive	ostateczny	definitiv	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+ostateczny	definitiv	ostateczny	definitiv	ADJ;NOM;MASC;SG	ADV
+fin	fin	fina	fin		ADV
+clinton	clinton	clinton	clinton	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+czwartek	joi	czwartek	joi	N;NOM;MASC;SG	
+czwartek	joia	czwartek	joi	N;NOM;MASC;SG	N;DEF;FEM;SG
+eduard	eduard	eduard	eduard	PROPN;NOM;MASC;SG	PROPN
+nauczanie	predau	nauczanie	preda	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	V;IND;PL;3;IPFV;FIN
+nauczanie	predare	nauczanie	predare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+rejestr	înregistrează	rejestr	înregistra	N;NOM;MASC;SG	V;IND;3;PRS;FIN
+rejestr	inregistrare	rejestr	inregistrare	N;NOM;MASC;SG	N;INDF;FEM;SG
+holowania	remorcare	holować	remorcare	N;IPFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+koch	koch	koch	koch	PROPN;NOM;MASC;SG	PROPN
+rzadkie	rari	rzadki	rar	ADJ;NOM;NEUT;SG	ADJ;INDF;MASC;PL
+rzadkie	rar	rzadki	rar	ADJ;NOM;NEUT;SG	ADV
+rzadkie	rară	rzadki	rar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+rzadkie	rare	rzadki	rar	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+rzadkie	rara	rzadki	rar	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+syntezy	sinteză	syntez	sinteză		N;INDF;FEM;SG
+syntezy	sinteza	syntez	sinteză		N;DEF;FEM;SG
+replika	replică	replik	replică	N;NOM;FEM;SG	N;INDF;FEM;SG
+replika	replica	replik	replică	N;NOM;FEM;SG	N;DEF;FEM;SG
+przemysłowy	industriala	przemysłowy	industrial	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+przemysłowy	industrială	przemysłowy	industrial	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+przemysłowy	industriale	przemysłowy	industrial	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+słup	polul	słup	pol	N;NOM;MASC;SG	N;DEF;MASC;SG
+słup	pilonul	słup	pilon	N;NOM;MASC;SG	N;DEF;MASC;SG
+doradca	consultantul	doradca	consultant	N;NOM;MASC;SG	N;DEF;MASC;SG
+uderzył	hit	uderzyć	hit	V;PFV;MASC;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+uderzył	lovit	uderzyć	lovi	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+uderzył	loveste	uderzyć	lovest	V;PFV;MASC;IND;SG;PST;FIN;ACT	V;IND;SG;3;PRS;FIN
+cokolwiek	orice	cokolwiek	orice		PRO;SG;3
+audi	audi	audia	audi		N;INDF;MASC
+nsdap	nsdap	nsdapyp	nsdap	PROPN;NOM;MASC;SG	PROPN
+rejs	cruise	rejs	crui	N;NOM;MASC;SG	V;IND;SG;3;PST+PRF;FIN
+rejs	croazieră	rejs	croazieră	N;NOM;MASC;SG	N;INDF;FEM;SG
+rejs	croaziera	rejs	croazieră	N;NOM;MASC;SG	N;DEF;FEM;SG
+arabii	arabia	arabia	arabia	PROPN;GEN;FEM;SG	PROPN
+panie	doamnelor	pan	doamnă		N;DEF;FEM;PL
+panie	doamnele	pan	domn		N;DEF;FEM;PL
+kong	kong	kong	kong	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+tradycję	traditia	tradycja	traditie	N;ACC;FEM;SG	N;DEF;FEM;SG
+tradycję	tradiție	tradycja	tradiție	N;ACC;FEM;SG	N;INDF;FEM;SG
+tradycję	traditie	tradycja	traditie	N;ACC;FEM;SG	N;INDF;FEM;SG
+tradycję	tradiția	tradycja	tradiție	N;ACC;FEM;SG	N;DEF;FEM;SG
+cali	inchi	cala	inchi		N;INDF;MASC
+cali	inci	cala	inci		N;INDF;MASC
+cali	centimetri	cala	centimetru		N;INDF;MASC;PL
+edgar	edgar	edgar	edgar	PROPN;NOM;MASC;SG	PROPN
+twoja	dumneavoastră	twój	dumneavoastră	DET;NOM;FEM;SG;2	PRO;2
+twoja	ta	twój	tău	DET;NOM;FEM;SG;2	DET;FEM;SG;1
+clausura	clausura	clausura	clausura	N;ACC;MASC;SG	N;DEF;FEM;SG
+jensen	jensen	jensen	jensen	PROPN;NOM;MASC;SG	PROPN
+chrzest	botezul	chrzest	botez	N;NOM;MASC;SG	N;DEF;MASC;SG
+przegrana	înfrângere	przegrać	înfrângere	N;NOM;FEM;SG	N;INDF;FEM;SG
+przegrana	înfrângerea	przegrać	înfrângere	N;NOM;FEM;SG	N;DEF;FEM;SG
+przegrana	pierzând	przegrać	pierde	N;NOM;FEM;SG	V;V.MSDR
+england	anglia	england	anglie		PROPN
+england	england	england	england		PROPN
+sprzeczne	contradictorii	sprzeczny	contradictoriu		ADJ;INDF;PL
+sprzeczne	contrar	sprzeczny	contrar		ADV
+sprzeczne	contrare	sprzeczny	contrare		N;INDF;FEM;PL
+sprzeczne	contrară	sprzeczny	contrar		ADJ;INDF;FEM;SG
+sprzeczne	contradictoriu	sprzeczny	contradictoriu		N;INDF;MASC;SG
+sprzeczne	contradictorii	sprzeczny	contradictoriu		ADJ;INDF;PL
+renata	renata	renata	renată	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+zasadnicza	fundamentală	zasadniczy	fundamental	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+zasadnicza	fundamentale	zasadniczy	fundamental	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+rheinland	rheinland	rheinland	rheinland		ADJ;INDF;MASC;SG
+podkategorii	subcategorii	podkategoria	subcategorie	N;GEN;FEM;SG	N;INDF;FEM;PL
+podkategorii	subcategorie	podkategoria	subcategorie	N;GEN;FEM;SG	N;INDF;FEM;SG
+wagon	caruta	wagon	carut	N;NOM;MASC;SG	N;DEF;FEM;SG
+rodzeństwa	frați	rodzeństwo	frate	N;NOM;NEUT;SG	N;INDF;MASC;PL
+rodzeństwa	frații	rodzeństwo	frate	N;NOM;NEUT;SG	N;DEF;MASC;PL
+traktuje	trateaza	traktować	tratează	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;IPFV;FIN
+dialogu	dialogul	dialog	dialog	N;GEN;MASC;SG	N;DEF;MASC;SG
+dialogu	dialoguri	dialog	dialog	N;GEN;MASC;SG	N;INDF;FEM;PL
+missisipi	mississippi	missisipa	mississipp		PROPN
+christine	christine	christiny	christine	N;NOM;FEM;SG	N;INDF;FEM;SG
+marynarka	marina	marynarka	marină	N;NOM;FEM;SG	N;DEF;FEM;SG
+marynarka	marină	marynarka	marină	N;NOM;FEM;SG	N;INDF;FEM;SG
+marynarka	geaca	marynarka	geacă	N;NOM;FEM;SG	N;DEF;FEM;SG
+marynarka	jachetă	marynarka	jachetă	N;NOM;FEM;SG	N;INDF;FEM;SG
+marynarka	haina	marynarka	haină	N;NOM;FEM;SG	N;DEF;FEM;SG
+marynarka	jacheta	marynarka	jachetă	N;NOM;FEM;SG	N;DEF;FEM;SG
+stężenia	concentrațiile	stężyć	concentrație	N;NOM;NEUT;SG	N;DEF;FEM;PL
+stężenia	concentrații	stężyć	concentrație	N;NOM;NEUT;SG	N;INDF;FEM;PL
+stężenia	concentrație	stężyć	concentrație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+stężenia	concentrare	stężyć	concentrare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+stężenia	concentrația	stężyć	concentrație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyjaśnienie	explicatie	wyjaśnić	explicatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienie	explicatia	wyjaśnić	explicatie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyjaśnienie	explicație	wyjaśnić	explicație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienie	clarificare	wyjaśnić	clarificare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyjaśnienie	clarificări	wyjaśnić	clarificare	N;NOM;NEUT;SG	N;INDF;FEM;PL
+wyjaśnienie	clarificarea	wyjaśnić	clarificare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+polo	polo	polo	polo		N;INDF;MASC;SG
+czynne	active	czynny	activ	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+czynne	activi	czynny	activ	ADJ;NOM;NEUT;SG	ADJ;INDF;MASC;PL
+czynne	activă	czynny	activ	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+odbiór	peste	odbiór	peste	N;NOM;MASC;SG	ADP;ACC
+odbiór	primire	odbiór	primire	N;NOM;MASC;SG	N;INDF;FEM;SG
+odbiór	primirea	odbiór	primire	N;NOM;MASC;SG	N;DEF;FEM;SG
+odbiór	primirea	odbiór	primire	N;NOM;MASC;SG	N;DEF;FEM;SG
+odbiór	primind	odbiór	primi	N;NOM;MASC;SG	V;V.MSDR
+odbiór	primire	odbiór	primire	N;NOM;MASC;SG	N;INDF;FEM;SG
+odbiór	recepție	odbiór	recepție	N;NOM;MASC;SG	N;INDF;FEM;SG
+odbiór	receptie	odbiór	receptie	N;NOM;MASC;SG	N;INDF;FEM;SG
+odbiór	preluare	odbiór	preluare	N;NOM;MASC;SG	N;INDF;FEM;SG
+odbiór	ridicare	odbiór	ridicare	N;NOM;MASC;SG	N;INDF;FEM;SG
+represji	reprimarea	represja	reprimare	N;GEN;FEM;SG	N;DEF;FEM;SG
+represji	represiune	represja	represiune	N;GEN;FEM;SG	N;INDF;FEM;SG
+represji	represiunea	represja	represiune	N;GEN;FEM;SG	N;DEF;FEM;SG
+czeskie	cehi	czeski	cehi	ADJ;NOM;NEUT;SG	N;INDF;MASC;PL
+czeskie	cehă	czeski	cehă	ADJ;NOM;NEUT;SG	PROPN
+czeskie	cehia	czeski	cehi	ADJ;NOM;NEUT;SG	PROPN
+ashley	ashley	ashley	ashley	PROPN;NOM;FEM;SG	PROPN
+obywatele	cetățenii	obywatele	cetățean	N;NOM;MASC;PL	N;DEF;MASC;PL
+obywatele	cetateni	obywatele	cetaten	N;NOM;MASC;PL	ADJ;INDF;MASC;PL
+obywatele	naţionale	obywatele	nagional	N;NOM;MASC;PL	ADJ;INDF;FEM;PL
+obywatele	cetatean	obywatele	cetatean	N;NOM;MASC;PL	ADJ;INDF;MASC;SG
+obywatele	cetățean	obywatele	cetățean	N;NOM;MASC;PL	N;INDF;MASC;SG
+piętro	etajul	piętro	etaj	N;NOM;NEUT;SG	N;DEF;MASC;SG
+piętro	podea	piętro	podea	N;NOM;NEUT;SG	N;INDF;FEM;SG
+salon	lounge	salon	lounge	N;NOM;MASC;SG	
+salon	salonul	salon	salon	N;NOM;MASC;SG	N;DEF;MASC;SG
+ekspozycji	expunerile	ekspozycja	expunere	N;GEN;FEM;SG	N;DEF;FEM;PL
+ekspozycji	expuneri	ekspozycja	expunere	N;GEN;FEM;SG	N;INDF;FEM;PL
+ain	ain	ain	ain	PROPN;NOM;MASC;SG	
+mięsa	carne	mięso	carne	N;GEN;NEUT;SG	N;INDF;FEM;SG
+mięsa	carnea	mięso	carne	N;GEN;NEUT;SG	N;DEF;FEM;SG
+czynnik	factorul	czynnik	factor	N;NOM;MASC;SG	N;DEF;MASC;SG
+speedway	speedway	speedway	speedway		PROPN
+mechaniczne	mecanice	mechaniczny	mecanic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+mechaniczne	mecanică	mechaniczny	mecanic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+nbc	nbc	nbc	nbc		N
+wasilij	vasili	wasilać	vasil	PROPN;NOM;MASC;SG	PROPN
+mauzoleum	mausoleu	mauzoleum	mausoleu		N;INDF;MASC;SG
+butler	butler	butler	butler		PROPN
+butler	majordom	butler	majordom		N;INDF;MASC;SG
+butler	majordomul	butler	majordom		N;DEF;MASC;SG
+butler	valet	butler	valet		N;INDF;MASC;SG
+obserwuje	observare	obserwować	observare	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;SG
+obserwuje	observarea	obserwować	observare	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+obserwuje	privind	obserwować	privind	V;IPFV;IND;SG;3;PRS;FIN;ACT	ADP;ACC
+obserwuje	vizionarea	obserwować	vizionare	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;SG
+obserwuje	privesc	obserwować	privi	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;PL;3;PRS;FIN
+tunezji	tunisian	tunezja	tunisian	PROPN;GEN;FEM;SG	ADJ;INDF;MASC;SG
+samuela	samuel	samuel	samuel	N;GEN;MASC;SG	PROPN
+paliwo	combustibili	paliwo	combustibil	N;NOM;NEUT;SG	N;INDF;MASC;PL
+paliwo	combustibilul	paliwo	combustibil	N;NOM;NEUT;SG	N;DEF;MASC;SG
+paliwo	benzina	paliwo	benzină	N;NOM;NEUT;SG	N;DEF;FEM;SG
+paliwo	benzină	paliwo	benzină	N;NOM;NEUT;SG	N;INDF;FEM;SG
+piłsudski	piłsudski	piłsudski	piłsudski	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+skuteczności	eficacitate	skuteczność	eficacitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+skuteczności	eficacitatea	skuteczność	eficacitate	N;GEN;FEM;SG	N;DEF;FEM;SG
+skuteczności	eficacitate	skuteczność	eficacitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+skuteczności	eficacitatea	skuteczność	eficacitate	N;GEN;FEM;SG	N;DEF;FEM;SG
+zatrudnienia	angajare	zatrudnienie	angajare	N;GEN;NEUT;SG	N;INDF;FEM;SG
+ren	ren	ren	ren		N;INDF;MASC;SG
+ren	rin	ren	rin		N;INDF;MASC;SG
+grey	grey	grać	grey		PROPN
+tokyo	tokio	tokyo	tokio		PROPN
+tokyo	tokyo	tokyo	tokyo		PROPN
+pruszków	pruszków	pruszek	pruszków	N;NOM;MASC;SG	
+okno	fereastră	okno	fereastră	N;NOM;NEUT;SG	N;INDF;FEM;SG
+okno	fereastra	okno	fereastră	N;NOM;NEUT;SG	N;DEF;FEM;SG
+uroczyście	solemn	uroczyście	solemn	ADV	ADJ;INDF;MASC;SG
+kolumbia	columbia	kolumbia	columbie	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+kolumbia	columbia	kolumbia	columbie	V;IPFV;IND;SG;PRS;FIN;ACT	PROPN
+cameron	cameron	cameron	cameron	PROPN;NOM;MASC;SG	PROPN
+piw	beri	piw	beri		N;INDF;FEM;PL
+piw	berile	piw	beră		N;DEF;FEM;PL
+motorsport	motorsport	motorsport	motorsport	V;IPFV;IND;SG;2;PRS;FIN;ACT	N;INDF;MASC;SG
+germain	germain	germain	germain		PROPN
+glenn	glenn	glenny	glenn	PROPN;NOM;MASC;SG	PROPN
+treningi	antrenament	trening	antrenament	N;NOM;MASC;PL	N;INDF;MASC;SG
+treningi	pregătire	trening	pregătire	N;NOM;MASC;PL	N;INDF;FEM;SG
+treningi	formare	trening	formare	N;NOM;MASC;PL	N;INDF;FEM;SG
+leeds	leeds	leeds	leeds	PROPN;NOM;MASC;SG	PROPN
+kwiat	floarea	kwiat	floare	N;NOM;MASC;SG	N;DEF;FEM;SG
+kwiat	floare	kwiat	floare	N;NOM;MASC;SG	N;INDF;FEM;SG
+kwiat	florii	kwiat	floare	N;NOM;MASC;SG	N;INDF;FEM;PL
+kwiat	floricica	kwiat	floricica	N;NOM;MASC;SG	N;DEF;FEM;SG
+wieki	vârstele	wiek	vârstă	N;ACC;MASC;PL	N;DEF;FEM;PL
+wieki	secolele	wiek	secol	N;ACC;MASC;PL	N;DEF;FEM;PL
+aaron	aaron	aaron	aaron	PROPN;NOM;MASC;SG	PROPN
+operacyjnych	operare	operacyjny	operare	ADJ;GEN;MASC;PL	N;INDF;FEM;SG
+operacyjnych	operațională	operacyjny	operațional	ADJ;GEN;MASC;PL	ADJ;INDF;FEM;SG
+operacyjnych	operațional	operacyjny	operațional	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+council	consiliului	council	consiliu		N;DEF;MASC;SG
+council	consiliu	council	consiliu		N;INDF;MASC;SG
+council	consiliul	council	consiliu		N;DEF;MASC;SG
+camp	tabără	campa	tabără		N;INDF;FEM;SG
+camp	camp	campa	camp		N;INDF;MASC;SG
+camp	tabăra	campa	tabără		N;DEF;FEM;SG
+camp	lagăr	campa	lagăr		N;INDF;MASC;SG
+camp	tabara	campa	tabară		N;DEF;FEM;SG
+fabio	fabio	fabio	fabio	PROPN;NOM;MASC;SG	PROPN
+fabio	fábio	fabio	fobio	PROPN;NOM;MASC;SG	
+okrążenie	poala	okrążenie	poală	N;NOM;NEUT;SG	N;DEF;FEM;SG
+okrążenie	poală	okrążenie	poală	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wojciechowski	wojciechowski	wojciechowski	wojciechowski	PROPN;NOM;MASC;SG	PROPN
+komiksów	comics	komiks	comics	N;GEN;MASC;PL	N;INDF;MASC;SG
+mann	mann	mann	mann	PROPN;NOM;MASC;SG	PROPN
+zwykły	regulată	zwykły	regulat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+zwykły	regulate	zwykły	regulat	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+zwykły	regulat	zwykły	regulat	ADJ;NOM;MASC;SG	ADV
+zwykły	ordinare	zwykły	ordinare	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+zwykły	obișnuită	zwykły	obișnuit	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+misje	misiunile	misja	misiune	N;NOM;FEM;PL	N;DEF;FEM;PL
+misje	misiunea	misja	misiune	N;NOM;FEM;PL	N;DEF;FEM;SG
+misje	misiune	misja	misiune	N;NOM;FEM;PL	N;INDF;FEM;SG
+rycerzy	cavalerilor	rycerz	cavaler	N;ACC;MASC;PL	N;DEF;FEM;PL
+rycerzy	cavalerii	rycerz	cavaler	N;ACC;MASC;PL	N;DEF;MASC;PL
+demokratów	democrat	demokrat	democrat	N;ACC;MASC;PL	N;INDF;MASC;SG
+demokratów	democrat	demokrat	democrat	N;ACC;MASC;PL	N;INDF;MASC;SG
+demokratów	democrată	demokrat	democra	N;ACC;MASC;PL	ADJ;INDF;FEM;SG
+pokonany	bătută	pokonać	bătut	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+pokonany	învinsă	pokonać	învinge	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+charków	harkiv	chark	harkiv	PROPN;NOM;MASC;SG	PROPN
+norm	standarde	norma	standard		N;INDF;FEM;PL
+norm	standardele	norma	standard		N;DEF;FEM;PL
+norm	norma	norma	normă		N;DEF;FEM;SG
+peugeot	peugeot	peugeot	peugeot		N;INDF;MASC;SG
+standardy	standardele	standard	standard	N;NOM;MASC;PL	N;DEF;FEM;PL
+poprosił	întrebat	poprosić	întreba	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+poprosił	intrebat	poprosić	intreba	V;PFV;MASC;IND;SG;PST;FIN;ACT	N;INDF;MASC;SG
+poprosił	întrebată	poprosić	întreba	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+węgiel	cărbune	węgiel	cărbune	N;NOM;MASC;SG	
+węgiel	carbune	węgiel	carbune	N;NOM;MASC;SG	
+węgiel	cărbune	węgiel	cărbune	N;NOM;MASC;SG	
+węgiel	carbune	węgiel	carbune	N;NOM;MASC;SG	
+węgiel	carbonul	węgiel	carbon	N;NOM;MASC;SG	N;DEF;MASC;SG
+bass	bas	bass	bas		N;INDF;MASC;SG
+bass	bass	bass	bass		N;INDF;MASC;SG
+zamość	zamość	zamość	zamość	V;IPFV;IND;SG;FIN;ACT	
+automatyczna	automată	automatyczny	automat	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+automatyczna	automatic	automatyczny	automatic	ADJ;NOM;FEM;SG	N;INDF;MASC;SG
+automatyczna	automate	automatyczny	automat	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+automatyczna	automat	automatyczny	automat	ADJ;NOM;FEM;SG	ADV
+aspekty	aspect	aspekt	aspect	N;NOM;MASC;PL	N;INDF;MASC;SG
+prosto	drepte	prosto	drept		ADJ;INDF;FEM;PL
+prosto	direct	prosto	direct		ADV
+prezentacji	prezentare	prezentacja	prezentare	N;GEN;FEM;SG	N;INDF;FEM;SG
+prezentacji	prezentarea	prezentacja	prezentare	N;GEN;FEM;SG	N;DEF;FEM;SG
+prezentacji	prezentări	prezentacja	prezentare	N;GEN;FEM;SG	N;INDF;FEM;PL
+stefano	stefano	stefać	stefano	PROPN;NOM;MASC;SG	PROPN
+domeny	domenii	domen	domeniu		N;INDF;FEM;PL
+domeny	domeniu	domen	domeniu		N;INDF;MASC;SG
+domeny	domeniul	domen	domeniu		N;DEF;MASC;SG
+dame	damă	dam	damă		N;INDF;FEM;SG
+dame	dama	dam	damă		N;INDF;MASC;SG
+dame	dame	dam	damă		N;INDF;FEM;PL
+pracujący	muncind	pracować	munci	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;V.MSDR
+pracujący	lucrând	pracować	lucra	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;V.MSDR
+ostrowski	ostrowski	ostrowski	ostrowski	ADJ;NOM;MASC;SG	
+wzory	modelele	wzór	model	N;NOM;MASC;PL	N;DEF;FEM;PL
+wzory	tiparele	wzór	tipar	N;NOM;MASC;PL	N;DEF;FEM;PL
+wzory	formulele	wzór	formulă	N;NOM;MASC;PL	N;DEF;FEM;PL
+podlaski	podlaski	podlaski	podlaski	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+zatonął	scufundate	zatonąć	scufunda	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;PL
+zatonął	scufundat	zatonąć	scufundat	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+zatonął	scufundată	zatonąć	scufunda	V;PFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;FEM;SG
+strunowce	cordate	strunowiec	corda		ADJ;INDF;FEM;PL
+joel	joel	joel	joel	PROPN;NOM;MASC;SG	PROPN
+porównanie	comparația	porównać	comparație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+porównanie	comparație	porównać	comparație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównanie	comparatie	porównać	comparatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównanie	comparaţie	porównać	comparaţie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+porównanie	compararea	porównać	comparare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+porównanie	compară	porównać	compara	N;NOM;NEUT;SG	V;IND;SG;3;PST;FIN
+porównanie	compara	porównać	compara	N;NOM;NEUT;SG	V;IND;SG;3;IPFV;FIN
+dell	dell	dell	dell		N;INDF;MASC;SG
+ewy	eva	ewy	eva		PROPN
+ewy	eve	ewy	ev		N;INDF;MASC;SG
+ewy	ajunul	ewy	ajun		N;DEF;MASC;SG
+osobisty	personal	osobisty	personal	ADJ;NOM;MASC;SG	ADV
+osobisty	personala	osobisty	personal	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+osobisty	personală	osobisty	personal	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+osobisty	personale	osobisty	personal	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+carmen	carmen	carmen	carmen	PROPN;NOM;MASC;SG	PROPN
+montgomery	montgomery	montgomer	montgomery	N;ACC;MASC;SG	PROPN
+jądro	nucleu	jądro	nucleu		N;INDF;MASC;SG
+jądro	testicul	jądro	testic		N;DEF;MASC;SG
+jądro	nucleul	jądro	nucleu		N;DEF;MASC;SG
+jądro	core	jądro	core		N;INDF;MASC;SG
+jądro	miezul	jądro	miez		N;DEF;MASC;SG
+jądro	miez	jądro	miez		N;INDF;MASC;SG
+jądro	nucleu	jądro	nucleu		N;INDF;MASC;SG
+następcę	succesorul	następca	succesor	N;ACC;MASC;SG	N;DEF;MASC;SG
+salomona	solomon	salomon	solomon		PROPN
+pearl	pearl	pearl	pearl		PROPN
+pearl	perla	pearl	perlă		N;DEF;FEM;SG
+pearl	perlă	pearl	perlă		N;INDF;FEM;SG
+wiktoria	viktoria	wiktoria	viktorie	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+wiktoria	victoriei	wiktoria	victorie	PROPN;NOM;FEM;SG	PROPN;DEF;FEM;SG
+wiktoria	victoria	wiktoria	victorie	PROPN;NOM;FEM;SG	N;DEF;FEM;SG
+przodków	stramosii	przodek	stramos	N;ACC;MASC;PL	N;DEF;MASC;PL
+chińskie	chineza	chiński	chineza	ADJ;NOM;NEUT;SG	N;DEF;FEM;SG
+chińskie	chineză	chiński	chinez	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+chińskie	chinezi	chiński	chinez	ADJ;NOM;NEUT;SG	ADJ;INDF;MASC;PL
+kielicha	potir	kielicha	potir		N;INDF;MASC;SG
+lodu	gheaţă	lód	gheaţă	N;GEN;MASC;SG	N;INDF;FEM;SG
+lodu	gheata	lód	gheată	N;GEN;MASC;SG	N;DEF;FEM;SG
+lodu	gheată	lód	gheată	N;GEN;MASC;SG	N;INDF;FEM;SG
+lodu	ice	lód	ice	N;GEN;MASC;SG	
+lodu	gheață	lód	gheață	N;GEN;MASC;SG	N;INDF;FEM;SG
+przydatne	utilă	przydatny	util	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+przydatne	utile	przydatny	util	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zaangażowanie	logodnă	zaangażowanie	logodnă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zaangażowanie	logodna	zaangażowanie	logodnă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zaangażowanie	interacțiuni	zaangażowanie	interacțiune	N;NOM;NEUT;SG	N;INDF;FEM;PL
+zaangażowanie	angajamentul	zaangażowanie	angajament	N;NOM;NEUT;SG	N;DEF;MASC;SG
+zaangażowanie	implicare	zaangażowanie	implicare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+zaangażowanie	implicarea	zaangażowanie	implicare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+zaangażowanie	angajamentul	zaangażowanie	angajament	N;NOM;NEUT;SG	N;DEF;MASC;SG
+rzemiosła	meserii	rzemieść	meser	V;PFV;FEM;IND;SG;PST;FIN;ACT	N;INDF;FEM;PL
+kompetencji	competență	kompetencja	competență	N;GEN;FEM;SG	N;INDF;FEM;SG
+kompetencji	competenta	kompetencja	competent	N;GEN;FEM;SG	N;DEF;FEM;SG
+kompetencji	competența	kompetencja	competență	N;GEN;FEM;SG	N;DEF;FEM;SG
+kompetencji	competență	kompetencja	competență	N;GEN;FEM;SG	N;INDF;FEM;SG
+zapach	miroase	zapach	miros	N;NOM;MASC;SG	
+żyjący	living	żyć	living	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	N;INDF;MASC;SG
+żyjący	trăind	żyć	trăi	ADJ;IPFV;NOM;MASC;SG;POS;V.PTCP;ACT	V;V.MSDR
+rozszerzenie	extinderea	rozszerzenie	extindere	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rozszerzenie	extindere	rozszerzenie	extindere	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	expansiune	rozszerzenie	expansiune	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	extinderea	rozszerzenie	extindere	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rozszerzenie	expansiunea	rozszerzenie	expansiune	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rozszerzenie	extindere	rozszerzenie	extindere	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	extensie	rozszerzenie	extensie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	prelungirea	rozszerzenie	prelungire	N;NOM;NEUT;SG	N;DEF;FEM;SG
+rozszerzenie	extindere	rozszerzenie	extindere	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	prelungire	rozszerzenie	prelungire	N;NOM;NEUT;SG	N;INDF;FEM;SG
+rozszerzenie	extensia	rozszerzenie	extensie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+mercury	mercury	mercura	mercury		PROPN
+mercury	mercur	mercura	mercur		N;INDF;MASC;SG
+mercury	mercurul	mercura	mercur		N;DEF;MASC;SG
+konsulat	consulatul	konsulat	consulat	N;NOM;MASC;SG	N;DEF;MASC;SG
+turków	turcii	turek	turc	N;ACC;MASC;PL	N;DEF;MASC;PL
+turków	turcilor	turek	turcă	N;ACC;MASC;PL	N;DEF;MASC;PL
+prezentowane	recomandate	prezentować	recomandat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+prezentowane	prezentată	prezentować	prezentat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+prezentowane	prezentate	prezentować	prezentat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+kazań	predicile	kazanie	predică	N;GEN;NEUT;PL	N;DEF;FEM;PL
+kazań	kazan	kazanie	kazan	N;GEN;NEUT;PL	N;INDF;MASC;SG
+uroczyste	solemnă	uroczysty	solemn	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+uroczyste	festiv	uroczysty	festiv	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+uroczyste	festivă	uroczysty	festiv	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+greckie	greci	grecki	grec	ADJ;NOM;NEUT;SG	N;INDF;MASC;PL
+greckie	grec	grecki	grec	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+greckie	greacă	grecki	greacă	ADJ;NOM;NEUT;SG	N;INDF;FEM;SG
+greckie	greaca	grecki	greacă	ADJ;NOM;NEUT;SG	N;DEF;FEM;SG
+venus	venus	venus	venu		N;INDF;MASC;SG
+armata	cannon	armat	cannon	N;NOM;FEM;SG	PROPN
+armata	tunul	armat	tun	N;NOM;FEM;SG	N;DEF;MASC;SG
+homo	homo	homo	homo		N;INDF;MASC;SG
+herbie	herbie	herba	herbie	V;IPFV;IND;SG;1;PRS;FIN;ACT	N;INDF;FEM;SG
+wien	wien	wien	wien	PROPN;NOM;MASC;SG	PROPN
+bergen	bergen	bergen	bergen	PROPN;NOM;MASC;SG	PROPN
+estádio	estádio	estádio	estádio	PROPN;NOM;NEUT;SG	PROPN
+ciemne	dark	ciemny	dark	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+ciemne	întuneric	ciemny	întuneric	ADJ;NOM;NEUT;SG	ADV
+ciemne	intuneric	ciemny	intuneric	ADJ;NOM;NEUT;SG	N;INDF;MASC;SG
+lokalnie	local	lokalnie	local	ADV	ADJ;INDF;MASC;SG
+wymagane	solicitate	wymagać	solicitat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+wymagane	solicitată	wymagać	solicitat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wymagane	obligatoriu	wymagać	obligatoriu	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADV
+wymagane	necesare	wymagać	necesar	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+wymagane	necesară	wymagać	necesar	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wymagane	necesar	wymagać	necesar	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADV
+metry	metri	metr	metru	N;ACC;MASC;SG	N;INDF;MASC;PL
+metry	contoare	metr	contoare	N;ACC;MASC;SG	N;INDF;FEM;PL
+metry	metri	metr	metru	N;ACC;MASC;SG	N;INDF;MASC;PL
+bit	bit	bit	bit		N;INDF;MASC;SG
+toma	toma	toma	toma		PROPN
+bomba	bomba	bomba	bombă		N;DEF;FEM;SG
+bomba	bombă	bomba	bombă		N;INDF;FEM;SG
+tunelu	tunelul	tunel	tunel	N;GEN;MASC;SG	N;DEF;MASC;SG
+ekspertów	experții	ekspert	expert	N;ACC;MASC;PL	N;DEF;MASC;PL
+ekspertów	expertul	ekspert	expert	N;ACC;MASC;PL	N;DEF;MASC;SG
+ekspertów	expertă	ekspert	expert	N;ACC;MASC;PL	N;INDF;FEM;SG
+ekspertów	expert	ekspert	expert	N;ACC;MASC;PL	N;INDF;MASC;SG
+beskid	beskid	beskid	beskid	N;NOM;MASC;SG	
+dorosłe	adulți	dorosły	adult	V;PFV;NEUT;IND;SG;PST;FIN;ACT	N;INDF;MASC;PL
+dorosłe	adulti	dorosły	adult	V;PFV;NEUT;IND;SG;PST;FIN;ACT	
+ściana	peretele	ściana	perete	N;NOM;FEM;SG	N;DEF;MASC;SG
+ściana	wall	ściana	wall	N;NOM;FEM;SG	PROPN
+ściana	zidul	ściana	zid	N;NOM;FEM;SG	N;DEF;MASC;SG
+konstytucyjnego	constituționale	konstytucyjny	constituțional	ADJ;ACC;MASC;SG	ADJ;INDF;FEM;PL
+newton	newton	newton	newton	PROPN;NOM;MASC;SG	PROPN
+pzl	pzl	pzl	pzl		PROPN
+personelu	personal	personel	personal	N;GEN;MASC;SG	ADV
+personelu	personalul	personel	personal	N;GEN;MASC;SG	N;DEF;MASC;SG
+personelu	personal	personel	personal	N;GEN;MASC;SG	ADV
+personelu	personalul	personel	personal	N;GEN;MASC;SG	N;DEF;MASC;SG
+con	con	con	con		N;INDF;MASC;SG
+kandydaturę	candidatura	kandydatura	candidatură	N;ACC;FEM;SG	N;DEF;FEM;SG
+tylny	spate	tylny	spate	ADJ;NOM;MASC;SG	N;INDF;MASC;SG
+wiązanie	legare	wiązanie	legare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+wiązanie	legarea	wiązanie	legare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+wiązanie	legarea	wiązanie	legare	N;IPFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+liverpool	liverpool	liverpool	liverpool	N;NOM;MASC;SG	PROPN
+emanuel	emanuel	emanuel	emanuel	PROPN;NOM;MASC;SG	PROPN
+dublin	dublin	dublina	dublin	PROPN;NOM;MASC;SG	PROPN
+przeglądu	recenzie	przegląd	recenzie	N;GEN;MASC;SG	N;INDF;FEM;SG
+przeglądu	revizuirea	przegląd	revizuire	N;GEN;MASC;SG	N;DEF;FEM;SG
+przeglądu	revizuire	przegląd	revizuire	N;GEN;MASC;SG	N;INDF;FEM;SG
+andre	andre	andra	andre	PROPN;NOM;MASC;SG	PROPN
+andre	andré	andra	andré	PROPN;NOM;MASC;SG	PROPN
+andre	andré	andra	andré	PROPN;NOM;MASC;SG	PROPN
+tymczasowego	provizorii	tymczasowy	provizoriu	ADJ;ACC;MASC;SG	ADJ;INDF;PL
+tymczasowego	provizoriu	tymczasowy	provizoriu	ADJ;ACC;MASC;SG	ADV
+tymczasowego	provizorie	tymczasowy	provizorie	ADJ;ACC;MASC;SG	N;INDF;FEM;SG
+niebie	ceruri	niebo	cer	N;DAT;NEUT;SG	N;INDF;FEM;PL
+niebie	rai	niebo	rai	N;DAT;NEUT;SG	
+niebie	raiul	niebo	rai	N;DAT;NEUT;SG	N;DEF;MASC;SG
+niebie	cerul	niebo	cer	N;DAT;NEUT;SG	N;DEF;MASC;SG
+niebie	cer	niebo	cere	N;DAT;NEUT;SG	V;IND;SG;3;PRS;FIN
+nocny	nocturnă	nocny	nocturn	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+nocny	nocturne	nocny	nocturn	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+nocny	noapte	nocny	noapte	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+nocny	noaptea	nocny	noaptea	ADJ;NOM;MASC;SG	ADV
+gleb	soluri	gleb	sol		N;INDF;FEM;PL
+umysłu	minte	umysł	minte	N;GEN;MASC;SG	N;INDF;FEM;SG
+umysłu	mintea	umysł	minte	N;GEN;MASC;SG	N;DEF;FEM;SG
+josh	josh	josh	josh	PROPN;NOM;MASC;SG	PROPN
+gwatemali	guatemala	gwatemać	guatemală	V;IPFV;MASC;IND;PL;PST;FIN;ACT	PROPN
+gwatemali	guatemalez	gwatemać	guatemalez	V;IPFV;MASC;IND;PL;PST;FIN;ACT	PROPN
+odpowiadał	corespondat	odpowiadać	corespondat	V;IPFV;MASC;IND;SG;PST;FIN;ACT	ADJ;INDF;MASC;SG
+sądy	judiciar	sąd	judiciar	N;NOM;MASC;PL	ADJ;INDF;MASC;SG
+sądy	instanțele	sąd	instanță	N;NOM;MASC;PL	N;DEF;FEM;PL
+sądy	tribunalele	sąd	tribunal	N;NOM;MASC;PL	N;DEF;FEM;PL
+jasności	claritatea	jasność	claritate	N;GEN;FEM;SG	N;DEF;FEM;SG
+jasności	claritate	jasność	claritate	N;GEN;FEM;SG	N;INDF;FEM;SG
+jasności	strălucire	jasność	strălucire	N;GEN;FEM;SG	N;INDF;FEM;SG
+jasności	luminozitate	jasność	luminozitate	N;GEN;FEM;SG	N;INDF;FEM;SG
+traktowane	tratat	traktować	tratat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	N;INDF;MASC;SG
+traktowane	tratate	traktować	tratat	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+traktowane	tratată	traktować	trata	ADJ;IPFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+sobota	sâmbătă	sobota	sâmbătă		N;INDF;FEM;SG
+sobota	sâmbăta	sobota	sâmbăta		N;DEF;FEM;SG
+sobota	sambata	sobota	sambata		N;DEF;FEM;SG
+sobota	sâmbata	sobota	sâmbata		N;DEF;FEM;SG
+zajęte	ocupat	zajęty	ocupa		ADJ;INDF;MASC;SG
+zajęte	ocupate	zajęty	ocupat		ADJ;INDF;FEM;PL
+zajęte	ocupata	zajęty	ocupata		ADJ;DEF;FEM;SG
+zajęte	ocupată	zajęty	ocupa		ADJ;INDF;FEM;SG
+zajęte	ocupat	zajęty	ocupa		ADJ;INDF;MASC;SG
+zajęte	ocupate	zajęty	ocupat		ADJ;INDF;FEM;PL
+zajęte	ocupată	zajęty	ocupa		ADJ;INDF;FEM;SG
+wrogów	inamicii	wróg	inamic	N;ACC;MASC;PL	N;DEF;MASC;PL
+zaleca	recomandă	zalecać	recomanda	V;IPFV;IND;SG;3;PRS;FIN;ACT	V;IND;SG;3;PST;FIN
+chirurgii	operație	chirurgia	operație	N;GEN;FEM;SG	N;INDF;FEM;SG
+chirurgii	chirurgie	chirurgia	chirurgie	N;GEN;FEM;SG	N;INDF;FEM;SG
+chirurgii	chirurgia	chirurgia	chirurgie	N;GEN;FEM;SG	N;DEF;FEM;SG
+chirurgii	chirurgical	chirurgia	chirurgical	N;GEN;FEM;SG	ADJ;INDF;MASC;SG
+chirurgii	chirurgicale	chirurgia	chirurgical	N;GEN;FEM;SG	ADJ;INDF;FEM;PL
+chirurgii	chirurgicală	chirurgia	chirurgical	N;GEN;FEM;SG	ADJ;INDF;FEM;SG
+uczucia	sentimentele	uczucie	sentiment	N;NOM;NEUT;PL	N;DEF;FEM;PL
+rolnej	agrară	rolny	agrara	ADJ;GEN;FEM;SG	N;INDF;FEM;SG
+elektronów	electron	elektron	electron	N;GEN;MASC;PL	N;INDF;MASC;SG
+nintendo	nintendo	nintendo	nintendo		N;INDF;MASC;SG
+filozoficzne	filozofice	filozoficzny	filozofic	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+armstrong	armstrong	armstrong	armstrong		PROPN
+cezar	caesar	cezar	caesar	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+cezar	cezar	cezar	cezar	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+zainteresowań	interesele	zainteresowanie	interes	N;GEN;NEUT;PL	N;DEF;FEM;PL
+klasycznego	clasică	klasyczny	clasic	ADJ;ACC;MASC;SG	ADJ;INDF;FEM;SG
+klasycznego	clasic	klasyczny	clasic	ADJ;ACC;MASC;SG	ADV
+klasycznego	clasica	klasyczny	clasică	ADJ;ACC;MASC;SG	ADJ;DEF;FEM;SG
+podłogi	podele	podłoga	podea	N;ACC;FEM;SG	N;INDF;FEM;PL
+podłogi	etaje	podłoga	etaj	N;ACC;FEM;SG	N;INDF;FEM;PL
+podłogi	podele	podłoga	podea	N;ACC;FEM;SG	N;INDF;FEM;PL
+komety	cometă	kometa	cometa		N;INDF;FEM;SG
+komety	cometa	kometa	cometa		N;DEF;FEM;SG
+komety	comete	kometa	cometă		N;INDF;FEM;PL
+otoczona	înconjurată	otoczyć	înconjura	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+lahti	lahti	lahta	lahti	PROPN;NOM;MASC;SG	PROPN
+boca	boca	boca	boca	PROPN;NOM;MASC;SG	PROPN
+piasku	nisipul	piasek	nisip	N;GEN;MASC;SG	N;DEF;MASC;SG
+oznaczone	etichetate	oznaczyć	etichetate	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+oznaczone	etichetată	oznaczyć	eticheta	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+oznaczone	marcată	oznaczyć	marca	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+oznaczone	marcate	oznaczyć	marca	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+kota	kota	kot	kota	N;ACC;MASC;SG	N;DEF;FEM;SG
+nestor	nestor	nestor	nestor	PROPN;NOM;MASC;SG	PROPN
+sodu	sodiu	sód	sodiu		N;INDF;MASC;SG
+sodu	sodică	sód	sodic		N;INDF;FEM;SG
+leśnictwa	forestiere	leśnictwo	forestiere	N;GEN;NEUT;SG	ADJ;INDF;FEM;PL
+leśnictwa	silvicultură	leśnictwo	silvicultură	N;GEN;NEUT;SG	N;INDF;FEM;SG
+językowej	lingvistice	językowy	lingvistic	ADJ;GEN;FEM;SG	N;INDF;FEM;PL
+językowej	lingvistică	językowy	lingvistic	ADJ;GEN;FEM;SG	N;INDF;FEM;SG
+konfrontacji	confruntare	konfrontacja	confruntare	N;GEN;FEM;SG	N;INDF;FEM;SG
+konfrontacji	confruntarea	konfrontacja	confruntare	N;GEN;FEM;SG	N;DEF;FEM;SG
+konfrontacji	confruntări	konfrontacja	confruntare	N;GEN;FEM;SG	N;INDF;FEM;PL
+volkswagen	volkswagen	volkswagen	volkswagen		PROPN
+zrozumienia	înțelegerea	zrozumienie	înțelegere	N;GEN;NEUT;SG	N;DEF;FEM;SG
+zrozumienia	intelegere	zrozumienie	intelegere	N;GEN;NEUT;SG	N;INDF;FEM;SG
+zrozumienia	înțelegere	zrozumienie	înțelegere	N;GEN;NEUT;SG	N;INDF;FEM;SG
+ronnie	ronnie	ronnąć	ronnie	ADV	N;INDF;MASC;SG
+wiśniewski	wiśniewski	wiśniewski	wiśniewski	PROPN;NOM;MASC;SG	PROPN
+przeznaczenie	destinația	przeznaczenie	destinație	N;NOM;NEUT;SG	N;DEF;FEM;SG
+przeznaczenie	destinatie	przeznaczenie	destinatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+przeznaczenie	destinație	przeznaczenie	destinație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+przeznaczenie	destinatia	przeznaczenie	destinatie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+przeznaczenie	destinul	przeznaczenie	destin	N;NOM;NEUT;SG	N;DEF;MASC;SG
+przeznaczenie	soarta	przeznaczenie	soartă	N;NOM;NEUT;SG	N;DEF;FEM;SG
+przeznaczenie	soartă	przeznaczenie	soartă	N;NOM;NEUT;SG	N;INDF;FEM;SG
+przeznaczenie	scopul	przeznaczenie	scop	N;NOM;NEUT;SG	N;DEF;MASC;SG
+biblia	biblia	biblia	biblie	N;NOM;FEM;SG	N;DEF;FEM;SG
+biblia	biblie	biblia	biblie	N;NOM;FEM;SG	N;INDF;FEM;SG
+naród	națiune	naród	națiune	N;NOM;MASC;SG	N;INDF;FEM;SG
+naród	natiune	naród	natiune	N;NOM;MASC;SG	N;INDF;FEM;SG
+soczi	soci	soczeć	soc	PROPN;NOM;MASC;SG	
+liderów	liderii	lider	lider	N;GEN;MASC;PL	N;DEF;MASC;PL
+sonda	sonda	sonda	sondă	N;NOM;FEM;SG	N;DEF;FEM;SG
+sonda	sondă	sonda	sond	N;NOM;FEM;SG	N;INDF;FEM;SG
+warta	worth	warta	worth		PROPN
+zmienione	revizuită	zmienić	revizui	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zmienione	revizuite	zmienić	revizui	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zmienione	schimbată	zmienić	schimba	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zmienione	modificată	zmienić	modifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zmienione	modificate	zmienić	modificat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zmienione	modificată	zmienić	modifica	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+sin	păcatul	sin	păcat		N;DEF;MASC;SG
+meyer	meyer	meyer	meyer		PROPN
+postawa	atitudinea	postawa	atitudine	N;NOM;FEM;SG	N;DEF;FEM;SG
+postawa	atitudine	postawa	atitudine	N;NOM;FEM;SG	N;INDF;FEM;SG
+postawa	postură	postawa	postură	N;NOM;FEM;SG	N;INDF;FEM;SG
+postawa	postura	postawa	postură	N;NOM;FEM;SG	N;DEF;FEM;SG
+rozpoznanie	recunoașterea	rozpoznać	recunoaștere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+rozpoznanie	recunoastere	rozpoznać	recunoastere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+rozpoznanie	recunoaștere	rozpoznać	recunoaștere	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+rozpoznanie	diagnosticare	rozpoznać	diagnosticare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+rozpoznanie	diagnosticarea	rozpoznać	diagnosticare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+rozpoznanie	diagnosticul	rozpoznać	diagnostic	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;MASC;SG
+uzasadnienia	justificări	uzasadnienie	justificare	N;GEN;NEUT;SG	N;INDF;FEM;PL
+scalemajor	scalemajor	scalemajor	scalemajor		N;INDF;MASC;SG
+timeaxis	timeaxis	timeaxis	timeaxis		N;INDF;MASC;SG
+ciekawy	curioasă	ciekawy	curioasă	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+ciekawy	curios	ciekawy	curios	ADJ;NOM;MASC;SG	ADV
+potrzebuje	nevoie	potrzebować	nevoie	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;SG
+potrzebuje	nevoile	potrzebować	nevoie	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;PL
+potrzebuje	nevoi	potrzebować	nevoie	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;PL
+forever	forever	forever	forever		N;INDF;MASC;SG
+cat	pisica	cat	pisică		N;DEF;FEM;SG
+cat	pisică	cat	pisică		N;INDF;FEM;SG
+zwykłych	ordinar	zwykły	ordinar	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+zwykłych	obișnuit	zwykły	obișnuit	ADJ;GEN;MASC;PL	ADJ;INDF;MASC;SG
+zwykłych	obișnuită	zwykły	obișnuit	ADJ;GEN;MASC;PL	ADJ;INDF;FEM;SG
+wydawcy	editorii	wydawca	editoare	N;NOM;MASC;SG	N;DEF;MASC;PL
+wydawcy	editori	wydawca	editor	N;NOM;MASC;SG	N;INDF;MASC;PL
+wydawcy	editorii	wydawca	editoare	N;NOM;MASC;SG	N;DEF;MASC;PL
+wydawcy	editori	wydawca	editor	N;NOM;MASC;SG	N;INDF;MASC;PL
+wydawcy	editura	wydawca	editură	N;NOM;MASC;SG	N;DEF;FEM;SG
+biuletyn	buletinul	biuletyn	buletin	N;NOM;MASC;SG	N;DEF;MASC;SG
+episkopatu	episcopală	episkopat	episcopal	N;ACC;MASC;SG	ADJ;INDF;FEM;SG
+freedom	libertate	freed	libertate		N;INDF;FEM;SG
+freedom	libertatea	freed	libertate		N;DEF;FEM;SG
+freedom	freedom	freed	freedom		N;INDF;MASC;SG
+adaptacji	adaptări	adaptacja	adaptare	N;GEN;FEM;SG	N;INDF;FEM;PL
+adaptacji	adaptările	adaptacja	adaptare	N;GEN;FEM;SG	N;DEF;FEM;PL
+yang	yang	yang	yang	V;IPFV;IND;SG;2;PRS;FIN;ACT	N;INDF;MASC;SG
+fabrykę	fabrică	fabryka	fabrică	N;ACC;FEM;SG	N;INDF;FEM;SG
+fabrykę	fabrica	fabryka	fabrică	N;ACC;FEM;SG	N;DEF;FEM;SG
+ekran	ecranul	ekran	ecran	N;NOM;MASC;SG	N;DEF;MASC;SG
+burbon	bourbon	burbon	bourbon		N;INDF;MASC;SG
+lucy	lucy	lucy	lucy		PROPN
+sebastiana	sebastian	sebastiany	sebastian	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	N;INDF;MASC;SG
+allan	allan	allan	allan	PROPN;NOM;MASC;SG	PROPN
+walczyli	luptat	walczyć	lupta	V;IPFV;MASC;IND;PL;PST;FIN;ACT	ADJ;INDF;MASC;SG
+ostry	sharp	ostry	sharp		N;INDF;MASC;SG
+ostry	acute	ostry	acut		N;INDF;FEM;PL
+ostry	acut	ostry	acut		ADJ;INDF;MASC;SG
+ostry	acută	ostry	acut		ADJ;INDF;FEM;SG
+berger	berger	berger	berger	PROPN;NOM;MASC;SG	PROPN
+równoległy	paralel	równolec	paralel		ADV
+równoległy	paralelă	równolec	paralelă		ADJ;INDF;FEM;SG
+równoległy	paralele	równolec	paralel		ADJ;INDF;FEM;PL
+równoległy	paralela	równolec	paralelă		N;DEF;FEM;SG
+edytuj	editare	edytować	editare		N;INDF;FEM;SG
+edytuj	editează	edytować	edita		V;IND;3;PRS;FIN
+wells	fântâni	wells	fântână	PROPN;NOM;MASC;SG	N;INDF;FEM;PL
+wells	wells	wells	wells	PROPN;NOM;MASC;SG	PROPN
+fizyczna	fizice	fizyczny	fizic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;PL
+fizyczna	fizică	fizyczny	fizic	ADJ;NOM;FEM;SG	ADJ;INDF;FEM;SG
+fizyczna	fizic	fizyczny	fizic	ADJ;NOM;FEM;SG	ADV
+możliwy	posibile	możliwy	posibil	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+możliwy	posibil	możliwy	posibil	ADJ;NOM;MASC;SG	ADV
+możliwy	posibila	możliwy	posibil	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+możliwy	posibilă	możliwy	posibil	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+oświetlenie	iluminare	oświetlenie	iluminare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+oświetlenie	iluminarea	oświetlenie	iluminare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+oświetlenie	iluminare	oświetlenie	iluminare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+ekspozycja	expunere	ekspozycja	expunere	N;NOM;FEM;SG	N;INDF;FEM;SG
+ekspozycja	expunerea	ekspozycja	expunere	N;NOM;FEM;SG	N;DEF;FEM;SG
+konsul	consul	konsul	cons		N;INDF;MASC;SG
+konsul	consulul	konsul	consul		N;DEF;MASC;SG
+rebelianci	rebelilor	rebeliant	rebel	N;NOM;MASC;PL	N;DEF;MASC;PL
+rebelianci	rebelii	rebeliant	rebel	N;NOM;MASC;PL	N;DEF;MASC;PL
+clarke	clarke	clarka	clarke		PROPN
+protokół	protocolul	protokól	protocol	N;NOM;MASC;SG	N;DEF;MASC;SG
+krążek	pucul	krążek	puc	N;NOM;MASC;SG	N;DEF;MASC;SG
+krążek	puck	krążek	puck	N;NOM;MASC;SG	
+zabezpieczenie	garanții	zabezpieczenie	garanție	N;NOM;NEUT;SG	N;INDF;FEM;PL
+zabezpieczenie	colaterale	zabezpieczenie	colateral	N;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+alain	alain	alain	alain	PROPN;NOM;MASC;SG	PROPN
+astronomii	astronomie	astronomia	astronomie		N;INDF;FEM;SG
+protesty	protest	protest	protest	N;NOM;MASC;PL	N;INDF;MASC;SG
+protesty	protestul	protest	protest	N;NOM;MASC;PL	N;DEF;MASC;SG
+protesty	protestează	protest	protesta	N;NOM;MASC;PL	V;IND;3;PRS;FIN
+protesty	protestele	protest	protest	N;NOM;MASC;PL	N;DEF;FEM;PL
+siedliska	habitatelor	siedlisko	habitate	N;NOM;NEUT;PL	N;DEF;FEM;PL
+siedliska	habitat	siedlisko	habita	N;NOM;NEUT;PL	N;INDF;MASC;SG
+siedliska	habitatul	siedlisko	habitat	N;NOM;NEUT;PL	N;DEF;MASC;SG
+ciemności	întunericul	ciemność	întuneric	N;GEN;FEM;SG	N;DEF;MASC;SG
+ciemności	întuneric	ciemność	întuneric	N;GEN;FEM;SG	ADV
+ahmed	ahmed	ahmed	ahmed	PROPN;NOM;MASC;SG	PROPN
+ahmed	ahmad	ahmed	ahmad	PROPN;NOM;MASC;SG	PROPN
+anatolij	anatoli	anatolać	anatol	PROPN;NOM;MASC;SG	PROPN
+płótnie	pânză	płótno	pânză	N;ACC;NEUT;SG	N;INDF;FEM;SG
+płótnie	panza	płótno	panză	N;ACC;NEUT;SG	N;DEF;FEM;SG
+gerhard	gerhard	gerhard	gerhard	PROPN;NOM;MASC;SG	PROPN
+generacja	generaţie	generacja	generaţie	N;NOM;FEM;SG	N;INDF;FEM;SG
+generacja	generație	generacja	generație	N;NOM;FEM;SG	N;INDF;FEM;SG
+generacja	generarea	generacja	generare	N;NOM;FEM;SG	N;DEF;FEM;SG
+generacja	generatie	generacja	generatie	N;NOM;FEM;SG	N;INDF;FEM;SG
+modyfikacji	modificarea	modyfikacja	modificare	N;GEN;FEM;SG	N;DEF;FEM;SG
+modyfikacji	modificare	modyfikacja	modificare	N;GEN;FEM;SG	N;INDF;FEM;SG
+modyfikacji	modificări	modyfikacja	modificare	N;GEN;FEM;SG	N;INDF;FEM;PL
+kapitału	capitala	kapitał	capitală	N;GEN;MASC;SG	N;DEF;FEM;SG
+kapitału	capitală	kapitał	capitală	N;GEN;MASC;SG	N;INDF;FEM;SG
+foster	foster	foster	fost	V;IPFV;IND;SG;2;PRS;FIN;ACT	PROPN
+harvey	harvey	harvea	harvey	PROPN;NOM;MASC;SG	PROPN
+płatki	petalele	płatek	petală	N;NOM;MASC;PL	N;DEF;FEM;PL
+krytykę	critică	krytyka	critica	N;ACC;FEM;SG	V;IND;SG;3;PST;FIN
+krytykę	critici	krytyka	critică	N;ACC;FEM;SG	N;INDF;MASC;PL
+krytykę	critica	krytyka	critică	N;ACC;FEM;SG	N;DEF;FEM;SG
+krytykę	criticile	krytyka	critică	N;ACC;FEM;SG	N;DEF;FEM;PL
+krytykę	critica	krytyka	critică	N;ACC;FEM;SG	N;DEF;FEM;SG
+olympique	olympique	olympino	olympique		PROPN
+eugene	eugene	eugen	eugen	PROPN;NOM;MASC;SG	PROPN
+druk	imprimare	druk	imprimare	N;NOM;MASC;SG	N;INDF;FEM;SG
+druk	amprentă	druk	amprentă	N;NOM;MASC;SG	N;INDF;FEM;SG
+druk	tipărire	druk	tipărire	N;NOM;MASC;SG	N;INDF;FEM;SG
+druk	imprimare	druk	imprimare	N;NOM;MASC;SG	N;INDF;FEM;SG
+druk	imprimarea	druk	imprimare	N;NOM;MASC;SG	N;DEF;FEM;SG
+druk	tipărire	druk	tipărire	N;NOM;MASC;SG	N;INDF;FEM;SG
+burza	furtună	burza	furtună	N;NOM;FEM;SG	N;INDF;FEM;SG
+burza	furtună	burza	furtună	N;NOM;FEM;SG	N;INDF;FEM;SG
+burza	furtuna	burza	furtună	N;NOM;FEM;SG	N;DEF;FEM;SG
+tragedii	tragedii	tragedia	tragediu	N;GEN;FEM;SG	N;INDF;FEM;PL
+tragedii	tragedie	tragedia	tragedie	N;GEN;FEM;SG	N;INDF;FEM;SG
+tragedii	tragedia	tragedia	tragedie	N;GEN;FEM;SG	N;DEF;FEM;SG
+wystawę	expoziţia	wystawa	expozigie	N;ACC;FEM;SG	N;DEF;FEM;SG
+wystawę	expozitie	wystawa	expozitie	N;ACC;FEM;SG	N;INDF;FEM;SG
+wystawę	expoziţie	wystawa	expoziţie	N;ACC;FEM;SG	N;INDF;FEM;SG
+edwards	edwards	edwards	edwards	PROPN;NOM;MASC;SG	PROPN
+nowoczesny	moderni	nowoczesny	modern	ADJ;NOM;MASC;SG	ADJ;INDF;MASC;PL
+nowoczesny	moderna	nowoczesny	moderna	ADJ;NOM;MASC;SG	ADJ;DEF;FEM;SG
+nowoczesny	moderne	nowoczesny	modern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+nowoczesny	modernă	nowoczesny	modern	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+nowoczesny	contemporană	nowoczesny	contemporan	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;SG
+nowoczesny	contemporane	nowoczesny	contemporan	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+posterunek	staţie	posterunek	staţie	N;NOM;MASC;SG	N;INDF;FEM;SG
+posterunek	gara	posterunek	gară	N;NOM;MASC;SG	N;DEF;FEM;SG
+posterunek	stația	posterunek	stație	N;NOM;MASC;SG	N;DEF;FEM;SG
+posterunek	statie	posterunek	statie	N;NOM;MASC;SG	N;INDF;FEM;SG
+posterunek	stație	posterunek	stație	N;NOM;MASC;SG	N;INDF;FEM;SG
+posterunek	gară	posterunek	gară	N;NOM;MASC;SG	N;INDF;FEM;SG
+grobie	mormântul	grób	mormânt	N;DAT;MASC;SG	N;DEF;MASC;SG
+louisa	louisa	louis	louisă		N;DEF;FEM;SG
+utah	utah	utah	utah	PROPN;NOM;MASC;SG	PROPN
+guillermo	guillermo	guillermo	guillermo	N;NOM;MASC;SG	PROPN
+dochody	venitul	dochód	venit	N;NOM;MASC;PL	N;DEF;MASC;SG
+dochody	veniturile	dochód	venit	N;NOM;MASC;PL	N;DEF;FEM;PL
+dochody	veniturile	dochód	venit	N;NOM;MASC;PL	N;DEF;FEM;PL
+ruth	ruth	ruth	ruth	PROPN;NOM;FEM;SG	PROPN
+ruth	rut	ruth	rut	PROPN;NOM;FEM;SG	
+piętra	podele	piętro	podea	N;NOM;NEUT;SG	N;INDF;FEM;PL
+piętra	etaje	piętro	etaj	N;NOM;NEUT;SG	N;INDF;FEM;PL
+tango	tango	tango	tango		N;INDF;MASC;SG
+zorganizowane	organizată	zorganizować	organizat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowane	organizate	zorganizować	organizat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zorganizowane	organizată	zorganizować	organizat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowane	organizate	zorganizować	organizat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+bukareszcie	bucurești	bukareszt	bucuresc	N;NOM;MASC;SG	PROPN
+bukareszcie	bucuresti	bukareszt	bucurest	N;NOM;MASC;SG	PROPN
+bukareszcie	bucureşti	bukareszt	bucureant	N;NOM;MASC;SG	PROPN
+wykorzystany	exploatată	wykorzystać	exploata	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+wykorzystany	exploatate	wykorzystać	exploata	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+skłodowskiej	skłodowska	skłodowski	skłodowska	ADJ;GEN;FEM;SG	PROPN
+przyjaźń	prietenia	przyjaźń	prietenie	N;NOM;FEM;SG	N;DEF;FEM;SG
+przyjaźń	prietenie	przyjaźń	prietenie	N;NOM;FEM;SG	N;INDF;FEM;SG
+gotowy	gata	gotowy	gata	ADJ;NOM;MASC;SG	ADV
+cywilów	civilii	cywil	civil	N;ACC;MASC;PL	N;DEF;MASC;PL
+cywilów	civililor	cywil	civil	N;ACC;MASC;PL	N;DEF;MASC;PL
+med	med	med	med		N;INDF;MASC;SG
+body	body	bód	body		N;INDF;MASC;SG
+body	organism	bód	organism		N;INDF;MASC;SG
+body	corp	bód	corp		N;INDF;MASC;SG
+body	corpul	bód	corp		N;DEF;MASC;SG
+body	trup	bód	trup		N;INDF;MASC;SG
+higgins	higgins	higgins	higgins	PROPN;NOM;MASC;SG	PROPN
+archeologii	arheologie	archeologia	arheologie	N;GEN;FEM;SG	N;INDF;FEM;SG
+archeologii	arheologie	archeologia	arheologie	N;GEN;FEM;SG	N;INDF;FEM;SG
+zarejestrowane	înregistrate	zarejestrować	înregistra	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zarejestrowane	înregistrată	zarejestrować	înregistrat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zarejestrowane	înregistrate	zarejestrować	înregistra	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zarejestrowane	înregistrată	zarejestrować	înregistrat	ADJ;PFV;NOM;NEUT;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+crystal	cristalul	crystal	cristal		N;DEF;MASC;SG
+crystal	cristal	crystal	cristal		N;INDF;MASC;SG
+crystal	cristale	crystal	cristale		N;INDF;FEM;PL
+crystal	crystal	crystal	crystal		N;INDF;MASC;SG
+dzwon	clopotul	dzwon	clopot	N;NOM;MASC;SG	N;DEF;MASC;SG
+dzwon	bell	dzwon	bell	N;NOM;MASC;SG	PROPN
+rozmowa	interviul	rozmowa	interviu	N;NOM;FEM;SG	N;DEF;MASC;SG
+rozmowa	conversatie	rozmowa	conversatie	N;NOM;FEM;SG	N;INDF;FEM;SG
+rozmowa	conversație	rozmowa	conversație	N;NOM;FEM;SG	N;INDF;FEM;SG
+marcelo	marcelo	marcelo	marcelo	PROPN;NOM;MASC;SG	PROPN
+uzupełnienia	completări	uzupełnić	completare	N;PFV;GEN;NEUT;SG;POS;V.MSDR	N;INDF;FEM;PL
+toro	toro	toro	toro		PROPN
+lampy	lampă	lampa	lampă	N;ACC;FEM;PL	N;INDF;FEM;SG
+lampy	lampa	lampa	lampă	N;ACC;FEM;PL	N;DEF;FEM;SG
+lampy	lămpile	lampa	lampă	N;ACC;FEM;PL	N;DEF;FEM;PL
+dzwony	clopotele	dzwon	clopot	N;NOM;MASC;PL	N;DEF;FEM;PL
+wad	defecte	wada	defect		N;INDF;FEM;PL
+wad	vicii	wada	viciu		N;INDF;FEM;PL
+wad	viciile	wada	viciu		N;DEF;FEM;PL
+zakup	cumpărare	zakup	cumpărare	N;NOM;MASC;SG	N;INDF;FEM;SG
+zakup	achiziție	zakup	achiziție	N;NOM;MASC;SG	N;INDF;FEM;SG
+zakup	achizițiile	zakup	achiziție	N;NOM;MASC;SG	N;DEF;FEM;PL
+zakup	achiziții	zakup	achiziție	N;NOM;MASC;SG	N;INDF;FEM;PL
+curtis	curtis	curtis	curtis		PROPN
+spirit	spiritul	spirit	spirit		N;DEF;MASC;SG
+spirit	spirit	spirit	spirit		N;INDF;MASC;SG
+leicester	leicester	leicester	leicester	N;NOM;MASC;SG	PROPN
+zorganizowany	organizată	zorganizować	organizat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowany	organizate	zorganizować	organizat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zorganizowany	organizată	zorganizować	organizat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowany	organizate	zorganizować	organizat	ADJ;PFV;NOM;MASC;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+gazet	ziarele	gazeta	ziar	N;GEN;FEM;PL	N;DEF;FEM;PL
+arabski	arabă	arabski	arab	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+arabski	arabe	arabski	arab	ADJ;NOM;MASC;SG	ADJ;INDF;FEM;PL
+arabski	araba	arabski	araba	ADJ;NOM;MASC;SG	N;DEF;FEM;SG
+arabski	arabă	arabski	arab	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+kocha	iubirile	kochać	iubire	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;DEF;FEM;PL
+kocha	iubiri	kochać	iubire	V;IPFV;IND;SG;3;PRS;FIN;ACT	N;INDF;FEM;PL
+lin	corzi	lin	corz		N;INDF;FEM;PL
+lin	frânghii	lin	frânghii		N;INDF;FEM;PL
+lin	funii	lin	fun		N;INDF;FEM;PL
+leslie	leslie	lasnąć	leslie	V;IPFV;IND;SG;2;PRS;FIN;ACT	PROPN
+lima	lima	lima	limă		N;DEF;FEM;SG
+kujawski	kujawski	kujawski	kujawski	ADJ;NOM;MASC;SG	PROPN
+generałowie	generalii	generał	generaliu	N;NOM;MASC;PL	N;DEF;MASC;PL
+generałowie	generalilor	generał	general	N;NOM;MASC;PL	N;DEF;MASC;PL
+naprzeciw	opus	naprzeciw	opune		ADJ;INDF;MASC;SG
+naprzeciw	opusul	naprzeciw	opus		N;DEF;MASC;SG
+naprzeciw	opusă	naprzeciw	opus		ADJ;INDF;FEM;SG
+procesor	procesorul	procesor	procesor	N;NOM;MASC;SG	N;DEF;MASC;SG
+garcia	garcia	garcia	garcia	PROPN;NOM;MASC;SG	PROPN
+garcia	garcía	garcia	garcha	PROPN;NOM;MASC;SG	PROPN
+zimbabwe	zimbabwe	zimbabwy	zimbabw		PROPN
+bach	bach	bach	bach	PROPN;NOM;MASC;SG	PROPN
+rhein	rhein	rhein	rhein	PROPN;NOM;MASC;SG	N;INDF;MASC;SG
+bird	pasare	bird	pasar	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;FEM;SG
+bird	pasăre	bird	pasăre	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;FEM;SG
+bird	pasărea	bird	pasăre	V;IPFV;IND;SG;PRS;FIN;ACT	N;DEF;FEM;SG
+bird	bird	bird	bird	V;IPFV;IND;SG;PRS;FIN;ACT	N;INDF;MASC;SG
+pokolenie	generaţie	pokolenie	generaţie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+pokolenie	generație	pokolenie	generație	N;NOM;NEUT;SG	N;INDF;FEM;SG
+pokolenie	generarea	pokolenie	generare	N;NOM;NEUT;SG	N;DEF;FEM;SG
+pokolenie	generatie	pokolenie	generatie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+pokolenie	generatii	pokolenie	generat	N;NOM;NEUT;SG	N;DEF;MASC;PL
+pokolenie	generații	pokolenie	generație	N;NOM;NEUT;SG	N;INDF;FEM;PL
+gun	pistol	guna	pistol		N;INDF;MASC;SG
+gun	armă	guna	armă		N;INDF;FEM;SG
+gun	arma	guna	armă		N;DEF;FEM;SG
+samantha	samantha	samantha	samantha	N;NOM;FEM;SG	PROPN
+brody	bărbi	broda	barbă		ADJ;INDF;PL
+brody	brody	broda	brody		PROPN
+spożywczy	băcănie	spożywczy	băcănie	ADJ;NOM;MASC;SG	N;INDF;FEM;SG
+palma	palma	palmo	palmă		N;DEF;FEM;SG
+zimy	iarnă	zima	iarnă	N;ACC;FEM;SG	N;INDF;FEM;SG
+zimy	iarna	zima	iarnă	N;ACC;FEM;SG	N;DEF;FEM;SG
+zimy	winters	zima	winters	N;ACC;FEM;SG	PROPN
+zimy	ierni	zima	iarnă	N;ACC;FEM;SG	N;INDF;FEM;PL
+six	six	six	six		N;INDF;MASC;SG
+six	şase	six	şase		NUM;PL
+six	șase	six	șase		NUM;PL
+poziomy	orizontal	poziom	orizontal	N;NOM;MASC;PL	ADV
+poziomy	orizontale	poziom	orizontal	N;NOM;MASC;PL	ADJ;INDF;FEM;PL
+poziomy	orizontală	poziom	orizontal	N;NOM;MASC;PL	ADJ;INDF;FEM;SG
+poziomy	nivelurile	poziom	nivel	N;NOM;MASC;PL	N;DEF;FEM;PL
+wyrażenie	frază	wyrażenie	frază	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyrażenie	fraza	wyrażenie	frază	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyrażenie	expresia	wyrażenie	expresie	N;NOM;NEUT;SG	N;DEF;FEM;SG
+wyrażenie	exprimare	wyrażenie	exprimare	N;NOM;NEUT;SG	N;INDF;FEM;SG
+wyrażenie	expresie	wyrażenie	expresie	N;NOM;NEUT;SG	N;INDF;FEM;SG
+legion	legiune	legion	legiune	N;NOM;MASC;SG	N;INDF;FEM;SG
+legion	legiunea	legion	legiune	N;NOM;MASC;SG	N;DEF;FEM;SG
+ustalenie	determinarea	ustalenie	determinare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;DEF;FEM;SG
+ustalenie	determinare	ustalenie	determinare	N;PFV;NOM;NEUT;SG;POS;V.MSDR	N;INDF;FEM;SG
+wyjazd	plecarea	wyjazd	plecare	N;NOM;MASC;SG	N;DEF;FEM;SG
+wyjazd	ieşirea	wyjazd	ieșire	N;NOM;MASC;SG	N;DEF;FEM;SG
+wyjazd	ieşire	wyjazd	ieşire	N;NOM;MASC;SG	N;INDF;FEM;SG
+wyjazd	ieșire	wyjazd	ieșire	N;NOM;MASC;SG	N;INDF;FEM;SG
+wyjazd	iesire	wyjazd	iesire	N;NOM;MASC;SG	N;INDF;FEM;SG
+wyjazd	plecare	wyjazd	plecare	N;NOM;MASC;SG	N;INDF;FEM;SG
+wyjazd	plecarea	wyjazd	plecare	N;NOM;MASC;SG	N;DEF;FEM;SG
+wyjazd	plecări	wyjazd	plecare	N;NOM;MASC;SG	N;INDF;FEM;PL
+wyjazd	excursie	wyjazd	excursie	N;NOM;MASC;SG	N;INDF;FEM;SG
+wyjazd	călătorie	wyjazd	călătorie	N;NOM;MASC;SG	N;INDF;FEM;SG
+chana	chan	chany	chan		PROPN
+discovery	descoperire	discover	descoperire		N;INDF;FEM;SG
+discovery	descoperiri	discover	descoperire		N;INDF;FEM;PL
+discovery	descoperirea	discover	descoperire		N;DEF;FEM;SG
+discovery	discovery	discover	discovery		N;INDF;MASC;SG
+rozdzielczości	rezoluția	rozdzielczość	rezoluție	N;GEN;FEM;SG	N;DEF;FEM;SG
+rozdzielczości	rezoluție	rozdzielczość	rezoluție	N;GEN;FEM;SG	N;INDF;FEM;SG
+zera	zerouri	zera	zerou		N;INDF;FEM;PL
+zera	zerouri	zera	zerou		N;INDF;FEM;PL
+dekady	decenii	dekada	deceniu		N;INDF;FEM;PL
+dekady	decadă	dekada	decădea		N;INDF;FEM;SG
+dekady	deceniu	dekada	deceniu		N;INDF;MASC;SG
+zmniejszenia	reduce	zmniejszyć	reduce	N;PFV;GEN;NEUT;SG;POS;V.MSDR	V;IND;SG;3;PRS;FIN
+pełen	plina	pełen	plină	N;NOM;MASC;SG	ADJ;DEF;FEM;SG
+pełen	full	pełen	full	N;NOM;MASC;SG	
+pełen	plin	pełen	plin	N;NOM;MASC;SG	ADV
+pełen	plină	pełen	plin	N;NOM;MASC;SG	ADJ;INDF;FEM;SG
+wodoru	hidrogenul	wodor	hidrogen	N;ACC;MASC;SG	N;DEF;MASC;SG
+weekend	weekendul	weekend	weekend	N;NOM;MASC;SG	N;DEF;MASC;SG
+mika	mike	mika	euke	PROPN;NOM;MASC;SG	PROPN
+mika	mică	mika	mic	PROPN;NOM;MASC;SG	ADJ;INDF;FEM;SG
+mika	mica	mika	mic	PROPN;NOM;MASC;SG	ADJ;DEF;FEM;SG
+mika	mika	mika	mika	PROPN;NOM;MASC;SG	PROPN
+niebezpieczne	periculoasa	niebezpieczny	periculos	ADJ;NOM;NEUT;SG	ADJ;DEF;FEM;SG
+niebezpieczne	periculoasă	niebezpieczny	periculos	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;SG
+niebezpieczne	periculoase	niebezpieczny	periculos	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+niebezpieczne	periculoase	niebezpieczny	periculos	ADJ;NOM;NEUT;SG	ADJ;INDF;FEM;PL
+zorganizowana	organizată	zorganizować	organizat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowana	organizate	zorganizować	organizat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+zorganizowana	organizată	zorganizować	organizat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;SG
+zorganizowana	organizate	zorganizować	organizat	ADJ;PFV;NOM;FEM;SG;POS;V.PTCP;PASS	ADJ;INDF;FEM;PL
+otoczenie	mediul	otoczyć	mediu	N;NOM;NEUT;SG	N;DEF;MASC;SG
+otoczenie	mediu	otoczyć	mediu	N;NOM;NEUT;SG	ADJ;INDF;MASC;SG
+otoczenie	imprejurimi	otoczyć	imprejurime	N;NOM;NEUT;SG	N;INDF;FEM;PL
+otoczenie	împrejurimi	otoczyć	împrejurime	N;NOM;NEUT;SG	N;INDF;FEM;PL
+otoczenie	împrejurimile	otoczyć	împrejurime	N;NOM;NEUT;SG	N;DEF;FEM;PL
+otoczenie	ambiantă	otoczyć	ambiant	N;NOM;NEUT;SG	N;INDF;FEM;SG
+restauracja	restaurantul	restauracja	restaurant	N;NOM;FEM;SG	N;DEF;MASC;SG
+wizji	viziunile	wizja	viziune	N;GEN;FEM;SG	N;DEF;FEM;PL
+wizji	viziuni	wizja	viziune	N;GEN;FEM;SG	N;INDF;FEM;PL
+wizji	viziune	wizja	viziune	N;GEN;FEM;SG	N;INDF;FEM;SG
+wizji	viziunea	wizja	viziune	N;GEN;FEM;SG	N;DEF;FEM;SG

@@ -1,0 +1,2090 @@
+char	char	char	char	N;MASC;SG	
+kent	κεντ	kent	κεντ	PROPN	
+fernández	φερνάντεζ	fernánder	φερνάνω	PROPN	PROPN;NOM;MASC;SG
+voisines	γείτονες	voisin	γείτονας	ADJ;FEM;PL	N;NOM;MASC;PL
+voisines	γείτονες	voisin	γείτονας	ADJ;FEM;PL	N;NOM;MASC;PL
+voisines	γειτονική	voisin	γειτονικός	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+voisines	γειτονικό	voisin	γειτονικός	ADJ;FEM;PL	ADJ;NOM;NEUT;SG
+sofia	sofia	sofia	sofia	PROPN	
+sofia	σόφια	sofia	σόφια	PROPN	PROPN;NOM;FEM;SG
+sofia	σοφια	sofia	σοφια	PROPN	N;NOM;FEM;SG
+sofia	σοφία	sofia	σοφία	PROPN	N;NOM;FEM;SG
+hébreu	εβραϊκή	hébreu	εβραϊκός	N;MASC;SG	ADJ;NOM;FEM;SG
+hébreu	εβραϊκά	hébreu	εβραϊκά	N;MASC;SG	ADV
+hébreu	εβραϊκό	hébreu	εβραϊκός	N;MASC;SG	ADJ;NOM;NEUT;SG
+inhumé	θαμμένα	inhumer	θαμμένα	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+pat	pat	pat	pat	PROPN	
+pat	πατ	pat	πατ	PROPN	
+variables	μεταβλητό	variable	μεταβλητός	ADJ;FEM;PL	N;NOM;NEUT;SG
+variables	μεταβλητή	variable	μεταβλητής	ADJ;FEM;PL	N;NOM;FEM;SG
+variables	μεταβλητές	variable	μεταβλητής	ADJ;FEM;PL	N;NOM;FEM;PL
+vignoble	αμπελώνα	vignoble	αμπελώνω	N;MASC;SG	PROPN;ACC;MASC;SG
+vignoble	αμπελώνες	vignoble	αμπελώνα	N;MASC;SG	N;NOM;MASC;PL
+vignoble	αμπέλια	vignoble	αμπέλιο	N;MASC;SG	N;NOM;NEUT;PL
+vignoble	αμπελώνες	vignoble	αμπελώνα	N;MASC;SG	N;NOM;MASC;PL
+autorisé	επιτρεπόμενες	autoriser	επιτρεπόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;PL
+autorisé	επιτρέπεται	autoriser	επιτρέπω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+autorisé	επιτρέπονται	autoriser	επιτρέπω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+autorisé	επιτρεπόμενες	autoriser	επιτρεπόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;PL
+cavalier	ράιντερ	cavalier	ράιντερ	N;MASC;SG	
+sierra	sierra	sierra	sierra	PROPN	
+sierra	σιέρρα	sierra	σιέρρα	PROPN	PROPN;NOM;FEM;SG
+sierra	σιέρα	sierra	σιέρα	PROPN	PROPN;NOM;FEM;SG
+retenu	διατηρήθηκαν	retenir	διατηρώ	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+navigateur	browser	navigateur	browser	N;MASC;SG	
+albin	αλμπίν	albin	αλμπίν	PROPN	
+originaires	καταγωγής	originaire	καταγωγή	ADJ;MASC;PL	N;GEN;FEM;SG
+sylvain	sylvain	sylvain	sylvain	PROPN	
+compétence	δεξιότητες	compétence	δεξιότητα	N;FEM;SG	N;NOM;FEM;PL
+décerné	απονέμεται	décerner	απονέμω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+usages	χρησιμοποιεί	usage	χρησιμοποιώ	N;MASC;PL	V;IPFV;IND;SG;3;PRS;FIN;ACT
+fonctionnaires	υπάλληλοι	fonctionnaire	υπάλληλος	N;MASC;PL	ADJ;NOM;MASC;PL
+démocrates	δημοκρατικούς	démocrate	δημοκρατικός	N;MASC;PL	ADJ;ACC;MASC;PL
+démocrates	δημοκρατικοί	démocrate	δημοκρατικός	N;MASC;PL	ADJ;NOM;MASC;PL
+démocrates	δημοκράτης	démocrate	δημοκράτης	N;MASC;PL	N;NOM;MASC;SG
+démocrates	δημοκρατικός	démocrate	δημοκρατικός	N;MASC;PL	ADJ;NOM;MASC;SG
+démocrates	δημοκρατικοί	démocrate	δημοκρατικός	N;MASC;PL	ADJ;NOM;MASC;PL
+directrice	μάνατζερ	directrice	μάνατζερ	N;FEM;SG	N;NOM;NEUT;PL
+espérance	εσπεράνς	espérance	εσπεράνς	N;FEM;SG	ADV
+espérance	χόουπ	espérance	χόουπ	N;FEM;SG	PROPN;NOM;MASC;SG
+fragments	θραύσμα	fragment	θραύσμα	N;MASC;PL	N;NOM;NEUT;SG
+seattle	σηάτλ	seattle	σηάτλ	PROPN	N;NOM;NEUT;SG
+seattle	σιάτλ	seattle	σιάτλ	PROPN	
+existant	υπάρχουσες	exister	υπάρχων	V;PRS;V.PTCP	ADJ;NOM;FEM;PL
+existant	υπάρχουσα	exister	υπάρχων	V;PRS;V.PTCP	ADJ;NOM;FEM;SG
+existant	υφιστάμενη	exister	υφιστάμενος	V;PRS;V.PTCP	ADJ;NOM;FEM;SG
+existant	υπάρχον	exister	υπάρχων	V;PRS;V.PTCP	ADJ;NOM;NEUT;SG
+existant	υφιστάμενων	exister	υφιστάμενος	V;PRS;V.PTCP	ADJ;GEN;MASC;PL
+existant	υφιστάμενες	exister	υφιστάμενος	V;PRS;V.PTCP	ADJ;NOM;FEM;PL
+bond	μποντ	bond	μποντ	N;MASC;SG	
+bond	bond	bond	bond	N;MASC;SG	
+missiles	πύραυλος	missile	πύραυλος	N;MASC;PL	N;NOM;MASC;SG
+prépare	προετοιμασία	préparer	προετοιμασία	V;IND;SG;3;PRS;FIN	N;ACC;FEM;SG
+innovation	καινοτομίες	innovation	καινοτομία	N;FEM;SG	N;NOM;FEM;PL
+combiné	συνδυασμένα	combiner	συνδυασμένα	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+combiné	συνδυασμένες	combiner	συνδυάζω	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+amy	amy	amy	amy	PROPN	
+amy	έιμυ	amy	έιμυ	PROPN	N
+amy	έιμι	amy	έιμι	PROPN	
+turner	turner	turner	turner	PROPN	
+turner	τέρνερ	turner	τέρνερ	PROPN	
+alternatif	εναλλακτικά	alternatif	εναλλακτικά	ADJ;MASC;SG	ADV
+écrites	γραπτές	écrire	γραπτός	V;FEM;PL;PST;V.PTCP	ADJ;NOM;FEM;PL
+écrites	γραπτή	écrire	γραπτός	V;FEM;PL;PST;V.PTCP	N;NOM;FEM;SG
+écrites	γράφτηκε	écrire	γράφτω	V;FEM;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+écrites	γραμμένο	écrire	γραμμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+définitive	τελικο	définitif	τελικο	ADJ;FEM;SG	N;NOM;NEUT;SG
+définitive	οριστικές	définitif	οριστικός	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+définitive	οριστικά	définitif	οριστικά	ADJ;FEM;SG	ADV
+jaunes	κίτρινα	jaune	κίτρινος	ADJ;MASC;PL	N;NOM;NEUT;PL
+jaunes	κίτρινος	jaune	κίτρινος	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+jaunes	κίτρινη	jaune	κίτρινος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+jaunes	κίτρινο	jaune	κίτρινος	ADJ;MASC;PL	N;NOM;NEUT;SG
+burkina	μπουρκίνα	burkina	μπουρκίνα	N;MASC;SG	PROPN;NOM;FEM;SG
+chargés	γεμάτο	charger	γεμάτος	V;MASC;PL;PST;V.PTCP	NUM;NOM;NEUT;SG
+chargés	φορτώθηκε	charger	φορτώνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+chargés	φορτωμένο	charger	φορτώνω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+chargés	λάντεν	charger	λάντεν	V;MASC;PL;PST;V.PTCP	
+conrad	κόνραντ	conrad	κόνραντ	PROPN	V;PFV;IND;SG;3;PST;FIN;ACT
+rousseau	ρουσώ	rousseau	ρούσω	PROPN	N
+meyer	μάγιερ	meyer	μάγιερ	PROPN	
+stable	σταθερά	stable	σταθερά	ADJ;MASC;SG	ADV
+stable	σταθερά	stable	σταθερά	ADJ;MASC;SG	ADV
+terrestres	επίγεια	terrestre	επίγεια	ADJ;MASC;PL	N;ACC;FEM;SG
+ecclésiastique	κληρικός	ecclésiastique	κληρικός	ADJ;MASC;SG	N;NOM;MASC;SG
+ecclésiastique	εκκλησιαστικά	ecclésiastique	εκκλησιαστικός	ADJ;MASC;SG	ADV
+fonctionnaire	επίσημο	fonctionnaire	επίσημος	N;MASC;SG	ADJ;NOM;NEUT;SG
+fonctionnaire	επίσημη	fonctionnaire	επίσημος	N;MASC;SG	ADJ;NOM;FEM;SG
+silva	silva	silva	silva	PROPN	
+silva	σίλβα	silva	σίλβα	PROPN	
+bretonne	μπρίτανι	breton	μπρίτανι	ADJ;FEM;SG	V;IPFV;IND;PL;3;PST;FIN;PASS
+bretonne	breton	breton	breton	ADJ;FEM;SG	
+bretonne	bretonne	breton	bretonne	ADJ;FEM;SG	
+engagée	αρραβωνιασμένοι	engager	αρραβωνιάζω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+mythe	μύθους	mythe	μύθος	N;MASC;SG	N;ACC;MASC;PL
+mythe	μύθοι	mythe	μύθος	N;MASC;SG	N;NOM;MASC;PL
+faso	φάσο	faso	φάσο	N;MASC;SG	
+mohammed	μωάμεθ	mohammed	μωάμεθ	PROPN	N;NOM;NEUT;SG
+mohammed	μοχάμεντ	mohammed	μοχάμεντ	PROPN	
+léonard	leonardo	léonard	leonardo	PROPN	
+léonard	λεονάρντο	léonard	λεονάρντος	PROPN	
+léonard	λέοναρντ	léonard	λέοναρντ	PROPN	PROPN;NOM;MASC;SG
+léonard	leonard	léonard	leonard	PROPN	
+flammarion	φλαμαριόν	flammarion	φλαμαριόν	PROPN	N
+extérieure	υπαίθρια	extérieur	υπαίθριος	ADJ;FEM;SG	PROPN;NOM;FEM;SG
+extérieure	εξωτερικά	extérieur	εξωτερικά	ADJ;FEM;SG	ADV
+extérieure	εξωτερικό	extérieur	εξωτερικό	ADJ;FEM;SG	N;NOM;NEUT;SG
+philosophique	φιλοσοφία	philosophique	φιλοσοφία	ADJ;MASC;SG	N;NOM;FEM;SG
+styles	στυλ	style	στυλ	N;MASC;PL	N;NOM;NEUT;SG
+styles	στάιλς	style	στάιλς	N;MASC;PL	
+europa	europa	europa	europa	PROPN	
+guyane	γουιάνα	guyane	γουιάνα	ADJ;FEM;SG	PROPN;ACC;FEM;SG
+rappeler	ανάκληση	rappeler	ανάκληση	V;NFIN	N;ACC;FEM;SG
+talk	μιλήσω	talk	μιλώ	PROPN	V;PFV;IND;SG;1;FIN;ACT
+talk	μιλήστε	talk	μιλώ	PROPN	V;PFV;IMP;PL;2;FIN;ACT
+talk	μίλα	talk	μίλος	PROPN	
+alexandra	αλεξάνδρα	alexandra	αλεξάνδρος	PROPN	PROPN;NOM;FEM;SG
+caméra	φωτογραφική	caméra	φωτογραφικός	N;FEM;SG	ADJ;NOM;FEM;SG
+andreas	ανδρέα	andreas	ανδρέα	PROPN	PROPN;ACC;MASC;SG
+andreas	ανδρέας	andreas	ανδρέα	PROPN	PROPN;NOM;MASC;SG
+andreas	andreas	andreas	andreas	PROPN	
+andreas	αντρέας	andreas	αντρέα	PROPN	N;NOM;MASC;SG
+régulier	τακτικά	régulier	τακτικός	ADJ;MASC;SG	ADV
+grandeur	μεγαλεία	grandeur	μεγάλειο	N;FEM;SG	N;NOM;NEUT;PL
+sound	ήχο	sound	ήχο	PROPN	N;ACC;MASC;SG
+sound	ήχος	sound	ήχος	PROPN	N;NOM;MASC;SG
+werner	βέρνερ	werner	βέρνερ	PROPN	PROPN;NOM;MASC;SG
+airlines	airlines	airline	airlines	N;FEM;PL	
+garcia	garcia	garcia	garcia	PROPN	
+garcia	γκαρσία	garcia	γκαρσία	PROPN	
+accessibles	προσβάσιμο	accessible	προσβάσιμο	ADJ;MASC;PL	N;NOM;NEUT;SG
+accessibles	προσβάσιμη	accessible	προσβάσιμος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+accessibles	προσιτή	accessible	προσιτός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+accessibles	προσιτό	accessible	προσιτό	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+attribuée	αποδίδεται	attribuer	αποδίδω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+sergio	σέρτζιο	sergio	σέρτζιος	PROPN	
+calme	ηρεμία	calme	ηρεμία	ADJ;MASC;SG	N;NOM;FEM;SG
+calme	ήρεμος	calme	ήρεμος	ADJ;MASC;SG	PROPN;NOM;MASC;SG
+calme	ήσυχα	calme	ησύχα	ADJ;MASC;SG	ADV
+calme	ησυχία	calme	ησυχία	ADJ;MASC;SG	N;ACC;FEM;SG
+signification	εννοώντας	signification	εννοώ	N;FEM;SG	V;IPFV;V.CVB;ACT
+todd	τοντ	todd	τοντ	PROPN	
+panama	παναμά	panama	παναμύς	PROPN	PROPN;NOM;NEUT;SG
+globale	γενικά	global	γενικά	ADJ;FEM;SG	ADV
+globale	συνολικά	global	συνολικά	ADJ;FEM;SG	ADV
+hunter	χάντερ	hunter	χάντερ	PROPN	
+hunter	κυνηγός	hunter	κυνηγός	PROPN	N;NOM;MASC;SG
+hunter	hunter	hunter	hunter	PROPN	
+heureux	ευτυχισμένη	heureux	ευτυχίζω	ADJ;MASC;SG	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+heureux	ευτυχισμένος	heureux	ευτυχισμένος	ADJ;MASC;SG	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+alaska	αλάσκα	alaska	αλάσκα	PROPN	PROPN;NOM;FEM;SG
+perdues	χάθηκε	perdre	χάνω	V;FEM;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+perdues	χαμένος	perdre	χαμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+perdues	χαμένη	perdre	χαμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+moments	moments	moment	moments	N;MASC;PL	
+perse	περσία	perse	περσία	PROPN	PROPN;NOM;FEM;SG
+perse	perse	perse	perse	PROPN	
+phoenix	φοίνικας	phoenix	φοίνικος	PROPN	ADJ;NOM;MASC;SG
+phoenix	φοίνιξ	phoenix	φοίνιξ	PROPN	PROPN;NOM;FEM;SG
+phoenix	phoenix	phoenix	phoenix	PROPN	
+phoenix	φοίνικα	phoenix	φοίνικος	PROPN	ADJ;NOM;NEUT;SG
+valley	κοιλάδα	valley	κοιλάδα	PROPN	N;ACC;FEM;SG
+valley	valley	valley	valley	PROPN	
+valley	βάλεϊ	valley	βάλεϊ	PROPN	
+lópez	lópez	lópez	lópez	PROPN	
+lópez	λόπεζ	lópez	λόπεζ	PROPN	
+lópez	lopez	lópez	lopez	PROPN	
+erik	erik	erik	erik	PROPN	
+erik	έρικ	erik	έρικ	PROPN	PROPN;NOM;MASC;SG
+comprennent	συμπεριλάβετε	comprendre	συμπεριλαμβάνω	V;IND;PL;3;PRS;FIN	V;PFV;IND;PL;2;FIN;ACT
+comprennent	συμπερίληψη	comprendre	συμπερίληψη	V;IND;PL;3;PRS;FIN	N;ACC;FEM;SG
+magic	μαγική	magic	μαγικός	PROPN	ADJ;NOM;FEM;SG
+magic	μαγεία	magic	μαγείο	PROPN	N;ACC;FEM;SG
+magic	μαγικά	magic	μαγικά	PROPN	ADV
+magic	μαγικό	magic	μαγικός	PROPN	ADJ;NOM;NEUT;SG
+peugeot	peugeot	peugeot	peugeot	N;MASC;SG	
+piémont	πεδεμόντιο	piémont	πεδεμόντιος	N;MASC;SG	PROPN;NOM;NEUT;SG
+successifs	διαδοχικά	successif	διαδοχικά	ADJ;MASC;PL	ADV
+chapeau	καπέλα	chapeau	καπέλα	N;MASC;SG	N;NOM;NEUT;PL
+vénus	αφροδίτη	vénu	αφροδίτης	PROPN	PROPN;NOM;FEM;SG
+portait	φορούσε	porter	φορώ	V;IND;SG;3;IPFV;FIN	V;IPFV;IND;SG;3;PST;FIN;ACT
+comptant	κας	compter	κας	V;PRS;V.PTCP	
+comptant	μετρητά	compter	μετρητά	V;PRS;V.PTCP	N;NOM;NEUT;SG
+ted	τεντ	ted	τεντ	PROPN	PROPN;NOM;MASC;SG
+ted	ted	ted	ted	PROPN	
+uniforme	στολές	uniforme	στολή	ADJ;MASC;SG	N;NOM;FEM;PL
+uniforme	ένστολοι	uniforme	ένστολος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+uniforme	στολή	uniforme	στολή	ADJ;MASC;SG	N;NOM;FEM;SG
+libéraux	φιλελεύθερους	libéral	φιλελεύθερος	N;MASC;PL	ADJ;NOM;MASC;PL
+libéraux	φιλελεύθεροι	libéral	φιλελεύθερος	N;MASC;PL	ADJ;NOM;MASC;PL
+libéraux	φιλελεύθερο	libéral	φιλελεύθερος	N;MASC;PL	ADJ;NOM;NEUT;SG
+libéraux	φιλελεύθερη	libéral	φιλελεύθερος	N;MASC;PL	ADJ;NOM;FEM;SG
+libéraux	φιλελεύθερος	libéral	φιλελεύθερος	N;MASC;PL	ADJ;NOM;MASC;SG
+portugaise	πορτογαλικά	portugais	πορτογαλικά	ADJ;FEM;SG	ADV
+portugaise	πορτογάλοι	portugais	πορτογάλος	ADJ;FEM;SG	PROPN;NOM;MASC;PL
+supérieurs	ανώτερη	supérieur	ανώτερος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+supérieurs	ανώτερος	supérieur	άνω	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+scandale	σκάνδαλα	scandale	σκάνδαλο	N;MASC;SG	N;NOM;NEUT;PL
+festivals	φεστιβάλ	festival	φεστιβάλ	N;MASC;PL	N;NOM;NEUT;SG
+jésuites	ιησουίτες	jésuite	ιησουίτης	N;MASC;PL	ADJ;NOM;MASC;PL
+isle	νήσος	isle	νήσος	N;FEM;SG	PROPN;NOM;FEM;SG
+sebastian	σεμπάστιαν	sebastian	σεμπάστιαν	PROPN	V;PFV;IND;SG;3;PST;FIN;PASS
+sebastian	σεμπαστιάν	sebastian	σεμπαστιάν	PROPN	
+alphabétique	αλφαβητικά	alphabétique	αλφαβητικά	ADJ;MASC;SG	ADV
+juliette	τζούλιετ	juliette	τζούλιετ	N;FEM;SG	
+protestants	προτεστάντες	protestant	προτεστάν	ADJ;MASC;PL	N;NOM;MASC;PL
+protestants	προτεστάντης	protestant	προτεστάντης	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+protestants	προτεστάντες	protestant	προτεστάν	ADJ;MASC;PL	N;NOM;MASC;PL
+cristal	κρίσταλ	cristal	κρίσταλ	N;MASC;SG	
+cristal	κρυσταλλική	cristal	κρυσταλλικός	N;MASC;SG	ADJ;NOM;FEM;SG
+cristal	κρίσταλ	cristal	κρίσταλ	N;MASC;SG	
+malaisie	μαλαισίας	malaisie	μαλαισία	PROPN	PROPN;GEN;FEM;SG
+malaisie	μαλαισία	malaisie	μαλαισία	PROPN	PROPN;NOM;FEM;SG
+terminée	ολοκληρώθηκαν	terminer	ολοκληρώνω	V;FEM;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+terminée	ολοκληρωμένα	terminer	ολοκληρώνω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+repas	γεύματα	repas	γεύμα	N;MASC;SG	N;NOM;NEUT;PL
+éthique	ηθικό	éthique	ηθικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+éthique	δεοντολογία	éthique	δεοντολογία	ADJ;MASC;SG	N;NOM;FEM;SG
+hesse	hessen	hesse	hessen	PROPN	
+hesse	έσσε	hesse	έσσε	PROPN	
+halle	halle	halle	halle	N;FEM;SG	
+luxe	deluxe	luxe	deluxe	N;MASC;SG	
+maîtresse	ερωμένη	maîtresse	ερώνω	N;FEM;SG	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+lorenzo	λορέντζο	lorenzo	λορέντζο	PROPN	PROPN;NOM;MASC;SG
+grenade	γρενάδα	grenade	γρενάδα	N;FEM;SG	PROPN;NOM;FEM;SG
+grenade	γρανάδα	grenade	γρανάδα	N;FEM;SG	PROPN;ACC;FEM;SG
+rob	rob	rob	rob	PROPN	
+rob	ρομπ	rob	ρομπ	PROPN	
+casablanca	καζαμπλάνκα	casablanca	καζαμπλάνκα	PROPN	
+dennis	ντένις	dennis	ντένις	PROPN	
+dennis	dennis	dennis	dennis	PROPN	
+mail	mail	mail	mail	N;MASC;SG	
+qualifier	προκριματικό	qualifier	προκριματικός	V;NFIN	N;NOM;NEUT;SG
+mobilier	έπιπλα	mobilier	μπιπλα	N;MASC;SG	N;NOM;NEUT;PL
+cat	κατ	cat	κατ		ADP
+cat	γάτα	cat	γάτα		N;NOM;FEM;SG
+cat	γάτος	cat	γάτος		N;NOM;MASC;SG
+cat	cat	cat	cat		
+bourges	μπουρζ	bourge	μπουρζ	PROPN	PROPN;NOM;FEM;SG
+ressort	ανοιξιάτικες	ressort	ανοιξιάτικος	N;MASC;SG	ADJ;NOM;FEM;PL
+marquer	βαθμολόγησης	marquer	βαθμολόγηση	V;NFIN	N;GEN;FEM;SG
+marquer	μαρκ	marquer	μαρκ	V;NFIN	
+marquer	μάρκ	marquer	μάρκ	V;NFIN	
+marquer	mark	marquer	mark	V;NFIN	
+marquer	βαθμολογία	marquer	βαθμολογία	V;NFIN	N;ACC;FEM;SG
+marquer	σκορ	marquer	σκορ	V;NFIN	
+décoré	διακοσμημένα	décorer	διακοσμημένος	V;MASC;SG;PST;V.PTCP	ADV
+humides	υγρή	humide	υγρή	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+humides	υγρός	humide	υγρός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+humides	υγρό	humide	υγρό	ADJ;MASC;PL	N;NOM;NEUT;SG
+humides	υγρασία	humide	υγρασία	ADJ;MASC;PL	N;NOM;FEM;SG
+humides	υγρή	humide	υγρή	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+humides	υγρός	humide	υγρός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+humides	υγρό	humide	υγρό	ADJ;MASC;PL	N;NOM;NEUT;SG
+léo	λέο	léo	λέος	PROPN	
+léo	λίο	léo	λίο	PROPN	
+léo	λέων	léo	λέος	PROPN	N;NOM;MASC;SG
+léo	leo	léo	leo	PROPN	
+hof	hof	hof	hof	N;MASC;SG	
+condé	conde	conder	conde	PROPN	
+condé	condé	conder	condé	PROPN	
+cohen	κόεν	cohen	κόεν	PROPN	
+cohen	κοέν	cohen	κοέν	PROPN	PROPN;NOM;MASC;SG
+conçue	σχεδιασμένα	concevoir	σχεδιασμένα	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+sarkozy	σαρκοζί	sarkozy	σαρκοζί	PROPN	
+wagner	βάγκνερ	wagner	βάγκνερ	PROPN	
+wurtemberg	württemberg	wurtemberg	württemberg	N;MASC;SG	
+salomon	salomon	salomon	salomon	PROPN	
+salomon	σόλομον	salomon	σόλομον	PROPN	N;NOM;MASC;SG
+salomon	σολομώντα	salomon	σολομώ	PROPN	N;GEN;FEM;PL
+barbe	γένια	barbe	γένια	N;FEM;SG	N;NOM;NEUT;PL
+allié	συμμαχικές	allié	συμμαχικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;PL
+allié	άλι	allié	άλι	V;MASC;SG;PST;V.PTCP	
+allié	σύμμαχος	allié	σύμμαχος	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+dream	ονειρο	dream	ονειρο	PROPN	N;NOM;NEUT;SG
+dream	όνειρο	dream	όνειρο	PROPN	N;NOM;NEUT;SG
+dream	dream	dream	dream	PROPN	
+dream	όνειρα	dream	όνειρα	PROPN	N;NOM;NEUT;PL
+moyennes	μέσος	moyen	μέσος	ADJ;FEM;PL	N;NOM;MASC;SG
+moyennes	μέση	moyen	μέσο	ADJ;FEM;PL	N;NOM;FEM;SG
+moyennes	μέτρια	moyen	μέτρι	ADJ;FEM;PL	N;NOM;FEM;SG
+moyennes	μεσαία	moyen	μεσαίος	ADJ;FEM;PL	ADV
+moyennes	μεσαίο	moyen	μεσαίος	ADJ;FEM;PL	N;NOM;NEUT;SG
+moyennes	μέσο	moyen	μέσος	ADJ;FEM;PL	N;ACC;NEUT;SG
+bibliothèques	βιβλιοθήκες	bibliothèque	βιβλιοθήκη	N;FEM;PL	V;PFV;IND;PL;2;PST;FIN;PASS
+cru	ακατέργαστο	cru	ακατέργαστος	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+cru	ακατέργαστη	cru	ακατέργαστος	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+cru	ακατέργαστα	cru	ακατέργαστα	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;PL
+cru	ωμή	cru	ωμή	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+cru	ωμό	cru	ωμό	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+cru	cru	cru	cru	V;MASC;SG;PST;V.PTCP	
+dessert	επιδόρπια	dessert	επιδόρπιος	N;MASC;SG	N;NOM;NEUT;PL
+blake	μπλέηκ	blake	μπλέηκ	PROPN	
+blake	blake	blake	blake	PROPN	
+blake	μπλέικ	blake	μπλέικ	PROPN	
+peuplée	κατοικημένες	peupler	κατοικημένος	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+expert	ειδικός	expert	ειδικός	N;MASC;SG	ADJ;NOM;MASC;SG
+normand	normand	normand	normand	N;MASC;SG	
+normand	νόρμαν	normand	νόρμαν	N;MASC;SG	
+lourde	βαρύ	lourd	βαρύς	ADJ;FEM;SG	N;NOM;NEUT;SG
+lourde	βαριά	lourd	βαριός	ADJ;FEM;SG	ADV
+holmes	holmes	holme	holmes	PROPN	
+holmes	χόλμς	holme	χόλμς	PROPN	N;NOM;MASC;SG
+holmes	χολμς	holme	χολμς	PROPN	N;NOM;MASC;SG
+renard	φοξ	renard	φοξ	N;MASC;SG	
+renard	fox	renard	fox	N;MASC;SG	
+esclavage	δεσμά	esclavage	δεσμά	N;MASC;SG	N;NOM;NEUT;PL
+video	video	video	video	N;FEM;SG	
+magnétique	μαγνητικές	magnétique	μαγνητικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+magnétique	μαγνητικά	magnétique	μαγνητικά	ADJ;MASC;SG	ADV
+mississippi	μισισιπή	mississippi	μισισιπή	N;MASC;SG	PROPN;NOM;MASC;SG
+ille	ille	ille	ille	PROPN	
+attire	προσέλκυση	attirer	προσέλκυση	V;IND;SG;3;PRS;FIN	N;NOM;FEM;SG
+graines	σπόρο	graine	σπόρο	N;FEM;PL	N;NOM;NEUT;SG
+graines	σπόρος	graine	σπόρος	N;FEM;PL	N;NOM;MASC;SG
+républicaine	ρεπουμπλικάνος	républicain	ρεπουμπλικάνος	ADJ;FEM;SG	N;NOM;MASC;SG
+rtl	rtl	rtl	rtl	PROPN	
+nova	νόβα	nova	νόβος	PROPN	PROPN;NOM;FEM;SG
+nova	nova	nova	nova	PROPN	
+réputé	ευυπόληπτη	réputer	εύποληπτος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+isolées	μόνωση	isoler	μόνωση	V;FEM;PL;PST;V.PTCP	N;NOM;FEM;SG
+isolées	απομονωμένος	isoler	απομονωμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+isolées	απομονωμένο	isoler	απομονωμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+isolées	απομονωμένη	isoler	απομονωμένος	V;FEM;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+fixé	σταθερό	fixer	σταθερός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+fixé	σταθερή	fixer	σταθερός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+fixé	σταθερά	fixer	σταθερά	V;MASC;SG;PST;V.PTCP	ADV
+tueur	δολοφόνος	tueur	δολοφόνος	N;MASC;SG	ADJ;NOM;MASC;SG
+envoyés	απεσταλμένοι	envoyer	απεστάλλωνος	V;MASC;PL;PST;V.PTCP	ADJ;NOM;MASC;PL
+envoyés	έστειλε	envoyer	στέλνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+envoyés	στάλθηκε	envoyer	στέλνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+envoyés	εστάλη	envoyer	εστάλλω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+galeries	γκαλερί	galerie	γκαλώ	N;FEM;PL	N;NOM;FEM;SG
+galeries	στοά	galerie	στοά	N;FEM;PL	N;NOM;FEM;SG
+galeries	gallery	galerie	gallery	N;FEM;PL	
+galeries	γκαλερί	galerie	γκαλώ	N;FEM;PL	N;NOM;FEM;SG
+évident	ολοφάνερο	évident	ολοφάνερο	ADJ;MASC;SG	ADV
+évident	προφανή	évident	προφανή	ADJ;MASC;SG	ADV
+coûts	κόστος	coût	κόστος	N;MASC;PL	N;NOM;NEUT;SG
+coûts	cost	coût	cost	N;MASC;PL	
+coûts	κόστος	coût	κόστος	N;MASC;PL	N;NOM;NEUT;SG
+auxerre	auxerre	auxerre	auxerre	PROPN	
+munitions	πυρομαχικά	munition	πυρομαχικά	N;FEM;PL	ADV
+munitions	πυρομαχικά	munition	πυρομαχικά	N;FEM;PL	ADV
+munitions	πυρομαχικών	munition	πυρομαχικός	N;FEM;PL	ADJ;GEN;FEM;PL
+munitions	πυρομαχικά	munition	πυρομαχικά	N;FEM;PL	ADV
+warren	γουόρεν	warren	γουόρεν	PROPN	
+warren	γουώρεν	warren	γουώρεν	PROPN	N;FEM;SG
+warren	warren	warren	warren	PROPN	
+observe	παρατήρησε	observer	παρατηρώ	V;IND;SG;3;PRS;FIN	V;PFV;IND;SG;3;PST;FIN;ACT
+observe	παρατηρήστε	observer	παρατηρώ	V;IND;SG;3;PRS;FIN	V;IPFV;IND;PL;2;PRS;FIN;ACT
+bouddhisme	βουδιστής	bouddhisme	βουδιστής	N;MASC;SG	ADJ;NOM;MASC;SG
+présentés	παρουσίασε	présenter	παρουσιάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+présentés	παρουσιάζεται	présenter	παρουσιάζω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+présentés	παρουσιάστηκε	présenter	παρουσιάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+concepts	έννοιες	concept	έννοιος	N;MASC;PL	ADJ;NOM;FEM;PL
+magnus	μάγκνους	magnu	μάγκνος	PROPN	N;NOM;NEUT;SG
+révélé	αποκαλύπτεται	révéler	αποκαλύπτω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+révélé	γνωστοποιούνται	révéler	γνωστοποιώ	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+parlementaires	βουλευτές	parlementaire	βουλευτής	ADJ;MASC;PL	N;NOM;MASC;PL
+renseignements	πληροφορία	renseignement	πληροφορία	N;MASC;PL	N;ACC;FEM;SG
+renseignements	πληροφόρηση	renseignement	πληροφόρηση	N;MASC;PL	N;ACC;FEM;SG
+collins	collins	collin	collins	PROPN	
+collins	κόλλινς	collin	κόλλινς	PROPN	N;NOM;MASC;SG
+collins	κόλινς	collin	κόλινς	PROPN	
+blocs	μπλοκ	bloc	μπλοκ	N;MASC;PL	N;NOM;NEUT;SG
+blocs	τετράγωνα	bloc	τετράγωνος	N;MASC;PL	ADV
+acheté	αγοράστηκαν	acheter	αγοράζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+acheté	αγοράζονται	acheter	αγοράζω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+acheté	αγοράστηκαν	acheter	αγοράζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+bolivie	βολιβίας	bolivie	βολιβία	PROPN	PROPN;GEN;FEM;SG
+bolivie	βολιβία	bolivie	βολιβία	PROPN	PROPN;ACC;FEM;SG
+coupé	κόψτε	couper	κόψτε	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;2;PRS;FIN;ACT
+coupé	κομμένα	couper	κομμένος	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;PL
+coupé	κόψιμο	couper	κόψιμο	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+coupé	κουπέ	couper	κουπέ	V;MASC;SG;PST;V.PTCP	
+#aaa	#aaa	#aaa	#aaa	PROPN	
+cerf	ελάφια	cerf	ελάφιος	N;MASC;SG	N;NOM;NEUT;PL
+courtes	κοντή	court	κοντός	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+courtes	κοντός	court	κοντός	ADJ;FEM;PL	ADJ;NOM;MASC;SG
+courtes	σύντομο	court	σύντομο	ADJ;FEM;PL	N;NOM;NEUT;SG
+courtes	σύντομη	court	σύντομος	ADJ;FEM;PL	N;NOM;FEM;SG
+courtes	σύντομος	court	σύντομος	ADJ;FEM;PL	N;NOM;MASC;SG
+révolutionnaires	επαναστάτης	révolutionnaire	επαναστάτης	ADJ;MASC;PL	N;NOM;MASC;SG
+révolutionnaires	επαναστατική	révolutionnaire	επαναστατικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+révolutionnaires	επαναστατικό	révolutionnaire	επαναστατικό	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+révolutionnaires	επαναστάτες	révolutionnaire	επαναστάτης	ADJ;MASC;PL	N;NOM;MASC;PL
+oblige	υποχρεώνουν	obliger	υποχρεώνω	V;IND;SG;3;PRS;FIN	V;IPFV;IND;PL;3;PRS;FIN;ACT
+palatinat	παλατινάτου	palatinat	παλατίνατος	N;MASC;SG	PROPN;GEN;MASC;SG
+noces	γάμο	noce	γάμος	N;FEM;PL	N;NOM;NEUT;SG
+noces	γάμος	noce	γάμος	N;FEM;PL	N;NOM;MASC;SG
+poméranie	πομερανία	poméranie	πομερανία	N;FEM;SG	PROPN;ACC;FEM;SG
+sylvie	σίλβια	sylvie	σίλβια	PROPN	N;NOM;FEM;SG
+sylvie	σύλβια	sylvie	σύλβια	PROPN	N;NOM;FEM;SG
+sylvie	ντέιβιντ	sylvie	ντέιβιντ	PROPN	
+sylvie	david	sylvie	david	PROPN	
+sylvie	νταβίντ	sylvie	νταβίντ	PROPN	
+sylvie	δαβίδ	sylvie	δαβίδ	PROPN	N;NOM;MASC;SG
+sylvie	sylvie	sylvie	sylvie	PROPN	
+sylvie	σούζαν	sylvie	σούζαν	PROPN	
+sylvie	susan	sylvie	susan	PROPN	
+posthume	μεταθανάτια	posthume	μεταθανάτιος	ADJ;MASC;SG	PROPN;NOM;FEM;SG
+posthume	μεταθανάτια	posthume	μεταθανάτιος	ADJ;MASC;SG	PROPN;NOM;FEM;SG
+wolfgang	βόλφγκανγκ	wolfgang	βόλφγκανγκ	PROPN	
+reçoivent	λάβετε	recevoir	λαμβάνω	V;IND;PL;3;PRS;FIN	V;PFV;IMP;PL;2;FIN;ACT
+bal	bal	bal	bal	N;MASC;SG	
+câble	καλώδια	câble	καλώδι	N;MASC;SG	N;NOM;NEUT;PL
+câble	καλωδιακή	câble	καλωδιακός	N;MASC;SG	ADJ;NOM;FEM;SG
+lost	χάθηκε	lost	χάνω	PROPN	V;PFV;IND;SG;3;PST;FIN;PASS
+lost	χαμένος	lost	χαμένος	PROPN	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+lost	χάσαμε	lost	χάνω	PROPN	V;PFV;IND;PL;1;PST;FIN;ACT
+lost	χαμένη	lost	χαμένος	PROPN	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+lost	χάσει	lost	χάνω	PROPN	V;PFV;NFIN;ACT
+lost	χαμένοι	lost	χάνω	PROPN	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+johan	γιόχαν	johan	γίοχας	PROPN	
+cbs	κτ	cbs	κτ	PROPN	N
+cbs	cbs	cbs	cbs	PROPN	
+exercer	εξάσκηση	exercer	εξάσκηση	V;NFIN	N;ACC;FEM;SG
+irlandaise	ιρλανδικά	irlandais	ιρλανδικά	ADJ;FEM;SG	ADV
+irlandaise	ιρλανδοί	irlandais	ιρλανδός	ADJ;FEM;SG	PROPN;NOM;MASC;PL
+irlandaise	irish	irlandais	irish	ADJ;FEM;SG	
+irlandaise	ιρλανδός	irlandais	ιρλανδός	ADJ;FEM;SG	N;NOM;MASC;SG
+escadre	wing	escadre	wing	N;FEM;SG	
+slovénie	σλοβενία	slovénie	σλοβενία	ADJ;FEM;SG	PROPN;ACC;FEM;SG
+piliers	κολόνα	pilier	κολόνας	N;MASC;PL	N;NOM;FEM;SG
+piliers	πυλώνας	pilier	πυλώνας	N;MASC;PL	N;NOM;MASC;SG
+piliers	πυλώνα	pilier	πυλώνας	N;MASC;PL	N;ACC;MASC;SG
+talents	ταλέντο	talent	ταλέντος	N;MASC;PL	N;NOM;NEUT;SG
+diplomatique	διπλωματικά	diplomatique	διπλωματικά	ADJ;MASC;SG	ADV
+doux	γλυκό	doux	γλυκό	ADJ;MASC;SG	N;NOM;NEUT;SG
+doux	γλυκά	doux	γλυκά	ADJ;MASC;SG	N;NOM;NEUT;PL
+doux	γλυκιά	doux	γλυκιά	ADJ;MASC;SG	N;NOM;FEM;SG
+doux	ήπιες	doux	ήπιος	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+doux	απαλά	doux	απαλός	ADJ;MASC;SG	N;NOM;NEUT;PL
+doux	μαλακά	doux	μαλακά	ADJ;MASC;SG	N;NOM;NEUT;PL
+capables	ικανός	capable	ικανός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+capables	ικανό	capable	ικανός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+capables	ικανή	capable	ικανός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+romaines	ρωμαϊκό	romain	ρωμαϊκός	ADJ;FEM;PL	ADJ;NOM;NEUT;SG
+romaines	ρωμαϊκή	romain	ρωμαϊκός	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+romaines	ρωμαίος	romain	ρωμαίος	ADJ;FEM;PL	PROPN;NOM;MASC;SG
+romaines	ρόμαν	romain	ρόμα	ADJ;FEM;PL	
+achevé	ολοκληρώθηκαν	achever	ολοκληρώνω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+achevé	ολοκληρωμένα	achever	ολοκληρώνω	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+joint	άρθρωση	joindre	άρθρωση	V;MASC;SG;PST;V.PTCP	N;ACC;FEM;SG
+immédiate	αμεσα	immédiat	αμεσα	ADJ;FEM;SG	ADV
+nigeria	νιγηρίας	nigeria	νιγηρία	PROPN	PROPN;GEN;FEM;SG
+nigeria	νιγηρία	nigeria	νιγηρία	PROPN	PROPN;ACC;FEM;SG
+lou	λου	lou	λου		
+lou	lou	lou	lou		
+gaulois	γαλατία	gaulois	γαλατία	ADJ;MASC;SG	N;ACC;FEM;SG
+gaulois	gaulois	gaulois	gaulois	ADJ;MASC;SG	
+gaulois	γαλάτες	gaulois	γαλάτης	ADJ;MASC;SG	N;NOM;MASC;PL
+émilie	έμιλυ	émilie	έμιλος	PROPN	PROPN;NOM;FEM;SG
+émilie	έμιλι	émilie	έμιλι	PROPN	PROPN;NOM;FEM;SG
+émilie	emily	émilie	emily	PROPN	
+convaincu	πεπεισμένος	convaincre	πεπεισμένος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+nacional	nacional	nacional	nacional	PROPN	
+malades	άρρωστος	malade	άρρωστος	N;MASC;PL	ADJ;NOM;MASC;SG
+malades	άρρωστος	malade	άρρωστος	N;MASC;PL	ADJ;NOM;MASC;SG
+malades	άρρωστοι	malade	άρρωστος	N;MASC;PL	ADJ;NOM;MASC;PL
+malades	άρρωστη	malade	άρρωστος	N;MASC;PL	ADJ;NOM;FEM;SG
+malades	άρρωστο	malade	άρρωστος	N;MASC;PL	ADJ;NOM;NEUT;SG
+leonard	λέοναρντ	leonard	λέοναρντ	PROPN	PROPN;NOM;MASC;SG
+leonard	leonard	leonard	leonard	PROPN	
+hainaut	hainaut	hainer	hainaut	N;MASC;SG	
+dérive	παρασύρεται	dérive	παρασύρω	N;FEM;SG	V;IPFV;IND;SG;3;PRS;FIN;PASS
+eurovision	eurovision	eurovision	eurovision	N;FEM;SG	
+juges	κριτές	juge	κριτός	N;MASC;PL	NUM;NOM;MASC;PL
+hms	hms	hm	hms	N;MASC;SG	
+keith	κηθ	keith	κηθ	PROPN	N
+keith	keith	keith	keith	PROPN	
+keith	κιθ	keith	κιθ	PROPN	
+dommages	ζημία	dommage	ζημία	N;MASC;PL	N;ACC;FEM;SG
+dommages	βλάβη	dommage	βλάβη	N;MASC;PL	N;ACC;FEM;SG
+dommages	ζημιά	dommage	ζημιά	N;MASC;PL	N;ACC;FEM;SG
+organique	οργανικά	organique	οργανικά	ADJ;MASC;SG	ADV
+organique	βιολογικά	organique	βιολογικά	ADJ;MASC;SG	ADV
+organique	οργανικές	organique	οργανικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+impôt	φόρους	impôt	φόρος	N;MASC;SG	N;ACC;MASC;PL
+impôt	φόροι	impôt	φόρος	N;MASC;SG	N;NOM;MASC;PL
+bombardement	βομβαρδισμοί	bombardement	βομβαρδισμός	N;MASC;SG	N;NOM;MASC;PL
+guadeloupe	γουαδελούπη	guadeloupe	γουαδελούπος	N;FEM;SG	PROPN;NOM;FEM;SG
+violoncelle	τσέλο	violoncelle	τσέλο	N;MASC;SG	
+impliqué	εμπλέκεται	impliquer	εμπλέκω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+ancêtre	προγόνων	ancêtre	προγόνο	N;MASC;SG	N;GEN;NEUT;PL
+memorial	μνημείο	memorial	μνημείο	PROPN	N;NOM;NEUT;SG
+memorial	μεμόριαλ	memorial	μεμόριαλ	PROPN	N;NOM;NEUT;SG
+sfondo	sfondo	sfondo	sfondo	PROPN	
+bros	αδέρφια	bros	αδέρφι	PROPN	N;NOM;NEUT;PL
+bros	bros	bros	bros	PROPN	
+demain	αυριο	demain	αυριο	ADV	N;VOC;FEM;SG
+nasa	nasa	nasa	nasa	N;FEM;SG	
+mensuel	μηνιαίως	mensuel	μηνιαίως	ADJ;MASC;SG	ADV
+mensuel	μηνιαίες	mensuel	μηνιαίος	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+mensuel	μηνιαίο	mensuel	μηνιαίος	ADJ;MASC;SG	N;NOM;NEUT;SG
+équipée	εξοπλισμένοι	équiper	εξοπλίζω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+équipée	εξοπλισμένα	équiper	εξοπλισμένος	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+dakar	ντακάρ	dakar	ντακάρ	PROPN	PROPN;NOM;NEUT;SG
+profond	βαθύς	profond	βαθύς	ADJ;MASC;SG	N;NOM;MASC;SG
+profond	βαθιά	profond	βαθύς	ADJ;MASC;SG	ADV
+profond	βαθύ	profond	βαθύς	ADJ;MASC;SG	N;NOM;NEUT;SG
+profond	βαθύ	profond	βαθύς	ADJ;MASC;SG	N;NOM;NEUT;SG
+occitan	οξιτανικά	occitan	οξιτανικά	N;MASC;SG	ADJ;NOM;NEUT;PL
+spécialisés	εξειδικευμένο	spécialiser	εκειδικεύω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+spécialisés	εξειδικευμένη	spécialiser	εκειδικεύω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+systématiquement	συστηματικές	systématiquement	συστηματικός	ADV	ADJ;NOM;FEM;PL
+systématiquement	συστηματικό	systématiquement	συστηματικός	ADV	ADJ;NOM;NEUT;SG
+systématiquement	συστηματική	systématiquement	συστηματικός	ADV	ADJ;NOM;FEM;SG
+protéines	πρωτεΐνη	protéine	πρωτεύνω	N;FEM;PL	N;NOM;FEM;SG
+récent	πρόσφατα	récent	πρόσφατα	ADJ;MASC;SG	ADV
+récent	προσφάτως	récent	προσφάτως	ADJ;MASC;SG	ADV
+récent	πρόσφατα	récent	πρόσφατα	ADJ;MASC;SG	ADV
+récent	πρόσφατο	récent	πρόσφατος	ADJ;MASC;SG	N;NOM;NEUT;SG
+récent	πρόσφατες	récent	πρόσφατα	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+accompagnée	συνοδεύεται	accompagner	συνοδεύω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+accompagnée	συνοδεύονται	accompagner	συνοδεύω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+accompagnée	συνοδευόμενη	accompagner	συνοδευόμενος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+hollandais	ολλανδός	hollandais	ολλανδός	ADJ;MASC;SG	PROPN;NOM;MASC;SG
+hollandais	ολλανδικά	hollandais	ολλανδικά	ADJ;MASC;SG	ADV
+hollandais	ντατς	hollandais	ντατς	ADJ;MASC;SG	N
+intéressé	ενδιαφέρεται	intéresser	ενδιαφέρω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+intéressé	ενδιαφέρομαι	intéresser	ενδιαφέρομαι	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;1;PRS;FIN;PASS
+intéressé	ενδιαφέρονται	intéresser	ενδιαφέρω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+intéressé	ενδιαφερόμενα	intéresser	ενδιαφερόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+betty	μπέτι	betty	μπέτι	INTJ	
+betty	μπέτυ	betty	μπέτυ	INTJ	N;NOM;FEM;SG
+betty	betty	betty	betty	INTJ	
+haye	χάγη	haye	χάγη	N;FEM;SG	PROPN;ACC;FEM;SG
+rochefort	ροσφόρ	rochefort	ροσφόρ	N;MASC;SG	
+martinique	μαρτινίκα	martinique	μαρτινίκα	ADJ;MASC;SG	PROPN;NOM;FEM;SG
+esp	εσκ	esp	εσκ		N
+esp	πιλ	esp	πιλ		N
+esp	esp	esp	esp		
+mathématique	μαθηματικά	mathématique	μαθηματικά	ADJ;MASC;SG	ADV
+mathématique	μαθηματικά	mathématique	μαθηματικά	ADJ;MASC;SG	ADV
+ita	ita	ita	ita		
+baccalauréat	baccalauréat	baccalauréat	baccalauréat	N;MASC;SG	
+baccalauréat	μπάτσελορ	baccalauréat	μπάτσελορ	N;MASC;SG	
+baccalauréat	εργένης	baccalauréat	εργένη	N;MASC;SG	ADJ;NOM;MASC;SG
+gonzález	γκονζάλες	gonzáler	γκονζάλας	PROPN	N;NOM;MASC;PL
+wikidata	wikidata	wikidata	wikidata	N;MASC;SG	N;NOM;NEUT;PL
+dialogues	διάλογο	dialogue	διάλογος	N;MASC;PL	N;ACC;MASC;SG
+dialogues	διάλογος	dialogue	διάλογος	N;MASC;PL	N;NOM;MASC;SG
+appliquée	εφαρμόζεται	appliquer	εφαρμόζω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+appliquée	εφαρμοζόμενη	appliquer	εφαρμοζόμενος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+passes	περνάει	passe	περνώ	N;FEM;PL	V;IPFV;IND;SG;3;PRS;FIN;ACT
+atlético	ατλέτικο	atlético	ατλέτικο	N;MASC;SG	
+mesurer	μέτρησης	mesurer	μέτρηση	V;NFIN	N;GEN;FEM;SG
+mesurer	μέτρηση	mesurer	μέτρηση	V;NFIN	N;NOM;FEM;SG
+mesurer	μετρήσεις	mesurer	μέτρηση	V;NFIN	N;NOM;FEM;PL
+mesurer	μέτρηση	mesurer	μέτρηση	V;NFIN	N;NOM;FEM;SG
+mesurer	μέτρο	mesurer	μέτρο	V;NFIN	N;NOM;NEUT;SG
+joachim	joa	joachim	joa	PROPN	
+gallois	welsh	gallois	welsh	ADJ;MASC;SG	
+jupiter	δία	jupiter	δία	PROPN	N;VOC;MASC;SG
+jupiter	δίας	jupiter	δία	PROPN	PROPN;NOM;MASC;SG
+protestante	προτεστάντες	protestant	προτεστάν	ADJ;FEM;SG	N;NOM;MASC;PL
+wwe	wwe	wwe	wwe	PROPN	
+grace	γκρέις	grace	γκρέι	N;FEM;SG	PROPN;NOM;FEM;SG
+précipitations	κατακρήμνιση	précipitation	κατακρήμνιση	N;FEM;PL	N;ACC;FEM;SG
+marianne	μάριαν	marianne	μάριαν	ADJ;FEM;SG	V;IPFV;IND;PL;3;PST;FIN;ACT
+marianne	μαριάννα	marianne	μαριάννα	ADJ;FEM;SG	PROPN;NOM;FEM;SG
+marianne	μαριάν	marianne	μαριάν	ADJ;FEM;SG	N
+bohême	βοημία	bohême	βοημία	ADJ;MASC;SG	PROPN;ACC;FEM;SG
+bohême	μποέμ	bohême	μποέμ	ADJ;MASC;SG	
+paire	ζεύγη	paire	ζεύγος	N;FEM;SG	N;NOM;NEUT;PL
+santos	santos	santo	santos	PROPN	
+santos	σάντος	santo	σάντος	PROPN	
+tombes	γκρέιβς	tombe	γκρέια	N;FEM;PL	PROPN;NOM;MASC;SG
+tombes	τάφος	tombe	τάφος	N;FEM;PL	N;NOM;MASC;SG
+tombes	τάφο	tombe	τάφος	N;FEM;PL	N;ACC;MASC;SG
+adolf	αδόλφος	adolf	αδόλφος	PROPN	N;NOM;MASC;SG
+récents	πρόσφατα	récent	πρόσφατα	ADJ;MASC;PL	ADV
+récents	πρόσφατο	récent	πρόσφατος	ADJ;MASC;PL	N;NOM;NEUT;SG
+récents	πρόσφατη	récent	πρόσφατος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+réservoir	τανκ	réservoir	τανκ	N;MASC;SG	
+approfondir	εμβάθυνση	approfondir	εμβάθυνση	V;NFIN	N;ACC;FEM;SG
+linda	λίντα	linda	λίντα	PROPN	PROPN;NOM;FEM;SG
+missile	πυραύλων	missile	πύραυλος	N;MASC;SG	N;GEN;MASC;PL
+utiles	χρήσιμο	utile	χρήσιμο	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+utiles	χρήσιμη	utile	χρήσιμος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+utiles	χρήσιμος	utile	χρήσιμος	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+utiles	χρήσιμο	utile	χρήσιμο	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+utiles	χρήσιμη	utile	χρήσιμος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+glasgow	γλασκώβη	glasgow	γλασκώβης	PROPN	PROPN;NOM;FEM;SG
+écoute	ακούγοντας	écoute	ακούω	N;FEM;SG	V;IPFV;V.CVB;ACT
+harrison	χάρισον	harrison	χάρισον	PROPN	
+harrison	harrison	harrison	harrison	PROPN	
+wallonie	βαλλονία	wallonie	βαλλονία	N;FEM;SG	PROPN;NOM;FEM;SG
+représentés	εκπροσωπείται	représenter	εκπροσωπώ	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+représentés	εκπροσωπούνται	représenter	εκπροσωπώ	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+richelieu	ρισελιέ	richelieu	ρισελιά	N;MASC;SG	PROPN;NOM;MASC;SG
+boxeur	μπόξερ	boxeur	μπόξερ	N;MASC;SG	
+boxeur	μποξέρ	boxeur	μποξέρ	N;MASC;SG	
+boxeur	μαχητικό	boxeur	μαχητικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+boxeur	μαχητής	boxeur	μαχητής	N;MASC;SG	ADJ;NOM;MASC;SG
+parisiens	παριζιάνοι	parisien	παριζιάνος	ADJ;MASC;PL	N;NOM;MASC;SG
+qualifiée	ικανός	qualifier	ικανός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+qualifiée	προσόντα	qualifier	προσόν	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;PL
+fifa	fifa	fif	fifa	N;FEM;SG	
+finance	χρηματοοικονομικά	finance	χρηματοοικονομικά	N;FEM;SG	ADV
+finance	οικονομικών	finance	οικονομικός	N;FEM;SG	ADJ;GEN;FEM;PL
+vedette	star	vedette	star	N;FEM;SG	
+vedette	σταρ	vedette	σταρ	N;FEM;SG	
+vedette	προτεινόμενα	vedette	προτεινόμενος	N;FEM;SG	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+critère	κριτήρια	critère	κριτήριο	N;MASC;SG	N;NOM;NEUT;PL
+stanislas	stanislas	stanislas	stanislas	PROPN	
+tensions	ένταση	tension	ένταση	N;FEM;PL	N;ACC;FEM;SG
+lucie	lucie	lucie	lucie	PROPN	
+lucie	λούση	lucie	λούση	PROPN	N;NOM;FEM;SG
+lucie	λούσυ	lucie	λούσυ	PROPN	PROPN;NOM;MASC;SG
+lucie	λούσι	lucie	λούσι	PROPN	PROPN;NOM;FEM;SG
+lucie	λουσία	lucie	λουσία	PROPN	PROPN;NOM;FEM;SG
+rica	ρίκα	rica	ρίκα	PROPN	
+casse	διαλείμματα	casse	διάλειμμα	N;FEM;SG	N;NOM;NEUT;PL
+casse	σπάει	casse	σπάω	N;FEM;SG	V;IPFV;IND;SG;3;PRS;FIN;ACT
+bête	τέρας	bête	τέρας	ADJ;FEM;SG	N;NOM;NEUT;SG
+bête	θηρίο	bête	θηρίο	ADJ;FEM;SG	N;NOM;NEUT;SG
+bête	κτήνος	bête	κτήνος	ADJ;FEM;SG	N;NOM;MASC;SG
+impôts	φόρου	impôt	φόρος	N;MASC;PL	N;GEN;MASC;SG
+impôts	φόρος	impôt	φόρος	N;MASC;PL	N;NOM;MASC;SG
+brigitte	μπρίτζετ	brigitte	μπρίτζετ	N;FEM;SG	
+brigitte	μπριζίτ	brigitte	μπριζίτ	N;FEM;SG	
+adapter	προσαρμογή	adapter	προσαρμογή	V;NFIN	N;NOM;FEM;SG
+adapter	προσαρμογή	adapter	προσαρμογή	V;NFIN	N;NOM;FEM;SG
+bull	bull	bull	bull	PROPN	
+bull	ταύρος	bull	ταύρος	PROPN	N;NOM;MASC;SG
+bull	ταύρο	bull	ταύρο	PROPN	N;ACC;MASC;SG
+bull	μπουλ	bull	μπουλ	PROPN	NUM
+craig	craig	craig	craig	PROPN	
+craig	κρεγκ	craig	κρεγκ	PROPN	
+évalué	ονομαστική	évaluer	ονομαστικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+évalué	αξιολογήθηκαν	évaluer	αξιολογώ	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+saintes	αγίων	saint	άγιος	ADJ;FEM;PL	N;GEN;NEUT;PL
+saintes	άγιο	saint	άγιος	ADJ;FEM;PL	N;NOM;MASC;SG
+saintes	ιερό	saint	ιερός	ADJ;FEM;PL	N;NOM;NEUT;SG
+saintes	ιερά	saint	ιερός	ADJ;FEM;PL	ADV
+rond	στρογγυλά	rond	στρογγυλά	N;MASC;SG	N;NOM;NEUT;PL
+rond	στρογγυλή	rond	στρογγυλή	N;MASC;SG	ADJ;NOM;FEM;SG
+bnf	bnf	bnf	bnf	N;FEM;SG	
+rudolf	ρούντολφ	rudolf	ρούντολφ	PROPN	PROPN;NOM;MASC;SG
+linux	linux	linux	linux	N;MASC;SG	
+celtique	κέλτικο	celtique	κέλτικος	ADJ;MASC;SG	N;NOM;NEUT;SG
+singapour	σιγκαπούρη	singapour	σιγκαπούρης	PROPN	PROPN;NOM;FEM;SG
+michelle	michelle	michelle	michelle	N;FEM;SG	
+michelle	μισέλ	michelle	μισέλ	N;FEM;SG	
+puissants	ισχυρός	puissant	ισχυρός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+puissants	ισχυρό	puissant	ισχυρός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+puissants	ισχυρή	puissant	ισχυρός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+restauré	επαναφορά	restaurer	επαναφορά	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+gay	γκέι	gay	γκέι	N;MASC;SG	
+gay	ομοφυλόφιλος	gay	ομοφυλόφιλος	N;MASC;SG	ADJ;NOM;MASC;SG
+gay	gay	gay	gay	N;MASC;SG	
+mannequin	μόντελινγκ	mannequin	μόντελινγκ	N;MASC;SG	PROPN;NOM;NEUT;SG
+intense	εντατικά	intense	εντατικά	ADJ;FEM;SG	ADV
+intense	έντονες	intense	έντονος	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+rendus	rendus	rendre	rendus	V;MASC;PL;PST;V.PTCP	
+vegas	vegas	vegas	vegas	PROPN	
+vegas	βέγκας	vegas	βέγκας	PROPN	N;NOM;NEUT;SG
+chimiste	χημικός	chimiste	χημικός	N;MASC;SG	ADJ;NOM;MASC;SG
+flash	flash	flash	flash	N;MASC;SG	
+pacte	συμπαγή	pacte	συμπαγή	N;MASC;SG	ADV
+analyses	analy	analyse	analy	N;FEM;PL	
+analyses	ανάλυση	analyse	ανάλυση	N;FEM;PL	N;ACC;FEM;SG
+foire	δίκαιος	foire	δίκαιος	N;FEM;SG	ADJ;NOM;MASC;SG
+foire	δίκαια	foire	δίκαιο	N;FEM;SG	ADV
+foire	δίκαιη	foire	δίκαιη	N;FEM;SG	ADJ;NOM;FEM;SG
+stock	στοκ	stock	στοκ	N;MASC;SG	
+fritz	φριτς	fritz	φριτς	PROPN	
+fritz	φριτζ	fritz	φριτζ	PROPN	N
+corruption	δωροδοκίες	corruption	δωροδοκία	N;FEM;SG	N;NOM;FEM;PL
+dépenses	δαπάνη	dépense	δαπάνη	N;FEM;PL	N;NOM;FEM;SG
+consultation	διαβουλεύσεις	consultation	διαβούλευση	N;FEM;SG	N;NOM;FEM;PL
+jeter	απόρριψη	jeter	απόρριψη	V;NFIN	N;ACC;FEM;SG
+jeter	πέτα	jeter	πέτα	V;NFIN	N
+remplacés	αντικαταστάθηκε	remplacer	αντικαθιστώ	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+remplacés	αντικαθίσταται	remplacer	αντικάθιστώ	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+remplacés	αντικατέστησε	remplacer	αντικαθιστώ	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+remplacés	αντικαθίστανται	remplacer	αντικαθίσταμαι	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+pin	πάιν	pin	πάιν	N;MASC;SG	
+pin	pin	pin	pin	N;MASC;SG	
+angelo	άντζελο	angelo	άντζελος	PROPN	
+moreau	μορό	moreau	μορό	PROPN	
+haïti	αϊτή	haïti	αυτός	PROPN	PROPN;NOM;FEM;SG
+cécile	σεσίλ	cécile	σεσίλ	ADJ;FEM;SG	
+cécile	σεσίλ	cécile	σεσίλ	ADJ;FEM;SG	
+continu	συνεχείς	continu	συνεχής	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+mets	μετς	mettre	μετς	V;IMP;SG;2;PRS;FIN	PROPN;NOM;FEM;SG
+rire	γέλια	rire	γέλιο	V;NFIN	N;NOM;NEUT;PL
+rire	γέλιο	rire	γέλιο	V;NFIN	N;NOM;NEUT;SG
+rire	γέλα	rire	γέλα	V;NFIN	
+rire	γέλιο	rire	γέλιο	V;NFIN	N;NOM;NEUT;SG
+rire	γέλια	rire	γέλιο	V;NFIN	N;NOM;NEUT;PL
+rire	γέλιο	rire	γέλιο	V;NFIN	N;NOM;NEUT;SG
+coupable	ένοχοι	coupable	ένοχος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+channel	channel	channel	channel	N;MASC;SG	
+cylindres	κύλινδρο	cylindre	κύλινδρο	N;MASC;PL	N;ACC;MASC;SG
+vif	vif	vif	vif	ADJ;MASC;SG	
+quais	προκυμαία	quai	προκυμαίος	N;MASC;PL	N;NOM;FEM;SG
+monténégro	μαυροβούνιο	monténégro	μαυροβούνιο	ADJ;MASC;SG	PROPN;NOM;NEUT;SG
+temporaire	προσωρινά	temporaire	προσωρινά	ADJ;MASC;SG	ADV
+temporaire	προσωρινές	temporaire	προσωρινός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+verlag	verlag	verlag	verlag	PROPN	
+wang	wang	wang	wang	PROPN	
+wang	γουάνγκ	wang	γουάνγκ	PROPN	
+brooklyn	μπρούκλιν	brooklyn	μπρούκλιν	PROPN	
+brooklyn	μπρούκλυν	brooklyn	μπρώ	PROPN	
+fourni	παρεχόμενες	fournir	παρεχόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;PL
+fourni	παρεχόμενη	fournir	παρεχόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+fourni	παρεχόμενη	fournir	παρεχόμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+baltimore	βαλτιμόρη	baltimore	βαλτιμόρος	PROPN	PROPN;NOM;FEM;SG
+télécommunications	telecom	télécommunication	telecom	N;FEM;PL	
+assurances	ασφάλιση	assurance	ασφάλιση	N;FEM;PL	N;ACC;FEM;SG
+assurances	ασφάλεια	assurance	ασφάλεια	N;FEM;PL	N;NOM;FEM;SG
+cloche	μπελ	cloche	μπελ	N;FEM;SG	
+cloche	bell	cloche	bell	N;FEM;SG	
+stabilité	σταθερό	stabilité	σταθερός	N;FEM;SG	ADJ;NOM;NEUT;SG
+stabilité	σταθερή	stabilité	σταθερός	N;FEM;SG	ADJ;NOM;FEM;SG
+stabilité	σταθερά	stabilité	σταθερά	N;FEM;SG	ADV
+stabilité	σταθερός	stabilité	σταθερός	N;FEM;SG	ADJ;NOM;MASC;SG
+marketing	marketing	marketing	marketing	N;MASC;SG	
+simultanément	ταυτόχρονη	simultanément	ταυτόχρονος	ADV	ADJ;NOM;FEM;SG
+touché	χτύπημα	toucher	χτύπημα	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+touché	επηρεάστηκαν	toucher	επηρεάζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+touché	επηρεάζεται	toucher	επηρεάζω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+nicholas	νίκολας	nicholas	νίκολα	PROPN	PROPN;NOM;MASC;SG
+attirer	προσέλκυση	attirer	προσέλκυση	V;NFIN	N;NOM;FEM;SG
+attirer	αξιοθέατο	attirer	αξιοθέατος	V;NFIN	N;NOM;NEUT;PL
+attirer	έλξης	attirer	έλξη	V;NFIN	N;GEN;FEM;SG
+attirer	έλξη	attirer	έλξη	V;NFIN	N;NOM;FEM;SG
+attirer	προσέλκυση	attirer	προσέλκυση	V;NFIN	N;NOM;FEM;SG
+attirer	προσέλκυση	attirer	προσέλκυση	V;NFIN	N;NOM;FEM;SG
+exploitant	φορέα	exploiter	φορέας	V;PRS;V.PTCP	N;ACC;MASC;SG
+exploitant	χειριστή	exploiter	χειριστής	V;PRS;V.PTCP	N;GEN;MASC;SG
+exploitant	χειριστής	exploiter	χειριστής	V;PRS;V.PTCP	N;NOM;MASC;SG
+souffle	μαγευτική	souffle	μαγευτικός	N;MASC;SG	ADJ;NOM;FEM;SG
+souffle	φυσάει	souffle	φύσομαι	N;MASC;SG	V;IPFV;IND;SG;3;PRS;FIN;ACT
+diagnostic	διαγνωστική	diagnostic	διαγνωστικός	N;MASC;SG	ADJ;NOM;FEM;SG
+diagnostic	διαγνωστικό	diagnostic	διαγνωστικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+diagnostic	διαγνωστικά	diagnostic	διαγνωστικά	N;MASC;SG	ADV
+diagnostic	διαγνωστική	diagnostic	διαγνωστικός	N;MASC;SG	ADJ;NOM;FEM;SG
+diagnostic	διαγνωστικά	diagnostic	διαγνωστικά	N;MASC;SG	ADV
+conservés	διατηρημένο	conserver	διατηρώ	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+caraïbes	καραϊβικής	caraïbe	καραϊβικός	N;MASC;PL	ADJ;GEN;FEM;SG
+caraïbes	καραϊβική	caraïbe	καραϊβικός	N;MASC;PL	ADJ;NOM;FEM;SG
+sacrée	ιερός	sacrer	ιερός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+sacrée	ιερά	sacrer	ιερός	V;FEM;SG;PST;V.PTCP	ADV
+sacrée	ιερή	sacrer	ιερός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+sacrée	ιερό	sacrer	ιερός	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+casino	casino	casino	casino	N;MASC;SG	
+musulman	ισλαμιστές	musulman	ισλαμιστής	ADJ;MASC;SG	N;NOM;MASC;PL
+musulman	μουσουλμάνος	musulman	μουσουλμάνος	ADJ;MASC;SG	N;NOM;MASC;SG
+musulman	μουσουλμάνοι	musulman	μουσουλμάνος	ADJ;MASC;SG	N;NOM;MASC;PL
+musulman	μουσουλμάνων	musulman	μουσουλμάνος	ADJ;MASC;SG	N;GEN;MASC;PL
+musulman	μουσουλμάνους	musulman	μουσουλμάνος	ADJ;MASC;SG	N;ACC;MASC;PL
+musulman	μουσουλμάνοι	musulman	μουσουλμάνος	ADJ;MASC;SG	N;NOM;MASC;PL
+observé	παρατηρήθηκαν	observer	παρατηρώ	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+serre	θερμοκήπια	serre	θερμοκήπιο	N;FEM;SG	N;NOM;NEUT;PL
+voyant	μάντης	voir	μάντης	V;PRS;V.PTCP	N;NOM;MASC;SG
+voyant	μάντισσα	voir	μάντισσα	V;PRS;V.PTCP	V;PFV;IND;SG;1;PST;FIN;ACT
+fan	ανεμιστήρα	fan	ανεμιστήρα	INTJ	N;NOM;MASC;SG
+fan	θαυμαστής	fan	θαυμαστής	INTJ	N;NOM;MASC;SG
+fan	fan	fan	fan	INTJ	
+fan	ανεμιστήρας	fan	ανεμιστήρα	INTJ	N;NOM;FEM;SG
+fan	φαν	fan	φαν	INTJ	
+sara	sara	saro	sara	N;FEM;SG	
+sara	σάρα	saro	σάρα	N;FEM;SG	PROPN;NOM;FEM;SG
+taïwan	ταϊβάν	taïwan	ταϊβάν	PROPN	
+müller	μίλερ	müller	μίλερ	PROPN	
+mammifères	θηλαστικά	mammifère	θηλαστικά	N;MASC;PL	ADJ;NOM;NEUT;PL
+funéraire	κηδεία	funéraire	κηδεία	ADJ;MASC;SG	N;ACC;FEM;SG
+potter	πότερ	potter	πότερ	PROPN	
+doré	χρυσός	dorer	χρυσός	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+doré	χρυσό	dorer	χρυσός	V;MASC;SG;PST;V.PTCP	
+doré	χρυσή	dorer	χρυσός	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+doré	golden	dorer	golden	V;MASC;SG;PST;V.PTCP	
+doré	χρυσά	dorer	χρυσάς	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;PL
+doré	χρυσός	dorer	χρυσός	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+doré	χρυσό	dorer	χρυσός	V;MASC;SG;PST;V.PTCP	
+doré	χρυσο	dorer	χρύσος	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+doré	χρυσάφι	dorer	χρυσάφι	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+doré	χρυσά	dorer	χρυσάς	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;PL
+doré	ντορέ	dorer	ντορέ	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+toscane	τοσκάνης	toscane	τοσκάνη	ADJ;FEM;SG	PROPN;GEN;FEM;SG
+toscane	τοσκάνη	toscane	τοσκάνη	ADJ;FEM;SG	NUM;NOM;FEM;SG
+rêves	ονειρο	rêve	ονειρο	N;MASC;PL	N;NOM;NEUT;SG
+rêves	όνειρο	rêve	όνειρο	N;MASC;PL	N;NOM;NEUT;SG
+rêves	dream	rêve	dream	N;MASC;PL	
+signaler	έκθεση	signaler	έκθεση	V;NFIN	N;ACC;FEM;SG
+signaler	εκθεση	signaler	εκθεση	V;NFIN	N;ACC;FEM;SG
+signaler	αναφορα	signaler	αναφορά	V;NFIN	N;ACC;FEM;SG
+signaler	αναφορά	signaler	αναφορά	V;NFIN	N;NOM;FEM;SG
+écrivit	έγραψες	écrire	έγραψη	V;IND;SG;3;PST;FIN	V;PFV;IND;PL;2;PST;FIN;ACT
+marina	μαρίνα	marina	μαρίνα	PROPN	PROPN;NOM;FEM;SG
+antilles	καραϊβικής	antille	καραϊβικός	N;FEM;PL	ADJ;GEN;FEM;SG
+antilles	καραϊβική	antille	καραϊβικός	N;FEM;PL	ADJ;NOM;FEM;SG
+survivants	επιζήσαντες	survivant	επιζήσαν	N;MASC;PL	ADJ;NOM;MASC;PL
+survivants	επιζώντες	survivant	επιζώ	N;MASC;PL	ADJ;NOM;MASC;PL
+étroite	στενό	étroit	στενός	ADJ;FEM;SG	N;NOM;NEUT;SG
+étroite	στενός	étroit	στενός	ADJ;FEM;SG	N;NOM;MASC;SG
+métallique	μέταλλο	métallique	μέταλλο	ADJ;MASC;SG	N;NOM;NEUT;SG
+métallique	μέταλλα	métallique	μέταλλος	ADJ;MASC;SG	N;NOM;NEUT;PL
+métallique	metal	métallique	metal	ADJ;MASC;SG	
+métallique	μεταλλικά	métallique	μεταλλικά	ADJ;MASC;SG	ADJ;NOM;NEUT;PL
+métallique	μεταλλικά	métallique	μεταλλικά	ADJ;MASC;SG	ADJ;NOM;NEUT;PL
+xbox	xbox	xbox	xbox	N;MASC;SG	
+géographiques	γεωγραφικό	géographique	γεωγραφικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+géographiques	γεωγραφικά	géographique	γεωγραφικά	ADJ;MASC;PL	ADV
+entourée	περικυκλωμένοι	entourer	περικυκλώνω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+frederick	φρέντερικ	frederick	φρέντερικ	N;MASC;SG	PROPN;NOM;MASC;SG
+lever	μοχλός	lever	μοχλός	V;NFIN	N;NOM;MASC;SG
+lever	μοχλό	lever	μοχλό	V;NFIN	N;ACC;MASC;SG
+lever	ανατολή	lever	ανατολή	V;NFIN	N;NOM;FEM;SG
+lever	ξημέρωμα	lever	ξημέρωμα	V;NFIN	N;NOM;NEUT;SG
+lever	ανύψωση	lever	ανύψωση	V;NFIN	N;ACC;FEM;SG
+lever	άρση	lever	άρση	V;NFIN	N;ACC;FEM;SG
+algorithme	αλγόριθμους	algorithme	αλγόριθμος	N;MASC;SG	N;ACC;MASC;PL
+minuit	μεσάνυχτα	minuit	μεσάνυχτος	PROPN	ADV
+humide	υγρό	humide	υγρό	ADJ;MASC;SG	N;NOM;NEUT;SG
+humide	υγρασία	humide	υγρασία	ADJ;MASC;SG	N;NOM;FEM;SG
+humide	υγρό	humide	υγρό	ADJ;MASC;SG	N;NOM;NEUT;SG
+catalan	καταλανικά	catalan	καταλανικά	ADJ;MASC;SG	ADV
+censure	λογοκριτές	censure	λογοκριτής	N;FEM;SG	N;NOM;MASC;PL
+indicatif	ενδεικτικά	indicatif	ενδεικτικά	ADJ;MASC;SG	ADV
+indicatif	ενδεικτικό	indicatif	ενδεικτικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+indicatif	ενδεικτικές	indicatif	ενδεικτικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+ménage	οικιακά	ménage	οικιακά	N;MASC;SG	N;NOM;NEUT;PL
+bush	bush	bush	bush	PROPN	
+bush	μπους	bush	μπου	PROPN	
+bush	θάμνος	bush	θάμνος	PROPN	N;NOM;MASC;SG
+bush	θάμνο	bush	θάμνο	PROPN	N;NOM;NEUT;SG
+marathon	μαραθώνιος	marathon	μαραθώνιος	N;MASC;SG	ADJ;NOM;MASC;SG
+solitaire	μοναχικά	solitaire	μοναχικός	ADJ;MASC;SG	ADJ;NOM;NEUT;PL
+solitaire	μοναξιά	solitaire	μοναξιά	ADJ;MASC;SG	N;NOM;FEM;SG
+solitaire	πασιέντζα	solitaire	πασιέντζα	ADJ;MASC;SG	N;NOM;FEM;SG
+lombardie	λομβαρδία	lombardie	λομβαρδία	PROPN	N;ACC;FEM;SG
+lazare	lazare	lazare	lazare	N;MASC;SG	
+lazare	λάζαρος	lazare	λάζαρος	N;MASC;SG	PROPN;NOM;MASC;SG
+baies	μπέρι	baie	μπέρι	N;FEM;PL	
+beauvais	μποβέ	beauvais	μποβέ	PROPN	
+avr	απρ	avr	απρ	N;MASC;SG	
+avr	avr	avr	avr	N;MASC;SG	
+wallace	wallace	wallace	wallace	PROPN	
+wallace	γουάλας	wallace	γουάλα	PROPN	PROPN;NOM;MASC;SG
+controverse	αμφιλεγόμενο	controverse	αμφιλεγόμενο	N;FEM;SG	ADJ;NOM;NEUT;SG
+controverse	αμφιλεγόμενη	controverse	αμφιλεγόμενος	N;FEM;SG	ADJ;NOM;FEM;SG
+tiens	κρατήστε	tenir	κρατώ	INTJ	V;IPFV;IND;PL;2;PRS;FIN;ACT
+tiens	κράτα	tenir	κράτα	INTJ	V;IPFV;IND;SG;1;PRS;FIN;ACT
+musulmane	μουσουλμάνος	musulman	μουσουλμάνος	ADJ;FEM;SG	N;NOM;MASC;SG
+musulmane	μουσουλμάνοι	musulman	μουσουλμάνος	ADJ;FEM;SG	N;NOM;MASC;PL
+aaron	ααρών	aaron	ααρός	PROPN	N;NOM;MASC;SG
+aaron	aaron	aaron	aaron	PROPN	
+aaron	άαρον	aaron	άαρον	PROPN	
+soudan	σουδάν	soudan	σουδάν	N;MASC;SG	
+regarder	ρολόι	regarder	ρολός	V;NFIN	N;NOM;NEUT;SG
+lama	λάμα	lama	λάμα	N;MASC;SG	
+lama	λάμα	lama	λάμα	N;MASC;SG	
+détenu	κρατούμενος	détenir	κρατούμενος	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+détenu	τρόφιμος	détenir	τρόφιμος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+détenu	αιχμάλωτος	détenir	αιχμάλωτος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+détenu	κρατούμενος	détenir	κρατούμενος	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+détenu	κρατούμενο	détenir	κρατούμενος	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+détenu	κατάδικος	détenir	κατάδικος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+détenu	κρατείται	détenir	κρατώ	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+murphy	murphy	murphy	murphy	PROPN	
+murphy	μέρφι	murphy	μέρφι	PROPN	
+divorce	διαζύγια	divorce	διαζύγια	N;MASC;SG	N;NOM;NEUT;PL
+divorce	χωρισμένος	divorce	χωρισμένος	N;MASC;SG	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+divorce	χωρισμένη	divorce	χωρίζω	N;MASC;SG	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+divorce	χωρισμένοι	divorce	χωρισμένος	N;MASC;SG	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+cook	μάγειρα	cook	μάγειρα	PROPN	N;NOM;NEUT;SG
+cook	μαγείρισσα	cook	μαγείρισσα	PROPN	N;NOM;FEM;SG
+cook	μάγειρας	cook	μάγειρα	PROPN	N;NOM;MASC;SG
+cook	κουκ	cook	κουκ	PROPN	
+cook	μαγείρεμα	cook	μαγείρεμα	PROPN	N;NOM;NEUT;SG
+arrêtés	συνελήφθη	arrêter	συνελήφος	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+arrêtés	συλλαμβάνεται	arrêter	συλλαμβάνω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+manhattan	μανχάταν	manhattan	μανχά	PROPN	V;IPFV;IND;SG;3;PST;FIN;PASS
+hardy	χάρντι	hardy	χάρντι	PROPN	
+parme	πάρμα	parme	πάρμα	PROPN	
+paiement	πληρωμές	paiement	πληρωμή	N;MASC;SG	N;NOM;FEM;PL
+paiement	πληρωμών	paiement	πληρωμή	N;MASC;SG	N;GEN;FEM;PL
+imposant	επιβολή	imposer	επιβολή	V;PRS;V.PTCP	N;NOM;FEM;SG
+systématique	συστηματικές	systématique	συστηματικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+systématique	συστηματικά	systématique	συστηματικά	ADJ;MASC;SG	ADV
+morris	μόρις	morris	μόρις	PROPN	
+morris	morris	morris	morris	PROPN	
+morris	μόρρις	morris	μόρρις	PROPN	N;NOM
+fût	βαρέλι	être	βαρέλι	V;IND;SG;3;IPFV;FIN	N;NOM;NEUT;SG
+fût	τύμπανα	être	τύμπανο	V;IND;SG;3;IPFV;FIN	N;NOM;NEUT;PL
+fût	τύμπανο	être	τύμπανο	V;IND;SG;3;IPFV;FIN	N;NOM;NEUT;SG
+fût	βαρέλι	être	βαρέλι	V;IND;SG;3;IPFV;FIN	N;NOM;NEUT;SG
+igor	ίγκορ	igor	ίγκορ	PROPN	
+igor	ιγκόρ	igor	ιγκόρ	PROPN	
+métaux	μεταλλικό	métal	μεταλλικός	N;MASC;PL	ADJ;NOM;NEUT;SG
+métaux	μέταλλο	métal	μέταλλο	N;MASC;PL	N;NOM;NEUT;SG
+métaux	metal	métal	metal	N;MASC;PL	
+métaux	μεταλλικά	métal	μεταλλικά	N;MASC;PL	ADJ;NOM;NEUT;PL
+parent	σχετικός	parent	σχετικός	N;MASC;SG	ADJ;NOM;MASC;SG
+parent	σχετική	parent	σχετικός	N;MASC;SG	ADJ;NOM;FEM;SG
+parent	σχετικό	parent	σχετικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+parent	γονιών	parent	γονιών	N;MASC;SG	N;GEN;FEM;PL
+parent	μητρική	parent	μητρικός	N;MASC;SG	ADJ;NOM;FEM;SG
+parent	γονιός	parent	γονιός	N;MASC;SG	ADJ;NOM;MASC;SG
+hudson	χάντσον	hudson	χάντσον	PROPN	PROPN;NOM;MASC;SG
+avoue	ομολόγησε	avouer	ομολογώ	V;IND;SG;3;PRS;FIN	V;PFV;IND;SG;3;PST;FIN;ACT
+fabrice	φαμπρίτσιο	fabrice	φαμπρίτσιο	N;MASC;SG	
+valérie	βάλερι	valérie	βάλερι	PROPN	
+apple	μήλο	apple	μήλος	PROPN	N;NOM;NEUT;SG
+apple	apple	apple	apple	PROPN	
+karen	κάρεν	karen	κάρεν	PROPN	PROPN;NOM;MASC;SG
+karen	karen	karen	karen	PROPN	
+nazi	ναζί	nazi	ναζί	N;MASC;SG	N;NOM;MASC;PL
+moral	ηθικό	moral	ηθικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+moral	ηθικό	moral	ηθικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+complément	συμπληρώνουν	complément	συμπληρώνω	N;MASC;SG	V;IPFV;IND;PL;3;PRS;FIN;ACT
+futurs	μελλοντικός	futur	μελλοντικός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+futurs	μέλλον	futur	μέλλον	ADJ;MASC;PL	N;NOM;NEUT;SG
+futurs	μελλον	futur	μελλον	ADJ;MASC;PL	N;NOM;NEUT;SG
+futurs	μέλλοντα	futur	μέλλον	ADJ;MASC;PL	N;ACC;MASC;SG
+traverser	διέλευση	traverser	διέλευση	V;NFIN	N;ACC;FEM;SG
+traverser	διάβαση	traverser	διάβαση	V;NFIN	N;ACC;FEM;SG
+traverser	κρος	traverser	κρος	V;NFIN	
+traverser	σταυρός	traverser	σταυρός	V;NFIN	N;NOM;MASC;SG
+traverser	σταυρό	traverser	σταυρό	V;NFIN	N;NOM;NEUT;SG
+traverser	cross	traverser	cross	V;NFIN	
+dons	δωρεά	don	δωραός	N;MASC;PL	N;NOM;FEM;SG
+dons	δωρεά	don	δωραός	N;MASC;PL	N;NOM;FEM;SG
+dons	δωρίσει	don	δωρίζω	N;MASC;PL	V;PFV;IND;3;FIN;ACT
+ignore	αγνοήστε	ignorer	αγνόώ	V;IND;SG;3;PRS;FIN	V;IPFV;IND;SG;1;PRS;FIN;ACT
+ignore	αγνόησε	ignorer	αγνοώ	V;IND;SG;3;PRS;FIN	V;PFV;IND;SG;3;PST;FIN;ACT
+ignore	αγνοήσω	ignorer	αγνοώ	V;IND;SG;3;PRS;FIN	V;PFV;IND;SG;1;FIN;ACT
+malo	μάλο	malo	μάλος	PROPN	N
+sèche	ξηρή	sec	ξηρή	ADJ;FEM;SG	N;NOM;FEM;SG
+sèche	στεγνά	sec	στεγνά	ADJ;FEM;SG	ADV
+sèche	ξηρά	sec	ξηρά	ADJ;FEM;SG	N;NOM;NEUT;PL
+sèche	στεγνό	sec	στεγνό	ADJ;FEM;SG	N;NOM;NEUT;SG
+sèche	ξηρό	sec	ξηρός	ADJ;FEM;SG	N;NOM;NEUT;SG
+signée	υπογραφή	signer	υπογραφή	V;FEM;SG;PST;V.PTCP	N;ACC;FEM;SG
+céramique	κεραμικά	céramique	κεραμικά	N;FEM;SG	ADV
+céramique	κεραμικής	céramique	κεραμικός	N;FEM;SG	ADJ;GEN;FEM;SG
+céramique	κεραμικά	céramique	κεραμικά	N;FEM;SG	ADV
+céramique	κεραμικά	céramique	κεραμικά	N;FEM;SG	ADV
+uss	uss	uss	uss	N;MASC;SG	
+sévère	πρύμνη	sévère	πρύμνη	ADJ;MASC;SG	N;NOM;FEM;SG
+sévère	στερν	sévère	στερν	ADJ;MASC;SG	
+souligne	στιγμιότυπα	souligner	στιγμιότυπα	V;IND;SG;3;PRS;FIN	N;NOM;NEUT;PL
+exemplaire	αντιγραφή	exemplaire	αντιγραφή	ADJ;MASC;SG	N;NOM;FEM;SG
+exemplaire	αντίγραφο	exemplaire	αντίγραφο	ADJ;MASC;SG	N;NOM;NEUT;SG
+enregistrer	ρεκόρ	enregistrer	ρεκόρ	V;NFIN	
+enregistrer	αποθήκευση	enregistrer	αποθήκευση	V;NFIN	N;NOM;FEM;SG
+enregistrer	save	enregistrer	save	V;NFIN	
+enregistrer	σώσε	enregistrer	σώσε	V;NFIN	N
+enregistrer	μητρώο	enregistrer	μητρώο	V;NFIN	N;NOM;NEUT;SG
+acides	οξυ	acide	οξυ	N;MASC;PL	
+acides	οξύ	acide	οξύ	N;MASC;PL	N;NOM;NEUT;SG
+séparés	χωρισμένος	séparer	χωρισμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+séparés	χωριστή	séparer	χωριστής	V;MASC;PL;PST;V.PTCP	ADJ;NOM;FEM;SG
+séparés	ξεχωριστά	séparer	ξεχωριστώ	V;MASC;PL;PST;V.PTCP	ADV
+séparés	χωριστά	séparer	χωριστώ	V;MASC;PL;PST;V.PTCP	ADV
+morales	μοράλες	moral	μοράλος	ADJ;FEM;PL	PROPN;NOM;MASC;PL
+perry	πέρρυ	perry	πέρρυ	PROPN	N
+perry	perry	perry	perry	PROPN	
+perry	πέρι	perry	πέρι	PROPN	
+brève	σύντομος	bref	σύντομος	ADJ;FEM;SG	N;NOM;MASC;SG
+brève	σύντομες	bref	σύντομος	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+brève	σύντομο	bref	σύντομο	ADJ;FEM;SG	N;NOM;NEUT;SG
+brève	σύντομη	bref	σύντομος	ADJ;FEM;SG	N;NOM;FEM;SG
+positive	θετικές	positif	θετικός	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+positive	θετικά	positif	θετικός	ADJ;FEM;SG	ADV
+numériques	αριθμητική	numérique	αριθμητικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+numériques	αριθμητικό	numérique	αριθμητικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+numériques	ψηφιακό	numérique	ψηφιακός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+numériques	ψηφιακά	numérique	ψηφιακά	ADJ;MASC;PL	ADV
+numériques	ψηφιακή	numérique	ψηφιακός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+numériques	digital	numérique	digital	ADJ;MASC;PL	
+matrice	μάτριξ	matrice	μάτριξ	N;FEM;SG	
+nfl	nfl	nfl	nfl	N;MASC;SG	
+sardaigne	σαρδηνία	sardaigner	σαρδηνία	N;FEM;SG	PROPN;ACC;FEM;SG
+escrime	ξιφασκία	escrime	ξιφασκία	N;FEM;SG	PROPN;NOM;FEM;SG
+perception	αντιλήψεις	perception	αντίληψη	N;FEM;SG	N;NOM;FEM;PL
+charleroi	charleroi	charleroi	charleroi	N;MASC;SG	
+axes	άξονας	axe	άξονας	N;MASC;PL	N;NOM;MASC;SG
+axes	άξονα	axe	άξονας	N;MASC;PL	N;ACC;MASC;SG
+descendance	απόγονοι	descendance	απόγονος	N;FEM;SG	N;NOM;MASC;PL
+descendance	απογόνους	descendance	απόγονος	N;FEM;SG	N;ACC;MASC;PL
+descendance	απόγονοι	descendance	απόγονος	N;FEM;SG	N;NOM;MASC;PL
+descendance	απογόνους	descendance	απόγονος	N;FEM;SG	N;ACC;MASC;PL
+descendance	απόγονοι	descendance	απόγονος	N;FEM;SG	N;NOM;MASC;PL
+mayer	μάγιερ	mayer	μάγιερ	PROPN	
+mayer	mayer	mayer	mayer	PROPN	
+électroniques	ηλεκτρονική	électronique	ηλεκτρονικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+électroniques	ηλεκτρονικό	électronique	ηλεκτρονικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+électroniques	ηλεκτρονικά	électronique	ηλεκτρονικά	ADJ;MASC;PL	ADV
+retenue	συγκράτησης	retenir	συγκράτηση	V;FEM;SG;PST;V.PTCP	N;GEN;FEM;SG
+retenue	συγκράτηση	retenir	συγκράτηση	V;FEM;SG;PST;V.PTCP	N;ACC;FEM;SG
+retenue	διατηρήθηκαν	retenir	διατηρώ	V;FEM;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+gregory	γκρέγκορι	gregory	γκρέγκορι	PROPN	PROPN;NOM;MASC;SG
+gregory	γκρέγκορυ	gregory	γκρέγκω	PROPN	N;VOC;MASC;SG
+arménien	αρμενίων	arménien	αρμένιος	ADJ;MASC;SG	PROPN;GEN;MASC;PL
+domestique	εγχώρια	domestique	εγχώριο	ADJ;MASC;SG	N;NOM;NEUT;PL
+domestique	εγχώριο	domestique	εγχώριο	ADJ;MASC;SG	N;NOM;NEUT;SG
+domestique	εγχώριες	domestique	εγχώριος	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+plongée	καταδύσεις	plonger	κατάδυση	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;PL
+plongée	βουτιές	plonger	βουτιός	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;PL
+plongée	βουτιά	plonger	βουτί	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+plongée	κατάδυση	plonger	κατάδυση	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+plongée	βουτιά	plonger	βουτί	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+plongée	κατάδυση	plonger	κατάδυση	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+rival	αντίπαλος	rival	αντίπαλος	N;MASC;SG	ADJ;NOM;MASC;SG
+constituant	συστατικό	constituer	συστατικό	V;PRS;V.PTCP	N;NOM;NEUT;SG
+dominant	δεσπόζουσα	dominer	δεσπόζων	V;PRS;V.PTCP	ADJ;NOM;FEM;SG
+dominant	κυρίαρχο	dominer	κυρίαρχος	V;PRS;V.PTCP	N;NOM;NEUT;SG
+dominant	κυρίαρχη	dominer	κυρίαρχη	V;PRS;V.PTCP	N;NOM;FEM;SG
+julian	τζούλιαν	julian	τζούλιαν	PROPN	
+julian	julian	julian	julian	PROPN	
+carburant	καυσίμων	carburant	καύσιμος	N;MASC;SG	N;GEN;NEUT;PL
+carburant	καύσιμα	carburant	καύσιμα	N;MASC;SG	N;NOM;NEUT;PL
+téléchargement	κατεβάστε	téléchargement	κατεβάστε	N;MASC;SG	V;IPFV;IND;PL;2;PRS;FIN;ACT
+téléchargement	λήψεις	téléchargement	λήψη	N;MASC;SG	N;NOM;FEM;PL
+voler	πέτα	voler	πέτα	V;NFIN	N
+voler	μύγα	voler	μύγα	V;NFIN	N;NOM;FEM;SG
+voler	πέταγμα	voler	πέταγμα	V;NFIN	N;NOM;NEUT;SG
+voler	ιπτάμενο	voler	ιπτάμενος	V;NFIN	N;NOM;NEUT;SG
+kilomètre	χιλιόμετρα	kilomètre	χιλιόμετρο	N;MASC;SG	N;NOM;NEUT;PL
+dubois	ντιμπουά	dubois	ντιμπούά	PROPN	N;NOM;MASC;SG
+successives	διαδοχικά	successif	διαδοχικά	ADJ;FEM;PL	ADV
+honneurs	τιμά	honneur	τιμά	N;MASC;PL	V;IPFV;IND;SG;3;PRS;FIN;ACT
+capturé	αλιεύονται	capturer	αλιεύω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+capturé	αιχμάλωτος	capturer	αιχμάλωτος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+jet	τζετ	jet	τζετ	N;MASC;SG	
+jet	jet	jet	jet	N;MASC;SG	
+enterrée	θαμμένα	enterrer	θαμμένα	V;FEM;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+riz	ράις	riz	ράις	N;MASC;SG	
+constance	κόνστανς	constance	κόνστανς	N;FEM;SG	ADV
+affichage	view	affichage	view	N;MASC;SG	
+guatemala	γουατεμάλα	guatemala	γουατεμάλος	N;MASC;SG	PROPN;NOM;FEM;SG
+extraordinaire	έκτακτα	extraordinaire	έκτακτα	ADJ;MASC;SG	ADV
+extraordinaire	έκτακτη	extraordinaire	έκτακτος	ADJ;MASC;SG	N;NOM;FEM;SG
+chan	τσαν	chan	τσαν	PROPN	
+urbains	urban	urbain	urban	ADJ;MASC;PL	
+urbains	αστική	urbain	αστικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+urbains	αστικός	urbain	αστικός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+urbains	αστικό	urbain	αστικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+médicis	mé	médicis	mé	PROPN	
+doyen	ντιν	doyen	ντιν	N;MASC;SG	
+doyen	ντην	doyen	ντην	N;MASC;SG	
+extérieurs	υπαίθρια	extérieur	υπαίθριος	ADJ;MASC;PL	PROPN;NOM;FEM;SG
+extérieurs	εξωτερική	extérieur	εξωτερικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+extérieurs	εξωτερικά	extérieur	εξωτερικά	ADJ;MASC;PL	ADV
+extérieurs	εξωτερικό	extérieur	εξωτερικό	ADJ;MASC;PL	N;NOM;NEUT;SG
+extérieurs	εξωτερικός	extérieur	εξωτερικός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+bridge	μπριτζ	bridge	μπριτζ	N;MASC;SG	
+décédée	αποθανών	décéder	αποθανός	V;FEM;SG;PST;V.PTCP	N;NOM;MASC;SG
+otan	νατο	otan	νατος	PROPN	N
+otan	nato	otan	nato	PROPN	
+patinage	πατινάζ	patinage	πατινάζ	N;MASC;SG	
+patinage	σκέιτ	patinage	σκέιτ	N;MASC;SG	
+patinage	πατινάζ	patinage	πατινάζ	N;MASC;SG	
+patinage	σκέιτ	patinage	σκέιτ	N;MASC;SG	
+perdent	χάνει	perdre	χάνω	V;IND;PL;3;PRS;FIN	V;IPFV;IND;SG;3;PRS;FIN;ACT
+indispensable	ουσιώδες	indispensable	ουσιώδης	ADJ;MASC;SG	ADV
+const	const	const	const		
+préliminaire	προκαταρκτικά	préliminaire	προκαταρκτικά	ADJ;MASC;SG	ADV
+préliminaire	προκαταρκτικές	préliminaire	προκαταρκτικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+préliminaire	προκαταρκτικό	préliminaire	προκαταρκτικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+bulle	φυσαλίδες	bulle	φυσαλίδα	N;FEM;SG	N;NOM;FEM;PL
+bulle	φούσκες	bulle	φούσκα	N;FEM;SG	N;NOM;FEM;PL
+alessandro	αλεσάντρο	alessandro	αλεσάντρο	PROPN	PROPN;NOM;MASC;SG
+israélien	ισραηλινοί	israélien	ισραηλινός	ADJ;MASC;SG	PROPN;NOM;MASC;PL
+israélien	ισραηλινό	israélien	ισραηλινός	ADJ;MASC;SG	PROPN;NOM;NEUT;SG
+israélien	ισραηλινοί	israélien	ισραηλινός	ADJ;MASC;SG	PROPN;NOM;MASC;PL
+modifiée	τροποποιημένα	modifier	τροποποιώ	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+modifiée	τροποποιείται	modifier	τροποποιώ	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+modifiée	τροποποιημένα	modifier	τροποποιώ	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+pete	pete	pete	pete	PROPN	
+pete	πητ	pete	πητ	PROPN	PROPN;NOM;MASC;SG
+pete	πιτ	pete	πιτ	PROPN	
+cricket	κρίκετ	cricket	κρίκετ	N;MASC;SG	
+olga	όλγα	olga	όλγα	PROPN	PROPN;NOM;FEM;SG
+développés	αναπτύχθηκε	développer	αναπτύσσω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+réédité	επανεκδίδονται	rééditer	επανεκδίδω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+terrible	απαίσια	terrible	απαίσιο	ADJ;MASC;SG	ADV
+terrible	φρικτό	terrible	φρικτός	ADJ;MASC;SG	N;NOM;NEUT;SG
+terrible	τρομερό	terrible	τρομερός	ADJ;MASC;SG	N;NOM;NEUT;SG
+blood	αίμα	blood	αίμα	PROPN	N;NOM;NEUT;SG
+blood	blood	blood	blood	PROPN	
+indépendantes	ανεξάρτητο	indépendant	ανεξάρτητος	ADJ;FEM;PL	ADJ;NOM;NEUT;SG
+indépendantes	ανεξάρτητος	indépendant	ανεξάρτητος	ADJ;FEM;PL	ADJ;NOM;MASC;SG
+indépendantes	ανεξάρτητη	indépendant	ανεξάρτητος	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+hilaire	hilaire	hilaire	hilaire	N;MASC;SG	
+soie	μεταξωτά	soie	μεταξωτά	N;FEM;SG	N;NOM;NEUT;PL
+essayé	απόπειρα	essayer	απόπειρα	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+acoustique	ακουστικό	acoustique	ακουστικός	ADJ;MASC;SG	N;NOM;NEUT;SG
+acoustique	ήχου	acoustique	ήχου	ADJ;MASC;SG	N;GEN;NEUT;SG
+acoustique	ήχο	acoustique	ήχο	ADJ;MASC;SG	N;ACC;MASC;SG
+acoustique	ήχος	acoustique	ήχος	ADJ;MASC;SG	N;NOM;MASC;SG
+marches	marche	marche	marche	N;FEM;PL	
+composées	αποτελείται	composer	αποτελώ	V;FEM;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+biélorussie	λευκορωσία	biélorussie	λευκορωσία	PROPN	PROPN;NOM;FEM;SG
+doc	doc	doc	doc	N;MASC;SG	
+doc	ντοκ	doc	ντοκ	N;MASC;SG	
+policière	αστυνομία	policier	αστυνομία	ADJ;FEM;SG	N;NOM;FEM;SG
+citations	εισαγωγικά	citation	εισαγωγικά	N;FEM;PL	ADV
+écho	έκο	écho	έκο	N;MASC;SG	
+écho	echo	écho	echo	N;MASC;SG	
+thématique	θεματικά	thématique	θεματικός	ADJ;MASC;SG	ADV
+industrielles	βιομηχανική	industriel	βιομηχανικός	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+industrielles	βιομηχανικό	industriel	βιομηχανικός	ADJ;FEM;PL	ADJ;NOM;NEUT;SG
+industrielles	βιομηχανικός	industriel	βιομηχανικός	ADJ;FEM;PL	ADJ;NOM;MASC;SG
+mozart	μότσαρτ	mozart	μότσαρτ	N;MASC;SG	
+excellent	εξαιρετικά	excellent	εξαιρετικά	ADJ;MASC;SG	ADV
+hart	χαρτ	hart	χαρτ	PROPN	
+arras	αρράς	arras	αρρά	PROPN	PROPN;NOM;FEM;SG
+diminution	μειώθηκε	diminution	μειώνω	N;FEM;SG	V;PFV;IND;SG;3;PST;FIN;PASS
+diminution	μειωμένη	diminution	μειώνω	N;FEM;SG	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+diminution	μειωμένος	diminution	μειωμένος	N;FEM;SG	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+horizon	ορίζοντας	horizon	ορίζω	N;MASC;SG	V;IPFV;V.CVB;ACT
+horizon	horizon	horizon	horizon	N;MASC;SG	
+silver	ασημί	silver	ασημί	PROPN	N;NOM;NEUT;PL
+silver	ασημένια	silver	ασημένιος	PROPN	ADV
+silver	σίλβερ	silver	σίλβερ	PROPN	
+silver	ασήμι	silver	ασήμι	PROPN	N;NOM;NEUT;SG
+silver	silver	silver	silver	PROPN	
+hugh	χιου	hugh	χιος	PROPN	N
+hugh	χιού	hugh	χιού	PROPN	
+hugh	hugh	hugh	hugh	PROPN	
+amphibiens	αμφίβιο	amphibien	αμφίβιο	N;MASC;PL	N;NOM;NEUT;SG
+océanie	ωκεανία	océanie	ωκεανία	PROPN	PROPN;NOM;FEM;SG
+kenya	κένυα	kenya	κένυα	PROPN	PROPN;NOM;FEM;SG
+diamant	διαμάντια	diamant	διαμάντια	N;MASC;SG	N;NOM;NEUT;PL
+quinzaine	δεκαπέντε	quinzaine	δεκαπέντε	N;FEM;SG	NUM;NOM;NEUT;PL
+quinzaine	fifteen	quinzaine	fifteen	N;FEM;SG	
+drogue	ναρκωτικά	drogue	ναρκωτικά	N;FEM;SG	ADV
+drogue	ναρκωτικών	drogue	ναρκωτικός	N;FEM;SG	N;GEN;NEUT;PL
+soutenue	δεκτή	soutenir	δεκτός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+soutenue	υποστηρίζεται	soutenir	υποστηρίζω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+soutenue	υποστηρίζονται	soutenir	υποστηρίζω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+derby	ντέρμπι	derby	ντέρμπι	N;MASC;SG	
+magazines	περιοδικά	magazine	περιοδικά	N;MASC;PL	ADV
+tennessee	τενεσί	tennessee	τενεσί	N;FEM;SG	
+chanter	τραγούδα	chanter	τραγούδα	V;NFIN	N;NOM;SG
+chanter	τραγούδι	chanter	τραγούδι	V;NFIN	N;NOM;NEUT;SG
+abrégé	συντομογραφία	abréger	συντομογραφία	V;MASC;SG;PST;V.PTCP	N;NOM;FEM;SG
+abrégé	συνοπτικό	abréger	συνοπτικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+serbes	σέρβος	serbe	σέρβος	ADJ;MASC;PL	PROPN;NOM;MASC;SG
+serbes	σέρβο	serbe	σέρβος	ADJ;MASC;PL	N
+serbes	σέρβων	serbe	σέρβων	ADJ;MASC;PL	N;GEN;NEUT;PL
+serbes	σέρβους	serbe	σέρβος	ADJ;MASC;PL	PROPN;ACC;MASC;PL
+serbes	σέρβοι	serbe	σέρβος	ADJ;MASC;PL	PROPN;NOM;MASC;PL
+serbes	σερβικό	serbe	σερβικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+serbes	σερβική	serbe	σερβικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+serbes	σερβικά	serbe	σερβικά	ADJ;MASC;PL	ADV
+serbes	σέρβος	serbe	σέρβος	ADJ;MASC;PL	PROPN;NOM;MASC;SG
+marx	μαρξ	marx	μαρχ	PROPN	N;NOM;MASC;SG
+couverte	καλύπτεται	couvrir	καλύπτω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+couverte	καλυμμένοι	couvrir	καλύμμινος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;PL
+couverte	καλύπτονται	couvrir	καλύπτω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+couverte	καλυμμένο	couvrir	καλύμμενος	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+reliques	λείψανα	relique	λείπανος	N;FEM;PL	V;PFV;IND;PL;3;PST;FIN;ACT
+roberts	ρόμπερτς	robert	ρόμπερτς	PROPN	PROPN;NOM;MASC;SG
+roumaine	ρουμάνος	roumain	ρουμάνος	ADJ;FEM;SG	N;NOM;MASC;SG
+roumaine	ρουμάνοι	roumain	ρουμάνος	ADJ;FEM;SG	N;NOM;MASC;PL
+broadway	μπρόντγουεϊ	broadway	μπρόντγουεϊ	PROPN	
+législatif	νομοθετικά	législatif	νομοθετικός	ADJ;MASC;SG	ADV
+rotterdam	ρότερνταμ	rotterdam	ρότερνταμα	PROPN	ADV;CMPR
+salaire	μισθοί	salaire	μισθός	N;MASC;SG	N;NOM;MASC;PL
+salaire	μισθούς	salaire	μισθός	N;MASC;SG	N;NOM;MASC;PL
+salaire	έσοδα	salaire	έσοδο	N;MASC;SG	N;NOM;NEUT;PL
+salaire	αποδοχές	salaire	αποδοχή	N;MASC;SG	N;NOM;FEM;PL
+salaire	κέρδη	salaire	κέρδος	N;MASC;SG	N;NOM;NEUT;PL
+rappeur	ράπερ	rappeur	ράπερ	N;MASC;SG	
+rappeur	ραπ	rappeur	ραπ	N;MASC;SG	
+watson	γουάτσον	watson	γουάτσον	PROPN	
+watson	γουότσον	watson	γουότσον	PROPN	
+watson	watson	watson	watson	PROPN	
+préféré	αγαπημένα	préférer	αγαπημένος	V;MASC;SG;PST;V.PTCP	ADV
+préféré	αγαπημένες	préférer	αγαπημένος	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+ingénierie	μηχανική	ingénierie	μηχανικός	N;FEM;SG	ADJ;NOM;FEM;SG
+bayonne	μπαγιόν	bayonne	μπαγιόν	PROPN	PROPN;NOM;NEUT;SG
+asiatiques	ασιάτης	asiatique	ασιάτης	ADJ;MASC;PL	N;NOM;MASC;SG
+asiatiques	ασιάτες	asiatique	ασιάτης	ADJ;MASC;PL	N;NOM;MASC;PL
+asiatiques	ασιατική	asiatique	ασιατικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+asiatiques	ασιατικό	asiatique	ασιατικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+asiatiques	ασιάτες	asiatique	ασιάτης	ADJ;MASC;PL	N;NOM;MASC;PL
+clara	clara	clara	clara	PROPN	
+clara	κλάρα	clara	κλάρα	PROPN	PROPN;NOM;FEM;SG
+automobiles	αυτοκίνητα	automobile	αυτοκίνητο	ADJ;MASC;PL	N;NOM;NEUT;PL
+admissible	επιλέξιμοι	admissible	επιλέξιμος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+admissible	επιλέξιμες	admissible	επιλέξιμος	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+admissible	επιτρεπόμενο	admissible	επιτρεπόμενο	ADJ;MASC;SG	N;NOM;NEUT;SG
+considérées	θεωρείται	considérer	θεωρώ	V;FEM;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+randonnée	πεζοπορία	randonnée	πεζοπορία	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+randonnée	πεζοπορία	randonnée	πεζοπορία	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+vignes	αμπελώνα	vigne	αμπελώνω	N;FEM;PL	PROPN;ACC;MASC;SG
+contrainte	στρες	contraindre	στρες	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+contrainte	άγχος	contraindre	άγχος	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+contrainte	παρόρμηση	contraindre	παρόρμηση	V;FEM;SG;PST;V.PTCP	N;ACC;FEM;SG
+contrainte	εξαναγκασμό	contraindre	εξανκαγκασμός	V;FEM;SG;PST;V.PTCP	N;ACC;MASC;SG
+portails	γκέιτς	portail	γκέιτς	N;MASC;PL	PROPN;NOM;MASC;SG
+conducteur	οδηγούς	conducteur	οδηγός	N;MASC;SG	N;ACC;MASC;PL
+conducteur	οδηγοί	conducteur	οδηγός	N;MASC;SG	N;NOM;MASC;PL
+étendu	εκτεταμένο	étendre	εκτεταμένος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+interdite	απαγορεύεται	interdire	απαγορεύω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+interdite	απαγορευμένα	interdire	απαγορεύω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+interdite	απαγορεύονται	interdire	απαγορεύω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+interdite	απαγορεύεται	interdire	απαγορεύω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+lévy	lévy	lévy	lévy	PROPN	
+libye	λιβύης	libye	λιβύη	N;FEM;SG	PROPN;GEN;FEM;SG
+libye	λιβύη	libye	λιβύη	N;FEM;SG	PROPN;ACC;FEM;SG
+libye	λιβύης	libye	λιβύη	N;FEM;SG	PROPN;GEN;FEM;SG
+choisie	εκλεκτός	choisir	εκλεκτός	V;FEM;SG;PST;V.PTCP	N;NOM;MASC;SG
+chirurgie	χειρουργική	chirurgie	χειρουργικός	N;FEM;SG	ADJ;NOM;FEM;SG
+chirurgie	χειρουργική	chirurgie	χειρουργικός	N;FEM;SG	ADJ;NOM;FEM;SG
+chirurgie	χειρουργικό	chirurgie	χειρουργικός	N;FEM;SG	ADJ;NOM;NEUT;SG
+chirurgie	χειρουργικά	chirurgie	χειρουργικός	N;FEM;SG	ADV
+chirurgie	χειρουργικές	chirurgie	χειρουργικός	N;FEM;SG	ADJ;NOM;FEM;PL
+sent	μυρωδιές	sentir	μυρωδιά	V;IND;SG;3;PRS;FIN	N;NOM;FEM;PL
+oublié	ξεχάσαμε	oublier	ξεχάζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;1;PST;FIN;ACT
+oublié	ξεχασμένο	oublier	ξεχασμένο	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+oublié	ξεχασμένα	oublier	ξεχάζω	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+grammaire	γραμματική	grammaire	γραμματικός	N;FEM;SG	ADJ;NOM;FEM;SG
+yann	ιαν	yann	ιαν	PROPN	
+yann	jan	yann	jan	PROPN	
+yann	γιαν	yann	γιαν	PROPN	
+yann	τζαν	yann	τζαν	PROPN	
+compromis	συμβιβασμοί	compromis	συμβιβασμός	N;MASC;SG	N;NOM;MASC;PL
+compromis	συμβιβαστική	compromis	συμβιβαστικός	N;MASC;SG	ADJ;NOM;FEM;SG
+middle	μεση	middle	μεσος	PROPN	N;NOM;FEM;SG
+middle	μεσαία	middle	μεσαίος	PROPN	ADV
+middle	μέση	middle	μέσο	PROPN	N;NOM;FEM;SG
+middle	μεσαίο	middle	μεσαίος	PROPN	N;NOM;NEUT;SG
+chaine	αλυσίδες	chaîne	αλυσίδα	N;FEM;SG	N;NOM;FEM;PL
+séoul	σεούλ	séoul	σεούλ	PROPN	PROPN;NOM;FEM;SG
+partager	share	partager	share	V;NFIN	
+partager	κοινοποίηση	partager	κοινοποίηση	V;NFIN	N;NOM;FEM;SG
+partager	μετοχή	partager	μετοχή	V;NFIN	N;NOM;FEM;SG
+partager	μερίδιο	partager	μερίδιο	V;NFIN	N;NOM;NEUT;SG
+pluriel	πληθυντικός	pluriel	πληθυντικός	N;MASC;SG	ADJ;NOM;MASC;SG
+omar	ομάρ	omar	ομάρ	PROPN	
+monica	μόνικα	monica	μόνικα	PROPN	ADJ;NOM;FEM;SG
+josef	ιωσήφ	josef	ιωσήφ	PROPN	N;MASC;SG
+josef	γιόζεφ	josef	γιόζεφ	PROPN	
+josef	τζόζεφ	josef	τζόζεφ	PROPN	PROPN;NOM;MASC;SG
+michèle	michelle	michèle	michelle	ADJ;FEM;SG	
+michèle	μισέλ	michèle	μισέλ	ADJ;FEM;SG	
+michèle	μιχάλη	michèle	μιχάλος	ADJ;FEM;SG	N
+michèle	michèle	michèle	michèle	ADJ;FEM;SG	
+pommes	μήλο	pomme	μήλος	N;FEM;PL	N;NOM;NEUT;SG
+pommes	apple	pomme	apple	N;FEM;PL	
+vannes	γκέιτς	vanne	γκέιτς	N;MASC;PL	PROPN;NOM;MASC;SG
+haine	μισώ	haine	μισώ	N;FEM;SG	V;IPFV;IND;SG;1;PRS;FIN;ACT
+motte	motte	motte	motte	N;FEM;SG	
+poussée	ώθηση	poussée	ώθηση	V;FEM;SG;PST;V.PTCP	N;ACC;FEM;SG
+giorgio	τζόρτζιο	giorgio	τζόρτζιος	PROPN	
+nommer	ονομασία	nommer	ονομασία	V;NFIN	N;NOM;FEM;SG
+nommer	όνομα	nommer	όνομα	V;NFIN	N;NOM;NEUT;SG
+nommer	ονομα	nommer	ονομα	V;NFIN	N;NOM;NEUT;SG
+lettonie	λεττονία	lettonie	λεττονία	N;FEM;SG	PROPN;ACC;FEM;SG
+lettonie	λετονία	lettonie	λετονία	N;FEM;SG	PROPN;ACC;FEM;SG
+lettonie	λετονίας	lettonie	λετονία	N;FEM;SG	PROPN;GEN;FEM;SG
+lettonie	λετονική	lettonie	λετονικός	N;FEM;SG	ADJ;NOM;FEM;SG
+fermes	αγρόκτημα	ferme	αγρόκτημα	ADJ;FEM;PL	N;NOM;NEUT;SG
+fermes	farm	ferme	farm	ADJ;FEM;PL	
+fermes	φάρμα	ferme	φάρμα	ADJ;FEM;PL	N;NOM;FEM;SG
+fermes	φάρμες	ferme	φάρμος	ADJ;FEM;PL	N;NOM;FEM;PL
+fermes	εκμεταλλεύσεις	ferme	εκμετάλλευση	ADJ;FEM;PL	N;NOM;FEM;PL
+fermes	αγροκτήματα	ferme	αγρόκτημα	ADJ;FEM;PL	N;NOM;NEUT;PL
+échappe	αποδράσεις	échapper	απόδραση	V;IND;SG;3;PRS;FIN	N;NOM;FEM;PL
+tunisienne	τυνησίας	tunisien	τυνησία	ADJ;FEM;SG	N;GEN;FEM;SG
+tunisienne	τυνησία	tunisien	τυνησία	ADJ;FEM;SG	PROPN;ACC;FEM;SG
+tunisienne	τυνησίας	tunisien	τυνησία	ADJ;FEM;SG	N;GEN;FEM;SG
+restaurer	επαναφορά	restaurer	επαναφορά	V;NFIN	N;NOM;FEM;SG
+annecy	annecy	annecy	annecy	PROPN	
+edwards	έντουαρντς	edward	έντουαρντς	PROPN	PROPN;NOM;MASC;SG
+distances	απόσταση	distance	απόσταση	N;FEM;PL	N;ACC;FEM;SG
+donnés	δεδομένο	donner	δεδομένο	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;SG
+donnés	δεδομένου	donner	δεδομένο	V;MASC;PL;PST;V.PTCP	ADV
+donnés	δωρεά	donner	δωραός	V;MASC;PL;PST;V.PTCP	N;NOM;FEM;SG
+ronald	ρόναλντ	ronald	ρόναλντ	PROPN	PROPN;NOM;MASC;SG
+charité	φιλανθρωπικό	charité	φιλανθρωπικό	N;FEM;SG	ADJ;NOM;NEUT;SG
+charité	φιλανθρωπική	charité	φιλανθρωπικός	N;FEM;SG	ADJ;NOM;FEM;SG
+exceptionnelle	έκτακτα	exceptionnel	έκτακτα	ADJ;FEM;SG	ADV
+exceptionnelle	εξαιρετικές	exceptionnel	εξαιρετικός	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+exceptionnelle	έκτακτη	exceptionnel	έκτακτος	ADJ;FEM;SG	N;NOM;FEM;SG
+allée	διάδρομος	aller	διάδρομος	V;FEM;SG;PST;V.PTCP	N;NOM;MASC;SG
+allée	διάδρομο	aller	διάδρομος	V;FEM;SG;PST;V.PTCP	N;ACC;MASC;SG
+allée	δρομάκι	aller	δρομάκι	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+allée	σοκάκι	aller	σοκάκι	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+sienne	σιένα	sienne	σιένα	ADJ;FEM;SG	
+sienne	σιένα	sienne	σιένα	ADJ;FEM;SG	
+emily	έμιλυ	emily	έμιλος	PROPN	PROPN;NOM;FEM;SG
+emily	έμιλι	emily	έμιλι	PROPN	PROPN;NOM;FEM;SG
+emily	emily	emily	emily	PROPN	
+explications	επεξήγηση	explication	επεξήγηση	N;FEM;PL	N;NOM;FEM;SG
+explications	εξήγηση	explication	εξήγηση	N;FEM;PL	N;NOM;FEM;SG
+abel	έιμπελ	abel	έιμπελ	N;MASC;SG	V;PFV;IND;SG;3;PST;FIN;ACT
+séparé	χωρισμένοι	séparer	χωρισμένος	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+séparé	χωριστή	séparer	χωριστής	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+séparé	ξεχωριστά	séparer	ξεχωριστώ	V;MASC;SG;PST;V.PTCP	ADV
+séparé	χωριστά	séparer	χωριστώ	V;MASC;SG;PST;V.PTCP	ADV
+graphe	γραφική	graphe	γραφικός	N;MASC;SG	ADJ;NOM;FEM;SG
+enregistrée	καταγράφονται	enregistrer	καταγράφω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+enregistrée	καταγράφεται	enregistrer	καταγράφω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+enregistrée	αποθηκευμένα	enregistrer	αποθηκεύω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+enregistrée	αποθηκευμένες	enregistrer	αποθηκεύω	V;FEM;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+passés	παρελθον	passer	παρελθον	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;SG
+passés	περασμένες	passer	περασμένος	V;MASC;PL;PST;V.PTCP	ADJ;NOM;FEM;PL
+passés	περασμένα	passer	περασμένος	V;MASC;PL;PST;V.PTCP	ADJ;NOM;NEUT;PL
+passés	παρελθόν	passer	παρελθόν	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;SG
+recommandations	σύσταση	recommandation	σύσταση	N;FEM;PL	N;NOM;FEM;SG
+plainte	καταγγελίες	plainte	καταγγελία	N;FEM;SG	N;NOM;FEM;PL
+plainte	παράπονα	plainte	παράπονο	N;FEM;SG	N;NOM;NEUT;PL
+doubles	διπλή	double	διπλός	ADJ;MASC;PL	NUM;NOM;FEM;SG
+doubles	διπλό	double	διπλός	ADJ;MASC;PL	NUM;NOM;NEUT;SG
+doubles	διπλά	double	διπλός	ADJ;MASC;PL	NUM;NOM;NEUT;PL
+doubles	διπλός	double	διπλός	ADJ;MASC;PL	DET;NOM;DEF;MASC;SG
+idéologie	ιδεολογική	idéologie	ιδεολογικός	N;FEM;SG	ADJ;NOM;FEM;SG
+souverains	κυρίαρχο	souverain	κυρίαρχος	N;MASC;PL	N;NOM;NEUT;SG
+copyright	copy	copyright	copy	N;MASC;SG	
+martine	μαρτίν	martine	μαρτίν	N;FEM;SG	
+martine	martin	martine	martin	N;FEM;SG	
+martine	μάρτιν	martine	μάρτιν	N;FEM;SG	
+ménages	νοικοκυριό	ménage	νοικοκυριό	N;MASC;PL	N;NOM;NEUT;SG
+ménages	νοικοκυριού	ménage	νοικοκυριό	N;MASC;PL	N;GEN;NEUT;SG
+captain	κυβερνήτη	captain	κυβερνήτης	PROPN	N;ACC;MASC;SG
+captain	καπετάνιος	captain	καπετάνιος	PROPN	ADJ;NOM;MASC;SG
+buffalo	βουβάλι	buffalo	βουβάλι	PROPN	N;NOM;NEUT;SG
+buffalo	βουβάλια	buffalo	βουβάλιο	PROPN	N;NOM;NEUT;PL
+buffalo	μπάφαλο	buffalo	μπάφαλος	PROPN	
+italiennes	ιταλικά	italien	ιταλικά	ADJ;FEM;PL	ADV
+italiennes	ιταλική	italien	ιταλικός	ADJ;FEM;PL	ADJ;NOM;FEM;SG
+italiennes	ιταλός	italien	ιταλός	ADJ;FEM;PL	PROPN;NOM;MASC;SG
+italiennes	ιταλικό	italien	ιταλικός	ADJ;FEM;PL	ADJ;NOM;NEUT;SG
+enlever	αφαίρεση	enlever	αφαίρεση	V;NFIN	N;ACC;FEM;SG
+démographie	δημογραφικά	démographie	δημογραφικά	N;FEM;SG	ADV
+asiatique	ασία	asiatique	ασία	ADJ;MASC;SG	PROPN;NOM;FEM;SG
+asiatique	ασίας	asiatique	ασία	ADJ;MASC;SG	PROPN;GEN;FEM;SG
+asiatique	ασιάτης	asiatique	ασιάτης	ADJ;MASC;SG	N;NOM;MASC;SG
+asiatique	ασιάτες	asiatique	ασιάτης	ADJ;MASC;SG	N;NOM;MASC;PL
+regarde	δείτε	regarder	βλέπω	V;IND;SG;3;PRS;FIN	V;PFV;IMP;PL;2;FIN;ACT
+regarde	ρολόι	regarder	ρολός	V;IND;SG;3;PRS;FIN	N;NOM;NEUT;SG
+regarde	κοίτα	regarder	κοίτα	V;IND;SG;3;PRS;FIN	V;IPFV;IND;SG;1;PRS;FIN;ACT
+oklahoma	οκλαχόμα	oklahoma	οκλαχόμα	PROPN	PROPN;NOM;FEM;SG
+documentaires	ντοκιμαντέρ	documentaire	ντοκιμαντέρ	ADJ;MASC;PL	N;NOM;NEUT;SG
+documentaires	ντοκυμαντέρ	documentaire	ντοκυμαντέρ	ADJ;MASC;PL	N;NOM;NEUT;SG
+documentaires	ντοκιμαντέρ	documentaire	ντοκιμαντέρ	ADJ;MASC;PL	N;NOM;NEUT;SG
+sep	sep	sep	sep	N;MASC;SG	
+sep	σεπ	sep	σεπ	N;MASC;SG	
+xviii	xviii	xviii	xviii	NUM	
+papa	μπαμπά	papa	μπαμπά	N;MASC;SG	
+papa	μπαμπά	papa	μπαμπά	N;MASC;SG	
+papa	μπαμπά	papa	μπαμπά	N;MASC;SG	
+florent	φλοράν	florent	φλοράν	PROPN	N
+imagine	φαντάσου	imaginer	φάντασος	V;IND;SG;3;PRS;FIN	V;IPFV;IND;SG;1;PRS;FIN;ACT
+imagine	φανταστείτε	imaginer	φαντάσσω	V;IND;SG;3;PRS;FIN	V;PFV;IND;PL;2;FIN;PASS
+ordinateurs	κομπιούτερ	ordinateur	κομπιούτερ	N;MASC;PL	N;NOM;NEUT;SG
+ordinateurs	υπολογιστής	ordinateur	υπολογιστής	N;MASC;PL	N;NOM;MASC;SG
+ordinateurs	υπολογιστή	ordinateur	υπολογιστής	N;MASC;PL	N;ACC;MASC;SG
+ordinateurs	κομπιούτερ	ordinateur	κομπιούτερ	N;MASC;PL	N;NOM;NEUT;SG
+bassiste	μπασίστα	bassiste	μπασίστα	N;MASC;SG	
+bassiste	μπας	bassiste	μπος	N;MASC;SG	PART
+bassiste	μπάσο	bassiste	μπάσο	N;MASC;SG	
+jessica	τζέσικα	jessica	τζέσικος	PROPN	N;NOM;FEM;SG
+jessica	jessica	jessica	jessica	PROPN	
+martial	πολεμικές	martial	πολεμικός	N;MASC;SG	ADJ;NOM;FEM;PL
+bouton	κουμπί	bouton	κουμπί	N;MASC;SG	
+toucher	άγγιγμα	toucher	άγγιγμα	V;NFIN	N;NOM;NEUT;SG
+toucher	αφή	toucher	αφή	V;NFIN	N;NOM;FEM;SG
+toucher	συγκινητικό	toucher	συγκινητικός	V;NFIN	ADJ;NOM;NEUT;SG
+toucher	συγκινητική	toucher	συγκινητικός	V;NFIN	ADJ;NOM;FEM;SG
+now	τώρα	now	τώρα	INTJ	ADV
+now	τωρα	now	τωρα	INTJ	ADV
+aoste	aosta	aoste	aosta	N;FEM;SG	
+combattant	μαχητικό	combattant	μαχητικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+combattant	μαχητής	combattant	μαχητής	N;MASC;SG	ADJ;NOM;MASC;SG
+tropicale	τροπικά	tropical	τροπικά	ADJ;FEM;SG	ADV
+fossiles	απολίθωμα	fossile	απολίθωμα	N;MASC;PL	N;NOM;NEUT;SG
+plastique	πλαστικές	plastique	πλαστικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+plastique	πλαστικά	plastique	πλαστικά	ADJ;MASC;SG	ADV
+plastique	πλαστικά	plastique	πλαστικά	ADJ;MASC;SG	ADV
+plastique	πλαστικές	plastique	πλαστικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+menaces	απειλή	menace	απειλή	N;FEM;PL	N;ACC;FEM;SG
+forestier	δάση	forestier	δάσος	N;MASC;SG	N;NOM;NEUT;PL
+forestier	δασικές	forestier	δασικός	N;MASC;SG	ADJ;NOM;FEM;PL
+forestier	δασική	forestier	δασικός	N;MASC;SG	ADJ;NOM;FEM;SG
+forestier	δάση	forestier	δάσος	N;MASC;SG	N;NOM;NEUT;PL
+carrières	σταδιοδρομία	carrière	σταδιοδρομία	N;FEM;PL	N;NOM;FEM;SG
+identiques	πανομοιότυπα	identique	πανομοιότυπο	ADJ;MASC;PL	ADV
+identiques	ίδια	identique	ίδιος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+identiques	πανομοιότυπο	identique	πανομοιότυπο	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+mécaniques	μηχανική	mécanique	μηχανικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+mécaniques	μηχανικά	mécanique	μηχανικά	ADJ;MASC;PL	ADV
+mécaniques	μηχανικό	mécanique	μηχανικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+plages	παραλία	plage	παραλία	N;FEM;PL	N;NOM;FEM;SG
+plages	παραλια	plage	παράλια	N;FEM;PL	N;NOM;FEM;SG
+mayence	mainz	mayence	mainz	PROPN	
+réguliers	θαμώνες	régulier	θάμωνας	ADJ;MASC;PL	N;NOM;MASC;PL
+intérim	προσωρινός	intérim	προσωρινός	N;MASC;SG	ADJ;NOM;MASC;SG
+intérim	ενδιάμεσες	intérim	ενδιάμεσα	N;MASC;SG	ADJ;NOM;FEM;PL
+intérim	προσωρινή	intérim	προσωρινός	N;MASC;SG	ADJ;NOM;FEM;SG
+intérim	προσωρινός	intérim	προσωρινός	N;MASC;SG	ADJ;NOM;MASC;SG
+entraîné	εκπαιδευμένοι	entraîner	εκπαιδεύω	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+missionnaire	ιεραπόστολος	missionnaire	ιεραπόστολος	ADJ;MASC;SG	N;NOM;MASC;SG
+rico	ρίκο	rico	ρίκο	PROPN	
+rico	rico	rico	rico	PROPN	
+vendue	πωλείται	vendre	πωλώ	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+vendue	πωλούνται	vendre	πωλώ	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+favorables	ευνοϊκή	favorable	ευνοϊκός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+protestant	προτεστάντης	protestant	προτεστάντης	N;MASC;SG	ADJ;NOM;MASC;SG
+protestant	προτεστάντες	protestant	προτεστάν	N;MASC;SG	N;NOM;MASC;PL
+spirituel	πνευματικά	spirituel	πνευματικά	ADJ;MASC;SG	ADV
+constitutionnelle	συνταγματικά	constituinnnel	συνταγματικά	ADJ;FEM;SG	ADV
+valentin	βαλεντίν	valentin	βαλεντίν	N;FEM;SG	
+valentin	βαλεντάιν	valentin	βαλεντάιν	N;FEM;SG	
+plaisance	plaisance	plaisance	plaisance	N;FEM;SG	
+problématique	προβληματικά	problématique	προβληματικά	ADJ;FEM;SG	ADV
+problématique	προβληματικές	problématique	προβληματικός	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+problématique	πρόβλημα	problématique	πρόβλημα	ADJ;FEM;SG	N;NOM;NEUT;SG
+problématique	προβλημα	problématique	προβλημα	ADJ;FEM;SG	N;NOM;NEUT;SG
+conforme	συμμορφώνονται	conforme	συμμορφώνω	ADJ;MASC;SG	V;IPFV;IND;PL;3;PRS;FIN;PASS
+violent	βίαιοι	violent	βίαιος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+violent	βίαιη	violent	βίαιη	ADJ;MASC;SG	N;NOM;FEM;SG
+violent	βίαια	violent	βίαιο	ADJ;MASC;SG	ADV
+violent	βίαιο	violent	βίαιο	ADJ;MASC;SG	N;ACC;NEUT;SG
+arcades	arcade	arcade	arcade	N;FEM;PL	
+madonna	παναγια	madonna	πανάγια	PROPN	N;NOM;FEM;SG
+madonna	παναγία	madonna	παναγία	PROPN	N;NOM;FEM;SG
+madonna	μαντόνα	madonna	μαντόνα	PROPN	PROPN;NOM;FEM;SG
+sourire	χαμογελάστε	sourire	χαμογελάζω	N;MASC;SG	V;PFV;IND;PL;2;PRS;FIN;ACT
+sourire	χαμογελάει	sourire	χαμογέλω	N;MASC;SG	V;IPFV;IND;SG;3;PRS;FIN;ACT
+sourire	χαμόγελα	sourire	χαμόγελο	N;MASC;SG	N;NOM;NEUT;PL
+carrés	τετράγωνα	carré	τετράγωνος	N;MASC;PL	ADV
+carrés	τετράγωνο	carré	τετράγωνος	N;MASC;PL	N;NOM;NEUT;SG
+carrés	πλατεία	carré	πλατεία	N;MASC;PL	N;NOM;FEM;SG
+sommeil	κοιμήσου	sommeil	κόιμησος	N;MASC;SG	V;PFV;IND;SG;1;PST;FIN;ACT
+sommeil	κοιμάται	sommeil	κοιμάμαι	N;MASC;SG	V;IPFV;IND;SG;3;PRS;FIN;PASS
+sommeil	κοιμάσαι	sommeil	κοιμάζω	N;MASC;SG	V;IPFV;IND;SG;1;PRS;FIN;ACT
+sommeil	κοιμάμαι	sommeil	κοιμάμαι	N;MASC;SG	V;IPFV;IND;SG;1;PRS;FIN;PASS
+digne	αξιοπρεπές	digne	αξιοπρεπή	ADJ;MASC;SG	ADV
+digne	άξιοι	digne	άξιος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+saoudite	αραβία	saoudite	αραβία	N;MASC;SG	PROPN;ACC;FEM;SG
+contenus	περιεκτικότητα	contenu	περιεκτικότητα	V;MASC;PL;PST;V.PTCP	N;NOM;FEM;SG
+contenus	περιεχόμενο	contenu	περιεχόμενο	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;SG
+contenus	περιεχόμενα	contenu	περιεχόμενο	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;PL
+contenus	περιεχόμενο	contenu	περιεχόμενο	V;MASC;PL;PST;V.PTCP	N;NOM;NEUT;SG
+perdus	χάθηκε	perdre	χάνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+perdus	χαμένος	perdre	χαμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+perdus	χαμένη	perdre	χαμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+consulat	προξενεία	consulat	προξενεία	N;MASC;SG	N;NOM;NEUT;PL
+schmidt	σμιτ	schmidt	σμιτ	PROPN	PROPN;NOM;MASC;SG
+schmidt	s	schmidt	s	PROPN	
+schmidt	σμιντ	schmidt	σμιντ	PROPN	N
+indigènes	ιθαγενείς	indigène	ιθαγενής	ADJ;MASC;PL	N;NOM;MASC;PL
+magnifique	πανέμορφη	magnifique	πανέμορφος	ADJ;MASC;SG	N;NOM;FEM;SG
+magnifique	πανέμορφη	magnifique	πανέμορφος	ADJ;MASC;SG	N;NOM;FEM;SG
+magnifique	κούκλα	magnifique	κούκλα	ADJ;MASC;SG	N;NOM;FEM;SG
+magnifique	κούκλος	magnifique	κούκλος	ADJ;MASC;SG	N;NOM;MASC;SG
+classic	κλασσικά	classic	κλασσικός	N;MASC;SG	ADV
+classic	κλασικά	classic	κλασικός	N;MASC;SG	ADV
+classic	κλασσικό	classic	κλασσικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+classic	κλασική	classic	κλασικός	N;MASC;SG	ADJ;NOM;FEM;SG
+classic	κλασικό	classic	κλασικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+hôpitaux	νοσοκομείο	hôpital	νοσοκομείο	N;MASC;PL	N;NOM;NEUT;SG
+ukrainien	ουκρανίας	ukrainien	ουκρανία	ADJ;MASC;SG	PROPN;GEN;FEM;SG
+amanda	amanda	amander	amanda	PROPN	
+amanda	αμάντα	amander	αμάντα	PROPN	PROPN;NOM;FEM;SG
+intellectuels	διανοούμενοι	intellectuel	διανοούμενος	N;MASC;PL	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+intellectuels	πνευματική	intellectuel	πνευματικός	N;MASC;PL	ADJ;NOM;FEM;SG
+intellectuels	διανοητική	intellectuel	διανοητικός	N;MASC;PL	ADJ;NOM;FEM;SG
+périodique	περιοδικές	périodique	περιοδικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+stevens	στήβενς	steven	στήβην	PROPN	N;NOM;FEM;SG
+stevens	στίβενς	steven	στίβη	PROPN	N;NOM;FEM;PL
+stevens	stevens	steven	stevens	PROPN	
+précieux	πολύτιμοι	précieux	πολύτιμος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+précieux	πολύτιμα	précieux	πολύτιμα	ADJ;MASC;SG	ADV
+précieux	πολύτιμες	précieux	πολύτιμα	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+installent	εγκατάσταση	installer	εγκατάσταση	V;IND;PL;3;PRS;FIN	N;NOM;FEM;SG
+donjon	μπουντρούμια	donjon	μπουντρούμιο	N;MASC;SG	N;NOM;NEUT;PL
+donjon	μπουντρούμια	donjon	μπουντρούμιο	N;MASC;SG	N;NOM;NEUT;PL
+croissant	μεγαλώνει	croissant	μεγαλώνω	N;MASC;SG	V;IPFV;IND;SG;3;PRS;FIN;ACT
+croissant	αυξανόμενη	croissant	αυξανόμενος	N;MASC;SG	ADJ;NOM;FEM;SG
+croissant	κρέσεντ	croissant	κρέσεντ	N;MASC;SG	V;PFV;IND;SG;3;PST;FIN;ACT
+animée	κινούμενα	animer	κινούμενος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+animée	κινούμενο	animer	κινούμενος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+amant	ερωμένη	amant	ερώνω	N;MASC;SG	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+légal	νομικά	légal	νομικά	ADJ;MASC;SG	ADV
+batman	μπάτμαν	batman	μπάτμαν	PROPN	
+tibétain	θιβέτ	tibétain	θιβέτ	ADJ;MASC;SG	
+carmen	κάρμεν	carmen	κάρμεν	PROPN	PROPN;NOM;FEM;SG
+condamnation	καταδίκες	condamnation	καταδίκα	N;FEM;SG	N;NOM;FEM;PL
+condamnation	πεποιθήσεις	condamnation	πεποίθηση	N;FEM;SG	N;NOM;FEM;PL
+lys	κρίνα	lys	κρίνος	N;MASC;SG	N;NOM;NEUT;PL
+lys	λίλυ	lys	λίλς	N;MASC;SG	
+lys	lily	lys	lily	N;MASC;SG	
+lys	λίλι	lys	λίλι	N;MASC;SG	
+rail	σιδηροδρομικών	rail	σιδηροδρομικά	N;MASC;SG	ADJ;GEN;FEM;PL
+disparus	εξαφανίστηκαν	disparu	εξαφανίζω	ADJ;MASC;PL	V;PFV;IND;PL;3;PST;FIN;PASS
+disparus	εξαφανίστηκε	disparu	εξαφανίζω	ADJ;MASC;PL	V;PFV;IND;SG;3;PST;FIN;PASS
+accidents	συντρίβεται	accident	συντρίβομαι	N;MASC;PL	V;IPFV;IND;SG;3;PRS;FIN;PASS
+blois	μπλουά	blois	μπλουά	PROPN	
+kazakhstan	καζακστάν	kazakhstan	καζακστάν	PROPN	
+kazakhstan	καζαχστάν	kazakhstan	καζαχστάν	PROPN	
+spectre	φάσματα	spectre	φάσμα	N;MASC;SG	N;NOM;NEUT;PL
+ajoutant	πρόσθεση	ajouter	πρόσθεση	V;PRS;V.PTCP	N;NOM;FEM;SG
+achille	αχιλλέα	achille	αχιλλέα	N;MASC;SG	PROPN;ACC;MASC;SG
+achille	αχιλλέα	achille	αχιλλέα	N;MASC;SG	PROPN;ACC;MASC;SG
+tag	tag	tag	tag	N;MASC;SG	
+publicitaire	διαφήμιση	publicitaire	διαφήμιση	ADJ;MASC;SG	N;NOM;FEM;SG
+sandra	σάντρα	sandra	σάντρα	PROPN	N;NOM;FEM;SG
+una	una	una	una	PROPN	
+hésite	διστάσεις	hésiter	δίσταση	V;IND;SG;3;PRS;FIN	V;PFV;IND;PL;1;FIN;ACT
+élémentaire	στοιχειώδες	élémentaire	στοιχειώδης	ADJ;MASC;SG	N;NOM;NEUT;SG
+élémentaire	βασικές	élémentaire	βασικός	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+élémentaire	στοιχειώδη	élémentaire	στοιχειώδη	ADJ;MASC;SG	N;NOM;NEUT;PL
+élémentaire	στοιχειώδες	élémentaire	στοιχειώδης	ADJ;MASC;SG	N;NOM;NEUT;SG
+recrutement	προσλήψεις	recrutement	πρόσληψη	N;MASC;SG	N;NOM;FEM;PL
+rohan	ρόχαν	rohan	ρόχος	PROPN	V;IPFV;IND;PL;3;PST;FIN;ACT
+procédures	διαδικασία	procédure	διαδικασία	N;FEM;PL	N;NOM;FEM;SG
+explorer	εξερεύνηση	explorer	εξερεύνηση	V;NFIN	N;ACC;FEM;SG
+explorer	εξερεύνηση	explorer	εξερεύνηση	V;NFIN	N;ACC;FEM;SG
+explorer	εξερευνητής	explorer	εξερευνητής	V;NFIN	N;NOM;MASC;SG
+partition	διαχωριστικό	partition	διαχωριστικός	N;FEM;SG	ADJ;NOM;NEUT;SG
+partition	σκορ	partition	σκορ	N;FEM;SG	
+considérant	ρεσιτάλ	considérer	ρεσιτάλ	V;PRS;V.PTCP	
+ana	άνα	ana	άνας	PROPN	
+ana	ana	ana	ana	PROPN	
+reconnus	αναγνωρίζεται	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+reconnus	αναγνωρισμένο	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+reconnus	αναγνωρισμένος	reconnaître	αναγνωρισμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+reconnus	αναγνωρισμένη	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+reconnus	αναγνωρίστηκε	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+reconnus	αναγνώρισε	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+reconnus	αναγνωρισμένο	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+reconnus	αναγνωρίζεται	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+reconnus	αναγνωρίστηκε	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+reconnus	αναγνωρισμένη	reconnaître	αναγνωρίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+plastiques	πλαστικά	plastique	πλαστικά	ADJ;MASC;PL	ADV
+plastiques	πλαστική	plastique	πλαστικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+plastiques	πλαστικά	plastique	πλαστικά	ADJ;MASC;PL	ADV
+plastiques	πλαστικό	plastique	πλαστικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+plastiques	πλαστική	plastique	πλαστικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+violation	παραβιάσεις	violation	παραβίαση	N;FEM;SG	N;NOM;FEM;PL
+conservateurs	συντηρητικά	conservateur	συντηρητικά	N;MASC;PL	ADV
+conservateurs	συντηρητικοί	conservateur	συντηρητικός	N;MASC;PL	ADJ;NOM;MASC;PL
+conservateurs	συντηρητικούς	conservateur	συντηρητικός	N;MASC;PL	ADJ;ACC;MASC;PL
+conservateurs	συντηρητική	conservateur	συντηρητικός	N;MASC;PL	ADJ;NOM;FEM;SG
+conservateurs	συντηρητικό	conservateur	συντηρητικός	N;MASC;PL	ADJ;NOM;NEUT;SG
+conservateurs	συντηρητικά	conservateur	συντηρητικά	N;MASC;PL	ADV
+conservateurs	συντηρητικός	conservateur	συντηρητικός	N;MASC;PL	ADJ;NOM;MASC;SG
+conservateurs	συντηρητικοί	conservateur	συντηρητικός	N;MASC;PL	ADJ;NOM;MASC;PL
+plats	επίπεδη	plat	επίπεδο	N;MASC;PL	NUM;NOM;FEM;SG
+plats	διαμέρισμα	plat	διαμέρισμα	N;MASC;PL	N;NOM;NEUT;SG
+neuchâtel	neuchâtel	neuchâtel	neuchâtel	PROPN	
+cameron	κάμερον	cameron	κάμερον	PROPN	PROPN;NOM;MASC;SG
+gène	τζην	gène	τζεν	N;MASC;SG	
+gène	gene	gène	gene	N;MASC;SG	
+formés	σχηματίζεται	former	σχηματίζω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+formés	σχηματίστηκε	former	σχηματίζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+formés	εκπαιδευμένος	former	εκπαιδευμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+formés	εκπαιδευμένη	former	εκπαιδεύω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+formés	εκπαιδευμένο	former	εκπαιδεύω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+cfa	cfa	cfa	cfa	N;MASC;SG	
+deutsche	deutsche	deutsche	deutsche	PROPN	
+anarchiste	αναρχικοί	anarchiste	αναρχικός	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+indo	ινδο	indo	ινδος	PROPN	N
+graphiques	γραφήματα	graphique	γράφημα	ADJ;MASC;PL	N;NOM;NEUT;PL
+graphiques	γραφικό	graphique	γραφικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+graphiques	γραφικά	graphique	γραφικά	ADJ;MASC;PL	ADV
+graphiques	διαγράμματα	graphique	διάγραμμα	ADJ;MASC;PL	N;NOM;NEUT;PL
+graphiques	γραφικά	graphique	γραφικά	ADJ;MASC;PL	ADV
+monique	μονίκ	monique	μονίκ	ADJ;FEM;SG	N
+parallèles	παράλληλη	parallèle	παράλληλος	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+parallèles	παράλληλο	parallèle	παράλληλος	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+parallèles	παράλληλα	parallèle	παράλληλα	ADJ;MASC;PL	ADV
+parallèles	παραλληλισμοί	parallèle	παραλληλισμός	ADJ;MASC;PL	N;NOM;MASC;PL
+négatif	αρνητικά	négatif	αρνητικά	ADJ;MASC;SG	ADV
+juger	δικαστής	juger	δικαστής	V;NFIN	N;NOM;MASC;SG
+juger	δικαστή	juger	δικαστής	V;NFIN	N;VOC;MASC;SG
+juger	κριτής	juger	κριτός	V;NFIN	N;NOM;MASC;SG
+résidents	ειδικευόμενος	résident	ειδικευόμενος	N;MASC;PL	ADJ;NOM;MASC;SG
+résidents	κάτοικος	résident	κάτοικος	N;MASC;PL	N;NOM;MASC;SG
+résidents	κάτοικο	résident	κάτοικος	N;MASC;PL	N;ACC;MASC;SG
+martínez	martinez	martíne	martinez	PROPN	
+martínez	μαρτίνεζ	martíne	μαρτίνω	PROPN	
+martínez	martínez	martíne	martínez	PROPN	
+albanie	αλβανία	albanie	αλβανία	N;FEM;SG	PROPN;ACC;FEM;SG
+albanie	albanie	albanie	albanie	N;FEM;SG	
+unit	μονάδα	unir	μονάδα	V;IND;SG;3;PRS;FIN	N;NOM;FEM;SG
+enregistrés	καταγράφονται	enregistrer	καταγράφω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+enregistrés	καταγράφεται	enregistrer	καταγράφω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+enregistrés	καταγεγραμμένη	enregistrer	καταγεγράμμενος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+enregistrés	καταγράφηκε	enregistrer	καταγράφω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+enregistrés	εγγεγραμμένος	enregistrer	εγγεγραμμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+enregistrés	καταχωρημένο	enregistrer	καταχωρημένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+enregistrés	αποθηκεύτηκε	enregistrer	αποθηκώ	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+enregistrés	σώθηκε	enregistrer	σώνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+enregistrés	έσωσε	enregistrer	σώνω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+connexion	συνδεθείτε	connexion	συνδέω	N;FEM;SG	V;PFV;IMP;PL;2;FIN;ACT
+connexion	συνδεθείτε	connexion	συνδέω	N;FEM;SG	V;PFV;IMP;PL;2;FIN;ACT
+briques	τούβλο	brique	τούβλο	N;FEM;PL	N;NOM;NEUT;SG
+briques	μπρικ	brique	μπρικ	N;FEM;PL	
+distribué	διανέμεται	distribuer	διανέμω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+distribué	διανέμονται	distribuer	διανέμω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+tranche	φέτες	tranche	φέτος	N;FEM;SG	N;NOM;FEM;PL
+brothers	αδέλφια	brother	αδέρφι	PROPN	N;NOM;NEUT;PL
+brothers	αδέρφια	brother	αδέρφι	PROPN	N;NOM;NEUT;PL
+brothers	αδελφοί	brother	αδελφός	PROPN	N;NOM;MASC;PL
+sul	sul	sul	sul	PROPN	
+partisan	κομματική	partisan	κομματικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+partisan	υποστηρικτής	partisan	υποστηρικτής	V;MASC;SG;PST;V.PTCP	N;NOM;MASC;SG
+dumas	dumas	duma	dumas	PROPN	
+boutique	shop	boutique	shop	N;FEM;SG	
+boutique	μπουτίκ	boutique	μπουτίκ	N;FEM;SG	N;NOM;NEUT;PL
+knight	νάιτ	knight	νάιτ	PROPN	
+knight	ιππότης	knight	ιππότης	PROPN	N;NOM;MASC;SG
+knight	ιππότη	knight	ιππότης	PROPN	N;NOM;MASC;SG
+suspendu	εναιώρημα	suspendre	εναιώρημα	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+suspendu	ανάρτηση	suspendre	ανάρτηση	V;MASC;SG;PST;V.PTCP	N;ACC;FEM;SG
+suspendu	αναστολή	suspendre	αναστολή	V;MASC;SG;PST;V.PTCP	N;ACC;FEM;SG
+suspendu	αναστέλλεται	suspendre	αναστέλλω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+suspendu	αναστολή	suspendre	αναστολή	V;MASC;SG;PST;V.PTCP	N;ACC;FEM;SG
+felix	φέλιξ	felix	φέλι	PROPN	
+felix	felix	felix	felix	PROPN	
+felix	φήλιξ	felix	φήλιξ	PROPN	N
+under	υπό	under	υπό	PROPN	ADP
+diffuse	διάχυτο	diffuser	διάχυτος	V;IND;SG;3;PRS;FIN	ADJ;NOM;NEUT;SG
+diffuse	διάχυτη	diffuser	διάχυτος	V;IND;SG;3;PRS;FIN	ADJ;NOM;FEM;SG
+homonyme	συνονόματό	homonyme	σύνονομα	ADJ;MASC;SG	N;NOM;NEUT;SG
+castro	κάστρο	castro	κάστρο	PROPN	PROPN;NOM;NEUT;SG
+sidney	σίντνεϊ	sidney	σίντνεϊ	PROPN	PROPN;NOM;FEM;SG
+ténor	τενόρος	ténor	τενόρος	N;MASC;SG	PROPN;NOM;MASC;SG
+aveugle	τυφλοί	aveugle	τυφλός	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+aveugle	τυφλά	aveugle	τυφλά	ADJ;MASC;SG	ADV
+vies	ζει	vie	ζω	N;FEM;PL	V;IPFV;IND;SG;3;PRS;FIN;ACT
+roulant	κύλισης	roulant	κύλιση	V;PRS;V.PTCP	N;GEN;FEM;SG
+tabac	καπνά	tabac	καπνά	N;MASC;SG	N;NOM;NEUT;PL
+scalemajor	scalemajor	scalemajor	scalemajor	PROPN	
+palace	ανάκτορα	palace	ανάκτορα	N;MASC;SG	N;NOM;NEUT;PL
+palace	palace	palace	palace	N;MASC;SG	
+timeaxis	timeaxis	timeaxis	timeaxis	PROPN	
+nbc	nbc	nbc	nbc	PROPN	
+butler	μπάτλερ	butler	μπάτλερ	PROPN	
+tissus	ύφασμα	tissu	ύφασμα	N;MASC;PL	N;NOM;NEUT;SG
+suffisante	επαρκείς	suffisant	επαρκής	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+suffisante	επαρκές	suffisant	επαρκής	ADJ;FEM;SG	N;NOM;NEUT;SG
+suffisante	επαρκής	suffisant	επαρκής	ADJ;FEM;SG	N;NOM;MASC;SG
+suffisante	επαρκή	suffisant	επαρκής	ADJ;FEM;SG	ADV
+spencer	σπένσερ	spencer	σπένσερ	PROPN	N;NOM
+spencer	spencer	spencer	spencer	PROPN	
+connecticut	κονέκτικατ	connecticut	κονέκτικα	PROPN	ADV
+afficher	εμφάνιση	afficher	εμφάνιση	V;NFIN	N;ACC;FEM;SG
+afficher	show	afficher	show	V;NFIN	
+afficher	παράσταση	afficher	παράσταση	V;NFIN	N;ACC;FEM;SG
+afficher	εμφάνιση	afficher	εμφάνιση	V;NFIN	N;ACC;FEM;SG
+afficher	προβολή	afficher	προβολή	V;NFIN	N;NOM;FEM;SG
+afficher	απεικόνιση	afficher	απεικόνιση	V;NFIN	N;NOM;FEM;SG
+afficher	θεα	afficher	θεα	V;NFIN	N;NOM;FEM;SG
+afficher	θέα	afficher	θέα	V;NFIN	N;NOM;FEM;SG
+afficher	όψη	afficher	όψο	V;NFIN	N;NOM;FEM;SG
+afficher	προβολή	afficher	προβολή	V;NFIN	N;NOM;FEM;SG
+afficher	view	afficher	view	V;NFIN	
+dominante	κυρίαρχο	dominant	κυρίαρχος	ADJ;FEM;SG	N;NOM;NEUT;SG
+dominante	κυρίαρχη	dominant	κυρίαρχη	ADJ;FEM;SG	N;NOM;FEM;SG
+dominante	υπεροχή	dominant	υπεροχή	ADJ;FEM;SG	N;ACC;FEM;SG
+dominante	κυριαρχία	dominant	κυριαρχία	ADJ;FEM;SG	N;ACC;FEM;SG
+sélectionnés	επιλεγμένη	sélectionner	επιλέγω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+sélectionnés	επιλεγμένο	sélectionner	επιλέγω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+sélectionnés	επιλέχθηκε	sélectionner	επιλέχομαι	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+pensez	σκέψου	penser	σκέψο	V;IMP;PL;2;PRS;FIN	V;IPFV;IND;SG;1;PRS;FIN;ACT
+hercule	ηρακλής	hercule	ηρακλής	N;MASC;SG	PROPN;NOM;MASC;SG
+hercule	ηρακλή	hercule	ηρακλή	N;MASC;SG	PROPN;NOM;MASC;SG
+forcé	αναγκαστική	forcer	αναγκαστικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+zur	zur	zur	zur	PROPN	
+solde	υπόλοιπο	solde	υπόλοιπος	N;MASC;SG	ADJ;NOM;NEUT;SG
+gustav	γκούσταβ	gustav	γκούσταβ	PROPN	
+oregon	όρεγκον	oregon	όρεγκον	PROPN	
+cape	κέιπ	cape	κέιπ	N;FEM;SG	
+diff	diff	diff	diff		
+infos	info	info	info	N;FEM;PL	
+infos	πληροφορία	info	πληροφορία	N;FEM;PL	N;ACC;FEM;SG
+infos	πληροφόρηση	info	πληροφόρηση	N;FEM;PL	N;ACC;FEM;SG
+artificielle	τεχνητά	artificiel	τεχνητός	ADJ;FEM;SG	ADV
+artificielle	τεχνητές	artificiel	τεχνητής	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+jésuite	ιησουίτες	jésuite	ιησουίτης	N;MASC;SG	ADJ;NOM;MASC;PL
+voyageur	επιβατών	voyageur	επιβάτης	N;MASC;SG	N;GEN;MASC;PL
+leslie	λέσλι	leqlie	λέσλι	PROPN	
+serpents	φίδι	serpent	φίδι	N;MASC;PL	N;NOM;NEUT;SG
+cuir	δερμάτινα	cuir	δερματίνω	N;MASC;SG	N;NOM;NEUT;PL
+cuir	δέρματα	cuir	δέρμα	N;MASC;SG	N;NOM;NEUT;PL
+reporter	δημοσιογράφος	reporter	δημοσιογράφος	V;NFIN	N;NOM;MASC;SG
+reporter	ρεπόρτερ	reporter	ρεπόρτερ	V;NFIN	N;NOM;FEM;SG
+imagesize	imagesize	imagesize	imagesize	PROPN	
+utah	γιούτα	utah	γιούτα	PROPN	
+condamnés	καταδικάστηκε	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+condamnés	καταδικασμένος	condamner	καταδικασμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+condamnés	καταδίκασε	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+condamnés	καταδικάστηκε	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+condamnés	καταδικάζεται	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+condamnés	καταδικασμένη	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+condamnés	καταδικάστηκε	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+condamnés	καταδικασμένος	condamner	καταδικασμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+condamnés	καταδίκασε	condamner	καταδικάζω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+condamnés	κατάδικοι	condamner	κατάδικος	V;MASC;PL;PST;V.PTCP	ADJ;NOM;MASC;PL
+cacher	απόκρυψη	cacher	απόκρυψη	V;NFIN	N;ACC;FEM;SG
+neuilly	neuilly	neuilly	neuilly	PROPN	
+plotarea	plotarea	plotarea	plotarea	PROPN	
+kentucky	κεντάκι	kentucky	κεντάκι	PROPN	
+schneider	σνάιντερ	schneider	σνάιντερ	PROPN	
+ned	νεντ	ned	νεντ	PROPN	
+probabilité	πιθανότητες	probabilité	πιθανότητα	N;FEM;SG	N;NOM;FEM;PL
+académique	ακαδημαϊκά	académique	ακαδημαϊκός	ADJ;MASC;SG	ADV
+académique	ακαδημαϊκό	académique	ακαδημαϊκός	ADJ;MASC;SG	N;NOM;NEUT;SG
+roll	roll	roll	roll	PROPN	
+roll	ρολό	roll	ρολός	PROPN	N;NOM;NEUT;SG
+responsabilités	ευθύνη	responsabilité	ευθύνη	N;FEM;PL	N;ACC;FEM;SG
+responsabilités	υπευθυνότητα	responsabilité	υπευθυνότητα	N;FEM;PL	N;ACC;FEM;SG
+lyrique	στίχοι	lyrique	στίχος	ADJ;MASC;SG	N;NOM;MASC;PL
+lyrique	στίχους	lyrique	στίχος	ADJ;MASC;SG	N;ACC;MASC;PL
+minimale	ελάχιστα	minimal	λίγο	ADJ;FEM;SG	ADV;CMPR
+minimale	ελάχιστες	minimal	ελάχιστος	ADJ;FEM;SG	ADJ;NOM;CMPR;FEM;PL
+minimale	ελάχιστα	minimal	λίγο	ADJ;FEM;SG	ADV;CMPR
+composant	συστατικό	composer	συστατικό	V;PRS;V.PTCP	N;NOM;NEUT;SG
+composant	συνιστώσα	composer	συνιστώνω	V;PRS;V.PTCP	N;NOM;FEM;SG
+composant	εξάρτημα	composer	εξάρτημα	V;PRS;V.PTCP	N;NOM;NEUT;SG
+noté	ονομαστική	noter	ονομαστικός	V;MASC;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+nina	νίνα	nina	νίνα	PROPN	PROPN;NOM;FEM;SG
+doigts	δάχτυλό	doigt	δάχτυλος	N;MASC;PL	N;NOM;NEUT;SG
+doigts	δάχτυλο	doigt	δάχτυλος	N;MASC;PL	N;NOM;NEUT;SG
+doigts	δάκτυλο	doigt	δάκτυλος	N;MASC;PL	N;NOM;NEUT;SG
+détruits	καταστράφηκε	détruire	καταστρέφω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+détruits	κατεστραμμένο	détruire	κατεστρέφω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+progressiste	προοδευτικά	progressiste	προοδευτικά	ADJ;MASC;SG	ADV
+technologique	τεχνολογία	technologique	τεχνολογία	ADJ;MASC;SG	N;NOM;FEM;SG
+souffre	υποφέρουν	souffre	υποφέρω	V;IND;SG;3;PRS;FIN	V;IPFV;IND;PL;3;PRS;FIN;ACT
+souffre	υποφέρω	souffre	υποφέρω	V;IND;SG;3;PRS;FIN	V;IPFV;IND;SG;1;PRS;FIN;ACT
+arche	arche	arche	arche	N;FEM;SG	
+collaborateurs	υπάλληλοι	collaborateur	υπάλληλος	N;MASC;PL	ADJ;NOM;MASC;PL
+collaborateurs	μισθωτοί	collaborateur	μισθωτός	N;MASC;PL	ADJ;NOM;MASC;PL
+gravures	χάραξη	gravure	χάραξη	N;FEM;PL	N;ACC;FEM;SG
+gravures	χάραξης	gravure	χάραξη	N;FEM;PL	N;GEN;FEM;SG
+gratuit	δωρεάν	gratuit	δωρεάν	ADJ;MASC;SG	
+gratuit	free	gratuit	free	ADJ;MASC;SG	
+préférence	προτιμούσε	préférence	προτιμώ	N;FEM;SG	V;IPFV;IND;SG;3;PST;FIN;ACT
+alabama	αλαμπάμα	alabama	αλαμπάμα	PROPN	
+stan	stan	stan	stan	PROPN	
+stan	σταν	stan	σταν	PROPN	
+queensland	κουίνσλαντ	queensland	κουίνσλαντ	PROPN	PROPN;NOM;FEM;SG
+holstein	holstein	holstein	holstein	N;MASC;SG	
+escalade	escalade	escalade	escalade	N;FEM;SG	
+claudia	κλαούντια	claudia	κλαούντια	PROPN	N;NOM;FEM;SG
+claudia	κλόντια	claudia	κλόντια	PROPN	ADV
+claudia	κλώντια	claudia	κλώντια	PROPN	ADV
+alla	alla	aller	alla	V;IND;SG;3;PST;FIN	
+oslo	όσλο	oslo	όσλο	PROPN	PROPN;ACC;NEUT;SG
+bombardements	βομβαρδισμό	bombardement	βομβαρδισμός	N;MASC;PL	N;ACC;MASC;SG
+bombardements	βομβαρδισμός	bombardement	βομβαρδισμός	N;MASC;PL	N;NOM;MASC;SG
+bombardements	βομβαρδισμό	bombardement	βομβαρδισμός	N;MASC;PL	N;ACC;MASC;SG
+bombardements	βομβαρδισμός	bombardement	βομβαρδισμός	N;MASC;PL	N;NOM;MASC;SG
+rennais	ρενναί	renner	ρεννώ	N;MASC;SG	
+ice	πάγο	ice	πάγος	N;MASC;SG	ADV
+ice	ice	ice	ice	N;MASC;SG	
+suffisant	επαρκείς	suffisant	επαρκής	ADJ;MASC;SG	ADJ;NOM;FEM;PL
+suffisant	επαρκές	suffisant	επαρκής	ADJ;MASC;SG	N;NOM;NEUT;SG
+suffisant	επαρκής	suffisant	επαρκής	ADJ;MASC;SG	N;NOM;MASC;SG
+suffisant	επαρκή	suffisant	επαρκής	ADJ;MASC;SG	ADV
+foncé	dark	foncé	dark	ADJ;MASC;SG	
+foncé	σκοτεινά	foncé	σκοτεινά	ADJ;MASC;SG	N;NOM;NEUT;PL
+foncé	σκοτάδι	foncé	σκοτάδι	ADJ;MASC;SG	N;NOM;NEUT;SG
+foncé	σκούρο	foncé	σκούρος	ADJ;MASC;SG	N;NOM;NEUT;SG
+foncé	σκοτεινό	foncé	σκοτεινός	ADJ;MASC;SG	N;NOM;NEUT;SG
+wendy	γουέντυ	wendy	γουέντυ	PROPN	N
+wendy	wendy	wendy	wendy	PROPN	
+wendy	γουέντι	wendy	γουέντι	PROPN	
+hôtes	φιλοξενεί	hôte	φιλοξενώ	N;MASC;PL	V;IPFV;IND;SG;3;PRS;FIN;ACT
+hôtes	προσκεκλημένοι	hôte	προσκεκλημένος	N;MASC;PL	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+hôtes	καλεσμένους	hôte	καλώ	N;MASC;PL	ADJ;NOM;MASC;PL
+hôtes	καλεσμένοι	hôte	καλώ	N;MASC;PL	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+hôtes	φιλοξενούμενοι	hôte	φιλοξενούμενος	N;MASC;PL	ADJ;NOM;MASC;PL
+ricardo	ρικάρντο	ricardo	ρικάρντος	PROPN	
+rhodes	ρόδο	rhode	ρόδος	PROPN	PROPN;ACC;FEM;SG
+rhodes	ρόδος	rhode	ρόδος	PROPN	PROPN;NOM;FEM;SG
+rhodes	ρόουντς	rhode	ρόουντς	PROPN	PROPN;NOM;MASC;PL
+caché	κρυμμένο	cacher	κρυμμένο	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+caché	κρυμμένα	cacher	κρύμμενος	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+klein	κλάιν	klein	κλάιν	PROPN	
+oscars	όσκαρ	oscars	όσκαρ	N;MASC;PL	
+renommer	μετονομασία	renommer	μετονομασία	V;NFIN	N;NOM;FEM;SG
+cincinnati	σινσινάτι	cincinnatir	σινσινάτι	PROPN	
+ltd	ltd	ltd	ltd	PROPN	
+cyril	σύριλ	cyril	σύριλ	PROPN	
+cyril	σίριλ	cyril	σίριλ	PROPN	
+judith	τζούντιθ	judith	τζούντιθ	PROPN	
+cie	cie	cie	cie	PROPN	
+carol	κάρολ	carol	κάρολ	PROPN	
+carol	carol	carol	carol	PROPN	
+promenade	promenade	promenade	promenade	N;FEM;SG	
+promenade	περίπατος	promenade	περίπατος	N;FEM;SG	ADJ;NOM;MASC;SG
+promenade	περίπατος	promenade	περίπατος	N;FEM;SG	ADJ;NOM;MASC;SG
+promenade	περίπατος	promenade	περίπατος	N;FEM;SG	ADJ;NOM;MASC;SG
+rita	ρίτα	riter	ρίτα	PROPN	PROPN;NOM;FEM;SG
+établis	εγκατεστημένος	établir	εγκατεστημένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+dupont	dupont	dupont	dupont	PROPN	
+séparer	χωριστή	séparer	χωριστής	V;NFIN	ADJ;NOM;FEM;SG
+séparer	ξεχωριστά	séparer	ξεχωριστώ	V;NFIN	ADV
+séparer	χωριστά	séparer	χωριστώ	V;NFIN	ADV
+online	διαδικτυακή	online	διαδικτυακός	N;MASC;SG	ADJ;NOM;FEM;SG
+online	διαδικτυακά	online	διαδικτυακός	N;MASC;SG	N;NOM;NEUT;PL
+online	online	online	online	N;MASC;SG	
+albanais	αλβανοί	albanais	αλβανός	ADJ;MASC;SG	PROPN;NOM;MASC;PL
+albanais	αλβανικά	albanais	αλβανικά	ADJ;MASC;SG	ADV
+albanais	αλβανών	albanais	αλβανός	ADJ;MASC;SG	PROPN;GEN;MASC;PL
+albanais	αλβανούς	albanais	αλβανός	ADJ;MASC;SG	PROPN;ACC;MASC;PL
+albanais	αλβανοί	albanais	αλβανός	ADJ;MASC;SG	PROPN;NOM;MASC;PL
+head	κεφαλής	head	κεφαλής	PROPN	N;GEN;FEM;SG
+head	κεφαλή	head	κεφαλή	PROPN	N;ACC;FEM;SG
+head	κεφάλι	head	κεφάλι	PROPN	N;NOM;NEUT;SG
+portland	πόρτλαντ	portland	πόρτλαντ	PROPN	
+antérieure	πρόσθια	antérieur	πρόσθιος	ADJ;FEM;SG	ADV
+antérieure	πρόσθιο	antérieur	πρόσθιο	ADJ;FEM;SG	N;NOM;NEUT;SG
+acceptée	αποδοχή	accepter	αποδοχή	V;FEM;SG;PST;V.PTCP	N;ACC;FEM;SG
+acceptée	δεκτό	accepter	δεκτός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;NEUT;SG
+acceptée	αποδεκτή	accepter	αποδεκτός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+acceptée	δεκτή	accepter	δεκτός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;FEM;SG
+acceptée	δεκτός	accepter	δεκτός	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+julius	τζούλιους	julius	τζούλιος	PROPN	PROPN;NOM;MASC;SG
+mitterrand	mitterrand	mitterrand	mitterrand	N;MASC;SG	
+sacrifice	θυσίες	sacrifice	θυσία	N;MASC;SG	N;NOM;FEM;PL
+adrian	άντριαν	adrian	άντριαν	PROPN	
+dialecte	διαλέκτους	dialecte	διάλεκτος	N;MASC;SG	N;NOM;MASC;PL
+juventus	γιουβέντους	juventu	γιούβω	N;FEM;SG	PROPN;NOM;MASC;PL
+guerriers	μαχητές	guerrier	μαχητός	N;MASC;PL	ADJ;NOM;MASC;PL
+réservée	προορίζεται	réserver	προορίζω	V;FEM;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+sabre	sabre	sabre	sabre	N;MASC;SG	
+offert	προσφέρθηκαν	offrir	προσφέρω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+offert	προσφέρεται	offrir	προσφέρω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+offert	προσφέρονται	offrir	προσφέρω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+loups	λύκος	loup	λύκος	N;MASC;PL	N;NOM;MASC;SG
+loups	γουλφ	loup	γουλφ	N;MASC;PL	
+loups	wolf	loup	wolf	N;MASC;PL	
+loups	loups	loup	loups	N;MASC;PL	
+restaurée	επαναφορά	restaurer	επαναφορά	V;FEM;SG;PST;V.PTCP	N;NOM;FEM;SG
+damien	ντέμιαν	damien	ντέμιαν	PROPN	
+damien	ντάμιεν	damien	ντάμιεν	PROPN	
+damien	ντέμιαν	damien	ντέμιαν	PROPN	
+frise	friesland	frise	friesland	N;FEM;SG	
+itinéraire	κατευθύνσεις	itinéraire	κατεύθυνση	N;MASC;SG	N;NOM;FEM;PL
+zhang	ζανγκ	zhang	ζανγκ	PROPN	
+rechercher	αναζήτηση	rechercher	αναζήτηση	V;NFIN	N;NOM;FEM;SG
+fondations	ίδρυμα	fondation	ίδρυμα	N;FEM;PL	N;NOM;NEUT;SG
+fondations	ιδρυμα	fondation	ιδρυμα	N;FEM;PL	N;NOM;NEUT;SG
+béatrice	μπεατρίς	béatrice	μπεατρίς	N;FEM;SG	PROPN;NOM;MASC;SG
+jonas	jonas	jonas	jonas	PROPN	
+jonas	τζόνας	jonas	τζόνα	PROPN	PROPN;NOM;MASC;SG
+jonas	τζόνα	jonas	τζόνα	PROPN	
+natal	νατάλ	natal	νατάλ	ADJ;MASC;SG	
+préside	προεδρεύων	présider	προεδρεύο	V;IND;SG;3;PRS;FIN	N;GEN;NEUT;PL
+enjeux	παλούκια	enjeu	παλώνκι	N;MASC;PL	ADV
+hector	έκτωρ	hector	έκτωρ	N;MASC;SG	PROPN;NOM;MASC;SG
+hector	έκτορ	hector	έκτορ	N;MASC;SG	
+bienvenue	καλωσόρισες	bienvenue	καλωσόριση	ADJ;FEM;SG	N;NOM;FEM;PL
+exacte	ακριβές	exact	ακριβής	ADJ;FEM;SG	ADV
+exacte	ακριβή	exact	ακριβός	ADJ;FEM;SG	ADV
+exacte	ακριβείς	exact	ακριβής	ADJ;FEM;SG	N;NOM;FEM;PL
+exacte	ακριβές	exact	ακριβής	ADJ;FEM;SG	ADV
+casa	casa	casa	casa	PROPN	
+shaw	σω	shaw	σε	PROPN	N;NOM;MASC;SG
+shaw	σο	shaw	σο	PROPN	
+accompagner	συνοδευτικά	accompagner	συνοδευτικά	V;NFIN	ADV
+accompagner	συνοδευτικό	accompagner	συνοδευτικός	V;NFIN	ADJ;NOM;NEUT;SG
+papiers	χαρτί	papier	χαρτί	N;MASC;PL	N;NOM;NEUT;SG
+papiers	χαρτιά	papier	χαρτιά	N;MASC;PL	ADV
+pêcheurs	ψαράς	pêcheur	ψαράς	N;MASC;PL	N;NOM;MASC;SG
+pêcheurs	ψαρά	pêcheur	ψαρά	N;MASC;PL	N;NOM;NEUT;SG
+villers	villers	viller	villers	N;MASC;SG	
+créent	δημιουργήστε	créer	δημιουργώ	V;IND;PL;3;PRS;FIN	V;PFV;IMP;PL;2;FIN;ACT
+créent	δημιουργία	créer	δημιουργία	V;IND;PL;3;PRS;FIN	N;ACC;FEM;SG
+grange	γκρέιντζ	grange	γκρέιντζ	N;FEM;SG	
+break	σπάσε	break	σπάω	N;MASC;SG	V;IPFV;IND;SG;1;PST;FIN;ACT
+choisis	εκλεκτός	choisir	εκλεκτός	V;MASC;PL;PST;V.PTCP	N;NOM;MASC;SG
+choisis	επιλέξει	choisir	επιλέγω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;FIN;ACT
+choisis	επιλέχθηκε	choisir	επιλέχομαι	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+choisis	διάλεξε	choisir	διαλώ	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+choisis	διαλέξτε	choisir	διαλώ	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;PL;2;PRS;FIN;ACT
+choisis	επιλογή	choisir	επιλογή	V;MASC;PL;PST;V.PTCP	N;NOM;FEM;SG
+statuts	καταστατικό	statut	καταστατικό	N;MASC;PL	N;NOM;NEUT;SG
+statuts	καταστατικά	statut	καταστατικά	N;MASC;PL	ADV
+statuts	καταστατικό	statut	καταστατικό	N;MASC;PL	N;NOM;NEUT;SG
+malcolm	μάλκολμ	malcolm	μάλκολμ	PROPN	
+malcolm	μάλκομ	malcolm	μάλκομ	PROPN	N;NOM;NEUT;SG
+fonda	φόντα	fonder	φόντας	V;IND;SG;3;PST;FIN	N;VOC;MASC;SG
+dommage	κρίμα	dommage	κρίμα	INTJ	V;IPFV;IND;SG;1;PRS;FIN;ACT
+dommage	οίκτο	dommage	οίκτος	INTJ	N;ACC;FEM;SG
+dommage	κρίμα	dommage	κρίμα	INTJ	V;IPFV;IND;SG;1;PRS;FIN;ACT
+dommage	ντροπή	dommage	ντροπή	INTJ	N;NOM;FEM;SG
+dommage	ζημία	dommage	ζημία	INTJ	N;ACC;FEM;SG
+dommage	βλάβη	dommage	βλάβη	INTJ	N;ACC;FEM;SG
+dommage	ζημίες	dommage	ζημία	INTJ	N;NOM;FEM;PL
+dommage	ζημιές	dommage	ζημιά	INTJ	N;NOM;FEM;PL
+dommage	ζημιά	dommage	ζημιά	INTJ	N;ACC;FEM;SG
+moldavie	μολδαβίας	moldavie	μολδαβία	PROPN	N;GEN;FEM;SG
+moldavie	μολδαβία	moldavie	μολδαβία	PROPN	PROPN;ACC;FEM;SG
+nationalistes	εθνικιστική	nationaliste	εθνικιστικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+nationalistes	εθνικιστική	nationaliste	εθνικιστικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+nationalistes	εθνικιστές	nationaliste	εθνικιστής	ADJ;MASC;PL	N;NOM;MASC;PL
+armés	οπλισμένη	armer	οπλίσκω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+armés	οπλισμένος	armer	οπλισμένος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+armés	ένοπλες	armer	ένοπλος	V;MASC;PL;PST;V.PTCP	ADJ;NOM;FEM;PL
+armés	οπλισμένο	armer	οπλίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+ward	πτέρυγα	ward	πτέρυγα	PROPN	N;NOM;FEM;SG
+ward	γουόρντ	ward	γουόρντ	PROPN	
+matthieu	μάθιου	matthieu	μάθιος	PROPN	PROPN;NOM;MASC;SG
+matthieu	ματ	matthieu	ματ	PROPN	N
+matthieu	matt	matthieu	matt	PROPN	
+crête	ριτζ	crête	ριτζ	N;FEM;SG	
+crête	crest	crête	crest	N;FEM;SG	
+textile	υφαντικές	textile	υφαντικός	N;MASC;SG	ADJ;NOM;FEM;PL
+textile	κλωστοϋφαντουργικά	textile	κλωστοϋφτουρουργικός	N;MASC;SG	ADV
+textile	υφάσματα	textile	ύφασμα	N;MASC;SG	N;NOM;NEUT;PL
+pionnier	πρωτοποριακό	pionnier	πρωτοποριακός	N;MASC;SG	ADJ;NOM;NEUT;SG
+pionnier	πρωτοπόρος	pionnier	πρωτοπόρος	N;MASC;SG	ADJ;NOM;MASC;SG
+assise	καθισμένος	asseoir	καθισμένος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+assise	καθιστός	asseoir	καθιστός	V;FEM;SG;PST;V.PTCP	N;NOM;MASC;SG
+assise	καθισμένος	asseoir	καθισμένος	V;FEM;SG;PST;V.PTCP	ADJ;NOM;MASC;SG
+assise	ασίζης	asseoir	ασίζη	V;FEM;SG;PST;V.PTCP	N;GEN;FEM;SG
+assise	σαβ	asseoir	σαβ	V;FEM;SG;PST;V.PTCP	
+sables	άμμου	sable	άμμος	N;MASC;PL	N;GEN;FEM;SG
+sables	σαντ	sable	σαντ	N;MASC;PL	
+sables	άμμος	sable	άμμος	N;MASC;PL	N;NOM;FEM;SG
+sables	άμμο	sable	άμμος	N;MASC;PL	N;NOM;FEM;SG
+sables	σαντς	sable	σαντς	N;MASC;PL	
+sables	άμμος	sable	άμμος	N;MASC;PL	N;NOM;FEM;SG
+mystique	mystic	mystique	mystic	ADJ;MASC;SG	
+mystique	μυστίκ	mystique	μυστίκ	ADJ;MASC;SG	N
+zoo	ζωολογικό	zoo	ζωολογικός	N;MASC;SG	ADJ;NOM;NEUT;SG
+proposés	προτεινόμενη	proposer	προτεινόμενος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+proposés	προτεινόμενο	proposer	προτεινόμενος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+proposés	προτεινόμενος	proposer	προτεινόμενος	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;MASC;SG;V.PTCP;PASS
+lotus	lotus	lotus	lotus	PROPN	
+fischer	fischer	fischer	fischer	PROPN	
+fischer	φίσερ	fischer	φίσερ	PROPN	
+innocent	αθώα	innocent	αθώα	ADJ;MASC;SG	ADV
+innocent	αθώοι	innocent	αθώοι	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+parking	πάρκινγκ	parking	πάρκινγκ	N;MASC;SG	
+trek	τρεκ	trek	τρεκ	N;MASC;SG	
+leclerc	λεκλέρκ	leclerc	λεκλέρκ	PROPN	N
+fabriqué	φτιαγμένα	fabriquer	φτιαγμένα	V;MASC;SG;PST;V.PTCP	ADJ;NOM;NEUT;PL
+fabriqué	κατασκευάζεται	fabriquer	κατασκευάζω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+fabriqué	κατασκευασμένα	fabriquer	κατασκευασμένος	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+fabriqué	παρασκευάζεται	fabriquer	παρασκευάζω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+fabriqué	κατασκευάστηκαν	fabriquer	κατασκευάζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;PASS
+fabriqué	κατασκευάζονται	fabriquer	κατασκευάζω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;PASS
+fabriqué	κατασκευασμένες	fabriquer	κατασκευασμένος	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+fabriqué	κατασκευασμένα	fabriquer	κατασκευασμένος	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+comportements	συμπεριφορά	comportement	συμπεριφορά	N;MASC;PL	N;ACC;FEM;SG
+comportements	συμπεριφορα	comportement	συμπεριφορα	N;MASC;PL	N;ACC;FEM;SG
+cardinaux	καρδινάλιοι	cardinal	καρδινάλιο	N;MASC;PL	ADJ;NOM;MASC;PL
+locomotives	ατμομηχανή	locomotive	ατμομηχανός	N;FEM;PL	N;NOM;FEM;SG
+paraguay	παραγουάη	paraguay	παραγουάος	PROPN	PROPN;ACC;FEM;SG
+oran	οράν	oran	οράν	PROPN	PROPN;NOM;NEUT;SG
+rodríguez	ροντρίγκεζ	rodríguer	ροντρίγκω	PROPN	
+rodríguez	rodríguez	rodríguer	rodríguez	PROPN	
+ruth	ruth	ruth	ruth	PROPN	
+ruth	ρουθ	ruth	ρουθ	PROPN	
+tactique	τακτικές	tactique	τακτικός	ADJ;FEM;SG	ADJ;NOM;FEM;PL
+fondamentale	θεμελιώδη	fondamental	θεμελιώδη	ADJ;FEM;SG	ADV
+fondamentale	θεμελιώδεις	fondamental	θεμελίωδη	ADJ;FEM;SG	N;NOM;FEM;PL
+fondamentale	θεμελιωδών	fondamental	θεμελιώδης	ADJ;FEM;SG	ADJ;GEN;FEM;PL
+balzac	μπαλζάκ	balzac	μπαλζάκ	PROPN	
+originaux	πρωτότυπα	original	πρωτότυπο	ADJ;MASC;PL	ADV
+originaux	αυθεντικό	original	αυθεντικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+originaux	αρχική	original	αρχικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+originaux	πρωτότυπο	original	πρωτότυπο	ADJ;MASC;PL	N;NOM;NEUT;SG
+originaux	αρχικό	original	αρχικός	ADJ;MASC;PL	ADJ;NOM;NEUT;SG
+originaux	αρχικός	original	αρχικός	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+vera	βέρα	voia	βέρα	PROPN	PROPN;NOM;FEM;SG
+boeing	boeing	boeing	boeing	N;MASC;SG	
+newton	νιούτον	newton	νιούτος	PROPN	
+newton	newton	newton	newton	PROPN	
+armstrong	άρμστρονγκ	armstrong	άρμστρονγκ	PROPN	PROPN;NOM;MASC;SG
+sauvé	αποθηκευμένα	sauver	αποθηκεύω	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;NEUT;PL;V.PTCP;PASS
+sauvé	αποθηκευμένες	sauver	αποθηκεύω	V;MASC;SG;PST;V.PTCP	V;PFV;NOM;FEM;PL;V.PTCP;PASS
+récompensé	απονέμεται	récompenser	απονέμω	V;MASC;SG;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+alonso	alonso	alonso	alonso	PROPN	
+jambes	πόδι	jambe	πόδι	N;FEM;PL	N;NOM;NEUT;SG
+cracovie	κρακοβία	cracovie	κρακοβία	PROPN	PROPN;NOM;FEM;SG
+cracovie	κρακοβία	cracovie	κρακοβία	PROPN	PROPN;NOM;FEM;SG
+dissoute	διαλυμένο	dissoudre	διαλύω	V;FEM;SG;PST;V.PTCP	N;NOM;NEUT;SG
+gil	gil	gil	gil	PROPN	
+gil	γκιλ	gil	γκιλ	PROPN	
+céréales	δημητριακά	céréale	δημητριακός	N;FEM;PL	ADV
+céréales	δημητριακά	céréale	δημητριακός	N;FEM;PL	ADV
+pts	pts	pts	pts	N;MASC;SG	
+confirmer	επιβεβαίωση	confirmer	επιβεβαίωση	V;NFIN	N;NOM;FEM;SG
+diminuer	μείωση	diminuer	μείωση	V;NFIN	N;ACC;FEM;SG
+diminuer	ελάττωση	diminuer	ελάττωση	V;NFIN	N;ACC;FEM;SG
+diminuer	φθίνουσα	diminuer	φθίνων	V;NFIN	ADV
+coréenne	κορεάτικα	coréen	κορεάτικος	ADJ;FEM;SG	ADJ;NOM;NEUT;PL
+coréenne	κορέας	coréen	κορέας	ADJ;FEM;SG	PROPN;GEN;FEM;SG
+coréenne	κορέα	coréen	κορέας	ADJ;FEM;SG	PROPN;ACC;FEM;SG
+intermédiaires	ενδιάμεσα	intermédiaire	ενδιάμεσα	ADJ;MASC;PL	ADV
+intermédiaires	ενδιάμεσος	intermédiaire	ενδιάμεσος	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+intermédiaires	ενδιάμεση	intermédiaire	ενδιάμεση	ADJ;MASC;PL	N;NOM;FEM;SG
+intermédiaires	ενδιάμεσο	intermédiaire	ενδιάμεσος	ADJ;MASC;PL	N;NOM;NEUT;SG
+intermédiaires	ενδιάμεσος	intermédiaire	ενδιάμεσος	ADJ;MASC;PL	ADJ;NOM;MASC;SG
+intermédiaires	μεσάζοντες	intermédiaire	μεσάζω	ADJ;MASC;PL	N;NOM;MASC;PL
+délégués	εκπρόσωποι	déléguer	εκπρόσωπος	V;MASC;PL;PST;V.PTCP	N;NOM;MASC;PL
+délégués	αντιπρόσωποι	déléguer	αντιπρόσωπος	V;MASC;PL;PST;V.PTCP	N;NOM;MASC;PL
+délégués	αντιπρόσωπος	déléguer	αντιπρόσωπος	V;MASC;PL;PST;V.PTCP	N;NOM;MASC;SG
+délégués	εκπρόσωπος	déléguer	εκπρόσωπος	V;MASC;PL;PST;V.PTCP	N;NOM;MASC;SG
+rabat	ραμπάτ	rabat	ραμπάτ	N;MASC;SG	
+habsbourg	habsburg	habsbourg	habsburg	N;MASC;SG	
+équipés	εξοπλισμένο	équiper	εξοπλίζω	V;MASC;PL;PST;V.PTCP	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+voté	ψήφισαν	voter	ψηφίζω	V;MASC;SG;PST;V.PTCP	V;PFV;IND;PL;3;PST;FIN;ACT
+voltaire	βολταίρος	voltaire	βολταίρος	ADJ;MASC;SG	N;NOM;MASC;SG
+rogers	ρότζερς	roger	ρότζερς	PROPN	
+santo	σάντο	santo	σάντος	PROPN	
+renouvellement	ανανεώσει	renouvellement	ανανεώνω	N;MASC;SG	V;PFV;IND;SG;3;FIN;ACT
+renouvellement	ανανεώσεις	renouvellement	ανάνεωση	N;MASC;SG	N;NOM;FEM;PL
+plumes	φτερό	plume	φτερός	N;FEM;PL	N;NOM;NEUT;SG
+plumes	φτερωτό	plume	φτερωτός	N;FEM;PL	N;NOM;NEUT;SG
+entrepreneur	ανάδοχο	entrepreneur	ανάδοχος	N;MASC;SG	ADJ;NOM;FEM;SG
+entrepreneur	ανάδοχος	entrepreneur	ανάδοχος	N;MASC;SG	ADJ;NOM;MASC;SG
+martín	μαρτίν	martín	μαρτίν	PROPN	
+martín	martin	martín	martin	PROPN	
+martín	μάρτιν	martín	μάρτιν	PROPN	
+municipaux	δημοτική	municipal	δημοτικός	ADJ;MASC;PL	ADJ;NOM;FEM;SG
+jung	γιουνγκ	jung	γιουνγκ	PROPN	NUM;NOM;MASC;SG
+jung	τζουνγκ	jung	τζουνγκ	PROPN	N
+jamie	jamie	jamie	jamie	PROPN	
+jamie	τζέιμι	jamie	τζέιμι	PROPN	
+manœuvre	ελιγμών	œuvre	ελιγμή	N;FEM;SG	N;GEN;FEM;PL
+népal	νεπάλ	népal	νεπάλ	N;MASC;SG	
+assassin	δολοφόνος	assassin	δολοφόνος	N;MASC;SG	ADJ;NOM;MASC;SG
+assassin	δολοφόνος	assassin	δολοφόνος	N;MASC;SG	ADJ;NOM;MASC;SG
+associées	σχετιζόμενη	associer	σχετιζόμενος	V;FEM;PL;PST;V.PTCP	ADJ;NOM;FEM;SG
+bactéries	βακτήριο	bactérie	βακτήριο	N;FEM;PL	N;NOM;NEUT;SG
+véronique	veronica	véronique	veronica	ADJ;MASC;SG	
+biographies	bios	biographie	bios	N;FEM;PL	
+chuck	τσακ	chuck	τσακ	PROPN	NUM;NOM;MASC;SG
+chuck	chuck	chuck	chuck	PROPN	
+kyoto	κυότο	kyoto	κύοτος	PROPN	N;NOM;MASC;SG
+kyoto	κιότο	kyoto	κιότο	PROPN	
+invisible	αόρατοι	invisible	αόρατος	ADJ;MASC;SG	ADJ;NOM;MASC;PL
+invisible	αόρατα	invisible	αόρα	ADJ;MASC;SG	ADJ;NOM;NEUT;PL
+cambodge	καμπότζη	cambodge	καμπότζη	N;MASC;SG	
+attribués	απέδωσε	attribuer	αποδίδω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;ACT
+attribués	αποδόθηκε	attribuer	αποδίδω	V;MASC;PL;PST;V.PTCP	V;PFV;IND;SG;3;PST;FIN;PASS
+attribués	αποδίδεται	attribuer	αποδίδω	V;MASC;PL;PST;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;PASS
+bonsoir	καληνύχτα	bonsoir	καληνύχος	INTJ	N;VOC;FEM;SG
+légumes	λαχανικό	légume	λαχανικός	N;MASC;PL	N;NOM;NEUT;SG
+légumes	λαχανικά	légume	λαχανικά	N;MASC;PL	ADV
+niger	νίγηρα	niger	νίγηρα	N;MASC;SG	
+vain	ματαιόδοξος	vain	ματαιόδοξος	ADJ;MASC;SG	N;NOM;FEM;SG
+caserne	στρατώνες	caserne	στρατώνα	N;FEM;SG	N;NOM;FEM;PL
+anthropologie	anthropologie	anthropologie	anthropologie	N;FEM;SG	
+anthropologie	ανθρωπολογική	anthropologie	ανθρωπολογικός	N;FEM;SG	ADJ;NOM;FEM;SG
+mexicaine	μεξικάνος	mexicain	μεξικάνος	ADJ;FEM;SG	ADV
+dupuis	dupuis	dupuis	dupuis	PROPN	
+weber	γουέμπερ	weber	γουέμπερ	PROPN	
+weber	weber	weber	weber	PROPN	
+cédric	σέντρικ	cédric	σέντρικ	PROPN	
+cédric	σεντρίκ	cédric	σεντρίκ	PROPN	N
+quarantaine	καραντίνα	quarantaine	καραντίνα	N;FEM;SG	ADV
+concurrents	διαγωνιζόμενοι	concurrent	διαγωνιζόμενος	N;MASC;PL	V;PFV;NOM;MASC;PL;V.PTCP;PASS
+concurrents	ανταγωνιστής	concurrent	ανταγωνιστής	N;MASC;PL	N;NOM;MASC;SG
+concurrents	ανταγωνιστή	concurrent	ανταγωνιστής	N;MASC;PL	N;ACC;MASC;SG
+estimations	εκτίμηση	estimation	εκτίμηση	N;FEM;PL	N;ACC;FEM;SG
+estimations	εκτιμώμενη	estimation	εκτιμώμενος	N;FEM;PL	V;PFV;NOM;FEM;SG;V.PTCP;PASS
+estimations	εκτιμώμενο	estimation	εκτιμώμενο	N;FEM;PL	V;PFV;NOM;NEUT;SG;V.PTCP;PASS
+jackie	τζάκι	jackie	τζάκι	PROPN	N;NOM;NEUT;SG
+jackie	τζάκυ	jackie	τζάκυ	PROPN	N
+jackie	jackie	jackie	jackie	PROPN	
+dissous	διαλυμένο	dissoudre	διαλύω	V;MASC;SG;PST;V.PTCP	N;NOM;NEUT;SG
+réplique	απαντήστε	réplique	απαντώ	N;FEM;SG	V;PFV;IMP;PL;2;FIN;ACT
+staline	στάλιν	staline	στάλιν	N;FEM;SG	
+ban	μπαν	ban	μπαν	N;MASC;SG	
+azerbaïdjan	αζερμπαϊτζάν	azerbaïdjan	αζερμπαϊτζάν	PROPN	
+tgv	tgv	tgv	tgv	N;MASC;SG	
+walsh	γουόλς	walsh	γουόλς	PROPN	N;NOM;MASC;SG

@@ -1,0 +1,5739 @@
+loại	分類	loại	分類	N	V
+một	one	một	one	NUM	PROPN
+một	一人	một	一人	NUM	PROPN
+một	ワン	một	ワン	NUM	N
+năm	五	năm	五	N	NUM
+năm	five	năm	five	N	PROPN
+các	あなた	các	あなた	DET	PRO
+này	この	này	この	PROPN	DET
+này	これ	này	これ	PROPN	PRO
+này	ヘイ	này	ヘイ	PROPN	PROPN
+chú	アンクル	chú	アンクル	N	PROPN
+học	学校	học	学校	V	N
+học	スクール	học	スクール	V	N
+học	ラーニング	học	ラーニング	V	N
+học	学問	học	学問	V	N
+người	man	người	man	N	PROPN
+thực	real	thực	real	V	PROPN
+thực	本物	thực	本物	V	N
+thực	リアル	thực	リアル	V	ADJ
+thực	本当に	thực	本当に	V	ADV
+tham	関節	tham	関節	V	N
+kết	終了	kết	終了	N	V
+đầu	head	đầu	head	N	PROPN
+đầu	ヘッズ	đầu	ヘッズ	N	PROPN
+thành	thành	thành	thành	V	PROPN
+thành	チェン	thành	チェン	V	PROPN
+thành	城塞	thành	城塞	V	N
+khoa	サイエンス	khoa	サイエンス		N
+khoa	科学	khoa	科学		N
+khoa	学部	khoa	学部		N
+khoa	教職員	khoa	教職員		N
+khoa	khoa	khoa	khoa		PROPN
+tháng	months	tháng	months	N	PROPN
+cho	for	cho	for	V	PROPN
+cho	give	cho	give	V	PROPN
+không	not	không	not	;NEG	PROPN
+tiên	エルフ	tiên	エルフ	N	PROPN
+hoa	ユナイテッド	hoa	ユナイテッド	N	PROPN
+hoa	flower	hoa	flower	N	PROPN
+ngày	デート	ngày	デート	N	
+ngày	日付	ngày	日付	N	V
+ngày	日付	ngày	日付	N	V
+ngày	day	ngày	day	N	PROPN
+những	これら	những	これら	DET	PRO
+những	これら	những	これら	DET	PRO
+những	それら	những	それら	DET	PRO
+nam	nan	nam	nan	N	PROPN
+nam	サウス	nam	サウス	N	PROPN
+công	攻撃	công	攻撃	N	V
+công	公開	công	公開	N	V
+quân	アーミー	quân	アーミー	N	PROPN
+chính	偶数	chính	偶数	PART	N
+chính	even	chính	even	PART	PROPN
+chính	own	chính	own	PART	PROPN
+chính	メイン	chính	メイン	PART	N
+chính	プライマリ	chính	プライマリ	PART	N
+chính	メイン	chính	メイン	PART	N
+động	ダイナミック	động	ダイナミック	V	ADJ
+động	自動	động	自動	V	N
+động	オートマチック	động	オートマチック	V	N
+đến	到着	đến	到着	PART	V
+đến	来る	đến	来る	PART	V
+đến	カミング	đến	カミング	PART	PROPN
+theo	セオ	theo	セオ	V	PROPN
+theo	テオ	theo	テオ	V	PROPN
+theo	アフター	theo	アフター	V	PROPN
+sau	アフター	sau	アフター	N	PROPN
+trung	セントラル	trung	セントラル	N	PROPN
+trên	上	trên	上		N
+trên	上記	trên	上記		N
+nhà	帰宅	nhà	帰宅	N	V
+thị	thị	thị	thị	N	PROPN
+huyện	ディストリクト	huyện	ディストリクト	N	PROPN
+gia	ジア	gia	ジア	N	PROPN
+bản	ダッチ	bản	ダッチ	N	PROPN
+hành	オニオン	hành	オニオン	N	PROPN
+hành	たまねぎ	hành	たまねぎ	N	V
+đại	大きな	đại	大きな	N	ADJ
+đại	大きい	đại	大きい	N	ADJ
+bar	バール	bar	バール		N
+bar	バー	bar	バー		N
+lại	再び	lại	再び		ADV
+lại	アゲイン	lại	アゲイン		PROPN
+cũng	also	cũng	also		PROPN
+cũng	また	cũng	また		CONJ
+việt	ベトナム	việt	ベトナム	N	PROPN
+nhất	最高	nhất	最高		N
+nhất	ベスト	nhất	ベスト		N
+nhất	best	nhất	best		PROPN
+nhân	乗算	nhân	乗算		N
+nhân	コア	nhân	コア		N
+nhân	core	nhân	core		PROPN
+nhân	患者	nhân	患者		N
+phát	ブロード	phát	ブロード	V	N
+phát	ショット	phát	ショット	V	N
+phát	ショット	phát	ショット	V	N
+anh	あなた	anh	あなた	N	PRO
+pháp	フランス	pháp	フランス	N	PROPN
+pháp	フランス	pháp	フランス	N	PROPN
+danh	輸入	danh	輸入	N	V
+danh	リスト	danh	リスト	N	V
+tập	エピソード	tập	エピソード		N
+tập	エピソード	tập	エピソード		N
+nhiều	多数	nhiều	多数	ADJ	N
+nhiều	倍	nhiều	倍	ADJ	N
+nhiều	複数	nhiều	複数	ADJ	N
+chi	chi	chi	chi	N	PROPN
+chỉ	のみ	chỉ	のみ		ADP
+chỉ	ちょうど	chỉ	ちょうど		ADV
+chỉ	ジャスト	chỉ	ジャスト		PROPN
+chỉ	ただ	chỉ	ただ		CONJ
+vùng	zone	vùng	zone	N	PROPN
+đây	ここ	đây	ここ	PROPN	PRO
+con	con	con	con	N	PROPN
+quan	役員	quan	役員	V	N
+quan	巡査	quan	巡査	V	N
+tin	信じる	tin	信じる		V
+tin	believe	tin	believe		PROPN
+tin	信ずる	tin	信ずる		V
+tin	スズ	tin	スズ		PROPN
+tin	記事	tin	記事		N
+tin	ストーリー	tin	ストーリー		N
+tin	news	tin	news		PROPN
+tin	ニュース	tin	ニュース		N
+tin	トラスト	tin	トラスト		PROPN
+tin	trust	tin	trust		PROPN
+tin	信頼	tin	信頼		V
+bắc	ノース	bắc	ノース	N	PROPN
+bắc	ノーザン	bắc	ノーザン	N	PROPN
+bắc	北部	bắc	北部	N	PROPN
+tiểu	小学校	tiểu	小学校		N
+tiểu	リトル	tiểu	リトル		PROPN
+tiểu	小さい	tiểu	小さい		ADJ
+khác	異なる	khác	異なる	ADJ	V
+khác	その	khác	その	ADJ	DET
+khác	その	khác	その	ADJ	DET
+phân	厩肥	phân	厩肥	N	
+cao	ハイ	cao	ハイ	ADJ	N
+cao	ガオ	cao	ガオ	ADJ	PROPN
+tây	ウェスト	tây	ウェスト	N	PROPN
+tây	ウェスタン	tây	ウェスタン	N	PROPN
+trường	フィールズ	trường	フィールズ	N	PROPN
+cùng	おなじ	cùng	おなじる	ADJ	V
+giải	ゆるい	giải	ゆるい	V	ADJ
+giải	ルース	giải	ルース	V	PROPN
+giải	ボクシング	giải	ボクシング	V	N
+giải	解像	giải	解像	V	N
+bang	当局	bang	当局		N
+bang	都道府県	bang	都道府県		N
+bang	状態	bang	状態		N
+đông	イースト	đông	イースト	ADJ	N
+đông	東部	đông	東部	ADJ	PROPN
+phố	シティ	phố	シティ	N	PROPN
+xuất	アウトプット	xuất	アウトプット	N	V
+xuất	輸出	xuất	輸出	N	V
+khu	ウォード	khu	ウォード	N	PROPN
+hơn	より	hơn	よる		V
+cánh	ウイングス	cánh	ウイングス	N	PROPN
+chủ	root	chủ	root	N	PROPN
+chủ	ルート	chủ	ルート	N	PROPN
+lập	独立	lập	独立	V	ADJ
+lập	インディペンデント	lập	インディペンデント	V	N
+quận	カウンティ	quận	カウンティ	N	PROPN
+quận	ディストリクト	quận	ディストリクト	N	PROPN
+quận	通知	quận	通知	N	V
+quận	告知	quận	告知	N	V
+châu	アメリカ	châu	アメリカ	N	PROPN
+châu	チャウ	châu	チャウ	N	PROPN
+châu	チャウチャウ	châu	チャウチャウ	N	PROPN
+đoàn	đoàn	đoàn	đoàn	N	PROPN
+thông	マツ	thông	マツ		N
+thông	パイン	thông	パイン		N
+bay	fly	bay	fly		PROPN
+bay	ハエ	bay	ハエ		N
+bay	フライ	bay	フライ		N
+bay	飛ぶ	bay	飛ぶ		V
+bay	飛ぶ	bay	飛ぶ		V
+bay	フライング	bay	フライング		N
+bay	フライト	bay	フライト		N
+bay	飛行	bay	飛行		N
+bài	短い	bài	短い	N	ADJ
+lớn	ビッグ	lớn	ビッグ	ADJ	N
+phim	映画	phim	映画		N
+phim	ムービー	phim	ムービー		N
+phim	映画	phim	映画		N
+phim	フィルム	phim	フィルム		N
+phim	映画	phim	映画		N
+trước	ファースト	trước	ファースト		N
+trước	最初	trước	最初		N
+trước	以前	trước	以前		N
+đức	ドイツ	đức	ドイツ	N	PROPN
+bằng	等しい	bằng	等しい	ADP	ADJ
+nhỏ	スモール	nhỏ	スモール	ADJ	N
+nhỏ	リトル	nhỏ	リトル	ADJ	PROPN
+nhỏ	ジュニア	nhỏ	ジュニア	ADJ	N
+nhỏ	マイナー	nhỏ	マイナー	ADJ	
+hợp	フィット	hợp	フィット	ADJ	N
+hợp	fit	hợp	fit	ADJ	PROPN
+hợp	ユニオン	hợp	ユニオン	ADJ	N
+hợp	合う	hợp	合う	ADJ	V
+thêm	もっと	thêm	もっと	V	ADV
+xem	ルック	xem	ルック	V	N
+xem	外観	xem	外観	V	N
+xem	ショー	xem	ショー	V	N
+xem	時計	xem	時計	V	N
+xem	腕時	xem	腕時	V	N
+xem	ビュー	xem	ビュー	V	PROPN
+diễn	演技	diễn	演技	V	N
+diễn	俳優	diễn	俳優	V	N
+máy	主催	máy	主催	N	V
+hoàng	ホアン	hoàng	ホアン	N	PROPN
+chức	開催	chức	開催	N	V
+dương	ポジティブ	dương	ポジティブ	N	ADJ
+thủ	一致	thủ	一致	N	V
+hay	干し	hay	干し	CONJ	N
+hay	良い	hay	良い	CONJ	ADJ
+hay	グッド	hay	グッド	CONJ	N
+sống	リビング	sống	リビング	V	N
+sống	living	sống	living	V	PROPN
+sống	ライブ	sống	ライブ	V	N
+sống	アライブ	sống	アライブ	V	N
+thường	通常	thường	通常		N
+thường	レギュラー	thường	レギュラー		N
+thường	普通	thường	普通		ADJ
+thường	ノーマル	thường	ノーマル		N
+bướm	チョウ	bướm	チョウ	N	PROPN
+tính	パッ	tính	パッ	V	ADV
+ban	について	ban	について		ADP
+ban	band	ban	band		PROPN
+ban	バンド	ban	バンド		N
+jpg	jpg	jpg	jpg	N	PROPN
+cộng	プラス	cộng	プラス		N
+nhận	債権	nhận	債権	V	N
+nhận	get	nhận	get	V	PROPN
+qua	過去	qua	過去	V	N
+qua	オーバー	qua	オーバー	V	
+qua	over	qua	over	V	PROPN
+qua	via	qua	via	V	PROPN
+qua	through	qua	through	V	PROPN
+qua	スルー	qua	スルー	V	PROPN
+qua	パス	qua	パス	V	N
+thái	タイ	thái	タイ	N	PROPN
+hòa	平和	hòa	平和	N	ADJ
+hòa	フレッド	hòa	フレッド	N	PROPN
+tổng	広東	tổng	広東	N	PROPN
+tổng	カントン	tổng	カントン	N	PROPN
+minh	賢い	minh	賢く	N	ADJ
+minh	スマート	minh	スマート	N	ADJ
+quyền	許可	quyền	許可	N	V
+tác	オリジナル	tác	オリジナル	N	ADJ
+kinh	経典	kinh	経典	V	N
+kinh	北京市	kinh	北京市	V	PROPN
+kinh	北京	kinh	北京	V	PROPN
+kinh	北京	kinh	北京	V	PROPN
+biển	ビーチ	biển	ビーチ	N	PROPN
+biển	sea	biển	sea	N	PROPN
+biển	大洋	biển	大洋	N	PROPN
+cứng	一生	cứng	一生	ADJ	N
+cứng	ハード	cứng	ハード	ADJ	N
+tiếp	next	tiếp	next	V	PROPN
+xếp	sort	xếp	sort	V	PROPN
+đánh	beat	đánh	beat	V	PROPN
+đánh	ビート	đánh	ビート	V	N
+đánh	hit	đánh	hit	V	PROPN
+nhạc	ミュージック	nhạc	ミュージック	V	N
+nhạc	音楽	nhạc	音楽	V	N
+nhạc	ミュージカル	nhạc	ミュージカル	V	N
+hóa	化学	hóa	化学		N
+hóa	化学	hóa	化学		N
+gọi	コール	gọi	コール	V	N
+gọi	コーリング	gọi	コーリング	V	N
+tạo	チーム	tạo	チーム	V	N
+đặc	ソマリア	đặc	ソマリア	N	PROPN
+trận	戦闘	trận	戦闘	N	V
+trận	戦い	trận	戦う	N	V
+phương	ゾエ	phương	ゾエ	N	PROPN
+phương	ゾーイ	phương	ゾーイ	N	PROPN
+mới	new	mới	new		PROPN
+mới	新しい	mới	新しい		ADJ
+mới	新規	mới	新規		ADJ
+lịch	日程	lịch	日程	N	V
+bắt	take	bắt	take	V	PROPN
+thức	レシピ	thức	レシピ	V	N
+tới	カミング	tới	カミング	V	PROPN
+hải	結び	hải	結ぶ	N	V
+khoảng	について	khoảng	について	ADJ	ADP
+khoảng	スペース	khoảng	スペース	ADJ	N
+khoảng	おおよそ	khoảng	おおよそ	ADJ	
+lần	タイムズ	lần	タイムズ	N	PROPN
+nhật	日本人	nhật	日本人		N
+nhật	ジャパニーズ	nhật	ジャパニーズ		N
+nhật	日本語	nhật	日本語		N
+nhật	jap	nhật	jap		PROPN
+viết	プリンタ	viết	プリンタ	V	N
+viết	プリンター	viết	プリンター	V	N
+viết	筆記	viết	筆記	V	N
+lan	lan	lan	lan	N	PROPN
+lan	イアン	lan	イアン	N	PROPN
+bảo	ask	bảo	ask	V	PROPN
+bảo	バオ	bảo	バオ	V	PROPN
+đơn	フォーム	đơn	フォーム	N	
+bao	バオ	bao	バオ		PROPN
+bao	how	bao	how		PROPN
+nghiệp	経歴	nghiệp	経歴	ADJ	N
+nghiệp	キャリア	nghiệp	キャリア	ADJ	N
+thuật	magic	thuật	magic	N	PROPN
+đảo	諸島	đảo	諸島	N	PROPN
+utc	gmt	utc	gmt	N	PROPN
+tâm	センター	tâm	センター		N
+tâm	中央	tâm	中央		N
+tâm	中心	tâm	中心		N
+thanh	ボーカル	thanh	ボーカル		N
+thanh	バー	thanh	バー		N
+dùng	ユーザー	dùng	ユーザー	V	N
+dùng	ユーザ	dùng	ユーザ	V	N
+nói	say	nói	say	V	PROPN
+nói	セイ	nói	セイ	V	PROPN
+nói	トーク	nói	トーク	V	N
+nói	speak	nói	speak	V	PROPN
+latns	latns	latns	latns		PROPN
+longew	longew	longew	longew		PROPN
+longd	longd	longd	longd		PROPN
+latd	latd	latd	latd		PROPN
+latm	latm	latm	latm		PROPN
+longm	longm	longm	longm		PROPN
+hoạt	アニメイト	hoạt	アニメイト	V	PROPN
+hoạt	アニメーション	hoạt	アニメーション	V	N
+phủ	rak	phủ	rak	N	PROPN
+phủ	オーバーレイ	phủ	オーバーレイ	N	PROPN
+đang	are	đang	are		PROPN
+giữa	真ん中	giữa	真ん中	ADP	N
+giữa	ミドル	giữa	ミドル	ADP	N
+đổi	チェンジ	đổi	チェンジ	V	N
+chuyển	スイッチ	chuyển	スイッチ	V	N
+chuyển	ムーブ	chuyển	ムーブ	V	N
+nay	トゥデイ	nay	トゥデイ	PROPN	PROPN
+nay	今日	nay	今日	PROPN	N
+trọng	重要	trọng	重要		ADJ
+dịch	翻訳	dịch	翻訳		V
+dịch	翻訳	dịch	翻訳		V
+dịch	翻訳	dịch	翻訳		V
+dịch	翻訳	dịch	翻訳		V
+dịch	翻訳	dịch	翻訳		V
+chế	brew	chế	brew	N	PROPN
+chế	made	chế	made	N	PROPN
+chất	特定	chất	特定	N	
+chất	指定	chất	指定	N	V
+sáng	明るい	sáng	明るい	N	ADJ
+thân	本文	thân	本文		N
+thân	身体	thân	身体		N
+thân	本体	thân	本体		N
+thân	ボディ	thân	ボディ		N
+nơi	place	nơi	place	N	PROPN
+tăng	戦車	tăng	戦車	V	N
+tăng	タンク	tăng	タンク	V	N
+tăng	戦車	tăng	戦車	V	N
+trưởng	隊長	trưởng	隊長		N
+trưởng	キャプテン	trưởng	キャプテン		PROPN
+lưu	セーブ	lưu	セーブ	V	N
+nổi	セレブリティ	nổi	セレブリティ		PROPN
+nổi	有名人	nổi	有名人		N
+nổi	フロート	nổi	フロート		N
+nổi	float	nổi	float		PROPN
+đặt	put	đặt	put	V	PROPN
+đặt	集合	đặt	集合	V	N
+đặt	セット	đặt	セット	V	N
+đặt	select	đặt	select	V	PROPN
+dài	ロング	dài	ロング	ADJ	N
+bóng	シャドウズ	bóng	シャドウズ	N	PROPN
+bóng	シャドウ	bóng	シャドウ	N	PROPN
+vua	king	vua	king	N	PROPN
+vua	キングス	vua	キングス	N	PROPN
+phi	ファイ	phi	ファイ	N	PROPN
+phi	アフリカ	phi	アフリカ	N	PROPN
+tuy	トゥイ	tuy	トゥイ	CONJ	PROPN
+biến	変数	biến	変数	V	N
+biến	可変	biến	可変	V	N
+hậu	女王	hậu	女王		N
+hậu	クイーン	hậu	クイーン		PROPN
+chưa	yet	chưa	yet		PROPN
+thu	thu	thu	thu	V	PROPN
+vẫn	スティル	vẫn	スティル		N
+vẫn	それ	vẫn	それ		PRO
+vẫn	まだ	vẫn	まだ		ADV
+mất	ロスト	mất	ロスト	V	N
+liệu	ドキュメント	liệu	ドキュメント	V	N
+liệu	書類	liệu	書類	V	N
+liệu	文書	liệu	文書	V	N
+sơn	ソン	sơn	ソン	N	PROPN
+tìm	find	tìm	find	V	PROPN
+tìm	フィン	tìm	フィン	V	PROPN
+kiến	アリ	kiến	アリ	N	
+kiến	アリ	kiến	アリ	N	
+giao	インターフェース	giao	インターフェース	V	N
+giao	インタフェース	giao	インタフェース	V	N
+thần	ジニー	thần	ジニー	N	PROPN
+bạn	あなた	bạn	あなた	N	PRO
+bạn	フレンド	bạn	フレンド	N	PROPN
+hữu	オーナー	hữu	オーナー		N
+hữu	所有者	hữu	所有者		N
+thay	チェンジ	thay	チェンジ	V	N
+vai	ヴァイ	vai	ヴァイ	N	PROPN
+gần	ほとんど	gần	ほとんど	ADJ	ADV
+gần	ほぼ	gần	ほぼ	ADJ	ADV
+gần	閉じる	gần	閉じる	ADJ	V
+gần	クローズ	gần	クローズ	ADJ	N
+gần	付近	gần	付近	ADJ	N
+gần	近く	gần	近く	ADJ	ADV
+cứu	セーブ	cứu	セーブ	V	N
+cứu	ヘルプ	cứu	ヘルプ	V	N
+cứu	レスキュー	cứu	レスキュー	V	N
+thương	キュート	thương	キュート	V	ADJ
+thương	かわいい	thương	かわいい	V	ADJ
+thương	可愛い	thương	可愛い	V	ADJ
+hát	sing	hát	sing	V	PROPN
+phục	サーバ	phục	サーバ	V	N
+phục	サーバー	phục	サーバー	V	N
+tuổi	age	tuổi	age	N	PROPN
+tuổi	古い	tuổi	古い	N	ADJ
+tân	ヴァージン	tân	ヴァージン	N	PROPN
+đời	生活	đời	生活	N	V
+cần	ニーズ	cần	ニーズ	V	N
+hoàn	ヒーロー	hoàn	ヒーロー		N
+chơi	ゲーム	chơi	ゲーム	V	N
+kim	jin	kim	jin	N	PROPN
+kim	ジン	kim	ジン	N	PROPN
+kim	キム	kim	キム	N	PROPN
+long	長い	long	長い	N	ADJ
+long	ドラゴン	long	ドラゴン	N	PROPN
+đưa	give	đưa	give	V	PROPN
+đóng	クローズ	đóng	クローズ	V	N
+đóng	閉会	đóng	閉会	V	N
+dẫn	リード	dẫn	リード	V	N
+quá	too	quá	too		PROPN
+thắng	win	thắng	win	N	PROPN
+thắng	勝利	thắng	勝利	N	V
+thắng	勝ち	thắng	勝つ	N	V
+thắng	勝つ	thắng	勝つ	N	V
+thắng	ウィナー	thắng	ウィナー	N	PROPN
+thắng	優勝	thắng	優勝	N	V
+thắng	勝利	thắng	勝利	N	V
+thắng	won	thắng	won	N	PROPN
+thắng	勝利	thắng	勝利	N	V
+mang	ブリング	mang	ブリング	V	PROPN
+giáp	アーマー	giáp	アーマー	V	N
+giáp	装甲	giáp	装甲	V	N
+giáp	装甲	giáp	装甲	V	N
+khí	凶器	khí	凶器	N	
+khí	エア	khí	エア	N	PROPN
+huy	指揮	huy	指揮	N	V
+huy	huy	huy	huy	N	PROPN
+thư	letter	thư	letter	N	PROPN
+giữ	ホールド	giữ	ホールド	V	N
+cảnh	ポリス	cảnh	ポリス	N	PROPN
+cảnh	警報	cảnh	警報	N	V
+cảnh	警告	cảnh	警告	N	V
+tra	tra	tra	tra	V	PROPN
+nga	ロシア	nga	ロシア	N	PROPN
+nga	ロシア	nga	ロシア	N	PROPN
+nga	nga	nga	nga	N	PROPN
+triệu	ミリオン	triệu	ミリオン	NUM	PROPN
+triệu	million	triệu	million	NUM	PROPN
+thi	thi	thi	thi	N	PROPN
+phép	許可	phép	許可	N	V
+phép	許諾	phép	許諾	N	V
+new	new	new	new		PROPN
+new	新しい	new	新しい		ADJ
+new	新規	new	新規		ADJ
+yếu	弱い	yếu	弱い	N	ADJ
+mật	秘密	mật	秘密	N	
+câu	宣告	câu	宣告	N	V
+ghi	筆記	ghi	筆記	V	N
+sao	なぜ	sao	なぜ	PROPN	ADV
+sao	why	sao	why	PROPN	PROPN
+giả	false	giả	false		PROPN
+giả	虚偽	giả	虚偽		N
+giả	フェイク	giả	フェイク		N
+cung	ボウ	cung	ボウ	V	N
+cung	お	cung	お	V	N
+cung	船首	cung	船首	V	N
+chống	勇気	chống	勇気	V	N
+chống	反対	chống	反対	V	
+hạt	core	hạt	core	N	PROPN
+hạt	カウンティ	hạt	カウンティ	N	PROPN
+chết	die	chết	die	V	PROPN
+chết	デス	chết	デス	V	PROPN
+chết	デッド	chết	デッド	V	PROPN
+chung	相互	chung	相互	ADJ	N
+chung	ユニバーサル	chung	ユニバーサル	ADJ	PROPN
+chung	全般	chung	全般	ADJ	N
+chung	一般	chung	一般	ADJ	N
+chung	将軍	chung	将軍	ADJ	N
+chung	共通	chung	共通	ADJ	V
+tộc	氏族	tộc	氏族	N	
+trần	チャン	trần	チャン	N	PROPN
+mẫu	フォーム	mẫu	フォーム	N	
+tất	ストッキング	tất	ストッキング		N
+trái	左側	trái	左側		N
+từng	ever	từng	ever	PROPN	PROPN
+bán	セール	bán	セール	V	N
+bán	売り上げ	bán	売り上げ	V	N
+bán	セールス	bán	セールス	V	N
+bán	売上	bán	売上	V	N
+rộng	ワイド	rộng	ワイド	ADJ	N
+thủy	魔女	thủy	魔女	V	N
+thủy	ウィッチ	thủy	ウィッチ	V	PROPN
+thủy	拾遺	thủy	拾遺	V	PROPN
+album	記録	album	記録	N	V
+quy	ビスケット	quy	ビスケット	N	PROPN
+giờ	now	giờ	now	N	PROPN
+giờ	ナウ	giờ	ナウ	N	PROPN
+mỗi	それぞれ	mỗi	それぞれ	NUM	ADV
+lấy	take	lấy	take	V	PROPN
+lấy	get	lấy	get	V	PROPN
+phản	反	phản	反	V	N
+đoạn	線分	đoạn	線分	N	
+yêu	ラヴ	yêu	ラヴ	V	PROPN
+yêu	ラブ	yêu	ラブ	V	N
+yêu	luv	yêu	luv	V	PROPN
+yêu	あつい	yêu	あつく	V	
+kiện	スー	kiện	スー	V	PROPN
+biên	bien	biên	bien	N	PROPN
+độc	毒性	độc	毒性	ADJ	N
+hiệp	round	hiệp	round	N	PROPN
+hiệp	丸い	hiệp	丸く	N	ADJ
+giúp	ヘルプ	giúp	ヘルプ	V	N
+sắc	フエ	sắc	フエ	N	PROPN
+nha	歯科医	nha	歯科医		N
+nha	歯医者	nha	歯医者		N
+nha	ニャ	nha	ニャ		PROPN
+nha	歯科	nha	歯科		N
+phá	ブレーク	phá	ブレーク	V	N
+tay	アームス	tay	アームス	N	PROPN
+tay	arm	tay	arm	N	PROPN
+hồng	ナデシコ	hồng	ナデシコ	N	PROPN
+hồng	ホン	hồng	ホン	N	PROPN
+hồng	ローザ	hồng	ローザ	N	PROPN
+rồi	それ	rồi	それ	CONJ	PRO
+nghị	バド	nghị	バド	N	PROPN
+chia	シェア	chia	シェア	V	N
+chia	スプリット	chia	スプリット	V	N
+chia	除算	chia	除算	V	N
+lời	word	lời	word	N	PROPN
+ruồi	fly	ruồi	fly	N	PROPN
+ruồi	飛ぶ	ruồi	飛ぶ	N	V
+chọn	セレクション	chọn	セレクション	V	N
+chọn	ピック	chọn	ピック	V	N
+chọn	select	chọn	select	V	PROPN
+trực	ダイレクト	trực	ダイレクト	V	N
+phiên	セッションズ	phiên	セッションズ	N	PROPN
+dung	コンテンツ	dung	コンテンツ		N
+dung	内容	dung	内容		N
+dung	内容	dung	内容		N
+vòng	round	vòng	round	N	PROPN
+vòng	丸い	vòng	丸く	N	ADJ
+phái	送信	phái	送信	N	V
+đào	モモ	đào	モモ	N	PROPN
+đào	ディグ	đào	ディグ	N	PROPN
+đào	掘る	đào	掘る	N	V
+đào	モモ	đào	モモ	N	PROPN
+khai	債権	khai	債権	V	N
+tốt	グッド	tốt	グッド	ADJ	N
+trợ	修飾	trợ	修飾	V	N
+lệnh	コマンド	lệnh	コマンド		N
+lệnh	指揮	lệnh	指揮		V
+lệnh	コマンド	lệnh	コマンド		N
+lệnh	命令	lệnh	命令		V
+lệnh	オーダー	lệnh	オーダー		N
+lệnh	注文	lệnh	注文		V
+chuẩn	基準	chuẩn	基準	V	N
+chuẩn	スタンダード	chuẩn	スタンダード	V	N
+chuẩn	標準	chuẩn	標準	V	N
+chuẩn	普通	chuẩn	普通	V	ADJ
+chuẩn	ノーマル	chuẩn	ノーマル	V	N
+chữ	letter	chữ	letter	N	PROPN
+duy	のみ	duy	のみ	N	ADP
+hết	すべて	hết	すべて	V	N
+hết	全て	hết	全て	V	ADV
+hết	all	hết	all	V	PROPN
+hết	すべて	hết	すべて	V	N
+hết	オーバー	hết	オーバー	V	
+hết	over	hết	over	V	PROPN
+hán	ハン	hán	ハン	N	PROPN
+hầu	ほとんど	hầu	ほとんど		ADV
+hầu	ほぼ	hầu	ほぼ		ADV
+mặc	摩耗	mặc	摩耗	V	N
+tuyến	リベリア	tuyến	リベリア	N	PROPN
+hạn	制限	hạn	制限	N	V
+gốc	オリジナル	gốc	オリジナル		ADJ
+rêu	コケ	rêu	コケ	N	
+muốn	ウィル	muốn	ウィル	V	PROPN
+muốn	遺言	muốn	遺言	V	N
+muốn	wanna	muốn	wanna	V	PROPN
+muốn	欲しい	muốn	欲しい	V	ADJ
+ninh	クアンニン	ninh	クアンニン	N	PROPN
+trùng	重	trùng	重	V	N
+đĩa	ディスク	đĩa	ディスク		N
+đĩa	円盤	đĩa	円盤		N
+đĩa	プレート	đĩa	プレート		N
+đĩa	ディスク	đĩa	ディスク		N
+khỏi	から	khỏi	から	V	CONJ
+tưởng	思考	tưởng	思考	V	N
+lâm	lam	lâm	lam	N	PROPN
+vàng	gold	vàng	gold	N	PROPN
+hàn	韓国	hàn	韓国	N	PROPN
+hàn	ハン	hàn	ハン	N	PROPN
+ngay	直ち	ngay	直ち	PART	ADJ
+ngay	now	ngay	now	PART	PROPN
+ngay	ナウ	ngay	ナウ	PART	PROPN
+cận	閉会	cận	閉会	V	N
+cận	基数	cận	基数	V	N
+cận	枢機	cận	枢機	V	N
+đậu	ビーン	đậu	ビーン	V	PROPN
+khách	ゲスト	khách	ゲスト	N	PROPN
+khách	訪問	khách	訪問	N	V
+khách	ゲスト	khách	ゲスト	N	PROPN
+thánh	セイント	thánh	セイント	N	PROPN
+trẻ	若い	trẻ	若い	N	ADJ
+phó	バイス	phó	バイス		N
+cải	ブロッコリー	cải	ブロッコリー	N	PROPN
+chạy	ランニング	chạy	ランニング	V	N
+chạy	run	chạy	run	V	PROPN
+chạy	ラン	chạy	ラン	V	N
+chạy	ドライブ	chạy	ドライブ	V	N
+thuận	ディール	thuận	ディール	ADJ	PROPN
+thuận	クーポン	thuận	クーポン	ADJ	N
+tức	インスタント	tức	インスタント		N
+tức	瞬間	tức	瞬間		N
+tức	即時	tức	即時		N
+tức	スール	tức	スール		PROPN
+bảng	パウンド	bảng	パウンド	N	PROPN
+lương	リャン	lương	リャン	N	PROPN
+lâu	ロング	lâu	ロング	ADJ	N
+gặp	meet	gặp	meet	V	PROPN
+blank	ブランク	blank	ブランク	V	N
+chu	おそらく	chu	おそらく		ADV
+chu	chu	chu	chu		PROPN
+ước	wish	ước	wish		PROPN
+ước	ウィッシュ	ước	ウィッシュ		PROPN
+chuyên	スペシャリスト	chuyên	スペシャリスト	ADJ	N
+chuyên	専門	chuyên	専門	ADJ	N
+lai	フューチャー	lai	フューチャー		N
+lai	未来	lai	未来		N
+lai	将来	lai	将来		
+vài	少数	vài	少数	DET	N
+san	san	san	san		PROPN
+san	サン	san	サン		N
+nền	背景	nền	背景		N
+nền	バックグラウンド	nền	バックグラウンド		N
+cúc	cuc	cúc	cuc	N	PROPN
+style	スタイル	style	スタイル		N
+song	ツイン	song	ツイン	CONJ	N
+song	双生	song	双生	CONJ	N
+song	双子	song	双子	CONJ	N
+song	両親	song	両親	CONJ	N
+song	保護者	song	保護者	CONJ	N
+song	歌曲	song	歌曲	CONJ	N
+song	ソング	song	ソング	CONJ	N
+giai	メロディ	giai	メロディ		N
+giai	メロディー	giai	メロディー		N
+quay	岸壁	quay	岸壁	V	N
+quay	ターン	quay	ターン	V	N
+quay	曲	quay	曲	V	N
+quay	ローテーション	quay	ローテーション	V	
+quay	スピン	quay	スピン	V	N
+xuân	チュン	xuân	チュン	N	PROPN
+điển	辞典	điển	辞典	N	PROPN
+trúc	パンダ	trúc	パンダ	N	PROPN
+rừng	ウッズ	rừng	ウッズ	N	PROPN
+rừng	ジャングル	rừng	ジャングル	N	PROPN
+thưởng	ボーナス	thưởng	ボーナス	V	N
+thưởng	報酬	thưởng	報酬	V	N
+list	リスト	list	リスト	ADJ	V
+xuống	ダウン	xuống	ダウン	V	PROPN
+đứng	スタンディング	đứng	スタンディング	V	N
+đứng	スタンド	đứng	スタンド	V	N
+truyện	読書	truyện	読書	N	V
+môn	微妙	môn	微妙	N	ADJ
+phóng	スケール	phóng	スケール	V	N
+phóng	縮尺	phóng	縮尺	V	N
+phóng	目盛	phóng	目盛	V	N
+đốc	知事	đốc	知事		N
+thờ	チャーチ	thờ	チャーチ	N	PROPN
+mềm	やわらかい	mềm	やわらかい	N	ADJ
+mềm	柔らかい	mềm	柔らかい	N	ADJ
+mềm	ソフト	mềm	ソフト	N	ADJ
+cha	チャ	cha	チャ	N	PROPN
+giết	キリング	giết	キリング	V	PROPN
+giết	キル	giết	キル	V	PROPN
+giết	kill	giết	kill	V	PROPN
+nhanh	クイック	nhanh	クイック	ADJ	N
+hương	味見	hương	味見	N	V
+nghiệm	実験	nghiệm	実験	V	N
+tối	暗い	tối	暗い	N	ADJ
+giảm	少ない	giảm	少ない	V	ADJ
+bắn	シュート	bắn	シュート	V	N
+bắn	射撃	bắn	射撃	V	N
+bắn	ショット	bắn	ショット	V	N
+đôi	ペア	đôi	ペア	NUM	N
+đôi	ダブル	đôi	ダブル	NUM	N
+đôi	カップル	đôi	カップル	NUM	N
+đôi	時々	đôi	時々	NUM	ADV
+đôi	とき	đôi	とき	NUM	N
+đôi	ダブルス	đôi	ダブルス	NUM	N
+gái	ガールズ	gái	ガールズ	N	PROPN
+mắt	アイズ	mắt	アイズ	N	PROPN
+cáo	報告	cáo	報告	N	V
+tam	tam	tam	tam	N	PROPN
+sai	false	sai	false	ADJ	PROPN
+sai	虚偽	sai	虚偽	ADJ	N
+sai	エラー	sai	エラー	ADJ	N
+lửa	炎上	lửa	炎上	N	V
+trương	ディレクター	trương	ディレクター	N	PROPN
+nặng	ヘビー	nặng	ヘビー	ADJ	N
+nặng	重度	nặng	重度	ADJ	N
+ngành	his	ngành	his	N	PROPN
+isbn	isbn	isbn	isbn		PROPN
+đàn	đàn	đàn	đàn	N	PROPN
+trắng	白い	trắng	白い	N	ADJ
+đọc	les	đọc	les	V	PROPN
+xung	インパルス	xung	インパルス	V	N
+xung	紛争	xung	紛争	V	N
+xung	コンフリクト	xung	コンフリクト	V	N
+nhìn	ルック	nhìn	ルック	V	N
+nhìn	外観	nhìn	外観	V	N
+quý	precious	quý	precious	N	PROPN
+quý	貴重	quý	貴重	N	ADJ
+luyện	トレーニング	luyện	トレーニング	V	N
+luyện	講習	luyện	講習	V	N
+thật	real	thật	real	PART	PROPN
+thật	本物	thật	本物	PART	N
+thật	リアル	thật	リアル	PART	ADJ
+thật	トゥルー	thật	トゥルー	PART	N
+thật	true	thật	true	PART	PROPN
+thật	本当	thật	本当	PART	N
+thật	真実	thật	真実	PART	ADJ
+thật	真理	thật	真理	PART	N
+thật	本当に	thật	本当に	PART	ADV
+kéo	プル	kéo	プル	V	N
+kéo	ハサミ	kéo	ハサミ	V	N
+kéo	はさみ	kéo	はさみ	V	N
+kéo	パフ	kéo	パフ	V	N
+đen	ブラック	đen	ブラック	ADJ	PROPN
+saint	セイント	saint	セイント		PROPN
+saint	聖人	saint	聖人		N
+mực	squid	mực	squid	N	PROPN
+mực	イカ	mực	イカ	N	
+trời	sky	trời	sky	N	PROPN
+ngắn	ショート	ngắn	ショート	ADJ	N
+niệm	土産	niệm	土産	V	N
+luôn	常に	luôn	常に		ADV
+luôn	いつも	luôn	いつも		ADV
+côn	それ	côn	それ	N	PRO
+côn	まだ	côn	まだ	N	ADV
+thạch	チャレンジ	thạch	チャレンジ	N	V
+thạch	挑戦	thạch	挑戦	N	V
+phúc	幸せ	phúc	幸せ	N	ADJ
+sâu	ディープ	sâu	ディープ	ADJ	N
+khó	一生	khó	一生	ADJ	N
+khó	ハード	khó	ハード	ADJ	N
+cục	fbi	cục	fbi		PROPN
+cục	エクストラ	cục	エクストラ		PROPN
+kịch	ドラマチック	kịch	ドラマチック	N	ADJ
+rút	プル	rút	プル	V	N
+phường	ウォード	phường	ウォード	N	PROPN
+ngọc	ヒスイ	ngọc	ヒスイ	N	PROPN
+club	クラブ	club	クラブ		N
+club	棍	club	棍		PROPN
+top	top	top	top		PROPN
+top	上部	top	上部		N
+top	トップ	top	トップ		N
+tải	ロード	tải	ロード	V	N
+tải	ローディング	tải	ローディング	V	N
+wikipedia	wikipedia	wikipedia	wikipedia	V	PROPN
+wikipedia	ウィキペディア	wikipedia	ウィキペディア	V	PROPN
+ngô	とうもろこし	ngô	とうもろこし	N	ADV
+bốn	four	bốn	four	NUM	PROPN
+bốn	フォー	bốn	フォー	NUM	N
+phật	beat	phật	beat	N	PROPN
+phật	ブッダ	phật	ブッダ	N	PROPN
+nghi	疑わしい	nghi	疑わしい	V	ADJ
+thừa	残り	thừa	残り	ADJ	N
+thừa	冗長	thừa	冗長	ADJ	
+vốn	キャピタル	vốn	キャピタル	N	PROPN
+buộc	フォース	buộc	フォース	V	N
+đăng	ポスト	đăng	ポスト	V	PROPN
+kiếm	刀剣	kiếm	刀剣	V	N
+bụng	お	bụng	お	ADJ	N
+nuôi	pet	nuôi	pet	V	PROPN
+nuôi	ペット	nuôi	ペット	V	N
+nuôi	養子	nuôi	養子	V	N
+hỏi	ask	hỏi	ask	V	PROPN
+thú	zoo	thú	zoo	N	PROPN
+đầy	いっぱい	đầy	いっぱい	ADJ	N
+đầy	フル	đầy	フル	ADJ	N
+kính	め	kính	*可能*	N	V
+cạnh	edge	cạnh	edge	N	PROPN
+vừa	ミディアム	vừa	ミディアム		N
+vừa	メディア	vừa	メディア		N
+vừa	中道	vừa	中道		PROPN
+thử	try	thử	try	V	PROPN
+thử	トライ	thử	トライ	V	N
+thử	テスト	thử	テスト	V	N
+brasil	ブラジル	brasil	ブラジル	N	PROPN
+john	ジョン	john	ジョン	N	PROPN
+lược	inv	lược	inv	N	PROPN
+lược	コームズ	lược	コームズ	N	PROPN
+paris	パリス	paris	パリス		PROPN
+paris	パリ	paris	パリ		PROPN
+tội	有罪	tội	有罪	N	V
+tội	guilty	tội	guilty	N	PROPN
+tội	無実	tội	無実	N	ADJ
+khắc	刻む	khắc	刻む	N	V
+bật	有効	bật	有効	V	ADJ
+tái	再	tái	再		N
+chiếu	チェス	chiếu	チェス	V	N
+xét	やじ	xét	やじる	V	N
+chùa	chua	chùa	chua	N	PROPN
+chùa	テンプル	chùa	テンプル	N	PROPN
+ist	ist	ist	ist		PROPN
+york	ヨーク	york	ヨーク	N	PROPN
+tháp	タワーズ	tháp	タワーズ	N	PROPN
+group	集団	group	集団		N
+group	グループ	group	グループ		N
+thao	運行	thao	運行	N	V
+thao	運営	thao	運営	N	V
+thao	操作	thao	操作	N	V
+loạt	リージョン	loạt	リージョン		N
+loạt	地域	loạt	地域		N
+loạt	面積	loạt	面積		N
+loạt	領域	loạt	領域		N
+loạt	エリア	loạt	エリア		N
+team	チーム	team	チーム		N
+suất	興行	suất	興行	N	V
+xanh	青い	xanh	青い	N	ADJ
+khóa	key	khóa	key	N	PROPN
+mối	威嚇	mối	威嚇	N	
+suy	思考	suy	思考	V	N
+thuốc	ドラッグ	thuốc	ドラッグ	N	V
+đích	行き	đích	行く		V
+đích	目的	đích	目的		N
+đích	宛先	đích	宛先		N
+đúng	トゥルー	đúng	トゥルー	ADJ	N
+đúng	true	đúng	true	ADJ	PROPN
+đúng	本当	đúng	本当	ADJ	N
+đúng	正解	đúng	正解	ADJ	
+siêu	スーパー	siêu	スーパー		N
+siêu	メタデータ	siêu	メタデータ		N
+vây	フィン	vây	フィン	V	PROPN
+vây	レジスタンス	vây	レジスタンス	V	PROPN
+van	バルブ	van	バルブ	V	N
+van	バン	van	バン	V	PROPN
+van	ヴァン	van	ヴァン	V	PROPN
+van	バルブ	van	バルブ	V	N
+cường	閲覧	cường	閲覧	N	V
+cường	ブラウズ	cường	ブラウズ	N	PROPN
+gray	灰色	gray	灰色		N
+gray	グレイ	gray	グレイ		PROPN
+gray	グレー	gray	グレー		N
+bom	bom	bom	bom	N	PROPN
+clubnat	clubnat	clubnat	clubnat	N	PROPN
+ngựa	ウマ	ngựa	ウマ	N	PROPN
+ngựa	ウマ	ngựa	ウマ	N	PROPN
+chỗ	place	chỗ	place	N	PROPN
+vân	blah	vân	blah	N	PROPN
+vân	yet	vân	yet	N	PROPN
+tai	タイ	tai	タイ		PROPN
+bước	step	bước	step		PROPN
+bước	ステップ	bước	ステップ		N
+bước	歩数	bước	歩数		N
+bước	手順	bước	手順		N
+bước	ステップ	bước	ステップ		N
+canada	カナダ	canada	カナダ	N	PROPN
+vinh	ヴィン	vinh	ヴィン	N	PROPN
+bác	叔父	bác	叔父		N
+bác	伯父	bác	伯父		N
+bác	おじさん	bác	おじさん		N
+bác	おじ	bác	おじる		N
+bác	アンクル	bác	アンクル		PROPN
+tuyệt	グレート	tuyệt	グレート	ADJ	PROPN
+tuyệt	クール	tuyệt	クール	ADJ	N
+hôn	接吻	hôn	接吻	V	N
+hôn	kiss	hôn	kiss	V	PROPN
+hôn	接吻	hôn	接吻	V	N
+trừ	減算	trừ	減算	V	N
+trừ	マイナス	trừ	マイナス	V	
+ship	船舶	ship	船舶	V	N
+california	カリフォルニア	california	カリフォルニア		PROPN
+đẹp	ビューティフル	đẹp	ビューティフル	ADJ	N
+đẹp	ナイス	đẹp	ナイス	ADJ	PROPN
+đẹp	ニース	đẹp	ニース	ADJ	PROPN
+cai	きれい	cai	きれい	N	ADJ
+hơi	あまり	hơi	あまり		ADV
+phút	ミン	phút	ミン	N	PROPN
+phút	min	phút	min	N	PROPN
+loạn	暴動	loạn	暴動	V	N
+loạn	反乱	loạn	反乱	V	N
+svg	svg	svg	svg	N	PROPN
+phí	away	phí	away	N	PROPN
+khủng	テロリスト	khủng	テロリスト	ADJ	N
+ủng	ブーツ	ủng	ブーツ	V	N
+nâng	エレベーター	nâng	エレベーター	V	N
+nâng	リフト	nâng	リフト	V	N
+nâng	リフティング	nâng	リフティング	V	N
+mai	マイ	mai	マイ		N
+mai	明日	mai	明日		N
+mai	あし	mai	あし		V
+cảng	ハーバー	cảng	ハーバー	N	PROPN
+tách	cups	tách	cups	V	PROPN
+tách	カップ	tách	カップ	V	N
+tách	スプリット	tách	スプリット	V	N
+tách	カップ	tách	カップ	V	N
+tách	コップ	tách	コップ	V	N
+tách	cup	tách	cup	V	PROPN
+bạch	白い	bạch	白い	N	ADJ
+phê	コーヒー	phê	コーヒー		N
+phê	phe	phê	phe		PROPN
+liền	本土	liền	本土		N
+cắt	cut	cắt	cut	V	PROPN
+cắt	カット	cắt	カット	V	N
+cắt	トリミング	cắt	トリミング	V	N
+cắt	切り傷	cắt	切り傷	V	
+trịnh	チェン	trịnh	チェン	N	PROPN
+http	http	http	http		PROPN
+đền	テンプル	đền	テンプル	N	PROPN
+web	web	web	web	N	PROPN
+web	net	web	net	N	PROPN
+chỉnh	チューニング	chỉnh	チューニング	V	N
+đỉnh	top	đỉnh	top	N	PROPN
+bão	ハリケーン	bão	ハリケーン	N	PROPN
+bão	ストーミー	bão	ストーミー	N	PROPN
+sur	スール	sur	スール	NUM	PROPN
+bày	画面	bày	画面	V	N
+bày	スクリーン	bày	スクリーン	V	N
+voi	ゾウ	voi	ゾウ		PROPN
+voi	ゾウ	voi	ゾウ		PROPN
+nghĩ	思考	nghĩ	思考	V	N
+nghĩ	思考	nghĩ	思考	V	N
+nghĩ	シンク	nghĩ	シンク	V	N
+nguy	危険	nguy	危険	V	ADJ
+quyển	ノート	quyển	ノート		N
+quyển	ノート	quyển	ノート		N
+thác	放棄	thác	放棄	N	V
+thụ	エネルギー	thụ	エネルギー	V	N
+thụ	超	thụ	超	V	N
+com	com	com	com	N	PROPN
+nhớ	ミス	nhớ	ミス	V	N
+nhớ	remember	nhớ	remember	V	PROPN
+thoát	exit	thoát	exit	V	PROPN
+thoát	出口	thoát	出口	V	N
+thoát	エスケープ	thoát	エスケープ	V	N
+đẩy	プッシュ	đẩy	プッシュ	V	N
+vạn	原点	vạn	原点	ADJ	N
+vạn	語源	vạn	語源	ADJ	N
+vạn	由来	vạn	由来	ADJ	N
+vạn	起源	vạn	起源	ADJ	N
+trại	camp	trại	camp	N	PROPN
+lượt	ターン	lượt	ターン		N
+lượt	曲	lượt	曲		N
+lượt	旅行	lượt	旅行		V
+lượt	トリップ	lượt	トリップ		PROPN
+tan	タン	tan	タン	V	N
+vuông	正方	vuông	正方	ADJ	N
+vuông	四角	vuông	四角	ADJ	PROPN
+vuông	広場	vuông	広場	ADJ	N
+wiki	wiki	wiki	wiki	N	PROPN
+wiki	ウィキ	wiki	ウィキ	N	PROPN
+nửa	半分	nửa	半分	NUM	N
+nửa	ハーフ	nửa	ハーフ	NUM	N
+đan	編み物	đan	編み物		N
+đan	優れ	đan	優れる		V
+united	ユナイテッド	united	ユナイテッド	N	PROPN
+iii	iii	iii	iii	NUM	PROPN
+ngụy	スケープ	ngụy	スケープ	V	N
+sài	チャイ	sài	チャイ	N	PROPN
+phan	クヌート	phan	クヌート		PROPN
+thẳng	まっすぐ	thẳng	まっすぐ	ADJ	ADV
+thẳng	ストレート	thẳng	ストレート	ADJ	N
+vịnh	ガルフ	vịnh	ガルフ	N	PROPN
+cup	cup	cup	cup	N	PROPN
+chuồn	クローバー	chuồn	クローバー	N	PROPN
+illinois	イリノイ	illinois	イリノイ	N	PROPN
+tiện	旋盤	tiện	旋盤	ADJ	N
+mông	ass	mông	ass	N	PROPN
+ngược	後ろ	ngược	後ろ	V	N
+ngược	後方	ngược	後方	V	N
+ngược	リバース	ngược	リバース	V	N
+ngược	反対	ngược	反対	V	
+london	ロンドン	london	ロンドン		PROPN
+gắn	フリーク	gắn	フリーク	V	N
+gắn	freaks	gắn	freaks	V	PROPN
+sáu	シックス	sáu	シックス	NUM	V
+sáu	six	sáu	six	NUM	PROPN
+tặng	give	tặng	give	V	PROPN
+tặng	ギフト	tặng	ギフト	V	N
+tặng	贈り物	tặng	贈り物	V	N
+chồng	ダンナ	chồng	ダンナ	N	PROPN
+chồng	旦那	chồng	旦那	N	PROPN
+tắc	ダニ	tắc	ダニ	V	N
+tắc	tick	tắc	tick	V	PROPN
+rgb	rgb	rgb	rgb	N	PROPN
+máu	ブラッド	máu	ブラッド	N	PROPN
+sớm	アーリー	sớm	アーリー	ADJ	PROPN
+sớm	soon	sớm	soon	ADJ	PROPN
+sớm	まも	sớm	まも	ADJ	ADV
+sớm	もう	sớm	もう	ADJ	ADV
+thù	報復	thù	報復	N	V
+thù	復讐	thù	復讐	N	V
+thù	リベンジ	thù	リベンジ	N	PROPN
+mười	テン	mười	テン	NUM	N
+mười	ten	mười	ten	NUM	PROPN
+lông	フェザー	lông	フェザー	N	PROPN
+săn	ハント	săn	ハント	N	PROPN
+săn	狩り	săn	狩る	N	V
+săn	狩り	săn	狩る	N	V
+tàng	parc	tàng	parc	N	PROPN
+cương	勃起	cương	勃起	N	V
+hungary	ハンガリー	hungary	ハンガリー	N	PROPN
+tắt	無効	tắt	無効		ADJ
+tắt	無効	tắt	無効		ADJ
+tắt	ミュート	tắt	ミュート		N
+chấm	ドット	chấm	ドット	V	N
+chấm	ドット	chấm	ドット	V	N
+chấm	dot	chấm	dot	V	PROPN
+chấm	ポイント	chấm	ポイント	V	N
+gòn	ゴン	gòn	ゴン	N	PROPN
+mũi	ムイ	mũi	ムイ	N	PROPN
+tri	tri	tri	tri		PROPN
+body	本文	body	本文		N
+body	身体	body	身体		N
+body	本体	body	本体		N
+body	ボディ	body	ボディ		N
+cẩm	通話	cẩm	通話	N	V
+hài	面白い	hài	面白い	N	ADJ
+trồng	播種	trồng	播種	V	N
+trồng	プラント	trồng	プラント	V	N
+trồng	植物	trồng	植物	V	N
+increment	増分	increment	増分	V	N
+increment	インクリメント	increment	インクリメント	V	N
+chó	わんわん	chó	わんわん	N	PROPN
+thước	ルーラー	thước	ルーラー	N	PROPN
+mexico	メキシコ	mexico	メキシコ	N	PROPN
+ngang	水平	ngang	水平	ADJ	N
+nhẹ	軽度	nhẹ	軽度		N
+nhẹ	イージー	nhẹ	イージー		N
+nhẹ	易しい	nhẹ	易しい		ADJ
+nhẹ	やさしい	nhẹ	やさしい		ADJ
+nhẹ	簡単	nhẹ	簡単		ADJ
+nhẹ	ライトウェイト	nhẹ	ライトウェイト		N
+nhẹ	スキニー	nhẹ	スキニー		N
+lightgrey	lightgrey	lightgrey	lightgrey		PROPN
+đáp	ランド	đáp	ランド	V	N
+đáp	土地	đáp	土地	V	N
+khô	辛口	khô	辛口	V	ADJ
+khô	ドライ	khô	ドライ	V	N
+gridcolor	gridcolor	gridcolor	gridcolor		PROPN
+xúc	侮蔑	xúc	侮蔑	V	N
+xúc	侮辱	xúc	侮辱	V	N
+kém	バッド	kém	バッド	ADJ	PROPN
+huyền	epic	huyền	epic	N	PROPN
+huyền	エピック	huyền	エピック	N	PROPN
+philippines	フィリピン	philippines	フィリピン	N	PROPN
+tổn	トラウマ	tổn	トラウマ	V	PROPN
+tổn	外傷	tổn	外傷	V	N
+darkgrey	darkgrey	darkgrey	darkgrey		PROPN
+sfondo	sfondo	sfondo	sfondo		PROPN
+chinh	十字	chinh	十字		N
+chinh	クロス	chinh	クロス		N
+chinh	cross	chinh	cross		PROPN
+chinh	十字	chinh	十字		N
+simon	シモン	simon	シモン		PROPN
+simon	サイモン	simon	サイモン		PROPN
+hoà	ダッチ	hoà	ダッチ		PROPN
+pennsylvania	ペンシルバニア	pennsylvania	ペンシルバニア		PROPN
+trinh	ヴァージン	trinh	ヴァージン	N	PROPN
+thiệt	real	thiệt	real	PART	PROPN
+thiệt	本物	thiệt	本物	PART	N
+thiệt	リアル	thiệt	リアル	PART	ADJ
+lang	lang	lang	lang	N	PROPN
+lang	ラング	lang	ラング	N	PROPN
+lào	ラオス	lào	ラオス	N	PROPN
+đuôi	しっぽ	đuôi	しっぽ	N	PROPN
+đuôi	しっぽ	đuôi	しっぽ	N	PROPN
+chữa	治癒	chữa	治癒	V	
+lỗi	bug	lỗi	bug	N	PROPN
+background	背景	background	背景		N
+background	バックグラウンド	background	バックグラウンド		N
+ngọt	スウィート	ngọt	スウィート	ADJ	N
+ngọt	甘味	ngọt	甘味	ADJ	N
+bảy	seven	bảy	seven	NUM	PROPN
+bảy	セブン	bảy	セブン	NUM	PROPN
+sóc	リス	sóc	リス	V	PROPN
+sóc	リス	sóc	リス	V	PROPN
+chặn	ブロック	chặn	ブロック	V	N
+chặn	ブロッキング	chặn	ブロッキング	V	N
+chặn	ブロック	chặn	ブロック	V	N
+thôi	取り消し	thôi	取り消し	PART	V
+thôi	キャンセル	thôi	キャンセル	PART	V
+thôi	取り消す	thôi	取り消す	PART	V
+ống	touch	ống	touch	N	PROPN
+ống	触る	ống	触る	N	V
+phước	祝福	phước	祝福	N	V
+gió	wind	gió	wind	N	PROPN
+trống	ドラム	trống	ドラム	V	N
+trống	太鼓	trống	太鼓	V	N
+trống	ブランク	trống	ブランク	V	N
+trống	ドラム	trống	ドラム	V	N
+trống	太鼓	trống	太鼓	V	N
+indonesia	インドネシア	indonesia	インドネシア	N	PROPN
+jpl	jpl	jpl	jpl		PROPN
+tàn	チョーク	tàn	チョーク	ADJ	N
+đuổi	チェイス	đuổi	チェイス	V	PROPN
+bách	深刻	bách	深刻	N	ADJ
+png	png	png	png	N	PROPN
+hút	スモーク	hút	スモーク	V	N
+hút	散々	hút	散々	V	ADV
+george	ジョージ	george	ジョージ		PROPN
+air	空気	air	空気		N
+air	航空	air	航空		N
+air	エア	air	エア		PROPN
+cam	orange	cam	orange	N	PROPN
+họp	ミーティング	họp	ミーティング	V	N
+họp	会議	họp	会議	V	N
+usd	usd	usd	usd	N	PART
+usd	fifty	usd	fifty	N	PROPN
+may	メイ	may	メイ	ADJ	PROPN
+may	五月	may	五月	ADJ	N
+may	裁縫	may	裁縫	ADJ	N
+may	縫製	may	縫製	ADJ	N
+may	ラッキー	may	ラッキー	ADJ	PROPN
+kia	キア	kia	キア	PROPN	PROPN
+kia	そこ	kia	そこ	PROPN	PRO
+robert	ロベルト	robert	ロベルト		PROPN
+robert	ロベール	robert	ロベール		PROPN
+robert	ロバート	robert	ロバート		PROPN
+đinh	チェイン	đinh	チェイン	N	PROPN
+david	デイヴィッド	david	デイヴィッド		PROPN
+david	ダビデ	david	ダビデ		PROPN
+david	デビッド	david	デビッド		PROPN
+david	デヴィッド	david	デヴィッド		PROPN
+iowa	アイオワ	iowa	アイオワ	N	PROPN
+ohio	オハイオ	ohio	オハイオ	N	PROPN
+hoang	ワイルド	hoang	ワイルド	ADJ	PROPN
+hoang	野生	hoang	野生	ADJ	N
+pop	pop	pop	pop	N	PROPN
+đâu	どこ	đâu	どこ	PROPN	PRO
+sắp	ほとんど	sắp	ほとんど		ADV
+sắp	ほぼ	sắp	ほぼ		ADV
+sắp	soon	sắp	soon		PROPN
+sắp	まも	sắp	まも		ADV
+sắp	もう	sắp	もう		ADV
+cân	重量	cân	重量	V	N
+cân	体重	cân	体重	V	N
+hiếu	おもて	hiếu	おもて		N
+hiếu	接客	hiếu	接客		N
+tận	端末	tận	端末	ADP	N
+tận	ターミナル	tận	ターミナル	ADP	PROPN
+mong	ホープ	mong	ホープ	V	PROPN
+rối	トラブル	rối	トラブル	V	N
+rối	パペット	rối	パペット	V	N
+texas	テキサス	texas	テキサス	N	PROPN
+minnesota	ミネソタ	minnesota	ミネソタ	N	PROPN
+dakota	ダコタ	dakota	ダコタ	N	PROPN
+james	ジェームス	james	ジェームス	N	PROPN
+james	ジェームズ	james	ジェームズ	N	PROPN
+phu	マダム	phu	マダム	N	PROPN
+nghỉ	休暇	nghỉ	休暇	V	N
+nghỉ	バカンス	nghỉ	バカンス	V	N
+nghỉ	バケーション	nghỉ	バケーション	V	N
+paul	ポール	paul	ポール		N
+paul	パウル	paul	パウル		PROPN
+thua	敗者	thua	敗者	V	N
+thua	ロスト	thua	ロスト	V	N
+uống	飲み物	uống	飲み物	V	N
+uống	ドリンク	uống	ドリンク	V	N
+uống	飲み物	uống	飲み物	V	N
+uống	ドリンク	uống	ドリンク	V	N
+chị	sis	chị	sis	N	PROPN
+chị	シスター	chị	シスター	N	PROPN
+thịnh	アヴァターラ	thịnh	アヴァターラ	N	PROPN
+thịnh	シェン	thịnh	シェン	N	PROPN
+huế	フエ	huế	フエ	N	PROPN
+bến	アルジェ	bến	アルジェ	N	PROPN
+lam	lam	lam	lam	N	PROPN
+hoài	達成	hoài	達成	N	V
+ukraina	ウクライナ	ukraina	ウクライナ	N	PROPN
+nhắc	プロンプト	nhắc	プロンプト	V	N
+del	del	del	del		PROPN
+del	デル	del	デル		PROPN
+internet	インターネット	internet	インターネット		N
+der	デア	der	デア	N	PROPN
+link	リンク	link	リンク	N	V
+kiên	我慢	kiên	我慢	ADJ	V
+kiên	忍耐	kiên	忍耐	ADJ	N
+kiên	根気	kiên	根気	ADJ	N
+malaysia	マレーシア	malaysia	マレーシア	N	PROPN
+malaysia	マレーシア	malaysia	マレーシア	N	PROPN
+nóng	ホット	nóng	ホット	ADJ	N
+pha	make	pha	make	N	PROPN
+phức	顕微	phức	顕微	V	N
+tròn	サークル	tròn	サークル	ADJ	N
+nhảy	ジャンプ	nhảy	ジャンプ	V	N
+lạnh	風邪	lạnh	風邪	ADJ	N
+lạnh	コールド	lạnh	コールド	ADJ	N
+đòi	需要	đòi	需要	V	N
+washington	ワシントン	washington	ワシントン		PROPN
+tiêm	インジェクション	tiêm	インジェクション	V	N
+tiêm	注射	tiêm	注射	V	N
+tiêm	状態	tiêm	状態	V	N
+tiêm	条件	tiêm	条件	V	N
+trốn	ヒデ	trốn	ヒデ	V	PROPN
+bottom	ボトム	bottom	ボトム		N
+đau	痛む	đau	痛む	ADJ	V
+đau	痛み	đau	痛み	ADJ	N
+đau	疼痛	đau	疼痛	ADJ	
+đau	ペイン	đau	ペイン	ADJ	PROPN
+lọc	フィルタ	lọc	フィルタ	V	N
+lọc	フィルター	lọc	フィルター	V	N
+lọc	フィルタ	lọc	フィルタ	V	N
+lọc	フィルター	lọc	フィルター	V	N
+vui	面白い	vui	面白い		ADJ
+vui	楽しい	vui	楽しい		ADJ
+vui	ハッピー	vui	ハッピー		N
+vui	幸せ	vui	幸せ		ADJ
+israel	イスラエル	israel	イスラエル		PROPN
+khổ	苦しみ	khổ	苦しむ	ADJ	V
+khổ	一生	khổ	一生	ADJ	N
+khổ	ハード	khổ	ハード	ADJ	N
+site	サイト	site	サイト		N
+site	敷地	site	敷地		N
+canh	ブイヨン	canh	ブイヨン	N	PROPN
+canh	ブロス	canh	ブロス	N	PROPN
+canh	canh	canh	canh	N	PROPN
+thuế	ハニー	thuế	ハニー	N	PROPN
+kansas	カンザス	kansas	カンザス	N	PROPN
+love	ラヴ	love	ラヴ		PROPN
+love	ラブ	love	ラブ		N
+nương	フィフィ	nương	フィフィ	N	PROPN
+des	des	des	des	N	PROPN
+dinh	ディン	dinh	ディン		PROPN
+anime	アニメ	anime	アニメ		N
+trạm	ターミナル	trạm	ターミナル	N	PROPN
+khổng	腫れ	khổng	腫れる	N	V
+michael	ミヒャエル	michael	ミヒャエル		PROPN
+michael	マイケル	michael	マイケル		PROPN
+mộc	moc	mộc	moc	N	PROPN
+tám	eight	tám	eight	NUM	PROPN
+tám	エイト	tám	エイト	NUM	PROPN
+non	non	non	non	N	PROPN
+thảm	じゅう	thảm	じゅう	N	V
+insee	insee	insee	insee	N	PROPN
+campuchia	カンボジア	campuchia	カンボジア	N	PROPN
+campuchia	カンボジア	campuchia	カンボジア	N	PROPN
+colombia	コロンビア	colombia	コロンビア	N	PROPN
+colombia	コロンビア	colombia	コロンビア	N	PROPN
+charles	シャルル	charles	シャルル		PROPN
+than	石炭	than	石炭		N
+than	木炭	than	木炭		N
+tuấn	tuan	tuấn	tuan	N	PROPN
+tuấn	jun	tuấn	jun	N	PROPN
+tuấn	じゅん	tuấn	じゅん	N	PROPN
+đốt	やけど	đốt	やけど	V	
+đốt	burn	đốt	burn	V	PROPN
+henry	ヘンリー	henry	ヘンリー		PROPN
+chuột	ラット	chuột	ラット	N	PROPN
+buôn	マーチャント	buôn	マーチャント	V	PROPN
+buôn	商人	buôn	商人	V	N
+buôn	トレーダー	buôn	トレーダー	V	PROPN
+buôn	コカイン	buôn	コカイン	V	N
+buôn	ディーラー	buôn	ディーラー	V	N
+đua	人種	đua	人種	V	N
+đua	競走	đua	競走	V	N
+đua	レース	đua	レース	V	N
+đua	競走	đua	競走	V	N
+đua	レース	đua	レース	V	N
+đua	レーシング	đua	レーシング	V	PROPN
+kông	コング	kông	コング	N	PROPN
+cướp	ロブ	cướp	ロブ	V	PROPN
+cướp	強盗	cướp	強盗	V	N
+one	一	one	一		NUM
+one	one	one	one		PROPN
+one	一人	one	一人		PROPN
+one	ワン	one	ワン		N
+tim	心臓	tim	心臓		N
+tim	ハート	tim	ハート		N
+tim	ティム	tim	ティム		PROPN
+tim	tim	tim	tim		PROPN
+nho	ぶどう	nho	ぶどう		N
+nho	ブドウ	nho	ブドウ		N
+nho	ブドウ	nho	ブドウ		N
+nho	ぶどう	nho	ぶどう		N
+man	男性	man	男性		N
+man	man	man	man		PROPN
+nghèo	貧困	nghèo	貧困	ADJ	N
+smith	スミス	smith	スミス		PROPN
+ireland	アイルランド	ireland	アイルランド		PROPN
+dũng	反対	dũng	反対	N	
+đồi	ヒルズ	đồi	ヒルズ	N	PROPN
+nguyện	祈り	nguyện	祈り	N	V
+martin	マーティン	martin	マーティン		PROPN
+martin	マーチン	martin	マーチン		PROPN
+cãi	けんか	cãi	けんか	V	N
+túc	率直	túc	率直	N	ADJ
+giàu	金持ち	giàu	金持ち	ADJ	N
+giàu	リッチ	giàu	リッチ	ADJ	N
+lái	ステアリング	lái	ステアリング	V	N
+chụp	take	chụp	take	V	PROPN
+đầm	ラグーン	đầm	ラグーン	N	PROPN
+lũng	谷間	lũng	谷間	N	
+ecuador	エクアドル	ecuador	エクアドル	N	PROPN
+ecuador	エクアドル	ecuador	エクアドル	N	PROPN
+jean	ジャン	jean	ジャン		PROPN
+jean	ジーン	jean	ジーン		PROPN
+thomas	トマス	thomas	トマス		PROPN
+thomas	トーマス	thomas	トーマス		PROPN
+cháy	火事	cháy	火事	V	N
+cháy	ファイア	cháy	ファイア	V	N
+cháy	火災	cháy	火災	V	N
+cháy	バーンズ	cháy	バーンズ	V	PROPN
+cháy	やけど	cháy	やけど	V	
+cháy	やけど	cháy	やけど	V	
+cháy	burn	cháy	burn	V	PROPN
+cháy	バーニング	cháy	バーニング	V	PROPN
+huệ	有罪	huệ	有罪	N	V
+huệ	guilty	huệ	guilty	N	PROPN
+mái	フリンジ	mái	フリンジ	V	N
+mái	屋上	mái	屋上	V	N
+mái	屋根	mái	屋根	V	N
+bát	ビスケット	bát	ビスケット	N	PROPN
+bát	バンズ	bát	バンズ	N	PROPN
+bát	ボウル	bát	ボウル	N	PROPN
+bát	ボウル	bát	ボウル	N	PROPN
+chư	マリア	chư	マリア	N	PROPN
+chư	マリヤ	chư	マリヤ	N	PROPN
+ngừng	ストップ	ngừng	ストップ	V	N
+ngự	眠る	ngự	眠る	N	V
+già	オールド	già	オールド	ADJ	N
+alt	alt	alt	alt	N	PROPN
+missouri	ミズーリ	missouri	ミズーリ	N	PROPN
+argentina	アルゼンチン	argentina	アルゼンチン		PROPN
+argentina	アルゼンチン	argentina	アルゼンチン		PROPN
+dao	dao	dao	dao	N	PROPN
+chín	nine	chín	nine	ADJ	PROPN
+singapore	シンガポール	singapore	シンガポール	N	PROPN
+tung	ナイフ	tung	ナイフ		N
+đôn	ロンドン	đôn	ロンドン	N	PROPN
+hoan	ヒル	hoan	ヒル		N
+hiếm	レア	hiếm	レア	ADJ	N
+hào	ハオ	hào	ハオ	N	PROPN
+les	les	les	les		PROPN
+les	レズビアン	les	レズビアン		N
+australia	オーストラリア	australia	オーストラリア	N	PROPN
+friedrich	フリードリヒ	friedrich	フリードリヒ		PROPN
+friedrich	フリードリッヒ	friedrich	フリードリッヒ		PROPN
+friedrich	フレデリック	friedrich	フレデリック		PROPN
+friedrich	フリードリヒ	friedrich	フリードリヒ		PROPN
+berlin	ベルリン	berlin	ベルリン	N	PROPN
+tokyo	東京	tokyo	東京		PROPN
+hang	洞窟	hang	洞窟		N
+hang	洞窟	hang	洞窟		N
+phỏng	面接	phỏng	面接	V	N
+phỏng	インタビュー	phỏng	インタビュー	V	N
+trúng	met	trúng	met	V	PROPN
+trúng	hit	trúng	hit	V	PROPN
+king	king	king	king		PROPN
+king	国王	king	国王		N
+king	キング	king	キング		N
+chạm	タッチ	chạm	タッチ	V	N
+chạm	touch	chạm	touch	V	PROPN
+louis	ルイス	louis	ルイス		PROPN
+louis	ルイ	louis	ルイ		PROPN
+đặng	トウ	đặng	トウ	N	PROPN
+single	シングル	single	シングル		N
+single	独身	single	独身		N
+colspan	colspan	colspan	colspan	N	PROPN
+page	ページ	page	ページ		N
+lồng	ケージ	lồng	ケージ	V	N
+war	戦争	war	戦争		N
+war	ウォーズ	war	ウォーズ		PROPN
+thả	ドロップ	thả	ドロップ	V	N
+los	los	los	los	N	PROPN
+los	アンロード	los	アンロード	N	PROPN
+ngồi	sat	ngồi	sat	V	PROPN
+ngồi	sit	ngồi	sit	V	PROPN
+giam	刑務所	giam	刑務所	V	N
+giam	監獄	giam	監獄	V	N
+chậm	スロー	chậm	スロー	ADJ	N
+maria	マリア	maria	マリア	N	PROPN
+maria	マリヤ	maria	マリヤ	N	PROPN
+quen	おなじみ	quen	おなじみ	V	CONJ
+mồi	ベイト	mồi	ベイト	N	PROPN
+richard	リチャード	richard	リチャード		PROPN
+richard	リヒャルト	richard	リヒャルト		PROPN
+hawaii	ハワイ	hawaii	ハワイ	N	PROPN
+khoáng	too	khoáng	too	N	PROPN
+quế	シナモン	quế	シナモン	N	PROPN
+thiền	瞑想	thiền	瞑想	N	
+hồn	ソウル	hồn	ソウル	N	PROPN
+hồn	霊魂	hồn	霊魂	N	
+white	白い	white	白い		ADJ
+white	ホワイト	white	ホワイト		N
+santa	サンタ	santa	サンタ		PROPN
+wisconsin	ウィスコンシン	wisconsin	ウィスコンシン	N	PROPN
+mèo	キャッツ	mèo	キャッツ	N	PROPN
+mèo	ねこ	mèo	ねこ	N	PROPN
+thang	ハシゴ	thang	ハシゴ	N	
+thang	win	thang	win	N	PROPN
+thang	勝利	thang	勝利	N	V
+thang	勝ち	thang	勝つ	N	V
+thang	勝つ	thang	勝つ	N	V
+thang	ハシゴ	thang	ハシゴ	N	
+thang	はしご	thang	はしご	N	PROPN
+thang	ウィナー	thang	ウィナー	N	PROPN
+hằng	定数	hằng	定数		N
+hằng	定数	hằng	定数		N
+tựa	肩書	tựa	肩書		N
+tựa	称号	tựa	称号		N
+tựa	タイトル	tựa	タイトル		N
+hal	hal	hal	hal		PROPN
+https	https	https	https		PROPN
+alexander	アレクサンドロス	alexander	アレクサンドロス	N	PROPN
+alexander	アレクサンダー	alexander	アレクサンダー	N	PROPN
+alexander	アレキサンダー	alexander	アレキサンダー	N	PROPN
+tuân	シュン	tuân	シュン	V	PROPN
+wales	ウェールズ	wales	ウェールズ	N	PROPN
+xích	チェイン	xích	チェイン	N	PROPN
+xích	チェイン	xích	チェイン	N	PROPN
+xích	リンク	xích	リンク	N	V
+dong	集合	dong	集合		N
+dong	セット	dong	セット		N
+jackson	ジャクソン	jackson	ジャクソン	N	PROPN
+peter	ペーター	peter	ペーター		PROPN
+peter	peter	peter	peter		PROPN
+peter	ピーター	peter	ピーター		PROPN
+dừng	ストップ	dừng	ストップ	V	N
+khang	カン	khang	カン		N
+arkansas	アーカンソー	arkansas	アーカンソー	N	PROPN
+cambridge	ケンブリッジ	cambridge	ケンブリッジ		PROPN
+bụi	ほこり	bụi	ほこる	N	V
+brazil	ブラジル	brazil	ブラジル	N	PROPN
+brazil	ブラジル	brazil	ブラジル	N	PROPN
+imagesize	imagesize	imagesize	imagesize	N	PROPN
+don	ドン	don	ドン		N
+bút	pen	bút	pen	N	PROPN
+duyệt	ブラウズ	duyệt	ブラウズ	V	PROPN
+duyệt	blah	duyệt	blah	V	PROPN
+duyệt	ブラウズ	duyệt	ブラウズ	V	PROPN
+duyệt	ブラウザー	duyệt	ブラウザー	V	N
+duyệt	ブラウザ	duyệt	ブラウザ	V	N
+men	集める	men	集める	N	V
+men	グレーズ	men	グレーズ	N	PROPN
+xấu	みにくい	xấu	みにくい	ADJ	PROPN
+xấu	バッド	xấu	バッド	ADJ	PROPN
+iran	イラン	iran	イラン	N	PROPN
+peru	ペルー	peru	ペルー	N	PROPN
+benth	benth	benth	benth	N	PROPN
+bọc	折り返し	bọc	折り返し	N	ADV
+bọc	包む	bọc	包む	N	V
+huyết	ブラッド	huyết	ブラッド	N	PROPN
+chăn	じゅう	chăn	じゅう	N	V
+guinea	ギニア	guinea	ギニア	N	PROPN
+baker	ベーカー	baker	ベーカー		PROPN
+che	cover	che	cover	N	PROPN
+che	チェ	che	チェ	N	PROPN
+cuba	キューバ	cuba	キューバ	N	PROPN
+cuba	キューバ	cuba	キューバ	N	PROPN
+rồng	ドラゴンズ	rồng	ドラゴンズ	N	PROPN
+rồng	ドラゴン	rồng	ドラゴン	N	PROPN
+rồng	ドラゴン	rồng	ドラゴン	N	PROPN
+timeaxis	timeaxis	timeaxis	timeaxis		PROPN
+pakistan	パキスタン	pakistan	パキスタン	N	PROPN
+pakistan	パキスタン	pakistan	パキスタン	N	PROPN
+pyrénées	ピレネー	pyrénées	ピレネー	N	PROPN
+plotarea	plotarea	plotarea	plotarea		PROPN
+seoul	ソウル	seoul	ソウル		PROPN
+nuts	ナッツ	nuts	ナッツ		N
+sạch	ピュア	sạch	ピュア	V	N
+sạch	純粋	sạch	純粋	V	ADJ
+sạch	クリーン	sạch	クリーン	V	N
+sạch	きれい	sạch	きれい	V	ADJ
+scalemajor	scalemajor	scalemajor	scalemajor		PROPN
+manchester	マンチェスター	manchester	マンチェスター	N	PROPN
+dateformat	dateformat	dateformat	dateformat	N	PROPN
+alignbars	alignbars	alignbars	alignbars		PROPN
+miệng	waw	miệng	waw	N	PROPN
+cổng	ゲイツ	cổng	ゲイツ	N	PROPN
+entertainment	娯楽	entertainment	娯楽	N	
+gấp	折り	gấp	折り	V	N
+gấp	ブレット	gấp	ブレット	V	PROPN
+kiệt	慈恵	kiệt	慈恵	V	N
+nét	ランダム	nét	ランダム	N	ADJ
+hứa	promise	hứa	promise	V	PROPN
+tags	タグ	tags	タグ	CONJ	N
+hassan	ハサン	hassan	ハサン	N	PROPN
+hassan	ハッサン	hassan	ハッサン	N	PROPN
+scotland	スコットランド	scotland	スコットランド		PROPN
+đập	ダム	đập	ダム	V	N
+uss	uss	uss	uss	N	PROPN
+nấm	き	nấm	来る	N	V
+nấm	マッシュルーム	nấm	マッシュルーム	N	PROPN
+nấm	マッシュルーム	nấm	マッシュルーム	N	PROPN
+màng	流れ	màng	流れる	N	V
+scaleminor	scaleminor	scaleminor	scaleminor	V	PROPN
+rio	リオ	rio	リオ	N	PROPN
+quỳ	クイ	quỳ	クイ	V	PROPN
+quỳ	ひざまずく	quỳ	ひざまずい	V	PROPN
+chuỗi	厳重	chuỗi	厳重	N	ADJ
+thuê	レンタル	thuê	レンタル	V	N
+thuê	家賃	thuê	家賃	V	N
+thuê	レント	thuê	レント	V	PROPN
+thuê	レンタル	thuê	レンタル	V	N
+thuê	賃貸	thuê	賃貸	V	N
+thuê	賃貸借	thuê	賃貸借	V	N
+backgroundcolors	backgroundcolors	backgroundcolors	backgroundcolors		PROPN
+ngã	落ちる	ngã	落ちる	N	V
+ngã	落下	ngã	落下	N	V
+nai	ムース	nai	ムース	NUM	PROPN
+cưới	ウェディング	cưới	ウェディング	V	N
+cưới	結婚式	cưới	結婚式	V	N
+tảng	デバッガ	tảng	デバッガ		PROPN
+org	org	org	org		PROPN
+mây	トウ	mây	トウ	N	PROPN
+mark	マーク	mark	マーク		N
+mark	マルク	mark	マルク		PROPN
+lúa	とうもろこし	lúa	とうもろこし	N	ADV
+hiền	フレンド	hiền	フレンド	N	PROPN
+bayern	バイエルン	bayern	バイエルン	N	PROPN
+ngại	人見	ngại	人見	V	N
+ngại	シャイ	ngại	シャイ	V	ADJ
+ngại	アウトドア	ngại	アウトドア	V	N
+ngại	屋外	ngại	屋外	V	N
+var	var	var	var	N	PROPN
+michigan	ミシガン	michigan	ミシガン	N	PROPN
+fifa	fifa	fifa	fifa	N	PROPN
+day	day	day	day		PROPN
+day	一日	day	一日		N
+edward	エドワード	edward	エドワード		PROPN
+joseph	ヨセフ	joseph	ヨセフ	N	PROPN
+tia	ティア	tia	ティア	N	PROPN
+gai	成長	gai	成長	N	V
+gai	発育	gai	発育	N	V
+xám	グレイ	xám	グレイ	N	PROPN
+xám	グレイ	xám	グレイ	N	PROPN
+bàng	ワシ	bàng	ワシ	N	PROPN
+bàng	イーグル	bàng	イーグル	N	PROPN
+nạp	ロード	nạp	ロード	V	N
+nạp	ローディング	nạp	ローディング	V	N
+nạp	充電	nạp	充電	V	N
+venezuela	ベネズエラ	venezuela	ベネズエラ		PROPN
+venezuela	ベネズエラ	venezuela	ベネズエラ		PROPN
+leo	レオ	leo	レオ	V	PROPN
+leo	leo	leo	leo	V	PROPN
+thận	腎臓	thận	腎臓	V	N
+moskva	モスクワ	moskva	モスクワ	N	PROPN
+tang	葬式	tang	葬式		N
+tang	葬儀	tang	葬儀		N
+giận	マッド	giận	マッド	V	PROPN
+giận	mad	giận	mad	V	PROPN
+treo	ハング	treo	ハング	V	N
+treo	絞首刑	treo	絞首刑	V	N
+hứng	ムラムラ	hứng	ムラムラ	V	PROPN
+hứng	角質	hứng	角質	V	N
+tre	トレ	tre	トレ	N	PROPN
+tre	three	tre	three	N	PROPN
+tre	スリー	tre	スリー	N	PROPN
+diệp	イップ	diệp	イップ	N	PROPN
+google	google	google	google	N	PROPN
+schltr	schltr	schltr	schltr	N	PROPN
+ngập	権限	ngập	権限	V	N
+hot	熱い	hot	熱い		ADJ
+hot	ホット	hot	ホット		N
+hot	暑い	hot	暑い		ADJ
+gián	ゴキブリ	gián	ゴキブリ	V	PROPN
+gián	ゴキブリ	gián	ゴキブリ	V	PROPN
+león	レオン	león	レオン	NUM	PROPN
+oscar	オスカー	oscar	オスカー	N	PROPN
+oscar	オスカル	oscar	オスカル	N	PROPN
+chile	チリ	chile	チリ	N	PROPN
+chile	チリ	chile	チリ	N	PROPN
+madrid	マドリッド	madrid	マドリッド	N	PROPN
+madrid	マドリード	madrid	マドリード	N	PROPN
+viêm	アキュート	viêm	アキュート	N	PROPN
+young	若い	young	若い		ADJ
+young	ヤング	young	ヤング		N
+vịt	アヒル	vịt	アヒル	N	PROPN
+bông	木綿	bông	木綿	N	PROPN
+khuyên	ピアス	khuyên	ピアス	V	N
+dơi	bat	dơi	bat	N	PROPN
+max	マックス	max	マックス		PROPN
+max	max	max	max		PROPN
+ong	ハチ	ong	ハチ	N	PROPN
+ong	ong	ong	ong	N	PROPN
+kín	クローズ	kín	クローズ	V	N
+oxford	オックス	oxford	オックス	N	PROPN
+grand	グランド	grand	グランド	N	PROPN
+chuông	通知	chuông	通知	N	V
+chuông	告知	chuông	告知	N	V
+nhấn	プレス	nhấn	プレス	V	N
+nhấn	tap	nhấn	tap	V	PROPN
+nhấn	蛇口	nhấn	蛇口	V	N
+nhấn	クリック	nhấn	クリック	V	N
+rowspan	rowspan	rowspan	rowspan		PROPN
+radio	ラジオ	radio	ラジオ		N
+lỏng	フローティング	lỏng	フローティング	V	N
+lỏng	浮動	lỏng	浮動	V	N
+lỏng	液体	lỏng	液体	V	N
+auto	オート	auto	オート	N	PROPN
+show	ショー	show	ショー		N
+lắp	マウント	lắp	マウント	V	N
+lật	フリップ	lật	フリップ	V	N
+brt	brt	brt	brt	N	PROPN
+note	メモ	note	メモ		N
+note	ノート	note	ノート		N
+mát	損失	mát	損失	ADJ	N
+mát	喪失	mát	喪失	ADJ	V
+mát	壁紙	mát	壁紙	ADJ	N
+mát	クール	mát	クール	ADJ	N
+taylor	テイラー	taylor	テイラー		PROPN
+xoay	ローテーション	xoay	ローテーション	V	
+columbia	コロンビア	columbia	コロンビア	N	PROPN
+đèn	軽い	đèn	軽い	N	ADJ
+đèn	明るい	đèn	明るい	N	ADJ
+thỏ	バニー	thỏ	バニー	N	PROPN
+iraq	イラク	iraq	イラク	N	PROPN
+iraq	イラク	iraq	イラク	N	PROPN
+live	ライブ	live	ライブ		N
+live	生きる	live	生きる		V
+live	アライブ	live	アライブ		N
+trộn	マージ	trộn	マージ	V	N
+trộn	mix	trộn	mix	V	PROPN
+trộn	ミックス	trộn	ミックス	V	N
+ngợi	債権	ngợi	債権	V	N
+ngợi	ローズ	ngợi	ローズ	V	N
+ngợi	ロゼ	ngợi	ロゼ	V	N
+ngợi	バラ	ngợi	バラ	V	N
+ngợi	rose	ngợi	rose	V	PROPN
+ngợi	薔薇	ngợi	薔薇	V	N
+indiana	インディアナ	indiana	インディアナ	N	PROPN
+roma	ロマ	roma	ロマ	N	PROPN
+harry	ハリー	harry	ハリー		PROPN
+pic	pic	pic	pic		PROPN
+cốc	cup	cốc	cup	N	PROPN
+online	オンライン	online	オンライン		N
+thuỷ	ウィッチ	thuỷ	ウィッチ	N	PROPN
+thiệp	上級	thiệp	上級	V	N
+vol	vol	vol	vol		PROPN
+hitler	ヒトラー	hitler	ヒトラー		PROPN
+hitler	ヒットラー	hitler	ヒットラー		PROPN
+quát	叫び	quát	叫ぶ	N	V
+quát	叫び	quát	叫ぶ	N	V
+houten	ハウテン	houten	ハウテン	N	PROPN
+virginia	バージニア	virginia	バージニア		PROPN
+virginia	ヴァージニア	virginia	ヴァージニア		PROPN
+florida	フロリダ	florida	フロリダ	N	PROPN
+brown	褐色	brown	褐色		N
+brown	茶色	brown	茶色		N
+brown	ブラウン	brown	ブラウン		N
+mig	mig	mig	mig	N	PROPN
+mùi	姉川	mùi	姉川	N	PROPN
+mùi	におい	mùi	におい	N	CONJ
+angeles	angeles	angeles	angeles	N	PROPN
+tốn	費用	tốn	費用	ADJ	N
+tốn	原価	tốn	原価	ADJ	N
+tốn	コスト	tốn	コスト	ADJ	N
+dời	ムーブ	dời	ムーブ	V	N
+canton	広東	canton	広東	N	PROPN
+canton	カントン	canton	カントン	N	PROPN
+dâm	明示	dâm	明示	N	V
+costa	コスタ	costa	コスタ	N	PROPN
+pierre	ピエール	pierre	ピエール		PROPN
+disney	ディズニー	disney	ディズニー		PROPN
+real	real	real	real	N	PROPN
+real	リアル	real	リアル	N	ADJ
+românia	ルーマニア	românia	ルーマニア	NUM	PROPN
+buồn	悲しい	buồn	悲しい	V	ADJ
+buồn	sad	buồn	sad	V	PROPN
+bồi	ウェイター	bồi	ウェイター	V	N
+bồi	ジャック	bồi	ジャック	V	N
+bồi	ジャッキ	bồi	ジャッキ	V	N
+bồi	ボイ	bồi	ボイ	V	PROPN
+valign	valign	valign	valign		PROPN
+hưu	退職	hưu	退職	N	V
+hưu	引退	hưu	引退	N	V
+ngủ	睡眠	ngủ	睡眠	V	N
+ngủ	スリープ	ngủ	スリープ	V	N
+bulgaria	ブルガリア	bulgaria	ブルガリア	N	PROPN
+division	ディビジョン	division	ディビジョン	N	PROPN
+lạt	lat	lạt	lat	N	PROPN
+wilhelm	ヴィルヘルム	wilhelm	ヴィルヘルム	N	PROPN
+phượng	フェニックス	phượng	フェニックス	N	PROPN
+hảo	完璧	hảo	完璧	N	ADJ
+hảo	ハオ	hảo	ハオ	N	PROPN
+star	スター	star	スター		N
+star	恒星	star	恒星		N
+star	star	star	star		PROPN
+algérie	アルジェリア	algérie	アルジェリア	N	PROPN
+algérie	アルジェリア	algérie	アルジェリア	N	PROPN
+tha	恩寵	tha	恩寵	V	N
+tha	グレース	tha	グレース	V	PROPN
+tha	グレイス	tha	グレイス	V	PROPN
+hms	オシ	hms	オシ	N	PROPN
+nấu	コック	nấu	コック	V	N
+nấu	クック	nấu	クック	V	PROPN
+lincoln	リンカーン	lincoln	リンカーン	N	PROPN
+virus	バイラル	virus	バイラル		N
+virus	ウィルス	virus	ウィルス		N
+virus	ウイルス	virus	ウイルス		N
+virus	ウィルス	virus	ウィルス		N
+virus	ウイルス	virus	ウイルス		N
+virus	antivirus	virus	antivirus		PROPN
+mảng	配列	mảng	配列		N
+mảng	アレイ	mảng	アレイ		N
+frank	フランク	frank	フランク		PROPN
+liễu	言及	liễu	言及	N	V
+đậm	太字	đậm	太字	ADJ	N
+đậm	ボールド	đậm	ボールド	ADJ	PROPN
+nord	ノール	nord	ノール	N	PROPN
+căng	ストレッチ	căng	ストレッチ	V	N
+đúc	大きな	đúc	大きな	V	ADJ
+đúc	大きい	đúc	大きい	V	ADJ
+đúc	ビッグ	đúc	ビッグ	V	N
+đúc	鍛造	đúc	鍛造	V	N
+volume	音量	volume	音量		N
+volume	ボリューム	volume	ボリューム		N
+volume	体積	volume	体積		N
+afghanistan	アフガニスタン	afghanistan	アフガニスタン		PROPN
+japan	日本	japan	日本	N	PROPN
+gạch	煉瓦	gạch	煉瓦	N	
+gạch	煉瓦	gạch	煉瓦	N	
+điêu	破壊	điêu	破壊	N	V
+radar	レーダー	radar	レーダー	V	N
+say	いっぱい	say	いっぱい	V	N
+say	フル	say	フル	V	N
+say	酔っぱらい	say	酔っぱらい	V	N
+vietnam	ベトナム	vietnam	ベトナム	N	PROPN
+bùng	アウトブレイク	bùng	アウトブレイク	V	PROPN
+sừng	ホルン	sừng	ホルン	N	PROPN
+syria	シリア	syria	シリア	N	PROPN
+syria	シリア	syria	シリア	N	PROPN
+madagascar	マダガスカル	madagascar	マダガスカル	N	PROPN
+mary	メアリ	mary	メアリ		PROPN
+mary	メアリー	mary	メアリー		PROPN
+walter	ヴァルター	walter	ヴァルター	N	PROPN
+walter	ウォルター	walter	ウォルター	N	PROPN
+wilson	ウィルソン	wilson	ウィルソン	N	PROPN
+nationalteam	nationalteam	nationalteam	nationalteam	N	PROPN
+ghép	ペア	ghép	ペア	V	N
+mươi	fifty	mươi	fifty	NUM	PROPN
+xiêm	シャム	xiêm	シャム	N	PROPN
+mau	クイック	mau	クイック	ADJ	N
+java	java	java	java	N	PROPN
+sri	sri	sri	sri	N	PROPN
+hối	賄賂	hối	賄賂		N
+hối	贈収	hối	贈収		N
+hối	賄賂	hối	賄賂		N
+will	ウィル	will	ウィル		PROPN
+will	遺言	will	遺言		N
+bơi	水泳	bơi	水泳	V	N
+bơi	スイミング	bơi	スイミング	V	N
+bơi	競泳	bơi	競泳	V	N
+bơi	水泳	bơi	水泳	V	N
+lệch	偏差	lệch	偏差	ADJ	N
+tảo	藻類	tảo	藻類	V	N
+táng	埋葬	táng	埋葬	N	V
+ray	レイ	ray	レイ		N
+giây	番目	giây	番目		N
+giây	セカンド	giây	セカンド		N
+giây	sec	giây	sec		PROPN
+şanlıurfa	シャンルウルファ	şanlıurfa	シャンルウルファ	N	PROPN
+linecolor	linecolor	linecolor	linecolor	N	PROPN
+cong	カーブ	cong	カーブ		N
+cong	曲線	cong	曲線		N
+cong	曲率	cong	曲率		N
+serbia	セルビア	serbia	セルビア	N	PROPN
+serbia	セルビア	serbia	セルビア	N	PROPN
+sam	サム	sam	サム		PROPN
+sivas	スィヴァス	sivas	スィヴァス	NUM	PROPN
+nhựa	合成樹	nhựa	合成樹	N	PROPN
+china	中国	china	中国	N	PROPN
+cậy	いす	cậy	いす		N
+cậy	チェア	cậy	チェア		N
+cậy	椅子	cậy	椅子		N
+walker	ウォーカー	walker	ウォーカー	N	PROPN
+williams	ウィリアムズ	williams	ウィリアムズ		PROPN
+milan	ミラノ	milan	ミラノ	N	PROPN
+hãm	男性	hãm	男性	V	N
+hãm	メン	hãm	メン	V	N
+carolina	カロライナ	carolina	カロライナ	N	PROPN
+moore	ムーア	moore	ムーア	N	PROPN
+nhịp	パルス	nhịp	パルス	V	N
+nhịp	脈	nhịp	脈	V	N
+chục	tens	chục	tens	NUM	PROPN
+chục	ダース	chục	ダース	NUM	PROPN
+victoria	ビクトリア	victoria	ビクトリア	N	PROPN
+victoria	ヴィクトリア	victoria	ヴィクトリア	N	PROPN
+mộng	ナイトメア	mộng	ナイトメア	N	PROPN
+cạn	浅い	cạn	浅い	V	ADJ
+cạn	浅瀬	cạn	浅瀬	V	N
+cạn	シンク	cạn	シンク	V	N
+val	val	val	val		PROPN
+val	ヴァル	val	ヴァル		PROPN
+mạo	放火	mạo	放火	N	V
+diệu	ミラクル	diệu	ミラクル	ADJ	PROPN
+diệu	奇跡	diệu	奇跡	ADJ	N
+jones	ジョーンズ	jones	ジョーンズ	N	PROPN
+tràn	拡散	tràn	拡散	V	N
+tràn	スプレッド	tràn	スプレッド	V	N
+bích	保存	bích	保存	N	V
+bích	スペード	bích	スペード	N	PROPN
+bích	スペード	bích	スペード	N	PROPN
+quỷ	トロール	quỷ	トロール	N	PROPN
+congo	コンゴ	congo	コンゴ	N	PROPN
+dvd	dvd	dvd	dvd	V	N
+dvd	dvd	dvd	dvd	V	N
+armenia	アルメニア	armenia	アルメニア	N	PROPN
+armenia	アルメニア	armenia	アルメニア	N	PROPN
+pas	pas	pas	pas		PROPN
+newton	ニュートン	newton	ニュートン		PROPN
+tràng	say	tràng	say	N	PROPN
+tràng	セイ	tràng	セイ	N	PROPN
+đói	空腹	đói	空腹	V	N
+đói	空腹	đói	空腹	V	N
+microsoft	microsoft	microsoft	microsoft	N	PROPN
+panama	パナマ	panama	パナマ	N	PROPN
+panama	パナマ	panama	パナマ	N	PROPN
+oregon	オレゴン	oregon	オレゴン	N	PROPN
+apple	リンゴ	apple	リンゴ		N
+apple	りんご	apple	りんご		PROPN
+apple	アップル	apple	アップル		PROPN
+apple	林	apple	林		N
+times	タイムズ	times	タイムズ		PROPN
+media	メディア	media	メディア		N
+eds	eds	eds	eds	N	PROPN
+anderson	アンダーソン	anderson	アンダーソン	N	PROPN
+nhạt	ライト	nhạt	ライト	ADJ	N
+chua	put	chua	put	N	PROPN
+chua	すっぱい	chua	すっぱい	N	PROPN
+chua	ash	chua	ash	N	PROPN
+chua	chua	chua	chua	N	PROPN
+nhai	チューインガム	nhai	チューインガム	V	N
+mỏng	スキニー	mỏng	スキニー	ADJ	N
+táo	リンゴ	táo	リンゴ	ADJ	N
+táo	りんご	táo	りんご	ADJ	PROPN
+táo	アップル	táo	アップル	ADJ	PROPN
+táo	林	táo	林	ADJ	N
+táo	リンゴ	táo	リンゴ	ADJ	N
+táo	りんご	táo	りんご	ADJ	PROPN
+albert	アルベルト	albert	アルベルト		PROPN
+albert	アルバート	albert	アルバート		PROPN
+elizabeth	エリザベス	elizabeth	エリザベス		PROPN
+diego	ディエゴ	diego	ディエゴ		PROPN
+lặp	ループ	lặp	ループ	V	N
+liverpool	リヴァプール	liverpool	リヴァプール	N	PROPN
+liverpool	リバプール	liverpool	リバプール	N	PROPN
+edition	edition	edition	edition		PROPN
+edition	エディション	edition	エディション		N
+quên	forget	quên	forget	V	PROPN
+tịnh	プー	tịnh	プー	N	PROPN
+johnson	ジョンソン	johnson	ジョンソン	N	PROPN
+euro	ユーロ	euro	ユーロ		N
+latin	家庭	latin	家庭		N
+latin	チューター	latin	チューター		N
+latin	ラテン語	latin	ラテン語		N
+latin	ラテン	latin	ラテン		PROPN
+tôm	シュリンプ	tôm	シュリンプ	N	PROPN
+rob	ロブ	rob	ロブ		PROPN
+julius	ジュリアス	julius	ジュリアス	N	PROPN
+julius	ユリウス	julius	ユリウス	N	PROPN
+vải	ドラッグ	vải	ドラッグ	N	V
+opera	opera	opera	opera		PROPN
+opera	オペラ	opera	オペラ		PROPN
+html	html	html	html	N	PROPN
+big	大きな	big	大きな		ADJ
+big	大きい	big	大きい		ADJ
+big	ビッグ	big	ビッグ		N
+khuyết	フォールト	khuyết	フォールト	N	PROPN
+chelsea	チェルシー	chelsea	チェルシー	N	PROPN
+sâm	new	sâm	new	N	PROPN
+sâm	新しい	sâm	新しい	N	ADJ
+sâm	新規	sâm	新規	N	ADJ
+bolivia	ボリビア	bolivia	ボリビア	N	PROPN
+chicago	シカゴ	chicago	シカゴ		PROPN
+tanzania	タンザニア	tanzania	タンザニア	N	PROPN
+cóc	キノピオ	cóc	キノピオ	V	PROPN
+cóc	ヒキガエル	cóc	ヒキガエル	V	N
+cóc	カエル	cóc	カエル	V	N
+khỉ	サル	khỉ	サル	N	PROPN
+khỉ	サル	khỉ	サル	N	PROPN
+lừa	ロバ	lừa	ロバ	V	N
+lừa	愚か	lừa	愚か	V	ADJ
+lừa	フール	lừa	フール	V	PROPN
+lừa	ロバ	lừa	ロバ	V	N
+lừa	ふた	lừa	ふうだ	V	
+lừa	トリック	lừa	トリック	V	N
+normandie	ノルマンディー	normandie	ノルマンディー	NUM	PROPN
+mitt	ミット	mitt	ミット	N	PROPN
+nhắm	aim	nhắm	aim	V	PROPN
+vượng	繁栄	vượng	繁栄	N	V
+part	パート	part	パート		N
+part	部分	part	部分		N
+ine	イネ	ine	イネ		N
+ine	伊根	ine	伊根		PROPN
+bbc	bbc	bbc	bbc	N	PROPN
+bớt	少ない	bớt	少ない	V	ADJ
+nepal	ネパール	nepal	ネパール	V	PROPN
+dốc	傾き	dốc	傾く	N	V
+dốc	傾き	dốc	傾く	N	V
+dốc	転移	dốc	転移	N	V
+christian	クリスチャン	christian	クリスチャン		PROPN
+christian	キリスト	christian	キリスト		N
+christian	キリスト教徒	christian	キリスト教徒		N
+barcelona	バルセロナ	barcelona	バルセロナ	N	PROPN
+photo	フォト	photo	フォト		N
+photo	写真	photo	写真		N
+line	直線	line	直線		N
+line	ライン	line	ライン		N
+khe	slot	khe	slot	N	PROPN
+gen	ジーン	gen	ジーン	N	PROPN
+cua	カニ	cua	カニ		N
+cua	ターン	cua	ターン		N
+cua	曲	cua	曲		N
+cua	cua	cua	cua		PROPN
+cua	カニ	cua	カニ		N
+bìa	段	bìa	段		N
+bìa	ダンボール	bìa	ダンボール		N
+bìa	表紙	bìa	表紙		N
+bìa	被覆	bìa	被覆		N
+bìa	カバー	bìa	カバー		N
+bìa	cover	bìa	cover		PROPN
+hill	ヒル	hill	ヒル		N
+thô	raw	thô	raw	ADJ	PROPN
+chém	cut	chém	cut	V	PROPN
+chém	カット	chém	カット	V	N
+chém	スラッシュ	chém	スラッシュ	V	N
+doãn	ユン	doãn	ユン	N	PROPN
+khoan	ドリル	khoan	ドリル	V	N
+jack	ジャック	jack	ジャック		N
+jack	ジャッキ	jack	ジャッキ		N
+hoành	横隔膜	hoành	横隔膜	N	PROPN
+hoành	ダイアフラム	hoành	ダイアフラム	N	PROPN
+ngon	グッド	ngon	グッド	ADJ	N
+ngon	美味	ngon	美味	ADJ	V
+đứt	スナップ	đứt	スナップ	V	N
+levi	レビ	levi	レビ		N
+móc	スリ	móc	スリ	N	PROPN
+móc	アッパー	móc	アッパー	N	PROPN
+hẹn	任用	hẹn	任用	V	N
+sói	ソイ	sói	ソイ	N	PROPN
+sói	ウルフ	sói	ウルフ	N	PROPN
+sói	オオカミ	sói	オオカミ	N	PROPN
+bốc	ボックス	bốc	ボックス	V	N
+bốc	ボクシング	bốc	ボクシング	V	N
+yến	スイフト	yến	スイフト	N	PROPN
+yến	スウィフト	yến	スウィフト	N	PROPN
+stalin	スターリン	stalin	スターリン		PROPN
+gan	レバー	gan	レバー		N
+gan	肝臓	gan	肝臓		N
+phun	スプレー	phun	スプレー	V	N
+nationalyears	nationalyears	nationalyears	nationalyears	N	PROPN
+die	die	die	die		PROPN
+die	死ぬ	die	死ぬ		V
+marie	マリー	marie	マリー		PROPN
+sul	スル	sul	スル	N	PROPN
+trượt	滑り台	trượt	滑り台	V	N
+trượt	スライド	trượt	スライド	V	N
+cười	笑顔	cười	笑顔	V	N
+cười	笑顔	cười	笑顔	V	N
+cười	スマイル	cười	スマイル	V	N
+cười	笑顔	cười	笑顔	V	N
+mặn	塩	mặn	塩	V	N
+acacia	アカシア	acacia	アカシア	N	PROPN
+net	net	net	net	N	PROPN
+daniel	ダニエル	daniel	ダニエル		PROPN
+romania	ルーマニア	romania	ルーマニア	N	PROPN
+đâm	ストライキ	đâm	ストライキ	V	N
+đâm	ストライク	đâm	ストライク	V	N
+dso	dso	dso	dso		PROPN
+hong	ホン	hong	ホン	N	PROPN
+phiêu	while	phiêu	while	V	PROPN
+midi	midi	midi	midi	N	PROPN
+lầy	ボグ	lầy	ボグ	N	
+koch	コッホ	koch	コッホ	N	PROPN
+alabama	アラバマ	alabama	アラバマ	N	PROPN
+nghiêng	ティルト	nghiêng	ティルト	ADJ	N
+nghiêng	傾き	nghiêng	傾く	ADJ	V
+nghiêng	イタリック	nghiêng	イタリック	ADJ	PROPN
+mẫn	タフ	mẫn	タフ		ADJ
+mẫn	厳しい	mẫn	厳しい		ADJ
+arthur	アーサー	arthur	アーサー		PROPN
+scott	スコット	scott	スコット		PROPN
+art	art	art	art		PROPN
+art	アート	art	アート		N
+art	芸術	art	芸術		N
+art	美術	art	美術		N
+tiễn	ロケット	tiễn	ロケット	V	N
+vay	ローン	vay	ローン	V	N
+vay	ローン	vay	ローン	V	N
+who	who	who	who	NUM	PROPN
+kenya	ケニア	kenya	ケニア	N	PROPN
+mini	ミニ	mini	ミニ		N
+rose	ローズ	rose	ローズ		N
+rose	ロゼ	rose	ロゼ		N
+rose	バラ	rose	バラ		N
+rose	rose	rose	rose		PROPN
+rose	薔薇	rose	薔薇		N
+napoléon	ナポレオン	napoléon	ナポレオン		PROPN
+args	args	args	args		PROPN
+juan	フアン	juan	フアン	N	PROPN
+champions	チャンピオンズ	champions	チャンピオンズ	N	PROPN
+schmidt	シュミット	schmidt	シュミット	N	PROPN
+sen	遅い	sen	遅い	N	ADJ
+jordan	ヨルダン	jordan	ヨルダン	N	PROPN
+jordan	ジョーダン	jordan	ジョーダン	N	PROPN
+châm	軽い	châm	軽い	N	ADJ
+châm	明るい	châm	明るい	N	ADJ
+giấu	ヒデ	giấu	ヒデ	V	PROPN
+xoá	消去	xoá	消去		V
+xoá	削除	xoá	削除		V
+douglas	ダグラス	douglas	ダグラス		PROPN
+field	フィールド	field	フィールド		N
+ngc	ngc	ngc	ngc	N	PROPN
+sốt	発熱	sốt	発熱		V
+sốt	ソース	sốt	ソース		N
+end	終了	end	終了		V
+end	エンド	end	エンド		N
+đính	引き分け	đính	引き分け		V
+đính	ネクタイ	đính	ネクタイ		N
+đính	bind	đính	bind		PROPN
+đính	製本	đính	製本		V
+marshall	マーシャル	marshall	マーシャル		PROPN
+hall	ホール	hall	ホール		N
+youtube	youtube	youtube	youtube	N	PROPN
+bretagne	ブルターニュ	bretagne	ブルターニュ	NUM	PROPN
+free	フリー	free	フリー		PROPN
+free	無料	free	無料		N
+free	自由	free	自由		ADJ
+mix	mix	mix	mix		PROPN
+mix	ミックス	mix	ミックス		N
+mix	混ぜる	mix	混ぜる		V
+josé	ホセ	josé	ホセ	N	PROPN
+rửa	ウォッシュ	rửa	ウォッシュ	V	N
+rửa	洗浄	rửa	洗浄	V	N
+feet	フィート	feet	フィート		N
+feet	両足	feet	両足		N
+doraemon	ドラえ	doraemon	ドラえ	N	PROPN
+ngưng	サスペンド	ngưng	サスペンド	V	N
+dendrobium	デンドロビウム	dendrobium	デンドロビウム	N	PROPN
+cst	cst	cst	cst		PROPN
+chèo	パドル	chèo	パドル	V	N
+chèo	年数	chèo	年数	V	N
+croatia	クロアチア	croatia	クロアチア	N	PROPN
+bot	ボット	bot	ボット	N	PROPN
+bot	bot	bot	bot	N	PROPN
+bot	ボット	bot	ボット	N	PROPN
+boston	ボストン	boston	ボストン	N	PROPN
+mysore	マイソール	mysore	マイソール	NUM	PROPN
+georgia	グルジア	georgia	グルジア		PROPN
+georgia	ジョージア	georgia	ジョージア		PROPN
+khoang	カプセル	khoang	カプセル	V	N
+jura	ジュラ	jura	ジュラ	NUM	PROPN
+jura	由良	jura	由良	NUM	PROPN
+vii	vii	vii	vii		PROPN
+lorraine	ロレーヌ	lorraine	ロレーヌ	NUM	PROPN
+min	ミン	min	ミン	N	PROPN
+min	min	min	min	N	PROPN
+lõi	core	lõi	core	N	PROPN
+lawrence	ローレンス	lawrence	ローレンス		PROPN
+dại	狂犬	dại	狂犬	V	N
+arsenal	アーセナル	arsenal	アーセナル	N	PROPN
+jung	ユング	jung	ユング	N	PROPN
+macedonia	マケドニア	macedonia	マケドニア	N	PROPN
+cdt	cdt	cdt	cdt		PROPN
+münchen	ミュンヘン	münchen	ミュンヘン	N	PROPN
+img	img	img	img	N	PROPN
+đãi	トリート	đãi	トリート		PROPN
+spring	スプリング	spring	スプリング		N
+perry	ペリー	perry	ペリー		PROPN
+cameroon	カメルーン	cameroon	カメルーン	N	PROPN
+bit	噛む	bit	噛む	N	V
+dâu	ベリー	dâu	ベリー	N	PROPN
+nén	コンパクト	nén	コンパクト		ADJ
+nén	圧縮	nén	圧縮		V
+allen	アレン	allen	アレン		PROPN
+nhiễu	ノイズ	nhiễu	ノイズ	V	N
+nhiễu	騒音	nhiễu	騒音	V	N
+nhạy	感度	nhạy	感度	ADJ	N
+nhạy	感受	nhạy	感受	ADJ	N
+hoãn	ディレイ	hoãn	ディレイ	V	N
+turner	ターナー	turner	ターナー		PROPN
+manisa	マニサ	manisa	マニサ	N	PROPN
+massachusetts	マサチューセッツ	massachusetts	マサチューセッツ	N	PROPN
+tấu	カルテット	tấu	カルテット	V	PROPN
+đống	パイル	đống	パイル		N
+đống	ヒープ	đống	ヒープ		N
+chase	チェイス	chase	チェイス		PROPN
+nảy	バウンス	nảy	バウンス	PROPN	N
+ludwig	ルートヴィヒ	ludwig	ルートヴィヒ	N	PROPN
+nhược	弱い	nhược	弱い	N	ADJ
+ltd	ltd	ltd	ltd	N	PROPN
+champion	チャンピオン	champion	チャンピオン	V	N
+mtv	mtv	mtv	mtv		PROPN
+theridion	theridion	theridion	theridion	N	PROPN
+roi	roi	roi	roi		PROPN
+roi	まつげ	roi	まつげ		N
+thorell	thorell	thorell	thorell	N	PROPN
+rchb	rchb	rchb	rchb		PROPN
+yemen	イエメン	yemen	イエメン	N	PROPN
+ham	ハム	ham	ハム	N	PROPN
+vẹn	チェンバーズ	vẹn	チェンバーズ	ADJ	PROPN
+vẹn	チェンバース	vẹn	チェンバース	ADJ	PROPN
+party	パーティ	party	パーティ		N
+party	パーティー	party	パーティー		N
+stone	ストーン	stone	ストーン		N
+nhọn	シャープ	nhọn	シャープ	V	N
+nhọn	鋭い	nhọn	鋭い	V	ADJ
+bus	バス	bus	バス	N	PROPN
+street	ストリート	street	ストリート		N
+street	通り	street	通り		N
+ngai	相続	ngai	相続	N	V
+bad	バッド	bad	バッド		PROPN
+bad	悪い	bad	悪い		ADJ
+bad	風呂	bad	風呂		N
+bad	入浴	bad	入浴		V
+central	中央	central	中央		N
+central	セントラル	central	セントラル		PROPN
+ghét	嫌い	ghét	嫌い	V	
+mississippi	ミシシッピ	mississippi	ミシシッピ	N	PROPN
+jan	ヤン	jan	ヤン		PROPN
+rider	ライダー	rider	ライダー		PROPN
+rider	ライダー	rider	ライダー		PROPN
+lụt	洪水	lụt	洪水	V	N
+lụt	洪水	lụt	洪水	V	N
+lụt	鈍い	lụt	鈍く	V	ADJ
+logo	ロゴス	logo	ロゴス	N	PROPN
+usa	米国	usa	米国		PROPN
+lewis	ルイス	lewis	ルイス		PROPN
+davis	デービス	davis	デービス	N	PROPN
+davis	デイヴィス	davis	デイヴィス	N	PROPN
+wild	ワイルド	wild	ワイルド		PROPN
+wild	野生	wild	野生		N
+sôi	せつ	sôi	せつ	V	
+sôi	せつ	sôi	せつ	V	
+lùn	ドワーフ	lùn	ドワーフ	ADJ	PROPN
+lùn	小人	lùn	小人	ADJ	N
+kong	コング	kong	コング	N	PROPN
+antonio	アントニオ	antonio	アントニオ		PROPN
+miến	ビルマ	miến	ビルマ	N	PROPN
+khâu	縫う	khâu	縫う	N	V
+khâu	スティッチ	khâu	スティッチ	N	PROPN
+tắm	シャワー	tắm	シャワー	V	PROPN
+tắm	風呂	tắm	風呂	V	N
+tắm	浴室	tắm	浴室	V	N
+tắm	トイレ	tắm	トイレ	V	N
+tắm	風呂	tắm	風呂	V	N
+tắm	風呂	tắm	風呂	V	N
+trôi	ドリフト	trôi	ドリフト	V	N
+iso	iso	iso	iso	N	PROPN
+bass	バス	bass	バス	N	PROPN
+studio	スタジオ	studio	スタジオ		N
+mập	脂肪	mập	脂肪	ADJ	N
+minor	マイナー	minor	マイナー	NUM	
+fan	ファン	fan	ファン		N
+thở	ブレス	thở	ブレス	V	N
+đốm	しこり	đốm	しこり	N	V
+đốm	blob	đốm	blob	N	PROPN
+oanh	シベリア	oanh	シベリア		PROPN
+samsung	サムスン	samsung	サムスン	N	PROPN
+samsung	samsung	samsung	samsung	N	PROPN
+champagne	シャンパン	champagne	シャンパン		N
+vắng	不在	vắng	不在	ADJ	V
+vắng	欠席	vắng	欠席	ADJ	V
+vắng	ホール	vắng	ホール	ADJ	N
+medvedev	メドヴェージェフ	medvedev	メドヴェージェフ	N	PROPN
+bin	bin	bin	bin	N	PROPN
+bill	ビル	bill	ビル		N
+hans	ハンス	hans	ハンス	N	PROPN
+khan	辛うじて	khan	辛うじて	V	ADV
+khan	ハーン	khan	ハーン	V	PROPN
+khan	カーン	khan	カーン	V	PROPN
+trù	バン	trù	バン	N	PROPN
+trù	ヴァン	trù	ヴァン	N	PROPN
+lindl	lindl	lindl	lindl	N	PROPN
+batman	バットマン	batman	バットマン	N	PROPN
+ethiopia	エチオピア	ethiopia	エチオピア	N	PROPN
+ethiopia	エチオピア	ethiopia	エチオピア	N	PROPN
+ben	ベン	ben	ベン	N	PROPN
+clark	クラーク	clark	クラーク		PROPN
+chan	チャン	chan	チャン	N	PROPN
+khóc	クライ	khóc	クライ	V	PROPN
+battle	バトル	battle	バトル		N
+battle	戦闘	battle	戦闘		V
+battle	戦い	battle	戦う		V
+đeo	摩耗	đeo	摩耗	V	N
+kastamonu	カスタモヌ	kastamonu	カスタモヌ	N	PROPN
+sydney	シドニー	sydney	シドニー		PROPN
+its	its	its	its		PROPN
+villa	ヴィッラ	villa	ヴィッラ	N	PROPN
+villa	ヴィラ	villa	ヴィラ	N	PROPN
+nắng	sun	nắng	sun	N	PROPN
+nắng	サンシャイン	nắng	サンシャイン	N	PROPN
+nắng	日差	nắng	日差	N	V
+nắng	晴れ	nắng	晴れる	N	V
+clb	棍	clb	棍	N	PROPN
+eng	eng	eng	eng		PROPN
+php	php	php	php	N	PROPN
+xén	トリミング	xén	トリミング	V	N
+watson	ワトソン	watson	ワトソン		PROPN
+adams	アダムズ	adams	アダムズ		PROPN
+adams	アダムス	adams	アダムス		PROPN
+wall	ウォール	wall	ウォール		N
+army	アーミー	army	アーミー	N	PROPN
+anna	アナ	anna	アナ		PROPN
+anna	アンナ	anna	アンナ		PROPN
+nhung	人種	nhung	人種		N
+nhung	競走	nhung	競走		N
+nhung	レース	nhung	レース		N
+nhung	ベルベット	nhung	ベルベット		PROPN
+mãnh	晴れやか	mãnh	晴れやく	N	PROPN
+harvard	ハーバード	harvard	ハーバード	N	PROPN
+xấp	硬貨	xấp	硬貨		N
+xấp	コイン	xấp	コイン		N
+diêm	一致	diêm	一致	N	V
+playstation	playstation	playstation	playstation	N	PROPN
+trọn	ドワーフ	trọn	ドワーフ		PROPN
+dragon	ドラゴン	dragon	ドラゴン	N	PROPN
+alfred	アルフレッド	alfred	アルフレッド	N	PROPN
+bangladesh	バングラデシュ	bangladesh	バングラデシュ	N	PROPN
+bangkok	バンコク	bangkok	バンコク	N	PROPN
+cắn	ビット	cắn	ビット	V	N
+pin	pin	pin	pin	N	PROPN
+anne	アン	anne	アン		PROPN
+hollywood	ハリウッド	hollywood	ハリウッド	V	PROPN
+nato	nato	nato	nato	N	PROPN
+jin	jin	jin	jin	N	PROPN
+jin	ジン	jin	ジン	N	PROPN
+tát	平手	tát	平手	V	N
+kunth	kunth	kunth	kunth		PROPN
+girls	ガールズ	girls	ガールズ		PROPN
+lường	フォーチュン	lường	フォーチュン	V	N
+carlos	カルロス	carlos	カルロス		PROPN
+inc	inc	inc	inc		PROPN
+nigeria	ナイジェリア	nigeria	ナイジェリア	N	PROPN
+chart	チャート	chart	チャート	ADJ	N
+provence	プロヴァンス	provence	プロヴァンス	N	PROPN
+thổi	ブロウ	thổi	ブロウ	V	PROPN
+thổi	ブロー	thổi	ブロー	V	PROPN
+miller	ミラー	miller	ミラー		N
+alaska	アラスカ	alaska	アラスカ	N	PROPN
+khớp	一致	khớp	一致	N	V
+khớp	合う	khớp	合う	N	V
+khớp	一致	khớp	一致	N	V
+viii	viii	viii	viii	NUM	PROPN
+leitão	leitão	leitão	leitão	V	PROPN
+cắm	プラグ	cắm	プラグ	V	N
+cắm	ソケット	cắm	ソケット	V	N
+fox	キツネ	fox	キツネ		N
+mác	マルク	mác	マルク	N	PROPN
+joe	ジョー	joe	ジョー	N	PROPN
+cape	ケープ	cape	ケープ	N	PROPN
+andrew	アンドリュー	andrew	アンドリュー		PROPN
+montana	モンタナ	montana	モンタナ	N	PROPN
+las	ラス	las	ラス		PROPN
+las	las	las	las		PROPN
+khuất	シェイド	khuất	シェイド	N	PROPN
+ali	アリー	ali	アリー		PROPN
+ali	ali	ali	ali		PROPN
+norman	ノーマン	norman	ノーマン		N
+roger	ロジェ	roger	ロジェ		PROPN
+roger	ロジャー	roger	ロジャー		PROPN
+iceland	アイスランド	iceland	アイスランド	N	PROPN
+heart	心臓	heart	心臓		N
+heart	ハート	heart	ハート		N
+rỗng	中空	rỗng	中空	V	N
+palestine	パレスチナ	palestine	パレスチナ	N	PROPN
+pfalz	プファルツ	pfalz	プファルツ	N	PROPN
+info	情報	info	情報		N
+key	キー	key	キー		N
+key	key	key	key		PROPN
+nướng	焼く	nướng	焼く	N	V
+has	ハース	has	ハース		PROPN
+grant	付与	grant	付与		V
+grant	グラント	grant	グラント		PROPN
+xoáy	ツイスト	xoáy	ツイスト	V	N
+xoáy	渦巻	xoáy	渦巻	V	N
+azerbaijan	アゼルバイジャン	azerbaijan	アゼルバイジャン	N	PROPN
+francis	フランシス	francis	フランシス		PROPN
+sudan	スーダン	sudan	スーダン	N	PROPN
+victor	ヴィクター	victor	ヴィクター		PROPN
+victor	ビクター	victor	ビクター		PROPN
+nhái	ミサ	nhái	ミサ	V	N
+nhái	質量	nhái	質量	V	N
+nhái	カエル	nhái	カエル	V	N
+adam	アダム	adam	アダム		PROPN
+ngu	バカ	ngu	バカ	V	
+clarke	クラーク	clarke	クラーク	N	PROPN
+three	三人	three	三人	NUM	N
+three	three	three	three	NUM	PROPN
+three	スリー	three	スリー	NUM	PROPN
+liều	一服	liều	一服	N	V
+gruzia	グルジア	gruzia	グルジア	N	PROPN
+gruzia	ジョージア	gruzia	ジョージア	N	PROPN
+guatemala	グアテマラ	guatemala	グアテマラ	N	PROPN
+trộm	泥棒	trộm	泥棒	ADJ	N
+trộm	盗難	trộm	盗難	ADJ	N
+trộm	窃盗	trộm	窃盗	ADJ	N
+arizona	アリゾナ	arizona	アリゾナ	N	PROPN
+ngừa	日本酒	ngừa	日本酒	V	N
+ngừa	ワクチン	ngừa	ワクチン	V	N
+xysticus	xysticus	xysticus	xysticus	V	PROPN
+torino	トリノ	torino	トリノ	NUM	PROPN
+chang	チャン	chang	チャン		PROPN
+angola	アンゴラ	angola	アンゴラ	N	PROPN
+belarus	ベラルーシ	belarus	ベラルーシ	N	PROPN
+belarus	ベラルーシ	belarus	ベラルーシ	N	PROPN
+per	ピア	per	ピア		N
+per	単価	per	単価		N
+norte	ノルテ	norte	ノルテ	N	PROPN
+frederick	フレデリック	frederick	フレデリック	N	PROPN
+frederick	フリードリヒ	frederick	フリードリヒ	N	PROPN
+band	band	band	band		PROPN
+band	バンド	band	バンド		N
+stephen	スティーヴン	stephen	スティーヴン		PROPN
+empire	帝国	empire	帝国		N
+empire	帝政	empire	帝政		N
+empire	エンパイア	empire	エンパイア		PROPN
+herbert	ハーバート	herbert	ハーバート		PROPN
+chọc	あいさつ	chọc	あいさつ	V	N
+chọc	あいさつ	chọc	あいさつ	V	N
+xoắn	ひねり	xoắn	ひねり	N	V
+road	道路	road	道路		N
+libya	リビア	libya	リビア	N	PROPN
+solo	ソロ	solo	ソロ		N
+review	レビュー	review	レビュー	ADJ	N
+review	審査	review	審査	ADJ	N
+khát	渇き	khát	渇き		V
+caribe	カリブ	caribe	カリブ	N	PROPN
+nebraska	ネブラスカ	nebraska	ネブラスカ	N	PROPN
+nasa	nasa	nasa	nasa	N	PROPN
+ngắm	aim	ngắm	aim	V	PROPN
+youthclubs	youthclubs	youthclubs	youthclubs		PROPN
+colorado	コロラド	colorado	コロラド	N	PROPN
+imperial	インペリアル	imperial	インペリアル	N	PROPN
+chr	chr	chr	chr		PROPN
+gừng	生姜	gừng	生姜	N	
+wolf	ウルフ	wolf	ウルフ	N	PROPN
+wolf	オオカミ	wolf	オオカミ	N	PROPN
+tẩy	レディ	tẩy	レディ	V	N
+tẩy	イレイザー	tẩy	イレイザー	V	PROPN
+tẩy	ブリーチ	tẩy	ブリーチ	V	N
+bắp	とうもろこし	bắp	とうもろこし	N	ADV
+alan	アラン	alan	アラン		PROPN
+vladimir	ウラジーミル	vladimir	ウラジーミル		PROPN
+gregory	グレゴリー	gregory	グレゴリー		PROPN
+banks	バンクス	banks	バンクス		PROPN
+otto	オットー	otto	オットー	N	PROPN
+bob	ボブ	bob	ボブ		PROPN
+bob	bob	bob	bob		PROPN
+sultan	スルタン	sultan	スルタン	N	PROPN
+sultan	スルターン	sultan	スルターン	N	PROPN
+bùn	マッド	bùn	マッド	N	PROPN
+holt	ホルト	holt	ホルト	N	PROPN
+huynh	ブラザー	huynh	ブラザー	N	PROPN
+jane	ジェーン	jane	ジェーン		PROPN
+michel	ミシェル	michel	ミシェル	N	PROPN
+bush	ブッシュ	bush	ブッシュ	N	PROPN
+điên	クレイジー	điên	クレイジー	V	N
+solomon	ソロモン	solomon	ソロモン	N	PROPN
+gertsch	gertsch	gertsch	gertsch	V	PROPN
+boys	boys	boys	boys		PROPN
+boys	男	boys	男		N
+sans	sans	sans	sans		PROPN
+kamen	仮面	kamen	仮面		N
+boy	男	boy	男		N
+boy	少年	boy	少年		N
+boy	ボーイ	boy	ボーイ		N
+short	短い	short	短い		ADJ
+short	ショート	short	ショート		N
+sharp	鋭い	sharp	鋭い	N	ADJ
+digital	デジタル	digital	デジタル	N	ADJ
+jun	jun	jun	jun	N	PROPN
+jun	じゅん	jun	じゅん	N	PROPN
+kazakhstan	カザフスタン	kazakhstan	カザフスタン	N	PROPN
+luồng	フロー	luồng	フロー		N
+luồng	流れ	luồng	流れる		V
+luồng	ストリーム	luồng	ストリーム		N
+luồng	渓流	luồng	渓流		N
+erzurum	エルズルム	erzurum	エルズルム	N	PROPN
+howard	ハワード	howard	ハワード		PROPN
+brian	ブライアン	brian	ブライアン		PROPN
+neo	ドッキング	neo	ドッキング	N	PROPN
+neo	アンカー	neo	アンカー	N	PROPN
+neo	ネオ	neo	ネオ	N	PROPN
+gioan	ジョン	gioan	ジョン	N	PROPN
+cher	シェール	cher	シェール	N	PROPN
+publ	publ	publ	publ	NUM	PROPN
+tony	トニー	tony	トニー		PROPN
+hao	ハオ	hao	ハオ	V	PROPN
+est	est	est	est		PROPN
+heinrich	ハインリヒ	heinrich	ハインリヒ	N	PROPN
+warren	ウォーレン	warren	ウォーレン		PROPN
+slovenia	スロベニア	slovenia	スロベニア	NUM	PROPN
+santo	サント	santo	サント	N	PROPN
+franz	フランツ	franz	フランツ		N
+okinawa	沖縄	okinawa	沖縄	N	PROPN
+won	ウォン	won	ウォン		N
+won	won	won	won		PROPN
+myanmar	ミャンマー	myanmar	ミャンマー	N	PROPN
+marx	マルクス	marx	マルクス	N	PROPN
+ten	配列	ten	配列		N
+ten	アレイ	ten	アレイ		N
+ten	歯車	ten	歯車		N
+ten	ギア	ten	ギア		N
+steve	スティーブ	steve	スティーブ		PROPN
+steve	スティーヴ	steve	スティーヴ		PROPN
+rico	リコ	rico	リコ	N	PROPN
+tetragnatha	tetragnatha	tetragnatha	tetragnatha	N	PROPN
+hlist	hlist	hlist	hlist		PROPN
+set	集合	set	集合		N
+set	セット	set	セット		N
+kennedy	ケネディ	kennedy	ケネディ		PROPN
+hamilton	ハミルトン	hamilton	ハミルトン	N	PROPN
+mac	mac	mac	mac	N	PROPN
+mac	マック	mac	マック	N	PROPN
+extra	エクストラ	extra	エクストラ		PROPN
+christopher	クリスト	christopher	クリスト	V	PROPN
+census	国勢調査	census	国勢調査		N
+françois	フランソワ	françois	フランソワ	N	PROPN
+hạo	ハオ	hạo	ハオ	N	PROPN
+hụt	ブーム	hụt	ブーム	ADJ	N
+uruguay	ウルグ	uruguay	ウルグ	N	PROPN
+robin	ロビン	robin	ロビン		PROPN
+lặn	ダイビング	lặn	ダイビング	V	N
+lặn	ダイビング	lặn	ダイビング	V	N
+studios	スタジオ	studios	スタジオ		N
+tiger	トラ	tiger	トラ	N	PROPN
+tiger	タイガー	tiger	タイガー	N	PROPN
+chích	注射	chích	注射	V	N
+chích	自然	chích	自然	V	ADJ
+chích	ナチュラル	chích	ナチュラル	V	N
+holstein	ホルシュタイン	holstein	ホルシュタイン	V	PROPN
+amazon	amazon	amazon	amazon	N	PROPN
+amazon	アマゾン	amazon	アマゾン	N	PROPN
+nhục	謙虚	nhục	謙虚	N	ADJ
+over	over	over	over		PROPN
+swift	スイフト	swift	スイフト		PROPN
+swift	スウィフト	swift	スウィフト		PROPN
+uganda	ウガンダ	uganda	ウガンダ	N	PROPN
+han	ハングル	han	ハングル	N	PROPN
+han	ハン	han	ハン	N	PROPN
+xinh	可愛い	xinh	可愛い	N	ADJ
+august	アウグスト	august	アウグスト		PROPN
+zimbabwe	ジンバブエ	zimbabwe	ジンバブエ	N	PROPN
+harrison	ハリソン	harrison	ハリソン		PROPN
+dbe	dbe	dbe	dbe		PROPN
+bell	ベル	bell	ベル		N
+garden	庭園	garden	庭園		N
+facebook	facebook	facebook	facebook	N	PROPN
+slovakia	スロバキア	slovakia	スロバキア	N	PROPN
+houston	ヒューストン	houston	ヒューストン	N	PROPN
+thiếp	はが	thiếp	はがる	N	V
+thiếp	はが	thiếp	はがる	N	V
+sierra	シエラ	sierra	シエラ	N	PROPN
+htm	htm	htm	htm		PROPN
+qui	qui	qui	qui	N	PROPN
+full	いっぱい	full	いっぱい		N
+full	フル	full	フル		N
+bẫy	トラップ	bẫy	トラップ	V	N
+bẫy	トラップ	bẫy	トラップ	V	N
+gordon	ゴードン	gordon	ゴードン		PROPN
+ron	ロン	ron	ロン		PROPN
+italy	イタリア	italy	イタリア	N	PROPN
+cày	プラウ	cày	プラウ	V	PROPN
+litva	リトアニア	litva	リトアニア	N	PROPN
+philadelphia	フィラデルフィア	philadelphia	フィラデルフィア	N	PROPN
+mike	マイク	mike	マイク		N
+cruz	クルス	cruz	クルス	N	PROPN
+potter	ポッター	potter	ポッター		PROPN
+ueda	上田	ueda	上田	ADJ	PROPN
+wright	ライト	wright	ライト		N
+plan	計画	plan	計画		N
+plan	プラン	plan	プラン		N
+đun	モジュール	đun	モジュール	V	N
+dan	ダン	dan	ダン	N	PROPN
+dan	dan	dan	dan	N	PROPN
+philip	フィリップ	philip	フィリップ		PROPN
+nham	マグマ	nham	マグマ		PROPN
+đếm	カウント	đếm	カウント	V	N
+đếm	カウント	đếm	カウント	V	N
+youthyears	youthyears	youthyears	youthyears		PROPN
+ann	アン	ann	アン	N	PROPN
+dark	ダーク	dark	ダーク		N
+dark	暗い	dark	暗い		ADJ
+gay	パッ	gay	パッ	N	ADV
+caesar	シーザー	caesar	シーザー	N	PROPN
+liban	レバノン	liban	レバノン	N	PROPN
+berg	ベルク	berg	ベルク	N	PROPN
+robot	bot	robot	bot	N	PROPN
+robot	ボット	robot	ボット	N	PROPN
+loa	ロア	loa	ロア	N	PROPN
+loa	話し	loa	話す	N	V
+cưỡi	配車	cưỡi	配車	V	N
+jamaica	ジャマイカ	jamaica	ジャマイカ	N	PROPN
+keyserling	keyserling	keyserling	keyserling	V	PROPN
+alex	alex	alex	alex	N	PROPN
+alex	アレックス	alex	アレックス	N	PROPN
+kütahya	キュタヒヤ	kütahya	キュタヒヤ	N	PROPN
+butler	バトラー	butler	バトラー		PROPN
+das	ダス	das	ダス	N	PROPN
+das	das	das	das	N	PROPN
+dập	dap	dập	dap	V	PROPN
+dập	ナス	dập	ナス	V	N
+dập	茄子	dập	茄子	V	N
+cia	cia	cia	cia	N	PROPN
+get	ゲット	get	ゲット		V
+get	get	get	get		PROPN
+municipality	市町村	municipality	市町村		N
+praha	プラハ	praha	プラハ	N	PROPN
+munich	ミュンヘン	munich	ミュンヘン	N	PROPN
+linux	linux	linux	linux	N	PROPN
+nad	nad	nad	nad	NUM	PROPN
+ford	フォード	ford	フォード	N	PROPN
+alice	アリス	alice	アリス		PROPN
+jefferson	ジェファーソン	jefferson	ジェファーソン	N	PROPN
+moscow	モスクワ	moscow	モスクワ	N	PROPN
+osaka	大阪	osaka	大阪	N	PROPN
+view	ビュー	view	ビュー	V	PROPN
+bận	忙しい	bận	忙しい	V	ADJ
+bận	ビジー	bận	ビジー	V	PROPN
+templates	テンプレート	templates	テンプレート	V	N
+amsterdam	アムステルダム	amsterdam	アムステルダム		PROPN
+nelson	ネルソン	nelson	ネルソン		PROPN
+anthony	アンソニー	anthony	アンソニー		PROPN
+russell	ラッセル	russell	ラッセル		PROPN
+phil	フィル	phil	フィル		PROPN
+phím	遅い	phím	遅い	N	ADJ
+phím	key	phím	key	N	PROPN
+santiago	サンティアゴ	santiago	サンティアゴ		PROPN
+trơn	濡れ	trơn	濡れる	N	V
+estonia	エストニア	estonia	エストニア	N	PROPN
+univ	univ	univ	univ	NUM	PROPN
+singles	シングルス	singles	シングルス	NUM	N
+lot	lot	lot	lot		PROPN
+lot	ロット	lot	ロット		N
+ordu	オルドゥ	ordu	オルドゥ	N	PROPN
+chán	つまら	chán	つまる	ADJ	V
+tennessee	テネシー	tennessee	テネシー	N	PROPN
+creek	クリーク	creek	クリーク	N	PROPN
+down	ダウン	down	ダウン	N	PROPN
+lát	タイル	lát	タイル		N
+lát	タイル	lát	タイル		N
+lát	スライス	lát	スライス		N
+lát	moment	lát	moment		PROPN
+lát	瞬間	lát	瞬間		N
+lát	モーメント	lát	モーメント		N
+lát	スライス	lát	スライス		N
+mecklenburg	メクレンブルク	mecklenburg	メクレンブルク	V	PROPN
+vincent	ヴィンセント	vincent	ヴィンセント		PROPN
+warner	ワーナー	warner	ワーナー		PROPN
+vitamin	欠如	vitamin	欠如	N	V
+vitamin	不足	vitamin	不足	N	V
+malta	マルタ	malta	マルタ		PROPN
+sainte	サント	sainte	サント	N	PROPN
+sankt	ザンクト	sankt	ザンクト	N	PROPN
+presl	presl	presl	presl		PROPN
+nick	ニック	nick	ニック		PROPN
+edwards	エドワーズ	edwards	エドワーズ		PROPN
+kiev	キエフ	kiev	キエフ	N	PROPN
+mersin	メルスィン	mersin	メルスィン	NUM	PROPN
+festival	フェスティバル	festival	フェスティバル		N
+festival	祭事	festival	祭事		N
+festival	祭り	festival	祭り		N
+festival	お	festival	お		N
+powell	パウエル	powell	パウエル		PROPN
+brunei	ブルネイ	brunei	ブルネイ	N	PROPN
+begonia	ベゴニア	begonia	ベゴニア	N	PROPN
+kevin	ケヴィン	kevin	ケヴィン		PROPN
+kobayashi	小林	kobayashi	小林	V	PROPN
+soc	soc	soc	soc	N	PROPN
+human	ヒト	human	ヒト		N
+human	ヒューマン	human	ヒューマン		N
+human	人間	human	人間		N
+trabzon	トラブゾン	trabzon	トラブゾン	NUM	PROPN
+sumatra	スマトラ島	sumatra	スマトラ島	N	PROPN
+stuttgart	シュトゥット	stuttgart	シュトゥット	N	PROPN
+paraguay	パラグ	paraguay	パラグ	N	PROPN
+walt	ウォルト	walt	ウォルト		PROPN
+schwarz	シュワルツ	schwarz	シュワルツ		PROPN
+lầu	二	lầu	二	N	NUM
+nắp	top	nắp	top	N	PROPN
+sony	sony	sony	sony	N	PROPN
+sony	ソニー	sony	ソニー	N	PROPN
+malatya	マラティヤ	malatya	マラティヤ	NUM	PROPN
+andré	アンドレ	andré	アンドレ		PROPN
+andré	アンドレ	andré	アンドレ		PROPN
+istanbul	イスタンブール	istanbul	イスタンブール		PROPN
+lucas	ルーカス	lucas	ルーカス		PROPN
+yak	ヤク	yak	ヤク		PROPN
+lenin	レーニン	lenin	レーニン	N	PROPN
+hcm	hcm	hcm	hcm	N	PROPN
+ivan	イワン	ivan	イワン		PROPN
+ivan	イヴァン	ivan	イヴァン		PROPN
+nan	had	nan	had	N	PROPN
+nan	nan	nan	nan	N	PROPN
+mozambique	モザンビーク	mozambique	モザンビーク	N	PROPN
+kiêu	腫れ	kiêu	腫れる	ADJ	V
+milano	ミラノ	milano	ミラノ	NUM	PROPN
+milano	ミラノ	milano	ミラノ	NUM	PROPN
+nova	ノヴァ	nova	ノヴァ		PROPN
+nova	新星	nova	新星		N
+rìa	エッジ	rìa	エッジ	ADJ	N
+rìa	edge	rìa	edge	ADJ	PROPN
+dẻo	フレキシブル	dẻo	フレキシブル	V	ADJ
+malawi	マラウイ	malawi	マラウイ	N	PROPN
+wayne	ウェイン	wayne	ウェイン	N	PROPN
+mesa	メサ	mesa	メサ		PROPN
+bull	ブル	bull	ブル		PROPN
+korea	朝鮮	korea	朝鮮		N
+korea	韓国	korea	韓国		PROPN
+clinton	クリントン	clinton	クリントン	N	PROPN
+ngưu	ブル	ngưu	ブル	N	PROPN
+rasmussen	ラスムセン	rasmussen	ラスムセン	V	PROPN
+admin	管理	admin	管理		N
+admin	管理人	admin	管理人		N
+phiền	mind	phiền	mind	V	PROPN
+phiền	マインド	phiền	マインド	V	N
+chéo	対角線	chéo	対角線	V	N
+cover	表紙	cover	表紙		N
+cover	被覆	cover	被覆		N
+cover	カバー	cover	カバー		N
+cover	cover	cover	cover		PROPN
+carter	カーター	carter	カーター		PROPN
+lyon	リヨン	lyon	リヨン	N	PROPN
+valencia	バレンシア	valencia	バレンシア	N	PROPN
+mart	マート	mart	マート	N	PROPN
+maroc	モロッコ	maroc	モロッコ	N	PROPN
+melbourne	メルボルン	melbourne	メルボルン		PROPN
+blake	ブレイク	blake	ブレイク	N	V
+diyarbakır	ディヤルバクル	diyarbakır	ディヤルバクル	NUM	PROPN
+keo	keo	keo	keo	N	PROPN
+keo	アカシア	keo	アカシア	N	PROPN
+konya	コンヤ	konya	コンヤ	NUM	PROPN
+hiroshi	ひろし	hiroshi	ひろし	N	PROPN
+honduras	ホンジュラス	honduras	ホンジュラス	N	PROPN
+gold	gold	gold	gold		PROPN
+gold	ゴールド	gold	ゴールド		N
+chay	レバー	chay	レバー	V	N
+chay	肝臓	chay	肝臓	V	N
+ferdinand	フェルディナンド	ferdinand	フェルディナンド		PROPN
+luxembourg	ルクセンブルク	luxembourg	ルクセンブルク	N	PROPN
+wwe	wwe	wwe	wwe	N	PROPN
+nghiện	中毒	nghiện	中毒	V	N
+nghiện	燻製	nghiện	燻製	V	
+nhâm	ren	nhâm	ren	N	PROPN
+ryan	ライアン	ryan	ライアン		PROPN
+barbara	バーバラ	barbara	バーバラ		PROPN
+kavkaz	コーカサス	kavkaz	コーカサス	N	PROPN
+manh	ギャング	manh	ギャング		N
+piper	パイパー	piper	パイパー		PROPN
+aleksandr	アレクサンドル	aleksandr	アレクサンドル	N	PROPN
+aleksandr	アレクサンドロス	aleksandr	アレクサンドロス	N	PROPN
+aleksandr	アレクサンダー	aleksandr	アレクサンダー	N	PROPN
+aleksandr	アレキサンダー	aleksandr	アレキサンダー	N	PROPN
+android	android	android	android	N	PROPN
+android	アンドロイド	android	アンドロイド	N	PROPN
+nicaragua	ニカラグア	nicaragua	ニカラグア	N	PROPN
+jim	ジム	jim	ジム		N
+ccd	ccd	ccd	ccd	N	PROPN
+krym	クリミア	krym	クリミア	N	PROPN
+krym	クリミア	krym	クリミア	N	PROPN
+summer	summer	summer	summer		PROPN
+summer	サマー	summer	サマー		N
+gộp	バルク	gộp	バルク	V	N
+gộp	デント	gộp	デント	V	PROPN
+salvador	サルバドール	salvador	サルバドール	N	PROPN
+diều	カイト	diều	カイト	N	PROPN
+diều	ドラゴン	diều	ドラゴン	N	PROPN
+hamburg	ハンブルグ	hamburg	ハンブルグ	N	PROPN
+hamburg	ハンブルク	hamburg	ハンブルク	N	PROPN
+samurai	サムライ	samurai	サムライ		PROPN
+samurai	武士	samurai	武士		N
+rèn	鍛冶	rèn	鍛冶	V	N
+leader	リーダー	leader	リーダー		N
+sicilia	シチリア	sicilia	シチリア	N	PROPN
+bern	ベルン	bern	ベルン	N	PROPN
+ghana	ガーナ	ghana	ガーナ	N	PROPN
+chồn	選択	chồn	選択	N	V
+chồn	イタチ	chồn	イタチ	N	PROPN
+flower	flower	flower	flower	N	PROPN
+description	ヘーリオス	description	ヘーリオス	N	PROPN
+beach	ビーチ	beach	ビーチ	N	PROPN
+khiếp	バッド	khiếp	バッド	V	PROPN
+khiếp	悪い	khiếp	悪い	V	ADJ
+claude	クロード	claude	クロード	N	PROPN
+antalya	アンタルヤ	antalya	アンタルヤ	N	PROPN
+leningrad	レニングラード	leningrad	レニングラード	N	PROPN
+toronto	トロント	toronto	トロント	N	PROPN
+norfolk	ノーフォーク	norfolk	ノーフォーク	N	PROPN
+soul	ソウル	soul	ソウル	N	PROPN
+soul	霊魂	soul	霊魂	N	
+bernard	ベルナール	bernard	ベルナール		PROPN
+giếng	ウェルズ	giếng	ウェルズ	N	PROPN
+thầu	入札	thầu	入札	N	V
+index	インデックス	index	インデックス	N	PROPN
+collins	コリンズ	collins	コリンズ		PROPN
+nationalgoals	nationalgoals	nationalgoals	nationalgoals	N	PROPN
+ralph	ラルフ	ralph	ラルフ		PROPN
+mép	edge	mép	edge	N	PROPN
+bursa	ブルサ	bursa	ブルサ	NUM	PROPN
+baby	ベイビー	baby	ベイビー		N
+baby	赤ちゃん	baby	赤ちゃん		N
+head	head	head	head		PROPN
+head	ヘッド	head	ヘッド		N
+head	頭部	head	頭部		N
+rang	ランク	rang	ランク		N
+johannes	ヨハネス	johannes	ヨハネス	N	PROPN
+nationalcaps	nationalcaps	nationalcaps	nationalcaps	N	PROPN
+alpha	alpha	alpha	alpha	N	PROPN
+trễ	遅延	trễ	遅延	ADJ	V
+patrick	パトリック	patrick	パトリック		PROPN
+final	ファイナル	final	ファイナル	N	PROPN
+britton	ブリットン	britton	ブリットン		PROPN
+georges	ジョルジュ	georges	ジョルジュ		PROPN
+ken	ケン	ken	ケン		PROPN
+below	ベロー	below	ベロー		PROPN
+manila	マニラ	manila	マニラ	N	PROPN
+latvia	ラトビア	latvia	ラトビア	N	PROPN
+dream	dream	dream	dream	N	PROPN
+adolf	アドルフ	adolf	アドルフ	N	PROPN
+marine	マリン	marine	マリン		N
+einstein	アインシュタイン	einstein	アインシュタイン	V	PROPN
+bơm	ポンプ	bơm	ポンプ	V	N
+bơm	パンプス	bơm	パンプス	V	N
+bơm	ポンプ	bơm	ポンプ	V	N
+giuse	ヨセフ	giuse	ヨセフ	N	PROPN
+arena	アレーナ	arena	アレーナ		PROPN
+arena	アリーナ	arena	アリーナ		N
+roussillon	ルシヨン	roussillon	ルシヨン		PROPN
+mar	mar	mar	mar		PROPN
+miq	miq	miq	miq		PROPN
+nevada	ネバダ	nevada	ネバダ	N	PROPN
+len	ウール	len	ウール		N
+đuối	溺死	đuối	溺死	V	
+maryland	メリーランド	maryland	メリーランド		PROPN
+philodromus	philodromus	philodromus	philodromus	V	PROPN
+case	ケース	case	ケース		N
+alexandros	アレクサンドロス	alexandros	アレクサンドロス	N	PROPN
+alexandros	アレクサンダー	alexandros	アレクサンダー	N	PROPN
+alexandros	アレキサンダー	alexandros	アレキサンダー	N	PROPN
+oklahoma	オクラホマ	oklahoma	オクラホマ	N	PROPN
+virgin	ヴァージン	virgin	ヴァージン	N	PROPN
+shaw	ショー	shaw	ショー		N
+shaw	ショウ	shaw	ショウ		PROPN
+rich	金持ち	rich	金持ち		N
+rich	リッチ	rich	リッチ		N
+mobile	モバイル	mobile	モバイル	N	PROPN
+ontario	オンタリオ	ontario	オンタリオ	N	PROPN
+kelly	ケリー	kelly	ケリー		PROPN
+byzantine	ビザン	byzantine	ビザン	N	PROPN
+fort	フォート	fort	フォート		PROPN
+fort	要塞	fort	要塞		N
+rước	行進	rước	行進	V	N
+roosevelt	ルーズベルト	roosevelt	ルーズベルト		PROPN
+evans	エヴァンス	evans	エヴァンス		PROPN
+evans	エヴァンズ	evans	エヴァンズ		PROPN
+evans	エバンス	evans	エバンス		PROPN
+pink	ピンク	pink	ピンク		N
+pink	ナデシコ	pink	ナデシコ		PROPN
+yuri	ゆり	yuri	ゆり		PROPN
+yuri	ユーリ	yuri	ユーリ		PROPN
+cay	メース	cay	メース	N	PROPN
+cay	メイス	cay	メイス	N	PROPN
+xbox	xbox	xbox	xbox	N	PROPN
+hyun	ヒョン	hyun	ヒョン	N	PROPN
+rung	振動	rung	振動	V	N
+rung	シェイク	rung	シェイク	V	PROPN
+rung	shake	rung	shake	V	PROPN
+samuel	サミュエル	samuel	サミュエル		PROPN
+run	震え	run	震える		V
+abc	abc	abc	abc	N	PROPN
+brandenburg	ブランデンブルク	brandenburg	ブランデンブルク	N	PROPN
+đùa	ジョーク	đùa	ジョーク	V	N
+đùa	冗談	đùa	冗談	V	
+đùa	冗談	đùa	冗談	V	
+đùa	冗談	đùa	冗談	V	
+đùa	ジョーク	đùa	ジョーク	V	N
+poitou	ポワトゥー	poitou	ポワトゥー		PROPN
+chày	ベースボール	chày	ベースボール	N	PROPN
+managerclubs	managerclubs	managerclubs	managerclubs	ADJ	PROPN
+adn	dna	adn	dna	N	PROPN
+dixon	ディクソン	dixon	ディクソン		PROPN
+donald	ドナルド	donald	ドナルド	N	PROPN
+lót	下着	lót	下着	V	N
+niger	ニジェール	niger	ニジェール	N	PROPN
+guyana	ガイアナ	guyana	ガイアナ	N	PROPN
+württemberg	ヴュルテンベルク	württemberg	ヴュルテンベルク	N	PROPN
+ted	テッド	ted	テッド	N	PROPN
+ted	ted	ted	ted	N	PROPN
+andy	アンディ	andy	アンディ	N	PROPN
+sky	sky	sky	sky		PROPN
+sky	スカイ	sky	スカイ		N
+mccartney	マッカートニー	mccartney	マッカートニー	N	PROPN
+apg	apg	apg	apg	N	PROPN
+choi	チェ	choi	チェ	N	PROPN
+maurice	モーリス	maurice	モーリス	N	PROPN
+cook	コック	cook	コック		N
+cook	クック	cook	クック		PROPN
+namibia	ナミビア	namibia	ナミビア	N	PROPN
+trinidad	トリニダード	trinidad	トリニダード	N	PROPN
+cấy	播種	cấy	播種	V	N
+cấy	プラント	cấy	プラント	V	N
+cấy	植物	cấy	植物	V	N
+somalia	ソマリア	somalia	ソマリア	N	PROPN
+sentai	戦隊	sentai	戦隊		N
+steven	スティーヴン	steven	スティーヴン		PROPN
+nat	nat	nat	nat	N	PROPN
+vatican	バチカン	vatican	バチカン	N	PROPN
+puy	ピュイ	puy	ピュイ		PROPN
+mass	ミサ	mass	ミサ		N
+mass	質量	mass	質量		N
+march	マーチ	march	マーチ		N
+march	行進	march	行進		N
+asean	asean	asean	asean	N	PROPN
+nhuộm	染色	nhuộm	染色	V	N
+nhuộm	カラー	nhuộm	カラー	V	N
+nhuộm	染料	nhuộm	染料	V	N
+khốc	クライ	khốc	クライ		PROPN
+khốc	泣く	khốc	泣く		V
+khốc	泣き	khốc	泣く		V
+monte	モンテ	monte	モンテ	N	PROPN
+porto	ポルト	porto	ポルト	N	PROPN
+napoli	ナポリ	napoli	ナポリ	N	PROPN
+napoli	ナポリ	napoli	ナポリ	N	PROPN
+lau	辛口	lau	辛口	V	ADJ
+lau	ドライ	lau	ドライ	V	N
+lau	ラウ	lau	ラウ	V	PROPN
+lau	旱魃	lau	旱魃	V	N
+lau	干ば	lau	干ばぶ	V	PROPN
+zambia	ザンビア	zambia	ザンビア	N	PROPN
+gun	音節	gun	音節		N
+harris	ハリス	harris	ハリス		PROPN
+watanabe	ワタナベ	watanabe	ワタナベ	N	PROPN
+watanabe	渡辺	watanabe	渡辺	N	PROPN
+quạ	クロウ	quạ	クロウ	N	PROPN
+quạ	レイヴン	quạ	レイヴン	N	PROPN
+bismarck	ビスマルク	bismarck	ビスマルク	N	PROPN
+tarn	タルヌ	tarn	タルヌ	N	PROPN
+paraná	パラナ	paraná	パラナ	N	PROPN
+arn	arn	arn	arn	N	PROPN
+standard	基準	standard	基準		N
+standard	スタンダード	standard	スタンダード		N
+standard	標準	standard	標準		N
+miles	マイル	miles	マイル		N
+xay	グラインドコア	xay	グラインドコア	V	PROPN
+xay	グラインド	xay	グラインド	V	N
+gene	ジーン	gene	ジーン	N	PROPN
+hách	ハオ	hách	ハオ	N	PROPN
+tokugawa	徳川	tokugawa	徳川	N	PROPN
+alba	アルバ	alba	アルバ	N	PROPN
+kane	ケーン	kane	ケーン	N	PROPN
+ngao	ソース	ngao	ソース	V	N
+universal	ユニバーサル	universal	ユニバーサル		PROPN
+caporiacco	caporiacco	caporiacco	caporiacco	V	PROPN
+bhutan	ブータン	bhutan	ブータン	N	PROPN
+catherine	キャサリン	catherine	キャサリン		PROPN
+mitchell	ミッチェル	mitchell	ミッチェル		PROPN
+louisiana	ルイジアナ	louisiana	ルイジアナ		PROPN
+marcus	マルクス	marcus	マルクス	N	PROPN
+marcus	マーカス	marcus	マーカス	N	PROPN
+stewart	スチュワート	stewart	スチュワート		PROPN
+copenhagen	コペンハーゲン	copenhagen	コペンハーゲン	N	PROPN
+mueang	ムアン	mueang	ムアン	N	PROPN
+sắm	ショッピング	sắm	ショッピング	V	N
+sắm	買い物	sắm	買い物	V	N
+sắm	買物	sắm	買物	V	N
+status	ステータス	status	ステータス	N	PROPN
+dna	dna	dna	dna	N	PROPN
+kèn	ホルン	kèn	ホルン	N	PROPN
+phao	愛妻	phao	愛妻	V	PROPN
+phao	ブイ	phao	ブイ	V	PROPN
+salamanca	サラマンカ	salamanca	サラマンカ	N	PROPN
+raven	レイヴン	raven	レイヴン		PROPN
+alexandria	アレクサンドリア	alexandria	アレクサンドリア	N	PROPN
+leyte	レイテ	leyte	レイテ	N	PROPN
+mikhail	ミハイル	mikhail	ミハイル	N	PROPN
+sbs	sbs	sbs	sbs		PROPN
+uzbekistan	ウズベキスタン	uzbekistan	ウズベキスタン	N	PROPN
+zaragoza	サラゴサ	zaragoza	サラゴサ	N	PROPN
+jay	ジェイ	jay	ジェイ	N	PROPN
+jay	カケス	jay	カケス	N	PROPN
+soo	スー	soo	スー	N	PROPN
+sầu	悲しみ	sầu	悲しむ	N	V
+muhammad	ムハンマド	muhammad	ムハンマド	N	PROPN
+dsc	dsc	dsc	dsc	N	PROPN
+metro	メトロ	metro	メトロ	N	PROPN
+currentclub	currentclub	currentclub	currentclub		PROPN
+tro	ash	tro	ash		PROPN
+christmas	クリスマス	christmas	クリスマス		N
+hop	ホップ	hop	ホップ		N
+delhi	デリー	delhi	デリー	N	PROPN
+nikolai	ニコライ	nikolai	ニコライ		PROPN
+dave	デーヴ	dave	デーヴ		PROPN
+dave	デイヴ	dave	デイヴ		PROPN
+castro	カストロ	castro	カストロ		PROPN
+insects	昆虫	insects	昆虫	ADJ	N
+venezia	ベニス	venezia	ベニス	N	PROPN
+venezia	ヴェネツィア	venezia	ヴェネツィア	N	PROPN
+venezia	ベネチア	venezia	ベネチア	N	PROPN
+sarah	サラ	sarah	サラ		PROPN
+nứt	ナッツ	nứt	ナッツ	V	N
+nứt	ナット	nứt	ナット	V	N
+nứt	crack	nứt	crack	V	PROPN
+nứt	クラック	nứt	クラック	V	N
+nứt	クラッキング	nứt	クラッキング	V	N
+fiji	フィジー	fiji	フィジー	N	PROPN
+takahashi	高橋	takahashi	高橋		PROPN
+mit	mit	mit	mit	N	PROPN
+mit	mlt	mit	mlt	N	PROPN
+sảnh	まっすぐ	sảnh	まっすぐ	N	ADV
+afc	afc	afc	afc	N	PROPN
+mandat	mandat	mandat	mandat		PROPN
+miami	マイアミ	miami	マイアミ	N	PROPN
+napoleon	ナポレオン	napoleon	ナポレオン		PROPN
+sahara	サハラ	sahara	サハラ	N	PROPN
+beta	ベタ	beta	ベタ	N	
+inter	inter	inter	inter	N	PROPN
+çanakkale	チャナッカレ	çanakkale	チャナッカレ	N	PROPN
+newcastle	ニューカッスル	newcastle	ニューカッスル	N	PROPN
+kyoto	京都	kyoto	京都	N	PROPN
+thoả	サイレント	thoả	サイレント	V	N
+thoả	無音	thoả	無音	V	N
+điềm	恨み	điềm	恨む	N	V
+any	any	any	any		PROPN
+tag	タグ	tag	タグ		N
+gilbert	ギルバート	gilbert	ギルバート		PROPN
+germain	ジェルマン	germain	ジェルマン	V	PROPN
+season	季節	season	季節		N
+season	シーズン	season	シーズン		N
+dos	dos	dos	dos	N	PROPN
+andes	アンデス	andes	アンデス	N	PROPN
+shah	シャー	shah	シャー	N	PROPN
+express	エクスプレス	express	エクスプレス		N
+express	急行	express	急行		N
+intel	intel	intel	intel	N	PROPN
+woo	ウー	woo	ウー	N	PROPN
+apollo	アポロ	apollo	アポロ		PROPN
+abu	アブー	abu	アブー	N	PROPN
+zonguldak	ゾングルダク	zonguldak	ゾングルダク	N	PROPN
+mài	失敗	mài	失敗	N	V
+anhalt	アンハルト	anhalt	アンハルト		PROPN
+burgos	ブルゴス	burgos	ブルゴス	NUM	PROPN
+hiên	ベランダ	hiên	ベランダ		N
+hiên	パティオ	hiên	パティオ		N
+hiên	ポーチ	hiên	ポーチ		N
+múi	zone	múi	zone	N	PROPN
+casablanca	カサブランカ	casablanca	カサブランカ		PROPN
+heteropoda	heteropoda	heteropoda	heteropoda	N	PROPN
+morgan	モルガン	morgan	モルガン		PROPN
+legend	伝説	legend	伝説	V	N
+doi	土居	doi	土居	N	PROPN
+doi	土井	doi	土井	N	PROPN
+doi	ドイ	doi	ドイ	N	PROPN
+foot	フィート	foot	フィート		N
+santos	サントス	santos	サントス	N	PROPN
+mus	mus	mus	mus		PROPN
+manageryears	manageryears	manageryears	manageryears	ADJ	PROPN
+matthew	マシュー	matthew	マシュー		PROPN
+manuel	マニュエル	manuel	マニュエル	N	PROPN
+manuel	マヌエル	manuel	マヌエル	N	PROPN
+berkeley	バークリー	berkeley	バークリー	N	PROPN
+constantinopolis	コンスタンティノープル	constantinopolis	コンスタンティノープル		PROPN
+guam	グアム	guam	グアム	N	PROPN
+robinson	ロビンソン	robinson	ロビンソン	N	PROPN
+murray	マレー	murray	マレー	N	PROPN
+kentucky	ケンタッキー	kentucky	ケンタッキー		PROPN
+mine	鉱山	mine	鉱山		N
+cầy	いくつか	cầy	いくつか	N	ADV
+cầy	いくらか	cầy	いくらか	N	ADV
+bấm	プレス	bấm	プレス	V	N
+bấm	クリック	bấm	クリック	V	N
+gif	gif	gif	gif	N	PROPN
+gif	gif	gif	gif	N	PROPN
+seiji	誠二	seiji	誠二	N	PROPN
+cameron	キャメロン	cameron	キャメロン		PROPN
+kbs	kbs	kbs	kbs	N	PROPN
+form	図形	form	図形		N
+form	形状	form	形状		N
+form	シェイプ	form	シェイプ		N
+sin	sin	sin	sin	N	PROPN
+concert	コンサート	concert	コンサート		N
+erzincan	エルズィンジャン	erzincan	エルズィンジャン	N	PROPN
+xvi	xvi	xvi	xvi		PROPN
+cau	cau	cau	cau	N	PROPN
+luther	ルター	luther	ルター	N	PROPN
+síp	アルクマール	síp	アルクマール	N	PROPN
+síp	キプロス	síp	キプロス	N	PROPN
+síp	キプロス	síp	キプロス	N	PROPN
+double	ダブル	double	ダブル		N
+double	二	double	二		NUM
+lgbt	lgbt	lgbt	lgbt		PROPN
+eucalyptus	ユーカリ	eucalyptus	ユーカリ	N	PROPN
+css	css	css	css	N	PROPN
+becker	ベッカー	becker	ベッカー		PROPN
+giông	雷雨	giông	雷雨	V	N
+giông	newt	giông	newt	V	PROPN
+giông	雷雨	giông	雷雨	V	N
+rize	リゼ	rize	リゼ	NUM	PROPN
+buồm	船出	buồm	船出	N	V
+balkan	バルカン	balkan	バルカン	N	PROPN
+tăm	爪	tăm	爪		N
+graham	グラハム	graham	グラハム		PROPN
+graham	グレアム	graham	グレアム		PROPN
+vuốt	スワイプ	vuốt	スワイプ	V	N
+vuốt	クリフ	vuốt	クリフ	V	PROPN
+ross	ロス	ross	ロス		N
+ram	ram	ram	ram	N	PROPN
+hoi	hoi	hoi	hoi		PROPN
+airbus	エアバス	airbus	エアバス	N	PROPN
+bong	ボング	bong	ボング	N	PROPN
+europa	エウロパ	europa	エウロパ	N	PROPN
+camp	camp	camp	camp	N	PROPN
+diels	ディールス	diels	ディールス		PROPN
+nov	nov	nov	nov		PROPN
+giovanni	ジョヴァンニ	giovanni	ジョヴァンニ		PROPN
+giovanni	ジョバンニ	giovanni	ジョバンニ		PROPN
+ninja	ニンジャ	ninja	ニンジャ	N	PROPN
+austin	オースチン	austin	オースチン	N	PROPN
+lách	脾臓	lách	脾臓	ADJ	
+angel	アンヘル	angel	アンヘル		PROPN
+angel	エンジェル	angel	エンジェル		N
+angel	天使	angel	天使		N
+nixon	ニクソン	nixon	ニクソン	N	PROPN
+đắng	一生	đắng	一生	ADJ	N
+đắng	ハード	đắng	ハード	ADJ	N
+đắng	ビター	đắng	ビター	ADJ	N
+alto	アルト	alto	アルト		PROPN
+animalia	animalia	animalia	animalia		PROPN
+leon	レオン	leon	レオン		PROPN
+kushiro	釧路	kushiro	釧路	NUM	
+mars	マーズ	mars	マーズ		PROPN
+mars	火星	mars	火星		N
+phoenix	フェニックス	phoenix	フェニックス		PROPN
+yahoo	ヤフー	yahoo	ヤフー	N	PROPN
+yahoo	yahoo	yahoo	yahoo	N	PROPN
+obama	オバマ	obama	オバマ	N	PROPN
+curtis	カーティス	curtis	カーティス		PROPN
+jose	ホセ	jose	ホセ	N	PROPN
+jose	ホセ	jose	ホセ	N	PROPN
+philippine	フィリピン	philippine	フィリピン	N	PROPN
+churchill	チャーチル	churchill	チャーチル	N	PROPN
+rosa	ローザ	rosa	ローザ		PROPN
+incheon	仁川	incheon	仁川	N	PROPN
+géographique	géographique	géographique	géographique		PROPN
+cat	ねこ	cat	ねこ	N	PROPN
+oliver	オリヴァー	oliver	オリヴァー		PROPN
+oliver	オリバー	oliver	オリバー		PROPN
+urata	浦田	urata	浦田	N	PROPN
+billy	ビリー	billy	ビリー	N	PROPN
+azur	アズール	azur	アズール		PROPN
+square	正方	square	正方		N
+square	四角	square	四角		PROPN
+square	広場	square	広場		N
+budapest	ブダペスト	budapest	ブダペスト	N	PROPN
+xiv	xiv	xiv	xiv		PROPN
+dec	dec	dec	dec		PROPN
+roy	ロイ	roy	ロイ		PROPN
+gieo	プラント	gieo	プラント	V	N
+gieo	植物	gieo	植物	V	N
+montgomery	モンゴメリー	montgomery	モンゴメリー		PROPN
+athena	アテーナー	athena	アテーナー	N	PROPN
+tua	tua	tua	tua	V	PROPN
+june	六月	june	六月		N
+nhát	臆病	nhát	臆病	V	
+nhát	臆病者	nhát	臆病者	V	
+nhát	イエロー	nhát	イエロー	V	N
+nhát	黄色	nhát	黄色	V	N
+johnny	ジョニー	johnny	ジョニー	N	PROPN
+miguel	ミゲル	miguel	ミゲル		PROPN
+jonathan	ジョナサン	jonathan	ジョナサン	N	PROPN
+maya	マヤ	maya	マヤ		PROPN
+flying	飛ぶ	flying	飛ぶ	N	V
+florence	フローレンス	florence	フローレンス	N	PROPN
+florence	フィレンツェ	florence	フィレンツェ	N	PROPN
+guy	king	guy	king		PROPN
+guy	国王	guy	国王		N
+guy	キング	guy	キング		N
+guy	ガイ	guy	ガイ		PROPN
+aguilera	アギレラ	aguilera	アギレラ	N	PROPN
+sập	たたむ	sập	たたむ	V	
+copa	コパ	copa	コパ	N	PROPN
+nokia	ノキア	nokia	ノキア	N	PROPN
+hunter	狩人	hunter	狩人		N
+hunter	ハンター	hunter	ハンター		PROPN
+putnam	パットナム	putnam	パットナム	N	PROPN
+que	que	que	que	N	PROPN
+gabon	ガボン	gabon	ガボン	N	PROPN
+château	シャトー	château	シャトー	N	PROPN
+japonica	ジャポニカ	japonica	ジャポニカ	N	PROPN
+madison	マディソン	madison	マディソン		PROPN
+roewer	roewer	roewer	roewer	N	PROPN
+adana	アダナ	adana	アダナ	N	PROPN
+flash	flash	flash	flash	N	PROPN
+wagner	ワーグナー	wagner	ワーグナー		PROPN
+wagner	ワグナー	wagner	ワグナー		PROPN
+stars	stars	stars	stars		PROPN
+stars	スターズ	stars	スターズ		PROPN
+pro	プロ	pro	プロ		N
+pro	pro	pro	pro		PROPN
+hawk	ホーク	hawk	ホーク	N	PROPN
+hawk	タカ	hawk	タカ	N	PROPN
+phêrô	ペーター	phêrô	ペーター	N	PROPN
+phêrô	peter	phêrô	peter	N	PROPN
+phêrô	ピーター	phêrô	ピーター	N	PROPN
+baltimore	ボルチモア	baltimore	ボルチモア	N	PROPN
+seo	seo	seo	seo		PROPN
+toledo	トレド	toledo	トレド	N	PROPN
+mod	mod	mod	mod	N	PROPN
+augustus	オーガスタス	augustus	オーガスタス	N	PROPN
+augustus	アウグストゥス	augustus	アウグストゥス	N	PROPN
+fraser	フレーザー	fraser	フレーザー		PROPN
+auvergne	オーヴェルニュ	auvergne	オーヴェルニュ		PROPN
+delta	デルタ	delta	デルタ		PROPN
+kent	ケント	kent	ケント		PROPN
+hopkins	ホプキンス	hopkins	ホプキンス	N	PROPN
+baehr	baehr	baehr	baehr	N	PROPN
+utype	utype	utype	utype		PROPN
+müller	ミュラー	müller	ミュラー	N	PROPN
+hdi	hdi	hdi	hdi	NUM	PROPN
+low	低い	low	低い		ADJ
+flickr	flickr	flickr	flickr		PROPN
+günther	ギュンター	günther	ギュンター		PROPN
+haiti	ハイチ	haiti	ハイチ		PROPN
+tỉa	トリム	tỉa	トリム	V	N
+tỉa	剪定	tỉa	剪定	V	
+búa	ハンマー	búa	ハンマー	V	N
+búa	ハマー	búa	ハマー	V	PROPN
+ames	エイムズ	ames	エイムズ		PROPN
+ghen	嫉妬	ghen	嫉妬	N	V
+kuwait	クウェート	kuwait	クウェート	N	PROPN
+georg	ゲオルク	georg	ゲオルク		PROPN
+jennifer	ジェニファー	jennifer	ジェニファー	N	PROPN
+soi	ウルフ	soi	ウルフ	V	PROPN
+soi	オオカミ	soi	オオカミ	V	PROPN
+atlanta	アトランタ	atlanta	アトランタ	N	PROPN
+marc	マルク	marc	マルク		PROPN
+marc	marc	marc	marc		PROPN
+chao	チャオ	chao	チャオ	PART	PROPN
+justin	ジャスティン	justin	ジャスティン	N	PROPN
+ctenus	ctenus	ctenus	ctenus		PROPN
+bundesliga	ブンデスリーガ	bundesliga	ブンデスリーガ	N	PROPN
+laurent	ローラン	laurent	ローラン		PROPN
+athens	アテネ	athens	アテネ	N	PROPN
+ppp	ppp	ppp	ppp	N	PROPN
+hemsl	hemsl	hemsl	hemsl		PROPN
+giàn	bps	giàn	bps	N	PROPN
+luke	ルカ	luke	ルカ	N	PROPN
+chốn	ほこり	chốn	ほこる	N	V
+tasmania	タスマニア	tasmania	タスマニア		PROPN
+teen	teen	teen	teen	N	PROPN
+vancouver	バンクーバー	vancouver	バンクーバー	N	PROPN
+rai	ライ	rai	ライ		N
+rai	rai	rai	rai		PROPN
+carthage	カルタゴ	carthage	カルタゴ	N	PROPN
+thompson	トンプソン	thompson	トンプソン		PROPN
+jeff	ジェフ	jeff	ジェフ	N	PROPN
+update	アップデート	update	アップデート	V	PROPN
+shortsummary	shortsummary	shortsummary	shortsummary		PROPN
+harold	ハロルド	harold	ハロルド		PROPN
+atlas	アトラス	atlas	アトラス		PROPN
+kìm	ペンチ	kìm	ペンチ	V	N
+kìm	神経質	kìm	神経質	V	ADJ
+fernando	フェルナンド	fernando	フェルナンド	N	PROPN
+alternative	オルタナティブ	alternative	オルタナティブ	N	PROPN
+alternative	代替	alternative	代替	N	V
+charlotte	シャルロット	charlotte	シャルロット		PROPN
+monroe	モンロー	monroe	モンロー	N	PROPN
+suzuki	スズキ	suzuki	スズキ	N	PROPN
+suzuki	鈴木	suzuki	鈴木	N	PROPN
+seattle	シアトル	seattle	シアトル		PROPN
+julia	ジュリア	julia	ジュリア	N	PROPN
+julia	ユリア	julia	ユリア	N	PROPN
+mill	ミル	mill	ミル		PROPN
+cpu	cpu	cpu	cpu	N	PROPN
+gary	ゲーリー	gary	ゲーリー	N	PROPN
+gary	ギャリー	gary	ギャリー	N	PROPN
+gary	ゲイリー	gary	ゲイリー	N	PROPN
+cuenca	クエンカ	cuenca	クエンカ	N	PROPN
+eugen	オイゲン	eugen	オイゲン	N	PROPN
+blues	ブルース	blues	ブルース	N	PROPN
+evolution	郵便	evolution	郵便		N
+evolution	メール	evolution	メール		N
+ara	ara	ara	ara		PROPN
+ara	コンゴウイン	ara	コンゴウイン		PROPN
+utah	ユタ	utah	ユタ	N	PROPN
+mịn	スムーズ	mịn	スムーズ	N	ADJ
+mịn	滑らか	mịn	滑らか	N	ADJ
+barnes	バーンズ	barnes	バーンズ		PROPN
+self	セルフ	self	セルフ		N
+self	自己	self	自己		N
+silva	シルバ	silva	シルバ	N	PROPN
+arnold	アーノルド	arnold	アーノルド		PROPN
+arnold	アルノルト	arnold	アルノルト		PROPN
+yoon	ユン	yoon	ユン	N	PROPN
+cairo	カイロ	cairo	カイロ	N	PROPN
+dylan	ディラン	dylan	ディラン		PROPN
+kurt	クルト	kurt	クルト		PROPN
+stuart	スチュアート	stuart	スチュアート		PROPN
+stuart	ステュアート	stuart	ステュアート		PROPN
+maxim	マキシム	maxim	マキシム		PROPN
+maxim	マクシム	maxim	マクシム		PROPN
+fields	フィールズ	fields	フィールズ	N	PROPN
+jacob	ジャコブ	jacob	ジャコブ	N	PROPN
+matt	マット	matt	マット		N
+xoa	ホープ	xoa	ホープ		PROPN
+xoa	希望	xoa	希望		V
+conan	コナン	conan	コナン	N	PROPN
+reed	リード	reed	リード		N
+sofia	ソフィア	sofia	ソフィア		PROPN
+sofia	ソフィア	sofia	ソフィア		PROPN
+leonard	レナード	leonard	レナード		PROPN
+asura	アスラ	asura	アスラ	N	PROPN
+listclass	listclass	listclass	listclass		PROPN
+willis	ウィリス	willis	ウィリス	N	PROPN
+jpeg	jpeg	jpeg	jpeg	N	PROPN
+nhúng	組込み	nhúng	組込み	V	
+amata	アマタ	amata	アマタ	N	PROPN
+hiroshima	広島	hiroshima	広島		PROPN
+margaret	マーガレット	margaret	マーガレット		PROPN
+scytodes	scytodes	scytodes	scytodes		PROPN
+fantasy	ファンタジー	fantasy	ファンタジー		N
+tower	タワー	tower	タワー		N
+links	リンク	links	リンク		V
+juventus	ユヴェントス	juventus	ユヴェントス	N	PROPN
+lily	ユリ	lily	ユリ	N	PROPN
+lily	リリー	lily	リリー	N	PROPN
+hokkaidō	北海道	hokkaidō	北海道		PROPN
+nicholas	ニコラス	nicholas	ニコラス		PROPN
+guadalajara	グアダラハラ	guadalajara	グアダラハラ	N	PROPN
+deep	ディープ	deep	ディープ		N
+deep	深い	deep	深い		ADJ
+canadian	カナダ	canadian	カナダ	N	PROPN
+canadian	カナディアン	canadian	カナディアン	N	PROPN
+lion	ライオン	lion	ライオン		N
+lion	獅子	lion	獅子		N
+thomson	トムソン	thomson	トムソン	N	PROPN
+samoa	サモア	samoa	サモア	N	PROPN
+bón	ボン	bón	ボン	V	PROPN
+magic	magic	magic	magic	N	PROPN
+kẹp	ハグ	kẹp	ハグ	N	PROPN
+poly	ポリ	poly	ポリ		PROPN
+ngạo	誇り	ngạo	誇る	N	V
+call	通話	call	通話		V
+call	コール	call	コール		N
+mario	マリオ	mario	マリオ		PROPN
+đọng	真ん中	đọng	真ん中	V	N
+đọng	ミドル	đọng	ミドル	V	N
+hunt	ハント	hunt	ハント		PROPN
+hunt	狩り	hunt	狩る		V
+cyrus	キュロス	cyrus	キュロス	N	PROPN
+bẩn	汚い	bẩn	汚い	V	ADJ
+bẩn	ダーティ	bẩn	ダーティ	V	N
+bẩn	ダーティー	bẩn	ダーティー	V	N
+ward	ウォード	ward	ウォード		PROPN
+thoáng	ちらっと	thoáng	ちらっと	V	ADV
+crawford	クロフォード	crawford	クロフォード		PROPN
+chà	wow	chà	wow	N	PROPN
+chà	まあ	chà	まあ	N	CONJ
+jakarta	ジャカルタ	jakarta	ジャカルタ	N	PROPN
+peters	ペータース	peters	ペータース		PROPN
+peters	ピーターズ	peters	ピーターズ		PROPN
+mail	郵便	mail	郵便	V	N
+mail	メール	mail	メール	V	N
+felix	フェリックス	felix	フェリックス	N	PROPN
+babylon	バビロン	babylon	バビロン		PROPN
+babylon	バビロニア	babylon	バビロニア		PROPN
+cyclosa	cyclosa	cyclosa	cyclosa	V	PROPN
+ang	アン	ang	アン	N	PROPN
+sakura	さくら	sakura	さくら		PROPN
+iberia	イベリア	iberia	イベリア	N	PROPN
+chê	注目	chê	注目	ADJ	V
+leipzig	ライプツィヒ	leipzig	ライプツィヒ	N	PROPN
+col	col	col	col		PROPN
+holland	オランダ	holland	オランダ		PROPN
+pax	pax	pax	pax	N	PROPN
+fred	フレッド	fred	フレッド		PROPN
+boris	ボリス	boris	ボリス		PROPN
+jeffrey	ジェフリー	jeffrey	ジェフリー	N	PROPN
+eagle	ワシ	eagle	ワシ	N	PROPN
+eagle	イーグル	eagle	イーグル	N	PROPN
+venice	ベニス	venice	ベニス	N	PROPN
+venice	ヴェネツィア	venice	ヴェネツィア	N	PROPN
+venice	ベネチア	venice	ベネチア	N	PROPN
+isaac	アイザック	isaac	アイザック		PROPN
+isaac	イサク	isaac	イサク		PROPN
+malaya	マラヤ	malaya	マラヤ	N	PROPN
+blanco	ブランコ	blanco	ブランコ	N	PROPN
+takeshi	たけし	takeshi	たけし	N	PROPN
+hat	憎悪	hat	憎悪	N	V
+hat	憎悪	hat	憎悪	N	V
+hat	嫌い	hat	嫌い	N	
+hat	憎しみ	hat	憎しみ	N	V
+armstrong	アームストロング	armstrong	アームストロング		PROPN
+clay	クレイ	clay	クレイ		PROPN
+clay	粘土	clay	粘土		N
+proton	陽子	proton	陽子	N	PROPN
+marco	マルコ	marco	マルコ		PROPN
+urani	ウラン	urani	ウラン	N	PROPN
+cooper	クーパー	cooper	クーパー		PROPN
+copy	コピー	copy	コピー	N	V
+mitsubishi	三菱	mitsubishi	三菱	N	PROPN
+ernest	アーネスト	ernest	アーネスト		PROPN
+pgs	pgs	pgs	pgs	N	PROPN
+ronald	ロナルド	ronald	ロナルド		PROPN
+yamato	大和	yamato	大和		PROPN
+yamato	ヤマト	yamato	ヤマト		PROPN
+yamato	やまと	yamato	やまと		PROPN
+mali	マリ	mali	マリ	NUM	PROPN
+voss	ヴォス	voss	ヴォス	N	PROPN
+himalaya	ヒマラヤ	himalaya	ヒマラヤ	N	PROPN
+thunb	thunb	thunb	thunb		PROPN
+sparta	スパルタ	sparta	スパルタ	N	PROPN
+kosovo	コソボ	kosovo	コソボ		PROPN
+bún	バンズ	bún	バンズ	N	PROPN
+bóp	ウォレット	bóp	ウォレット	V	PROPN
+bóp	財布	bóp	財布	V	N
+bóp	財布	bóp	財布	V	N
+diesel	ディーゼル	diesel	ディーゼル	N	PROPN
+rơm	わら	rơm	わら	N	
+thằng	ブラッディ	thằng	ブラッディ		PROPN
+birmingham	バーミンガム	birmingham	バーミンガム		PROPN
+catarina	カタリナ	catarina	カタリナ	N	PROPN
+catarina	キャサリン	catarina	キャサリン	N	PROPN
+catarina	カタリナ	catarina	カタリナ	N	PROPN
+trăn	python	trăn	python	N	PROPN
+trăn	ニシキヘビ	trăn	ニシキヘビ	N	PROPN
+nintendo	任天堂	nintendo	任天堂		PROPN
+parker	パーカー	parker	パーカー		N
+auckland	オークランド	auckland	オークランド	N	PROPN
+tottenham	トッテナム	tottenham	トッテナム	N	PROPN
+mbc	mbc	mbc	mbc	N	PROPN
+abdul	アブドゥル	abdul	アブドゥル	N	PROPN
+lắc	シェイク	lắc	シェイク	V	PROPN
+lắc	shake	lắc	shake	V	PROPN
+armament	軍需	armament	軍需		N
+sweet	スウィート	sweet	スウィート		N
+sweet	甘い	sweet	甘い		ADJ
+nana	ナナ	nana	ナナ		PROPN
+thối	ブタ	thối	ブタ	V	N
+horn	ホルン	horn	ホルン	N	PROPN
+dallas	ダラス	dallas	ダラス	N	PROPN
+lima	リマ	lima	リマ	N	PROPN
+raw	raw	raw	raw		PROPN
+grosso	グロッソ	grosso	グロッソ		PROPN
+qatar	カタール	qatar	カタール	N	PROPN
+olivier	オリヴィエ	olivier	オリヴィエ		PROPN
+amasya	アマスィヤ	amasya	アマスィヤ	N	PROPN
+terry	テリー	terry	テリー	N	PROPN
+nitơ	窒素	nitơ	窒素	N	
+combat	戦闘	combat	戦闘	N	V
+concerto	コンチェルト	concerto	コンチェルト	N	PROPN
+aloe	アロエ	aloe	アロエ	N	PROPN
+rothschild	ロスチャイルド	rothschild	ロスチャイルド		PROPN
+kiệu	担い	kiệu	担う	N	V
+caledonia	カレドニア	caledonia	カレドニア	N	PROPN
+ono	小野	ono	小野	N	PROPN
+phillips	フィリップス	phillips	フィリップス		PROPN
+crystal	crystal	crystal	crystal	N	PROPN
+versailles	ヴェルサイユ	versailles	ヴェルサイユ	N	PROPN
+vượn	テナガザル	vượn	テナガザル	N	PROPN
+chàm	乾癬	chàm	乾癬	N	
+chàm	インディゴ	chàm	インディゴ	N	PROPN
+garcía	ガルシア	garcía	ガルシア		PROPN
+belle	ベル	belle	ベル		N
+hills	ヒルズ	hills	ヒルズ		PROPN
+palau	パラオ	palau	パラオ	N	PROPN
+chun	チュン	chun	チュン	N	PROPN
+darwin	ダーウィン	darwin	ダーウィン	N	PROPN
+gonzález	ゴンサレス	gonzález	ゴンサレス	N	PROPN
+gaziantep	ガズィアンテプ	gaziantep	ガズィアンテプ	N	PROPN
+ent	エント	ent	エント	N	PROPN
+ent	ent	ent	ent	N	PROPN
+dubai	ドバイ	dubai	ドバイ	N	PROPN
+harvey	ハービー	harvey	ハービー		PROPN
+harvey	ハーヴィー	harvey	ハーヴィー		PROPN
+harvey	ハーヴェイ	harvey	ハーヴェイ		PROPN
+rhododendron	シャクナゲ	rhododendron	シャクナゲ	N	PROPN
+soviet	ソビエト	soviet	ソビエト		PROPN
+xix	xix	xix	xix	NUM	PROPN
+enterprise	エンター	enterprise	エンター		PROPN
+enterprise	企業	enterprise	企業		N
+ukraine	ウクライナ	ukraine	ウクライナ	N	PROPN
+mumbai	ムンバイ	mumbai	ムンバイ	N	PROPN
+marion	マリオン	marion	マリオン		PROPN
+angkor	アンコール	angkor	アンコール	N	PROPN
+come	comme	come	comme		PROPN
+denizli	デニズリ	denizli	デニズリ	N	PROPN
+nhặt	ピック	nhặt	ピック	V	N
+gustav	グスタフ	gustav	グスタフ	N	PROPN
+act	アクト	act	アクト	NUM	PROPN
+act	act	act	act	NUM	PROPN
+vegas	vegas	vegas	vegas		PROPN
+vegas	ベガス	vegas	ベガス		PROPN
+win	win	win	win	N	PROPN
+win	勝利	win	勝利	N	V
+win	勝ち	win	勝つ	N	V
+win	勝つ	win	勝つ	N	V
+seven	seven	seven	seven		PROPN
+seven	セブン	seven	セブン		PROPN
+ring	リング	ring	リング		N
+ring	指輪	ring	指輪		N
+ajax	アイアース	ajax	アイアース	N	PROPN
+sukhoi	スホーイ	sukhoi	スホーイ	N	PROPN
+edge	エッジ	edge	エッジ		N
+edge	edge	edge	edge		PROPN
+rainbow	レインボー	rainbow	レインボー		N
+bella	ベラ	bella	ベラ		N
+bella	bellas	bella	bellas		PROPN
+werner	ヴェルナー	werner	ヴェルナー	N	PROPN
+dog	イヌ	dog	イヌ		N
+tía	pop	tía	pop	N	PROPN
+test	テスト	test	テスト	V	N
+twin	ツイン	twin	ツイン		N
+twin	双生	twin	双生		N
+twin	双子	twin	双子		N
+edinburgh	エディンバラ	edinburgh	エディンバラ	N	PROPN
+vụn	解像	vụn	解像	ADJ	N
+spacewatch	spacewatch	spacewatch	spacewatch		PROPN
+mhz	mhz	mhz	mhz	N	PROPN
+wallace	ウォレス	wallace	ウォレス	N	PROPN
+lisa	リサ	lisa	リサ		PROPN
+ronaldo	ロナウド	ronaldo	ロナウド	N	PROPN
+joel	ジョエル	joel	ジョエル	N	PROPN
+fletcher	フレッチャー	fletcher	フレッチャー		PROPN
+indigofera	indigofera	indigofera	indigofera		PROPN
+dominica	ドミニカ	dominica	ドミニカ	N	PROPN
+bobby	ボビー	bobby	ボビー	N	PROPN
+hudson	ハドソン	hudson	ハドソン	N	PROPN
+beyoncé	ビヨンセ	beyoncé	ビヨンセ	N	PROPN
+tien	お	tien	お		N
+tien	貨幣	tien	貨幣		N
+tien	マネー	tien	マネー		N
+tien	金銭	tien	金銭		N
+tien	ティエン	tien	ティエン		PROPN
+stevens	スティーヴンス	stevens	スティーヴンス		PROPN
+def	def	def	def	N	PROPN
+moldova	モルドバ	moldova	モルドバ	N	PROPN
+warszawa	ワルシャワ	warszawa	ワルシャワ	N	PROPN
+block	ブロック	block	ブロック		N
+tẩu	チェイス	tẩu	チェイス	N	PROPN
+dean	ディーン	dean	ディーン		PROPN
+wat	ワット	wat	ワット	N	PROPN
+mariana	マリアナ	mariana	マリアナ		PROPN
+lén	こっそり	lén	こっそり	V	ADV
+caroline	キャロライン	caroline	キャロライン		PROPN
+morrison	モリソン	morrison	モリソン		PROPN
+similis	similis	similis	similis		PROPN
+rené	ルネ	rené	ルネ	N	PROPN
+rené	ルネ	rené	ルネ	N	PROPN
+meta	メタ	meta	メタ	N	PROPN
+zamora	サモラ	zamora	サモラ	N	PROPN
+ingrid	イングリッド	ingrid	イングリッド	N	PROPN
+rudolf	ルドルフ	rudolf	ルドルフ		PROPN
+dipoena	dipoena	dipoena	dipoena	N	PROPN
+oda	織田	oda	織田	N	PROPN
+oda	小田	oda	小田	N	PROPN
+morris	モーリス	morris	モーリス		PROPN
+morris	モリス	morris	モリス		PROPN
+oslo	オスロ	oslo	オスロ	N	PROPN
+sms	sms	sms	sms		PROPN
+bologna	ボローニャ	bologna	ボローニャ	N	PROPN
+della	dela	della	dela	N	PROPN
+phone	隠し	phone	隠す	N	V
+ravenna	ラヴェンナ	ravenna	ラヴェンナ		PROPN
+danny	ダニー	danny	ダニー	N	PROPN
+wolfgang	ヴォルフガング	wolfgang	ヴォルフガング	N	PROPN
+vista	vista	vista	vista		PROPN
+vista	ビスタ	vista	ビスタ		PROPN
+owen	オーウェン	owen	オーウェン	N	PROPN
+owen	オーエン	owen	オーエン	N	PROPN
+fischer	フィッシャー	fischer	フィッシャー	N	PROPN
+suriname	スリナム	suriname	スリナム	N	PROPN
+siirt	スィイルト	siirt	スィイルト	NUM	PROPN
+whitney	ホイットニー	whitney	ホイットニー	V	PROPN
+kenshin	謙信	kenshin	謙信		PROPN
+ghê	グロス	ghê	グロス	PART	PROPN
+edo	江戸	edo	江戸	N	PROPN
+cọp	トラ	cọp	トラ	N	PROPN
+cọp	タイガー	cọp	タイガー	N	PROPN
+bug	bug	bug	bug	N	PROPN
+price	プライス	price	プライス		N
+price	対価	price	対価		N
+price	値段	price	値段		N
+price	価格	price	価格		N
+emma	エマ	emma	エマ		PROPN
+alberto	アルベルト	alberto	アルベルト	N	PROPN
+ávila	アビラ	ávila	アビラ		PROPN
+nuốt	ツバメ	nuốt	ツバメ	V	PROPN
+liberty	リバティ	liberty	リバティ		PROPN
+liberty	自由	liberty	自由		ADJ
+toa	東亜	toa	東亜	V	PROPN
+toa	トーア	toa	トーア	V	PROPN
+dall	ダール	dall	ダール	NUM	PROPN
+download	オープン	download	オープン	V	N
+memorial	追悼	memorial	追悼		V
+memorial	記念碑	memorial	記念碑		N
+sim	slm	sim	slm	N	PROPN
+sim	sim	sim	sim	N	PROPN
+tel	tel	tel	tel		PROPN
+linda	linda	linda	linda		PROPN
+linda	リンダ	linda	リンダ		PROPN
+hispanic	ヒスパニック	hispanic	ヒスパニック		PROPN
+carlo	カルロ	carlo	カルロ	N	PROPN
+cannes	カンヌ	cannes	カンヌ	N	PROPN
+saigon	サイゴン	saigon	サイゴン	N	PROPN
+trans	トランス	trans	トランス		N
+toan	ストレス	toan	ストレス		N
+brooklyn	ブルックリン	brooklyn	ブルックリン	N	PROPN
+mason	メイソン	mason	メイソン		PROPN
+magnolia	マグノリア	magnolia	マグノリア	N	PROPN
+mangora	mangora	mangora	mangora		PROPN
+iris	アイリス	iris	アイリス		PROPN
+helena	ヘレナ	helena	ヘレナ		PROPN
+torre	トッレ	torre	トッレ	N	PROPN
+vector	ベクター	vector	ベクター	N	PROPN
+kai	kai	kai	kai		PROPN
+kai	カイ	kai	カイ		PROPN
+break	休憩	break	休憩		V
+break	ブレーク	break	ブレーク		N
+break	区切り	break	区切り		V
+greg	グレッグ	greg	グレッグ		PROPN
+sevilla	セビリア	sevilla	セビリア	N	PROPN
+sevilla	セビージャ	sevilla	セビージャ	N	PROPN
+sevilla	セビリア	sevilla	セビリア	N	PROPN
+monaco	モナコ	monaco	モナコ	N	PROPN
+pob	pob	pob	pob		PROPN
+xoài	マンゴ	xoài	マンゴ	N	PROPN
+baranya	バラニャ	baranya	バラニャ	N	PROPN
+htv	htv	htv	htv	N	PROPN
+roberto	ロベルト	roberto	ロベルト	N	PROPN
+dia	dia	dia	dia		PROPN
+atp	atp	atp	atp	N	PROPN
+triple	トリプル	triple	トリプル	NUM	N
+ibm	ibm	ibm	ibm	N	PROPN
+snow	スノー	snow	スノー		N
+snow	snow	snow	snow		N
+steud	steud	steud	steud		PROPN
+cọc	擁護	cọc	擁護	N	V
+sồi	オークス	sồi	オークス	N	PROPN
+sồi	オーク	sồi	オーク	N	PROPN
+discovery	ディスカバリー	discovery	ディスカバリー	N	PROPN
+discovery	発見	discovery	発見	N	V
+everton	エバートン	everton	エバートン	N	PROPN
+grace	恩寵	grace	恩寵		N
+grace	グレース	grace	グレース		PROPN
+grace	グレイス	grace	グレイス		PROPN
+hanh	退役	hanh	退役		N
+hello	こんにち	hello	こんにち		N
+hello	ハロー	hello	ハロー		PROPN
+bombus	マルハナバチ	bombus	マルハナバチ	N	PROPN
+bean	ビーン	bean	ビーン	N	PROPN
+indica	インディカ	indica	インディカ	N	PROPN
+meyer	マイヤー	meyer	マイヤー		PROPN
+meyer	メイヤー	meyer	メイヤー		PROPN
+gạt	国民	gạt	国民	V	N
+gạt	ナショナル	gạt	ナショナル	V	PROPN
+phanxicô	フランシス	phanxicô	フランシス	N	PROPN
+bremen	ブレーメン	bremen	ブレーメン	N	PROPN
+belize	ベリーズ	belize	ベリーズ	N	PROPN
+botswana	ボツワナ	botswana	ボツワナ	N	PROPN
+luzon	ルソン島	luzon	ルソン島	N	PROPN
+mhnt	mhnt	mhnt	mhnt	N	PROPN
+base	塩基	base	塩基		N
+base	base	base	base		PROPN
+base	ベース	base	ベース		N
+pour	注ぐ	pour	注ぐ		V
+hydro	ハイドロ	hydro	ハイドロ	N	PROPN
+siberia	シベリア	siberia	シベリア	N	PROPN
+hanover	ハノーバー	hanover	ハノーバー		PROPN
+hanover	ハノーファー	hanover	ハノーファー		PROPN
+hanover	ハノーファー	hanover	ハノーファー		PROPN
+eva	eva	eva	eva		PROPN
+eva	エヴァ	eva	エヴァ		PROPN
+eva	イブ	eva	イブ		PROPN
+eva	イヴ	eva	イヴ		PROPN
+bryant	ブライアント	bryant	ブライアント	N	PROPN
+simpson	シンプソン	simpson	シンプソン	N	PROPN
+orleans	オルレアン	orleans	オルレアン		PROPN
+led	led	led	led	N	PROPN
+ghost	お	ghost	お	V	N
+ghost	幽霊	ghost	幽霊	V	N
+ghost	ゴースト	ghost	ゴースト	V	N
+helsinki	ヘルシンキ	helsinki	ヘルシンキ	N	PROPN
+ren	ren	ren	ren	N	PROPN
+soyuz	ソユーズ	soyuz	ソユーズ	N	PROPN
+lynch	リンチ	lynch	リンチ		N
+eskişehir	エスキシェヒル	eskişehir	エスキシェヒル	N	PROPN
+margin	マージン	margin	マージン	V	N
+margin	余白	margin	余白	V	N
+murphy	マーフィー	murphy	マーフィー		PROPN
+thiếc	スズ	thiếc	スズ	N	PROPN
+ana	ana	ana	ana	N	PROPN
+ana	アナ	ana	アナ	N	PROPN
+ville	ヴィル	ville	ヴィル	N	PROPN
+lopez	ロペス	lopez	ロペス	N	PROPN
+mút	吸う	mút	吸う	N	V
+bitlis	ビトリス	bitlis	ビトリス		PROPN
+thoa	インフェルノ	thoa	インフェルノ	V	PROPN
+helen	エレーヌ	helen	エレーヌ		PROPN
+helen	ヘレン	helen	ヘレン		PROPN
+honda	ホンダ	honda	ホンダ	N	PROPN
+honda	本田	honda	本田	N	PROPN
+pascal	パスカル	pascal	パスカル	N	PROPN
+zone	ゾーン	zone	ゾーン		N
+zone	zone	zone	zone		PROPN
+bohemia	ボヘミア	bohemia	ボヘミア	N	PROPN
+viola	ヴィオラ	viola	ヴィオラ		PROPN
+viola	ビオラ	viola	ビオラ		PROPN
+neil	ニール	neil	ニール		PROPN
+duke	デューク	duke	デューク	N	PROPN
+quark	クォーク	quark	クォーク	N	PROPN
+singh	シング	singh	シング	N	PROPN
+cạp	スコーピオン	cạp	スコーピオン	N	PROPN
+masdevallia	masdevallia	masdevallia	masdevallia		PROPN
+yearsactive	yearsactive	yearsactive	yearsactive		PROPN
+ova	ova	ova	ova		PROPN
+delaware	デラウェア	delaware	デラウェア	N	PROPN
+mozart	モーツァルト	mozart	モーツァルト	N	PROPN
+rwanda	ルワンダ	rwanda	ルワンダ	N	PROPN
+dennis	デニス	dennis	デニス		PROPN
+rolfe	ロルフ	rolfe	ロルフ		PROPN
+turkmenistan	トルクメニスタン	turkmenistan	トルクメニスタン	N	PROPN
+köln	ケルン	köln	ケルン	N	PROPN
+burundi	ブルンジ	burundi	ブルンジ	N	PROPN
+gothic	ゴシック	gothic	ゴシック	N	PROPN
+brescovit	brescovit	brescovit	brescovit	V	PROPN
+andrea	アンドレア	andrea	アンドレア	N	PROPN
+frog	カエル	frog	カエル		N
+henderson	ヘンダーソン	henderson	ヘンダーソン		PROPN
+granada	グラナダ	granada	グラナダ	N	PROPN
+sex	性的	sex	性的	N	ADJ
+living	リビング	living	リビング		N
+living	living	living	living		PROPN
+marina	marina	marina	marina	N	PROPN
+jerry	ジェリー	jerry	ジェリー	N	PROPN
+itunes	itunes	itunes	itunes	N	PROPN
+lướt	ローリング	lướt	ローリング	V	PROPN
+lướt	サーフィン	lướt	サーフィン	V	N
+liparis	liparis	liparis	liparis		PROPN
+wings	ウイングス	wings	ウイングス	N	PROPN
+cass	カス	cass	カス		N
+cass	キャス	cass	キャス		PROPN
+nôn	嘔吐	nôn	嘔吐	V	
+liberia	リベリア	liberia	リベリア		PROPN
+roxb	roxb	roxb	roxb	N	PROPN
+wells	ヴェルス	wells	ヴェルス	N	PROPN
+wells	ウェルズ	wells	ウェルズ	N	PROPN
+quấn	ラッピング	quấn	ラッピング	V	N
+quấn	折り返し	quấn	折り返し	V	ADV
+quấn	パック	quấn	パック	V	N
+seychelles	セーシェル	seychelles	セーシェル	N	PROPN
+calvin	カルヴィン	calvin	カルヴィン		PROPN
+ivie	ivie	ivie	ivie		PROPN
+jules	ジュール	jules	ジュール	N	PROPN
+đùi	太	đùi	太	N	PROPN
+đùi	太	đùi	太	N	PROPN
+richardson	リチャードソン	richardson	リチャードソン		PROPN
+sol	sol	sol	sol		PROPN
+sol	ソル	sol	ソル		PROPN
+forbes	フォーブス	forbes	フォーブス		PROPN
+rihanna	リアーナ	rihanna	リアーナ		PROPN
+valladolid	バリャドリッド	valladolid	バリャドリッド	N	PROPN
+nacional	ナシオナル	nacional	ナシオナル	N	PROPN
+caribbean	カリブ	caribbean	カリブ	N	PROPN
+bach	バッハ	bach	バッハ	N	PROPN
+bướu	腫瘍	bướu	腫瘍	N	
+brest	ブレスト	brest	ブレスト	N	PROPN
+socks	socks	socks	socks	N	PROPN
+bold	ボールド	bold	ボールド	N	PROPN
+vickers	ヴィッカース	vickers	ヴィッカース	N	PROPN
+fly	fly	fly	fly		PROPN
+fly	ハエ	fly	ハエ		N
+fly	フライ	fly	フライ		N
+fly	飛ぶ	fly	飛ぶ		V
+hugh	ヒュー	hugh	ヒュー	N	PROPN
+andrews	アンドリュース	andrews	アンドリュース	N	PROPN
+nano	ナノ	nano	ナノ	N	PROPN
+nano	nano	nano	nano	N	PROPN
+hannibal	ハンニバル	hannibal	ハンニバル		PROPN
+joachim	ヨアヒム	joachim	ヨアヒム	N	PROPN
+joachim	ヨアキム	joachim	ヨアキム	N	PROPN
+franco	フランコ	franco	フランコ		PROPN
+hlv	コーチング	hlv	コーチング	N	V
+maxwell	マックスウェル	maxwell	マックスウェル		PROPN
+maxwell	マクスウェル	maxwell	マクスウェル		PROPN
+pero	ペロペロ	pero	ペロペロ		N
+gibraltar	ジブラルタル	gibraltar	ジブラルタル	N	PROPN
+knot	結び	knot	結ぶ	N	V
+camus	カミュ	camus	カミュ	N	PROPN
+holmes	ホームズ	holmes	ホームズ		PROPN
+mergedrow	mergedrow	mergedrow	mergedrow	V	PROPN
+hampshire	ハンプシャー	hampshire	ハンプシャー	N	PROPN
+casey	ケーシー	casey	ケーシー		PROPN
+viking	バイキング	viking	バイキング		N
+kiss	キス	kiss	キス		V
+kiss	kiss	kiss	kiss		PROPN
+kiss	接吻	kiss	接吻		N
+lạch	クリーク	lạch	クリーク	N	PROPN
+zoo	zoo	zoo	zoo	N	PROPN
+antoine	アントワーヌ	antoine	アントワーヌ	N	PROPN
+joan	ジョーン	joan	ジョーン	N	PROPN
+twitter	twitter	twitter	twitter		PROPN
+twitter	ツイッター	twitter	ツイッター		PROPN
+campo	campo	campo	campo	N	PROPN
+noi	noi	noi	noi		PROPN
+kenneth	ケネス	kenneth	ケネス		PROPN
+michelin	ミシュラン	michelin	ミシュラン	N	PROPN
+kobe	神戸	kobe	神戸		PROPN
+craig	クレイグ	craig	クレイグ		PROPN
+laura	ローラ	laura	ローラ		PROPN
+nến	蝋燭	nến	蝋燭	N	
+nến	蝋燭	nến	蝋燭	N	
+gardner	ガードナー	gardner	ガードナー		PROPN
+era	時代	era	時代		N
+foster	フォスター	foster	フォスター		PROPN
+cleveland	クリーブランド	cleveland	クリーブランド	N	PROPN
+ashley	アシュリー	ashley	アシュリー	N	PROPN
+ashley	アシュレイ	ashley	アシュレイ	N	PROPN
+cut	cut	cut	cut	N	PROPN
+cut	切り取り	cut	切り取り	N	V
+mercury	マーキュリー	mercury	マーキュリー	N	PROPN
+guardian	ガーディアン	guardian	ガーディアン		PROPN
+guardian	後見	guardian	後見		N
+gamma	ガンマ	gamma	ガンマ	N	PROPN
+silesia	シレジア	silesia	シレジア	N	PROPN
+fighting	ファイティング	fighting	ファイティング		N
+wyoming	ワイオミング	wyoming	ワイオミング	N	PROPN
+hughes	ヒューズ	hughes	ヒューズ		PROPN
+pound	パウンド	pound	パウンド		PROPN
+pound	ポンド	pound	ポンド		N
+pound	ポンド	pound	ポンド		N
+mag	マグ	mag	マグ		N
+mag	mag	mag	mag		PROPN
+acoustic	アコースティック	acoustic	アコースティック		N
+euler	オイラー	euler	オイラー	N	PROPN
+pedicularis	pedicularis	pedicularis	pedicularis	N	PROPN
+columbus	コロンブス	columbus	コロンブス	N	PROPN
+mata	マタ	mata	マタ	N	PROPN
+edu	psu	edu	psu		PROPN
+edu	edu	edu	edu		PROPN
+giant	巨人	giant	巨人	N	PROPN
+giant	巨大	giant	巨大	N	ADJ
+rachel	レイチェル	rachel	レイチェル		PROPN
+keith	キース	keith	キース		PROPN
+novgorod	ノヴゴロド	novgorod	ノヴゴロド	N	PROPN
+aero	エアロ	aero	エアロ		N
+rick	リック	rick	リック		PROPN
+wonder	ワンダー	wonder	ワンダー	N	PROPN
+purple	パープル	purple	パープル		N
+fisher	フィッシャー	fisher	フィッシャー	N	PROPN
+hornet	スズメバチ	hornet	スズメバチ	N	PROPN
+leonardo	レオナルド	leonardo	レオナルド	N	PROPN
+bolshevik	ボリシェヴィキ	bolshevik	ボリシェヴィキ		PROPN
+bolshevik	ボリシェヴィキ	bolshevik	ボリシェヴィキ		PROPN
+add	追加	add	追加		V
+add	加算	add	加算		V
+dresden	ドレスデン	dresden	ドレスデン	N	PROPN
+giòn	サクサク	giòn	サクサク	V	PROPN
+broadway	ブロードウェイ	broadway	ブロードウェイ	N	PROPN
+lloyd	ロイド	lloyd	ロイド		PROPN
+rapper	ラッパー	rapper	ラッパー		N
+phra	プラ	phra	プラ	N	PROPN
+hawker	ヤンマ	hawker	ヤンマ	N	PROPN
+janet	ジャネット	janet	ジャネット	N	PROPN
+gam	gam	gam	gam	N	PROPN
+wan	wan	wan	wan	N	PROPN
+ahmed	アーメド	ahmed	アーメド	N	PROPN
+destiny	運命	destiny	運命		N
+klotzsch	klotzsch	klotzsch	klotzsch	V	PROPN
+sch	sch	sch	sch	N	PROPN
+warriors	ウォリアーズ	warriors	ウォリアーズ	N	PROPN
+close	クローズ	close	クローズ	V	N
+zürich	チューリッヒ	zürich	チューリッヒ	N	PROPN
+fuji	ふじ	fuji	ふじる	N	PROPN
+fuji	フジ	fuji	フジ	N	PROPN
+eleanor	エレノア	eleanor	エレノア	N	PROPN
+flow	流れ	flow	流れる	N	V
+segovia	セゴビア	segovia	セゴビア	NUM	PROPN
+kara	カラ	kara	カラ		PROPN
+kyrgyzstan	キルギス	kyrgyzstan	キルギス	V	PROPN
+warsaw	ワルシャワ	warsaw	ワルシャワ	N	PROPN
+susan	スーザン	susan	スーザン		PROPN
+barney	バーニー	barney	バーニー		PROPN
+episode	エピソード	episode	エピソード		N
+tikader	tikader	tikader	tikader	N	PROPN
+sample	サンプリング	sample	サンプリング		N
+sample	サンプル	sample	サンプル		N
+khảm	モナコ	khảm	モナコ	N	PROPN
+riga	リガ	riga	リガ	N	PROPN
+dublin	ダブリン	dublin	ダブリン		PROPN
+roth	ロート	roth	ロート		N
+diana	ダイアナ	diana	ダイアナ	N	PROPN
+glasgow	グラスゴー	glasgow	グラスゴー		PROPN
+pav	pav	pav	pav		PROPN
+cháo	おかゆ	cháo	おかゆ	V	N
+cháo	スープ	cháo	スープ	V	N
+nancy	ナンシー	nancy	ナンシー		PROPN
+idaho	アイダホ	idaho	アイダホ	N	PROPN
+mimosa	ミモザ	mimosa	ミモザ	N	PROPN
+via	via	via	via		PROPN
+málaga	マラガ	málaga	マラガ	NUM	PROPN
+cope	コープ	cope	コープ		PROPN
+nickname	愛称	nickname	愛称		N
+nickname	ニックネーム	nickname	ニックネーム		N
+aston	アストン	aston	アストン	N	PROPN
+gandhi	ガンジー	gandhi	ガンジー	N	PROPN
+spencer	スペンサー	spencer	スペンサー		PROPN
+bahrain	バーレーン	bahrain	バーレーン	N	PROPN
+kashmir	カシミール	kashmir	カシミール	N	PROPN
+porter	ポーター	porter	ポーター		PROPN
+rise	上昇	rise	上昇		V
+hannover	ハノーバー	hannover	ハノーバー	N	PROPN
+hannover	ハノーファー	hannover	ハノーファー	N	PROPN
+hannover	ハノーファー	hannover	ハノーファー	N	PROPN
+nagasaki	長崎市	nagasaki	長崎市		PROPN
+nagasaki	長崎	nagasaki	長崎		PROPN
+gallon	ガロン	gallon	ガロン		N
+berry	ベリー	berry	ベリー		PROPN
+vâng	はい	vâng	はく		CONJ
+dortmund	ドルトムント	dortmund	ドルトムント	N	PROPN
+kid	キッド	kid	キッド		PROPN
+zeppelin	ツェッペリン	zeppelin	ツェッペリン	N	PROPN
+fam	fam	fam	fam	N	PROPN
+amy	エミー	amy	エミー	N	PROPN
+portsmouth	ポーツマス	portsmouth	ポーツマス	N	PROPN
+met	met	met	met		PROPN
+aus	aus	aus	aus		PROPN
+oak	オーク	oak	オーク	N	PROPN
+eisenhower	アイク	eisenhower	アイク		PROPN
+sci	sci	sci	sci	N	PROPN
+dub	dub	dub	dub	N	PROPN
+native	ネイティブ	native	ネイティブ		PROPN
+smolensk	スモレンスク	smolensk	スモレンスク	N	PROPN
+maeda	前田	maeda	前田	N	PROPN
+pavia	パヴィア	pavia	パヴィア	N	PROPN
+miranda	ミランダ	miranda	ミランダ		PROPN
+nassau	ナッソー	nassau	ナッソー	N	PROPN
+aaron	アロン	aaron	アロン		PROPN
+aaron	アーロン	aaron	アーロン		PROPN
+senior	先輩	senior	先輩	ADJ	N
+senior	上級	senior	上級	ADJ	N
+shell	シェル	shell	シェル		N
+catalogue	カタログ	catalogue	カタログ		N
+fritz	フリッツ	fritz	フリッツ	N	PROPN
+gom	バイパス	gom	バイパス	V	PROPN
+lucia	ルチア	lucia	ルチア	N	PROPN
+lucia	ルシア	lucia	ルシア	N	PROPN
+lane	レーン	lane	レーン		N
+lane	車線	lane	車線		N
+méo	cut	méo	cut	V	PROPN
+méo	カット	méo	カット	V	N
+méo	せん	méo	せん	V	N
+nguyen	クリスチャン	nguyen	クリスチャン	N	PROPN
+titanic	タイタニック	titanic	タイタニック	N	PROPN
+richmond	リッチモンド	richmond	リッチモンド		PROPN
+artvin	アルトヴィン	artvin	アルトヴィン		PROPN
+nem	nem	nem	nem	N	PROPN
+atlético	アトレティコ	atlético	アトレティコ	N	PROPN
+atlético	アトレチコ	atlético	アトレチコ	N	PROPN
+gmt	gmt	gmt	gmt	N	PROPN
+bond	ボンド	bond	ボンド	N	PROPN
+oman	オマーン	oman	オマーン	N	PROPN
+release	釈放	release	釈放		V
+release	リリース	release	リリース		N
+ghz	ghz	ghz	ghz	N	PROPN
+tnt	tnt	tnt	tnt		PROPN
+manoa	マノア	manoa	マノア		PROPN
+dick	ディック	dick	ディック	N	PROPN
+võng	コット	võng	コット	N	PROPN
+reinhold	ライン	reinhold	ライン	ADJ	N
+berland	berland	berland	berland	V	PROPN
+colombo	コロンボ	colombo	コロンボ	N	PROPN
+hardy	ハーディ	hardy	ハーディ		PROPN
+buck	バック	buck	バック		N
+sophie	ソフィー	sophie	ソフィー		PROPN
+togo	トーゴ	togo	トーゴ	N	PROPN
+rốn	へ	rốn	へ	N	CONJ
+rốn	臍帯	rốn	臍帯	N	
+eddie	エディー	eddie	エディー		PROPN
+eddie	エディ	eddie	エディ		PROPN
+concacaf	concacaf	concacaf	concacaf	N	PROPN
+accessdate	accessdate	accessdate	accessdate	N	PROPN
+genova	ジェノヴァ	genova	ジェノヴァ	N	PROPN
+galileo	ガリレオ	galileo	ガリレオ		PROPN
+pcupdate	pcupdate	pcupdate	pcupdate		PROPN
+andreas	アンドレアス	andreas	アンドレアス	N	PROPN
+ipa	ipa	ipa	ipa		PROPN
+planch	planch	planch	planch		PROPN
+basel	バーゼル	basel	バーゼル	N	PROPN
+beat	ポイント	beat	ポイント		N
+adele	アデル	adele	アデル		PROPN
+sergei	セルゲイ	sergei	セルゲイ		PROPN
+romance	ロマンス	romance	ロマンス		N
+unix	unix	unix	unix	N	PROPN
+cabrera	カブレラ	cabrera	カブレラ		PROPN
+đãng	マッチョ	đãng	マッチョ	V	N
+classic	classic	classic	classic	N	PROPN
+hèn	臆病者	hèn	臆病者	N	
+mediawiki	mediawiki	mediawiki	mediawiki	N	PROPN
+din	din	din	din	N	PROPN
+plzeň	プルゼニ	plzeň	プルゼニ	V	PROPN
+cis	cis	cis	cis	N	PROPN
+ricardo	リカルド	ricardo	リカルド	CONJ	PROPN
+pholcus	pholcus	pholcus	pholcus	N	PROPN
+kate	kate	kate	kate		PROPN
+kate	ケイト	kate	ケイト		PROPN
+ngoặc	括弧	ngoặc	括弧	N	V
+nero	nero	nero	nero		PROPN
+irwin	アーウィン	irwin	アーウィン		PROPN
+fayette	ファイエット	fayette	ファイエット	N	PROPN
+ách	エース	ách	エース	N	PROPN
+braun	ブラウン	braun	ブラウン		N
+pol	ポル	pol	ポル	N	PROPN
+contemporary	現代	contemporary	現代	V	N
+rogers	ロジャース	rogers	ロジャース		PROPN
+grote	grote	grote	grote		PROPN
+bodyclass	bodyclass	bodyclass	bodyclass	N	PROPN
+tajikistan	タジキスタン	tajikistan	タジキスタン	N	PROPN
+nakajima	中島	nakajima	中島	N	PROPN
+hercules	ヘラクレス	hercules	ヘラクレス		PROPN
+yokohama	横浜	yokohama	横浜	N	PROPN
+ottawa	オタワ	ottawa	オタワ	N	PROPN
+nakai	中井	nakai	中井		PROPN
+apr	apr	apr	apr		PROPN
+marvel	マーベル	marvel	マーベル		PROPN
+knox	ノックス	knox	ノックス		PROPN
+richards	リチャーズ	richards	リチャーズ		PROPN
+quebec	ケベック	quebec	ケベック	N	PROPN
+lorenzo	ロレンツォ	lorenzo	ロレンツォ		PROPN
+lorenzo	ロレンソ	lorenzo	ロレンソ		PROPN
+hercegovina	ヘルツェゴヴィナ	hercegovina	ヘルツェゴヴィナ	N	PROPN
+odessa	オデッサ	odessa	オデッサ	N	PROPN
+taiwan	中華民国	taiwan	中華民国	N	PROPN
+taiwan	台湾	taiwan	台湾	N	PROPN
+augusta	オーガスタ	augusta	オーガスタ		PROPN
+watts	ワッツ	watts	ワッツ		PROPN
+michelle	ミシェル	michelle	ミシェル	N	PROPN
+trump	切り札	trump	切り札	N	V
+sebastian	セバスティアン	sebastian	セバスティアン		PROPN
+sebastian	セバスティアヌス	sebastian	セバスティアヌス		PROPN
+sebastian	セバスチャン	sebastian	セバスチャン		PROPN
+lem	レム	lem	レム		PROPN
+monster	怪物	monster	怪物		N
+monster	モンスター	monster	モンスター		N
+monster	怪獣	monster	怪獣		N
+archives	アーカイブ	archives	アーカイブ		N
+vampire	ヴァンパイア	vampire	ヴァンパイア		PROPN
+vampire	吸血	vampire	吸血		N
+scandinavia	スカンディナヴィア	scandinavia	スカンディナヴィア		PROPN
+geobox	geobox	geobox	geobox		PROPN
+demo	デモ	demo	デモ		N
+survey	調査	survey	調査		V
+survey	アンケート	survey	アンケート		N
+alps	アルプス	alps	アルプス	N	PROPN
+vega	ベガ	vega	ベガ		PROPN
+xáo	擾乱	xáo	擾乱	V	
+xáo	騒乱	xáo	騒乱	V	N
+rom	rom	rom	rom	N	PROPN
+hideyoshi	秀吉	hideyoshi	秀吉	N	PROPN
+bordeaux	ボルドー	bordeaux	ボルドー	N	PROPN
+seri	セリ	seri	セリ	N	PROPN
+gao	ガオ	gao	ガオ		PROPN
+capitol	キャピトル	capitol	キャピトル		PROPN
+sảng	せん妄	sảng	せん妄	V	PROPN
+lười	ナマケモノ	lười	ナマケモノ	ADJ	PROPN
+lười	だら	lười	たら	ADJ	N
+lười	怠け者	lười	怠け者	ADJ	
+inoue	井上	inoue	井上	N	PROPN
+tommy	トミー	tommy	トミー	N	PROPN
+saga	サガ	saga	サガ		PROPN
+saga	佐賀	saga	佐賀		PROPN
+saga	パート	saga	パート		N
+saga	部分	saga	部分		N
+joon	ジュン	joon	ジュン	N	PROPN
+thailand	タイ	thailand	タイ	N	PROPN
+larry	ラリー	larry	ラリー		N
+câm	ミュート	câm	ミュート	V	N
+jorge	ホルヘ	jorge	ホルヘ	N	PROPN
+ceo	ceo	ceo	ceo		PROPN
+basque	バスク	basque	バスク	NUM	PROPN
+cry	クライ	cry	クライ		PROPN
+cry	泣く	cry	泣く		V
+cry	泣き	cry	泣く		V
+loãng	散逸	loãng	散逸	ADJ	V
+mon	mon	mon	mon	N	PROPN
+bee	ビー	bee	ビー		N
+todd	トッド	todd	トッド		PROPN
+hack	ハッキング	hack	ハッキング	N	PROPN
+hack	ハッキング	hack	ハッキング	N	PROPN
+omar	オマール	omar	オマール	N	PROPN
+gambia	ガンビア	gambia	ガンビア	N	PROPN
+muội	ムイ	muội	ムイ		PROPN
+moi	moi	moi	moi		PROPN
+ace	エース	ace	エース		PROPN
+góa	死別	góa	死別	N	V
+southampton	サウサンプトン	southampton	サウサンプトン		PROPN
+johannesburg	ヨハネスブルグ	johannesburg	ヨハネスブルグ		PROPN
+tanaka	田中	tanaka	田中		PROPN
+băm	ハッシュ	băm	ハッシュ	V	N
+six	シックス	six	シックス	NUM	V
+six	six	six	six	NUM	PROPN
+beatty	ビーティー	beatty	ビーティー		PROPN
+hull	船体	hull	船体	NUM	N
+hull	ハル	hull	ハル	NUM	PROPN
+wellington	ウェリントン	wellington	ウェリントン		PROPN
+pleiku	プレイク	pleiku	プレイク	N	PROPN
+salzburg	ザルツブルク	salzburg	ザルツブルク	N	PROPN
+chiba	千葉	chiba	千葉	NUM	PROPN
+jessica	ジェシカ	jessica	ジェシカ	N	PROPN
+aichi	愛知	aichi	愛知	N	PROPN
+gate	ゲート	gate	ゲート		N
+larsen	ラーセン	larsen	ラーセン	N	PROPN
+elmer	エルマー	elmer	エルマー		PROPN
+cruise	クルーズ	cruise	クルーズ	N	PROPN
+erik	エリック	erik	エリック		PROPN
+sabah	サバーハ	sabah	サバーハ	N	PROPN
+chechnya	チェチェン	chechnya	チェチェン	N	PROPN
+sullivan	サリバン	sullivan	サリバン		PROPN
+sullivan	サリヴァン	sullivan	サリヴァン		PROPN
+bis	ビス	bis	ビス		PROPN
+norton	ノートン	norton	ノートン		PROPN
+blair	ブレア	blair	ブレア		PROPN
+sưng	腫れ	sưng	腫れる	ADJ	V
+sưng	腫れ	sưng	腫れる	ADJ	V
+shakespeare	シェイクスピア	shakespeare	シェイクスピア	N	PROPN
+shakespeare	シェークスピア	shakespeare	シェークスピア	N	PROPN
+nobunaga	信長	nobunaga	信長	N	PROPN
+algeria	アルジェリア	algeria	アルジェリア	N	PROPN
+troy	トロイ	troy	トロイ	N	PROPN
+troy	イリオス	troy	イリオス	N	PROPN
+edirne	エディルネ	edirne	エディルネ	N	PROPN
+diamond	ダイヤモンド	diamond	ダイヤモンド		N
+diamond	ダイアモンド	diamond	ダイアモンド		N
+elliott	エリオット	elliott	エリオット		PROPN
+acer	acer	acer	acer	N	PROPN
+polynesia	ポリネシア	polynesia	ポリネシア	N	PROPN
+bennett	ベネット	bennett	ベネット		PROPN
+sock	靴下	sock	靴下		N
+catalonia	カタロニア	catalonia	カタロニア	N	PROPN
+bai	尊敬	bai	尊敬		V
+bai	尊重	bai	尊重		V
+bai	リスペクト	bai	リスペクト		N
+bai	敬	bai	敬		PROPN
+dutch	ダッチ	dutch	ダッチ	N	PROPN
+lebanon	レバノン	lebanon	レバノン	N	PROPN
+pyramid	ピラミッド	pyramid	ピラミッド		N
+lucy	ルーシー	lucy	ルーシー		PROPN
+handbuch	handbuch	handbuch	handbuch		PROPN
+less	パイル	less	パイル		N
+normandy	ノルマンディー	normandy	ノルマンディー	N	PROPN
+giuseppe	ジュゼッペ	giuseppe	ジュゼッペ	N	PROPN
+ntupdate	ntupdate	ntupdate	ntupdate		PROPN
+lucky	ラッキー	lucky	ラッキー		PROPN
+vắt	スクイーズ	vắt	スクイーズ	V	N
+gnu	gnu	gnu	gnu	N	PROPN
+kings	キングス	kings	キングス	N	PROPN
+como	コモ	como	コモ	NUM	PROPN
+senna	セナ	senna	セナ	N	PROPN
+pest	ペスト	pest	ペスト		PROPN
+toi	toi	toi	toi		PROPN
+making	メイキング	making	メイキング		N
+taipei	台北市	taipei	台北市	N	PROPN
+taipei	台北	taipei	台北	N	PROPN
+edgar	エドガー	edgar	エドガー	N	PROPN
+nhím	山嵐	nhím	山嵐	N	
+nhím	ハリネズミ	nhím	ハリネズミ	N	PROPN
+palermo	パレルモ	palermo	パレルモ	N	PROPN
+walckenaeria	walckenaeria	walckenaeria	walckenaeria	N	PROPN
+rooney	ルーニー	rooney	ルーニー	N	PROPN
+theodore	テオドール	theodore	テオドール	V	PROPN
+julian	ジュリアン	julian	ジュリアン		PROPN
+rostov	ロストフ	rostov	ロストフ	N	PROPN
+edwin	エドウィン	edwin	エドウィン	N	PROPN
+tropical	トロピカル	tropical	トロピカル		PROPN
+tropical	熱帯	tropical	熱帯		N
+hét	絶叫	hét	絶叫	V	N
+hét	スクリーム	hét	スクリーム	V	N
+detroit	デトロイト	detroit	デトロイト		PROPN
+arc	アーク	arc	アーク	N	PROPN
+arc	arc	arc	arc	N	PROPN
+asahi	朝日	asahi	朝日	N	PROPN
+beast	野獣	beast	野獣		N
+beast	ビースト	beast	ビースト		PROPN
+nippon	日本	nippon	日本		PROPN
+nippon	ニッポン	nippon	ニッポン		PROPN
+toulouse	トゥールーズ	toulouse	トゥールーズ	NUM	PROPN
+toulouse	ランタン	toulouse	ランタン	NUM	N
+toulouse	提灯	toulouse	提灯	NUM	N
+macarthur	マッカーサー	macarthur	マッカーサー		PROPN
+mikoyan	mig	mikoyan	mig	N	PROPN
+dell	デル	dell	デル	N	PROPN
+dell	dell	dell	dell	N	PROPN
+bishop	ビショップ	bishop	ビショップ	N	PROPN
+veszprém	ヴェスプレーム	veszprém	ヴェスプレーム	N	PROPN
+oclc	oclc	oclc	oclc		PROPN
+pietro	ピエトロ	pietro	ピエトロ	N	PROPN
+chaplin	チャップリン	chaplin	チャップリン	V	PROPN
+răn	バド	răn	バド	V	PROPN
+răn	十戒	răn	十戒	V	N
+ign	ign	ign	ign		PROPN
+trailer	トラック	trailer	トラック		N
+trailer	トレーラー	trailer	トレーラー		N
+trailer	予告	trailer	予告		N
+devil	悪魔	devil	悪魔		N
+schneider	シュナイダー	schneider	シュナイダー	N	PROPN
+senegal	セネガル	senegal	セネガル	N	PROPN
+catalina	カタリナ	catalina	カタリナ		PROPN
+too	too	too	too		PROPN
+webster	ウェブスター	webster	ウェブスター	N	PROPN
+anti	アンチ	anti	アンチ		PROPN
+ossetia	オセチア	ossetia	オセチア	N	PROPN
+santander	サンタンデール	santander	サンタンデール	N	PROPN
+div	div	div	div	N	PROPN
+gal	ギャル	gal	ギャル		N
+gal	ガル	gal	ガル		N
+sara	sara	sara	sara		PROPN
+tarragona	タラゴナ	tarragona	タラゴナ	NUM	PROPN
+gầy	スキニー	gầy	スキニー	ADJ	N
+gầy	スリム	gầy	スリム	ADJ	N
+barb	バーブ	barb	バーブ		PROPN
+medina	マディーナ	medina	マディーナ	N	PROPN
+julie	ジュリー	julie	ジュリー	N	PROPN
+shadow	シャドウ	shadow	シャドウ	N	PROPN
+viktor	ビクトル	viktor	ビクトル		PROPN
+luna	ルナ	luna	ルナ		PROPN
+rảnh	フリー	rảnh	フリー	V	PROPN
+rảnh	無料	rảnh	無料	V	N
+rảnh	自由	rảnh	自由	V	ADJ
+boyacá	ボヤカ	boyacá	ボヤカ	NUM	PROPN
+waters	ウォーターズ	waters	ウォーターズ	N	PROPN
+văng	ソファ	văng	ソファ	V	N
+complex	複雑	complex	複雑	N	ADJ
+cap	cap	cap	cap	N	PROPN
+webb	ウェッブ	webb	ウェッブ	N	PROPN
+marusik	marusik	marusik	marusik	N	PROPN
+carmen	カルメン	carmen	カルメン		PROPN
+rufescens	カワニナ	rufescens	カワニナ	N	PROPN
+ulmer	ulmer	ulmer	ulmer		PROPN
+mafia	モブ	mafia	モブ	N	PROPN
+mozilla	mozilla	mozilla	mozilla	N	PROPN
+garcia	ガルシア	garcia	ガルシア	N	PROPN
+garcia	ガルシア	garcia	ガルシア	N	PROPN
+deeleman	deeleman	deeleman	deeleman	N	PROPN
+bat	bat	bat	bat		PROPN
+bat	コウモリ	bat	コウモリ		N
+bat	バット	bat	バット		N
+eritrea	エリトリア	eritrea	エリトリア	N	PROPN
+heinz	ハインツ	heinz	ハインツ		PROPN
+turcz	turcz	turcz	turcz		PROPN
+rocky	ロッキー	rocky	ロッキー		PROPN
+dnb	dnb	dnb	dnb		PROPN
+doha	ドーハ	doha	ドーハ	N	PROPN
+vicente	ビセンテ	vicente	ビセンテ		PROPN
+brignoli	brignoli	brignoli	brignoli		PROPN
+josh	ジョシュ	josh	ジョシュ		PROPN
+catalog	カタログ	catalog	カタログ		N
+ustring	ustring	ustring	ustring		PROPN
+leftarm	leftarm	leftarm	leftarm		PROPN
+knuth	クヌース	knuth	クヌース	N	PROPN
+gas	lpg	gas	lpg	N	PROPN
+abdullah	アブドゥッラー	abdullah	アブドゥッラー	N	PROPN
+pen	pen	pen	pen	N	PROPN
+nao	nao	nao	nao		PROPN
+dst	dst	dst	dst	NUM	PROPN
+lycaenidae	lycaenidae	lycaenidae	lycaenidae	N	PROPN
+pearl	真珠	pearl	真珠		N
+prime	素数	prime	素数		N
+makino	牧野	makino	牧野	N	PROPN
+luc	リュック	luc	リュック		N
+yun	ユン	yun	ユン	N	PROPN
+leopard	ヒョウ	leopard	ヒョウ		PROPN
+verona	ヴェローナ	verona	ヴェローナ	N	PROPN
+johnston	ジョンストン	johnston	ジョンストン		PROPN
+strasbourg	ストラスブール	strasbourg	ストラスブール		PROPN
+máng	トラフ	máng	トラフ	N	PROPN
+trade	トレード	trade	トレード	N	V
+trade	取引	trade	取引	N	V
+vanuatu	バヌアツ	vanuatu	バヌアツ	N	PROPN
+alessandria	アレッサンドリア	alessandria	アレッサンドリア	N	PROPN
+nom	nom	nom	nom	ADJ	PROPN
+grafica	grafica	grafica	grafica		PROPN
+essex	エセックス	essex	エセックス	N	PROPN
+toyota	豊田	toyota	豊田	N	PROPN
+toyota	トヨタ	toyota	トヨタ	N	PROPN
+colin	コリン	colin	コリン		PROPN
+saito	斎藤	saito	斎藤		PROPN
+saito	斉藤	saito	斉藤		PROPN
+angela	アンジェラ	angela	アンジェラ	N	PROPN
+severus	セウェルス	severus	セウェルス	N	PROPN
+alexandra	アレクサンドラ	alexandra	アレクサンドラ	N	PROPN
+steatoda	steatoda	steatoda	steatoda	N	PROPN
+fukuoka	福岡	fukuoka	福岡	N	PROPN
+rush	ラッシュ	rush	ラッシュ		N
+floyd	フロイド	floyd	フロイド	N	PROPN
+voyager	ボイジャー	voyager	ボイジャー		PROPN
+hidalgo	イダルゴ	hidalgo	イダルゴ	N	PROPN
+prague	プラハ	prague	プラハ	N	PROPN
+fontaine	フォンテーヌ	fontaine	フォンテーヌ	N	PROPN
+nara	奈良	nara	奈良	N	PROPN
+este	エステル	este	エステル	N	PROPN
+iphone	iphone	iphone	iphone	N	PROPN
+genoa	ジェノヴァ	genoa	ジェノヴァ	N	PROPN
+nicole	ニコル	nicole	ニコル	N	PROPN
+orion	オライオン	orion	オライオン	N	PROPN
+orion	オリオン	orion	オリオン	N	PROPN
+arab	アラブ	arab	アラブ	N	PROPN
+logunov	logunov	logunov	logunov	V	PROPN
+eiffel	エッフェル	eiffel	エッフェル	N	PROPN
+stefan	シュテファン	stefan	シュテファン	N	PROPN
+stefan	ステファン	stefan	ステファン	N	PROPN
+bavaria	バイエルン	bavaria	バイエルン	N	PROPN
+newman	ニューマン	newman	ニューマン		PROPN
+lund	ルンド	lund	ルンド		PROPN
+gates	ゲイツ	gates	ゲイツ		PROPN
+sopron	ショプロン	sopron	ショプロン		PROPN
+rowclass	rowclass	rowclass	rowclass		PROPN
+lessert	lessert	lessert	lessert	V	PROPN
+solar	ソーラー	solar	ソーラー		PROPN
+yokosuka	横須賀	yokosuka	横須賀		PROPN
+amur	アムール	amur	アムール	N	PROPN
+francesco	フランチェスコ	francesco	フランチェスコ	N	PROPN
+derby	ダービー	derby	ダービー	N	PROPN
+tchad	チャド	tchad	チャド	N	PROPN
+nash	ナッシュ	nash	ナッシュ		PROPN
+vung	スウィング	vung	スウィング		N
+vung	スイング	vung	スイング		N
+python	python	python	python	N	PROPN
+python	ニシキヘビ	python	ニシキヘビ	N	PROPN
+cox	コックス	cox	コックス		PROPN
+beethoven	ベートーヴェン	beethoven	ベートーヴェン	V	PROPN
+theodor	テオドール	theodor	テオドール		PROPN
+wesley	ウェズリー	wesley	ウェズリー	N	PROPN
+forever	フォーエバー	forever	フォーエバー		N
+aksaray	アクサライ	aksaray	アクサライ	N	PROPN
+catalunya	カタルーニャ	catalunya	カタルーニャ		PROPN
+catalunya	カタロニア	catalunya	カタロニア		PROPN
+franc	フラン	franc	フラン	N	PROPN
+heroes	ヒーローズ	heroes	ヒーローズ	N	PROPN
+heroes	heroes	heroes	heroes	N	PROPN
+barrett	バレット	barrett	バレット	N	PROPN
+wheeler	ウィーラー	wheeler	ウィーラー		PROPN
+venus	ウェヌス	venus	ウェヌス		PROPN
+venus	金星	venus	金星		N
+venus	ヴィーナス	venus	ヴィーナス		PROPN
+emily	エミリー	emily	エミリー	N	PROPN
+luang	ルワン	luang	ルワン	N	PROPN
+reynolds	レイノルズ	reynolds	レイノルズ		PROPN
+tehran	テヘラン	tehran	テヘラン	N	PROPN
+brisbane	タスマニア	brisbane	タスマニア	N	PROPN
+niğde	ボル	niğde	ボル	N	PROPN
+mun	ダンナ	mun	ダンナ	N	PROPN
+mun	旦那	mun	旦那	N	PROPN
+honolulu	ホノルル	honolulu	ホノルル		PROPN
+glee	グリー	glee	グリー	N	PROPN
+bulletin	掲示	bulletin	掲示		V
+bulletin	公報	bulletin	公報		N
+brad	ブラッド	brad	ブラッド	N	PROPN
+lena	レナ	lena	レナ		PROPN
+gran	グラン	gran	グラン	N	PROPN
+girard	ジラード	girard	ジラード		PROPN
+girard	ジラール	girard	ジラール		PROPN
+palma	パルマ	palma	パルマ	N	PROPN
+moran	モラン	moran	モラン	N	PROPN
+butterfly	チョウ	butterfly	チョウ		PROPN
+butterfly	バタフライ	butterfly	バタフライ		N
+bae	bae	bae	bae		PROPN
+silent	サイレント	silent	サイレント		N
+silent	無音	silent	無音		N
+olympia	オリンピア	olympia	オリンピア	N	PROPN
+scn	scn	scn	scn	N	PROPN
+nevşehir	ネヴシェヒル	nevşehir	ネヴシェヒル	N	PROPN
+gaza	ガザ	gaza	ガザ	N	PROPN
+falcon	ファルコン	falcon	ファルコン	N	PROPN
+tyler	タイラー	tyler	タイラー		PROPN
+piô	pio	piô	pio	N	PROPN
+tucker	タッカー	tucker	タッカー	N	PROPN
+scandal	スキャンダル	scandal	スキャンダル		N
+scandal	不祥事	scandal	不祥事		N
+mohammed	モハメッド	mohammed	モハメッド	N	PROPN
+bates	ベイツ	bates	ベイツ	N	PROPN
+isabella	イサベル	isabella	イサベル		PROPN
+isabella	イザベッラ	isabella	イザベッラ		PROPN
+browning	ブラウニング	browning	ブラウニング		PROPN
+browning	ブローニング	browning	ブローニング		PROPN
+osprey	ミサゴ	osprey	ミサゴ	N	PROPN
+lowell	ローウェル	lowell	ローウェル		PROPN
+potsdam	ポツダム	potsdam	ポツダム		PROPN
+rex	レックス	rex	レックス	N	PROPN
+fbi	fbi	fbi	fbi	N	PROPN
+cola	コーク	cola	コーク	N	PROPN
+debut	デビュー	debut	デビュー		V
+truman	トルーマン	truman	トルーマン		PROPN
+stade	スタッド	stade	スタッド	N	PROPN
+poster	ポスター	poster	ポスター		N
+poster	ポスター	poster	ポスター		N
+motschulsky	motschulsky	motschulsky	motschulsky	N	PROPN
+đôla	ドル	đôla	ドル		N
+kit	next	kit	next		PROPN
+kit	キット	kit	キット		N
+kit	kit	kit	kit		PROPN
+lóng	俗語	lóng	俗語		N
+lóng	スラング	lóng	スラング		N
+touch	touch	touch	touch	N	PROPN
+touch	触る	touch	触る	N	V
+vichy	ヴィシー	vichy	ヴィシー	N	PROPN
+elena	エレナ	elena	エレナ		PROPN
+barbados	バルバドス	barbados	バルバドス		PROPN
+rossi	ロッシ	rossi	ロッシ	N	PROPN
+nagoya	名古屋	nagoya	名古屋	N	PROPN
+vera	ヴェラ	vera	ヴェラ		N
+hoffman	ホフマン	hoffman	ホフマン		PROPN
+hoffman	ホフマン	hoffman	ホフマン		PROPN
+cbs	cbs	cbs	cbs	N	PROPN
+sasuke	サスケ	sasuke	サスケ	N	PROPN
+escobar	エスコバル	escobar	エスコバル	N	PROPN
+flava	flava	flava	flava	N	PROPN
+altai	アルタイ	altai	アルタイ	N	PROPN
+allan	アラン	allan	アラン		PROPN
+prey	捕食	prey	捕食	N	V
+ural	ウラル	ural	ウラル	N	PROPN
+jeanne	ジャンヌ	jeanne	ジャンヌ	N	PROPN
+orlando	オーランドー	orlando	オーランドー		PROPN
+orlando	オーランド	orlando	オーランド		PROPN
+orlando	オルランド	orlando	オルランド		PROPN
+shinji	慎二	shinji	慎二	N	PROPN
+shinji	真司	shinji	真司	N	PROPN
+palais	パレ	palais	パレ	N	PROPN
+aim	aim	aim	aim		PROPN
+aim	alm	aim	alm		PROPN
+giorgio	ジョルジョ	giorgio	ジョルジョ		PROPN
+pit	ピット	pit	ピット		PROPN
+ver	ver	ver	ver		PROPN
+ver	アルマ	ver	アルマ		PROPN
+ver	val	ver	val		PROPN
+ver	ヴァル	ver	ヴァル		PROPN
+messi	メッシ	messi	メッシ	N	PROPN
+api	api	api	api	N	PROPN
+api	api	api	api	N	PROPN
+ridge	尾根	ridge	尾根		N
+walckenaer	walckenaer	walckenaer	walckenaer	N	PROPN
+magna	マグナ	magna	マグナ	N	PROPN
+lucius	ルシウス	lucius	ルシウス	N	PROPN
+lucius	ルキウス	lucius	ルキウス	N	PROPN
+mithridates	ミトリダテス	mithridates	ミトリダテス	N	PROPN
+navsource	navsource	navsource	navsource		PROPN
+hepburn	ヘプバーン	hepburn	ヘプバーン	N	PROPN
+sophia	ソフィア	sophia	ソフィア	N	PROPN
+ryu	リュウ	ryu	リュウ	N	PROPN
+yoshisada	義貞	yoshisada	義貞		PROPN
+salerno	サレルノ	salerno	サレルノ	N	PROPN
+villeneuve	ヴィルヌーヴ	villeneuve	ヴィルヌーヴ	N	PROPN
+ahmad	アフマド	ahmad	アフマド	N	PROPN
+cerro	セロ	cerro	セロ	N	PROPN
+hearts	hearts	hearts	hearts		PROPN
+hearts	ハーツ	hearts	ハーツ		PROPN
+rca	rca	rca	rca	N	PROPN
+karen	カレン	karen	カレン		PROPN
+randy	ランディ	randy	ランディ		PROPN
+tui	tui	tui	tui		PROPN
+brescia	ブレーシャ	brescia	ブレーシャ	NUM	PROPN
+maximus	マクシムス	maximus	マクシムス		PROPN
+xvii	xvi	xvii	xvi	NUM	PROPN
+carol	キャロル	carol	キャロル		PROPN
+parma	パルマ	parma	パルマ	N	PROPN
+nomi	能見	nomi	能見		PROPN
+deutschland	ドイッチュラント	deutschland	ドイッチュラント	N	PROPN
+aristolochia	aristolochia	aristolochia	aristolochia		PROPN
+thà	むしろ	thà	むしろ	PART	ADV
+yamamoto	山本	yamamoto	山本	N	PROPN
+ios	ios	ios	ios	N	PROPN
+redir	redir	redir	redir		PROPN
+penicillium	アオカビ	penicillium	アオカビ	V	PROPN
+lambert	ランバート	lambert	ランバート	N	PROPN
+canon	カノン	canon	カノン	N	PROPN
+fernández	フェルナンデス	fernández	フェルナンデス	N	PROPN
+kocaeli	コジャエリ	kocaeli	コジャエリ	ADJ	PROPN
+mccain	マケイン	mccain	マケイン	N	PROPN
+igor	イーゴリ	igor	イーゴリ		PROPN
+badajoz	バダホス	badajoz	バダホス	N	PROPN
+heath	ヒース	heath	ヒース		PROPN
+micronesia	ミクロネシア	micronesia	ミクロネシア	N	PROPN
+scoreb	scoreb	scoreb	scoreb		PROPN
+tenuis	tenuis	tenuis	tenuis		PROPN
+mid	mid	mid	mid	N	PROPN
+hussein	フセイン	hussein	フセイン	N	PROPN
+sonata	ソナタ	sonata	ソナタ	N	PROPN
+levy	レヴィ	levy	レヴィ		PROPN
+dana	ダナ	dana	ダナ		PROPN
+domingo	ドミンゴ	domingo	ドミンゴ	N	PROPN
+keys	キー	keys	キー		N
+sheffield	シェフィールド	sheffield	シェフィールド	N	PROPN
+isparta	ウスパルタ	isparta	ウスパルタ	N	PROPN
+perkins	パーキンス	perkins	パーキンス	N	PROPN
+miyazaki	宮崎	miyazaki	宮崎		PROPN
+barbarossa	バルバロッサ	barbarossa	バルバロッサ	N	PROPN
+deus	デウス	deus	デウス		PROPN
+xăm	入れ	xăm	入れる	N	V
+vernon	ヴァーノン	vernon	ヴァーノン		PROPN
+charleston	チャールストン	charleston	チャールストン		PROPN
+thảy	投げる	thảy	投げる		V
+gerald	ジェラルド	gerald	ジェラルド		PROPN
+elseif	elseif	elseif	elseif		PROPN
+devon	デヴォン	devon	デヴォン		PROPN
+junkers	ユンカース	junkers	ユンカース	N	PROPN
+care	ケア	care	ケア		N
+care	介護	care	介護		N
+nina	ニーナ	nina	ニーナ		PROPN
+past	過去	past	過去		N
+gạc	ガーゼ	gạc	ガーゼ	V	N
+gạc	綿棒	gạc	綿棒	V	
+haven	ヘイヴン	haven	ヘイヴン		PROPN
+fowler	ファウラー	fowler	ファウラー	N	PROPN
+göttingen	ゲッティンゲン	göttingen	ゲッティンゲン		PROPN
+monica	モニカ	monica	モニカ		PROPN
+rudy	ルディ	rudy	ルディ	N	PROPN
+bear	ビヨーン	bear	ビヨーン		PROPN
+loneos	loneos	loneos	loneos		PROPN
+rin	rin	rin	rin		PROPN
+rin	りん	rin	りん		PROPN
+liang	リャン	liang	リャン	N	PROPN
+sims	シムス	sims	シムス		PROPN
+felder	felder	felder	felder	N	PROPN
+annie	アニー	annie	アニー	N	PROPN
+pete	ピート	pete	ピート		PROPN
+vinci	ヴィンチ	vinci	ヴィンチ	N	PROPN
+ariadna	ariadna	ariadna	ariadna	N	PROPN
+piece	ピース	piece	ピース		N
+pana	pana	pana	pana	N	PROPN
+thick	厚い	thick	厚い		ADJ
+thick	太い	thick	太い		ADJ
+nürnberg	ニュルンベルク	nürnberg	ニュルンベルク	N	PROPN
+ibrahim	イブラヒム	ibrahim	イブラヒム	N	PROPN
+abbas	アッバース	abbas	アッバース	N	PROPN
+ashton	アシュトン	ashton	アシュトン	N	PROPN
+tripoli	トリポリ	tripoli	トリポリ	N	PROPN
+adm	adm	adm	adm	N	PROPN
+denver	デンバー	denver	デンバー		PROPN
+valentine	バレンタイン	valentine	バレンタイン		PROPN
+christine	クリスティン	christine	クリスティン		PROPN
+asti	アスティ	asti	アスティ	NUM	PROPN
+pisa	ピサ	pisa	ピサ	N	PROPN
+duncan	ダンカン	duncan	ダンカン		PROPN
+bombay	ボンベイ	bombay	ボンベイ		PROPN
+jenny	ジェニー	jenny	ジェニー	N	PROPN
+krishna	クリシュナ	krishna	クリシュナ	N	PROPN
+aurora	オーロラ	aurora	オーロラ		N
+pat	パット	pat	パット		PROPN
+nachi	那智	nachi	那智	N	PROPN
+unicode	unicode	unicode	unicode	N	PROPN
+voronezh	ヴォロネジ	voronezh	ヴォロネジ	N	PROPN
+pasha	パシャ	pasha	パシャ		PROPN
+ieee	ieee	ieee	ieee	N	PROPN
+fokker	フォッカー	fokker	フォッカー	N	PROPN
+gladiolus	グラジオラス	gladiolus	グラジオラス	N	PROPN
+cebu	セブ	cebu	セブ	N	PROPN
+voldemort	ヴォルデモート	voldemort	ヴォルデモート		PROPN
+liège	リエージュ	liège	リエージュ	NUM	PROPN
+modesta	modesta	modesta	modesta	N	PROPN
+bosch	ボッシュ	bosch	ボッシュ		PROPN
+namen	namen	namen	namen		PROPN
+natal	natal	natal	natal	N	PROPN
+cohen	コーヘン	cohen	コーヘン		PROPN
+cohen	コーエン	cohen	コーエン		PROPN
+fern	シダ	fern	シダ		PROPN
+moses	モーゼ	moses	モーゼ	N	PROPN
+moses	モーゼス	moses	モーゼス	N	PROPN
+gasteracantha	gasteracantha	gasteracantha	gasteracantha		PROPN
+memphis	メンフィス	memphis	メンフィス	N	PROPN
+mas	mas	mas	mas	N	PROPN
+chapman	チャップマン	chapman	チャップマン		PROPN
+alta	アルタ	alta	アルタ	N	PROPN
+clo	clo	clo	clo	N	PROPN
+adelaide	アデレード	adelaide	アデレード	N	PROPN
+angelo	アンジェロ	angelo	アンジェロ		PROPN
+metacritic	metacritic	metacritic	metacritic	N	PROPN
+clapton	クラプトン	clapton	クラプトン		PROPN
+messier	メシエ	messier	メシエ	N	PROPN
+huesca	ウエスカ	huesca	ウエスカ	N	PROPN
+maguire	マグワイア	maguire	マグワイア		PROPN
+cưng	dear	cưng	dear	V	PROPN
+cưng	ディア	cưng	ディア	V	PROPN
+suez	スエズ	suez	スエズ	N	PROPN
+federer	フェデラー	federer	フェデラー	N	PROPN
+bofors	ボフォース	bofors	ボフォース	N	PROPN
+turn	体操	turn	体操		N
+hen	マジ	hen	マジ	V	
+hen	喘息	hen	喘息	V	N
+tun	ヤード	tun	ヤード		N
+tun	tun	tun	tun		PROPN
+plymouth	プリマス	plymouth	プリマス		PROPN
+montreal	モントリオール	montreal	モントリオール	N	PROPN
+fulham	フラム	fulham	フラム	N	PROPN
+root	root	root	root	N	PROPN
+root	ルート	root	ルート	N	PROPN
+portugal	ポルトガル	portugal	ポルトガル	NUM	PROPN
+kazan	カザン	kazan	カザン	N	PROPN
+serra	セッラ	serra	セッラ	N	PROPN
+cac	cac	cac	cac		PROPN
+cac	あなた	cac	あなた		PRO
+noel	ノエル	noel	ノエル		PROPN
+ritter	リッター	ritter	リッター		PROPN
+brooks	ブルックス	brooks	ブルックス	N	PROPN
+strauss	シュトラウス	strauss	シュトラウス	N	PROPN
+naples	ナポリ	naples	ナポリ		PROPN
+emmanuel	エマニュエル	emmanuel	エマニュエル	N	PROPN
+lionel	ライオネル	lionel	ライオネル	N	PROPN
+trick	トリック	trick	トリック		N
+mariah	マライア	mariah	マライア	N	PROPN
+dizionario	dizionario	dizionario	dizionario		PROPN
+curtiss	カーチス	curtiss	カーチス	N	PROPN
+tenerife	テネリフェ	tenerife	テネリフェ	N	PROPN
+rita	リタ	rita	リタ		PROPN
+jtwc	jtwc	jtwc	jtwc	N	PROPN
+float	float	float	float	N	PROPN
+rpg	rpg	rpg	rpg	N	PROPN
+sành	数寄者	sành	数寄者	V	N
+proc	proc	proc	proc	N	PROPN
+proc	poc	proc	poc	N	PROPN
+compact	コンパクト	compact	コンパクト	N	ADJ
+cheng	チェン	cheng	チェン	N	PROPN
+cornell	コーネル	cornell	コーネル	N	PROPN
+heller	ヘラー	heller	ヘラー		PROPN
+motor	モーター	motor	モーター		N
+sat	sat	sat	sat	NUM	PROPN
+andersen	アンデルセン	andersen	アンデルセン	N	PROPN
+elisabeth	エリザベート	elisabeth	エリザベート		PROPN
+rouge	ルージュ	rouge	ルージュ		PROPN
+darius	ダレイオス	darius	ダレイオス	N	PROPN
+darius	ダリウス	darius	ダリウス	N	PROPN
+benfica	ベンフィカ	benfica	ベンフィカ	N	PROPN
+ngửa	背泳ぎ	ngửa	背泳ぎ	V	N
+smithsonian	スミソニアン	smithsonian	スミソニアン		PROPN
+nhọc	苦難	nhọc	苦難	V	N
+magnus	マグナス	magnus	マグナス		PROPN
+sục	権力	sục	権力	V	N
+sục	パワー	sục	パワー	V	N
+abe	安部	abe	安部	N	PROPN
+abe	安倍	abe	安倍	N	PROPN
+abe	阿部	abe	阿部	N	PROPN
+dolomedes	dolomedes	dolomedes	dolomedes	N	PROPN
+ramos	ラモス	ramos	ラモス	N	PROPN
+timothy	ティモシー	timothy	ティモシー	N	PROPN
+ieyasu	家康	ieyasu	家康	N	PROPN
+bernardo	ベルナルド	bernardo	ベルナルド	N	PROPN
+nbc	nbc	nbc	nbc		PROPN
+rotterdam	ロッテルダム	rotterdam	ロッテルダム	N	PROPN
+hikaru	ヒカル	hikaru	ヒカル	N	PROPN
+hikaru	ひかる	hikaru	ひかる	N	PROPN
+rim	リム	rim	リム		N
+ferrara	フェラーラ	ferrara	フェラーラ	N	PROPN
+mượt	スムース	mượt	スムース	ADJ	N
+perth	パース	perth	パース	N	PROPN
+lev	レフ	lev	レフ	N	PROPN
+chad	チャド	chad	チャド	N	PROPN
+satsuma	薩摩	satsuma	薩摩	N	PROPN
+zagreb	ザグレブ	zagreb	ザグレブ	N	PROPN
+tesla	テスラ	tesla	テスラ		N
+irish	アイリッシュ	irish	アイリッシュ		PROPN
+litsinger	litsinger	litsinger	litsinger	N	PROPN
+fishbase	fishbase	fishbase	fishbase	N	PROPN
+sấy	アンチョビ	sấy	アンチョビ	V	PROPN
+sấy	乾燥	sấy	乾燥	V	N
+sấy	ドライヤー	sấy	ドライヤー	V	N
+teamb	teamb	teamb	teamb		PROPN
+mol	モル	mol	モル	N	PROPN
+abel	アーベル	abel	アーベル		PROPN
+abel	アベル	abel	アベル		PROPN
+millidge	millidge	millidge	millidge		PROPN
+spam	スパム	spam	スパム	V	N
+cardiff	カーディフ	cardiff	カーディフ	N	PROPN
+videos	動画	videos	動画		N
+chat	雑談	chat	雑談	N	V
+goth	ゴス	goth	ゴス		PROPN
+goth	ゴシック	goth	ゴシック		PROPN
+scarlett	スカーレット	scarlett	スカーレット		PROPN
+derek	デレック	derek	デレック	N	PROPN
+derek	デレク	derek	デレク	N	PROPN
+belgrade	ヴォルゴグラード	belgrade	ヴォルゴグラード	N	PROPN
+belgrade	ベオグラード	belgrade	ベオグラード	N	PROPN
+teresa	テレサ	teresa	テレサ	N	PROPN
+đuốc	たい	đuốc	たく	N	V
+đuốc	たい	đuốc	たく	N	V
+bibliography	参考	bibliography	参考		N
+tru	遠吠え	tru	遠高える		N
+nakamura	中村	nakamura	中村	N	PROPN
+veronica	ヴェロニカ	veronica	ヴェロニカ		PROPN
+veronica	ベロニカ	veronica	ベロニカ		PROPN
+vision	vision	vision	vision	N	PROPN
+glenn	グレン	glenn	グレン		PROPN
+manning	マニング	manning	マニング	N	PROPN
+mận	スモモ	mận	スモモ	N	PROPN
+mận	プラム	mận	プラム	N	PROPN
+mận	スモモ	mận	スモモ	N	PROPN
+nách	脇	nách	脇	N	PROPN
+hartmann	ハルトマン	hartmann	ハルトマン		PROPN
+elvis	エルヴィス	elvis	エルヴィス	N	PROPN
+elvis	エルビス	elvis	エルビス	N	PROPN
+benson	ベンソン	benson	ベンソン		PROPN
+sting	スティング	sting	スティング		PROPN
+hesse	ヘッセン	hesse	ヘッセン	N	PROPN
+hesse	ヘッセ	hesse	ヘッセ	N	PROPN
+mayer	メイヤー	mayer	メイヤー		PROPN
+marcos	マルコス	marcos	マルコス		PROPN
+parks	公園	parks	公園		N
+holocaust	ホロコースト	holocaust	ホロコースト		PROPN
+lucien	リュシアン	lucien	リュシアン		PROPN
+lisbon	リスボン	lisbon	リスボン	N	PROPN
+reggio	レッジョ	reggio	レッジョ	N	PROPN
+kay	ケイ	kay	ケイ		PROPN
+paramount	パラマウント	paramount	パラマウント	N	PROPN
+baron	男爵	baron	男爵		N
+continental	コンチネンタル	continental	コンチネンタル	N	PROPN
+sato	佐藤	sato	佐藤		PROPN
+nexus	ネクサス	nexus	ネクサス	N	PROPN
+kabul	カブール	kabul	カブール	N	PROPN
+còi	ブザー	còi	ブザー	ADJ	N
+còi	ホイッスル	còi	ホイッスル	ADJ	N
+còi	口笛	còi	口笛	ADJ	N
+pre	pre	pre	pre	N	PROPN
+emi	emi	emi	emi		PROPN
+emi	えみ	emi	えみ		PROPN
+luca	ルカ	luca	ルカ	N	PROPN
+aria	アーリア	aria	アーリア		PROPN
+aria	アリア	aria	アリア		PROPN
+saitama	さいたま	saitama	さいたま	N	PROPN
+saitama	埼玉	saitama	埼玉	N	PROPN
+brandt	ブラント	brandt	ブラント		PROPN
+tito	ティト	tito	ティト		PROPN
+herrera	エレーラ	herrera	エレーラ		PROPN
+fairy	フェアリー	fairy	フェアリー		N
+fairy	妖精	fairy	妖精		N
+wembley	ウェンブリー	wembley	ウェンブリー	N	PROPN
+vale	ヴェイル	vale	ヴェイル	N	PROPN
+mustang	マスタング	mustang	マスタング	N	PROPN
+wwf	wwf	wwf	wwf	N	PROPN
+berger	ベルガー	berger	ベルガー		PROPN
+bali	バリ	bali	バリ	N	PROPN
+bali	バリ	bali	バリ	N	PROPN
+bali	バリ島	bali	バリ島	N	PROPN
+click	クリック	click	クリック	V	N
+malay	マレー	malay	マレー	N	PROPN
+burke	バーク	burke	バーク		PROPN
+gomez	ゴメス	gomez	ゴメス	N	PROPN
+diva	ディーバ	diva	ディーバ	N	PROPN
+vogel	ヴォーゲル	vogel	ヴォーゲル	N	PROPN
+katsuura	勝浦	katsuura	勝浦	N	PROPN
+exo	exo	exo	exo	N	PROPN
+apache	apache	apache	apache	N	PROPN
+swaziland	スワジランド	swaziland	スワジランド	N	PROPN
+bissau	ビサウ	bissau	ビサウ		PROPN
+cfg	cfg	cfg	cfg		PROPN
+humboldt	フンボルト	humboldt	フンボルト		PROPN
+mnet	mnet	mnet	mnet	N	PROPN
+angels	エンジェルス	angels	エンジェルス	N	PROPN
+cincinnati	シンシナティ	cincinnati	シンシナティ	N	PROPN
+stein	シュタイン	stein	シュタイン		PROPN
+linden	リンデン	linden	リンデン	N	PROPN
+ada	エイダ	ada	エイダ		PROPN
+ada	ada	ada	ada		PROPN
+albion	アルビオン	albion	アルビオン	N	PROPN
+strong	強い	strong	強い		ADJ
+strong	濃い	strong	濃い		ADJ
+wto	wto	wto	wto		PROPN
+gould	グールド	gould	グールド		PROPN
+morales	モラレス	morales	モラレス		PROPN
+campos	カンポス	campos	カンポス	N	PROPN
+gardens	庭園	gardens	庭園		N
+shizuoka	静岡	shizuoka	静岡		PROPN
+dante	ダンテ	dante	ダンテ		PROPN
+gérard	ジェラール	gérard	ジェラール		PROPN
+fury	激怒	fury	激怒	N	V
+fury	フューリー	fury	フューリー	N	PROPN
+savage	サベージ	savage	サベージ		PROPN
+gil	ギル	gil	ギル	N	PROPN
+lviv	リヴィウ	lviv	リヴィウ	NUM	PROPN
+kota	コタ	kota	コタ	N	PROPN
+alessandro	アレッサンドロ	alessandro	アレッサンドロ	N	PROPN
+log	log	log	log	N	PROPN
+parms	parms	parms	parms		PROPN
+springer	スプリンガー	springer	スプリンガー	N	PROPN
+claudius	クラウディウス	claudius	クラウディウス	N	PROPN
+schulz	シュルツ	schulz	シュルツ		PROPN
+nathan	ネイサン	nathan	ネイサン	N	PROPN
+patricia	パトリシア	patricia	パトリシア		PROPN
+yangon	ヤンゴン	yangon	ヤンゴン	N	PROPN
+enrique	エンリケ	enrique	エンリケ		PROPN
+ranger	レインジャー	ranger	レインジャー		PROPN
+yard	ヤード	yard	ヤード		N
+bucharest	ブカレスト	bucharest	ブカレスト	N	PROPN
+int	int	int	int	N	PROPN
+shelby	シェルビー	shelby	シェルビー		PROPN
+rufus	ルーファス	rufus	ルーファス		PROPN
+connor	コナー	connor	コナー	N	PROPN
+harrier	ハリアー	harrier	ハリアー	N	PROPN
+hon	dear	hon	dear		PROPN
+hon	ディア	hon	ディア		PROPN
+liechtenstein	リヒテン	liechtenstein	リヒテン		PROPN
+shakira	シャキーラ	shakira	シャキーラ	N	PROPN
+benoit	ブノワ	benoit	ブノワ	N	PROPN
+rabaul	ラバウル	rabaul	ラバウル		PROPN
+cromwell	クロムウェル	cromwell	クロムウェル	N	PROPN
+queens	クイーンズ	queens	クイーンズ	N	PROPN
+plain	無地	plain	無地		N
+plain	平野	plain	平野		PROPN
+fungorum	fungorum	fungorum	fungorum	NUM	PROPN
+maxon	maxon	maxon	maxon		PROPN
+dracula	ドラキュラ	dracula	ドラキュラ	N	PROPN
+tonga	トンガ	tonga	トンガ	N	PROPN
+territoire	テリトワール	territoire	テリトワール	N	PROPN
+baja	バハ	baja	バハ	N	PROPN
+malacca	マラッカ	malacca	マラッカ	N	PROPN
+walther	ヴァルター	walther	ヴァルター	N	PROPN
+ultimate	アルティメット	ultimate	アルティメット		PROPN
+crimean	クリミア	crimean	クリミア		PROPN
+crimean	クリミア	crimean	クリミア		PROPN
+marlborough	マールバラ	marlborough	マールバラ	N	PROPN
+uta	うた	uta	うた		N
+fleet	フリート	fleet	フリート	N	PROPN
+prodcode	prodcode	prodcode	prodcode	N	PROPN
+tours	トゥール	tours	トゥール	N	PROPN
+reeder	reeder	reeder	reeder	ADJ	PROPN
+girona	ジローナ	girona	ジローナ	NUM	PROPN
+hokkaido	北海道	hokkaido	北海道		PROPN
+maldives	モルディブ	maldives	モルディブ	N	PROPN
+javier	ハビエル	javier	ハビエル	N	PROPN
+sharon	シャロン	sharon	シャロン		PROPN
+suite	スイート	suite	スイート		N
+antwerp	アントワープ	antwerp	アントワープ	N	PROPN
+sevastopol	セヴァストポリ	sevastopol	セヴァストポリ	N	PROPN
+aurea	アウレア	aurea	アウレア		PROPN
+pseudopoda	pseudopoda	pseudopoda	pseudopoda	V	PROPN
+jeju	済州	jeju	済州	N	PROPN
+mirror	ミラー	mirror	ミラー		N
+lesotho	レソト	lesotho	レソト	N	PROPN
+aristotle	アリストテレス	aristotle	アリストテレス		PROPN
+ultra	ultra	ultra	ultra	N	PROPN
+ultra	ウルトラ	ultra	ウルトラ	N	PROPN
+xxx	xxx	xxx	xxx		PROPN
+arcade	arcade	arcade	arcade	N	PROPN
+arcade	アーケード	arcade	アーケード	N	PROPN
+kolkata	コルカタ	kolkata	コルカタ	N	PROPN
+wasp	ハチ	wasp	ハチ	N	PROPN
+pratt	プラット	pratt	プラット	N	PROPN
+kawasaki	川崎	kawasaki	川崎	N	PROPN
+bactria	バクトリア	bactria	バクトリア	N	PROPN
+amanda	アマンダ	amanda	アマンダ	N	PROPN
+joker	ジョーカー	joker	ジョーカー		PROPN
+goethe	ゲーテ	goethe	ゲーテ	N	PROPN
+cnn	cnn	cnn	cnn	N	PROPN
+guillaume	ギヨーム	guillaume	ギヨーム	N	PROPN
+juss	juss	juss	juss		PROPN
+thây	ゾンビ	thây	ゾンビ		N
+tanikawa	谷川	tanikawa	谷川		PROPN
+nhấp	クリック	nhấp	クリック	V	N
+gaius	ガイウス	gaius	ガイウス	N	PROPN
+ekaterina	エカテリーナ	ekaterina	エカテリーナ	N	PROPN
+ein	アイン	ein	アイン	N	PROPN
+ein	ein	ein	ein	N	PROPN
+messina	メッシーナ	messina	メッシーナ	N	PROPN
+mandela	マンデラ	mandela	マンデラ	N	PROPN
+kanagawa	神奈川	kanagawa	神奈川		PROPN
+scorea	scorea	scorea	scorea		PROPN
+asm	asm	asm	asm	N	PROPN
+dom	ドム	dom	ドム	N	PROPN
+dom	dom	dom	dom	N	PROPN
+altlink	altlink	altlink	altlink		PROPN
+belfast	ベルファスト	belfast	ベルファスト	N	PROPN
+joy	joy	joy	joy	N	PROPN
+joy	ジョイ	joy	ジョイ	N	PROPN
+joy	喜び	joy	喜び	N	V
+verdun	ヴェルダン	verdun	ヴェルダン	N	PROPN
+macau	マカオ	macau	マカオ	N	PROPN
+jasper	ジャスパー	jasper	ジャスパー	N	PROPN
+nba	nba	nba	nba	N	PROPN
+plata	plata	plata	plata	N	PROPN
+emirates	エミレーツ	emirates	エミレーツ	N	PROPN
+terme	テルメ	terme	テルメ	N	PROPN
+sum	合計	sum	合計		N
+sum	総和	sum	総和		N
+swiss	スイス	swiss	スイス	N	PROPN
+muang	ムアン	muang	ムアン	N	PROPN
+düsseldorf	デュッセル	düsseldorf	デュッセル	NUM	PROPN
+düsseldorf	デュッセル	düsseldorf	デュッセル	NUM	PROPN
+maha	マハー	maha	マハー	N	PROPN
+usda	usda	usda	usda	N	PROPN
+tyson	タイソン	tyson	タイソン	N	PROPN
+sonic	ソニック	sonic	ソニック	N	PROPN
+agm	agm	agm	agm		PROPN
+dượng	ヴァーノン	dượng	ヴァーノン	N	PROPN
+larvae	幼虫	larvae	幼虫	ADJ	N
+besançon	ブザンソン	besançon	ブザンソン		PROPN
+javascript	javascript	javascript	javascript	N	PROPN
+takeda	武田	takeda	武田		PROPN
+takeda	竹田	takeda	竹田		PROPN
+mercedes	メルセデス	mercedes	メルセデス	N	PROPN
+adventures	冒険	adventures	冒険		V
+ryū	リュウ	ryū	リュウ		PROPN
+ubuntu	ubuntu	ubuntu	ubuntu	N	PROPN
+kagoshima	鹿児島	kagoshima	鹿児島		PROPN
+tallinn	タリン	tallinn	タリン	N	PROPN
+peruviana	peruviana	peruviana	peruviana		PROPN
+varese	ヴァレーゼ	varese	ヴァレーゼ	NUM	PROPN
+origins	起源	origins	起源		N
+heli	ヘリウム	heli	ヘリウム		N
+wii	wii	wii	wii	N	PROPN
+orléans	オルレアン	orléans	オルレアン		PROPN
+almería	アルメリア	almería	アルメリア	N	PROPN
+martínez	マルティネス	martínez	マルティネス	N	PROPN
+guadeloupe	グアドループ	guadeloupe	グアドループ	N	PROPN
+btr	btr	btr	btr		PROPN
+serv	serv	serv	serv		PROPN
+kirby	カービー	kirby	カービー		PROPN
+mustafa	ムスタファ	mustafa	ムスタファ	N	PROPN
+pittsburgh	ピッツバーグ	pittsburgh	ピッツバーグ		PROPN
+synonym	同	synonym	同		ADJ
+synonym	類義	synonym	類義		PROPN
+yoshida	吉田	yoshida	吉田		PROPN
+vaughan	ヴォーン	vaughan	ヴォーン		PROPN
+gauss	ガウス	gauss	ガウス	N	PROPN
+gauss	ガウス	gauss	ガウス	N	PROPN
+sakhalin	樺太	sakhalin	樺太	N	PROPN
+pallas	パラス	pallas	パラス	N	PROPN
+seth	セス	seth	セス		PROPN
+wikidata	wikidata	wikidata	wikidata	N	PROPN
+pao	lbs	pao	lbs	N	PROPN
+pao	パオ	pao	パオ	N	PROPN
+mega	メガ	mega	メガ		N
+mega	mega	mega	mega		PROPN
+mindanao	ミンダナオ島	mindanao	ミンダナオ島	N	PROPN
+claire	クレア	claire	クレア		PROPN
+maru	まる	maru	まる	N	
+trias	トリアス	trias	トリアス		PROPN
+tango	丹後	tango	丹後	N	PROPN
+montréal	モントリオール	montréal	モントリオール		PROPN
+jesse	ジェシー	jesse	ジェシー	N	PROPN
+walsh	ウォルシュ	walsh	ウォルシュ	N	PROPN
+hey	ヘイ	hey	ヘイ		PROPN
+adrian	エイドリアン	adrian	エイドリアン	N	PROPN
+kagome	かごめ	kagome	かごめる		N
+prescott	プレスコット	prescott	プレスコット	N	PROPN
+albrecht	アルブレヒト	albrecht	アルブレヒト	N	PROPN
+gómez	ゴメス	gómez	ゴメス	V	PROPN
+gómez	ゴメス	gómez	ゴメス	V	PROPN
+leach	リーチ	leach	リーチ		N
+české	チェスケー	české	チェスケー	NUM	PROPN
+olga	オルガ	olga	オルガ		PROPN
+carnegie	カーネギー	carnegie	カーネギー		PROPN
+yamaguchi	山口	yamaguchi	山口	N	PROPN
+brit	ブリット	brit	ブリット	N	PROPN
+brit	ブリット	brit	ブリット	N	PROPN
+rod	ロッド	rod	ロッド		N
+hermione	ハーマイオニー	hermione	ハーマイオニー		PROPN
+phẩy	コンマ	phẩy	コンマ	N	PROPN
+amazing	素晴らしい	amazing	素晴らしい	N	ADJ
+amazing	凄い	amazing	凄い	N	ADJ
+amazing	すごい	amazing	すごい	N	ADJ
+joshua	ヨシュア	joshua	ヨシュア	N	PROPN
+earl	アール	earl	アール		PROPN
+amber	琥珀	amber	琥珀		N
+amber	アンバー	amber	アンバー		N
+nhk	nhk	nhk	nhk	N	PROPN
+neon	ネオン	neon	ネオン	N	PROPN
+kenny	ケニー	kenny	ケニー		PROPN
+hanoi	ハノイ	hanoi	ハノイ		PROPN
+richter	リヒター	richter	リヒター	N	PROPN
+bethlehem	ベツレヘム	bethlehem	ベツレヘム	N	PROPN
+invincible	インヴィンシブル	invincible	インヴィンシブル		PROPN
+sidi	sidi	sidi	sidi	N	PROPN
+mainz	マインツ	mainz	マインツ	N	PROPN
+tracy	トレイシー	tracy	トレイシー		PROPN
+blanchard	ブランチャード	blanchard	ブランチャード		PROPN
+mickey	ミッキー	mickey	ミッキー	N	PROPN
+grenada	グレナダ	grenada	グレナダ	N	PROPN
+uesac	uesac	uesac	uesac		PROPN
+xml	xml	xml	xml		PROPN
+antigua	アンティグア	antigua	アンティグア	N	PROPN
+claudia	クラウディア	claudia	クラウディア	N	PROPN
+shogun	征夷大将	shogun	征夷大将		N
+aung	アウン	aung	アウン	N	PROPN
+stoke	ストーク	stoke	ストーク	N	PROPN
+baku	バクー	baku	バクー	N	PROPN
+car	自動車	car	自動車		N
+car	クルマ	car	クルマ		N
+seal	封印	seal	封印	N	V
+seal	押印	seal	押印	N	V
+elliot	エリオット	elliot	エリオット		PROPN
+albany	オールバニ	albany	オールバニ	N	PROPN
+albany	アルバニー	albany	アルバニー	N	PROPN
+bloch	ブロッホ	bloch	ブロッホ	N	PROPN
+yoga	ヨガ	yoga	ヨガ	V	N
+albacete	アルバセテ	albacete	アルバセテ	N	PROPN
+blade	ブレイド	blade	ブレイド	N	PROPN
+mat	料理	mat	料理	N	V
+heinkel	ハインケル	heinkel	ハインケル	N	PROPN
+asp	asp	asp	asp		PROPN
+shadab	shadab	shadab	shadab	N	PROPN
+yuki	ゆき	yuki	ゆき		PROPN
+yuki	yuki	yuki	yuki		PROPN
+yuki	ユキ	yuki	ユキ		PROPN
+namedata	namedata	namedata	namedata	N	PROPN
+blackwall	blackwall	blackwall	blackwall		PROPN
+quýt	ミカン	quýt	ミカン	N	PROPN
+eve	イブ	eve	イブ		PROPN
+eve	イヴ	eve	イヴ		PROPN
+hacker	ハッカー	hacker	ハッカー		N
+hacker	ハッカー	hacker	ハッカー		N
+sendai	仙台	sendai	仙台		PROPN
+tiberius	ティベリウス	tiberius	ティベリウス	N	PROPN
+xúi	ジンクス	xúi	ジンクス	V	N
+lynn	リン	lynn	リン	N	PROPN
+olomouc	オロモウツ	olomouc	オロモウツ		PROPN
+durham	ダラム	durham	ダラム	N	PROPN
+hót	歌う	hót	歌う	N	V
+thor	トール	thor	トール	N	PROPN
+padova	パドヴァ	padova	パドヴァ	N	PROPN
+ruby	ルビ	ruby	ルビ		N
+ruby	ルビー	ruby	ルビー		N
+dwight	ドワイト	dwight	ドワイト	N	PROPN
+selena	セレーナ	selena	セレーナ		PROPN
+comoros	コモロ	comoros	コモロ	N	PROPN
+fulton	フルトン	fulton	フルトン		PROPN
+xavier	ザビエル	xavier	ザビエル		PROPN
+blücher	ブリュッヒャー	blücher	ブリュッヒャー	N	PROPN
+candy	キャンディ	candy	キャンディ		N
+candy	キャンディー	candy	キャンディー		N
+fao	fao	fao	fao	N	PROPN
+vtc	vtc	vtc	vtc	N	PROPN
+khuấy	攪拌	khuấy	攪拌	V	N
+konstantin	コンスタンチン	konstantin	コンスタンチン		PROPN
+boa	boa	boa	boa		PROPN
+boa	ボア	boa	ボア		PROPN
+cube	立方体	cube	立方体		N
+cube	キューブ	cube	キューブ		N
+emil	エミル	emil	エミル	N	PROPN
+glen	グレン	glen	グレン		PROPN
+klaus	クラウス	klaus	クラウス	N	PROPN
+benz	ベンツ	benz	ベンツ		PROPN
+hampton	ハンプトン	hampton	ハンプトン		PROPN
+chandler	チャンドラー	chandler	チャンドラー		PROPN
+nordrhein	nordrhein	nordrhein	nordrhein	V	PROPN
+quinn	クイン	quinn	クイン		PROPN
+bmw	bmw	bmw	bmw	N	PROPN
+irene	イレーネ	irene	イレーネ		PROPN
+irene	アイリーン	irene	アイリーン		PROPN
+cartoon	カートゥーン	cartoon	カートゥーン		N
+penang	ペナン	penang	ペナン		PROPN
+gớm	炎	gớm	炎	PART	N
+zeller	ツェラー	zeller	ツェラー		PROPN
+toro	トロ	toro	トロ	N	PROPN
+sủa	バーク	sủa	バーク	ADJ	PROPN
+sủa	樹皮	sủa	樹皮	ADJ	PROPN
+sủa	吠える	sủa	吠える	ADJ	
+betty	ベティ	betty	ベティ		PROPN
+wilkinson	ウィルキンソン	wilkinson	ウィルキンソン		PROPN
+cholesterol	コレステロール	cholesterol	コレステロール	V	N
+constantinople	コンスタンティノープル	constantinople	コンスタンティノープル		PROPN
+allmusic	allmusic	allmusic	allmusic	N	PROPN
+chihuahua	チワワ	chihuahua	チワワ	N	PROPN
+chihuahua	チワワ	chihuahua	チワワ	N	PROPN
+thìa	スプーン	thìa	スプーン	N	PROPN
+bath	風呂	bath	風呂		N
+bath	入浴	bath	入浴		V
+gien	ジーン	gien	ジーン	N	PROPN
+uae	uae	uae	uae	N	PROPN
+udine	ウーディネ	udine	ウーディネ	NUM	PROPN
+michx	michx	michx	michx		PROPN
+gập	折り	gập	折り	V	N
+lens	レンズ	lens	レンズ		N
+lens	漏洩	lens	漏洩		V
+beirut	ベイルート	beirut	ベイルート	N	PROPN
+hahn	ハーン	hahn	ハーン	N	PROPN
+yamada	山田	yamada	山田		PROPN
+dot	dot	dot	dot	N	PROPN
+lafayette	ラファイエット	lafayette	ラファイエット	N	PROPN
+willem	ウィレム	willem	ウィレム	N	PROPN
+tatar	タタール	tatar	タタール	N	PROPN
+luigi	ルイジ	luigi	ルイジ		PROPN
+reo	耳	reo	耳	V	N
+sidney	シドニー	sidney	シドニー		PROPN
+zelotes	zelotes	zelotes	zelotes	N	PROPN
+musashi	ムサシ	musashi	ムサシ	N	PROPN
+musashi	武蔵	musashi	武蔵	N	PROPN
+pluto	冥	pluto	冥	N	PROPN
+pluto	プルート	pluto	プルート	N	PROPN
+adobe	adobe	adobe	adobe	N	PROPN
+shizuka	静香	shizuka	静香	N	PROPN
+lindsey	リンゼイ	lindsey	リンゼイ		PROPN
+lindsey	リンジー	lindsey	リンジー		PROPN
+hyundai	ヒュンダイ	hyundai	ヒュンダイ		PROPN
+direct	ダイレクト	direct	ダイレクト		N
+kato	加藤	kato	加藤	N	PROPN
+nomura	野村	nomura	野村	V	PROPN
+diane	ダイアン	diane	ダイアン		PROPN
+thrace	トラキア	thrace	トラキア	N	PROPN
+sugar	砂糖	sugar	砂糖		N
+doc	doc	doc	doc		PROPN
+doc	ドク	doc	ドク		PROPN
+antiochos	アンティオコス	antiochos	アンティオコス	N	PROPN
+kyushu	九州	kyushu	九州	N	PROPN
+cremona	クレモナ	cremona	クレモナ	N	PROPN
+handel	ヘンデル	handel	ヘンデル	N	PROPN
+talbot	タルボット	talbot	タルボット		PROPN
+kyle	カイル	kyle	カイル		PROPN
+emerton	emerton	emerton	emerton	V	PROPN
+dale	デイル	dale	デイル		PROPN
+dale	デール	dale	デール		PROPN
+gloria	グロリア	gloria	グロリア		PROPN
+lange	ランゲ	lange	ランゲ	N	PROPN
+shannon	シャノン	shannon	シャノン		PROPN
+mehmed	メフメト	mehmed	メフメト	N	PROPN
+cayman	カルガリー	cayman	カルガリー	N	PROPN
+cayman	ケイマン	cayman	ケイマン	N	PROPN
+martinique	マルティニーク	martinique	マルティニーク	N	PROPN
+gotha	ゴータ	gotha	ゴータ		PROPN
+wilcox	ウィルコックス	wilcox	ウィルコックス		PROPN
+saxophone	サックス	saxophone	サックス	N	PROPN
+friedman	フリードマン	friedman	フリードマン		PROPN
+vanessa	ヴァネッサ	vanessa	ヴァネッサ		PROPN
+haas	ハース	haas	ハース	N	PROPN
+schwartz	シュワルツ	schwartz	シュワルツ		PROPN
+para	パラ	para	パラ	N	PROPN
+howell	ハウエル	howell	ハウエル		PROPN
+tolstoy	トルストイ	tolstoy	トルストイ	N	PROPN
+neptune	海王星	neptune	海王星	N	PROPN
+neptune	ネプチューン	neptune	ネプチューン	N	PROPN
+jupiter	ジュピター	jupiter	ジュピター	N	PROPN
+velvet	ベルベット	velvet	ベルベット		PROPN
+mia	mia	mia	mia		PROPN
+mia	ミア	mia	ミア		PROPN
+bromley	ブロムリー	bromley	ブロムリー		PROPN
+djibouti	ジブチ	djibouti	ジブチ	N	PROPN
+hattori	服部	hattori	服部	N	PROPN
+training	トレーニング	training	トレーニング	DET	N
+training	講習	training	講習	DET	N
+training	修行	training	修行	DET	V
+training	訓練	training	訓練	DET	V
+training	研修	training	研修	DET	V
+musa	ムサ	musa	ムサ	N	PROPN
+akb	akb	akb	akb		PROPN
+norodom	ノロドム	norodom	ノロドム	N	PROPN
+shepard	シェパード	shepard	シェパード		PROPN
+zanzibar	ザンジバル	zanzibar	ザンジバル	N	PROPN
+lil	lil	lil	lil		PROPN
+lil	リル	lil	リル		PROPN
+cowan	コーワン	cowan	コーワン	N	PROPN
+randolph	ランドルフ	randolph	ランドルフ		PROPN
+oakland	オークランド	oakland	オークランド	N	PROPN
+toscana	トスカーナ	toscana	トスカーナ	N	PROPN
+ambrose	アンブローズ	ambrose	アンブローズ	N	PROPN
+aurelius	アウレリウス	aurelius	アウレリウス	N	PROPN
+sheikh	シャイフ	sheikh	シャイフ	N	PROPN
+andorra	ポドゴリツァ	andorra	ポドゴリツァ	N	PROPN
+benedict	ベネディクト	benedict	ベネディクト	N	PROPN
+palmer	パーマー	palmer	パーマー	N	PROPN
+irving	アーヴィング	irving	アーヴィング		PROPN
+medeiros	メデイロス	medeiros	メデイロス	N	PROPN
+lat	lat	lat	lat	N	PROPN
+lat	怠け者	lat	怠け者	N	
+wigan	ウィガン	wigan	ウィガン	N	PROPN
+crane	クレーン	crane	クレーン		N
+crane	ツル	crane	ツル		N
+darren	ダレン	darren	ダレン	N	PROPN
+beaver	ビーバー	beaver	ビーバー		PROPN
+paulus	パウルス	paulus	パウルス	N	PROPN
+chopin	ショパン	chopin	ショパン	V	PROPN
+ghẻ	かさぶ	ghẻ	かさぶ	N	V
+ghẻ	クズ	ghẻ	クズ	N	PROPN
+canterbury	カンタベリー	canterbury	カンタベリー		PROPN
+gerhard	ゲルハルト	gerhard	ゲルハルト		PROPN
+fujiwara	藤原	fujiwara	藤原	N	PROPN
+maxima	マクシマ	maxima	マクシマ	N	PROPN
+indie	インディー	indie	インディー		N
+kung	クン	kung	クン	N	PROPN
+championships	選手権	championships	選手権	V	N
+animax	アニマックス	animax	アニマックス	N	PROPN
+beograd	ベオグラード	beograd	ベオグラード	N	PROPN
+martha	マーサ	martha	マーサ		PROPN
+bloom	ブルーム	bloom	ブルーム		PROPN
+marius	マリウス	marius	マリウス		PROPN
+helmut	ヘルムート	helmut	ヘルムート	N	PROPN
+avril	アブリル	avril	アブリル	N	PROPN
+mbar	mbar	mbar	mbar	N	PROPN
+khuya	遅い	khuya	遅い	N	ADJ
+suffolk	サフォーク	suffolk	サフォーク	N	PROPN
+liststyle	liststyle	liststyle	liststyle		PROPN
+kilis	キリス	kilis	キリス		PROPN
+niken	ニッケル	niken	ニッケル	N	PROPN
+beaufort	ボーフォート	beaufort	ボーフォート	N	PROPN
+maui	マウイ	maui	マウイ	N	PROPN
+tone	トーン	tone	トーン		N
+ferrari	フェラーリ	ferrari	フェラーリ	N	PROPN
+stan	スタン	stan	スタン		PROPN
+loi	loi	loi	loi		PROPN
+regina	レジーナ	regina	レジーナ		PROPN
+cherry	サクランボ	cherry	サクランボ		N
+cherry	チェリー	cherry	チェリー		N
+cherry	サクランボ	cherry	サクランボ		N
+cherry	さくらん	cherry	さくらん		N
+scout	スカウト	scout	スカウト		N
+coburg	コーブルク	coburg	コーブルク		PROPN
+pereira	ペレイラ	pereira	ペレイラ	N	PROPN
+citation	サイテーション	citation	サイテーション		PROPN
+sakai	酒井	sakai	酒井		PROPN
+sakai	坂井	sakai	坂井		PROPN
+curie	キュリー	curie	キュリー	N	PROPN
+chuck	チャック	chuck	チャック		N
+dora	ドーラ	dora	ドーラ	N	PROPN
+romagna	ロマーニャ	romagna	ロマーニャ		PROPN
+bergen	ベルゲン	bergen	ベルゲン	N	PROPN
+gajbe	gajbe	gajbe	gajbe		PROPN
+trinity	三位	trinity	三位	NUM	N
+antigonos	アンティゴノス	antigonos	アンティゴノス	N	PROPN
+roche	ロッシュ	roche	ロッシュ		PROPN
+kafka	カフカ	kafka	カフカ	N	PROPN
+leiden	ライデン	leiden	ライデン	N	PROPN
+hubert	ヒューバート	hubert	ヒューバート		PROPN
+turin	トリノ	turin	トリノ	NUM	PROPN
+sylvia	シルヴィア	sylvia	シルヴィア	N	PROPN
+sylvia	シルビア	sylvia	シルビア	N	PROPN
+wikitext	wikitext	wikitext	wikitext		PROPN
+valentin	ヴァレンティン	valentin	ヴァレンティン		PROPN
+fidel	フィデル	fidel	フィデル		PROPN
+ash	ash	ash	ash		PROPN
+brittany	ブルターニュ	brittany	ブルターニュ		PROPN
+ret	ret	ret	ret		PROPN
+wickes	ウィックス	wickes	ウィックス	N	PROPN
+giặt	ランドリー	giặt	ランドリー	V	N
+andre	アンドレ	andre	アンドレ		PROPN
+andre	アンドレ	andre	アンドレ		PROPN
+pierce	ピアス	pierce	ピアス		N
+pierce	ピアース	pierce	ピアース		PROPN
+rfc	rfc	rfc	rfc	N	PROPN
+catania	カターニア	catania	カターニア	N	PROPN
+canary	カナリア	canary	カナリア	N	PROPN
+logroño	ログローニョ	logroño	ログローニョ		PROPN
+spotted	斑点	spotted	斑点		N
+blankname	blankname	blankname	blankname		PROPN
+sexy	セクシー	sexy	セクシー	N	PROPN
+uloborus	uloborus	uloborus	uloborus		PROPN
+cược	賭ける	cược	賭ける	N	V
+cược	賭け	cược	賭ける	N	V
+lars	ラース	lars	ラース	N	PROPN
+krasnodar	クラスノダール	krasnodar	クラスノダール	N	PROPN
+wikimapia	wikimapia	wikimapia	wikimapia		PROPN
+chẻ	ホール	chẻ	ホール		N
+vilnius	ヴィリニュス	vilnius	ヴィリニュス	N	PROPN
+trieste	トリエステ	trieste	トリエステ	N	PROPN
+phineas	フィニアス	phineas	フィニアス	N	PROPN
+sirius	シリウス	sirius	シリウス	N	PROPN
+bèo	ラメ	bèo	ラメ	N	PROPN
+fuller	フラー	fuller	フラー	N	PROPN
+kino	キノ	kino	キノ	V	PROPN
+phoebe	フェーベ	phoebe	フェーベ	N	PROPN
+benevento	ベネヴェント	benevento	ベネヴェント	N	PROPN
+sec	sec	sec	sec	N	PROPN
+natalie	ナタリー	natalie	ナタリー	N	PROPN
+cassini	カッシーニ	cassini	カッシーニ	N	PROPN
+halloween	ハロウィン	halloween	ハロウィン	V	N
+nottingham	ノッティンガム	nottingham	ノッティンガム	N	PROPN
+angelica	アンジェリカ	angelica	アンジェリカ		PROPN
+shinichi	伸一	shinichi	伸一	N	PROPN
+shinichi	新一	shinichi	新一	N	PROPN
+shinichi	工藤	shinichi	工藤	N	PROPN
+sites	サイト	sites	サイト		N
+skin	スキン	skin	スキン		N
+skin	皮膚	skin	皮膚		N
+doyle	ドイル	doyle	ドイル	N	PROPN
+jihlava	イフラヴァ	jihlava	イフラヴァ	N	PROPN
+gamespot	gamespot	gamespot	gamespot		PROPN
+hilbert	ヒルベルト	hilbert	ヒルベルト	N	PROPN
+rising	ライジング	rising	ライジング		PROPN
+rising	rising	rising	rising		PROPN
+eight	eight	eight	eight	NUM	PROPN
+eight	エイト	eight	エイト	NUM	PROPN
+cody	コーディー	cody	コーディー	N	PROPN
+mitra	ミトラ	mitra	ミトラ		PROPN
+biếng	だら	biếng	たら	ADJ	N
+biếng	怠け者	biếng	怠け者	ADJ	
+massa	マッサ	massa	マッサ		PROPN
+shiva	シヴァ	shiva	シヴァ	N	PROPN
+merlin	マーリン	merlin	マーリン	N	PROPN
+anchor	アンカー	anchor	アンカー	N	PROPN
+ascii	アスキー	ascii	アスキー	N	PROPN
+ascii	ascii	ascii	ascii	N	PROPN
+vice	バイス	vice	バイス		N
+barset	barset	barset	barset		PROPN
+bolzano	ボルツァーノ	bolzano	ボルツァーノ	N	PROPN
+martinez	マルティネス	martinez	マルティネス	N	PROPN
+nmi	nmi	nmi	nmi	N	PROPN
+teaser	teaser	teaser	teaser		PROPN
+globe	グローブ	globe	グローブ		N
+edison	エジソン	edison	エジソン	N	PROPN
+orton	orton	orton	orton	N	PROPN
+chằng	靭帯	chằng	靭帯	V	N
+oppenheimer	オッペンハイマー	oppenheimer	オッペンハイマー		PROPN
+bauer	バウアー	bauer	バウアー	N	PROPN
+wolfsburg	ヴォルフスブルク	wolfsburg	ヴォルフスブルク	N	PROPN
+hopper	ホッパー	hopper	ホッパー	V	PROPN
+goa	ゴア	goa	ゴア		PROPN
+dhabi	dhabi	dhabi	dhabi	N	PROPN
+soft	やわらかい	soft	やわらかい		ADJ
+soft	柔らかい	soft	柔らかい		ADJ
+soft	ソフト	soft	ソフト		ADJ
+caproni	カプロニ	caproni	カプロニ	N	PROPN
+laguna	ラグナ	laguna	ラグナ	N	PROPN
+theodosius	テオドシウス	theodosius	テオドシウス	N	PROPN
+coca	コーク	coca	コーク	N	PROPN
+coca	コカ	coca	コカ	N	PROPN
+jörg	イェルク	jörg	イェルク	NUM	PROPN
+titlestyle	titlestyle	titlestyle	titlestyle	V	PROPN
+lcd	lcd	lcd	lcd	N	PROPN
+sphinx	スフィンクス	sphinx	スフィンクス		PROPN
+tsubasa	つばさ	tsubasa	つばさ	N	PROPN
+rogue	ローグ	rogue	ローグ	N	PROPN
+crimea	クリミア	crimea	クリミア	V	PROPN
+breslau	ヴロツワフ	breslau	ヴロツワフ	N	PROPN
+thanatus	thanatus	thanatus	thanatus		PROPN
+abkhazia	アブハジア	abkhazia	アブハジア		PROPN
+gardenia	クチナシ	gardenia	クチナシ	N	PROPN
+burma	ビルマ	burma	ビルマ	N	PROPN
+pepper	ペッパー	pepper	ペッパー		N
+pepper	胡椒	pepper	胡椒		N
+pepper	コショウ	pepper	コショウ		N
+hrsg	hrsg	hrsg	hrsg		PROPN
+jammu	ジャンムー	jammu	ジャンムー	N	PROPN
+koh	koh	koh	koh	N	PROPN
+ramsey	ラムジー	ramsey	ラムジー		PROPN
+ramsey	ラムゼイ	ramsey	ラムゼイ		PROPN
+infinity	無限	infinity	無限	N	
+infinity	infinity	infinity	infinity	N	PROPN
+molina	モリーナ	molina	モリーナ		PROPN
+tonumber	tonumber	tonumber	tonumber		PROPN
+cornelius	コルネリウス	cornelius	コルネリウス	N	PROPN
+cornelius	コーネリアス	cornelius	コーネリアス	N	PROPN
+información	información	información	información		PROPN
+brie	ブリー	brie	ブリー		PROPN
+sally	サリー	sally	サリー		PROPN
+zurich	チューリッヒ	zurich	チューリッヒ	N	PROPN
+choáng	ボーッ	choáng	ボーッ	V	PROPN
+jyp	jyp	jyp	jyp	N	PROPN
+drew	ドリュー	drew	ドリュー		PROPN
+bernhard	ベルナルド	bernhard	ベルナルド	N	PROPN
+tna	tna	tna	tna	N	PROPN
+hpa	hpa	hpa	hpa	N	PROPN
+benny	ベニー	benny	ベニー	N	PROPN
+cherokee	チェロキー	cherokee	チェロキー		PROPN
+hindenburg	ヒンデンブルク	hindenburg	ヒンデンブルク		PROPN
+hindenburg	ヒンデンブルグ	hindenburg	ヒンデンブルグ		PROPN
+smile	笑顔	smile	笑顔		N
+smile	スマイル	smile	スマイル		N
+attila	アッティラ	attila	アッティラ	N	PROPN
+tbilisi	トビリシ	tbilisi	トビリシ	N	PROPN
+kira	キラ	kira	キラ	N	PROPN
+kaoru	和田	kaoru	和田	N	PROPN
+marguerite	マルグリット	marguerite	マルグリット		PROPN
+navbox	navbox	navbox	navbox		PROPN
+benito	ベニート	benito	ベニート	N	PROPN
+aka	aka	aka	aka		PROPN
+ramesses	ラムセス	ramesses	ラムセス	N	PROPN
+ngứa	かゆみ	ngứa	かゆみ	V	N
+ngứa	かゆい	ngứa	かゆく	V	PROPN
+rebecca	レベッカ	rebecca	レベッカ		PROPN
+stones	ストーンズ	stones	ストーンズ		PROPN
+schultz	シュルツ	schultz	シュルツ	N	PROPN
+desc	desc	desc	desc		PROPN
+pot	ポット	pot	ポット		N
+heian	平安	heian	平安	N	PROPN
+obi	オビ	obi	オビ	N	PROPN
+alma	アルマ	alma	アルマ	NUM	PROPN
+gsm	gsm	gsm	gsm	N	PROPN
+homer	ホーマー	homer	ホーマー	N	PROPN
+myers	マイヤーズ	myers	マイヤーズ		PROPN
+parvula	parvula	parvula	parvula		PROPN
+kombat	kombat	kombat	kombat	N	PROPN
+fourier	フーリエ	fourier	フーリエ	N	PROPN
+tivi	テレビ	tivi	テレビ	ADJ	N
+prinz	プリンツ	prinz	プリンツ	N	PROPN
+gifford	ギフォード	gifford	ギフォード		PROPN
+argentine	アルゼンチン	argentine	アルゼンチン	N	PROPN
+benin	ベナン	benin	ベナン	N	PROPN
+sar	sar	sar	sar	N	PROPN
+aquino	アキノ	aquino	アキノ	N	PROPN
+tina	ティナ	tina	ティナ		PROPN
+mystery	ミステリー	mystery	ミステリー		N
+ruth	ルース	ruth	ルース		PROPN
+carolyn	キャロリン	carolyn	キャロリン		PROPN
+psv	psv	psv	psv	N	PROPN
+stall	出店	stall	出店		V
+beetle	ビートル	beetle	ビートル	N	PROPN
+picasso	ピカソ	picasso	ピカソ	N	PROPN
+bien	bien	bien	bien	N	PROPN
+hoffmann	ホフマン	hoffmann	ホフマン		PROPN
+geo	geo	geo	geo		PROPN
+sussex	サセックス	sussex	サセックス	N	PROPN
+joey	ジョーイ	joey	ジョーイ	N	PROPN
+nuremberg	ニュルンベルク	nuremberg	ニュルンベルク	N	PROPN
+isabel	イサベル	isabel	イサベル		PROPN
+nakane	中根	nakane	中根		PROPN
+damascus	ダマスカス	damascus	ダマスカス	N	PROPN
+batista	バティスタ	batista	バティスタ		PROPN
+highland	高地	highland	高地		N
+highland	ハイランド	highland	ハイランド		PROPN
+avenue	アベニュー	avenue	アベニュー		N
+paradoxa	paradoxa	paradoxa	paradoxa		PROPN
+aspx	aspx	aspx	aspx	N	PROPN
+toyotomi	豊臣	toyotomi	豊臣	PROPN	PROPN
+chatham	チャタム	chatham	チャタム	N	PROPN
+una	ウナ	una	ウナ	N	PROPN
+niels	ニールス	niels	ニールス	N	PROPN
+imp	インプ	imp	インプ		PROPN
+imp	imp	imp	imp		PROPN
+kalimantan	カリマンタン	kalimantan	カリマンタン	N	PROPN
+sinai	シナイ半島	sinai	シナイ半島	N	PROPN
+pmid	pmid	pmid	pmid		PROPN
+beckham	ベッカム	beckham	ベッカム	N	PROPN
+gin	ジン	gin	ジン	N	PROPN
+camille	カミー	camille	カミー	N	PROPN
+camille	カミール	camille	カミール	N	PROPN
+wendy	ウェンディ	wendy	ウェンディ		PROPN
+blackwell	ブラックウェル	blackwell	ブラックウェル		PROPN
+phoiac	phoiac	phoiac	phoiac	V	PROPN
+eteeq	eteeq	eteeq	eteeq		PROPN
+tbs	tbs	tbs	tbs		PROPN
+holiday	祝日	holiday	祝日		N
+holiday	休日	holiday	休日		N
+holiday	ホリデー	holiday	ホリデー		PROPN
+ribera	リベーラ	ribera	リベーラ	NUM	PROPN
+dornier	ドルニエ	dornier	ドルニエ	N	PROPN
+timur	ティムール	timur	ティムール	N	PROPN
+hemingway	ヘミングウェイ	hemingway	ヘミングウェイ		PROPN
+spl	spl	spl	spl		PROPN
+capcom	capcom	capcom	capcom	N	PROPN
+bittorrent	bittorrent	bittorrent	bittorrent	N	PROPN
+gibbs	ギブズ	gibbs	ギブズ	CONJ	PROPN
+gibbs	ギブス	gibbs	ギブス	CONJ	N
+elton	エルトン	elton	エルトン	N	PROPN
+fiat	フィアット	fiat	フィアット	N	PROPN
+montpellier	モンペリエ	montpellier	モンペリエ	N	PROPN
+atatürk	アタテュルク	atatürk	アタテュルク	N	PROPN
+dawson	ドーソン	dawson	ドーソン	N	PROPN
+stress	ストレス	stress	ストレス		N
+tak	tak	tak	tak	N	PROPN
+aet	aet	aet	aet		PROPN
+pattern	パターン	pattern	パターン	V	N
+greece	ギリシャ	greece	ギリシャ	N	PROPN
+oliva	オリヴァ	oliva	オリヴァ		PROPN
+oliva	オリバ	oliva	オリバ		PROPN
+brain	脳み	brain	脳み	V	N
+benešov	ベネショフ	benešov	ベネショフ	N	PROPN
+vila	ヴィラ	vila	ヴィラ		PROPN
+sapporo	札幌	sapporo	札幌	N	PROPN
+davao	ダバオ	davao	ダバオ	N	PROPN
+buchanan	ブキャナン	buchanan	ブキャナン		PROPN
+alive	アライブ	alive	アライブ		N
+rodriguez	ロドリゲス	rodriguez	ロドリゲス		PROPN
+cent	セント	cent	セント		PROPN
+lẻn	こっそり	lẻn	こっそり	V	ADV
+sandy	サンディ	sandy	サンディ		PROPN
+fra	フラ	fra	フラ		PROPN
+cuốc	ランダム	cuốc	ランダム	N	ADJ
+ftp	ftp	ftp	ftp	N	PROPN
+desmond	デズモンド	desmond	デズモンド		PROPN
+bvt	bvt	bvt	bvt	N	PROPN
+terra	テラ	terra	テラ		N
+terra	テラ	terra	テラ		N
+nigripes	nigripes	nigripes	nigripes		PROPN
+wikisource	ウィキソース	wikisource	ウィキソース	V	PROPN
+neville	ネヴィル	neville	ネヴィル		PROPN
+novara	ノヴァーラ	novara	ノヴァーラ	NUM	PROPN
+pal	パル	pal	パル		PROPN
+pal	pal	pal	pal		PROPN
+kelvin	ケルビン	kelvin	ケルビン		N
+korlević	korlević	korlević	korlević		PROPN
+poltava	ポルタヴァ	poltava	ポルタヴァ	N	PROPN
+sergio	セルジオ	sergio	セルジオ	N	PROPN
+hawking	ホーキング	hawking	ホーキング	N	PROPN
+pitt	ピット	pitt	ピット	N	PROPN
+trier	トリーア	trier	トリーア	N	PROPN
+medium	ミディアム	medium	ミディアム		N
+medium	メディア	medium	メディア		N
+somali	ソマリア	somali	ソマリア	N	PROPN
+shane	シェーン	shane	シェーン		PROPN
+cal	カル	cal	カル		PROPN
+cool	クール	cool	クール		N
+cool	涼しい	cool	涼しい		ADJ
+sizedefault	sizedefault	sizedefault	sizedefault	N	PROPN
+moreno	モレノ	moreno	モレノ		PROPN
+telegraph	電報	telegraph	電報		N
+hcv	hcv	hcv	hcv	N	PROPN
+milk	牛乳	milk	牛乳		N
+milk	ミルク	milk	ミルク		N
+daphne	ダフネ	daphne	ダフネ	N	PROPN
+jackie	ジャッキー	jackie	ジャッキー	N	PROPN
+livingston	リビングストン	livingston	リビングストン		PROPN
+thierry	ティエリー	thierry	ティエリー	N	PROPN
+graz	グラーツ	graz	グラーツ		PROPN
+haleakala	ハレアカラ	haleakala	ハレアカラ		PROPN
+flo	flo	flo	flo	N	PROPN
+mons	モンス	mons	モンス	N	PROPN
+cessna	セスナ	cessna	セスナ	N	PROPN
+kangaroo	カンガルー	kangaroo	カンガルー		N
+kangaroo	カンガルー	kangaroo	カンガルー		N
+chrome	クロム	chrome	クロム	N	PROPN
+lucida	lucida	lucida	lucida		PROPN
+ismail	イスマーイール	ismail	イスマーイール	N	PROPN
+saratoga	サラトガ	saratoga	サラトガ		PROPN
+irkutsk	イルクーツク	irkutsk	イルクーツク	N	PROPN
+alejandro	アレハンドロ	alejandro	アレハンドロ	N	PROPN
+friuli	フリウーリ	friuli	フリウーリ		PROPN
+lancashire	ランカシャー	lancashire	ランカシャー	N	PROPN
+infinite	インフィニット	infinite	インフィニット	N	PROPN
+castello	カステッロ	castello	カステッロ	N	PROPN
+myspace	myspace	myspace	myspace	N	PROPN
+zhao	蔵王	zhao	蔵王	N	PROPN
+draco	りゅう	draco	りゅう	N	PROPN
+hale	ヘール	hale	ヘール	N	PROPN
+sarajevo	サラエヴォ	sarajevo	サラエヴォ	N	PROPN
+sarajevo	サラエボ	sarajevo	サラエボ	N	PROPN
+breda	ブレダ	breda	ブレダ	N	PROPN
+res	res	res	res		PROPN
+marvin	マーヴィン	marvin	マーヴィン	N	PROPN
+lift	エレベーター	lift	エレベーター		N
+lift	リフト	lift	リフト		N
+sonny	ソニー	sonny	ソニー		PROPN
+esp	esp	esp	esp	N	PROPN
+aguilar	アギラール	aguilar	アギラール		PROPN
+aguilar	アギラー	aguilar	アギラー		PROPN
+drassodes	drassodes	drassodes	drassodes	N	PROPN
+gore	ゴア	gore	ゴア		PROPN
+kadokawa	角川	kadokawa	角川		PROPN
+phuket	プーケット	phuket	プーケット	N	PROPN
+halle	ハレ	halle	ハレ	N	PROPN
+ulrich	ウルリッヒ	ulrich	ウルリッヒ		PROPN
+checkuser	checkuser	checkuser	checkuser	N	PROPN
+gap	ギャップ	gap	ギャップ	V	N
+gap	gap	gap	gap	V	PROPN
+tirana	ティラナ	tirana	ティラナ	N	PROPN
+karelia	カレリア	karelia	カレリア	N	PROPN
+karelia	カルヤラ	karelia	カルヤラ	N	PROPN
+beaumont	ボーモント	beaumont	ボーモント	N	PROPN
+mourinho	モウリーニョ	mourinho	モウリーニョ	N	PROPN
+ogg	ogg	ogg	ogg	N	PROPN
+frances	フランセス	frances	フランセス		PROPN
+viva	viva	viva	viva		PROPN
+viva	ビバ	viva	ビバ		PROPN
+assassin	暗殺	assassin	暗殺	N	V
+vanilla	サンダー	vanilla	サンダー		N
+vanilla	バニラ	vanilla	バニラ		N
+extreme	エクストリーム	extreme	エクストリーム		PROPN
+bilbao	ビルバオ	bilbao	ビルバオ	N	PROPN
+bun	ブルガリア	bun	ブルガリア		PROPN
+bun	バンズ	bun	バンズ		PROPN
+multi	マルチ	multi	マルチ	DET	N
+woody	ウッディー	woody	ウッディー		PROPN
+fat	大皿	fat	大皿	N	
+mẹo	tips	mẹo	tips	N	PROPN
+mẹo	tip	mẹo	tip	N	PROPN
+pegasus	ペガサス	pegasus	ペガサス		PROPN
+seymour	シーモア	seymour	シーモア		PROPN
+haw	ホー	haw	ホー		N
+wilde	ワイルド	wilde	ワイルド	N	PROPN
+glycine	グリシン	glycine	グリシン	N	PROPN
+plato	プラトン	plato	プラトン	N	PROPN
+olympus	オリンポス	olympus	オリンポス	N	PROPN
+tashkent	タシュケント	tashkent	タシュケント	N	PROPN
+hcl	hci	hcl	hci	N	PROPN
+lex	lex	lex	lex		PROPN
+fukushima	福島	fukushima	福島	N	PROPN
+episodes	エピソード	episodes	エピソード		N
+herb	ハーブ	herb	ハーブ		N
+nicola	ニコラ	nicola	ニコラ	N	PROPN
+renault	ルノー	renault	ルノー		PROPN
+mew	ミュウ	mew	ミュウ	N	PROPN
+minami	みなみ	minami	みなむ		N
+bleach	ブリーチ	bleach	ブリーチ		N
+stub	スタブ	stub	スタブ		N
+avengers	アベンジャーズ	avengers	アベンジャーズ		PROPN
+weiss	ヴァイス	weiss	ヴァイス	N	PROPN
+mecca	メッカ	mecca	メッカ	N	PROPN
+cobos	コボス	cobos	コボス		PROPN
+kamakura	鎌倉	kamakura	鎌倉	N	PROPN
+augsburg	アウクスブルク	augsburg	アウクスブルク	N	PROPN
+switch	切り替え	switch	切り替える	N	V
+dickinson	ディキンソン	dickinson	ディキンソン		PROPN
+melanie	メラニー	melanie	メラニー		PROPN
+hume	ヒューム	hume	ヒューム	N	PROPN
+tama	タマ	tama	タマ	N	PROPN
+muse	ムーサ	muse	ムーサ	N	PROPN
+muse	ミューズ	muse	ミューズ	N	PROPN
+muse	muse	muse	muse	N	PROPN
+spw	spw	spw	spw		PROPN
+chamberlain	チェンバレン	chamberlain	チェンバレン	V	PROPN
+chamberlain	侍従	chamberlain	侍従	V	N
+bruch	ブルッフ	bruch	ブルッフ		PROPN
+gala	ガーラ	gala	ガーラ		PROPN
+kazakh	カザフ	kazakh	カザフ	N	PROPN
+bye	バイ	bye	バイ		N
+paula	ポーラ	paula	ポーラ		N
+toulon	トゥーロン	toulon	トゥーロン	N	PROPN
+wizard	魔法	wizard	魔法		N
+wizard	ウィザード	wizard	ウィザード		PROPN
+yom	ヨム	yom	ヨム		PROPN
+damian	ダミアン	damian	ダミアン	N	PROPN
+armavir	アルマヴィル	armavir	アルマヴィル		PROPN
+bor	ボル	bor	ボル		PROPN
+cash	現金	cash	現金		N
+lugo	ルーゴ	lugo	ルーゴ	NUM	PROPN
+teo	テオ	teo	テオ	V	PROPN
+twilight	トワイライト	twilight	トワイライト	N	PROPN
+twilight	た	twilight	た	N	V
+kenji	健二	kenji	健二		PROPN
+kenji	ケンジ	kenji	ケンジ		PROPN
+kenji	健治	kenji	健治		PROPN
+nur	ヌール	nur	ヌール	N	PROPN
+voltaire	ヴォルテール	voltaire	ヴォルテール	N	PROPN
+robson	ロブソン	robson	ロブソン	N	PROPN
+mask	仮面	mask	仮面		N
+mask	マスク	mask	マスク		N
+merton	マートン	merton	マートン	N	PROPN
+coa	coa	coa	coa	V	PROPN
+asparagus	アスパラ	asparagus	アスパラ		N
+asparagus	アスパラガス	asparagus	アスパラガス		N
+rojas	ロハス	rojas	ロハス		PROPN
+dahl	ダール	dahl	ダール	N	PROPN
+nhả	リリース	nhả	リリース	V	N
+heathrow	ヒースロー	heathrow	ヒースロー	N	PROPN
+jenkins	ジェンキンス	jenkins	ジェンキンス		PROPN
+minneapolis	ミネアポリス	minneapolis	ミネアポリス		PROPN
+pack	パック	pack	パック		N
+machado	マチャド	machado	マチャド	N	PROPN
+purpurascens	purpurascens	purpurascens	purpurascens	N	PROPN
+modena	モデナ	modena	モデナ	NUM	PROPN
+lions	ライオンズ	lions	ライオンズ	N	PROPN
+buckingham	バッキンガム	buckingham	バッキンガム		PROPN
+kitty	キティ	kitty	キティ		PROPN
+belisana	belisana	belisana	belisana		PROPN
+mona	モナ	mona	モナ	N	PROPN
+elsa	エルザ	elsa	エルザ	N	PROPN
+elsa	エルサ	elsa	エルサ	N	PROPN
+madeleine	マドレーヌ	madeleine	マドレーヌ	N	PROPN
+baba	ババ	baba	ババ		N
+baba	馬場	baba	馬場		N
+ost	ost	ost	ost		PROPN
+taczanowski	taczanowski	taczanowski	taczanowski	N	PROPN
+nagano	長野	nagano	長野	N	PROPN
+kana	カナ	kana	カナ	N	PROPN
+coventry	コヴェントリー	coventry	コヴェントリー	N	PROPN
+pau	pau	pau	pau	N	PROPN
+ararat	アララト	ararat	アララト	N	PROPN
+lhasa	ラサ	lhasa	ラサ	N	PROPN
+ito	伊藤	ito	伊藤		PROPN
+calvert	カルバート	calvert	カルバート		PROPN
+nolan	ノーラン	nolan	ノーラン		PROPN
+kom	コム	kom	コム	N	PROPN
+fitzgerald	フィッツジェラルド	fitzgerald	フィッツジェラルド	N	PROPN
+treviso	トレヴィーゾ	treviso	トレヴィーゾ	N	PROPN
+mama	mama	mama	mama	N	PROPN
+romeo	ロミオ	romeo	ロミオ	N	PROPN
+romeo	ロメオ	romeo	ロメオ	N	PROPN
+didier	ディディエ	didier	ディディエ	N	PROPN
+joyce	ジョイス	joyce	ジョイス	N	PROPN
+wai	ワイ	wai	ワイ	N	PROPN
+meet	meet	meet	meet	ADJ	PROPN
+meet	会う	meet	会う	ADJ	V
+alexis	アレクシス	alexis	アレクシス	N	PROPN
+avenger	アヴェンジャー	avenger	アヴェンジャー		PROPN
+greenwich	グリニッジ	greenwich	グリニッジ	N	PROPN
+caserta	カゼルタ	caserta	カゼルタ	N	PROPN
+nigriceps	nigriceps	nigriceps	nigriceps	V	PROPN
+titus	ティトゥス	titus	ティトゥス	N	PROPN
+titus	タイタス	titus	タイタス	N	PROPN
+messenger	メッセンジャー	messenger	メッセンジャー	N	PROPN
+messenger	messenger	messenger	messenger	N	PROPN
+por	por	por	por		PROPN
+lagos	ラゴス	lagos	ラゴス	N	PROPN
+stream	ストリーム	stream	ストリーム		N
+stream	渓流	stream	渓流		N
+palmas	パルマス	palmas	パルマス	N	PROPN
+oldenburg	オルデンブルク	oldenburg	オルデンブルク		PROPN
+jacobs	ジェイコブス	jacobs	ジェイコブス	N	PROPN
+sio	sio	sio	sio	N	PROPN
+niigata	新潟	niigata	新潟	N	PROPN
+achilles	アキレス	achilles	アキレス	N	PROPN
+achilles	アキレウス	achilles	アキレウス	N	PROPN
+gerard	ジェラール	gerard	ジェラール		PROPN
+gerard	ジェラード	gerard	ジェラード		PROPN
+gerard	ジェラード	gerard	ジェラード		PROPN
+yerevan	エレバン	yerevan	エレバン	N	PROPN
+bergman	ベルイマン	bergman	ベルイマン		PROPN
+cast	出演	cast	出演	N	V
+oran	オラン	oran	オラン		PROPN
+ortiz	オルティス	ortiz	オルティス		PROPN
+bogotá	ボゴタ	bogotá	ボゴタ	N	PROPN
+boca	ボカ	boca	ボカ	N	PROPN
+roem	roem	roem	roem		PROPN
+nếm	味覚	nếm	味覚	V	N
+nếm	テイスティング	nếm	テイスティング	V	N
+dhaka	ダッカ	dhaka	ダッカ	N	PROPN
+seem	sem	seem	sem	ADJ	PROPN
+amor	アモール	amor	アモール		PROPN
+zara	ザラ	zara	ザラ		N
+richelieu	リシュリュー	richelieu	リシュリュー	N	PROPN
+snape	スネイプ	snape	スネイプ	N	PROPN
+cappadocia	カッパドキア	cappadocia	カッパドキア	N	PROPN
+michele	ミケーレ	michele	ミケーレ	N	PROPN
+swansea	スウォンジー	swansea	スウォンジー	N	PROPN
+guadalupe	グアダルーペ	guadalupe	グアダルーペ	N	PROPN
+españa	エスパーニャ	españa	エスパーニャ	N	PROPN
+mendoza	メンドーサ	mendoza	メンドーサ	N	PROPN
+tunis	チュニス	tunis	チュニス	N	PROPN
+lyudmila	リュドミラ	lyudmila	リュドミラ		PROPN
+nigel	ナイジェル	nigel	ナイジェル	N	PROPN
+sue	スー	sue	スー		PROPN
+garfield	ガーフィールド	garfield	ガーフィールド		PROPN
+aff	aff	aff	aff	N	PROPN
+hermes	ヘルメース	hermes	ヘルメース	N	PROPN
+registry	登記	registry	登記		N
+gogh	ゴッホ	gogh	ゴッホ		PROPN
+jedi	ジェダイ	jedi	ジェダイ	N	PROPN
+iglesias	イグレシアス	iglesias	イグレシアス	N	PROPN
+nirvana	涅槃	nirvana	涅槃		N
+nirvana	ニルヴァーナ	nirvana	ニルヴァーナ		PROPN
+harley	ハーレー	harley	ハーレー	N	PROPN
+wanted	wanted	wanted	wanted	N	PROPN
+wanted	求む	wanted	求む	N	V
+survivor	サバイバー	survivor	サバイバー	N	PROPN
+gauge	ゲージ	gauge	ゲージ		N
+nháp	ドラフト	nháp	ドラフト	V	N
+nháp	下書き	nháp	下書き	V	N
+chát	チャット	chát	チャット	ADJ	N
+chát	雑談	chát	雑談	ADJ	V
+lahore	ラホール	lahore	ラホール	N	PROPN
+melody	メロディ	melody	メロディ		N
+melody	メロディー	melody	メロディー		N
+beretta	ベレッタ	beretta	ベレッタ		PROPN
+sterling	スターリング	sterling	スターリング	V	PROPN
+chambers	チェンバーズ	chambers	チェンバーズ		PROPN
+chambers	チェンバース	chambers	チェンバース		PROPN
+tullgren	tullgren	tullgren	tullgren		PROPN
+mari	マリ	mari	マリ		PROPN
+corsair	コルセア	corsair	コルセア	N	PROPN
+franganillo	franganillo	franganillo	franganillo		PROPN
+ivy	ツタ	ivy	ツタ		N
+ivy	アイビー	ivy	アイビー		PROPN
+northampton	ノーザンプトン	northampton	ノーザンプトン		PROPN
+penaltyscore	penaltyscore	penaltyscore	penaltyscore	V	PROPN
+judith	ジュディス	judith	ジュディス	N	PROPN
+shirley	シャーリー	shirley	シャーリー		PROPN
+michelangelo	ミケランジェロ	michelangelo	ミケランジェロ		PROPN
+nairobi	ナイロビ	nairobi	ナイロビ	N	PROPN
+advance	advance	advance	advance	N	PROPN
+boulogne	ブローニュ	boulogne	ブローニュ	N	PROPN
+krasnoyarsk	クラスノヤルスク	krasnoyarsk	クラスノヤルスク	N	PROPN
+buch	ブーフ	buch	ブーフ		PROPN
+angry	怒り	angry	怒り	N	V
+lisboa	リスボン	lisboa	リスボン		PROPN
+cotton	木綿	cotton	木綿	N	PROPN
+faust	ファウスト	faust	ファウスト	N	PROPN
+kansai	関西	kansai	関西		PROPN
+everest	エベレスト	everest	エベレスト	N	PROPN
+mpeg	mpeg	mpeg	mpeg	N	PROPN
+ida	アイダ	ida	アイダ		PROPN
+ida	イダ	ida	イダ		PROPN
+atm	atm	atm	atm	N	PROPN
+dorset	ドーセット	dorset	ドーセット	N	PROPN
+dover	ドーバー	dover	ドーバー	N	PROPN
+dover	ドーヴァー	dover	ドーヴァー	N	PROPN
+suleiman	スレイマン	suleiman	スレイマン	N	PROPN
+bohr	ボーア	bohr	ボーア	N	PROPN
+bray	ブレイ	bray	ブレイ	NUM	PROPN
+sap	sap	sap	sap		PROPN
+lauren	ローレン	lauren	ローレン		PROPN
+tạt	マスタード	tạt	マスタード	ADJ	PROPN
+ars	アルス	ars	アルス		PROPN
+iana	iana	iana	iana	N	PROPN
+hana	ハナ	hana	ハナ	N	PROPN
+cascade	cascade	cascade	cascade	N	PROPN
+wyatt	ワイアット	wyatt	ワイアット		PROPN
+katherine	キャサリン	katherine	キャサリン		PROPN
+almeida	アルメイダ	almeida	アルメイダ	N	PROPN
+stern	スターン	stern	スターン		PROPN
+stern	船尾	stern	船尾		N
+teddy	テディ	teddy	テディ		PROPN
+breaking	速報	breaking	速報		V
+othername	othername	othername	othername	N	PROPN
+alien	エイリアン	alien	エイリアン		PROPN
+schindler	シンドラー	schindler	シンドラー		PROPN
+raja	ラージャ	raja	ラージャ	N	PROPN
+lydia	リュディア	lydia	リュディア		PROPN
+lydia	リディア	lydia	リディア		PROPN
+fun	楽しい	fun	楽しい	N	ADJ
+kumamoto	熊本	kumamoto	熊本		PROPN
+jungle	ジャングル	jungle	ジャングル	N	PROPN
+hillary	ヒラリー	hillary	ヒラリー	N	PROPN
+clermont	クレルモン	clermont	クレルモン	N	PROPN
+gottfried	ゴット	gottfried	ゴット		PROPN
+genie	ジニー	genie	ジニー	N	PROPN
+suceava	スチャヴァ	suceava	スチャヴァ	N	PROPN
+bluetooth	bluetooth	bluetooth	bluetooth	N	PROPN
+compton	コンプトン	compton	コンプトン	N	PROPN
+mgm	mgm	mgm	mgm	N	PROPN
+brock	タケシ	brock	タケシ		PROPN
+msn	msn	msn	msn		PROPN
+fleming	フレミング	fleming	フレミング	N	PROPN
+snyder	スナイダー	snyder	スナイダー		PROPN
+glucose	グルコース	glucose	グルコース	N	PROPN
+credit	信用	credit	信用		V
+credit	クレジット	credit	クレジット		N
+axel	アクセル	axel	アクセル	N	PROPN
+daimyo	大名	daimyo	大名	N	PROPN
+novosibirsk	ノヴォシビルスク	novosibirsk	ノヴォシビルスク		PROPN
+frost	フロスト	frost	フロスト		N
+bratislava	ブラチスラヴァ	bratislava	ブラチスラヴァ	N	PROPN
+utrecht	ユトレヒト	utrecht	ユトレヒト	N	PROPN
+bösenberg	bösenberg	bösenberg	bösenberg		PROPN
+wiltshire	ウィルト	wiltshire	ウィルト	N	PROPN
+jacqueline	ジャクリーヌ	jacqueline	ジャクリーヌ	N	PROPN
+dudley	ダドリー	dudley	ダドリー		PROPN
+dudley	ダッドリー	dudley	ダッドリー		PROPN
+davy	デービー	davy	デービー	N	PROPN
+tanasevitch	tanasevitch	tanasevitch	tanasevitch		PROPN
+magdalena	マグダレーナ	magdalena	マグダレーナ	N	PROPN
+magdalena	マグダレナ	magdalena	マグダレナ	N	PROPN
+magdalena	マグダレーナ	magdalena	マグダレーナ	N	PROPN
+arras	アラス	arras	アラス	N	PROPN
+tot	tot	tot	tot	ADJ	PROPN
+amabilis	amabilis	amabilis	amabilis	N	PROPN
+occidental	オクシデンタル	occidental	オクシデンタル	N	PROPN
+archimedes	アルキメデス	archimedes	アルキメデス	N	PROPN
+wedding	草取り	wedding	草取り		V
+wedding	除草	wedding	除草		N

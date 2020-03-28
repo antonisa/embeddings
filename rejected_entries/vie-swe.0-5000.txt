@@ -1,0 +1,2219 @@
+một	one	một	one	NUM	N;NOM;INDF;MASC+FEM;SG
+năm	fem	năm	fem	N	NUM;NOM
+của	ditt	của	du	ADP	PRO;DEF;NEUT;SG
+của	din	của	du	ADP	PRO;DEF;MASC+FEM;SG
+của	dina	của	du	ADP	PRO;DEF;PL
+loài	djurart	loài	djur	N	ADJ;NOM;INDF;MASC+FEM;SG
+các	ni	các	ni	DET	PRO;NOM;DEF;MASC+FEM;SG
+các	dig	các	du	DET	PRO;ACC;DEF;MASC+FEM;SG
+các	du	các	du	DET	PRO;NOM;DEF;MASC+FEM;SG
+này	denna	này	denna	PROPN	PRO;DEF;MASC+FEM;SG
+này	detta	này	denna	PROPN	PRO;DEF;NEUT;SG
+này	tjena	này	tjena	PROPN	V;IMP;FIN;ACT
+này	hej	này	hej	PROPN	N;NOM;INDF;MASC+FEM;SG
+thích	gillat	thích	gilla	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thích	omtyckt	thích	omtyckt	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thích	som	thích	som	V	CONJ
+thích	likes	thích	likes	V	N;NOM;INDF;NEUT;SG
+học	studier	học	studie	V	N;NOM;INDF;MASC+FEM;PL
+học	studie	học	studium	V	N;NOM;INDF;MASC+FEM;SG
+học	skola	học	skola	V	N;NOM;INDF;MASC+FEM;SG
+học	skolan	học	skola	V	N;NOM;DEF;MASC+FEM;SG
+học	lärande	học	lärande	V	N;NOM;INDF;NEUT;SG
+học	inlärning	học	inlärning	V	N;NOM;INDF;MASC+FEM;SG
+người	man	người	man	N	PRO;NOM;INDF;MASC+FEM;SG
+thực	real	thực	real	V	N;NOM;INDF;MASC+FEM;SG
+thực	verklig	thực	verklig	V	ADJ;NOM;INDF;MASC+FEM;SG
+thực	äkta	thực	äkta	V	ADJ;NOM
+thực	riktigt	thực	riktig	V	ADV
+thực	verkligt	thực	verklig	V	ADJ;NOM;INDF;NEUT;SG
+thực	riktig	thực	riktig	V	ADJ;NOM;INDF;MASC+FEM;SG
+thực	egentligen	thực	egentligen	V	ADV
+thực	faktiskt	thực	faktisk	V	ADV
+thực	autentisk	thực	autentisk	V	ADJ;NOM;INDF;MASC+FEM;SG
+thực	autentiska	thực	autentisk	V	ADJ;NOM;PL
+thực	äkta	thực	äkta	V	ADJ;NOM
+thực	giltiga	thực	giltig	V	ADJ;NOM;PL
+thực	verkligen	thực	verkligen	V	ADV
+liên	lien	liên	lien		N;NOM;INDF;MASC+FEM;SG
+tham	joint	tham	join	V	N;NOM;INDF;NEUT;SG
+tham	gemensamt	tham	gemensam	V	ADJ;NOM;INDF;NEUT;SG
+tham	gemensamma	tham	gemensam	V	ADJ;NOM;PL
+tham	gemensam	tham	gemensam	V	ADJ;NOM;INDF;MASC+FEM;SG
+tham	tham	tham	tham	V	PROPN;NOM
+kết	avsluta	kết	avsluta	N	V;IMP;FIN;ACT
+đầu	först	đầu	först	N	ADV
+đầu	första	đầu	en	N	ADJ;NOM
+ngoài	utanför	ngoài	utanför	N	ADP
+ngoài	yttre	ngoài	yttre	N	ADJ;NOM;CMPR
+thành	cheng	thành	cheng	V	PROPN;NOM
+thành	citadel	thành	citadel	V	N;NOM;INDF;NEUT;SG
+khoa	vetenskap	khoa	vetenskap		N;NOM;INDF;MASC+FEM;SG
+khoa	naturvetenskap	khoa	naturvetenskap		N;NOM;INDF;MASC+FEM;SG
+khoa	vetenskapen	khoa	vetenskap		N;NOM;DEF;MASC+FEM;SG
+khoa	fakulteten	khoa	fakultet		N;NOM;DEF;MASC+FEM;SG
+cho	cho	cho	cho	V	PROPN;NOM
+cho	för	cho	för	V	ADP
+cho	give	cho	give	V	N;NOM;INDF;MASC+FEM;SG
+không	inte	không	inte	;NEG	PART;NEG
+không	ej	không	ej	;NEG	PART;NEG
+không	nix	không	nix	;NEG	N;NOM;INDF;NEUT;SG
+không	nope	không	nope	;NEG	N;NOM;INDF;MASC+FEM;SG
+hoa	förenade	hoa	förenade	N	ADJ;NOM;PL;PST;V.PTCP
+hoa	enad	hoa	enad	N	ADJ;NOM;INDF;MASC+FEM;SG
+những	dessa	những	denna	DET	PRO;DEF;PL
+những	dessa	những	denna	DET	PRO;DEF;PL
+những	de	những	de	DET	PRO;NOM;DEF;PL
+những	dom	những	de	DET	PRO;NOM;DEF;PL
+nam	manliga	nam	manlig	N	ADJ;NOM;PL
+nam	manligt	nam	manlig	N	ADJ;NOM;INDF;NEUT;SG
+nam	syd	nam	syd	N	PROPN;NOM
+nam	söderut	nam	söderut	N	ADV
+nam	södra	nam	södra	N	ADJ;NOM;DEF;SG
+nam	nam	nam	nam	N	V;IMP;FIN;ACT
+công	attackera	công	attackera	N	V;IMP;FIN;ACT
+công	offentliga	công	offentlig	N	ADJ;NOM;PL
+công	offentligt	công	offentlig	N	ADV
+công	offentlig	công	offentlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+chính	jämn	chính	jämn	PART	ADJ;NOM;INDF;MASC+FEM;SG
+chính	även	chính	även	PART	ADV
+chính	äga	chính	äga	PART	V;IMP;FIN;ACT
+chính	eget	chính	egen	PART	ADJ;NOM;NEUT;SG
+chính	egen	chính	egen	PART	ADJ;NOM;MASC+FEM;SG
+chính	egna	chính	egen	PART	ADJ;NOM;PL
+chính	primär	chính	primär	PART	ADJ;NOM;INDF;MASC+FEM;SG
+chính	primärt	chính	primär	PART	ADV
+chính	primära	chính	primär	PART	ADJ;NOM;PL
+chính	huvudsakliga	chính	huvudsaklig	PART	ADJ;NOM;PL
+chính	main	chính	main	PART	PROPN;NOM
+chính	huvudsaklig	chính	huvudsaklig	PART	ADJ;NOM;INDF;MASC+FEM;SG
+chính	viktigaste	chính	viktig	PART	ADJ;NOM;DEF;RL
+động	dynamisk	động	dynamisk	V	ADJ;NOM;INDF;MASC+FEM;SG
+động	dynamiskt	động	dynamisk	V	ADJ;NOM;INDF;NEUT;SG
+động	dynamic	động	dynamic	V	N;NOM;INDF;MASC+FEM;SG
+động	dynamiska	động	dynamisk	V	ADJ;NOM;PL
+động	automat	động	automat	V	N;NOM;INDF;MASC+FEM;SG
+động	automatiskt	động	automatisk	V	ADJ;NOM;INDF;NEUT;SG
+động	automatiska	động	automatisk	V	ADJ;NOM;PL
+động	automatisk	động	automatisk	V	N;NOM;INDF;MASC+FEM;SG
+động	automatiskt	động	automatisk	V	ADJ;NOM;INDF;NEUT;SG
+khi	när	khi	när	N	ADV
+đến	ankomst	đến	ankomst	PART	N;NOM;INDF;MASC+FEM;SG
+đến	anlänt	đến	anlända	PART	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+đến	framme	đến	framme	PART	ADV
+đến	anlände	đến	anlände	PART	V;IND;PST;FIN;ACT
+đến	come	đến	come	PART	N;NOM;INDF;MASC+FEM;SG
+đến	kommer	đến	komma	PART	V;IND;PRS;FIN;ACT
+đến	kom	đến	komma	PART	V;IMP;FIN;ACT
+đến	komma	đến	komma	PART	V;IMP;FIN;ACT
+đến	kommer	đến	komma	PART	V;IND;PRS;FIN;ACT
+theo	theo	theo	theo	V	PROPN;NOM
+theo	follow	theo	follo	V	N
+theo	efteråt	theo	efteråt	V	ADV
+theo	after	theo	after	V	N;NOM;INDF;MASC+FEM;SG
+theo	efter	theo	efter	V	ADP
+tỉnh	nyktra	tỉnh	nyktra	N	ADJ;NOM;PL
+tỉnh	nykter	tỉnh	nykt	N	ADJ;NOM;INDF;MASC+FEM;SG
+tỉnh	vakna	tỉnh	vaken	N	V;IMP;FIN;ACT
+sau	efteråt	sau	efteråt	N	ADV
+sau	efter	sau	efter	N	ADP
+sau	senare	sau	sen	N	ADV;CMPR
+trung	medelhög	trung	medelhög	N	ADJ;NOM;INDF;MASC+FEM;SG
+trung	medellång	trung	medellång	N	ADJ;NOM;INDF;MASC+FEM;SG
+trung	medelstor	trung	medelstor	N	ADJ;NOM;INDF;MASC+FEM;SG
+trung	centrala	trung	central	N	ADJ;NOM;PL
+trung	centralt	trung	central	N	ADV
+trung	mellersta	trung	mellersta	N	ADJ;NOM;DEF;RL
+trung	mellersta	trung	mellersta	N	ADJ;NOM;DEF;RL
+trên	ovanstående	trên	ovanstående		ADJ;NOM
+trên	ovan	trên	ovan		ADV
+trên	ovanför	trên	ovanför		ADV
+nhà	hemma	nhà	hemma	N	ADV
+như	gilla	như	gilla	CONJ	V;IMP;FIN;ACT
+như	gillar	như	gilla	CONJ	V;IND;PRS;FIN;ACT
+như	som	như	som	CONJ	CONJ
+như	like	như	like	CONJ	V;IMP;FIN;ACT
+bản	holländsk	bản	holländsk	N	ADJ;NOM;INDF;MASC+FEM;SG
+bản	holländska	bản	holländsk	N	ADJ;NOM;PL
+tên	namnge	tên	namnge	N	V;IMP;FIN;ACT
+đại	överste	đại	överste	N	ADJ;NOM;DEF;RL
+đại	stora	đại	stor	N	ADJ;NOM;PL
+đại	stor	đại	stor	N	ADJ;NOM;INDF;MASC+FEM;SG
+đại	stort	đại	stor	N	ADJ;NOM;INDF;NEUT;SG
+hiện	visa	hiện	visa	N	V;IMP;FIN;ACT
+thế	att	thế	att	PROPN	PART
+chiến	kriga	chiến	krig	N	V;IMP;FIN;ACT
+chiến	war	chiến	war	N	V;IMP;FIN;ACT
+bar	bar	bar	ba		N;NOM;INDF;NEUT;SG
+lại	igen	lại	igen		ADV
+lại	återigen	lại	återigen		ADV
+cũng	också	cũng	också		ADV
+cũng	även	cũng	även		ADV
+the	de	the	de		PRO;NOM;DEF;PL
+the	den	the	den		PRO;DEF;MASC+FEM;SG
+nhất	bästa	nhất	bra		ADJ;NOM;DEF;RL
+nhất	bäst	nhất	bra		ADV;RL
+nhân	multiplicera	nhân	multiplicera		V;IMP;FIN;ACT
+nhân	core	nhân	core		N;NOM;INDF;MASC+FEM;SG
+nhân	kärna	nhân	kärna		N;NOM;INDF;MASC+FEM;SG
+nhân	kärnan	nhân	kärna		N;NOM;DEF;MASC+FEM;SG
+nhân	patientens	nhân	patient		N;GEN;DEF;MASC+FEM;SG
+nhân	patienten	nhân	patient		N;NOM;DEF;MASC+FEM;SG
+nhân	patient	nhân	patient		N;NOM;INDF;MASC+FEM;SG
+nhân	tålmodiga	nhân	tålmodig		ADJ;NOM;PL
+phát	sändningen	phát	sändning	V	N;NOM;DEF;MASC+FEM;SG
+phát	utsändning	phát	utsändning	V	N;NOM;INDF;MASC+FEM;SG
+phát	sändning	phát	sändning	V	N;NOM;INDF;MASC+FEM;SG
+phát	shot	phát	shot	V	N;NOM;INDF;MASC+FEM;SG
+phát	skjutna	phát	skjuta	V	ADJ;NOM;PL;PST;V.PTCP
+phát	skjuten	phát	skjuta	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+phát	skott	phát	skott	V	N;NOM;INDF;NEUT;SG
+phát	skott	phát	skott	V	N;NOM;INDF;NEUT;SG
+phát	shots	phát	shots	V	N;NOM;INDF;NEUT;SG
+anh	ni	anh	ni	N	PRO;NOM;DEF;MASC+FEM;SG
+anh	dig	anh	du	N	PRO;ACC;DEF;MASC+FEM;SG
+anh	du	anh	du	N	PRO;NOM;DEF;MASC+FEM;SG
+pháp	fransk	pháp	fransk	N	ADJ;NOM;INDF;MASC+FEM;SG
+pháp	franskt	pháp	fransk	N	ADJ;NOM;INDF;NEUT;SG
+pháp	frankrike	pháp	frankrike	N	PROPN;NOM
+danh	importera	danh	importera	N	V;IMP;FIN;ACT
+chúng	dem	chúng	de	PROPN	PRO;ACC;DEF;PL
+chúng	dom	chúng	de	PROPN	PRO;NOM;DEF;PL
+chúng	de	chúng	de	PROPN	PRO;NOM;DEF;PL
+chúng	dom	chúng	de	PROPN	PRO;NOM;DEF;PL
+tập	avsnitt	tập	avsnitt		N;NOM;INDF;NEUT;SG
+tập	episod	tập	episod		N;NOM;INDF;MASC+FEM;SG
+tập	avsnitt	tập	avsnitt		N;NOM;INDF;NEUT;SG
+tập	episoder	tập	episod		N;NOM;INDF;MASC+FEM;PL
+nhiều	många	nhiều	mången	ADJ	PRO;INDF;PL
+nhiều	mycke	nhiều	mycke	ADJ	N;NOM;INDF;MASC+FEM;SG
+nhiều	much	nhiều	much	ADJ	N;NOM;INDF;NEUT;SG
+nhiều	mycket	nhiều	mycket	ADJ	ADV
+nhiều	flera	nhiều	flera	ADJ	PRO;INDF;PL
+nhiều	multipel	nhiều	multipel	ADJ	N;NOM;INDF;NEUT;SG
+nhiều	flertal	nhiều	flertal	ADJ	N;NOM;INDF;NEUT;SG
+chi	orsaka	chi	orsak	N	V;IMP;NFIN;ACT
+chỉ	bara	chỉ	bara		ADV
+chỉ	enbart	chỉ	enbart		ADV
+chỉ	endast	chỉ	endast		ADV
+chỉ	bara	chỉ	bara		ADV
+đây	här	đây	här	PROPN	ADV
+sinh	född	sinh	född	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+sinh	born	sinh	born	V	N;NOM;INDF;MASC+FEM;SG
+sinh	födda	sinh	född	V	ADJ;NOM;PL;PST;V.PTCP
+sinh	födelse	sinh	födelse	V	N;NOM;INDF;MASC+FEM;SG
+sinh	födsel	sinh	födsel	V	N;NOM;INDF;MASC+FEM;SG
+sinh	födseln	sinh	födsel	V	N;NOM;DEF;MASC+FEM;SG
+quan	guan	quan	guan	V	N;NOM;INDF;MASC+FEM;SG
+quan	quan	quan	quan	V	PROPN;NOM
+quan	polisman	quan	polisman	V	N;NOM;INDF;MASC+FEM;SG
+quan	officer	quan	officer	V	N;NOM;INDF;MASC+FEM;SG
+tin	tror	tin	tro		V;IND;PRS;FIN;ACT
+tin	tro	tin	tro		V;IMP;FIN;ACT
+tin	tin	tin	tin		N;NOM;INDF;NEUT;SG
+tin	tenn	tin	tenn		N;NOM;INDF;NEUT;SG
+tin	händelser	tin	händelse		N;NOM;INDF;MASC+FEM;PL
+tin	historier	tin	historia		N;NOM;INDF;MASC+FEM;PL
+tin	stories	tin	storium		N;NOM;INDF;MASC+FEM;SG
+tin	berättelser	tin	berättelse		N;NOM;INDF;MASC+FEM;PL
+tin	nyheter	tin	nyhet		N;NOM;INDF;MASC+FEM;PL
+tin	news	tin	news		N;NOM;INDF;MASC+FEM;SG
+tin	nyhet	tin	nyhet		N;NOM;INDF;MASC+FEM;SG
+tin	nyheterna	tin	nyhet		N;NOM;DEF;MASC+FEM;PL
+tin	tillit	tin	tillit		N;NOM;INDF;MASC+FEM;SG
+tin	trust	tin	trust		N;NOM;INDF;MASC+FEM;SG
+tin	förtroende	tin	förtroende		N;NOM;INDF;NEUT;SG
+viên	parkera	viên	parkera	N	V;IMP;FIN;ACT
+viên	vien	viên	vien	N	V;IMP;FIN;ACT
+viên	wien	viên	wien	N	PROPN;NOM
+phải	höger	phải	höger	V	N;NOM;INDF;MASC+FEM;SG
+phải	rätt	phải	rätt	V	N;NOM;INDF;MASC+FEM;SG
+phải	måste	phải	måste	V	V;IND;PRS;FIN;ACT
+phải	must	phải	must	V	N;NOM;INDF;MASC+FEM;SG
+bắc	norra	bắc	norra	N	ADJ;NOM;DEF;SG
+bắc	norrut	bắc	norrut	N	ADV
+bắc	nord	bắc	nord	N	PROPN;NOM
+bắc	nordlig	bắc	nordlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+bắc	norra	bắc	norra	N	ADJ;NOM;DEF;SG
+bắc	nordliga	bắc	nordlig	N	ADJ;NOM;PL
+sách	boka	sách	boka	N	V;IMP;FIN;ACT
+tiểu	grundläggande	tiểu	grundläggande		ADJ;NOM;PRS;V.PTCP
+tiểu	elementära	tiểu	elementär		ADJ;NOM;PL
+tiểu	elementär	tiểu	elementär		ADJ;NOM;INDF;MASC+FEM;SG
+tiểu	little	tiểu	littal		N;NOM;INDF;MASC+FEM;SG
+tiểu	lilla	tiểu	liten		ADJ;NOM;DEF;SG
+tiểu	litet	tiểu	litet		ADV
+tiểu	liten	tiểu	liten		ADJ;NOM;INDF;MASC+FEM;SG
+khác	annorlunda	khác	annorlunda	ADJ	ADV
+khác	andra	khác	annan	ADJ	PRO;INDF;PL
+khác	annat	khác	annan	ADJ	PRO;INDF;NEUT;SG
+khác	andra	khác	annan	ADJ	PRO;INDF;PL
+cao	high	cao	high	ADJ	N;NOM;INDF;MASC+FEM;SG
+cao	tall	cao	tall	ADJ	N;NOM;INDF;MASC+FEM;SG
+cao	gao	cao	gao	ADJ	PROPN;NOM
+văn	wen	văn	wen	N	PROPN;NOM
+tây	västra	tây	onstra	N	ADJ;NOM;DEF;SG
+tây	västerut	tây	västerut	N	ADV
+tây	västra	tây	onstra	N	ADJ;NOM;DEF;SG
+tây	västlig	tây	västlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+hội	sangha	hội	sangha	N	ADJ;NOM;DEF;SG
+cùng	samma	cùng	samma	ADJ	DET;INDF
+cùng	detsamma	cùng	densamma	ADJ	PRO;DEF;NEUT;SG
+giải	loss	giải	loss	V	ADV
+giải	lös	giải	lö	V	N;NOM;INDF;MASC+FEM;SG
+giải	löst	giải	lösa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+giải	boxning	giải	boxning	V	N;NOM;INDF;MASC+FEM;SG
+giải	lös	giải	lö	V	N;NOM;INDF;MASC+FEM;SG
+giải	resolution	giải	resolution	V	N;NOM;INDF;MASC+FEM;SG
+giải	upplösning	giải	upplösning	V	N;NOM;INDF;MASC+FEM;SG
+bang	myndigheter	bang	myndighet		N;NOM;INDF;MASC+FEM;PL
+bang	myndigheterna	bang	myndighet		N;NOM;DEF;MASC+FEM;PL
+bang	stat	bang	stat		N;NOM;INDF;MASC+FEM;SG
+bang	statliga	bang	statlig		ADJ;NOM;PL
+bang	delstat	bang	delstad		N;NOM;INDF;MASC+FEM;SG
+bang	statligt	bang	statlig		ADJ;NOM;INDF;NEUT;SG
+bang	bang	bang	bang		N;NOM;INDF;NEUT;SG
+bang	pang	bang	pang		N;NOM;INDF;MASC+FEM;SG
+bang	smäll	bang	smäll		N;NOM;INDF;MASC+FEM;SG
+điểm	peka	điểm	peka	N	V;IMP;FIN;ACT
+đông	österut	đông	österut	ADJ	ADV
+đông	öst	đông	öst	ADJ	N
+đông	öster	đông	öster	ADJ	N;NOM;INDF;MASC+FEM;SG
+phố	street	phố	stre	N	PROPN;NOM
+xuất	exporterar	xuất	exportera	N	V;IND;PRS;FIN;ACT
+xuất	exportera	xuất	exportera	N	V;IMP;FIN;ACT
+khu	ward	khu	ward	N	PROPN;NOM
+hơn	än	hơn	än		CONJ
+cánh	bevingade	cánh	bevingad	N	ADJ;NOM;PL;PST;V.PTCP
+cánh	wings	cánh	Wing	N	PROPN;NOM
+lập	självständig	lập	självständig	V	ADJ;NOM;INDF;MASC+FEM;SG
+lập	självständiga	lập	självständig	V	ADJ;NOM;PL
+lập	oberoende	lập	oberoende	V	ADJ;NOM;PRS;V.PTCP
+lập	självständigt	lập	självständig	V	ADJ;NOM;INDF;NEUT;SG
+lập	fristående	lập	fristående	V	ADJ;NOM;PRS;V.PTCP
+cách	sätt	cách	sätt	V	N;NOM;INDF;NEUT;SG
+dưới	nedan	dưới	nedan	N	ADV
+dưới	nedanför	dưới	nedanför	N	ADV
+dưới	nedre	dưới	nedre	N	ADJ;NOM;CMPR
+dưới	nerifrån	dưới	nerifrån	N	ADV
+dưới	under	dưới	under	N	ADP
+quận	märka	quận	märka	N	V;IMP;FIN;ACT
+đoàn	nionde	đoàn	nionde	N	ADJ;NOM
+điều	att	điều	att	N	PART
+thông	tall	thông	tall		N;NOM;INDF;MASC+FEM;SG
+thông	pine	thông	pine		N;NOM;INDF;NEUT;SG
+bay	fly	bay	fly		V;IMP;FIN;ACT
+bay	flyger	bay	flyga		V;IND;PRS;FIN;ACT
+bay	flyg	bay	flyg		N;NOM;INDF;NEUT;SG
+bay	fluga	bay	fluga		N;NOM;INDF;MASC+FEM;SG
+bay	flyga	bay	flyga		V;IMP;FIN;ACT
+bay	flyger	bay	flyga		V;IND;PRS;FIN;ACT
+bay	flygning	bay	flygning		N;NOM;INDF;MASC+FEM;SG
+bay	flyga	bay	flyga		V;IMP;FIN;ACT
+bay	flygande	bay	flyga		ADJ;NOM;PRS;V.PTCP
+bay	flight	bay	flight		N;NOM;INDF;MASC+FEM;SG
+bay	flyg	bay	flyg		N;NOM;INDF;NEUT;SG
+bay	flygning	bay	flygning		N;NOM;INDF;MASC+FEM;SG
+bay	viken	bay	viken		N;NOM;INDF;MASC+FEM;SG
+bay	bay	bay	bay		N;NOM;INDF;NEUT;SG
+bài	kort	bài	kort	N	ADV
+bài	kort	bài	kort	N	ADV
+bài	korta	bài	kort	N	ADJ;NOM;PL
+bài	kort	bài	kort	N	ADV
+tích	statisk	tích	statisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+tích	statiskt	tích	statisk	N	ADJ;NOM;INDF;NEUT;SG
+tích	statiska	tích	statisk	N	ADJ;NOM;PL
+lớn	large	lớn	large	ADJ	N;NOM;INDF;MASC+FEM;SG
+lớn	big	lớn	big	ADJ	N;NOM;INDF;NEUT;SG
+phim	filmar	phim	filma		V;IND;PRS;FIN;ACT
+phim	filmer	phim	filma		N;NOM;INDF;MASC+FEM;PL
+phim	film	phim	film		N;NOM;INDF;MASC+FEM;SG
+phim	filma	phim	filma		V;IMP;FIN;ACT
+phim	film	phim	film		N;NOM;INDF;MASC+FEM;SG
+phim	filmer	phim	filma		N;NOM;INDF;MASC+FEM;PL
+trước	först	trước	först		ADV
+trước	första	trước	en		ADJ;NOM
+trước	föregående	trước	föregående		N;NOM;INDF;NEUT;SG
+trước	tidigare	trước	tidig		ADV;CMPR
+trước	före	trước	före		ADP
+trước	förut	trước	förut		ADV
+trước	innan	trước	innan		CONJ
+đức	tysk	đức	tysk	N	ADJ;NOM;INDF;MASC+FEM;SG
+đức	tyskt	đức	tysk	N	ADJ;NOM;INDF;NEUT;SG
+đức	tyskland	đức	tyskland	N	PROPN;NOM
+bằng	jämlikar	bằng	jämlik	ADP	N;NOM;INDF;MASC+FEM;PL
+nhỏ	small	nhỏ	small	ADJ	N;NOM;INDF;NEUT;SG
+nhỏ	litet	nhỏ	litet	ADJ	ADV
+nhỏ	little	nhỏ	littal	ADJ	N;NOM;INDF;MASC+FEM;SG
+nhỏ	litet	nhỏ	litet	ADJ	ADV
+nhỏ	junior	nhỏ	junia	ADJ	N;NOM;INDF;MASC+FEM;SG
+nhỏ	mindre	nhỏ	lite	ADJ	ADV;CMPR
+nhỏ	minor	nhỏ	mina	ADJ	N;NOM;INDF;MASC+FEM;SG
+hợp	vältränad	hợp	vältränad	ADJ	N;NOM;INDF;MASC+FEM;SG
+hợp	passar	hợp	passa	ADJ	V;IND;PRS;FIN;ACT
+hợp	passa	hợp	passa	ADJ	V;IMP;FIN;ACT
+hợp	fit	hợp	fit	ADJ	N;NOM;INDF;MASC+FEM;SG
+hợp	union	hợp	union	ADJ	N;NOM;INDF;MASC+FEM;SG
+hợp	fackförening	hợp	fackförening	ADJ	N;NOM;INDF;MASC+FEM;SG
+hợp	unionen	hợp	union	ADJ	N;NOM;DEF;MASC+FEM;SG
+hợp	passar	hợp	passa	ADJ	V;IND;PRS;FIN;ACT
+thêm	add	thêm	add	V	N;NOM;INDF;MASC+FEM;SG
+thêm	mera	thêm	mycket	V	ADV;CMPR
+thêm	more	thêm	more	V	
+thêm	fler	thêm	mången	V	PRO;INDF;PL
+thêm	mer	thêm	mycket	V	ADV;CMPR
+xem	show	xem	show	V	N;NOM;INDF;MASC+FEM;SG
+xem	klocka	xem	klocka	V	N;NOM;INDF;MASC+FEM;SG
+xem	visning	xem	visning	V	N;NOM;INDF;MASC+FEM;SG
+xem	utsikt	xem	utsikt	V	N;NOM;INDF;NEUT;SG
+xem	vy	xem	vy	V	N;NOM;INDF;MASC+FEM;SG
+diễn	tillförordnad	diễn	tillförordnad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+diễn	skådespeleri	diễn	skådespeleri	V	N;NOM;INDF;MASC+FEM;SG
+diễn	aktör	diễn	aktör	V	N;NOM;INDF;MASC+FEM;SG
+diễn	skådespelare	diễn	skådespelare	V	N;NOM;INDF;MASC+FEM;SG
+máy	värd	máy	värd	N	ADJ;NOM;INDF;MASC+FEM;SG
+hoàng	huang	hoàng	huang	N	PROPN;NOM
+chức	innehas	chức	inneha	N	V;IND;PRS;FIN;PASS
+chức	höll	chức	hålla	N	V;IND;PST;FIN;ACT
+chức	hölls	chức	hålla	N	V;IND;FIN;PASS
+chức	hålls	chức	hålla	N	V;IND;PRS;FIN;PASS
+dương	positivt	dương	positiv	N	ADJ;NOM;INDF;NEUT;SG
+dương	positiv	dương	positiv	N	ADJ;NOM;INDF;MASC+FEM;SG
+dương	positiva	dương	positiv	N	ADJ;NOM;PL
+thủ	matchar	thủ	matcha	N	V;IND;PRS;FIN;ACT
+thủ	matcha	thủ	matcha	N	V;IMP;FIN;ACT
+hay	hö	hay	hö	CONJ	N;NOM;INDF;MASC+FEM;SG
+hay	duktiga	hay	duktig	CONJ	ADJ;NOM;PL
+hay	god	hay	god	CONJ	ADJ;NOM;INDF;MASC+FEM;SG
+hay	duktig	hay	duktig	CONJ	ADJ;NOM;INDF;MASC+FEM;SG
+hay	gott	hay	god	CONJ	ADV
+hay	bra	hay	bra	CONJ	ADV
+sống	living	sống	living	V	N;NOM;INDF;MASC+FEM;SG
+sống	levande	sống	levande	V	ADJ;NOM;PRS;V.PTCP
+sống	live	sống	live	V	N;NOM;INDF;NEUT;SG
+sống	levande	sống	levande	V	ADJ;NOM;PRS;V.PTCP
+sống	levande	sống	levande	V	ADJ;NOM;PRS;V.PTCP
+sống	alive	sống	aliv	V	N;NOM;INDF;MASC+FEM;SG
+thường	brukar	thường	bruka		V;IND;PRS;FIN;ACT
+thường	vanligtvis	thường	vanligtvis		ADV
+thường	vanligen	thường	vanligen		ADV
+thường	oftast	thường	ofta		ADV;RL
+thường	regelbundet	thường	regelbund		N;NOM;DEF;NEUT;SG
+thường	regelbundna	thường	regelbunden		ADJ;NOM;PL
+thường	regelbunden	thường	regelbund		N;NOM;INDF;MASC+FEM;SG
+thường	ordinarie	thường	ordinarium		N;NOM;INDF;MASC+FEM;SG
+thường	normalt	thường	normal		ADV
+thường	normala	thường	normal		ADJ;NOM;PL
+thường	normal	thường	normal		ADJ;NOM;INDF;MASC+FEM;SG
+ban	ungefär	ban	ungefär		ADV
+ban	band	ban	band		N;NOM;INDF;NEUT;SG
+ban	musikgrupp	ban	musikgrupp		N;NOM;INDF;MASC+FEM;SG
+ban	ban	ban	bu		N;NOM;INDF;NEUT;SG
+ban	förbud	ban	förbud		N;NOM;INDF;NEUT;SG
+ban	förbjuda	ban	förbjuda		V;IMP;FIN;ACT
+cộng	plus	cộng	plus		ADV
+nhận	påstående	nhận	påstående	V	N;NOM;INDF;NEUT;SG
+nhận	anspråk	nhận	anspråk	V	N;NOM;INDF;NEUT;SG
+nhận	fordran	nhận	fordran	V	N;NOM;INDF;MASC+FEM;SG
+nhận	få	nhận	få	V	ADJ;NOM;INDF;PL
+nhận	get	nhận	ge	V	N;NOM;INDF;MASC+FEM;SG
+nhận	mottagande	nhận	motta	V	ADJ;NOM;PRS;V.PTCP
+qua	förbi	qua	förbi	V	ADV
+qua	förflutet	qua	förfluten	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+qua	förflutna	qua	förfluten	V	ADJ;NOM;PL;PST;V.PTCP
+qua	over	qua	over	V	N;NOM;INDF;MASC+FEM;SG
+qua	över	qua	över	V	ADP
+qua	via	qua	via	V	N;NOM;INDF;MASC+FEM;SG
+qua	igenom	qua	igenom	V	ADP
+qua	genom	qua	genom	V	ADP
+ảnh	foton	ảnh	foton	N	ADJ;NOM;PL
+tổng	totalt	tổng	total	N	ADV
+tổng	sammanlagt	tổng	sammanlagd	N	ADV
+tổng	total	tổng	total	N	ADJ;NOM;INDF;MASC+FEM;SG
+tổng	totala	tổng	total	N	ADJ;NOM;PL
+minh	smarta	minh	smart	N	ADJ;NOM;PL
+minh	smart	minh	smar	N	ADJ;NOM;INDF;MASC+FEM;SG
+tác	ursprungliga	tác	ursprunglig	N	ADJ;NOM;PL
+tác	ursprungligt	tác	ursprunglig	N	ADJ;NOM;INDF;NEUT;SG
+tác	originellt	tác	originell	N	ADJ;NOM;INDF;NEUT;SG
+tác	ursprunglig	tác	ursprunglig	N	ADJ;NOM;INDF;MASC+FEM;SG
+gồm	inbegripet	gồm	inbegrip	V	N;NOM;DEF;NEUT;SG
+gồm	inkluderat	gồm	inkludera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+gồm	inklusive	gồm	inklusive	V	ADP
+gồm	inkluderade	gồm	inkludera	V	ADJ;NOM;PL;PST;V.PTCP
+gồm	inkluderat	gồm	inkludera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+gồm	inkluderad	gồm	inkludera	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+gồm	bestående	gồm	bestående	V	ADJ;NOM;PRS;V.PTCP
+kinh	sutra	kinh	sutra	V	N;NOM;INDF;NEUT;SG
+kinh	beijing	kinh	beijing	V	PROPN;NOM
+kinh	peking	kinh	peking	V	PROPN;NOM
+kinh	peking	kinh	peking	V	PROPN;NOM
+cứng	hårt	cứng	hård	ADJ	ADV
+tiếp	nästa	tiếp	nästa	V	ADJ;NOM
+tiếp	härnäst	tiếp	härnäst	V	ADV
+rằng	att	rằng	att	CONJ	PART
+đánh	beat	đánh	bea	V	N;NOM;INDF;NEUT;SG
+đánh	påkörd	đánh	påkörd	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đánh	träffad	đánh	träffa	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đánh	träff	đánh	träff	V	N;NOM;INDF;MASC+FEM;SG
+nhạc	music	nhạc	music	V	N;NOM;INDF;MASC+FEM;SG
+nhạc	musikåret	nhạc	musikår	V	N;NOM;DEF;NEUT;SG
+nhạc	musik	nhạc	musik	V	N;NOM;INDF;MASC+FEM;SG
+nhạc	musikaliska	nhạc	musikalisk	V	ADJ;NOM;PL
+nhạc	musikalisk	nhạc	musikalisk	V	ADJ;NOM;INDF;MASC+FEM;SG
+nhạc	musikal	nhạc	musikal	V	N;NOM;INDF;MASC+FEM;SG
+hóa	kemisk	hóa	kemisk		ADJ;NOM;INDF;MASC+FEM;SG
+hóa	kemikalie	hóa	kemikalie		N;NOM;INDF;MASC+FEM;SG
+hóa	kemiskt	hóa	kemisk		ADJ;NOM;INDF;NEUT;SG
+hóa	kemi	hóa	kemi		N;NOM;INDF;MASC+FEM;SG
+tranh	målar	tranh	måla	N	V;IND;PRS;FIN;ACT
+tranh	kriga	tranh	krig	N	V;IMP;FIN;ACT
+tranh	war	tranh	war	N	V;IMP;FIN;ACT
+gọi	call	gọi	call	V	N;NOM;INDF;NEUT;SG
+gọi	samtal	gọi	samtal	V	N;NOM;INDF;NEUT;SG
+trang	zhuang	trang	zhuang	N	PROPN;NOM
+trang	side	trang	side	N	PROPN;NOM
+trang	page	trang	page	N	V;IMP;FIN;ACT
+nguyên	materiellt	nguyên	materiell	N	ADJ;NOM;INDF;NEUT;SG
+nguyên	yuan	nguyên	yuan	N	PROPN;NOM
+tạo	skapad	tạo	skapa	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+tạo	skapat	tạo	skapa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tạo	skapande	tạo	skapande	V	ADJ;NOM;PRS;V.PTCP
+tạo	skapelsen	tạo	skapelse	V	N;NOM;DEF;MASC+FEM;SG
+tạo	skapelse	tạo	skapelse	V	N;NOM;INDF;MASC+FEM;SG
+tạo	skapandet	tạo	skapande	V	N;NOM;DEF;NEUT;SG
+tạo	laget	tạo	lag	V	N;NOM;DEF;NEUT;SG
+tạo	lag	tạo	lag	V	N;NOM;INDF;MASC+FEM;SG
+tạo	team	tạo	team	V	N;NOM;INDF;NEUT;SG
+cầu	bridges	cầu	bridg	N	PROPN;NOM
+đặc	solitt	đặc	solitt	N	ADJ;NOM;INDF;NEUT;SG
+đặc	somalia	đặc	somali	N	PROPN;NOM
+nên	bör	nên	böra	CONJ	V;IND;PRS;FIN;ACT
+nên	ska	nên	skola	CONJ	V;IND;PRS;FIN;ACT
+nên	borde	nên	böra	CONJ	V;IND;PST;FIN;ACT
+phương	zoe	phương	zoe	N	PROPN;NOM
+mới	ny	mới	ny		ADJ;NOM;INDF;MASC+FEM;SG
+mới	nyhet	mới	nyhet		N;NOM;INDF;MASC+FEM;SG
+mới	nya	mới	ny		ADJ;NOM;PL
+mới	nytt	mới	ny		ADJ;NOM;INDF;NEUT;SG
+đạo	moraliskt	đạo	moralisk	N	ADJ;NOM;INDF;NEUT;SG
+đạo	moralisk	đạo	moralisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+đạo	moraliska	đạo	moralisk	N	ADJ;NOM;PL
+bắt	catch	bắt	catch	V	N;NOM;INDF;NEUT;SG
+bắt	fångst	bắt	fångst	V	N;NOM;INDF;MASC+FEM;SG
+bắt	tagen	bắt	tagen	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+bắt	tagna	bắt	ta	V	ADJ;NOM;PL;PST;V.PTCP
+bắt	take	bắt	take	V	N;NOM;INDF;MASC+FEM;SG
+bắt	tagning	bắt	tagning	V	N;NOM;INDF;MASC+FEM;SG
+bắt	grip	bắt	grip	V	N;NOM;INDF;MASC+FEM;SG
+rất	mycket	rất	mycket		ADV
+thức	recept	thức	recept	V	N;NOM;INDF;NEUT;SG
+thức	receptet	thức	recept	V	N;NOM;DEF;NEUT;SG
+tới	anlänt	tới	anlända	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tới	framme	tới	framme	V	ADV
+luận	kommentera	luận	kommentera	N	V;IMP;FIN;ACT
+luận	logiska	luận	logisk	N	ADJ;NOM;PL
+luận	logisk	luận	logisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+luận	logiskt	luận	logisk	N	ADJ;NOM;INDF;NEUT;SG
+khoảng	ungefär	khoảng	ungefär	ADJ	ADV
+khoảng	mellanslag	khoảng	mellanslag	ADJ	N;NOM;INDF;NEUT;PL
+khoảng	blanksteg	khoảng	blanksteg	ADJ	N;NOM;INDF;NEUT;PL
+khoảng	utrymmen	khoảng	utrymme	ADJ	N;NOM;INDF;NEUT;PL
+khoảng	kring	khoảng	kring	ADJ	ADP
+khoảng	omkring	khoảng	omkring	ADJ	ADV
+khoảng	runt	khoảng	runt	ADJ	ADV
+khoảng	ca	khoảng	ca	ADJ	ADV
+khoảng	ungefär	khoảng	ungefär	ADJ	ADV
+lần	times	lần	tim	N	PROPN;NOM
+vương	crown	vương	crown	N	PROPN;NOM
+vương	wang	vương	wang	N	PROPN;NOM
+vương	rikt	vương	rik	N	ADJ;NOM;INDF;NEUT;SG
+vương	rik	vương	rik	N	ADJ;NOM;INDF;MASC+FEM;SG
+vương	rich	vương	rich	N	PROPN;NOM
+vương	rika	vương	rik	N	ADJ;NOM;PL
+toàn	hel	toàn	hel	N	ADJ;NOM;INDF;MASC+FEM;SG
+toàn	hela	toàn	hel	N	ADJ;NOM;DEF;SG
+nhật	japansk	nhật	japansk		ADJ;NOM;INDF;MASC+FEM;SG
+nhật	japanska	nhật	japansk		N;NOM;INDF;MASC+FEM;SG
+nhật	japaner	nhật	japan		N;NOM;INDF;MASC+FEM;PL
+nhật	japanskt	nhật	japansk		ADJ;NOM;INDF;NEUT;SG
+viết	skrivare	viết	skrivare	V	N;NOM;INDF;MASC+FEM;PL
+viết	skrivaren	viết	skrivare	V	N;NOM;DEF;MASC+FEM;SG
+viết	skrivit	viết	skriva	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+viết	skrivande	viết	skrivande	V	ADJ;NOM;PRS;V.PTCP
+viết	skrift	viết	skrift	V	N;NOM;INDF;MASC+FEM;SG
+viết	skrivning	viết	skrivning	V	N;NOM;INDF;MASC+FEM;SG
+lan	ian	lan	ian	N	PROPN;NOM
+bảo	ask	bảo	ask	V	N;NOM;INDF;MASC+FEM;SG
+bảo	fråga	bảo	fråga	V	N;NOM;INDF;MASC+FEM;SG
+bảo	sagda	bảo	sagda	V	ADJ;NOM;PL;PST;V.PTCP
+bảo	tell	bảo	tell	V	N;NOM;INDF;NEUT;SG
+bảo	bao	bảo	bao	V	PROPN;NOM
+đơn	enda	đơn	enda	N	ADJ;NOM
+đơn	ensamstående	đơn	ensamstående	N	ADJ;NOM
+đơn	enstaka	đơn	enstaka	N	ADJ;NOM
+điện	elektriskt	điện	elektrisk	N	ADJ;NOM;INDF;NEUT;SG
+điện	elektrisk	điện	elektrisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+điện	elektriska	điện	elektrisk	N	ADJ;NOM;PL
+điện	elektriskt	điện	elektrisk	N	ADJ;NOM;INDF;NEUT;SG
+điện	elektrisk	điện	elektrisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+điện	elektriska	điện	elektrisk	N	ADJ;NOM;PL
+thấy	sett	thấy	se	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thấy	sedd	thấy	sedd	V	ADJ;NOM;INDF;MASC+FEM;SG
+thấy	sedda	thấy	sedda	V	ADJ;NOM;PL;PST;V.PTCP
+bao	bao	bao	bao		PROPN;NOM
+bao	aldrig	bao	aldrig		ADV;NEG
+bao	säck	bao	säck		N;NOM;INDF;MASC+FEM;SG
+bao	hur	bao	hur		ADV
+truyền	transfer	truyền	transfer	V	N;NOM;INDF;MASC+FEM;SG
+truyền	överlåtelse	truyền	överlåtelse	V	N;NOM;INDF;MASC+FEM;SG
+truyền	överföring	truyền	överföring	V	N;NOM;INDF;MASC+FEM;SG
+truyền	infusion	truyền	infusion	V	N;NOM;INDF;MASC+FEM;SG
+truyền	överföringar	truyền	överföring	V	N;NOM;INDF;MASC+FEM;PL
+nghiệp	stackars	nghiệp	stack	ADJ	N;GEN;INDF;MASC+FEM;PL
+nghiệp	karriären	nghiệp	karriär	ADJ	N;NOM;DEF;MASC+FEM;SG
+nghiệp	karriär	nghiệp	karriär	ADJ	N;NOM;INDF;MASC+FEM;SG
+nội	interna	nội	intern	N	ADJ;NOM;PL
+nội	intern	nội	intern	N	ADJ;NOM;INDF;MASC+FEM;SG
+nội	inre	nội	inre	N	ADJ;NOM;CMPR
+nội	inre	nội	inre	N	ADJ;NOM;CMPR
+thuật	magiskt	thuật	magisk	N	ADJ;NOM;INDF;NEUT;SG
+thuật	magisk	thuật	magisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+thuật	magiska	thuật	magisk	N	ADJ;NOM;PL
+gian	gian	gian	gian	N	PROPN;NOM
+tướng	allmän	tướng	allmän	N	ADJ;NOM;INDF;MASC+FEM;SG
+tướng	allmänna	tướng	allmän	N	ADJ;NOM;PL
+tướng	allmänt	tướng	allmän	N	ADV
+utc	gmt	utc	gmt	N	V;IMP;FIN;ACT
+tâm	centrum	tâm	centrum		N;NOM;INDF;NEUT;SG
+tâm	center	tâm	cent		N;NOM;INDF;NEUT;SG
+tâm	mitten	tâm	mitt		N;NOM;DEF;MASC+FEM;SG
+thanh	högljudd	thanh	högljudd		ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thanh	stång	thanh	stång		N;NOM;INDF;MASC+FEM;SG
+thanh	galler	thanh	galler		N;NOM;INDF;NEUT;SG
+thanh	bars	thanh	bars		N;NOM;INDF;NEUT;SG
+thanh	barer	thanh	bar		N;NOM;INDF;MASC+FEM;PL
+thanh	thanh	thanh	thanh		V;IMP;FIN;ACT
+dùng	användning	dùng	användning	V	N;NOM;INDF;MASC+FEM;SG
+dùng	användaren	dùng	användare	V	N;NOM;DEF;MASC+FEM;SG
+dùng	användare	dùng	användare	V	N;NOM;INDF;MASC+FEM;PL
+nói	sagda	nói	sagda	V	ADJ;NOM;PL;PST;V.PTCP
+nói	say	nói	say	V	N;NOM;INDF;NEUT;SG
+nói	tell	nói	tell	V	N;NOM;INDF;NEUT;SG
+nói	föredrag	nói	föredrag	V	N;NOM;INDF;NEUT;SG
+nói	prat	nói	prat	V	N;NOM;INDF;NEUT;SG
+nói	talk	nói	talk	V	N;NOM;INDF;MASC+FEM;SG
+sông	rivers	sông	rivars	N	PROPN;GEN
+hoạt	animationer	hoạt	animation	V	N;NOM;INDF;MASC+FEM;PL
+shift	skifta	shift	skifta	N	V;IMP;FIN;ACT
+đang	är	đang	vara		V;IND;PRS;FIN;ACT
+đang	are	đang	are		N;NOM;INDF;MASC+FEM;SG
+giữa	centrerat	giữa	centrerad	ADP	ADJ;NOM;INDF;NEUT;SG
+giữa	centrerad	giữa	centrerad	ADP	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+giữa	medelväg	giữa	medelväg	ADP	N;NOM;INDF;MASC+FEM;SG
+giữa	mitten	giữa	mitt	ADP	N;NOM;DEF;MASC+FEM;SG
+giữa	mellersta	giữa	mellersta	ADP	ADJ;NOM;DEF;RL
+giữa	middle	giữa	middle	ADP	N;NOM;INDF;MASC+FEM;SG
+giữa	centrerat	giữa	centrerad	ADP	ADJ;NOM;INDF;NEUT;SG
+giữa	centrerad	giữa	centrerad	ADP	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+phòng	rome	phòng	rome	N	PROPN;NOM
+phòng	rom	phòng	rom	N	PROPN;NOM
+đổi	ändring	đổi	ändring	V	N;NOM;INDF;MASC+FEM;SG
+đổi	förändring	đổi	förändring	V	N;NOM;INDF;MASC+FEM;SG
+chuyển	transfer	chuyển	transfer	V	N;NOM;INDF;MASC+FEM;SG
+chuyển	överlåtelse	chuyển	överlåtelse	V	N;NOM;INDF;MASC+FEM;SG
+chuyển	överföring	chuyển	överföring	V	N;NOM;INDF;MASC+FEM;SG
+chuyển	strömbrytare	chuyển	strömbrytare	V	N;NOM;INDF;MASC+FEM;PL
+chuyển	drag	chuyển	drag	V	N;NOM;INDF;NEUT;SG
+nay	idag	nay	idag	PROPN	ADV
+trọng	viktiga	trọng	viktig		ADJ;NOM;PL
+trọng	viktig	trọng	viktig		ADJ;NOM;INDF;MASC+FEM;SG
+trọng	viktigt	trọng	viktig		ADJ;NOM;INDF;NEUT;SG
+dịch	översätter	dịch	översätta		V;IND;PRS;FIN;ACT
+dịch	översätta	dịch	översätta		V;IMP;FIN;ACT
+dịch	översättningar	dịch	översättning		N;NOM;INDF;MASC+FEM;PL
+dịch	översättare	dịch	översättare		N;NOM;INDF;MASC+FEM;SG
+dịch	översättning	dịch	översättning		N;NOM;INDF;MASC+FEM;SG
+dịch	översätta	dịch	översätta		V;IMP;FIN;ACT
+dịch	översätt	dịch	översätt		V;IMP;FIN;ACT
+tài	begåvade	tài	begåva	N	ADJ;NOM;PL;PST;V.PTCP
+tài	begåvad	tài	begåvad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+tài	talangfull	tài	talangfull	N	ADJ;NOM;INDF;MASC+FEM;SG
+tài	duktiga	tài	duktig	N	ADJ;NOM;PL
+chế	tillverkad	chế	tillverkad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chế	tillverkade	chế	tillverkad	N	ADJ;NOM;PL;PST;V.PTCP
+chế	tillverkat	chế	tillverkad	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chế	gjorda	chế	göra	N	ADJ;NOM;PL;PST;V.PTCP
+biết	know	biết	know	V	N;NOM;INDF;MASC+FEM;SG
+nằm	lokaliserad	nằm	lokaliserad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nằm	belägen	nằm	belägen	V	ADJ;NOM;INDF;MASC+FEM;SG
+nằm	lokaliserat	nằm	lokalisera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+nằm	lögner	nằm	lögn	V	N;NOM;INDF;MASC+FEM;PL
+chất	specificerat	chất	specificerad	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chất	specificerade	chất	specificerad	N	ADJ;NOM;PL;PST;V.PTCP
+chất	angiven	chất	ange	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chất	specificerad	chất	specificerad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chất	angivet	chất	ange	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+sáng	ljust	sáng	ljust	N	ADJ;NOM;INDF;NEUT;SG
+sáng	ljusa	sáng	ljus	N	ADJ;NOM;PL
+thân	body	thân	body		N
+thân	kropp	thân	kropp		N;NOM;INDF;MASC+FEM;SG
+thân	kroppen	thân	kropp		N;NOM;DEF;MASC+FEM;SG
+thân	kropps	thân	kropp		N;NOM;INDF;MASC+FEM;SG
+nơi	placera	nơi	placera	N	V;IMP;FIN;ACT
+cuối	senast	cuối	senast	N	ADV;RL
+cuối	senaste	cuối	sen	N	ADJ;NOM;DEF;RL
+cuối	sista	cuối	sista	N	ADJ;NOM;DEF;RL
+cuối	sist	cuối	sist	N	ADV;RL
+tăng	ökning	tăng	ökning	V	N;NOM;INDF;MASC+FEM;SG
+tăng	höjning	tăng	höjning	V	N;NOM;INDF;MASC+FEM;SG
+tăng	stridsvagn	tăng	stridsvagn	V	N;NOM;INDF;NEUT;SG
+tăng	tank	tăng	tank	V	N;NOM;INDF;MASC+FEM;SG
+tăng	stridsvagnar	tăng	stridsvagen	V	N;NOM;INDF;MASC+FEM;PL
+tăng	tanks	tăng	tank	V	N;NOM;INDF;MASC+FEM;SG
+tăng	tankar	tăng	tanka	V	N;NOM;INDF;MASC+FEM;PL
+tăng	zeng	tăng	zeng	V	PROPN;NOM
+tăng	ökade	tăng	öka	V	ADJ;NOM;PL;PST;V.PTCP
+tăng	ökad	tăng	öka	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+tăng	ökat	tăng	öka	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tăng	förhöjt	tăng	förhöja	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+trưởng	kaptenen	trưởng	kapt		N;NOM;DEF;MASC+FEM;SG
+trưởng	captain	trưởng	captain		N;NOM;INDF;MASC+FEM;SG
+trưởng	kommendör	trưởng	kommendör		N;NOM;INDF;MASC+FEM;SG
+trưởng	kapten	trưởng	kapt		N;NOM;DEF;MASC+FEM;SG
+nguyễn	nguyen	nguyễn	nguy	N	PROPN;NOM
+lưu	liu	lưu	liu	V	PROPN;NOM
+lưu	save	lưu	säve	V	N;NOM;INDF;NEUT;SG
+nổi	berömt	nổi	beröma		ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+nổi	kända	nổi	känd		ADJ;NOM;PL;PST;V.PTCP
+nổi	berömd	nổi	berömd		ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nổi	känd	nổi	känd		ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nổi	berömda	nổi	berömma		ADJ;NOM;PL;PST;V.PTCP
+nổi	kändis	nổi	kändis		N;NOM;INDF;MASC+FEM;SG
+nổi	kändisar	nổi	kändis		N;NOM;INDF;MASC+FEM;PL
+nổi	flyter	nổi	flyta		V;IND;PRS;FIN;ACT
+nổi	flyta	nổi	flyta		V;IMP;FIN;ACT
+nổi	svävar	nổi	sväv		V;IND;PRS;FIN;ACT
+đặt	uppsättning	đặt	uppsättning	V	N;NOM;INDF;MASC+FEM;SG
+đặt	set	đặt	se	V	N;NOM;INDF;NEUT;SG
+dài	långt	dài	långt	ADJ	ADV
+dài	long	dài	long	ADJ	N;NOM;INDF;MASC+FEM;SG
+dài	länge	dài	länge	ADJ	ADV
+vua	kings	vua	kinga	N	PROPN;NOM
+phi	phi	phi	phi	N	V;IMP;FIN;ACT
+phi	afrika	phi	afrika	N	PROPN;NOM
+biệt	luftburen	biệt	luftbur		N;NOM;DEF;MASC+FEM;SG
+biệt	luftburna	biệt	luftburna		N;NOM;DEF;MASC+FEM;PL
+tuy	tuy	tuy	tuy	CONJ	V;IMP;FIN;ACT
+biến	rörlig	biến	rörlig	V	ADJ;NOM;INDF;MASC+FEM;SG
+biến	variabeln	biến	variabel	V	N;NOM;DEF;MASC+FEM;SG
+biến	variabel	biến	variabel	V	ADJ;NOM;INDF;MASC+FEM;SG
+biến	varierande	biến	variera	V	ADJ;NOM;PRS;V.PTCP
+hậu	queen	hậu	queen		N;NOM;INDF;NEUT;SG
+hậu	drottningen	hậu	drottning		N;NOM;DEF;MASC+FEM;SG
+hậu	drottning	hậu	drottning		N;NOM;INDF;MASC+FEM;SG
+chương	programmera	chương	programmera	N	V;IMP;FIN;ACT
+chưa	nix	chưa	nix		N;NOM;INDF;NEUT;SG
+chưa	nope	chưa	nope		N;NOM;INDF;MASC+FEM;SG
+chưa	ännu	chưa	ännu		ADV
+chưa	ändå	chưa	ändå		ADV
+thu	tors	thu	tors	V	N;NOM;INDF;MASC+FEM;SG
+bên	side	bên	side	N	PROPN;NOM
+vẫn	fortfarande	vẫn	fortfarande		ADV
+vẫn	ändå	vẫn	ändå		ADV
+nghệ	konstnärliga	nghệ	konstnrlig	N	ADJ;NOM;PL
+nghệ	konstnärlig	nghệ	konstnärlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+nghệ	konstnärligt	nghệ	konstnärlig	N	ADJ;NOM;INDF;NEUT;SG
+mất	förlorat	mất	förlora	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+mất	förlorad	mất	förlorad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+mất	vilse	mất	vilse	V	ADV
+mất	lost	mất	lost	V	N;NOM;INDF;MASC+FEM;SG
+mất	förlorade	mất	förlora	V	ADJ;NOM;PL;PST;V.PTCP
+liệu	dokumentet	liệu	dokument	V	N;NOM;DEF;NEUT;SG
+liệu	dokument	liệu	dokument	V	N;NOM;INDF;NEUT;SG
+liệu	handling	liệu	handling	V	N;NOM;INDF;MASC+FEM;SG
+sơn	målade	sơn	måla	N	V;PST;V.PTCP;ACT
+sơn	målad	sơn	målad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+sơn	målas	sơn	målas	N	V;NFIN;PASS
+sơn	målat	sơn	måla	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+sơn	måla	sơn	måla	N	V;IMP;FIN;ACT
+sơn	målar	sơn	måla	N	V;IND;PRS;FIN;ACT
+tìm	sökning	tìm	sökning	V	N;NOM;INDF;MASC+FEM;SG
+tìm	finn	tìm	finna	V	N;NOM;INDF;MASC+FEM;SG
+giao	gränssnitt	giao	gränssnitt	V	N;NOM;INDF;NEUT;SG
+giao	gränssnittet	giao	gränssnitt	V	N;NOM;DEF;NEUT;SG
+tương	xiang	tương	xiang		N;NOM;INDF;MASC+FEM;SG
+bạn	ni	bạn	ni	N	PRO;NOM;DEF;MASC+FEM;SG
+bạn	dig	bạn	du	N	PRO;ACC;DEF;MASC+FEM;SG
+bạn	du	bạn	du	N	PRO;NOM;DEF;MASC+FEM;SG
+hữu	ägaren	hữu	ägare		N;NOM;DEF;MASC+FEM;SG
+hữu	ägare	hữu	gg		N;NOM;INDF;MASC+FEM;PL
+hữu	äger	hữu	äga		V;IND;PRS;FIN;ACT
+thay	ändring	thay	ändring	V	N;NOM;INDF;MASC+FEM;SG
+thay	förändring	thay	förändring	V	N;NOM;INDF;MASC+FEM;SG
+nhóm	gruppera	nhóm	gruppera	N	V;IMP;FIN;ACT
+giá	price	giá	price	N	PROPN;NOM
+giá	värt	giá	värd	N	ADJ;NOM;INDF;MASC+FEM;SG
+giá	värd	giá	värd	N	ADJ;NOM;INDF;MASC+FEM;SG
+giá	worth	giá	worth	N	PROPN;NOM
+nhiệt	termisk	nhiệt	termisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+nhiệt	termiskt	nhiệt	termisk	N	ADJ;NOM;INDF;NEUT;SG
+nhiệt	termiska	nhiệt	termisk	N	ADJ;NOM;PL
+vai	axel	vai	axel	N	PROPN;NOM
+vai	vai	vai	vai	N	PROPN;NOM
+gần	nästan	gần	nästan	ADJ	ADV
+gần	stänga	gần	stänga	ADJ	V;IMP;NFIN;ACT
+gần	nära	gần	nära	ADJ	ADV
+gần	stäng	gần	stäng	ADJ	V;IMP;FIN;ACT
+gần	nära	gần	nära	ADJ	ADV
+cứu	save	cứu	säve	V	N;NOM;INDF;NEUT;SG
+cứu	hjälp	cứu	hjälp	V	N;NOM;INDF;MASC+FEM;SG
+cứu	räddning	cứu	räddning	V	N;NOM;INDF;MASC+FEM;SG
+cứu	undsättning	cứu	undsättning	V	N;NOM;INDF;MASC+FEM;SG
+quyết	beslutsam	quyết	beslutsam	N	ADJ;NOM;INDF;MASC+FEM;SG
+quyết	fastställd	quyết	fastställd	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+quyết	bestämd	quyết	bestämd	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+quyết	bestämde	quyết	bestämde	N	V;IND;PST;FIN;ACT
+quyết	beslutade	quyết	besluta	N	V;IND;PST;FIN;ACT
+quyết	beslutat	quyết	besluta	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+quyết	beslöt	quyết	besluta	N	V;IND;PST;FIN;ACT
+thương	skadade	thương	skada	V	ADJ;NOM;PL;PST;V.PTCP
+thương	skadad	thương	skada	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thương	söt	thương	söta	V	ADJ;NOM;INDF;MASC+FEM;SG
+thương	söta	thương	söta	V	ADJ;NOM;PL
+thương	sårad	thương	såra	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thương	skadad	thương	skada	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thương	skadade	thương	skada	V	ADJ;NOM;PL;PST;V.PTCP
+thương	sårade	thương	såra	V	ADJ;NOM;PL;PST;V.PTCP
+thương	skadad	thương	skada	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thương	sårad	thương	såra	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thương	ont	thương	ond	V	ADJ;NOM;INDF;NEUT;SG
+hát	sing	hát	singa	V	N;NOM;INDF;NEUT;SG
+hát	sjung	hát	sjung	V	N;NOM;INDF;MASC+FEM;SG
+hát	sjungande	hát	sjunga	V	ADJ;NOM;PRS;V.PTCP
+hát	sång	hát	sång	V	N;NOM;INDF;MASC+FEM;SG
+triều	court	triều	court	N	PROPN;NOM
+phục	servern	phục	servern	V	N;NOM;DEF;MASC+FEM;SG
+phục	server	phục	serv	V	N;NOM;INDF;MASC+FEM;SG
+tuổi	gamla	tuổi	gammal	N	ADJ;NOM;PL
+tuổi	gammal	tuổi	gammal	N	ADJ;NOM;INDF;MASC+FEM;SG
+tuổi	gammalt	tuổi	gammal	N	ADJ;NOM;INDF;NEUT;SG
+cần	behov	cần	behov	V	N;NOM;INDF;NEUT;SG
+hoàn	hjälten	hoàn	hjält		N;NOM;DEF;MASC+FEM;SG
+hoàn	hero	hoàn	hero		N;NOM;INDF;MASC+FEM;SG
+hoàn	hjälte	hoàn	hjälte		N;NOM;INDF;MASC+FEM;SG
+hoàn	huan	hoàn	huan		N;NOM;INDF;MASC+FEM;SG
+chơi	pjäs	chơi	pjäs	V	N;NOM;INDF;MASC+FEM;SG
+chơi	play	chơi	play	V	N;NOM;INDF;MASC+FEM;SG
+chơi	spel	chơi	spel	V	N;NOM;INDF;NEUT;SG
+chơi	spelet	chơi	spel	V	N;NOM;DEF;NEUT;SG
+chơi	game	chơi	game	V	N;NOM;INDF;NEUT;SG
+chơi	match	chơi	match	V	N;NOM;INDF;MASC+FEM;SG
+chơi	vilt	chơi	vilja	V	N;NOM;INDF;NEUT;SG
+kim	kim	kim	kimma	N	PROPN;NOM
+long	långa	long	lång	N	ADJ;NOM;PL
+long	långt	long	långt	N	ADV
+long	lång	long	lång	N	ADJ;NOM;INDF;MASC+FEM;SG
+long	länge	long	länge	N	ADV
+đưa	give	đưa	give	V	N;NOM;INDF;MASC+FEM;SG
+đóng	nära	đóng	nära	V	ADV
+đóng	stängning	đóng	stängning	V	N;NOM;INDF;MASC+FEM;SG
+đóng	avslutande	đóng	avslutande	V	ADJ;NOM;PRS;V.PTCP
+đóng	stängda	đóng	stänga	V	ADJ;NOM;PL;PST;V.PTCP
+đóng	stängd	đóng	stänga	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đóng	sluten	đóng	slut	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đóng	stängt	đóng	stänga	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+dẫn	leads	dẫn	lead	V	N;NOM;INDF;NEUT;SG
+dẫn	bly	dẫn	bly	V	N;NOM;INDF;NEUT;SG
+dẫn	lead	dẫn	lead	V	N;NOM;INDF;MASC+FEM;SG
+quá	också	quá	också		ADV
+quá	oxå	quá	oxå		N;NOM;INDF;MASC+FEM;SG
+quá	too	quá	too		N;NOM;INDF;NEUT;SG
+quá	alltför	quá	alltför		ADV
+thắng	vinna	thắng	vinna	N	V;IMP;FIN;ACT
+thắng	vinn	thắng	vinna	N	V;IMP;FIN;ACT
+thắng	vinna	thắng	vinna	N	V;IMP;FIN;ACT
+thắng	vinnande	thắng	vinnande	N	ADJ;NOM;PRS;V.PTCP
+thắng	vunna	thắng	vunna	N	ADJ;NOM;PL
+thắng	vunnit	thắng	vinna	N	V;V.CVB;ACT
+thắng	vann	thắng	vann	N	V;IND;PST;FIN;ACT
+thắng	vinner	thắng	vinna	N	V;IND;PRS;FIN;ACT
+mang	mang	mang	mang	V	N;NOM;INDF;MASC+FEM;SG
+giáp	rustning	giáp	rustning	V	N;NOM;INDF;MASC+FEM;SG
+giáp	pansar	giáp	pansa	V	N;NOM;INDF;MASC+FEM;PL
+giáp	rustning	giáp	rustning	V	N;NOM;INDF;MASC+FEM;SG
+giáp	pansar	giáp	pansa	V	N;NOM;INDF;MASC+FEM;PL
+huy	hui	huy	hui	N	PROPN;NOM
+thư	posta	thư	posta	N	V;IMP;FIN;ACT
+giữ	håll	giữ	håll	V	N;NOM;INDF;NEUT;SG
+giữ	keep	giữ	keep	V	N;NOM;INDF;MASC+FEM;SG
+tra	check	tra	check	V	N;NOM;INDF;MASC+FEM;SG
+nga	ryskt	nga	rysk	N	ADJ;NOM;INDF;NEUT;SG
+nga	rysk	nga	rysk	N	ADJ;NOM;INDF;MASC+FEM;SG
+nga	ryssland	nga	ryssland	N	PROPN;NOM
+triệu	zhao	triệu	zhao	NUM	PROPN;NOM
+triệu	miljon	triệu	miljon	NUM	N;NOM;INDF;MASC+FEM;SG
+triệu	miljoner	triệu	miljon	NUM	N;NOM;INDF;MASC+FEM;PL
+triệu	miljontals	triệu	miljontal	NUM	N;GEN;INDF;NEUT;PL
+triệu	miljoner	triệu	miljon	NUM	N;NOM;INDF;MASC+FEM;PL
+phép	tillåts	phép	tillåta	N	V;IND;PRS;FIN;PASS
+phép	tillåtet	phép	tillåtet	N	ADJ;NOM;INDF;NEUT;SG
+phép	tillåten	phép	tillåten	N	ADJ;NOM;INDF;MASC+FEM;SG
+new	ny	new	ny		ADJ;NOM;INDF;MASC+FEM;SG
+new	nyhet	new	nyhet		N;NOM;INDF;MASC+FEM;SG
+new	nya	new	ny		ADJ;NOM;PL
+new	nytt	new	ny		ADJ;NOM;INDF;NEUT;SG
+yếu	svagt	yếu	svag	N	ADJ;NOM;INDF;NEUT;SG
+yếu	klen	yếu	kle	N	ADJ;NOM;INDF;MASC+FEM;SG
+yếu	svaga	yếu	svag	N	ADJ;NOM;PL
+yếu	svag	yếu	svag	N	ADJ;NOM;INDF;MASC+FEM;SG
+mật	hemliga	mật	hemlig	N	ADJ;NOM;PL
+mật	hemlig	mật	hemlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+mật	hemligt	mật	hemlig	N	ADJ;NOM;INDF;NEUT;SG
+mật	galla	mật	galmal	N	V;IMP;FIN;ACT
+ghi	skrivande	ghi	skrivande	V	ADJ;NOM;PRS;V.PTCP
+ghi	skrift	ghi	skrift	V	N;NOM;INDF;MASC+FEM;SG
+ghi	skrivning	ghi	skrivning	V	N;NOM;INDF;MASC+FEM;SG
+sao	varför	sao	varför	PROPN	ADV
+giả	jia	giả	jia		PROPN;NOM
+giả	falsk	giả	falsk		ADJ;NOM;INDF;MASC+FEM;SG
+giả	false	giả	false		PROPN;NOM
+giả	falska	giả	falsk		ADJ;NOM;PL
+giả	falskt	giả	falsk		ADJ;NOM;INDF;NEUT;SG
+giả	falska	giả	falsk		ADJ;NOM;PL
+giả	falskt	giả	falsk		ADJ;NOM;INDF;NEUT;SG
+giả	fake	giả	fake		V;IMP;FIN;ACT
+cung	båge	cung	båge	V	N;NOM;INDF;MASC+FEM;SG
+cung	bog	cung	bog	V	N;NOM;INDF;MASC+FEM;SG
+cung	bågar	cung	båga	V	N;NOM;INDF;MASC+FEM;PL
+chống	kurage	chống	kurage	V	N;NOM;INDF;NEUT;SG
+chống	modet	chống	modet	V	N;NOM;DEF;NEUT;SG
+chống	mod	chống	mod	V	N;NOM;INDF;NEUT;SG
+chống	emot	chống	emot	V	ADV
+chống	mot	chống	mot	V	ADP
+nhập	indata	nhập	indat	V	N;NOM;INDF;NEUT;SG
+nhập	inmatning	nhập	inmatning	V	N;NOM;INDF;MASC+FEM;SG
+nhập	tillförsel	nhập	tillförsel	V	N;NOM;INDF;MASC+FEM;SG
+nhập	input	nhập	input	V	N;NOM;INDF;MASC+FEM;SG
+nhập	enter	nhập	enter	V	N;NOM;INDF;NEUT;SG
+nhập	import	nhập	import	V	N;NOM;INDF;MASC+FEM;SG
+chết	die	chết	du	V	N;NOM;INDF;NEUT;SG
+chết	död	chết	död	V	N;NOM;INDF;MASC+FEM;SG
+chết	döden	chết	död	V	N;NOM;DEF;MASC+FEM;SG
+chết	death	chết	death	V	N;NOM;INDF;NEUT;SG
+chết	dödsfall	chết	dödsfall	V	N;NOM;INDF;NEUT;PL
+chết	dött	chết	döda	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chết	död	chết	död	V	N;NOM;INDF;MASC+FEM;SG
+chết	döda	chết	död	V	ADJ;NOM;PL
+chết	dött	chết	döda	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chết	dead	chết	dead	V	N;NOM;INDF;MASC+FEM;SG
+lạc	kontakta	lạc	kontakta	N	V;IMP;FIN;ACT
+chung	ömsesidig	chung	ömsesidig	ADJ	N;NOM;INDF;MASC+FEM;SG
+chung	inbördes	chung	inbördes	ADJ	N;NOM;INDF;NEUT;SG
+chung	chung	chung	chung	ADJ	PROPN;NOM
+chung	universal	chung	universal	ADJ	N;NOM;INDF;MASC+FEM;SG
+chung	allmänt	chung	allmän	ADJ	ADV
+trần	chen	trần	chen	N	PROPN;NOM
+mẫu	bilda	mẫu	bilda	N	V;IMP;FIN;ACT
+mẫu	mal	mẫu	mal	N	V;IMP;FIN;ACT
+tất	strumpa	tất	strumpa		N;NOM;INDF;MASC+FEM;SG
+mạnh	meng	mạnh	meng	ADJ	N;NOM;INDF;MASC+FEM;SG
+mạnh	starkt	mạnh	stark	ADJ	ADV
+mạnh	strong	mạnh	strong	ADJ	N;NOM;INDF;MASC+FEM;SG
+trái	kvar	trái	kvar		ADV
+trái	left	trái	lefa		N;NOM;INDF;MASC+FEM;SG
+trái	vänstra	trái	vänster		ADJ;NOM;DEF;SG
+trái	vänstern	trái	vänster		N;NOM;DEF;MASC+FEM;SG
+trái	vänster	trái	vänster		N;NOM;INDF;MASC+FEM;SG
+từng	någonsin	từng	någonsin	PROPN	ADV
+từng	ever	từng	ever	PROPN	N;NOM;INDF;MASC+FEM;SG
+bán	sälj	bán	sälj	V	N
+bán	sålda	bán	såld	V	ADJ;NOM;PL;PST;V.PTCP
+bán	försäljning	bán	försäljning	V	N;NOM;INDF;MASC+FEM;SG
+bán	rea	bán	rea	V	N;NOM;INDF;MASC+FEM;SG
+bán	salu	bán	salu	V	N;NOM;INDF;MASC+FEM;PL
+bán	försäljning	bán	försäljning	V	N;NOM;INDF;MASC+FEM;SG
+rộng	bredd	rộng	bredd	ADJ	N;NOM;INDF;MASC+FEM;SG
+rộng	wide	rộng	wide	ADJ	N;NOM;INDF;NEUT;SG
+thủy	häxa	thủy	häxa	V	N;NOM;INDF;MASC+FEM;SG
+thủy	häxan	thủy	häxan	V	N;NOM;DEF;MASC+FEM;SG
+thủy	shui	thủy	shui	V	N;NOM;INDF;MASC+FEM;SG
+album	registrera	album	registrera	N	V;IMP;FIN;ACT
+giờ	nu	giờ	nu	N	ADV
+mỗi	varenda	mỗi	varenda	NUM	DET;INDF;SG
+mỗi	varje	mỗi	varje	NUM	DET;INDF;SG
+mỗi	varje	mỗi	varje	NUM	DET;INDF;SG
+mỗi	vardera	mỗi	vardera	NUM	PRO;DEF;SG
+núi	mount	núi	mount	N	PROPN;NOM
+núi	montera	núi	montera	N	V;IMP;FIN;ACT
+sang	lyxig	sang	lyxig	V	ADJ;NOM;INDF;MASC+FEM;SG
+sang	lyxiga	sang	lyxig	V	ADJ;NOM;PL
+lấy	take	lấy	take	V	N;NOM;INDF;MASC+FEM;SG
+lấy	tagning	lấy	tagning	V	N;NOM;INDF;MASC+FEM;SG
+lấy	få	lấy	få	V	ADJ;NOM;INDF;PL
+lấy	get	lấy	ge	V	N;NOM;INDF;MASC+FEM;SG
+phản	förrådd	phản	förrådd	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+phản	förräderi	phản	förräderi	V	N;NOM;INDF;NEUT;SG
+luật	härska	luật	härsk	N	V;IMP;FIN;ACT
+yêu	älskade	yêu	älskad	V	ADJ;NOM;PL;PST;V.PTCP
+yêu	älskad	yêu	älskad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+yêu	kärlek	yêu	kärlek	V	N;NOM;INDF;MASC+FEM;SG
+yêu	love	yêu	love	V	N;NOM;INDF;MASC+FEM;SG
+yêu	luv	yêu	luv	V	N;NOM;INDF;MASC+FEM;SG
+yêu	kärleksfull	yêu	kärleksfull	V	ADJ;NOM;INDF;MASC+FEM;SG
+yêu	kärleksfulla	yêu	kärleksfull	V	ADJ;NOM;PL
+kiện	sue	kiện	sue	V	PROPN;NOM
+align	justera	align	justera		V;IMP;FIN;ACT
+hiệp	avrunda	hiệp	avrunda	N	V;IMP;FIN;ACT
+hiệp	rund	hiệp	rund	N	ADJ;NOM;INDF;MASC+FEM;SG
+hiệp	runt	hiệp	runt	N	ADV
+hiệp	runda	hiệp	rund	N	ADJ;NOM;PL
+giúp	hjälp	giúp	hjälp	V	N;NOM;INDF;MASC+FEM;SG
+sắc	vassare	sắc	vassare	N	ADJ;NOM;CMPR
+sắc	skarpare	sắc	skarpare	N	ADJ;NOM;CMPR
+nha	tandläkaren	nha	tandläkare		N;NOM;DEF;MASC+FEM;SG
+nha	tandläkare	nha	tandläkare		N;NOM;INDF;MASC+FEM;PL
+nha	nha	nha	nha		V;IMP;FIN;ACT
+nha	tandvård	nha	tandvård		N;NOM;INDF;MASC+FEM;SG
+nha	tandläkare	nha	tandläkare		N;NOM;INDF;MASC+FEM;PL
+phá	paus	phá	paus	V	N;NOM;INDF;MASC+FEM;SG
+phá	break	phá	break	V	N;NOM;INDF;NEUT;SG
+phá	rast	phá	rast	V	N;NOM;INDF;MASC+FEM;SG
+phá	brytning	phá	brytning	V	N;NOM;INDF;MASC+FEM;SG
+phổ	preussen	phổ	preuss	N	PROPN;NOM
+phổ	preussiska	phổ	preussisk	N	ADJ;NOM;PL
+tay	händer	tay	hända	N	V;IND;PRS;FIN;ACT
+hồng	hong	hồng	hong	N	PROPN;NOM
+rồi	sedan	rồi	sedan	CONJ	ADV
+rồi	sen	rồi	sen	CONJ	ADV
+rồi	då	rồi	då	CONJ	ADV
+chia	delad	chia	delad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chia	delade	chia	delad	V	ADJ;NOM;PL;PST;V.PTCP
+chia	delat	chia	delad	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chia	uppdelad	chia	uppdela	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chia	uppdelat	chia	uppdela	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chia	delat	chia	delad	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chia	delad	chia	delad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+chia	delning	chia	delning	V	N;NOM;INDF;MASC+FEM;SG
+chia	split	chia	splita	V	N;NOM;INDF;NEUT;SG
+chia	delad	chia	delad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+ruồi	fly	ruồi	fly	N	V;IMP;FIN;ACT
+ruồi	flyger	ruồi	flyga	N	V;IND;PRS;FIN;ACT
+ruồi	flyga	ruồi	flyga	N	V;IMP;FIN;ACT
+ruồi	flyger	ruồi	flyga	N	V;IND;PRS;FIN;ACT
+phạm	kriminella	phạm	kriminell	N	ADJ;NOM;PL
+phạm	kriminella	phạm	kriminell	N	ADJ;NOM;PL
+phạm	kriminell	phạm	kriminell	N	ADJ;NOM;INDF;MASC+FEM;SG
+phạm	brottslig	phạm	brottslig	N	ADJ;NOM;INDF;MASC+FEM;SG
+chọn	markering	chọn	markering	V	N;NOM;INDF;MASC+FEM;SG
+chọn	val	chọn	val	V	N;NOM;INDF;NEUT;SG
+chọn	urval	chọn	urval	V	N;NOM;INDF;NEUT;SG
+chọn	pick	chọn	på	V	N;NOM;INDF;NEUT;SG
+lục	gröna	lục	grön	N	ADJ;NOM;PL
+lục	grön	lục	grön	N	ADJ;NOM;INDF;MASC+FEM;SG
+lục	grönt	lục	grön	N	ADJ;NOM;INDF;NEUT;SG
+đai	deporterad	đai	deportera	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đai	utvisad	đai	utvisa	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đai	utvisade	đai	utvisa	N	ADJ;NOM;PL;PST;V.PTCP
+tông	konkret	tông	konkret	N	ADJ;NOM;INDF;NEUT;SG
+tông	konkreta	tông	konkret	N	ADJ;NOM;PL
+tông	körde	tông	köra	N	V;IND;PST;FIN;ACT
+tông	drev	tông	drev	N	V;IMP;FIN;ACT
+trực	direkta	trực	direkt	V	ADJ;NOM;PL
+trực	direkt	trực	direkt	V	ADV
+trực	direct	trực	direct	V	N;NOM;INDF;MASC+FEM;SG
+chứng	bevittna	chứng	bevitten	N	V;IMP;FIN;ACT
+dung	innehållet	dung	innehåll		N;NOM;DEF;NEUT;SG
+dung	innehåll	dung	innehåll		N;NOM;INDF;NEUT;SG
+dung	innehållet	dung	innehåll		N;NOM;DEF;NEUT;SG
+dung	innehåll	dung	innehåll		N;NOM;INDF;NEUT;SG
+dung	innehållsförteckning	dung	innehållsförteckning		N;NOM;INDF;MASC+FEM;SG
+bệnh	sjuka	bệnh	sjuk	N	ADJ;NOM;PL
+bệnh	sjuk	bệnh	sjuk	N	ADJ;NOM;INDF;MASC+FEM;SG
+vòng	kring	vòng	kring	N	ADP
+vòng	omkring	vòng	omkring	N	ADV
+vòng	runt	vòng	runt	N	ADV
+vòng	avrunda	vòng	avrunda	N	V;IMP;FIN;ACT
+vòng	rund	vòng	rund	N	ADJ;NOM;INDF;MASC+FEM;SG
+vòng	runt	vòng	runt	N	ADV
+vòng	runda	vòng	rund	N	ADJ;NOM;PL
+phái	sändande	phái	sändande	N	ADJ;NOM;PRS;V.PTCP
+phái	sänder	phái	sända	N	V;IND;PRS;FIN;ACT
+phái	skickar	phái	skicka	N	V;IND;PRS;FIN;ACT
+phái	skicka	phái	skicka	N	V;IMP;FIN;ACT
+đào	gräv	đào	gräv	N	V;IMP;FIN;ACT
+đào	gräver	đào	gräva	N	V;IND;PRS;FIN;ACT
+đào	gräva	đào	gräva	N	V;IMP;FIN;ACT
+đào	graves	đào	grav	N	PROPN;NOM
+khai	outnyttjad	khai	outnyttjad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+khai	outnyttjade	khai	outnyttjad	V	ADJ;NOM;PL;PST;V.PTCP
+khai	anspråk	khai	anspråk	V	N;NOM;INDF;NEUT;SG
+khai	fordringar	khai	fordran	V	N;NOM;INDF;MASC+FEM;PL
+khai	påståenden	khai	påstående	V	N;NOM;INDF;NEUT;PL
+tốt	gott	tốt	god	ADJ	ADV
+tốt	bra	tốt	bra	ADJ	ADV
+lệnh	kommandon	lệnh	kommandon		N;NOM;INDF;NEUT;PL
+lệnh	command	lệnh	command		N;NOM;INDF;MASC+FEM;SG
+lệnh	kommando	lệnh	kommando		N;NOM;INDF;NEUT;SG
+lệnh	kommandot	lệnh	kommandod		N;NOM;DEF;NEUT;SG
+lệnh	beställningar	lệnh	beställning		N;NOM;INDF;MASC+FEM;PL
+lệnh	order	lệnh	ord		N;NOM;INDF;MASC+FEM;SG
+chuẩn	standarden	chuẩn	standard	V	N;NOM;DEF;MASC+FEM;SG
+chuẩn	standard	chuẩn	standard	V	N;NOM;INDF;MASC+FEM;SG
+chuẩn	normalt	chuẩn	normal	V	ADV
+chuẩn	normala	chuẩn	normal	V	ADJ;NOM;PL
+chuẩn	normal	chuẩn	normal	V	ADJ;NOM;INDF;MASC+FEM;SG
+duy	bara	duy	bara	N	ADV
+duy	enbart	duy	enbart	N	ADV
+duy	endast	duy	endast	N	ADV
+thiếu	saknad	thiếu	saknad	V	N;NOM;INDF;MASC+FEM;SG
+thiếu	försvunnen	thiếu	försvinn	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hết	everything	hết	everything	V	N;NOM;INDF;MASC+FEM;SG
+hết	allt	hết	all	V	PRO;INDF;NEUT;SG
+hết	allting	hết	allting	V	PRO;INDF;NEUT;SG
+hết	allt	hết	all	V	PRO;INDF;NEUT;SG
+hết	alla	hết	all	V	PRO;INDF;PL
+hết	over	hết	over	V	N;NOM;INDF;MASC+FEM;SG
+hết	över	hết	över	V	ADP
+hán	han	hán	han	N	PRO;NOM;DEF;MASC+FEM;SG
+hầu	nästan	hầu	nästan		ADV
+hầu	hou	hầu	hou		PROPN;NOM
+mặc	slitage	mặc	slitage	V	N;NOM;INDF;NEUT;SG
+tuyến	liberia	tuyến	liberi	N	PROPN;NOM
+tuyến	linjära	tuyến	linjär	N	ADJ;NOM;PL
+tuyến	linjärt	tuyến	linjärd	N	ADJ;NOM;INDF;NEUT;SG
+hạn	begränsa	hạn	begränsa	N	V;NFIN;ACT
+gốc	ursprungliga	gốc	ursprunglig		ADJ;NOM;PL
+gốc	ursprungligt	gốc	ursprunglig		ADJ;NOM;INDF;NEUT;SG
+gốc	originellt	gốc	originell		ADJ;NOM;INDF;NEUT;SG
+gốc	original	gốc	original		N;NOM;INDF;MASC+FEM;SG
+gốc	ursprunglig	gốc	ursprunglig		ADJ;NOM;INDF;MASC+FEM;SG
+rêu	mose	rêu	mose	N	PROPN;NOM
+muốn	want	muốn	want	V	N;NOM;INDF;MASC+FEM;SG
+ninh	ninh	ninh	ninh	N	V;IMP;FIN;ACT
+giang	jiang	giang	jiang	N	PROPN;NOM
+đĩa	skiva	đĩa	skiva		N;NOM;INDF;MASC+FEM;SG
+đĩa	registreringsskylt	đĩa	registreringsskylt		N;NOM;INDF;MASC+FEM;SG
+đĩa	plåt	đĩa	plåt		N;NOM;INDF;MASC+FEM;SG
+đĩa	tallrik	đĩa	tallrik		N;NOM;INDF;MASC+FEM;SG
+đĩa	disk	đĩa	disk		N;NOM;INDF;MASC+FEM;SG
+đĩa	skiva	đĩa	skiva		N;NOM;INDF;MASC+FEM;SG
+đĩa	tefat	đĩa	tefa		N;NOM;INDF;NEUT;SG
+khỏi	från	khỏi	från	V	ADP
+vàng	gula	vàng	gul	N	ADJ;NOM;PL
+vàng	gul	vàng	gul	N	ADJ;NOM;INDF;MASC+FEM;SG
+quang	quang	quang	quang	N	V;IMP;FIN;ACT
+hàn	sydkorea	hàn	sydkore	N	PROPN;NOM
+hàn	korea	hàn	kore	N	PROPN;NOM
+hàn	han	hàn	han	N	PRO;NOM;DEF;MASC+FEM;SG
+ngay	omgående	ngay	omgående	PART	ADJ;NOM;PRS;V.PTCP
+ngay	omedelbart	ngay	omedelbar	PART	ADV
+ngay	genast	ngay	genast	PART	ADV
+ngay	nu	ngay	nu	PART	ADV
+cận	stängning	cận	stängning	V	N;NOM;INDF;MASC+FEM;SG
+cận	avslutande	cận	avslutande	V	ADJ;NOM;PRS;V.PTCP
+cận	kardinal	cận	kardinal	V	N;NOM;INDF;MASC+FEM;SG
+cận	kardinalen	cận	kardinal	V	N;NOM;DEF;MASC+FEM;SG
+noctuidae	nattflyn	noctuidae	nattflyn	N	ADJ;NOM;PL
+đậu	bönan	đậu	böna	V	N;NOM;DEF;MASC+FEM;SG
+đậu	bean	đậu	bean	V	PROPN;NOM
+đậu	böna	đậu	böna	V	N;NOM;INDF;MASC+FEM;SG
+đậu	bönor	đậu	böna	V	N;NOM;INDF;MASC+FEM;PL
+đậu	bönan	đậu	böna	V	N;NOM;DEF;MASC+FEM;SG
+đậu	böner	đậu	böna	V	N;NOM;INDF;MASC+FEM;PL
+khách	besöker	khách	besöka	N	V;IND;PRS;FIN;ACT
+khách	besöka	khách	besöka	N	V;IMP;FIN;ACT
+địch	fientlig	địch	fientlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+địch	fientligt	địch	fientlig	N	ADV
+địch	fientliga	địch	fientlig	N	ADJ;NOM;PL
+thánh	heliga	thánh	helig	N	ADJ;NOM;PL
+thánh	helig	thánh	helig	N	ADJ;NOM;INDF;MASC+FEM;SG
+thánh	helige	thánh	helig	N	ADJ;NOM;DEF;MASC;SG
+thánh	heligt	thánh	helig	N	ADJ;NOM;INDF;NEUT;SG
+trẻ	unga	trẻ	ung	N	ADJ;NOM;PL
+trẻ	yngre	trẻ	ung	N	ADJ;NOM;CMPR
+trẻ	ung	trẻ	ung	N	ADJ;NOM;INDF;MASC+FEM;SG
+phó	ställföreträdare	phó	ställföreträdare		N;NOM;INDF;MASC+FEM;SG
+phó	biträdande	phó	biträdande		N;NOM;INDF;NEUT;SG
+phó	ställföreträdande	phó	ställföreträdande		N;NOM;INDF;NEUT;SG
+phó	vice	phó	vice		N;NOM;INDF;MASC+FEM;SG
+phó	vice	phó	vice		N;NOM;INDF;MASC+FEM;SG
+linh	långa	linh	lång	N	ADJ;NOM;PL
+linh	andliga	linh	andlig	N	ADJ;NOM;PL
+linh	själslig	linh	själslig	N	ADJ;NOM;INDF;MASC+FEM;SG
+linh	andlig	linh	andlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+linh	andligt	linh	andlig	N	ADJ;NOM;INDF;NEUT;SG
+chạy	running	chạy	running	V	N;NOM;INDF;MASC+FEM;SG
+chạy	löpning	chạy	löpning	V	N;NOM;INDF;MASC+FEM;SG
+chạy	rinnande	chạy	rinnande	V	ADJ;NOM;PRS;V.PTCP
+chạy	run	chạy	run	V	N;NOM;INDF;MASC+FEM;SG
+chạy	spring	chạy	spring	V	N;NOM;INDF;MASC+FEM;SG
+chạy	drive	chạy	drive	V	N;NOM;INDF;MASC+FEM;SG
+tuyên	deklarerat	tuyên	deklarerad	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tuyên	deklarerade	tuyên	deklarera	V	ADJ;NOM;PL;PST;V.PTCP
+thuận	deal	thuận	deal	ADJ	N;NOM;INDF;MASC+FEM;SG
+tức	omedelbar	tức	omedelbar		ADJ;NOM;INDF;MASC+FEM;SG
+tức	omedelbart	tức	omedelbar		ADV
+tức	omedelbara	tức	omedelbar		ADJ;NOM;PL
+tức	omedelbar	tức	omedelbar		ADJ;NOM;INDF;MASC+FEM;SG
+tức	sur	tức	sur		N;NOM;INDF;MASC+FEM;SG
+cực	mycket	cực	mycket		ADV
+cực	polar	cực	pola		N;NOM;INDF;MASC+FEM;SG
+cực	stolpe	cực	stolpe		N;NOM;INDF;MASC+FEM;SG
+cực	polack	cực	polack		N;NOM;INDF;MASC+FEM;SG
+cực	pole	cực	pole		N;NOM;INDF;MASC+FEM;SG
+cực	påle	cực	påle		N;NOM;INDF;MASC+FEM;SG
+cực	stång	cực	stång		N;NOM;INDF;MASC+FEM;SG
+lương	leung	lương	leung	N	PROPN;NOM
+mét	yards	mét	yard	N	PROPN;NOM
+lâu	långt	lâu	långt	ADJ	ADV
+lâu	long	lâu	long	ADJ	N;NOM;INDF;MASC+FEM;SG
+lâu	länge	lâu	länge	ADJ	ADV
+blank	blanka	blank	blank	V	ADJ;NOM;PL
+blank	tomt	blank	tom	V	ADJ;NOM;INDF;NEUT;SG
+blank	blankt	blank	blankt	V	ADJ;NOM;INDF;NEUT;SG
+blank	blank	blank	blank	V	N;NOM;INDF;MASC+FEM;SG
+bại	besegrat	bại	besegrad	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+bại	besegrad	bại	besegrad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+bại	nederlag	bại	nederlag	V	N;NOM;INDF;NEUT;SG
+chu	troligtvis	chu	troligtvis		ADV
+chu	förmodligen	chu	förmodligen		ADV
+chu	troligen	chu	troligen		ADV
+chu	antagligen	chu	antagligen		ADV
+chu	zhu	chu	zhu		PROPN;NOM
+chu	chu	chu	chu		PROPN;NOM
+chu	zhou	chu	zhou		PROPN;NOM
+ước	önskan	ước	önskan		N;NOM;INDF;MASC+FEM;SG
+ước	önskar	ước	önska		V;IND;PRS;FIN;ACT
+ước	önska	ước	önska		V;IMP;FIN;ACT
+ước	wish	ước	wish		N;NOM;INDF;MASC+FEM;SG
+ước	önskar	ước	önska		V;IND;PRS;FIN;ACT
+chuyên	specialist	chuyên	specialist	ADJ	N;NOM;INDF;MASC+FEM;SG
+lai	framtiden	lai	framtid		N;NOM;DEF;MASC+FEM;SG
+lai	framtid	lai	framtid		N;NOM;INDF;MASC+FEM;SG
+lai	future	lai	future		N;NOM;INDF;MASC+FEM;SG
+lai	framtida	lai	framtida		ADJ;NOM
+lai	blivande	lai	blivande		ADJ;NOM;PRS;V.PTCP
+lai	lai	lai	lai		N;NOM;INDF;NEUT;SG
+vài	få	vài	få	DET	ADJ;NOM;INDF;PL
+vài	fåtal	vài	fåtal	DET	N;NOM;INDF;NEUT;SG
+san	san	san	san		PROPN;NOM
+nền	bakgrund	nền	bakgrund		N;NOM;INDF;MASC+FEM;SG
+nền	bakgrunden	nền	bakgrund		N;NOM;DEF;MASC+FEM;SG
+style	stil	style	stil		N;NOM;INDF;MASC+FEM;SG
+style	style	style	style		N;NOM;INDF;MASC+FEM;SG
+song	tvilling	song	tvilling	CONJ	N;NOM;INDF;MASC+FEM;SG
+song	twin	song	twin	CONJ	N;NOM;INDF;NEUT;SG
+song	föräldrar	song	förälder	CONJ	N;NOM;INDF;MASC+FEM;PL
+song	föräldrars	song	förälder	CONJ	N;GEN;INDF;MASC+FEM;PL
+song	föräldrarna	song	förälder	CONJ	N;NOM;DEF;MASC+FEM;PL
+song	låten	song	låt	CONJ	N;NOM;DEF;MASC+FEM;SG
+song	sång	song	sång	CONJ	N;NOM;INDF;MASC+FEM;SG
+song	song	song	song	CONJ	PROPN;NOM
+giai	melodi	giai	melodi		N;NOM;INDF;MASC+FEM;SG
+giai	melody	giai	melody		PROPN;NOM
+giai	melodin	giai	melodin		N;NOM;DEF;MASC+FEM;SG
+quay	kajen	quay	kaj	V	N;NOM;DEF;MASC+FEM;SG
+quay	sväng	quay	sväng	V	N;NOM;INDF;MASC+FEM;SG
+quay	rotation	quay	rotation	V	N;NOM;INDF;MASC+FEM;SG
+quay	spin	quay	spin	V	N;NOM;INDF;MASC+FEM;SG
+american	amerikanskt	american	amerikansk	N	ADJ;NOM;INDF;NEUT;SG
+american	amerikansk	american	amerikansk	N	ADJ;NOM;INDF;MASC+FEM;SG
+american	amerikanska	american	amerikansk	N	ADJ;NOM;PL
+thưởng	bonus	thưởng	bonus	V	N;NOM;INDF;MASC+FEM;SG
+thưởng	belöning	thưởng	belöning	V	N;NOM;INDF;MASC+FEM;SG
+thưởng	belönad	thưởng	belöna	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thưởng	belönade	thưởng	belöna	V	ADJ;NOM;PL;PST;V.PTCP
+list	förteckning	list	förteckning	ADJ	N;NOM;INDF;MASC+FEM;SG
+list	list	list	list	ADJ	N;NOM;INDF;MASC+FEM;SG
+list	lista	list	lista	ADJ	N;NOM;INDF;MASC+FEM;SG
+xuống	down	xuống	do	V	N;NOM;INDF;MASC+FEM;SG
+xuống	neråt	xuống	neråt	V	ADV
+xuống	nere	xuống	nere	V	ADV
+xuống	nedåt	xuống	nedåt	V	ADV
+xuống	ner	xuống	ner	V	ADV
+đứng	stående	đứng	stående	V	N;NOM;INDF;NEUT;SG
+đứng	stand	đứng	stand	V	N;NOM;INDF;MASC+FEM;SG
+truyện	läser	truyện	läsa	N	V;IND;PRS;FIN;ACT
+truyện	läsa	truyện	läsa	N	V;IMP;FIN;ACT
+môn	diskret	môn	diskret	N	ADJ;NOM;INDF;NEUT;SG
+phóng	fjäll	phóng	fjäll	V	N;NOM;INDF;NEUT;SG
+phóng	skalan	phóng	skala	V	N;NOM;DEF;MASC+FEM;SG
+phóng	skala	phóng	skala	V	N;NOM;INDF;MASC+FEM;SG
+phóng	lansering	phóng	lansering	V	N;NOM;INDF;MASC+FEM;SG
+phóng	avfyrning	phóng	avfyrning	V	N;NOM;INDF;MASC+FEM;SG
+phóng	uppskjutning	phóng	uppskjutning	V	N;NOM;INDF;MASC+FEM;SG
+đốc	guvernören	đốc	guvernör		N;NOM;DEF;MASC+FEM;SG
+đốc	guvernör	đốc	guvernör		N;NOM;INDF;MASC+FEM;SG
+khởi	start	khởi	star	V	N;NOM;INDF;MASC+FEM;SG
+bầu	röstning	bầu	röstning	V	N;NOM;INDF;MASC+FEM;SG
+bầu	omröstning	bầu	omröstning	V	N;NOM;INDF;MASC+FEM;SG
+bầu	röstande	bầu	röstande	V	N;NOM;INDF;NEUT;SG
+bầu	dräktiga	bầu	dräktig	V	ADJ;NOM;PL
+bầu	gravida	bầu	gravida	V	ADJ;NOM;PL
+bầu	gravid	bầu	gravid	V	ADJ;NOM;INDF;MASC+FEM;SG
+mềm	mjuk	mềm	mjuk	N	ADJ;NOM;INDF;MASC+FEM;SG
+mềm	mjuka	mềm	mjuk	N	ADJ;NOM;PL
+mềm	mjukt	mềm	mjukt	N	ADJ;NOM;INDF;NEUT;SG
+giết	döda	giết	död	V	ADJ;NOM;PL
+giết	dödande	giết	dödande	V	ADJ;NOM;PRS;V.PTCP
+giết	killing	giết	killing	V	N;NOM;INDF;MASC+FEM;SG
+giết	döda	giết	död	V	ADJ;NOM;PL
+giết	kill	giết	kill	V	N;NOM;INDF;MASC+FEM;SG
+nhanh	snabbt	nhanh	snabb	ADJ	ADV
+nhanh	snabbt	nhanh	snabb	ADJ	ADV
+nhanh	snabbt	nhanh	snabb	ADJ	ADV
+thấp	low	thấp	low	ADJ	N;NOM;INDF;MASC+FEM;SG
+thấp	låg	thấp	låg	ADJ	INTJ
+hương	smaka	hương	smaka	N	V;IMP;FIN;ACT
+hương	smakar	hương	smaka	N	V;IND;PRS;FIN;ACT
+nghiệm	experiment	nghiệm	experiment	V	N;NOM;INDF;NEUT;PL
+tối	mörkt	tối	mörk	N	ADJ;NOM;INDF;NEUT;SG
+tối	mörk	tối	mörk	N	ADJ;NOM;INDF;MASC+FEM;SG
+tối	mörka	tối	mörka	N	ADJ;NOM;PL
+giảm	sänkning	giảm	sänkning	V	N;NOM;INDF;MASC+FEM;SG
+giảm	minskning	giảm	minskning	V	N;NOM;INDF;MASC+FEM;SG
+giảm	mindre	giảm	lite	V	ADV;CMPR
+giảm	färre	giảm	få	V	ADJ;NOM;CMPR
+bắn	skjutande	bắn	skjuta	V	ADJ;NOM;PRS;V.PTCP
+bắn	skytte	bắn	skytte	V	N;NOM;INDF;NEUT;SG
+bắn	shot	bắn	shot	V	N;NOM;INDF;MASC+FEM;SG
+bắn	skjutna	bắn	skjuta	V	ADJ;NOM;PL;PST;V.PTCP
+bắn	skjuten	bắn	skjuta	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+bắn	skott	bắn	skott	V	N;NOM;INDF;NEUT;SG
+bắn	avfyrning	bắn	avfyrning	V	N;NOM;INDF;MASC+FEM;SG
+đôi	par	đôi	par	NUM	N;NOM;INDF;NEUT;SG
+đôi	dubbel	đôi	dubbel	NUM	ADJ;NOM;INDF;MASC+FEM;SG
+đôi	dubbelt	đôi	dubbel	NUM	ADJ;NOM;INDF;NEUT;SG
+đôi	dubbla	đôi	dubbel	NUM	ADJ;NOM;PL
+đôi	fördubbla	đôi	fördubbla	NUM	V;NFIN;ACT
+đôi	par	đôi	par	NUM	N;NOM;INDF;NEUT;SG
+đôi	paret	đôi	par	NUM	N;NOM;DEF;NEUT;SG
+đôi	ibland	đôi	ibland	NUM	ADV
+đôi	dubbelgångare	đôi	dubbelgångare	NUM	N;NOM;INDF;MASC+FEM;PL
+lĩnh	erövrat	lĩnh	erövrat	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+lĩnh	besegrade	lĩnh	besegrad	N	V;IND;PST;FIN;ACT
+lĩnh	segrade	lĩnh	segra	N	V;IND;PST;FIN;ACT
+lĩnh	erövrade	lĩnh	erövra	N	V;IND;PST;FIN;ACT
+lĩnh	borsta	lĩnh	borsta	N	V;IMP;FIN;ACT
+cáo	anmäla	cáo	anmäla	N	V;IMP;FIN;ACT
+cáo	rapportera	cáo	rapportera	N	V;IMP;FIN;ACT
+cáo	fox	cáo	fox	N	PROPN;NOM
+sai	fel	sai	fel	ADJ	N;NOM;INDF;NEUT;SG
+sai	false	sai	false	ADJ	PROPN;NOM
+sai	fel	sai	fel	ADJ	N;NOM;INDF;NEUT;SG
+sửa	edit	sửa	edit	V	N;NOM;INDF;MASC+FEM;SG
+sửa	rättelse	sửa	rättelse	V	N;NOM;INDF;MASC+FEM;SG
+sửa	korrigering	sửa	korrigering	V	N;NOM;INDF;MASC+FEM;SG
+dựa	baserad	dựa	basera	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+dựa	baserade	dựa	basera	V	ADJ;NOM;PL;PST;V.PTCP
+dựa	baserat	dựa	basera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+lửa	låga	lửa	låg	N	ADJ;NOM;PL
+tuyển	uthyrning	tuyển	uthyrning	V	N;NOM;INDF;MASC+FEM;SG
+tuyển	uthyrning	tuyển	uthyrning	V	N;NOM;INDF;MASC+FEM;SG
+trương	cheung	trương	cheung	N	PROPN;NOM
+trương	zhang	trương	zhang	N	PROPN;NOM
+nặng	heavy	nặng	heavy	ADJ	N;NOM;INDF;MASC+FEM;SG
+ngành	hans	ngành	han	N	PRO;DEF
+isbn	isbn	isbn	isbn		N
+trắng	vita	trắng	vit	N	ADJ;NOM;PL
+trắng	vit	trắng	vit	N	ADJ;NOM;INDF;MASC+FEM;SG
+trắng	vitt	trắng	vitt	N	ADJ;NOM;INDF;NEUT;SG
+đọc	läst	đọc	läsa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+đọc	avläsning	đọc	avläsning	V	N;NOM;INDF;MASC+FEM;SG
+đọc	läsning	đọc	läsning	V	N;NOM;INDF;MASC+FEM;SG
+đọc	les	đọc	les	V	N;NOM;INDF;NEUT;SG
+xung	impuls	xung	impuls	V	N;NOM;INDF;MASC+FEM;SG
+xung	konflikten	xung	konflikt	V	N;NOM;DEF;MASC+FEM;SG
+xung	konflikter	xung	konflikt	V	N;NOM;INDF;MASC+FEM;PL
+xung	konflikt	xung	konflikt	V	N;NOM;INDF;MASC+FEM;SG
+hại	skada	hại	skada	V	N;NOM;INDF;MASC+FEM;SG
+hại	skadad	hại	skada	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hại	sårad	hại	såra	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hại	ont	hại	ond	V	ADJ;NOM;INDF;NEUT;SG
+quý	värdefullt	quý	värdefull	N	ADJ;NOM;INDF;NEUT;SG
+quý	älskade	quý	älskad	N	ADJ;NOM;PL;PST;V.PTCP
+quý	dyrbart	quý	dyrbar	N	ADJ;NOM;INDF;NEUT;SG
+quý	dyrbar	quý	dyrbar	N	ADJ;NOM;INDF;MASC+FEM;SG
+hưng	hung	hưng	hung	N	PROPN;NOM
+hưng	hängt	hưng	hänga	N	V;V.CVB;ACT
+hưng	hängd	hưng	hängd	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hưng	hängde	hưng	hänga	N	V;IND;PST;FIN;ACT
+luyện	utbildning	luyện	utbildning	V	N;NOM;INDF;MASC+FEM;SG
+luyện	träning	luyện	träning	V	N;NOM;INDF;MASC+FEM;SG
+tống	soong	tống	soong	N	PROPN;NOM
+thật	real	thật	real	PART	N;NOM;INDF;MASC+FEM;SG
+thật	verklig	thật	verklig	PART	ADJ;NOM;INDF;MASC+FEM;SG
+thật	äkta	thật	äkta	PART	ADJ;NOM
+thật	riktigt	thật	riktig	PART	ADV
+thật	verkligt	thật	verklig	PART	ADJ;NOM;INDF;NEUT;SG
+thật	riktig	thật	riktig	PART	ADJ;NOM;INDF;MASC+FEM;SG
+thật	sanna	thật	sanna	PART	N;NOM;INDF;MASC+FEM;SG
+thật	sann	thật	sann	PART	ADJ;NOM;INDF;MASC+FEM;SG
+thật	sant	thật	sant	PART	N;NOM;INDF;NEUT;SG
+thật	true	thật	true	PART	N;NOM;INDF;NEUT;SG
+thật	sanning	thật	sanning	PART	N;NOM;INDF;MASC+FEM;SG
+thật	sanningen	thật	sanning	PART	N;NOM;DEF;MASC+FEM;SG
+thật	sanningens	thật	sanning	PART	N;GEN;DEF;MASC+FEM;SG
+thật	verkligen	thật	verkligen	PART	ADV
+kéo	drag	kéo	drag	V	N;NOM;INDF;NEUT;SG
+kéo	sax	kéo	sax	V	N;NOM;INDF;MASC+FEM;SG
+kéo	saxar	kéo	saxa	V	N;NOM;INDF;MASC+FEM;PL
+kéo	puff	kéo	puff	V	N;NOM;INDF;MASC+FEM;SG
+đen	black	đen	black	ADJ	N;NOM;INDF;MASC+FEM;SG
+trục	axel	trục	axel	N	PROPN;NOM
+trục	axel	trục	axel	N	PROPN;NOM
+xin	snälla	xin	snälla	V	ADJ;NOM;PL
+xin	vänligen	xin	vänligen	V	ADV
+saint	sankt	saint	sankt		N;NOM;INDF;MASC+FEM;SG
+saint	saint	saint	saint		N;NOM;INDF;MASC+FEM;SG
+saint	helgon	saint	helgon		N;NOM;INDF;NEUT;SG
+mực	ink	mực	ink	N	NUM;NOM
+ngắn	kort	ngắn	kort	ADJ	ADV
+ngắn	short	ngắn	short	ADJ	N;NOM;INDF;MASC+FEM;SG
+trả	betalande	trả	betalande	V	ADJ;NOM;PRS;V.PTCP
+niệm	souvenirer	niệm	souvenir	V	N;NOM;INDF;MASC+FEM;PL
+lao	lao	lao	lao		N;NOM;INDF;NEUT;SG
+luôn	alltid	luôn	alltid		ADV
+côn	fortfarande	côn	fortfarande	N	ADV
+côn	ändå	côn	ändå	N	ADV
+thạch	utmanar	thạch	utmana	N	V;IND;PRS;FIN;ACT
+thạch	utmana	thạch	utman	N	V;IMP;FIN;ACT
+thạch	shi	thạch	shi	N	V;IMP;FIN;ACT
+phúc	jason	phúc	jason	N	PROPN;NOM
+phúc	glada	phúc	glad	N	ADJ;NOM;PL
+phúc	lycklig	phúc	lycklig	N	ADJ;NOM;INDF;MASC+FEM;SG
+phúc	lyckliga	phúc	lycklig	N	ADJ;NOM;PL
+phúc	glad	phúc	glad	N	ADJ;NOM;INDF;MASC+FEM;SG
+sâu	djup	sâu	djup	ADJ	N;NOM;INDF;MASC+FEM;SG
+sâu	deep	sâu	deep	ADJ	N;NOM;INDF;NEUT;SG
+sâu	djupt	sâu	djup	ADJ	ADV
+khó	hårt	khó	hård	ADJ	ADV
+cục	bureau	cục	bureau		N;NOM;INDF;MASC+FEM;SG
+cục	byrå	cục	byrå		N;NOM;INDF;MASC+FEM;SG
+cục	presidium	cục	presidium		N;NOM;INDF;NEUT;SG
+cục	presidiet	cục	presidium		N;NOM;DEF;NEUT;SG
+cục	fbi	cục	fbi		PROPN;NOM
+cục	extra	cục	extra		ADJ;NOM
+kịch	dramatiskt	kịch	dramatisk	N	ADV
+kịch	dramatisk	kịch	dramatisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+kịch	dramatiska	kịch	dramatisk	N	ADJ;NOM;PL
+kịch	ordnad	kịch	ordna	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+kịch	ordnat	kịch	ordna	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+kịch	arrangerat	kịch	arrangerad	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+kịch	ordnade	kịch	ordna	N	V;NOM;PL;PST;V.PTCP
+kịch	arrangerade	kịch	arrangera	N	ADJ;NOM;PL;PST;V.PTCP
+phường	ward	phường	ward	N	PROPN;NOM
+club	club	club	club		N;NOM;INDF;NEUT;SG
+club	klubb	club	klubb		N;NOM;INDF;MASC+FEM;SG
+club	klubben	club	klubb		N;NOM;DEF;MASC+FEM;SG
+club	klubba	club	klubba		N;NOM;INDF;MASC+FEM;SG
+top	överst	top	överst		ADV;RL
+top	toppen	top	topp		N;NOM;DEF;MASC+FEM;SG
+top	topp	top	topp		N;NOM;INDF;MASC+FEM;SG
+tải	last	tải	last	V	N;NOM;INDF;MASC+FEM;SG
+tải	belastning	tải	belastning	V	N;NOM;INDF;MASC+FEM;SG
+tải	lastning	tải	lastning	V	N;NOM;INDF;MASC+FEM;SG
+tải	laddning	tải	laddning	V	N;NOM;INDF;MASC+FEM;SG
+hàm	käkar	hàm	käka	N	V;IND;PRS;FIN;ACT
+wikipedia	wikipedia	wikipedia	pikipedi	V	N;NOM;INDF;MASC+FEM;SG
+phật	slå	phật	slå	N	V;IMP;FIN;ACT
+nghi	misstänkta	nghi	misstänkt	V	ADJ;NOM;PL;PST;V.PTCP
+nghi	misstänkta	nghi	misstänkt	V	ADJ;NOM;PL;PST;V.PTCP
+nghi	misstänkt	nghi	misstänkt	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nghi	tveksam	nghi	tveksam	V	ADJ;NOM;INDF;MASC+FEM;SG
+nghi	tveksamt	nghi	tveksam	V	ADJ;NOM;INDF;NEUT;SG
+nghi	tveksamma	nghi	tveksam	V	ADJ;NOM;PL
+thừa	rester	thừa	rest	ADJ	N;NOM;INDF;MASC+FEM;PL
+thừa	reno	thừa	reno	ADJ	N;NOM;INDF;NEUT;SG
+thừa	ärvde	thừa	ärvde	ADJ	V;IND;PST;FIN;ACT
+thừa	ärvt	thừa	ärva	ADJ	V;V.CVB;ACT
+buộc	kraft	buộc	kraft	V	N;NOM;INDF;MASC+FEM;SG
+buộc	force	buộc	force	V	N;NOM;INDF;MASC+FEM;SG
+sóng	vinka	sóng	vinken	N	V;IMP;FIN;ACT
+chủng	muterade	chủng	mutera	V	ADJ;NOM;PL;PST;V.PTCP
+caps	lock	caps	lock		N;NOM;INDF;NEUT;SG
+caps	mössor	caps	mössa		N;NOM;INDF;MASC+FEM;PL
+đăng	inlägg	đăng	inlägg	V	N;NOM;INDF;NEUT;SG
+đăng	inlägget	đăng	inlägg	V	N;NOM;DEF;NEUT;SG
+đăng	post	đăng	post	V	N;NOM;INDF;MASC+FEM;SG
+đăng	publicerade	đăng	publicera	V	ADJ;NOM;PL;PST;V.PTCP
+đăng	inlagd	đăng	lägga_in	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đăng	publicerat	đăng	publicerad	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+kiếm	svärd	kiếm	svärd	V	N;NOM;INDF;NEUT;SG
+kiếm	svärd	kiếm	svärd	V	N;NOM;INDF;NEUT;SG
+hiểu	förstått	hiểu	förstå	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+hiểu	uppfattat	hiểu	uppfatta	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+bụng	buk	bụng	buk	ADJ	N;NOM;INDF;MASC+FEM;SG
+bụng	buken	bụng	buk	ADJ	N;NOM;DEF;MASC+FEM;SG
+bụng	magen	bụng	mage	ADJ	N;NOM;DEF;MASC+FEM;SG
+bụng	mage	bụng	mage	ADJ	N;NOM;INDF;MASC+FEM;SG
+bụng	magen	bụng	mage	ADJ	N;NOM;DEF;MASC+FEM;SG
+bụng	mage	bụng	mage	ADJ	N;NOM;INDF;MASC+FEM;SG
+bụng	buk	bụng	buk	ADJ	N;NOM;INDF;MASC+FEM;SG
+bụng	buken	bụng	buk	ADJ	N;NOM;DEF;MASC+FEM;SG
+nuôi	pet	nuôi	pet	V	N;NOM;INDF;NEUT;SG
+nuôi	husdjur	nuôi	husdjur	V	N;NOM;INDF;NEUT;PL
+nuôi	sällskapsdjur	nuôi	sällskapsdjur	V	N;NOM;INDF;NEUT;SG
+nuôi	höjning	nuôi	höjning	V	N;NOM;INDF;MASC+FEM;SG
+nuôi	antaget	nuôi	antagen	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+nuôi	antagna	nuôi	anta	V	ADJ;NOM;PL;PST;V.PTCP
+nuôi	antagen	nuôi	antagen	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nuôi	adopterad	nuôi	adoptera	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hỏi	ask	hỏi	ask	V	N;NOM;INDF;MASC+FEM;SG
+hỏi	fråga	hỏi	fråga	V	N;NOM;INDF;MASC+FEM;SG
+đầy	fullt	đầy	full	ADJ	ADV
+xóa	avlägsna	xóa	avlägsen	V	ADJ;NOM;PL
+trao	tilldelning	trao	tilldelning	V	N;NOM;INDF;MASC+FEM;SG
+khá	ganska	khá	ganska		ADV
+vừa	medium	vừa	medium		N;NOM;INDF;NEUT;SG
+vừa	medelhög	vừa	medelhög		ADJ;NOM;INDF;MASC+FEM;SG
+vừa	medellång	vừa	medellång		ADJ;NOM;INDF;MASC+FEM;SG
+vừa	medelstor	vừa	medelstor		ADJ;NOM;INDF;MASC+FEM;SG
+vừa	måttliga	vừa	måttlig		ADJ;NOM;PL
+vừa	måttligt	vừa	måttlig		ADV
+vừa	moderata	vừa	moderat		ADJ;NOM;PL
+vừa	måttlig	vừa	måttlig		ADJ;NOM;INDF;MASC+FEM;SG
+vừa	moderat	vừa	modera		N;NOM;INDF;MASC+FEM;SG
+thử	försök	thử	försök	V	N;NOM;INDF;NEUT;SG
+thử	test	thử	test	V	N;NOM;INDF;NEUT;SG
+thử	provning	thử	provning	V	N;NOM;INDF;MASC+FEM;SG
+brasil	brasilien	brasil	brasili	N	PROPN;NOM
+brasil	brasilianska	brasil	brasiliansk	N	ADJ;NOM;PL
+john	johannes	john	johan	N	PROPN;NOM
+john	john	john	john	N	PROPN;NOM
+john	johan	john	joha	N	PROPN;NOM
+lược	uttömmande	lược	uttömmande	N	ADJ;NOM;PRS;V.PTCP
+lược	omfattande	lược	omfattande	N	ADJ;NOM;PRS;V.PTCP
+lược	heltäckande	lược	heltäckande	N	ADJ;NOM;PRS;V.PTCP
+lược	kam	lược	kumma	N	V;IMP;FIN;ACT
+lược	kammar	lược	kamma	N	V;IND;PRS;FIN;ACT
+paris	paris	paris	paris		PROPN;NOM
+tội	skyldiga	tội	skyldig	N	ADJ;NOM;PL
+tội	skyldig	tội	skyldig	N	ADJ;NOM;INDF;MASC+FEM;SG
+tội	skyldigt	tội	skyldig	N	ADJ;NOM;INDF;NEUT;SG
+tội	oskyldig	tội	oskyldig	N	ADJ;NOM;INDF;MASC+FEM;SG
+tội	oskyldigt	tội	oskyldig	N	ADJ;NOM;INDF;NEUT;SG
+tội	oskyldiga	tội	oskyldig	N	ADJ;NOM;PL
+liệt	förlamad	liệt	förlamad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+liệt	förlamade	liệt	förlama	N	ADJ;NOM;PL;PST;V.PTCP
+mua	inköp	mua	inköp	V	N;NOM;INDF;NEUT;PL
+mua	köp	mua	köp	V	N;NOM;INDF;NEUT;SG
+mua	köpet	mua	köp	V	N;NOM;DEF;NEUT;SG
+mua	köp	mua	köp	V	N;NOM;INDF;NEUT;SG
+mua	köpta	mua	köpa	V	ADJ;NOM;PL;PST;V.PTCP
+mua	köpt	mua	köpa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+bật	aktiverade	bật	aktivera	V	ADJ;NOM;PL;PST;V.PTCP
+bật	aktiverat	bật	aktivera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+bật	aktiverad	bật	aktiverad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+tái	ombyggnad	tái	ombyggnad		N;NOM;INDF;MASC+FEM;SG
+tái	återuppbygga	tái	återuppbygga		V;IMP;FIN;ACT
+ichneumonidae	brokparasitsteklar	ichneumonidae	brokparasitstekel		N;NOM;INDF;MASC+FEM;PL
+khối	blockera	khối	blockera	N	V;IMP;NFIN;ACT
+khối	blocka	khối	blocka	N	V;IMP;FIN;ACT
+dấu	korsat	dấu	korsat	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+dấu	korsade	dấu	korsa	N	V;NOM;PST;V.PTCP
+hiến	offras	hiến	offra	N	V;IND;PRS;FIN;PASS
+hiến	offrade	hiến	offra	N	V;IND;PST;V.PTCP;ACT
+hiến	offrat	hiến	offra	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chiếu	schack	chiếu	schack	V	N;NOM;INDF;MASC+FEM;SG
+chùa	chua	chùa	chua	N	PROPN;NOM
+ist	ist	ist	ist		N;NOM;INDF;MASC+FEM;SG
+york	york	york	york	N	PROPN;NOM
+huấn	teoretiskt	huấn	teoretisk	V	ADV
+huấn	teoretisk	huấn	teoretisk	V	ADJ;NOM;INDF;MASC+FEM;SG
+huấn	teoretiska	huấn	teoretisk	V	ADJ;NOM;PL
+group	gruppen	group	grupp		N;NOM;DEF;MASC+FEM;SG
+group	grupp	group	grupp		N;NOM;INDF;MASC+FEM;SG
+group	gruppera	group	gruppera		V;IMP;FIN;ACT
+tần	qin	tần	liten	N	PROPN;NOM
+loạt	region	loạt	region		N;NOM;INDF;MASC+FEM;SG
+loạt	regionen	loạt	region		N;NOM;DEF;MASC+FEM;SG
+loạt	area	loạt	are		N;NOM;INDF;MASC+FEM;SG
+loạt	område	loạt	område		N;NOM;INDF;NEUT;SG
+loạt	området	loạt	område		N;NOM;DEF;NEUT;SG
+loạt	yta	loạt	yta		N;NOM;INDF;MASC+FEM;SG
+team	laget	team	lag		N;NOM;DEF;NEUT;SG
+team	lag	team	lag		N;NOM;INDF;MASC+FEM;SG
+team	team	team	team		N;NOM;INDF;NEUT;SG
+xanh	blå	xanh	blå	N	ADJ;NOM;PL
+xanh	blåa	xanh	blåa	N	ADJ;NOM;PL
+khóa	låser	khóa	låsa	N	V;IND;PRS;FIN;ACT
+khóa	låst	khóa	låsa	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+khóa	låsta	khóa	låsa	N	ADJ;NOM;PL;PST;V.PTCP
+suy	funderingar	suy	fundering	V	N;NOM;INDF;MASC+FEM;PL
+suy	tankar	suy	tanka	V	N;NOM;INDF;MASC+FEM;PL
+thuốc	drog	thuốc	drog	N	V;IMP;PST;FIN;ACT
+thiệu	shao	thiệu	shao	V	PROPN;NOM
+đích	destination	đích	destination		N;NOM;INDF;MASC+FEM;SG
+đích	destinationen	đích	destination		N;NOM;DEF;MASC+FEM;SG
+đích	resmål	đích	resmål		N;NOM;INDF;NEUT;SG
+đúng	höger	đúng	höger	ADJ	N;NOM;INDF;MASC+FEM;SG
+đúng	rätt	đúng	rätt	ADJ	N;NOM;INDF;MASC+FEM;SG
+đúng	sanna	đúng	sanna	ADJ	N;NOM;INDF;MASC+FEM;SG
+đúng	sant	đúng	sant	ADJ	N;NOM;INDF;NEUT;SG
+đúng	true	đúng	true	ADJ	N;NOM;INDF;NEUT;SG
+đúng	korrigera	đúng	korrigera	ADJ	V;IMP;FIN;ACT
+đúng	rätta	đúng	rätta	ADJ	N;MASC+FEM
+đúng	rätt	đúng	rätt	ADJ	N;NOM;INDF;MASC+FEM;SG
+siêu	super	siêu	sup		N;NOM;INDF;MASC+FEM;SG
+siêu	metadata	siêu	metadat		ADJ;NOM;PL;PST;V.PTCP
+vây	fena	vây	fena	V	N;NOM;INDF;MASC+FEM;SG
+vây	fin	vây	fin	V	ADJ;NOM;INDF;MASC+FEM;SG
+vây	motstånd	vây	motstånd	V	N;NOM;INDF;NEUT;SG
+vây	motståndskraft	vây	motståndskraft	V	N;NOM;INDF;MASC+FEM;SG
+vây	resistens	vây	resist	V	N;NOM;INDF;MASC+FEM;SG
+vây	motståndsrörelsen	vây	motståndsrörelse	V	N;NOM;DEF;MASC+FEM;SG
+vây	beständighet	vây	beständighet	V	N;NOM;INDF;MASC+FEM;SG
+van	ventil	van	ventil	V	N;NOM;INDF;MASC+FEM;SG
+van	van	van	van	V	N;NOM;INDF;MASC+FEM;SG
+van	skåpbil	van	skåpbil	V	N;NOM;INDF;MASC+FEM;SG
+van	ventiler	van	ventil	V	N;NOM;INDF;MASC+FEM;PL
+cường	bläddra	cường	bläddra	N	V;IMP;FIN;ACT
+gray	grå	gray	grå		N;NOM;INDF;MASC+FEM;SG
+gray	grått	gray	gråda		ADJ;NOM;INDF;NEUT;SG
+gray	gråa	gray	gråa		ADJ;NOM;PL
+đương	pelarna	đương	pel		N;NOM;DEF;MASC+FEM;PL
+đương	stöttepelare	đương	stöttepelare		N;NOM;INDF;MASC+FEM;PL
+đương	stolpar	đương	stolpe		N;NOM;INDF;MASC+FEM;PL
+đương	pelare	đương	pelare		N;NOM;INDF;MASC+FEM;PL
+đương	grundpelare	đương	grundpelare		N;NOM;INDF;MASC+FEM;PL
+bom	bomba	bom	bomba	N	V;IMP;FIN;ACT
+bom	bom	bom	bom	N	PROPN;NOM
+nghe	hört	nghe	höra	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+clubnat	clubnat	clubnat	clubna	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+chỗ	placera	chỗ	placera	N	V;IMP;FIN;ACT
+ương	cia	ương	cia	N	PROPN;NOM
+giác	känns	giác	kännas	N	V;IND;PRS;FIN
+giác	känner	giác	känna	N	V;IND;PRS;FIN;ACT
+vân	ännu	vân	ännu	N	ADV
+vân	ändå	vân	ändå	N	ADV
+tai	öra	tai	öra		N;NOM;INDF;NEUT;SG
+tai	öron	tai	öron		N;NOM;INDF;NEUT;PL
+tai	tai	tai	tai		N;NOM;INDF;MASC+FEM;SG
+tai	öron	tai	öron		N;NOM;INDF;NEUT;PL
+bước	kliv	bước	kliv		V;IMP;FIN;ACT
+bước	step	bước	step		N;NOM;INDF;NEUT;SG
+bước	steg	bước	steg		N;NOM;INDF;NEUT;SG
+bước	fotsteg	bước	fotsteg		N;NOM;INDF;NEUT;SG
+bước	steg	bước	steg		N;NOM;INDF;NEUT;SG
+bước	trappsteg	bước	trappsteg		N;NOM;INDF;NEUT;PL
+séc	tjeckien	séc	tjeckien	N	PROPN;NOM
+canada	kanada	canada	kanad	N	PROPN;NOM
+vinh	ärad	vinh	ärad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+vinh	hedrad	vinh	hedra	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+vinh	hedra	vinh	hedra	N	V;IMP;FIN;ACT
+bác	onkel	bác	onkel		N;NOM;INDF;MASC+FEM;SG
+bác	morbror	bác	morbro		N;NOM;INDF;MASC+FEM;SG
+bác	uncle	bác	uncle		N;NOM;INDF;MASC+FEM;SG
+bác	farbror	bác	farbro		N;NOM;INDF;MASC+FEM;SG
+tuyệt	jättebra	tuyệt	jättebra	ADJ	N;NOM;INDF;NEUT;SG
+tuyệt	toppen	tuyệt	topp	ADJ	N;NOM;DEF;MASC+FEM;SG
+tuyệt	cool	tuyệt	cool	ADJ	N;NOM;INDF;MASC+FEM;SG
+hôn	kyssar	hôn	kyssa	V	N;NOM;INDF;MASC+FEM;PL
+hôn	kysst	hôn	kyssa	V	N;NOM;INDF;MASC+FEM;SG
+hôn	kyssar	hôn	kyssa	V	N;NOM;INDF;MASC+FEM;PL
+hôn	puss	hôn	puss	V	N;NOM;INDF;MASC+FEM;SG
+hôn	puss	hôn	puss	V	N;NOM;INDF;MASC+FEM;SG
+hôn	kiss	hôn	kiss	V	N;NOM;INDF;MASC+FEM;SG
+hôn	kyss	hôn	kysa	V	N;NOM;INDF;MASC+FEM;SG
+trừ	utom	trừ	utom	V	ADP
+trừ	förutom	trừ	förutom	V	ADP
+trừ	minus	trừ	minus	V	N;NOM;INDF;NEUT;SG
+ship	fartyg	ship	fartyg	V	N;NOM;INDF;NEUT;SG
+ship	fartygets	ship	fartyg	V	N;GEN;DEF;NEUT;SG
+ship	skepp	ship	skepp	V	N;NOM;INDF;NEUT;SG
+california	kalifornien	california	kaliforniun		N;NOM;INDF;MASC+FEM;SG
+california	california	california	californium		N;NOM;INDF;MASC+FEM;SG
+cai	nyktra	cai	nyktra	N	ADJ;NOM;PL
+cai	nykter	cai	nykt	N	ADJ;NOM;INDF;MASC+FEM;SG
+cai	cai	cai	cai	N	PROPN;NOM
+cai	rena	cai	rena	N	ADJ;NOM;PL
+cai	städa	cai	städ	N	V;IMP;FIN;ACT
+cai	ren	cai	ren	N	ADJ;NOM;INDF;MASC+FEM;SG
+cai	rent	cai	ren	N	ADV
+hơi	något	hơi	någon		PRO;INDF;NEUT;SG
+hơi	någorlunda	hơi	någorlunda		ADV
+phút	min	phút	jag	N	PRO;DEF;MASC+FEM;SG
+loạn	myteri	loạn	myteri	V	N;NOM;INDF;NEUT;SG
+loạn	upploppet	loạn	upplopp	V	N;NOM;DEF;NEUT;SG
+loạn	upplopp	loạn	upplopp	V	N;NOM;INDF;NEUT;SG
+loạn	revolt	loạn	revolt	V	N;NOM;INDF;MASC+FEM;SG
+loạn	uppror	loạn	uppro	V	N;NOM;INDF;NEUT;SG
+loạn	upproret	loạn	uppror	V	N;NOM;DEF;NEUT;SG
+phí	iväg	phí	iväg	N	ADV
+phí	bort	phí	bort	N	ADV
+phí	slösar	phí	slösa	N	V;IND;PRS;FIN;ACT
+khủng	terrorister	khủng	terrorist	ADJ	N;NOM;INDF;MASC+FEM;PL
+khủng	terrorist	khủng	terrorist	ADJ	N;NOM;INDF;MASC+FEM;SG
+khủng	terroristen	khủng	terroristen	ADJ	N;NOM;DEF;MASC+FEM;SG
+cấm	ban	cấm	bu	V	N;NOM;INDF;NEUT;SG
+cấm	förbud	cấm	förbud	V	N;NOM;INDF;NEUT;SG
+cấm	förbjudna	cấm	förbjuden	V	ADJ;NOM;PL;PST;V.PTCP
+cấm	förbjuden	cấm	förbjuden	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+cấm	förbjudet	cấm	förbjuden	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+cấm	förbjudna	cấm	förbjuden	V	ADJ;NOM;PL;PST;V.PTCP
+cấm	förbjuden	cấm	förbjuden	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+cấm	förbjudet	cấm	förbjuden	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+cấm	förbjudna	cấm	förbjuden	V	ADJ;NOM;PL;PST;V.PTCP
+cấm	förbjuden	cấm	förbjuden	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+cấm	förbjudet	cấm	förbjuden	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+cấm	spärrad	cấm	spärra	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+ủng	stövlar	ủng	stövla	V	N;NOM;INDF;MASC+FEM;PL
+ủng	boots	ủng	boot	V	N;NOM;INDF;NEUT;PL
+ủng	kängor	ủng	känga	V	N;NOM;INDF;MASC+FEM;PL
+nâng	lyft	nâng	lyfa	V	N;NOM;INDF;NEUT;SG
+nâng	hiss	nâng	hiss	V	N;NOM;INDF;MASC+FEM;SG
+nâng	höjning	nâng	höjning	V	N;NOM;INDF;MASC+FEM;SG
+nâng	lyft	nâng	lyfa	V	N;NOM;INDF;NEUT;SG
+hủy	inställt	hủy	ställa_in	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+hủy	inställd	hủy	inställd	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hủy	avbrutet	hủy	avbruten	V	ADJ;NOM;INDF;NEUT;SG
+hủy	avbruten	hủy	avbruta	V	N;NOM;INDF;MASC+FEM;SG
+hủy	inställt	hủy	ställa_in	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+hủy	inställd	hủy	inställd	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hủy	inställda	hủy	inställd	V	ADJ;NOM;PL;PST;V.PTCP
+hủy	avbrutet	hủy	avbruten	V	ADJ;NOM;INDF;NEUT;SG
+hủy	avbruten	hủy	avbruta	V	N;NOM;INDF;MASC+FEM;SG
+mai	mai	mai	mai		N;NOM;INDF;NEUT;SG
+mai	mys	mai	mys		N;NOM;INDF;MASC+FEM;SG
+mai	mei	mai	mei		N;NOM;INDF;NEUT;SG
+mai	morgondagen	mai	morgondag		N;NOM;DEF;MASC+FEM;SG
+mai	imorgon	mai	imorgon		N;NOM;INDF;MASC+FEM;SG
+cảng	harbor	cảng	harbor	N	PROPN;NOM
+tách	cups	tách	cups	V	N;NOM;INDF;NEUT;SG
+tách	muggar	tách	mugge	V	N;NOM;INDF;MASC+FEM;PL
+tách	koppar	tách	koppa	V	N;NOM;INDF;MASC+FEM;SG
+tách	delning	tách	delning	V	N;NOM;INDF;MASC+FEM;SG
+tách	split	tách	splita	V	N;NOM;INDF;NEUT;SG
+tách	delad	tách	delad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+tách	kopp	tách	kopp	V	N;NOM;INDF;MASC+FEM;SG
+tách	bägare	tách	bägare	V	N;NOM;INDF;MASC+FEM;PL
+tách	cup	tách	cup	V	N;NOM;INDF;NEUT;SG
+bạch	vita	bạch	vit	N	ADJ;NOM;PL
+bạch	vit	bạch	vit	N	ADJ;NOM;INDF;MASC+FEM;SG
+bạch	vitt	bạch	vitt	N	ADJ;NOM;INDF;NEUT;SG
+bạch	bai	bạch	bai	N	PROPN;NOM
+phê	fika	phê	fika		N;NOM;INDF;MASC+FEM;SG
+phê	kaffe	phê	kaffe		N;NOM;INDF;NEUT;SG
+hoá	smält	hoá	smält	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+liền	sned	liền	sned		N;NOM;INDF;MASC+FEM;SG
+liền	snett	liền	sne		ADV
+liền	krokig	liền	krokig		ADJ;NOM;INDF;MASC+FEM;SG
+liền	fäller	liền	fälla		V;IND;PRS;FIN;ACT
+liền	skjul	liền	skjul		N;NOM;INDF;NEUT;SG
+liền	fastlandet	liền	fastland		N;NOM;DEF;NEUT;SG
+cắt	styckning	cắt	styckning	V	N;NOM;INDF;MASC+FEM;SG
+cắt	cut	cắt	cut	V	N;NOM;INDF;MASC+FEM;SG
+cắt	klippt	cắt	klippa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+cắt	gröda	cắt	gröda	V	N;NOM;INDF;MASC+FEM;SG
+cắt	nedskärningar	cắt	nedskärning	V	N;NOM;INDF;MASC+FEM;PL
+xâm	invaderade	xâm	invadera	V	ADJ;NOM;PL;PST;V.PTCP
+xâm	invaderat	xâm	invadera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+trịnh	cheng	trịnh	cheng	N	PROPN;NOM
+tán	sprida	tán	sprida	N	V;IMP;NFIN;ACT
+tán	spridit	tán	spridit	N	V;V.CVB;ACT
+tán	sprid	tán	sprid	N	V;IMP;FIN;ACT
+http	http	http	http		N;NOM;INDF;NEUT;SG
+đỉnh	överst	đỉnh	överst	N	ADV;RL
+sur	sur	sur	sur	NUM	N;NOM;INDF;MASC+FEM;SG
+bày	bildskärm	bày	bildskärm	V	N;NOM;INDF;MASC+FEM;SG
+bày	skärmen	bày	skärm	V	N;NOM;DEF;MASC+FEM;SG
+bày	skärm	bày	skärm	V	N;NOM;INDF;MASC+FEM;SG
+voi	elefanterna	voi	elefant		N;NOM;DEF;MASC+FEM;PL
+voi	elefanter	voi	elefant		N;NOM;INDF;MASC+FEM;PL
+voi	elefanten	voi	elefant		N;NOM;DEF;MASC+FEM;SG
+voi	elefant	voi	elefant		N;NOM;INDF;MASC+FEM;SG
+voi	elefanter	voi	elefant		N;NOM;INDF;MASC+FEM;PL
+nghĩ	tänkande	nghĩ	tänkande	V	N;NOM;INDF;NEUT;SG
+nguy	fara	nguy	fara	V	N;NOM;INDF;MASC+FEM;SG
+quyển	anteckningsbok	quyển	anteckningsbok		N;NOM;INDF;MASC+FEM;SG
+thác	övergivet	thác	övergiv	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thác	övergiven	thác	övergiven	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thác	övergav	thác	övergav	N	V;IND;PST;FIN;ACT
+thác	övergivna	thác	övergiven	N	ADJ;NOM;PL;PST;V.PTCP
+thác	överlämnats	thác	överlämna	N	V;V.CVB;PASS
+thác	kapitulerade	thác	kapitulera	N	V;IND;PST;V.PTCP;ACT
+thác	överlämnade	thác	överlämna	N	ADJ;NOM;PL;PST;V.PTCP
+thác	faller	thác	falla	N	V;IND;PRS;FIN;ACT
+von	von	von	von		PROPN;NOM
+sung	insticksprogram	sung	insticksprogram	V	N;NOM;INDF;NEUT;SG
+sung	plugin	sung	plugi	V	N;NOM;INDF;NEUT;SG
+gửi	sändande	gửi	sändande	V	ADJ;NOM;PRS;V.PTCP
+gửi	underkastelse	gửi	underkastelse	V	N;NOM;INDF;MASC+FEM;SG
+ngầm	underförstådda	ngầm	underförstådda	N	ADJ;NOM;PL;PST;V.PTCP
+ngầm	implicita	ngầm	implicit	N	ADJ;NOM;PL
+ngầm	underförstått	ngầm	underförstå	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thụ	energier	thụ	energi	V	N;NOM;INDF;MASC+FEM;PL
+thụ	överflödigt	thụ	överflödig	V	ADJ;NOM;INDF;NEUT;SG
+thụ	överskott	thụ	överskott	V	N;NOM;INDF;NEUT;SG
+cựu	tidigare	cựu	tidig	N	ADV;CMPR
+nhớ	fröken	nhớ	fröka	V	N;NOM;DEF;MASC+FEM;SG
+nhớ	miss	nhớ	miss	V	N;NOM;INDF;MASC+FEM;SG
+thoát	utgång	thoát	utgång	V	N;NOM;INDF;MASC+FEM;SG
+thoát	utförsel	thoát	utförsel	V	N;NOM;INDF;MASC+FEM;SG
+thoát	utträde	thoát	utträde	V	N;NOM;INDF;NEUT;SG
+thoát	utgångar	thoát	utgång	V	N;NOM;INDF;MASC+FEM;PL
+thoát	flykten	thoát	flykt	V	N;NOM;DEF;MASC+FEM;SG
+thoát	rymning	thoát	rymning	V	N;NOM;INDF;MASC+FEM;SG
+thoát	flykt	thoát	flykt	V	N;NOM;INDF;MASC+FEM;SG
+chảy	smält	chảy	smält	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+đẩy	push	đẩy	push	V	N;NOM;INDF;MASC+FEM;SG
+đẩy	tryck	đẩy	tryck	V	N;NOM;INDF;NEUT;SG
+tùy	beror	tùy	bero	PART	V;IND;PRS;FIN;ACT
+vạn	ursprung	vạn	ursprung	ADJ	N;NOM;INDF;NEUT;SG
+lượt	vrida	lượt	vrida		V;IMP;FIN;ACT
+lượt	vänd	lượt	vända		V;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+lượt	sväng	lượt	sväng		N;NOM;INDF;MASC+FEM;SG
+lượt	resa	lượt	resa		N;NOM;INDF;MASC+FEM;SG
+tan	tan	tan	tan	V	N;NOM;INDF;MASC+FEM;SG
+tan	solbränna	tan	solbräne	V	N;NOM;INDF;MASC+FEM;SG
+tan	passerat	tan	passera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tan	passerade	tan	passera	V	ADJ;NOM;PL;PST;V.PTCP
+vuông	torg	vuông	torg	ADJ	N;NOM;INDF;NEUT;SG
+vuông	square	vuông	square	ADJ	N;NOM;INDF;MASC+FEM;SG
+vuông	kvadrat	vuông	kvadrat	ADJ	N;NOM;INDF;MASC+FEM;SG
+vuông	fyrkant	vuông	fyrkant	ADJ	N;NOM;INDF;MASC+FEM;SG
+vuông	torget	vuông	torg	ADJ	N;NOM;DEF;NEUT;SG
+nửa	halvor	nửa	halvor	NUM	N;NOM;INDF;MASC+FEM;PL
+nửa	halvt	nửa	halv	NUM	ADJ;NOM;INDF;NEUT;SG
+nửa	half	nửa	half	NUM	N;NOM;INDF;NEUT;SG
+nửa	hälften	nửa	hälft	NUM	N;NOM;DEF;MASC+FEM;SG
+nửa	halva	nửa	halv	NUM	ADJ;NOM;DEF;SG
+nửa	halv	nửa	halv	NUM	ADJ;NOM;INDF;MASC+FEM;SG
+đan	shan	đan	shan		N;NOM;INDF;NEUT;SG
+đan	stickning	đan	stickning		N;NOM;INDF;MASC+FEM;SG
+đan	förträffligt	đan	förträfflig		ADJ;NOM;INDF;NEUT;SG
+đan	utmärkt	đan	utmärkt		ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+united	förenade	united	förenade	N	ADJ;NOM;PL;PST;V.PTCP
+united	enad	united	enad	N	ADJ;NOM;INDF;MASC+FEM;SG
+iii	iii	iii	iii	NUM	N;NOM
+hung	hung	hung	hung	N	PROPN;NOM
+hung	hängt	hung	hänga	N	V;V.CVB;ACT
+hung	hängd	hung	hängd	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hung	hängde	hung	hänga	N	V;IND;PST;FIN;ACT
+hung	ungersk	hung	ungersk	N	ADJ;NOM;INDF;MASC+FEM;SG
+ngụy	wei	ngụy	wei	V	PROPN;NOM
+ngụy	syndabock	ngụy	syndabock	V	N;NOM;INDF;MASC+FEM;SG
+phan	knut	phan	knut		PROPN;NOM
+phan	phan	phan	phan		V;IMP;FIN;ACT
+thẳng	straight	thẳng	straight	ADJ	N;NOM;INDF;MASC+FEM;SG
+thẳng	rakt	thẳng	rak	ADJ	ADV
+vịnh	sund	vịnh	sund	N	ADJ;NOM;INDF;MASC+FEM;SG
+illinois	illinois	illinois	illinois	N	PROPN;NOM
+tiện	svarv	tiện	svarv	ADJ	N;NOM;INDF;MASC+FEM;SG
+bậc	nedre	bậc	nedre	N	ADJ;NOM;CMPR
+bậc	nerifrån	bậc	nerifrån	N	ADV
+ngược	bakåt	ngược	bakåt	V	ADV
+ngược	baklänges	ngược	baklänga	V	ADV
+ngược	bakåt	ngược	bakåt	V	ADV
+ngược	omvänd	ngược	omvänd	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+ngược	omvänt	ngược	omvända	V	N;NOM;INDF;NEUT;SG
+ngược	omvända	ngược	omvända	V	ADJ;NOM;PL;PST;V.PTCP
+ngược	motsatsen	ngược	motsats	V	N;NOM;DEF;MASC+FEM;SG
+ngược	mittemot	ngược	mittemot	V	N;NOM;INDF;MASC+FEM;SG
+ngược	motsatt	ngược	motsatt	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+ngược	motsatta	ngược	motsatt	V	ADJ;NOM;PL;PST;V.PTCP
+london	london	london	london		PROPN;NOM
+điền	tian	điền	tia	V	PROPN;NOM
+gắn	missfoster	gắn	missfost	V	N;NOM;INDF;MASC+FEM;PL
+sáu	sexa	sáu	sexa	NUM	N;NOM;INDF;MASC+FEM;SG
+sáu	six	sáu	six	NUM	PROPN;NOM
+quỹ	grundande	quỹ	grunda	N	ADJ;NOM;PRS;V.PTCP
+tặng	give	tặng	give	V	N;NOM;INDF;MASC+FEM;SG
+tặng	present	tặng	present	V	N;NOM;INDF;MASC+FEM;SG
+tặng	gåva	tặng	gåva	V	N;NOM;INDF;MASC+FEM;SG
+tắc	tock	tắc	tock	V	PROPN;NOM
+tắc	tick	tắc	tåcka	V	N;NOM;INDF;MASC+FEM;SG
+dọc	lodrätt	dọc	lodrätt	N	ADV
+dọc	vertikalt	dọc	vertikal	N	ADJ;NOM;INDF;NEUT;SG
+dọc	vertikala	dọc	vertikal	N	ADJ;NOM;PL
+dọc	lodrätt	dọc	lodrätt	N	ADV
+dọc	vertikalt	dọc	vertikal	N	ADJ;NOM;INDF;NEUT;SG
+crambidae	crambidae	crambidae	crambidae	N	ADJ;NOM
+dạy	undervisning	dạy	undervisning	V	N;NOM;INDF;MASC+FEM;SG
+dạy	undervisade	dạy	undervisa	V	ADJ;NOM;PL;PST;V.PTCP
+dạy	lärd	dạy	lärd	V	ADJ;NOM;INDF;MASC+FEM;SG
+dạy	lärt	dạy	lära	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+dạy	undervisat	dạy	undervisa	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tránh	undvikande	tránh	undvikande	V	ADJ;NOM;PRS;V.PTCP
+sớm	early	sớm	early	ADJ	N;NOM;INDF;MASC+FEM;SG
+sớm	tidigt	sớm	tidig	ADJ	ADV
+sớm	snart	sớm	snart	ADJ	ADV
+thù	hämnas	thù	hämna	N	V;FIN;PASS
+mười	ten	mười	ten	NUM	N;NOM;INDF;NEUT;SG
+săn	jaga	săn	jaga	N	V;IMP;FIN;ACT
+săn	hunt	săn	hunt	N	PROPN;NOM
+săn	jagar	săn	jaga	N	V;IND;PRS;FIN;ACT
+săn	jaga	săn	jaga	N	V;IMP;FIN;ACT
+săn	jagar	săn	jaga	N	V;IND;PRS;FIN;ACT
+hungary	ungern	hungary	unge	N	PROPN;NOM
+hungary	ungersk	hungary	ungersk	N	ADJ;NOM;INDF;MASC+FEM;SG
+tắt	funktionshindrade	tắt	funktionshindrad		ADJ;NOM;PL;PST;V.PTCP
+tắt	handikappade	tắt	handikappad		ADJ;NOM;PL;PST;V.PTCP
+tắt	inaktivera	tắt	inaktivera		V;IMP;FIN;ACT
+tắt	avaktivera	tắt	avaktivera		V;IMP;FIN;ACT
+tắt	iväg	tắt	iväg		ADV
+tắt	off	tắt	off		N;NOM;INDF;MASC+FEM;SG
+tắt	inaktivera	tắt	inaktivera		V;IMP;FIN;ACT
+tắt	stum	tắt	stum		ADJ;NOM;INDF;MASC+FEM;SG
+chấm	prickar	chấm	pricka	V	N;NOM;INDF;MASC+FEM;PL
+chấm	punkter	chấm	punkt	V	N;NOM;INDF;MASC+FEM;PL
+chấm	punkt	chấm	punkt	V	N;NOM;INDF;MASC+FEM;SG
+chấm	pricken	chấm	prick	V	N;NOM;DEF;MASC+FEM;SG
+chấm	prick	chấm	prick	V	N;NOM;INDF;MASC+FEM;SG
+chấm	dot	chấm	dot	V	NUM;NOM
+chấm	punkt	chấm	punkt	V	N;NOM;INDF;MASC+FEM;SG
+chấm	poäng	chấm	poäng	V	N;NOM;INDF;NEUT;SG
+chấm	point	chấm	point	V	N;NOM;INDF;MASC+FEM;SG
+tĩnh	statisk	tĩnh	statisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+tĩnh	statiskt	tĩnh	statisk	N	ADJ;NOM;INDF;NEUT;SG
+tĩnh	statiska	tĩnh	statisk	N	ADJ;NOM;PL
+tri	tri	tri	tri		N;NOM;INDF;MASC+FEM;SG
+tri	profet	tri	prof		N;NOM;INDF;MASC+FEM;SG
+tri	profeten	tri	profet		N;NOM;DEF;MASC+FEM;SG
+trích	kopia	trích	kopia	V	N;NOM;INDF;MASC+FEM;SG
+body	body	body	body		N
+body	kropp	body	kropp		N;NOM;INDF;MASC+FEM;SG
+body	kroppen	body	kropp		N;NOM;DEF;MASC+FEM;SG
+body	kropps	body	kropp		N;NOM;INDF;MASC+FEM;SG
+cẩm	ring	cẩm	ring	N	V;IMP;FIN;ACT
+cẩm	ringa	cẩm	ringa	N	V;FIN;ACT
+hài	humoristisk	hài	humoristisk	N	ADJ;NOM;INDF;MASC+FEM;SG
+hài	roligt	hài	rolig	N	ADJ;NOM;INDF;NEUT;SG
+hài	kul	hài	kul	N	INTJ
+hài	rolig	hài	rolig	N	ADJ;NOM;INDF;MASC+FEM;SG
+hài	lustigt	hài	lustig	N	ADJ;NOM;INDF;NEUT;SG
+trồng	plantering	trồng	plantering	V	N;NOM;INDF;MASC+FEM;SG
+trồng	planta	trồng	planta	V	N;NOM;INDF;MASC+FEM;SG
+trồng	växter	trồng	växt	V	N;NOM;INDF;MASC+FEM;PL
+trồng	växt	trồng	växt	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+trồng	anläggning	trồng	anläggning	V	N;NOM;INDF;MASC+FEM;SG
+increment	ökning	increment	ökning	V	N;NOM;INDF;MASC+FEM;SG
+mexico	mexiko	mexico	mexiko	N	PROPN;NOM
+ngang	horisontellt	ngang	horisontell	ADJ	ADV
+ngang	vågrätt	ngang	vågrätt	ADJ	ADV
+ngang	horisontell	ngang	horisontell	ADJ	N;NOM;INDF;MASC+FEM;SG
+ngang	horisontellt	ngang	horisontell	ADJ	ADV
+ngang	övergripande	ngang	övergripande	ADJ	N;NOM;INDF;NEUT;SG
+ngang	vågrätt	ngang	vågrätt	ADJ	ADV
+nhẹ	lättvindigt	nhẹ	lättvindig		ADV
+nhẹ	milt	nhẹ	milt		N;NOM;INDF;NEUT;SG
+nhẹ	milda	nhẹ	milda		ADJ;NOM;PL
+nhẹ	lindriga	nhẹ	lindrig		ADJ;NOM;PL
+nhẹ	lindrig	nhẹ	lindrig		ADJ;NOM;INDF;MASC+FEM;SG
+nhẹ	mild	nhẹ	mild		N;NOM;INDF;MASC+FEM;SG
+nhẹ	lätta	nhẹ	lätt		ADJ;NOM;PL
+nhẹ	enkelt	nhẹ	enkel		ADJ;NOM;INDF;NEUT;SG
+nhẹ	lätt	nhẹ	lätt		ADJ;NOM;INDF;NEUT;SG
+nhẹ	easy	nhẹ	easy		N;NOM;MASC+FEM;SG
+nhẹ	lätta	nhẹ	lätt		ADJ;NOM;PL
+nhẹ	mager	nhẹ	mage		ADJ;NOM;INDF;MASC+FEM;SG
+nhẹ	skinny	nhẹ	skinny		N;NOM;INDF;MASC+FEM;SG
+nhẹ	magra	nhẹ	magon		ADJ;NOM;PL
+nhẹ	smala	nhẹ	smal		ADJ;NOM;PL
+nhẹ	smal	nhẹ	smal		ADJ;NOM;INDF;MASC+FEM;SG
+đáp	land	đáp	land	V	N;NOM;INDF;NEUT;SG
+barra	barra	barra	barra		N;NOM;INDF;MASC+FEM;SG
+khô	torrt	khô	torr	V	ADJ;NOM;INDF;NEUT;SG
+khô	torra	khô	torr	V	ADJ;NOM;PL
+khô	torr	khô	torr	V	ADJ;NOM;INDF;MASC+FEM;SG
+ném	kastad	ném	kastad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+ném	kast	ném	kast	V	N;NOM;INDF;NEUT;SG
+gridcolor	gridcolor	gridcolor	gridcola		N;NOM;INDF;MASC+FEM;PL
+xúc	förolämpningar	xúc	förolämpning	V	N;NOM;INDF;MASC+FEM;PL
+xúc	förolämpning	xúc	förolämpning	V	N;NOM;INDF;MASC+FEM;SG
+rơi	falls	rơi	falla	V	N;NOM;INDF;NEUT;SG
+rơi	hösten	rơi	höst	V	N;NOM;DEF;MASC+FEM;SG
+rơi	fall	rơi	fall	V	N;NOM;INDF;NEUT;SG
+rơi	höst	rơi	höst	V	N;NOM;INDF;MASC+FEM;SG
+rơi	sjunkande	rơi	sjunka	V	ADJ;NOM;PRS;V.PTCP
+rơi	fallande	rơi	fallande	V	ADJ;NOM;PRS;V.PTCP
+kém	bad	kém	be	ADJ	V;IMP;FIN;ACT
+huyền	episk	huyền	episk	N	ADJ;NOM;INDF;MASC+FEM;SG
+tổn	trauma	tổn	trauma	V	N;NOM;INDF;NEUT;SG
+tổn	trauman	tổn	trauma	V	N;NOM;INDF;NEUT;PL
+darkgrey	darkgrey	darkgrey	darkgrey		N;NOM;INDF;MASC+FEM;SG
+sfondo	sfondo	sfondo	sfondo		N;NOM;INDF;MASC+FEM;SG
+mời	inbjudan	mời	inbjuda	V	N;NOM;INDF;MASC+FEM;SG
+mời	bjuden	mời	bjud	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+mời	inbjudna	mời	inbjuda	V	ADJ;NOM;PL;PST;V.PTCP
+mời	inbjuden	mời	inbjuda	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+mời	inbjudan	mời	inbjuda	V	N;NOM;INDF;MASC+FEM;SG
+mời	inbjudningar	mời	inbjudning	V	N;NOM;INDF;MASC+FEM;PL
+chinh	cross	chinh	cross		N;NOM;INDF;MASC+FEM;SG
+chinh	kryss	chinh	kryss		N;NOM;INDF;NEUT;SG
+chinh	korsa	chinh	korsa		V;IMP;FIN;ACT
+chinh	kors	chinh	kors		N;NOM;INDF;NEUT;SG
+simon	simon	simon	simon		N;NOM;INDF;MASC+FEM;SG
+hoà	holländsk	hoà	holländsk		ADJ;NOM;INDF;MASC+FEM;SG
+hoà	holländare	hoà	holländare		N;NOM;INDF;MASC+FEM;PL
+hoà	holländska	hoà	holländsk		ADJ;NOM;PL
+hoà	nederländska	hoà	nederländsk		N;NOM;INDF;MASC+FEM;SG
+pennsylvania	pennsylvania	pennsylvania	pennsylvani		N;NOM;INDF;MASC+FEM;SG
+trinh	trinh	trinh	trinh	N	PROPN;NOM
+thiệt	real	thiệt	real	PART	N;NOM;INDF;MASC+FEM;SG
+thiệt	verklig	thiệt	verklig	PART	ADJ;NOM;INDF;MASC+FEM;SG
+thiệt	äkta	thiệt	äkta	PART	ADJ;NOM
+thiệt	riktigt	thiệt	riktig	PART	ADV
+thiệt	verkligt	thiệt	verklig	PART	ADJ;NOM;INDF;NEUT;SG
+thiệt	riktig	thiệt	riktig	PART	ADJ;NOM;INDF;MASC+FEM;SG
+lào	laos	lào	laos	N	PROPN;NOM
+tào	cao	tào	cao	N	PROPN;NOM
+chữa	botemedel	chữa	botemedel	V	N;NOM;INDF;NEUT;SG
+chữa	kur	chữa	kur	V	N;NOM;INDF;MASC+FEM;SG
+background	bakgrund	background	bakgrund		N;NOM;INDF;MASC+FEM;SG
+background	bakgrunden	background	bakgrund		N;NOM;DEF;MASC+FEM;SG
+lôi	lei	lôi	lei	V	N;NOM;INDF;MASC+FEM;SG
+lôi	drag	lôi	drag	V	N;NOM;INDF;NEUT;SG
+ngọt	sötma	ngọt	sötma	ADJ	N;NOM;INDF;MASC+FEM;SG
+ngọt	bryggeriet	ngọt	bryggeri	ADJ	N;NOM;DEF;NEUT;SG
+ngọt	bryggeri	ngọt	bryggeri	ADJ	N;NOM;INDF;NEUT;SG
+thăm	besök	thăm	besök	V	N;NOM;INDF;NEUT;SG
+bảy	sjua	bảy	sjua	NUM	N;NOM;INDF;MASC+FEM;SG
+bảy	seven	bảy	sev	NUM	N;NOM;INDF;MASC+FEM;SG
+sóc	ekorre	sóc	ekorr	V	N;NOM;INDF;MASC+FEM;SG
+sóc	ekorrar	sóc	ekorra	V	N;NOM;INDF;MASC+FEM;PL
+chặn	kvarter	chặn	kvarter	V	N;NOM;INDF;NEUT;PL
+chặn	blockeringar	chặn	blockering	V	N;NOM;INDF;MASC+FEM;PL
+chặn	block	chặn	block	V	N;NOM;INDF;NEUT;SG
+chặn	blockering	chặn	blockering	V	N;NOM;INDF;MASC+FEM;SG
+chặn	blocket	chặn	block	V	N;NOM;DEF;NEUT;SG
+chặn	blockering	chặn	blockering	V	N;NOM;INDF;MASC+FEM;SG
+chặn	block	chặn	block	V	N;NOM;INDF;NEUT;SG
+thôi	avbryta	thôi	avbryta	PART	V;IMP;FIN;ACT
+thôi	annullera	thôi	annullera	PART	V;IMP;NFIN;ACT
+ống	vidröra	ống	vidröra	N	V;IMP;FIN;ACT
+phước	välsignat	phước	välsignad	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+phước	välsignade	phước	välsignad	N	ADJ;NOM;PL;PST;V.PTCP
+phước	välsignad	phước	välsignad	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+cừu	får	cừu	få	N	V;IND;PRS;FIN;ACT
+gió	blåsigt	gió	blåsig	N	ADJ;NOM;INDF;NEUT;SG
+trống	trumma	trống	trumma	V	N;NOM;INDF;MASC+FEM;SG
+trống	blanka	trống	blank	V	ADJ;NOM;PL
+trống	tomt	trống	tom	V	ADJ;NOM;INDF;NEUT;SG
+trống	blankt	trống	blankt	V	ADJ;NOM;INDF;NEUT;SG
+trống	blank	trống	blank	V	N;NOM;INDF;MASC+FEM;SG
+trống	trummor	trống	trummor	V	N;NOM;INDF;MASC+FEM;PL
+trống	tomma	trống	tom	V	ADJ;NOM;PL
+trống	tomt	trống	tom	V	ADJ;NOM;INDF;NEUT;SG
+trống	tom	trống	tom	V	N;NOM;INDF;MASC+FEM;SG
+indonesia	indonesien	indonesia	indonesien	N	PROPN;NOM
+jpl	jpl	jpl	jpl		PROPN;NOM
+nhiễm	smittat	nhiễm	smitta	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+nhiễm	infekterad	nhiễm	infektera	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nhiễm	infekterade	nhiễm	infektera	V	ADJ;NOM;PL;PST;V.PTCP
+nhiễm	smittade	nhiễm	smitta	V	ADJ;NOM;PL;PST;V.PTCP
+nhiễm	smittad	nhiễm	smitta	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+nhiễm	infekterat	nhiễm	infektera	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+tàn	kvarleva	tàn	kvarleva	ADJ	N;NOM;INDF;MASC+FEM;SG
+tàn	kväva	tàn	kväva	ADJ	V;IMP;FIN;ACT
+đuổi	sparken	đuổi	spark	V	N;NOM;DEF;MASC+FEM;SG
+đuổi	avskedad	đuổi	avskeda	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đuổi	avlossade	đuổi	avlossad	V	ADJ;NOM;PL;PST;V.PTCP
+đuổi	sparkad	đuổi	sparka	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+đuổi	chase	đuổi	chase	V	PROPN;NOM
+mưa	regnar	mưa	regna	N	V;IND;PRS;FIN;ACT
+mưa	regnade	mưa	regna	N	V;IND;PST;FIN;ACT
+bách	seriös	bách	seriös	N	ADJ;NOM;INDF;MASC+FEM;SG
+bách	seriöst	bách	seriös	N	ADJ;NOM;INDF;NEUT;SG
+bách	allvarliga	bách	allvarlig	N	ADJ;NOM;PL
+bách	allvarlig	bách	allvarlig	N	ADJ;NOM;INDF;MASC+FEM;SG
+bách	allvarligt	bách	allvarlig	N	ADJ;NOM;INDF;NEUT;SG
+hút	rök	hút	rök	V	N;NOM;INDF;MASC+FEM;SG
+hút	smoke	hút	smok	V	N;NOM;INDF;NEUT;SG
+william	william	william	william		PROPN;NOM
+william	vilhelm	william	vilhelm		PROPN;NOM
+george	georg	george	georg		PROPN;NOM
+george	george	george	george		PROPN;NOM
+george	nicke	george	nicke		PROPN;NOM
+air	air	air	air		N;NOM;INDF;MASC+FEM;SG
+air	luft	air	luft		N;NOM;INDF;MASC+FEM;SG
+cam	cam	cam	cam	N	V;IMP;FIN;ACT
+biện	bian	biện	bian	N	PROPN;NOM
+họp	sammanträde	họp	sammanträde	V	N;NOM;INDF;NEUT;SG
+họp	möte	họp	möte	V	N;NOM;INDF;NEUT;SG
+họp	mötet	họp	möte	V	N;NOM;DEF;NEUT;SG
+usd	femtio	usd	femtio	N	NUM;NOM
+may	may	may	may	ADJ	N;NOM;INDF;NEUT;SG
+may	maj	may	maj	ADJ	N;NOM;INDF;MASC+FEM;SG
+may	syr	may	syra	ADJ	V;IMP;FIN;ACT
+may	sy	may	sy	ADJ	V;IMP;FIN;ACT
+may	tur	may	tur	ADJ	N;NOM;INDF;MASC+FEM;SG
+may	lucky	may	lucky	ADJ	N;NOM;INDF;MASC+FEM;SG
+chép	kopia	chép	kopia	V	N;NOM;INDF;MASC+FEM;SG
+kia	kia	kia	kiana	PROPN	N;NOM;INDF;MASC+FEM;SG
+kia	där	kia	där	PROPN	ADV
+robert	robert	robert	robert		N;NOM;INDF;MASC+FEM;SG
+david	david	david	david		PROPN;NOM
+iowa	iowa	iowa	iowa	N	PROPN;NOM
+tachinidae	parasitflugor	tachinidae	parasitfluga	N	V;IND;PRS;FIN;ACT
+ohio	ohio	ohio	ohio	N	PROPN;NOM
+hoang	wild	hoang	wild	ADJ	N;NOM;INDF;NEUT;SG
+hoang	vilt	hoang	vilja	ADJ	N;NOM;INDF;NEUT;SG
+hoang	frilevande	hoang	frilevande	ADJ	N;NOM;INDF;NEUT;SG
+đâu	var	đâu	var	PROPN	PRO;INDF;MASC+FEM;SG
+đâu	där	đâu	där	PROPN	ADV
+đâu	vart	đâu	var	PROPN	N;NOM;INDF;NEUT;SG
+sắp	nästan	sắp	nästan		ADV
+sắp	snart	sắp	snart		ADV
+sắp	förestående	sắp	förestående		ADJ;NOM;PRS;V.PTCP
+sắp	kommande	sắp	kommande		ADJ;NOM;PRS;V.PTCP
+cân	tyngd	cân	tyngd	V	N;NOM;INDF;MASC+FEM;SG
+cân	vikt	cân	vikt	V	N;NOM;INDF;MASC+FEM;SG
+hiếu	gästfrihet	hiếu	gästfrihet		N;NOM;INDF;MASC+FEM;SG
+trăm	hundred	trăm	hundred	NUM	N;NOM;INDF;MASC+FEM;SG
+tận	terminal	tận	terminal	ADP	N;NOM;INDF;MASC+FEM;SG
+tận	terminalen	tận	terminal	ADP	N;NOM;DEF;MASC+FEM;SG
+mong	mong	mong	mong	V	N;NOM;INDF;NEUT;SG
+mong	förhoppning	mong	förhoppning	V	N;NOM;INDF;MASC+FEM;SG
+mong	hoppet	mong	hopp	V	N;NOM;DEF;NEUT;SG
+mong	hopp	mong	hopp	V	N;NOM;INDF;NEUT;SG
+mong	hope	mong	hape	V	N;NOM;INDF;MASC+FEM;SG
+rối	bråkmakare	rối	bråkmakare	V	N;NOM;INDF;MASC+FEM;PL
+rối	besvär	rối	besvär	V	N;NOM;INDF;NEUT;SG
+rối	problem	rối	problem	V	N;NOM;INDF;NEUT;PL
+rối	trubbel	rối	trubbel	V	N;NOM;INDF;MASC+FEM;SG
+rối	marionett	rối	marionett	V	N;NOM;INDF;NEUT;SG
+texas	texas	texas	texa	N	PROPN;GEN
+minnesota	minnesota	minnesota	minnesota	N	PROPN;NOM
+dakota	dakota	dakota	dakot	N	PROPN;NOM
+james	jakob	james	jakob	N	PROPN;NOM
+james	james	james	james	N	PROPN;NOM
+thẩm	shen	thẩm	shen	N	PROPN;NOM
+nghỉ	semester	nghỉ	semest	V	N;NOM;INDF;MASC+FEM;SG
+paul	paulus	paul	paulus		PROPN;NOM
+paul	paul	paul	paul		PROPN;NOM
+thua	förloraren	thua	förlorare	V	N;NOM;DEF;MASC+FEM;SG
+thua	nolla	thua	nolla	V	N;NOM;INDF;MASC+FEM;SG
+thua	förlorare	thua	förlorare	V	N;NOM;INDF;MASC+FEM;PL
+thua	loser	thua	losa	V	N;NOM;INDF;MASC+FEM;SG
+thua	förlorat	thua	förlora	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+thua	förlorad	thua	förlorad	V	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+thua	vilse	thua	vilse	V	ADV
+thua	lost	thua	lost	V	N;NOM;INDF;MASC+FEM;SG
+thua	förlorade	thua	förlora	V	ADJ;NOM;PL;PST;V.PTCP
+rock	klippa	rock	klippa	N	V;IMP;FIN;ACT
+rock	rocka	rock	rocka	N	V;IMP;FIN;ACT
+uống	drickande	uống	drickande	V	ADJ;NOM;PRS;V.PTCP
+uống	dryck	uống	dryck	V	N;NOM;INDF;MASC+FEM;SG
+uống	dryck	uống	dryck	V	N;NOM;INDF;MASC+FEM;SG
+uống	drycker	uống	drycka	V	N;NOM;INDF;MASC+FEM;PL
+uống	drinkar	uống	drinka	V	N;NOM;INDF;MASC+FEM;PL
+nhu	behöver	nhu	behöva	N	V;IND;PRS;FIN;ACT
+phạt	straffad	phạt	straffa	N	ADJ;NOM;INDF;MASC+FEM;SG
+phạt	bestraffas	phạt	bestraffa	N	V;NFIN;PASS
+phạt	straffas	phạt	straffa	N	V;NFIN;PASS
+phạt	straffade	phạt	straffa	N	ADJ;NOM;PL
+đoán	gissning	đoán	gissning	V	N;NOM;INDF;MASC+FEM;SG
+đoán	gissat	đoán	gissat	V	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+cốt	skulle	cốt	skola	N	V;IND;PST;FIN;ACT
+thịnh	sheng	thịnh	sheng	N	V;IMP;FIN;ACT
+phe	side	phe	side	N	PROPN;NOM
+lam	avklarat	lam	avklara	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+lam	done	lam	dö	N	V;IMP;FIN;ACT
+lam	gjort	lam	göra	N	V;V.CVB;ACT
+lam	färdig	lam	färdig	N	ADJ;NOM;INDF;MASC+FEM;SG
+hoài	uppnådd	hoài	uppnådd	N	ADJ;NOM;INDF;MASC+FEM;SG;PST;V.PTCP
+hoài	uppnådda	hoài	uppnådd	N	ADJ;NOM;PL;PST;V.PTCP
+hoài	uppnådde	hoài	uppnå	N	V;IND;PST;FIN;ACT
+hoài	uppnått	hoài	uppnåta	N	ADJ;NOM;INDF;NEUT;SG;PST;V.PTCP
+ukraina	ukraina	ukraina	ukraina	N	PROPN;NOM
+nhắc	omgående	nhắc	omgående	V	ADJ;NOM;PRS;V.PTCP
+del	del	del	del		N;NOM;INDF;MASC+FEM;SG
+internet	internet	internet	intern		N;NOM;DEF;NEUT;SG
+haute	haute	haute	haute		PROPN;NOM
+link	länka	link	länka	N	V;IMP;FIN;ACT
+kiên	tålamod	kiên	tålamod	ADJ	N;NOM;INDF;NEUT;SG
+hạc	crane	hạc	crane	N	PROPN;NOM
+malaysia	malaysiska	malaysia	malaysisk	N	ADJ;NOM;PL
+nóng	hot	nóng	hot	ADJ	N;NOM;INDF;NEUT;SG
+nóng	heta	nóng	heta	ADJ	V;IMP;NFIN;ACT
+pha	gör	pha	göra	N	V;IMP;FIN;ACT
+pha	göra	pha	göra	N	V;IMP;FIN;ACT
+phức	mikroskop	phức	mikroskop	V	N;NOM;INDF;NEUT;SG
+tròn	circle	tròn	circle	ADJ	N;NOM;INDF;MASC+FEM;SG
+tròn	cirkel	tròn	cirkel	ADJ	N;NOM;INDF;MASC+FEM;SG
+tròn	cirklar	tròn	cirkla	ADJ	N;NOM;INDF;NEUT;PL
+tròn	cirkeln	tròn	cirkel	ADJ	N;NOM;DEF;MASC+FEM;SG
+nhảy	jump	nhảy	jump	V	N;NOM;INDF;NEUT;SG
+nhảy	hopp	nhảy	hopp	V	N;NOM;INDF;NEUT;SG
+nhảy	hoppande	nhảy	hoppande	V	ADJ;NOM;PRS;V.PTCP
+nhảy	hoppning	nhảy	hoppning	V	N;NOM;INDF;MASC+FEM;SG
+lạnh	förkylning	lạnh	förkylning	ADJ	N;NOM;INDF;MASC+FEM;SG
+lạnh	cold	lạnh	cold	ADJ	N;NOM;INDF;MASC+FEM;SG
+lạnh	kyla	lạnh	kyla	ADJ	N;NOM;INDF;MASC+FEM;SG
+đòi	efterfrågan	đòi	efterfrågan	V	N;NOM;INDF;MASC+FEM;SG
+washington	washington	washington	washington		PROPN;NOM
+tiêm	injektion	tiêm	injektion	V	N;NOM;INDF;MASC+FEM;SG
+tiêm	skick	tiêm	skick	V	N;NOM;INDF;NEUT;SG
+tiêm	villkor	tiêm	villkor	V	N;NOM;INDF;NEUT;PL
+zealand	zeeland	zealand	zeeland	N	PROPN;NOM
+bottom	botten	bottom	botten		N;NOM;DEF;MASC+FEM;SG
+bottom	nedre	bottom	nedre		ADJ;NOM;CMPR
+bottom	nerifrån	bottom	nerifrån		ADV
+thầy	mäster	thầy	mästa	N	PROPN;NOM
+đau	smärta	đau	smärta	ADJ	N;NOM;INDF;MASC+FEM;SG
+đau	pain	đau	pain	ADJ	N;NOM;INDF;MASC+FEM;SG
+đau	smärtor	đau	smärtor	ADJ	N;NOM;INDF;MASC+FEM;PL
+đau	värk	đau	värk	ADJ	N;NOM;INDF;MASC+FEM;SG
+lọc	filter	lọc	filta	V	N;NOM;INDF;MASC+FEM;PL
+lọc	filtret	lọc	filtr	V	N;NOM;DEF;NEUT;SG
+lọc	filtrering	lọc	filtrering	V	N;NOM;INDF;MASC+FEM;SG
+lọc	filter	lọc	filta	V	N;NOM;INDF;MASC+FEM;PL
+vui	roligt	vui	rolig		ADJ;NOM;INDF;NEUT;SG
+vui	kul	vui	kul		INTJ
+vui	rolig	vui	rolig		ADJ;NOM;INDF;MASC+FEM;SG
+vui	lustigt	vui	lustig		ADJ;NOM;INDF;NEUT;SG
+vui	roliga	vui	rolig		ADJ;NOM;PL
+vui	kul	vui	kul		INTJ
+vui	rolig	vui	rolig		ADJ;NOM;INDF;MASC+FEM;SG
+vui	skoj	vui	skoj		N;NOM;INDF;NEUT;SG
+vui	roligt	vui	rolig		ADJ;NOM;INDF;NEUT;SG
+vui	glada	vui	glad		ADJ;NOM;PL
+vui	grattis	vui	grattis		N;NOM;INDF;NEUT;SG
+vui	lycklig	vui	lycklig		ADJ;NOM;INDF;MASC+FEM;SG
+vui	nöjd	vui	nöjd		N;NOM;INDF;MASC+FEM;SG
+vui	lyckliga	vui	lycklig		ADJ;NOM;PL
+vui	glad	vui	glad		ADJ;NOM;INDF;MASC+FEM;SG
+israel	israel	israel	israel		PROPN;NOM
+khổ	lidande	khổ	lidande	ADJ	N;NOM;INDF;NEUT;SG
+khổ	lidanden	khổ	lidande	ADJ	N;NOM;INDF;NEUT;PL
+khổ	hårt	khổ	hård	ADJ	ADV
+khổ	misär	khổ	misär	ADJ	N;NOM;INDF;MASC+FEM;SG
+khổ	elände	khổ	elände	ADJ	N;NOM;INDF;NEUT;SG
+site	webbplatsen	site	pebbplats		N;NOM;DEF;MASC+FEM;SG
+site	site	site	site		N;NOM;INDF;MASC+FEM;SG
+site	webbplats	site	pebbplats		N;NOM;INDF;MASC+FEM;SG
+canh	vakta	canh	vakta	N	V;IMP;FIN;ACT
+liêu	liao	liêu	liao	N	PROPN;NOM
+thuế	beskatta	thuế	beskatta	N	V;IMP;FIN;ACT
+kansas	kansas	kansas	kansas	N	PROPN;NOM
+love	kärlek	love	kärlek		N;NOM;INDF;MASC+FEM;SG
+love	älska	love	älsk		V;IMP;FIN;ACT
+love	love	love	love		N;NOM;INDF;MASC+FEM;SG
+love	älskar	love	älska		V;IND;PRS;FIN;ACT
+rập	saudiarabien	rập	saudiarabien	N	PROPN;NOM
+rập	arabien	rập	arabien	N	PROPN;NOM
+dinh	dinh	dinh	du		N
+anime	anime	anime	anime		N;NOM;INDF;MASC+FEM;SG
+khổng	svullna	khổng	svullen	N	ADJ;NOM;PL
+michael	mikael	michael	mikael		PROPN;NOM
+michael	michael	michael	michael		PROPN;NOM
+mộc	carpenter	mộc	carpent	N	PROPN;NOM
+tám	eight	tám	eight	NUM	N;NOM;INDF;MASC+FEM;SG
+non	icke	non	icke	N	PART;NEG
+insee	insee	insee	insee	N	V;IMP;FIN;ACT
+lee	lee	lee	lee	N	PROPN;NOM
+campuchia	kambodjanska	campuchia	kambodjansk	N	ADJ;NOM;PL
+campuchia	kambodja	campuchia	kambodja	N	PROPN;NOM
+colombia	colombia	colombia	colombia	N	PROPN;NOM
+colombia	colombianska	colombia	colombiansk	N	ADJ;NOM;PL
+charles	charles	charles	charles		PROPN;NOM
+charles	karl	charles	karl		PROPN;NOM
+than	stenkol	than	stenkol		N;NOM;INDF;NEUT;SG
+than	kol	than	kol		N;NOM;INDF;NEUT;SG
+than	klaga	than	klaga		V;IMP;FIN;ACT
+than	klagar	than	klaga		V;IND;PRS;FIN;ACT
+than	kol	than	kol		N;NOM;INDF;NEUT;SG
+tuấn	tuan	tuấn	tuan	N	PROPN;NOM

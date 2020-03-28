@@ -1,0 +1,3189 @@
+cehennem	hell	cehenne	hell	N;NOM;SG;3	PROPN
+cehennem	ад	cehenne	ад	N;NOM;SG;3	
+cehennem	inferno	cehenne	inferno	N;NOM;SG;3	PROPN
+çarpışma	эффект	çarpış	эффект	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+çarpışma	влияние	çarpış	влияние	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+çarpışma	воздействие	çarpış	воздействие	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+çarpışma	результативность	çarpış	результативность	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+çarpışma	последствия	çarpış	последствие	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+çarpışma	столкновение	çarpış	столкновение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+çarpışma	столкновения	çarpış	столкновение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+çarpışma	столкновение	çarpış	столкновение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+çarpışma	столкновения	çarpış	столкновение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+yıkıldı	разрушены	yıkıl	разрушить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+atmosfer	атмосфер	atmosfer	атмосфера		N;INAN;GEN;FEM;PL
+atmosfer	атмосфера	atmosfer	атмосфера		N;INAN;NOM;FEM;SG
+atmosfer	атмосферу	atmosfer	атмосфера		N;INAN;ACC;FEM;SG
+atmosfer	атмосферных	atmosfer	атмосферный		ADJ;GEN;PL
+walt	уолт	walt	уолт		N;ANIM;NOM;MASC;SG
+grace	благодать	grace	благодать		N;INAN;NOM;FEM;SG
+grace	грейс	grace	грейс		N;ANIM;NOM;FEM;SG
+grace	грэйс	grace	грэйс		N;ANIM;NOM;FEM;SG
+haberleşme	связь	haberleş	связь		N;INAN;NOM;FEM;SG
+haberleşme	коммуникация	haberleş	коммуникация		N;INAN;NOM;FEM;SG
+haberleşme	общение	haberleş	общение		N;INAN;NOM;NEUT;SG
+haberleşme	телекоммуникации	haberleş	телекоммуникация		N;INAN;NOM;FEM;PL
+haberleşme	электросвязи	haberleş	электросвязь		N;INAN;NOM;FEM;PL
+haberleşme	связь	haberleş	связь		N;INAN;NOM;FEM;SG
+haberleşme	телекоммуникаций	haberleş	телекоммуникация		N;INAN;GEN;FEM;PL
+haberleşme	телекоммуникации	haberleş	телекоммуникация		N;INAN;NOM;FEM;PL
+haberleşme	связь	haberleş	связь		N;INAN;NOM;FEM;SG
+haberleşme	коммуникации	haberleş	коммуникация		N;INAN;NOM;FEM;PL
+haberleşme	коммуникация	haberleş	коммуникация		N;INAN;NOM;FEM;SG
+haberleşme	связи	haberleş	связь		N;INAN;NOM;FEM;PL
+haberleşme	сообщения	haberleş	сообщение		N;INAN;NOM;NEUT;PL
+cena	сина	cena	сина		N;ANIM;NOM;MASC;SG
+vandal	вандал	vandal	вандал		N;ANIM;NOM;MASC;SG
+sportif	спортивный	sportif	спортивный		ADJ;NOM;MASC;SG
+sportif	спортивная	sportif	спортивный		ADJ;NOM;FEM;SG
+jung	чжон	jung	чжон		PART
+jung	чон	jung	чон		PART
+sihirli	волшебство	sihirli	волшебство		N;INAN;NOM;NEUT;SG
+sihirli	волшебная	sihirli	волшебный		ADJ;NOM;FEM;SG
+sihirli	magic	sihirli	magic		PROPN
+sihirli	магия	sihirli	магия		N;INAN;NOM;FEM;SG
+sihirli	волшебный	sihirli	волшебный		ADJ;NOM;MASC;SG
+savundu	защищали	savun	защищать	V;PFV;IND;SG;3;POS;PST	V;IPFV;IND;PL;PST;FIN;ACT
+savundu	защищал	savun	защищать	V;PFV;IND;SG;3;POS;PST	V;IPFV;MASC;IND;SG;PST;FIN;ACT
+bozukluğu	расстройства	bozukluk	расстройство	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+korsan	хакер	kors	хакер	V;PFV;SG;2;POS;PRS	N;ANIM;NOM;MASC;SG
+korsan	пират	kors	пират	V;PFV;SG;2;POS;PRS	N;ANIM;NOM;MASC;SG
+korsan	пираты	kors	пират	V;PFV;SG;2;POS;PRS	N;ANIM;NOM;MASC;PL
+korsan	пираты	kors	пират	V;PFV;SG;2;POS;PRS	N;ANIM;NOM;MASC;PL
+church	церковь	church	церковь	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+church	церкви	church	церковь	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+ot	горшок	ot	горшок		N;INAN;NOM;MASC;SG
+ot	трава	ot	трава		N;INAN;NOM;FEM;SG
+ot	травы	ot	трава		N;INAN;NOM;FEM;PL
+ot	траве	ot	трава		N;INAN;DAT;FEM;SG
+ot	траву	ot	трава		N;INAN;ACC;FEM;SG
+ot	трава	ot	трава		N;INAN;NOM;FEM;SG
+ot	траву	ot	трава		N;INAN;ACC;FEM;SG
+izleri	треки	iz	трек	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+izleri	дорожки	iz	дорожка	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+izleri	следы	iz	след	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+everton	эвертон	everton	эвертон		N;INAN;NOM;MASC;SG
+fukuoka	фукуока	fukuoka	фукуок	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+wagner	вагнер	wagner	вагнер	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+marvel	чудо	marvel	чудо		N;INAN;NOM;NEUT;SG
+marvel	marvel	marvel	marvel		PROPN
+denklem	уравнения	denkle	уравнение	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+fiziği	физики	fizik	физика	N;NOM;SG;3	N;ANIM;NOM;MASC;PL
+egemenlik	господства	egemenlik	господство	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+dikdörtgen	прямоугольные	dik	прямоугольный		ADJ;NOM;PL
+split	сплит	split	сплить	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+split	раскол	split	раскол	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+split	разделить	split	разделить	PROPN;NOM;SG;3	V;PFV;NFIN;ACT
+tugay	бригады	tugay	бригада		N;INAN;NOM;FEM;PL
+tugay	бригада	tugay	бригада		N;INAN;NOM;FEM;SG
+markası	бренда	marka	бренд	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+kinetik	кинетической	kinetik	кинетический		ADJ;INS;FEM;SG
+öldürdü	убиты	öl	убить	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;PL;PST;V.PTCP;PASS
+öldürdü	убита	öl	убить	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;FEM;SG;PST;V.PTCP;PASS
+öldürdü	убил	öl	убить	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+öldürdü	убит	öl	убить	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;MASC;SG;PST;V.PTCP;PASS
+öldürdü	убивает	öl	убивать	V;PFV;IND;SG;3;POS;PST;CAUS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+fransızlar	французский	fransız	французский	N;NOM;PL;3	ADJ;NOM;MASC;SG
+fransızlar	французское	fransız	французский	N;NOM;PL;3	ADJ;NOM;NEUT;SG
+fransızlar	французская	fransız	французский	N;NOM;PL;3	ADJ;NOM;FEM;SG
+esen	дует	es	дуть		V;IPFV;IND;SG;3;PRS;FIN;ACT
+rosa	розу	rosa	роза	PROPN;NOM;SG;3	N;ANIM;ACC;FEM;SG
+rosa	роза	rosa	роза	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+bakteri	бактериальных	bakteri	бактериальный		ADJ;GEN;PL
+bakteri	бактерии	bakteri	бактерия		N;INAN;NOM;FEM;PL
+özlem	тоска	özlem	тоска		N;INAN;NOM;FEM;SG
+özlem	тоска	özlem	тоска		N;INAN;NOM;FEM;SG
+özlem	тяга	özlem	тяга		N;INAN;NOM;FEM;SG
+tekil	уникальная	tekil	уникальный		ADJ;NOM;FEM;SG
+tekil	уникальные	tekil	уникальный		ADJ;NOM;PL
+tekil	уникальный	tekil	уникальный		ADJ;NOM;MASC;SG
+tekil	уникальное	tekil	уникальный		ADJ;NOM;NEUT;SG
+leningrad	ленинград	leningrad	ленинград		N;INAN;NOM;MASC;SG
+castle	замок	cast	замок		N;INAN;NOM;MASC;SG
+castle	касл	cast	касл		PART
+rain	дожди	rain	дождь		N;INAN;NOM;MASC;PL
+rain	дождь	rain	дождь		N;INAN;NOM;MASC;SG
+eugene	евгений	eugen	евгений	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+eugene	юджин	eugen	юджин	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+çakmak	зажигалки	çak	зажигалка		N;INAN;NOM;FEM;PL
+çakmak	зажигалка	çak	зажигалка		N;INAN;NOM;FEM;SG
+çakmak	легче	çak	легкий		ADJ;CMPR
+duyar	слышит	duy	слышать		V;IPFV;IND;SG;3;PRS;FIN;ACT
+spin	вращение	spin	вращение		N;INAN;NOM;NEUT;SG
+spin	spin	spin	spin		PROPN
+kaldırma	удаление	kaldırma	удаление		N;INAN;NOM;NEUT;SG
+kaldırma	поднять	kaldırma	поднять		V;PFV;NFIN;ACT
+kaldırma	лифт	kaldırma	лифт		N;INAN;NOM;MASC;SG
+kaldırma	снятие	kaldırma	снятие		N;INAN;NOM;NEUT;SG
+kaldırma	отмены	kaldırma	отмена		N;INAN;NOM;FEM;SG
+kaldırma	удаление	kaldırma	удаление		N;INAN;NOM;NEUT;SG
+emmanuel	эммануэль	emmanuel	эммануэль		N;ANIM;NOM;MASC;SG
+gregory	григорий	gregory	григорий		N;ANIM;NOM;MASC;SG
+gregory	грегори	gregory	грегорь		N;ANIM;NOM;MASC;SG
+aşı	вакцины	aş	вакцина		N;INAN;NOM;FEM;PL
+aşı	вакцин	aş	вакцина		N;INAN;GEN;FEM;PL
+aşı	прививки	aş	прививка		N;INAN;NOM;FEM;PL
+aşı	вакцинации	aş	вакцинация		N;INAN;NOM;FEM;PL
+aşı	вакцины	aş	вакцина		N;INAN;NOM;FEM;PL
+aşı	вакцина	aş	вакцина		N;INAN;NOM;FEM;SG
+aşı	вакцину	aş	вакцина		N;INAN;ACC;FEM;SG
+feneri	маяк	fener	маяк		N;INAN;NOM;MASC;SG
+atanan	назначенный	ata	назначить		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+atanan	назначенные	ata	назначить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+atanan	назначен	ata	назначить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+atanan	назначенные	ata	назначить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+atanan	назначен	ata	назначить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+ahlak	этики	ahlak	этика	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+ahlak	моральная	ahlak	моральный	N;NOM;SG;3	ADJ;NOM;FEM;SG
+ahlak	моральный	ahlak	моральный	N;NOM;SG;3	ADJ;NOM;MASC;SG
+ahlak	морали	ahlak	мораль	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+ahlak	морали	ahlak	мораль	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+dimitri	дмитрий	dimitri	дмитрий		N;ANIM;NOM;MASC;SG
+dimitri	дмитрий	dimitri	дмитрий		N;ANIM;NOM;MASC;SG
+dimitri	дмитрий	dimitri	дмитрий		N;ANIM;NOM;MASC;SG
+duyuruldu	объявили	duyur	объявить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+duyuruldu	объявил	duyur	объявить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+duyuruldu	объявленные	duyur	объявить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+duyuruldu	объявила	duyur	объявить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;FEM;IND;SG;PST;FIN;ACT
+malmö	мальмё	malmö	малем	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+sözde	предположительно	söz	предположительно		ADV
+sözde	предполагаемая	söz	предполагать		V;IPFV;NOM;FEM;SG;PRS;V.PTCP;PASS
+sözde	предполагаемых	söz	предполагать		V;IPFV;GEN;PL;PRS;V.PTCP;PASS
+sözde	предполагаемый	söz	предполагать		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;PASS
+sözde	предполагаемые	söz	предполагать		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+sözde	якобы	söz	якобы		ADV
+sözde	предположительно	söz	предположительно		ADV
+şiddetle	решительно	şiddet	решительно	N;INS;SG;3	ADV
+şiddetle	насильственно	şiddet	насильственно	N;INS;SG;3	ADV
+şiddetle	насилие	şiddet	насилие	N;INS;SG;3	N;INAN;NOM;NEUT;SG
+şiddetle	яростно	şiddet	яростно	N;INS;SG;3	ADV
+ajan	агентов	aj	агент		N;ANIM;GEN;MASC;PL
+ajan	агенты	aj	агент		N;ANIM;NOM;MASC;PL
+ajan	агент	aj	агент		N;ANIM;NOM;MASC;SG
+harrison	харрисон	harrison	харрисон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+harrison	гаррисон	harrison	гаррисон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+yasin	ясин	yasin	ясин		N;ANIM;NOM;MASC;SG
+kaçak	бегун	kaçak	бегун		N;ANIM;NOM;MASC;SG
+kaçak	беглеца	kaçak	беглец		N;ANIM;ACC;MASC;SG
+kaçak	беглец	kaçak	беглец		N;ANIM;NOM;MASC;SG
+çevirmen	переводчик	çevir	переводчик		N;ANIM;NOM;MASC;SG
+çevirmen	переводчик	çevir	переводчик		N;ANIM;NOM;MASC;SG
+çevirmen	перевод	çevir	перевод		N;INAN;NOM;MASC;SG
+korunma	защита	korun	защита		N;INAN;NOM;FEM;SG
+korunma	охрана	korun	охрана		N;INAN;NOM;FEM;SG
+işçiler	работников	işçi	работник	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+işçiler	трудящихся	işçi	трудящийся	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+işçiler	работников	işçi	работник	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+devil	дьявол	devil	дьявол		N;ANIM;NOM;MASC;SG
+connecticut	коннектикут	connecticut	коннектикут		N;INAN;NOM;FEM;SG
+uyku	сон	uyku	сон		N;INAN;NOM;MASC;SG
+uyku	спать	uyku	спать		V;IPFV;NFIN;ACT
+uyku	спи	uyku	спать		V;IPFV;IMP;SG;2;FIN;ACT
+uyku	спит	uyku	спать		V;IPFV;IND;SG;3;PRS;FIN;ACT
+uyku	спать	uyku	спать		V;IPFV;NFIN;ACT
+uyku	спят	uyku	спать		V;IPFV;IND;PL;3;PRS;FIN;ACT
+meksikalı	мексиканская	meksikalı	мексиканский		ADJ;NOM;FEM;SG
+meksikalı	мексиканский	meksikalı	мексиканский		ADJ;NOM;MASC;SG
+meksikalı	мексики	meksikalı	мексика		N;INAN;NOM;FEM;PL
+tanıma	признание	tanım	признание		N;INAN;NOM;NEUT;SG
+colin	колина	colin	колина		N;ANIM;ACC;MASC;SG
+colin	колин	colin	колина		N;ANIM;NOM;MASC;SG
+colin	колен	colin	колено		N;INAN;GEN;NEUT;PL
+kubbe	купол	kubbe	купол		N;INAN;NOM;MASC;SG
+kubbe	купола	kubbe	купол		N;INAN;NOM;MASC;PL
+rakam	цифр	rakam	цифра		N;INAN;GEN;FEM;PL
+rakam	цифры	rakam	цифра		N;INAN;NOM;FEM;PL
+rakam	цифра	rakam	цифра		N;INAN;NOM;FEM;SG
+rakam	число	rakam	число		N;INAN;NOM;NEUT;SG
+rakam	номер	rakam	номер		N;INAN;NOM;MASC;SG
+rakam	количество	rakam	количество		N;INAN;NOM;NEUT;SG
+jules	джулс	jules	джулс		N;ANIM;NOM;MASC;SG
+jules	жюль	jules	жюль		N;ANIM;NOM;MASC;SG
+görüşmeler	интервью	görüşme	интервью	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+imal	изготовленные	imal	изготовить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+imal	изготовлены	imal	изготовить		V;PFV;PL;PST;V.PTCP;PASS
+patrik	патриарх	patrik	патриарх		N;ANIM;NOM;MASC;SG
+marsilya	марселе	marsilya	марсель	N;NOM;SG;3	N;INAN;ESS;MASC;SG
+asil	благородные	asil	благородный		ADJ;NOM;PL
+asil	благородно	asil	благородный		ADV
+asil	благородный	asil	благородный		ADJ;NOM;MASC;SG
+asil	благородная	asil	благородный		ADJ;NOM;FEM;SG
+asil	благородных	asil	благородный		ADJ;GEN;PL
+sürpriz	удивление	sürpriz	удивление		N;INAN;NOM;NEUT;SG
+sürpriz	сюрприз	sürpriz	сюрприз		N;INAN;NOM;MASC;SG
+biter	концы	bit	конец	V;IPFV;IND;SG;3;POS	N;INAN;NOM;MASC;PL
+biter	заканчивается	bit	заканчиваться	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;MID
+esnek	гибкость	esnek	гибкость		N;INAN;NOM;FEM;SG
+esnek	гибко	esnek	гибко		ADV
+esnek	гибкий	esnek	гибкий		ADJ;NOM;MASC;SG
+esnek	гибкой	esnek	гибкий		ADJ;INS;FEM;SG
+esnek	гибкие	esnek	гибкий		ADJ;NOM;PL
+esnek	гибкость	esnek	гибкость		N;INAN;NOM;FEM;SG
+esnek	эластичный	esnek	эластичный		ADJ;NOM;MASC;SG
+esnek	flex	esnek	flex		PROPN
+cameron	камерон	cameron	камерон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+cameron	кэмерон	cameron	кэмерон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+lopez	лопес	lopez	лопес		N;ANIM;NOM;MASC;SG
+rıfat	рифат	rıfat	рифат	PROPN;NOM;SG;3	
+şikâyet	жалоба	şikâyet	жалоба		ADV
+kalıntılar	остаток	kalıntı	остаток	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+günah	грех	günah	грех		N;INAN;NOM;MASC;SG
+günah	син	günah	синунин		INTJ
+günah	грехи	günah	грех		N;INAN;NOM;MASC;PL
+mide	живот	mide	живот		N;INAN;NOM;MASC;SG
+mide	желудок	mide	желудок		N;INAN;NOM;MASC;SG
+parma	парма	parma	парма	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+mehdi	мехди	mehdi	мехди		N;ANIM;NOM;MASC;SG
+denizci	моряки	denizci	моряк		N;ANIM;NOM;MASC;PL
+denizci	моряков	denizci	моряк		N;ANIM;GEN;MASC;PL
+denizci	моряк	denizci	моряк		N;ANIM;NOM;MASC;SG
+denizci	морские	denizci	морской		ADJ;NOM;PL
+denizci	морской	denizci	морской		ADJ;NOM;MASC;SG
+denizci	морская	denizci	морской		ADJ;NOM;FEM;SG
+denizci	матрос	denizci	матрос		N;ANIM;NOM;MASC;SG
+joel	джоэл	joel	джоэл		N;ANIM;NOM;MASC;SG
+yazıyor	пишет	yaz	писать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+elena	елена	elen	елена		N;ANIM;NOM;FEM;SG
+elena	елена	elen	елена		N;ANIM;NOM;FEM;SG
+volga	волга	volga	волга		N;INAN;NOM;FEM;SG
+kanatlı	крылатые	kanatlı	крылатый		ADJ;NOM;PL
+vestfalya	вестфалия	vestfalya	вестфалие	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+crystal	кристал	crystal	кристал	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+crystal	кристаллы	crystal	кристалл	PROPN;NOM;SG;3	N;INAN;NOM;MASC;PL
+crystal	кристалл	crystal	кристалл	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+julian	джулиан	julian	джулиан		N;ANIM;NOM;MASC;SG
+beklenmedik	неожиданное	bekle	неожиданный	V;PFV;POT;PL;1;NEG;PST	ADJ;NOM;NEUT;SG
+beklenmedik	неожиданный	bekle	неожиданный	V;PFV;POT;PL;1;NEG;PST	ADJ;NOM;MASC;SG
+beklenmedik	неожиданно	bekle	неожиданно	V;PFV;POT;PL;1;NEG;PST	ADV
+beklenmedik	неожиданные	bekle	неожиданный	V;PFV;POT;PL;1;NEG;PST	ADJ;NOM;PL
+pasaportu	паспорт	pasaport	паспорт	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+duyarlı	чувствительных	duyarlı	чувствительный		ADJ;GEN;PL
+duyarlı	чувствительные	duyarlı	чувствительный		ADJ;NOM;PL
+duyarlı	чувствительный	duyarlı	чувствительный		ADJ;NOM;MASC;SG
+şampiyonları	чемпионов	şampiyon	чемпион	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+fritz	фриц	fritz	фриц	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+etken	коэффициент	etken	коэффициент		N;INAN;NOM;MASC;SG
+etken	фактор	etken	фактор		N;INAN;NOM;MASC;SG
+etken	фактором	etken	фактор		N;INAN;INS;MASC;SG
+zincir	цепи	zincir	цепь	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+zincir	цепочки	zincir	цепочка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+zincir	цепочку	zincir	цепочка	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+mekaniği	механики	mekanik	механика	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+depo	склад	depo	склад		N;INAN;NOM;MASC;SG
+depo	хранилище	depo	хранилище		N;INAN;NOM;NEUT;SG
+depo	хранение	depo	хранение		N;INAN;NOM;NEUT;SG
+depo	хранения	depo	хранение		N;INAN;NOM;NEUT;SG
+depo	хранилище	depo	хранилище		N;INAN;NOM;NEUT;SG
+depo	склад	depo	склад		N;INAN;NOM;MASC;SG
+depo	хранилища	depo	хранилище		N;INAN;NOM;NEUT;PL
+depo	хранилище	depo	хранилище		N;INAN;NOM;NEUT;SG
+nişan	эйприл	nişan	эйприль		N;ANIM;NOM;FEM;SG
+nişan	апрель	nişan	апрель		N;INAN;NOM;MASC;SG
+nişan	апреля	nişan	апрель		N;INAN;GEN;MASC;SG
+nişan	вовлечение	nişan	вовлечение		N;INAN;NOM;NEUT;SG
+burton	бёртон	burton	бёртон		N;ANIM;NOM;MASC;SG
+burton	бартон	burton	бартон		N;ANIM;NOM;MASC;SG
+stanford	стэнфорд	stanford	стэнфорд	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+başlıkları	заголовки	başlık	заголовок	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+hac	паломничество	hac	паломничество		N;INAN;NOM;NEUT;SG
+hac	хадж	hac	хадж		N;INAN;NOM;MASC;SG
+hac	хаджа	hac	хадж		N;INAN;GEN;MASC;SG
+planlı	запланированное	planlı	планировать		V;PFV;NOM;NEUT;SG;PST;V.PTCP;PASS
+planlı	запланированные	planlı	планировать		V;PFV;NOM;PL;PST;V.PTCP;PASS
+planlı	запланированный	planlı	планировать		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+planlı	запланированная	planlı	планировать		V;PFV;NOM;FEM;SG;PST;V.PTCP;PASS
+planlı	запланировано	planlı	планировать		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+planlı	запланированных	planlı	планировать		V;PFV;GEN;PL;PST;V.PTCP;PASS
+planlı	планируемые	planlı	планировать		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+planlı	планируется	planlı	планировать		V;IPFV;IND;SG;3;PRS;FIN;PASS
+planlı	запланированные	planlı	планировать		V;PFV;NOM;PL;PST;V.PTCP;PASS
+planlı	запланированная	planlı	планировать		V;PFV;NOM;FEM;SG;PST;V.PTCP;PASS
+planlı	запланировано	planlı	планировать		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+planlı	запланированных	planlı	планировать		V;PFV;GEN;PL;PST;V.PTCP;PASS
+çerçeve	рамки	çerçev	рамка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+çerçeve	рамки	çerçev	рамка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+çerçeve	рамку	çerçev	рамка	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+çerçeve	рамки	çerçev	рамка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+artı	плюс	artı	плюс		N;INAN;NOM;MASC;SG
+artı	plus	artı	plus		PROPN
+protokol	протокол	protokol	протокол		N;INAN;NOM;MASC;SG
+protokol	протокола	protokol	протокол		N;INAN;GEN;MASC;SG
+protokol	протоколу	protokol	протокол		N;INAN;DAT;MASC;SG
+edinburgh	эдинбург	edinburgh	эдинбург	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+cadde	street	cadde	street	N;NOM;SG;3	PROPN
+tanımlama	определение	tanımla	определение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+tanımlama	определяющие	tanımla	определять	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+tanımlama	определяя	tanımla	определять	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;PRS;V.CVB;ACT
+tanımlama	определение	tanımla	определение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+tanımlama	идентификация	tanımla	идентификация	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+tanımlama	идентификации	tanımla	идентификация	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+tanımlama	выявление	tanımla	выявление	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+tanımlama	описание	tanımla	описание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+tanımlama	характеристика	tanımla	характеристика	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+rovers	rover	rovers	rover		PROPN
+disiplin	дисциплины	dis	дисциплина	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+disiplin	дисциплину	dis	дисциплина	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+disiplin	дисциплинарных	dis	дисциплинарный	N;NOM;SG;3	ADJ;GEN;PL
+tutulması	затмений	tut	затмение	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;GEN;NEUT;PL
+tutulması	затмение	tut	затмение	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;NOM;NEUT;SG
+jedi	джедаев	jedi	джедай		N;ANIM;GEN;MASC;PL
+torres	торрес	torres	торрес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+kompleks	комплекс	kompleks	комплекс		N;INAN;NOM;MASC;SG
+kompleks	сложная	kompleks	сложный		ADJ;NOM;FEM;SG
+kompleks	сложные	kompleks	сложный		ADJ;NOM;PL
+kompleks	сложных	kompleks	сложный		ADJ;GEN;PL
+kompleks	сложный	kompleks	сложный		ADJ;NOM;MASC;SG
+lazio	лацио	lazio	лацио	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+nevada	невада	neva	невада	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+eskimo	эскимосы	eskimo	эскимос		N;ANIM;NOM;MASC;PL
+eskimo	инуитов	eskimo	инуит		N;INAN;GEN;MASC;PL
+ekvador	эквадор	ekvador	эквадор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+ekvador	эквадоре	ekvador	эквадор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+çeşitlilik	разнообразия	çeşitlilik	разнообразие	N;NOM;SG;3	N;INAN;GEN;NEUT;SG
+çeşitlilik	разновидности	çeşitlilik	разновидность	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+sankt	sankt	sankt	sankt	PROPN;NOM;SG;3	PROPN
+sankt	санкт	sankt	санкт	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+barselona	барселона	barselon	барселон	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+çekilmesi	вывод	çek	вывод	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;NOM;MASC;SG
+çekilmesi	снятие	çek	снятие	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;NOM;NEUT;SG
+honda	honda	hon	honda	N;NOM;SG;3	PROPN
+fosil	окаменелости	fosil	окаменелость		N;INAN;NOM;FEM;PL
+fosil	ископаемых	fosil	ископаемое		N;INAN;GEN;NEUT;PL
+fosil	ископаемые	fosil	ископаемое		N;INAN;NOM;NEUT;PL
+fosil	ископаемого	fosil	ископаемый		ADJ;GEN;MASC;SG
+tevrat	торе	tevrat	тор		N;INAN;NOM;MASC;SG
+tevrat	тору	tevrat	тор		N;INAN;DAT;MASC;SG
+tevrat	тора	tevrat	тор		N;ANIM;ACC;MASC;SG
+tevrat	торы	tevrat	тор		N;INAN;NOM;FEM;PL
+silindir	баллон	sil	баллон	V;PFV;IND;SG;3;POS;PST;PASS	N;INAN;NOM;MASC;SG
+silindir	цилиндр	sil	цилиндр	V;PFV;IND;SG;3;POS;PST;PASS	N;INAN;NOM;MASC;SG
+silindir	баллоны	sil	баллон	V;PFV;IND;SG;3;POS;PST;PASS	N;INAN;NOM;MASC;PL
+market	продуктовый	market	продуктовый		ADJ;NOM;MASC;SG
+market	рынок	market	рынок		N;INAN;NOM;MASC;SG
+market	рынка	market	рынок		N;INAN;GEN;MASC;SG
+chi	чи	chi	чи		INTJ
+nitelikli	квалифицированный	nitelikli	квалифицированный		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+nitelikli	квалифицированные	nitelikli	квалифицированный		V;PFV;NOM;PL;PST;V.PTCP;PASS
+nitelikli	квалифицированных	nitelikli	квалифицировать		V;PFV;GEN;PL;PST;V.PTCP;PASS
+şii	шиитского	şii	шиитский		ADJ;GEN;MASC;SG
+azalır	уменьшается	azal	уменьшаться	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;MID
+azalır	уменьшает	azal	уменьшать	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+nbc	nbc	nbc	nbc		PROPN
+milyonlarca	миллионов	milyonlarca	миллион	NUM	N;INAN;GEN;MASC;PL
+milyonlarca	миллионы	milyonlarca	миллион	NUM	N;INAN;NOM;MASC;PL
+yaratmak	создание	yarat	создание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+dâhil	включенные	dâhil	включить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+dâhil	включено	dâhil	включить		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+savcı	прокурор	savcı	прокурор		N;ANIM;NOM;MASC;SG
+savcı	обвинитель	savcı	обвинитель		N;ANIM;NOM;MASC;SG
+winter	зимняя	winte	зимний	PROPN;NOM;SG;3	ADJ;NOM;FEM;SG
+winter	зимний	winte	зимний	PROPN;NOM;SG;3	ADJ;NOM;MASC;SG
+winter	зима	winte	зима	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+winter	винтер	winte	винтер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+winter	зимние	winte	зимний	PROPN;NOM;SG;3	ADJ;NOM;PL
+israilli	израильский	israilli	израильский		ADJ;NOM;MASC;SG
+israilli	израильские	israilli	израильский		ADJ;NOM;PL
+israilli	израильских	israilli	израильский		ADJ;GEN;PL
+israilli	израильская	israilli	израильский		ADJ;NOM;FEM;SG
+iade	возврат	iade	возврат		N;INAN;NOM;MASC;SG
+iade	возмещение	iade	возмещение		N;INAN;NOM;NEUT;SG
+iade	возвращения	iade	возвращение		N;INAN;GEN;NEUT;SG
+iade	возвращает	iade	возвращать		V;IPFV;IND;SG;3;PRS;FIN;ACT
+iade	возвращается	iade	возвращаться		V;IPFV;IND;SG;3;PRS;FIN;MID
+iade	возвращение	iade	возвращение		N;INAN;NOM;NEUT;SG
+iade	возвращения	iade	возвращение		N;INAN;GEN;NEUT;SG
+iade	возврат	iade	возврат		N;INAN;NOM;MASC;SG
+iade	вернуть	iade	вернуть		V;PFV;NFIN;ACT
+iade	вернуться	iade	вернуться		V;PFV;NFIN;MID
+iade	возвращение	iade	возвращение		N;INAN;NOM;NEUT;SG
+iade	выдача	iade	выдача		N;INAN;NOM;FEM;SG
+iade	выдаче	iade	выдача		N;INAN;DAT;FEM;SG
+sola	левой	sola	левый		ADJ;INS;FEM;SG
+sola	слева	sola	слева		ADV
+sola	налево	sola	налево		ADV
+sola	осталось	sola	остаться		V;PFV;NEUT;IND;SG;PST;FIN;MID
+sola	оставил	sola	оставить		V;PFV;MASC;IND;SG;PST;FIN;ACT
+maggie	мегги	maggie	мегги		N;ANIM;NOM;FEM;SG
+maggie	мэгги	maggie	мэгга		N;ANIM;NOM;FEM;SG
+bıçak	лезвие	bıçak	лезвие		N;INAN;NOM;NEUT;SG
+bıçak	клинок	bıçak	клинок		N;INAN;NOM;MASC;SG
+bıçak	ножи	bıçak	нож		N;INAN;NOM;MASC;PL
+bıçak	нож	bıçak	нож		N;INAN;NOM;MASC;SG
+anlatıyor	рассказывает	anlat	рассказывать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+nikola	никола	nikol	никол		N;ANIM;NOM;MASC;SG
+nikola	николя	nikol	николь		PART
+nikola	никола	nikol	никол		N;ANIM;NOM;MASC;SG
+kararları	резолюции	karar	резолюция	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+kararları	решения	karar	решение	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+kaldırmak	удаление	kal	удаление	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;SG
+kaldırmak	снятие	kal	снятие	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;SG
+kaldırmak	отмены	kal	отмена	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;FEM;SG
+desteklenen	поддерживаемые	destekle	поддерживать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+desteklenen	поддерживаемые	destekle	поддерживать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+desteklenen	поддерживается	destekle	поддерживать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+desteklenen	поддержал	destekle	поддержать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+desteklenen	поддерживаются	destekle	поддерживать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;IND;PL;3;PRS;FIN;PASS
+nietzsche	ницше	nietzsche	ницший		N;INAN;NOM;MASC;SG
+ntv	нтв	itv	нтв		N;INAN;NOM;NEUT;SG
+komut	команды	komut	команда		N;INAN;NOM;FEM;PL
+komut	команд	komut	команда		N;INAN;GEN;FEM;PL
+komut	команда	komut	команда		N;INAN;NOM;FEM;SG
+komut	командования	komut	командование		N;INAN;NOM;NEUT;PL
+komut	командование	komut	командование		N;INAN;NOM;NEUT;SG
+yöneticiler	управляющие	yönetici	управлять	N;NOM;PL;3	V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+yöneticiler	директоров	yönetici	директор	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+yöneticiler	администраторов	yönetici	администратор	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+yöneticiler	администраторов	yönetici	администратор	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+kayalık	рокки	kayalık	рокка		N;ANIM;NOM;MASC;SG
+görüşme	собеседование	görüşme	собеседование		N;INAN;NOM;NEUT;SG
+görüşme	интервью	görüşme	интервью		N;INAN;NOM;NEUT;SG
+görüşme	беседа	görüşme	беседа		N;INAN;NOM;FEM;SG
+statik	статических	statik	статический		ADJ;GEN;PL
+statik	помехи	statik	помехи		N;INAN;NOM;FEM;PL
+lima	лима	lima	лима	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+lima	лиме	lima	лимо	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+baltimore	балтимор	baltimore	балтимор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+baltimore	балтиморе	baltimore	балтимор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+pazarı	рынок	pazar	рынок	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+pazarı	рынка	pazar	рынок	N;ACC;SG;3	N;INAN;GEN;MASC;SG
+aydınlık	light	aydınlık	light	N;NOM;SG;3	PROPN
+aydınlık	света	aydınlık	свет	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+aydınlık	светло	aydınlık	светлый	N;NOM;SG;3	ADJ;NEUT;SG
+aydınlık	яркие	aydınlık	яркий	N;NOM;SG;3	ADJ;NOM;PL
+aydınlık	яркий	aydınlık	яркий	N;NOM;SG;3	ADJ;NOM;MASC;SG
+aydınlık	ярко	aydınlık	ярко	N;NOM;SG;3	ADV
+aydınlık	светлый	aydınlık	светлый	N;NOM;SG;3	ADJ;NOM;MASC;SG
+aydınlık	яркая	aydınlık	яркий	N;NOM;SG;3	ADJ;NOM;FEM;SG
+bizanslılar	византийцев	bizanslı	византиец	N;NOM;PL;3	N;ANIM;ACC;MASC;PL
+felix	феликс	felix	феликс		N;ANIM;NOM;MASC;SG
+neolitik	неолита	neolitik	неолит		N;INAN;GEN;MASC;PL
+maryland	мэриленд	marylan	мэриленд	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+glory	славу	glory	слава		N;INAN;ACC;FEM;SG
+glory	слава	glory	слава		N;INAN;NOM;FEM;SG
+sorar	спрашивает	sor	спрашивать		V;IPFV;IND;SG;3;PRS;FIN;ACT
+brad	бред	brad	бред		N;INAN;NOM;MASC;SG
+brad	брэд	brad	брэд		N;ANIM;NOM;MASC;SG
+randy	рэнди	randy	рэнди		N;ANIM;NOM;MASC;SG
+kilit	заблокировать	kilit	блокировать		V;PFV;NFIN;ACT
+kilit	замок	kilit	замок		N;INAN;NOM;MASC;SG
+kilit	блокировка	kilit	блокировка		N;INAN;NOM;FEM;SG
+kilit	блокировка	kilit	блокировка		N;INAN;NOM;FEM;SG
+kilit	блокировки	kilit	блокировка		N;INAN;NOM;FEM;PL
+kilit	замки	kilit	замок		N;INAN;NOM;MASC;PL
+kıdemli	стажа	kıdemli	стаж		N;INAN;GEN;MASC;SG
+kıdemli	стаж	kıdemli	стаж		N;INAN;NOM;MASC;SG
+kıdemli	старших	kıdemli	старший		ADJ;GEN;PL
+kıdemli	старший	kıdemli	старший		ADJ;NOM;MASC;SG
+kıdemli	старшие	kıdemli	старший		ADJ;NOM;PL
+sektörü	сектор	sektör	сектор		N;INAN;NOM;MASC;SG
+igor	егор	igor	егор		N;ANIM;NOM;MASC;SG
+igor	игорь	igor	игорь		N;ANIM;NOM;MASC;SG
+miles	майлс	miles	майлс		N;ANIM;NOM;MASC;SG
+miles	мили	miles	мили		N;INAN;NOM;MASC;PL
+miles	миль	miles	миля		N;INAN;GEN;FEM;PL
+miles	майлз	miles	майлз		N;ANIM;NOM;MASC;SG
+tecrübeli	опытные	tecrübeli	опытный		ADJ;NOM;PL
+tecrübeli	опытных	tecrübeli	опытный		ADJ;GEN;PL
+tecrübeli	опытный	tecrübeli	опытный		ADJ;NOM;MASC;SG
+borç	долги	borç	долг		N;INAN;NOM;MASC;PL
+borç	заем	borç	заем		N;INAN;NOM;MASC;SG
+borç	кредит	borç	кредит		N;INAN;NOM;MASC;SG
+borç	кредита	borç	кредит		N;INAN;GEN;MASC;SG
+borç	долг	borç	долг		N;INAN;NOM;MASC;SG
+borç	долги	borç	долг		N;INAN;NOM;MASC;PL
+borç	задолженности	borç	задолженность		N;INAN;NOM;FEM;PL
+borç	задолженность	borç	задолженность		N;INAN;NOM;FEM;SG
+aralıklarla	интервалы	aralık	интервал	N;INS;PL;3	N;INAN;NOM;MASC;PL
+viktor	виктор	viktor	виктор		N;ANIM;NOM;MASC;SG
+sincan	синьцзян	sincan	синьцзян	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+claire	клэр	claire	клэр		N;ANIM;NOM;FEM;SG
+claire	клер	claire	клер		N;INAN;NOM;FEM;SG
+étienne	этьен	üt	этьен		N;ANIM;NOM;MASC;SG
+spurs	шпоры	spurs	шпор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;PL
+çifti	пара	çift	пара	ADJ;NOM;SG;3	N;INAN;NOM;FEM;SG
+çifti	пара	çift	пара	ADJ;NOM;SG;3	N;INAN;NOM;FEM;SG
+çifti	парочку	çift	парочка	ADJ;NOM;SG;3	N;INAN;ACC;FEM;SG
+çifti	пару	çift	пара	ADJ;NOM;SG;3	N;INAN;ACC;FEM;SG
+çifti	парочка	çift	парочка	ADJ;NOM;SG;3	N;INAN;NOM;FEM;SG
+tanık	свидетели	tanık	свидетель		N;ANIM;NOM;MASC;PL
+tanık	свидетелям	tanık	свидетель		N;ANIM;DAT;MASC;PL
+tanık	свидетелей	tanık	свидетель		N;ANIM;GEN;MASC;PL
+tanık	свидетель	tanık	свидетель		N;ANIM;NOM;MASC;SG
+hafız	хафиз	hafız	хафиз		N;ANIM;NOM;MASC;SG
+belarus	беларусь	belarus	беларусь	PROPN;NOM;SG;3	V;IPFV;IND;SG;1;PRS;FIN;MID
+periyodik	периодического	periyodik	периодический		ADJ;GEN;MASC;SG
+çömlek	керамика	çömlek	керамика		N;INAN;NOM;FEM;SG
+asistanı	ассистент	asistan	ассистент	N;ACC;SG;3	N;ANIM;NOM;MASC;SG
+asistanı	помощник	asistan	помощник	N;ACC;SG;3	N;ANIM;NOM;MASC;SG
+aileleri	семей	aile	семья	N;ACC;PL;3	N;INAN;GEN;FEM;PL
+aileleri	семьи	aile	семья	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+falcon	сокол	falcon	сокол		N;INAN;NOM;MASC;SG
+jamie	джейми	jamie	джея		N;ANIM;NOM;MASC;SG
+boğa	телец	boğa	телец		N;INAN;NOM;MASC;SG
+boğa	бык	boğa	бык		N;ANIM;NOM;MASC;SG
+oranları	тариф	oran	тариф	N;ACC;PL;3	N;INAN;NOM;MASC;SG
+oranları	ставки	oran	ставка	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+oranları	соотношения	oran	соотношение	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+oranları	коэффициенты	oran	коэффициент	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+sporcular	спортсменов	sporcu	спортсмен	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+norveçli	норвежский	norveçli	норвежский		ADJ;NOM;MASC;SG
+norveçli	норвегии	norveçli	норвегия		N;INAN;NOM;FEM;PL
+mutfak	кухня	mutfak	кухня		N;INAN;NOM;FEM;SG
+mutfak	кухне	mutfak	кухня		N;INAN;DAT;FEM;SG
+mutfak	кухня	mutfak	кухня		N;INAN;NOM;FEM;SG
+mutfak	кухни	mutfak	кухня		N;INAN;NOM;FEM;PL
+eleştirmen	критик	eleştir	критик		N;INAN;NOM;MASC;SG
+eleştirmen	критика	eleştir	критика		N;INAN;NOM;FEM;SG
+gilbert	гилберт	gilbert	гилберт		N;ANIM;NOM;MASC;SG
+spartak	спартак	spartak	спартак		N;ANIM;NOM;MASC;SG
+carolina	каролина	carol	каролин	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+cihazlar	устройств	cihaz	устройство	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+janet	джанет	janet	джанет		N;ANIM;NOM;FEM;SG
+janet	дженет	janet	дженет		N;ANIM;NOM;FEM;SG
+okumak	читайте	oku	читать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IMP;PL;2;FIN;ACT
+okumak	читай	oku	читай	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IMP;SG;2;FIN;ACT
+okumak	читать	oku	читать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;NFIN;ACT
+okumak	читаем	oku	читать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;PL;1;PRS;FIN;ACT
+okumak	чтения	oku	чтение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+okumak	читаю	oku	читать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+okumak	чтение	oku	чтение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+ural	урал	ural	урал		N;INAN;NOM;MASC;SG
+sembol	символ	sembol	символ		N;INAN;NOM;MASC;SG
+sembol	шеврон	sembol	шеврон		N;INAN;NOM;MASC;SG
+christina	кристина	christin	кристина	PROPN;DAT;SG;3	N;ANIM;NOM;FEM;SG
+bildirir	уведомляет	bil	уведомлять	V;IPFV;IND;SG;3;POS;CAUS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+uzmanlık	специальности	uzmanlık	специальность	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+uzmanlık	специализации	uzmanlık	специализация	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+mesih	мессия	mesih	мессия		N;INAN;NOM;MASC;SG
+keşfi	открытие	keşif	открытие		N;INAN;NOM;NEUT;SG
+keşfi	обнаружение	keşif	обнаружение		N;INAN;NOM;NEUT;SG
+chaplin	чаплин	chaplin	чаплина		N;ANIM;NOM;MASC;SG
+tay	кольт	tay	кольто		INTJ
+johan	йохан	johan	йохан		N;ANIM;NOM;MASC;SG
+olivier	оливье	olivier	оливье		N;INAN;NOM;NEUT;SG
+çete	банда	çete	банда		N;INAN;NOM;FEM;SG
+foster	фостер	foster	фостер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+fotoğrafçı	фотограф	fotoğrafçı	фотограф		N;ANIM;NOM;MASC;SG
+grönland	гренландии	grönla	гренландия		N;INAN;NOM;FEM;PL
+soykırım	геноцид	soykırım	геноцид		N;INAN;NOM;MASC;SG
+soykırım	холокоста	soykırım	холокост		N;INAN;NOM;MASC;SG
+soykırım	холокост	soykırım	холокост		N;INAN;NOM;MASC;SG
+ibm	ibm	ibm	ibm		PROPN
+faith	вере	faith	вера		N;INAN;DAT;FEM;SG
+faith	веру	faith	вера		N;INAN;ACC;FEM;SG
+faith	вера	faith	вера		N;INAN;NOM;FEM;SG
+key	ключ	key	ключ		N;INAN;NOM;MASC;SG
+key	ключевых	key	ключевой		ADJ;GEN;PL
+peri	нимфа	peri	нимфа		N;ANIM;NOM;FEM;SG
+peri	феи	peri	фея		N;ANIM;NOM;FEM;PL
+peri	фея	peri	фея		N;ANIM;NOM;FEM;SG
+çizim	скетч	çiz	скетч		N;INAN;NOM;MASC;SG
+çizim	набросок	çiz	набросок		N;INAN;NOM;MASC;SG
+çizim	рисование	çiz	рисование		N;INAN;NOM;NEUT;SG
+çizim	рисунок	çiz	рисунок		N;INAN;NOM;MASC;SG
+ihracat	экспорт	ihracat	экспорт		N;INAN;NOM;MASC;SG
+ihracat	экспорт	ihracat	экспорт		N;INAN;NOM;MASC;SG
+ihracat	экспортировать	ihracat	экспортировать		V;IPFV;NFIN;ACT
+shane	шейн	shane	шейн		N;ANIM;NOM;MASC;SG
+simetrik	симметричные	simetrik	симметричный		ADJ;NOM;PL
+mah	mah	mah	mah	PROPN;NOM;SG;3	PROPN
+infaz	казнены	infaz	казнен		V;PFV;PL;PST;V.PTCP;PASS
+infaz	казнили	infaz	казнить		V;IPFV;IND;PL;PST;FIN;ACT
+infaz	казни	infaz	казнь		N;INAN;NOM;FEM;PL
+infaz	исполнение	infaz	исполнение		N;INAN;NOM;NEUT;SG
+infaz	казнь	infaz	казнь		N;INAN;NOM;FEM;SG
+infaz	казни	infaz	казнь		N;INAN;NOM;FEM;PL
+yüzük	кольца	yüzük	кольцо	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+yüzük	кольца	yüzük	кольцо	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+deneyimi	опыт	deney	опыт	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+genişleme	расширение	genişle	расширение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+genişleme	расширение	genişle	расширение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+bağlanmış	придает	bağla	придавать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+bağlanmış	прилагается	bağla	прилагать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+bağlanmış	связаны	bağla	связать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+bağlanmış	связанные	bağla	связать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+bağlanmış	связаны	bağla	связать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+aramaya	поиск	ara	поиск	V;PFV;DAT;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+yanlışlıkla	ошибочно	yanlışlık	ошибочно	N;INS;SG;3	ADV
+yanlışlıkla	нечаянно	yanlışlık	нечаянно	N;INS;SG;3	ADV
+yanlışlıkla	случайно	yanlışlık	случайно	N;INS;SG;3	ADV
+lezbiyen	дайк	lezbiyen	дайк		N;ANIM;NOM;MASC;SG
+lezbiyen	лесбиянка	lezbiyen	лесбиянка		N;ANIM;NOM;FEM;SG
+lezbiyen	лесбиянок	lezbiyen	лесбиянок		N;ANIM;GEN;FEM;PL
+lezbiyen	лесбиянки	lezbiyen	лесбиянка		N;ANIM;NOM;FEM;PL
+lezbiyen	лесбиянки	lezbiyen	лесбиянка		N;ANIM;NOM;FEM;PL
+lezbiyen	лесбиянок	lezbiyen	лесбиянок		N;ANIM;GEN;FEM;PL
+tutsak	заключенный	tutsak	заключенный		N;ANIM;NOM;MASC;SG
+tutsak	заключённый	tutsak	заключённый		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+tutsak	плену	tutsak	плен		N;INAN;DAT;MASC;SG
+tutsak	заключенных	tutsak	заключенный		N;ANIM;GEN;MASC;PL
+tutsak	заключенные	tutsak	заключенный		N;ANIM;NOM;MASC;PL
+tutsak	плен	tutsak	плен		N;INAN;NOM;MASC;SG
+tutsak	плену	tutsak	плен		N;INAN;DAT;MASC;SG
+sonsuza	навеки	sonsuz	навеки	ADJ;DAT;SG;3	ADV
+sonsuza	forever	sonsuz	forever	ADJ;DAT;SG;3	PROPN
+sonsuza	навсегда	sonsuz	навсегда	ADJ;DAT;SG;3	ADV
+sonsuza	вечно	sonsuz	вечно	ADJ;DAT;SG;3	ADV
+protokolü	протокол	protokolü	протокол	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+protokolü	протокола	protokolü	протокол	N;ACC;SG;3	N;INAN;GEN;MASC;SG
+protokolü	протоколу	protokolü	протокол	N;ACC;SG;3	N;INAN;DAT;MASC;SG
+emily	эмили	emily	эмить		N;ANIM;NOM;FEM;SG
+haiti	гаити	hait	гаить		N;INAN;NOM;FEM;SG
+iphone	iphone	iphon	iphone	N;NOM;SG;3	PROPN
+buluşma	рандеву	buluş	рандеву	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;ACC;FEM;SG
+buluşma	свидание	buluş	свидание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+buluşma	дата	buluş	дата	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+buluşma	собрание	buluş	собрание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+buluşma	заседание	buluş	заседание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+buluşma	совещание	buluş	совещание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+buluşma	встреча	buluş	встреча	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+kazanma	выигрыш	kazan	выигрыш		N;INAN;NOM;MASC;SG
+kazanma	победы	kazan	победа		N;INAN;NOM;FEM;PL
+kazanma	победа	kazan	победа		N;INAN;NOM;FEM;SG
+korkut	напугать	korkut	напугать		V;PFV;NFIN;ACT
+fikirler	мнение	fikir	мнение	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+liderlik	ведущая	liderlik	вести	N;NOM;SG;3	V;IPFV;NOM;FEM;SG;PRS;V.PTCP;ACT
+liderlik	ведущие	liderlik	ведущий	N;NOM;SG;3	ADJ;NOM;PL
+liderlik	ведущее	liderlik	вести	N;NOM;SG;3	V;IPFV;NOM;NEUT;SG;PRS;V.PTCP;ACT
+liderlik	ведущих	liderlik	вести	N;NOM;SG;3	V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+jimnastik	гимнастику	jimnastik	гимнастика		N;INAN;ACC;FEM;SG
+jimnastik	гимнастика	jimnastik	гимнастика		N;INAN;NOM;FEM;SG
+jimnastik	гимнастический	jimnastik	гимнастический		ADJ;NOM;MASC;SG
+sağlanan	поставляется	sağla	поставлять	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+sağlanan	поставлено	sağla	ставить	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;NEUT;SG;PST;V.PTCP;PASS
+garcia	гарсия	garcia	гарсия	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+garcia	гарсиа	garcia	гарсиа	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+sembolik	символически	sembolik	символически		ADV
+sembolik	символическое	sembolik	символический		ADJ;NOM;NEUT;SG
+minimum	минимальный	minim	минимальный	N;NOM;SG;3	ADJ;NOM;MASC;SG
+minimum	минимальное	minim	минимальный	N;NOM;SG;3	ADJ;NOM;NEUT;SG
+minimum	минимальная	minim	минимальный	N;NOM;SG;3	ADJ;NOM;FEM;SG
+minimum	минимум	minim	минимум	N;NOM;SG;3	N;INAN;ACC;MASC;SG
+minimum	минимальные	minim	минимальный	N;NOM;SG;3	ADJ;NOM;PL
+minimum	минимальный	minim	минимальный	N;NOM;SG;3	ADJ;NOM;MASC;SG
+minimum	минимальная	minim	минимальный	N;NOM;SG;3	ADJ;NOM;FEM;SG
+minimum	минимальным	minim	минимальный	N;NOM;SG;3	ADJ;INS;NEUT;SG
+minimum	минимальное	minim	минимальный	N;NOM;SG;3	ADJ;NOM;NEUT;SG
+minimum	минимум	minim	минимум	N;NOM;SG;3	N;INAN;ACC;MASC;SG
+cbs	cbs	cbs	cbs		PROPN
+cbs	гис	cbs	гис		N;INAN;NOM;MASC;SG
+yen	иен	yen	иена		N;INAN;NOM;FEM;SG
+yen	йен	yen	йен		INTJ
+yen	йена	yen	йена		N;INAN;NOM;FEM;SG
+joey	джои	joey	джой		INTJ
+joey	джоуи	joey	джоуи		N;ANIM;NOM;MASC;SG
+asistan	резидент	asistan	резидент		N;ANIM;NOM;MASC;SG
+asistan	резидента	asistan	резидент		N;ANIM;ACC;MASC;SG
+asistan	житель	asistan	житель		N;ANIM;NOM;MASC;SG
+asistan	резиденты	asistan	резидент		N;ANIM;NOM;MASC;PL
+asistan	ассистент	asistan	ассистент		N;ANIM;NOM;MASC;SG
+asistan	помощник	asistan	помощник		N;ANIM;NOM;MASC;SG
+karşılaşma	матч	karşılaşma	матч		N;INAN;NOM;MASC;SG
+karşılaşma	совпадение	karşılaşma	совпадение		N;INAN;NOM;NEUT;SG
+karşılaşma	встречи	karşılaşma	встреча		N;INAN;NOM;FEM;PL
+bitkisel	травяной	bitkisel	травяна		ADJ;NOM;MASC;SG
+bitkisel	овощи	bitkisel	овощ		N;INAN;NOM;MASC;PL
+bitkisel	растительное	bitkisel	растительный		ADJ;NOM;NEUT;SG
+bitkisel	вегетативного	bitkisel	вегетативный		ADJ;GEN;MASC;SG
+sedan	седан	sedan	седать	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+sedan	седанов	sedan	седан	PROPN;NOM;SG;3	N;INAN;GEN;MASC;PL
+veronica	вероника	veronica	вероник		N;ANIM;NOM;FEM;SG
+nötron	нейтронов	nötron	нейтрон	N;NOM;SG;3	N;INAN;GEN;MASC;PL
+derinliği	глубины	derinlik	глубина	N;ACC;SG;3	N;INAN;NOM;FEM;PL
+derinliği	глубина	derinlik	глубина	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+beğeni	рейтинг	beğen	рейтинг		N;INAN;NOM;MASC;SG
+beğeni	оценка	beğen	оценка		N;INAN;NOM;FEM;SG
+beğeni	лайки	beğen	лайка		N;INAN;NOM;FEM;PL
+beğeni	любит	beğen	любить		V;IPFV;IND;SG;3;PRS;FIN;ACT
+beğeni	нравится	beğen	нравиться		V;IPFV;IND;SG;3;PRS;FIN;MID
+beğeni	признательность	beğen	признательность		N;INAN;NOM;FEM;SG
+şifreleme	шифрования	şifrele	шифрование	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+şifreleme	шифрование	şifrele	шифрование	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+şifreleme	криптографии	şifrele	криптография	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+galileo	galileo	gal	galileo		PROPN
+galileo	галилео	gal	галилео		N;INAN;NOM;MASC;SG
+chuck	чака	chuck	чак		N;ANIM;ACC;MASC;SG
+chuck	чак	chuck	чак		N;ANIM;NOM;MASC;SG
+goethe	гёте	goethe	гете		N;ANIM;NOM;MASC;SG
+wales	уэльса	wales	уэльс	PROPN;NOM;SG;3	N;INAN;GEN;MASC;SG
+wales	уэльс	wales	уэльс	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+fetih	завоевания	fetih	завоевание		N;INAN;NOM;NEUT;PL
+fetih	завоевания	fetih	завоевание		N;INAN;NOM;NEUT;PL
+kulüpleri	клубы	kulüp	клуб	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+meşgul	занято	meşgul	занять		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+meşgul	занят	meşgul	занять		V;PFV;MASC;SG;PST;V.PTCP;PASS
+meşgul	занята	meşgul	занять		V;PFV;FEM;SG;PST;V.PTCP;PASS
+meşgul	заняты	meşgul	занять		V;PFV;PL;PST;V.PTCP;PASS
+beyan	ведомость	beyan	ведомость		N;INAN;NOM;FEM;SG
+beyan	заявление	beyan	заявление		N;INAN;NOM;NEUT;SG
+beyan	декларация	beyan	декларация		N;INAN;NOM;FEM;SG
+beyan	заявление	beyan	заявление		N;INAN;NOM;NEUT;SG
+engellendi	заблокирован	engelle	блокировать		V;PFV;MASC;SG;PST;V.PTCP;PASS
+engellendi	заблокирована	engelle	блокировать		V;PFV;FEM;SG;PST;V.PTCP;PASS
+engellendi	заблокированы	engelle	блокировать		V;PFV;PL;PST;V.PTCP;PASS
+taklit	подражать	taklit	подражать		V;IPFV;NFIN;ACT
+taklit	имитация	taklit	имитация		N;INAN;NOM;FEM;SG
+chan	чан	chan	чан		PART
+chan	тян	chan	тян		N;INAN;NOM;FEM;SG
+yakalandı	попалась	yakala	попасться	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;FEM;IND;SG;PST;FIN;MID
+yakalandı	поймал	yakala	поймать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+yakalandı	поймали	yakala	поймать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+yakalandı	захвачены	yakala	захватить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+yakalandı	захватили	yakala	захватить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+monarşi	монархии	monarşi	монархия	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+kaybeder	проигрывает	kaybet	проигрывать	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+kaybeder	теряет	kaybet	терять	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+kaybeder	проиграть	kaybet	проиграть	V;IPFV;IND;SG;3;POS	V;PFV;NFIN;ACT
+kaybeder	потерять	kaybet	терять	V;IPFV;IND;SG;3;POS	V;PFV;NFIN;ACT
+milletvekilleri	депутатов	milletvekili	депутат	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+milletvekilleri	депутатов	milletvekili	депутат	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+mevsim	сезонных	mevsim	сезонный		ADJ;GEN;PL
+mevsim	сезон	mevsim	сезон		N;INAN;NOM;MASC;SG
+mevsim	сезонов	mevsim	сезон		N;INAN;GEN;MASC;PL
+videoları	видео	video	видео	N;ACC;PL;3	N;INAN;NOM;NEUT;SG
+analitik	аналитический	analitik	аналитический		ADJ;NOM;MASC;SG
+analitik	аналитическая	analitik	аналитический		ADJ;NOM;FEM;SG
+bahreyn	бахрейне	bahrey	бахрейн	PROPN;NOM;SG;3	ADV
+bahreyn	бахрейна	bahrey	бахрейн	PROPN;NOM;SG;3	ADV
+bahreyn	бахрейн	bahrey	бахрейн	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+sarp	крутых	sarp	крутой		ADJ;GEN;PL
+maccabi	маккаби	maccabi	маккаб		N;INAN;NOM;MASC;SG
+atp	atp	atp	atp		PROPN
+atp	спс	atp	спс		N;INAN;NOM;MASC;SG
+turne	tour	tur	tour		PROPN
+turne	тур	tur	тур		N;INAN;NOM;MASC;SG
+turne	гастроли	tur	гастроль		N;INAN;NOM;MASC;PL
+turne	гастроли	tur	гастроль		N;INAN;NOM;MASC;PL
+kaydedilen	записано	kaydet	записать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;NEUT;SG;PST;V.PTCP;PASS
+kaydedilen	записали	kaydet	записать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;IND;PL;PST;FIN;ACT
+kaydedilen	спас	kaydet	спасти	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+kaydedilen	сохранена	kaydet	сохранить	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;FEM;SG;PST;V.PTCP;PASS
+kaydedilen	сохранен	kaydet	сохранный	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;MASC;SG;PST;V.PTCP;PASS
+kaydedilen	сохранено	kaydet	сохранить	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;NEUT;SG;PST;V.PTCP;PASS
+kaydedilen	сохранены	kaydet	сохранить	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;PL;PST;V.PTCP;PASS
+sipariş	заказать	sipariş	заказать	N;NOM;SG;3	V;PFV;NFIN;ACT
+sipariş	заказы	sipariş	заказ	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+sipariş	приказы	sipariş	приказ	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+ağaçlar	деревьев	ağaç	дерево	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+bern	берн	bern	берна	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+bulanık	пушистый	bulanık	пушистый		ADJ;NOM;MASC;SG
+bulanık	размыто	bulanık	размыть		ADJ;NEUT;SG
+ispat	доказать	ispat	доказать		V;PFV;NFIN;ACT
+gözlemci	наблюдателя	gözlemci	наблюдатель		N;ANIM;ACC;MASC;SG
+gözlemci	наблюдатель	gözlemci	наблюдатель		N;ANIM;NOM;MASC;SG
+gerilla	партизан	geril	партизан		N;ANIM;NOM;MASC;SG
+gerilla	партизанские	geril	партизанский		ADJ;NOM;PL
+gerilla	партизанской	geril	партизанский		ADJ;INS;FEM;SG
+değişti	изменились	değiş	измениться	V;PFV;IND;SG;3;POS;PST	V;PFV;IND;PL;PST;FIN;MID
+toplamak	сбор	topla	сбор	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+toplamak	сбора	topla	сбор	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;GEN;MASC;SG
+toplamak	собираю	topla	собирать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+dolaşım	кровообращения	dolaşım	кровообращение		N;INAN;NOM;NEUT;PL
+dolaşım	тираж	dolaşım	тираж		N;INAN;NOM;MASC;SG
+bataklık	болота	bataklık	болото	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+bataklık	болота	bataklık	болото	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+katılacak	посещающих	kat	посещать	V;PFV;IND;SG;3;POS;FUT;PASS	V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+palermo	палермо	palermo	палермо	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+göller	озер	göl	озеро	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+katılımı	посещаемости	katılım	посещаемость	N;ACC;SG;3	N;INAN;GEN;FEM;SG
+katılımı	посещаемость	katılım	посещаемость	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+katılımı	присутствие	katılım	присутствие	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+katılımı	участники	katılım	участник	N;ACC;SG;3	N;ANIM;NOM;MASC;PL
+katılımı	участие	katılım	участие	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+havzası	бассейна	havza	бассейн	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+blackburn	блэкберн	blackburn	блэкберн	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+eklenmiş	добавлены	ekle	добавить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+eklenmiş	добавил	ekle	добавить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+çar	царя	çar	царь		N;ANIM;ACC;MASC;SG
+çar	царь	çar	царь		N;ANIM;NOM;MASC;SG
+asi	повстанцев	asi	повстанец		N;ANIM;GEN;MASC;PL
+greg	грег	greg	грег		N;ANIM;NOM;MASC;SG
+tyler	тайлер	iy	тайлер		N;ANIM;NOM;MASC;SG
+ilaçlar	медицина	ilaç	медицина	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+ilaçlar	лекарство	ilaç	лекарство	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+ilaçlar	медицины	ilaç	медицина	N;NOM;PL;3	N;INAN;GEN;FEM;SG
+ilaçlar	таблеток	ilaç	таблетка	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+nielsen	нильсен	niel	нильсен		N;ANIM;NOM;MASC;SG
+yahudilere	евреев	yahudi	еврей	N;DAT;PL;3	N;ANIM;GEN;MASC;PL
+yahudilere	иудеи	yahudi	иудея	N;DAT;PL;3	N;ANIM;NOM;MASC;PL
+yahudilere	евреи	yahudi	еврей	N;DAT;PL;3	N;ANIM;NOM;MASC;PL
+yasadışı	незаконной	yasa	незаконный		ADJ;INS;FEM;SG
+yasadışı	незаконное	yasa	незаконный		ADJ;NOM;NEUT;SG
+yasadışı	незаконная	yasa	незаконный		ADJ;NOM;FEM;SG
+yasadışı	незаконные	yasa	незаконный		ADJ;NOM;PL
+yasadışı	незаконно	yasa	незаконно		ADV
+yasadışı	незаконный	yasa	незаконный		ADJ;NOM;MASC;SG
+yasadışı	незаконно	yasa	незаконно		ADV
+yasadışı	нелегально	yasa	нелегально		ADV
+yasadışı	незаконный	yasa	незаконный		ADJ;NOM;MASC;SG
+viking	викинг	viking	викинг		N;ANIM;NOM;MASC;SG
+medeni	гражданская	meden	гражданский		ADJ;NOM;FEM;SG
+medeni	гражданского	meden	гражданский		ADJ;GEN;MASC;SG
+medeni	гражданские	meden	гражданский		ADJ;NOM;PL
+medeni	гражданское	meden	гражданский		ADJ;NOM;NEUT;SG
+medeni	гражданский	meden	гражданский		ADJ;NOM;MASC;SG
+medeni	цивилизованного	meden	цивилизованный		ADJ;GEN;MASC;SG
+fiziki	физическая	fizik	физический		ADJ;NOM;FEM;SG
+fiziki	физический	fizik	физический		ADJ;NOM;MASC;SG
+fiziki	физические	fizik	физический		ADJ;NOM;PL
+fiziki	физической	fizik	физический		ADJ;INS;FEM;SG
+fiziki	физическое	fizik	физический		ADJ;NOM;NEUT;SG
+riski	риска	riski	риск		N;INAN;GEN;MASC;SG
+riski	риск	riski	риск		N;INAN;NOM;MASC;SG
+riski	риски	riski	риск		N;INAN;NOM;MASC;PL
+quebec	квебек	quebec	квебек	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+teşhis	диагностических	teşhis	диагностический	N;NOM;SG;3	ADJ;GEN;PL
+teşhis	идентифицировать	teşhis	идентифицировать	N;NOM;SG;3	V;IPFV;NFIN;ACT
+tavşan	заяц	tavşan	заяц		N;ANIM;NOM;MASC;SG
+tavşan	зайчик	tavşan	зайчик		N;ANIM;NOM;MASC;SG
+tavşan	зайка	tavşan	зайка		N;ANIM;NOM;FEM;SG
+tavşan	банни	tavşan	банний		N;ANIM;NOM;MASC;SG
+tavşan	заяц	tavşan	заяц		N;ANIM;NOM;MASC;SG
+tavşan	кролик	tavşan	кролик		N;ANIM;NOM;MASC;SG
+thunder	гром	thunder	гром		N;INAN;NOM;MASC;SG
+yaklaşan	ближайшие	yaklaş	ближайший	V;PFV;IND;POS;PRS;V.PTCP	ADJ;NOM;PL
+yaklaşan	предстоящий	yaklaş	предстоять	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;NOM;MASC;SG;PRS;V.PTCP;ACT
+yaklaşan	предстоящие	yaklaş	предстоять	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+yaklaşan	предстоящих	yaklaş	предстоять	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+yaklaşan	приближение	yaklaş	приближение	V;PFV;IND;POS;PRS;V.PTCP	N;INAN;NOM;NEUT;SG
+yaklaşan	приближается	yaklaş	приближаться	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;IND;SG;3;PRS;FIN;MID
+yaklaşan	приближаются	yaklaş	приближать	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;IND;PL;3;PRS;FIN;MID
+hayvanat	зоопарк	hayvanat	зоопарк	ADJ;NOM;SG;3	N;INAN;NOM;MASC;SG
+köprülü	кёпрюлю	köprülü	кепрюль		N;INAN;ACC;FEM;SG
+luigi	луиджи	luigi	луидж		N;INAN;NOM;MASC;SG
+iğne	инъекции	iğne	инъекция	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+iğne	иглу	iğne	игла	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+iğne	иглы	iğne	игла	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+iğne	иглы	iğne	игла	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+iğne	пин	iğne	пин	N;NOM;SG;3	
+iğne	pin	iğne	pin	N;NOM;SG;3	PROPN
+iğne	прикрепить	iğne	прикрепить	N;NOM;SG;3	V;PFV;NFIN;ACT
+dokuma	плетение	dokum	плетение		N;INAN;NOM;NEUT;SG
+nicole	николь	nicol	николь		N;ANIM;NOM;FEM;SG
+todd	тодд	todd	тоддя		N;ANIM;NOM;MASC;SG
+katılımcılar	участников	katılımcı	участник	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+katılımcılar	участников	katılımcı	участник	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+ellen	эллен	el	эллен		N;ANIM;NOM;FEM;SG
+ellen	элен	el	элен		N;ANIM;NOM;FEM;SG
+deve	верблюдов	deve	верблюд		N;ANIM;GEN;MASC;PL
+deve	верблюда	deve	верблюд		N;ANIM;ACC;MASC;SG
+granada	гранада	grana	гранада	PROPN;ESS;SG;3	N;INAN;NOM;FEM;SG
+vokalist	вокалист	vokalist	вокалист		N;ANIM;NOM;MASC;SG
+wesley	уэсли	wesley	уэсль		N;ANIM;NOM;MASC;SG
+mercury	ртути	mercury	ртуть	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+mercury	ртуть	mercury	ртуть	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+mercury	меркурий	mercury	меркурия	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+pearl	жемчуг	pearl	жемчуг		N;INAN;NOM;MASC;SG
+pearl	жемчужина	pearl	жемчужина		N;INAN;NOM;FEM;SG
+pearl	перл	pearl	перл		N;INAN;NOM;MASC;SG
+beckett	беккет	beckett	беккет		N;ANIM;NOM;MASC;SG
+kaplar	контейнеров	kap	контейнер	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+taşlar	камни	taş	камень	ADJ;NOM;PL;3	N;INAN;NOM;MASC;PL
+taşlar	камни	taş	камень	ADJ;NOM;PL;3	N;INAN;NOM;MASC;PL
+taşlar	скалы	taş	скала	ADJ;NOM;PL;3	N;INAN;NOM;FEM;PL
+hesaplama	вычислительная	hesaplama	вычислительный	V;PFV;NOM;IND;POS;PRS;V.MSDR	ADJ;NOM;FEM;SG
+hesaplama	вычисления	hesaplama	вычисление	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+hesaplama	расчеты	hesaplama	расчет	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;PL
+hesaplama	расчёт	hesaplama	расчет	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+hesaplama	расчета	hesaplama	расчет	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;GEN;MASC;SG
+hesaplama	расчет	hesaplama	расчет	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+hesaplama	расчеты	hesaplama	расчет	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;PL
+cohen	коэн	cohen	коэн		N;ANIM;NOM;MASC;SG
+ekvator	экватора	ekvator	экватор		N;INAN;GEN;MASC;SG
+ekvator	эквадор	ekvator	эквадор		N;INAN;NOM;MASC;SG
+ekvator	эквадоре	ekvator	эквадор		N;INAN;NOM;MASC;SG
+anayasal	конституционный	anayasal	конституционный		ADJ;NOM;MASC;SG
+anayasal	конституционная	anayasal	конституционный		ADJ;NOM;FEM;SG
+anayasal	конституционные	anayasal	конституционный		ADJ;NOM;PL
+jonas	джонас	jonas	джонас		N;INAN;NOM;MASC;SG
+ethem	черкес	ethem	черкес		N;ANIM;NOM;MASC;SG
+ekler	вставки	ek	вставка		N;INAN;NOM;FEM;PL
+ekler	вставляет	ek	вставлять		V;IPFV;IND;SG;3;PRS;FIN;ACT
+ekler	добавляет	ek	добавлять		V;IPFV;IND;SG;3;PRS;FIN;ACT
+karen	карен	karen	карен		N;ANIM;NOM;FEM;SG
+pascal	паскаль	pascal	паскаль		N;ANIM;NOM;MASC;SG
+çarpan	множителя	çarp	множитель		N;INAN;GEN;MASC;SG
+esp	esp	esp	esp		PROPN
+laurent	лоран	laurent	лоран	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+tarafsızlık	нейтралитета	tarafsızlık	нейтралитет	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+motorları	двигатели	motor	двигатель	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+motorları	двигателей	motor	двигатель	N;ACC;PL;3	N;INAN;GEN;MASC;PL
+touch	touch	touch	touch		PROPN
+touch	прикоснуться	touch	прикоснуться		V;PFV;NFIN;MID
+touch	прикосновение	touch	прикосновение		N;INAN;NOM;NEUT;SG
+kürek	лопату	kürek	лопата		N;INAN;ACC;FEM;SG
+kürek	весло	kürek	вести		N;INAN;NOM;NEUT;SG
+kürek	ряд	kürek	ряд		N;INAN;NOM;MASC;SG
+kürek	строка	kürek	строка		N;INAN;NOM;FEM;SG
+çıkarken	выход	çık	выход	V;IPFV;IND;SG;3;POS;V.CVB	N;INAN;NOM;MASC;SG
+simpsonlar	симпсонов	simpson	симпсон	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+bilbao	бильбао	bilbao	бильбао	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+bahçeleri	сады	bahçe	сад	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+takas	торговли	takas	торговля		N;INAN;GEN;FEM;SG
+takas	торговля	takas	торговля		N;INAN;NOM;FEM;SG
+takas	trade	takas	trade		PROPN
+takas	торговой	takas	торговый		ADJ;INS;FEM;SG
+takas	торговля	takas	торговля		N;INAN;NOM;FEM;SG
+takas	осп	takas	осп		ADV
+takas	биржа	takas	биржа		N;INAN;NOM;FEM;SG
+takas	обмен	takas	обмен		N;INAN;NOM;MASC;SG
+takas	exchange	takas	exchange		PROPN
+cola	кокс	cola	кокс		N;INAN;NOM;MASC;SG
+cola	кокаин	cola	кокаин		N;INAN;NOM;MASC;SG
+cola	кола	cola	кола		N;INAN;NOM;FEM;SG
+cola	кола	cola	кола		N;INAN;NOM;FEM;SG
+cola	колы	cola	кола		N;INAN;NOM;FEM;PL
+yalancı	лжец	yalancı	лжец		N;ANIM;NOM;MASC;SG
+dul	вдова	dul	вдова		N;ANIM;NOM;FEM;SG
+dul	вдовец	dul	вдовец		N;ANIM;NOM;MASC;SG
+dul	вдовы	dul	вдова		N;ANIM;NOM;FEM;PL
+dul	вдова	dul	вдова		N;ANIM;NOM;FEM;SG
+xxx	xxx	xxx	xxx		PROPN
+bolton	болтон	bolton	болтон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+romen	румынии	romen	румыния		N;INAN;NOM;FEM;PL
+komplo	заговор	komplo	заговор		N;INAN;NOM;MASC;SG
+komplo	участок	komplo	участок		N;INAN;NOM;MASC;SG
+komplo	сюжет	komplo	сюжет		N;INAN;NOM;MASC;SG
+komplo	заговор	komplo	заговор		N;INAN;NOM;MASC;SG
+komplo	заговора	komplo	заговор		N;INAN;GEN;MASC;SG
+komplo	сговор	komplo	сговор		N;INAN;NOM;MASC;SG
+komplo	заговоре	komplo	заговор		N;INAN;ESS;MASC;SG
+césar	сесар	césar	сесар		N;ANIM;NOM;MASC;SG
+açıklamalar	заголовки	açıkla	заголовок	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;PL
+açıklamalar	подписи	açıkla	подпись	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+açıklamalar	пояснения	açıkla	пояснение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+açıklamalar	объяснения	açıkla	объяснение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+açıklamalar	разъяснения	açıkla	разъяснение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+açıklamalar	описания	açıkla	описание	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+store	магазин	store	магазин		N;INAN;NOM;MASC;SG
+seine	сена	sein	сено	PROPN;NOM;SG;3	N;INAN;NOM;NEUT;SG
+seine	сен	sein	сен	PROPN;NOM;SG;3	
+galya	галлии	gal	галлий		N;INAN;NOM;FEM;PL
+iletim	передачи	iletim	передача		N;INAN;NOM;FEM;PL
+iletim	передача	iletim	передача		N;INAN;NOM;FEM;SG
+hawks	ястребы	hawks	ястреб	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;PL
+hamit	хамит	hamit	хамит		N;ANIM;NOM;MASC;SG
+beatles	beatles	beatles	beatles		PROPN
+beatles	битлз	beatles	битьза		N;INAN;NOM;MASC;SG
+kumaş	ткань	kumaş	ткань		N;INAN;NOM;FEM;SG
+kumaş	ткани	kumaş	ткань		N;INAN;NOM;FEM;PL
+kumaş	ткань	kumaş	ткань		N;INAN;NOM;FEM;SG
+kumaş	ткани	kumaş	ткань		N;INAN;NOM;FEM;PL
+kumaş	ткани	kumaş	ткань		N;INAN;NOM;FEM;PL
+reaksiyon	реакция	reaksiyon	реакция		N;INAN;NOM;FEM;SG
+reaksiyon	реакции	reaksiyon	реакция		N;INAN;NOM;FEM;PL
+odak	фокус	odak	фокус		N;INAN;NOM;MASC;SG
+odak	сфокусироваться	odak	фокусироваться		V;PFV;NFIN;MID
+odak	сконцентрироваться	odak	концентрироваться		V;PFV;NFIN;MID
+odak	внимание	odak	внимание		N;INAN;NOM;NEUT;SG
+düsseldorf	дюссельдорф	düsseldorf	дюссельдорф	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+verlag	verlag	verlag	verlag		PROPN
+sınav	экзамены	sınav	экзамен	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+sınav	экзамены	sınav	экзамен	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+sınav	испытания	sınav	испытание	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+tarama	сканирование	tarama	сканирование		N;INAN;NOM;NEUT;SG
+tarama	сканирования	tarama	сканирование		N;INAN;NOM;NEUT;PL
+tarama	просмотр	tarama	просмотр		N;INAN;NOM;MASC;SG
+tarama	сканирование	tarama	сканирование		N;INAN;NOM;NEUT;SG
+tüyleri	перья	tüy	перо	ADJ;NOM;PL;3	N;INAN;NOM;NEUT;PL
+tüyleri	оперение	tüy	оперение	ADJ;NOM;PL;3	N;INAN;NOM;NEUT;SG
+donetsk	донецк	donetsk	донецк	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+evcil	pet	evcil	pet	N;NOM;SG;3	PROPN
+evcil	приручить	evcil	приручить	N;NOM;SG;3	V;PFV;NFIN;ACT
+nathan	нейтан	nathan	нейтан	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+nathan	натан	nathan	натана	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+kenneth	кеннет	kenneth	кеннуть		N;ANIM;NOM;MASC;SG
+fisher	фишер	fishe	фишер		N;ANIM;NOM;MASC;SG
+satürn	сатурн	satürn	сатурн		N;INAN;NOM;MASC;SG
+sorunlu	проблематичным	sorunlu	проблематичный		ADJ;INS;NEUT;SG
+sorunlu	проблемных	sorunlu	проблемный		ADJ;GEN;PL
+sorunlu	проблемные	sorunlu	проблемный		ADJ;NOM;PL
+karesi	площадь	kare	площадь		N;INAN;NOM;FEM;SG
+karesi	квадрат	kare	квадрат		N;INAN;NOM;MASC;SG
+karesi	квадратный	kare	квадратный		ADJ;NOM;MASC;SG
+komisyon	комиссии	komisyon	комиссия		N;INAN;NOM;FEM;PL
+komisyon	комиссий	komisyon	комиссия		N;INAN;GEN;FEM;PL
+komisyon	комиссия	komisyon	комиссия		N;INAN;NOM;FEM;SG
+komisyon	комиссии	komisyon	комиссия		N;INAN;NOM;FEM;PL
+favori	любимое	favori	любимый		ADJ;NOM;NEUT;SG
+favori	любимая	favori	любить		V;IPFV;NOM;FEM;SG;PRS;V.PTCP;PASS
+favori	любимые	favori	любить		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+favori	любимый	favori	любить		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;PASS
+favori	любимые	favori	любить		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+favori	любимая	favori	любить		V;IPFV;NOM;FEM;SG;PRS;V.PTCP;PASS
+favori	любимое	favori	любимый		ADJ;NOM;NEUT;SG
+favori	любимые	favori	любить		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+favori	любимый	favori	любить		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;PASS
+şef	шеф	şef	шеф		N;ANIM;NOM;MASC;SG
+şef	повар	şef	повар		N;ANIM;NOM;MASC;SG
+şef	шеф	şef	шеф		N;ANIM;NOM;MASC;SG
+şef	начальник	şef	начальник		N;ANIM;NOM;MASC;SG
+şef	вождь	şef	вождь		N;ANIM;NOM;MASC;SG
+vergisi	налоговых	vergi	налоговый	N;NOM;SG;3	ADJ;GEN;PL
+vergisi	налоги	vergi	налог	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+vergisi	налоговая	vergi	налоговый	N;NOM;SG;3	ADJ;NOM;FEM;SG
+telgraf	telegram	telgraf	telegram		PROPN
+telgraf	телеграф	telgraf	телеграф		N;INAN;NOM;MASC;SG
+leone	леоне	leone	леон	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+parsons	парсонс	parsons	парсонс		N;INAN;NOM;MASC;SG
+herkül	геркулес	herkül	геркулес		N;ANIM;NOM;MASC;SG
+ilim	знания	ilim	знание		N;INAN;NOM;NEUT;PL
+ilim	знание	ilim	знание		N;INAN;NOM;NEUT;SG
+bond	бонд	bond	бонд		N;ANIM;NOM;MASC;SG
+yuri	юрий	yuri	юрий		N;ANIM;NOM;MASC;SG
+gözde	любимая	gözde	любить		V;IPFV;NOM;FEM;SG;PRS;V.PTCP;PASS
+gözde	любимое	gözde	любимый		ADJ;NOM;NEUT;SG
+gözde	любимые	gözde	любить		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+gözde	любимый	gözde	любить		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;PASS
+tecrübe	опыт	tecrübe	опыт		N;INAN;NOM;MASC;SG
+lahana	капусту	lahana	капуста	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+lahana	капусты	lahana	капуста	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+lahana	капусту	lahana	капуста	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+andromeda	андромеда	androme	андромеда		N;INAN;NOM;FEM;SG
+nokia	nokia	nokia	nokia		PROPN
+gridcolor	gridcolor	gridco	gridcolor		PROPN
+zoolog	зоолог	zoolog	зоолог		N;ANIM;NOM;MASC;SG
+dalları	отделений	dal	отделение	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+durak	остановки	durak	остановка		N;INAN;NOM;FEM;PL
+durak	останавливается	durak	останавливаться		V;IPFV;IND;SG;3;PRS;FIN;MID
+durak	прекращается	durak	прекращаться		V;IPFV;IND;SG;3;PRS;FIN;PASS
+stark	старк	stark	старк		N;ANIM;NOM;MASC;SG
+kızılötesi	инфракрасного	kızılöte	инфракрасный	N;NOM;SG;3	ADJ;GEN;MASC;SG
+soğutma	охлаждения	soğut	охлаждение		N;INAN;NOM;NEUT;PL
+soğutma	охлаждения	soğut	охлаждение		N;INAN;NOM;NEUT;PL
+nereye	где	nere	где	PRO;DAT;SG;3	ADV
+nereye	куда	nere	куда	PRO;DAT;SG;3	ADV
+step	шаг	step	шаг		N;INAN;NOM;MASC;SG
+dale	дейл	dale	дейл		N;INAN;NOM;MASC;SG
+dale	дэйл	dale	дэйл		N;ANIM;NOM;MASC;SG
+inanılmaz	удивительно	inan	удивительный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NEUT;SG
+inanılmaz	потрясающая	inan	потрясающий	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;FEM;SG
+inanılmaz	поразительно	inan	поразительно	V;IPFV;IND;NEG;V.PTCP;PASS	ADV
+inanılmaz	изумительно	inan	изумительно	V;IPFV;IND;NEG;V.PTCP;PASS	ADV
+inanılmaz	потрясающе	inan	потрясающий	V;IPFV;IND;NEG;V.PTCP;PASS	ADV
+inanılmaz	невероятное	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;NEUT;SG
+inanılmaz	невероятная	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;FEM;SG
+inanılmaz	невероятные	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;PL
+inanılmaz	невероятно	inan	невероятно	V;IPFV;IND;NEG;V.PTCP;PASS	ADV
+inanılmaz	невероятное	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;NEUT;SG
+inanılmaz	невероятный	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;MASC;SG
+inanılmaz	невероятная	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;FEM;SG
+inanılmaz	невероятные	inan	невероятный	V;IPFV;IND;NEG;V.PTCP;PASS	ADJ;NOM;PL
+inanılmaz	невероятно	inan	невероятно	V;IPFV;IND;NEG;V.PTCP;PASS	ADV
+damar	вены	damar	вена		N;INAN;NOM;FEM;PL
+damar	вена	damar	вена		N;INAN;NOM;FEM;SG
+damar	вену	damar	вена		N;INAN;ACC;FEM;SG
+damar	сосудистых	damar	сосудистый		ADJ;GEN;PL
+rumen	румынии	rumen	румыния		N;INAN;NOM;FEM;PL
+psv	псв	psv	псва		N;INAN;NOM;MASC;SG
+mürettebat	экипажа	mürettebat	экипаж	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+riley	райли	riley	райли		N;ANIM;NOM;FEM;SG
+göreceli	родственник	gör	родственник		N;ANIM;NOM;MASC;SG
+göreceli	относительной	gör	относительный		ADJ;INS;FEM;SG
+göreceli	относительное	gör	относительный		ADJ;NOM;NEUT;SG
+göreceli	относительные	gör	относительный		ADJ;NOM;PL
+göreceli	относительный	gör	относительный		ADJ;NOM;MASC;SG
+göreceli	относительная	gör	относительный		ADJ;NOM;FEM;SG
+göreceli	релятивистская	gör	релятивистский		ADJ;NOM;FEM;SG
+mercan	коралловых	mercan	коралловый		ADJ;GEN;PL
+arya	арья	arya	арья		N;ANIM;NOM;FEM;SG
+lane	переулок	la	переулок	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+lane	лейн	la	лейн	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+lane	лэйн	la	лэйн	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+lang	лэнг	lang	лэнг		PART
+feminist	феминистки	feminist	феминистка		N;ANIM;NOM;FEM;PL
+feminist	феминисток	feminist	феминистка		N;ANIM;GEN;FEM;PL
+organları	органов	organ	орган	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+doğumu	роды	doğum	роды	N;ACC;SG;3	N;INAN;NOM;MASC;PL
+doğumu	рождения	doğum	рождение	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+doğumu	рождение	doğum	рождение	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+mühimmat	боеприпас	mühimmat	боеприпас		N;INAN;NOM;MASC;SG
+mühimmat	боеприпасов	mühimmat	боеприпас		N;INAN;GEN;MASC;PL
+mühimmat	боеприпасы	mühimmat	боеприпас		N;INAN;NOM;MASC;PL
+mühimmat	боеприпасов	mühimmat	боеприпас		N;INAN;GEN;MASC;PL
+mühimmat	боеприпасы	mühimmat	боеприпас		N;INAN;NOM;MASC;PL
+louise	луиза	loui	луиз	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+myspace	myspace	myspace	myspace		PROPN
+izlenen	посмотрел	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+izlenen	посмотрела	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;FEM;IND;SG;PST;FIN;ACT
+izlenen	смотрела	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;FEM;IND;SG;PST;FIN;ACT
+izlenen	посмотрели	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;IND;PL;PST;FIN;ACT
+izlenen	смотрели	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;IND;PL;PST;FIN;ACT
+izlenen	смотрел	izle	смотреть	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;IPFV;MASC;IND;SG;PST;FIN;ACT
+yugoslav	югославской	yugoslav	югославский		ADJ;INS;FEM;SG
+yugoslav	югославская	yugoslav	югославский		ADJ;NOM;FEM;SG
+yugoslav	югославов	yugoslav	югослав		N;INAN;GEN;MASC;PL
+stand	стенд	stand	стенд		N;INAN;NOM;MASC;SG
+stand	стоять	stand	стоять		V;IPFV;NFIN;ACT
+notları	отмечает	not	отмечать	N;ACC;PL;3	V;IPFV;IND;SG;3;PRS;FIN;ACT
+notları	записки	not	записка	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+notları	примечания	not	примечание	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+notları	ноты	not	нота	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+notları	заметки	not	заметка	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+kavramları	концепции	kavram	концепция	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+kavramları	концепций	kavram	концепция	N;ACC;PL;3	N;INAN;GEN;FEM;PL
+kavramları	понятия	kavram	понятие	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+blake	блейк	blake	блейк		N;ANIM;NOM;MASC;SG
+blake	блэйк	blake	блэйк		N;ANIM;NOM;MASC;SG
+mad	безумная	mad	безумный		ADJ;NOM;FEM;SG
+mad	бешеный	mad	бешеный		ADJ;NOM;MASC;SG
+mad	безумный	mad	безумный		ADJ;NOM;MASC;SG
+ece	еэк	ece	еэк		N;INAN;NOM;FEM;SG
+zıt	противоположности	zıt	противоположность		N;INAN;NOM;FEM;PL
+zıt	противоположное	zıt	противоположный		ADJ;NOM;NEUT;SG
+zıt	напротив	zıt	напротив		ADV
+gonzález	гонсалес	gonzález	гонсалес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+helikopter	хели	helikopter	хель	N;NOM;SG;3	
+helikopter	вертолеты	helikopter	вертолет	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+helikopter	вертолетов	helikopter	вертолет	N;NOM;SG;3	N;INAN;GEN;MASC;PL
+klaus	клаус	klaus	клаус		N;ANIM;NOM;MASC;SG
+koch	кох	koch	кох		N;ANIM;NOM;MASC;SG
+yatılı	посадка	yatılı	посадка		N;INAN;NOM;FEM;SG
+kılavuzu	проводник	kılavuz	проводник	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+kılavuzu	гид	kılavuz	гид	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+kılavuzu	руководства	kılavuz	руководство	N;ACC;SG;3	N;INAN;NOM;NEUT;PL
+kılavuzu	руководство	kılavuz	руководство	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+mig	миг	mig	миг		N;INAN;NOM;MASC;SG
+zaza	заза	zaza	заза		N;ANIM;NOM;MASC;SG
+atı	ati	at	ati		PROPN
+masal	сказка	masal	сказка		N;INAN;NOM;FEM;SG
+masal	сказка	masal	сказка		N;INAN;NOM;FEM;SG
+masal	story	masal	story		PROPN
+masal	новость	masal	новость		N;INAN;NOM;FEM;SG
+masal	рассказ	masal	рассказ		N;INAN;NOM;MASC;SG
+masal	история	masal	история		N;INAN;NOM;FEM;SG
+dinlenme	досуг	dinlen	досуг	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;INAN;NOM;MASC;SG
+dinlenme	отдых	dinlen	отдых	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;INAN;NOM;MASC;SG
+dinlenme	отдохнуть	dinlen	отдохнуть	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	V;PFV;NFIN;ACT
+dinlenme	отдых	dinlen	отдых	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS	N;INAN;NOM;MASC;SG
+mhz	мгц	mhz	мгц		N;INAN;NOM;MASC;SG
+heinz	хайнц	heinz	хайнц	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+tatmin	удовлетворение	tatmin	удовлетворение		N;INAN;NOM;NEUT;SG
+tatmin	удовлетворением	tatmin	удовлетворение		N;INAN;INS;NEUT;SG
+tatmin	удовлетворение	tatmin	удовлетворение		N;INAN;NOM;NEUT;SG
+tatmin	удовлетворяет	tatmin	удовлетворять		V;IPFV;IND;SG;3;PRS;FIN;ACT
+tatmin	удовлетворения	tatmin	удовлетворение		N;INAN;NOM;NEUT;SG
+tatmin	удовлетворены	tatmin	удовлетворить		V;PFV;PL;PST;V.PTCP;PASS
+tatmin	удовлетворен	tatmin	удовлетворить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+tatmin	удовлетворена	tatmin	удовлетворить		V;PFV;FEM;SG;PST;V.PTCP;PASS
+tatmin	удовлетворительным	tatmin	удовлетворительный		ADJ;INS;NEUT;SG
+tatmin	доволен	tatmin	довольный		ADJ;MASC;SG
+britney	бритни	britney	бритня		N;INAN;NOM;FEM;SG
+porsche	порше	porsche	порша		N;INAN;NOM;MASC;SG
+porsche	porsche	porsche	porsche		PROPN
+eğlenceli	кайф	eğlenceli	кайф	ADJ	N;INAN;NOM;MASC;SG
+eğlenceli	веселье	eğlenceli	веселье	ADJ	N;INAN;NOM;NEUT;SG
+eğlenceli	прикольно	eğlenceli	прикольно	ADJ	ADV
+malcolm	малкольм	malcolm	малкольм		N;ANIM;NOM;MASC;SG
+malcolm	малькольм	malcolm	малькольм		N;ANIM;NOM;MASC;SG
+kentucky	кентукки	kentucky	кентукка		N;INAN;NOM;MASC;PL
+ekseni	оси	ekseni	ось		N;INAN;NOM;FEM;PL
+ekseni	ось	ekseni	ось		N;INAN;NOM;FEM;SG
+enzim	ферменты	enzi	фермент		N;INAN;NOM;MASC;PL
+enzim	фермент	enzi	фермент		N;INAN;NOM;MASC;SG
+haksız	несправедливость	haksız	несправедливость		N;INAN;NOM;FEM;SG
+haksız	нечестно	haksız	нечестно		ADJ;NEUT;SG
+haksız	несправедливые	haksız	несправедливый		ADJ;NOM;PL
+haksız	несправедливо	haksız	несправедливо		ADV
+haksız	противоправные	haksız	противоправный		ADJ;NOM;PL
+haksız	неправомерное	haksız	неправомерный		ADJ;NOM;NEUT;SG
+seti	комплект	set	комплект		N;INAN;NOM;MASC;SG
+seti	сет	set	сет		N;INAN;NOM;MASC;SG
+seti	набор	set	набор		N;INAN;NOM;MASC;SG
+seti	установить	set	установить		V;PFV;NFIN;ACT
+makina	machine	makina	machine		PROPN
+makina	машина	makina	машина		N;INAN;NOM;FEM;SG
+makina	аппарат	makina	аппарат		N;INAN;NOM;MASC;SG
+makina	механизм	makina	механизм		N;INAN;NOM;MASC;SG
+makina	механизма	makina	механизм		N;INAN;GEN;MASC;SG
+makina	аппараты	makina	аппарат		N;INAN;NOM;MASC;PL
+makina	машины	makina	машина		N;INAN;NOM;FEM;PL
+tasarımcı	дизайнер	tasarımcı	дизайнер		N;ANIM;NOM;MASC;SG
+kaide	постамент	kaide	постамент		N;INAN;NOM;MASC;SG
+kaide	пьедестал	kaide	пьедестал		N;INAN;NOM;MASC;SG
+tolkien	толкин	tolkien	толкин		N;ANIM;NOM;MASC;SG
+jesse	джесси	jesse	джесси		N;ANIM;NOM;FEM;SG
+sulak	заболоченных	sulak	заболотить	N;NOM;SG;3	V;PFV;GEN;PL;PST;V.PTCP;PASS
+sır	тайны	sır	тайна		N;INAN;NOM;FEM;PL
+sır	секреты	sır	секрет		N;INAN;NOM;MASC;PL
+sır	тайна	sır	тайна		N;INAN;NOM;FEM;SG
+sır	секрет	sır	секрет		N;INAN;NOM;MASC;SG
+sır	секретная	sır	секретный		ADJ;NOM;FEM;SG
+sır	секретный	sır	секретный		ADJ;NOM;MASC;SG
+boyutları	размеры	boyut	размер	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+boyutları	аспекты	boyut	аспект	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+aman	аман	aman	аман		N;INAN;NOM;MASC;SG
+six	шесть	six	шесть		NUM;NOM
+six	six	six	six		PROPN
+six	шестеро	six	шестеро		NUM;NOM
+six	шестой	six	шестой		ADJ;NOM;MASC;SG
+kıyıları	берега	kıyı	берег	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+kıyıları	берегов	kıyı	берег	N;ACC;PL;3	N;INAN;GEN;MASC;PL
+kıyıları	берега	kıyı	берег	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+kıyıları	побережья	kıyı	побережье	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+kıyıları	побережье	kıyı	побережье	N;ACC;PL;3	N;INAN;NOM;NEUT;SG
+taşınan	переехал	taşı	переехать	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+taşınan	перенесено	taşı	перенести	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;PFV;NEUT;SG;PST;V.PTCP;PASS
+bilinçli	сознании	bilinçli	сознание		N;INAN;ESS;NEUT;SG
+bilinçli	сознавая	bilinçli	сознавать		V;IPFV;PRS;V.CVB;ACT
+yasağı	запрещении	yasak	запрещение		N;INAN;ESS;NEUT;SG
+yasağı	запрет	yasak	запрет		N;INAN;NOM;MASC;SG
+yasağı	запрещение	yasak	запрещение		N;INAN;NOM;NEUT;SG
+andre	андре	andre	андре		N;INAN;NOM;MASC;SG
+andre	андре	andre	андре		N;INAN;NOM;MASC;SG
+roller	роллер	rol	роллер		N;INAN;NOM;MASC;SG
+roller	ролях	rol	роль		N;INAN;ESS;FEM;PL
+roller	роли	rol	роль		N;INAN;NOM;FEM;PL
+bull	бык	bull	бык		N;ANIM;NOM;MASC;SG
+alüminyum	алюминия	alüm	алюминий	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+alüminyum	алюминия	alüm	алюминий	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+hani	хани	hani	хани		PART
+edwards	эдвардс	edwar	эдвардс		N;ANIM;NOM;MASC;SG
+italia	italia	italia	italia	PROPN;NOM;SG;3	PROPN
+helena	елена	helen	елена	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+helena	елены	helen	елены	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;PL
+helena	хелена	helen	хеленый	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+tartışmaları	обсуждения	tartış	обсуждение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+tartışmaları	дискуссии	tartış	дискуссия	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+katliam	резня	katlia	резня		N;INAN;NOM;FEM;SG
+katliam	бойня	katlia	бойня		N;INAN;NOM;FEM;SG
+katliam	резня	katlia	резня		N;INAN;NOM;FEM;SG
+katliam	бойню	katlia	бойня		N;INAN;ACC;FEM;SG
+katliam	бойня	katlia	бойня		N;INAN;NOM;FEM;SG
+katliam	резня	katlia	резня		N;INAN;NOM;FEM;SG
+katliam	бойня	katlia	бойня		N;INAN;NOM;FEM;SG
+varsayılan	умолчанию	varsa	умолчание		N;INAN;DAT;NEUT;SG
+lanka	ланка	lanka	ланка	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+wade	уэйд	wade	уэйд		N;ANIM;NOM;MASC;SG
+kodları	кодексы	kod	кодекс	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+kodları	коды	kod	код	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+holmes	холмс	holmes	холмс		N;ANIM;NOM;MASC;SG
+yapıcı	конструктивно	yapıcı	конструктивно		ADV
+yapıcı	создатель	yapıcı	создатель		N;ANIM;NOM;MASC;SG
+yapıcı	конструктивные	yapıcı	конструктивный		ADJ;NOM;PL
+yapıcı	конструктивно	yapıcı	конструктивно		ADV
+yapıcı	конструктивный	yapıcı	конструктивный		ADJ;NOM;MASC;SG
+yapıcı	конструктивное	yapıcı	конструктивный		ADJ;NOM;NEUT;SG
+iowa	айова	iowa	айова	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+çember	круг	çember	круг		N;INAN;NOM;MASC;SG
+isfahan	исфахане	isfahan	исфаханне		N;ANIM;NOM;MASC;SG
+karaciğer	печени	karaciğer	печень		N;INAN;GEN;FEM;SG
+karaciğer	печень	karaciğer	печень		N;INAN;NOM;FEM;SG
+hatalar	жуков	hata	жук	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+atanmış	назначенные	atan	назначить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+atanmış	назначенные	atan	назначить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+málaga	малага	málaga	малаг	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+diamond	алмазов	diamond	алмаз	N;NOM;SG;3	N;INAN;GEN;MASC;PL
+dame	дама	dame	дама		N;ANIM;NOM;FEM;SG
+tanımlanmış	определены	tanımla	определить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+tanımlanmış	выявленные	tanımla	выявить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+litre	литр	litre	литр		N;INAN;NOM;MASC;SG
+litre	литров	litre	литр		N;INAN;GEN;MASC;PL
+litre	литр	litre	литр		N;INAN;NOM;MASC;SG
+litre	литров	litre	литр		N;INAN;GEN;MASC;PL
+litre	литра	litre	литр		N;INAN;NOM;MASC;SG
+çalışkan	трудолюбивый	çalışkan	трудолюбивый		ADJ;NOM;MASC;SG
+meşru	законных	meşru	законный		ADJ;GEN;PL
+meşru	законное	meşru	законный		ADJ;NOM;NEUT;SG
+meşru	законные	meşru	законный		ADJ;NOM;PL
+meşru	законная	meşru	законный		ADJ;NOM;FEM;SG
+meşru	законный	meşru	законный		ADJ;NOM;MASC;SG
+meşru	законно	meşru	законный		ADJ;NEUT;SG
+bankacılık	банковской	bankacılık	банковский	N;NOM;SG;3	ADJ;INS;FEM;SG
+kaçmak	побег	kaç	побег	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+asal	прайм	asal	прай		N;INAN;NOM;MASC;SG
+asal	премьер	asal	премьер		N;ANIM;NOM;MASC;SG
+radyoaktif	радиоактивный	radyoaktif	радиоактивный		ADJ;NOM;MASC;SG
+radyoaktif	радиоактивных	radyoaktif	радиоактивный		ADJ;GEN;PL
+radyoaktif	радиоактивные	radyoaktif	радиоактивный		ADJ;NOM;PL
+iskandinav	северных	iskandinav	северный	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	ADJ;GEN;PL
+iskandinav	скандинавских	iskandinav	скандинавский	V;PFV;DAT;IND;POS;PST;V.PTCP;PASS	ADJ;GEN;PL
+kronik	хроническая	kronik	хронический		ADJ;NOM;FEM;SG
+kronik	хронические	kronik	хронический		ADJ;NOM;PL
+kronik	хронической	kronik	хронический		ADJ;INS;FEM;SG
+kronik	хронически	kronik	хронически		ADV
+yarışmaları	конкурсы	yarış	конкурс	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;PL
+yarışmaları	конкурсы	yarış	конкурс	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;PL
+facto	факто	facto	факто		N;INAN;NOM;MASC;SG
+facto	facto	facto	facto		PROPN
+osetya	осетии	osetya	осетия	PROPN;NOM;SG;3	N;INAN;NOM;NEUT;PL
+çim	лужайке	çim	лужайка		N;INAN;DAT;FEM;SG
+çim	газон	çim	газон		N;INAN;NOM;MASC;SG
+çim	трава	çim	трава		N;INAN;NOM;FEM;SG
+çim	травы	çim	трава		N;INAN;NOM;FEM;PL
+çim	траве	çim	трава		N;INAN;DAT;FEM;SG
+çim	траву	çim	трава		N;INAN;ACC;FEM;SG
+taşınabilir	переносных	taşı	переносной	V;IPFV;IND;SG;3;POS;PASS	ADJ;GEN;PL
+düzene	упорядочить	düzen	упорядочить	N;DAT;SG;3	V;PFV;NFIN;ACT
+sn	сек	sn	секунда		N;INAN;NOM;FEM;SG
+balıkçı	рыбаков	balıkçı	рыбак		N;ANIM;GEN;MASC;PL
+balıkçı	фишер	balıkçı	фишер		N;ANIM;NOM;MASC;SG
+balıkçı	рыбак	balıkçı	рыбак		N;ANIM;NOM;MASC;SG
+bitkileri	растения	bitki	растение	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+niyet	намерение	niyet	намерение		N;INAN;NOM;NEUT;SG
+niyet	намерение	niyet	намерение		N;INAN;NOM;NEUT;SG
+niyet	намерения	niyet	намерение		N;INAN;NOM;NEUT;PL
+niyet	предназначенных	niyet	предназначить		V;PFV;GEN;PL;PST;V.PTCP;PASS
+niyet	намерения	niyet	намерение		N;INAN;NOM;NEUT;PL
+mansur	мансур	mansur	мансур		N;ANIM;NOM;MASC;SG
+kaçış	прорыв	kaçış	прорыв		N;INAN;NOM;MASC;SG
+kaçış	побега	kaçış	побег		N;INAN;GEN;MASC;SG
+kaçış	побег	kaçış	побег		N;INAN;NOM;MASC;SG
+kaçış	избежать	kaçış	избегнуть		V;PFV;NFIN;ACT
+kaçış	побег	kaçış	побег		N;INAN;NOM;MASC;SG
+kaçış	сбежать	kaçış	сбежать		V;PFV;NFIN;ACT
+solomon	соломон	solomon	соломон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+solomon	соломоновых	solomon	соломоновый	PROPN;NOM;SG;3	ADJ;GEN;PL
+solomon	соломона	solomon	соломон	PROPN;NOM;SG;3	N;ANIM;ACC;MASC;SG
+heyet	делегирование	heyet	делегирование		N;INAN;NOM;NEUT;SG
+heyet	делегация	heyet	делегация		N;INAN;NOM;FEM;SG
+heyet	комитет	heyet	комитет		N;INAN;NOM;MASC;SG
+heyet	комитета	heyet	комитет		N;INAN;GEN;MASC;SG
+heyet	делегации	heyet	делегация		N;INAN;NOM;FEM;PL
+productions	productions	productions	productions	N;NOM;SG;3	PROPN
+dresden	дрезден	dre	дрездный	PROPN;AT+ABL;SG;3	N;INAN;NOM;MASC;SG
+vancouver	ванкувере	vancouver	ванкувер	PROPN;NOM;SG;3	N;INAN;ESS;MASC;SG
+kampanya	кампании	kampanya	кампания	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+davud	дэвид	davud	дэвид		N;ANIM;NOM;MASC;SG
+davud	давид	davud	давид		N;ANIM;NOM;MASC;SG
+hughes	хьюз	hughes	хьюз		N;ANIM;NOM;MASC;SG
+metallica	metallica	metallica	metallica	N;NOM;SG;3	PROPN
+kawasaki	кавасаки	kawasaki	кавасаки		N;ANIM;NOM;MASC;PL
+eylemleri	действия	eylem	действие	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+eylemleri	меры	eylem	мера	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+pat	пэт	pat	пэт		PROPN;ANIM;NOM;FEM;SG
+uganda	уганде	uga	уганда	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+uganda	уганда	uga	уганда	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+uganda	уганду	uga	уганда	PROPN;NOM;SG;3	N;INAN;ACC;FEM;SG
+tanrılar	богов	tanrı	бог	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+lópez	лопес	lipez	лопес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+württemberg	вюртемберг	württemberg	вюртемберг	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+karikatür	comics	karikat	comics		PROPN
+karikatür	комиксы	karikat	комикс		N;INAN;NOM;MASC;PL
+karikatür	комикс	karikat	комикс		N;INAN;NOM;MASC;SG
+karikatür	комик	karikat	комик		N;ANIM;NOM;MASC;SG
+karikatür	комикс	karikat	комикс		N;INAN;NOM;MASC;SG
+karikatür	comic	karikat	comic		PROPN
+karikatür	карикатура	karikat	карикатура		N;INAN;NOM;FEM;SG
+karikatür	мультик	karikat	мультик		N;INAN;NOM;MASC;SG
+karikatür	мультики	karikat	мультика		N;INAN;NOM;MASC;PL
+lucky	счастливая	lucky	счастливый		ADJ;NOM;FEM;SG
+lucky	лаки	lucky	лак		N;INAN;NOM;MASC;PL
+lucky	счастливчик	lucky	счастливчик		N;ANIM;NOM;MASC;SG
+lucky	повезло	lucky	везти		V;PFV;NEUT;IND;SG;PST;FIN;ACT
+masaüstü	пк	masaüst	пк		N;INAN;NOM;MASC;SG
+masaüstü	desktop	masaüst	desktop		PROPN
+alpha	alpha	alpha	alpha		PROPN
+alpha	альфа	alpha	альф		N;INAN;NOM;MASC;SG
+zirve	саммит	zirve	саммит		N;INAN;NOM;MASC;SG
+zirve	пик	zirve	пик		N;INAN;NOM;MASC;SG
+armağan	подарок	armağan	подарок		N;INAN;NOM;MASC;SG
+armağan	дар	armağan	дар		N;INAN;NOM;MASC;SG
+avn	avn	avn	avn		PROPN
+gelişmekte	возникающие	geliş	возникать	V;PROG;IND;SG;3;POS;FORM;PRS	V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+gelişmekte	развивающиеся	geliş	развиваться	V;PROG;IND;SG;3;POS;FORM;PRS	V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+gelişmekte	развивающихся	geliş	развиваться	V;PROG;IND;SG;3;POS;FORM;PRS	V;IPFV;GEN;PL;PRS;V.PTCP;PASS
+gelişmekte	развивающаяся	geliş	развиваться	V;PROG;IND;SG;3;POS;FORM;PRS	V;IPFV;NOM;FEM;SG;PRS;V.PTCP;PASS
+yansıtan	отражающая	yansı	отражать	V;PFV;IND;POS;PRS;V.PTCP;CAUS	V;IPFV;NOM;FEM;SG;PRS;V.PTCP;ACT
+yansıtan	отражающие	yansı	отражать	V;PFV;IND;POS;PRS;V.PTCP;CAUS	V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+azaltmak	уменьшить	azal	уменьшить	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;PFV;NFIN;ACT
+azaltmak	сократить	azal	сократить	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	V;PFV;NFIN;ACT
+werder	вердер	werder	вердер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+atlantis	атлантис	atlantis	атлантис		N;INAN;NOM;MASC;SG
+satıldı	продается	sat	продаваться	V;PFV;IND;SG;3;POS;PST;PASS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+satıldı	продал	sat	продать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+beslenir	кормит	besle	кормить	V;IPFV;IND;SG;3;POS;PASS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+beslenir	ленты	besle	лента	V;IPFV;IND;SG;3;POS;PASS	N;INAN;NOM;FEM;PL
+üstte	сверху	üst	сверху	ADJ;ESS;SG;3	ADV
+üstte	верх	üst	верх	ADJ;ESS;SG;3	N;INAN;NOM;MASC;SG
+üstte	топ	üst	топ	ADJ;ESS;SG;3	N;INAN;NOM;MASC;SG
+üstte	top	üst	top	ADJ;ESS;SG;3	PROPN
+angela	энджела	angela	энджел		N;INAN;NOM;FEM;SG
+angela	анжела	angela	анжел		N;ANIM;NOM;FEM;SG
+angela	анджела	angela	анджел		N;ANIM;NOM;FEM;SG
+ihmal	упущение	ihmal	упущение		N;INAN;NOM;NEUT;SG
+ihmal	бездействие	ihmal	бездействие		N;INAN;NOM;NEUT;SG
+ihmal	пренебрежение	ihmal	пренебрежение		N;INAN;NOM;NEUT;SG
+ihmal	игнорирование	ihmal	игнорирование		N;INAN;NOM;NEUT;SG
+ihmal	небрежности	ihmal	небрежность		N;INAN;NOM;FEM;SG
+geometri	геометрия	geometri	геометрия		N;INAN;NOM;FEM;SG
+oynamak	играю	oyna	играть	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+oynamak	играет	oyna	играть	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;3;PRS;FIN;ACT
+chiba	тиба	chiba	тиб	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+görkemli	величественный	görkemli	величественный		ADJ;NOM;MASC;SG
+görkemli	славный	görkemli	славный		ADJ;NOM;MASC;SG
+engeli	разблокировать	engel	разблокировать		V;PFV;NFIN;ACT
+ekledi	добавлены	ekle	добавить	V;PFV;IND;SG;3;POS;PST	V;PFV;PL;PST;V.PTCP;PASS
+seyir	судоходства	seyir	судоходство		N;INAN;NOM;NEUT;PL
+seyir	навигации	seyir	навигация		N;INAN;NOM;FEM;PL
+seyir	судоходство	seyir	судоходство		N;INAN;NOM;NEUT;SG
+seyir	крейсерской	seyir	крейсерский		ADJ;INS;FEM;SG
+rolleri	ролях	rol	роль	N;ACC;PL;3	N;INAN;ESS;FEM;PL
+rolleri	роли	rol	роль	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+kaydedildi	записали	kaydet	записать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+kaydedildi	спас	kaydet	спасти	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+kaydedildi	сохранены	kaydet	сохранить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+ritim	ритм	ritim	ритм		N;INAN;NOM;MASC;SG
+cnn	cnn	cin	cnn		PROPN
+mount	горы	mount	гора	PROPN;NOM;SG;3	N;INAN;NOM;FEM;PL
+mount	гора	mount	гора	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+mount	маунт	mount	маунт	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+danışman	советника	danış	советник		N;ANIM;ACC;MASC;SG
+danışman	советник	danış	советник		N;ANIM;NOM;MASC;SG
+danışman	консультант	danış	консультант		N;ANIM;NOM;MASC;SG
+danışman	консультанта	danış	консультант		N;ANIM;ACC;MASC;SG
+danışman	советник	danış	советник		N;ANIM;NOM;MASC;SG
+danışman	советник	danış	советник		N;ANIM;NOM;MASC;SG
+kırgız	кыргызской	kırgız	кыргызский		ADJ;INS;FEM;SG
+sertifika	сертификаты	sertifika	сертификат	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+sertifika	сертификации	sertifika	сертификация	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+dinar	динаров	dinar	динар		N;INAN;GEN;MASC;PL
+dinar	динар	dinar	динар		N;INAN;NOM;MASC;SG
+kirli	грязно	kirli	грязный		ADJ;NEUT;SG
+kirli	грязный	kirli	грязный		ADJ;NOM;MASC;SG
+kirli	грязная	kirli	грязный		ADJ;NOM;FEM;SG
+kirli	грязные	kirli	грязный		ADJ;NOM;PL
+dağıtımı	распределения	dağıt	распределение	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+mir	мир	mir	мир		N;INAN;NOM;MASC;SG
+deutsche	deutsche	deutsche	deutsche	PROPN;NOM;SG;3	PROPN
+foton	фотоны	foton	фотон		N;INAN;NOM;MASC;PL
+objektif	линзы	objektif	линза		N;INAN;NOM;MASC;PL
+objektif	объектив	objektif	объектив		N;INAN;NOM;MASC;SG
+objektif	цель	objektif	цель		N;INAN;NOM;FEM;SG
+tanzanya	танзания	tanzan	танзания	PROPN;NOM;SG;3	N;INAN;NOM;NEUT;SG
+tanzanya	танзании	tanzan	танзания	PROPN;NOM;SG;3	N;INAN;NOM;NEUT;SG
+zaragoza	сарагоса	zaragoz	сарагос	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+korur	защищает	koru	защищать	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+troll	тролль	troll	тролль		N;ANIM;NOM;MASC;SG
+troll	тролли	troll	тролль		N;ANIM;NOM;MASC;PL
+illeri	провинций	il	провинция	N;ACC;PL;3	N;INAN;GEN;FEM;PL
+illeri	провинции	il	провинция	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+aç	открыть	aç	открыть		V;PFV;NFIN;ACT
+aç	открытый	aç	открыть		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+aç	открыто	aç	открыто		ADV
+aç	open	aç	open		PROPN
+aç	открытая	aç	открыть		V;PFV;NOM;FEM;SG;PST;V.PTCP;PASS
+aç	голодные	aç	голодный		ADJ;NOM;PL
+aç	голодная	aç	голодный		ADJ;NOM;FEM;SG
+aç	голодный	aç	голодный		ADJ;NOM;MASC;SG
+sözcükler	слов	sözcük	слово	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+tiberius	тиберий	tiberius	тиберия		N;ANIM;NOM;MASC;SG
+incir	инжир	incir	инжир		N;INAN;NOM;MASC;SG
+incir	фиг	incir	фиг		N;INAN;NOM;MASC;SG
+kayıplar	пострадавшие	kayıp	пострадавший	N;NOM;PL;3	V;PFV;NOM;PL;PST;V.PTCP;ACT
+delhi	дели	delhi	дели	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+dana	даны	dan	дать		V;PFV;PL;PST;V.PTCP;PASS
+dana	дана	dan	дать		V;PFV;FEM;SG;PST;V.PTCP;PASS
+bağırsak	кишечник	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;NOM;MASC;SG
+bağırsak	кишечника	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;GEN;MASC;SG
+bağırsak	кишечник	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;NOM;MASC;SG
+bağırsak	кишечника	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;GEN;MASC;SG
+bağırsak	колон	bağır	колона	V;PFV;PL;1;POS;PRS	N;INAN;NOM;MASC;SG
+bağırsak	кишечника	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;GEN;MASC;SG
+bağırsak	кишки	bağır	кишка	V;PFV;PL;1;POS;PRS	N;INAN;NOM;FEM;PL
+bağırsak	кишечник	bağır	кишечник	V;PFV;PL;1;POS;PRS	N;INAN;NOM;MASC;SG
+kalacak	остаётся	kal	оставаться	V;PFV;IND;SG;3;POS;FUT	V;IPFV;IND;SG;3;PRS;FIN;MID
+jeoloji	геологической	jeoloji	геологический		ADJ;INS;FEM;SG
+jeoloji	геологии	jeoloji	геология		N;INAN;NOM;FEM;PL
+dem	дем	de	дем		N;INAN;NOM;MASC;SG
+dem	dem	de	dem		PROPN
+bilhassa	особенно	bilhassa	особенно		ADV
+bilhassa	особенно	bilhassa	особенно		ADV
+gençleri	подросткам	genç	подросток	ADJ;ACC;PL;3	N;ANIM;DAT;MASC;PL
+gençleri	подростки	genç	подросток	ADJ;ACC;PL;3	N;ANIM;NOM;MASC;PL
+gençleri	подростков	genç	подросток	ADJ;ACC;PL;3	N;ANIM;GEN;MASC;PL
+rom	ром	rom	ром		N;INAN;NOM;MASC;SG
+rom	пзу	rom	пзо		N;INAN;NOM;FEM;SG
+rom	rom	rom	rom		PROPN
+rom	ром	rom	ром		N;INAN;NOM;MASC;SG
+sofia	софия	sofia	софия		N;INAN;NOM;FEM;SG
+sofia	софии	sofia	софия		N;INAN;NOM;FEM;PL
+grey	серая	grey	серый		ADJ;NOM;FEM;SG
+grey	серый	grey	серый		ADJ;NOM;MASC;SG
+grey	серые	grey	серый		ADJ;NOM;PL
+grey	грей	grey	грей		N;INAN;NOM;MASC;SG
+köşk	особняк	köşk	особняк		N;INAN;NOM;MASC;SG
+devasa	огромная	devasa	огромный		ADJ;NOM;FEM;SG
+devasa	огромный	devasa	огромный		ADJ;NOM;MASC;SG
+devasa	огромные	devasa	огромный		ADJ;NOM;PL
+devasa	огромное	devasa	огромный		ADJ;NOM;NEUT;SG
+devasa	гигантская	devasa	гигантский		ADJ;NOM;FEM;SG
+devasa	гигантские	devasa	гигантский		ADJ;NOM;PL
+devasa	массовые	devasa	массовый		ADJ;NOM;PL
+devasa	огромные	devasa	огромный		ADJ;NOM;PL
+ghost	призрак	ghost	призрак		N;ANIM;NOM;MASC;SG
+ghost	призраки	ghost	призрак		N;INAN;NOM;MASC;PL
+ghost	привидение	ghost	привидение		N;INAN;NOM;NEUT;SG
+dre	дре	dre	дро		N;INAN;NOM;MASC;SG
+düşüş	спад	düşüş	спад		N;INAN;NOM;MASC;SG
+düşüş	уменьшить	düşüş	уменьшить		V;PFV;NFIN;ACT
+düşüş	уменьшение	düşüş	уменьшение		N;INAN;NOM;NEUT;SG
+düşüş	отклонить	düşüş	отклонить		V;PFV;NFIN;ACT
+düşüş	упадок	düşüş	упадок		N;INAN;NOM;MASC;SG
+düşüş	осень	düşüş	осень		N;INAN;NOM;FEM;SG
+düşüş	падение	düşüş	падение		N;INAN;NOM;NEUT;SG
+düşüş	осенью	düşüş	осень		N;INAN;INS;FEM;SG
+düşüş	упасть	düşüş	падать		V;PFV;NFIN;ACT
+vekil	регент	vekil	регент		N;ANIM;NOM;MASC;SG
+vekil	прокси	vekil	прокси		N;INAN;NOM;MASC;SG
+vekil	заместитель	vekil	заместитель		N;ANIM;NOM;MASC;SG
+kalsiyum	кальция	kalsiyum	кальций		N;INAN;NOM;MASC;SG
+rocky	рокки	rocky	рокка		N;ANIM;NOM;MASC;SG
+ideoloji	идеология	ideoloji	идеология		N;INAN;NOM;FEM;SG
+ideoloji	идеологии	ideoloji	идеология		N;INAN;NOM;FEM;SG
+plaka	тарелки	plaka	тарелка		N;INAN;NOM;FEM;PL
+plaka	пластины	plaka	пластина		N;INAN;NOM;FEM;PL
+plaka	тарелку	plaka	тарелка		N;INAN;ACC;FEM;SG
+plaka	плита	plaka	плита		N;INAN;NOM;FEM;SG
+plaka	тарелка	plaka	тарелка		N;INAN;NOM;FEM;SG
+vista	vista	vista	vista		PROPN
+levi	леви	levi	лев		N;ANIM;NOM;MASC;SG
+alışık	привык	alışık	привыкнуть	ADJ	V;PFV;MASC;IND;SG;PST;FIN;ACT
+metropolitan	метрополитен	metropolitan	метрополитный		N;INAN;NOM;MASC;SG
+kapıları	гейтс	kapı	гейтс	N;ACC;PL;3	N;ANIM;NOM;MASC;SG
+kapıları	ворота	kapı	ворота	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+kapıları	двери	kapı	дверь	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+slogan	девиз	slogan	девиз		N;INAN;NOM;MASC;SG
+slogan	слоган	slogan	слоган		N;INAN;NOM;MASC;SG
+slogan	лозунг	slogan	лозунг		N;INAN;NOM;MASC;SG
+slogan	девиз	slogan	девиз		N;INAN;NOM;MASC;SG
+slogan	слоган	slogan	слоган		N;INAN;NOM;MASC;SG
+hero	герой	hero	герой		N;ANIM;NOM;MASC;SG
+rex	рекс	rex	рекс		N;ANIM;NOM;MASC;SG
+mrs	миссис	mrs	миссис		N;ANIM;NOM;FEM;SG
+şahit	свидетели	şahit	свидетель		N;ANIM;NOM;MASC;PL
+şahit	свидетелям	şahit	свидетель		N;ANIM;DAT;MASC;PL
+şahit	свидетелей	şahit	свидетель		N;ANIM;GEN;MASC;PL
+şahit	свидетель	şahit	свидетель		N;ANIM;NOM;MASC;SG
+tez	диссертации	tez	диссертация		N;INAN;NOM;FEM;PL
+tez	диссертации	tez	диссертация		N;INAN;NOM;FEM;PL
+tez	тезис	tez	тезис		N;INAN;NOM;MASC;SG
+mevki	позиция	mevki	позиция		N;INAN;NOM;FEM;SG
+mevki	должность	mevki	должность		N;INAN;NOM;FEM;SG
+mevki	положение	mevki	положение		N;INAN;NOM;NEUT;SG
+lil	лил	lil	лить		V;IPFV;MASC;IND;SG;PST;FIN;ACT
+lionel	лайонел	lionel	лайонеть		N;ANIM;NOM;MASC;SG
+mısırlı	египетский	mısırlı	египетский		ADJ;NOM;MASC;SG
+mısırlı	египта	mısırlı	египет		N;INAN;NOM;MASC;SG
+homo	homo	homo	хомо		PROPN
+kullanışlı	удобный	kullanışlı	удобный		ADJ;NOM;MASC;SG
+kullanışlı	удобно	kullanışlı	удобный		ADJ;NEUT;SG
+kullanışlı	удобная	kullanışlı	удобный		ADJ;NOM;FEM;SG
+kullanışlı	удобное	kullanışlı	удобный		ADJ;NOM;NEUT;SG
+kullanışlı	полезная	kullanışlı	полезный		ADJ;NOM;FEM;SG
+kullanışlı	полезное	kullanışlı	полезный		ADJ;NOM;NEUT;SG
+kullanışlı	полезный	kullanışlı	полезный		ADJ;NOM;MASC;SG
+kullanışlı	полезно	kullanışlı	полезный		ADJ;NEUT;SG
+kullanışlı	полезные	kullanışlı	полезный		ADJ;NOM;PL
+kullanışlı	удобно	kullanışlı	удобный		ADJ;NEUT;SG
+drake	дрейк	drake	дрейк		N;ANIM;NOM;MASC;SG
+keşfedildi	обнаружил	keşfet	обнаружить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+keşfedildi	обнаруженные	keşfet	обнаружить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+pul	марка	pul	марка		N;INAN;NOM;FEM;SG
+pul	марки	pul	марка		N;INAN;NOM;FEM;PL
+pul	шкалы	pul	шкала		N;INAN;NOM;FEM;PL
+pul	весы	pul	весы		N;INAN;NOM;MASC;PL
+gözlemevi	обсерватория	gözlemevi	обсерватория		N;INAN;NOM;FEM;SG
+earl	эрл	earl	эрл		N;ANIM;NOM;MASC;SG
+pazartesi	понедельникам	pazartesi	понедельник		N;INAN;DAT;MASC;PL
+pazartesi	понедельник	pazartesi	понедельник		N;INAN;NOM;MASC;SG
+hamlet	гамлет	hamlet	гамлет		N;ANIM;NOM;MASC;SG
+reed	рид	reed	рид		N;ANIM;NOM;MASC;SG
+muammer	муаммара	muammer	муаммар		N;INAN;GEN;MASC;SG
+trick	фокус	trick	фокус		N;INAN;NOM;MASC;SG
+trick	трюк	trick	трюк		N;INAN;NOM;MASC;SG
+trick	уловка	trick	уловка		N;INAN;NOM;FEM;SG
+eintracht	айнтрахт	eintracht	айнтрахт	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+dante	данте	dant	дант		N;ANIM;NOM;MASC;SG
+mağarası	пещере	mağara	пещера	N;NOM;SG;3	N;INAN;DAT;FEM;SG
+marina	marina	marina	marina	N;DAT;SG;3	PROPN
+marina	марина	marina	марина	N;DAT;SG;3	N;ANIM;NOM;FEM;SG
+spesifik	конкретных	spesifik	конкретный		ADJ;GEN;PL
+spesifik	конкретное	spesifik	конкретный		ADJ;NOM;NEUT;SG
+spesifik	конкретный	spesifik	конкретный		ADJ;NOM;MASC;SG
+spesifik	конкретная	spesifik	конкретный		ADJ;NOM;FEM;SG
+spesifik	конкретные	spesifik	конкретный		ADJ;NOM;PL
+bilinç	сознание	bilinç	сознание		N;INAN;NOM;NEUT;SG
+ideolojik	идеологических	ideolojik	идеологический		ADJ;GEN;PL
+etli	мясистая	etli	мясистый		ADJ;NOM;FEM;SG
+sms	sms	sms	sms		N;INAN;NOM;NEUT;SG
+hendek	траншеи	hendek	траншея		N;INAN;NOM;FEM;PL
+hendek	ров	hendek	ров		N;INAN;NOM;MASC;SG
+eğri	эгер	eğri	эгер		N;INAN;NOM;MASC;SG
+eğri	кривой	eğri	кривой		N;INAN;NOM;MASC;SG
+eğri	кривая	eğri	кривая		N;INAN;NOM;FEM;SG
+nesneler	объектов	nesne	объект	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+odun	дрова	odun	дрова		N;INAN;NOM;NEUT;PL
+odun	дерево	odun	дерево		N;INAN;NOM;NEUT;SG
+odun	древесина	odun	древесина		N;INAN;NOM;FEM;SG
+odun	вуд	odun	вуд		N;ANIM;NOM;MASC;SG
+odun	дрова	odun	дрова		N;INAN;NOM;NEUT;PL
+odun	древесины	odun	древесина		N;INAN;NOM;FEM;PL
+odun	пиломатериалы	odun	пиломатериал		N;INAN;NOM;MASC;PL
+içten	искренние	içten	искренний		ADJ;NOM;PL
+içten	искреннюю	içten	искренний		ADJ;ACC;FEM;SG
+içten	откровенный	içten	откровенный		ADJ;NOM;MASC;SG
+linda	линда	linda	линд		N;ANIM;NOM;FEM;SG
+rahatsızlık	неудобства	rahatsızlık	неудобство	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+bira	пива	bira	пиво		N;INAN;GEN;NEUT;SG
+bira	пиво	bira	пиво		N;INAN;NOM;NEUT;SG
+bira	эля	bira	эля		N;INAN;NOM;FEM;SG
+bira	пива	bira	пиво		N;INAN;GEN;NEUT;SG
+bira	пиво	bira	пиво		N;INAN;NOM;NEUT;SG
+bmw	bmw	bmw	bmw	N;NOM;SG;3	PROPN
+yang	янг	yang	янг		N;ANIM;NOM;MASC;SG
+yang	ян	yang	ян		N;ANIM;NOM;MASC;SG
+yurtdışı	международные	yurtdışı	международный		ADJ;NOM;PL
+yurtdışı	международный	yurtdışı	международный		ADJ;NOM;MASC;SG
+yurtdışı	зарубежные	yurtdışı	зарубежный		ADJ;NOM;PL
+yurtdışı	заморских	yurtdışı	заморский		ADJ;GEN;PL
+denetleme	аудит	denetle	аудить	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+denetleme	ревизия	denetle	ревизия	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+denetleme	ревизии	denetle	ревизия	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+denetleme	проверка	denetle	проверка	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+denetleme	инспекции	denetle	инспекция	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+denetleme	инспекция	denetle	инспекция	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+timberlake	тимберлейк	timberlake	тимберлейк		N;ANIM;NOM;MASC;SG
+basında	печати	bas	печать	N;ESS;SG;3	N;INAN;NOM;FEM;PL
+basında	пресса	bas	пресса	N;ESS;SG;3	N;INAN;NOM;FEM;SG
+basında	пресс	bas	пресс	N;ESS;SG;3	N;INAN;NOM;MASC;SG
+basında	нажмите	bas	нажмить	N;ESS;SG;3	V;PFV;IMP;PL;2;FIN;ACT
+basında	press	bas	press	N;ESS;SG;3	PROPN
+basında	нажать	bas	нажать	N;ESS;SG;3	V;PFV;NFIN;ACT
+basında	media	bas	media	N;ESS;SG;3	PROPN
+basında	медиа	bas	медиа	N;ESS;SG;3	N;INAN;NOM;NEUT;SG
+basında	сми	bas	смотреть	N;ESS;SG;3	N;INAN;NOM;NEUT;PL
+shaw	шоу	shaw	шоу		N;INAN;NOM;NEUT;SG
+işlev	функция	işlev	функция		N;INAN;NOM;FEM;SG
+işlev	функции	işlev	функция		N;INAN;NOM;FEM;PL
+çevrede	вокруг	çevre	вокруг	N;ESS;SG;3	ADV
+armut	груша	armut	груша		N;INAN;NOM;FEM;SG
+armut	груши	armut	грушь		N;INAN;NOM;FEM;PL
+hopkins	хопкинс	hopkins	хопкинс		N;ANIM;NOM;MASC;SG
+sonlu	конечное	sonlu	конечный		ADJ;NOM;NEUT;SG
+sonlu	конечный	sonlu	конечный		ADJ;NOM;MASC;SG
+sonlu	конечных	sonlu	конечный		ADJ;GEN;PL
+ayağı	фут	ayak	фут	N;NOM;SG;3	
+ayağı	ногу	ayak	нога	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+atlantic	атлантик	atlantic	атлантика	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+atlantic	атлантике	atlantic	атлантика	PROPN;NOM;SG;3	N;INAN;DAT;FEM;SG
+sorumluluğu	ответственность	sorumluluk	ответственность	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+evlat	мальчик	evlat	мальчик		N;ANIM;NOM;MASC;SG
+evlat	парень	evlat	парень		N;ANIM;NOM;MASC;SG
+evlat	boy	evlat	boy		PROPN
+evlat	сынок	evlat	сынок		N;ANIM;NOM;MASC;SG
+evlat	сын	evlat	сын		N;ANIM;NOM;MASC;SG
+string	строка	string	строка		N;INAN;NOM;FEM;SG
+gündelik	случайный	gündelik	случайный		ADJ;NOM;MASC;SG
+çaldı	украли	çal	красть	V;PFV;IND;SG;3;POS;PST	V;PFV;IND;PL;PST;FIN;ACT
+üretir	порождает	üretir	порождать	V;IPFV;IND;SG;3;POS;CAUS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+üretir	производит	üretir	производить	V;IPFV;IND;SG;3;POS;CAUS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+kızılderilileri	индейцев	kızılderili	индеец	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ANIM;GEN;MASC;PL
+kızılderilileri	индейцы	kızılderili	индеец	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;ANIM;NOM;MASC;PL
+basılmış	печатных	basıl	печатный	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	ADJ;GEN;PL
+bach	баха	bach	баха		N;INAN;NOM;MASC;SG
+bach	бах	bach	бах		N;INAN;NOM;MASC;SG
+mitolojik	мифологических	mitolojik	мифологический		ADJ;GEN;PL
+orantılı	пропорционально	orantılı	пропорционально		ADV
+orantılı	пропорционального	orantılı	пропорциональный		ADJ;GEN;MASC;SG
+gurur	гордыня	gurur	гордыня		N;INAN;NOM;FEM;SG
+gurur	гордость	gurur	гордость		N;INAN;NOM;FEM;SG
+gurur	горжусь	gurur	гордиться		V;IPFV;IND;SG;1;PRS;FIN;MID
+gurur	гордый	gurur	гордый		ADJ;NOM;MASC;SG
+gurur	горд	gurur	гордый		ADJ;MASC;SG
+başlıyor	начинается	başla	начинаться	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;MID
+başlıyor	начало	başla	начало	V;PROG;IND;SG;3;POS;INFM;PRS	N;INAN;NOM;NEUT;SG
+başlıyor	начинаю	başla	начинать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;1;PRS;FIN;ACT
+başlıyor	начиная	başla	начинать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;PRS;V.CVB;ACT
+başlıyor	начинается	başla	начинаться	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;MID
+başlıyor	начинает	başla	начинать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+edmund	эдмунд	ed	эдмунд		N;ANIM;NOM;MASC;SG
+andronikos	андроник	andronikos	андроник		N;ANIM;NOM;MASC;SG
+potasyum	поташ	potasyum	поташа	N;NOM;SG;3	
+potasyum	калия	potasyum	калий	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+restorasyon	восстановления	restorasyon	восстановление	N;NOM;SG;3	N;INAN;GEN;NEUT;SG
+ziyareti	посещение	ziyaret	посещение	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+ziyareti	посещения	ziyaret	посещение	N;ACC;SG;3	N;INAN;NOM;NEUT;PL
+delil	доказательство	delil	доказательство		N;INAN;NOM;NEUT;SG
+delil	доказательства	delil	доказательство		N;INAN;NOM;NEUT;PL
+delil	доказательств	delil	доказательство		N;INAN;GEN;NEUT;PL
+delil	доказательства	delil	доказательство		N;INAN;NOM;NEUT;PL
+delil	доказательство	delil	доказательство		N;INAN;NOM;NEUT;SG
+delil	улики	delil	улик		N;INAN;NOM;MASC;PL
+delil	улика	delil	улик		N;INAN;NOM;FEM;SG
+kentler	городов	kent	город	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+izole	изолированы	izole	изолировать		V;PFV;PL;PST;V.PTCP;PASS
+izole	изоляция	izole	изоляция		N;INAN;NOM;FEM;SG
+izole	изоляции	izole	изоляция		N;INAN;NOM;FEM;PL
+izole	изолировать	izole	изолировать		V;IPFV;NFIN;ACT
+izole	изолированных	izole	изолировать		V;PFV;GEN;PL;PST;V.PTCP;PASS
+senatör	сенатора	senatör	сенатор		N;ANIM;ACC;MASC;SG
+senatör	сенатор	senatör	сенатор		N;ANIM;NOM;MASC;SG
+varisi	наследника	vari	наследник	N;NOM;SG;3	N;ANIM;ACC;MASC;SG
+tiger	тигр	tiger	тигр		N;ANIM;NOM;MASC;SG
+turgay	тургай	turgay	тургай		INTJ
+olgun	зрелость	olgun	зрелость		N;INAN;NOM;FEM;SG
+olgun	зрелости	olgun	зрелость		N;INAN;NOM;FEM;PL
+olgun	спелые	olgun	спелый		ADJ;NOM;PL
+olgun	зрелый	olgun	зрелый		ADJ;NOM;MASC;SG
+kendimi	сам	kendi	сам	PRO;ACC;SG;1;REFL	ADJ;NOM;MASC;SG
+volkswagen	volkswagen	volkswagen	volkswagen	N;NOM;SG;3	PROPN
+topal	хромой	topal	хромой		ADJ;NOM;MASC;SG
+topal	gimp	topal	gimp		PROPN
+topal	калека	topal	калек		N;ANIM;NOM;MASC;SG
+topal	отстой	topal	отстой		N;INAN;NOM;MASC;SG
+maymun	обезьяны	maymun	обезьяна	N;NOM;SG;3	N;ANIM;NOM;MASC;PL
+kabuğu	shell	kabuk	shell	N;NOM;SG;3	PROPN
+suzuki	suzuki	suzuki	suzuki		PROPN
+toplandı	собрали	topla	собрать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+toplandı	собранные	topla	собрать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;NOM;PL;PST;V.PTCP;PASS
+toplandı	собраны	topla	собрать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+toplandı	собрались	topla	собраться	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;MID
+fischer	фишер	fischer	фишер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+ayrık	отдельных	ayrık	отдельный		ADJ;GEN;PL
+honduras	гондурасе	honduras	гондурас	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+honduras	гондурас	honduras	гондурас	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+honduras	гондураса	honduras	гондурас	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+cesaret	кишки	cesaret	кишка		N;INAN;NOM;FEM;PL
+cesaret	мужество	cesaret	мужество		N;INAN;NOM;NEUT;SG
+cesaret	храбрость	cesaret	храбрость		N;INAN;NOM;FEM;SG
+cesaret	смелость	cesaret	смелость		N;INAN;NOM;FEM;SG
+cesaret	храбрость	cesaret	храбрость		N;INAN;NOM;FEM;SG
+bristol	bristol	bristol	bristol	PROPN;NOM;SG;3	PROPN
+endişe	тревога	endiş	тревога		N;INAN;NOM;FEM;SG
+endişe	беспокойство	endiş	беспокойство		N;INAN;NOM;NEUT;SG
+endişe	обеспокоен	endiş	обеспокоить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+endişe	волнуется	endiş	волноваться		V;IPFV;IND;SG;3;PRS;FIN;MID
+endişe	волноваться	endiş	волноваться		V;IPFV;NFIN;MID
+endişe	озабоченность	endiş	озабоченность		N;INAN;NOM;FEM;SG
+endişe	беспокойство	endiş	беспокойство		N;INAN;NOM;NEUT;SG
+endişe	забота	endiş	забота		N;INAN;NOM;FEM;SG
+endişe	обеспокоенность	endiş	обеспокоенность		N;INAN;NOM;FEM;SG
+schmidt	шмидт	schmidt	шмидт		N;ANIM;NOM;MASC;SG
+sánchez	санчес	sánchez	санчес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+çoğul	множественное	çoğul	множественный		ADJ;NOM;NEUT;SG
+vicente	висенте	vicen	висент	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+öğle	ланч	öğle	ленч		N;INAN;NOM;MASC;SG
+öğle	обед	öğle	обед		N;INAN;NOM;MASC;SG
+öğle	полдень	öğle	полдень		N;INAN;NOM;MASC;SG
+pistons	поршни	pistons	поршень		N;INAN;NOM;MASC;PL
+pen	перо	pen	перо		N;INAN;NOM;NEUT;SG
+pen	пен	pen	пен		N;INAN;NOM;MASC;SG
+pen	ручка	pen	ручка		N;INAN;NOM;FEM;SG
+pen	ручку	pen	ручка		N;INAN;ACC;FEM;SG
+durur	остановки	dur	остановка	V;IPFV;IND;SG;3;POS	N;INAN;NOM;FEM;PL
+durur	останавливается	dur	останавливаться	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;MID
+durur	прекращается	dur	прекращаться	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+storm	шторм	stor	шторм		N;INAN;NOM;MASC;SG
+storm	буря	stor	буря		N;INAN;NOM;FEM;SG
+storm	гроза	stor	гроза		N;INAN;NOM;FEM;SG
+oyuncak	игрушку	oyuncak	игрушка	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+oyuncak	игрушки	oyuncak	игрушка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+oyuncak	игрушки	oyuncak	игрушка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+kaş	брови	kaş	бровь		N;INAN;NOM;FEM;PL
+kaş	бровей	kaş	бровь		N;INAN;GEN;FEM;PL
+kaş	кас	kaş	кас		INTJ
+kaş	мускулы	kaş	мускул		N;INAN;NOM;MASC;PL
+kaş	мышцы	kaş	мышца		N;INAN;NOM;FEM;PL
+kaş	мышца	kaş	мышца		N;INAN;NOM;FEM;SG
+kaş	брови	kaş	бровь		N;INAN;NOM;FEM;PL
+kaş	брови	kaş	бровь		N;INAN;NOM;FEM;PL
+kaş	бровь	kaş	бровь		N;INAN;NOM;FEM;SG
+herodot	геродот	herodot	геродот		N;ANIM;NOM;MASC;SG
+salzburg	зальцбург	salzburg	зальцбург	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+leicester	лестер	leicester	лестер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+ward	уорд	ward	уорда		N;ANIM;NOM;MASC;SG
+taşkent	ташкент	taşkent	ташкент	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+won	победила	won	победить		V;PFV;FEM;IND;SG;PST;FIN;ACT
+won	выиграла	won	выиграть		V;PFV;FEM;IND;SG;PST;FIN;ACT
+won	выиграл	won	выиграть		V;PFV;MASC;IND;SG;PST;FIN;ACT
+won	победил	won	победить		V;PFV;MASC;IND;SG;PST;FIN;ACT
+nepal	непала	nepal	непал	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+nepal	непале	nepal	непал	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+nepal	непал	nepal	непал	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+nepal	непала	nepal	непал	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+problemler	проблем	problem	проблема	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+mezhep	культ	mezhep	культ		N;INAN;NOM;MASC;SG
+parantez	скобках	parantez	скобка		N;INAN;ESS;FEM;PL
+parantez	скобки	parantez	скобка		N;INAN;NOM;FEM;PL
+üstünlüğü	верховенство	üstünlük	верховенство	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+üstünlüğü	превосходство	üstünlük	превосходство	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+şerit	переулок	şerit	переулок		N;INAN;NOM;MASC;SG
+şerit	лейн	şerit	лейн		N;INAN;NOM;MASC;SG
+şerit	лэйн	şerit	лэйн		N;ANIM;NOM;FEM;SG
+şerit	полос	şerit	полоса		N;INAN;GEN;FEM;PL
+şerit	полоса	şerit	полоса		N;INAN;NOM;FEM;SG
+şerit	лента	şerit	лента		N;INAN;NOM;FEM;SG
+şerit	стрип	şerit	стрип		N;INAN;NOM;FEM;SG
+şerit	полоса	şerit	полоса		N;INAN;NOM;FEM;SG
+zevk	удовольствие	zevk	удовольствие		N;INAN;NOM;NEUT;SG
+zevk	удовольствия	zevk	удовольствие		N;INAN;NOM;NEUT;SG
+zevk	наслаждение	zevk	наслаждение		N;INAN;NOM;NEUT;SG
+zevk	наслаждение	zevk	наслаждение		N;INAN;NOM;NEUT;SG
+bird	птичка	bird	птичка		N;INAN;NOM;FEM;SG
+bird	бёрд	bird	бёрд		N;INAN;NOM;MASC;SG
+bird	птицы	bird	птица		N;ANIM;NOM;FEM;PL
+bird	птица	bird	птица		N;ANIM;NOM;FEM;SG
+açılışı	открытия	açılış	открытие	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+hakimiyet	господства	hakimiyet	господство	N;DAT;SG;3	N;INAN;NOM;NEUT;PL
+hakimiyet	господство	hakimiyet	господство	N;DAT;SG;3	N;INAN;NOM;NEUT;SG
+hakimiyet	господство	hakimiyet	господство	N;DAT;SG;3	N;INAN;NOM;NEUT;SG
+hakimiyet	доминирование	hakimiyet	доминирование	N;DAT;SG;3	N;INAN;NOM;NEUT;SG
+elçisi	посланником	elçi	посланник	N;NOM;SG;3	N;ANIM;INS;MASC;SG
+waters	водах	waters	вода		N;INAN;ESS;FEM;PL
+jeremy	джереми	jeremy	джерь		N;ANIM;NOM;MASC;SG
+ilhak	аннексии	ilhak	аннексия	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+atın	бросили	at	бросить		V;PFV;IND;PL;PST;FIN;ACT
+atın	бросить	at	бросить		V;PFV;NFIN;ACT
+atın	бросок	at	бросок		N;INAN;NOM;MASC;SG
+kopyası	копирование	kopya	копирование		N;INAN;NOM;NEUT;SG
+kopyası	скопировать	kopya	копировать		V;PFV;NFIN;ACT
+kopyası	копировать	kopya	копировать		V;IPFV;NFIN;ACT
+kopyası	копия	kopya	копия		N;INAN;NOM;FEM;SG
+keşfetti	обнаруженные	keşfet	обнаружить	V;PFV;IND;SG;3;POS;PST	V;PFV;NOM;PL;PST;V.PTCP;PASS
+bennett	беннетт	bennett	беннетт		N;ANIM;NOM;MASC;SG
+bennett	беннет	bennett	беннуть		N;ANIM;NOM;FEM;SG
+tanı	диагностических	tan	диагностический	N;NOM;SG;3	ADJ;GEN;PL
+sirius	сириус	sirius	сириус		N;INAN;NOM;MASC;SG
+nakliye	грузовых	nakil	грузовой		ADJ;GEN;PL
+nakliye	судоходство	nakil	судоходство		N;INAN;NOM;NEUT;SG
+nakliye	доставка	nakil	доставка		N;INAN;NOM;FEM;SG
+nakliye	транспорт	nakil	транспорт		N;INAN;NOM;MASC;SG
+nakliye	перевозка	nakil	перевозка		N;INAN;NOM;FEM;SG
+nakliye	перевозки	nakil	перевозка		N;INAN;NOM;FEM;PL
+sektör	сектор	sektör	сектор		N;INAN;NOM;MASC;SG
+sektör	промышленности	sektör	промышленность		N;INAN;NOM;FEM;SG
+sektör	отрасль	sektör	отрасль		N;INAN;NOM;FEM;SG
+sektör	индустрия	sektör	индустрия		N;INAN;NOM;FEM;SG
+sektör	промышленность	sektör	промышленность		N;INAN;NOM;FEM;SG
+arabası	корзину	araba	корзина	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+büyüklük	масштабов	büyüklük	масштаб	N;NOM;SG;3	N;INAN;GEN;MASC;PL
+büyüklük	размеры	büyüklük	размер	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+kıyamet	doomsday	kıyamet	doomsday		PROPN
+kıyamet	армагеддон	kıyamet	армагеддон		N;INAN;NOM;MASC;SG
+kıyamet	апокалипсис	kıyamet	апокалипсис		N;INAN;NOM;MASC;SG
+kepler	kepler	kep	kepler	N;NOM;PL;3	PROPN
+toros	торос	toros	торос		N;ANIM;NOM;MASC;SG
+yem	ленте	ye	лента		N;INAN;DAT;FEM;SG
+yem	лента	ye	лента		N;INAN;NOM;FEM;SG
+yem	корма	ye	корм		N;INAN;GEN;MASC;SG
+yem	ленту	ye	лента		N;INAN;ACC;FEM;SG
+yem	приманка	ye	приманка		N;INAN;NOM;FEM;SG
+yem	корм	ye	корм		N;INAN;NOM;MASC;SG
+yem	корма	ye	корм		N;INAN;GEN;MASC;SG
+yem	кормов	ye	корм		N;INAN;GEN;MASC;PL
+yem	приманку	ye	приманка		N;INAN;ACC;FEM;SG
+yem	приманка	ye	приманка		N;INAN;NOM;FEM;SG
+terörist	террорист	terörist	террорист		N;ANIM;NOM;MASC;SG
+terörist	террористических	terörist	террористический		ADJ;GEN;PL
+terörist	террористы	terörist	террорист		N;ANIM;NOM;MASC;PL
+terörist	террористов	terörist	террорист		N;ANIM;GEN;MASC;PL
+şakir	шакир	şakir	шакир		N;ANIM;NOM;MASC;SG
+ahlaki	моральная	ahlaki	моральный		ADJ;NOM;FEM;SG
+ahlaki	мораль	ahlaki	мораль		N;INAN;NOM;FEM;SG
+ahlaki	моральный	ahlaki	моральный		ADJ;NOM;MASC;SG
+tabur	батальона	tabur	батальон		N;INAN;GEN;MASC;SG
+tabur	батальон	tabur	батальон		N;INAN;NOM;MASC;SG
+kategorileri	категорий	kategori	категория	N;ACC;PL;3	N;INAN;GEN;FEM;PL
+kategorileri	категории	kategori	категория	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+senfonik	symphonic	senfonik	symphonic		PROPN
+kostüm	костюм	kostüm	костюм		N;INAN;NOM;MASC;SG
+kostüm	костюмы	kostüm	костюм		N;INAN;NOM;MASC;PL
+weber	вебер	weber	вебер		N;INAN;NOM;MASC;SG
+tavır	позиция	tavır	позиция		N;INAN;NOM;FEM;SG
+tavır	отношение	tavır	отношение		N;INAN;NOM;NEUT;SG
+tavır	настрой	tavır	настрой		N;INAN;NOM;MASC;SG
+pasif	пассивной	pasif	пассивный		ADJ;INS;FEM;SG
+anlık	мгновение	anlık	мгновение		N;INAN;NOM;NEUT;SG
+anlık	мгновенная	anlık	мгновенный		ADJ;NOM;FEM;SG
+solist	солиста	solist	солист		N;ANIM;ACC;MASC;SG
+belediyeler	муниципалитетов	belediye	муниципалитет	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+mode	режим	mode	режим		N;INAN;NOM;MASC;SG
+mode	mode	mode	mode		PROPN
+gür	пышные	gür	пышный		ADJ;NOM;PL
+gür	густые	gür	густой		ADJ;NOM;PL
+fourier	фурье	fourier	фурье		N;INAN;NOM;MASC;SG
+buyuk	большая	buyuk	большой		ADJ;NOM;FEM;SG
+buyuk	big	buyuk	big		PROPN
+buyuk	большие	buyuk	большой		ADJ;NOM;PL
+buyuk	большой	buyuk	большой		ADJ;NOM;MASC;SG
+oturum	заседание	oturum	заседание		N;INAN;NOM;NEUT;SG
+oturum	сессия	oturum	сессия		N;INAN;NOM;FEM;SG
+oturum	сеанс	oturum	сеанс		N;INAN;NOM;MASC;SG
+oturum	сессии	oturum	сессия		N;INAN;NOM;FEM;PL
+arkası	позади	arka	позади	N;NOM;SG;3	ADV
+arkası	сзади	arka	сзади	N;NOM;SG;3	ADV
+harper	харпер	harper	харпер		N;ANIM;NOM;FEM;SG
+tamamıyla	полностью	tamam	полностью	ADJ;INS;SG;3	ADV
+tamamıyla	совершенно	tamam	совершенно	ADJ;INS;SG;3	ADV
+tamamıyla	совершенно	tamam	совершенно	ADJ;INS;SG;3	ADV
+tamamıyla	полностью	tamam	полностью	ADJ;INS;SG;3	ADV
+tamamıyla	абсолютно	tamam	абсолютно	ADJ;INS;SG;3	ADV
+result	капля	result	капля		N;INAN;NOM;FEM;SG
+teatro	teatro	teatro	teatro	PROPN;NOM;SG;3	PROPN
+maiden	maiden	maiden	maiden		PROPN
+maiden	дева	maiden	дева		N;ANIM;NOM;FEM;SG
+şikago	чикаго	şikago	чикий		N;INAN;NOM;MASC;SG
+arşivlenmiş	архив	arşivle	архив	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;INAN;NOM;MASC;SG
+curtis	кёртис	curtis	кёртис		N;ANIM;NOM;MASC;SG
+curtis	кертис	curtis	кертис		N;ANIM;NOM;MASC;SG
+alba	альба	alba	альба	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+ayrılık	разделительной	ayrılık	разделительный	N;NOM;SG;3	ADJ;INS;FEM;SG
+aletleri	инструменты	alet	инструмент	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+aletleri	приборы	alet	прибор	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+louisiana	луизиана	loui	луизиан	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+istekleri	просьбы	istek	просьба	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+istekleri	запросы	istek	запрос	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+kabileler	племен	kabile	племя	N;NOM;PL;3	N;INAN;GEN;NEUT;PL
+cümleler	фраз	cümle	фраза	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+thomson	томсон	thomson	томсон		N;ANIM;NOM;MASC;SG
+döngü	карусель	döngü	карусель		N;INAN;NOM;FEM;SG
+döngü	цикл	döngü	цикл		N;INAN;NOM;MASC;SG
+döngü	петля	döngü	петля		N;INAN;NOM;FEM;SG
+döngü	цикла	döngü	цикл		N;INAN;GEN;MASC;SG
+döngü	цикл	döngü	цикл		N;INAN;NOM;MASC;SG
+döngü	циклы	döngü	цикл		N;INAN;NOM;MASC;PL
+uçaklar	авиация	uçak	авиация	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+uçaklar	самолет	uçak	самолет	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+uçaklar	самолёт	uçak	самолет	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+uçaklar	самолета	uçak	самолет	N;NOM;PL;3	N;INAN;GEN;MASC;SG
+atılmış	выброшенных	at	выбросить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;GEN;PL;PST;V.PTCP;PASS
+atılmış	бросил	at	бросить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+atılmış	высланы	at	выслать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+atılmış	исключили	at	исключить	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+vurgu	упор	vurgu	упор		N;INAN;NOM;MASC;SG
+vurgu	акцент	vurgu	акцент		N;INAN;NOM;MASC;SG
+lucius	луций	lucius	луций		N;ANIM;NOM;MASC;SG
+özgürlükler	свобод	özgürlük	свобода	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+lynch	линч	lynch	линч		N;ANIM;NOM;MASC;SG
+odaları	комнаты	oda	комната	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+odaları	номера	oda	номер	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+sergei	сергей	sergei	сергей		N;ANIM;NOM;MASC;SG
+tekne	лодке	tekne	лодка		N;INAN;DAT;FEM;SG
+tekne	лодка	tekne	лодка		N;INAN;NOM;FEM;SG
+tekne	лодку	tekne	лодка		N;INAN;ACC;FEM;SG
+tekne	яхта	tekne	яхта		N;INAN;NOM;FEM;SG
+aus	aus	aus	aus		PROPN
+klein	кляйн	kle	кляйн		N;ANIM;NOM;MASC;SG
+klein	клайн	kle	клайн		N;INAN;NOM;FEM;SG
+sıralı	последовательных	sıralı	последовательный		ADJ;GEN;PL
+sıralı	последовательная	sıralı	последовательный		ADJ;NOM;FEM;SG
+sıralı	последовательный	sıralı	последовательный		ADJ;NOM;MASC;SG
+sıralı	последовательное	sıralı	последовательный		ADJ;NOM;NEUT;SG
+sıralı	последовательные	sıralı	последовательный		ADJ;NOM;PL
+sıralı	последовательности	sıralı	последовательность		N;INAN;NOM;FEM;PL
+sıralı	последовательность	sıralı	последовательность		N;INAN;NOM;FEM;SG
+ita	ита	ita	ита		N;INAN;NOM;FEM;SG
+komşuları	соседи	komşu	сосед	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+komşuları	соседями	komşu	сосед	ADJ;NOM;PL;3	N;ANIM;INS;MASC;PL
+komşuları	соседи	komşu	сосед	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+gezgin	traveller	gezgin	traveller	N;NOM;SG;3	PROPN
+tuzlu	соленое	tuzlu	соленый		ADJ;NOM;NEUT;SG
+tuzlu	соленой	tuzlu	соленый		ADJ;INS;FEM;SG
+adayları	кандидатов	aday	кандидат	N;NOM;PL;3	N;ANIM;GEN;MASC;PL
+mesele	вопрос	mesele	вопрос		N;INAN;NOM;MASC;SG
+mesele	выпуск	mesele	выпуск		N;INAN;NOM;MASC;SG
+mesele	проблема	mesele	проблема		N;INAN;NOM;FEM;SG
+oğul	сынок	oğul	сынок		N;ANIM;NOM;MASC;SG
+oğul	сын	oğul	сын		N;ANIM;NOM;MASC;SG
+nine	нана	nine	нана		PART
+nine	бабушка	nine	бабушка		N;ANIM;NOM;FEM;SG
+elmalı	яблоко	el	яблоко		N;INAN;NOM;NEUT;SG
+elmalı	яблочный	el	яблочный		ADJ;NOM;MASC;SG
+elmalı	apple	el	эппл		PROPN;NOM;SG
+sınırlar	границ	sınır	граница	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+ifadeleri	заявления	ifade	заявление	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+kolonisi	колония	koloni	колония	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+kolonisi	колонии	koloni	колония	N;ACC;SG;3	N;INAN;NOM;FEM;PL
+zeka	интеллект	zeka	интеллект		N;INAN;NOM;MASC;SG
+zeka	разведка	zeka	разведка		N;INAN;NOM;FEM;SG
+zeka	разведки	zeka	разведка		N;INAN;NOM;FEM;SG
+zeka	остроумие	zeka	остроумие		N;INAN;NOM;NEUT;SG
+yıldönümü	годовщины	yıldönüm	годовщина	N;ACC;SG;3	N;INAN;NOM;FEM;PL
+yıldönümü	годовщина	yıldönüm	годовщина	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+yıldönümü	юбилей	yıldönüm	юбилей	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+yıldönümü	годовщины	yıldönüm	годовщина	N;ACC;SG;3	N;INAN;NOM;FEM;PL
+gibson	гибсон	gibson	гибсон		N;ANIM;NOM;MASC;SG
+porter	портер	porter	портер		N;ANIM;NOM;MASC;SG
+batum	батуми	batum	батум		N;INAN;NOM;MASC;SG
+girişimleri	инициативы	girişim	инициатива	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+girişimleri	попытки	girişim	попытка	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+buldum	найдены	bul	найти	V;PFV;IND;SG;1;POS;PST	V;PFV;PL;PST;V.PTCP;PASS
+dalgalar	рябь	dalga	рябь	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+dalgalar	волн	dalga	волна	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+nantes	нант	nantes	нант	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+musevi	еврейские	musevi	еврейский		ADJ;NOM;PL
+musevi	еврейский	musevi	еврейский		ADJ;NOM;MASC;SG
+musevi	еврейских	musevi	еврейский		ADJ;GEN;PL
+musevi	еврейская	musevi	еврейский		ADJ;NOM;FEM;SG
+musevi	еврей	musevi	еврей		N;ANIM;NOM;MASC;SG
+musevi	евреи	musevi	еврей		N;ANIM;NOM;MASC;PL
+nat	нэт	nat	нэт		INTJ
+antonius	антоний	antonius	антоний		N;ANIM;NOM;MASC;SG
+antonius	энтони	antonius	энтонь		N;ANIM;NOM;MASC;SG
+spider	паук	spider	паук		N;INAN;NOM;MASC;SG
+spider	пауки	spider	паук		N;ANIM;NOM;MASC;PL
+flüt	флейта	flüt	флейт		N;INAN;NOM;FEM;SG
+harap	разбил	harap	разбить		V;PFV;MASC;IND;SG;PST;FIN;ACT
+salı	вторник	salı	вторник		N;INAN;NOM;MASC;SG
+atmak	бросать	at	бросать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;NFIN;ACT
+bölük	эскадрилья	bölük	эскадрилье		N;INAN;NOM;FEM;SG
+bölük	компания	bölük	компания		N;INAN;NOM;FEM;SG
+bölük	company	bölük	company		PROPN
+bölük	рота	bölük	рот		N;INAN;NOM;FEM;SG
+bölük	компании	bölük	компания		N;INAN;NOM;FEM;PL
+bölük	спасатели	bölük	спасатель		N;ANIM;NOM;MASC;PL
+bölük	команда	bölük	команда		N;INAN;NOM;FEM;SG
+bölük	отряд	bölük	отряд		N;INAN;NOM;MASC;SG
+bölük	взвод	bölük	взвод		N;INAN;NOM;MASC;SG
+bismarck	бисмарк	bismarck	бисмарк	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+manet	мане	manet	ман		N;INAN;NOM;MASC;SG
+tohum	семенной	tohum	семенный	N;NOM;SG;3	ADJ;NOM;MASC;SG
+tohum	семена	tohum	семя	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+tohum	семян	tohum	семя	N;NOM;SG;3	N;INAN;GEN;NEUT;PL
+tohum	семена	tohum	семя	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+mutluluk	счастья	mutluluk	счастье	N;NOM;SG;3	N;INAN;GEN;NEUT;SG
+tayfun	тайфун	tayfun	тайфун		N;INAN;NOM;MASC;SG
+molekül	молекулярной	molekül	молекулярный	N;NOM;SG;3	ADJ;INS;FEM;SG
+molekül	молекулы	molekül	молекула	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+molekül	молекулы	molekül	молекула	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+madencilik	добычи	madencilik	добыча	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+papaz	викарий	papaz	викарий		N;ANIM;NOM;MASC;SG
+papaz	священника	papaz	священник		N;ANIM;ACC;MASC;SG
+papaz	священник	papaz	священник		N;ANIM;NOM;MASC;SG
+papaz	пастора	papaz	пастор		N;ANIM;ACC;MASC;SG
+papaz	пастор	papaz	пастор		N;ANIM;NOM;MASC;SG
+con	кон	con	кон	INTJ	
+edwin	эдвин	et	эдвин		N;ANIM;NOM;MASC;SG
+queens	королевы	queens	королева	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;PL
+terminal	терминал	terminal	терминал		N;INAN;NOM;MASC;SG
+terminal	терминалов	terminal	терминал		N;INAN;GEN;MASC;PL
+bilişsel	когнитивные	bilişsel	когнитивный		ADJ;NOM;PL
+yanma	сжигания	yan	сжигание		N;INAN;NOM;NEUT;SG
+yanma	сжигание	yan	сжигание		N;INAN;NOM;NEUT;SG
+yanma	горит	yan	гореть		V;IPFV;IND;SG;3;PRS;FIN;ACT
+yanma	сжигание	yan	сжигание		N;INAN;NOM;NEUT;SG
+diger	другой	diger	другой		ADJ;NOM;MASC;SG
+diger	другая	diger	другой		ADJ;NOM;FEM;SG
+diger	другое	diger	другой		ADJ;NOM;NEUT;SG
+diger	другие	diger	другой		ADJ;NOM;PL
+diger	прочие	diger	прочий		ADJ;NOM;PL
+diger	другие	diger	другой		ADJ;NOM;PL
+diger	прочие	diger	прочий		ADJ;NOM;PL
+fiil	глагол	fiil	глагол		N;INAN;NOM;MASC;SG
+sakatlık	травмы	sakatlık	травма	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+ima	ima	ima	ima		PROPN
+ima	подразумевает	ima	подразумевать		V;IPFV;IND;SG;3;PRS;FIN;ACT
+ima	подразумевается	ima	подразумевать		V;IPFV;IND;SG;3;PRS;FIN;PASS
+owen	оуэн	owen	оуэн	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+sophie	софи	sophie	софи		N;ANIM;NOM;FEM;SG
+yayılması	распространяется	yay	распространяться	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+magazin	журнал	magazin	журнал		N;INAN;NOM;MASC;SG
+magazin	magazine	magazin	magazine		PROPN
+magazin	журналы	magazin	журнал		N;INAN;NOM;MASC;PL
+tüketim	потребления	tüket	потребление		N;INAN;GEN;NEUT;SG
+tüketim	потребление	tüket	потребление		N;INAN;NOM;NEUT;SG
+saraybosna	сараево	saraybo	сараево	PROPN;NOM;SG;3	ADV
+azalma	уменьшение	azal	уменьшение		N;INAN;NOM;NEUT;SG
+azalma	сокращение	azal	сокращение		N;INAN;NOM;NEUT;SG
+azalma	уменьшить	azal	уменьшить		V;PFV;NFIN;ACT
+azalma	уменьшение	azal	уменьшение		N;INAN;NOM;NEUT;SG
+dosyalar	файлов	dosya	файл	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+patent	патента	patent	патент	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+patent	патенты	patent	патент	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+patent	патентов	patent	патент	N;NOM;SG;3	N;INAN;GEN;MASC;PL
+tara	тару	tara	тару		N;INAN;ACC;FEM;SG
+tara	тара	tara	тара		N;INAN;NOM;FEM;SG
+tara	таре	tara	тара		N;INAN;DAT;FEM;SG
+tara	сканирование	tara	сканирование		N;INAN;NOM;NEUT;SG
+oya	голоса	oya	голос		N;INAN;NOM;MASC;PL
+oya	голосов	oya	голос		N;INAN;GEN;MASC;PL
+gauss	гаусса	gauss	гаусс		N;INAN;GEN;MASC;SG
+lori	лори	None	лора		N;ANIM;NOM;FEM;SG
+basılı	печатных	basılı	печатный		ADJ;GEN;PL
+jam	джем	jam	джем		N;INAN;NOM;MASC;SG
+jam	jam	jam	jam		PROPN
+düzenle	правка	düzen	правка	N;INS;SG;3	N;INAN;NOM;FEM;SG
+düzenle	редактировать	düzen	редактировать	N;INS;SG;3	V;IPFV;NFIN;ACT
+düzenle	изменить	düzen	изменить	N;INS;SG;3	V;PFV;NFIN;ACT
+düzenle	редактирование	düzen	редактирование	N;INS;SG;3	N;INAN;NOM;NEUT;SG
+düzenle	изменить	düzen	изменить	N;INS;SG;3	V;PFV;NFIN;ACT
+dağıstan	дагестан	dağıs	дагестан		N;INAN;NOM;MASC;SG
+mantıksal	логика	mantıksal	логика	ADJ	N;INAN;NOM;FEM;SG
+morrison	моррисон	morrison	моррисон		N;ANIM;NOM;MASC;SG
+telekomünikasyon	telecom	telekomünikasyon	telecom	N;NOM;SG;3	PROPN
+telekomünikasyon	телекоммуникаций	telekomünikasyon	телекоммуникация	N;NOM;SG;3	N;INAN;GEN;FEM;PL
+telekomünikasyon	телекоммуникации	telekomünikasyon	телекоммуникация	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+telekomünikasyon	телекоммуникации	telekomünikasyon	телекоммуникация	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+telekomünikasyon	электросвязи	telekomünikasyon	электросвязь	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+bölünmüş	разделились	böl	разделиться	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;PFV;IND;PL;PST;FIN;MID
+bölünmüş	сплит	böl	сплить	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;INAN;NOM;MASC;SG
+bölünmüş	раскол	böl	раскол	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;INAN;NOM;MASC;SG
+bölünmüş	разделить	böl	разделить	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;PFV;NFIN;ACT
+crown	короны	crown	корона		N;INAN;NOM;FEM;PL
+crown	корону	crown	корона		N;INAN;ACC;FEM;SG
+crown	корона	crown	корона		N;INAN;NOM;FEM;SG
+mineral	минеральных	mineral	минеральный		ADJ;GEN;PL
+mineral	минералов	mineral	минерал		N;INAN;GEN;MASC;PL
+ortaklaşa	совместно	ortaklaşa	совместно		ADV
+eşdeğer	эквивалент	eşdeğer	эквивалент		N;INAN;NOM;MASC;SG
+eşdeğer	эквивалентные	eşdeğer	эквивалентный		ADJ;NOM;PL
+tuğla	кирпич	tuğ	кирпич		N;INAN;NOM;MASC;SG
+tuğla	кирпичи	tuğ	кирпич		N;INAN;NOM;MASC;PL
+tuğla	кирпич	tuğ	кирпич		N;INAN;NOM;MASC;SG
+tuğla	брик	tuğ	брик		N;INAN;NOM;FEM;SG
+ekşi	кислый	ekşi	кислый		ADJ;NOM;MASC;SG
+bitişik	прилегающих	bitişik	прилегать		V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+bitişik	прилегающие	bitişik	прилегать		V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+bitişik	прилегающих	bitişik	прилегать		V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+brandenburg	бранденбург	brandenburg	бранденбург	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+milton	милтон	milton	милтон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+kap	схватить	kap	схватить		V;PFV;NFIN;ACT
+kap	контейнер	kap	контейнер		N;INAN;NOM;MASC;SG
+lois	лоис	lois	лоис		N;ANIM;NOM;FEM;SG
+saçma	чепуха	saç	чепух		N;INAN;NOM;FEM;SG
+saçma	вздор	saç	вздор		N;INAN;NOM;MASC;SG
+saçma	ерунда	saç	ерунда		N;INAN;NOM;FEM;SG
+saçma	чушь	saç	чушь		N;INAN;NOM;FEM;SG
+saçma	нелепо	saç	нелепо		ADV
+saçma	смешно	saç	смешной		ADJ;NEUT;SG
+saçma	абсурдно	saç	абсурдный		ADJ;NEUT;SG
+saçma	абсурд	saç	абсурд		N;INAN;NOM;MASC;SG
+tate	тейт	tate	тейт		N;INAN;NOM;FEM;SG
+bakkal	продуктовый	bakkal	продуктовый		ADJ;NOM;MASC;SG
+idrar	мочеполовой	idrar	мочеполовой	N;NOM;SG;3	ADJ;INS;FEM;SG
+idrar	мочи	idrar	моча	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+idrar	мочу	idrar	моча	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+finaller	финал	final	финал	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+maliyet	затраты	maliyet	затрата	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+maliyet	затраты	maliyet	затрата	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+maliyet	расходы	maliyet	расход	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+maliyet	издержки	maliyet	издержка	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+muhasebe	учета	muhasebe	учет		N;INAN;GEN;MASC;SG
+muhasebe	учет	muhasebe	учет		N;INAN;NOM;MASC;SG
+muhasebe	бухгалтер	muhasebe	бухгалтер		N;ANIM;NOM;MASC;SG
+muhasebe	бухгалтера	muhasebe	бухгалтер		N;ANIM;ACC;MASC;SG
+muhasebe	бухгалтерские	muhasebe	бухгалтерский		ADJ;NOM;PL
+paylaştı	разделяет	paylaş	разделять	V;PFV;IND;SG;3;POS;PST	V;IPFV;IND;SG;3;PRS;FIN;ACT
+paylaştı	поделились	paylaş	делиться	V;PFV;IND;SG;3;POS;PST	V;PFV;IND;PL;PST;FIN;MID
+leopold	леопольд	leopold	леопольд	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+eleştirmeni	критик	eleştir	критик	V;PFV;ACC;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+eleştirmeni	критика	eleştir	критика	V;PFV;ACC;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;SG
+sindirim	пищеварение	sindir	пищеварение		N;INAN;NOM;NEUT;SG
+sindirim	пищеварительной	sindir	пищеварительный		ADJ;INS;FEM;SG
+tüccar	торгового	tüccar	торговый		ADJ;GEN;MASC;SG
+tüccar	торговец	tüccar	торговец		N;ANIM;NOM;MASC;SG
+tüccar	трейдер	tüccar	трейдер		N;ANIM;NOM;MASC;SG
+tüccar	торговец	tüccar	торговец		N;ANIM;NOM;MASC;SG
+motorlar	motors	motor	motors	N;NOM;PL;3	PROPN
+motorlar	двигателей	motor	двигатель	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+pancar	свеклы	pancar	свекла		N;INAN;NOM;FEM;PL
+pancar	свекла	pancar	свекла		N;INAN;NOM;FEM;SG
+tacikistan	таджикистан	tacikistan	таджикистан	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+tacikistan	таджикистана	tacikistan	таджикистан	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+sacramento	сакраменто	sacramento	сакраменто	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+büyükler	старейшины	büyük	старейшина	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+büyükler	старейшин	büyük	старейшина	ADJ;NOM;PL;3	N;ANIM;GEN;MASC;PL
+büyükler	взрослых	büyük	взрослый	ADJ;NOM;PL;3	N;ANIM;GEN;MASC;PL
+büyükler	взрослые	büyük	взрослый	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+dolgu	наполнение	dolgu	наполнение		N;INAN;NOM;NEUT;SG
+dolgu	наполнения	dolgu	наполнение		N;INAN;NOM;NEUT;PL
+dolgu	заполнение	dolgu	заполнение		N;INAN;NOM;NEUT;SG
+tba	tba	tba	tba		PROPN
+solar	солнечной	solar	солнечный		ADJ;INS;FEM;SG
+solar	солнечное	solar	солнечный		ADJ;NOM;NEUT;SG
+solar	солнечные	solar	солнечный		ADJ;NOM;PL
+solar	солнечная	solar	солнечный		ADJ;NOM;FEM;SG
+aydınlatma	освещения	aydınlat	освещение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+aydınlatma	освещение	aydınlat	освещение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+aydınlatma	освещения	aydınlat	освещение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+aydınlatma	освещение	aydınlat	освещение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+wolfsburg	вольфсбург	wolfsburg	вольфсбург	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+soprano	сопрано	soprano	сопрать		N;INAN;NOM;NEUT;SG
+atık	отходы	atık	отходы		N;INAN;NOM;MASC;PL
+atık	отходов	atık	отходы		N;INAN;GEN;MASC;PL
+atık	сточных	atık	сточный		ADJ;GEN;PL
+brooks	брукс	brooks	брукс		N;ANIM;NOM;MASC;SG
+taşınır	движется	taşı	двигаться	V;IPFV;IND;SG;3;POS;PASS	V;IPFV;IND;SG;3;PRS;FIN;MID
+taşımak	ношение	taşı	ношение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+taşımak	неся	taşı	нести	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;PRS;V.CVB;ACT
+taşımak	нести	taşı	нести	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;NFIN;ACT
+seth	сет	seth	сет		N;INAN;NOM;MASC;SG
+seth	сэт	seth	сэт		N;INAN;NOM;MASC;SG
+caroline	каролин	carol	каролин	N;DAT;SG;3	N;ANIM;NOM;FEM;SG
+caroline	кэролайн	carol	кэролайн	N;DAT;SG;3	N;ANIM;NOM;FEM;SG
+caroline	каролина	carol	каролин	N;DAT;SG;3	N;INAN;NOM;FEM;SG
+unix	unix	unix	unix		PROPN
+devir	rpm	devir	rpm		PROPN
+manço	манко	manço	манко	PROPN;NOM;SG;3	
+abdul	абдул	abdul	абдул		N;ANIM;NOM;MASC;SG
+gözlü	eyed	gözlü	eyed		PROPN
+boşnak	боснийских	boşnak	боснийский		ADJ;GEN;PL
+boşnak	боснийцев	boşnak	босниец		N;ANIM;ACC;MASC;PL
+boşnak	боснийских	boşnak	боснийский		ADJ;GEN;PL
+temsili	представительство	temsili	представительство		N;INAN;NOM;NEUT;SG
+temsili	представляя	temsili	представлять		V;IPFV;PRS;V.CVB;ACT
+temsili	представляющие	temsili	представлять		V;IPFV;NOM;PL;PRS;V.PTCP;ACT
+temsili	представляющий	temsili	представлять		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;ACT
+temsili	представляющее	temsili	представлять		V;IPFV;NOM;NEUT;SG;PRS;V.PTCP;ACT
+temsili	представляющих	temsili	представлять		V;IPFV;GEN;PL;PRS;V.PTCP;ACT
+telaffuz	произнести	telaffuz	произнести	N;NOM;SG;3	V;PFV;NFIN;ACT
+nasır	насир	nasır	насир		N;ANIM;NOM;MASC;SG
+nasır	насер	nasır	насер		N;ANIM;NOM;MASC;SG
+kaplama	покрытие	kapla	покрытие		N;INAN;NOM;NEUT;SG
+kaplama	шпона	kapla	шпон		N;INAN;GEN;MASC;SG
+yasalar	законов	yasa	закон	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+standartları	нормы	standart	норма	ADJ;NOM;PL;3	N;INAN;NOM;FEM;PL
+standartları	стандарты	standart	стандарт	ADJ;NOM;PL;3	N;INAN;NOM;MASC;PL
+eleman	элемент	eleman	элемент		N;INAN;NOM;MASC;SG
+dün	вчера	dün	вчера	N;NOM;SG;3	ADV
+dün	вчерашний	dün	вчерашний	N;NOM;SG;3	ADJ;NOM;MASC;SG
+rossi	росси	ross	росси		PART
+tanıttı	введена	tanı	ввести	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;FEM;SG;PST;V.PTCP;PASS
+tanıttı	введен	tanı	ввести	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;MASC;SG;PST;V.PTCP;PASS
+tanıttı	введено	tanı	ввести	V;PFV;IND;SG;3;POS;PST;CAUS	V;PFV;NEUT;SG;PST;V.PTCP;PASS
+vaftiz	крещение	vaftiz	крещение		N;INAN;NOM;NEUT;SG
+vaftiz	крестили	vaftiz	крестить		V;IPFV;IND;PL;PST;FIN;ACT
+vaftiz	крещение	vaftiz	крещение		N;INAN;NOM;NEUT;SG
+gelecekteki	будущее	gel	будущее	V;PFV;IND;SG;3;POS;FUT	N;INAN;NOM;NEUT;SG
+gelecekteki	будущий	gel	будущий	V;PFV;IND;SG;3;POS;FUT	ADJ;NOM;MASC;SG
+gelecekteki	будущая	gel	будущий	V;PFV;IND;SG;3;POS;FUT	ADJ;NOM;FEM;SG
+gelecekteki	будущие	gel	будущий	V;PFV;IND;SG;3;POS;FUT	ADJ;NOM;PL
+telli	строка	telli	строка		N;INAN;NOM;FEM;SG
+bari	бари	bari	бари		N;INAN;NOM;MASC;SG
+benzin	бензола	benz	бензоль		N;INAN;GEN;MASC;SG
+benzin	бензин	benz	бензин		N;INAN;NOM;MASC;SG
+benzin	бензина	benz	бензин		N;INAN;GEN;MASC;SG
+benzin	бензин	benz	бензин		N;INAN;NOM;MASC;SG
+benzin	газа	benz	газ		N;INAN;GEN;MASC;SG
+benzin	бензин	benz	бензин		N;INAN;NOM;MASC;SG
+benzin	газ	benz	газ		N;INAN;NOM;MASC;SG
+benzin	горючее	benz	горючее		N;INAN;NOM;NEUT;SG
+benzin	топлива	benz	топливо		N;INAN;NOM;NEUT;SG
+benzin	топливо	benz	топливо		N;INAN;NOM;NEUT;SG
+uzunlukta	длину	uzunluk	длина	N;ESS;SG;3	N;INAN;ACC;FEM;SG
+uzunlukta	протяженность	uzunluk	протяженность	N;ESS;SG;3	N;INAN;NOM;FEM;SG
+uzunlukta	длина	uzunluk	длина	N;ESS;SG;3	N;INAN;NOM;FEM;SG
+uzunlukta	продолжительность	uzunluk	продолжительность	N;ESS;SG;3	N;INAN;NOM;FEM;SG
+açıklık	разминированию	açıklık	разминирование	N;NOM;SG;3	N;INAN;DAT;NEUT;SG
+naruto	наруто	naruto	наруть		ADV
+bağımsızlığı	независимости	bağımsızlık	независимость	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+bağımsızlığı	независимость	bağımsızlık	независимость	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+hunt	охота	hunt	охота		N;INAN;NOM;FEM;SG
+hunt	хант	hunt	хант		PART
+bastia	бастия	bastia	бастия	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+niçin	зачем	niçin	зачем		ADV
+niçin	почему	niçin	почему		ADV
+nagoya	нагоя	nago	нагать	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+rodríguez	родригес	rodríguez	родригес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+ulaşılabilir	доступный	ulaş	доступный	V;IPFV;POT;SG;3;POS;PASS	ADJ;NOM;MASC;SG
+zorluk	трудности	zorluk	трудность	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+zorluk	трудности	zorluk	трудность	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+zorluk	тяготы	zorluk	тягота	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+wells	скважины	wells	скважина	PROPN;NOM;SG;3	N;INAN;NOM;FEM;PL
+wells	уэллс	wells	уэллс	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+huzur	спокойствие	huzur	спокойствие		N;INAN;NOM;NEUT;SG
+huzur	мира	huzur	мир		N;INAN;GEN;MASC;SG
+huzur	мир	huzur	мир		N;INAN;NOM;MASC;SG
+huzur	спокойствие	huzur	спокойствие		N;INAN;NOM;NEUT;SG
+huzur	мирная	huzur	мирный		ADJ;NOM;FEM;SG
+huzur	мирные	huzur	мирный		ADJ;NOM;PL
+huzur	мирное	huzur	мирный		ADJ;NOM;NEUT;SG
+huzur	мирного	huzur	мирный		ADJ;GEN;MASC;SG
+huzur	мирный	huzur	мирный		ADJ;NOM;MASC;SG
+gömülü	похоронили	göm	хоронить		V;PFV;IND;PL;PST;FIN;ACT
+gömülü	похоронен	göm	хоронить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+gömülü	встроенный	göm	встроить		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+simgeler	символов	simge	символ	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+spencer	спенсер	spencer	спенсер	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+mia	мия	mia	мия		N;INAN;NOM;FEM;SG
+mia	миа	mia	милы		ADV
+saatler	часов	saat	час	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+rauf	рауф	rauf	рауф		N;ANIM;NOM;MASC;SG
+swing	качели	swing	качели		N;INAN;NOM;MASC;PL
+foto	фотография	foto	фотография		N;INAN;NOM;FEM;SG
+foto	фото	foto	фото		N;INAN;NOM;MASC;SG
+foto	foto	foto	foto		PROPN
+kabuk	оболочка	kabuk	оболочка		N;INAN;NOM;FEM;SG
+kabuk	shell	kabuk	shell		PROPN
+kabuk	снаряды	kabuk	снаряд		N;INAN;NOM;MASC;PL
+kabuk	снарядов	kabuk	снаряд		N;INAN;GEN;MASC;PL
+stalingrad	сталинград	stalingrad	сталинград		N;INAN;NOM;MASC;SG
+kutlu	благословен	kutlu	благословный		N;INAN;NOM;MASC;SG
+salim	салим	salim	сальм		N;ANIM;NOM;MASC;SG
+kabine	кабинета	kabin	кабинет	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+marş	гимн	marş	гимн		N;INAN;NOM;MASC;SG
+marş	марш	marş	марш		N;INAN;NOM;MASC;SG
+marş	март	marş	март		N;INAN;NOM;MASC;SG
+marş	марта	marş	март		N;INAN;GEN;MASC;SG
+gömüldü	похоронили	göm	хоронить	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;IND;PL;PST;FIN;ACT
+joker	шутник	joker	шутник		N;ANIM;NOM;MASC;SG
+kağanlığı	каганат	kağanlık	каганат	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+siena	сиена	sinna	сиен	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+melez	гибридов	melez	гибрид		N;INAN;GEN;MASC;PL
+melez	смешанной	melez	смешанный		V;PFV;INS;FEM;SG;PST;V.PTCP;PASS
+melez	гибрид	melez	гибрид		N;INAN;NOM;MASC;SG
+derek	дерек	derek	дерекий		N;ANIM;NOM;MASC;SG
+derek	дерека	derek	дереко		N;ANIM;ACC;MASC;SG
+yeryüzü	earth	yeryüzü	earth		PROPN
+yeryüzü	земля	yeryüzü	земля		N;INAN;NOM;FEM;SG
+jpeg	jpeg	jpeg	jpeg		PROPN
+bağlılık	обязательства	bağlılık	обязательство	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+yar	яр	yar	яр		N;INAN;NOM;MASC;SG
+sınırlıdır	ограниченные	sınırlı	ограничить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+sınırlıdır	ограниченное	sınırlı	ограничить		V;PFV;NOM;NEUT;SG;PST;V.PTCP;PASS
+sınırlıdır	ограниченная	sınırlı	ограничить		V;PFV;NOM;FEM;SG;PST;V.PTCP;PASS
+sınırlıdır	ограниченный	sınırlı	ограничить		V;PFV;NOM;MASC;SG;PST;V.PTCP;PASS
+çiftçilik	земледелия	çiftçilik	земледелие	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+ihtiyaçları	потребностей	ihtiyaç	потребность	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+fiyatı	прайс	fiyat	прайс	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+fiyatı	цена	fiyat	цена	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+akabinde	впоследствии	akabin	впоследствии	N;ESS;SG;3	ADV
+kombine	сочетании	kombine	сочетание		N;INAN;ESS;NEUT;SG
+kombine	комбинации	kombine	комбинация		N;INAN;NOM;FEM;PL
+kombine	комбинация	kombine	комбинация		N;INAN;NOM;FEM;SG
+kombine	сочетание	kombine	сочетание		N;INAN;NOM;NEUT;SG
+kombine	сочетании	kombine	сочетание		N;INAN;ESS;NEUT;SG
+eğitimci	педагог	eğitimci	педагог		N;ANIM;NOM;MASC;SG
+eğitimci	воспитатель	eğitimci	воспитатель		N;ANIM;NOM;MASC;SG
+gil	гил	gil	гить		N;ANIM;NOM;MASC;SG
+bakmak	смотрю	bak	смотреть	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+bakmak	ищу	bak	искать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+sunderland	сандерленд	sunderlan	сандерленд	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+led	led	i	led		PROPN
+oruç	поста	oruç	пост		N;INAN;GEN;MASC;SG
+gerçi	хотя	gerçi	хотя		CONJ
+gerçi	хотя	gerçi	хотя		CONJ
+belirtildi	указаны	belir	указать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;PL;PST;V.PTCP;PASS
+belirtildi	указанных	belir	указать	V;PFV;IND;SG;3;POS;PST;PASS	V;PFV;GEN;PL;PST;V.PTCP;PASS
+uzlaşma	примирение	uzlaş	примирение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+uzlaşma	примирения	uzlaş	примирение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+uzlaşma	примирение	uzlaş	примирение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+uzlaşma	примирения	uzlaş	примирение	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;PL
+uzlaşma	консенсус	uzlaş	консенсус	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+uzlaşma	консенсуса	uzlaş	консенсус	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;GEN;MASC;SG
+uzlaşma	компромисс	uzlaş	компромисс	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;MASC;SG
+uzlaşma	компромисса	uzlaş	компромисс	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;GEN;MASC;SG
+kâr	прибыль	kâr	прибыль		N;INAN;NOM;FEM;SG
+kâr	прибыли	kâr	прибыть		V;PFV;IND;PL;PST;FIN;ACT
+kâr	прибыль	kâr	прибыль		N;INAN;NOM;FEM;SG
+kâr	прибыли	kâr	прибыть		V;PFV;IND;PL;PST;FIN;ACT
+leslie	лесли	lesli	лесть		N;ANIM;NOM;FEM;PL
+fonu	фонд	fonu	фонд		N;INAN;NOM;MASC;SG
+çaylak	новичок	çaylak	новичок		N;ANIM;NOM;MASC;SG
+çaylak	новичок	çaylak	новичок		N;ANIM;NOM;MASC;SG
+mühendisleri	инженеров	mühendis	инженер	N;ACC;PL;3	N;ANIM;GEN;MASC;PL
+mühendisleri	инженеры	mühendis	инженер	N;ACC;PL;3	N;ANIM;NOM;MASC;PL
+ortaklık	партнерства	ortaklık	партнерство	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+freud	фрейд	freud	фрейд		N;ANIM;NOM;MASC;SG
+döngüsü	цикла	döngü	цикл	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+döngüsü	циклы	döngü	цикл	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+met	метастазы	met	метастаз		N;INAN;NOM;MASC;PL
+met	встретили	met	встретить		V;PFV;IND;PL;PST;FIN;ACT
+met	встретились	met	встретиться		V;PFV;IND;PL;PST;FIN;MID
+met	встретил	met	встретить		V;PFV;MASC;IND;SG;PST;FIN;ACT
+mevlana	руми	mevlan	румь		N;INAN;NOM;MASC;SG
+ronaldo	роналду	ronal	роналд		N;ANIM;NOM;MASC;SG
+dostlar	приятели	dost	приятеть	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+dostlar	друзей	dost	друг	ADJ;NOM;PL;3	N;ANIM;GEN;MASC;PL
+dostlar	друзья	dost	друг	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+stevens	стивенс	stevens	стивенс		N;ANIM;NOM;MASC;SG
+juliet	джульет	juliet	джулгет		N;ANIM;NOM;FEM;SG
+juliet	джульетта	juliet	джульетт		N;INAN;NOM;FEM;SG
+sarhoş	пьяные	sarhoş	пьяный		ADJ;NOM;PL
+sarhoş	пьяный	sarhoş	пьяный		ADJ;NOM;MASC;SG
+sarhoş	пьяная	sarhoş	пьяный		ADJ;NOM;FEM;SG
+sarhoş	пьяные	sarhoş	пьяный		ADJ;NOM;PL
+sarhoş	пьян	sarhoş	пьяный		ADJ;MASC;SG
+sarhoş	пьяна	sarhoş	пьяна		ADJ;FEM;SG
+sarhoş	пьяный	sarhoş	пьяный		ADJ;NOM;MASC;SG
+eğilimi	склонность	eğ	склонность	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+yankı	эхо	yankı	эхо		N;INAN;NOM;NEUT;SG
+yankı	эхо	yankı	эхо		N;INAN;NOM;NEUT;SG
+keşiş	монах	keşiş	монах		N;ANIM;NOM;MASC;SG
+keşiş	монах	keşiş	монах		N;ANIM;NOM;MASC;SG
+keşiş	монк	keşiş	монк		N;INAN;NOM;MASC;SG
+temsilci	rep	temsilci	rep		PROPN
+temsilci	представитель	temsilci	представитель		N;ANIM;NOM;MASC;SG
+temsilci	представителю	temsilci	представитель		N;ANIM;DAT;MASC;SG
+temsilci	представителя	temsilci	представитель		N;ANIM;ACC;MASC;SG
+temsilci	агент	temsilci	агент		N;ANIM;NOM;MASC;SG
+yaratır	создается	yarat	создаваться	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;PASS
+yaratır	создает	yarat	создавать	V;IPFV;IND;SG;3;POS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+sansür	цензуры	sansür	цензура		N;INAN;NOM;FEM;PL
+durağan	стабильно	durağan	стабильно	ADJ	ADV
+pir	пир	pir	пир		N;INAN;NOM;MASC;SG
+strauss	штраус	strauss	штраус		N;INAN;NOM;MASC;SG
+faktör	коэффициент	faktör	коэффициент		N;INAN;NOM;MASC;SG
+faktör	фактор	faktör	фактор		N;INAN;NOM;MASC;SG
+faktör	фактором	faktör	фактор		N;INAN;INS;MASC;SG
+sevinç	радости	sevinç	радость		N;INAN;NOM;FEM;PL
+sevinç	джой	sevinç	джой		N;ANIM;NOM;FEM;SG
+sevinç	радость	sevinç	радость		N;INAN;NOM;FEM;SG
+canlılar	существа	canlı	существо	ADJ;NOM;PL;3	N;INAN;NOM;NEUT;PL
+yayıncı	издательство	yayıncı	издательство		N;INAN;NOM;NEUT;SG
+yayıncı	издатель	yayıncı	издатель		N;ANIM;NOM;MASC;SG
+yayıncı	телеведущий	yayıncı	телеведущий		N;ANIM;NOM;MASC;SG
+tazminat	возмещение	tazminat	возмещение		N;INAN;NOM;NEUT;SG
+tazminat	компенсация	tazminat	компенсация		N;INAN;NOM;FEM;SG
+tazminat	ущерб	tazminat	ущерб		N;INAN;NOM;MASC;SG
+tazminat	ущерба	tazminat	ущерб		N;INAN;GEN;MASC;SG
+tazminat	убытки	tazminat	убыток		N;INAN;NOM;MASC;PL
+dışarıda	снаружи	dışarı	снаружи	N;ESS;SG;3	ADV
+dışarıda	вне	dışarı	вне	N;ESS;SG;3	ADP
+joão	жуан	joão	жуан	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+manzara	пейзажи	manzara	пейзаж	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+manzara	пейзажи	manzara	пейзаж	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+manzara	ландшафта	manzara	ландшафт	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+manzara	посмотреть	manzara	смотреть	N;NOM;SG;3	V;PFV;NFIN;ACT
+manzara	просмотреть	manzara	просмотреть	N;NOM;SG;3	V;PFV;NFIN;ACT
+banks	бэнкс	banks	бэнкс		N;ANIM;NOM;MASC;SG
+banks	банки	banks	банк		N;INAN;NOM;MASC;PL
+sitede	сайт	site	сайт	N;ESS;SG;3	N;INAN;NOM;MASC;SG
+göçmenler	мигрантов	göçmen	мигрант	ADJ;NOM;PL;3	N;ANIM;GEN;MASC;PL
+göçmenler	мигранты	göçmen	мигрант	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+göçmenler	иммигранты	göçmen	иммигрант	ADJ;NOM;PL;3	N;ANIM;NOM;MASC;PL
+göçmenler	иммигрантов	göçmen	иммигрант	ADJ;NOM;PL;3	N;ANIM;GEN;MASC;PL
+düğünler	свадеб	düğün	свадьба	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+yerleştirilmiş	посадил	yerleş	сажать	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;PFV;MASC;IND;SG;PST;FIN;ACT
+doom	погибель	doom	погибель		N;INAN;NOM;MASC;SG
+lynn	линн	li	линнути	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+amt	amt	amt	amt		PROPN
+jake	джейка	jake	джейка		N;ANIM;ACC;MASC;SG
+jake	джейк	jake	джейк		N;ANIM;NOM;MASC;SG
+eduardo	эдуардо	et	эдуардо		N;INAN;NOM;MASC;SG
+anlayış	insight	anlayış	insight		PROPN
+anlayış	понимание	anlayış	понимание		N;INAN;NOM;NEUT;SG
+anlayış	взаимопонимание	anlayış	взаимопонимание		N;INAN;NOM;NEUT;SG
+anlayış	понимания	anlayış	понимание		N;INAN;GEN;NEUT;SG
+görünmez	невидимый	görün	невидимый	V;IPFV;IND;SG;3;NEG	ADJ;NOM;MASC;SG
+bileşenleri	компонентов	bileş	компонент	N;ACC;PL;3	N;INAN;GEN;MASC;PL
+bileşenleri	компоненты	bileş	компонент	N;ACC;PL;3	N;INAN;NOM;MASC;PL
+değirmen	миллс	değir	миллс		N;ANIM;NOM;MASC;SG
+sawyer	сойер	sawyer	сойер		N;ANIM;NOM;MASC;SG
+inanan	верующий	inan	веровать		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;ACT
+inanan	верующим	inan	веровать		N;ANIM;DAT;MASC;PL
+powell	пауэлл	powell	пауэлл	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+estádio	estádio	es	estádio	PROPN;NOM;SG;3	PROPN
+pensilvanya	пенсильвании	pensilvanya	пенсильвание	PROPN;NOM;SG;3	N;INAN;ESS;NEUT;SG
+pensilvanya	пенсильвания	pensilvanya	пенсильвание	PROPN;NOM;SG;3	N;INAN;NOM;NEUT;PL
+belirleyici	решающий	belirleyici	решающий		V;IPFV;NOM;MASC;SG;PRS;V.PTCP;ACT
+belirleyici	решительный	belirleyici	решительный		ADJ;NOM;MASC;SG
+belirleyici	решительные	belirleyici	решительный		ADJ;NOM;PL
+kil	клей	kil	клей		N;INAN;NOM;MASC;SG
+kil	клэй	kil	клэй		N;ANIM;NOM;MASC;SG
+kil	глины	kil	глина		N;INAN;NOM;FEM;PL
+ölümsüz	undead	ölümsüz	undead	ADJ	PROPN
+kanye	канье	kany	канье		N;INAN;NOM;MASC;SG
+masum	невинных	masum	невинный		ADJ;GEN;PL
+masum	невинные	masum	невинный		ADJ;NOM;PL
+masum	невинная	masum	невинный		ADJ;NOM;FEM;SG
+masum	невинный	masum	невинный		ADJ;NOM;MASC;SG
+masum	невинные	masum	невинный		ADJ;NOM;PL
+masum	невинных	masum	невинный		ADJ;GEN;PL
+okyanusya	океании	okyanusya	океание	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+truva	трой	truv	трой		N;ANIM;NOM;MASC;SG
+truva	троян	truv	троян		N;ANIM;NOM;MASC;SG
+yaya	пешеходов	yaya	пешеход		N;ANIM;GEN;MASC;PL
+yiyen	пожиратель	yiyen	пожиратель		N;ANIM;NOM;MASC;SG
+anavatan	родина	anavat	родина		N;INAN;NOM;FEM;SG
+anavatan	отечество	anavat	отечество		N;INAN;NOM;NEUT;SG
+okuyucu	читатель	okuyucu	читатель		N;ANIM;NOM;MASC;SG
+binaların	здания	bina	здание	N;GEN;PL;3	N;INAN;NOM;NEUT;PL
+euler	эйлера	eu	эйлер		N;ANIM;GEN;MASC;SG
+yorkshire	йоркшире	yorkshire	йоркшир	PROPN;NOM;SG;3	N;INAN;ESS;MASC;SG
+drive	водить	driv	водить		V;IPFV;NFIN;ACT
+drive	драйв	driv	драйв		N;INAN;NOM;MASC;SG
+drive	привод	driv	привод		N;INAN;NOM;MASC;SG
+drive	drive	driv	drive		PROPN
+hannibal	ганнибал	hannibal	ганнибал		N;ANIM;NOM;MASC;SG
+limon	лимон	limon	лимон		N;INAN;NOM;MASC;SG
+limon	лимонный	limon	лимонный		ADJ;NOM;MASC;SG
+limon	лимоны	limon	лимон		N;INAN;NOM;MASC;PL
+limon	лайм	limon	лайм		N;INAN;NOM;MASC;SG
+filip	филипп	fil	филипп		N;ANIM;NOM;MASC;SG
+filip	филип	fil	филип		N;ANIM;NOM;MASC;SG
+filip	филлип	fil	филлип		N;ANIM;NOM;MASC;SG
+filip	филип	fil	филип		N;ANIM;NOM;MASC;SG
+yazıcı	принтер	yazıcı	принтер		N;INAN;NOM;MASC;SG
+yazıcı	принтеров	yazıcı	принтер		N;INAN;GEN;MASC;PL
+karayip	карибского	karay	карибский	ADV	ADJ;GEN;MASC;SG
+şampiyona	чемпионат	şampiyon	чемпионат	N;DAT;SG;3	N;INAN;NOM;MASC;SG
+şampiyona	чемпионат	şampiyon	чемпионат	N;DAT;SG;3	N;INAN;NOM;MASC;SG
+stereo	стерео	stereo	стерео		N;INAN;NOM;MASC;SG
+sinek	муха	sinek	муха		N;ANIM;NOM;FEM;SG
+sinek	лети	sinek	лето		V;IPFV;IMP;SG;2;FIN;ACT
+sinek	летать	sinek	летать		V;IPFV;NFIN;ACT
+sinek	летит	sinek	лететь		V;IPFV;IND;SG;3;PRS;FIN;ACT
+sinek	мух	sinek	муха		N;ANIM;GEN;FEM;PL
+sinek	мухи	sinek	муха		N;ANIM;NOM;FEM;PL
+yarbay	полковник	yarbay	полковник		N;ANIM;NOM;MASC;SG
+tutarlı	последовательная	tutarlı	последовательный		ADJ;NOM;FEM;SG
+tutarlı	последовательно	tutarlı	последовательно		ADV
+tutarlı	согласованной	tutarlı	согласовать		V;PFV;INS;FEM;SG;PST;V.PTCP;PASS
+mussolini	муссолини	mussol	муссолин		N;ANIM;NOM;MASC;SG
+mitoloji	мифология	mitoloji	мифология		N;INAN;NOM;FEM;SG
+anlaşılan	очевидно	anlaş	очевидный	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADJ;NEUT;SG
+anlaşılan	видимо	anlaş	видимо	V;PFV;IND;POS;PRS;V.PTCP;PASS	ADV
+tükenmiş	burnout	tüken	burnout	V;PFV;NFH;IND;POS;PST;V.PTCP	PROPN
+anderlecht	андерлехт	anderlecht	андерлехт	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+çorba	супы	çorb	суп	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+carey	кэри	carey	кэри		N;INAN;NOM;FEM;SG
+coruña	корунья	coru	корунье		N;INAN;NOM;FEM;SG
+fermi	ферми	fermi	фермь		N;INAN;NOM;MASC;SG
+motors	двигатели	motors	двигатель	PROPN;NOM;SG;3	N;INAN;NOM;MASC;PL
+motors	motors	motors	motors	PROPN;NOM;SG;3	PROPN
+sally	салли	sally	салли		N;ANIM;NOM;FEM;SG
+suçlar	преступность	suç	преступность	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+suçlar	преступление	suç	преступление	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+büyücü	колдунья	büyücü	колдунье		N;ANIM;NOM;FEM;SG
+büyücü	колдун	büyücü	колдун		N;ANIM;NOM;MASC;SG
+büyücü	некромант	büyücü	некромант		N;ANIM;NOM;MASC;SG
+büyücü	мастер	büyücü	мастер		N;ANIM;NOM;MASC;SG
+büyücü	волшебник	büyücü	волшебник		N;ANIM;NOM;MASC;SG
+koku	запах	koku	запах		N;INAN;NOM;MASC;SG
+koku	запах	koku	запах		N;INAN;NOM;MASC;SG
+koku	аромат	koku	аромат		N;INAN;NOM;MASC;SG
+koku	аромат	koku	аромат		N;INAN;NOM;MASC;SG
+umman	омана	umman	оман		N;INAN;NOM;MASC;SG
+umman	оман	umman	оман		N;INAN;NOM;MASC;SG
+kamyon	грузовик	kamyon	грузовик		N;INAN;NOM;MASC;SG
+kamyon	грузовики	kamyon	грузовик		N;INAN;NOM;MASC;PL
+kırılma	поломка	kır	поломка	V;PFV;NOM;IMP;POS;PRS;PASS	N;INAN;NOM;FEM;SG
+kırılma	взлом	kır	взлом	V;PFV;NOM;IMP;POS;PRS;PASS	N;INAN;NOM;MASC;SG
+kırılma	преломления	kır	преломление	V;PFV;NOM;IMP;POS;PRS;PASS	N;INAN;NOM;NEUT;PL
+ruanda	руанде	rua	руанда		N;INAN;NOM;FEM;SG
+ruanda	руанда	rua	руанд		N;INAN;NOM;FEM;SG
+minsk	минск	minsk	минск	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+rehber	проводник	rehber	проводник		N;INAN;NOM;MASC;SG
+rehber	гид	rehber	гид		N;INAN;NOM;MASC;SG
+rehber	руководства	rehber	руководство		N;INAN;NOM;NEUT;PL
+rehber	руководство	rehber	руководство		N;INAN;NOM;NEUT;SG
+davranışı	поведение	davranış	поведение	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+birleştirme	слияние	birleş	слияние	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;NEUT;SG
+birleştirme	объединить	birleş	объединить	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;PFV;NFIN;ACT
+birleştirme	объединение	birleş	объединение	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;NEUT;SG
+birleştirme	объединение	birleş	объединение	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;NEUT;SG
+birleştirme	слияние	birleş	слияние	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;NEUT;SG
+birleştirme	объединять	birleş	объединять	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;IPFV;NFIN;ACT
+birleştirme	объединить	birleş	объединить	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;PFV;NFIN;ACT
+birleştirme	совместить	birleş	совместить	V;PFV;IMP;SG;2;NEG;PRS;CAUS	V;PFV;NFIN;ACT
+birleştirme	объединение	birleş	объединение	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;NEUT;SG
+birleştirme	унификации	birleş	унификация	V;PFV;IMP;SG;2;NEG;PRS;CAUS	N;INAN;NOM;FEM;SG
+sonuncu	последние	sonuncu	последний		ADJ;NOM;PL
+sonuncu	последнее	sonuncu	последний		ADJ;NOM;NEUT;SG
+sonuncu	last	sonuncu	last		PROPN
+sonuncu	последний	sonuncu	последний		ADJ;NOM;MASC;SG
+sonuncu	последняя	sonuncu	последний		ADJ;NOM;FEM;SG
+jesus	хесус	jesus	хесус		N;INAN;NOM;MASC;SG
+marksizm	марксизм	marksizm	марксизм		N;INAN;NOM;MASC;SG
+sloganı	девиз	slogan	девиз	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+calcio	calcio	calcio	calcio	PROPN;NOM;SG;3	PROPN
+interwiki	interwiki	interwiki	interwiki		PROPN
+uzatma	продление	uza	продление	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;SG
+uzatma	расширение	uza	расширение	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;SG
+çalma	воспроизведения	çal	воспроизведение		N;INAN;NOM;NEUT;PL
+çalma	воспроизведение	çal	воспроизведение		N;INAN;NOM;NEUT;SG
+çalma	украсть	çal	красть		V;PFV;NFIN;ACT
+derinlik	глубины	derinlik	глубина	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+derinlik	глубин	derinlik	глубина	N;NOM;SG;3	N;INAN;GEN;FEM;PL
+derinlik	глубины	derinlik	глубина	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+derinlik	глубину	derinlik	глубина	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+koza	кокон	koza	кокон		N;INAN;NOM;MASC;SG
+masalı	сказка	masal	сказка	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+geliri	выручка	gel	выручка		N;INAN;NOM;FEM;SG
+geliri	поступления	gel	поступление		N;INAN;NOM;NEUT;PL
+kazanç	прибыли	kazanç	прибыть	N;NOM;SG;3	V;PFV;IND;PL;PST;FIN;ACT
+kazanç	прибыли	kazanç	прибыть	N;NOM;SG;3	V;PFV;IND;PL;PST;FIN;ACT
+hardy	харди	hardy	харди		N;INAN;NOM;MASC;SG
+kel	лысый	kel	лысый		ADJ;NOM;MASC;SG
+yaratık	чудовище	yarat	чудовище		N;INAN;NOM;NEUT;SG
+yaratık	зверь	yarat	зверь		N;ANIM;NOM;MASC;SG
+yaratık	пришелец	yarat	пришелец		N;ANIM;NOM;MASC;SG
+yaratık	чужой	yarat	чужой		ADJ;NOM;MASC;SG
+yaratık	иностранец	yarat	иностранец		N;ANIM;NOM;MASC;SG
+yaratık	тварь	yarat	тварь		N;ANIM;NOM;FEM;SG
+yaratık	существо	yarat	существо		N;INAN;NOM;NEUT;SG
+botanik	ботанический	botanik	ботанический	N;NOM;SG;3	ADJ;NOM;MASC;SG
+tardis	тардис	tardis	тардис		N;INAN;NOM;FEM;SG
+alessandro	алессандро	alessandro	алессандро		N;ANIM;NOM;MASC;SG
+denklemleri	уравнения	denklem	уравнение	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+brandon	брэндон	bra	брэндон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+brandon	брендон	bra	брендон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+auguste	огюст	auguste	огюст		N;ANIM;NOM;MASC;SG
+theodore	теодор	theodore	теодор		N;ANIM;NOM;MASC;SG
+gidiyor	едем	git	ехать	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;PL;1;PRS;FIN;ACT
+gidiyor	иду	git	идти	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;1;PRS;FIN;ACT
+gidiyor	оставляя	git	оставлять	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;PRS;V.CVB;ACT
+gidiyor	ухожу	git	уходить	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;1;PRS;FIN;ACT
+gidiyor	оставив	git	оставить	V;PROG;IND;SG;3;POS;INFM;PRS	V;PFV;PST;V.CVB;ACT
+dinin	религии	din	религия	N;GEN;SG;3	N;INAN;NOM;FEM;PL
+dinin	религия	din	религия	N;GEN;SG;3	N;INAN;NOM;FEM;SG
+önlemler	предосторожности	önlem	предосторожность	ADJ;NOM;PL;3	N;INAN;NOM;FEM;PL
+önlemler	меры	önlem	мера	ADJ;NOM;PL;3	N;INAN;NOM;FEM;PL
+clarke	кларк	clarke	кларк	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+clinton	клинтон	clinton	клинтон	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+barra	барра	barra	барр	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+fernández	фернандес	fern	фернандес	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+goya	гойя	goy	гойя		N;INAN;NOM;MASC;SG
+başlamak	начало	başla	начало	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;NEUT;SG
+başlamak	начинаю	başla	начинать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;SG;1;PRS;FIN;ACT
+başlamak	начиная	başla	начинать	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;PRS;V.CVB;ACT
+editor	редактора	et	редактор		N;ANIM;ACC;MASC;SG
+editor	редактор	et	редактор		N;ANIM;NOM;MASC;SG
+makul	разумная	makul	разумный		ADJ;NOM;FEM;SG
+makul	разумно	makul	разумный		ADJ;NEUT;SG
+makul	разумный	makul	разумный		ADJ;NOM;MASC;SG
+makul	разумное	makul	разумный		ADJ;NOM;NEUT;SG
+makul	разумные	makul	разумный		ADJ;NOM;PL
+css	css	css	css		N;INAN;NOM;MASC;SG
+sanayii	промышленности	sanayii	промышленность		N;INAN;NOM;FEM;SG
+sanayii	отрасль	sanayii	отрасль		N;INAN;NOM;FEM;SG
+sanayii	индустрия	sanayii	индустрия		N;INAN;NOM;FEM;SG
+sanayii	промышленность	sanayii	промышленность		N;INAN;NOM;FEM;SG
+sanayii	промышленный	sanayii	промышленный		ADJ;NOM;MASC;SG
+sanayii	промышленные	sanayii	промышленный		ADJ;NOM;PL
+sanayii	промышленных	sanayii	промышленный		ADJ;GEN;PL
+duff	дафф	duff	дафф		N;ANIM;NOM;MASC;SG
+jackie	джеки	jackie	джек		N;ANIM;NOM;MASC;SG
+tropik	тропических	tropik	тропический		ADJ;GEN;PL
+tropik	тропические	tropik	тропический		ADJ;NOM;PL
+tropik	тропический	tropik	тропический		ADJ;NOM;MASC;SG
+komünizm	коммунизм	komün	коммунизм		N;INAN;NOM;MASC;SG
+varlıklı	богатых	varlıklı	богатый		ADJ;GEN;PL
+varlıklı	богатый	varlıklı	богатый		ADJ;NOM;MASC;SG
+varlıklı	богатые	varlıklı	богатый		ADJ;NOM;PL
+buffalo	буффало	buffalo	буффало	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+habsburg	габсбургов	habsburg	габсбург	PROPN;NOM;SG;3	N;INAN;GEN;MASC;PL
+funk	фанк	funk	фанк		N;INAN;NOM;MASC;SG
+uygulanabilir	применимо	uygula	применимый	V;IPFV;POT;SG;3;POS;PASS	ADJ;NEUT;SG
+yasaklandı	запрещена	yasakla	запретить		V;PFV;FEM;SG;PST;V.PTCP;PASS
+yasaklandı	запрещены	yasakla	запретить		V;PFV;PL;PST;V.PTCP;PASS
+yasaklandı	запрещен	yasakla	запретить		V;PFV;MASC;SG;PST;V.PTCP;PASS
+yasaklandı	запрещено	yasakla	запретить		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+yasaklandı	запрещенные	yasakla	запретить		V;PFV;NOM;PL;PST;V.PTCP;PASS
+yasaklandı	запрещается	yasakla	запрещать		V;IPFV;IND;SG;3;PRS;FIN;PASS
+yasaklandı	запрещена	yasakla	запретить		V;PFV;FEM;SG;PST;V.PTCP;PASS
+yasaklandı	запрещено	yasakla	запретить		V;PFV;NEUT;SG;PST;V.PTCP;PASS
+knicks	никс	knicks	никс		N;INAN;NOM;FEM;SG
+altta	низ	altta	низ		N;INAN;NOM;MASC;SG
+altta	снизу	altta	снизу		ADV
+altta	дно	altta	дно		N;INAN;NOM;NEUT;SG
+eczacılık	фармацевтических	eczacılık	фармацевтический	N;NOM;SG;3	ADJ;GEN;PL
+eczacılık	фармацевтических	eczacılık	фармацевтический	N;NOM;SG;3	ADJ;GEN;PL
+eczacılık	аптеки	eczacılık	аптека	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+eczacılık	аптеке	eczacılık	аптек	N;NOM;SG;3	N;INAN;DAT;FEM;SG
+discogs	discogs	discogs	discogs		N;INAN;NOM;MASC;SG
+havayolları	airlines	havayol	airlines	N;NOM;PL;3	PROPN
+havayolları	авиакомпания	havayol	авиакомпания	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+kullanın	используйте	kullan	использовать	V;PFV;IMP;PL;2;POS;PRS	V;IPFV;IMP;PL;2;FIN;ACT
+kullanın	использование	kullan	использование	V;PFV;IMP;PL;2;POS;PRS	N;INAN;NOM;NEUT;SG
+kullanın	использовать	kullan	использовать	V;PFV;IMP;PL;2;POS;PRS	V;IPFV;NFIN;ACT
+kalbi	heart	kalbi	heart	ADJ;NOM;SG;3	PROPN
+kalbi	сердце	kalbi	сердце	ADJ;NOM;SG;3	N;INAN;NOM;NEUT;SG
+kalbi	сердцу	kalbi	сердце	ADJ;NOM;SG;3	N;INAN;DAT;NEUT;SG
+malik	малик	malik	малик		N;ANIM;NOM;MASC;SG
+andorra	андорры	andorra	андорра	PROPN;NOM;SG;3	N;INAN;NOM;FEM;PL
+andorra	андорра	andorra	андорра	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+çıktılar	мероприятия	çık	мероприятие	V;PFV;IND;PL;3;POS;PST	N;INAN;NOM;NEUT;PL
+çıktılar	вывод	çık	вывод	V;PFV;IND;PL;3;POS;PST	N;INAN;NOM;MASC;SG
+çıktılar	выпуск	çık	выпуск	V;PFV;IND;PL;3;POS;PST	N;INAN;NOM;MASC;SG
+eşitliği	равенство	eşitlik	равенство	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+eşitliği	равноправие	eşitlik	равноправие	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+eflak	валахии	eflak	валахия		N;INAN;NOM;FEM;PL
+seyrek	нечасто	seyrek	нечасто		ADV
+seyrek	редко	seyrek	редко		ADV
+seyrek	редкие	seyrek	редкий		ADJ;NOM;PL
+seyrek	редко	seyrek	редко		ADV
+seyrek	редкий	seyrek	редкий		ADJ;NOM;MASC;SG
+seyrek	редкая	seyrek	редкий		ADJ;NOM;FEM;SG
+seyrek	редкость	seyrek	редкость		N;INAN;NOM;FEM;SG
+seyrek	скудной	seyrek	скудный		ADJ;INS;FEM;SG
+tecavüz	изнасилования	tecavüz	изнасилование		N;INAN;NOM;NEUT;PL
+tecavüz	изнасилование	tecavüz	изнасилование		N;INAN;NOM;NEUT;SG
+tecavüz	изнасилована	tecavüz	изнасиловать		V;PFV;FEM;SG;PST;V.PTCP;PASS
+tecavüz	изнасиловал	tecavüz	изнасиловать		V;IPFV;MASC;IND;SG;PST;FIN;ACT
+tecavüz	изнасиловали	tecavüz	изнасиловать		V;IPFV;IND;PL;PST;FIN;ACT
+rich	богат	rich	богатый		ADJ;MASC;SG
+rich	богатых	rich	богатый		ADJ;GEN;PL
+rich	рич	rich	рич		N;ANIM;NOM;MASC;SG
+rich	богатая	rich	богатый		ADJ;NOM;FEM;SG
+rich	богатый	rich	богатый		ADJ;NOM;MASC;SG
+rich	богатые	rich	богатый		ADJ;NOM;PL
+defne	лорел	defne	лореть		N;ANIM;NOM;FEM;SG
+defne	бей	defne	бей		INTJ
+defne	бэй	defne	бэй		N;INAN;NOM;MASC;SG
+defne	залив	defne	залив		N;INAN;NOM;MASC;SG
+defne	bay	defne	bay		PROPN
+konuşur	говорит	konuş	говорить		V;IPFV;IND;SG;3;PRS;FIN;ACT
+afgan	афганская	afgan	афганский		ADJ;NOM;FEM;SG
+afgan	афганская	afgan	афганский		ADJ;NOM;FEM;SG
+afgan	афганских	afgan	афганский		ADJ;GEN;PL
+afgan	афганский	afgan	афганский		ADJ;NOM;MASC;SG
+afgan	афганские	afgan	афганский		ADJ;NOM;PL
+afgan	афганцы	afgan	афганец		N;ANIM;NOM;MASC;PL
+afgan	афганцев	afgan	афганец		N;ANIM;GEN;MASC;PL
+phillips	филлипс	phillips	филлипс	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+bask	басков	bask	баск		N;INAN;NOM;MASC;SG
+tablolar	живопись	tablo	живопись	N;NOM;PL;3	N;INAN;NOM;FEM;SG
+deposu	хранилища	depo	хранилище	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+jamaika	ямайка	jamaika	ямайка	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+jamaika	ямайки	jamaika	ямайка	PROPN;NOM;SG;3	N;INAN;NOM;FEM;PL
+jamaika	ямайки	jamaika	ямайка	PROPN;NOM;SG;3	N;INAN;NOM;FEM;PL
+otorite	авторитет	otorite	авторитет		N;INAN;NOM;MASC;SG
+otorite	полномочия	otorite	полномочие		N;INAN;NOM;NEUT;PL
+hindu	индуистских	hin	индуистский		ADJ;GEN;PL
+hindu	хиндустани	hin	хиндустань		N;INAN;NOM;MASC;SG
+hindu	индусы	hin	индус		N;ANIM;NOM;MASC;PL
+butler	дворецкий	butle	дворецкий		ADJ;NOM;MASC;SG
+butler	батлер	butle	батлер		N;ANIM;NOM;MASC;SG
+opus	opus	opus	opus		PROPN
+floyd	флойд	floyd	флойд		N;ANIM;NOM;MASC;SG
+angelo	анджело	angelo	анджело		N;ANIM;NOM;MASC;SG
+angelo	анжело	angelo	анжело		N;INAN;NOM;MASC;SG
+bulvarı	бул	bulvar	буть		N;INAN;NOM;MASC;SG
+bulvarı	бульвар	bulvar	бульвар		N;INAN;NOM;MASC;SG
+bulvarı	проспект	bulvar	проспект		N;INAN;NOM;MASC;SG
+bulvarı	avenue	bulvar	avenue		PROPN
+bulvarı	авеню	bulvar	авень		N;INAN;NOM;MASC;SG
+fiorentina	фиорентина	fiorent	фиорентина	N;DAT;SG;3	N;INAN;NOM;FEM;SG
+komutanları	командиров	komutan	командир	N;ACC;PL;3	N;ANIM;GEN;MASC;PL
+komutanları	командиры	komutan	командир	N;ACC;PL;3	N;ANIM;NOM;MASC;PL
+enfeksiyon	инфекции	enfeksiyon	инфекция		N;INAN;NOM;FEM;PL
+enfeksiyon	инфекций	enfeksiyon	инфекция		N;INAN;GEN;FEM;PL
+enfeksiyon	инфекция	enfeksiyon	инфекция		N;INAN;NOM;FEM;SG
+enfeksiyon	инфекции	enfeksiyon	инфекция		N;INAN;NOM;FEM;PL
+lucy	люси	lucy	человек		N;ANIM;NOM;FEM;SG
+pietro	пьетро	pietro	пьетро	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+luftwaffe	люфтваффе	luftwaffe	люфтваффе		N;INAN;NOM;MASC;SG
+çoktan	уже	çok	уже	ADJ;AT+ABL;SG;3	ADV
+düğüm	узел	düğüm	узел		N;INAN;NOM;MASC;SG
+düğüm	узлы	düğüm	узел		N;INAN;NOM;MASC;PL
+düğüm	узел	düğüm	узел		N;INAN;NOM;MASC;SG
+blu	blu	blu	blu		PROPN
+düzenlemeleri	правки	düzenle	правка	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+düzenlemeleri	договоренности	düzenle	договоренность	V;PFV;NOM;IND;POS;PRS;V.MSDR	N;INAN;NOM;FEM;PL
+formül	formula	formül	formula		PROPN
+formül	формулы	formül	формула		N;INAN;NOM;FEM;PL
+formül	формула	formül	формула		N;INAN;NOM;FEM;SG
+dominik	доминиканская	dominik	доминиканский	N;NOM;SG;3	ADJ;NOM;FEM;SG
+dominik	доминиканской	dominik	доминиканский	N;NOM;SG;3	ADJ;INS;FEM;SG
+inek	geek	inek	geek		PROPN
+inek	коровы	inek	корова		N;ANIM;NOM;FEM;PL
+inek	коров	inek	корова		N;ANIM;GEN;MASC;PL
+inek	ботаник	inek	ботаник		N;ANIM;NOM;MASC;SG
+inek	коровы	inek	корова		N;ANIM;NOM;FEM;PL
+inek	корова	inek	корова		N;ANIM;NOM;FEM;SG
+inek	ботан	inek	ботаный		N;ANIM;NOM;MASC;SG
+roosevelt	рузвельт	roosevelt	рузвельт		N;ANIM;NOM;MASC;SG
+roosevelt	рузвельта	roosevelt	рузвельт		N;ANIM;GEN;MASC;SG
+görüntüleme	просмотры	görüntüleme	просмотр		N;INAN;NOM;MASC;PL
+görüntüleme	просмотров	görüntüleme	просмотр		N;INAN;GEN;MASC;PL
+görüntüleme	мнения	görüntüleme	мнение		N;INAN;NOM;NEUT;PL
+görüntüleme	взгляды	görüntüleme	взгляд		N;INAN;NOM;MASC;PL
+görüntüleme	просмотра	görüntüleme	просмотр		N;INAN;GEN;MASC;SG
+görüntüleme	просмотр	görüntüleme	просмотр		N;INAN;NOM;MASC;SG
+görüntüleme	imaging	görüntüleme	imaging		PROPN
+pacific	тихоокеанского	pacific	тихоокеанский	N;NOM;SG;3	ADJ;GEN;MASC;SG
+pacific	тихоокеанский	pacific	тихоокеанский	N;NOM;SG;3	ADJ;NOM;MASC;SG
+pacific	pacific	pacific	pacific	N;NOM;SG;3	PROPN
+avantaj	преимущества	avantaj	преимущество		N;INAN;NOM;NEUT;PL
+avantaj	преимущества	avantaj	преимущество		N;INAN;NOM;NEUT;PL
+avantaj	преимущество	avantaj	преимущество		N;INAN;NOM;NEUT;SG
+ulrich	ульрих	ulrich	ульрий	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+pinyin	пиньинь	piny	пиньинь		N;INAN;NOM;FEM;SG
+burkina	буркина	burkina	буркин		N;INAN;NOM;FEM;SG
+samsung	samsung	samsung	samsung	N;NOM;SG;3	PROPN
+kay	кей	kay	кей		PART
+kay	кэй	kay	кэй		N;INAN;NOM;FEM;SG
+via	виа	via	виа	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+via	via	via	via	PROPN;NOM;SG;3	PROPN
+via	через	via	через	PROPN;NOM;SG;3	ADP
+gerçeklik	подлинности	gerçeklik	подлинность	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+temple	храм	temp	храм	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+betty	бетти	bet	бетть		N;ANIM;NOM;FEM;PL
+katy	кейти	katy	кейть		N;INAN;NOM;MASC;SG
+katy	кэти	katy	кэть		N;ANIM;NOM;FEM;SG
+emil	эмиль	emil	эмиль		N;ANIM;NOM;MASC;SG
+soldan	левой	sol	левый	ADJ;AT+ABL;SG;3	ADJ;INS;FEM;SG
+soldan	слева	sol	слева	ADJ;AT+ABL;SG;3	ADV
+soldan	налево	sol	налево	ADJ;AT+ABL;SG;3	ADV
+soldan	осталось	sol	остаться	ADJ;AT+ABL;SG;3	V;PFV;NEUT;IND;SG;PST;FIN;MID
+soldan	оставил	sol	оставить	ADJ;AT+ABL;SG;3	V;PFV;MASC;IND;SG;PST;FIN;ACT
+onarım	ремонт	o	ремонт		N;INAN;NOM;MASC;SG
+onarım	ремонт	o	ремонт		N;INAN;NOM;MASC;SG
+onarım	восстановление	o	восстановление		N;INAN;NOM;NEUT;SG
+onarım	восстановления	o	восстановление		N;INAN;GEN;NEUT;SG
+günlükler	журналы	günlük	журнал	ADJ;NOM;PL;3	N;INAN;NOM;MASC;PL
+günlükler	дневники	günlük	дневник	ADJ;NOM;PL;3	N;INAN;NOM;MASC;PL
+forbes	форбс	forbes	форбс		N;ANIM;NOM;MASC;SG
+ücreti	плату	ücret	плата		N;INAN;ACC;FEM;SG
+ücreti	гонорар	ücret	гонорар		N;INAN;NOM;MASC;SG
+ücreti	плата	ücret	плата		N;INAN;NOM;FEM;SG
+ücreti	цена	ücret	цена		N;INAN;NOM;FEM;SG
+ücreti	стоимость	ücret	стоимость		N;INAN;NOM;FEM;SG
+ücreti	затраты	ücret	затрата		N;INAN;NOM;FEM;PL
+kabak	сквош	kabak	сквош		N;INAN;NOM;MASC;SG
+arayüzü	интерфейс	arayüz	интерфейс	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+kuban	кубани	kuban	кубань		N;INAN;NOM;FEM;PL
+attila	аттила	attila	аттил		N;ANIM;NOM;MASC;SG
+hammer	молоток	hammer	молоток		N;INAN;NOM;MASC;SG
+hammer	молот	hammer	молот		N;INAN;NOM;MASC;SG
+capitol	капитолий	capitol	капитолия	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+kardinal	кардинал	kardinal	кардинал	N;DAT;SG;3	N;ANIM;NOM;MASC;SG
+dei	dei	de	dei	PROPN;NOM;SG;3	PROPN
+enflasyon	инфляция	enflasyon	инфляция		N;INAN;NOM;FEM;SG
+forumu	форуме	foru	форум	N;NOM;SG;3	N;INAN;ESS;MASC;SG
+hedefleri	целей	hedef	цель	N;NOM;PL;3	N;INAN;GEN;FEM;PL
+obama	обама	oba	обама		N;ANIM;NOM;MASC;SG
+nord	нор	nord	нора	PROPN;NOM;SG;3	N;INAN;NOM;MASC;PL
+nord	nord	nord	nord	PROPN;NOM;SG;3	PROPN
+sakız	хиос	sakız	хиос		N;INAN;NOM;MASC;SG
+nina	нина	nina	нина		N;ANIM;NOM;FEM;SG
+jeffrey	джефри	jeffrey	джефрь		N;ANIM;NOM;MASC;SG
+jeffrey	джеффри	jeffrey	джеффри		N;ANIM;NOM;MASC;SG
+denizaşırı	зарубежные	denizaşır	зарубежный		ADJ;NOM;PL
+denizaşırı	заморских	denizaşır	заморский		ADJ;GEN;PL
+ned	нед	ned	нед		N;INAN;NOM;MASC;SG
+christine	кристин	christ	кристина	PROPN;DAT;SG;3	N;ANIM;NOM;FEM;SG
+christine	кристина	christ	кристина	PROPN;DAT;SG;3	N;ANIM;NOM;FEM;SG
+freiburg	фрайбург	freiburg	фрайбург	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+rogers	роджерс	rogers	роджерс		N;ANIM;NOM;MASC;SG
+lejyon	легион	lejyon	легион		N;INAN;NOM;MASC;SG
+müthiş	круто	müthiş	крутой		ADJ;NEUT;SG
+müthiş	классные	müthiş	классный		ADJ;NOM;PL
+müthiş	классная	müthiş	классный		ADJ;NOM;FEM;SG
+müthiş	классно	müthiş	классный		ADV
+gate	врата	gate	врат		N;INAN;NOM;MASC;PL
+gate	ворота	gate	ворота		N;INAN;NOM;NEUT;PL
+dell	делл	dell	делл		N;ANIM;NOM;MASC;SG
+grove	гроув	grove	гроув	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+dağılmış	разбросаны	dağıl	разбросить		V;PFV;PL;PST;V.PTCP;PASS
+adriyatik	адриатического	adriyatik	адриатический	N;NOM;SG;3	ADJ;GEN;MASC;SG
+niigata	ниигата	niigata	ниигата	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+ofis	отделений	ofis	отделение		N;INAN;GEN;NEUT;PL
+ofis	офисы	ofis	офис		N;INAN;NOM;MASC;PL
+ofis	кабинет	ofis	кабинет		N;INAN;NOM;MASC;SG
+ofis	канцелярия	ofis	канцелярия		N;INAN;NOM;FEM;SG
+ofis	офис	ofis	офис		N;INAN;NOM;MASC;SG
+çizgili	полосатый	çizgili	полосатый		ADJ;NOM;MASC;SG
+çizgili	полосы	çizgili	полоса		N;INAN;NOM;FEM;PL
+ret	отказ	ret	отказ		N;INAN;NOM;MASC;SG
+ret	неприятие	ret	неприятие		N;INAN;NOM;NEUT;SG
+ret	отклонение	ret	отклонение		N;INAN;NOM;NEUT;SG
+reel	real	reel	real		PROPN
+reel	настоящий	reel	настоящий		ADJ;NOM;MASC;SG
+reel	настоящие	reel	настоящий		ADJ;NOM;PL
+reel	настоящая	reel	настоящий		ADJ;NOM;FEM;SG
+reel	реальные	reel	реальный		ADJ;NOM;PL
+akut	острая	akut	острый		ADJ;NOM;FEM;SG
+akut	острой	akut	острый		ADJ;INS;FEM;SG
+akut	острое	akut	острый		ADJ;NOM;NEUT;SG
+akut	острый	akut	острый		ADJ;NOM;MASC;SG
+bwv	bwv	bwv	bwv		N;INAN;NOM;FEM;SG
+connor	коннор	connor	коннор		N;ANIM;NOM;MASC;SG
+istikrarlı	последовательно	istikrarlı	последовательно	ADJ	ADV
+istikrarlı	стабильно	istikrarlı	стабильно	ADJ	ADV
+acımasız	жестоко	acımasız	жестоко	ADJ	ADV
+alım	купить	alım	купить		V;PFV;NFIN;ACT
+alım	покупать	alım	покупать		V;IPFV;NFIN;ACT
+magnus	магнус	magnus	магнус		N;ANIM;NOM;MASC;SG
+filistinli	палестинский	filistinli	палестинский		ADJ;NOM;MASC;SG
+filistinli	палестинские	filistinli	палестинский		ADJ;NOM;PL
+filistinli	палестинских	filistinli	палестинский		ADJ;GEN;PL
+filistinli	палестинцы	filistinli	палестинец		N;ANIM;NOM;MASC;PL
+filistinli	палестинская	filistinli	палестинский		ADJ;NOM;FEM;SG
+hacim	объём	hacim	объем		N;INAN;NOM;MASC;SG
+hacim	объем	hacim	объем		N;INAN;NOM;MASC;SG
+hacim	громкость	hacim	громкость		N;INAN;NOM;FEM;SG
+istiyor	хочет	iste	хотеть	V;PROG;IND;SG;3;POS;INFM;PRS	V;IPFV;IND;SG;3;PRS;FIN;ACT
+petro	петро	petro	петро		N;ANIM;NOM;MASC;SG
+duncan	дункан	duncan	дункан	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+marko	марко	marko	марко		N;ANIM;NOM;MASC;SG
+afet	катаклизма	afet	катаклизм		N;INAN;GEN;MASC;SG
+afet	катастрофа	afet	катастрофа		N;INAN;NOM;FEM;SG
+afet	бедствия	afet	бедствие		N;INAN;NOM;NEUT;PL
+afet	бедствие	afet	бедствие		N;INAN;NOM;NEUT;SG
+afet	катастрофа	afet	катастрофа		N;INAN;NOM;FEM;SG
+afet	катастрофы	afet	катастрофа		N;INAN;NOM;FEM;PL
+afet	катастрофу	afet	катастрофа		N;INAN;ACC;FEM;SG
+işlenmiş	гравировкой	işle	гравировка	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;INAN;INS;FEM;SG
+işlenmiş	обработки	işle	обработка	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	N;INAN;GEN;FEM;SG
+stüdyosu	студии	stüdyo	студия	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+stüdyosu	studio	stüdyo	studio	N;NOM;SG;3	PROPN
+sığ	мелко	sığ	мелко		ADV
+analog	аналоговые	analog	аналоговый		ADJ;NOM;PL
+analog	аналог	analog	аналог		N;INAN;NOM;MASC;SG
+yapraklar	листьев	yap	лист	N;NOM;PL;3	N;INAN;GEN;MASC;PL
+yapraklar	оставляет	yap	оставлять	N;NOM;PL;3	V;IPFV;IND;SG;3;PRS;FIN;ACT
+canavar	чудовище	canavar	чудовище		N;INAN;NOM;NEUT;SG
+canavar	зверь	canavar	зверь		N;ANIM;NOM;MASC;SG
+canavar	монстр	canavar	монстр		N;ANIM;NOM;MASC;SG
+canavar	чудовище	canavar	чудовище		N;INAN;NOM;NEUT;SG
+bozuklukları	расстройства	bozukluk	расстройство	N;ACC;PL;3	N;INAN;NOM;NEUT;PL
+bozuklukları	расстройств	bozukluk	расстройство	N;ACC;PL;3	N;INAN;GEN;NEUT;PL
+fazladan	дополнительные	fazladan	дополнительный	ADV	ADJ;NOM;PL
+fazladan	дополнительное	fazladan	дополнительный	ADV	ADJ;NOM;NEUT;SG
+fazladan	дополнительная	fazladan	дополнительный	ADV	ADJ;NOM;FEM;SG
+court	корт	court	корт		N;INAN;NOM;MASC;SG
+court	суд	court	суд		N;INAN;NOM;MASC;SG
+elbise	платья	elbise	платье	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+elbise	одежду	elbise	одежда	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+kestane	каштаны	kestan	каштан	N;NOM;SG;3	N;INAN;NOM;MASC;PL
+kestane	maroon	kestan	maroon	N;NOM;SG;3	PROPN
+normandiya	normandie	normandiya	normandie	N;NOM;SG;3	PROPN
+normandiya	нормандии	normandiya	нормандия	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+yonca	шемрок	yonca	шемрок		N;INAN;NOM;MASC;SG
+yonca	клевер	yonca	клевер		N;INAN;NOM;MASC;SG
+yonca	люцерны	yonca	люцерн		N;INAN;NOM;FEM;PL
+ekolojik	экологическое	ekolojik	экологический		ADJ;NOM;NEUT;SG
+ekolojik	экологический	ekolojik	экологический		ADJ;NOM;MASC;SG
+ekolojik	экологическая	ekolojik	экологический		ADJ;NOM;FEM;SG
+ekolojik	экологических	ekolojik	экологический		ADJ;GEN;PL
+ekolojik	экологические	ekolojik	экологический		ADJ;NOM;PL
+yükseliş	подъем	yükseliş	подъем		N;INAN;NOM;MASC;SG
+yükseliş	поднять	yükseliş	поднять		V;PFV;NFIN;ACT
+yükseliş	лифт	yükseliş	лифт		N;INAN;NOM;MASC;SG
+yükseliş	восхождение	yükseliş	восхождение		N;INAN;NOM;NEUT;SG
+yükseliş	вознесения	yükseliş	вознесение		N;INAN;NOM;NEUT;PL
+yürüyen	прогулки	yürü	прогулка	V;PFV;IND;POS;PRS;V.PTCP	N;INAN;NOM;FEM;PL
+yürüyen	ходить	yürü	ходить	V;PFV;IND;POS;PRS;V.PTCP	V;IPFV;NFIN;ACT
+tüp	трубку	tüp	трубка		N;INAN;ACC;FEM;SG
+tüp	трубка	tüp	трубка		N;INAN;NOM;FEM;SG
+cool	круто	cool	крутой		ADJ;NEUT;SG
+cool	крутая	cool	крутой		ADJ;NOM;FEM;SG
+cool	классные	cool	классный		ADJ;NOM;PL
+cool	крутые	cool	крутой		ADJ;NOM;PL
+profil	профиль	profil	профиль		N;INAN;NOM;MASC;SG
+donna	донна	donna	донна		N;ANIM;NOM;FEM;SG
+saddam	саддам	saddam	садда		N;ANIM;NOM;MASC;SG
+saddam	саддама	saddam	саддам		N;ANIM;NOM;MASC;SG
+uyan	пробудить	uyan	пробудить		V;PFV;NFIN;ACT
+ilanı	декларация	ilan	декларация	N;ACC;SG;3	N;INAN;NOM;FEM;SG
+ilanı	заявление	ilan	заявление	N;ACC;SG;3	N;INAN;NOM;NEUT;SG
+astronomik	астрономических	astronomik	астрономический		ADJ;GEN;PL
+weimar	веймар	weimar	веймар	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+güvercin	голуби	güvercin	голубь	N;NOM;SG;3	N;ANIM;NOM;MASC;PL
+güvercin	голуби	güvercin	голубь	N;NOM;SG;3	N;ANIM;NOM;MASC;PL
+soma	сома	soma	сом		N;INAN;NOM;MASC;SG
+meyer	майер	meyer	майер		N;ANIM;NOM;FEM;SG
+meyer	мейер	meyer	мейер		N;ANIM;NOM;MASC;SG
+emi	emi	emi	emi		PROPN
+meyveler	фрукт	meyve	фрукт	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+meyveler	плод	meyve	плод	N;NOM;PL;3	N;INAN;NOM;MASC;SG
+seçenek	выбор	seçenek	выбор		N;INAN;NOM;MASC;SG
+seçenek	опция	seçenek	опция		N;INAN;NOM;FEM;SG
+seçenek	вариант	seçenek	вариант		N;INAN;NOM;MASC;SG
+seçenek	опции	seçenek	опция		N;INAN;NOM;FEM;PL
+seçenek	варианты	seçenek	вариант		N;INAN;NOM;MASC;PL
+seçenek	параметры	seçenek	параметр		N;INAN;NOM;MASC;PL
+seçenek	вариантов	seçenek	вариант		N;INAN;GEN;MASC;PL
+palmiye	палм	palmi	палм		N;INAN;NOM;MASC;SG
+palmiye	ладони	palmi	ладонь		N;INAN;NOM;FEM;PL
+palmiye	palm	palmi	palm		PROPN
+palmiye	ладонь	palmi	ладонь		N;INAN;NOM;FEM;SG
+vatandaş	граждане	vatandaş	гражданин		N;ANIM;NOM;MASC;PL
+vatandaş	граждан	vatandaş	гражданин		N;ANIM;GEN;MASC;PL
+vatandaş	гражданин	vatandaş	гражданин		N;ANIM;NOM;MASC;SG
+vatandaş	гражданина	vatandaş	гражданин		N;ANIM;ACC;MASC;SG
+windsor	виндзор	windsor	виндзор	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+theodor	теодор	theodor	теодор	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+eindhoven	эйндховен	eindhoven	эйндховный	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+çirkin	уродливый	çirkin	уродливый		ADJ;NOM;MASC;SG
+faktörü	коэффициент	faktörü	коэффициент	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+faktörü	фактор	faktörü	фактор	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+faktörü	фактором	faktörü	фактор	N;ACC;SG;3	N;INAN;INS;MASC;SG
+büyükelçi	посла	büyükelçi	посол	N;NOM;SG;3	N;ANIM;ACC;MASC;SG
+ayrılma	разделение	ayrıl	разделение		N;INAN;NOM;NEUT;SG
+ayrılma	разделительной	ayrıl	разделительный		ADJ;INS;FEM;SG
+internazionale	internazionale	internazion	internazionale	PROPN;NOM;SG;3	PROPN
+öldürme	убийства	öl	убийство	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;PL
+öldürme	убийство	öl	убийство	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS	N;INAN;NOM;NEUT;SG
+çamur	грязь	çamur	грязь		N;INAN;NOM;FEM;SG
+çamur	грязи	çamur	грязь		N;INAN;NOM;FEM;PL
+çamur	клей	çamur	клей		N;INAN;NOM;MASC;SG
+çamur	клэй	çamur	клэй		N;ANIM;NOM;MASC;SG
+çamur	глины	çamur	глина		N;INAN;NOM;FEM;PL
+koşu	бег	koşu	бег		N;INAN;NOM;MASC;SG
+koşu	пробежки	koşu	пробежка		N;INAN;NOM;FEM;PL
+koşu	бег	koşu	бег		N;INAN;NOM;MASC;SG
+koşu	бегать	koşu	бегать		V;IPFV;NFIN;ACT
+sürümleri	версии	sürüm	версия	N;ACC;PL;3	N;INAN;NOM;FEM;PL
+sürümleri	версий	sürüm	версия	N;ACC;PL;3	N;INAN;GEN;FEM;PL
+davut	дэвид	davut	дэвид		N;ANIM;NOM;MASC;SG
+davut	давид	davut	давид		N;ANIM;NOM;MASC;SG
+modu	режим	modu	режим		N;INAN;NOM;MASC;SG
+modu	mode	modu	mode		PROPN
+kit	комплект	kit	комплект		N;INAN;NOM;MASC;SG
+kit	кит	kit	кит		N;ANIM;NOM;MASC;SG
+juniors	юниоров	juniors	юниор	PROPN;NOM;SG;3	N;ANIM;GEN;MASC;PL
+juniors	юниоры	juniors	юниор	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;PL
+veliaht	дофин	veliaht	дофина		N;ANIM;NOM;MASC;SG
+korece	корейском	korece	корейский		ADJ;ESS;MASC;SG
+korece	корейский	korece	корейский		ADJ;NOM;MASC;SG
+korece	корейская	korece	корейский		ADJ;NOM;FEM;SG
+çimento	цемент	çimento	цемент		N;INAN;NOM;MASC;SG
+çimento	цемента	çimento	цемент		N;INAN;GEN;MASC;SG
+katedral	собор	katedral	собор	N;ESS;SG;3	N;INAN;NOM;MASC;SG
+manken	модели	manken	модель		N;INAN;NOM;FEM;PL
+manken	образец	manken	образец		N;INAN;NOM;MASC;SG
+manken	model	manken	model		PROPN
+manken	модель	manken	модель		N;INAN;NOM;FEM;SG
+manken	манекен	manken	манекен		N;INAN;NOM;MASC;SG
+kaos	хаос	kaos	хаос		N;INAN;NOM;MASC;SG
+paylaşım	обмена	paylaşım	обмен	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+paylaşım	поделиться	paylaşım	делиться	N;NOM;SG;3	V;PFV;NFIN;MID
+paylaşım	разделить	paylaşım	разделить	N;NOM;SG;3	V;PFV;NFIN;ACT
+paylaşım	поделитесь	paylaşım	делиться	N;NOM;SG;3	V;PFV;IMP;PL;2;FUT;FIN;MID
+paylaşım	размещения	paylaşım	размещение	N;NOM;SG;3	N;INAN;NOM;NEUT;PL
+savaştı	сражались	savaş	сражаться		V;IPFV;IND;PL;PST;FIN;MID
+savaştı	сражался	savaş	сражаться		V;IPFV;MASC;IND;SG;PST;FIN;MID
+kaçınılmaz	неизбежно	kaçınılmaz	неизбежно	ADJ	ADV
+kaçınılmaz	неизбежность	kaçınılmaz	неизбежность	ADJ	N;INAN;NOM;FEM;SG
+kalkış	отъезда	kalkış	отъезд	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+kalkış	взлета	kalkış	взлет	N;NOM;SG;3	N;INAN;GEN;MASC;SG
+kıbrıslı	киприотов	kıbrıslı	киприот		N;ANIM;GEN;MASC;PL
+kıbrıslı	киприоты	kıbrıslı	киприот		N;ANIM;NOM;MASC;PL
+kıbrıslı	киприотов	kıbrıslı	киприот		N;ANIM;GEN;MASC;PL
+dişli	снаряжение	dişli	снаряжение		N;INAN;NOM;NEUT;SG
+dişli	gear	dişli	gear		PROPN
+dişli	передач	dişli	передача		N;INAN;GEN;FEM;PL
+dişli	зубов	dişli	зуб		N;INAN;GEN;MASC;PL
+dişli	зубы	dişli	зуб		N;INAN;NOM;MASC;PL
+aids	спидом	aids	спид		N;INAN;INS;MASC;SG
+aids	спид	aids	спид		N;INAN;NOM;MASC;SG
+aids	спида	aids	спид		N;INAN;GEN;MASC;SG
+aids	спид	aids	спид		N;INAN;NOM;MASC;SG
+anders	андерс	anders	андерс		N;ANIM;NOM;MASC;SG
+marilyn	мэрилин	marilyn	мэрилин		N;ANIM;NOM;FEM;PL
+talepleri	требует	talep	требовать	N;NOM;PL;3	V;IPFV;IND;SG;3;PRS;FIN;ACT
+çalı	буш	çalı	буш		N;ANIM;NOM;MASC;SG
+çalı	буша	çalı	буш		N;ANIM;ACC;MASC;SG
+çalı	кустарник	çalı	кустарник		N;INAN;NOM;MASC;SG
+laik	светского	laik	светский		ADJ;GEN;MASC;SG
+hamburger	бургер	hamburger	бургер		N;ANIM;NOM;MASC;SG
+hamburger	гамбургер	hamburger	гамбургер		N;INAN;NOM;MASC;SG
+sunmak	представляем	sun	представлять	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;IPFV;IND;PL;1;PRS;FIN;ACT
+olgu	явление	olgu	явление		N;INAN;NOM;NEUT;SG
+olgu	феномен	olgu	феномен		N;INAN;NOM;MASC;SG
+darth	дарт	darth	дарта		N;ANIM;NOM;MASC;SG
+sapma	отклонения	sap	отклонение		N;INAN;NOM;NEUT;PL
+sapma	отклонение	sap	отклонение		N;INAN;NOM;NEUT;SG
+küp	кубик	küp	кубик		N;INAN;NOM;MASC;SG
+küp	куб	küp	куб		N;INAN;NOM;MASC;SG
+küp	кубических	küp	кубический		ADJ;GEN;PL
+asgari	минимальный	asgari	минимальный		ADJ;NOM;MASC;SG
+asgari	минимальное	asgari	минимальный		ADJ;NOM;NEUT;SG
+asgari	минимальная	asgari	минимальный		ADJ;NOM;FEM;SG
+asgari	минимум	asgari	минимум		N;INAN;ACC;MASC;SG
+asgari	минимальные	asgari	минимальный		ADJ;NOM;PL
+asgari	минимальный	asgari	минимальный		ADJ;NOM;MASC;SG
+asgari	минимальная	asgari	минимальный		ADJ;NOM;FEM;SG
+asgari	минимальным	asgari	минимальный		ADJ;INS;NEUT;SG
+asgari	минимальное	asgari	минимальный		ADJ;NOM;NEUT;SG
+asgari	минимум	asgari	минимум		N;INAN;ACC;MASC;SG
+metz	мец	metz	мец	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+memeli	млекопитающих	memel	млекопитающее		N;ANIM;ACC;MASC;PL
+memeli	млекопитающих	memel	млекопитающее		N;ANIM;ACC;MASC;PL
+memeli	млекопитающих	memel	млекопитающее		N;ANIM;ACC;MASC;PL
+bekliyorum	ожидание	bekle	ожидание	V;PROG;IND;SG;1;POS;INFM;PRS	N;INAN;NOM;NEUT;SG
+bekliyorum	ждём	bekle	ждем	V;PROG;IND;SG;1;POS;INFM;PRS	V;IPFV;IND;PL;1;PRS;FIN;ACT
+bekliyorum	жду	bekle	ждать	V;PROG;IND;SG;1;POS;INFM;PRS	V;IPFV;IND;SG;1;PRS;FIN;ACT
+bekliyorum	ждем	bekle	ждать	V;PROG;IND;SG;1;POS;INFM;PRS	V;IPFV;IND;PL;1;PRS;FIN;ACT
+bekliyorum	ждать	bekle	ждать	V;PROG;IND;SG;1;POS;INFM;PRS	V;IPFV;NFIN;ACT
+kıyafet	одежды	kıyafet	одежда	N;NOM;SG;3	N;INAN;NOM;FEM;PL
+kıyafet	одежду	kıyafet	одежда	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+kıyafet	одежду	kıyafet	одежда	N;NOM;SG;3	N;INAN;ACC;FEM;SG
+medici	медичи	medici	медич		N;ANIM;NOM;FEM;SG
+aria	ария	aria	арий	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+girdiler	записи	gir	запись	V;PFV;IND;PL;3;POS;PST	N;INAN;NOM;FEM;PL
+çekilme	вывод	çek	вывод	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;NOM;MASC;SG
+çekilme	снятие	çek	снятие	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	N;INAN;NOM;NEUT;SG
+gökyüzü	sky	gökyüzü	sky		PROPN
+gökyüzü	скай	gökyüzü	скай		INTJ
+gökyüzü	неба	gökyüzü	небо		N;INAN;GEN;NEUT;SG
+gökyüzü	небо	gökyüzü	небо		N;INAN;NOM;NEUT;SG
+gökyüzü	небеса	gökyüzü	небес		N;INAN;NOM;MASC;PL
+gökyüzü	небо	gökyüzü	небо		N;INAN;NOM;NEUT;SG
+tüneli	тоннель	tüneli	тоннель	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+tüneli	туннель	tüneli	тоннель	N;ACC;SG;3	N;INAN;NOM;MASC;SG
+alto	альто	alto	альто		N;INAN;NOM;MASC;SG
+aranan	разыскивается	ara	разыскивать		V;IPFV;IND;SG;3;PRS;FIN;PASS
+aranan	хотел	ara	хотеть		V;IPFV;MASC;IND;SG;PST;FIN;ACT
+aranan	хотела	ara	хотеть		V;IPFV;FEM;IND;SG;PST;FIN;ACT
+aranan	набрал	ara	набрать		V;PFV;MASC;IND;SG;PST;FIN;ACT
+aranan	набрали	ara	набрать		V;PFV;IND;PL;PST;FIN;ACT
+aranan	набрала	ara	набрать		V;PFV;FEM;IND;SG;PST;FIN;ACT
+yenileme	сброс	yenilem	сброс		N;INAN;NOM;MASC;SG
+yenileme	сбросить	yenilem	сбросить		V;PFV;NFIN;ACT
+yenileme	восстановление	yenilem	восстановление		N;INAN;NOM;NEUT;SG
+yenileme	восстановления	yenilem	восстановление		N;INAN;GEN;NEUT;SG
+yenileme	реконструкция	yenilem	реконструкция		N;INAN;NOM;FEM;SG
+yenileme	ремонт	yenilem	ремонт		N;INAN;NOM;MASC;SG
+alfonso	альфонсо	alfonso	альфонсо	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+nottingham	ноттингем	nottingham	ноттинг	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+davranışlar	поведение	davranış	поведение	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+davranışlar	поведение	davranış	поведение	N;NOM;PL;3	N;INAN;NOM;NEUT;SG
+joyce	джойс	joyce	джойс		N;ANIM;NOM;FEM;SG
+cromwell	кромвель	cromwell	кромвель	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+finanse	финансирование	finanse	финансирование		N;INAN;NOM;NEUT;SG
+finanse	финансы	finanse	финансы		N;INAN;NOM;MASC;PL
+finanse	финансирование	finanse	финансирование		N;INAN;NOM;NEUT;SG
+finanse	финансируемых	finanse	финансировать		V;IPFV;GEN;PL;PRS;V.PTCP;PASS
+finanse	финансируется	finanse	финансировать		V;IPFV;IND;SG;3;PRS;FIN;PASS
+finanse	финансируемые	finanse	финансировать		V;IPFV;NOM;PL;PRS;V.PTCP;PASS
+anya	аня	anya	аня		N;ANIM;NOM;FEM;SG
+taksi	taxi	taksi	taxi		PROPN
+taksi	такси	taksi	такси		N;INAN;NOM;NEUT;SG
+taksi	такси	taksi	такси		N;INAN;NOM;NEUT;SG
+taksi	такси	taksi	такси		N;INAN;NOM;NEUT;SG
+mönchengladbach	мёнхенгладбах	mönchengladbach	менхенгладб	PROPN;NOM;SG;3	N;INAN;ESS;FEM;PL
+mülteci	беженцы	mülteci	беженец		N;ANIM;NOM;MASC;PL
+mülteci	беженцев	mülteci	беженец		N;ANIM;GEN;MASC;PL
+mülteci	беженца	mülteci	беженец		N;ANIM;ACC;MASC;SG
+mülteci	беженец	mülteci	беженец		N;ANIM;NOM;MASC;SG
+mülteci	беженцы	mülteci	беженец		N;ANIM;NOM;MASC;PL
+soyuz	союз	soyuz	союз		N;INAN;NOM;MASC;SG
+mafya	мафия	mafya	мафия		N;INAN;NOM;FEM;SG
+mafya	моб	mafya	моб		N;INAN;NOM;MASC;SG
+mafya	мафии	mafya	мафия		N;INAN;NOM;FEM;PL
+mafya	толпа	mafya	толпа		N;INAN;NOM;FEM;SG
+mafya	мафия	mafya	мафия		N;INAN;NOM;FEM;SG
+mafya	мафии	mafya	мафия		N;INAN;NOM;FEM;PL
+liberty	свобода	liberty	свобода	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+carmen	кармен	carmen	кармен	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+mozambik	мозамбике	mozambik	мозамбика	PROPN;NOM;SG;3	N;INAN;DAT;FEM;SG
+mozambik	мозамбик	mozambik	мозамбик	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+mozambik	мозамбика	mozambik	мозамбика	PROPN;NOM;SG;3	N;INAN;NOM;MASC;SG
+dogg	dogg	dogg	dogg		PROPN
+faso	фасо	faso	фасо		N;INAN;NOM;FEM;SG
+carroll	кэрролл	carroll	кэрролл	PROPN;NOM;SG;3	N;ANIM;NOM;FEM;SG
+chase	чейз	chase	чейз	PROPN;NOM;SG;3	N;ANIM;NOM;MASC;SG
+chase	погоня	chase	погоня	PROPN;NOM;SG;3	N;INAN;NOM;FEM;SG
+pavel	павел	pavel	павел		N;ANIM;NOM;MASC;SG
+derby	дерби	derby	дербь		N;INAN;NOM;NEUT;SG
+içecek	пей	iç	пить	V;PFV;IND;POS;FUT	V;IPFV;IMP;SG;2;FIN;ACT
+içecek	пить	iç	пить	V;PFV;IND;POS;FUT	V;IPFV;NFIN;ACT
+içecek	напиток	iç	напиток	V;PFV;IND;POS;FUT	N;INAN;NOM;MASC;SG
+içecek	напитки	iç	напиток	V;PFV;IND;POS;FUT	N;INAN;NOM;MASC;PL
+içecek	напиток	iç	напиток	V;PFV;IND;POS;FUT	N;INAN;NOM;MASC;SG
+içecek	напитки	iç	напиток	V;PFV;IND;POS;FUT	N;INAN;NOM;MASC;PL
+içecek	напитки	iç	напиток	V;PFV;IND;POS;FUT	N;INAN;NOM;MASC;PL
+nar	гранат	nar	граната		N;INAN;NOM;MASC;SG
+nar	гранаты	nar	граната		N;INAN;NOM;FEM;PL
+sine	sine	sin	sine		PROPN
+ithaf	самоотверженность	ithaf	самоотверженность		N;INAN;NOM;FEM;SG
+ithaf	посвящение	ithaf	посвящение		N;INAN;NOM;NEUT;SG
+ithaf	посвятить	ithaf	посвятить		V;PFV;NFIN;ACT
+spiral	спирали	spiral	спираль		N;INAN;NOM;FEM;PL
+spiral	спираль	spiral	спираль		N;INAN;NOM;FEM;SG
+çarpma	умножение	çarp	умножение		N;INAN;NOM;NEUT;SG
+çarpma	эффект	çarp	эффект		N;INAN;NOM;MASC;SG
+çarpma	влияние	çarp	влияние		N;INAN;NOM;NEUT;SG
+çarpma	воздействие	çarp	воздействие		N;INAN;NOM;NEUT;SG
+çarpma	результативность	çarp	результативность		N;INAN;NOM;FEM;SG
+çarpma	последствия	çarp	последствие		N;INAN;NOM;NEUT;PL
+ellis	эллис	ellis	эллис		N;INAN;NOM;MASC;SG
+enstitü	институт	enstit	институт		N;INAN;NOM;MASC;SG
+enstitü	учреждение	enstit	учреждение		N;INAN;NOM;NEUT;SG
+enstitü	институт	enstit	институт		N;INAN;NOM;MASC;SG
