@@ -1,0 +1,6311 @@
+분류	kategorisi	분류	kategori	N	N;NOM;SG;3
+분류	kategorizasyonu	분류	kategorizasyonu	N	N;ACC;SG;3
+분류	kategorileri	분류	kategori	N	N;ACC;PL;3
+선수	oyuncular	선수	oyuncu	N	N;NOM;PL;3
+바깥	dışarıya	바깥	dışarı	N	N;DAT;SG;3
+바깥	dışarda	바깥	dışarı	N	N;ESS;SG;3
+바깥	dışarıda	바깥	dışarı	N	N;ESS;SG;3
+고리	halka	고리	halka		
+영화	filmleri	영화	film	N	N;ACC;PL;3
+영화	filmler	영화	film	N	N;NOM;PL;3
+영화	sinema	영화	sine	N	N;NOM;SG;3
+영화	sinema	영화	sine	N	N;NOM;SG;3
+영화	filim	영화	filim	N	N;NOM;SG;3
+영화	filmler	영화	film	N	N;NOM;PL;3
+영화	sinema	영화	sine	N	N;NOM;SG;3
+다른	diğer	다르+ㄴ	diğer	ADJ	ADJ
+같은	aynısından	같+ㄴ	aynı	ADJ	ADJ;AT+ABL;SG;3
+같은	aynı	같+ㄴ	aynı	ADJ	ADJ
+현재	akıntı	현재	akıntı	N	N;NOM;SG;3
+현재	hediye	현재	hedi	N	N;NOM;SG;3
+사람	kişi	사람	kişi	N	N;NOM;SG;3
+사람	kişiye	사람	kişi	N	N;DAT;SG;3
+사람	insan	사람	insan	N	N;NOM;SG;3
+사람	insan	사람	insan	N	N;NOM;SG;3
+사람	adam	사람	adam	N	N;NOM;SG;3
+사람	adamım	사람	adam	N	N;NOM;SG;3
+사람	kişiler	사람	kişi	N	N;NOM;PL;3
+사람	insanlar	사람	insan	N	N;NOM;PL;3
+배우	aktörler	배우	aktör	N	N;NOM;PL;3
+배우	oyuncular	배우	oyuncu	N	N;NOM;PL;3
+그리고	ve	그리고	ve	CONJ	CONJ
+그러나	ama	그러나	ama	CONJ	CONJ
+그의	onun	그+의	o	PRO	PRO;GEN;SG;3
+보기	gör	보+기	gör	V	V;PFV;IMP;SG;2;POS;PRS
+파일	dosyalar	파일	dosya	N	N;NOM;PL;3
+파일	dosyaları	파일	dosya	N	N;NOM;PL;3
+파일	dosyası	파일	dosya	N	N;NOM;SG;3
+올림픽	olimpiyatlar	올림픽	ol	N	N;NOM;PL;3
+올림픽	olimpiyatları	올림픽	ol	N	N;ACC;PL;3
+올림픽	olimpiyat	올림픽	olimpiyat	N	N;NOM;SG;3
+다시	yine	다시	yine	ADV	ADV
+다시	gene	다시	gene	ADV	ADV
+다시	yeniden	다시	yeniden	ADV	ADV
+클럽	klüp	클럽	klüp		
+클럽	club	클럽	club		
+클럽	kulüp	클럽	kul		
+공식	official	공식	official	N	N;NOM;SG;3
+세기	yüzyıllar	세기	yüzyıl	N	N;NOM;PL;3
+세기	asırlar	세기	asır	N	N;NOM;PL;3
+세계	dünyalar	세계	dünya	N	N;NOM;PL;3
+세계	dünyaları	세계	dünya	N	N;NOM;PL;3
+하지만	ama	하지만	ama	CONJ	CONJ
+게임	maç	게임	maç	N	N;NOM;SG;3
+게임	maçlar	게임	maç	N	N;NOM;PL;3
+게임	oyunlar	게임	oyun	N	N;NOM;PL;3
+게임	oyunları	게임	oyun	N	N;ACC;PL;3
+텔레비전	televizyon	텔레비전	televizyon	N	N;NOM;SG;3
+감독	direktör	감독	direk	N	N;NOM;SG;3
+시즌	mevsim	시즌	mevsim		
+시즌	sezon	시즌	sezon		
+시즌	seasons	시즌	seasons		
+시즌	mevsim	시즌	mevsim		
+드라마	drama	드라마	dra		
+드라마	dram	드라마	dram		
+학교	okullar	학교	okul	N	N;NOM;PL;3
+학교	okulları	학교	okul	N	N;NOM;PL;3
+학교	okula	학교	okul	N	N;DAT;SG;3
+학교	okulumuz	학교	okul	N	N;NOM;SG;3
+학교	okulu	학교	okul	N	N;NOM;SG;3
+사용자	kullanıcı	사용자	kullanıcı	N	N;NOM;SG;3
+사용자	kullanıcı	사용자	kullanıcı	N	N;NOM;SG;3
+사용자	kullanıcıları	사용자	kullanıcı	N	N;ACC;PL;3
+사용자	kullanıcılar	사용자	kullanıcı	N	N;NOM;PL;3
+참고	not	참+고	not		
+참고	nota	참+고	nota		
+참고	referans	참+고	referans		
+참고	referans	참+고	referans		
+참고	gönderme	참+고	gönder		
+기준	kriterleri	기준	kriter	N	N;ACC;PL;3
+참가	katılımı	참가	katılım	N	N;ACC;SG;3
+홈페이지	anasayfa	홈페+이+지	anasayfa		
+연도	yıl	연도	yıl		
+연도	yılı	연도	yıl		
+연도	sene	연도	sene		
+경기	maç	경기	maç	N	N;NOM;SG;3
+경기장	stadyumlar	경기장	stadyum	N	N;NOM;PL;3
+경기장	stadyumu	경기장	stadyum	N	N;NOM;SG;3
+경기장	stadyum	경기장	stadyum	N	N;NOM;SG;3
+위치	mevki	위치	mevki		
+위치	pozisyon	위치	pozisyon		
+대학교	üniversitesi	대학교	üniversitesi	N	N;NOM;SG;3
+대학교	üniversiteler	대학교	üniversite	N	N;NOM;PL;3
+문서	evraklar	문서	evrak	N	N;NOM;PL;3
+문서	belgeler	문서	belge	N	N;NOM;PL;3
+문서	belgeler	문서	belge	N	N;NOM;PL;3
+문서	belgeler	문서	belge	N	N;NOM;PL;3
+문서	doktorlar	문서	doktor	N	N;NOM;PL;3
+그림	görüntüler	그림	görüntü	N	N;NOM;PL;3
+그림	resimler	그림	resim	N	N;NOM;PL;3
+그림	görüntü	그림	görüntü	N	N;NOM;SG;3
+지역	alanı	지역	alan	N	N;NOM;SG;3
+지역	bölgede	지역	bölge	N	N;ESS;SG;3
+지역	bölgesi	지역	bölge	N	N;NOM;SG;3
+지역	bölgeler	지역	bölge	N	N;NOM;PL;3
+지역	bölgeleri	지역	bölge	N	N;ACC;PL;3
+목록	listesi	목록	liste	N	N;NOM;SG;3
+목록	listeyi	목록	liste	N	N;ACC;SG;3
+목록	listeleri	목록	liste	N	N;ACC;PL;3
+목록	listeler	목록	liste	N	N;NOM;PL;3
+도시	kentler	도시	kent	N	N;NOM;PL;3
+도시	şehirler	도시	şehir	N	N;NOM;PL;3
+도시	şehirleri	도시	şehir	N	N;NOM;PL;3
+도시	kentsel	도시	kentsel	N	N;NOM;SG;3
+가수	şarkıcı	가수	şarkıcı	N	N;NOM;SG;3
+죽음	ölümlerin	죽음	ölüm	N	N;GEN;PL;3
+죽음	ölümleri	죽음	ölüm	N	N;ACC;PL;3
+죽음	ölümler	죽음	ölüm	N	N;NOM;PL;3
+전쟁	savaş	전쟁	savaş	N	N;NOM;SG;3
+전쟁	savaşları	전쟁	savaş	N	N;NOM;PL;3
+전쟁	savaşlar	전쟁	savaş	N	N;NOM;PL;3
+다음	sırada	다음	sıra	N	N;ESS;SG;3
+직업	mesleği	직업	meslek	N	N;NOM;SG;3
+직업	iş	직업	iş	N	N;NOM;SG;3
+직업	işler	직업	iş	N	N;NOM;PL;3
+직업	görevler	직업	görev	N	N;NOM;PL;3
+직업	iş	직업	iş	N	N;NOM;SG;3
+대학	üniversiteler	대학	üniversite	N	N;NOM;PL;3
+대학	üniversitesi	대학	üniversitesi	N	N;NOM;SG;3
+대학	üniversiteler	대학	üniversite	N	N;NOM;PL;3
+여자	kadınım	여자	kadın	N	N;NOM;SG;3
+한국어	kore	한국어	kore		
+한국어	koreli	한국어	koreli		
+한국어	korece	한국어	korece		
+자료	veriler	자료	veri	N	N;NOM;PL;3
+이름	adınız	이름	adınız	N	N;NOM;SG;3
+이름	isim	이름	isim	N	N;NOM;SG;3
+이름	ad	이름	ad	N	N;NOM;SG;3
+이름	adı	이름	ad	N	N;NOM;SG;3
+이름	isimler	이름	isim	N	N;NOM;PL;3
+이름	adlar	이름	ad	N	N;NOM;PL;3
+이름	adları	이름	ad	N	N;ACC;PL;3
+이름	isimleri	이름	isim	N	N;ACC;PL;3
+음반	albümleri	음반	albüm	N	N;ACC;PL;3
+학급	sınıf	학급	sınıf	N	N;NOM;SG;3
+프로그램	programlar	프로그램	program	N	N;NOM;PL;3
+프로그램	programları	프로그램	program	N	N;NOM;PL;3
+프로그램	programı	프로그램	program	N	N;ACC;SG;3
+역사	tarih	역사	tarih	N	N;NOM;SG;3
+시간	saatleri	시간	saat	N	N;ACC;PL;3
+시간	saatler	시간	saat	N	N;NOM;PL;3
+시간	zaman	시간	zaman	N	N;NOM;SG;3
+시간	süre	시간	süre	N	N;NOM;SG;3
+노선	yolları	노선	yol	N	N;NOM;PL;3
+기타	diğeri	기타	diğer	N	N;NOM;SG;3
+기타	diğerleri	기타	diğer	N	N;ACC;PL;3
+기타	diğerlerini	기타	diğer	N	N;ACC;PL;3
+애니메이션	animasyon	애니메이션	animasyon		
+애니메이션	animasyon	애니메이션	animasyon		
+애니메이션	anime	애니메이션	anim		
+구역	alanı	구역	alan	N	N;NOM;SG;3
+대회	turnuvası	대회	turnuva	N	N;NOM;SG;3
+대회	turnuva	대회	tur	N	N;NOM;SG;3
+수도	başkent	수+도	başkent		
+수도	sermaye	수+도	sermaye		
+국제	yurtdışı	국제	yurtdışı		
+국제	uluslararası	국제	uluslararası		
+영어	ingiliz	영어	ingiliz		
+영어	türkçe	영어	türkçe		
+영어	turkish	영어	turkish		
+영어	ingilizce	영어	ingilizce		
+남자	adamlar	남자	adam	N	N;NOM;PL;3
+남자	insan	남자	insan	N	N;NOM;SG;3
+남자	adam	남자	adam	N	N;NOM;SG;3
+남자	adamım	남자	adam	N	N;NOM;SG;3
+프로	mesleki	프로	mesleki		
+프로	profesyonel	프로	profesyonel		
+프로	pro	프로	pro		
+프로	profesyonel	프로	profesyonel		
+결과	sonuçlar	결과	sonuç	N	N;NOM;PL;3
+결과	sonuçları	결과	sonuç	N	N;ACC;PL;3
+아들	oğlum	아들	oğul	N	N;NOM;SG;3
+활동	faaliyetler	활동	faaliyet	N	N;NOM;PL;3
+활동	etkinlikler	활동	etkinlik	N	N;NOM;PL;3
+활동	faaliyetleri	활동	faaliyet	N	N;NOM;PL;3
+활동	aktiviteler	활동	aktivite	N	N;NOM;PL;3
+활동	eylemler	활동	eylem	N	N;NOM;PL;3
+활동	eylemleri	활동	eylem	N	N;ACC;PL;3
+활동	hareketler	활동	hareket	N	N;NOM;PL;3
+활동	etkinlik	활동	etkinlik	N	N;NOM;SG;3
+활동	hareketler	활동	hareket	N	N;NOM;PL;3
+활동	aktiviteler	활동	aktivite	N	N;NOM;PL;3
+이미	zaten	이미	zaten	ADV	ADV
+이미	şimdiden	이미	şimdiden	ADV	ADV
+국가	devlet	국가	devlet	N	N;NOM;SG;3
+철도	demiryolu	철도	demiryolu		
+철도	demiryolu	철도	demiryolu		
+언어	diller	언어	dil	N	N;NOM;PL;3
+언어	dilleri	언어	dil	N	N;NOM;PL;3
+그룹	gurup	그룹	gur		
+그룹	grup	그룹	grup		
+그룹	grubu	그룹	grup		
+스포츠	sporlar	스포츠	spor	N	N;NOM;PL;3
+설명	tanımla	설명	tanım	N	N;INS;SG;3
+대통령	cumhurbaşkanı	대통령	cumhurbaşkanı	N	N;NOM;SG;3
+대통령	başkanlık	대통령	başkanlık	N	N;NOM;SG;3
+대통령	başkanlığı	대통령	başkanlık	N	N;NOM;SG;3
+대통령	cumhurbaşkanlığı	대통령	cumhurbaşkanlığı	N	N;NOM;SG;3
+대통령	başkanlar	대통령	başkan	N	N;NOM;PL;3
+대통령	başkanları	대통령	başkan	N	N;ACC;PL;3
+교통	taşımacılık	교통	taşımacılık	N	N;NOM;SG;3
+교통	ulaşım	교통	ulaşım	N	N;NOM;SG;3
+교통	trafik	교통	trafik	N	N;NOM;SG;3
+교통	ulaşım	교통	ulaşım	N	N;NOM;SG;3
+계속	devamı	계속	devam		
+직접	direk	직접	direk		
+직접	direkt	직접	direkt		
+직접	doğrudan	직접	doğrudan		
+정보	bilgi	정보	bilgi	N	N;NOM;SG;3
+정보	bilgileri	정보	bilgi	N	N;ACC;PL;3
+정보	bilgiler	정보	bilgi	N	N;NOM;PL;3
+정보	bilgi	정보	bilgi	N	N;NOM;SG;3
+정보	bilgiler	정보	bilgi	N	N;NOM;PL;3
+날짜	tarihi	날짜	tarih		
+날짜	flört	날짜	flört		
+인물	karakteri	인물	karakteri	N	N;ESS;SG;3
+싱글	tek	싱글	tek		
+싱글	tekli	싱글	tekli		
+싱글	single	싱글	sing		
+싱글	tek	싱글	tek		
+싱글	bekar	싱글	bekar		
+요청	istekler	요청	istek	N	N;NOM;PL;3
+요청	istekleri	요청	istek	N	N;ACC;PL;3
+요청	talepler	요청	talep	N	N;NOM;PL;3
+라디오	radio	라디오	radio		
+라디오	radyo	라디오	radyo		
+노래	şarkılar	노래	şarkı	N	N;NOM;PL;3
+처음	öncelikle	처음	öncelik	N	N;INS;SG;3
+관계	ilişkiler	관계	ilişki	N	N;NOM;PL;3
+관계	ilişkileri	관계	ilişki	N	N;ACC;PL;3
+관계	ilişki	관계	ilişki	N	N;NOM;SG;3
+관계	ilişki	관계	ilişki	N	N;NOM;SG;3
+관계	akrabalık	관계	akrabalık	N	N;NOM;SG;3
+관계	ilişkiler	관계	ilişki	N	N;NOM;PL;3
+관계	ilişkileri	관계	ilişki	N	N;ACC;PL;3
+관계	ilişki	관계	ilişki	N	N;NOM;SG;3
+관계	ilişkisi	관계	ilişki	N	N;NOM;SG;3
+불교	budistler	불교	budist	N	N;NOM;PL;3
+채널	kanallar	채널	kanal	N	N;NOM;PL;3
+채널	kanalları	채널	kanal	N	N;ACC;PL;3
+채널	kanalı	채널	kanalı	N	N;ACC;SG;3
+수상	ödüller	수상	ödül	N	N;NOM;PL;3
+수상	ödülleri	수상	ödül	N	N;NOM;PL;3
+시리즈	seri	시리즈	seri		
+공화국	cumhuriyetleri	공화국	cumhuriyet	N	N;ACC;PL;3
+항공	havacılık	항공	havacılık	N	N;NOM;SG;3
+항공	havayolları	항공	havayol	N	N;NOM;PL;3
+항공	havayolu	항공	havayolu	N	N;NOM;SG;3
+항공	havayolları	항공	havayol	N	N;NOM;PL;3
+항공	airlines	항공	airlines	N	N;NOM;SG;3
+항공	havayolu	항공	havayolu	N	N;NOM;SG;3
+항공	air	항공	air	N	N;NOM;SG;3
+이전	öncesi	이전	önce	N	N;NOM;SG;3
+이전	öncesinde	이전	önce	N	N;ESS;SG;3
+전투	savaş	전투	savaş	N	N;NOM;SG;3
+전투	muharebe	전투	muharebe	N	N;NOM;SG;3
+전투	savaş	전투	savaş	N	N;NOM;SG;3
+전투	muharebe	전투	muharebe	N	N;NOM;SG;3
+전투	savaşlar	전투	savaş	N	N;NOM;PL;3
+아버지	baba	아버지	baba	N	N;NOM;SG;3
+변경	değişiklikler	변경	değişiklik	N	N;NOM;PL;3
+변경	değişimler	변경	değişim	N	N;NOM;PL;3
+변경	değişiklik	변경	değişiklik	N	N;NOM;SG;3
+변경	değişiklikleri	변경	değişiklik	N	N;ACC;PL;3
+변경	değişiklik	변경	değişiklik	N	N;NOM;SG;3
+작곡	kompozisyon	작곡	kompozisyon	N	N;NOM;SG;3
+작곡	kompozisyonlar	작곡	kompozisyon	N	N;NOM;PL;3
+설치	kurulum	설치	kurulum	N	N;NOM;SG;3
+설치	kurulum	설치	kurulum	N	N;NOM;SG;3
+기록	başarılar	기록	başarı	N	N;NOM;PL;3
+기록	tarih	기록	tarih	N	N;NOM;SG;3
+업데이트	güncelle	업데이트	güncel	N	N;NOM;SG;3
+앨범	albümleri	앨범	albüm	N	N;ACC;PL;3
+운영	işlemler	운영	işlem	N	N;NOM;PL;3
+운영	operasyonlar	운영	operasyon	N	N;NOM;PL;3
+운영	işletim	운영	işle	N	N;NOM;SG;3
+출연	görünüşü	출연	görünüş	N	N;NOM;SG;3
+출연	görünümü	출연	görün	N	N;NOM;SG;3
+출연	görünüm	출연	görün	N	N;NOM;SG;3
+출연	başrolde	출연	başrol	N	N;ESS;SG;3
+출연	yıldızlı	출연	yıldızlı	N	N;NOM;SG;3
+받은	alındı	받+ㄴ	al	V	V;PFV;IND;SG;3;POS;PST;PASS
+받은	alınan	받+ㄴ	al	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+받은	aldı	받+ㄴ	al	V	V;PFV;IND;SG;3;POS;PST
+편집	düzenle	편집	düzen	N	N;INS;SG;3
+외국인	yabancı	외국인	yabancı		
+외국인	yabancı	외국인	yabancı		
+선거	seçimler	선거	seçim	N	N;NOM;PL;3
+선거	seçimler	선거	seçim	N	N;NOM;PL;3
+장르	türler	장르	tür	N	N;NOM;PL;3
+현대	hyundai	현대	hyundai	N	N;NOM;SG;3
+디지털	dijital	디지털	dijital	N	N;NOM;SG;3
+비디오	videoları	비디오	video	N	N;ACC;PL;3
+비디오	videolar	비디오	video	N	N;NOM;PL;3
+기간	süresi	기간	süre	N	N;NOM;SG;3
+기간	süre	기간	süre	N	N;NOM;SG;3
+내용	içeriğe	내용	içerik	N	N;DAT;SG;3
+내용	içeriği	내용	içerik	N	N;NOM;SG;3
+내용	içerikler	내용	içerik	N	N;NOM;PL;3
+내용	içeriği	내용	içerik	N	N;NOM;SG;3
+내용	içerikler	내용	içerik	N	N;NOM;PL;3
+그를	onu	그+를	o	PRO	PRO;ACC;SG;3
+정부	devlet	정부	devlet	N	N;NOM;SG;3
+원래	başlangıçta	원래	başlangıç	N	N;ESS;SG;3
+보고	raporlama	보+고	raporlama		
+전에	önceden	전+에	önceden	ADV	ADV
+기업	firma	기업	firma	N	N;NOM;SG;3
+링크	bağ	링크	bağ		
+링크	link	링크	link		
+링크	bağlantı	링크	bağlantı		
+링크	bağlar	링크	bağla		
+지방	bölgede	지방	bölge	N	N;ESS;SG;3
+지방	bölgesi	지방	bölge	N	N;NOM;SG;3
+교육	öğretmenlik	교육	öğretmenlik	N	N;NOM;SG;3
+교육	öğretim	교육	öğretim	N	N;NOM;SG;3
+교육	eğitim	교육	eğitim	N	N;NOM;SG;3
+교육	eğitim	교육	eğitim	N	N;NOM;SG;3
+교수	fakülte	교수	fakül	N	N;NOM;SG;3
+교수	öğretim	교수	öğretim	N	N;NOM;SG;3
+구간	aralık	구간	aralık	N	N;NOM;SG;3
+구간	aralığı	구간	aralık	N	N;NOM;SG;3
+외부	dışarı	외부	dışarı		
+외부	harici	외부	harici		
+외부	harici	외부	harici		
+부산	pusan	부산	pusan		
+정치	siyasetçi	정치	siyasetçi	N	N;NOM;SG;3
+사용	kullanımı	사용	kullanım	N	N;NOM;SG;3
+사용	kullanımı	사용	kullanım	N	N;NOM;SG;3
+국제공항	havalimanı	국제공항	havaliman	N	N;ACC;SG;3
+국제공항	havaalanı	국제공항	havaalanı	N	N;NOM;SG;3
+순위	sıralaması	순위	sırala	N	N;NOM;SG;3
+순위	sıralamaları	순위	sırala	N	N;NOM;PL;3
+순위	rütbe	순위	rütbe	N	N;NOM;SG;3
+대사관	büyükelçilikleri	대사관	büyükelçilik	N	N;ACC;PL;3
+대사관	büyükelçiliği	대사관	büyükelçilik	N	N;NOM;SG;3
+컴퓨터	bilgisayar	컴퓨터	bilgisayar	N	N;NOM;SG;3
+컴퓨터	bilgisayar	컴퓨터	bilgisayar	N	N;NOM;SG;3
+컴퓨터	bilgisayarlar	컴퓨터	bilgisayar	N	N;NOM;PL;3
+항목	eşyalar	항목	eşya	N	N;NOM;PL;3
+항목	ürünler	항목	ürün	N	N;NOM;PL;3
+인구	nüfusu	인구	nüfus	N	N;ACC;SG;3
+인구	nüfusu	인구	nüfus	N	N;ACC;SG;3
+종교	dinin	종교	din	N	N;GEN;SG;3
+종교	inançları	종교	inanç	N	N;ACC;PL;3
+종교	dinleri	종교	din	N	N;NOM;PL;3
+전역	kampanya	전역	kampanya	N	N;NOM;SG;3
+문화	kültürler	문화	kültür	N	N;NOM;PL;3
+제국	imparatorluk	제국	imparatorluk	N	N;NOM;SG;3
+제국	imparatorluğu	제국	imparatorluk	N	N;NOM;SG;3
+용어	sözlük	용어	sözlük	N	N;NOM;SG;3
+용어	vade	용어	vade	N	N;NOM;SG;3
+용어	şartları	용어	şart	N	N;NOM;PL;3
+용어	şartlar	용어	şart	N	N;NOM;PL;3
+용어	koşulları	용어	koşul	N	N;ACC;PL;3
+용어	koşullar	용어	koş	N	N;NOM;PL;3
+관리	yönetimi	관리	yönetim	N	N;NOM;SG;3
+관리	menajerlik	관리	menajerlik	N	N;NOM;SG;3
+연속	devamlılık	연속	devamlılık	N	N;NOM;SG;3
+수상자	kazananlar	수상자	kazanan	N	N;NOM;PL;3
+이란	iran	이+란	iran		
+이란	iranlı	이+란	iranlı		
+경제	ekonomisi	경제	ekonomi	N	N;NOM;SG;3
+데이터	veriler	데이터	veri	N	N;NOM;PL;3
+초대	davet	초대	davet		
+초대	davet	초대	davet		
+초대	davet	초대	davet		
+정치인	politikacılar	정치인	politikacı	N	N;NOM;PL;3
+정치인	siyasiler	정치인	siyasi	N	N;NOM;PL;3
+정치인	siyasetçi	정치인	siyasetçi	N	N;NOM;SG;3
+여성	kadınım	여성	kadın	N	N;NOM;SG;3
+추가	ekleme	추가	ekle		
+추가	ekler	추가	ek		
+추가	ekleme	추가	ekle		
+추가	ekle	추가	ekil		
+추가	ekleme	추가	ekle		
+추가	ekle	추가	ekil		
+라운드	yuvarlak	라운드	yuvarlak		
+어머니	anne	어머니	anne	N	N;NOM;SG;3
+어머니	annesi	어머니	anne	N	N;NOM;SG;3
+소설	romanlar	소설	roman	N	N;NOM;PL;3
+모델	modeller	모델	model	N	N;NOM;PL;3
+모델	modelleri	모델	model	N	N;NOM;PL;3
+모델	mankenler	모델	manken	N	N;NOM;PL;3
+모델	modeli	모델	model	N	N;NOM;SG;3
+대부분	çoğunlukla	대부분	çoğunluk	N	N;INS;SG;3
+사진	resimler	사진	resim	N	N;NOM;PL;3
+사진	fotoğraflar	사진	fotoğraf	N	N;NOM;PL;3
+사진	fotoğrafları	사진	fotoğraf	N	N;NOM;PL;3
+사진	fotoğrafçılık	사진	fotoğrafçılık	N	N;NOM;SG;3
+사진	resimler	사진	resim	N	N;NOM;PL;3
+사진	fotoğraflar	사진	fotoğraf	N	N;NOM;PL;3
+사진	resimleri	사진	resim	N	N;NOM;PL;3
+특정	spesifik	특정	spesifik		
+특정	belirli	특정	belirli		
+사업	iş	사업	iş	N	N;NOM;SG;3
+시스템	sistem	시스템	sistem	N	N;NOM;SG;3
+시스템	sistemi	시스템	sistem	N	N;ACC;SG;3
+시스템	sistemleri	시스템	sistem	N	N;ACC;PL;3
+시스템	sistemler	시스템	sistem	N	N;NOM;PL;3
+시스템	sistem	시스템	sistem	N	N;NOM;SG;3
+건축물	binalar	건축물	bina	N	N;NOM;PL;3
+건축물	binaların	건축물	bina	N	N;GEN;PL;3
+뉴스	haberler	뉴스	haber	N	N;NOM;PL;3
+뉴스	haberleri	뉴스	haber	N	N;NOM;PL;3
+뉴스	haber	뉴스	haber	N	N;NOM;SG;3
+지하철	metroya	지하철	metro	N	N;DAT;SG;3
+육상	atletizm	육상	atletizm	N	N;NOM;SG;3
+연결	bağlantılar	연결	bağlantı	N	N;NOM;PL;3
+연결	bağlantıları	연결	bağlantı	N	N;NOM;PL;3
+공항	havalimanı	공항	havaliman	N	N;ACC;SG;3
+공항	havaalanı	공항	havaalanı	N	N;NOM;SG;3
+공항	havaalanları	공항	havaalan	N	N;NOM;PL;3
+그들의	onların	그+들+의	o	PRO	PRO;GEN;PL;3
+도로	kaldırım	도로	kaldırım		
+도로	yol	도로	yol		
+이야기	hikaye	이야기	hika	N	N;NOM;SG;3
+문제	problemler	문제	problem	N	N;NOM;PL;3
+문제	sorunlar	문제	sorun	N	N;NOM;PL;3
+문제	sorunları	문제	sorun	N	N;ACC;PL;3
+문제	meseleler	문제	mesele	N	N;NOM;PL;3
+문제	sorunlar	문제	sorun	N	N;NOM;PL;3
+작가	yazarlar	작가	yazar	N	N;NOM;PL;3
+작가	yazarlar	작가	yazar	N	N;NOM;PL;3
+하나	bir	하나	bir		
+원소	unsurlar	원소	unsur	N	N;NOM;PL;3
+원소	elementler	원소	el	N	N;NOM;PL;3
+원소	elemanlar	원소	eleman	N	N;NOM;PL;3
+원소	element	원소	element	N	N;NOM;SG;3
+원소	element	원소	element	N	N;NOM;SG;3
+관리자	yöneticisi	관리자	yönetici	N	N;NOM;SG;3
+관리자	yöneticiler	관리자	yönetici	N	N;NOM;PL;3
+관리자	yöneticileri	관리자	yönetici	N	N;NOM;PL;3
+관리자	yöneticiler	관리자	yönetici	N	N;NOM;PL;3
+관리자	yöneticileri	관리자	yönetici	N	N;NOM;PL;3
+관리자	yöneticisi	관리자	yönetici	N	N;NOM;SG;3
+엔터테인먼트	entertainment	엔터테인먼트	entertainment		
+사회	sosyete	사회	sosyet	N	N;NOM;SG;3
+상징	semboller	상징	sembol	N	N;NOM;PL;3
+상징	sembolleri	상징	sembol	N	N;ACC;PL;3
+상징	simgeler	상징	simge	N	N;NOM;PL;3
+상징	sembolü	상징	sembolü	N	N;ACC;SG;3
+정규	düzenli	정규	düzenli		
+정규	normal	정규	normal		
+정규	normal	정규	normal		
+프로젝트	proje	프로젝트	proje		
+프로젝트	proje	프로젝트	proje		
+기술	tech	기술	tech	N	N;NOM;SG;3
+기술	yetenek	기술	yetenek	N	N;NOM;SG;3
+기술	beceri	기술	becer	N	N;NOM;SG;3
+서비스	hizmetler	서비스	hizmet	N	N;NOM;PL;3
+서비스	hizmetleri	서비스	hizmet	N	N;NOM;PL;3
+서비스	hizmet	서비스	hizmet	N	N;NOM;SG;3
+서비스	servisi	서비스	servi	N	N;NOM;SG;3
+서비스	hizmet	서비스	hizmet	N	N;NOM;SG;3
+독립	bağımsızlığı	독립	bağımsızlık	N	N;ACC;SG;3
+독립	bağımsızlık	독립	bağımsızlık	N	N;NOM;SG;3
+사고	kaza	사고	kaza		
+사고	kaza	사고	kaza		
+월드	world	월드	world		
+월드	dünya	월드	dünya		
+월드	dunya	월드	dunya		
+주변	çevresinde	주변	çevre	N	N;ESS;SG;3
+주변	çevrede	주변	çevre	N	N;ESS;SG;3
+주변	etrafta	주변	etraf	N	N;ESS;SG;3
+주변	etrafında	주변	etraf	N	N;ESS;SG;3
+그녀의	onun	그녀+의	o	PRO	PRO;GEN;SG;3
+그녀의	onu	그녀+의	o	PRO	PRO;ACC;SG;3
+소프트웨어	yazılım	소프트웨어	yazılım	N	N;NOM;SG;3
+개인	şahsi	개인	şahsi		
+개인	kişisel	개인	kişisel		
+개인	bireysel	개인	bireysel		
+개인	birey	개인	birey		
+그들은	onlar	그+들+은	o	PRO	PRO;NOM;PL;3
+말했다	dedi	말하+었+다	de	V	V;PFV;IND;SG;3;POS;PST
+해외	denizaşırı	해외	denizaşır		
+해외	yurtdışı	해외	yurtdışı		
+해외	yurtdışı	해외	yurtdışı		
+미국인	american	미국인	american	N	N;NOM;SG;3
+미국인	amerikalılar	미국인	amerikalı	N	N;NOM;PL;3
+주소	adres	주소	adres		
+윈도우	windows	윈도우	windows		
+윈도우	pencere	윈도우	pencere		
+포지션	konum	포지션	konum	N	N;NOM;SG;3
+항상	hep	항상	hep	ADV	ADV
+기독교	hıristiyan	기독교	hıristiyan	N	N;NOM;SG;3
+기독교	hristiyan	기독교	hristiyan	N	N;NOM;SG;3
+기독교	hıristiyanlık	기독교	hıristiyanlık	N	N;NOM;SG;3
+기존	mevcut	기존	mevcut		
+전기	elektrik	전기	elektrik	N	N;NOM;SG;3
+전기	elektrik	전기	elektrik	N	N;NOM;SG;3
+전기	elektrik	전기	elektrik	N	N;NOM;SG;3
+메이저	major	메이저	major		
+메이저	binbaşı	메이저	binbaşı		
+가족	family	가족	family		
+가족	aile	가족	aile		
+개월	aylar	개월	ay		
+폐지	akciğerleri	폐지	akciğer	N	N;NOM;PL;3
+성적	notları	성+적	not	N	N;ACC;PL;3
+성적	notlar	성+적	not	N	N;NOM;PL;3
+군사	askeriye	군사	askeri	N	N;DAT;SG;3
+군사	askerlik	군사	askerlik	N	N;NOM;SG;3
+실제로	aslinda	실제로	aslinda	ADV	ADV
+실제로	aslında	실제로	aslında	ADV	ADV
+운동	egzersizleri	운동	egzersiz	N	N;ACC;PL;3
+운동	hareket	운동	hareket	N	N;NOM;SG;3
+운동	hareketler	운동	hareket	N	N;NOM;PL;3
+운동	hareketlilik	운동	hareketlilik	N	N;NOM;SG;3
+구조	yapıları	구조	yap	N	N;ACC;PL;3
+구조	yapıların	구조	yapı	N	N;GEN;PL;3
+구조	yapılar	구조	yap	N	N;NOM;PL;3
+구조	yapısı	구조	yapı	N	N;NOM;SG;3
+최근	geçenlerde	최근	geçenlerde	N	N;ESS;PL;3
+음악가	sanatçılar	음악가	sanatçı	N	N;NOM;PL;3
+음악가	müzisyenler	음악가	müzisyen	N	N;NOM;PL;3
+자유	özgür	자유	özgür		
+자유	bedava	자유	bedava		
+자유	özgür	자유	özgür		
+자유	free	자유	free		
+자유	serbest	자유	serbest		
+대표	seçme	대표	seç		
+대표	temsilci	대표	temsilci		
+대표	temsilci	대표	temsilci		
+강한	güçlüler	강하+ㄴ	güçlü	ADJ	ADJ;NOM;PL;3
+유형	çeşitleri	유형	çeşit	N	N;ACC;PL;3
+유형	türler	유형	tür	N	N;NOM;PL;3
+유형	tipler	유형	tip	N	N;NOM;PL;3
+그런데	ama	그런데	ama	CONJ	CONJ
+제임스	james	제임스	james		
+세가	sega	세+가	sega		
+밴드	gruplar	밴드	grup	N	N;NOM;PL;3
+연방	federasyonu	연방	federasyon	N	N;NOM;SG;3
+연방	konfederasyonu	연방	konfederasyon	N	N;ACC;SG;3
+아프리카	afrika	아프리카	afrika		
+아프리카	afrika	아프리카	afrika		
+아프리카	afrikalı	아프리카	afrikalı		
+자동차	otomobil	자동차	otomobil	N	N;NOM;SG;3
+자동차	otomobil	자동차	otomobil	N	N;NOM;SG;3
+자동차	otomobil	자동차	otomobil	N	N;NOM;SG;3
+자동차	arabalar	자동차	araba	N	N;NOM;PL;3
+나중에	sonra	나중+에	sonra	ADV	ADV
+투수	sürahi	투수	sürahi	N	N;NOM;SG;3
+오후	öğleden	오후	öğle	N	N;AT+ABL;SG;3
+임대	kiralık	임대	kiralık	N	N;NOM;SG;3
+임대	kiralık	임대	kiralık	N	N;NOM;SG;3
+임대	kiralık	임대	kiralık	N	N;NOM;SG;3
+연극	oyunlar	연극	oyun	N	N;NOM;PL;3
+연극	tiyatro	연극	tiyatro	N	N;NOM;SG;3
+연극	tiyatro	연극	tiyatro	N	N;NOM;SG;3
+지원	destekle	지원	destek	N	N;INS;SG;3
+지원	desteği	지원	destek	N	N;NOM;SG;3
+포함	içerir	포함	içeri		
+포함	içerir	포함	içeri		
+포함	dahil	포함	dahil		
+포함	dahil	포함	dahil		
+포함	dâhil	포함	dâhil		
+포함	dahil	포함	dahil		
+포함	dahil	포함	dahil		
+영업	satışlar	영업	satış	N	N;NOM;PL;3
+회장	cumhurbaşkanı	회장	cumhurbaşkanı	N	N;NOM;SG;3
+회장	başkanlar	회장	başkan	N	N;NOM;PL;3
+회장	başkanları	회장	başkan	N	N;ACC;PL;3
+과학	bilim	과학	bilim	N	N;NOM;SG;3
+과학	bilimleri	과학	bilim	N	N;ACC;PL;3
+과학	bilimler	과학	bilim	N	N;NOM;PL;3
+조지	george	조지	george		
+조지	yorgo	조지	yorgo		
+학력	eğitim	학력	eğitim	N	N;NOM;SG;3
+프로듀서	üretici	프로호서	üretici		
+프로듀서	yapımcı	프로호서	yapımcı		
+단체	kuruluşlar	단체	kuruluş	N	N;NOM;PL;3
+단체	organizasyon	단체	organizasyon	N	N;NOM;SG;3
+단체	örgütleri	단체	örgüt	N	N;ACC;PL;3
+단체	kuruluşlar	단체	kuruluş	N	N;NOM;PL;3
+단체	organizasyon	단체	organizasyon	N	N;NOM;SG;3
+타이틀	başlık	타이틀	başlık		
+타이틀	unvan	타이틀	unvan		
+타이틀	ünvan	타이틀	ünvan		
+중앙	merkezi	중앙	merkez	N	N;ACC;SG;3
+중앙	center	중앙	center	N	N;NOM;SG;3
+중앙	merkezi	중앙	merkez	N	N;ACC;SG;3
+글로벌	global	글로벌	global		
+글로벌	evrensel	글로벌	evrensel		
+글로벌	küresel	글로벌	küresel		
+군인	askerler	군인	asker	N	N;NOM;PL;3
+시설	tesisler	시설	tesis	N	N;NOM;PL;3
+시설	tesisleri	시설	tesis	N	N;ACC;PL;3
+시설	olanaklar	시설	olanak	N	N;NOM;PL;3
+시설	imkanlar	시설	imkan	N	N;NOM;PL;3
+시설	tesisi	시설	tesi	N	N;NOM;SG;3
+산업	endüstriyel	산업	endüstriyel	N	N;NOM;SG;3
+황제	imparatorlar	황제	imparator	N	N;NOM;PL;3
+보물	hazineleri	보물	hazine	N	N;NOM;PL;3
+보물	hazineler	보물	hazine	N	N;NOM;PL;3
+보물	hazine	보물	hazin	N	N;NOM;SG;3
+보물	define	보물	def	N	N;NOM;SG;3
+베트남	vietnamlı	베트남	vietnamlı		
+배우자	eş	배우+자	eş		
+표준	kanonik	표준	kanonik		
+표준	standard	표준	standar		
+표준	standart	표준	standart		
+네이버	naver	네이버	naver		
+유로	avro	유+로	avro		
+유로	euro	유+로	euro		
+그린	greene	그리+ㄴ	green		
+그린	green	그리+ㄴ	gre		
+그린	yeşile	그리+ㄴ	yeşil		
+그린	green	그리+ㄴ	gre		
+분쟁	anlaşmazlıkları	분쟁	anlaşmazlık	N	N;ACC;PL;3
+분쟁	anlaşmazlıklar	분쟁	anlaşmazlık	N	N;NOM;PL;3
+분쟁	anlaşmazlık	분쟁	anlaşmazlık	N	N;NOM;SG;3
+분쟁	anlaşmazlığı	분쟁	anlaşmazlık	N	N;ACC;SG;3
+분쟁	anlaşmazlık	분쟁	anlaşmazlık	N	N;NOM;SG;3
+온라인	online	오르+아+이+ㄴ	o		
+회사	firma	회사	firma	N	N;NOM;SG;3
+회사	firmalar	회사	firma	N	N;NOM;PL;3
+회사	şirketleri	회사	şirket	N	N;ACC;PL;3
+회사	şirketler	회사	şirket	N	N;NOM;PL;3
+통합	entegrasyon	통합	entegrasyon	N	N;NOM;SG;3
+통합	entegrasyonu	통합	entegrasyon	N	N;ACC;SG;3
+미디어	basında	미디어	bas	N	N;ESS;SG;3
+미디어	medyum	미디어	medyu	N	N;NOM;SG;3
+센터	merkez	센터	merkez		
+센터	orta	센터	orta		
+센터	merkez	센터	merkez		
+센터	orta	센터	orta		
+제목	başlıklar	제목	başlık	N	N;NOM;PL;3
+제목	unvanlar	제목	unvan	N	N;NOM;PL;3
+제목	başlığı	제목	başlık	N	N;NOM;SG;3
+코미디	komedi	코미디	komedi	N	N;NOM;SG;3
+코미디	komedi	코미디	komedi	N	N;NOM;SG;3
+부인	hanımefendi	부인	hanımefendi	N	N;NOM;SG;3
+일본어	japon	일본+어	japon		
+연출	yönetmenlik	연출	yönetmenlik	N	N;NOM;SG;3
+이용	kullanımı	이용	kullanım	N	N;NOM;SG;3
+참조	referans	참조	referans		
+참조	referans	참조	referans		
+참조	gönderme	참조	gönder		
+네트워크	ağ	네트워크	ağ		
+네트워크	network	네트워크	network		
+네트워크	ağ	네트워크	ağ		
+네트워크	ağlar	네트워크	ağ		
+후보	adaylar	후보	aday	N	N;NOM;PL;3
+후보	adaylar	후보	aday	N	N;NOM;PL;3
+후보	adayları	후보	aday	N	N;NOM;PL;3
+상당히	oldukça	상당+히	oldukça	ADV	ADV
+농구	basketbol	농구	basketbol	N	N;NOM;SG;3
+농구	basket	농구	basket	N	N;NOM;SG;3
+종료	çıkışı	종료	çıkış	N	N;ACC;SG;3
+여전히	hala	여전+히	hala	ADV	ADV
+캐릭터	karakter	캐릭터	karak		
+차량	arabalar	차량	araba	N	N;NOM;PL;3
+차량	araçlar	차량	araç	N	N;NOM;PL;3
+차량	otomobil	차량	otomobil	N	N;NOM;SG;3
+그냥	sadece	그냥	sadece	ADV	ADV
+스타	yıldız	스타	yıldız		
+부분	parçası	부분	parça	N	N;NOM;SG;3
+부분	parçalar	부분	parça	N	N;NOM;PL;3
+부분	parçaları	부분	parça	N	N;ACC;PL;3
+스페셜	ozel	스페셜	ozel		
+스페셜	özeldir	스페셜	özel		
+높이	boy	높이	boy		
+계정	hesapları	계정	hesap	N	N;ACC;PL;3
+계정	hesaplar	계정	hesap	N	N;NOM;PL;3
+크기	boyut	크기	boyut		
+크기	boy	크기	boy		
+크기	beden	크기	beden		
+작곡가	besteciler	작곡가	besteci	N	N;NOM;PL;3
+기자	gazeteci	기자	gazeteci		
+기자	muhabir	기자	muhabir		
+기자	gazeteci	기자	gazeteci		
+기자	muhabir	기자	muhabir		
+전자	elektron	전자	elektron	N	N;NOM;SG;3
+전자	elektron	전자	elektron	N	N;NOM;SG;3
+전자	elektronlar	전자	elektron	N	N;NOM;PL;3
+남부	nambu	남부	nambu		
+남부	güney	남부	güney		
+남부	güneyli	남부	güneyli		
+남부	güney	남부	güney		
+출처	kökeni	출처	köken	N	N;ACC;SG;3
+출처	kaynakları	출처	kaynak	N	N;ACC;PL;3
+출처	kaynaklar	출처	kaynak	N	N;NOM;PL;3
+거리	uzaklık	거리	uzaklık	N	N;NOM;SG;3
+거리	mesafeler	거리	mesafe	N	N;NOM;PL;3
+거리	mesafe	거리	mesafe	N	N;NOM;SG;3
+거리	sokak	거리	sokak	N	N;NOM;SG;3
+거리	cadde	거리	cadde	N	N;NOM;SG;3
+거리	sokak	거리	sokak	N	N;NOM;SG;3
+거리	sokaklar	거리	sokak	N	N;NOM;PL;3
+거리	sokaklarda	거리	sokak	N	N;ESS;PL;3
+거리	sokakları	거리	sokak	N	N;NOM;PL;3
+거리	mesafeler	거리	mesafe	N	N;NOM;PL;3
+이동	hareket	이동	hareket	N	N;NOM;SG;3
+멤버	üye	멤버	üye		
+멤버	üye	멤버	üye		
+멤버	üye	멤버	üye		
+코치	antrenör	코치	antrenör	N	N;NOM;SG;3
+없음	yok	없+ㅁ	yok		
+슈퍼	super	슈퍼	super		
+슈퍼	süper	슈퍼	süper		
+조약	anlaşmalar	조약	anlaş	N	N;NOM;PL;3
+조약	antlaşması	조약	antlaşma	N	N;NOM;SG;3
+장관	bakanı	장관	bakan	N	N;NOM;SG;3
+장관	bakanım	장관	bak	N	N;NOM;SG;3
+왼쪽	soldaki	왼쪽	soldaki		
+왼쪽	sol	왼쪽	sol		
+왼쪽	sola	왼쪽	sola		
+단지	sadece	단지	sadece	ADV	ADV
+국회	parlamentosu	국회	parlamentosu	N	N;NOM;SG;3
+상태	durum	상태	durum	N	N;NOM;SG;3
+상태	durumu	상태	durum	N	N;NOM;SG;3
+상태	devlet	상태	devlet	N	N;NOM;SG;3
+상태	durumlar	상태	durum	N	N;NOM;PL;3
+상태	durumları	상태	durum	N	N;ACC;PL;3
+공연	performansı	공연	performans	N	N;NOM;SG;3
+공연	performansları	공연	performans	N	N;ACC;PL;3
+공연	gösteriler	공연	göster	N	N;NOM;PL;3
+득점	puanlar	득점	puan	N	N;NOM;PL;3
+사랑	sevgiler	사랑	sevgi	N	N;NOM;PL;3
+사랑	aşk	사랑	aşk	N	N;NOM;SG;3
+마이클	michael	마이클	michael		
+아이돌	putlara	아이돌	put	N	N;DAT;PL;3
+정책	politikası	정책	politikası	N	N;NOM;SG;3
+정책	politikamız	정책	politika	N	N;NOM;SG;3
+정책	ilkeleri	정책	ilke	N	N;NOM;PL;3
+정책	politikaları	정책	politika	N	N;NOM;PL;3
+정책	politikalar	정책	politika	N	N;NOM;PL;3
+친구	arkadaşlar	친구	arkadaş	N	N;NOM;PL;3
+친구	arkadaslar	친구	arkadas	N	N;NOM;PL;3
+친구	arkadaşım	친구	arkadaş	N	N;NOM;SG;3
+면적	bölge	면적	bölge		
+오픈	open	오프+ㄴ	open		
+오픈	aç	오프+ㄴ	aç		
+오픈	açıl	오프+ㄴ	açıl		
+버전	sürümü	버전	sürü	N	N;ACC;SG;3
+버전	sürümleri	버전	sürüm	N	N;ACC;PL;3
+코드	kodu	코드	kodu		
+코드	kod	코드	kod		
+공간	boşluklar	공간	boşluk	N	N;NOM;PL;3
+빠른	hızlı	빠르+ㄴ	hızlı	ADJ	ADJ
+문자	karakteri	문자	karakteri	N	N;ESS;SG;3
+문자	karakterler	문자	karak	N	N;NOM;PL;3
+문자	karakterleri	문자	karakter	N	N;NOM;PL;3
+문자	alfabesi	문자	alfabe	N	N;NOM;SG;3
+문학	edebiyat	문학	edebiyat	N	N;NOM;SG;3
+문학	edebiyatı	문학	edebiyat	N	N;ACC;SG;3
+문학	edebiyat	문학	edebiyat	N	N;NOM;SG;3
+문학	şiirler	문학	şiir	N	N;NOM;PL;3
+세대	nesil	세대	nesil		
+세대	kuşak	세대	kuşak		
+세대	nesli	세대	nesli		
+약간	hafifçe	약간	hafifçe		
+에너지	enerjileri	에너지	enerji	N	N;ACC;PL;3
+메이지	meiji	메이지	meiji		
+차트	çizelgeleri	차트	çizelge	N	N;ACC;PL;3
+차트	tablolar	차트	tablo	N	N;NOM;PL;3
+어린이	çocuklar	어린이	çocuk	N	N;NOM;PL;3
+어린이	cocuklar	어린이	cocuk	N	N;NOM;PL;3
+어린이	çocuk	어린이	çocuk	N	N;NOM;SG;3
+어린이	çocuklar	어린이	çocuk	N	N;NOM;PL;3
+마리아	mary	마리아	mary		
+문장	cümleleri	문장	cümle	N	N;ACC;PL;3
+문장	hükümler	문장	hüküm	N	N;NOM;PL;3
+문장	cümleler	문장	cümle	N	N;NOM;PL;3
+문장	cezalar	문장	ceza	N	N;NOM;PL;3
+문장	ceza	문장	ceza	N	N;NOM;SG;3
+디자인	tasarım	디자+이+ㄴ	tas		
+기사	makaleler	기사	makale	N	N;NOM;PL;3
+기사	yazılar	기사	yazı	N	N;NOM;PL;3
+기사	makale	기사	makale	N	N;NOM;SG;3
+기사	madde	기사	madde	N	N;NOM;SG;3
+기사	makale	기사	makale	N	N;NOM;SG;3
+짧은	kısa	짧+ㄴ	kısa	ADJ	ADJ
+지도자	lideri	지도자	lider	N	N;NOM;SG;3
+지도자	liderleri	지도자	lider	N	N;ACC;PL;3
+지도자	liderler	지도자	lider	N	N;NOM;PL;3
+장소	mekanı	장소	mekan	N	N;ACC;SG;3
+장소	yer	장소	yer	N	N;NOM;SG;3
+장소	yer	장소	yer	N	N;NOM;SG;3
+장소	mekanlar	장소	mekan	N	N;NOM;PL;3
+장소	yerleri	장소	yer	N	N;ACC;PL;3
+장소	yerler	장소	yer	N	N;NOM;PL;3
+마을	köyleri	마을	köy	N	N;ACC;PL;3
+제품	ürünler	제품	ürün	N	N;NOM;PL;3
+제품	ürünleri	제품	ürün	N	N;ACC;PL;3
+작전	işlemler	작전	işlem	N	N;NOM;PL;3
+작전	operasyonlar	작전	operasyon	N	N;NOM;PL;3
+작전	ameliyat	작전	ameliyat	N	N;NOM;SG;3
+작전	operasyonu	작전	operasyon	N	N;ACC;SG;3
+특수	ozel	특수	ozel		
+특수	özeldir	특수	özel		
+주연	başrolde	주연	başrol	N	N;ESS;SG;3
+의견	görüşler	의견	görüş	N	N;NOM;PL;3
+의견	fikirleri	의견	fikir	N	N;NOM;PL;3
+의견	fikirler	의견	fikir	N	N;NOM;PL;3
+의견	görüşler	의견	görüş	N	N;NOM;PL;3
+의견	görüş	의견	görüş	N	N;NOM;SG;3
+의견	görüşleriniz	의견	görüş	N	N;NOM;PL;3
+북부	kuzeyde	북부	kuzeyde	N	N;ESS;SG;3
+북부	kuzeye	북부	kuze	N	N;DAT;SG;3
+연합	birliği	연합	birlik	N	N;NOM;SG;3
+베이스볼	beysbol	베이스볼	beysbol		
+베이스볼	beyzbol	베이스볼	beyzbol		
+시티	sehir	시티	sehir		
+시티	şehir	시티	şehir		
+발표	duyuru	발표	duyur	N	N;NOM;SG;3
+발표	sunumlar	발표	sunum	N	N;NOM;PL;3
+발표	duyuru	발표	duyur	N	N;NOM;SG;3
+발표	duyurular	발표	duyuru	N	N;NOM;PL;3
+획득	elde	획득	el	N	N;ESS;SG;3
+획득	elde	획득	el	N	N;ESS;SG;3
+요리	bulaşık	요리	bulaşık	N	N;NOM;SG;3
+요리	yemek	요리	yemek	N	N;NOM;SG;3
+요리	aşçılık	요리	aşçılık	N	N;NOM;SG;3
+인간	insanlar	인간	insan	N	N;NOM;PL;3
+인간	insan	인간	insan	N	N;NOM;SG;3
+조직	organizasyon	조직	organizasyon	N	N;NOM;SG;3
+조직	organizasyon	조직	organizasyon	N	N;NOM;SG;3
+조직	örgütleri	조직	örgüt	N	N;ACC;PL;3
+조직	kuruluşlar	조직	kuruluş	N	N;NOM;PL;3
+드래프트	taslağı	드래프트	taslak	N	N;NOM;SG;3
+왕조	hanedanı	왕조	hanedan	N	N;INS;SG;3
+성인	yetişkin	성인	yetişkin		
+성인	yetişkin	성인	yetişkin		
+혁명	devrimler	혁명	devrim	N	N;NOM;PL;3
+아름다운	güzel	아름답+ㄴ	güzel	ADJ	ADJ
+건물	binalar	건물	bina	N	N;NOM;PL;3
+건물	binaların	건물	bina	N	N;GEN;PL;3
+스튜디오	stüdyo	스튜디오	stü		
+스튜디오	studio	스튜디오	stu		
+해체	ayrılık	해체	ayrılık	N	N;NOM;SG;3
+박물관	müzeler	박물관	müze	N	N;NOM;PL;3
+박물관	müzesi	박물관	müze	N	N;ACC;SG;3
+박물관	museum	박물관	museum	N	N;NOM;SG;3
+민족	halkları	민족	halk	N	N;ACC;PL;3
+라이브	live	라이브	live		
+라이브	yaşa	라이브	yaşa		
+라이브	canlı	라이브	canlı		
+음성	sesi	음성	ses	N	N;NOM;SG;3
+음성	ses	음성	ses	N	N;NOM;SG;3
+국립	national	국립	national	N	N;DAT;SG;3
+페이지	sayfa	페이지	sayf		
+픽처스	resimler	픽처스	resim	N	N;NOM;PL;3
+픽처스	fotoğraflar	픽처스	fotoğraf	N	N;NOM;PL;3
+픽처스	resimleri	픽처스	resim	N	N;NOM;PL;3
+이제	simdi	이제	simdi		
+명단	kadroları	명단	kadro	N	N;NOM;PL;3
+명단	listesi	명단	liste	N	N;NOM;SG;3
+명단	listeyi	명단	liste	N	N;ACC;SG;3
+잡지	dergi	잡지	dergi		
+잡지	magazin	잡지	magazin		
+잡지	dergi	잡지	dergi		
+잡지	magazin	잡지	magazin		
+주식회사	corporation	주식회사	corporation	N	N;NOM;SG;3
+공격	saldırıları	공격	saldırı	N	N;ACC;PL;3
+공격	saldırılar	공격	sal	N	N;NOM;PL;3
+공격	taarruz	공격	taarruz	N	N;NOM;SG;3
+동부	doğuda	동부	doğu	N	N;ESS;SG;3
+터키	turkey	터키	turkey		
+터키	türkçe	터키	türkçe		
+전문	uzmanlık	전문	uzmanlık	N	N;NOM;SG;3
+환경	ortamları	환경	ortam	N	N;ACC;PL;3
+넓은	geniş	넓+ㄴ	geniş	ADJ	ADJ
+넓은	geniş	넓+ㄴ	geniş	ADJ	ADJ
+넓은	geniş	넓+ㄴ	geniş	ADJ	ADJ
+왕국	krallık	왕국	krallık	N	N;NOM;SG;3
+기능	özellikler	기능	özellik	N	N;NOM;PL;3
+기능	özellikleri	기능	özellik	N	N;NOM;PL;3
+기능	özelliği	기능	özellik	N	N;NOM;SG;3
+기능	işlevsellik	기능	işlevsellik	N	N;NOM;SG;3
+협회	dernekleri	협회	dernek	N	N;NOM;PL;3
+협회	derneği	협회	dernek	N	N;NOM;SG;3
+인조	suni	인조	sun		
+인조	yapay	인조	yapay		
+학생	öğrenciler	학생	öğrenci	N	N;NOM;PL;3
+학생	öğrenci	학생	öğrenci	N	N;NOM;SG;3
+생활	yaşam	생활	yaşam	N	N;NOM;SG;3
+법률	kanunlar	법률	kanun	N	N;NOM;PL;3
+법률	yasalar	법률	yasa	N	N;NOM;PL;3
+법률	yasaları	법률	yasa	N	N;NOM;PL;3
+계획	planı	계획	plan	N	N;ACC;SG;3
+계획	planlar	계획	plan	N	N;NOM;PL;3
+계획	planları	계획	plan	N	N;ACC;PL;3
+시장	pazarları	시장	pazar	N	N;NOM;PL;3
+시장	pazarlar	시장	pazar	N	N;NOM;PL;3
+시장	pazarı	시장	pazar	N	N;ACC;SG;3
+소년	çocuk	소년	çocuk	N	N;NOM;SG;3
+소년	oğlanlar	소년	oğlan	N	N;NOM;PL;3
+소년	çocuklar	소년	çocuk	N	N;NOM;PL;3
+소년	cocuklar	소년	cocuk	N	N;NOM;PL;3
+서부	batı	서부	batı		
+서부	batılı	서부	batılı		
+서부	batı	서부	batı		
+시인	şairler	시인	şair	N	N;NOM;PL;3
+메일	mail	메일	mail		
+메일	posta	메일	posta		
+임시	cereyan	임시	cereyan		
+임시	taslak	임시	taslak		
+임시	geçici	임시	geçici		
+임시	geçici	임시	geçici		
+임시	taslak	임시	taslak		
+내부	içişleri	내부	içiş	N	N;ACC;PL;3
+내부	içeride	내부	içeri	N	N;ESS;SG;3
+내부	içerde	내부	içeri	N	N;ESS;SG;3
+도서관	kütüphane	도서관	kütüphane	N	N;NOM;SG;3
+도서관	kütüphaneler	도서관	kütüphane	N	N;NOM;PL;3
+도서관	kütüphane	도서관	kütüphane	N	N;NOM;SG;3
+도서관	kütüphanesi	도서관	kütüphane	N	N;NOM;SG;3
+구성원	üyeler	구성원	üye	N	N;NOM;PL;3
+구성원	üyeleri	구성원	üye	N	N;NOM;PL;3
+교회	kiliseler	교회	kilise	N	N;NOM;PL;3
+교회	kiliseye	교회	kili	N	N;DAT;SG;3
+레이블	etiketler	레이블	etiket	N	N;NOM;PL;3
+레이블	etiketleri	레이블	etiket	N	N;NOM;PL;3
+레이블	etiketi	레이블	etiket	N	N;NOM;SG;3
+연대	alayı	연대	alay	N	N;ACC;SG;3
+연대	dayanışma	연대	dayanışma	N	N;NOM;SG;3
+엔진	motor	엔진	motor		
+붉은	kırmızı	붉+ㄴ	kırmızı	ADJ	ADJ
+이론	teorisi	이론	teori	N	N;NOM;SG;3
+이론	kuramı	이론	kuram	N	N;NOM;SG;3
+이론	teori	이론	teori	N	N;NOM;SG;3
+이론	teorileri	이론	teori	N	N;ACC;PL;3
+이론	teoriler	이론	teori	N	N;NOM;PL;3
+달러	dolar	달러	dolar	N	N;NOM;SG;3
+달러	dolarlar	달러	dolar	N	N;NOM;PL;3
+달러	dolar	달러	dolar	N	N;NOM;SG;3
+사운드	sound	사운드	sound		
+군주	monarşi	군주	monarşi	N	N;NOM;SG;3
+지하	yeraltı	지하	yeraltı		
+지하	bodrum	지하	bodrum		
+스타디움	stadyumu	스타디움	stadyum	N	N;NOM;SG;3
+스타디움	stadyum	스타디움	stadyum	N	N;NOM;SG;3
+노벨	nobel	노벨	nobel		
+헌법	anayasaya	헌법	anayasa	N	N;DAT;SG;3
+다르다	farklı	다르+다	farklı	ADJ	ADJ
+차원	boyutlar	차원	boyu	N	N;NOM;PL;3
+차원	boyutları	차원	boyut	N	N;ACC;PL;3
+챔피언	şampiyonları	챔피언	şampiyon	N	N;NOM;PL;3
+챔피언	şampiyonlar	챔피언	şampiyon	N	N;NOM;PL;3
+출시	kalkış	출시	kalkış	N	N;NOM;SG;3
+자동	otomobil	자동	otomobil	N	N;NOM;SG;3
+신문	gazeteler	신문	gazete	N	N;NOM;PL;3
+신문	evraklar	신문	evrak	N	N;NOM;PL;3
+의사	hekim	의사	hekim		
+깊은	derinden	깊+ㄴ	derin	ADJ	ADJ;AT+ABL;SG;3
+에어	hava	에어	hava		
+솔로	solo	솔+로	solo		
+비트	alt	비트	alt		
+비트	bit	비트	bit		
+비트	yener	비트	yene		
+피아노	piyano	피아노	piyano		
+자녀	çocuk	자녀	çocuk	N	N;NOM;SG;3
+자녀	çocuklar	자녀	çocuk	N	N;NOM;PL;3
+투구	miğfer	투구	miğfer		
+투구	kask	투구	kask		
+특별	ozel	특별	ozel		
+특별	özeldir	특별	özel		
+참여	katılımı	참여	katılım	N	N;ACC;SG;3
+손자	torunları	손자	torun	N	N;ACC;PL;3
+손자	torunlar	손자	torun	N	N;NOM;PL;3
+손자	torunları	손자	torun	N	N;ACC;PL;3
+손자	torunu	손자	torun	N	N;NOM;SG;3
+강의	konferans	강+의	konferans		
+강의	nutuk	강+의	nutuk		
+강의	ders	강+의	ders		
+남성	adamlar	남성	adam	N	N;NOM;PL;3
+남성	insan	남성	insan	N	N;NOM;SG;3
+남성	adam	남성	adam	N	N;NOM;SG;3
+남성	adamım	남성	adam	N	N;NOM;SG;3
+방법	yolları	방법	yol	N	N;NOM;PL;3
+방법	yollar	방법	yol	N	N;NOM;PL;3
+방법	yöntemi	방법	yöntem	N	N;ACC;SG;3
+방법	yöntem	방법	yöntem	N	N;NOM;SG;3
+방법	yöntemleri	방법	yöntem	N	N;NOM;PL;3
+방법	yöntemler	방법	yöntem	N	N;NOM;PL;3
+과정	kurs	과정	kurs	N	N;NOM;SG;3
+과정	kursları	과정	kurs	N	N;ACC;PL;3
+과정	kurs	과정	kurs	N	N;NOM;SG;3
+과정	dersler	과정	ders	N	N;NOM;PL;3
+댄스	dance	댄스	dance		
+등장인물	karakterler	등장+인물	karak	N	N;NOM;PL;3
+등장인물	karakterleri	등장+인물	karakter	N	N;NOM;PL;3
+정의	adalet	정의	adalet		
+정의	tanım	정의	tanım		
+승리	kazanın	승리	kaza	N	N;GEN;SG;3
+승리	galibiyet	승리	galibiyet	N	N;NOM;SG;3
+만나	tanış	만나+아	tanış		
+만나	buluş	만나+아	buluş		
+위원회	komisyonu	위원회	komisyon	N	N;ACC;SG;3
+위원회	komiteler	위원회	komite	N	N;NOM;PL;3
+위원회	komitesi	위원회	komite	N	N;NOM;SG;3
+수학	matematik	수학	matematik	N	N;NOM;SG;3
+수학	matematik	수학	matematik	N	N;NOM;SG;3
+수학	matematik	수학	matematik	N	N;NOM;SG;3
+콘서트	konser	콘서트	konser	N	N;NOM;SG;3
+콘서트	konserler	콘서트	konser	N	N;NOM;PL;3
+콘서트	konser	콘서트	konser	N	N;NOM;SG;3
+공원	park	공원	park	N	N;NOM;SG;3
+공원	parklar	공원	park	N	N;NOM;PL;3
+미사일	füzeler	미사+이+ㄹ	füze	N	N;NOM;PL;3
+미사일	füzeleri	미사+이+ㄹ	füze	N	N;ACC;PL;3
+블랙	black	블랙	black		
+블랙	siyah	블랙	siyah		
+블랙	kara	블랙	kara		
+액션	eylemler	액션	eylem	N	N;NOM;PL;3
+액션	eylemleri	액션	eylem	N	N;ACC;PL;3
+액션	hareketler	액션	hareket	N	N;NOM;PL;3
+둘러보기	keşfetmek	둘러보+기	keşfet	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+사람들	kişiler	사람+들	kişi	N	N;NOM;PL;3
+사람들	insanlar	사람+들	insan	N	N;NOM;PL;3
+예술	sanatlar	예술	sanat	N	N;NOM;PL;3
+매주	haftalık	매주	haftalık		
+자매	kız	자매	kız		
+국적	milletlerden	국적	millet	N	N;AT+ABL;PL;3
+프로필	profilleri	프로필	profil	N	N;ACC;PL;3
+갑자기	birden	갑자기	birden	ADV	ADV
+갑자기	aniden	갑자기	aniden	ADV	ADV
+갑자기	birdenbire	갑자기	birdenbire	ADV	ADV
+클래식	klasik	클래식	klasik		
+클래식	klasik	클래식	klasik		
+태양	güneşe	태양	güneş	N	N;DAT;SG;3
+태양	güneşi	태양	güneş	N	N;NOM;SG;3
+분리	müfreze	분리	müfrez		
+분리	ayrılma	분리	ayrıl		
+분리	ayırma	분리	ayır		
+분리	ayri	분리	ayri		
+악기	enstrüman	악기	enstrüman	N	N;NOM;SG;3
+악기	aletler	악기	alet	N	N;NOM;PL;3
+악기	aletleri	악기	alet	N	N;ACC;PL;3
+악기	aygıtlar	악기	aygıt	N	N;NOM;PL;3
+지속적으로	sürekli	지속+적+으로	sürekli	ADV	ADV
+마리	marie	마리	marie		
+마리	mari	마리	mari		
+프로그래밍	programlama	프로그래밍	programlama		
+소설가	romancı	소설가	romancı	N	N;NOM;SG;3
+수량	miktarda	수량	miktar	N	N;ESS;SG;3
+수량	miktarı	수량	miktar	N	N;NOM;SG;3
+열차	trenle	열차	trenl	N	N;INS;SG;3
+열차	trenler	열차	tren	N	N;NOM;PL;3
+열차	trenleri	열차	tren	N	N;ACC;PL;3
+국기	bayrağı	국기	bayrak	N	N;NOM;SG;3
+베이스	üs	베이스	üs		
+베이스	baz	베이스	baz		
+베이스	üssü	베이스	üss		
+베이스	taban	베이스	taban		
+베이스	bas	베이스	bas		
+베이스	bass	베이스	bass		
+골든	altın	골든	altın		
+골든	altin	골든	altin		
+모바일	mobile	모바+이+ㄹ	mobile		
+모바일	hareketli	모바+이+ㄹ	hareketli		
+모바일	mobil	모바+이+ㄹ	mobil		
+메달	madalya	메달	madalya	N	N;NOM;SG;3
+메달	madalyası	메달	madalya	N	N;NOM;SG;3
+메달	madalyonu	메달	madalyon	N	N;ACC;SG;3
+메달	madalya	메달	madalya	N	N;NOM;SG;3
+연장	eklenti	연장	ekle	N	N;NOM;SG;3
+형태	şekli	형태	şekli	N	N;ACC;SG;3
+검사	testler	검사	test	N	N;NOM;PL;3
+검사	sınav	검사	sınav	N	N;NOM;SG;3
+검사	muayene	검사	muayene	N	N;NOM;SG;3
+아내	karılar	아내	karı	N	N;NOM;PL;3
+아내	karısı	아내	karı	N	N;NOM;SG;3
+보아	boa	보+아	boa		
+최소	asgari	최소	asgari		
+최소	asgari	최소	asgari		
+투어	tour	투+어	tour	N	N;NOM;SG;3
+투어	tura	투+어	tur	N	N;DAT;SG;3
+투어	turlar	투+어	tur	N	N;NOM;PL;3
+투어	turları	투+어	tur	N	N;ACC;PL;3
+유지	devam	유지	devam	N	N;NOM;SG;3
+시가	puro	시+가	puro		
+자막	altyazı	자막	altyazı	N	N;NOM;SG;3
+중심	merkezi	중심	merkez	N	N;ACC;SG;3
+중심	center	중심	center	N	N;NOM;SG;3
+남쪽	güney	남+쪽	güney		
+확장	eklenti	확장	ekle	N	N;NOM;SG;3
+공개	kamu	공개	kamu	N	N;NOM;SG;3
+행성	planet	행성	planet	N	N;NOM;SG;3
+행성	gezegenleri	행성	gezegen	N	N;ACC;PL;3
+행성	gezegenler	행성	gezegen	N	N;NOM;PL;3
+정말	gercekten	정말	gercek	ADV	ADV
+정말	gerçekten	정말	gerçekten	ADV	ADV
+결혼	evlilik	결혼	evlilik	N	N;NOM;SG;3
+결혼	evlilikleri	결혼	evlilik	N	N;ACC;PL;3
+결혼	evlilikler	결혼	evlilik	N	N;NOM;PL;3
+정리	teoremi	정리	teorem	N	N;ACC;SG;3
+이미지	görsel	이미지	görsel		
+이미지	resim	이미지	resim		
+이미지	imaj	이미지	imaj		
+세로	portre	세+로	portre		
+세로	dikey	세+로	dikey		
+세로	dikey	세+로	dikey		
+출생	doğuştan	출생	doğuş	N	N;AT+ABL;SG;3
+출생	doğumu	출생	doğum	N	N;ACC;SG;3
+출생	doğum	출생	doğum	N	N;NOM;SG;3
+그들이	onlar	그+들+이	o	PRO	PRO;NOM;PL;3
+오페라	opera	오페라	opera		
+신장	böbrekleri	신장	böbrek	N	N;ACC;PL;3
+하루	gün	하루	gün	N	N;NOM;SG;3
+둘째	ikincisi	둘째	ikinci	NUM	NUM;NOM;SG;3
+이유	sebepleri	이유	sebep	N	N;NOM;PL;3
+이유	nedenler	이유	neden	N	N;NOM;PL;3
+이유	sebepler	이유	sebep	N	N;NOM;PL;3
+이유	nedenleri	이유	neden	N	N;ACC;PL;3
+이유	nedeni	이유	neden	N	N;NOM;SG;3
+변호사	avukatlar	변호사	avukat	N	N;NOM;PL;3
+변호사	avukatları	변호사	avukat	N	N;NOM;PL;3
+변호사	avukatlık	변호사	avukatlık	N	N;NOM;SG;3
+트랙	izleri	트랙	iz	N	N;ACC;PL;3
+나무	ahşap	나무	ahşap	N	N;NOM;SG;3
+나무	ağaçlar	나무	ağaç	N	N;NOM;PL;3
+화학	kimyasallar	화학	kimyasal	N	N;NOM;PL;3
+기후	iklim	기후	iklim		
+출신지	memleketi	출신지	memleket	N	N;NOM;SG;3
+회의	konferans	회의	konferans		
+회의	konferans	회의	konferans		
+범죄	suçlar	범죄	suç	N	N;NOM;PL;3
+범죄	suçları	범죄	suç	N	N;ACC;PL;3
+범죄	suçlar	범죄	suç	N	N;NOM;PL;3
+범죄	suçlar	범죄	suç	N	N;NOM;PL;3
+통신	telekom	통신	telekom	N	N;NOM;SG;3
+통신	telekomünikasyon	통신	telekomünikasyon	N	N;NOM;SG;3
+통신	iletişim	통신	iletiş	N	N;NOM;SG;3
+통신	telekomünikasyon	통신	telekomünikasyon	N	N;NOM;SG;3
+통신	telekomünikasyon	통신	telekomünikasyon	N	N;NOM;SG;3
+통신	iletişim	통신	iletiş	N	N;NOM;SG;3
+챔피언십	şampiyon	後피+언감	şampiyon		
+기념	anma	기념	an		
+마크	marc	마크	marc		
+마크	işaret	마크	işaret		
+마크	mark	마크	mark		
+타이	tai	타이	tai		
+코리아	kore	코리아	kore		
+함수	işlevi	함수	işlev	N	N;NOM;SG;3
+함수	fonksiyonu	함수	fonksiyon	N	N;NOM;SG;3
+함수	işlevleri	함수	işlev	N	N;NOM;PL;3
+광고	reklamlarda	광고	reklam	N	N;ESS;PL;3
+광고	reklamlar	광고	reklam	N	N;NOM;PL;3
+광고	reklamcılık	광고	reklamcılık	N	N;NOM;SG;3
+광고	ilan	광고	ilan	N	N;NOM;SG;3
+광고	ilanlar	광고	ilan	N	N;NOM;PL;3
+광고	reklamları	광고	reklam	N	N;ACC;PL;3
+광고	reklamlar	광고	reklam	N	N;NOM;PL;3
+대략	yaklaşık	대략	yaklaşık		
+대략	yaklaşık	대략	yaklaşık		
+자이언츠	devler	자이언츠	dev	N	N;NOM;PL;3
+마침내	sonunda	마침내	sonunda	ADV	ADV
+장치	cihazlar	장치	cihaz	N	N;NOM;PL;3
+장치	aygıtlar	장치	aygıt	N	N;NOM;PL;3
+오직	yalnızca	오직	yalnızca	ADV	ADV
+오직	sadece	오직	sadece	ADV	ADV
+권한	izni	권+하+ㄴ	izin		
+권한	izin	권+하+ㄴ	izin		
+식민지	koloniler	식민지	koloni	N	N;NOM;PL;3
+식민지	kolonisi	식민지	koloni	N	N;ACC;SG;3
+일요일	pazar	일요일	pazar		
+일요일	pazar	일요일	pazar		
+기구	organizasyon	기구	organizasyon	N	N;NOM;SG;3
+기구	organizasyon	기구	organizasyon	N	N;NOM;SG;3
+메인	main	메인	main		
+메인	ana	메인	ana		
+중간	medyum	중간	medyu	N	N;NOM;SG;3
+북쪽	kuzeyde	북+쪽	kuzeyde	N	N;ESS;SG;3
+북쪽	kuzeye	북+쪽	kuze	N	N;DAT;SG;3
+비밀	sırlar	비밀	sır	N	N;NOM;PL;3
+비밀	sırları	비밀	sır	N	N;ACC;PL;3
+러브	ask	러브	ask		
+러브	sevda	러브	sevda		
+러브	sevgi	러브	sevgi		
+다리	köprü	다리	köprü		
+다리	bacak	다리	bacak		
+다리	bacak	다리	bacak		
+일정	programı	일정	program	N	N;ACC;SG;3
+동쪽	doğu	동+쪽	doğu		
+오리지널	orijinal	오리지널	orijinal		
+오리지널	özgün	오리지널	özgün		
+오리지널	orjinal	오리지널	orjinal		
+오리지널	aslı	오리지널	aslı		
+오리지널	orijinal	오리지널	orijinal		
+단위	birimler	단위	birim		
+단위	birim	단위	birim		
+단위	birlik	단위	birlik		
+단위	birim	단위	birim		
+단위	ünite	단위	ünite		
+단계	adımı	단계	adım	N	N;NOM;SG;3
+단계	adımları	단계	adım	N	N;ACC;PL;3
+단계	adımlar	단계	adım	N	N;NOM;PL;3
+레코드	rekorlar	레코드	rekor	N	N;NOM;PL;3
+레코드	kayıtları	레코드	kayıt	N	N;ACC;PL;3
+레코드	kayıtlar	레코드	kayıt	N	N;NOM;PL;3
+소개	hakkında	소개	hak	N	N;ESS;SG;3
+번역	tercüman	번역	tercüman		
+번역	çevirmen	번역	çevir		
+번역	tercüme	번역	tercüme		
+번역	çevirmen	번역	çevir		
+번역	çeviri	번역	çevir		
+번역	tercüme	번역	tercüme		
+번역	çevir	번역	çevir		
+번역	çeviri	번역	çevir		
+방향	talimatlar	방향	talimat	N	N;NOM;PL;3
+방향	yönü	방향	yön	N	N;ACC;SG;3
+방향	oryantasyon	방향	oryantasyon	N	N;NOM;SG;3
+아침	kahvaltı	아침	kahvaltı	N	N;NOM;SG;3
+아침	sabah	아침	sabah	N	N;NOM;SG;3
+아침	sabahlar	아침	sabah	N	N;NOM;PL;3
+연맹	birliği	연맹	birlik	N	N;NOM;SG;3
+연맹	federasyonu	연맹	federasyon	N	N;NOM;SG;3
+연맹	konfederasyonu	연맹	konfederasyon	N	N;ACC;SG;3
+은퇴	emeklilik	은퇴	emeklilik	N	N;NOM;SG;3
+배급	karneye	배급	karne	N	N;DAT;SG;3
+평가	oranı	평가	oran	N	N;NOM;SG;3
+평가	puanlar	평가	puan	N	N;NOM;PL;3
+교사	öğretmenlik	교사	öğretmenlik	N	N;NOM;SG;3
+교사	öğretim	교사	öğretim	N	N;NOM;SG;3
+교사	hocam	교사	hocam	N	N;NOM;SG;3
+교사	öğretmenim	교사	öğretmen	N	N;NOM;SG;3
+교사	öğretmenler	교사	öğretmen	N	N;NOM;PL;3
+교사	öğretmenleri	교사	öğretmen	N	N;ACC;PL;3
+의회	parlamentosu	의회	parlamentosu	N	N;NOM;SG;3
+갤럭시	galaxy	갤럭시	galaxy		
+갤럭시	galaksi	갤럭시	galaksi		
+메모리	bellek	메모리	bellek	N	N;NOM;SG;3
+메모리	anılar	메모리	anı	N	N;NOM;PL;3
+메모리	hatıralar	메모리	hatıra	N	N;NOM;PL;3
+메모리	hafıza	메모리	hafız	N	N;NOM;SG;3
+공주	prenses	공주	prenses		
+닛폰	nippon	닛폰	nippon		
+미리	önceden	미리	önceden	ADV	ADV
+트위터	heyecan	트+위터	heyecan		
+트위터	twitter	트+위터	twit		
+보니	bonnie	보+니	bo		
+논의	görüşmeler	논의	görüşme	N	N;NOM;PL;3
+표면	yüzey	표면	yüzey		
+표면	yüzeyi	표면	yüze		
+표면	yüzey	표면	yüzey		
+극장	tiyatrolar	극장	tiyatro	N	N;NOM;PL;3
+극장	sinemalarda	극장	sinema	N	N;ESS;PL;3
+극장	tiyatrolar	극장	tiyatro	N	N;NOM;PL;3
+극장	tiyatro	극장	tiyatro	N	N;NOM;SG;3
+극장	tiyatro	극장	tiyatro	N	N;NOM;SG;3
+남편	kocacığım	남편	koc	N	N;NOM;SG;3
+남편	kocacığım	남편	koc	N	N;NOM;SG;3
+철학	felsefesi	철학	felsefe	N	N;NOM;SG;3
+대사	büyükelçi	대사	büyükelçi	N	N;NOM;SG;3
+대사	büyükelçileri	대사	büyükelçi	N	N;NOM;PL;3
+대사	elçiler	대사	elçi	N	N;NOM;PL;3
+대사	elçileri	대사	elçi	N	N;ACC;PL;3
+서버	sunucuları	서버	sunucu	N	N;ACC;PL;3
+서버	sunucusu	서버	sunucu	N	N;NOM;SG;3
+에피소드	bölüm	에피소드	bölüm		
+이토	ito	이토	ito		
+이토	itō	이토	itō		
+호텔	otelde	호텔	otel	N	N;ESS;SG;3
+호텔	otel	호텔	otel	N	N;NOM;SG;3
+호텔	hotel	호텔	hotel	N	N;NOM;SG;3
+호텔	oteller	호텔	otel	N	N;NOM;PL;3
+호텔	otel	호텔	otel	N	N;NOM;SG;3
+호텔	otelleri	호텔	otel	N	N;ACC;PL;3
+판타지	fantazi	판타지	fantazi		
+판타지	fantezi	판타지	fantezi		
+성씨	soyadın	성씨	soya	N	N;NOM;SG;3
+레알	real	레알	real		
+레알	gercek	레알	gercek		
+레알	reel	레알	reel		
+레알	gerçek	레알	gerçek		
+수정	düzenle	수정	düzen	N	N;INS;SG;3
+수정	modifiye	수정	modif	N	N;DAT;SG;3
+수정	düzenle	수정	düzen	N	N;INS;SG;3
+신화	shinhwa	신화	shinhwa		
+신화	mitoloji	신화	mitoloji		
+신화	efsane	신화	efsane		
+신화	mit	신화	mit		
+이사	taşınma	이사	taşınma		
+무기	silahları	무기	silah	N	N;NOM;PL;3
+무기	silahlar	무기	silah	N	N;NOM;PL;3
+무기	silahlar	무기	silah	N	N;NOM;PL;3
+무기	kolları	무기	kol	N	N;ACC;PL;3
+아메리칸	amerikalı	아메리칸	amerikalı		
+아메리칸	amerikan	아메리칸	amerikan		
+기념물	anıtı	기념물	anıt	N	N;ACC;SG;3
+기념물	anıtlar	기념물	anıt	N	N;NOM;PL;3
+결정	karar	결정	karar	N	N;NOM;SG;3
+결정	kararı	결정	karar	N	N;NOM;SG;3
+결정	kararları	결정	karar	N	N;ACC;PL;3
+결정	karar	결정	karar	N	N;NOM;SG;3
+결정	kararlar	결정	karar	N	N;NOM;PL;3
+즉시	anlık	즉시	anlık		
+소유	ait	소유	ait		
+연주자	müzisyenler	연주자	müzisyen	N	N;NOM;PL;3
+소수	azınlık	소수	azınlık	N	N;NOM;SG;3
+건축	mimarisi	건축	mimari	N	N;NOM;SG;3
+드럼	bateri	들+요	bateri	N	N;NOM;SG;3
+드럼	davullar	들+요	davul	N	N;NOM;PL;3
+드럼	bateri	들+요	bateri	N	N;NOM;SG;3
+백제	baekje	백제	baek		
+월간	aylık	월간	aylık		
+라인	çizgi	라인	çizgi		
+라인	hattı	라인	hat		
+라인	satır	라인	satır		
+라인	line	라인	line		
+라인	hat	라인	hat		
+라인	satır	라인	satır		
+라인	ren	라인	ren		
+항공사	havayolları	항공사	havayol	N	N;NOM;PL;3
+항공사	havayolu	항공사	havayolu	N	N;NOM;SG;3
+항공사	havayolları	항공사	havayol	N	N;NOM;PL;3
+항공사	airlines	항공사	airlines	N	N;NOM;SG;3
+항공사	havayolu	항공사	havayolu	N	N;NOM;SG;3
+모드	modları	모드	mod	N	N;ACC;PL;3
+독특한	benzersiz	독특+하+ㄴ	benzersiz	V	V;IPFV;IND;PL;2;POS
+밝은	parlak	밝+ㄴ	parlak		
+플레이	oyun	플레이	oyun		
+플레이	play	플레이	play		
+플레이	oyna	플레이	oyna		
+플레이	çal	플레이	çal		
+위키	wiki	위키	wiki		
+서쪽	batı	서쪽	batı		
+입고	giymek	입+고	giy	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+입고	giyiyor	입+고	giy	V	V;PROG;IND;SG;3;POS;INFM;PRS
+스즈키	suzuki	스즈키	suzuki		
+지휘관	komutanları	지휘관	komutan	N	N;ACC;PL;3
+지휘관	kumandan	지휘관	kumandan	N	N;NOM;SG;3
+연구소	enstitüsü	연구소	enstitü	N	N;NOM;SG;3
+연구소	laboratuar	연구소	laboratuar	N	N;NOM;SG;3
+연구소	laboratuvarları	연구소	laboratuvar	N	N;ACC;PL;3
+연구소	laboratuar	연구소	laboratuar	N	N;NOM;SG;3
+여행	yolculuk	여행	yolculuk	N	N;NOM;SG;3
+여행	seyahat	여행	seyahat	N	N;NOM;SG;3
+여행	tour	여행	tour	N	N;NOM;SG;3
+여행	tura	여행	tur	N	N;DAT;SG;3
+여행	yolculuk	여행	yolculuk	N	N;NOM;SG;3
+여행	seyahat	여행	seyahat	N	N;NOM;SG;3
+여행	seyahatte	여행	seyahat	N	N;ESS;SG;3
+여행	yolculuk	여행	yolculuk	N	N;NOM;SG;3
+여행	seyahat	여행	seyahat	N	N;NOM;SG;3
+여행	yolculuk	여행	yolculuk	N	N;NOM;SG;3
+인접	bitişik	인접	bitişik		
+분할	bölme	분할	böl		
+분할	böl	분할	böl		
+언제나	hep	언제나	hep	ADV	ADV
+판매	satışlar	판매	satış	N	N;NOM;PL;3
+판매	satılık	판매	satılık	N	N;NOM;SG;3
+머리	saçlar	머리	saç	N	N;NOM;PL;3
+머리	baş	머리	baş	N	N;NOM;SG;3
+머리	kafası	머리	kafa	N	N;NOM;SG;3
+상위	üst	상위	üst		
+미스	miss	미스	miss		
+미스	hanım	미스	hanım		
+미스	bayan	미스	bayan		
+그래픽	grafik	그래픽	grafik		
+그래픽	grafik	그래픽	grafik		
+피해	zarar	피하+어	zarar		
+피해	hasar	피하+어	hasar		
+번호	numarası	번호	numara	N	N;NOM;SG;3
+펜싱	eskrim	펜싱	eskrim	N	N;NOM;SG;3
+미터	metre	미터	metre		
+미터	metre	미터	metre		
+미터	metre	미터	metre		
+미터	metre	미터	metre		
+필요	ihtiyaç	필요	ihtiyaç		
+필요	ihtiyacı	필요	ihtiyaç		
+안내	rehberlik	안내	rehberlik	N	N;NOM;SG;3
+안내	rehberi	안내	rehber	N	N;NOM;SG;3
+안내	kılavuzu	안내	kılavuz	N	N;ACC;SG;3
+안내	talimatlar	안내	talimat	N	N;NOM;PL;3
+안내	talimatları	안내	talimat	N	N;NOM;PL;3
+축제	festivali	축제	festivali	N	N;ACC;SG;3
+축제	festivalde	축제	festival	N	N;ESS;SG;3
+축제	festivaller	축제	festival	N	N;NOM;PL;3
+만들기	yaratma	만들+기	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+만들기	yaratmak	만들+기	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+만들기	oluşturma	만들+기	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+만들기	oluştur	만들+기	oluş	V	V;PFV;IMP;SG;2;POS;PRS;CAUS
+만들기	oluşturun	만들+기	oluş	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+만들기	oluşturma	만들+기	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+만들기	yarat	만들+기	yarat	V	V;PFV;IMP;SG;2;POS;PRS
+만들기	oluşturmak	만들+기	oluş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+만들기	yaratma	만들+기	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+만들기	oluşturma	만들+기	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+전차	tankı	전차	tankı	N	N;NOM;SG;3
+전차	tanklar	전차	tank	N	N;NOM;PL;3
+전차	tankları	전차	tank	N	N;ACC;PL;3
+소재	materyal	소재	materyal		
+소재	malzeme	소재	malzem		
+어워드	ödül	어워드	ödül		
+피터	pete	피터	pete		
+피터	peter	피터	peter		
+목소리	sesi	목소리	ses	N	N;NOM;SG;3
+목소리	ses	목소리	ses	N	N;NOM;SG;3
+모리	mori	모리	mori		
+레드	kirmizi	레드	kirmiz		
+레드	kızıl	레드	kızıl		
+레드	red	레드	red		
+스케이팅	patinaj	스케이팅	patinaj	N	N;NOM;SG;3
+스케이팅	paten	스케이팅	paten	N	N;NOM;SG;3
+스케이팅	patenciler	스케이팅	patenci	N	N;NOM;PL;3
+등록	üyelik	등록	üyelik	N	N;NOM;SG;3
+등록	kayıtları	등록	kayıt	N	N;ACC;PL;3
+등록	kayıtlar	등록	kayıt	N	N;NOM;PL;3
+라이트	wright	라이트	wright		
+라이트	işık	라이트	işık		
+라이트	light	라이트	light		
+라이트	nur	라이트	nur		
+장미	rose	장미	rose		
+장미	gülüm	장미	gülüm		
+장미	gülü	장미	gül		
+전통	geleneksel	전통	geleneksel		
+전통	gelenektir	전통	gelenek		
+블루	mavi	블루	mavi		
+항공기	uçaklar	항공기	uçak	N	N;NOM;PL;3
+항공기	uçak	항공기	uçak	N	N;NOM;SG;3
+부모	ebeveyn	부모	ebevey		
+부모	ebeveyn	부모	ebevey		
+부모	veli	부모	veli		
+유리	cam	유리	cam		
+유리	yuri	유리	yuri		
+원하는	arzu	원하+는	arzu		
+마음	zihin	마음	zih	N	N;NOM;SG;3
+하버드	harvard	하버드	harvard		
+연기	oyunculuk	연기	oyunculuk	N	N;NOM;SG;3
+연기	oyunculuğu	연기	oyunculuk	N	N;NOM;SG;3
+자산	mülkiyet	자산	mülkiyet	N	N;NOM;SG;3
+자산	emlak	자산	emlak	N	N;NOM;SG;3
+자산	gayrimenkul	자산	gayrimenkul	N	N;NOM;SG;3
+자산	varlıkları	자산	varlık	N	N;ACC;PL;3
+자산	varlıklar	자산	varlık	N	N;NOM;PL;3
+자산	özellikler	자산	özellik	N	N;NOM;PL;3
+자산	emlak	자산	emlak	N	N;NOM;SG;3
+자산	özellikleri	자산	özellik	N	N;NOM;PL;3
+세이부	seibu	세이부	seip		
+토요일	cumartesi	토요일	cumartesi		
+보병	piyade	보병	piya	N	N;ESS;SG;3
+소니	sony	소니	sony		
+계약	sözleşmeleri	계약	sözleşme	N	N;ACC;PL;3
+계약	sözleşmesi	계약	sözleşme	N	N;NOM;SG;3
+위성	uydular	위성	uy	N	N;NOM;PL;3
+위성	uyduları	위성	uy	N	N;NOM;PL;3
+위성	uydu	위성	uy	N	N;NOM;SG;3
+위성	uydular	위성	uy	N	N;NOM;PL;3
+위성	uyduları	위성	uy	N	N;NOM;PL;3
+영역	alanlar	영역	alan	N	N;NOM;PL;3
+영역	alanları	영역	alan	N	N;ACC;PL;3
+영역	bölgeler	영역	bölge	N	N;NOM;PL;3
+영역	alanı	영역	alan	N	N;NOM;SG;3
+개봉	açılış	개봉	açılış	N	N;NOM;SG;3
+개봉	açılışı	개봉	açılış	N	N;NOM;SG;3
+주오	chūō	주오	chūō		
+산맥	dağ	산맥	dağ		
+안드로이드	android	안드로이드	android		
+아직도	hala	아직도	hala	ADV	ADV
+영토	bölgesi	영토	bölge	N	N;NOM;SG;3
+유명	meşhur	유명	meşhur		
+한국인	kore	한국인	kore		
+한국인	koreli	한국인	koreli		
+한국인	korece	한국인	korece		
+투표	oylar	투표	oy	N	N;NOM;PL;3
+투표	oy	투표	oy	N	N;NOM;SG;3
+투표	oylar	투표	oy	N	N;NOM;PL;3
+투표	oy	투표	oy	N	N;NOM;SG;3
+투표	oy	투표	oy	N	N;NOM;SG;3
+바다	deniz	바다	deniz		
+바다	okyanus	바다	okyanus		
+속도	pace	속도	pace		
+속도	tempo	속도	tempo		
+속도	hız	속도	hız		
+속도	hız	속도	hız		
+속도	hız	속도	hız		
+속도	speed	속도	speed		
+속도	hızı	속도	hız		
+속도	hızı	속도	hız		
+소나무	çam	소나무	çam		
+핵심	çekirdek	핵심	çek		
+조카	yeğeni	조카	yeğen	N	N;NOM;SG;3
+조카	yeğeni	조카	yeğen	N	N;NOM;SG;3
+철학자	filozoflar	철학자	filozof	N	N;NOM;PL;3
+수학자	matematikçi	수학자	matematikçi	N	N;NOM;SG;3
+단독	ayrıcalıklı	단독	ayrıcalıklı	N	N;NOM;SG;3
+메탈	metal	메탈	metal		
+존재	varlığı	존재	varlık	N	N;NOM;SG;3
+존재	varlığını	존재	varlık	N	N;ACC;SG;3
+해리	harry	해리	harry		
+학원	okul	학원	okul		
+학원	school	학원	school		
+학원	gakuen	학원	gakuen		
+좋다	güzel	좋+다	güzel	ADJ	ADJ
+대수	cebir	대수	cebir	N	N;NOM;SG;3
+영향	etkisi	영향	etki	N	N;NOM;SG;3
+영향	etkileri	영향	etki	N	N;ACC;PL;3
+영향	etkisi	영향	etki	N	N;NOM;SG;3
+영향	etkileri	영향	etki	N	N;ACC;PL;3
+브랜드	markalar	브랜드	marka	N	N;NOM;PL;3
+브랜드	markası	브랜드	marka	N	N;NOM;SG;3
+그랜드	binlik	그랜드	binlik		
+오프닝	açılış	오프닝	açılış	N	N;NOM;SG;3
+오프닝	açılışı	오프닝	açılış	N	N;NOM;SG;3
+생성	yaratılış	생성	yarat	N	N;NOM;SG;3
+신청	geçerli	신청	geçerli		
+일본인	japon	일본인	japon		
+절대	asla	절대	asla		
+절대	hic	절대	hic		
+절대	mutlak	절대	mutlak		
+닥터	doctor	닥터	doctor		
+닥터	doktor	닥터	doktor		
+구글	google	구글	google		
+랭킹	sıralama	랭킹	sıralama		
+랭킹	rütbeli	랭킹	rütbeli		
+랭킹	sıralama	랭킹	sıralama		
+시험	sınav	시험	sınav	N	N;NOM;SG;3
+시험	testler	시험	test	N	N;NOM;PL;3
+시험	sınav	시험	sınav	N	N;NOM;SG;3
+시험	muayene	시험	muayene	N	N;NOM;SG;3
+시험	sınav	시험	sınav	N	N;NOM;SG;3
+시험	muayene	시험	muayene	N	N;NOM;SG;3
+시험	sınav	시험	sınav	N	N;NOM;SG;3
+시험	sınavlar	시험	sınav	N	N;NOM;PL;3
+타임	vakit	타임	vakit		
+타임	time	타임	tim		
+화산	yanardağ	화산	yan	N	N;ESS;PL;3
+화산	volkanlar	화산	volkan	N	N;NOM;PL;3
+행위	davranışı	행위	davranış	N	N;ACC;SG;3
+행위	davranışlar	행위	davranış	N	N;NOM;PL;3
+행위	davranış	행위	davranış	N	N;NOM;SG;3
+행위	davranışları	행위	davranış	N	N;NOM;PL;3
+우리의	bizim	우리+의	biz	PRO	PRO;GEN;PL;1
+우리의	bizim	우리+의	biz	PRO	PRO;GEN;PL;1
+브라운	brown	브라+ㄴ	brown		
+브라운	kumral	브라+ㄴ	kumral		
+브라운	kahverengi	브라+ㄴ	kahverengi		
+브라운	esmer	브라+ㄴ	esmer		
+브라운	browne	브라+ㄴ	browne		
+엄마	ana	엄마	ana		
+미니	mini	미니	mini		
+미니	minnie	미니	minn		
+종이	kâğıt	종이	kâğıt		
+종이	gazete	종이	gazet		
+종이	kağıt	종이	kağıt		
+주장	iddia	주장	iddia		
+주장	iddia	주장	iddia		
+주장	iddia	주장	iddia		
+빅토리아	victoria	빅토리아	victor		
+은행	bankaları	은행	banka	N	N;NOM;PL;3
+은행	banka	은행	banka	N	N;NOM;SG;3
+은행	bankaların	은행	banka	N	N;GEN;PL;3
+은행	bankalar	은행	banka	N	N;NOM;PL;3
+은행	bankacılık	은행	bankacılık	N	N;NOM;SG;3
+은행	banka	은행	banka	N	N;NOM;SG;3
+고전	klasik	고전	klasik		
+고전	klasik	고전	klasik		
+터미널	terminal	터미널	terminal		
+터미널	terminal	터미널	terminal		
+분석	analytics	분석	analytics	N	N;NOM;SG;3
+분석	analiz	분석	analiz	N	N;NOM;SG;3
+분석	analizler	분석	analiz	N	N;NOM;PL;3
+분석	analiz	분석	analiz	N	N;NOM;SG;3
+분석	analizler	분석	analiz	N	N;NOM;PL;3
+내각	kabine	내각	kabin	N	N;NOM;SG;3
+내각	dolap	내각	dolap	N	N;NOM;SG;3
+할아버지	dede	할아버지	de		
+할아버지	büyükbaba	할아버지	büyükbaba		
+할아버지	dede	할아버지	de		
+할아버지	büyükbaba	할아버지	büyükbaba		
+파워	power	파우+어	power		
+파워	güç	파우+어	güç		
+국민	national	국민	national	N	N;DAT;SG;3
+국민	kişiler	국민	kişi	N	N;NOM;PL;3
+국민	insanlar	국민	insan	N	N;NOM;PL;3
+외교	diplomasi	외교	diplomasi	N	N;NOM;SG;3
+버지니아	virginia	버지니아	virgini		
+사가	saga	사+가	saga		
+크리스	chris	크리스	chris		
+선택	seçimi	선택	seçim	N	N;ACC;SG;3
+상황이	durum	상황+이	durum	N	N;NOM;SG;3
+단일	tekli	단일	tekli		
+단일	single	단일	sing		
+단일	tek	단일	tek		
+단일	bekar	단일	bekar		
+단일	üniter	단일	üniter		
+세트	set	세트	set		
+세트	seti	세트	set		
+세트	set	세트	set		
+지휘	komut	지휘	komut		
+스토리	hikaye	스토리	hika	N	N;NOM;SG;3
+스토리	hikâyeler	스토리	hikuye	N	N;NOM;PL;3
+스토리	haberler	스토리	haber	N	N;NOM;PL;3
+스토리	öyküler	스토리	öykü	N	N;NOM;PL;3
+스토리	hikayeler	스토리	hikaye	N	N;NOM;PL;3
+규모	ölçeği	규모	ölçek	N	N;NOM;SG;3
+규모	büyüklük	규모	büyüklük	N	N;NOM;SG;3
+은하	galaksiler	은하	galaksi	N	N;NOM;PL;3
+항구	limanı	항구	liman	N	N;NOM;SG;3
+항구	limanlar	항구	liman	N	N;NOM;PL;3
+기계	makine	기계	makine	N	N;NOM;SG;3
+기계	makinalar	기계	makina	N	N;NOM;PL;3
+기계	makine	기계	makine	N	N;NOM;SG;3
+기계	makinalar	기계	makina	N	N;NOM;PL;3
+기계	makine	기계	makine	N	N;NOM;SG;3
+기계	makineler	기계	makine	N	N;NOM;PL;3
+경쟁	rekabetçi	경쟁	rekabetçi	N	N;NOM;SG;3
+경쟁	müsabaka	경쟁	müsabaka	N	N;NOM;SG;3
+식물	bitkiler	식물	bitki	N	N;NOM;PL;3
+식물	bitkileri	식물	bitki	N	N;ACC;PL;3
+주니어	junior	주+려어	junior		
+심지어	bile	심지어	bile	ADV	ADV
+상대	akrabalar	상대	akraba	N	N;NOM;PL;3
+상대	akrabası	상대	akraba	N	N;NOM;SG;3
+상대	rakibi	상대	rakip	N	N;NOM;SG;3
+동료	akran	동료	akran		
+토마스	thomas	토마스	thomas		
+현지	yerli	현지	yerli		
+현지	lokal	현지	lokal		
+현지	yöresel	현지	yöresel		
+현지	yerel	현지	yerel		
+디즈니	disney	디즈니	disney		
+특징	özellikler	특징	özellik	N	N;NOM;PL;3
+특징	özellikleri	특징	özellik	N	N;NOM;PL;3
+특징	özellikler	특징	özellik	N	N;NOM;PL;3
+특징	özellikleri	특징	özellik	N	N;NOM;PL;3
+수비수	defans	수비수	defans	N	N;NOM;SG;3
+수비수	savunucusu	수비수	savunucu	N	N;NOM;SG;3
+형식	tipi	형식	tip		
+형식	tip	형식	tip		
+형식	türü	형식	tür		
+형식	tür	형식	tür		
+형식	type	형식	type		
+형식	formu	형식	formu		
+형식	biçim	형식	biçim		
+형식	form	형식	form		
+형식	format	형식	format		
+형식	biçim	형식	biçim		
+변수	değişkenleri	변수	değişken	N	N;ACC;PL;3
+변수	varyasyonları	변수	varyasyon	N	N;ACC;PL;3
+오늘	bugün	오늘	bugün	N	N;NOM;SG;3
+오늘	bugünde	오늘	bugün	N	N;ESS;SG;3
+체계	sistem	체계	sistem	N	N;NOM;SG;3
+체계	sistemi	체계	sistem	N	N;ACC;SG;3
+체계	sistemleri	체계	sistem	N	N;ACC;PL;3
+체계	sistemler	체계	sistem	N	N;NOM;PL;3
+체계	sistem	체계	sistem	N	N;NOM;SG;3
+중부	merkez	중부	merkez		
+마쓰다이라	matsudaira	마쓰다+이+라	matsudaira		
+조정	ayar	조정	ayar	N	N;NOM;SG;3
+나가사키	nagasaki	나가사키	nagasaki		
+제한	sınırlar	제한	sınır	N	N;NOM;PL;3
+제한	sınırları	제한	sınır	N	N;NOM;PL;3
+제한	limiti	제한	limit	N	N;NOM;SG;3
+제한	sınırı	제한	sınır	N	N;ACC;SG;3
+여섯	six	여섯	six		
+여섯	alti	여섯	alti		
+스티븐	steven	스티븐	stev		
+계급	sınıf	계급	sınıf	N	N;NOM;SG;3
+계급	rütbe	계급	rütbe	N	N;NOM;SG;3
+테마	temalar	테마	tema		
+테마	tema	테마	tema		
+대륙	kıta	대륙	kıta		
+대륙	kıta	대륙	kıta		
+대륙	kıta	대륙	kıta		
+발견	keşfedin	발견	keşfe	N	N;GEN;SG;3
+발견	discovery	발견	discovery	N	N;NOM;SG;3
+자유롭게	serbestçe	자유롭+게	serbestçe		
+자유롭게	özgürce	자유롭+게	özgürce		
+로고	logo	로고	logo		
+빌보드	billboard	빌보드	billboard	N	N;NOM;SG;3
+협력	işbirliği	협력	işbirliği	N	N;NOM;SG;3
+협력	işbirliği	협력	işbirliği	N	N;NOM;SG;3
+협력	işbirliği	협력	işbirliği	N	N;NOM;SG;3
+센트럴	merkez	센트렇+ㄹ	merkez		
+가끔	bazen	가끔	bazen	ADV	ADV
+인기	gündemdeki	인기	gündemdek	N	N;ESS;SG;3
+인기	gündemde	인기	gündem	N	N;ESS;SG;3
+인기	popülerlik	인기	popülerlik	N	N;NOM;SG;3
+보안	güvenlik	보안	güvenlik	N	N;NOM;SG;3
+세포	hücreler	세포	hücre	N	N;NOM;PL;3
+세포	hücreleri	세포	hücre	N	N;ACC;PL;3
+점수	puanlar	점수	puan	N	N;NOM;PL;3
+점수	noktalar	점수	nokta	N	N;NOM;PL;3
+점수	puanlar	점수	puan	N	N;NOM;PL;3
+포털	portalları	포털	portal	N	N;NOM;PL;3
+화이트	beyaz	화이트	beyaz		
+아마추어	amatör	아마추+어	amatör		
+아마추어	amatörce	아마추+어	amatörce		
+아마추어	amatör	아마추+어	amatör		
+위키미디어	wikimedia	위키미디어	wikime		
+전설	efsaneler	전설	efsane	N	N;NOM;PL;3
+전설	efsaneleri	전설	efsane	N	N;NOM;PL;3
+실험	deneyler	실험	deney	N	N;NOM;PL;3
+레이	işın	레이	iş		
+레이	ray	레이	ray		
+군단	kolordu	군단	kolor	N	N;NOM;SG;3
+내셔널	millî	내+시+어+요+ㄴ	millî		
+내셔널	ulusal	내+시+어+요+ㄴ	ulusal		
+설계	tasarımları	설계	tasarım	N	N;ACC;PL;3
+설계	tasarımlar	설계	tasarım	N	N;NOM;PL;3
+설계	dizayn	설계	dizayn	N	N;NOM;SG;3
+설계	tasarımı	설계	tasarım	N	N;ACC;SG;3
+흐르는	akıyor	흐르+는	ak	V	V;PROG;IND;SG;3;POS;INFM;PRS
+작업	görevler	작업	görev	N	N;NOM;PL;3
+작업	işler	작업	iş	N	N;NOM;PL;3
+작업	görevler	작업	görev	N	N;NOM;PL;3
+작업	iş	작업	iş	N	N;NOM;SG;3
+작업	iş	작업	iş	N	N;NOM;SG;3
+작업	görev	작업	görev	N	N;NOM;SG;3
+농업	çiftçilik	농업	çiftçilik	N	N;NOM;SG;3
+플랫폼	platformu	플랫폼	platform	N	N;NOM;SG;3
+플랫폼	platformlar	플랫폼	platform	N	N;NOM;PL;3
+레벨	seviye	레벨	sev		
+레벨	düzey	레벨	düzey		
+레벨	seviye	레벨	sev		
+증거	deliller	증거	delil	N	N;NOM;PL;3
+증거	kanıtlar	증거	kanıt	N	N;NOM;PL;3
+폭스	tilki	폭스	tilki		
+폭스	fox	폭스	fox		
+그때	öyleyse	그때	öyleyse		
+그때	ozaman	그때	oza		
+디스크	diskler	디스크	disk	N	N;NOM;PL;3
+독일어	alman	독일어	al		
+로맨스	romantizm	로맨스	romantizm	N	N;NOM;SG;3
+로맨스	romantik	로맨스	romantik	N	N;NOM;SG;3
+관광	tour	관광	tour	N	N;NOM;SG;3
+관광	tura	관광	tur	N	N;DAT;SG;3
+제어	kumanda	제어	kumanda	N	N;NOM;SG;3
+제어	kontroller	제어	kontrol	N	N;NOM;PL;3
+제어	kontrolleri	제어	kontrol	N	N;ACC;PL;3
+소스	kaynağı	소스	kaynak		
+소스	kaynak	소스	kaynak		
+소스	sos	소스	sos		
+소스	soslu	소스	soslu		
+소스	sos	소스	sos		
+열대	tropik	열대	tropik		
+중재	arabuluculuk	중재	arabuluculuk	N	N;NOM;SG;3
+중재	hakemlik	중재	hakemlik	N	N;NOM;SG;3
+중재	şefaat	중재	şefaat	N	N;NOM;SG;3
+의미	anlamı	의미	anlam	N	N;ACC;SG;3
+의미	anlamı	의미	anlam	N	N;ACC;SG;3
+의미	anlamları	의미	anlam	N	N;ACC;PL;3
+공장	bitki	공장	bitki		
+공장	fabrika	공장	fabrika		
+시민	vatandaşlar	시민	vatandaş	N	N;NOM;PL;3
+시민	vatandaşlık	시민	vatandaşlık	N	N;NOM;SG;3
+재즈	jazzy	재즈	jazzy		
+재즈	caz	재즈	caz		
+재즈	jazz	재즈	jazz		
+화면	ekran	화면	ekran	N	N;NOM;SG;3
+화면	ekranı	화면	ekran	N	N;NOM;SG;3
+통계	istatistikleri	통계	ista	N	N;NOM;PL;3
+통계	istatistikler	통계	istatistik	N	N;NOM;PL;3
+통계	istatistikleri	통계	ista	N	N;NOM;PL;3
+통계	istatistikler	통계	istatistik	N	N;NOM;PL;3
+질량	kitleler	질량	kitle	N	N;NOM;PL;3
+교실	sınıf	교실	sınıf	N	N;NOM;SG;3
+교실	sınıfları	교실	sınıf	N	N;NOM;PL;3
+교실	sınıflar	교실	sınıf	N	N;NOM;PL;3
+비판	eleştiriler	비판	eleştiri	N	N;NOM;PL;3
+비판	eleştiriler	비판	eleştiri	N	N;NOM;PL;3
+로봇	robotlar	로봇	robot	N	N;NOM;PL;3
+국경	sınırlar	국경	sınır	N	N;NOM;PL;3
+국경	sınırları	국경	sınır	N	N;NOM;PL;3
+유대인	yahudileri	유대+이+ㄴ	yahudi	N	N;ACC;PL;3
+유대인	yahudilere	유대+이+ㄴ	yahudi	N	N;DAT;PL;3
+로드	yükle	로드	yükle		
+로드	yük	로드	yük		
+로드	rod	로드	rod		
+로드	çubuk	로드	çubuk		
+로드	yol	로드	yol		
+굵은	cüretkar	굵+ㄴ	cüretkar		
+굵은	cesur	굵+ㄴ	cesur		
+비교	karşılaştırma	비교	karşılaş	N	N;NOM;SG;3
+비교	karşılaştırma	비교	karşılaş	N	N;NOM;SG;3
+비교	karşılaştırma	비교	karşılaş	N	N;NOM;SG;3
+오토	otto	오토	otto		
+오디오	ses	오디오	ses	N	N;NOM;SG;3
+능력	yetenek	능력	yetenek	N	N;NOM;SG;3
+능력	beceri	능력	becer	N	N;NOM;SG;3
+능력	yetenek	능력	yetenek	N	N;NOM;SG;3
+능력	yeteneği	능력	yetenek	N	N;NOM;SG;3
+전사	savaşçılar	전사	savaşçı	N	N;NOM;PL;3
+저장	kaydetme	저장	kaydet		
+저장	depo	저장	depo		
+저장	saklama	저장	sakla		
+저장	depolama	저장	depolama		
+저장	kaydet	저장	kaydet		
+저장	kurtar	저장	kurtar		
+모험	maceracı	모험	maceracı	N	N;NOM;SG;3
+모험	maceracı	모험	maceracı	N	N;NOM;SG;3
+모험	maceraları	모험	macera	N	N;ACC;PL;3
+모험	maceralar	모험	macera	N	N;NOM;PL;3
+병원	hastaneler	병원	hastane	N	N;NOM;PL;3
+병원	hastaneleri	병원	hastane	N	N;ACC;PL;3
+행사	etkinlikler	행사	etkinlik	N	N;NOM;PL;3
+행사	olaylar	행사	olay	N	N;NOM;PL;3
+행사	etkinlik	행사	etkinlik	N	N;NOM;SG;3
+여동생	abla	여동생	abla	N	N;NOM;SG;3
+인치	santim	인치	santim		
+인치	inç	인치	inç		
+인치	santim	인치	santim		
+인치	inç	인치	inç		
+인치	cm	인치	cm		
+변화	değişiklikler	변화	değişiklik	N	N;NOM;PL;3
+변화	değişimler	변화	değişim	N	N;NOM;PL;3
+변화	değişiklik	변화	değişiklik	N	N;NOM;SG;3
+변화	değişiklikleri	변화	değişiklik	N	N;ACC;PL;3
+변화	değişiklik	변화	değişiklik	N	N;NOM;SG;3
+결승전	finaller	결승전	final	N	N;NOM;PL;3
+결승전	finalleri	결승전	final	N	N;NOM;PL;3
+안전	güvenliği	안전	güvenlik	N	N;NOM;SG;3
+안전	emniyet	안전	emniyet	N	N;NOM;SG;3
+안전	güvenlik	안전	güvenlik	N	N;NOM;SG;3
+안전	emniyeti	안전	emniyet	N	N;ACC;SG;3
+소리	sesi	소리	ses	N	N;NOM;SG;3
+소리	ses	소리	ses	N	N;NOM;SG;3
+소리	sesleri	소리	ses	N	N;NOM;PL;3
+소리	sesler	소리	ses	N	N;NOM;PL;3
+동일	aynen	동일	aynen		
+동일	ayni	동일	ayni		
+주기	adet	주+기	adet		
+주기	nokta	주+기	nokta		
+주기	dönem	주+기	dön		
+주기	döngü	주+기	döngü		
+궤도	yörüngeleri	궤도	yörünge	N	N;ACC;PL;3
+가스	gazlar	가스	gaz	N	N;NOM;PL;3
+엔딩	bitiş	엔딩	bitiş		
+숫자	sayılar	숫자	say	N	N;NOM;PL;3
+숫자	numarası	숫자	numara	N	N;NOM;SG;3
+숫자	numaralar	숫자	numara	N	N;NOM;PL;3
+숫자	sayılar	숫자	say	N	N;NOM;PL;3
+숫자	rakamlar	숫자	rakam	N	N;NOM;PL;3
+숫자	numaraları	숫자	numara	N	N;ACC;PL;3
+체중	ağırlığı	체중	ağırlık	N	N;NOM;SG;3
+체중	kilosu	체중	kilo	N	N;NOM;SG;3
+상황	durum	상황	durum	N	N;NOM;SG;3
+탄생	doğuştan	탄생	doğuş	N	N;AT+ABL;SG;3
+탄생	doğumu	탄생	doğum	N	N;ACC;SG;3
+탄생	doğum	탄생	doğum	N	N;NOM;SG;3
+제외	hariç	제외	hariç		
+제외	hariç	제외	hariç		
+관측	gözlemler	관측	gözlem	N	N;NOM;PL;3
+출판	yayıncılık	출판	yayıncılık	N	N;NOM;SG;3
+출판	yayıncılık	출판	yayıncılık	N	N;NOM;SG;3
+청년	gençlik	청년	gençlik		
+청년	genç	청년	genç		
+청주	cheongju	청주	cheongju		
+다큐멘터리	belgesel	다큐멘터리	belgesel		
+다큐멘터리	belgesel	다큐멘터리	belgesel		
+퍼시픽	pasifik	퍼시픽	pasifik		
+영구	daimi	영구	daim		
+영구	kalıcı	영구	kalıcı		
+표현	ifadeler	표현	ifade	N	N;NOM;PL;3
+표현	ifade	표현	ifade	N	N;NOM;SG;3
+표현	ifadesi	표현	ifade	N	N;NOM;SG;3
+라이선스	lisansları	라이선스	lisans	N	N;ACC;PL;3
+라이선스	ehliyet	라이선스	ehliyet	N	N;NOM;SG;3
+라이선스	ehliyet	라이선스	ehliyet	N	N;NOM;SG;3
+찾기	bulmak	찾+기	bul	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+찾기	bulunması	찾+기	bulun	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+찾기	arayın	찾+기	ara	V	V;PFV;IMP;PL;2;POS;PRS
+찾기	bulmak	찾+기	bul	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+찾기	bulun	찾+기	bul	V	V;PFV;IMP;PL;2;POS;PRS
+찾기	bul	찾+기	bul	V	V;PFV;IMP;SG;2;POS;PRS
+찾기	keşfetmek	찾+기	keşfet	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+천체	nesneler	천체	nesne	N	N;NOM;PL;3
+천체	nesneleri	천체	nesne	N	N;ACC;PL;3
+트윈스	ikizler	트윈스	ikiz		
+확대	eklenti	확대	ekle	N	N;NOM;SG;3
+편의	kolaylık	편+의	kolaylık	N	N;NOM;SG;3
+리더	okuyucu	리더	okuyucu		
+리더	okur	리더	oku		
+리더	önder	리더	önde		
+리더	lider	리더	lider		
+가을	sonbaharda	가을	sonbaharda	N	N;ESS;SG;3
+백만	milyon	백만	milyon		
+약한	zayıf	약하+ㄴ	zayıf		
+중국어	mandarin	중국어	mandarin		
+중국어	çinli	중국어	çinli		
+중국어	çince	중국어	çince		
+호수	gol	호수	gol	N	N;NOM;SG;3
+호수	lake	호수	lake	N	N;NOM;SG;3
+호수	gölü	호수	göl	N	N;ACC;SG;3
+호수	göller	호수	göl	N	N;NOM;PL;3
+일곱	seven	일곱	sev		
+일곱	yedi	일곱	yedi		
+인종	irklar	인종	irk	N	N;NOM;PL;3
+코어	çekirdek	코어	çek		
+백과사전	ansiklopedi	백과사전	ansiklopedi		
+프로덕션	imalat	프로덕션	imalat		
+프로덕션	yapım	프로덕션	yapım		
+프로덕션	üretim	프로덕션	üretim		
+프로덕션	prodüksiyon	프로덕션	prodüksiyon		
+프로덕션	prodüksiyon	프로덕션	prodüksiyon		
+고양이	kedi	고양+이	kedi		
+고양이	kedi	고양+이	kedi		
+고양이	cat	고양+이	cat		
+미키	mickey	미키	mickey		
+미키	miki	미키	miki		
+크리스마스	yılbaşı	크리스마스	yılbaşı		
+크리스마스	noel	크리스마스	noel		
+크리스마스	christmas	크리스마스	christmas		
+크리스마스	noel	크리스마스	noel		
+클래스	sınıflar	클래스	sınıf	N	N;NOM;PL;3
+클래스	dersleri	클래스	ders	N	N;NOM;PL;3
+클래스	sınıfları	클래스	sınıf	N	N;NOM;PL;3
+클래스	dersler	클래스	ders	N	N;NOM;PL;3
+클래스	sınıf	클래스	sınıf	N	N;NOM;SG;3
+주제	konular	주제	konu	N	N;NOM;PL;3
+주제	başlıklar	주제	başlık	N	N;NOM;PL;3
+주제	konuları	주제	konu	N	N;ACC;PL;3
+케이블	kabloları	케이블	kablo	N	N;ACC;PL;3
+케이블	kablolar	케이블	kablo	N	N;NOM;PL;3
+이벤트	etkinlikler	이벤트	etkinlik	N	N;NOM;PL;3
+이벤트	olaylar	이벤트	olay	N	N;NOM;PL;3
+이벤트	etkinlik	이벤트	etkinlik	N	N;NOM;SG;3
+이벤트	etkinlik	이벤트	etkinlik	N	N;NOM;SG;3
+이벤트	etkinliği	이벤트	etkinlik	N	N;ACC;SG;3
+아마	belki	아마	belki	ADV	ADV
+아마	belki	아마	belki	ADV	ADV
+스피드	sürat	스피드	sürat	N	N;NOM;SG;3
+제안	önerileri	제안	öneri	N	N;NOM;PL;3
+제안	öneriler	제안	öner	N	N;NOM;PL;3
+제안	öneri	제안	öneri	N	N;NOM;SG;3
+제안	önerisi	제안	öneri	N	N;NOM;SG;3
+제안	öneri	제안	öneri	N	N;NOM;SG;3
+제안	öneri	제안	öneri	N	N;NOM;SG;3
+제안	teklifi	제안	teklif	N	N;ACC;SG;3
+제안	teklif	제안	teklif	N	N;NOM;SG;3
+교체	yerine	교체	yer	N	N;DAT;SG;3
+직원	çalışanları	직원	çalışan	N	N;ACC;PL;3
+직원	çalışanlar	직원	çalışan	N	N;NOM;PL;3
+직원	işçiler	직원	işçi	N	N;NOM;PL;3
+직원	çalışanlar	직원	çalışan	N	N;NOM;PL;3
+지나	gina	지나+아	gina		
+메리	mary	메리	mary		
+스릴러	gerilim	스릴러	gerilim		
+저녁	yemek	저녁	yemek	N	N;NOM;SG;3
+저녁	akşam	저녁	akşam	N	N;NOM;SG;3
+저녁	akşamlar	저녁	akşam	N	N;NOM;PL;3
+편지	postalar	편지	posta	N	N;NOM;PL;3
+편지	mektuplar	편지	mektup	N	N;NOM;PL;3
+편지	harfler	편지	harf	N	N;NOM;PL;3
+편지	mektup	편지	mektup	N	N;NOM;SG;3
+편지	mektup	편지	mektup	N	N;NOM;SG;3
+효과	etkisi	효과	etki	N	N;NOM;SG;3
+효과	etkileri	효과	etki	N	N;ACC;PL;3
+하늘	cennet	하늘	cennet	N	N;NOM;SG;3
+하늘	gökler	하늘	gök	N	N;NOM;PL;3
+조건	şartlar	조건	şart	N	N;NOM;PL;3
+조건	koşulları	조건	koşul	N	N;ACC;PL;3
+조건	koşullar	조건	koş	N	N;NOM;PL;3
+조건	durum	조건	durum	N	N;NOM;SG;3
+조건	durumu	조건	durum	N	N;NOM;SG;3
+하키	hokey	하키	hokey		
+녹색	yeşile	녹색	yeşil		
+녹색	green	녹색	gre		
+병합	ilhak	병합	ilhak	N	N;NOM;SG;3
+세인트	aziz	세인트	aziz		
+세인트	azize	세인트	aziz		
+코너	köşe	코너	köşe		
+코너	connors	코너	connors		
+코너	connor	코너	connor		
+의학	ilaçlar	의학	ilaç	N	N;NOM;PL;3
+의학	sağlık	의학	sağlık	N	N;NOM;SG;3
+페스티벌	festival	페스티벌	festival		
+일간	günlük	일+간	günlük		
+스미스	demirci	스미스	demirci		
+스미스	smith	스미스	smith		
+여왕	vezir	여왕	vez		
+개별	bireysel	개별	bireysel		
+개별	birey	개별	birey		
+이익	kazanç	이익	kazanç	N	N;NOM;SG;3
+이익	kazançlar	이익	kazanç	N	N;NOM;PL;3
+이익	kazanç	이익	kazanç	N	N;NOM;SG;3
+골키퍼	kaleci	골키퍼	kaleci		
+골키퍼	kaleci	골키퍼	kaleci		
+금융	finansman	금융	finansman	N	N;NOM;SG;3
+금융	finansman	금융	finansman	N	N;NOM;SG;3
+캠퍼스	kampüs	캠퍼스	kampüs		
+매니저	menajer	매니저	menajer		
+매니저	müdür	매니저	müdür		
+매니저	yönetici	매니저	yönetici		
+히로시	hiroshi	히로시	hiroshi		
+쌍둥이	ikizi	쌍둥이	ikiz		
+쌍둥이	ikiz	쌍둥이	ikiz		
+쌍둥이	ikizler	쌍둥이	ikiz		
+쌍둥이	ikizler	쌍둥이	ikiz		
+사이드	taraf	사이드	taraf		
+사이드	yan	사이드	yan		
+사이드	side	사이드	sid		
+사이드	yana	사이드	yan		
+스카이	gökyüzü	스카이	gökyüzü		
+스카이	gök	스카이	gök		
+스카이	sky	스카이	sky		
+쉬운	yavaş	쉽+ㄴ	yavaş	ADJ	ADJ
+쉬운	kolay	쉽+ㄴ	kolay	ADJ	ADJ
+또다시	yine	또다시	yine	ADV	ADV
+또다시	gene	또다시	gene	ADV	ADV
+또다시	yeniden	또다시	yeniden	ADV	ADV
+기호	semboller	기호	sembol	N	N;NOM;PL;3
+기호	sembolleri	기호	sembol	N	N;ACC;PL;3
+기호	simgeler	기호	simge	N	N;NOM;PL;3
+기호	sembolü	기호	sembolü	N	N;ACC;SG;3
+카페	café	카페	café		
+위험한	tehlikelidir	위험+하+ㄴ	tehlikeli	V	V;PFV;IMP;SG;3;POS;PRS
+목적	amaçlar	목적	amaç	N	N;NOM;PL;3
+목적	amaçlar	목적	amaç	N	N;NOM;PL;3
+목적	amacı	목적	amaç	N	N;NOM;SG;3
+별명	takma	별명	takma		
+선언	bildirgesi	선언	bil	N	N;NOM;SG;3
+선언	ilanı	선언	ilan	N	N;ACC;SG;3
+장기	org	장기	org		
+장기	organ	장기	organ		
+래퍼	rapçiler	래퍼	rapçi	N	N;NOM;PL;3
+전략	stratejileri	전략	strateji	N	N;ACC;PL;3
+전략	strateji	전략	strateji	N	N;NOM;SG;3
+전략	stratejisi	전략	strateji	N	N;NOM;SG;3
+항성	yıldızlı	항성	yıldızlı	N	N;NOM;SG;3
+항성	yıldızlar	항성	yıl	N	N;NOM;PL;3
+항성	yıldızları	항성	yıldız	N	N;NOM;PL;3
+선생님	paşam	선생님	paşam		
+선생님	öğretmen	선생님	öğretmen		
+선생님	hoca	선생님	hoca		
+로켓	roketler	로켓	roket	N	N;NOM;PL;3
+로켓	roketi	로켓	roket	N	N;NOM;SG;3
+파이널	final	파이널	final		
+파이널	final	파이널	final		
+읽기	okuma	읽+기	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽기	okuyun	읽+기	oku	V	V;PFV;IMP;PL;2;POS;PRS
+읽기	okumak	읽+기	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽기	okuyor	읽+기	oku	V	V;PROG;IND;SG;3;POS;INFM;PRS
+읽기	okuyorum	읽+기	oku	V	V;PROG;IND;SG;1;POS;INFM;PRS
+읽기	okuma	읽+기	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽기	okumak	읽+기	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+리가	liga	리+가	liga		
+나이트	şövalye	나이트	şövalye		
+나이트	knight	나이트	knight		
+나이트	night	나이트	night		
+월요일	pazartesi	월요일	pazartesi		
+월요일	pazartesi	월요일	pazartesi		
+노동	işçilik	노동	işçilik	N	N;NOM;SG;3
+웨스트	batı	웨스트	batı		
+훈련	eğitimi	훈련	eğitim	N	N;ACC;SG;3
+훈련	eğitim	훈련	eğitim	N	N;NOM;SG;3
+훈련	tatbikat	훈련	tatbikat	N	N;NOM;SG;3
+진주	inci	진주	inci		
+진주	pearl	진주	pearl		
+진주	inci	진주	inci		
+범위	aralıkları	범위	aralık	N	N;ACC;PL;3
+범위	mesafe	범위	mesafe	N	N;NOM;SG;3
+범위	kapsamı	범위	kapsam	N	N;NOM;SG;3
+에릭	eric	에릭	eric		
+에릭	erik	에릭	erik		
+아베	abe	아베	abe		
+경영	yönetimi	경영	yönetim	N	N;NOM;SG;3
+경영	menajerlik	경영	menajerlik	N	N;NOM;SG;3
+사령관	kumandan	사령관	kumandan	N	N;NOM;SG;3
+표시	şov	표시	şov		
+표시	gösteri	표시	göster		
+표시	show	표시	show		
+표시	işaret	표시	işaret		
+표시	mark	표시	mark		
+표시	görünür	표시	görün		
+표시	teşhir	표시	teşhir		
+시드	syd	시드	i		
+시드	sid	시드	sid		
+아서	arthur	아서	arthur		
+명령	komuta	명령	komut	N	N;NOM;SG;3
+전력	elektrik	전력	elektrik	N	N;NOM;SG;3
+행동	davranışlar	행동	davranış	N	N;NOM;PL;3
+행동	davranışları	행동	davranış	N	N;NOM;PL;3
+행동	davranışlar	행동	davranış	N	N;NOM;PL;3
+행동	davranış	행동	davranış	N	N;NOM;SG;3
+행동	eylemler	행동	eylem	N	N;NOM;PL;3
+행동	eylemleri	행동	eylem	N	N;ACC;PL;3
+행동	hareketler	행동	hareket	N	N;NOM;PL;3
+행동	davranışı	행동	davranış	N	N;ACC;SG;3
+행동	davranışlar	행동	davranış	N	N;NOM;PL;3
+행동	davranış	행동	davranış	N	N;NOM;SG;3
+행동	davranışları	행동	davranış	N	N;NOM;PL;3
+보조	yardımcısı	보조	yardımcı	N	N;NOM;SG;3
+보조	asistanı	보조	asistan	N	N;ACC;SG;3
+통화	çağrılar	통화	çağrı	N	N;NOM;PL;3
+통화	döviz	통화	döviz	N	N;NOM;SG;3
+부족	kabilesi	부족	kabile	N	N;NOM;SG;3
+부족	eksikliği	부족	eksiklik	N	N;NOM;SG;3
+부족	eksiklik	부족	eksiklik	N	N;NOM;SG;3
+부족	sıkıntısı	부족	sıkıntı	N	N;NOM;SG;3
+스테이지	sahne	스테이+지	sahne		
+성격	karakteri	성격	karakteri	N	N;ESS;SG;3
+성격	kişiliği	성격	kişilik	N	N;NOM;SG;3
+성격	kişilik	성격	kişilik	N	N;NOM;SG;3
+가게	shop	가게	shop		
+가게	store	가게	store		
+소유자	sahibi	소유자	sahip	N	N;NOM;SG;3
+소유자	sahibinden	소유자	sahip	N	N;AT+ABL;SG;3
+소유자	sahipler	소유자	sahip	N	N;NOM;PL;3
+소유자	sahipleri	소유자	sahip	N	N;ACC;PL;3
+원인	nedeni	원인	neden	N	N;NOM;SG;3
+원인	nedenler	원인	neden	N	N;NOM;PL;3
+원인	nedenleri	원인	neden	N	N;ACC;PL;3
+동방	doğulu	동방	doğul		
+동방	doğu	동방	doğu		
+체조	jimnastikçiler	체조	jimnastikçi	N	N;NOM;PL;3
+해안	shore	해안	shore		
+해안	kıyı	해안	kıy		
+해안	kıyı	해안	kıy		
+해안	kıyı	해안	kıy		
+해안	sahil	해안	sahil		
+노예	köleler	노예	köle	N	N;NOM;PL;3
+노예	köleleri	노예	köle	N	N;ACC;PL;3
+익스프레스	ekspres	익스프레스	ekspres		
+동영상	görüntülü	동영상	görüntülü		
+동영상	video	동영상	video		
+동영상	video	동영상	video		
+출력	çıkışlar	출력	çıkış	N	N;NOM;PL;3
+마법	büyücülük	마법	büyücülük	N	N;NOM;SG;3
+시코쿠	shikoku	시코쿠	shikoku		
+드래곤	ejder	드래+곤	eşde		
+드래곤	dragon	드래+곤	dragon		
+신호	sinyaller	신호	sinyal	N	N;NOM;PL;3
+신호	işaretler	신호	işaret	N	N;NOM;PL;3
+대화	iplik	대화	iplik	N	N;NOM;SG;3
+대화	sohbetler	대화	sohbet	N	N;NOM;PL;3
+대화	muhabbet	대화	muhabbet	N	N;NOM;SG;3
+대화	sohbet	대화	sohbet	N	N;NOM;SG;3
+대화	ipler	대화	ip	N	N;NOM;PL;3
+대화	iplik	대화	iplik	N	N;NOM;SG;3
+대화	konular	대화	konu	N	N;NOM;PL;3
+생물	organizmalar	생물	organizma	N	N;NOM;PL;3
+포트	kale	포트	kale		
+포트	fort	포트	fort		
+포트	iskele	포트	iskel		
+포트	port	포트	port		
+포트	liman	포트	liman		
+주일	haftalık	주일	haftalık		
+미스터	beyefendi	미스터	beyefendi		
+금요일	cum	금요일	cum		
+금요일	cuma	금요일	cuma		
+고문	eziyet	고문	eziyet	N	N;NOM;SG;3
+고급	ileri	고급	ileri		
+개혁	reformları	개혁	reform	N	N;NOM;PL;3
+개혁	reformların	개혁	reform	N	N;GEN;PL;3
+개혁	reformlar	개혁	reform	N	N;NOM;PL;3
+개혁	reformu	개혁	reform	N	N;NOM;SG;3
+물질	madde	물질	madde	N	N;NOM;SG;3
+물질	madde	물질	madde	N	N;NOM;SG;3
+물질	madde	물질	madde	N	N;NOM;SG;3
+물질	maddeler	물질	madde	N	N;NOM;PL;3
+전환	dönüşümler	전환	dönüşüm	N	N;NOM;PL;3
+전환	dönüşümleri	전환	dönüşüm	N	N;ACC;PL;3
+발사	kalkış	발사	kalkış	N	N;NOM;SG;3
+성별	cinsiyeti	성별	cinsiyet	N	N;NOM;SG;3
+성별	cinsiyetleri	성별	cinsiyet	N	N;NOM;PL;3
+성별	cinsellik	성별	cinsellik	N	N;NOM;SG;3
+종업원	garsonluk	종업원	garsonluk	N	N;NOM;SG;3
+음식	yemekler	음식	yemek	N	N;NOM;PL;3
+음식	yemek	음식	yemek	N	N;NOM;SG;3
+음식	yemekler	음식	yemek	N	N;NOM;PL;3
+아키타	akita	아키타	akit		
+규정	kurallara	규정	kural	N	N;DAT;PL;3
+양자	kuantum	양자	kuantum	N	N;NOM;SG;3
+단어	kelime	단어	kelim		
+단어	laf	단어	laf		
+단어	söz	단어	söz		
+단어	sözcük	단어	sözcük		
+단어	kelime	단어	kelim		
+설정	ayarlar	설정	ayar	N	N;NOM;PL;3
+설정	ayarları	설정	ayar	N	N;ACC;PL;3
+설정	kurulum	설정	kurulum	N	N;NOM;SG;3
+설정	kurulumu	설정	kur	N	N;ACC;SG;3
+설정	ayarı	설정	ayar	N	N;NOM;SG;3
+설정	ayar	설정	ayar	N	N;NOM;SG;3
+뜨거운	sicak	뜨겁+ㄴ	sicak	ADJ	ADJ
+라틴	latince	라틴	latince		
+라틴	latin	라틴	latin		
+라틴	latin	라틴	latin		
+하드	zor	하드	zor		
+하드	zoru	하드	zoru		
+하드	sert	하드	sert		
+인터뷰	söyleşi	인터뷰	söyleşi	N	N;NOM;SG;3
+인터뷰	mülakat	인터뷰	mülakat	N	N;NOM;SG;3
+인터뷰	görüşmeler	인터뷰	görüşme	N	N;NOM;PL;3
+인터뷰	mülakat	인터뷰	mülakat	N	N;NOM;SG;3
+리듬	ritimleri	리듬	ritim	N	N;ACC;PL;3
+달성	başarılar	달성	başarı	N	N;NOM;PL;3
+달성	elde	달성	el	N	N;ESS;SG;3
+달성	elde	달성	el	N	N;ESS;SG;3
+미나미	minami	미나미	minami		
+합병	ilhak	합병	ilhak	N	N;NOM;SG;3
+역할	görevleri	역할	görev	N	N;NOM;PL;3
+역할	görevler	역할	görev	N	N;NOM;PL;3
+역할	rolleri	역할	rol	N	N;ACC;PL;3
+그리스어	yunanlı	그리스어	yunanlı		
+그리스어	yunan	그리스어	yunan		
+모임	toplantı	모임	toplantı	N	N;NOM;SG;3
+모임	toplantı	모임	toplantı	N	N;NOM;SG;3
+스티브	steve	스티브	stev		
+얼굴	yüzleri	얼굴	yüz	N	N;ACC;PL;3
+얼굴	yüzün	얼굴	yüz	N	N;NOM;SG;3
+얼굴	yüzünü	얼굴	yüz	N	N;ACC;SG;3
+얼굴	yüzü	얼굴	yüz	N	N;ACC;SG;3
+비행	uçuşlar	비행	uçuş	N	N;NOM;PL;3
+유전자	genler	유전자	gen	N	N;NOM;PL;3
+여객	yolcusu	여객	yolcu	N	N;NOM;SG;3
+군대	birlikler	군대	birlik	N	N;NOM;PL;3
+군대	askerler	군대	asker	N	N;NOM;PL;3
+권리	hakları	권리	hak	N	N;ACC;PL;3
+권리	haklar	권리	hak	N	N;NOM;PL;3
+부상	yaralılar	부상	yaralı	N	N;NOM;PL;3
+부상	sakatlık	부상	sakatlık	N	N;NOM;SG;3
+부상	yarası	부상	yara	N	N;NOM;SG;3
+부상	yaraları	부상	yara	N	N;NOM;PL;3
+부상	yaralar	부상	yara	N	N;NOM;PL;3
+부상	yaralılar	부상	yaralı	N	N;NOM;PL;3
+플레이어	oyuncu	플레이어	oyuncu		
+영웅	kahramanlık	영웅	kahramanlık	N	N;NOM;SG;3
+때때로	bazen	때때로	bazen	ADV	ADV
+홍보	promosyonlar	홍보	promosyon	N	N;NOM;PL;3
+홍보	tanıtımı	홍보	tanıtım	N	N;NOM;SG;3
+홍보	tanıtımını	홍보	tanıtım	N	N;ACC;SG;3
+홍보	tanıtımı	홍보	tanıtım	N	N;NOM;SG;3
+홍보	tanıtımı	홍보	tanıtım	N	N;NOM;SG;3
+홍보	tanıtımını	홍보	tanıtım	N	N;ACC;SG;3
+정비	bakımı	정비	bakım	N	N;NOM;SG;3
+무게	ağır	무게	ağır		
+무게	ağırlık	무게	ağırlık		
+무게	kilo	무게	kilo		
+실행	kalkış	실행	kalkış	N	N;NOM;SG;3
+통치	saltanatı	통치	saltanat	N	N;NOM;SG;3
+통치	hükümdarlık	통치	hükümdarlık	N	N;NOM;SG;3
+통치	saltanat	통치	saltanat	N	N;NOM;SG;3
+터널	tüneli	터널	tüneli	N	N;ACC;SG;3
+터널	tüneller	터널	tünel	N	N;NOM;PL;3
+전화	telefon	전화	telefon	N	N;NOM;SG;3
+전화	telefon	전화	telefon	N	N;NOM;SG;3
+전화	telefonları	전화	telefon	N	N;ACC;PL;3
+전화	telefonlar	전화	telefon	N	N;NOM;PL;3
+토너먼트	turnuvası	토너먼트	turnuva	N	N;NOM;SG;3
+토너먼트	turnuva	토너먼트	tur	N	N;NOM;SG;3
+토너먼트	turnuvaları	토너먼트	turnuva	N	N;ACC;PL;3
+토너먼트	turnuva	토너먼트	tur	N	N;NOM;SG;3
+아키라	akira	아키+라	akira		
+재단	vakıf	재단	vakıf		
+피트	pete	피트	pete		
+마이크	mike	마이크	mike		
+마이크	mikrofon	마이크	mikrofon		
+소닉	sonik	소닉	sonik		
+순간	dakikalar	순간	dakika	N	N;NOM;PL;3
+순간	an	순간	an	N	N;NOM;SG;3
+레슬링	güreşçiler	레슬링	güreşçi	N	N;NOM;PL;3
+어드벤처	maceraları	어드벤처	macera	N	N;ACC;PL;3
+어드벤처	maceralar	어드벤처	macera	N	N;NOM;PL;3
+지진	depremi	지진	deprem	N	N;NOM;SG;3
+지진	deprem	지진	deprem	N	N;NOM;SG;3
+지진	depremler	지진	deprem	N	N;NOM;PL;3
+지진	deprem	지진	deprem	N	N;NOM;SG;3
+장교	memurlar	장교	memur	N	N;NOM;PL;3
+장교	memurların	장교	memur	N	N;GEN;PL;3
+장교	subaylar	장교	subay	N	N;NOM;PL;3
+동맹	birliği	동맹	birlik	N	N;NOM;SG;3
+동맹	ittifaklar	동맹	ittifak	N	N;NOM;PL;3
+동맹	ittifak	동맹	ittifak	N	N;NOM;SG;3
+고향	yuva	고향	yuva		
+타워	kule	타우+어	kule		
+출판사	yayıncılar	출판사	yayıncı	N	N;NOM;PL;3
+자전거	bisiklet	자전거	bisiklet	N	N;NOM;SG;3
+자전거	bisiklet	자전거	bisiklet	N	N;NOM;SG;3
+자전거	motosiklet	자전거	motosiklet	N	N;NOM;SG;3
+자전거	bisiklet	자전거	bisiklet	N	N;NOM;SG;3
+자전거	bisiklet	자전거	bisiklet	N	N;NOM;SG;3
+인터내셔널	yurtdışı	인터+내러텔	yurtdışı		
+인터내셔널	uluslararası	인터+내러텔	uluslararası		
+지침	kurallar	지침	kural	N	N;NOM;PL;3
+지침	kuralları	지침	kural	N	N;ACC;PL;3
+지침	talimatlar	지침	talimat	N	N;NOM;PL;3
+지침	talimatları	지침	talimat	N	N;NOM;PL;3
+거주지	ikamet	거주+지	ikamet		
+리스트	liste	리스트	lis		
+리스트	liste	리스트	lis		
+사이토	saitō	사이토	sait		
+노트	not	노트	not		
+노트	nota	노트	nota		
+노트	not	노트	not		
+왜냐하면	çünkü	왜냐하면	çünkü	CONJ	CONJ
+헬로	merhaba	헬로	merhaba		
+헬로	selam	헬로	selam		
+헬로	hello	헬로	hello		
+결승	finaller	결승	final	N	N;NOM;PL;3
+결승	finalleri	결승	final	N	N;NOM;PL;3
+허브	herb	허브	herb		
+허브	bitki	허브	bitki		
+허브	hub	허브	hub		
+프랭크	frank	프랭크	frank		
+취급	ikram	취급	ikram	N	N;NOM;SG;3
+공동체	topluluklar	공동체	topluluk	N	N;NOM;PL;3
+보도	kaldırım	보도	kaldırım		
+기아	açlık	기아	açlık		
+항의	protesto	항의	protesto		
+항의	protesto	항의	protesto		
+아마도	belki	아마도	belki	ADV	ADV
+아마도	belki	아마도	belki	ADV	ADV
+워너	uyarıcı	워너	uyarıcı		
+베타	beta	베타	beta		
+연애	romantizm	연애	romantizm	N	N;NOM;SG;3
+연애	romantik	연애	romantik	N	N;NOM;SG;3
+연애	ilişkiler	연애	ilişki	N	N;NOM;PL;3
+연애	ilişkileri	연애	ilişki	N	N;ACC;PL;3
+연애	ilişki	연애	ilişki	N	N;NOM;SG;3
+연애	ilişki	연애	ilişki	N	N;NOM;SG;3
+연애	ilişkisi	연애	ilişki	N	N;NOM;SG;3
+가톨릭교회	katoliklik	가톨릭+교회	katoliklik	N	N;NOM;SG;3
+개념	kavramları	개념	kavram	N	N;ACC;PL;3
+스타일	styles	스타일	styles		
+스타일	tarz	스타일	tarz		
+스타일	stil	스타일	stil		
+스타일	tarzı	스타일	tarz		
+스타일	biçim	스타일	biçim		
+오렌지	portakal	오렌지	portakal		
+오렌지	turuncu	오렌지	turuncu		
+오렌지	portakal	오렌지	portakal		
+장면	sahnesi	장면	sahne	N	N;NOM;SG;3
+장면	sahneler	장면	sahne	N	N;NOM;PL;3
+서명	imzalar	서명	imza	N	N;NOM;PL;3
+인디언	yerli	인디언	yerli		
+인디언	hintli	인디언	hintli		
+인디언	hint	인디언	hint		
+신부	gelin	신부	gel		
+신부	papaz	신부	papaz		
+신부	rahip	신부	rahip		
+더블	ikili	더블	ikili		
+더블	çifte	더블	çift		
+더블	çift	더블	çift		
+더블	duble	더블	duble		
+정치가	politikacılar	정치+가	politikacı	N	N;NOM;PL;3
+정치가	siyasiler	정치+가	siyasi	N	N;NOM;PL;3
+정치가	siyasetçi	정치+가	siyasetçi	N	N;NOM;SG;3
+빌리	billy	빌리	billy		
+빌리	billie	빌리	billie		
+암살	suikastçılar	암살	suikastı	N	N;NOM;PL;3
+부하	yükler	부하	yük		
+차이	farklar	차이	fark	N	N;NOM;PL;3
+차이	farklılıkları	차이	farklılık	N	N;NOM;PL;3
+차이	farklılıklar	차이	farklılık	N	N;NOM;PL;3
+차이	fark	차이	fark	N	N;NOM;SG;3
+친척	akrabalar	친척	akraba	N	N;NOM;PL;3
+친척	akrabası	친척	akraba	N	N;NOM;SG;3
+친척	akrabalar	친척	akraba	N	N;NOM;PL;3
+친척	akrabaları	친척	akraba	N	N;NOM;PL;3
+고정	pin	고정	pin		
+고정	tamir	고정	tamir		
+고정	sabit	고정	sabit		
+지식	bilgi	지식	bilgi	N	N;NOM;SG;3
+단순	sade	단순	sade		
+마스터	usta	마스터	us		
+마스터	üstad	마스터	üstad		
+거리가	sokak	거리+가	sokak	N	N;NOM;SG;3
+거리가	cadde	거리+가	cadde	N	N;NOM;SG;3
+알파	alpha	알파	alpha		
+알파	alfa	알파	alfa		
+알파	alfa	알파	alfa		
+기억	bellek	기억	bellek	N	N;NOM;SG;3
+기억	anılar	기억	anı	N	N;NOM;PL;3
+기억	hatıralar	기억	hatıra	N	N;NOM;PL;3
+기억	hafıza	기억	hafız	N	N;NOM;SG;3
+노동자	işçiler	노동자	işçi	N	N;NOM;PL;3
+노동자	emekçilerin	노동자	emekçi	N	N;GEN;PL;3
+포인트	puan	포인트	pu		
+포인트	puan	포인트	pu		
+포인트	nokta	포인트	nokta		
+연인	sevenler	연인	seven	N	N;NOM;PL;3
+반응	etkileşimler	반응	etkileşim	N	N;NOM;PL;3
+반응	cevap	반응	cevap	N	N;NOM;SG;3
+별자리	takımyıldızları	별자리	takımyıldız	N	N;ACC;PL;3
+떨어지는	düşüyor	떨어지+는	düş	V	V;PROG;IND;SG;3;POS;INFM;PRS
+원수	tura	원수	tur	N	N;DAT;SG;3
+원수	kafalar	원수	kafa	N	N;NOM;PL;3
+인증	doğrulama	인증	doğrulama		
+인증	doğrula	인증	doğrula		
+인증	doğrulama	인증	doğrulama		
+인증	doğrulama	인증	doğrulama		
+인증	yetki	인증	yetki		
+인증	yetki	인증	yetki		
+토니	tony	토니	tony		
+토니	toni	토니	ton		
+리틀	minik	리틀	minik		
+미래	gelecek	미래	gel		
+미래	vadeli	미래	vadeli		
+브라더스	bros	브라더스	bros		
+접근	erişim	접근	erişim	N	N;NOM;SG;3
+메트로	metro	메트+로	metro		
+유닛	birimler	유닛	birim		
+유닛	birim	유닛	birim		
+유닛	birlik	유닛	birlik		
+유닛	birim	유닛	birim		
+유닛	ünite	유닛	ünite		
+가면	maskeli	가+면	maskeli		
+가면	maske	가+면	maske		
+가면	maskeli	가+면	maskeli		
+원자	atomlar	원자	atom	N	N;NOM;PL;3
+레오	aslan	레오	aslan		
+레오	leo	레오	leo		
+아티스트	sanatçılar	아티스트	sanatçı	N	N;NOM;PL;3
+오빠	kardeş	오빠	kardeş		
+오빠	birader	오빠	birader		
+오빠	kardes	오빠	kardes		
+오빠	abi	오빠	abi		
+사용하기	kullanın	사용+하+기	kullan	V	V;PFV;IMP;PL;2;POS;PRS
+사용하기	kullanmak	사용+하+기	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+사용하기	kullanmak	사용+하+기	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+사용하기	kullanıyor	사용+하+기	kullan	V	V;PROG;IND;SG;3;POS;INFM;PRS
+사용하기	kullanmak	사용+하+기	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+사용하기	kullanarak	사용+하+기	kullan	V	V;PFV;IND;POS;PRS;V.CVB
+인스타그램	instagram	인스타그램	instagram	N	N;NOM;SG;3
+필름	filmleri	필름	film	N	N;ACC;PL;3
+필름	filmler	필름	film	N	N;NOM;PL;3
+필름	filim	필름	filim	N	N;NOM;SG;3
+협정	anlaşmalar	협정	anlaş	N	N;NOM;PL;3
+충돌	kazalar	충돌	kaza	N	N;NOM;PL;3
+충돌	anlaşmazlık	충돌	anlaşmazlık	N	N;NOM;SG;3
+고유	tekil	고유	tekil		
+지지	destek	지+지	destek		
+오노	ohno	오노	ohno		
+오노	ono	오노	o		
+크림	kremalı	크림	kremalı		
+크림	kaymak	크림	kay		
+크림	krem	크림	krem		
+크림	krema	크림	krema		
+하트	kalp	하트	kalp		
+하트	gönül	하트	gönül		
+하트	yürek	하트	yürek		
+하트	hart	하트	hart		
+에이스	as	에이스	as		
+에이스	as	에이스	as		
+에이스	ace	에이스	ace		
+의료	sağlık	의료	sağlık	N	N;NOM;SG;3
+의료	sağlık	의료	sağlık	N	N;NOM;SG;3
+다운로드	indir	다운로드	indir		
+물리학	fiziği	물리학	fizik	N	N;NOM;SG;3
+크로스	karşıya	크로스	karşı		
+크로스	haç	크로스	haç		
+크로스	çapraz	크로스	çapraz		
+크로스	hacı	크로스	hacı		
+크로스	cross	크로스	cross		
+날개	kanatlar	날개	kanat	N	N;NOM;PL;3
+날개	kanatları	날개	kanat	N	N;ACC;PL;3
+시위	gösteriler	시위	göster	N	N;NOM;PL;3
+공공	kamu	공공	kamu	N	N;NOM;SG;3
+화성	marslı	화성	marslı		
+화성	mars	화성	mars		
+빌딩	binalar	빌딩	bina	N	N;NOM;PL;3
+빌딩	binaların	빌딩	bina	N	N;GEN;PL;3
+제이	jay	제이	jay		
+변환	dönüşümler	변환	dönüşüm	N	N;NOM;PL;3
+변환	dönüşümleri	변환	dönüşüm	N	N;ACC;PL;3
+변환	dönüşümü	변환	dönüşüm	N	N;ACC;SG;3
+포맷	formatları	포맷	format	N	N;NOM;PL;3
+포맷	biçimi	포맷	biçim	N	N;ACC;SG;3
+포맷	formatı	포맷	format	N	N;ACC;SG;3
+피에르	pierre	피에르	pierr		
+일식	tutulma	일식	tut		
+바이올린	keman	바이올린	keman		
+바이올린	keman	바이올린	keman		
+성공	başarılar	성공	başarı	N	N;NOM;PL;3
+성공	başarılar	성공	başarı	N	N;NOM;PL;3
+대량	toplu	대량	toplu		
+대량	yığın	대량	yığın		
+대량	kitle	대량	kitle		
+대량	ayin	대량	ayin		
+대량	toplu	대량	toplu		
+대량	kütle	대량	kütle		
+내역	tarih	내역	tarih	N	N;NOM;SG;3
+리드	reid	리드	reid		
+리드	kamış	리드	kamış		
+리드	reed	리드	reed		
+리드	kurşun	리드	kurşun		
+가격	fiyatları	가격	fiyat	N	N;ACC;PL;3
+가격	fiyatlar	가격	fiyat	N	N;NOM;PL;3
+가격	fiyatlara	가격	fiyat	N	N;DAT;PL;3
+가격	fiyatı	가격	fiyat	N	N;ACC;SG;3
+측면	taraf	측면	taraf		
+측면	yan	측면	yan		
+측면	side	측면	sid		
+측면	yana	측면	yan		
+측면	taraf	측면	taraf		
+커뮤니티	topluluk	커뮤니티	topluluk		
+커뮤니티	toplum	커뮤니티	toplum		
+커뮤니티	ümmet	커뮤니티	ümmet		
+커뮤니티	cemaat	커뮤니티	cemaat		
+필드	field	필드	field		
+필드	tarla	필드	tarla		
+필드	saha	필드	saha		
+필드	fields	필드	fields		
+필드	tarla	필드	tarla		
+인사	selamlar	인사	selam	N	N;NOM;PL;3
+공기	air	공기	air	N	N;NOM;SG;3
+마일	mile	마일	mile		
+마일	mil	마일	mil		
+마일	miles	마일	miles		
+마일	mil	마일	mil		
+특이한	alışılmadık	특이+하+ㄴ	alış	V	V;PFV;POT;PL;1;NEG;PST
+조각	heykeller	조각	heykel	N	N;NOM;PL;3
+조각	parçaları	조각	parça	N	N;ACC;PL;3
+단식	oruç	단식	oruç		
+스페이스	boşluk	스페이스	boşluk		
+스페이스	space	스페이스	space		
+스페이스	uzayı	스페이스	uza		
+스페이스	uzay	스페이스	uzay		
+가정	yuva	가정	yuva		
+쓰기	yazıyor	쓰+기	yaz	V	V;PROG;IND;SG;3;POS;INFM;PRS
+쓰기	yazmak	쓰+기	yaz	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+함대	filosu	함대	filo	N	N;NOM;SG;3
+안나	anna	안나	anna		
+사쿠라	sakura	사쿠라	sakur		
+라이벌	rakip	라이벌	rakip		
+하니	hani	하+니	hani		
+궁전	saraylar	궁전	saray	N	N;NOM;PL;3
+궁전	sarayı	궁전	sara	N	N;ACC;SG;3
+궁전	palace	궁전	palace	N	N;NOM;SG;3
+사촌	kuzenler	사촌	kuzen	N	N;NOM;PL;3
+언니	bacım	언니	baç		
+언니	rahibe	언니	rahip		
+언니	kardeş	언니	kardeş		
+비즈니스	business	비즈니스	business		
+비즈니스	ticaret	비즈니스	ticaret		
+마무리	bitiş	마무리	bitiş		
+빨간색	kirmizi	빨간색	kirmiz		
+빨간색	kızıl	빨간색	kızıl		
+빨간색	red	빨간색	red		
+테일러	taylor	테일러	taylo		
+스키	kayak	스키	kayak	N	N;NOM;SG;3
+스키	ski	스키	si	N	N;NOM;SG;3
+스키	kayakçı	스키	kayakçı	N	N;NOM;SG;3
+스키	kayak	스키	kayak	N	N;NOM;SG;3
+스키	ski	스키	si	N	N;NOM;SG;3
+스키	kayak	스키	kayak	N	N;NOM;SG;3
+선전	propaganda	선전	propaganda		
+폭탄	bombalar	폭탄	bomba	N	N;NOM;PL;3
+앨리스	alice	앨리스	alice		
+제작자	yaradan	제작자	yara	N	N;AT+ABL;SG;3
+제작자	yaratıcısı	제작자	yaratıcı	N	N;NOM;SG;3
+제작자	yazarlar	제작자	yazar	N	N;NOM;PL;3
+챔프	şampiyon	챔프	şampiyon		
+애플	elma	애플	elma		
+애플	apple	애플	appl		
+애플	elmalı	애플	el		
+디자이너	tasarım	디자이너	tas		
+디자이너	tasarımcı	디자이너	tasarımcı		
+상주	yerleşik	상주	yerleşik		
+상주	asistan	상주	asistan		
+상주	ikamet	상주	ikamet		
+상주	sangju	상주	sangju		
+수료	diploma	수료	diplom	N	N;NOM;SG;3
+무료	bedava	무료	bedava		
+무료	özgür	무료	özgür		
+무료	free	무료	free		
+무료	serbest	무료	serbest		
+참가자	katılanlar	참가자	katılan	N	N;NOM;PL;3
+참가자	katılımcılar	참가자	katılımcı	N	N;NOM;PL;3
+참가자	yarışmacılar	참가자	yarış	N	N;NOM;PL;3
+케빈	kevin	케빈	kevin		
+개요	bakış	개요	bakış		
+교류	etkileşimler	교류	etkileşim	N	N;NOM;PL;3
+타입	tipi	타입	tip		
+타입	tip	타입	tip		
+타입	türü	타입	tür		
+타입	tür	타입	tür		
+타입	type	타입	type		
+장애인	özürlü	장애+이+ㄴ	özürlü		
+장애인	engelli	장애+이+ㄴ	engelli		
+방어	savunma	방어	savun		
+방어	savunma	방어	savun		
+포크	çatal	포크	çatal		
+포크	çatal	포크	çatal		
+포크	fock	포크	fock		
+포크	folk	포크	folk		
+몰래	gizlice	몰래	gizlice		
+몰래	sinsice	몰래	sinsice		
+몰래	sinsi	몰래	sins		
+공학	mühendisliği	공학	mühendislik	N	N;NOM;SG;3
+공학	mühendislik	공학	mühendislik	N	N;NOM;SG;3
+파란색	mavi	파란색	mavi		
+연주	oyunlar	연주	oyun	N	N;NOM;PL;3
+트리플	üçlü	트리플	üçlü		
+동시	eşzamanlı	동시	eşzamanlı		
+아트	sanat	아트	sanat		
+아트	art	아트	art		
+모양	şekiller	모양	şekil	N	N;NOM;PL;3
+모양	şekilleri	모양	şekil	N	N;ACC;PL;3
+모양	şekli	모양	şekli	N	N;ACC;SG;3
+모양	görünüşü	모양	görünüş	N	N;NOM;SG;3
+모양	görünümü	모양	görün	N	N;NOM;SG;3
+모양	görünüm	모양	görün	N	N;NOM;SG;3
+결합	tahvil	결합	tahvil	N	N;NOM;SG;3
+주교	piskoposlar	주교	piskopos	N	N;NOM;PL;3
+몬스터	canavar	몬스터	canavar		
+성모	meryem	성모	meryem	N	N;NOM;SG;3
+로스	roth	로스	roth		
+로스	ross	로스	ross		
+연료	yakıtlar	연료	yakıt	N	N;NOM;PL;3
+이즈미	izumi	이즈미	izum		
+성당	katedral	성당	katedral	N	N;ESS;SG;3
+성당	katedrali	성당	katedrali	N	N;ESS;SG;3
+할머니	nine	할머니	nine		
+아래로	down	아래+로	down		
+아래로	aşağı	아래+로	aşağ		
+스페인어	ispanyol	스페인어	ispanyol		
+스페인어	ispanyolca	스페인어	ispanyolca		
+시나리오	senaryo	시나리오	senaryo		
+전투기	dövüşçü	전투기	dövüşçü	N	N;NOM;SG;3
+주파수	sıklık	주파수	sıklık	N	N;NOM;SG;3
+주파수	frekans	주파수	frekans	N	N;NOM;SG;3
+경계	sınırlar	경계	sınır	N	N;NOM;PL;3
+경계	sınırları	경계	sınır	N	N;NOM;PL;3
+하얀	beyaz	하얗+ㄴ	beyaz		
+오피스	büro	오피스	büro		
+오피스	office	오피스	office		
+오피스	ofis	오피스	ofis		
+학부	fakülte	학부	fakül	N	N;NOM;SG;3
+학부	öğretim	학부	öğretim	N	N;NOM;SG;3
+바이러스	virüs	바이러스	virüs		
+성과	gösteri	성과	göster		
+성과	performans	성과	performans		
+포스트	post	포스트	post		
+레전드	efsane	레전드	efsane		
+레전드	efsane	레전드	efsane		
+보이	cocuk	보이	cocuk		
+보이	evlat	보이	evlat		
+마블	marvel	마블	marvel		
+수입	kazanç	수입	kazanç	N	N;NOM;SG;3
+수입	kazançlar	수입	kazanç	N	N;NOM;PL;3
+패밀리	family	패밀리	family		
+패밀리	aile	패밀리	aile		
+사이즈	boyut	사이즈	boyut		
+사이즈	boy	사이즈	boy		
+사이즈	beden	사이즈	beden		
+현장	field	현장	field		
+현장	tarla	현장	tarla		
+현장	saha	현장	saha		
+현장	sahne	현장	sahne		
+근처	yakın	근처	yakın		
+근처	yakın	근처	yakın		
+소울	ruhu	소울	ruh		
+소울	ruh	소울	ruh		
+소울	soul	소울	soul		
+플러스	artı	플러스	artı		
+플러스	plus	플러스	plus		
+마코토	makoto	마코토	makoto		
+모형	modeller	모형	model	N	N;NOM;PL;3
+모형	modelleri	모형	model	N	N;NOM;PL;3
+모형	mankenler	모형	manken	N	N;NOM;PL;3
+모형	modeli	모형	model	N	N;NOM;SG;3
+출발	kalkış	출발	kalkış	N	N;NOM;SG;3
+도구	aracı	도구	araç	N	N;ACC;SG;3
+도구	araçlar	도구	araç	N	N;NOM;PL;3
+도구	aletler	도구	alet	N	N;NOM;PL;3
+준비	hazır	준비	hazır		
+준비	hazir	준비	hazir		
+준비	hazırlık	준비	hazırlık		
+칼리지	üniversite	칼리+지	üniversite		
+칼리지	kolej	칼리+지	kolej		
+배틀	savas	배틀	savas		
+오류	hataları	오류	hata	N	N;ACC;PL;3
+오류	hatalar	오류	hata	N	N;NOM;PL;3
+표지	tabela	표지	tabela		
+표지	koru	표지	koru		
+표지	kapak	표지	kapak		
+누나	bacım	누나+아	baç		
+누나	rahibe	누나+아	rahip		
+누나	kardeş	누나+아	kardeş		
+공룡	dinozorlar	공룡	dinozor	N	N;NOM;PL;3
+의식	töreni	의식	tören	N	N;NOM;SG;3
+의식	bilincin	의식	bilinç	N	N;GEN;SG;3
+의식	bilinci	의식	bilinci	N	N;NOM;SG;3
+자바	java	자바	java		
+받기	al	받+기	al	V	V;PFV;IMP;SG;2;POS;PRS
+받기	alın	받+기	al	V	V;PFV;IMP;PL;2;POS;PRS
+청춘	gençlik	청춘	gençlik		
+청춘	genç	청춘	genç		
+회로	devreleri	회로	devre	N	N;ACC;PL;3
+요소	element	요소	element	N	N;NOM;SG;3
+시트콤	sitcom	시트콤	sitcom	N	N;NOM;SG;3
+물리학자	fizikçiler	물리학자	fizikçi	N	N;NOM;PL;3
+물리학자	fizikçi	물리학자	fizikçi	N	N;NOM;SG;3
+규칙	kurallar	규칙	kural	N	N;NOM;PL;3
+규칙	kuralları	규칙	kural	N	N;ACC;PL;3
+재정	finansman	재정	finansman	N	N;NOM;SG;3
+요새	kale	요새	kale		
+요새	fort	요새	fort		
+요새	kale	요새	kale		
+바람	rüzgar	바람	rüzgar		
+바람	rüzgâr	바람	rüzgâr		
+바람	rüzgarlı	바람	rüzgarlı		
+바람	rüzgar	바람	rüzgar		
+바람	rüzgâr	바람	rüzgâr		
+상품	ürünler	상품	ürün	N	N;NOM;PL;3
+상품	eşyalar	상품	eşya	N	N;NOM;PL;3
+상품	ürünler	상품	ürün	N	N;NOM;PL;3
+상품	ürünler	상품	ürün	N	N;NOM;PL;3
+상품	ürünleri	상품	ürün	N	N;ACC;PL;3
+원칙	ilkesi	원칙	ilke	N	N;NOM;SG;3
+원칙	ilkeleri	원칙	ilke	N	N;NOM;PL;3
+보스	patron	보스	patron		
+골드	altın	골드	altın		
+골드	gold	골드	gold		
+골드	altin	골드	altin		
+케네디	kennedy	케네디	kenne		
+사기	satın	사기	satın		
+사기	alım	사기	alım		
+사기	dolandırıcı	사기	dolandırıcı		
+사기	sahtekar	사기	sahtekar		
+사기	dümen	사기	dümen		
+아님	değil	아니+ㅁ	değil		
+건강	sağlıkla	건강	sağlık	N	N;INS;SG;3
+건강	sağlık	건강	sağlık	N	N;NOM;SG;3
+경고	uyarılar	경+고	uyarı	N	N;NOM;PL;3
+키스	kiss	키스	kiss		
+키스	op	키스	op		
+키스	keith	키스	keith		
+다니엘	daniel	다니엘	daniel		
+대성당	katedral	대성당	katedral	N	N;ESS;SG;3
+대성당	katedrali	대성당	katedrali	N	N;ESS;SG;3
+공업	endüstriyel	공업	endüstriyel	N	N;NOM;SG;3
+테스트	sınav	테스트	sınav	N	N;NOM;SG;3
+테스트	testler	테스트	test	N	N;NOM;PL;3
+테스트	testler	테스트	test	N	N;NOM;PL;3
+재판	deneyleri	재판	deney	N	N;ACC;PL;3
+사우스	güney	사우스	güney		
+차로	şerit	차로	şerit		
+부동산	emlak	부동산	emlak	N	N;NOM;SG;3
+부동산	gayrimenkul	부동산	gayrimenkul	N	N;NOM;SG;3
+피해자	mağdur	피하+어자	mağdur		
+피해자	kurban	피하+어자	kurban		
+거대	kocaman	거대	kocaman		
+거대	devasa	거대	devasa		
+거대	büyük	거대	büyük		
+거대	dev	거대	dev		
+특성	özellikler	특성	özellik	N	N;NOM;PL;3
+특성	özellikleri	특성	özellik	N	N;NOM;PL;3
+특성	özellikler	특성	özellik	N	N;NOM;PL;3
+특성	emlak	특성	emlak	N	N;NOM;SG;3
+특성	özellikleri	특성	özellik	N	N;NOM;PL;3
+가구	mobilya	가구	mobilya	N	N;NOM;SG;3
+가구	mobilyalar	가구	mobilya	N	N;NOM;PL;3
+지점	puan	지점	pu		
+지점	dal	지점	dal		
+지점	şube	지점	şube		
+지점	puan	지점	pu		
+지점	nokta	지점	nokta		
+무슬림	müslümanlar	무슬림	müslüman	N	N;NOM;PL;3
+무슬림	müslümanlar	무슬림	müslüman	N	N;NOM;PL;3
+무슬림	müslümanların	무슬림	müslüman	N	N;GEN;PL;3
+무슬림	müslümanlara	무슬림	müslüman	N	N;DAT;PL;3
+온도	sıcaklık	온도	sıcaklık	N	N;NOM;SG;3
+온도	sıcaklığı	온도	sıcaklık	N	N;ACC;SG;3
+온도	sıcaklık	온도	sıcaklık	N	N;NOM;SG;3
+버라이어티	çeşitli	버라이어티	çeşitli		
+전신	telgraf	전신	telgraf		
+흰색	beyaz	흰+색	beyaz		
+외교관	diplomat	외교관	diplomat	N	N;NOM;SG;3
+외교관	diplomatlar	외교관	diplomat	N	N;NOM;PL;3
+가짜	sahte	가짜	sahte		
+가짜	sahte	가짜	sahte		
+건축가	mimarlar	건축가	mimar	N	N;NOM;PL;3
+생각	düşünce	생각	düşünce		
+생각	düşünme	생각	düşün		
+생각	düşünce	생각	düşünce		
+생각	düşün	생각	düşün		
+생각	düşünce	생각	düşünce		
+다크	koyu	다크	koyu		
+다크	karanlık	다크	karanlık		
+다크	dark	다크	dark		
+무덤	mezarlar	무덤	mezar	N	N;NOM;PL;3
+무덤	mezarları	무덤	mezar	N	N;ACC;PL;3
+레이저	lazer	레이저	lazer		
+레이저	lazer	레이저	lazer		
+치료	tedaviler	치료	tedavi	N	N;NOM;PL;3
+치료	tedavi	치료	tedavi	N	N;NOM;SG;3
+치료	tedavi	치료	tedavi	N	N;NOM;SG;3
+치료	tedavi	치료	tedavi	N	N;NOM;SG;3
+치료	terapi	치료	terapi	N	N;NOM;SG;3
+치료	tedavi	치료	tedavi	N	N;NOM;SG;3
+치료	tedavisi	치료	tedavi	N	N;NOM;SG;3
+요약	özeti	요약	özet	N	N;ACC;SG;3
+식품	yemekler	식품	yemek	N	N;NOM;PL;3
+식품	yemek	식품	yemek	N	N;NOM;SG;3
+식품	yemekler	식품	yemek	N	N;NOM;PL;3
+실수	hatalar	실수	hata	N	N;NOM;PL;3
+공유	paylaşım	공유	paylaşım	N	N;NOM;SG;3
+공유	paylaşımı	공유	paylaşım	N	N;ACC;SG;3
+공유	paylaşım	공유	paylaşım	N	N;NOM;SG;3
+공유	paylaş	공유	paylaş	N	N;INS;SG;3
+공유	hisseler	공유	hisse	N	N;NOM;PL;3
+공유	paylaşımlar	공유	paylaşım	N	N;NOM;PL;3
+해석	yoruma	해석	yorum	N	N;DAT;SG;3
+해석	analiz	해석	analiz	N	N;NOM;SG;3
+해석	analizler	해석	analiz	N	N;NOM;PL;3
+가벼운	hafif	가볍+ㄴ	hafif	ADJ	ADJ
+가벼운	hafif	가볍+ㄴ	hafif	ADJ	ADJ
+지미	jimmy	지미	jimmy		
+여덟	eight	여덟	eight		
+여덟	sekizi	여덟	sekiz		
+비주얼	görsel	비주얼	görsel		
+장애	düzensizlik	장애	düzensizlik	N	N;NOM;SG;3
+장애	bozukluğu	장애	bozukluk	N	N;NOM;SG;3
+장애	bozukluk	장애	bozukluk	N	N;NOM;SG;3
+장애	sakatlık	장애	sakatlık	N	N;NOM;SG;3
+대응	cevap	대응	cevap	N	N;NOM;SG;3
+사령부	komuta	사령부	komut	N	N;NOM;SG;3
+눈물	gözyaşı	눈물	gözyaşı		
+눈물	yırtık	눈물	yırtık		
+눈물	yaşlar	눈물	yaş		
+눈물	gözyaşı	눈물	gözyaşı		
+매치	eşleşme	매치	eşleş		
+매치	karşılaşma	매치	karşılaşma		
+매치	kibrit	매치	kibrit		
+사상자	zayiat	사상자	zayiat	N	N;NOM;SG;3
+사상자	kayıplar	사상자	kayıp	N	N;NOM;PL;3
+사상자	yaralılar	사상자	yaralı	N	N;NOM;PL;3
+인식	farkındalık	인식	farkındalık	N	N;ESS;SG;3
+인식	bilinirliği	인식	bil	N	N;NOM;SG;3
+러시아어	rus	러시아어	rus		
+고토	goto	고토	goto		
+이탈리아어	italyan	이탈리아지+어	italyan		
+컬러	renk	컬러	renk		
+컬러	rengi	컬러	renk		
+컬러	renkli	컬러	renkli		
+컬러	renk	컬러	renk		
+컬러	rengi	컬러	renk		
+읽고	okuma	읽+고	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽고	okuyun	읽+고	oku	V	V;PFV;IMP;PL;2;POS;PRS
+읽고	okumak	읽+고	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽고	okuyorum	읽+고	oku	V	V;PROG;IND;SG;1;POS;INFM;PRS
+읽고	okuma	읽+고	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽고	okumak	읽+고	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+범주	kategorisi	범주	kategori	N	N;NOM;SG;3
+범주	kategorileri	범주	kategori	N	N;ACC;PL;3
+오프라인	çevrimdışı	오프라인	çevri		
+아이들	çocuklar	아이+들	çocuk	N	N;NOM;PL;3
+아이들	cocuklar	아이+들	cocuk	N	N;NOM;PL;3
+아이들	çocuk	아이+들	çocuk	N	N;NOM;SG;3
+아이들	çocuklar	아이+들	çocuk	N	N;NOM;PL;3
+경로	patika	경로	patika		
+경로	yol	경로	yol		
+경로	rota	경로	rota		
+경로	yol	경로	yol		
+콘텐츠	içeriğe	콘텐츠	içerik	N	N;DAT;SG;3
+콘텐츠	içeriği	콘텐츠	içerik	N	N;NOM;SG;3
+콘텐츠	içerikler	콘텐츠	içerik	N	N;NOM;PL;3
+콘텐츠	içeriği	콘텐츠	içerik	N	N;NOM;SG;3
+콘텐츠	içerikler	콘텐츠	içerik	N	N;NOM;PL;3
+황금	altın	황금	altın		
+황금	altin	황금	altin		
+황금	altın	황금	altın		
+황금	gold	황금	gold		
+황금	altin	황금	altin		
+마우스	fare	마우스	fare		
+마우스	mouse	마우스	mouse		
+초등	ilköğretim	초등	ilköğretim	N	N;NOM;SG;3
+빛나는	parlayan	빛나+는	parla	V	V;PFV;IND;POS;PRS;V.PTCP
+가치	değerler	가치	değer	N	N;NOM;PL;3
+가치	değerleri	가치	değer	N	N;NOM;PL;3
+가치	değeri	가치	değer	N	N;ACC;SG;3
+사이버	siber	사이버	siber		
+평소	olağan	평소	olağan		
+제트	jetleri	제트	jet	N	N;ACC;PL;3
+판사	hakemler	판사	hakem	N	N;NOM;PL;3
+판사	yargıçlar	판사	yargıç	N	N;NOM;PL;3
+판사	hakimler	판사	hakim	N	N;NOM;PL;3
+실패	başarısızlık	실패	başarısızlık	N	N;NOM;SG;3
+헌터	avcılar	헌터	avcı		
+헌터	avcı	헌터	avcı		
+헌터	hunter	헌터	hunter		
+헌터	avcılar	헌터	avcı		
+논쟁	münazara	논쟁	münazar	N	N;NOM;SG;3
+논쟁	müzakere	논쟁	müzakere	N	N;NOM;SG;3
+분포	dağıtımı	분포	dağıt	N	N;NOM;SG;3
+분포	dağıtımlar	분포	dağıtım	N	N;NOM;PL;3
+해병대	denizciler	해병대	denizci	N	N;NOM;PL;3
+해병대	denizcilik	해병대	denizcilik	N	N;NOM;SG;3
+끊임없이	sürekli	끊임없이	sürekli	ADV	ADV
+제프	geoff	제프	geoff		
+제프	jeff	제프	jeff		
+정상	normal	정상	normal		
+배치	düzeni	배치	düzen	N	N;NOM;SG;3
+강릉	gangneung	강릉	gangneung		
+다이스케	daisuke	다이스케	daisuke		
+물리	fiziği	물리	fizik	N	N;NOM;SG;3
+판단	hüküm	판단	hüküm		
+판단	yargı	판단	yargı		
+판단	yargıç	판단	yargıç		
+판단	hâkim	판단	hâkim		
+판단	hakim	판단	hakim		
+판단	muhakeme	판단	muhakem		
+판단	hüküm	판단	hüküm		
+판단	yargı	판단	yargı		
+판단	yargılama	판단	yargılama		
+학살	katliamı	학살	katlia	N	N;ACC;SG;3
+첼시	chelsea	첼시	chelsea		
+로즈	rose	로즈	rose		
+로즈	gülüm	로즈	gülüm		
+로즈	gülü	로즈	gül		
+컨트리	ülke	컨트리	ülke		
+컨트리	vatan	컨트리	vat		
+양궁	okçuluk	양궁	okçuluk	N	N;NOM;SG;3
+자살	intiharı	자살	intihar	N	N;NOM;SG;3
+아케이드	arcade	아케이드	arca		
+코믹	karikatür	코믹	karikat		
+코믹	çizgi	코믹	çizgi		
+드라이브	drive	드라이브	driv		
+드라이브	sür	드라이브	sür		
+원리	ilkesi	원리	ilke	N	N;NOM;SG;3
+원리	ilkeleri	원리	ilke	N	N;NOM;PL;3
+인공	suni	인공	sun		
+인공	yapay	인공	yapay		
+합격	kabul	합격	kabul	N	N;NOM;SG;3
+계산	hesapla	계산	hesap	N	N;INS;SG;3
+계산	hesapla	계산	hesap	N	N;INS;SG;3
+공화당	cumhuriyetçiler	공화당	cumhuriyetçi	N	N;NOM;PL;3
+공화당	cumhuriyetçi	공화당	cumhuriyetçi	N	N;NOM;SG;3
+공화당	cumhuriyetçiler	공화당	cumhuriyetçi	N	N;NOM;PL;3
+공화당	cumhuriyetçi	공화당	cumhuriyetçi	N	N;NOM;SG;3
+신경	sinir	신경	i		
+블루스	blues	블루스	blues		
+협주곡	konçertosu	협주곡	konçertosu	N	N;ACC;SG;3
+예산	bütçeyi	예산	bütçe	N	N;ACC;SG;3
+예산	bütçeleri	예산	bütçe	N	N;ACC;PL;3
+승무원	mürettebat	승무원	mürettebat	N	N;NOM;SG;3
+청각	sağırlar	청각	sağır	N	N;NOM;PL;3
+병사	askerler	병사	asker	N	N;NOM;PL;3
+목요일	perşembe	목요일	perşembe		
+로빈	robin	로빈	robin		
+로빈	robyn	로빈	robyn		
+도전	zorluklar	도전	zorluk	N	N;NOM;PL;3
+인디	bağımsız	인디	bağımsız		
+탤런트	yetenekler	탤런트	yetenek	N	N;NOM;PL;3
+탤런트	yetenekleri	탤런트	yetenek	N	N;NOM;PL;3
+탤런트	yetenek	탤런트	yetenek	N	N;NOM;SG;3
+감정	duygular	감정	duygu	N	N;NOM;PL;3
+감정	duyguları	감정	duygu	N	N;ACC;PL;3
+감정	duygular	감정	duygu	N	N;NOM;PL;3
+감정	duygularını	감정	duygu	N	N;ACC;PL;3
+감정	duygular	감정	duygu	N	N;NOM;PL;3
+감정	hisler	감정	his	N	N;NOM;PL;3
+라이프	life	라이프	life		
+라이프	hayat	라이프	hayat		
+라이프	ömür	라이프	ömür		
+아키	aki	아키	ki		
+구원	kurtuluşu	구원	kurtuluş	N	N;ACC;SG;3
+획득한	kazanılan	획득+하+ㄴ	kazan	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+획득한	kazanılmış	획득+하+ㄴ	kazan	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+미스터리	gizemli	미스터리	gizemli		
+미스터리	gizem	미스터리	gizem		
+미스터리	gizem	미스터리	gizem		
+글로	parıltı	글+로	parıltı		
+자원	kaynakları	자원	kaynak	N	N;ACC;PL;3
+자원	kaynaklar	자원	kaynak	N	N;NOM;PL;3
+구리	bakır	구리	bakır		
+구리	guri	구리	guri		
+오케스트라	orkestra	오케스트라	orkestra		
+낱말	sözcüksel	낱말	sözcüksel		
+나선	sarmal	나서+ㄴ	sarmal		
+나선	sarmal	나서+ㄴ	sarmal		
+나선	spiral	나서+ㄴ	spiral		
+인생	yaşam	인생	yaşam	N	N;NOM;SG;3
+델타	delta	델타	delta		
+발라드	balad	발라드	balad		
+해협	boğazı	해협	boğaz	N	N;ACC;SG;3
+해협	boğazı	해협	boğaz	N	N;ACC;SG;3
+블록	blok	블록	blok		
+블록	engeller	블록	engel		
+블록	blok	블록	blok		
+블록	engelle	블록	engel		
+블록	blok	블록	blok		
+블록	block	블록	block		
+블록	engelleme	블록	engelle		
+타운	kasaba	타우+ㄴ	kasaba		
+타운	şehir	타우+ㄴ	şehir		
+생명	yaşam	생명	yaşam	N	N;NOM;SG;3
+생명	hayatlar	생명	hayat	N	N;NOM;PL;3
+목표	amaçları	목표	amaç	N	N;ACC;PL;3
+목표	amaçlar	목표	amaç	N	N;NOM;PL;3
+목표	amaçlar	목표	amaç	N	N;NOM;PL;3
+목표	gol	목표	gol	N	N;NOM;SG;3
+목표	hedefler	목표	hedef	N	N;NOM;PL;3
+목표	amaçlar	목표	amaç	N	N;NOM;PL;3
+목표	hedefleri	목표	hedef	N	N;NOM;PL;3
+목표	gol	목표	gol	N	N;NOM;SG;3
+프린세스	prenses	프린세스	prenses		
+우승자	kazananlar	우승자	kazanan	N	N;NOM;PL;3
+제인	jane	제인	jane		
+캠프	kamp	캠프	kamp		
+점령	mesleği	점령	meslek	N	N;NOM;SG;3
+태권도	taekwondo	태권도	taekwondo	N	N;NOM;SG;3
+사례	vakalar	사례	vaka	N	N;NOM;PL;3
+사례	davalar	사례	dava	N	N;NOM;PL;3
+추정	tahmini	추정	tahmin	N	N;NOM;SG;3
+추정	tahminleri	추정	tahmin	N	N;ACC;PL;3
+추정	tahminler	추정	tahmin	N	N;NOM;PL;3
+추정	tahmini	추정	tahmin	N	N;NOM;SG;3
+추정	tahmini	추정	tahmin	N	N;NOM;SG;3
+한정	sınırlı	한정	sınırlı		
+한정	kısıtlı	한정	kısıtlı		
+한정	sınırlıdır	한정	sınırlı		
+달려	run	달리+어	run		
+달려	koş	달리+어	koş		
+투자	yatırım	투자	yatırım	N	N;NOM;SG;3
+투자	yatırımları	투자	yatırım	N	N;ACC;PL;3
+투자	yatırımlar	투자	yatırım	N	N;NOM;PL;3
+투자	yatırım	투자	yatırım	N	N;NOM;SG;3
+투자	yatırım	투자	yatırım	N	N;NOM;SG;3
+보장	garanti	보장	garanti	N	N;NOM;SG;3
+보장	garantili	보장	garantili	N	N;NOM;SG;3
+비용	ücret	비용	ücret		
+비용	ücreti	비용	ücret		
+비용	mal	비용	mal		
+비용	masraf	비용	masraf		
+사이클	bisiklete	사이클	bisikle	N	N;NOM;SG;3
+사이클	bisiklet	사이클	bisiklet	N	N;NOM;SG;3
+사이클	döngüsü	사이클	döngü	N	N;NOM;SG;3
+지중해	akdeniz	지중해	akdeniz		
+트레이드	takas	트레이드	takas		
+트레이드	ticaret	트레이드	ticaret		
+고도	irtifa	고도	irtifa		
+고도	yükselme	고도	yüksel		
+고도	yükseliş	고도	yükseliş		
+리나	lena	리+나	len		
+리나	lina	리+나	lina		
+글자	harf	글자	harf		
+전문가	uzman	전문가	uzman		
+전문가	uzman	전문가	uzman		
+전문가	profesyonel	전문가	profesyonel		
+전문가	uzman	전문가	uzman		
+전문가	mesleki	전문가	mesleki		
+전문가	profesyonel	전문가	profesyonel		
+사원	camiler	사원	cami	N	N;NOM;PL;3
+사원	tapınak	사원	tapınak	N	N;NOM;SG;3
+사원	tapınağı	사원	tapınak	N	N;NOM;SG;3
+사원	tapınakları	사원	tapınak	N	N;NOM;PL;3
+사라	sarah	사라	sarah		
+사라	sara	사라	sara		
+과학자	bilimadamları	과학자	bil	N	N;ACC;PL;3
+연기자	sanatçılar	연기자	sanatçı	N	N;NOM;PL;3
+연기자	oyuncular	연기자	oyuncu	N	N;NOM;PL;3
+여인	kadin	여인	kadin		
+여인	kadın	여인	kadın		
+스쿨	okul	스쿨	okul		
+스쿨	school	스쿨	school		
+맥스	maksimum	맥스	maksi		
+맥스	max	맥스	max		
+맥스	azami	맥스	azami		
+고치	tamir	고치	tamir		
+형성	oluşumu	형성	oluş	N	N;ACC;SG;3
+형성	düzeni	형성	düzen	N	N;NOM;SG;3
+공중	kamu	공중	kamu	N	N;NOM;SG;3
+보고서	raporlama	보고서	raporlama		
+조작	manipülasyon	조작	manipülasyon	N	N;NOM;SG;3
+스트라이커	striker	스트라이커	strik		
+스트라이커	stryker	스트라이커	stryker		
+문단	paragraf	문단	paragraf	N	N;NOM;SG;3
+분자	moleküler	분자	molekü	N	N;NOM;PL;3
+분자	molekül	분자	molekül	N	N;NOM;SG;3
+분자	molekül	분자	molekül	N	N;NOM;SG;3
+분자	moleküller	분자	molek	N	N;NOM;PL;3
+분자	molekül	분자	molekül	N	N;NOM;SG;3
+다이아몬드	elmas	다이아몬드	elmas		
+다이아몬드	elmaslar	다이아몬드	el		
+다이아몬드	karo	다이아몬드	karo		
+다이아몬드	elmas	다이아몬드	elmas		
+아이스	buz	아이스	buz		
+아이스	ice	아이스	ice		
+폭력	şiddeti	폭력	şiddet	N	N;NOM;SG;3
+폭력	şiddetle	폭력	şiddet	N	N;INS;SG;3
+동전	para	동전	para		
+동전	sikke	동전	sikke		
+동전	para	동전	para		
+운영자	yönetici	운영자	yönetici		
+운영자	admin	운영자	admin		
+운영자	yönetici	운영자	yönetici		
+운영자	santral	운영자	santral		
+운영자	operatörü	운영자	operatörü		
+운영자	operatör	운영자	operatör		
+형제자매	kardeşleri	형제+자매	kardeş	N	N;NOM;PL;3
+형제자매	kardeşler	형제+자매	kardeş	N	N;NOM;PL;3
+알렉스	alex	알렉스	ale		
+방정식	eşitlik	방정식	eşitlik	N	N;NOM;SG;3
+방정식	denklem	방정식	denkle	N	N;NOM;SG;3
+방정식	denklemi	방정식	denklem	N	N;NOM;SG;3
+방정식	denklemleri	방정식	denklem	N	N;ACC;PL;3
+버클리	buckley	버클리	buckley		
+성능	performansı	성능	performans	N	N;NOM;SG;3
+주최	hosting	주최	hosting	N	N;NOM;SG;3
+얼터너티브	alternatif	얼터너티브	alternatif		
+찰리	charlie	찰리	charlie		
+미얀마	burma	미얀마	bur		
+미얀마	burma	미얀마	bur		
+캐시	önbellek	캐시	önbellek	N	N;NOM;SG;3
+드림	rüya	드리+ㅁ	rüya		
+드림	düş	드리+ㅁ	düş		
+드림	hayal	드리+ㅁ	hayal		
+드림	dream	드리+ㅁ	dream		
+드림	düşler	드리+ㅁ	düş		
+파운드	sterlin	파운드	sterlin		
+파운드	pound	파운드	pound		
+파운드	sterlin	파운드	sterlin		
+파운드	pound	파운드	pound		
+파운드	kilo	파운드	kilo		
+컴퍼니	şirket	컴퍼니	şirket		
+컴퍼니	bölük	컴퍼니	bölük		
+시계	saatleri	시계	saat	N	N;ACC;PL;3
+시계	saatler	시계	saat	N	N;NOM;PL;3
+시계	saatleri	시계	saat	N	N;ACC;PL;3
+시계	saatler	시계	saat	N	N;NOM;PL;3
+시계	saate	시계	saat	N	N;DAT;SG;3
+데이	dey	데이	dey		
+데이	gündüz	데이	gündüz		
+데이	gun	데이	gun		
+수백	yüzlerce	수백	yüzlerce	NUM	NUM
+수백	yüzlercesi	수백	yüz	NUM	NUM
+측정	ölçüm	측정	ölçüm	N	N;NOM;SG;3
+측정	ölçüm	측정	ölçüm	N	N;NOM;SG;3
+측정	ölçüleri	측정	ölçü	N	N;ACC;PL;3
+측정	ölçümleri	측정	ölçüm	N	N;ACC;PL;3
+측정	ölçümler	측정	ölçüm	N	N;NOM;PL;3
+측정	tedbirler	측정	tedbir	N	N;NOM;PL;3
+측정	ölçüm	측정	ölçüm	N	N;NOM;SG;3
+가슴	göğüsleri	가슴	göğüs	N	N;ACC;PL;3
+기도	namaz	기도	namaz	N	N;NOM;SG;3
+기도	dualar	기도	dua	N	N;NOM;PL;3
+기도	namaz	기도	namaz	N	N;NOM;SG;3
+기도	dualar	기도	dua	N	N;NOM;PL;3
+교환	döviz	교환	döviz	N	N;NOM;SG;3
+동상	heykelleri	동상	heykel	N	N;NOM;PL;3
+동상	heykeller	동상	heykel	N	N;NOM;PL;3
+입자	parçacıklar	입자	parçacık	N	N;NOM;PL;3
+입자	parçacıkların	입자	parçacık	N	N;GEN;PL;3
+입자	parçacıkları	입자	parçacık	N	N;NOM;PL;3
+입자	parçacık	입자	parçacık	N	N;NOM;SG;3
+동의	rıza	동의	rız		
+동의	sözleşme	동의	sözleşme		
+동의	anlaşma	동의	anlaşma		
+제로	sıfır	제로	sıfır		
+히어로	kahraman	히어+로	kahraman		
+히어로	hero	히어+로	hero		
+히어로	kahraman	히어+로	kahraman		
+히어로	yiğit	히어+로	yiğit		
+르네상스	rönesans	르네상스	rönesans		
+미션	misyon	미션	misyon		
+게이	gey	게이	gey		
+게이	gay	게이	gay		
+게이	eşcinsel	게이	eşcinsel		
+수단	sudan	수단	su	N	N;AT+ABL;SG;3
+수단	sudan	수단	su	N	N;AT+ABL;SG;3
+수단	yöntemi	수단	yöntem	N	N;ACC;SG;3
+수단	yöntem	수단	yöntem	N	N;NOM;SG;3
+수단	yöntemleri	수단	yöntem	N	N;NOM;PL;3
+수단	yöntemler	수단	yöntem	N	N;NOM;PL;3
+대서양	atlantik	대서양	atlantik		
+연안	kıyı	연안	kıy		
+비행기	uçaklar	비행기	uçak	N	N;NOM;PL;3
+비행기	uçak	비행기	uçak	N	N;NOM;SG;3
+비행기	uçak	비행기	uçak	N	N;NOM;SG;3
+비행기	uçaklar	비행기	uçak	N	N;NOM;PL;3
+비행기	uçak	비행기	uçak	N	N;NOM;SG;3
+헤비	ağırsiklet	헤비	ağırsiklet		
+미우라	miura	미우+이+라	miura		
+이자	ilgi	이자	ilgi		
+이자	faiz	이자	faiz		
+순수	saflık	순수	saflık	N	N;NOM;SG;3
+자본주의	başkenti	자본주의	başkent	N	N;NOM;SG;3
+자본주의	kapitalizm	자본주의	kapitalizm	N	N;NOM;SG;3
+배터리	batarya	배터리	batar	N	N;NOM;SG;3
+배터리	batarya	배터리	batar	N	N;NOM;SG;3
+배터리	piller	배터리	pil	N	N;NOM;PL;3
+마이크로	mikro	마이크+로	mikro		
+마이크로	mikrofon	마이크+로	mikrofon		
+뭔가	birşey	뭐+이+ㄴ가	birşey		
+순환	dolaşımı	순환	dolaş	N	N;NOM;SG;3
+순환	döngüsü	순환	döngü	N	N;NOM;SG;3
+부호	şifre	부호	şifre	N	N;NOM;SG;3
+비율	oranı	비율	oran	N	N;NOM;SG;3
+비율	oranı	비율	oran	N	N;NOM;SG;3
+언덕	tepe	언덕	tepe		
+언덕	tepe	언덕	tepe		
+마르코	marco	마르코	marco		
+그림자	gölgeleri	그림자	gölge	N	N;ACC;PL;3
+그림자	gölgelerin	그림자	gölge	N	N;GEN;PL;3
+그림자	gölgeler	그림자	gölge	N	N;NOM;PL;3
+질문	sorularınız	질문	soru	N	N;NOM;PL;3
+질문	soruları	질문	soru	N	N;ACC;PL;3
+질문	sorular	질문	soru	N	N;NOM;PL;3
+메시지	ileti	메시지	ilet		
+메시지	mesaj	메시지	mesaj		
+메시지	mesaj	메시지	mesaj		
+레이디	lady	레이디	lady		
+레이디	hanım	레이디	hanım		
+레이디	bayan	레이디	bayan		
+킬로미터	kilometre	킬로미터	kilometre		
+킬로미터	kilometre	킬로미터	kilometre		
+킬로미터	kilogram	킬로미터	kilogram		
+킬로미터	kilometre	킬로미터	kilometre		
+이븐	ibn	이븐	ibn		
+원형	yuvarlak	원형	yuvarlak		
+원형	dairesel	원형	dairesel		
+다이빙	dalış	다이빙	dalış	N	N;NOM;SG;3
+다이빙	dalış	다이빙	dalış	N	N;NOM;SG;3
+다이빙	dalın	다이빙	dal	N	N;GEN;SG;3
+수치	sayılar	수치	say	N	N;NOM;PL;3
+수치	rakamlar	수치	rakam	N	N;NOM;PL;3
+수치	şekiller	수치	şekil	N	N;NOM;PL;3
+수요일	çarşamba	수요일	çarşamba		
+수요일	izdivaç	수요일	izdivaç		
+아랍어	arapça	아랍어	arapça		
+아랍어	arap	아랍어	arap		
+보이기	göster	보이+기	göster	V	V;PFV;IMP;PL;2;POS;PRS
+보이기	gösterin	보이+기	göster	V	V;PFV;IMP;PL;2;POS;PRS
+전송	havale	전송	havale	N	N;NOM;SG;3
+스마트	zeki	스마트	zeki		
+스마트	akıllı	스마트	akıllı		
+프로세서	işlemci	프로세서	işlemci	N	N;NOM;SG;3
+프로세서	işlemciler	프로세서	işlemci	N	N;NOM;PL;3
+꽃이	çiçekler	꽃+이	çiçek	N	N;NOM;PL;3
+꽃이	çiçeğim	꽃+이	çiçek	N	N;NOM;SG;3
+꽃이	çiçeği	꽃+이	çiçek	N	N;NOM;SG;3
+독립운동	bağımsızlığı	독립+운동	bağımsızlık	N	N;ACC;SG;3
+독립운동	bağımsızlık	독립+운동	bağımsızlık	N	N;NOM;SG;3
+합성	sentez	합성	sentez	N	N;NOM;SG;3
+합성	kompozisyon	합성	kompozisyon	N	N;NOM;SG;3
+종족	türler	종족	tür	N	N;NOM;PL;3
+목성의	jüpiter	목성+의	jüpiter	N	N;NOM;SG;3
+매거진	dergi	매거지+ㄴ	dergi		
+매거진	magazin	매거지+ㄴ	magazin		
+수집	toplantı	수집	toplantı	N	N;NOM;SG;3
+피닉스	anka	피닉스	anka		
+트럭	kamyonet	트럭	kamyonet	N	N;NOM;SG;3
+트럭	kamyonlar	트럭	kamyon	N	N;NOM;PL;3
+케이	kay	케+이	kay		
+마이너	madenci	마이너	madenci		
+그래프	grafik	그래프	grafik		
+답변	tepkiler	답변	tepki	N	N;NOM;PL;3
+답변	yanıtları	답변	yanıt	N	N;ACC;PL;3
+답변	yanıtlar	답변	yanıt	N	N;NOM;PL;3
+답변	cevaplar	답변	cevap	N	N;NOM;PL;3
+답변	cevap	답변	cevap	N	N;NOM;SG;3
+답변	cevaplar	답변	cevap	N	N;NOM;PL;3
+답변	yanıtlar	답변	yanıt	N	N;NOM;PL;3
+답변	yanıtları	답변	yanıt	N	N;ACC;PL;3
+답변	cevaplar	답변	cevap	N	N;NOM;PL;3
+답변	yanıtlar	답변	yanıt	N	N;NOM;PL;3
+답변	cevap	답변	cevap	N	N;NOM;SG;3
+답변	cevapla	답변	cevap	N	N;NOM;SG;3
+답변	cevap	답변	cevap	N	N;NOM;SG;3
+답변	cevapla	답변	cevap	N	N;NOM;SG;3
+허위	batıl	허위	batıl		
+허위	sahte	허위	sahte		
+리사	lisa	리사	lisa		
+접속	erişim	접속	erişim	N	N;NOM;SG;3
+활용	konjugasyon	활용	konjugasyon	N	N;NOM;SG;3
+당신	sen	당신	sen	PRO	PRO;NOM;SG;2
+당신	seni	당신	sen	PRO	PRO;ACC;SG;2
+당신	siz	당신	siz	PRO	PRO;NOM;PL;2
+아오이	aoi	아오이	aoi		
+비공식	gayriresmi	비공식	gayriresm		
+포스터	afiş	포스터	afiş		
+포스터	poster	포스터	poster		
+포스터	poster	포스터	poster		
+희극	komedi	희극	komedi	N	N;NOM;SG;3
+희극	komedyen	희극	komedyen	N	N;NOM;SG;3
+희극	komedi	희극	komedi	N	N;NOM;SG;3
+연합군	müttefikler	연합군	müttefik	N	N;NOM;PL;3
+중국인	çin	중국인	çin		
+중국인	çinli	중국인	çinli		
+중국인	çince	중국인	çince		
+드디어	sonunda	드디어	sonunda	ADV	ADV
+프리랜서	serbest	프리+로서	serbest		
+기상	meteoroloji	기상	meteoroloji	N	N;NOM;SG;3
+코스	kurs	코스	kurs	N	N;NOM;SG;3
+코스	kursları	코스	kurs	N	N;ACC;PL;3
+코스	kurs	코스	kurs	N	N;NOM;SG;3
+코스	dersler	코스	ders	N	N;NOM;PL;3
+포뮬러	mama	포뮬러	mama		
+포뮬러	formula	포뮬러	formula		
+포뮬러	formül	포뮬러	formül		
+막스	maksimum	막스	maksi		
+막스	max	막스	max		
+막스	azami	막스	azami		
+퍼스트	önce	퍼스트	önce		
+퍼스트	ilk	퍼스트	ilk		
+퍼스트	once	퍼스트	once		
+살았던	yaşamış	살+았+던	yaşa	V	V;PFV;NFH;IND;SG;3;POS;PST
+살았던	yaşadı	살+았+던	yaşa	V	V;PFV;IND;SG;3;POS;PST
+살았던	yaşardı	살+았+던	yaşa	V	V;IPFV;IND;SG;3;POS
+수준	seviye	수준	sev		
+수준	düzey	수준	düzey		
+수준	seviye	수준	sev		
+하이	high	하이	high		
+하이	çak	하이	çak		
+하이	yükseğe	하이	yüksek		
+부시	bush	부시	bush		
+부시	çalı	부시	çalı		
+망명	sürgüne	망명	sürgü	N	N;DAT;SG;3
+망명	tımarhane	망명	tımarhane	N	N;NOM;SG;3
+의무	görev	의무	görev	N	N;NOM;SG;3
+의무	yükümlülükleri	의무	yükümlülük	N	N;NOM;PL;3
+의무	yükümlülük	의무	yükümlülük	N	N;NOM;SG;3
+의무	zorunluluk	의무	zorunluluk	N	N;NOM;SG;3
+의무	görevleri	의무	görev	N	N;NOM;PL;3
+로그	logaritma	로그	logaritma		
+로그	kütük	로그	kütük		
+로그	günlük	로그	günlük		
+로그	kütük	로그	kütük		
+시청자	görüntüleyici	시청자	görüntüleyici	N	N;NOM;SG;3
+시청자	izleyicilerin	시청자	izleyici	N	N;GEN;PL;3
+시청자	izleyiciler	시청자	izleyici	N	N;NOM;PL;3
+시청자	izleyenler	시청자	izle	N	N;NOM;PL;3
+프로토콜	protokolü	프로토콜	protokolü	N	N;ACC;SG;3
+프로토콜	protokolleri	프로토콜	protokol	N	N;ACC;PL;3
+책임	yükümlülük	책임	yükümlülük	N	N;NOM;SG;3
+책임	sorumluluk	책임	sorumluluk	N	N;NOM;SG;3
+책임	sorumluluğu	책임	sorumluluk	N	N;ACC;SG;3
+책임	sorumluluk	책임	sorumluluk	N	N;NOM;SG;3
+손녀	torunun	손녀	toru	N	N;GEN;SG;3
+손녀	torunu	손녀	torun	N	N;NOM;SG;3
+갤러리	galeri	갤러리	galer		
+사막	çöller	사막	çöl	N	N;NOM;PL;3
+업적	başarılar	업적	başarı	N	N;NOM;PL;3
+업적	başarım	업적	baş	N	N;NOM;SG;3
+상자	kutusu	상자	kutu	N	N;NOM;SG;3
+상자	kutular	상자	kutu	N	N;NOM;PL;3
+캐논	toplar	캐논	top		
+캐논	cannon	캐논	cannon		
+캐논	top	캐논	top		
+천사	melekler	천사	melek	N	N;NOM;PL;3
+천사	meleğim	천사	meleğim	N	N;NOM;SG;3
+주택	evleri	주택	ev	N	N;ACC;PL;3
+주택	evler	주택	ev	N	N;NOM;PL;3
+주택	konut	주택	konut	N	N;NOM;SG;3
+주택	konut	주택	konut	N	N;NOM;SG;3
+히트	isı	히트	isı		
+히트	hit	히트	hit		
+콘크리트	somut	콘크리트	somut		
+콘크리트	beton	콘크리트	beton		
+조명	işıkları	조명	işık	N	N;NOM;PL;3
+조명	işıklar	조명	işık	N	N;NOM;PL;3
+유사	benzeri	유사	benzeri		
+유사	benzer	유사	benze		
+프랑스인	fransızlar	프랑스인	fransız	N	N;NOM;PL;3
+토크	tork	토크	tork	N	N;NOM;SG;3
+콤팩트	kompakt	콤팩트	kompakt		
+등등	vb	등+등	vb		
+패트릭	patrick	패트릭	patrick		
+주식	hisseler	주식	hisse	N	N;NOM;PL;3
+주식	hisseleri	주식	hisse	N	N;NOM;PL;3
+주식	hisseler	주식	hisse	N	N;NOM;PL;3
+주식	paylaşımlar	주식	paylaşım	N	N;NOM;PL;3
+주식	hisse	주식	hisse	N	N;NOM;SG;3
+원주민	aborjinler	원주민	aborjin	N	N;NOM;PL;3
+서면	yazan	서+면	yaz		
+서면	yazılı	서+면	yazılı		
+매직	magic	매직	magic		
+매직	sihirli	매직	sihirli		
+매직	sihir	매직	sihir		
+매직	büyü	매직	büy		
+매직	büyülü	매직	büyül		
+질병	hastalık	질병	hastalık	N	N;NOM;SG;3
+질병	hastalıklar	질병	hastalık	N	N;NOM;PL;3
+질병	hastalık	질병	hastalık	N	N;NOM;SG;3
+질병	hastalık	질병	hastalık	N	N;NOM;SG;3
+질병	hastalık	질병	hastalık	N	N;NOM;SG;3
+질병	hastalıklar	질병	hastalık	N	N;NOM;PL;3
+질병	hastalıkları	질병	hastalık	N	N;NOM;PL;3
+질병	hastalıklara	질병	hastalık	N	N;DAT;PL;3
+일람	ilam	일람	ilam		
+드문	seyrek	드물+ㄴ	seyrek		
+드문	nadir	드물+ㄴ	nadir		
+드문	ender	드물+ㄴ	ende		
+노스	kuzey	노스	kuzey		
+너비	genişliği	너비	genişlik	N	N;NOM;SG;3
+겐지	kenji	거+이+ㄴ지	kenji		
+현실	gerçeklik	현실	gerçeklik	N	N;NOM;SG;3
+공급	malzemeler	공급	malzeme	N	N;NOM;PL;3
+공급	tedarik	공급	tedarik	N	N;NOM;SG;3
+몸무게	ağırlığı	몸무+게	ağırlık	N	N;NOM;SG;3
+몸무게	kilosu	몸무+게	kilo	N	N;NOM;SG;3
+절반	yarı	절반	yarı		
+절반	yarim	절반	yarim		
+절반	yarım	절반	yarım		
+캐스트	alçı	캐스트	alçı		
+캐스트	döküm	캐스트	dök		
+캐스트	atın	캐스트	at		
+앤디	andy	앤디	andy		
+하시모토	hashimoto	하시모토	hashimoto		
+게이트	gate	게이트	gate		
+게이트	geçit	게이트	geçit		
+식당	yemek	식당	yemek	N	N;NOM;SG;3
+식당	restoranlar	식당	restoran	N	N;NOM;PL;3
+식당	restoran	식당	restoran	N	N;NOM;SG;3
+식당	lokanta	식당	lokan	N	N;NOM;SG;3
+식당	lokantası	식당	lokanta	N	N;NOM;SG;3
+식당	restaurant	식당	restaurant	N	N;NOM;SG;3
+발자취	ayak	발자취	ayak	N	N;NOM;SG;3
+변형	dönüşümü	변형	dönüşüm	N	N;ACC;SG;3
+캡틴	yüzbaşı	캡틴	yüzbaşı		
+캡틴	kaptan	캡틴	kaptan		
+엔지니어	mühendis	엔지니+어	mühendis		
+엔지니어	makinist	엔지니+어	makinist		
+알루미늄	alüminyum	알루미늄	alüm	N	N;NOM;SG;3
+알루미늄	alüminyum	알루미늄	alüm	N	N;NOM;SG;3
+카토	kato	카토	kato		
+카토	cato	카토	cato		
+위도	enlem	위도	enlem	N	N;NOM;SG;3
+호랑이	tiger	호랑이	tiger		
+호랑이	kaplan	호랑이	kaplan		
+기둥	köşe	기둥	köşe		
+기둥	kol	기둥	kol		
+기둥	sütun	기둥	sütun		
+기둥	sütun	기둥	sütun		
+기둥	sütun	기둥	sütun		
+보너스	bonus	보너스	bonus		
+보너스	prim	보너스	prim		
+보너스	bonus	보너스	bonus		
+디스플레이	ekran	디스플레이	ekran	N	N;NOM;SG;3
+디스플레이	görünüm	디스플레이	görün	N	N;NOM;SG;3
+디스플레이	gösteriler	디스플레이	göster	N	N;NOM;PL;3
+디스플레이	görüntüler	디스플레이	görüntü	N	N;NOM;PL;3
+양식	formlar	양식	form	N	N;NOM;PL;3
+양식	formları	양식	form	N	N;ACC;PL;3
+상수	sabitleri	상수	sabit	N	N;NOM;PL;3
+선물	hediye	선물	hedi	N	N;NOM;SG;3
+선물	hediyeler	선물	hediye	N	N;NOM;PL;3
+선물	hediye	선물	hedi	N	N;NOM;SG;3
+선물	sunar	선물	sunar	N	N;NOM;SG;3
+선물	hediyeleri	선물	hediye	N	N;ACC;PL;3
+선물	hediyeler	선물	hediye	N	N;NOM;PL;3
+선물	hediye	선물	hedi	N	N;NOM;SG;3
+선물	hediye	선물	hedi	N	N;NOM;SG;3
+키는	yüksekliği	키+는	yükseklik	N	N;ACC;SG;3
+키는	yükseklik	키+는	yükseklik	N	N;NOM;SG;3
+키는	boyu	키+는	boy	N	N;NOM;SG;3
+결의	çözünürlük	결의	çözünürlük	N	N;NOM;SG;3
+보호하기	koruyor	보호+하+기	kor	V	V;PROG;IND;SG;3;POS;INFM;PRS
+보호하기	korunması	보호+하+기	korun	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+보호하기	korumak	보호+하+기	koru	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+보호하기	koruyun	보호+하+기	koru	V	V;PFV;IMP;PL;2;POS;PRS
+보호하기	korumak	보호+하+기	koru	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+순서	sipariş	순서	sipariş	N	N;NOM;SG;3
+순서	sipariş	순서	sipariş	N	N;NOM;SG;3
+순서	dizi	순서	dizi	N	N;NOM;SG;3
+순서	dizisi	순서	dizi	N	N;NOM;SG;3
+이시다	ishida	이+시+다	ishi		
+대리	proxy	대리	proxy	N	N;NOM;SG;3
+비타민	vitamini	비타민	vitam	N	N;NOM;SG;3
+개성	kaesong	개성	kaesong		
+코러스	koro	코러스	koro		
+광산	madencilik	광산	madencilik	N	N;NOM;SG;3
+기기	cihazlar	기기	cihaz	N	N;NOM;PL;3
+기기	aygıtlar	기기	aygıt	N	N;NOM;PL;3
+천문학자	astronomlar	천문학자	astronom	N	N;NOM;PL;3
+영향력	etki	영향력	etki		
+영향력	çarpma	영향력	çarp		
+영향력	darbe	영향력	darbe		
+영향력	etki	영향력	etki		
+영향력	nüfuz	영향력	nüfuz		
+임금	maaş	임금	maaş		
+켈리	kelly	켈리	kelly		
+켈리	kelley	켈리	kelley		
+정말로	gercekten	정말로	gercek	ADV	ADV
+정말로	gerçekten	정말로	gerçekten	ADV	ADV
+판결	karar	판결	karar	N	N;NOM;SG;3
+솔로몬	süleyman	솔로몬	süleyman		
+미친	deli	미치+ㄴ	deli		
+미친	deliyim	미치+ㄴ	deliy		
+미친	çılgın	미치+ㄴ	çılgın		
+미친	manyak	미치+ㄴ	manyak		
+사과	özür	사과	özür		
+사과	elma	사과	elma		
+사과	apple	사과	appl		
+사과	elmalı	사과	el		
+사과	özür	사과	özür		
+사과	elma	사과	elma		
+사과	elmalar	사과	el		
+온천	onsen	온천	onsen	N	N;NOM;SG;3
+신지	shinji	신+지	shinji		
+파울	paul	파울	paul		
+클라크	clark	클라크	clark		
+박스	box	박스	box		
+박스	kutu	박스	kutu		
+박스	kutu	박스	kutu		
+친구들	arkadaşlar	친구+들	arkadaş	N	N;NOM;PL;3
+친구들	arkadaslar	친구+들	arkadas	N	N;NOM;PL;3
+방언	lehçesi	방언	lehçe	N	N;NOM;SG;3
+집안	hane	집안	hane		
+수술	ameliyat	수술	ameliyat	N	N;NOM;SG;3
+수술	cerrahi	수술	cerrahi	N	N;NOM;SG;3
+수술	ameliyatlar	수술	ameliyat	N	N;NOM;PL;3
+문명	medeniyet	문명	medeniyet	N	N;NOM;SG;3
+문명	uygarlık	문명	uygarlık	N	N;NOM;SG;3
+문명	medeniyetler	문명	medeniyet	N	N;NOM;PL;3
+앉아	otur	앉+아	otur	V	V;PFV;IMP;SG;2;POS;PRS
+마법사	sihirbazı	마법사	sihirbazı		
+마법사	büyücü	마법사	büyücü		
+마법사	sihirbaz	마법사	sihirbaz		
+마법사	sihirbaz	마법사	sihirbaz		
+이슬람교	müslümanlar	이슬람교	müslüman	N	N;NOM;PL;3
+에히메	ehime	에히메	eh		
+허가	izinleri	허+가	izin	N	N;ACC;PL;3
+허가	izinler	허+가	izinle	N	N;NOM;PL;3
+마라톤	maraton	마라톤	maraton		
+올리버	oliver	올리버	oliver		
+라면	ramen	라면	ramen		
+흡수	emme	흡수	em		
+흡수	emilim	흡수	emilim		
+흡수	absorbe	흡수	absorbe		
+흡수	emici	흡수	emici		
+사자	aslan	사자	aslan		
+커버	kaplı	커버	kaplı		
+커버	koru	커버	koru		
+커버	kapak	커버	kapak		
+라스트	last	라스트	last		
+라스트	sonuncu	라스트	sonuncu		
+라스트	son	라스트	son		
+복사	kopyalar	복사	kopya	N	N;NOM;PL;3
+복사	kopyaları	복사	kopya	N	N;ACC;PL;3
+토요타	toyota	토요타	toyo	N	N;NOM;SG;3
+파이터	savaşçı	파이터	savaşçı		
+체스	satranç	체스	satranç	N	N;NOM;SG;3
+아홉	dokuzu	아홉	dokuz		
+아홉	dokuz	아홉	dokuz		
+우라늄	uranyum	우라늄	uranyu	N	N;NOM;SG;3
+수도원	manastırı	수도원	manastırı	N	N;ACC;SG;3
+수도원	manastırlar	수도원	manas	N	N;NOM;PL;3
+무한	sonsuz	무하+ㄴ	sonsuz		
+승객	yolcusu	승객	yolcu	N	N;NOM;SG;3
+승객	yolcular	승객	yolcu	N	N;NOM;PL;3
+승객	yolcuları	승객	yolcu	N	N;ACC;PL;3
+콘퍼런스	konferans	콘퍼런스	konferans		
+혼인	evlilik	혼인	evlilik	N	N;NOM;SG;3
+노란색	sari	노란색	sari		
+노란색	sarı	노란색	sarı		
+춘천	chuncheon	춘천	chunche		
+소프트	yumuşak	소프트	yumuşak		
+주지사	vali	주지사	vali		
+배드민턴	badminton	배드민턴	badminton	N	N;NOM;SG;3
+사토시	satoshi	사토시	satoshi		
+행정학	yönetimi	행정학	yönetim	N	N;NOM;SG;3
+와일드	vahşi	와일드	vahşi		
+와일드	wild	와일드	wild		
+와일드	çılgın	와일드	çılgın		
+와일드	yaban	와일드	yaban		
+와일드	yabani	와일드	yabani		
+와일드	yabani	와일드	yabani		
+소총	tüfek	소총	tüfek	N	N;NOM;SG;3
+소총	tüfekler	소총	tüfek	N	N;NOM;PL;3
+소총	tüfek	소총	tüfek	N	N;NOM;SG;3
+심리학	psikolojisi	심리학	psikoloji	N	N;NOM;SG;3
+카프	karp	카프	karp		
+경도	boylam	경도	boylam	N	N;NOM;SG;3
+아이템	eşyalar	아이템	eşya	N	N;NOM;PL;3
+아이템	ürünler	아이템	ürün	N	N;NOM;PL;3
+로얄	kraliyet	로얄	kraliyet		
+로얄	royal	로얄	royal		
+수송	ulaşım	수송	ulaşım	N	N;NOM;SG;3
+파티	partiler	파티	parti	N	N;NOM;PL;3
+느낌이	titreşimler	느끼+ㅁ+이	titreşim	N	N;NOM;PL;3
+느낌이	hisler	느끼+ㅁ+이	his	N	N;NOM;PL;3
+화장실	tuvalet	화장실	tuvalet	N	N;NOM;SG;3
+화장실	tuvalet	화장실	tuvalet	N	N;NOM;SG;3
+화장실	tuvalet	화장실	tuvalet	N	N;NOM;SG;3
+러셀	russel	러셀	russel		
+러셀	russell	러셀	russell		
+관심	dikkat	관심	dikkat	N	N;NOM;SG;3
+관심	faizi	관심	faiz	N	N;NOM;SG;3
+출구	çıkışı	출구	çıkış	N	N;ACC;SG;3
+출구	çıkışlar	출구	çıkış	N	N;NOM;PL;3
+출구	çıkışları	출구	çıkış	N	N;ACC;PL;3
+즐길	keyif	즐기+ㄹ	keyif		
+닌자	ninja	닌자	ninja		
+곤충	böcekler	곤충	böcek	N	N;NOM;PL;3
+곤충	böcekleri	곤충	böcek	N	N;ACC;PL;3
+곤충	böcekler	곤충	böcek	N	N;NOM;PL;3
+곤충	hatalar	곤충	hata	N	N;NOM;PL;3
+에디	eddie	에디	et		
+에디	eddy	에디	et		
+윙어	winger	피+어	winger		
+발레	bale	발레	bale		
+협상	pazarlık	협상	pazarlık	N	N;NOM;SG;3
+협상	müzakere	협상	müzakere	N	N;NOM;SG;3
+협상	pazarlık	협상	pazarlık	N	N;NOM;SG;3
+협상	müzakere	협상	müzakere	N	N;NOM;SG;3
+협상	müzakerelerin	협상	müzakere	N	N;GEN;PL;3
+협상	pazarlık	협상	pazarlık	N	N;NOM;SG;3
+협상	müzakereler	협상	müzakere	N	N;NOM;PL;3
+히카루	hikaru	히카루	hikaru		
+메이	mae	메이	mae		
+애플리케이션	uygulama	애플리케이션	uygulama		
+애플리케이션	başvuru	애플리케이션	başvuru		
+무릎	diz	무릎	i		
+무릎	diz	무릎	i		
+절차	süreç	절차	süreç		
+절차	işlem	절차	işlem		
+절차	prosedür	절차	prosedür		
+음료	içkiler	음료	içki	N	N;NOM;PL;3
+음료	içkiler	음료	içki	N	N;NOM;PL;3
+환상	fantazi	환상	fantazi		
+환상	fantezi	환상	fantezi		
+환상	illüzyon	환상	illüzyon		
+환상	illüzyon	환상	illüzyon		
+마키	maki	마키	maki		
+가능성	olasılık	가능성	olasılık	N	N;NOM;SG;3
+가능성	olasılıklar	가능성	olasılık	N	N;NOM;PL;3
+가능성	olasılıklar	가능성	olasılık	N	N;NOM;PL;3
+가능성	olasılık	가능성	olasılık	N	N;NOM;SG;3
+가능성	ihtimaller	가능성	ihtimal	N	N;NOM;PL;3
+가능성	olasılıkları	가능성	olasılık	N	N;NOM;PL;3
+가능성	olanaklar	가능성	olanak	N	N;NOM;PL;3
+신고	raporlama	신+고	raporlama		
+제리	gerry	제리	gerry		
+제리	jerry	제리	jerry		
+멀티	çoklu	멀티	çoklu		
+멀티	multi	멀티	multi		
+조치	tedbirler	조치	tedbir	N	N;NOM;PL;3
+어깨	omuz	어깨	omuz		
+어깨	omuza	어깨	omuz		
+기생	parazit	기생	parazit		
+기생	asalak	기생	asalak		
+기생	parazit	기생	parazit		
+수천	binlerce	수천	binlerce	NUM	NUM
+원시	ilkel	원시	ilkel		
+학위	derecesi	학위	derece	N	N;NOM;SG;3
+학위	diploma	학위	diplom	N	N;NOM;SG;3
+에디션	baskı	에디션	baskı		
+딸이	kizi	딸+이	kizi		
+택시	taksiyle	택시	taks	N	N;INS;SG;3
+스프링	ilkbahar	스프링	ilkbahar		
+스프링	yay	스프링	yay		
+스프링	bahar	스프링	bahar		
+스프링	pınar	스프링	pınar		
+망원경	teleskop	망원경	teleskop	N	N;NOM;SG;3
+망원경	teleskoplar	망원경	teleskop	N	N;NOM;PL;3
+망원경	teleskop	망원경	teleskop	N	N;NOM;SG;3
+로열	kraliyet	로열	kraliyet		
+로열	royal	로열	royal		
+프로세스	süreçleri	프로세스	süreç	N	N;ACC;PL;3
+페리	perry	페리	perry		
+렌즈	lensler	렌즈	lens	N	N;NOM;PL;3
+진실	hakikat	진실	hakikat		
+진실	gerçek	진실	gerçek		
+산악	mountain	산악	mountain	N	N;NOM;SG;3
+고든	gordon	고든	gor		
+재산	mülkiyet	재산	mülkiyet	N	N;NOM;SG;3
+재산	emlak	재산	emlak	N	N;NOM;SG;3
+재산	gayrimenkul	재산	gayrimenkul	N	N;NOM;SG;3
+재산	zenginlik	재산	zenginlik	N	N;NOM;SG;3
+스퀘어	karesi	스퀘어	kare		
+스퀘어	meydan	스퀘어	meydan		
+스퀘어	kare	스퀘어	kare		
+변신	dönüşümü	변신	dönüşüm	N	N;ACC;SG;3
+운송	taşımacılık	운송	taşımacılık	N	N;NOM;SG;3
+운송	ulaşım	운송	ulaşım	N	N;NOM;SG;3
+운송	ulaşım	운송	ulaşım	N	N;NOM;SG;3
+리얼	real	리얼	real		
+리얼	gercek	리얼	gercek		
+리얼	reel	리얼	reel		
+리얼	gerçek	리얼	gerçek		
+도움	imdat	도움	imdat		
+도움	yardim	도움	yardim		
+레이싱	yarış	레이싱	yarış		
+스톤	taş	스톤	taş		
+스톤	tas	스톤	tas		
+협약	anlaşmalar	협약	anlaş	N	N;NOM;PL;3
+반복	döngüsü	반복	döngü	N	N;NOM;SG;3
+핑크	pink	핑크	pink		
+핑크	pembe	핑크	pembe		
+재능	yetenekler	재능	yetenek	N	N;NOM;PL;3
+재능	yetenekleri	재능	yetenek	N	N;NOM;PL;3
+재능	yetenek	재능	yetenek	N	N;NOM;SG;3
+대지	earth	대+지	earth		
+대지	toprak	대+지	toprak		
+대지	dünya	대+지	dünya		
+대지	yeryüzü	대+지	yeryüzü		
+실버	gümüş	실버	gümüş		
+부품	parçası	부품	parça	N	N;NOM;SG;3
+부품	parçalar	부품	parça	N	N;NOM;PL;3
+부품	parçaları	부품	parça	N	N;ACC;PL;3
+부품	bileşenleri	부품	bileş	N	N;ACC;PL;3
+부품	parçalar	부품	parça	N	N;NOM;PL;3
+근데	fakat	근데	fakat		
+통제	kumanda	통제	kumanda	N	N;NOM;SG;3
+통제	kontroller	통제	kontrol	N	N;NOM;PL;3
+통제	kontrolleri	통제	kontrol	N	N;ACC;PL;3
+커서	imleç	크+어서	imleç		
+선교사	misyonerler	선교사	misyoner	N	N;NOM;PL;3
+애덤	adem	애덤	adem		
+해피	happy	해피	happy		
+시베리아	sibirya	시베리아	sibirya		
+시베리아	sibirya	시베리아	sibirya		
+담배	sigaralar	담배	sigara	N	N;NOM;PL;3
+명문	prestijli	명문	prestijli		
+명문	saygın	명문	saygın		
+추기경	kardinaller	추기+경	kardinal	N	N;NOM;PL;3
+거짓	sahte	거짓	sahte		
+프로모션	promosyon	프로모션	promosyon		
+프로모션	promosyon	프로모션	promosyon		
+프로모션	terfi	프로모션	terfi		
+프로모션	promosyon	프로모션	promosyon		
+프로모션	tanıtım	프로모션	tanıtım		
+커널	çekirdeği	커널	çekir	N	N;NOM;SG;3
+커널	taneleri	커널	tane	N	N;NOM;PL;3
+증후군	sendromu	증후군	sendromu	N	N;NOM;SG;3
+닫힌	kapalı	닫히+ㄴ	kapalı		
+닫힌	kapali	닫히+ㄴ	kapali		
+간호사	hemşireler	간호사	hemşire	N	N;NOM;PL;3
+간호사	hemşire	간호사	hemşire	N	N;NOM;SG;3
+익스플로러	explorer	익스플로러	explorer		
+익스플로러	kaşif	익스플로러	kaşif		
+강도	yoğunluk	강도	yoğunluk	N	N;NOM;SG;3
+강도	yoğunluğu	강도	yoğunluk	N	N;ACC;SG;3
+강도	soyguncusu	강도	soyguncu	N	N;NOM;SG;3
+강도	hırsızlık	강도	hırsızlık	N	N;NOM;SG;3
+고쳐	düzelt	고치+어	düzelt	V	V;PFV;IMP;SG;2;POS;PRS
+적용된다	uygulanır	적용+되+ㄴ다	uygula	V	V;IPFV;IND;SG;3;POS;PASS
+사카모토	sakamoto	사카모토	sakamoto		
+설립자	kurucusu	설립자	kurucu	N	N;NOM;SG;3
+레비	levi	레비	levi		
+대학생	üniversite	대학생	üniversite		
+대학생	kolej	대학생	kolej		
+검토	gözden	검토	göz	N	N;AT+ABL;SG;3
+좌석	koltuklar	좌석	koltuk	N	N;NOM;PL;3
+좌석	koltuk	좌석	koltuk	N	N;NOM;SG;3
+민족주의	milliyetçilik	민족주의	milliyetçilik	N	N;NOM;SG;3
+스크린	ekranlar	스크린	ekran		
+밀도	yoğunluk	밀도	yoğunluk	N	N;NOM;SG;3
+밀도	yoğunluğu	밀도	yoğunluk	N	N;ACC;SG;3
+당신은	sen	당신+은	sen	PRO	PRO;NOM;SG;2
+당신은	seni	당신+은	sen	PRO	PRO;ACC;SG;2
+당신은	siz	당신+은	siz	PRO	PRO;NOM;PL;2
+옵티머스	optimus	옵티머스	optimus		
+시마네	shimane	시마네	shimane		
+구름	bulutların	구름	bulut	N	N;GEN;PL;3
+구름	bulutlara	구름	bulut	N	N;DAT;PL;3
+구름	bulutlar	구름	bulut	N	N;NOM;PL;3
+늑대	kurtlar	늑대	kurt	N	N;NOM;PL;3
+늑대	kurtlar	늑대	kurt	N	N;NOM;PL;3
+늑대	kurdu	늑대	kurt	N	N;NOM;SG;3
+퀴즈	trivia	퀴즈	trivia		
+서브	denizaltı	서브	denizaltı	N	N;NOM;SG;3
+해산	görevden	해산	görev	N	N;AT+ABL;SG;3
+상인	tüccar	상인	tüccar		
+사이먼	simon	사이먼	simon		
+맥주	biralar	맥주	bira	N	N;NOM;PL;3
+리모델링	tadilat	리모델링	tadilat		
+대니얼	daniel	대니+란	daniel		
+저항	direniş	저항	direniş	N	N;NOM;SG;3
+약속	vaat	약속	vaat		
+약속	soz	약속	soz		
+약속	söz	약속	söz		
+사무실	ofisleri	사무실	ofis	N	N;ACC;PL;3
+경제학자	ekonomistler	경제학자	ekonomist	N	N;NOM;PL;3
+코지	koji	코지	koji		
+데스크톱	site	데스크톱	sit	N	N;NOM;SG;3
+비서	sekreterler	비서	sekret	N	N;NOM;PL;3
+비서	sekreterlik	비서	sekreterlik	N	N;NOM;SG;3
+비서	sekreteri	비서	sekreter	N	N;ACC;SG;3
+얇은	zayıf	얇+은	zayıf		
+니콜라	nicola	니콜라	nicola		
+니콜라	nikola	니콜라	nikol		
+갈등	anlaşmazlık	갈등	anlaşmazlık	N	N;NOM;SG;3
+모던	modern	모던	modern		
+모던	çağdaş	모던	çağdaş		
+세라	sarah	세라	sarah		
+세라	sara	세라	sara		
+철쭉	demir	철쭉	demir		
+철쭉	ütü	철쭉	ütü		
+속성	öznitelik	속성	öznitelik	N	N;NOM;SG;3
+속성	mülkiyet	속성	mülkiyet	N	N;NOM;SG;3
+속성	emlak	속성	emlak	N	N;NOM;SG;3
+속성	gayrimenkul	속성	gayrimenkul	N	N;NOM;SG;3
+속성	özellikler	속성	özellik	N	N;NOM;PL;3
+속성	emlak	속성	emlak	N	N;NOM;SG;3
+속성	özellikleri	속성	özellik	N	N;NOM;PL;3
+속성	özellikler	속성	özellik	N	N;NOM;PL;3
+속성	özellikleri	속성	özellik	N	N;NOM;PL;3
+정통	hakiki	정통	hakiki		
+쇠고기	et	쇠고기	et		
+쇠고기	biftek	쇠고기	biftek		
+유효	geçerli	유효	geçerli		
+유효	geçerlidir	유효	geç		
+포스	zorla	포스	zor		
+포스	force	포스	force		
+포스	kuvvet	포스	kuvvet		
+포스	güç	포스	güç		
+달라	farkli	달+라	farkli		
+달라	değişik	달+라	değişik		
+페이스	pace	페이스	pace		
+페이스	tempo	페이스	tempo		
+앤서니	anthony	뛰서+니	anthony		
+앤서니	antony	뛰서+니	antony		
+동굴	mağarası	동굴	mağara	N	N;NOM;SG;3
+동굴	mağaralar	동굴	mağara	N	N;NOM;PL;3
+동굴	grotto	동굴	grotto	N	N;NOM;SG;3
+지붕	çatıları	지붕	çat	N	N;ACC;PL;3
+버진	bakire	버지+ㄴ	bakire		
+버진	bakir	버지+ㄴ	bakir		
+그레이	gray	그레이	gray		
+그레이	gri	그레이	gri		
+그레이	grey	그레이	grey		
+그레이	gri	그레이	gri		
+방패	kalkanları	방패	kalkan	N	N;ACC;PL;3
+방패	kalkanlar	방패	kalkan	N	N;NOM;PL;3
+아웃	dışarı	아웃	dışarı		
+디지몬	digimon	디지몬	digimon		
+풍경	manzara	풍경	manzara	N	N;NOM;SG;3
+풍경	manzara	풍경	manzara	N	N;NOM;SG;3
+감시	gözetim	감시	gözet	N	N;NOM;SG;3
+느린	yavaş	느리+ㄴ	yavaş	ADJ	ADJ
+오바마	obama	오바마	oba		
+세븐	seven	세븐	sev		
+세븐	yedi	세븐	yedi		
+트랜스포머	transformatörler	트랜스포머	transformatör	N	N;NOM;PL;3
+연쇄	zincir	연쇄	zincir	N	N;NOM;SG;3
+시칠리아	sicilya	시칠리아	sicilya		
+시칠리아	sicilya	시칠리아	sicilya		
+시칠리아	sicilyalı	시칠리아	sicilyalı		
+문법	dilbilgisi	문법	dilbilgi	N	N;NOM;SG;3
+문법	sözdizimi	문법	sözdizim	N	N;ACC;SG;3
+기숙사	yurtta	기숙사	yurt	N	N;NOM;SG;3
+이해하기	anlıyor	이해+하+기	anla	V	V;PROG;IND;SG;3;POS;INFM;PRS
+이해하기	anlamak	이해+하+기	anla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+이해하기	anlayın	이해+하+기	anla	V	V;PFV;IMP;PL;2;POS;PRS
+이해하기	anlamak	이해+하+기	anla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+머신	makine	머신	makine	N	N;NOM;SG;3
+머신	makinalar	머신	makina	N	N;NOM;PL;3
+머신	makine	머신	makine	N	N;NOM;SG;3
+머신	makineler	머신	makine	N	N;NOM;PL;3
+소행성	asteroit	소행성	asteroit	N	N;NOM;SG;3
+소행성	asteroit	소행성	asteroit	N	N;NOM;SG;3
+소행성	göktaşları	소행성	göktaş	N	N;NOM;PL;3
+의류	kıyafet	의류	kıyafet	N	N;NOM;SG;3
+의류	kıyafetler	의류	kıyafet	N	N;NOM;PL;3
+플래닛	gezegen	플래닛	gezegen		
+드라이버	sürücü	드라이버	sürücü		
+드라이버	şoför	드라이버	şoför		
+드라이버	şöför	드라이버	şöför		
+켄지	kenji	켄지	kenji		
+화폐	döviz	화폐	döviz	N	N;NOM;SG;3
+크리에이티브	yaratıcı	크리에이티브	yaratıcı		
+크리에이티브	kreatif	크리에이티브	kreatif		
+갈등이	anlaşmazlık	갈등+이	anlaşmazlık	N	N;NOM;SG;3
+소비자	tüketiciler	소비자	tüketici	N	N;NOM;PL;3
+명령어	öğretim	명령+어	öğretim	N	N;NOM;SG;3
+명령어	komuta	명령+어	komut	N	N;NOM;SG;3
+기병	süvariler	기병	süvari	N	N;NOM;PL;3
+태도	tutum	태도	tutum		
+태도	tavır	태도	tavır		
+태도	duruş	태도	duruş		
+태도	tutum	태도	tutum		
+곡선	eğri	곡선	eğri		
+표기법	romanization	표기법	romanization	N	N;NOM;SG;3
+위험	riskleri	위험	risk	N	N;ACC;PL;3
+위험	riskler	위험	risk	N	N;NOM;PL;3
+위험	tehlikeli	위험	tehlikeli	N	N;NOM;SG;3
+위험	tehlikeler	위험	tehlike	N	N;NOM;PL;3
+위험	tehlike	위험	tehlike	N	N;NOM;SG;3
+레인	şerit	레인	şerit		
+맛이	tadında	맛+이	tat	N	N;ESS;SG;3
+맛이	tadı	맛+이	tat	N	N;NOM;SG;3
+보험	sigortası	보험	sigorta	N	N;NOM;SG;3
+계곡	vadi	계곡	vadi		
+계곡	vadisi	계곡	vadi		
+명인	halk	명인	halk		
+명인	millet	명인	millet		
+주권	egemenlik	주권	egemenlik	N	N;NOM;SG;3
+나루토	naruto	나루토	naruto		
+임신	gebelik	임신	gebelik	N	N;NOM;SG;3
+임신	gebelik	임신	gebelik	N	N;NOM;SG;3
+버튼	düğme	버튼	düğ		
+버튼	burton	버튼	burton		
+버튼	düğme	버튼	düğ		
+조니	johnnie	조니	johnni		
+조니	johnny	조니	johnny		
+견해	görüntüleme	견해	görüntüleme		
+도착했다	vardım	도착+하+었+다	var	V	V;PFV;IND;SG;1;POS;PST
+도착했다	geldi	도착+하+었+다	gel	V	V;PFV;IND;SG;3;POS;PST
+기어	vites	기+어	vites		
+기어	dişli	기+어	dişli		
+기어	dişli	기+어	dişli		
+기어	vites	기+어	vites		
+거짓말	yalan	거짓말	yalan		
+거짓말	yalan	거짓말	yalan		
+거짓말	yalan	거짓말	yalan		
+차별	ayrımcılık	차별	ayrımcılık	N	N;NOM;SG;3
+차별	ayrımcılık	차별	ayrımcılık	N	N;NOM;SG;3
+제니퍼	jennifer	제니퍼	jennifer		
+인류	insanlığı	인류	insanlık	N	N;ACC;SG;3
+인류	insanlık	인류	insanlık	N	N;NOM;SG;3
+인류	insanlık	인류	insanlık	N	N;NOM;SG;3
+웹툰	web	웹툰	web		
+웹툰	ağ	웹툰	ağ		
+수업	dersleri	수업	ders	N	N;NOM;PL;3
+수업	dersler	수업	ders	N	N;NOM;PL;3
+수업	sınıflar	수업	sınıf	N	N;NOM;PL;3
+수업	dersleri	수업	ders	N	N;NOM;PL;3
+수업	sınıfları	수업	sınıf	N	N;NOM;PL;3
+수업	dersler	수업	ders	N	N;NOM;PL;3
+수업	sınıf	수업	sınıf	N	N;NOM;SG;3
+생존	kurtulanlar	생존	kurtulan	N	N;NOM;PL;3
+모듈	modülleri	모듈	modül	N	N;NOM;PL;3
+모듈	modülü	모듈	modül	N	N;NOM;SG;3
+플라스틱	plastik	플라스틱	plastik		
+플라스틱	naylon	플라스틱	naylon		
+플라스틱	plastik	플라스틱	plastik		
+식량	yemekler	식량	yemek	N	N;NOM;PL;3
+식량	yemek	식량	yemek	N	N;NOM;SG;3
+확률	olasılık	확률	olasılık	N	N;NOM;SG;3
+패키지	paket	패키+지	paket		
+고스트	ghost	고스트	ghost		
+고스트	hayalet	고스트	hayalet		
+탐험가	kaşifler	탐험가	kaşif	N	N;NOM;PL;3
+리치	ritchie	리치	ritchi		
+리치	richie	리치	rich		
+리치	ricci	리치	ricci		
+혼합	karışık	혼합	karışık		
+혼합	karışık	혼합	karışık		
+혼합	karışım	혼합	karışım		
+어도비	adobe	어도비	adobe		
+합의	kabul	합의	kabul	N	N;NOM;SG;3
+차가운	soğuk	차갑+ㄴ	soğuk	ADJ	ADJ
+이거	bu	이거	bu		
+인지	bilişsel	인지	bilişsel		
+소프트뱅크	softbank	소프트뱅크	softbank		
+시몬	simone	시몬	simon		
+시몬	simon	시몬	simon		
+교향악단	orkestrası	교향+생단	orkestra	N	N;NOM;SG;3
+아이폰	iphone	아이폰	iphon	N	N;NOM;SG;3
+아이폰	iphone	아이폰	iphon	N	N;NOM;SG;3
+워드	koğuşu	워드	koğuş		
+워드	ward	워드	ward		
+워드	koğuş	워드	koğuş		
+워드	kelime	워드	kelim		
+워드	laf	워드	laf		
+워드	söz	워드	söz		
+워드	sözcük	워드	sözcük		
+프린스	prens	프린스	prens		
+프린스	prince	프린스	prince		
+컨테이너	kap	컨테이너	kap		
+빅터	victor	빅터	victor		
+자금	finansman	자금	finansman	N	N;NOM;SG;3
+자금	fonlar	자금	fon	N	N;NOM;PL;3
+초콜릿	çikolata	초콜릿	çikolata		
+초콜릿	çikolata	초콜릿	çikolata		
+무라카미	murakami	무라카미	murakami		
+네오	neo	네오	neo		
+루카	luca	루카	lica		
+레이스	irk	레이스	irk		
+레이스	yarış	레이스	yarış		
+레이스	dantelli	레이스	dantelli		
+치즈	peynirli	치즈	peynirli	N	N;ACC;SG;3
+치즈	peynir	치즈	peynir	N	N;NOM;SG;3
+치즈	peynir	치즈	peynir	N	N;NOM;SG;3
+슬픈	hüzün	슬프+ㄴ	hüzün		
+슬픈	üzgün	슬프+ㄴ	üzgün		
+슬픈	üzücü	슬프+ㄴ	üz		
+테이블	tablo	테이블	tablo		
+테이블	sofra	테이블	sofra		
+테이블	masa	테이블	masa		
+테이블	masa	테이블	masa		
+지혜	akıllı	지혜	akıllı		
+지혜	bilge	지혜	bilge		
+지혜	hikmet	지혜	hikmet		
+조셉	yusuf	조셉	yusuf		
+밀러	miller	밀+러	mil		
+싸이월드	psy	싸이월드	psy		
+승자	kazananlar	승자	kazanan	N	N;NOM;PL;3
+발발	ayak	발발	ayak	N	N;NOM;SG;3
+발발	ayağı	발발	ayak	N	N;NOM;SG;3
+발발	ayakları	발발	ayak	N	N;NOM;PL;3
+발발	ayak	발발	ayak	N	N;NOM;SG;3
+발발	ayaklar	발발	ayak	N	N;NOM;PL;3
+색상	renk	색상	renk		
+색상	rengi	색상	renk		
+색상	renkli	색상	renkli		
+색상	renk	색상	renk		
+색상	rengi	색상	renk		
+색상	renk	색상	renk		
+독도	zehir	독도	zehir		
+독도	zehirli	독도	zehirli		
+태그	etiketle	태그	etiket	N	N;INS;SG;3
+태그	etiketler	태그	etiket	N	N;NOM;PL;3
+태그	etiketleri	태그	etiket	N	N;NOM;PL;3
+육지	toprak	육지	toprak		
+육지	arazi	육지	arazi		
+육지	kara	육지	kara		
+수리	tamiri	수리	tamir	N	N;NOM;SG;3
+테리	terry	테리	terry		
+프레임	çerçeveleri	프레임	çerçeve	N	N;ACC;PL;3
+프레임	çerçeve	프레임	çerçev	N	N;NOM;SG;3
+프레임	çerçevesi	프레임	çerçeve	N	N;NOM;SG;3
+프레임	çerçeve	프레임	çerçev	N	N;NOM;SG;3
+프레임	çerçeve	프레임	çerçev	N	N;NOM;SG;3
+인형	bebekler	인형	bebek	N	N;NOM;PL;3
+인형	bebekleri	인형	bebek	N	N;NOM;PL;3
+재생	oyunlar	재생	oyun	N	N;NOM;PL;3
+얼굴이	yüzün	얼굴+이	yüz	N	N;NOM;SG;3
+얼굴이	yüzünü	얼굴+이	yüz	N	N;ACC;SG;3
+얼굴이	yüzü	얼굴+이	yüz	N	N;ACC;SG;3
+아리랑	arirang	아리랑	arirang		
+바위	taş	바위	taş		
+바위	kaya	바위	kay		
+바위	taş	바위	taş		
+바위	kaya	바위	kay		
+바위	rock	바위	rock		
+기적	mucize	기적	mucize		
+기적	mucizevi	기적	mucizevi		
+기적	mucize	기적	mucize		
+희망	umutlar	희망	umut	N	N;NOM;PL;3
+희망	umutları	희망	umut	N	N;NOM;PL;3
+터보	kızak	터보	kızak	N	N;NOM;SG;3
+공휴일	bayramlar	공휴+이+ㄹ	bayram	N	N;NOM;PL;3
+공휴일	tatiller	공휴+이+ㄹ	tatil	N	N;NOM;PL;3
+공휴일	tatilleri	공휴+이+ㄹ	tatil	N	N;ACC;PL;3
+경험	deneyimler	경험	deneyim	N	N;NOM;PL;3
+경험	deneyimleri	경험	deneyim	N	N;ACC;PL;3
+경험	deneyimi	경험	deney	N	N;ACC;SG;3
+필수	gerekli	필수	gerekli		
+필수	zorunlu	필수	zorunlu		
+필수	gereklidir	필수	gerekli		
+필수	zorunlu	필수	zorunlu		
+필수	mecburi	필수	mecburi		
+필수	gerekli	필수	gerekli		
+필수	şart	필수	şart		
+베이	koyu	베이	koyu		
+베이	körfez	베이	körfez		
+베이	defne	베이	defne		
+베이	bay	베이	bay		
+목성	jüpiter	목성	jüpiter	N	N;NOM;SG;3
+조절	regülatör	조절	regülatör	N	N;NOM;SG;3
+블레이드	blade	블레이드	blade		
+블레이드	bıçak	블레이드	bıçak		
+블레이드	kılıç	블레이드	kılıç		
+재난	felaketler	재난	felaket	N	N;NOM;PL;3
+재난	felaketler	재난	felaket	N	N;NOM;PL;3
+절대로	asla	절대로	asla		
+절대로	hic	절대로	hic		
+악마	iblisler	악마	iblis	N	N;NOM;PL;3
+악마	şeytanları	악마	şeytan	N	N;ACC;PL;3
+악마	şeytanlar	악마	şeytan	N	N;NOM;PL;3
+동기	nedeni	동기	neden	N	N;NOM;SG;3
+동기	motivasyon	동기	motivasyon	N	N;NOM;SG;3
+동기	sebepleri	동기	sebep	N	N;NOM;PL;3
+공산주의자	komünistler	공산주의자	komünist	N	N;NOM;PL;3
+누르면	dokun	누르+면	dokun		
+누르면	tap	누르+면	tap		
+아오야마	aoyama	아오야마	aoya		
+볼로냐	salam	볼+로+이+냐	salam		
+거울	ayna	거울	ayna		
+거울	ayna	거울	ayna		
+추천	tavsiye	추천	tavsiye		
+추천	seçme	추천	seç		
+추천	tavsiye	추천	tavsiye		
+업체	işyeri	업체	işyeri	N	N;NOM;SG;3
+업체	iş	업체	iş	N	N;NOM;SG;3
+뱀파이어	vampir	뱀파+이+어	vampir		
+뱀파이어	vampire	뱀파+이+어	vampire		
+행렬	matrisler	행렬	matris	N	N;NOM;PL;3
+행렬	alayı	행렬	alay	N	N;ACC;SG;3
+파충류	sürüngenler	파충류	sürünge	N	N;NOM;PL;3
+파충류	sürüngen	파충류	sürünge	N	N;NOM;SG;3
+파충류	sürüngenler	파충류	sürünge	N	N;NOM;PL;3
+스파이	casus	스파+이	casus		
+매월	aylık	매월	aylık		
+스펙트럼	spectra	스펙트럼	spectra		
+준주	bölgesi	준주	bölge	N	N;NOM;SG;3
+센서	alıcılar	세+어서	alıcı	N	N;NOM;PL;3
+센서	sensörleri	세+어서	sensör	N	N;ACC;PL;3
+센서	sensörler	세+어서	sensör	N	N;NOM;PL;3
+센서	sensör	세+어서	sensör	N	N;NOM;SG;3
+센서	algılayıcılar	세+어서	algılayıcı	N	N;NOM;PL;3
+센서	sensör	세+어서	sensör	N	N;NOM;SG;3
+불꽃	alev	불꽃	alev		
+불꽃	alevi	불꽃	alevi		
+불꽃	alev	불꽃	alev		
+제재	yaptırımlar	제재	yap	N	N;NOM;PL;3
+스트라이크	strike	스트라이크	strik		
+스트라이크	grev	스트라이크	grev		
+스핀	spin	스핀	spin		
+스핀	dönüş	스핀	dönüş		
+싸움	dövüş	싸움	dövüş		
+싸움	mücadele	싸움	mücadele		
+깊게	derine	깊+게	derin		
+깊게	derin	깊+게	derin		
+깊게	deep	깊+게	deep		
+바이어	beyer	바이어	beyer		
+바이어	bayer	바이어	bayer		
+다양체	çeşitlilik	다양체	çeşitlilik	N	N;NOM;SG;3
+다양체	çeşitliliği	다양체	çeşitlilik	N	N;NOM;SG;3
+퍼센트	yüzde	퍼센트	yüz		
+퍼센트	yüzdesi	퍼센트	yüzde		
+퍼센트	yüzde	퍼센트	yüz		
+법원	saray	법원	saray		
+법원	mahkeme	법원	mahkem		
+법원	court	법원	court		
+법원	adliye	법원	adli		
+법원	mahkeme	법원	mahkem		
+포럼	forum	포럼	forum		
+앵커	çapa	앵커	çapa		
+앵커	demir	앵커	demir		
+앵커	çapa	앵커	çapa		
+베이비	yavrum	베이비	yavrum		
+베이비	bebek	베이비	bebek		
+공국	prenslik	공국	prenslik	N	N;NOM;SG;3
+로컬	yerli	로컬	yerli		
+로컬	lokal	로컬	lokal		
+로컬	yöresel	로컬	yöresel		
+로컬	yerel	로컬	yerel		
+방위	defans	방위	defans	N	N;NOM;SG;3
+방위	defans	방위	defans	N	N;NOM;SG;3
+케이트	kate	케이트	kate		
+리오	aslan	리오	aslan		
+리오	leo	리오	leo		
+위안부	rahatlık	위안부	rahatlık	N	N;NOM;SG;3
+위안부	konfor	위안부	konfor	N	N;NOM;SG;3
+아우	kardeş	아우	kardeş		
+아우	birader	아우	birader		
+아우	kardes	아우	kardes		
+아우	abi	아우	abi		
+늦은	gec	늦+ㄴ	gec		
+늦은	geç	늦+ㄴ	geç		
+다들	herkez	다+들	herkez		
+거래	işlemleri	거래	işlem	N	N;ACC;PL;3
+거래	işlemler	거래	işlem	N	N;NOM;PL;3
+미분	diferansiyel	미분	diferansiyel	N	N;NOM;SG;3
+카오루	kaoru	카오루	kaoru		
+사무라이	samuray	사무라이	samuray		
+헤드	kafa	헤드	kafa		
+인기가요	popüler	인기+가요	popü		
+클라우드	bulut	클라우드	bulut		
+레스토랑	restoranlar	레스토랑	restoran	N	N;NOM;PL;3
+레스토랑	restoran	레스토랑	restoran	N	N;NOM;SG;3
+레스토랑	lokanta	레스토랑	lokan	N	N;NOM;SG;3
+레스토랑	lokantası	레스토랑	lokanta	N	N;NOM;SG;3
+레스토랑	restaurant	레스토랑	restaurant	N	N;NOM;SG;3
+문의	irtibat	문+의	irtibat		
+문의	bağlantı	문+의	bağlantı		
+문의	soruşturma	문+의	soruşturma		
+문의	sorgu	문+의	sorgu		
+문의	sorgulama	문+의	sorgulama		
+청색	blue	청색	blue	N	N;NOM;SG;3
+후원	destekle	후원	destek	N	N;INS;SG;3
+후원	desteği	후원	destek	N	N;NOM;SG;3
+후원	sponsoru	후원	sponsoru	N	N;ACC;SG;3
+벌써	zaten	벌써	zaten	ADV	ADV
+벌써	şimdiden	벌써	şimdiden	ADV	ADV
+쇼트	schott	쇼트	schott		
+쇼트	kisa	쇼트	kisa		
+브레이크	break	브레이크	break		
+브레이크	kır	브레이크	kır		
+브레이크	kırma	브레이크	kırma		
+브레이크	fren	브레이크	fren		
+브레이크	fren	브레이크	fren		
+이스트	doğu	이스트	doğu		
+아이즈	aizu	아이즈	aiz		
+동작	eylemler	동작	eylem	N	N;NOM;PL;3
+동작	eylemleri	동작	eylem	N	N;ACC;PL;3
+동작	hareketler	동작	hareket	N	N;NOM;PL;3
+동작	davranışı	동작	davranış	N	N;ACC;SG;3
+동작	davranışlar	동작	davranış	N	N;NOM;PL;3
+동작	davranış	동작	davranış	N	N;NOM;SG;3
+동작	davranışları	동작	davranış	N	N;NOM;PL;3
+루트	root	루트	root		
+루트	kök	루트	kök		
+러시아인	ruslar	러시아인	rus	N	N;NOM;PL;3
+러시아인	rusları	러시아인	rus	N	N;ACC;PL;3
+러시아인	ruslarla	러시아인	rus	N	N;INS;PL;3
+만남	toplantı	만남	toplantı	N	N;NOM;SG;3
+학교는	okula	학교+는	okul	N	N;DAT;SG;3
+학교는	okulumuz	학교+는	okul	N	N;NOM;SG;3
+학교는	okulu	학교+는	okul	N	N;NOM;SG;3
+환자	hastalar	환자	hasta	N	N;NOM;PL;3
+환자	hastalara	환자	hasta	N	N;DAT;PL;3
+가이드	rehberlik	가이드	rehberlik	N	N;NOM;SG;3
+가이드	rehberi	가이드	rehber	N	N;NOM;SG;3
+가이드	kılavuzu	가이드	kılavuz	N	N;ACC;SG;3
+장난	şakacı	장난	şakacı		
+장난	yaramaz	장난	yaramaz		
+장난	şaka	장난	şaka		
+원격	kumanda	원격	kumanda	N	N;NOM;SG;3
+강남	gangnam	강남	gangnam		
+개인용	şahsi	개인용	şahsi		
+개인용	kişisel	개인용	kişisel		
+히로유키	hiroyuki	히로유키	hiroyuki		
+에바	ava	에바	ava		
+에바	eva	에바	eva		
+동성애	eşcinsellik	동성애	eşcinsellik	N	N;NOM;SG;3
+타이거	tiger	타이거	tiger		
+타이거	kaplan	타이거	kaplan		
+사양	özellikler	사양	özellik	N	N;NOM;PL;3
+표시된	gösterilmiştir	표시+되+ㄴ	göster	V	V;PFV;NFH;SG;3;POS;PST;PASS
+표시된	gösteriliyor	표시+되+ㄴ	göster	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+표시된	gösterildi	표시+되+ㄴ	göster	V	V;PFV;IND;SG;3;POS;PST;PASS
+표시된	gösterilen	표시+되+ㄴ	göster	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+직경	çapı	직경	çapı	N	N;NOM;SG;3
+복수	intikamı	복수	intikam	N	N;NOM;SG;3
+비스타	vista	비스타	vista		
+끝내기	bitir	끝내+기	bitir	V	V;PFV;IMP;SG;2;POS;PRS
+끝내기	bitir	끝내+기	bitir	V	V;PFV;IMP;SG;2;POS;PRS
+북동부	kuzeydoğu	북동부	kuzeydoğu		
+재료	madde	재료	madde	N	N;NOM;SG;3
+재료	malzemeleri	재료	malzeme	N	N;ACC;PL;3
+재료	malzemeler	재료	malzeme	N	N;NOM;PL;3
+재료	malzemeler	재료	malzeme	N	N;NOM;PL;3
+분해	çürüme	분해	çürü		
+분해	demonte	분해	demonte		
+일레븐	eleven	일레븐	eleven		
+일레븐	onbir	일레븐	onbir		
+분기	quarterly	분기	quarterly		
+분기	çeyrek	분기	çeyrek		
+분기	dal	분기	dal		
+분기	şube	분기	şube		
+짧게	kisa	짧+게	kisa		
+구조물	yapıları	구조물	yap	N	N;ACC;PL;3
+구조물	yapıların	구조물	yapı	N	N;GEN;PL;3
+구조물	yapılar	구조물	yap	N	N;NOM;PL;3
+구조물	yapısı	구조물	yapı	N	N;NOM;SG;3
+무명	isimsiz	무명	isimsiz		
+무명	adsız	무명	adsız		
+스승	hocam	스승	hocam	N	N;NOM;SG;3
+스승	öğretmenim	스승	öğretmen	N	N;NOM;SG;3
+초신성	süpernova	초신성	süpernova	N	N;NOM;SG;3
+차이나	çin	차이+나	çin		
+돼지	domuz	돼지	domuz		
+돼지	domuz	돼지	domuz		
+돼지	domuz	돼지	domuz		
+성직자	rahipler	성직자	rahip	N	N;NOM;PL;3
+초상화	portreler	초상화	portre	N	N;NOM;PL;3
+가설	hipotez	가설	hipotez	N	N;NOM;SG;3
+교리	doktrini	교리	doktr	N	N;ACC;SG;3
+밝고	parlak	밝+고	parlak		
+자선	sadaka	자선	sadaka	N	N;NOM;SG;3
+자선	sadaka	자선	sadaka	N	N;NOM;SG;3
+소송	davalar	소송	dava	N	N;NOM;PL;3
+필터	filtreler	필터	filtre	N	N;NOM;PL;3
+괴물	canavar	괴물	canavar		
+타임스	times	타임스	times		
+카터	carter	카터	carter		
+카오리	kaori	카오리	kaori		
+파트	kısım	파트	kısım		
+파트	bölüm	파트	bölüm		
+파트	part	파트	part		
+파트	kısmen	파트	kısmen		
+검은색	black	검은색	black		
+검은색	siyah	검은색	siyah		
+검은색	kara	검은색	kara		
+고딕	gotik	고딕	gotik		
+토미	tommy	토미	tommy		
+빌려	ödünç	빌리+어	ödünç		
+빌려	ödünç	빌리+어	ödünç		
+무어	moore	무어	moore		
+정복	ele	정복	el	N	N;DAT;SG;3
+사할린	sakhalin	사하+려	sakhal		
+영양	antilop	영양	antilop	N	N;NOM;SG;3
+영광	görkemli	영광	görkemli		
+영광	şanlı	영광	şanlı		
+영광	onur	영광	onur		
+영광	şeref	영광	şeref		
+영광	ihtişam	영광	ihtişam		
+영광	şeref	영광	şeref		
+영광	zafer	영광	zafer		
+영광	glory	영광	glory		
+중립성	tarafsızlık	중립성	tarafsızlık	N	N;NOM;SG;3
+접수	resepsiyon	접수	resepsiyon	N	N;NOM;SG;3
+개발자	geliştiriciler	개발자	geliş	N	N;NOM;PL;3
+웨스턴	batılı	웨스턴	batılı		
+웨스턴	batı	웨스턴	batı		
+풋살	futsal	풋살	futsal		
+듣기	dinliyor	듣+기	dinle	V	V;PROG;IND;SG;3;POS;INFM;PRS
+듣기	duyuyor	듣+기	duy	V	V;PROG;IND;SG;3;POS;INFM;PRS
+듣기	duyun	듣+기	duy	V	V;PFV;IMP;PL;2;POS;PRS
+듣기	dinliyor	듣+기	dinle	V	V;PROG;IND;SG;3;POS;INFM;PRS
+듣기	dinlemek	듣+기	dinle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+듣기	dinliyorum	듣+기	dinle	V	V;PROG;IND;SG;1;POS;INFM;PRS
+미카엘	michael	미카엘	michael		
+상금	ödül	상금	ödül		
+울프	wolfe	울프	oolfe		
+울프	wolf	울프	wolf		
+울프	wolff	울프	wolff		
+울프	kurt	울프	kurt		
+울프	wolf	울프	wolf		
+울프	kürt	울프	kürt		
+것들	şeyler	것+들	şey	N	N;NOM;PL;3
+알림	bildirimi	알리+ㅁ	bildirim	N	N;NOM;SG;3
+알림	uyarıları	알리+ㅁ	uyarı	N	N;NOM;PL;3
+알림	uyarılar	알리+ㅁ	uyarı	N	N;NOM;PL;3
+알림	bildirimleri	알리+ㅁ	bildirim	N	N;ACC;PL;3
+알림	bildirimler	알리+ㅁ	bil	N	N;NOM;PL;3
+알코올	alkollü	알코올	alkollü		
+알코올	alkolik	알코올	alkolik		
+알코올	alkollü	알코올	alkollü		
+알코올	alkol	알코올	alkol		
+보이즈	oğlanlar	보이즈	oğlan	N	N;NOM;PL;3
+보이즈	çocuklar	보이즈	çocuk	N	N;NOM;PL;3
+보이즈	cocuklar	보이즈	cocuk	N	N;NOM;PL;3
+라이더	atlı	라이더	atlı		
+라이더	süvari	라이더	süvari		
+라이더	sürücü	라이더	sürücü		
+라이더	rider	라이더	rider		
+라이더	binici	라이더	binici		
+저지	forma	저지	forma		
+조이	sevinç	종이	sevinç		
+조이	joy	종이	joy		
+조이	keyif	종이	keyif		
+조이	neşe	종이	neş		
+조이	zoey	종이	zoey		
+조이	joey	종이	joey		
+코트	palto	코트	palto		
+코트	ceket	코트	ceket		
+코트	palto	코트	palto		
+주위	çevresinde	주위	çevre	N	N;ESS;SG;3
+주위	çevrede	주위	çevre	N	N;ESS;SG;3
+주위	etrafta	주위	etraf	N	N;ESS;SG;3
+주위	etrafında	주위	etraf	N	N;ESS;SG;3
+보건	saglik	보건	saglik		
+싸워	dövüş	싸우+어	dövüş		
+싸워	mücadele	싸우+어	mücadele		
+하이브리드	melez	하이브리드	melez		
+하이브리드	melez	하이브리드	melez		
+항해	yelkenli	항하+어	yelkenli		
+항해	yelken	항하+어	yelken		
+항해	yelkenli	항하+어	yelkenli		
+항해	yelken	항하+어	yelken		
+과일	meyve	과일	meyve		
+과일	meyva	과일	meyva		
+과일	meyve	과일	meyve		
+과일	meyva	과일	meyva		
+아키코	akiko	아키코	akiko		
+네이트	nate	네이트	nate		
+고기	etler	고기	et	N	N;NOM;PL;3
+고기	etleri	고기	et	N	N;ACC;PL;3
+원본	kaynağı	원본	kaynak		
+원본	kaynak	원본	kaynak		
+원본	orijinal	원본	orijinal		
+원본	özgün	원본	özgün		
+원본	orjinal	원본	orjinal		
+원본	aslı	원본	aslı		
+마사키	masaki	마사키	masaki		
+증명	kimlik	증명	kimlik	N	N;NOM;SG;3
+탱크	tankı	탱크	tankı	N	N;NOM;SG;3
+탱크	tanklar	탱크	tank	N	N;NOM;PL;3
+탱크	tankları	탱크	tank	N	N;ACC;PL;3
+복음서	incili	복음서	incili		
+복음서	incil	복음서	incil		
+구경	tour	구경	tour	N	N;NOM;SG;3
+구경	tura	구경	tur	N	N;DAT;SG;3
+배포	dağıtımı	배포	dağıt	N	N;NOM;SG;3
+기대	beklenti	기대	beklenti		
+기대	beklenti	기대	beklenti		
+펜티엄	pentium	펜티엄	penti	N	N;NOM;SG;3
+제약	eczacılık	제약	eczacılık	N	N;NOM;SG;3
+제약	eczacılık	제약	eczacılık	N	N;NOM;SG;3
+천재	dahi	천재	dahi		
+천재	dâhi	천재	dâhi		
+천재	deha	천재	deha		
+천재	dahice	천재	dahice		
+트로이	truva	트로이	truv		
+항복	teslimiyet	항복	teslimiyet	N	N;NOM;SG;3
+배출	emisyonları	배출	emisyon	N	N;ACC;PL;3
+파랑	mavi	파랑	mavi		
+남매	kardeşleri	남매	kardeş	N	N;NOM;PL;3
+남매	kardeşler	남매	kardeş	N	N;NOM;PL;3
+다운	down	다우+ㄴ	down		
+다운	aşağı	다우+ㄴ	aşağ		
+도착	varış	도착	varış	N	N;NOM;SG;3
+베리	berry	배리	berry		
+전례	ayini	전례	ay	N	N;ACC;SG;3
+스틸러스	steelers	스틸러스	stee		
+북서부	kuzeybatı	북서부	kuzeybat		
+북서부	kuzeybatı	북서부	kuzeybat		
+멜로디	melody	멜로디	melody		
+멜로디	melodi	멜로디	melodi		
+아줌마	lady	아줌마	lady		
+아줌마	hanım	아줌마	hanım		
+아줌마	bayan	아줌마	bayan		
+오가와	ogawa	오가+와	oga		
+카나	kana	카+나	kana		
+드레스	elbise	드레스	elbise	N	N;NOM;SG;3
+드레스	gelinlik	드레스	gelinlik	N	N;NOM;SG;3
+드레스	elbise	드레스	elbise	N	N;NOM;SG;3
+드레스	elbiseler	드레스	elbise	N	N;NOM;PL;3
+콘테스트	yarışma	콘테스트	yarış		
+아기	yavrum	아기	yavrum		
+아기	bebek	아기	bebek		
+아사쿠라	asakura	아사쿠라	asakur		
+지향	oryantasyon	지향	oryantasyon	N	N;NOM;SG;3
+문명의	medeniyetler	문명+의	medeniyet	N	N;NOM;PL;3
+크라운	tacı	크랍+ㄴ	tacı		
+크라운	taç	크랍+ㄴ	taç		
+크라운	crown	크랍+ㄴ	crown		
+안드레아	andrea	안드레아	andrea		
+안드레아	andrew	안드레아	andrew		
+지폐	banknotlar	지폐	banknot	N	N;NOM;PL;3
+지폐	banknot	지폐	banknot	N	N;NOM;SG;3
+지폐	banknotlar	지폐	banknot	N	N;NOM;PL;3
+지폐	faturaları	지폐	fatura	N	N;ACC;PL;3
+지폐	banknot	지폐	banknot	N	N;NOM;SG;3
+객체	nesneler	객체	nesne	N	N;NOM;PL;3
+객체	nesneleri	객체	nesne	N	N;ACC;PL;3
+아인슈타인	einstein	아인슈타인	einste		
+기분	his	기분	his		
+기분	duygu	기분	duygu		
+기분	ruh	기분	ruh		
+한계	sınırlar	한계	sınır	N	N;NOM;PL;3
+한계	sınırları	한계	sınır	N	N;NOM;PL;3
+한계	limiti	한계	limit	N	N;NOM;SG;3
+한계	sınırı	한계	sınır	N	N;ACC;SG;3
+괄호	parantez	괄호	parantez		
+괄호	parantez	괄호	parantez		
+빨강	kirmizi	빨강	kirmiz		
+빨강	kızıl	빨강	kızıl		
+빨강	red	빨강	red		
+연승	çizgiler	연승	çizgi	N	N;NOM;PL;3
+질환	hastalık	질환	hastalık	N	N;NOM;SG;3
+질환	hastalıklar	질환	hastalık	N	N;NOM;PL;3
+질환	hastalık	질환	hastalık	N	N;NOM;SG;3
+커뮤니케이션	iletişim	커뮤니케이션	iletiş	N	N;NOM;SG;3
+커뮤니케이션	iletişim	커뮤니케이션	iletiş	N	N;NOM;SG;3
+대문	gate	대문	gate		
+대문	geçit	대문	geçit		
+파일럿	kılavuz	파일럿	kılavuz		
+파일럿	pilot	파일럿	pilot		
+예측	tahmini	예측	tahmin	N	N;NOM;SG;3
+예측	kehanetler	예측	kehanet	N	N;NOM;PL;3
+예측	tahminler	예측	tahmin	N	N;NOM;PL;3
+예측	tahminleri	예측	tahmin	N	N;ACC;PL;3
+예측	tahminler	예측	tahmin	N	N;NOM;PL;3
+기법	tekniği	기법	teknik	N	N;ACC;SG;3
+기법	teknikler	기법	teknik	N	N;NOM;PL;3
+기법	teknikleri	기법	teknik	N	N;NOM;PL;3
+세금	vergiler	세금	vergi	N	N;NOM;PL;3
+세금	vergiden	세금	vergi	N	N;AT+ABL;SG;3
+세금	vergi	세금	vergi	N	N;NOM;SG;3
+세금	vergisi	세금	vergi	N	N;NOM;SG;3
+세금	vergiler	세금	vergi	N	N;NOM;PL;3
+세금	vergileri	세금	vergi	N	N;ACC;PL;3
+세금	vergi	세금	vergi	N	N;NOM;SG;3
+신전	tapınak	신전	tapınak	N	N;NOM;SG;3
+신전	tapınağı	신전	tapınak	N	N;NOM;SG;3
+신전	tapınakları	신전	tapınak	N	N;NOM;PL;3
+미카	micah	미카	micah		
+미카	mika	미카	mika		
+데일리	daley	데일리	daley		
+데일리	daly	데일리	daly		
+데일리	günlük	데일리	günlük		
+섬유	iplik	섬유	iplik	N	N;NOM;SG;3
+애니	annie	애+니	annie		
+간접	dolaylı	간접	dolaylı		
+초청	davetiye	초청	davetiy	N	N;NOM;SG;3
+초청	davetiye	초청	davetiy	N	N;NOM;SG;3
+히로미	hiromi	히로미	hiromi		
+드림웍스	dreamworks	드림웍스	dreamworks		
+포르노	porno	포르노	porno		
+포르노	porno	포르노	porno		
+일주일	haftalık	일주일	haftalık		
+데드	ölü	데드	ölü		
+데드	dead	데드	dead		
+오스카	oskar	오스카	oskar		
+오스카	oscar	오스카	oscar		
+오스카	oskar	오스카	oskar		
+엘리트	elit	엘리트	elit		
+엘리트	seçkin	엘리트	seçkin		
+교육자	eğitimciler	교육자	eğitimci	N	N;NOM;PL;3
+토론하기	tartışmak	토론+하+기	tartış	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+뉴턴	newton	뉴턴	newton		
+프로파일	profil	프로파+이+ㄹ	profil		
+프로파일	profili	프로파+이+ㄹ	profili		
+모건	morgan	모건	morgan		
+생리학	fizyolojisi	생리학	fizyoloji	N	N;NOM;SG;3
+우편	postalar	우편	posta	N	N;NOM;PL;3
+시크릿	sır	시크릿	sır		
+시크릿	secret	시크릿	secret		
+시크릿	gizli	시크릿	gizli		
+체험	deneyimler	체험	deneyim	N	N;NOM;PL;3
+체험	deneyimleri	체험	deneyim	N	N;ACC;PL;3
+체험	deneyimi	체험	deney	N	N;ACC;SG;3
+데이트	randevu	데이트	randev	N	N;NOM;SG;3
+데이트	tarih	데이트	tarih	N	N;NOM;SG;3
+데이트	tarihleri	데이트	tarih	N	N;ACC;PL;3
+데이트	tarihler	데이트	tarih	N	N;NOM;PL;3
+연구원	araştırmacılar	연구원	araştır	N	N;NOM;PL;3
+벤츠	benz	벤츠	benz		
+설명하기	açıklayın	설명+하+기	açıkla	V	V;PFV;IMP;PL;2;POS;PRS
+설명하기	açıklayın	설명+하+기	açıkla	V	V;PFV;IMP;PL;2;POS;PRS
+액티브	aktif	액티브	aktif		
+액티브	etkin	액티브	etkin		
+리얼리티	hakikat	리얼리티	hakikat		
+리얼리티	reality	리얼리티	reality		
+동양	doğulu	동양	doğul		
+동양	doğu	동양	doğu		
+샘플	numune	샘플	num	N	N;DAT;SG;3
+샘플	numune	샘플	num	N	N;DAT;SG;3
+샘플	örnekleri	샘플	örnek	N	N;ACC;PL;3
+샘플	örnekler	샘플	örnek	N	N;NOM;PL;3
+노력	çabaları	노력	çaba	N	N;NOM;PL;3
+노력	çabalar	노력	çaba	N	N;NOM;PL;3
+암호	şifre	암호	şifre	N	N;NOM;SG;3
+암호	şifreler	암호	şifre	N	N;NOM;PL;3
+콜린	colin	콜린	colin		
+사토미	satomi	사토미	satomi		
+노무라	nomura	노무라	nomur		
+영사관	konsolosluk	영사관	konsolosluk	N	N;NOM;SG;3
+영사관	konsolosluğu	영사관	konsolosluk	N	N;ACC;SG;3
+예시	örneği	예시	örnek	N	N;NOM;SG;3
+예시	örnekleri	예시	örnek	N	N;ACC;PL;3
+예시	örnekler	예시	örnek	N	N;NOM;PL;3
+이즈	izu	이즈	izu		
+손가락	parmak	손가락	parmak		
+손가락	parmak	손가락	parmak		
+마린	marin	마리+ㄴ	marin		
+마린	marine	마리+ㄴ	marin		
+마린	deniz	마리+ㄴ	deniz		
+마린	denizci	마리+ㄴ	denizci		
+히토미	hitomi	히토미	hitom		
+쓰레기	çöplük	쓰레+기	çöplük	N	N;NOM;SG;3
+쓰레기	çöpler	쓰레+기	çöp	N	N;NOM;PL;3
+쓰레기	çöplük	쓰레+기	çöplük	N	N;NOM;SG;3
+오사무	osamu	오사무	osa		
+깃발	bayrağı	깃발	bayrak	N	N;NOM;SG;3
+깃발	bayrakları	깃발	bayrak	N	N;ACC;PL;3
+깃발	bayraklar	깃발	bayrak	N	N;NOM;PL;3
+비전	görme	비전	gör		
+비전	vizyon	비전	vizyon		
+사운드트랙	soundtrack	사운드트랙	soundtrack		
+유니언	sendika	유니언	sendika		
+유니언	birlik	유니언	birlik		
+품질	kaliteli	품질	kaliteli		
+품질	kalite	품질	kalite		
+헬리콥터	helikopter	헬리콥터	helikopter	N	N;NOM;SG;3
+헬리콥터	helikopterle	헬리콥터	helikopter	N	N;DAT;SG;3
+헬리콥터	helikopterler	헬리콥터	helikopt	N	N;NOM;PL;3
+헬리콥터	helikopter	헬리콥터	helikopter	N	N;NOM;SG;3
+계단	merdiven	계단	merdiven		
+계단	merdiven	계단	merdiven		
+계단	merdiven	계단	merdiven		
+크리스탈	kristal	크리스탈	kristal		
+크리스탈	krystal	크리스탈	krystal		
+코끼리	file	코끼리	file		
+코끼리	fili	코끼리	fili		
+코끼리	fil	코끼리	fil		
+함정	tuzağa	함정	tuzak	N	N;DAT;SG;3
+루시	lucy	루시	lucy		
+루시	luci	루시	luci		
+로이드	lloyd	로이드	lioyd		
+라이딩	binme	라이딩	bin		
+나카	naka	나카	naka		
+권총	silahlar	권총	silah	N	N;NOM;PL;3
+열매	böğürtlen	열매	böğür		
+열매	meyve	열매	meyve		
+열매	meyva	열매	meyva		
+알파벳	alfabesi	알파벳	alfabe	N	N;NOM;SG;3
+덮여	kaplı	덮이+어	kaplı		
+히다카	hidaka	히다카	hidaka		
+메타	meta	메타	meta		
+패널	panelleri	패널	panel	N	N;ACC;PL;3
+패널	paneli	패널	paneli	N	N;NOM;SG;3
+축소	psikiyatrist	축소	psikiyatrist	N	N;NOM;SG;3
+축소	psikiyatr	축소	psikiyatr	N	N;NOM;SG;3
+해상도	çözünürlük	해상+도	çözünürlük	N	N;NOM;SG;3
+페어	fuar	페+어	fuar		
+페어	adil	페+어	adil		
+모래	kum	모래	kum		
+모래	kumu	모래	kumu		
+워크래프트	warcraft	워크래프트	warcraft		
+반다이	bandai	반다이	bandai		
+코미디언	komedyen	코미디언	komedyen	N	N;NOM;SG;3
+불타는	yanan	불타+는	yan		
+불타는	yakmak	불타+는	yak		
+불타는	yanma	불타+는	yan		
+로스트	lost	로스트	lost		
+일렉트로닉	elektronik	일렉트로닉	elektronik		
+흐름	akış	흐름	akış		
+흐름	akar	흐름	akar		
+흐름	akar	흐름	akar		
+흐름	akış	흐름	akış		
+흐름	irmak	흐름	irmak		
+흐름	akım	흐름	akım		
+흐름	dere	흐름	dere		
+관찰	gözlemler	관찰	gözlem	N	N;NOM;PL;3
+앨버트	albert	앨버트	albert		
+감각	duyuları	감각	duyu	N	N;ACC;PL;3
+전하	hücum	전하	hücum		
+전하	suçlama	전하	suçla		
+전하	şarj	전하	şarj		
+블러드	kan	블러드	kan		
+블러드	blood	블러드	blood		
+블러드	bloods	블러드	bloods		
+블러드	blood	블러드	blood		
+여권	pasaportlar	여권	pasaport	N	N;NOM;PL;3
+여권	pasaport	여권	pasaport	N	N;NOM;SG;3
+여권	pasaportu	여권	pasaport	N	N;ACC;SG;3
+여권	pasaport	여권	pasaport	N	N;NOM;SG;3
+리터	litre	리터	litre		
+리터	litre	리터	litre		
+리터	ritter	리터	rit		
+리터	litre	리터	litre		
+초록	yeşile	초록	yeşil		
+초록	green	초록	gre		
+플라이	uç	플라이	uç		
+플라이	sinek	플라이	sinek		
+무용	dans	무용	dans	N	N;NOM;SG;3
+일일	günlük	일+이+ㄹ	günlük		
+릴리	lilly	릴리	lilly		
+릴리	zambak	릴리	zambak		
+릴리	lily	릴리	lily		
+해변	kıyıya	해변	kıyı	N	N;DAT;SG;3
+해변	sahilde	해변	sahilde	N	N;ESS;SG;3
+해변	beach	해변	beach	N	N;NOM;SG;3
+해변	plajlar	해변	plaj	N	N;NOM;PL;3
+래리	larry	래리	larry		
+안정	istikrar	안정	istikrar		
+안정	kararlılık	안정	kararlılık		
+안정	sabit	안정	sabit		
+안정	kararlı	안정	kararlı		
+안정	stabil	안정	stabil		
+전진	ileri	전진	ileri		
+전진	öne	전진	ön		
+비평가	eleştiriler	비평가	eleştiri	N	N;NOM;PL;3
+추억	hatıralar	추억	hatıra	N	N;NOM;PL;3
+추억	anılar	추억	anı	N	N;NOM;PL;3
+추억	bellek	추억	bellek	N	N;NOM;SG;3
+추억	anılar	추억	anı	N	N;NOM;PL;3
+추억	hatıralar	추억	hatıra	N	N;NOM;PL;3
+추억	hafıza	추억	hafız	N	N;NOM;SG;3
+트리	ağaç	트리	ağaç		
+트리	ağaç	트리	ağaç		
+키드	kidd	키드	kidd		
+키드	cocuk	키드	cocuk		
+키드	kid	키드	kid		
+소프라노	soprano	소프라노	soprano		
+소프라노	sopranos	소프라노	sopranos		
+우정	arkadaşlıklar	우정	arkadaşlık	N	N;NOM;PL;3
+우정	dostluklar	우정	dostluk	N	N;NOM;PL;3
+우정	arkadaşlık	우정	arkadaşlık	N	N;NOM;SG;3
+우정	dostluk	우정	dostluk	N	N;NOM;SG;3
+자켓	ceketler	자켓	ceket	N	N;NOM;PL;3
+장난감	oyuncak	장난감	oyuncak	N	N;NOM;SG;3
+장난감	oyuncağı	장난감	oyuncak	N	N;ACC;SG;3
+장난감	oyuncaklar	장난감	oyuncak	N	N;NOM;PL;3
+장난감	oyuncak	장난감	oyuncak	N	N;NOM;SG;3
+바닥	zemin	바닥	zemin		
+바닥	bottoms	바닥	bottoms		
+바닥	altta	바닥	altta		
+바닥	alt	바닥	alt		
+바닥	alttaki	바닥	alttaki		
+바닥	dibi	바닥	dibi		
+바닥	dibe	바닥	dibe		
+바닥	zemin	바닥	zemin		
+바닥	kat	바닥	kat		
+랜드	rand	랜드	rand		
+랜드	toprak	랜드	toprak		
+랜드	arazi	랜드	arazi		
+랜드	kara	랜드	kara		
+그레이스	zarafet	그레이스	zarafet		
+그레이스	grace	그레이스	grace		
+메가	mega	메가	mega		
+달걀	yumurtalar	달걀	yumurta	N	N;NOM;PL;3
+라마	lama	라마	lama		
+라마	rama	라마	rama		
+스위트	suit	스위트	suit		
+늙은	eski	늙+ㄴ	eski		
+늙은	old	늙+ㄴ	ol		
+늙은	ihtiyar	늙+ㄴ	ihtiyar		
+히가시	higashi	히가시	higashi		
+에리카	erika	에리카	erika		
+에리카	erica	에리카	erica		
+선교	görev	선교	görev	N	N;NOM;SG;3
+연고	merhem	연고	merhem		
+연고	merhem	연고	merhem		
+섞어	karıştırın	섞+어	karış	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+앙드레	andre	앙드레	andre		
+앙드레	andré	앙드레	andré		
+이민	göçmenlik	이민	göçmenlik	N	N;NOM;SG;3
+이언	eon	이언	eon		
+신데렐라	külkedisi	신데렐라	külket		
+스톰	fırtına	스톰	fırt		
+스톰	storm	스톰	stor		
+호시노	hoshino	호시노	hoshino		
+이념	idealleri	이념	ideal	N	N;ACC;PL;3
+이념	ideolojiler	이념	ideoloji	N	N;NOM;PL;3
+로비	lobi	로비	lobi		
+로비	robbie	로비	robbie		
+보관	arşivleme	보관	arşivle		
+보관	arşivi	보관	arşivi		
+보관	arşiv	보관	arşiv		
+바이	bai	바이	bai		
+유스케	yusuke	유스케	yusuke		
+누적	kümülatif	누적	kümülatif		
+비공개	private	비공개	privat	N	N;NOM;SG;3
+게릴라	gerilla	게릴라	geril		
+아이콘	simgeleri	아이콘	simge	N	N;ACC;PL;3
+아이콘	simgeler	아이콘	simge	N	N;NOM;PL;3
+아이콘	simgesi	아이콘	simge	N	N;NOM;SG;3
+장식	dekorasyon	장식	dekorasyon	N	N;NOM;SG;3
+장식	dekorasyon	장식	dekorasyon	N	N;NOM;SG;3
+이시이	ishii	이시이	ishii		
+톰슨	thomson	톰슨	thomson		
+아드리앵	adrien	아드리앵	adrien		
+울트라	ultra	울트+라	ultra		
+개구리	kurbağalar	개구리	kurbağa	N	N;NOM;PL;3
+줄리아	julia	줄리아	julia		
+일치하는	eşleştirme	일치+하+는	eşleş	V	V;PFV;NOM;IND;SG;2;POS;PRS;V.MSDR;CAUS
+내일	yarın	내일	yarın	N	N;NOM;SG;3
+미즈노	mizuno	미즈노	mizuno		
+농장	çiftlik	농장	çiftlik	N	N;NOM;SG;3
+농장	çiftlikleri	농장	çiftlik	N	N;ACC;PL;3
+농장	çiftçilik	농장	çiftçilik	N	N;NOM;SG;3
+퍼즐	bulmaca	퍼+세	bul		
+퍼즐	bilmece	퍼+세	bil		
+퍼즐	bulmaca	퍼+세	bul		
+처벌	azap	처벌	azap	N	N;NOM;SG;3
+처벌	cezaları	처벌	ceza	N	N;NOM;PL;3
+처벌	cezalar	처벌	ceza	N	N;NOM;PL;3
+처벌	cezaları	처벌	ceza	N	N;NOM;PL;3
+처벌	cezalar	처벌	ceza	N	N;NOM;PL;3
+처벌	cezası	처벌	ceza	N	N;NOM;SG;3
+처벌	ceza	처벌	ceza	N	N;NOM;SG;3
+바비	barbie	바비	barbie		
+바비	bobby	바비	bobby		
+사칭	sahtekar	사칭	sahtekar		
+사칭	sahtekâr	사칭	sahtekâr		
+실업	işsizlik	실업	işsizlik	N	N;NOM;SG;3
+파이	turta	파+이	tur		
+파이	turta	파+이	tur		
+로만	romalı	로만	romalı		
+로만	roman	로만	roman		
+루크	luke	루크	luk		
+예술가	sanatçılar	예술가	sanatçı	N	N;NOM;PL;3
+서점	kitapçı	서점	kitapçı		
+장갑	eldivenler	장갑	eldiven	N	N;NOM;PL;3
+캐리	kari	캐리	kari		
+캐리	karı	캐리	karı		
+캐리	carrie	캐리	carri		
+캐리	carey	캐리	carey		
+면도	tıraş	면+도	tıraş		
+면도	traş	면+도	traş		
+면도	tıraş	면+도	tıraş		
+면도	traş	면+도	traş		
+계절	sezonu	계절	sezon	N	N;ACC;SG;3
+국방	defans	국방	defans	N	N;NOM;SG;3
+국방	defans	국방	defans	N	N;NOM;SG;3
+리본	şerit	리본	şerit		
+하느님	allah	하느님	allah		
+하느님	tanrı	하느님	tanrı		
+오락	eğlence	오락	eğlence	N	N;NOM;SG;3
+필립스	philips	필립스	philips	N	N;NOM;SG;3
+필립스	philips	필립스	philips	N	N;NOM;SG;3
+스카우트	izci	스카우트	izci		
+스카우트	gözcü	스카우트	gözcü		
+아라이	arai	아라이	arai		
+폭풍	fırtınalar	폭풍	fırtına	N	N;NOM;PL;3
+카라	kara	카라	kara		
+보석	cevher	보석	cevher		
+보석	mücevher	보석	mücevher		
+보석	gem	보석	gem		
+보석	jewel	보석	jewel		
+보석	mücevher	보석	mücevher		
+보석	takı	보석	takı		
+보석	mücevher	보석	mücevher		
+보석	mücevher	보석	mücevher		
+비극	trajediler	비극	traje	N	N;NOM;PL;3
+아오키	aoki	아오키	aoki		
+둘다	ikisi	두+ㄴ다	iki		
+히데키	hideki	히데키	hidek		
+데이빗	davud	데이빗	davud		
+데이빗	davut	데이빗	davut		
+데이빗	david	데이빗	david		
+챔피언스	şampiyon	後피언스	şampiyon		
+대의원	milletvekilleri	대의원	milletvekili	N	N;NOM;PL;3
+아이스크림	dondurma	아이스크림	dondurma		
+오카모토	okamoto	오카모토	okamoto		
+컬렉션	koleksiyon	컬렉션	koleksiyon		
+컬렉션	koleksiyon	컬렉션	koleksiyon		
+컬렉션	toplama	컬렉션	toplama		
+확보	elde	확보	el	N	N;ESS;SG;3
+시골	kırsal	시골	kırsal		
+시골	ülke	시골	ülke		
+시골	vatan	시골	vat		
+코지마	kojima	코지마	kojim		
+초록색	yeşile	초록색	yeşil		
+초록색	green	초록색	gre		
+사냥	avcılık	사냥	avcılık	N	N;NOM;SG;3
+미도리	midori	미도리	midor		
+붉은색	kirmizi	붉은색	kirmiz		
+붉은색	kızıl	붉은색	kızıl		
+붉은색	red	붉은색	red		
+헬렌	helen	헬렌	hel		
+총기	silahları	총기	silah	N	N;NOM;PL;3
+총기	silahlar	총기	silah	N	N;NOM;PL;3
+행복	mutluluğun	행복	mutluluk	N	N;GEN;SG;3
+행복	mutluluklar	행복	mutluluk	N	N;NOM;PL;3
+행복	mutluluk	행복	mutluluk	N	N;NOM;SG;3
+행복	mutluluğu	행복	mutluluk	N	N;ACC;SG;3
+행복	mutluluklar	행복	mutluluk	N	N;NOM;PL;3
+기소	savcılık	기소	savcılık	N	N;NOM;SG;3
+기소	iddianame	기소	iddian	N	N;DAT;SG;3
+롤링	rolling	롤링	rolling		
+동네	mahalle	동네	mahal		
+루스	ruth	루스	ruth		
+특허	patent	특허	patent	N	N;NOM;SG;3
+특허	patent	특허	patent	N	N;NOM;SG;3
+집회	miting	집회	miting	N	N;NOM;SG;3
+루비	yakut	루비	yakut		
+루비	ruby	루비	ruby		
+루비	yakut	루비	yakut		
+데스	olum	데스	ol		
+데스	ölüm	데스	ölüm		
+데스	death	데스	death		
+카운터	tezgah	카운터	tezgah		
+카운터	karşı	카운터	karşı		
+피셔	fisher	피시+어	fishe		
+피셔	balıkçı	피시+어	balıkçı		
+소통	iletişim	소통	iletiş	N	N;NOM;SG;3
+패러디	farrar	패러디	farrar		
+패러디	parodi	패러디	parodi		
+플래티넘	platin	플래티넘	plat		
+카이	kai	카이	kai		
+바퀴	tekerlek	바퀴	tekerlek	N	N;NOM;SG;3
+바퀴	tekerlekler	바퀴	tekerlek	N	N;NOM;PL;3
+바퀴	tekerlek	바퀴	tekerlek	N	N;NOM;SG;3
+마운트	dağı	마운트	dağı		
+마운트	atlı	마운트	atlı		
+큐브	küp	큐브	küp		
+큐브	tesseract	큐브	tesseract		
+자작	vikont	자작	vikont		
+르네	renee	르네	rene		
+르네	rené	르네	rené		
+르네	rene	르네	rene		
+중성자	nötron	중성자	nötron	N	N;NOM;SG;3
+중성자	nötron	중성자	nötron	N	N;NOM;SG;3
+던전	zindana	던전	zindan	N	N;DAT;SG;3
+쿄코	kyoko	쿄코	kyoko		
+타원	elips	타원	elips		
+에어로	aero	에어+로	aero		
+소금	tuz	소금	tuz		
+소금	salt	소금	salt		
+소금	tuzu	소금	tuz		
+시그마	sigma	시그마	sigma		
+대책	tedbirler	대책	tedbir	N	N;NOM;PL;3
+아담	adem	아담	adem		
+옵션	seçenek	옵션	seçenek		
+옵션	seçenek	옵션	seçenek		
+식사	öğün	식사	öğün		
+면허	lisansları	면허	lisans	N	N;ACC;PL;3
+면허	ehliyet	면허	ehliyet	N	N;NOM;SG;3
+면허	ehliyet	면허	ehliyet	N	N;NOM;SG;3
+아키텍처	mimarlık	아키+매처	mimarlık		
+아키텍처	mimari	아키+매처	mimar		
+멜론	karpuz	멜론	karpuz		
+멜론	kavun	멜론	kavun		
+멜론	karpuz	멜론	karpuz		
+멜론	kavun	멜론	kavun		
+재미있는	ilginç	재미+있+는	ilginç		
+재미있는	enteresan	재미+있+는	enteresan		
+아이리스	iris	아이리스	iris		
+바보	salak	바보	salak		
+바보	aptal	바보	aptal		
+바보	ahmak	바보	ah		
+바보	aptal	바보	aptal		
+바보	salak	바보	salak		
+바보	aptal	바보	aptal		
+바보	aptalca	바보	aptalca		
+바보	şapşal	바보	şapşal		
+바보	aptal	바보	aptal		
+독점	ayrıcalıklı	독점	ayrıcalıklı	N	N;NOM;SG;3
+소비	tüketimi	소비	tüket	N	N;ACC;SG;3
+각주	dipnot	각주	dipnot		
+달리기	koşar	달리+기	koş		
+달리기	run	달리+기	run		
+달리기	koş	달리+기	koş		
+달리기	kaçak	달리+기	kaçak		
+달리기	koşucu	달리+기	koşucu		
+달리기	koşu	달리+기	koşu		
+달리기	koşan	달리+기	koş		
+아마존	amazon	아마존	amazon		
+케이크	pasta	케이크	pasta		
+케이크	kek	케이크	kek		
+케이크	pasta	케이크	pasta		
+케이크	kek	케이크	kek		
+언젠가	birgün	언젠가	birgün		
+세일러	denizci	세일러	denizci		
+시바	shiva	시바	shiva		
+경과	geçen	경+과	geç		
+아사노	asano	아사노	asano		
+히로키	hiroki	히로키	hiroki		
+전압	voltaj	전압	voltaj	N	N;NOM;SG;3
+뱅크	banks	뱅크	banks		
+뱅크	bank	뱅크	bank		
+타이어	lastik	타이어	lastik		
+타이어	lastik	타이어	lastik		
+미사키	misaki	미사키	misaki		
+부제	altyazılar	부제	altyazı	N	N;NOM;PL;3
+조종사	pilotlar	조종사	pilot	N	N;NOM;PL;3
+확산	difüzyon	확산	difüzyon	N	N;NOM;SG;3
+에이전트	ajan	에이전트	aj		
+에이전트	ajan	에이전트	aj		
+에이전트	temsilci	에이전트	temsilci		
+에이전트	menajer	에이전트	menajer		
+설비	lambalar	설비	lamba	N	N;NOM;PL;3
+향상된	gelişmiş	향상+되+ㄴ	geliş	V	V;PFV;NFH;IND;POS;PST;V.PTCP
+향상된	geliştirilmiş	향상+되+ㄴ	geliş	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+생존자	kurtulanlar	생존자	kurtulan	N	N;NOM;PL;3
+생존자	survivor	생존자	survivor	N	N;NOM;SG;3
+유라시아	avrasya	유라시아	avrasya		
+향기	koku	향기	koku		
+향기	koku	향기	koku		
+갑작스럽게	ansızın	갑작스럽+게	ansızın		
+배열	diziler	배열	dizi	N	N;NOM;PL;3
+배열	dizi	배열	dizi	N	N;NOM;SG;3
+분지	leğen	분지	leğen		
+후보자	adaylar	후보자	aday	N	N;NOM;PL;3
+후보자	adayları	후보자	aday	N	N;NOM;PL;3
+분위기	atmosfer	분위기	atmosfer		
+분위기	atmosferi	분위기	atmosferi		
+분위기	ortam	분위기	ortam		
+분위기	ruh	분위기	ruh		
+자본	başkenti	자본	başkent	N	N;NOM;SG;3
+어제	dün	어제	dün	N	N;NOM;SG;3
+숨기기	gizle	숨기+기	giz	V	V;PFV;IMP;SG;2;POS;PRS
+숨기기	sakla	숨기+기	sak	V	V;PFV;IMP;SG;2;POS;PRS
+숨기기	gizlemek	숨기+기	gizle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+숨기기	saklıyor	숨기+기	sakla	V	V;PROG;IND;SG;3;POS;INFM;PRS
+애스턴	aston	애스턴	aston		
+베어	baer	베+어	baer		
+베어	ayı	베+어	ayı		
+일러스트	illüstrasyon	일러스트	illüstrasyon		
+습격	saldırıya	습격	saldırı	N	N;DAT;SG;3
+재무부	hazine	재무부	hazin	N	N;NOM;SG;3
+회담	zirvede	회담	zirve	N	N;ESS;SG;3
+회담	zirvesi	회담	zirve	N	N;NOM;SG;3
+클라이언트	istemci	클라이언트	istemci		
+상대성	rakibi	상대성	rakip	N	N;NOM;SG;3
+스위치	anahtarlar	스위치	anahtar	N	N;NOM;PL;3
+스위치	anahtarları	스위치	anahtar	N	N;NOM;PL;3
+스위치	düğmeler	스위치	düğ	N	N;NOM;PL;3
+대변인	sözcü	대변인	sözcü		
+대변인	sözcü	대변인	sözcü		
+경보	danışma	경보	danış	N	N;NOM;SG;3
+경보	danışmanlık	경보	danışmanlık	N	N;NOM;SG;3
+압력	baskılar	압력	baskı	N	N;NOM;PL;3
+테드	ted	테드	ted		
+직장	iş	직장	iş	N	N;NOM;SG;3
+직장	işyeri	직장	işyeri	N	N;NOM;SG;3
+남동부	güneydoğu	남동부	güneydoğu		
+작동	ameliyat	작동	ameliyat	N	N;NOM;SG;3
+작동	operasyonu	작동	operasyon	N	N;ACC;SG;3
+박람회	sergiler	박람회	sergi	N	N;NOM;PL;3
+밝기	aydınlık	밝+기	aydınlık	N	N;NOM;SG;3
+밝기	parlaklık	밝+기	parlaklık	N	N;NOM;SG;3
+워킹	yürüyüş	워킹	yürüyüş		
+워킹	yürüme	워킹	yürü		
+먼지	pislik	먼지	pislik	N	N;NOM;SG;3
+손실	kayıpları	손실	kayıp	N	N;ACC;PL;3
+손실	kayıplar	손실	kayıp	N	N;NOM;PL;3
+표준시	utc	표준시	utc		
+크루	tayfa	크루	tayfa		
+크루	ekip	크루	ekip		
+말리	marley	말리	marley		
+바이킹	viking	바이킹	viking		
+유니폼	üniformalar	유니히	üniforma	N	N;NOM;PL;3
+유니폼	üniformaları	유니히	üniforma	N	N;NOM;PL;3
+빼고	hariç	빼+고	hariç		
+보상	ödüller	보상	ödül	N	N;NOM;PL;3
+보상	ödülleri	보상	ödül	N	N;NOM;PL;3
+보상	ödülü	보상	ödül	N	N;ACC;SG;3
+미시마	mishima	미시마	mish		
+결혼식	düğünler	결혼식	düğün	N	N;NOM;PL;3
+결혼식	evlilik	결혼식	evlilik	N	N;NOM;SG;3
+역학	mekaniği	역학	mekanik	N	N;NOM;SG;3
+해리스	harris	해리스	harris		
+어뢰	torpidoları	어뢰	torpido	N	N;NOM;PL;3
+후지타	fujita	후지타	fujita		
+모스	mos	모스	mos		
+모스	musa	모스	musa		
+모스	mohs	모스	mohs		
+모스	mors	모스	mors		
+모스	morse	모스	morse		
+삼총사	silahşörler	삼총사	silahşör	N	N;NOM;PL;3
+삼총사	silahşör	삼총사	silahşör	N	N;NOM;SG;3
+수지	suzie	수지	suz		
+수지	suzie	수지	suz		
+수지	susie	수지	susie		
+수지	suzy	수지	suz		
+오징어	kalamar	오징어	kalamar		
+글렌	glenn	글렌	glen		
+전시회	sergiler	전시회	sergi	N	N;NOM;PL;3
+전시회	sergiler	전시회	sergi	N	N;NOM;PL;3
+예외	istisna	예외	istisna		
+예외	istisna	예외	istisna		
+어디	nerde	어디	nere		
+어디	nere	어디	nere		
+피아니스트	piyanist	피아니스트	piyanist		
+진단	teşhis	진단	teşhis	N	N;NOM;SG;3
+진단	tanı	진단	tan	N	N;NOM;SG;3
+진단	teşhis	진단	teşhis	N	N;NOM;SG;3
+진단	tanı	진단	tan	N	N;NOM;SG;3
+진단	teşhis	진단	teşhis	N	N;NOM;SG;3
+로빈슨	robinson	로빈슨	robinson		
+삼각형	üçgen	삼각형	üçgen		
+삼각형	üçgen	삼각형	üçgen		
+삼각형	üçgen	삼각형	üçgen		
+윤리	ahlak	윤리	ahlak	N	N;NOM;SG;3
+하프	harp	하프	harp		
+구입	alışveriş	구입	alışveriş	N	N;NOM;SG;3
+에이미	amy	에이미	amy		
+근육	kasları	근육	kas	N	N;ACC;PL;3
+근육	kaslar	근육	kas	N	N;NOM;PL;3
+근육	kaslar	근육	kas	N	N;NOM;PL;3
+뿌리	root	뿌리	root		
+뿌리	kök	뿌리	kök		
+뿌리	kök	뿌리	kök		
+스폰서	sponsor	스폰서	sponsor		
+스폰서	sponsor	스폰서	sponsor		
+스폰서	sponsorlu	스폰서	sponsorlu		
+스폰서	sponsor	스폰서	sponsor		
+스폰서	sponsor	스폰서	sponsor		
+스폰서	sponsor	스폰서	sponsor		
+운하	kanal	운하	kanal		
+조국	vatan	조국	vat		
+조국	anavatan	조국	anavat		
+조국	vatan	조국	vat		
+조국	vatan	조국	vat		
+조국	anavatan	조국	anavat		
+프라임	prime	프라임	prim		
+프라임	asal	프라임	asal		
+닐슨	nielsen	닐슨	niel		
+닐슨	nilsson	닐슨	nilsson		
+바이오	bio	바이오	bio		
+바이오	biyo	바이오	biyo		
+바이오	biyografi	바이오	biyografi		
+카툰	karikatür	카툰	karikat		
+카툰	çizgi	카툰	çizgi		
+목이	boğaz	목+이	boğaz		
+목이	gırtlak	목+이	gırtlak		
+진수	hex	진수	hex		
+진수	onaltılık	진수	onaltılık		
+느리게	yavaş	느리+게	yavaş	ADJ	ADJ
+난민	mülteciler	난민	mülteci	N	N;NOM;PL;3
+프레드	fred	프레드	fred		
+컨트롤	kontrol	컨트롤	kontrol		
+컨트롤	control	컨트롤	control		
+컨트롤	denetim	컨트롤	denetim		
+사인	imza	사인	imza		
+사인	tabela	사인	tabela		
+사인	işaret	사인	işaret		
+사인	imza	사인	imza		
+사인	imzalayın	사인	imzala		
+조화	uyum	조화	uyum	N	N;NOM;SG;3
+미나	mina	미나	mina		
+쇼핑	alışveriş	쇼핑	alışveriş	N	N;NOM;SG;3
+쇼핑	dükkan	쇼핑	dükkan	N	N;NOM;SG;3
+쇼핑	mağaza	쇼핑	mağaz	N	N;NOM;SG;3
+쇼핑	alışverişe	쇼핑	alışveriş	N	N;DAT;SG;3
+쇼핑	alışveriş	쇼핑	alışveriş	N	N;NOM;SG;3
+이모	teyze	이모	teyze		
+이모	yenge	이모	yenge		
+이모	teyze	이모	teyze		
+시선	radyal	시선	radyal		
+크레이그	craig	크레이그	craig		
+감마	gamma	감마	gamma		
+감마	gama	감마	gama		
+용기	konteyner	용기	konteyner	N	N;NOM;SG;3
+용기	konteynır	용기	konteynır	N	N;NOM;SG;3
+빌리지	köyü	빌리+지	köy		
+빌리지	köy	빌리+지	köy		
+태블릿	tablet	태블+옹	tablet		
+에이즈	aids	에이즈	aids		
+오리온	orion	오리+오+ㄴ	orion		
+줄리엣	juliet	줄리엣	juliet		
+마스	mars	마스	mars		
+사업가	işadamı	사업가	işadam	N	N;NOM;SG;3
+사업가	girişimciler	사업가	giriş	N	N;NOM;PL;3
+사업가	girişimci	사업가	girişimci	N	N;NOM;SG;3
+녹색당	yeşillik	녹색당	yeşillik	N	N;NOM;SG;3
+대칭	simetri	대칭	simetri	N	N;NOM;SG;3
+개입	müdahele	개입	müdahele	N	N;NOM;SG;3
+부르봉	burbon	부르봉	burbon		
+아크	ark	아크	ark		
+아크	arc	아크	arc		
+아크	yay	아크	yay		
+자이언트	giants	자이언트	giants		
+자이언트	dev	자이언트	dev		
+첼로	çello	k+로	çello		
+정렬	sıralama	정렬	sıralama		
+정렬	sıralama	정렬	sıralama		
+정렬	hizalama	정렬	hizalama		
+메이커	yapıcı	메이커	yapıcı		
+메이커	yaratıcı	메이커	yaratıcı		
+메이커	maker	메이커	maker		
+브리지	köprü	브리+지	köprü		
+특이	tekil	특+이	tekil		
+합창	korosu	합창	koro	N	N;NOM;SG;3
+용량	kapasitesi	용량	kapasite	N	N;NOM;SG;3
+쉐보레	chevrolet	쉐보레	chevrolet	N	N;NOM;SG;3
+킬러	katil	키+러+오+아	katil		
+킬러	keeler	키+러+오+아	kee		
+심슨	simpson	심슨	simpson		
+메모리얼	anıt	메모리얼	anıt		
+메모리얼	anma	메모리얼	an		
+취해	alkollü	취하+어	alkollü		
+취해	ayyaş	취하+어	ayyaş		
+취해	sarhoş	취하+어	sarhoş		
+떨어지고	düşüyor	떨어지+고	düş	V	V;PROG;IND;SG;3;POS;INFM;PRS
+마사토	masato	마사토	masato		
+사이언스	fen	사이언스	fen		
+조항	hükümler	조항	hüküm	N	N;NOM;PL;3
+조항	madde	조항	madde	N	N;NOM;SG;3
+자문	danışma	자문	danış	N	N;NOM;SG;3
+자문	danışmanlık	자문	danışmanlık	N	N;NOM;SG;3
+진리	hakikat	진리	hakikat		
+진리	gerçek	진리	gerçek		
+폭포	şelalesi	폭포	şelale	N	N;NOM;SG;3
+폭포	şelaleler	폭포	şelale	N	N;NOM;PL;3
+전지	batarya	전지	batar	N	N;NOM;SG;3
+전지	batarya	전지	batar	N	N;NOM;SG;3
+전지	piller	전지	pil	N	N;NOM;PL;3
+라이온	aslan	라이+오+요	aslan		
+나카야마	nakayama	나카야마	naka		
+모션	hareket	모션	hareket	N	N;NOM;SG;3
+휴대폰	telefon	휴대폰	telefon	N	N;NOM;SG;3
+호스트	konak	호스트	konak		
+호스트	sunucu	호스트	sunuç		
+암흑	karanlık	암흑	karanlık		
+이글	kartal	이글	kartal		
+아파치	apache	아파치	apach		
+아파치	apaçi	아파치	apaçi		
+승진	tanıtımı	승진	tanıtım	N	N;NOM;SG;3
+웨이브	dalga	웨이브	dalga		
+중독	bağımlılık	중독	bağımlılık	N	N;NOM;SG;3
+중독	bağımlılığı	중독	bağımlılık	N	N;ACC;SG;3
+중독	bağımlılık	중독	bağımlılık	N	N;NOM;SG;3
+오일러	euler	오일러	eu		
+섹스	cinsellik	섹스	cinsellik	N	N;NOM;SG;3
+묘지	mezarlık	묘지	mezarlık	N	N;NOM;SG;3
+묘지	mezarlıkta	묘지	mezarlık	N	N;ESS;SG;3
+묘지	mezarlığı	묘지	mezarlık	N	N;NOM;SG;3
+묘지	mezarlıklar	묘지	mezarlık	N	N;NOM;PL;3
+묘지	mezarlıklar	묘지	mezarlık	N	N;NOM;PL;3
+묘지	mezarlık	묘지	mezarlık	N	N;NOM;SG;3
+묘지	mezarlığı	묘지	mezarlık	N	N;NOM;SG;3
+헬기	helikopter	헬기	helikopter	N	N;NOM;SG;3
+헬기	helikopterle	헬기	helikopter	N	N;DAT;SG;3
+면역	bağışıklık	면역	bağışıklık	N	N;NOM;SG;3
+면역	bağışıklık	면역	bağışıklık	N	N;NOM;SG;3
+증상	semptomlar	증상	semptom	N	N;NOM;PL;3
+증상	belirtileri	증상	belir	N	N;NOM;PL;3
+증상	belirtiler	증상	belir	N	N;NOM;PL;3
+증상	semptomları	증상	semptom	N	N;ACC;PL;3
+증상	belirti	증상	belirti	N	N;NOM;SG;3
+증상	semptom	증상	semptom	N	N;NOM;SG;3
+시티즌	yurttaş	시티즌	yurttaş		
+시티즌	vatandaş	시티즌	vatandaş		
+스텝	step	스텝	step		
+스텝	basamak	스텝	basamak		
+스텝	adım	스텝	adım		
+스텝	basamak	스텝	basamak		
+교육학	eğitim	교육학	eğitim	N	N;NOM;SG;3
+크롬	krom	크롬	krom		
+바꿨다	değişen	바꾸+었+다	değiş		
+관점	perspektifler	관점	perspektif	N	N;NOM;PL;3
+히라노	hirano	히라노	hirano		
+갱신	yenileme	갱신	yenilem		
+칼륨	potasyum	칼륨	potasyum	N	N;NOM;SG;3
+머니	para	머니	para		
+블루투스	bluetooth	블루투스	bluetooth	N	N;NOM;SG;3
+안보	güvenlik	안보	güvenlik	N	N;NOM;SG;3
+콜럼버스	kolomb	콜럼버스	kolomb		
+계수	katsayısı	계수	katsayı	N	N;NOM;SG;3
+계수	katsayıları	계수	katsayı	N	N;ACC;PL;3
+영혼	ruhlar	영혼	ruh	N	N;NOM;PL;3
+영혼	ruhları	영혼	ruh	N	N;ACC;PL;3
+이브	havva	이브	havva		
+개체	nesneler	개체	nesne	N	N;NOM;PL;3
+개체	nesneleri	개체	nesne	N	N;ACC;PL;3
+버나드	bernard	버나드	bernard		
+서리	buz	서리	buz		
+서리	frost	서리	frost		
+피치	fitch	피치	fitch		
+피치	şeftali	피치	şeftali		
+피치	atış	피치	atış		
+정글	orman	정글	orman		
+올리브	zeytin	올리브	zey		
+올리브	zeytin	올리브	zey		
+랜디	randy	랜디	randy		
+전제	öncül	전제	öncül		
+케이티	katy	케이티	katy		
+케이티	katie	케이티	katie		
+로렌	lauren	로렌	laur		
+로렌	loren	로렌	None		
+강연	dersler	강연	ders	N	N;NOM;PL;3
+중순	ortası	중순	orta		
+중순	orta	중순	orta		
+엠파이어	empire	엠파+이+어	empir		
+스피릿	ruh	스피릿	ruh		
+스피릿	candır	스피릿	candır		
+좀비	zombi	좀비	zombi		
+델라	delia	델라	delia		
+대안	alternatifi	대안	alternatifi	N	N;ACC;SG;3
+창조	yaratılış	창조	yarat	N	N;NOM;SG;3
+압둘라	abdullah	압돌+라	abdullah		
+버드	bud	버드	bud		
+성매매	fahişelik	성매매	fahişelik	N	N;NOM;SG;3
+패자	kaybedenler	패자	kaybet	N	N;NOM;PL;3
+이용자	tüketiciler	이용자	tüketici	N	N;NOM;PL;3
+느낌	his	느끼+ㅁ	his		
+느낌	duygu	느끼+ㅁ	duygu		
+염소	keçileri	염소	keçi	N	N;ACC;PL;3
+히카리	hikari	히카리	hikari		
+도플러	doppler	도플러	dopp	N	N;NOM;PL;3
+지표	ölçümler	지표	ölçüm	N	N;NOM;PL;3
+지표	ölçümleri	지표	ölçüm	N	N;ACC;PL;3
+지표	ölçüm	지표	ölçüm	N	N;NOM;SG;3
+지표	göstergesi	지표	gösterge	N	N;NOM;SG;3
+학생들	öğrenciler	학생+들	öğrenci	N	N;NOM;PL;3
+동성애자	eşcinsel	동성+애자	eşcinsel		
+동성애자	homoseksüel	동성+애자	homoseksüel		
+고쿠라	ogura	고쿠라	ogur		
+정적	parazit	정적	parazit		
+정적	statik	정적	statik		
+맛있는	enfes	맛있+는	enfes		
+맛있는	leziz	맛있+는	leziz		
+맛있는	nefis	맛있+는	nefis		
+맛있는	enfes	맛있+는	enfes		
+맛있는	leziz	맛있+는	leziz		
+맛있는	nefis	맛있+는	nefis		
+위협	tehditleri	위협	tehdit	N	N;NOM;PL;3
+위협	tehditler	위협	tehdit	N	N;NOM;PL;3
+크리스털	kristal	크리스털	kristal		
+매장	mağazaları	매장	mağaza	N	N;ACC;PL;3
+매장	dükkanlar	매장	dükkan	N	N;NOM;PL;3
+매장	mağazalar	매장	mağaza	N	N;NOM;PL;3
+매장	mağazası	매장	mağaza	N	N;NOM;SG;3
+매장	mağazadan	매장	mağaza	N	N;AT+ABL;SG;3
+매장	dükkan	매장	dükkan	N	N;NOM;SG;3
+매장	mağaza	매장	mağaz	N	N;NOM;SG;3
+생명체	organizmalar	생명체	organizma	N	N;NOM;PL;3
+오만	umman	오만	umman		
+오만	kibir	오만	kibir		
+암컷	dişi	암컷	dişi		
+암컷	kadın	암컷	kadın		
+암컷	dişi	암컷	dişi		
+믹스	karışık	믹스	karışık		
+트레이닝	eğitimi	트레이닝	eğitim	N	N;ACC;SG;3
+트레이닝	eğitim	트레이닝	eğitim	N	N;NOM;SG;3
+얕은	yüzeysel	얕+ㄴ	yüzeysel		
+얕은	sığ	얕+ㄴ	sığ		
+폭행	taarruz	폭행	taarruz	N	N;NOM;SG;3
+야드	yard	야드	yard		
+야드	yarda	야드	yar		
+참석	katılımı	참석	katılım	N	N;ACC;SG;3
+연락	irtibat	연락	irtibat		
+연락	bağlantı	연락	bağlantı		
+설탕	şekerim	설탕	şek	N	N;NOM;SG;3
+부패	yolsuzluk	부패	yolsuzluk	N	N;NOM;SG;3
+부패	yolsuzluk	부패	yolsuzluk	N	N;NOM;SG;3
+좌표	koordinat	좌표	koordinat	N	N;NOM;SG;3
+좌표	koordine	좌표	koord	N	N;DAT;SG;3
+좌표	koordinatları	좌표	koordinat	N	N;NOM;PL;3
+좌표	koordinat	좌표	koordinat	N	N;NOM;SG;3
+좌표	koordinatlar	좌표	koordinat	N	N;NOM;PL;3
+귀신	ghost	귀신	ghost		
+귀신	hayalet	귀신	hayalet		
+귀신	hayalet	귀신	hayalet		
+수컷	erkek	수컷	erkek		
+인자	faktörü	인자	faktörü	N	N;ACC;SG;3
+레이코	reiko	레이코	reiko		
+구현	uygulamaya	구현	uygulama	N	N;DAT;SG;3
+봉우리	tepeler	봉우리	tepe	N	N;NOM;PL;3
+상호작용	etkileşimi	상호+작용	etkileş	N	N;ACC;SG;3
+상호작용	etkileşimler	상호+작용	etkileşim	N	N;NOM;PL;3
+지각	gec	지각	gec		
+지각	geç	지각	geç		
+지각	algılama	지각	algılama		
+지각	algı	지각	algı		
+그래픽스	grafik	그래픽스	grafik		
+카지노	casino	카지노	casino		
+승마	binicilik	승마	binicilik	N	N;NOM;SG;3
+근접	yakınlık	근접	yakınlık	N	N;NOM;SG;3
+근접	yakınlığı	근접	yakınlık	N	N;NOM;SG;3
+코넬	cornell	코넬	cornell		
+히라타	hirata	히라타	hirata		
+혼란	karışıklık	혼란	karışıklık	N	N;NOM;SG;3
+하드코어	hardcore	하드코+어	hardcore		
+디렉터	müdür	디렉터	müdür		
+디렉터	yönetmen	디렉터	yönetmen		
+디렉터	yönetici	디렉터	yönetici		
+순종	itaat	순종	itaat	N	N;NOM;SG;3
+카탈루냐	katalan	카탈루+아	kat		
+분노의	gazabı	분노+의	gazap	N	N;NOM;SG;3
+히데오	hideo	히데오	hideo		
+소식	haberler	소식	haber	N	N;NOM;PL;3
+소식	haberleri	소식	haber	N	N;NOM;PL;3
+소식	haber	소식	haber	N	N;NOM;SG;3
+소식	hikaye	소식	hika	N	N;NOM;SG;3
+소식	hikâyeler	소식	hikuye	N	N;NOM;PL;3
+소식	haberler	소식	haber	N	N;NOM;PL;3
+소식	öyküler	소식	öykü	N	N;NOM;PL;3
+소식	hikayeler	소식	hikaye	N	N;NOM;PL;3
+세션	oturumu	세션	oturum	N	N;ACC;SG;3
+카오스	kaos	카오스	kaos		
+카오스	karmaşa	카오스	karmaş		
+카오스	kargaşa	카오스	kargaş		
+반지	yüzük	반지	yüzük	N	N;NOM;SG;3
+반지	halkalar	반지	halka	N	N;NOM;PL;3
+반지	yüzükler	반지	yüzük	N	N;NOM;PL;3
+반지	yüzük	반지	yüzük	N	N;NOM;SG;3
+모노레일	monoray	모노레일	monoray	N	N;NOM;SG;3
+어려워	zor	어렵+어	zor		
+어려워	zoru	어렵+어	zoru		
+어려워	sert	어렵+어	sert		
+어려워	zor	어렵+어	zor		
+어려워	zordur	어렵+어	zor		
+어려워	zordu	어렵+어	zor		
+트윈	ikizi	트윈	ikiz		
+트윈	ikiz	트윈	ikiz		
+트윈	ikizler	트윈	ikiz		
+수수께끼	bilmece	수수께끼	bil		
+수수께끼	bilmece	수수께끼	bil		
+수수께끼	bilmece	수수께끼	bil		
+수수께끼	enigma	수수께끼	enigma		
+수수께끼	muamma	수수께끼	muamma		
+백업	yedek	백업	yedek		
+백업	destek	백업	destek		
+보수당	muhafazakarlar	보수당	muhafazak	N	N;NOM;PL;3
+보수주의	muhafazakarlar	보수주의	muhafazak	N	N;NOM;PL;3
+보수주의	muhafazakarlık	보수주의	muhafazakarlık	N	N;NOM;SG;3
+브루노	bruno	브루노	bruno		
+의심	şüphe	의심	şüphe		
+의심	şüpheli	의심	şüpheli		
+의심	kuşkulu	의심	kuşkulu		
+의심	şüpheli	의심	şüpheli		
+의심	şüphe	의심	şüphe		
+의심	kuşku	의심	kuşku		
+의심	şüphe	의심	şüphe		
+의심	kuşku	의심	kuşku		
+의심	şüphe	의심	şüphe		
+의심	kuşku	의심	kuşku		
+의심	şüpheli	의심	şüpheli		
+주문	sipariş	주문	sipariş	N	N;NOM;SG;3
+주문	siparişler	주문	sipariş	N	N;NOM;PL;3
+주문	sipariş	주문	sipariş	N	N;NOM;SG;3
+주문	emirler	주문	emir	N	N;NOM;PL;3
+그런지	grunge	그렇+ㄴ지	grunge		
+매개변수	parametre	매개변수	parametre	N	N;NOM;SG;3
+매개변수	param	매개변수	param	N	N;NOM;SG;3
+매개변수	parametreleri	매개변수	parametre	N	N;ACC;PL;3
+격자	izgara	격자	izgar	N	N;NOM;SG;3
+오염	kirliliği	오염	kirlilik	N	N;ACC;SG;3
+자세	duruşu	자세	duruş	N	N;NOM;SG;3
+균형	dengeli	균형	dengel		
+균형	denge	균형	denge		
+균형	denge	균형	denge		
+신발	ayakkabılar	신발	ayakkabı	N	N;NOM;PL;3
+신발	ayakkabı	신발	ayakkabı	N	N;NOM;SG;3
+신발	ayakkabılar	신발	ayakkabı	N	N;NOM;PL;3
+신발	ayakkabı	신발	ayakkabı	N	N;NOM;SG;3
+신발	ayakkabı	신발	ayakkabı	N	N;NOM;SG;3
+테츠야	tetsuya	테디야	tetsu		
+타일러	tyler	타이러	iy		
+내기	bahse	내+기	bahse		
+토끼	tavşanlar	토끼	tavşan	N	N;NOM;PL;3
+헤이세이	heisei	헤이세이	heisei		
+어울리는	uygundur	어울리+는	uygun		
+허리	beli	허리	beli		
+허리	bel	허리	bel		
+니코니코	nico	니코니코	nico		
+파커	parker	파커	parker		
+기념관	memorial	기념관	memorial	N	N;NOM;SG;3
+성분	bileşenleri	성분	bileş	N	N;ACC;PL;3
+성분	parçalar	성분	parça	N	N;NOM;PL;3
+성분	malzemeleri	성분	malzeme	N	N;ACC;PL;3
+성분	malzemeler	성분	malzeme	N	N;NOM;PL;3
+시트	levhalar	시트	levha	N	N;NOM;PL;3
+지옥	cehennem	지옥	cehenne	N	N;NOM;SG;3
+사와	sawa	사+와	sawa		
+펀치	yumruk	펀치	yumruk		
+펀치	yumruk	펀치	yumruk		
+체력	dayanıklılık	체력	dayanıklılık	N	N;NOM;SG;3
+체력	sağlıkla	체력	sağlık	N	N;INS;SG;3
+체력	sağlık	체력	sağlık	N	N;NOM;SG;3
+정자	çardak	정자	çardak		
+기름	petrol	기름	petrol		
+기름	yağ	기름	yağ		
+기름	yağı	기름	yağ		
+노리코	noriko	노리코	noriko		
+비난	suçla	비난	suç	N	N;INS;SG;3
+비치	kumsal	비치	kumsal		
+비치	plaj	비치	plaj		
+비치	sahil	비치	sahil		
+프렌치	fransız	프렌치	fransız		
+프렌치	fransızca	프렌치	fransızca		
+주사	enjeksiyon	주사	enjeksiyon		
+주사	enjeksiyon	주사	enjeksiyon		
+익스트림	aşırı	익스트림	aşırı		
+상처	yara	상처	yara		
+상처	yaran	상처	yaran		
+상처	yara	상처	yara		
+날아라	uç	날+아라	uç		
+날아라	sinek	날+아라	sinek		
+날아라	uçan	날+아라	uç		
+나이키	nike	나이키	nike		
+반군	asiler	반군	asi	N	N;NOM;PL;3
+반군	isyancılar	반군	isyancı	N	N;NOM;PL;3
+메신저	messenger	메신저	messenger		
+메신저	haberci	메신저	haberci		
+프로그레시브	yenilikçi	프로그레시브	yenilikçi	N	N;NOM;SG;3
+영원	ebediyen	영원	ebe		
+영원	ebedi	영원	ebe		
+영원	sonsuz	영원	sonsuz		
+버마	burma	버마	bur		
+버마	burma	버마	bur		
+물체	nesneler	물체	nesne	N	N;NOM;PL;3
+물체	nesneleri	물체	nesne	N	N;ACC;PL;3
+초안	taslağı	초안	taslak	N	N;NOM;SG;3
+득표	oylar	득표	oy	N	N;NOM;PL;3
+득표	oy	득표	oy	N	N;NOM;SG;3
+의약품	eczacılık	의약품	eczacılık	N	N;NOM;SG;3
+의약품	ilaçlar	의약품	ilaç	N	N;NOM;PL;3
+의약품	eczacılık	의약품	eczacılık	N	N;NOM;SG;3
+에반게리온	evangelion	에반게리온	evangelion		
+검정	black	검정	black		
+검정	siyah	검정	siyah		
+검정	kara	검정	kara		
+마리코	mariko	마리코	mariko		
+목재	ahşap	목재	ahşap	N	N;NOM;SG;3
+피로	yorgunluk	피+로	yorgunluk		
+피로	yorgunluk	피+로	yorgunluk		
+밸리	vadi	밸리	vadi		
+밸리	vadisi	밸리	vadi		
+콘스탄틴	konstantin	콘스탄틴	konstant		
+호모	homo	호모	homo		
+사토루	satoru	사토루	sator		
+분배	dağıtımı	분배	dağıt	N	N;NOM;SG;3
+하얀색	beyaz	하얀색	beyaz		
+마루	maru	마루	maru		
+욕설	küfürlü	욕설	küfürlü	N	N;NOM;SG;3
+욕설	küfür	욕설	küfür	N	N;NOM;SG;3
+클럭	saate	클럭	saat	N	N;DAT;SG;3
+테이프	bant	테이프	bant		
+테이프	teyp	테이프	teyp		
+테이프	kaset	테이프	kaset		
+체크	tik	체크	tik		
+체크	kene	체크	kene		
+체크	kontrol	체크	kontrol		
+체크	çek	체크	çek		
+체크	şah	체크	şah		
+프로페셔널	mesleki	프로+시럽+네	mesleki		
+프로페셔널	profesyonel	프로+시럽+네	profesyonel		
+린다	linda	리+ㄴ다	linda		
+린다	lynda	리+ㄴ다	lin		
+슈퍼맨	süpermen	슈퍼맨	süpermen		
+슈퍼맨	superman	슈퍼맨	superman		
+베테랑	gazi	베테랑	gazi		
+라임	limon	라임	limon		
+라임	kireç	라임	kireç		
+라임	lime	라임	lim		
+리스	reese	리스	ree		
+리스	rhys	리스	rhys		
+리스	reece	리스	reece		
+시마	shima	시마	shima		
+모자	şapkalar	모자	şapka	N	N;NOM;PL;3
+모자	şapkaları	모자	şapka	N	N;ACC;PL;3
+허버트	herbert	허버트	herbert		
+출산	doğumu	출산	doğum	N	N;ACC;SG;3
+출산	doğum	출산	doğum	N	N;NOM;SG;3
+버그	hata	버그	hata		
+버그	böcek	버그	böcek		
+버그	bug	버그	bug		
+버그	böcek	버그	böcek		
+수용소	akvaryum	수용소	akvaryum	N	N;NOM;SG;3
+수용소	akvaryumlar	수용소	akvaryum	N	N;NOM;PL;3
+패스	pas	패스	pas		
+패스	geçiş	패스	geçiş		
+페어리	peri	페어리	peri		
+니콜	nicol	니콜	nicol		
+니콜	nicole	니콜	nicol		
+팔아	sat	팔+아	sat		
+카렌	karen	카렌	karen		
+넥스트	sonraki	넥스트	sonraki		
+넥스트	sıradaki	넥스트	sıradaki		
+펌프	pompalar	펌프	pompa	N	N;NOM;PL;3
+자연재해	jeofizik	자연재+하+어	jeofizik	N	N;NOM;SG;3
+아틀라스	atlas	아틀라스	atlas		
+우드	odun	우드	odun		
+우드	ağaç	우드	ağaç		
+우드	tahta	우드	tahta		
+마사오	masao	마사오	masao		
+도둑	hırsız	도둑	hırsız		
+도둑	soyguncu	도둑	soyguncu		
+도둑	hırsız	도둑	hırsız		
+도둑	hırsız	도둑	hırsız		
+설명해	açıklayın	설명+하+어	açıkla	V	V;PFV;IMP;PL;2;POS;PRS
+노조미	nozomi	노조미	nozomi		
+굿바이	elveda	굿바+이	elve		
+굿바이	hoşçakal	굿바+이	hoşçakal		
+파이프	boru	파이프	boru		
+파이프	pipo	파이프	pipo		
+야망	hırs	야망	hırs		
+카즈야	kazuya	카즈야	kazu		
+신뢰성	güvenilirliğini	신뢰성	güven	N	N;ACC;SG;3
+프렌즈	arkadaş	프렌즈	arkadaş		
+드릴	matkap	드리+ㄹ	matkap		
+드릴	talim	드리+ㄹ	talim		
+탐색	göz	탐색	göz	N	N;NOM;SG;3
+탐색	keşfedin	탐색	keşfe	N	N;GEN;SG;3
+탐색	navigasyon	탐색	navigasyon	N	N;NOM;SG;3
+후추	biber	후추	biber		
+피고	sanık	피+고	sanık		
+피고	davalı	피+고	davalı		
+피고	sanık	피+고	sanık		
+요인	faktörler	요인	faktör	N	N;NOM;PL;3
+요인	faktörü	요인	faktörü	N	N;ACC;SG;3
+기부	bağışta	기부	bağış	N	N;NOM;SG;3
+기부	bağışta	기부	bağış	N	N;NOM;SG;3
+기부	bağışlar	기부	bağış	N	N;NOM;PL;3
+조상	atam	조상	atam		
+접촉	iletisim	접촉	ileti	N	N;NOM;SG;3
+접촉	iletişim	접촉	iletiş	N	N;NOM;SG;3
+달력	takvimi	달력	takvim	N	N;NOM;SG;3
+달력	takvimler	달력	takvim	N	N;NOM;PL;3
+터너	turner	터너	turne		
+모노	mono	모노	mono		
+하비	harvey	하비	harvey		
+진동	titreşimler	진동	titreşim	N	N;NOM;PL;3
+인상	izlenim	인상	izlenim		
+인상	gösterim	인상	göster		
+작아	ufak	작+아	ufak		
+작아	kucuk	작+아	kucuk		
+교도소	hapse	교도소	hapis	N	N;DAT;SG;3
+치킨	tavuk	치키+ㄴ	tavuk		
+치킨	piliç	치키+ㄴ	piliç		
+제출	teslimiyet	제출	teslimiyet	N	N;NOM;SG;3
+전이	geçiş	전+이	geçiş		
+극한	limit	극한	limit		
+극한	sınır	극한	sınır		
+극한	sınırlama	극한	sınırla		
+극한	aşırı	극한	aşırı		
+양파	soğanlı	양파	soğanlı		
+양파	soğanlı	양파	soğanlı		
+신뢰	güven	신뢰	güven		
+신뢰	özgüven	신뢰	özgüven		
+신뢰	güven	신뢰	güven		
+솔루션	çözümleri	솔루션	çözüm	N	N;ACC;PL;3
+솔루션	çözümler	솔루션	çözüm	N	N;NOM;PL;3
+솔루션	çözümü	솔루션	çözüm	N	N;ACC;SG;3
+바나나	muz	바나나	muz		
+바나나	muz	바나나	muz		
+흥미로운	ilginç	흥미+롭+ㄴ	ilginç		
+흥미로운	enteresan	흥미+롭+ㄴ	enteresan		
+자라고	büyüyen	자라+고	büyü		
+자라고	büyüme	자라+고	büyü		
+벚꽃	cherry	벚꽃	cherry		
+벚꽃	kiraz	벚꽃	kiraz		
+벚꽃	vişne	벚꽃	viş		
+과목	konular	과목	konu	N	N;NOM;PL;3
+컨벤션	kongre	컨벤션	kongre		
+폭격기	bombacı	폭격기	bombacı	N	N;NOM;SG;3
+액세스	erişim	액세스	erişim	N	N;NOM;SG;3
+엘리엇	elliott	엘리엇	elliott		
+엘리엇	elliot	엘리엇	elliot		
+케이스	vakalar	케이스	vaka	N	N;NOM;PL;3
+케이스	davalar	케이스	dava	N	N;NOM;PL;3
+발리	balı	발리	balı		
+발리	volley	발리	volley		
+오토바이	motosiklet	오토바이	motosiklet	N	N;NOM;SG;3
+오토바이	motosiklet	오토바이	motosiklet	N	N;NOM;SG;3
+오토바이	motosiklet	오토바이	motosiklet	N	N;NOM;SG;3
+전류	akıntı	전류	akıntı	N	N;NOM;SG;3
+마켓	pazar	마켓	pazar		
+마켓	piyasa	마켓	piyas		
+마켓	market	마켓	market		
+토모코	tomoko	토모코	tomoko		
+매달	aylık	매달	aylık		
+트레인	tren	트레인	tren		
+푸드	yiyecek	푸드	yiyecek		
+푸드	gıda	푸드	gıda		
+색소폰	saksafon	색소폰	saksafon	N	N;NOM;SG;3
+효소	enzimler	효소	enzim	N	N;NOM;PL;3
+경향	eğilimler	경향	eğilim	N	N;NOM;PL;3
+라이센스	lisans	라이센스	lisans		
+라이센스	lisans	라이센스	lisans		
+라이센스	lisans	라이센스	lisans		
+교통량	trafik	교통량	trafik	N	N;NOM;SG;3
+파스칼	pascal	파스칼	pascal		
+스킴	entrika	스킴	entrika		
+기념비	memorial	기념비	memorial	N	N;NOM;SG;3
+기념비	anıtlar	기념비	anıt	N	N;NOM;PL;3
+기념비	anıtı	기념비	anıt	N	N;ACC;SG;3
+마사	martha	마사	martha		
+저주	lanetler	저주	lanet	N	N;NOM;PL;3
+생물학자	biyologlar	생물+학자	biyolog	N	N;NOM;PL;3
+밀레니엄	milenyum	밀레니엄	milenyu		
+판타스틱	şahane	판타스틱	şahane		
+판타스틱	fantastik	판타스틱	fantastik		
+호크	hawk	호크	hawk		
+호크	atmaca	호크	at		
+호크	hawke	호크	hawke		
+노아	noah	노아	noah		
+노아	nuh	노아	nuh		
+무죄	masumiyet	무죄	masumiyet	N	N;DAT;SG;3
+컨설팅	danışma	컨설팅	danış	N	N;NOM;SG;3
+컨설팅	danışmanlık	컨설팅	danışmanlık	N	N;NOM;SG;3
+노출	gösterimleri	노출	gösterim	N	N;ACC;PL;3
+어른	yetişkin	어른	yetişkin		
+어른	yetişkin	어른	yetişkin		
+기네스	guinness	기네스	guinness		
+퓨처	gelecek	퓨처	gel		
+세균	bakteriler	세균	bakter	N	N;NOM;PL;3
+세균	mikroplar	세균	mikrop	N	N;NOM;PL;3
+포니	midilli	포니	midilli		
+포니	pony	포니	pony		
+포니	midilli	포니	midilli		
+봄이	ilkbahar	봄+이	ilkbahar		
+봄이	yay	봄+이	yay		
+봄이	bahar	봄+이	bahar		
+호르몬	hormonlar	호르몬	hormon	N	N;NOM;PL;3
+미사토	misato	미사토	misato		
+자라	zara	자+이+라	zara		
+자라	büyür	자+이+라	büyür		
+자라	büyü	자+이+라	büy		
+리노	linus	리노	linus		
+퀘스트	quest	퀘스트	quest	N	N;NOM;SG;3
+퀘스트	görevleri	퀘스트	görev	N	N;NOM;PL;3
+퀘스트	görevler	퀘스트	görev	N	N;NOM;PL;3
+연습장	kafesler	연습장	kafes	N	N;NOM;PL;3
+기금	fonlar	기금	fon	N	N;NOM;PL;3
+페이	faye	페이	faye		
+노트북	defterler	노트북	defter	N	N;NOM;PL;3
+노트북	laptop	노트북	laptop	N	N;NOM;SG;3
+노트북	defteri	노트북	defteri	N	N;NOM;SG;3
+다이	dai	다이	dai		
+살인자	katil	살인자	katil		
+살인자	katil	살인자	katil		
+와이파이	wifi	와이파이	wif	N	N;NOM;SG;3
+제니	jennie	제+니	jenni		
+제니	jenny	제+니	jenny		
+타임즈	times	타임즈	times		
+스파이더맨	spiderman	스파이스더	spiderman		
+골드윈	goldwyn	골드윈	gol		
+클로버	yonca	클로버	yonca		
+고래	balinalar	고래	balina	N	N;NOM;PL;3
+알파인	alp	알파+이+ㄴ	alp		
+레프트	lev	레프트	lev		
+채택	evlatlık	채택	evlatlık	N	N;NOM;SG;3
+채택	evlatlık	채택	evlatlık	N	N;NOM;SG;3
+다이어	dyer	다이어	dyer		
+창시자	kurucu	창시자	kurucu		
+연관	ilişkili	연관	ilişkili		
+연관	birleşmeli	연관	birleşmeli		
+통로	koridor	통로	koridor		
+처녀자리	virginis	처녀+자리	virginis	N	N;ACC;SG;3
+열역학	termodinamik	열역학	termodinamik	N	N;NOM;SG;3
+오일	petrol	오일	petrol		
+오일	yağ	오일	yağ		
+오일	yağı	오일	yağ		
+모스크	camiler	모스크	cami	N	N;NOM;PL;3
+모스크	camii	모스크	camii	N	N;NOM;SG;3
+마츠다	matsuda	마디+이+다	matsu		
+트랜스	trance	트랜스	trance		
+트랜스	trans	트랜스	trans		
+트랜스	trans	트랜스	trans		
+니키	nikki	니키	nikki		
+니키	nicky	니키	nicky		
+가디언	muhafız	가디언	muhafız		
+가디언	gardiyan	가디언	gardiyan		
+가디언	koruyucu	가디언	koruyucu		
+워터	su	워터	su		
+차고	garaj	차+고	garaj		
+행진	yürüyüşleri	행진	yürü	N	N;ACC;PL;3
+행진	alayı	행진	alay	N	N;ACC;SG;3
+프라이드	gurur	프라이드	gurur		
+티켓	bilet	티켓	bilet	N	N;NOM;SG;3
+티켓	biletleri	티켓	bilet	N	N;ACC;PL;3
+티켓	biletler	티켓	bilet	N	N;NOM;PL;3
+티켓	bilet	티켓	bilet	N	N;NOM;SG;3
+주차장	otopark	주차장	otopark	N	N;NOM;SG;3
+주차장	park	주차장	park	N	N;NOM;SG;3
+탄약	cephane	탄약	cephane	N	N;DAT;SG;3
+탄약	cephane	탄약	cephane	N	N;DAT;SG;3
+리차드	richard	리차드	richard		
+환영합니다	hoşgeldiniz	환영+하+ㅂ니다	hoşgel	V	V;PFV;IND;PL;2;POS;PST
+환영합니다	hoşgeldin	환영+하+ㅂ니다	hoşgel	V	V;PFV;IND;SG;2;POS;PST
+소방관	itfaiye	소방관	itfa	N	N;DAT;SG;3
+소방관	itfaiyeciler	소방관	itfaiyeci	N	N;NOM;PL;3
+소방관	itfaiyeci	소방관	itfaiyeci	N	N;NOM;SG;3
+소방관	itfaiyeci	소방관	itfaiyeci	N	N;NOM;SG;3
+소방관	itfaiyeciler	소방관	itfaiyeci	N	N;NOM;PL;3
+소방관	itfaiyeci	소방관	itfaiyeci	N	N;NOM;SG;3
+조회	sorgu	조회	sorgu		
+조회	sorgulama	조회	sorgulama		
+조회	görüntüleme	조회	görüntüleme		
+희생자	kurbanlar	희생자	kurban	N	N;NOM;PL;3
+희생자	kurbanları	희생자	kurban	N	N;ACC;PL;3
+읽는다	okuma	읽+는다	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+읽는다	okuyun	읽+는다	oku	V	V;PFV;IMP;PL;2;POS;PRS
+읽는다	okumak	읽+는다	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+양양	koyun	양양	koyun		
+객실	kabinler	객실	kabin	N	N;NOM;PL;3
+객실	odalar	객실	oda	N	N;NOM;PL;3
+객실	odaları	객실	oda	N	N;ACC;PL;3
+객실	oda	객실	oda	N	N;NOM;SG;3
+위안	yuan	위안	yu		
+위안	teselli	위안	teselli		
+클레어	claire	클레어	claire		
+팩토리	fabrika	팩토리	fabrika		
+미노	mino	미노	mino		
+몰리세	molise	몰리세	molise		
+예정된	planlanan	예정+되+ㄴ	planla	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+예정된	planlanmış	예정+되+ㄴ	planla	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+예정된	planlandı	예정+되+ㄴ	planla	V	V;PFV;IND;SG;3;POS;PST;PASS
+마모루	mamoru	마모루	mamor		
+다이어리	günlük	다이어리	günlük		
+위장	midesi	위장	mide	N	N;NOM;SG;3
+다윈	darwin	다윈	darwin		
+타무라	tamura	타무라	tamura		
+상담	danışma	상담	danış	N	N;NOM;SG;3
+상담	rehberlik	상담	rehberlik	N	N;NOM;SG;3
+상담	danışmanlık	상담	danışmanlık	N	N;NOM;SG;3
+상담	danışma	상담	danış	N	N;NOM;SG;3
+오르간	org	오르케	org		
+오르간	organ	오르케	organ		
+사슬	zincirler	사슬	zincir	N	N;NOM;PL;3
+사슬	zincirleri	사슬	zincir	N	N;NOM;PL;3
+사슬	zincir	사슬	zincir	N	N;NOM;SG;3
+사슬	zincir	사슬	zincir	N	N;NOM;SG;3
+개미	karınca	개미	kar		
+개미	ant	개미	ant		
+개미	karınca	개미	kar		
+브레인	beyin	브레인	beyin		
+브레인	brain	브레인	brain		
+에런	harun	에런	harun		
+에런	aaron	에런	aaron		
+움직임	taşı	움직이+ㅁ	taşı		
+움직임	taşınma	움직이+ㅁ	taşınma		
+블리자드	tipi	블리자드	tip		
+미소	gülümse	미소	gülümse		
+미소	gülümser	미소	gülümser		
+낸시	nancy	낸시	nancy		
+스탠드	ayağa	스탠드	ayak	N	N;DAT;SG;3
+카테고리	kategorisi	카테고리	kategori	N	N;NOM;SG;3
+카테고리	kategorileri	카테고리	kategori	N	N;ACC;PL;3
+외과	ameliyat	외+과	ameliyat	N	N;NOM;SG;3
+외과	cerrahi	외+과	cerrahi	N	N;NOM;SG;3
+외과	cerrahi	외+과	cerrahi	N	N;NOM;SG;3
+처녀	bakire	처녀	bakire		
+처녀	bakir	처녀	bakir		
+처녀	bakire	처녀	bakire		
+처녀	maiden	처녀	maiden		
+안데스	and	안데스	and		
+사라져	kaybol	사라지+어	kaybol	V	V;PFV;IMP;SG;2;POS;PRS
+메츠	mets	메츠	mets		
+메츠	met	메츠	met		
+결론	sonuç	결론	sonuç		
+추측	varsayım	추측	varsayım		
+추측	tahmin	추측	tahmin		
+이용하기	kullanın	이용+하+기	kullan	V	V;PFV;IMP;PL;2;POS;PRS
+이용하기	kullanmak	이용+하+기	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+평론	eleştiriler	평론	eleştiri	N	N;NOM;PL;3
+듀크	dük	듀크	dük		
+듀크	duke	듀크	duke		
+창고	depo	창고	depo		
+창고	ambar	창고	ambar		
+창고	depolar	창고	depo		
+킥복싱	kickboks	킥복싱	kickboks	N	N;NOM;SG;3
+마술사	hokkabaz	마술사	hokkabaz	N	N;NOM;SG;3
+구매	alışveriş	구매	alışveriş	N	N;NOM;SG;3
+구매	alışveriş	구매	alışveriş	N	N;NOM;SG;3
+기술자	teknisyenler	기술자	teknisyen	N	N;NOM;PL;3
+기술자	teknisyeni	기술자	teknisye	N	N;NOM;SG;3
+기술자	mühendisi	기술자	mühendis	N	N;NOM;SG;3
+평등	eşitlik	평등	eşitlik	N	N;NOM;SG;3
+평등	eşitliği	평등	eşitlik	N	N;ACC;SG;3
+윈터	kış	윈터	kış		
+윈터	wynter	윈터	wynter		
+타쿠야	takuya	타+빈야	taku		
+스마일	gülümse	스마일	gülümse		
+스마일	gülümser	스마일	gülümser		
+세키	seki	세키	seki		
+문자열	ipleri	문자열	ip	N	N;ACC;PL;3
+잘라	kesim	자르+아	kesim		
+잘라	kes	자르+아	kes		
+프리즘	prism	프리즘	prism		
+리포터	gazeteci	리포터	gazeteci		
+리포터	muhabir	리포터	muhabir		
+비평	eleştiriler	비평	eleştiri	N	N;NOM;PL;3
+아치	archie	아치	arch		
+아치	kemer	아치	kemer		
+아치	arch	아치	arch		
+센트	cent	센트	cent		
+센트	sent	센트	sent		
+센트	cent	센트	cent		
+센트	sent	센트	sent		
+커티스	curtis	커티스	curtis		
+아쿠아	aqua	아쿠아	aqua		
+가죽	deri	가죽	deri		
+찾았다	bulunmuş	찾+았+다	bul	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+찾았다	bulundu	찾+았+다	bulun	V	V;PFV;IND;SG;3;POS;PST
+찾았다	buldum	찾+았+다	bul	V	V;PFV;IND;SG;1;POS;PST
+빠르다	hızlı	빠르+다	hızlı	ADJ	ADJ
+매출	satışlar	매출	satış	N	N;NOM;PL;3
+분노	kızgınlık	분노	kızgınlık	N	N;NOM;SG;3
+분노	gazabı	분노	gazap	N	N;NOM;SG;3
+트레이너	eğitmen	트레이너	eğitmen		
+그라운드	zemin	그라운드	zemin		
+연합국	müttefikler	연합국	müttefik	N	N;NOM;PL;3
+인공위성	uydular	인공위성	uy	N	N;NOM;PL;3
+인공위성	uyduları	인공위성	uy	N	N;NOM;PL;3
+인공위성	uydu	인공위성	uy	N	N;NOM;SG;3
+베티	betty	베티	bet		
+지식인	bilgi	지식인	bilgi	N	N;NOM;SG;3
+다카	dakka	다카	dakka		
+다카	taka	다카	taka		
+몸통	gövdesi	몸통	gövde	N	N;NOM;SG;3
+할당	görev	할당	görev	N	N;NOM;SG;3
+협박	tehditleri	협박	tehdit	N	N;NOM;PL;3
+협박	tehditler	협박	tehdit	N	N;NOM;PL;3
+노바	nova	노바	nova		
+포장	paketle	포장	paket	N	N;INS;SG;3
+머큐리	cıva	머큐리	cıva		
+머큐리	merkür	머큐리	merkür		
+엑스트라	ekstra	엑스트+이+라	ekstra		
+간판	billboard	간판	billboard	N	N;NOM;SG;3
+딸기	çilek	딸기	çilek		
+딸기	çilekli	딸기	çilekli		
+딸기	çilek	딸기	çilek		
+힐베르트	hilbert	힐베르트	hilbert	N	N;NOM;SG;3
+칼럼	köşe	칼+처	köşe		
+칼럼	kol	칼+처	kol		
+칼럼	sütun	칼+처	sütun		
+칼럼	sütun	칼+처	sütun		
+지시	yönergesi	지시	yönerge	N	N;NOM;SG;3
+지시	talimatlar	지시	talimat	N	N;NOM;PL;3
+지시	talimatları	지시	talimat	N	N;NOM;PL;3
+속력	sürat	속력	sürat	N	N;NOM;SG;3
+명예훼손	hakaret	명예+병손	hakaret	N	N;NOM;SG;3
+조던	ürdün	조+이+던	ürdün		
+조던	jordan	조+이+던	jordan		
+피어슨	pearson	피어슨	pearson		
+사라지는	kaybolan	사라지+는	kaybol		
+사라지는	kaybolma	사라지+는	kaybol		
+휴일	bayramlar	휴일	bayram	N	N;NOM;PL;3
+휴일	tatiller	휴일	tatil	N	N;NOM;PL;3
+휴일	tatilleri	휴일	tatil	N	N;ACC;PL;3
+토이	toy	토+이	toy		
+폴리	polly	폴리	polly		
+폴리	paulie	폴리	pauli		
+폴리	poly	폴리	poly		
+도덕	ahlak	도덕	ahlak	N	N;NOM;SG;3
+도덕	ahlak	도덕	ahlak	N	N;NOM;SG;3
+도덕	ahlak	도덕	ahlak	N	N;NOM;SG;3
+월경	adet	월경	adet		
+월경	âdet	월경	idet		
+월경	regl	월경	regl		
+월경	aralıklı	월경	aralıklı		
+월경	sellem	월경	sellem		
+스탠	stan	스탠	stan		
+제국주의	emperyalizm	제국주의	emperyalizm	N	N;NOM;SG;3
+후지이	fujii	후지+이	fujii		
+시나	cinna	시+나	cinna		
+로키	taşlı	로키	taşlı		
+로키	kayalık	로키	kayalık		
+로키	rocky	로키	rocky		
+윌리	wiley	윌리	wiley		
+윌리	willie	윌리	willie		
+도움말	imdat	도움말	imdat		
+도움말	yardim	도움말	yardim		
+만들었습니다	yaratılmış	만들+었+습니다	yarat	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+만들었습니다	oluşturuldu	만들+었+습니다	oluş	V	V;PFV;IND;SG;3;POS;PST;PASS
+만들었습니다	yaratıldı	만들+었+습니다	yarat	V	V;PFV;IND;SG;3;POS;PST;PASS
+만들었습니다	yarattı	만들+었+습니다	yarat	V	V;PFV;IND;SG;3;POS;PST
+만들었습니다	oluşturulan	만들+었+습니다	oluş	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+노랑	sari	노랑	sari		
+노랑	sarı	노랑	sarı		
+포도	üzümlü	포도	üzümlü		
+포도	üzüm	포도	üz		
+포도	asma	포도	as		
+포도	üzüm	포도	üz		
+포도	sarmaşık	포도	sarmaşık		
+포도	üzüm	포도	üz		
+상표	markalar	상표	marka	N	N;NOM;PL;3
+레볼루션	devrim	레볼루션	devrim		
+슈미트	schmidt	슈미트	schmidt		
+슈미트	schmitt	슈미트	schmitt		
+애슐리	ashleigh	애슐리	ashleigh		
+국민주의	milliyetçilik	국민주의	milliyetçilik	N	N;NOM;SG;3
+피라미드	piramit	피라미드	piramit		
+피라미드	piramit	피라미드	piramit		
+수녀	rahibeler	수녀	rahibe	N	N;NOM;PL;3
+로리	lori	로리	None		
+카네기	carnegie	카네기	carnegie		
+청동	bronz	청동	bronz		
+시작하기	başlayın	시작+하+기	başla	V	V;PFV;IMP;PL;2;POS;PRS
+히토시	hitoshi	히토시	hitoshi		
+아카리	akari	아카리	akari		
+웨이	wei	웨+이	wei		
+웨이	yol	웨+이	yol		
+광화문	optik	광화문	optik		
+메카	mekke	메카	mekke		
+마이어	meier	마이어	meier		
+마이어	meyer	마이어	meyer		
+부자	zengin	부자	zengin		
+부자	rich	부자	rich		
+부자	varlıklı	부자	varlıklı		
+부자	zengin	부자	zengin		
+인격	kişiliği	인격	kişilik	N	N;NOM;SG;3
+인격	kişilik	인격	kişilik	N	N;NOM;SG;3
+히로	hiro	히+로	hiro		
+후지모토	fujimoto	후지모토	fujimoto		
+마스크	maskesi	마스크	maske	N	N;NOM;SG;3
+마스크	maskeleri	마스크	maske	N	N;ACC;PL;3
+마스크	maskeler	마스크	maske	N	N;NOM;PL;3
+포레스트	forrest	포레스트	forrest		
+아테나	athena	아테나	athena		
+에드윈	edwin	에드윈	et		
+커맨드	komut	커맨드	komut		
+메뉴	menüyü	메뉴	menü	N	N;ACC;SG;3
+메뉴	menüler	메뉴	menü	N	N;NOM;PL;3
+토르	thor	토르	thor		
+프랜차이즈	imtiyaz	프랜차이즈	imtiyaz		
+컨트롤러	kontrolörleri	컨트+시러	kontrolör	N	N;ACC;PL;3
+컨트롤러	kumanda	컨트+시러	kumanda	N	N;NOM;SG;3
+컨트롤러	denetleyici	컨트+시러	denetleyici	N	N;NOM;SG;3
+칼리	carly	칼리	carly		
+상대적	akrabalar	상대+적	akraba	N	N;NOM;PL;3
+상대적	akrabası	상대+적	akraba	N	N;NOM;SG;3
+이식	ekimi	이식	ekim	N	N;NOM;SG;3
+캔디	şeker	캔디	şeker		
+캔디	seker	캔디	sek		
+캔디	candy	캔디	candy		
+스케이트	kaymak	스케이트	kay		
+스케이트	kaykay	스케이트	kaykay		
+소득	gelirleri	소득	gelir	N	N;ACC;PL;3
+소득	gelirler	소득	gel	N	N;NOM;PL;3
+예약	randevu	예약	randev	N	N;NOM;SG;3
+예약	programı	예약	program	N	N;ACC;SG;3
+예약	rezervasyon	예약	rezervasyon	N	N;NOM;SG;3
+예약	rezervasyon	예약	rezervasyon	N	N;NOM;SG;3
+다름	farkli	다르+ㅁ	farkli		
+다름	değişik	다르+ㅁ	değişik		
+다양성	çeşitlilik	다양성	çeşitlilik	N	N;NOM;SG;3
+다양성	çeşitliliği	다양성	çeşitlilik	N	N;NOM;SG;3
+핫토리	hattori	핫토리	hattori		
+콜린스	collins	콜린스	collins		
+스트리밍	akış	스트리밍	akış		
+스트리밍	akış	스트리밍	akış		
+스트리밍	irmak	스트리밍	irmak		
+스트리밍	akım	스트리밍	akım		
+스트리밍	dere	스트리밍	dere		
+협업	işbirliği	협업	işbirliği	N	N;NOM;SG;3
+협업	işbirliği	협업	işbirliği	N	N;NOM;SG;3
+네덜란드어	hollandalı	네덜란드어	hollandal		
+예제	örneği	예제	örnek	N	N;NOM;SG;3
+예제	örnekleri	예제	örnek	N	N;ACC;PL;3
+예제	örnekler	예제	örnek	N	N;NOM;PL;3
+점검	elden	점검	el	N	N;AT+ABL;SG;3
+점검	bakımı	점검	bakım	N	N;NOM;SG;3
+그릴	mangal	그리+ㄹ	mangal		
+불량	arızalı	불량	arızalı		
+댄서	dansçılar	대+서	dansç	N	N;NOM;PL;3
+선원	denizciler	선원	denizci	N	N;NOM;PL;3
+강간	tecavüze	강간	tecavüz	N	N;DAT;SG;3
+감옥	hapse	감옥	hapis	N	N;DAT;SG;3
+분수	çeşme	분수	çeş		
+분수	pınar	분수	pınar		
+분수	kesri	분수	kesri		
+분수	kesirli	분수	kesirli		
+화상	burns	화상	burns		
+화상	yanık	화상	yanık		
+화상	yan	화상	yan		
+화상	yanık	화상	yanık		
+화상	yak	화상	yak		
+스파이크	spike	스파이크	spik		
+손해배상	tazminat	손해배상	tazminat		
+손해배상	zarar	손해배상	zarar		
+손해배상	hasar	손해배상	hasar		
+콘솔	konsolları	콘솔	konsol	N	N;ACC;PL;3
+군주제	monarşi	군주제	monarşi	N	N;NOM;SG;3
+컨퍼런스	konferans	컨퍼런스	konferans		
+루팡	lupin	루팡	lip		
+스킬	becerileri	스키+ㄹ	becer	N	N;ACC;PL;3
+스킬	yetenekler	스키+ㄹ	yetenek	N	N;NOM;PL;3
+스킬	beceri	스키+ㄹ	becer	N	N;NOM;SG;3
+스킬	yetenek	스키+ㄹ	yetenek	N	N;NOM;SG;3
+스킬	beceri	스키+ㄹ	becer	N	N;NOM;SG;3
+포켓	cepte	포켓	cep		
+포켓	cebe	포켓	cebe		
+포켓	cep	포켓	cep		
+배워	öğren	배우+어	öğren		
+하이퍼	hiper	하이퍼	hiper		
+루프	loops	루프	loops		
+루프	döngü	루프	döngü		
+협의	danışma	협의	danış	N	N;NOM;SG;3
+어릴적	çocukluğum	어릴+적	çocukluk	N	N;NOM;SG;3
+어릴적	çocukluğu	어릴+적	çocukluk	N	N;NOM;SG;3
+어릴적	çocukluk	어릴+적	çocukluk	N	N;NOM;SG;3
+아픈	hasta	아프+ㄴ	hasta		
+천년	milenyum	천년	milenyu		
+묶여	bağlı	묶이+어	bağlı		
+비어	bos	비+어	bos		
+비어	bomboş	비+어	bomboş		
+저택	konak	저택	konak		
+저택	malikane	저택	malikane		
+저택	köşk	저택	köşk		
+트로피	kupa	트로피	kupa		
+색깔	renkler	색깔	renk	N	N;NOM;PL;3
+색깔	renkleri	색깔	renk	N	N;NOM;PL;3
+신비	mistisizm	신비	mistisizm	N	N;NOM;SG;3
+신비	gizemleri	신비	gizem	N	N;ACC;PL;3
+호프	hopf	호프	hopf		
+해킹	hack	해킹	hack		
+해킹	hack	해킹	hack		
+해킹	ülkücü	해킹	ülkücü		
+해킹	hack	해킹	hack		
+마쓰다	matsuda	마쓰+다	matsu		
+스털링	sterlin	스털링	sterlin		
+매트릭스	matrix	매트릭스	matrix		
+오메가	omega	오메+가	omega		
+사가미	sagami	사가미	sagami		
+혁신	yenilik	혁신	yenilik	N	N;NOM;SG;3
+혁신	yenilikler	혁신	yenilik	N	N;NOM;PL;3
+혁신	yenilik	혁신	yenilik	N	N;NOM;SG;3
+혁신	yenilikler	혁신	yenilik	N	N;NOM;PL;3
+입체	katı	입체	kat		
+입체	sağlam	입체	sağlam		
+레몬	limon	레몬	limon		
+레몬	limonlu	레몬	limonlu		
+레몬	lemon	레몬	lemon		
+레몬	limon	레몬	limon		
+안티	karşıtı	안티	karşıt		
+안티	anti	안티	anti		
+사무엘	samuel	사무엘	samuel		
+초점	odak	초점	odak		
+초점	odak	초점	odak		
+성벽	duvar	성벽	duvar		
+테레사	theresa	테레사	theres		
+매튜	matthew	매튜	matthew		
+마그네슘	magnezyum	마그네슘	magnezyum	N	N;NOM;SG;3
+케이지	kafes	케+이+지	kafes		
+케이지	cage	케+이+지	cage		
+징계	disiplin	징계	dis	N	N;NOM;SG;3
+밝게	parlak	밝+게	parlak		
+소환	yüzük	소환	yüzük	N	N;NOM;SG;3
+프레임워크	çerçeve	프레임워크	çerçev	N	N;NOM;SG;3
+프레임워크	çerçeveler	프레임워크	çerçeve	N	N;NOM;PL;3
+시민권	vatandaşlık	시민권	vatandaşlık	N	N;NOM;SG;3
+열이	ateşi	열+이	ateşi	N	N;NOM;SG;3
+사물	şeyler	사물	şey	N	N;NOM;PL;3
+밀가루	un	밀가루	un		
+가우스	gauss	가우스	gauss		
+지포스	geforce	지포스	geforce	N	N;NOM;SG;3
+나노	nano	나노	nano		
+구운	pişmiş	굽+ㄴ	piş		
+구운	kavrulmuş	굽+ㄴ	kavrul		
+팬들	taraftar	팬+들	taraf	N	N;NOM;SG;3
+팬들	taraftarlar	팬+들	taraf	N	N;NOM;PL;3
+식별	kimlik	식별	kimlik	N	N;NOM;SG;3
+식별	tanımla	식별	tanım	N	N;INS;SG;3
+식별	teşhis	식별	teşhis	N	N;NOM;SG;3
+마르크	izler	마르크	iz		
+마르크	marks	마르크	marks		
+마르크	işaret	마르크	işaret		
+마르크	mark	마르크	mark		
+마르크	marc	마르크	marc		
+모로	moro	모+로	moro		
+인프라	altyapı	인프+라	altyap		
+모피	kürk	모피	kürk		
+모피	kürk	모피	kürk		
+암스트롱	armstrong	암스트랑	armstrong		
+대나무	bambu	대나무	bambu		
+밸브	vana	밸브	ven	N	N;NOM;SG;3
+클레이	clay	클레이	clay		
+클레이	çamur	클레이	çamur		
+클레이	kil	클레이	kil		
+염색체	kromozomlar	염색체	kromozom	N	N;NOM;PL;3
+염색체	kromozom	염색체	kromozom	N	N;NOM;SG;3
+아나	ana	아나	ana		
+치히로	chihiro	치히+로	chihiro		
+곡물	ekinler	곡물	ekin	N	N;NOM;PL;3
+먹기	yiyor	먹+기	ye	V	V;PROG;IND;SG;3;POS;INFM;PRS
+먹기	yiyin	먹+기	yiy	V	V;PFV;IMP;PL;2;POS;PRS
+조엘	joel	조엘	joel		
+가시	diken	가시	dik		
+가시	thorn	가시	thorn		
+가시	kıymık	가시	kıy		
+보트	tekneler	보트	tekne	N	N;NOM;PL;3
+보트	gemiler	보트	gemi	N	N;NOM;PL;3
+보트	botlar	보트	bot	N	N;NOM;PL;3
+임팩트	etki	임팩트	etki		
+임팩트	çarpma	임팩트	çarp		
+임팩트	darbe	임팩트	darbe		
+대출	kredi	대출	kredi	N	N;NOM;SG;3
+대출	krediler	대출	kredi	N	N;NOM;PL;3
+대출	borçlar	대출	borç	N	N;NOM;PL;3
+미녀	güzellik	미녀	güzellik	N	N;NOM;SG;3
+이슈	sorun	이슈	sorun		
+이슈	mesele	이슈	mesele		
+카일	kyle	카일	kyle		
+마사코	masako	마사코	masako		
+안경	gözlükler	안경	gözlük	N	N;NOM;PL;3
+안경	bardaklar	안경	bardak	N	N;NOM;PL;3
+안경	gözlük	안경	gözlük	N	N;NOM;SG;3
+안경	bardak	안경	bardak	N	N;NOM;SG;3
+안드로메다자리	andromeda	안드로메다자리	androme		
+낭만주의	romantik	낭만주의	romantik	N	N;NOM;SG;3
+연인들	sevenler	연인+들	seven	N	N;NOM;PL;3
+기온	isı	기온	isı		
+입력합니다	girin	입력+하+ㅂ니다	gir	V	V;PFV;IMP;PL;2;POS;PRS
+입력합니다	gir	입력+하+ㅂ니다	gir	V	V;PFV;IMP;SG;2;POS;PRS
+실력	yetenek	실력	yetenek	N	N;NOM;SG;3
+실력	beceri	실력	becer	N	N;NOM;SG;3
+지질학	jeologlar	지질학	jeolog	N	N;NOM;PL;3
+싸우다	dövüş	싸우+다	dövüş		
+싸우다	mücadele	싸우+다	mücadele		
+모자이크	mozaik	모자이크	mozaik		
+어휘	sözlük	어휘	sözlük	N	N;NOM;SG;3
+연금	pansiyon	연금	pansiyon	N	N;NOM;SG;3
+연금	emeklilik	연금	emeklilik	N	N;NOM;SG;3
+연금	emeklilik	연금	emeklilik	N	N;NOM;SG;3
+뮤지션	müzisyenler	뮤지션	müzisyen	N	N;NOM;PL;3
+믿음	faith	믿음	faith		
+믿음	iman	믿음	iman		
+믿음	inanç	믿음	inanç		
+믿음	inanç	믿음	inanç		
+기회	şans	기회	şans		
+기회	chance	기회	chance		
+기회	fırsatı	기회	fırsatı		
+기회	fırsat	기회	fırsat		
+보라색	mor	보라색	mor		
+컨텐츠	içeriğe	컨텐츠	içerik	N	N;DAT;SG;3
+컨텐츠	içeriği	컨텐츠	içerik	N	N;NOM;SG;3
+컨텐츠	içerikler	컨텐츠	içerik	N	N;NOM;PL;3
+피고인	sanık	피고+이+ㄴ	sanık		
+피고인	davalı	피고+이+ㄴ	davalı		
+피고인	sanık	피고+이+ㄴ	sanık		
+오아시스	oasis	오아시스	oasis		
+리프	yaprak	리프	yaprak		
+칼라	yaka	칼+라	yaka		
+칼라	yakası	칼+라	yaka		
+칼라	tasma	칼+라	tasma		
+공감	ifadeler	공감	ifade	N	N;NOM;PL;3
+공감	tepkiler	공감	tepki	N	N;NOM;PL;3
+서클	çember	서클	çember		
+커트	kurt	커트	kurt		
+커트	kürt	커트	kürt		
+커트	curt	커트	curt		
+언더그라운드	yeraltı	언더그라운드	yeraltı		
+미라	mumya	미+라	mumya		
+미라	mira	미+라	mira		
+할인	indirimli	하+었+ㄴ	indirimli		
+엠마	emma	엠마	emma		
+인체	insan	인체	insan	N	N;NOM;SG;3
+카즈키	kazuki	카즈키	kazuki		
+바쁜	meşgul	바쁘+ㄴ	meşgul		
+바쁜	yoğun	바쁘+ㄴ	yoğun		
+채권	tahvil	채권	tahvil	N	N;NOM;SG;3
+채권	tahvilleri	채권	tahvil	N	N;ACC;PL;3
+스트림	irmaklar	스트림	irmak	N	N;NOM;PL;3
+스트림	akımı	스트림	akım	N	N;NOM;SG;3
+티아라	taç	티아+이+라	taç		
+티아라	tia	티아+이+라	tia		
+팔렸다	satılmış	팔리+었+다	sat	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+팔렸다	satılan	팔리+었+다	sat	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+팔렸다	satıldı	팔리+었+다	sat	V	V;PFV;IND;SG;3;POS;PST;PASS
+팔렸다	sattı	팔리+었+다	sat	V	V;PFV;IND;SG;3;POS;PST
+팔렸다	satılır	팔리+었+다	sat	V	V;IPFV;IND;SG;3;POS;PASS
+연못	pond	연못	pond	N	N;NOM;SG;3
+연못	havuzları	연못	havuz	N	N;ACC;PL;3
+무언가	birşey	무엇+이+ㄴ가	birşey		
+게재	teslimat	게재	teslimat	N	N;NOM;SG;3
+자아	egosu	잣+아	egosu		
+자아	ego	잣+아	ego		
+창립자	kurucu	창립자	kurucu		
+플루토늄	plütonyum	플루토늄	plütonyum	N	N;NOM;SG;3
+길버트	gilbert	길버트	gilbert		
+펭귄	penguen	증+ㄴ	penguen		
+펭귄	penguen	증+ㄴ	penguen		
+마키노	makino	마키노	makino		
+조수	gelgit	조수	gelgit		
+조수	yardımcı	조수	yardımcı		
+조수	asistan	조수	asistan		
+아카이브	arşivi	아카이브	arşivi		
+아카이브	arşiv	아카이브	arşiv		
+정체성	kimlikleri	정체성	kimlik	N	N;ACC;PL;3
+정체성	kimlikler	정체성	kimlik	N	N;NOM;PL;3
+정체성	kimliği	정체성	kimlik	N	N;NOM;SG;3
+정체성	kimlik	정체성	kimlik	N	N;NOM;SG;3
+희생	fedakârlık	희생	fedakârlık	N	N;NOM;SG;3
+도박	kumar	도박	kumar		
+도박	kumar	도박	kumar		
+아름다워	guzel	아름답+어	guzel		
+아름다워	beautiful	아름답+어	beautiful		
+아름다워	güzelim	아름답+어	güzelim		
+점원	katip	점원	katip		
+점원	memur	점원	memur		
+발급	iddialar	발급	iddia	N	N;NOM;PL;3
+유학생	öğrenciler	유학생	öğrenci	N	N;NOM;PL;3
+스윙	sallanan	스페	sallan		
+스윙	swing	스페	swing		
+터키어	türkçe	터키+어	türkçe		
+그레그	greg	그레그	greg		
+그레그	gregg	그레그	gregg		
+테러리스트	teröristler	테러리스트	terörist	N	N;NOM;PL;3
+하단	altta	하단	altta		
+하단	alt	하단	alt		
+하단	alttaki	하단	alttaki		
+하단	dibi	하단	dibi		
+하단	dibe	하단	dibe		
+교차	karşıya	교차	karşı		
+교차	haç	교차	haç		
+교차	çapraz	교차	çapraz		
+교차	hacı	교차	hacı		
+교차	cross	교차	cross		
+부두	voodoo	부두	voodoo		
+부두	vudu	부두	vut		
+부두	iskele	부두	iskel		
+부두	pier	부두	pier		
+슬라이드	slayt	슬라이드	slayt		
+슬라이드	döngü	슬라이드	döngü		
+검정색	black	검정색	black		
+검정색	siyah	검정색	siyah		
+검정색	kara	검정색	kara		
+간디	karaciğer	간디	karaciğer		
+간디	ciğer	간디	ciğer		
+테크노	tekno	테크노	tekno		
+상속	varisi	상속	vari	N	N;NOM;SG;3
+버디	buddy	버디	buddy		
+버디	kanka	버디	kanka		
+시어도어	theodore	시어도+어	theodore		
+럭키	şans	럭키	şans		
+럭키	lucky	럭키	lucky		
+스노보드	snowboard	스노보드	snowboard	N	N;NOM;SG;3
+스노보드	snowboard	스노보드	snowboard	N	N;NOM;SG;3
+미타	mita	미타	mita		
+인스턴트	anlık	인스턴트	anlık		
+애틀랜틱	atlantik	애틀랜틱	atlantik		
+가와카미	kawakami	가와카미	kalakami		
+셰퍼드	çoban	셰퍼드	çoban		
+루키	lou	루키	lou		
+부드럽게	yumuşak	부드럽+게	yumuşak		
+부드럽게	yumuşak	부드럽+게	yumuşak		
+부드럽게	nazikçe	부드럽+게	nazikçe		
+부드럽게	kibarca	부드럽+게	kibarca		
+부드럽게	usulca	부드럽+게	usulca		
+묘사	tasvirleri	묘사	tasvir	N	N;NOM;PL;3
+제미니	gemini	제미+니	gem		
+제미니	ikizler	제미+니	ikiz		
+미란다	miranda	미라+ㄴ다	miran		
+항만	liman	항만	liman		
+코발트	kobalt	코발트	kobalt		
+차이점	diff	차이점	diff		
+차이점	farkı	차이점	fark		
+차이점	farklılık	차이점	farklılık		
+버틀러	butler	버틀러	butle		
+버틀러	uşak	버틀러	uşak		
+버틀러	kahya	버틀러	kahya		
+일치	eşleşme	일치	eşleş		
+일치	kibrit	일치	kibrit		
+일치	eşleşme	일치	eşleş		
+일치	karşılaşma	일치	karşılaşma		
+일치	kibrit	일치	kibrit		
+모리야마	moriyama	모리야마	moriya		
+나오코	naoko	나오코	naoko		
+코스트	kıyı	코스트	kıy		
+코스트	sahil	코스트	sahil		
+음절	hece	음절	hece	N	N;NOM;SG;3
+간섭	müdahele	간섭	müdahele	N	N;NOM;SG;3
+켈러	kähler	켈러	küh		
+켈러	keller	켈러	kel		
+동방신기	tvxq	동방신기	tvxq		
+비너스	venüs	비너스	venüs		
+소매	perakende	소매	perakende		
+소매	kollu	소매	kollu		
+소매	kollar	소매	kol		
+소매	kollu	소매	kollu		
+소매	kol	소매	kol		
+호흡	nefesi	호흡	nefe	N	N;NOM;SG;3
+경쟁력	rekabetçi	경쟁력	rekabetçi	N	N;NOM;SG;3
+캐럴	carol	캐+아+내+ㄹ	carol		
+파이브	five	파이브	fiv		
+파이브	beş	파이브	beş		
+루피	rupi	루피	rupi		
+루피	rupi	루피	rupi		
+침대	yatakları	침대	yatak	N	N;ACC;PL;3
+침대	yataklar	침대	yatak	N	N;NOM;PL;3
+침대	yatak	침대	yatak	N	N;NOM;SG;3
+침대	yatak	침대	yatak	N	N;NOM;SG;3
+모닝	günaydın	모닝	günay		
+카린	karin	카리+ㄴ	karin		
+악당	cani	악당	cani		
+사노	sano	사노	sano		
+휴식	mola	휴식	mola	N	N;NOM;SG;3
+휴식	istirahat	휴식	istirahat	N	N;NOM;SG;3
+휴식	rahatlık	휴식	rahatlık	N	N;NOM;SG;3
+북극	arktik	북극	ark		
+북극	kutup	북극	kutup		
+퀄컴	qualcomm	퀄컴	Bualcomm	N	N;NOM;SG;3
+똑바로	düz	똑바로	düz		
+실리콘	silikon	실리콘	silikon		
+실리콘	silikon	실리콘	silikon		
+생선	balık	생선	balık		
+생선	balik	생선	balik		

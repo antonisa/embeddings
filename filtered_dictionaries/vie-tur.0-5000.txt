@@ -1,0 +1,1307 @@
+loại	kategorisi	loại	kategori	N	N;NOM;SG;3
+loại	çeşitleri	loại	çeşit	N	N;ACC;PL;3
+loại	türler	loại	tür	N	N;NOM;PL;3
+loại	tipler	loại	tip	N	N;NOM;PL;3
+năm	yıllar	năm	yıl	N	N;NOM;PL;3
+năm	yılların	năm	yıl	N	N;GEN;PL;3
+loài	türler	loài	tür	N	N;NOM;PL;3
+thích	beğendi	thích	beğen	V	V;PFV;IND;SG;3;POS;PST
+thích	beğenilen	thích	beğen	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+thích	seviyor	thích	sev	V	V;PROG;IND;SG;3;POS;INFM;PRS
+học	çalışmak	học	çalış	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+học	çalışma	học	çalış	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+học	öğreniyor	học	öğren	V	V;PROG;IND;SG;3;POS;INFM;PRS
+học	öğrenmek	học	öğren	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+học	öğrenin	học	öğren	V	V;PFV;IMP;PL;2;POS;PRS
+học	öğrenmek	học	öğren	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+người	kişi	người	kişi	N	N;NOM;SG;3
+người	kişiye	người	kişi	N	N;DAT;SG;3
+người	insan	người	insan	N	N;NOM;SG;3
+người	insan	người	insan	N	N;NOM;SG;3
+người	adam	người	adam	N	N;NOM;SG;3
+người	adamım	người	adam	N	N;NOM;SG;3
+người	kişiler	người	kişi	N	N;NOM;PL;3
+người	insanlar	người	insan	N	N;NOM;PL;3
+đầu	baş	đầu	baş	N	N;NOM;SG;3
+đầu	kafası	đầu	kafa	N	N;NOM;SG;3
+đầu	tura	đầu	tur	N	N;DAT;SG;3
+đầu	kafalar	đầu	kafa	N	N;NOM;PL;3
+đầu	öncelikle	đầu	öncelik	N	N;INS;SG;3
+ngoài	dışarıya	ngoài	dışarı	N	N;DAT;SG;3
+ngoài	dışarda	ngoài	dışarı	N	N;ESS;SG;3
+ngoài	dışarıda	ngoài	dışarı	N	N;ESS;SG;3
+khoa	fen	khoa	fen		
+tháng	ay	tháng	ay	N	N;NOM;SG;3
+tháng	ay	tháng	ay	N	N;NOM;SG;3
+cho	verin	cho	ver	V	V;PFV;IMP;PL;2;POS;PRS
+thuộc	duyuyor	thuộc	duy	V	V;PROG;IND;SG;3;POS;INFM;PRS
+thuộc	duyun	thuộc	duy	V	V;PFV;IMP;PL;2;POS;PRS
+tiên	cinler	tiên	cinle	N	N;NOM;PL;3
+tiên	elfler	tiên	elf	N	N;NOM;PL;3
+hoa	çiçekler	hoa	çiçek	N	N;NOM;PL;3
+hoa	çiçeğim	hoa	çiçek	N	N;NOM;SG;3
+hoa	çiçeği	hoa	çiçek	N	N;NOM;SG;3
+ngày	randevu	ngày	randev	N	N;NOM;SG;3
+ngày	tarih	ngày	tarih	N	N;NOM;SG;3
+ngày	tarihleri	ngày	tarih	N	N;ACC;PL;3
+ngày	tarihler	ngày	tarih	N	N;NOM;PL;3
+ngày	gün	ngày	gün	N	N;NOM;SG;3
+ngày	günler	ngày	gün	N	N;NOM;PL;3
+ngày	günlerden	ngày	gün	N	N;AT+ABL;PL;3
+ngày	günleri	ngày	gün	N	N;ACC;PL;3
+nam	güneye	nam	güne	N	N;DAT;SG;3
+công	kamu	công	kamu	N	N;NOM;SG;3
+sau	sonrasında	sau	sonra	N	N;ESS;SG;3
+trung	medyum	trung	medyu	N	N;NOM;SG;3
+trung	merkezi	trung	merkez	N	N;ACC;SG;3
+trên	yukarıdaki	trên	yukarıdakiki		
+trên	üzeri	trên	üzer		
+trên	üstü	trên	üst		
+trên	yukarda	trên	yukar		
+nhà	evleri	nhà	ev	N	N;ACC;PL;3
+nhà	evler	nhà	ev	N	N;NOM;PL;3
+nhà	ev	nhà	ev	N	N;NOM;SG;3
+nhà	evde	nhà	ev	N	N;ESS;SG;3
+nhà	eve	nhà	ev	N	N;DAT;SG;3
+nhà	evim	nhà	ev	N	N;NOM;SG;3
+nhà	konut	nhà	konut	N	N;NOM;SG;3
+nhà	evler	nhà	ev	N	N;NOM;PL;3
+nhà	ev	nhà	ev	N	N;NOM;SG;3
+huyện	ilçesi	huyện	ilçe	N	N;NOM;SG;3
+huyện	semt	huyện	semt	N	N;NOM;SG;3
+gia	aileler	gia	aile	N	N;NOM;PL;3
+gia	aileleri	gia	aile	N	N;ACC;PL;3
+thời	zaman	thời	zaman	N	N;NOM;SG;3
+thời	süre	thời	süre	N	N;NOM;SG;3
+bản	sürümü	bản	sürü	N	N;ACC;SG;3
+tên	adınız	tên	adınız	N	N;NOM;SG;3
+tên	isim	tên	isim	N	N;NOM;SG;3
+tên	ad	tên	ad	N	N;NOM;SG;3
+tên	adı	tên	ad	N	N;NOM;SG;3
+tên	isimler	tên	isim	N	N;NOM;PL;3
+tên	adlar	tên	ad	N	N;NOM;PL;3
+tên	adları	tên	ad	N	N;ACC;PL;3
+tên	isimleri	tên	isim	N	N;ACC;PL;3
+hành	soğan	hành	soğ	N	N;NOM;SG;3
+hành	eylemler	hành	eylem	N	N;NOM;PL;3
+hành	eylemleri	hành	eylem	N	N;ACC;PL;3
+hành	hareketler	hành	hareket	N	N;NOM;PL;3
+làm	yapıyor	làm	yap	V	V;PROG;IND;SG;3;POS;INFM;PRS
+chiến	savaş	chiến	savaş	N	N;NOM;SG;3
+bar	çubuk	bar	çubuk		
+hình	görüntü	hình	görüntü	N	N;NOM;SG;3
+hình	şekli	hình	şekli	N	N;ACC;SG;3
+nhân	çekirdek	nhân	çek		
+nhân	hasta	nhân	hasta		
+nhân	sabırlı	nhân	sabırlı		
+phát	vuruldu	phát	vur	V	V;PFV;IND;SG;3;POS;PST
+phát	vurdu	phát	vur	V	V;PFV;IND;SG;3;POS;PST
+pháp	fransızlar	pháp	fransız	N	N;NOM;PL;3
+danh	listesi	danh	liste	N	N;NOM;SG;3
+danh	listeyi	danh	liste	N	N;ACC;SG;3
+tập	bölüm	tập	bölüm		
+chi	nedeni	chi	neden	N	N;NOM;SG;3
+chi	nedeni	chi	neden	N	N;NOM;SG;3
+vùng	bölgeler	vùng	bölge	N	N;NOM;PL;3
+vùng	bölgeleri	vùng	bölge	N	N;ACC;PL;3
+vùng	bölgede	vùng	bölge	N	N;ESS;SG;3
+vùng	bölgesi	vùng	bölge	N	N;NOM;SG;3
+vùng	alanı	vùng	alan	N	N;NOM;SG;3
+sinh	doğdu	sinh	doğ	V	V;PFV;IND;SG;3;POS;PST
+sinh	doğmuş	sinh	doğ	V	V;PFV;NFH;IND;SG;3;POS;PST
+sinh	doğdum	sinh	doğ	V	V;PFV;IND;SG;1;POS;PST
+con	çocuk	con	çocuk	N	N;NOM;SG;3
+con	çocuğum	con	çocuk	N	N;NOM;SG;3
+tin	inan	tin	inan		
+tin	iman	tin	iman		
+tin	tin	tin	tin		
+tin	güven	tin	güven		
+viên	park	viên	park	N	N;NOM;SG;3
+việc	iş	việc	iş	N	N;NOM;SG;3
+bắc	kuzeyde	bắc	kuzeyde	N	N;ESS;SG;3
+bắc	kuzeye	bắc	kuze	N	N;DAT;SG;3
+sách	kitapları	sách	kitap	N	N;ACC;PL;3
+sách	kitap	sách	kitap	N	N;NOM;SG;3
+sách	kitaplar	sách	kitap	N	N;NOM;PL;3
+sách	kitap	sách	kitap	N	N;NOM;SG;3
+tiểu	ilkokul	tiểu	ilkokul		
+tiểu	minik	tiểu	minik		
+khác	farklı	khác	farklı	ADJ	ADJ
+khác	diğer	khác	diğer	ADJ	ADJ
+khác	başkaları	khác	başka	ADJ	ADJ;ACC;PL;3
+cao	yükseklerde	cao	yüksek	ADJ	ADJ;ESS;PL;3
+cao	yüksek	cao	yüksek	ADJ	ADJ
+cao	uzun	cao	uzun	ADJ	ADJ
+tây	batıya	tây	bat	N	N;DAT;SG;3
+tây	batıda	tây	batı	N	N;ESS;SG;3
+trường	okullar	trường	okul	N	N;NOM;PL;3
+trường	okulları	trường	okul	N	N;NOM;PL;3
+trường	alanı	trường	alan	N	N;NOM;SG;3
+trường	okula	trường	okul	N	N;DAT;SG;3
+trường	okulumuz	trường	okul	N	N;NOM;SG;3
+trường	okulu	trường	okul	N	N;NOM;SG;3
+trường	alanlar	trường	alan	N	N;NOM;PL;3
+trường	alanları	trường	alan	N	N;ACC;PL;3
+trường	tarlaları	trường	tarla	N	N;NOM;PL;3
+cùng	aynısından	cùng	aynı	ADJ	ADJ;AT+ABL;SG;3
+cùng	aynı	cùng	aynı	ADJ	ADJ
+giải	çözmek	giải	çöz	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+bang	state	bang	state		
+bang	eyalet	bang	eyalet		
+bang	bang	bang	bang		
+tiếng	saatleri	tiếng	saat	N	N;ACC;PL;3
+tiếng	saatler	tiếng	saat	N	N;NOM;PL;3
+điểm	noktalar	điểm	nokta	N	N;NOM;PL;3
+điểm	puanlar	điểm	puan	N	N;NOM;PL;3
+điểm	puanlar	điểm	puan	N	N;NOM;PL;3
+điểm	point	điểm	point	N	N;NOM;SG;3
+thứ	şey	thứ	şey	N	N;NOM;SG;3
+đông	doğuya	đông	doğu	ADJ	ADJ;DAT;SG;3
+phố	sokak	phố	sokak	N	N;NOM;SG;3
+phố	cadde	phố	cadde	N	N;NOM;SG;3
+khu	bölümü	khu	bölüm	N	N;NOM;SG;3
+khu	departman	khu	departman	N	N;NOM;SG;3
+khu	departmanı	khu	departman	N	N;ACC;SG;3
+khu	kolonisi	khu	koloni	N	N;ACC;SG;3
+nhưng	ama	nhưng	ama	CONJ	CONJ
+cánh	kanatlar	cánh	kanat	N	N;NOM;PL;3
+cánh	kanatları	cánh	kanat	N	N;ACC;PL;3
+bình	batarya	bình	batar	N	N;NOM;SG;3
+bình	piller	bình	pil	N	N;NOM;PL;3
+phần	bölümü	phần	bölüm	N	N;NOM;SG;3
+phần	parçası	phần	parça	N	N;NOM;SG;3
+phần	parçalar	phần	parça	N	N;NOM;PL;3
+phần	parçaları	phần	parça	N	N;ACC;PL;3
+quận	şehristanı	quận	şehristan	N	N;NOM;SG;3
+quận	ilçeleri	quận	ilçe	N	N;ACC;PL;3
+quận	bölgeler	quận	bölge	N	N;NOM;PL;3
+quận	fark	quận	fark	N	N;NOM;SG;3
+châu	america	châu	america	N	N;NOM;SG;3
+điều	şeyler	điều	şey	N	N;NOM;PL;3
+điều	şey	điều	şey	N	N;NOM;SG;3
+điều	kardeşliği	điều	kardeşlik	N	N;NOM;SG;3
+điều	kardeşlik	điều	kardeşlik	N	N;NOM;SG;3
+thông	çam	thông	çam		
+bay	uç	bay	uç		
+bay	sinek	bay	sinek		
+bay	uçan	bay	uç		
+bay	uçuş	bay	uçuş		
+bay	koyu	bay	koyu		
+bay	körfez	bay	körfez		
+bay	defne	bay	defne		
+bay	bay	bay	bay		
+lớn	geniş	lớn	geniş	ADJ	ADJ
+phim	film	phim	film		
+phim	film	phim	film		
+phim	film	phim	film		
+phim	film	phim	film		
+trước	önceki	trước	önceki		
+trước	önce	trước	önce		
+trước	ilk	trước	ilk		
+trước	once	trước	once		
+trước	önceki	trước	önceki		
+trước	önceki	trước	önceki		
+trước	önce	trước	önce		
+đêm	gece	đêm	gece	N	N;NOM;SG;3
+đêm	geceler	đêm	gece	N	N;NOM;PL;3
+nhỏ	küçük	nhỏ	küçük	ADJ	ADJ
+nhỏ	küçük	nhỏ	küçük	ADJ	ADJ
+hợp	uygun	hợp	uygun	ADJ	ADJ
+đường	karayolu	đường	karayolu	N	N;NOM;SG;3
+đường	şekilde	đường	şekil	N	N;ESS;SG;3
+đường	şekerim	đường	şek	N	N;NOM;SG;3
+thêm	eklemek	thêm	ekle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+thêm	ekleyin	thêm	ekle	V	V;PFV;IMP;PL;2;POS;PRS
+xem	bak	xem	bak	V	V;PFV;IMP;SG;2;POS;PRS
+xem	göster	xem	göster	V	V;PFV;IMP;PL;2;POS;PRS
+xem	gösterin	xem	göster	V	V;PFV;IMP;PL;2;POS;PRS
+xem	izleyin	xem	izle	V	V;PFV;IMP;PL;2;POS;PRS
+xem	gör	xem	gör	V	V;PFV;IMP;SG;2;POS;PRS
+xem	görün	xem	görün	V	V;PFV;IMP;PL;2;POS;PRS
+xem	görmek	xem	gör	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+xem	gör	xem	gör	V	V;PFV;IMP;SG;2;POS;PRS
+máy	makine	máy	makine	N	N;NOM;SG;3
+thủ	maç	thủ	maç	N	N;NOM;SG;3
+sống	yaşamak	sống	yaşa	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+sống	yaşayan	sống	yaşa	V	V;PFV;IND;POS;PRS;V.PTCP
+sống	yaşıyorum	sống	yaşa	V	V;PROG;IND;SG;1;POS;INFM;PRS
+bướm	kelebek	bướm	kelebek	N	N;NOM;SG;3
+bướm	kelebekler	bướm	kelebek	N	N;NOM;PL;3
+bướm	kelebekler	bướm	kelebek	N	N;NOM;PL;3
+ban	yaklaşık	ban	yaklaşık		
+ban	band	ban	ban		
+ban	grup	ban	grup		
+ban	bando	ban	ban		
+ban	bant	ban	bant		
+ban	ban	ban	ban		
+ban	yasaklama	ban	yasakla		
+cộng	artı	cộng	artı		
+cộng	plus	cộng	plus		
+nhận	al	nhận	al	V	V;PFV;IMP;SG;2;POS;PRS
+nhận	alın	nhận	al	V	V;PFV;IMP;PL;2;POS;PRS
+nhận	alınıyor	nhận	al	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+qua	bitti	qua	bit	V	V;PFV;IND;SG;3;POS;PST
+qua	geçerek	qua	geç	V	V;PFV;IND;POS;PRS;V.CVB
+ảnh	görüntü	ảnh	görüntü	N	N;NOM;SG;3
+ảnh	resimler	ảnh	resim	N	N;NOM;PL;3
+ảnh	fotoğraflar	ảnh	fotoğraf	N	N;NOM;PL;3
+ảnh	fotoğrafları	ảnh	fotoğraf	N	N;NOM;PL;3
+ảnh	resimler	ảnh	resim	N	N;NOM;PL;3
+ảnh	fotoğraflar	ảnh	fotoğraf	N	N;NOM;PL;3
+ảnh	resimleri	ảnh	resim	N	N;NOM;PL;3
+quyền	izinleri	quyền	izin	N	N;ACC;PL;3
+quyền	izinler	quyền	izinle	N	N;NOM;PL;3
+quyền	hakları	quyền	hak	N	N;ACC;PL;3
+quyền	haklar	quyền	hak	N	N;NOM;PL;3
+biển	sahilde	biển	sahilde	N	N;ESS;SG;3
+biển	beach	biển	beach	N	N;NOM;SG;3
+biển	ocean	biển	ocean	N	N;NOM;SG;3
+biển	okyanuslar	biển	okyanus	N	N;NOM;PL;3
+hàng	sıra	hàng	sıra	N	N;NOM;SG;3
+hàng	sıra	hàng	sıra	N	N;NOM;SG;3
+đánh	vur	đánh	vur	V	V;PFV;IMP;SG;2;POS;PRS
+tranh	savaş	tranh	savaş	N	N;NOM;SG;3
+tranh	resimler	tranh	resim	N	N;NOM;PL;3
+tranh	tablolar	tranh	tablo	N	N;NOM;PL;3
+gọi	arayın	gọi	ara	V	V;PFV;IMP;PL;2;POS;PRS
+gọi	arıyor	gọi	ara	V	V;PROG;IND;SG;3;POS;INFM;PRS
+gọi	arıyorum	gọi	ara	V	V;PROG;IND;SG;1;POS;INFM;PRS
+gọi	aramak	gọi	ara	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tàu	gemiler	tàu	gemi	N	N;NOM;PL;3
+tàu	gemileri	tàu	gemi	N	N;ACC;PL;3
+trang	sayfaya	trang	sayfa	N	N;DAT;SG;3
+trang	sayfada	trang	sayfa	N	N;ESS;SG;3
+trang	sayfası	trang	sayfa	N	N;NOM;SG;3
+trang	sayfayı	trang	sayfa	N	N;ACC;SG;3
+trang	sayfaları	trang	sayfa	N	N;ACC;PL;3
+trang	sayfalar	trang	sayfa	N	N;NOM;PL;3
+nguyên	madde	nguyên	madde	N	N;NOM;SG;3
+tạo	yaratma	tạo	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tạo	yaratmak	tạo	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tạo	oluşturma	tạo	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+tạo	yaratılmış	tạo	yarat	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+tạo	oluşturuldu	tạo	oluş	V	V;PFV;IND;SG;3;POS;PST;PASS
+tạo	yaratıldı	tạo	yarat	V	V;PFV;IND;SG;3;POS;PST;PASS
+tạo	yarattı	tạo	yarat	V	V;PFV;IND;SG;3;POS;PST
+tạo	oluşturulan	tạo	oluş	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+tạo	oluştur	tạo	oluş	V	V;PFV;IMP;SG;2;POS;PRS;CAUS
+tạo	oluşturun	tạo	oluş	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+tạo	oluşturma	tạo	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+tạo	yarat	tạo	yarat	V	V;PFV;IMP;SG;2;POS;PRS
+tạo	oluşturmak	tạo	oluş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+tạo	yaratma	tạo	yarat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tạo	oluşturma	tạo	oluş	V	V;PFV;IND;SG;2;POS;PRS;CAUS
+tạo	oluştur	tạo	oluş	V	V;PFV;IMP;SG;2;POS;PRS;CAUS
+cầu	briç	cầu	briç	N	N;NOM;SG;3
+cầu	köprüsü	cầu	köprü	N	N;NOM;SG;3
+cầu	köprüler	cầu	köprü	N	N;NOM;PL;3
+trận	savaş	trận	savaş	N	N;NOM;SG;3
+trận	muharebe	trận	muharebe	N	N;NOM;SG;3
+lịch	takvimi	lịch	takvim	N	N;NOM;SG;3
+lịch	takvimler	lịch	takvim	N	N;NOM;PL;3
+lịch	programı	lịch	program	N	N;ACC;SG;3
+đạo	dinin	đạo	din	N	N;GEN;SG;3
+đạo	ahlak	đạo	ahlak	N	N;NOM;SG;3
+bắt	alınmış	bắt	al	V	V;PFV;NFH;IND;POS;PST;PASS
+bắt	alındı	bắt	al	V	V;PFV;IND;SG;3;POS;PST;PASS
+bắt	alınan	bắt	al	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+bắt	aldı	bắt	al	V	V;PFV;IND;SG;3;POS;PST
+bắt	alınır	bắt	al	V	V;IPFV;IND;SG;3;POS;PASS
+bắt	al	bắt	al	V	V;PFV;IMP;SG;2;POS;PRS
+bắt	alın	bắt	al	V	V;PFV;IMP;PL;2;POS;PRS
+mặt	yüzleri	mặt	yüz	N	N;ACC;PL;3
+mặt	yüzün	mặt	yüz	N	N;NOM;SG;3
+mặt	yüzünü	mặt	yüz	N	N;ACC;SG;3
+mặt	yüzü	mặt	yüz	N	N;ACC;SG;3
+tinh	planet	tinh	planet	N	N;NOM;SG;3
+vực	alanı	vực	alan	N	N;NOM;SG;3
+tới	vardım	tới	var	V	V;PFV;IND;SG;1;POS;PST
+tới	geldi	tới	gel	V	V;PFV;IND;SG;3;POS;PST
+tới	geliyor	tới	gel	V	V;PROG;IND;SG;3;POS;INFM;PRS
+tới	geliyorum	tới	gel	V	V;PROG;IND;SG;1;POS;INFM;PRS
+luận	yorumda	luận	yorum	N	N;ESS;SG;3
+luận	yorumu	luận	yorum	N	N;ACC;SG;3
+luận	yoruma	luận	yorum	N	N;DAT;SG;3
+hải	kurs	hải	kurs	N	N;NOM;SG;3
+cấp	seviyeleri	cấp	seviye	N	N;ACC;PL;3
+lần	kez	lần	kez	N	N;NOM;SG;3
+lần	zamanlar	lần	zaman	N	N;NOM;PL;3
+làng	köyleri	làng	köy	N	N;ACC;PL;3
+vương	zenginler	vương	zengin	N	N;NOM;PL;3
+nhật	japon	nhật	japon		
+viết	yazdı	viết	yaz	V	V;PFV;IND;SG;3;POS;PST
+viết	yazmak	viết	yaz	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+bảo	sor	bảo	sor	V	V;PFV;IMP;SG;2;POS;PRS
+bảo	dedi	bảo	de	V	V;PFV;IND;SG;3;POS;PST
+đơn	formlar	đơn	form	N	N;NOM;PL;3
+đơn	formları	đơn	form	N	N;ACC;PL;3
+thiên	thien	thiên	thien	N	N;NOM;SG;3
+thiên	cennet	thiên	cennet	N	N;NOM;SG;3
+thiên	paradise	thiên	paradise	N	N;NOM;SG;3
+điện	elektrik	điện	elektrik	N	N;NOM;SG;3
+điện	elektrik	điện	elektrik	N	N;NOM;SG;3
+điện	elektrik	điện	elektrik	N	N;NOM;SG;3
+thấy	görüldü	thấy	gör	V	V;PFV;IND;SG;3;POS;PST;PASS
+thấy	görülen	thấy	gör	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+bao	bao	bao	bao		
+bao	asla	bao	asla		
+bao	hic	bao	hic		
+bao	çuval	bao	çuval		
+bao	torba	bao	torba		
+bao	nasil	bao	nasil		
+bao	nası	bao	nası		
+bao	nasıl	bao	nasıl		
+fontsize	fontsize	fontsize	fontsize		
+nội	dedesi	nội	dede	N	N;NOM;SG;3
+nội	dedem	nội	dede	N	N;NOM;SG;3
+năng	yetenekler	năng	yetenek	N	N;NOM;PL;3
+năng	yetenekleri	năng	yetenek	N	N;NOM;PL;3
+tiêu	gol	tiêu	gol	N	N;NOM;SG;3
+thiết	gerekliydi	thiết	gerekli	V	V;PFV;IND;SG;3;POS;PST
+gian	zaman	gian	zaman	N	N;NOM;SG;3
+gian	süre	gian	süre	N	N;NOM;SG;3
+đảo	adası	đảo	ada	N	N;NOM;SG;3
+đảo	adaları	đảo	ada	N	N;ACC;PL;3
+đảo	adalar	đảo	ada	N	N;NOM;PL;3
+thanh	vokal	thanh	vokal		
+dùng	kullanın	dùng	kullan	V	V;PFV;IMP;PL;2;POS;PRS
+dùng	kullanmak	dùng	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nói	dedi	nói	de	V	V;PFV;IND;SG;3;POS;PST
+nói	diyor	nói	de	V	V;PROG;IND;SG;3;POS;INFM;PRS
+nói	söyleyin	nói	söyle	V	V;PFV;IMP;PL;2;POS;PRS
+nói	konuşmak	nói	konuş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+latns	latns	latns	latns		
+longew	longew	longew	longew		
+longd	longd	longd	longd		
+latd	latd	latd	lat		
+latm	latm	latm	latm		
+longm	longm	longm	long		
+sông	nehri	sông	nehir	N	N;ACC;SG;3
+sông	nehirler	sông	nehir	N	N;NOM;PL;3
+sông	nehirleri	sông	nehir	N	N;NOM;PL;3
+phủ	devlet	phủ	devlet	N	N;NOM;SG;3
+phủ	elitlerin	phủ	elit	N	N;GEN;PL;3
+phòng	oda	phòng	oda	N	N;NOM;SG;3
+phòng	odalar	phòng	oda	N	N;NOM;PL;3
+phòng	odaları	phòng	oda	N	N;ACC;PL;3
+phòng	oda	phòng	oda	N	N;NOM;SG;3
+đổi	kullanmak	đổi	kullan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đổi	değiştirme	đổi	değiş	V	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+dịch	tercüman	dịch	tercüman		
+dịch	çevirmen	dịch	çevir		
+dịch	tercüme	dịch	tercüme		
+dịch	çevirmen	dịch	çevir		
+dịch	çeviri	dịch	çevir		
+dịch	tercüme	dịch	tercüme		
+dịch	çevir	dịch	çevir		
+dịch	çeviri	dịch	çevir		
+tài	yetenek	tài	yetenek	N	N;NOM;SG;3
+biết	biliyor	biết	bil	V	V;PROG;IND;SG;3;POS;INFM;PRS
+chất	madde	chất	madde	N	N;NOM;SG;3
+binh	askerler	binh	asker	N	N;NOM;PL;3
+sáng	kahvaltı	sáng	kahvaltı	N	N;NOM;SG;3
+sáng	aydınlık	sáng	aydınlık	N	N;NOM;SG;3
+sáng	sabah	sáng	sabah	N	N;NOM;SG;3
+sáng	sabahlar	sáng	sabah	N	N;NOM;PL;3
+thân	ceset	thân	ceset		
+thân	vücut	thân	vücut		
+thân	beden	thân	beden		
+thổ	türkler	thổ	türk	N	N;NOM;PL;3
+nơi	yer	nơi	yer	N	N;NOM;SG;3
+viện	enstitüsü	viện	enstitü	N	N;NOM;SG;3
+sân	avlu	sân	avlu	N	N;NOM;SG;3
+nổi	meşhur	nổi	meşhur		
+nổi	şöhret	nổi	şöhret		
+đặt	koy	đặt	koy	V	V;PFV;IMP;SG;2;POS;PRS
+đặt	seçin	đặt	seç	V	V;PFV;IMP;PL;2;POS;PRS
+đặt	seçiniz	đặt	seç	V	V;PFV;IMP;PL;2;POS;PRS
+đình	ailesi	đình	aile	N	N;NOM;SG;3
+tấn	tonluk	tấn	tonluk	N	N;NOM;SG;3
+chim	kuşlar	chim	kuş	N	N;NOM;PL;3
+dài	uzun	dài	uzun	ADJ	ADJ
+bóng	gölgeleri	bóng	gölge	N	N;ACC;PL;3
+bóng	gölgelerin	bóng	gölge	N	N;GEN;PL;3
+bóng	gölgeler	bóng	gölge	N	N;NOM;PL;3
+vua	kralları	vua	kral	N	N;ACC;PL;3
+vua	krallar	vua	kral	N	N;NOM;PL;3
+biến	dönüştür	biến	dönüş	V	V;PFV;IMP;SG;2;POS;PRS;CAUS
+chương	bolum	chương	bol	N	N;NOM;SG;3
+chương	programı	chương	program	N	N;ACC;SG;3
+chương	bölümleri	chương	bölüm	N	N;ACC;PL;3
+chương	bölümler	chương	bölüm	N	N;NOM;PL;3
+nghệ	zerdeçal	nghệ	zerdeçal	N	N;NOM;SG;3
+mất	kaybolmuş	mất	kaybol	V	V;PFV;NFH;IND;SG;3;POS;PST
+mất	kaybettim	mất	kaybet	V	V;PFV;IND;SG;1;POS;PST
+mất	kaybettik	mất	kaybet	V	V;PFV;IND;PL;1;POS;PST
+mục	eşyalar	mục	eşya	N	N;NOM;PL;3
+mục	ürünler	mục	ürün	N	N;NOM;PL;3
+mục	dizini	mục	diz	N	N;ACC;SG;3
+tìm	bakıyor	tìm	bak	V	V;PROG;IND;SG;3;POS;INFM;PRS
+tìm	bakmak	tìm	bak	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tìm	bakıyorum	tìm	bak	V	V;PROG;IND;SG;1;POS;INFM;PRS
+tìm	görünüyor	tìm	görün	V	V;PROG;IND;SG;3;POS;INFM;PRS
+tìm	arayın	tìm	ara	V	V;PFV;IMP;PL;2;POS;PRS
+tìm	bulmak	tìm	bul	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tìm	bulun	tìm	bul	V	V;PFV;IMP;PL;2;POS;PRS
+tìm	bul	tìm	bul	V	V;PFV;IMP;SG;2;POS;PRS
+kiến	karıncalar	kiến	karınca	N	N;NOM;PL;3
+thần	tanrılar	thần	tanrı	N	N;NOM;PL;3
+bạn	arkadaşım	bạn	arkadaş	N	N;NOM;SG;3
+thay	değiştirme	thay	değiş	V	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+nhóm	gruplar	nhóm	grup	N	N;NOM;PL;3
+nhóm	grupları	nhóm	grup	N	N;ACC;PL;3
+phẩm	başyapıt	phẩm	başyapıt	N	N;NOM;SG;3
+giá	fiyatları	giá	fiyat	N	N;ACC;PL;3
+giá	fiyatlar	giá	fiyat	N	N;NOM;PL;3
+giá	fiyatlara	giá	fiyat	N	N;DAT;PL;3
+giá	fiyatı	giá	fiyat	N	N;ACC;SG;3
+giá	değeri	giá	değer	N	N;ACC;SG;3
+chí	gündönümü	chí	gündönüm	N	N;ACC;SG;3
+nhiệt	sıcaklık	nhiệt	sıcaklık	N	N;NOM;SG;3
+nhiệt	sıcaklık	nhiệt	sıcaklık	N	N;NOM;SG;3
+nhiệt	sıcaklığı	nhiệt	sıcaklık	N	N;ACC;SG;3
+vai	omuzlar	vai	omuz	N	N;NOM;PL;3
+vai	omuzları	vai	omuz	N	N;ACC;PL;3
+gần	yakınında	gần	yakın	ADJ	ADJ;ESS;SG;3
+gần	yakınındaki	gần	yakınındaki	ADJ	ADJ;ESS;SG;3
+lớp	sınıf	lớp	sınıf	N	N;NOM;SG;3
+quyết	karar	quyết	karar	N	N;NOM;SG;3
+thương	yaralandı	thương	yarala	V	V;PFV;IND;SG;3;POS;PST;PASS
+thương	yaralandı	thương	yarala	V	V;PFV;IND;SG;3;POS;PST;PASS
+chân	ayakları	chân	ayak	N	N;NOM;PL;3
+chân	ayak	chân	ayak	N	N;NOM;SG;3
+chân	ayaklar	chân	ayak	N	N;NOM;PL;3
+chân	bacakları	chân	bacak	N	N;NOM;PL;3
+chân	bacaklar	chân	bacak	N	N;NOM;PL;3
+đời	yaşam	đời	yaşam	N	N;NOM;SG;3
+chơi	oynayın	chơi	oyna	V	V;PFV;IMP;PL;2;POS;PRS
+chơi	oynuyor	chơi	oyna	V	V;PROG;IND;SG;3;POS;INFM;PRS
+chơi	oynamak	chơi	oyna	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+mùa	sezonu	mùa	sezon	N	N;ACC;SG;3
+nguồn	kaynakları	nguồn	kaynak	N	N;ACC;PL;3
+nguồn	kaynaklar	nguồn	kaynak	N	N;NOM;PL;3
+long	ejderha	long	ejderha	N	N;NOM;SG;3
+đưa	verin	đưa	ver	V	V;PFV;IMP;PL;2;POS;PRS
+đóng	kapat	đóng	kapat	V	V;PFV;IMP;SG;2;POS;PRS
+đóng	kapanıyor	đóng	kapa	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+đóng	kapanış	đóng	kapa	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+đóng	kapatılmış	đóng	kapa	V	V;PFV;NFH;IND;POS;PST;PASS
+đóng	kapatıldı	đóng	kapa	V	V;PFV;IND;SG;3;POS;PST;PASS
+đóng	kapandı	đóng	kapa	V	V;PFV;IND;SG;3;POS;PST;PASS
+đóng	kapanıyor	đóng	kapa	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+đóng	kapatır	đóng	kapa	V	V;IPFV;IND;SG;3;POS;CAUS
+đóng	kapanır	đóng	kapa	V	V;IPFV;IND;SG;3;POS;PASS
+thắng	kazanın	thắng	kaza	N	N;GEN;SG;3
+thắng	galibiyet	thắng	galibiyet	N	N;NOM;SG;3
+thắng	galibiyet	thắng	galibiyet	N	N;NOM;SG;3
+mang	taşımak	mang	taşı	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+mang	getir	mang	getir	V	V;PFV;IMP;SG;2;POS;PRS
+mang	getirin	mang	getir	V	V;PFV;IMP;PL;2;POS;PRS
+khí	silahları	khí	silah	N	N;NOM;PL;3
+khí	silahlar	khí	silah	N	N;NOM;PL;3
+khí	air	khí	air	N	N;NOM;SG;3
+hạng	sınıflar	hạng	sınıf	N	N;NOM;PL;3
+hạng	dersleri	hạng	ders	N	N;NOM;PL;3
+hạng	sınıfları	hạng	sınıf	N	N;NOM;PL;3
+hạng	dersler	hạng	ders	N	N;NOM;PL;3
+hạng	sınıf	hạng	sınıf	N	N;NOM;SG;3
+hướng	yönü	hướng	yön	N	N;ACC;SG;3
+hướng	oryantasyon	hướng	oryantasyon	N	N;NOM;SG;3
+huy	komuta	huy	komut	N	N;NOM;SG;3
+cây	bitkiler	cây	bitki	N	N;NOM;PL;3
+cây	bitkileri	cây	bitki	N	N;ACC;PL;3
+cây	ağaçlar	cây	ağaç	N	N;NOM;PL;3
+thư	postalar	thư	posta	N	N;NOM;PL;3
+thư	mektuplar	thư	mektup	N	N;NOM;PL;3
+thư	harfler	thư	harf	N	N;NOM;PL;3
+thư	mektup	thư	mektup	N	N;NOM;SG;3
+thư	mektup	thư	mektup	N	N;NOM;SG;3
+giữ	tutun	giữ	tut	V	V;PFV;IMP;PL;2;POS;PRS
+giữ	tut	giữ	tut	V	V;PFV;IMP;SG;2;POS;PRS
+cảnh	sahneler	cảnh	sahne	N	N;NOM;PL;3
+cảnh	sahnesi	cảnh	sahne	N	N;NOM;SG;3
+nga	ruslar	nga	rus	N	N;NOM;PL;3
+nga	rusları	nga	rus	N	N;ACC;PL;3
+nga	ruslarla	nga	rus	N	N;INS;PL;3
+triệu	milyonlarca	triệu	milyonlarca	NUM	NUM
+thi	sınav	thi	sınav	N	N;NOM;SG;3
+thi	muayene	thi	muayene	N	N;NOM;SG;3
+thi	sınav	thi	sınav	N	N;NOM;SG;3
+thi	sınavlar	thi	sınav	N	N;NOM;PL;3
+yếu	zayıflar	yếu	zayıf	N	N;NOM;PL;3
+mật	safra	mật	safra	N	N;NOM;SG;3
+mạng	ağları	mạng	ağ	N	N;ACC;PL;3
+câu	ceza	câu	ceza	N	N;NOM;SG;3
+câu	cümleleri	câu	cümle	N	N;ACC;PL;3
+câu	hükümler	câu	hüküm	N	N;NOM;PL;3
+câu	cümleler	câu	cümle	N	N;NOM;PL;3
+câu	cezalar	câu	ceza	N	N;NOM;PL;3
+ghi	yazmak	ghi	yaz	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+giả	jia	giả	jia		
+giả	sahte	giả	sahte		
+giả	sahte	giả	sahte		
+cung	verir	cung	ver	V	V;IPFV;IND;SG;3;POS
+cung	veriyor	cung	ver	V	V;PROG;IND;SG;3;POS;INFM;PRS
+đài	kalesi	đài	kale	N	N;NOM;SG;3
+tượng	nesneler	tượng	nesne	N	N;NOM;PL;3
+tượng	nesneleri	tượng	nesne	N	N;ACC;PL;3
+tượng	heykelleri	tượng	heykel	N	N;NOM;PL;3
+tượng	heykeller	tượng	heykel	N	N;NOM;PL;3
+nhập	girdi	nhập	gir	V	V;PFV;IND;SG;3;POS;PST
+nhập	girin	nhập	gir	V	V;PFV;IMP;PL;2;POS;PRS
+nhập	gir	nhập	gir	V	V;PFV;IMP;SG;2;POS;PRS
+hạt	parçacıklar	hạt	parçacık	N	N;NOM;PL;3
+hạt	parçacıkların	hạt	parçacık	N	N;GEN;PL;3
+hạt	parçacıkları	hạt	parçacık	N	N;NOM;PL;3
+hạt	çekirdeği	hạt	çekir	N	N;NOM;SG;3
+hạt	parçacık	hạt	parçacık	N	N;NOM;SG;3
+hạt	şehristanı	hạt	şehristan	N	N;NOM;SG;3
+chết	öldü	chết	öl	V	V;PFV;IND;SG;3;POS;PST
+chết	öldüm	chết	öl	V	V;PFV;IND;SG;1;POS;PST
+chết	öldü	chết	öl	V	V;PFV;IND;SG;3;POS;PST
+lạc	iletisim	lạc	ileti	N	N;NOM;SG;3
+lạc	iletişim	lạc	iletiş	N	N;NOM;SG;3
+chung	genel	chung	genel	ADJ	ADJ
+màu	renkler	màu	renk	N	N;NOM;PL;3
+màu	renkleri	màu	renk	N	N;NOM;PL;3
+mẫu	şablonlar	mẫu	şablon	N	N;NOM;PL;3
+mẫu	numune	mẫu	num	N	N;DAT;SG;3
+mẫu	şablonu	mẫu	şablo	N	N;ACC;SG;3
+tất	çorap	tất	çor		
+mạnh	güçlüler	mạnh	güçlü	ADJ	ADJ;NOM;PL;3
+trái	soldaki	trái	soldaki		
+trái	sol	trái	sol		
+trái	sola	trái	sola		
+bán	satmak	bán	sat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+bán	satılmış	bán	sat	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+bán	satılan	bán	sat	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+bán	satıldı	bán	sat	V	V;PFV;IND;SG;3;POS;PST;PASS
+bán	sattı	bán	sat	V	V;PFV;IND;SG;3;POS;PST
+bán	satılır	bán	sat	V	V;IPFV;IND;SG;3;POS;PASS
+bán	satıyor	bán	sat	V	V;PROG;IND;SG;3;POS;INFM;PRS
+bán	satmak	bán	sat	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+bán	satıyorum	bán	sat	V	V;PROG;IND;SG;1;POS;INFM;PRS
+rộng	geniş	rộng	geniş	ADJ	ADJ
+rộng	geniş	rộng	geniş	ADJ	ADJ
+thuyết	teorisi	thuyết	teori	N	N;NOM;SG;3
+thuyết	kuramı	thuyết	kuram	N	N;NOM;SG;3
+thuyết	teori	thuyết	teori	N	N;NOM;SG;3
+album	albümleri	album	albüm	N	N;ACC;PL;3
+đạt	başarmak	đạt	başar	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+giờ	saatleri	giờ	saat	N	N;ACC;PL;3
+giờ	saatler	giờ	saat	N	N;NOM;PL;3
+núi	mountain	núi	mountain	N	N;NOM;SG;3
+núi	dağları	núi	dağ	N	N;NOM;PL;3
+núi	dağlar	núi	dağ	N	N;NOM;PL;3
+núi	dağlara	núi	dağ	N	N;DAT;PL;3
+lấy	al	lấy	al	V	V;PFV;IMP;SG;2;POS;PRS
+lấy	alın	lấy	al	V	V;PFV;IMP;PL;2;POS;PRS
+lấy	al	lấy	al	V	V;PFV;IMP;SG;2;POS;PRS
+lấy	alın	lấy	al	V	V;PFV;IMP;PL;2;POS;PRS
+luật	kurallar	luật	kural	N	N;NOM;PL;3
+luật	kuralları	luật	kural	N	N;ACC;PL;3
+luật	kanunlar	luật	kanun	N	N;NOM;PL;3
+luật	yasalar	luật	yasa	N	N;NOM;PL;3
+luật	yasaları	luật	yasa	N	N;NOM;PL;3
+đoạn	parçacık	đoạn	parçacık	N	N;NOM;SG;3
+đoạn	paragraf	đoạn	paragraf	N	N;NOM;SG;3
+yêu	sevdiğini	yêu	sev	V	V;PFV;ACC;IND;POS;PST;V.PTCP
+yêu	sevilen	yêu	sev	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+yêu	sevmek	yêu	sev	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+môi	dudaklar	môi	dudak	N	N;NOM;PL;3
+nhện	örümcek	nhện	örü	N	N;NOM;SG;3
+nhện	örümcek	nhện	örü	N	N;NOM;SG;3
+nhện	örümcekler	nhện	örümcek	N	N;NOM;PL;3
+pháo	batarya	pháo	batar	N	N;NOM;SG;3
+nha	dişçi	nha	dişçi		
+nha	diş	nha	diş		
+phá	kırılma	phá	kır	V	V;PFV;NOM;IMP;POS;PRS;PASS
+tay	silahlar	tay	silah	N	N;NOM;PL;3
+tay	kolları	tay	kol	N	N;ACC;PL;3
+tay	el	tay	el	N	N;NOM;SG;3
+tay	eller	tay	el	N	N;NOM;PL;3
+tay	elleri	tay	el	N	N;ACC;PL;3
+chia	paylaştım	chia	paylaş	V	V;PFV;IND;SG;1;POS;PST
+chia	paylaşılan	chia	paylaşı	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+chia	paylaşıldı	chia	paylaş	V	V;PFV;IND;SG;3;POS;PST;PASS
+chia	paylaştı	chia	paylaş	V	V;PFV;IND;SG;3;POS;PST
+chia	bölündü	chia	böl	V	V;PFV;IND;SG;3;POS;PST;PASS
+chia	bölünmüş	chia	böl	V	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+chia	paylaşalım	chia	paylaş	V	V;PFV;OPT;PL;1;POS;PRS
+chia	paylaşın	chia	paylaş	V	V;PFV;IMP;PL;2;POS;PRS
+chia	paylaşma	chia	paylaş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+chia	bölünmüş	chia	böl	V	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+tiết	detaylar	tiết	detay	N	N;NOM;PL;3
+tiết	ayrıntılar	tiết	ayrıntı	N	N;NOM;PL;3
+tiết	detayları	tiết	detay	N	N;NOM;PL;3
+lời	kelimesi	lời	kelime	N	N;NOM;SG;3
+lời	kelimeler	lời	kelime	N	N;NOM;PL;3
+lời	sözcükler	lời	sözcük	N	N;NOM;PL;3
+lời	sözler	lời	söz	N	N;NOM;PL;3
+ruồi	sinekler	ruồi	sinek	N	N;NOM;PL;3
+chọn	seçin	chọn	seç	V	V;PFV;IMP;PL;2;POS;PRS
+chọn	seçmek	chọn	seç	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+chọn	seçin	chọn	seç	V	V;PFV;IMP;PL;2;POS;PRS
+chọn	seçiniz	chọn	seç	V	V;PFV;IMP;PL;2;POS;PRS
+lục	yeşillik	lục	yeşillik	N	N;NOM;SG;3
+bàn	masası	bàn	masa	N	N;NOM;SG;3
+bàn	masalar	bàn	masa	N	N;NOM;PL;3
+bàn	masaları	bàn	masa	N	N;ACC;PL;3
+bàn	masalar	bàn	masa	N	N;NOM;PL;3
+bàn	tablolar	bàn	tablo	N	N;NOM;PL;3
+bàn	masaları	bàn	masa	N	N;ACC;PL;3
+tuần	hafta	tuần	hafta	N	N;NOM;SG;3
+tuần	hafta	tuần	hafta	N	N;NOM;SG;3
+tuần	haftalar	tuần	hafta	N	N;NOM;PL;3
+ngoại	babaanne	ngoại	babaann	N	N;DAT;SG;3
+ngoại	anneanne	ngoại	anneanne	N	N;NOM;SG;3
+ngoại	büyükanne	ngoại	büyükan	N	N;NOM;SG;3
+phiên	oturumu	phiên	oturum	N	N;ACC;SG;3
+phiên	sürümü	phiên	sürü	N	N;ACC;SG;3
+chứng	sertifika	chứng	sertifika	N	N;NOM;SG;3
+chứng	sertifikaları	chứng	sertifika	N	N;NOM;PL;3
+dung	içerik	dung	içerik		
+dung	gübre	dung	gübre		
+dung	içerik	dung	içerik		
+bệnh	hastalık	bệnh	hastalık	N	N;NOM;SG;3
+bệnh	hastalıklar	bệnh	hastalık	N	N;NOM;PL;3
+bệnh	hastalıkları	bệnh	hastalık	N	N;NOM;PL;3
+bệnh	hastalıklara	bệnh	hastalık	N	N;DAT;PL;3
+vòng	çevresinde	vòng	çevre	N	N;ESS;SG;3
+vòng	çevrede	vòng	çevre	N	N;ESS;SG;3
+vòng	etrafta	vòng	etraf	N	N;ESS;SG;3
+vòng	etrafında	vòng	etraf	N	N;ESS;SG;3
+đào	mezarlar	đào	mezar	N	N;NOM;PL;3
+đào	mezarları	đào	mezar	N	N;ACC;PL;3
+tốt	güzel	tốt	güzel	ADJ	ADJ
+lệnh	komut	lệnh	komut		
+lệnh	komut	lệnh	komut		
+lệnh	emir	lệnh	imir		
+gây	göründü	gây	görün	V	V;PFV;IND;SG;3;POS;PST
+chữ	mektuplar	chữ	mektup	N	N;NOM;PL;3
+chữ	harfler	chữ	harf	N	N;NOM;PL;3
+chữ	mektup	chữ	mektup	N	N;NOM;SG;3
+chữ	mektup	chữ	mektup	N	N;NOM;SG;3
+lợi	faydaları	lợi	fayda	N	N;NOM;PL;3
+lợi	avantajları	lợi	avantaj	N	N;NOM;PL;3
+hết	bitti	hết	bit	V	V;PFV;IND;SG;3;POS;PST
+hầu	nerdeyse	hầu	nerdeyse		
+hầu	neredeyse	hầu	neredeyse		
+hầu	hou	hầu	hou		
+mặc	giymek	mặc	giy	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+mặc	giyiyor	mặc	giy	V	V;PROG;IND;SG;3;POS;INFM;PRS
+hạn	limiti	hạn	limit	N	N;NOM;SG;3
+hạn	sınırı	hạn	sınır	N	N;ACC;SG;3
+gốc	orijinal	gốc	orijinal		
+gốc	özgün	gốc	özgün		
+gốc	orjinal	gốc	orjinal		
+gốc	aslı	gốc	aslı		
+muốn	istiyorum	muốn	iste	V	V;PROG;IND;SG;1;POS;INFM;PRS
+ninh	ninh	ninh	ninh	N	N;NOM;SG;3
+ninh	güvenlik	ninh	güvenlik	N	N;NOM;SG;3
+đĩa	disk	đĩa	disk		
+đĩa	plaka	đĩa	plaka		
+đĩa	levha	đĩa	levha		
+đĩa	tabak	đĩa	tabak		
+đĩa	disk	đĩa	disk		
+quang	kafatası	quang	kafata	N	N;NOM;SG;3
+dòng	hatlar	dòng	hat	N	N;NOM;PL;3
+dòng	hatları	dòng	hat	N	N;ACC;PL;3
+dòng	çizgiler	dòng	çizgi	N	N;NOM;PL;3
+cận	kapanıyor	cận	kapa	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+cận	kapanış	cận	kapa	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+khách	konuk	khách	konuk	N	N;NOM;SG;3
+khách	misafir	khách	misafir	N	N;NOM;SG;3
+khách	ziyaretçi	khách	ziyaretçi	N	N;NOM;SG;3
+khách	ziyaret	khách	ziyaret	N	N;NOM;SG;3
+khách	ziyaretçi	khách	ziyaretçi	N	N;NOM;SG;3
+khách	ziyaretçileri	khách	ziyaretçi	N	N;NOM;PL;3
+khách	ziyaretçiler	khách	ziyaretçi	N	N;NOM;PL;3
+khách	misafirler	khách	misafir	N	N;NOM;PL;3
+khách	konuklar	khách	konuk	N	N;NOM;PL;3
+khách	misafir	khách	misafir	N	N;NOM;SG;3
+khách	konuk	khách	konuk	N	N;NOM;SG;3
+thơ	şiirler	thơ	şiir	N	N;NOM;PL;3
+thơ	şiirler	thơ	şiir	N	N;NOM;PL;3
+trai	çocuk	trai	çocuk	N	N;NOM;SG;3
+trai	oğlum	trai	oğul	N	N;NOM;SG;3
+cải	hediye	cải	hedi	N	N;NOM;SG;3
+cải	hediyeler	cải	hediye	N	N;NOM;PL;3
+chạy	koşarak	chạy	koş	V	V;PFV;IND;POS;PRS;V.CVB
+chạy	koşmak	chạy	koş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+chạy	koşarken	chạy	koş	V	V;IPFV;IND;SG;3;POS;V.CVB
+chạy	koşuyor	chạy	koş	V	V;PROG;IND;SG;3;POS;INFM;PRS
+nông	çiftlik	nông	çiftlik	N	N;NOM;SG;3
+nông	çiftliği	nông	çiftlik	N	N;ACC;SG;3
+nông	çiftçilerin	nông	çiftçi	N	N;GEN;PL;3
+tức	anlık	tức	anlık		
+bảng	panelleri	bảng	panel	N	N;ACC;PL;3
+bảng	masalar	bảng	masa	N	N;NOM;PL;3
+bảng	tablolar	bảng	tablo	N	N;NOM;PL;3
+bảng	masaları	bảng	masa	N	N;ACC;PL;3
+phú	phu	phú	phu	N	N;NOM;SG;3
+chiều	öğleden	chiều	öğle	N	N;AT+ABL;SG;3
+chiều	boyutlar	chiều	boyu	N	N;NOM;PL;3
+chiều	boyutları	chiều	boyut	N	N;ACC;PL;3
+cực	cok	cực	cok		
+cực	çok	cực	çok		
+cực	kutup	cực	kutup		
+cực	direk	cực	direk		
+cực	kutup	cực	kutup		
+cực	kutbu	cực	kutbu		
+dục	merdivenler	dục	merdiven	N	N;NOM;PL;3
+dục	merdivenleri	dục	merdiven	N	N;ACC;PL;3
+lương	maaşı	lương	maaş	N	N;NOM;SG;3
+lương	maaşları	lương	maaş	N	N;ACC;PL;3
+mét	ayakları	mét	ayak	N	N;NOM;PL;3
+mét	ayak	mét	ayak	N	N;NOM;SG;3
+mét	ayaklar	mét	ayak	N	N;NOM;PL;3
+lâu	uzun	lâu	uzun	ADJ	ADJ
+gặp	tanışmak	gặp	tanış	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+bại	yenilmiş	bại	yen	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+bại	yenildi	bại	yenil	V	V;PFV;IND;SG;3;POS;PST;PASS
+chu	muhtemelen	chu	muhtemel		
+chu	zhu	chu	zhu		
+chu	chu	chu	chu		
+chu	zhou	chu	zhou		
+ước	dilek	ước	dilek		
+ước	keske	ước	keske		
+ước	dilek	ước	dilek		
+vài	birkaç	vài	birkaç	DET	DET
+san	san	san	san		
+nền	geçmişi	nền	geçmiş		
+nền	arkaplan	nền	arkapla		
+quần	pantolon	quần	pantolon	N	N;NOM;SG;3
+quần	pantolonlar	quần	pantolon	N	N;NOM;PL;3
+quần	pantolon	quần	pantolon	N	N;NOM;SG;3
+quần	pantolonlar	quần	pantolon	N	N;NOM;PL;3
+style	tarz	style	tarz		
+style	stil	style	stil		
+style	tarzı	style	tarz		
+style	biçim	style	biçim		
+giai	melody	giai	melody		
+giai	melodi	giai	melodi		
+quay	döndürme	quay	dön	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+quay	dön	quay	dön	V	V;PFV;IMP;SG;2;POS;PRS
+quay	döndürme	quay	dön	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+quay	döndürme	quay	dön	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+quay	dön	quay	dön	V	V;PFV;IMP;SG;2;POS;PRS
+điển	sözlük	điển	sözlük	N	N;NOM;SG;3
+điển	sözlüğü	điển	sözlük	N	N;NOM;SG;3
+american	american	american	american	N	N;NOM;SG;3
+rừng	ormanlar	rừng	orman	N	N;NOM;PL;3
+rừng	ormanları	rừng	orman	N	N;NOM;PL;3
+toán	matematik	toán	matematik	N	N;NOM;SG;3
+toán	matematik	toán	matematik	N	N;NOM;SG;3
+toán	matematik	toán	matematik	N	N;NOM;SG;3
+truyện	hikaye	truyện	hika	N	N;NOM;SG;3
+truyện	hikâyeler	truyện	hikuye	N	N;NOM;PL;3
+truyện	haberler	truyện	haber	N	N;NOM;PL;3
+truyện	öyküler	truyện	öykü	N	N;NOM;PL;3
+truyện	hikayeler	truyện	hikaye	N	N;NOM;PL;3
+phóng	fırlatma	phóng	fırlatma	V	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+khởi	başlayın	khởi	başla	V	V;PFV;IMP;PL;2;POS;PRS
+bầu	oylama	bầu	oyla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+thờ	kiliseye	thờ	kili	N	N;DAT;SG;3
+mềm	yufka	mềm	yufka	N	N;NOM;SG;3
+cửa	kapı	cửa	kapı	N	N;NOM;SG;3
+cửa	kapılar	cửa	kapı	N	N;NOM;PL;3
+cửa	kapıları	cửa	kapı	N	N;ACC;PL;3
+cửa	kapı	cửa	kapı	N	N;NOM;SG;3
+cha	baba	cha	baba	N	N;NOM;SG;3
+giết	öldürmek	giết	öl	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+giết	öldürme	giết	öl	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+giết	öldürün	giết	öl	V	V;PFV;IMP;PL;2;POS;PRS
+giết	öldürün	giết	öl	V	V;PFV;IMP;PL;2;POS;PRS
+nhanh	hızlı	nhanh	hızlı	ADJ	ADJ
+nhanh	hızlı	nhanh	hızlı	ADJ	ADJ
+hương	lezzet	hương	lezzet	N	N;NOM;SG;3
+hương	tadı	hương	tat	N	N;NOM;SG;3
+súng	silahları	súng	silah	N	N;NOM;PL;3
+súng	silahlar	súng	silah	N	N;NOM;PL;3
+súng	silahı	súng	silah	N	N;ACC;SG;3
+súng	silahları	súng	silah	N	N;NOM;PL;3
+súng	silahlar	súng	silah	N	N;NOM;PL;3
+tối	yemek	tối	yemek	N	N;NOM;SG;3
+tối	akşam	tối	akşam	N	N;NOM;SG;3
+tối	akşamlar	tối	akşam	N	N;NOM;PL;3
+giảm	azaltmak	giảm	azal	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+bắn	vur	bắn	vur	V	V;PFV;IMP;SG;2;POS;PRS
+bắn	vuruldu	bắn	vur	V	V;PFV;IND;SG;3;POS;PST
+bắn	vurdu	bắn	vur	V	V;PFV;IND;SG;3;POS;PST
+website	site	website	sit	N	N;NOM;SG;3
+website	site	website	sit	N	N;NOM;SG;3
+website	sitede	website	site	N	N;ESS;SG;3
+mắt	göz	mắt	göz	N	N;NOM;SG;3
+mắt	gözler	mắt	göz	N	N;NOM;PL;3
+mắt	gözleri	mắt	göz	N	N;NOM;PL;3
+mắt	göz	mắt	göz	N	N;NOM;SG;3
+mắt	gözü	mắt	göz	N	N;NOM;SG;3
+mắt	gözün	mắt	göz	N	N;GEN;SG;3
+cáo	şikayet	cáo	şikayet	N	N;NOM;SG;3
+cáo	rapor	cáo	rapor	N	N;NOM;SG;3
+cáo	tilkiler	cáo	tilki	N	N;NOM;PL;3
+sai	yanlış	sai	yanlış	ADJ	ADJ
+sai	yanlış	sai	yanlış	ADJ	ADJ
+sai	yanlış	sai	yanlış	ADJ	ADJ
+sửa	düzenleyin	sửa	düzenle	V	V;PFV;IMP;PL;2;POS;PRS
+sửa	düzenleme	sửa	düzenle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+sửa	düzeltme	sửa	düzel	V	V;PFV;IMP;SG;2;POS;PRS;CAUS
+sửa	düzeltiyorum	sửa	düzel	V	V;PROG;IND;SG;1;POS;INFM;PRS;CAUS
+lửa	alevler	lửa	alev	N	N;NOM;PL;3
+trương	direktör	trương	direk	N	N;NOM;SG;3
+trương	cheung	trương	cheung	N	N;NOM;SG;3
+chuyện	hikaye	chuyện	hika	N	N;NOM;SG;3
+isbn	isbn	isbn	isbn		
+đọc	okuma	đọc	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đọc	okuyun	đọc	oku	V	V;PFV;IMP;PL;2;POS;PRS
+đọc	okumak	đọc	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đọc	okuyorum	đọc	oku	V	V;PROG;IND;SG;1;POS;INFM;PRS
+đọc	okuma	đọc	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đọc	okumak	đọc	oku	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+xung	çekişme	xung	çekiş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+xung	çatışma	xung	çatış	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nhìn	bak	nhìn	bak	V	V;PFV;IMP;SG;2;POS;PRS
+quý	hanımlar	quý	hanım	N	N;NOM;PL;3
+quý	bayanlar	quý	bayan	N	N;NOM;PL;3
+kéo	çekin	kéo	çekin	V	V;PFV;IMP;PL;2;POS;PRS
+kéo	sürükle	kéo	sürük	V	V;PFV;IMP;SG;2;POS;PRS
+chứa	içerdiği	chứa	içer	V	V;PFV;IND;POS;PST;V.PTCP
+chứa	içeriyor	chứa	içer	V	V;PROG;IND;SG;3;POS;INFM;PRS
+chứa	içeriyor	chứa	içer	V	V;PROG;IND;SG;3;POS;INFM;PRS
+saint	aziz	saint	aziz		
+saint	azize	saint	aziz		
+ngắn	kısa	ngắn	kısa	ADJ	ADJ
+trả	ödemek	trả	öde	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+lao	lao	lao	lao		
+côn	debriyaj	côn	debriyaj	N	N;NOM;SG;3
+thạch	reçel	thạch	reçel	N	N;NOM;SG;3
+phúc	mutluluklar	phúc	mutluluk	N	N;NOM;PL;3
+sâu	derinden	sâu	derin	ADJ	ADJ;AT+ABL;SG;3
+cục	bürosu	cục	bürosu		
+cục	büro	cục	büro		
+cục	ekstra	cục	ekstra		
+cục	extra	cục	extra		
+kịch	tiyatro	kịch	tiyatro	N	N;NOM;SG;3
+rút	çekin	rút	çekin	V	V;PFV;IMP;PL;2;POS;PRS
+trạng	durum	trạng	durum	N	N;NOM;SG;3
+trạng	durumu	trạng	durum	N	N;NOM;SG;3
+club	klüp	club	klüp		
+club	club	club	club		
+club	kulüp	club	kul		
+top	üst	top	üst		
+top	üstü	top	üst		
+top	top	top	top		
+tải	yükleyin	tải	yükle	V	V;PFV;IMP;PL;2;POS;PRS
+tải	yükleme	tải	yükle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+tải	yükleniyor	tải	yükle	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+hàm	işlevi	hàm	işlev	N	N;NOM;SG;3
+hàm	fonksiyonu	hàm	fonksiyon	N	N;NOM;SG;3
+hàm	çenesi	hàm	çene	N	N;NOM;SG;3
+bốn	dört	bốn	dört	NUM	NUM
+nghi	şüpheliyim	nghi	şüphel	V	V;PFV;IND;SG;1;POS;PRS
+thừa	kalıtsal	thừa	kalıtsal	ADJ	ADJ
+vốn	faizi	vốn	faiz	N	N;NOM;SG;3
+vốn	başkenti	vốn	başkent	N	N;NOM;SG;3
+hùng	kahramanlık	hùng	kahramanlık	N	N;NOM;SG;3
+sóng	dalgalar	sóng	dalga	N	N;NOM;PL;3
+phận	piskoposluk	phận	piskoposluk	N	N;NOM;SG;3
+đăng	paylaşma	đăng	paylaş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đăng	yayınlama	đăng	yayınla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đăng	yayınlamak	đăng	yayınla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+đăng	gönderildi	đăng	gönder	V	V;PFV;IND;SG;3;POS;PST;PASS
+đăng	paylaşılan	đăng	paylaşı	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+đăng	paylaşıldı	đăng	paylaş	V	V;PFV;IND;SG;3;POS;PST;PASS
+đăng	paylaştı	đăng	paylaş	V	V;PFV;IND;SG;3;POS;PST
+hiểu	anlaşıldı	hiểu	anlaş	V	V;PFV;IND;SG;3;POS;PST;PASS
+hiểu	anlıyor	hiểu	anla	V	V;PROG;IND;SG;3;POS;INFM;PRS
+hiểu	anlamak	hiểu	anla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+hiểu	anlayın	hiểu	anla	V	V;PFV;IMP;PL;2;POS;PRS
+hỏi	sor	hỏi	sor	V	V;PFV;IMP;SG;2;POS;PRS
+thú	canavarlar	thú	canav	N	N;NOM;PL;3
+đạn	mermiler	đạn	mermi	N	N;NOM;PL;3
+đạn	cephane	đạn	cephane	N	N;DAT;SG;3
+xóa	kaldırın	xóa	kal	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+kính	bardak	kính	bardak	N	N;NOM;SG;3
+kính	camlar	kính	cam	N	N;NOM;PL;3
+kính	gözlükler	kính	gözlük	N	N;NOM;PL;3
+kính	bardaklar	kính	bardak	N	N;NOM;PL;3
+kính	gözlük	kính	gözlük	N	N;NOM;SG;3
+kính	bardak	kính	bardak	N	N;NOM;SG;3
+trao	verilmesi	trao	ver	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+thử	deneyin	thử	deney	V	V;PFV;IMP;PL;2;POS;PRS
+thử	dene	thử	de	V	V;PFV;IMP;SG;2;POS;PRS
+liệt	kuzum	liệt	kuzum	N	N;NOM;SG;3
+khắc	yıldönümü	khắc	yıldönüm	N	N;ACC;SG;3
+trưng	aydınlık	trưng	aydınlık	N	N;NOM;SG;3
+trưng	parlaklık	trưng	parlaklık	N	N;NOM;SG;3
+tầm	mesafe	tầm	mesafe	N	N;NOM;SG;3
+chùa	pagoda	chùa	pago	N	N;ESS;SG;3
+chùa	tapınak	chùa	tapınak	N	N;NOM;SG;3
+chùa	tapınağı	chùa	tapınak	N	N;NOM;SG;3
+ist	ist	ist	ist		
+tháp	kuleler	tháp	kule	N	N;NOM;PL;3
+tháp	kuleleri	tháp	kule	N	N;ACC;PL;3
+tháp	tower	tháp	tower	N	N;NOM;SG;3
+tháp	kulesi	tháp	kule	N	N;NOM;SG;3
+vườn	bahçe	vườn	bahçe	N	N;NOM;SG;3
+vườn	bahçesi	vườn	bahçe	N	N;NOM;SG;3
+vườn	garden	vườn	garden	N	N;NOM;SG;3
+vườn	bahçeleri	vườn	bahçe	N	N;ACC;PL;3
+vườn	gardens	vườn	gardens	N	N;NOM;SG;3
+vườn	bahçeler	vườn	bahçe	N	N;NOM;PL;3
+group	gurup	group	gur		
+group	grup	group	grup		
+group	grubu	group	grup		
+tần	bölgede	tần	bölge	N	N;ESS;SG;3
+tần	bölgesi	tần	bölge	N	N;NOM;SG;3
+thao	ameliyat	thao	ameliyat	N	N;NOM;SG;3
+thao	operasyonu	thao	operasyon	N	N;ACC;SG;3
+loạt	bölge	loạt	bölge		
+loạt	bölge	loạt	bölge		
+team	team	team	team		
+team	ekip	team	ekip		
+team	takım	team	takım		
+suất	performansı	suất	performans	N	N;NOM;SG;3
+xanh	blue	xanh	blue	N	N;NOM;SG;3
+khóa	anahtar	khóa	anahtar	N	N;NOM;SG;3
+mối	termitler	mối	termit	N	N;NOM;PL;3
+thuốc	ilaçlar	thuốc	ilaç	N	N;NOM;PL;3
+thuốc	haplar	thuốc	hap	N	N;NOM;PL;3
+thuốc	ilaçlar	thuốc	ilaç	N	N;NOM;PL;3
+đích	istikamet	đích	istikamet		
+đích	hedef	đích	hedef		
+ngân	banka	ngân	banka	N	N;NOM;SG;3
+siêu	super	siêu	super		
+siêu	süper	siêu	süper		
+siêu	meta	siêu	meta		
+siêu	metadata	siêu	metadat		
+trách	suçluyor	trách	suçla	V	V;PROG;IND;SG;3;POS;INFM;PRS
+video	videoları	video	video	N	N;ACC;PL;3
+video	videolar	video	video	N	N;NOM;PL;3
+gray	gray	gray	gray		
+gray	gri	gray	gri		
+bom	bombalar	bom	bomba	N	N;NOM;PL;3
+nghe	duydum	nghe	duy	V	V;PFV;IND;SG;1;POS;PST
+nghe	duyuyor	nghe	duy	V	V;PROG;IND;SG;3;POS;INFM;PRS
+nghe	duyun	nghe	duy	V	V;PFV;IMP;PL;2;POS;PRS
+nghe	dinliyor	nghe	dinle	V	V;PROG;IND;SG;3;POS;INFM;PRS
+nghe	dinlemek	nghe	dinle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nghe	dinliyorum	nghe	dinle	V	V;PROG;IND;SG;1;POS;INFM;PRS
+ngựa	atlar	ngựa	at	N	N;NOM;PL;3
+ngựa	atlara	ngựa	at	N	N;DAT;PL;3
+chỗ	yer	chỗ	yer	N	N;NOM;SG;3
+thăng	helikopter	thăng	helikopter	N	N;NOM;SG;3
+thăng	helikopterle	thăng	helikopter	N	N;DAT;SG;3
+giác	duyuları	giác	duyu	N	N;ACC;PL;3
+tai	kulak	tai	kulak		
+tai	tai	tai	tai		
+bước	step	bước	step		
+bước	basamak	bước	basamak		
+bước	adım	bước	adım		
+bước	basamak	bước	basamak		
+canada	kanada	canada	kana	N	N;ESS;SG;3
+cát	sand	cát	sand	N	N;NOM;SG;3
+bác	amca	bác	amca		
+bác	dayı	bác	day		
+hôn	öpmek	hôn	öp	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+hôn	öpüyorum	hôn	öp	V	V;PROG;IND;SG;1;POS;INFM;PRS
+hôn	öpüşmek	hôn	öpüş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+hôn	öptü	hôn	öp	V	V;PFV;IND;SG;3;POS;PST
+hôn	öptüm	hôn	öptüm	V	V;PFV;IND;SG;1;POS;PST
+hôn	öpüyorum	hôn	öp	V	V;PROG;IND;SG;1;POS;INFM;PRS
+hôn	öptüm	hôn	öptüm	V	V;PFV;IND;SG;1;POS;PST
+hôn	öp	hôn	öp	V	V;PFV;IMP;SG;2;POS;PRS
+hôn	öptüm	hôn	öptüm	V	V;PFV;IND;SG;1;POS;PST
+kháng	asansör	kháng	asansör	N	N;NOM;SG;3
+xương	kemikleri	xương	kemik	N	N;NOM;PL;3
+xương	kemikler	xương	kemik	N	N;NOM;PL;3
+xương	bacakları	xương	bacak	N	N;NOM;PL;3
+xương	bacaklar	xương	bacak	N	N;NOM;PL;3
+california	california	california	california		
+đẹp	güzel	đẹp	güzel	ADJ	ADJ
+đẹp	güzel	đẹp	güzel	ADJ	ADJ
+cai	tertemiz	cai	tertemiz	N	N;NOM;SG;3
+phút	dakikalar	phút	dakika	N	N;NOM;PL;3
+phút	dakikası	phút	dakikası	N	N;NOM;SG;3
+loạn	ayaklanma	loạn	ayaklan	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+phí	ücretler	phí	ücret	N	N;NOM;PL;3
+phí	ücretleri	phí	ücret	N	N;NOM;PL;3
+cấm	yasaklanmış	cấm	yasakla	V	V;PFV;NFH;IND;SG;3;POS;PST
+cấm	yasaklanmış	cấm	yasakla	V	V;PFV;NFH;IND;SG;3;POS;PST
+cấm	yasaklanmış	cấm	yasakla	V	V;PFV;NFH;IND;SG;3;POS;PST
+nâng	kaldırın	nâng	kal	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+nâng	kaldırmak	nâng	kal	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+mai	mai	mai	mai		
+mai	mei	mai	mei		
+mai	yarin	mai	yarin		
+cảng	limanı	cảng	liman	N	N;NOM;SG;3
+tách	bölünmüş	tách	böl	V	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS
+liền	yamuk	liền	yamuk		
+liền	eğri	liền	eğri		
+cắt	kesmek	cắt	kes	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+cắt	kestik	cắt	kes	V	V;PFV;IND;PL;1;POS;PST
+http	http	http	http		
+đền	tapınak	đền	tapınak	N	N;NOM;SG;3
+đền	tapınağı	đền	tapınak	N	N;NOM;SG;3
+web	internet	web	internet	N	N;NOM;SG;3
+bào	basında	bào	bas	N	N;ESS;SG;3
+nghề	iş	nghề	iş	N	N;NOM;SG;3
+nghề	mesleği	nghề	meslek	N	N;NOM;SG;3
+ngăn	önlemek	ngăn	önle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+file	dosyası	file	dosya	N	N;NOM;SG;3
+voi	file	voi	file		
+voi	fili	voi	fili		
+voi	fil	voi	fil		
+nghĩ	düşünerek	nghĩ	düşün	V	V;PFV;IND;POS;PRS;V.CVB
+nghĩ	düşünmek	nghĩ	düşün	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nghĩ	düşünüyorum	nghĩ	düşün	V	V;PROG;IND;SG;1;POS;INFM;PRS
+nghĩ	düşünün	nghĩ	düşün	V	V;PFV;IMP;PL;2;POS;PRS
+quyển	defter	quyển	defter		
+quyển	dizüstü	quyển	dizüstü		
+rắn	yılanlar	rắn	yılan	N	N;NOM;PL;3
+thác	şelalesi	thác	şelale	N	N;NOM;SG;3
+von	von	von	von		
+tường	duvarları	tường	duvar	N	N;ACC;PL;3
+tường	duvarlar	tường	duvar	N	N;NOM;PL;3
+game	maç	game	maç	N	N;NOM;SG;3
+gửi	gönderiliyor	gửi	gönder	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+gửi	gönderiyor	gửi	gönder	V	V;PROG;IND;SG;3;POS;INFM;PRS
+gửi	gönderiyorum	gửi	gönder	V	V;PROG;IND;SG;1;POS;INFM;PRS
+gửi	gönderin	gửi	gönder	V	V;PFV;IMP;PL;2;POS;PRS
+gửi	gönder	gửi	gönder	V	V;PFV;IMP;SG;2;POS;PRS
+gửi	gönderin	gửi	gönder	V	V;PFV;IMP;PL;2;POS;PRS
+gửi	gönder	gửi	gönder	V	V;PFV;IMP;SG;2;POS;PRS
+ngầm	örtülü	ngầm	örtül	N	N;NOM;SG;3
+dọa	korkutmak	dọa	korkut	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+nhớ	özledim	nhớ	özle	V	V;PFV;IND;SG;1;POS;PST
+nhớ	unutmayın	nhớ	unut	V	V;PFV;IMP;PL;2;NEG;PRS
+thoát	kaçmak	thoát	kaç	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+chảy	erir	chảy	erir	V	V;IPFV;IND;SG;3;POS
+đẩy	itti	đẩy	itti	V	V;PFV;IND;SG;3;POS;PST
+trại	kampı	trại	kampı	N	N;ACC;SG;3
+trại	kampta	trại	kamp	N	N;ESS;SG;3
+trại	camp	trại	camp	N	N;NOM;SG;3
+trại	kampları	trại	kamp	N	N;ACC;PL;3
+thuyền	tekneler	thuyền	tekne	N	N;NOM;PL;3
+thuyền	gemiler	thuyền	gemi	N	N;NOM;PL;3
+thuyền	botlar	thuyền	bot	N	N;NOM;PL;3
+thuyền	gemiler	thuyền	gemi	N	N;NOM;PL;3
+thuyền	gemileri	thuyền	gemi	N	N;ACC;PL;3
+lượt	dönüş	lượt	dönüş		
+lượt	gezi	lượt	gez		
+lượt	trip	lượt	trip		
+tan	geçtim	tan	geç	V	V;PFV;IND;SG;1;POS;PST
+tan	geçti	tan	geç	V	V;PFV;IND;SG;3;POS;PST
+dây	halat	dây	halat	N	N;NOM;SG;3
+dây	ipler	dây	ip	N	N;NOM;PL;3
+dây	ipleri	dây	ip	N	N;ACC;PL;3
+phan	knut	phan	knut		
+vịnh	boğazı	vịnh	boğaz	N	N;ACC;SG;3
+kênh	kanallar	kênh	kanal	N	N;NOM;PL;3
+kênh	kanalları	kênh	kanal	N	N;ACC;PL;3
+kênh	kanalı	kênh	kanalı	N	N;ACC;SG;3
+cup	kupası	cup	kupa	N	N;NOM;SG;3
+cup	fincan	cup	fincan	N	N;NOM;SG;3
+cup	bardak	cup	bardak	N	N;NOM;SG;3
+mông	kalçalar	mông	kalça	N	N;NOM;PL;3
+bánh	kekler	bánh	kek	N	N;NOM;PL;3
+điền	doldur	điền	dol	V	V;PFV;IMP;SG;2;POS;PRS
+điền	doldurun	điền	dol	V	V;PFV;IMP;PL;2;POS;PRS;CAUS
+điền	doldurma	điền	doldurma	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+sáu	altı	sáu	altı	NUM	NUM
+quỹ	vakfı	quỹ	vakıf	N	N;ACC;SG;3
+tặng	verin	tặng	ver	V	V;PFV;IMP;PL;2;POS;PRS
+tặng	vermiş	tặng	ver	V	V;PFV;NFH;IND;SG;3;POS;PST
+tặng	verdi	tặng	ver	V	V;PFV;IND;SG;3;POS;PST
+chồng	kocacığım	chồng	koc	N	N;NOM;SG;3
+dạy	öğretti	dạy	öğret	V	V;PFV;IND;SG;3;POS;PST
+dạy	öğretir	dạy	öğretir	V	V;IPFV;IND;SG;3;POS
+dạy	öğretiyor	dạy	öğret	V	V;PROG;IND;SG;3;POS;INFM;PRS
+tránh	kaçının	tránh	kaçı	V	V;PFV;IMP;PL;2;POS;PRS
+sớm	erkenden	sớm	erken	ADJ	ADJ;AT+ABL;SG;3
+sớm	yakinda	sớm	yakinda	ADJ	ADJ;ESS;SG;3
+sớm	yakında	sớm	yakın	ADJ	ADJ;ESS;SG;3
+thù	intikamı	thù	intikam	N	N;NOM;SG;3
+lông	saçlar	lông	saç	N	N;NOM;PL;3
+săn	avcılık	săn	avcılık	N	N;NOM;SG;3
+hungary	macarlar	hungary	macar	N	N;NOM;PL;3
+tắt	sakat	tắt	sakat		
+tắt	engelli	tắt	engelli		
+tắt	etkisiz	tắt	etkisiz		
+tắt	izin	tắt	izin		
+tắt	kapalı	tắt	kapalı		
+tắt	off	tắt	off		
+tắt	dilsiz	tắt	dilsiz		
+quê	memleketi	quê	memleket	N	N;NOM;SG;3
+mũi	burnunu	mũi	burun	N	N;ACC;SG;3
+mũi	burnun	mũi	burun	N	N;GEN;SG;3
+mũi	burnu	mũi	burun	N	N;NOM;SG;3
+tri	tri	tri	i		
+tri	peygamber	tri	peygamber		
+trích	kopyala	trích	kopyal	V	V;PFV;IMP;SG;2;POS;PRS
+body	ceset	body	ceset		
+body	vücut	body	vücut		
+body	beden	body	beden		
+hài	komedi	hài	komedi	N	N;NOM;SG;3
+trồng	büyümek	trồng	büyü	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+increment	arttırma	increment	art	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+chó	köpek	chó	köpek	N	N;NOM;SG;3
+chó	köpek	chó	köpek	N	N;NOM;SG;3
+chó	köpekler	chó	köpek	N	N;NOM;PL;3
+thước	bedenler	thước	beden	N	N;NOM;PL;3
+thước	bedenleri	thước	beden	N	N;ACC;PL;3
+lightgrey	lightgrey	lightgrey	lightgrey		
+ném	atmak	ném	at	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+ném	fırlatmak	ném	fırla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;CAUS
+ném	atılmış	ném	at	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+ném	atılan	ném	at	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+ném	attı	ném	at	V	V;PFV;IND;SG;3;POS;PST
+gridcolor	gridcolor	gridcolor	gridco		
+rơi	düştü	rơi	düş	V	V;PFV;IND;SG;3;POS;PST
+rơi	düşmüş	rơi	düş	V	V;PFV;NFH;IND;SG;3;POS;PST
+rơi	düştüm	rơi	düş	V	V;PFV;IND;SG;1;POS;PST
+rơi	düşüyor	rơi	düş	V	V;PROG;IND;SG;3;POS;INFM;PRS
+philippines	filipinler	philippines	filip	N	N;NOM;PL;3
+cúp	ganimet	cúp	ganimet	N	N;NOM;SG;3
+darkgrey	darkgrey	darkgrey	darkgrey		
+sfondo	sfondo	sfondo	sfondo		
+chinh	karşıya	chinh	karşı		
+chinh	haç	chinh	haç		
+chinh	çapraz	chinh	çapraz		
+chinh	hacı	chinh	hacı		
+chinh	cross	chinh	cross		
+chinh	chinh	chinh	chinh		
+simon	simon	simon	simon		
+lang	salon	lang	salon	N	N;NOM;SG;3
+lang	salonu	lang	salon	N	N;ACC;SG;3
+lang	koridoru	lang	koridor	N	N;ACC;SG;3
+chợ	pazarı	chợ	pazar	N	N;ACC;SG;3
+lỗi	hataları	lỗi	hata	N	N;ACC;PL;3
+lỗi	hatalar	lỗi	hata	N	N;NOM;PL;3
+lỗi	böcekler	lỗi	böcek	N	N;NOM;PL;3
+lỗi	hatalar	lỗi	hata	N	N;NOM;PL;3
+background	geçmişi	background	geçmiş		
+background	arkaplan	background	arkapla		
+lôi	sürükle	lôi	sürük	V	V;PFV;IMP;SG;2;POS;PRS
+huân	rabbim	huân	rabbi	N	N;NOM;SG;3
+món	bulaşık	món	bulaşık	N	N;NOM;SG;3
+món	yemek	món	yemek	N	N;NOM;SG;3
+khăn	peçete	khăn	peçet	N	N;NOM;SG;3
+cừu	koyunlar	cừu	koyun	N	N;NOM;PL;3
+cừu	kuzum	cừu	kuzum	N	N;NOM;SG;3
+gió	rüzgarları	gió	rüzgar	N	N;NOM;PL;3
+gió	rüzgarlar	gió	rüzgar	N	N;NOM;PL;3
+jpl	jpl	jpl	jpl		
+nhánh	dalın	nhánh	dal	N	N;GEN;SG;3
+đuổi	kovulmuş	đuổi	kov	V	V;PFV;NFH;IND;SG;3;POS;PST;PASS
+hấp	haşlanmış	hấp	haşlan	V	V;PFV;NFH;IND;POS;PST;V.PTCP
+william	william	william	william		
+george	george	george	george		
+george	yorgo	george	yorgo		
+air	hava	air	hava		
+họp	buluşmak	họp	buluş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+họp	buluşma	họp	buluş	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+may	şanslı	may	şanslı	ADJ	ADJ
+chép	kopyala	chép	kopyal	V	V;PFV;IMP;SG;2;POS;PRS
+robert	robert	robert	robert		
+đinh	zincir	đinh	zincir	N	N;NOM;SG;3
+david	davud	david	davud		
+david	davut	david	davut		
+david	david	david	david		
+đồn	itibarını	đồn	itibar	N	N;ACC;SG;3
+luân	çakra	luân	çakra	N	N;NOM;SG;3
+mong	umarak	mong	umarak	V	V;PFV;IND;POS;PRS;V.CVB
+mong	umuyor	mong	um	V	V;PROG;IND;SG;3;POS;INFM;PRS
+rượu	viski	rượu	viski	N	N;NOM;SG;3
+rượu	şarap	rượu	şarap	N	N;NOM;SG;3
+góc	köşeye	góc	köşe	N	N;DAT;SG;3
+góc	açısı	góc	açı	N	N;NOM;SG;3
+góc	köşeleri	góc	köşe	N	N;ACC;PL;3
+phu	hanımefendi	phu	hanımefendi	N	N;NOM;SG;3
+phu	phu	phu	phu	N	N;NOM;SG;3
+nghỉ	dinlenme	nghỉ	dinlen	V	V;PFV;NOM;IND;SG;POS;PRS;V.MSDR;PASS
+nghỉ	dinlenmek	nghỉ	dinle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+paul	paul	paul	paul		
+thua	kaybetmek	thua	kaybet	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+thua	kaybediyor	thua	kaybet	V	V;PROG;IND;SG;3;POS;INFM;PRS
+thua	kaybediyor	thua	kaybet	V	V;PROG;IND;SG;3;POS;INFM;PRS
+thua	kaybeder	thua	kaybet	V	V;IPFV;IND;SG;3;POS
+thua	kaybeden	thua	kaybet	V	V;PFV;IND;POS;PRS;V.PTCP
+thua	kaybolmuş	thua	kaybol	V	V;PFV;NFH;IND;SG;3;POS;PST
+thua	kaybettim	thua	kaybet	V	V;PFV;IND;SG;1;POS;PST
+thua	kaybettik	thua	kaybet	V	V;PFV;IND;PL;1;POS;PST
+thua	kaybetmek	thua	kaybet	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+thua	kaybeder	thua	kaybet	V	V;IPFV;IND;SG;3;POS
+uống	içiyor	uống	iç	V	V;PROG;IND;SG;3;POS;INFM;PRS
+uống	içmek	uống	iç	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+uống	içecek	uống	iç	V	V;PFV;IND;POS;FUT
+uống	içecekler	uống	iç	V	V;PFV;IND;PL;3;POS;FUT
+uống	içecek	uống	iç	V	V;PFV;IND;POS;FUT
+nhu	ihtiyaçları	nhu	ihtiyaç	N	N;NOM;PL;3
+nhu	ihtiyaçlar	nhu	ihtiyaç	N	N;NOM;PL;3
+phạt	penaltı	phạt	penaltı	N	N;NOM;SG;3
+phạt	cezası	phạt	ceza	N	N;NOM;SG;3
+phạt	ceza	phạt	ceza	N	N;NOM;SG;3
+phạt	cezaları	phạt	ceza	N	N;NOM;PL;3
+phạt	cezalar	phạt	ceza	N	N;NOM;PL;3
+chị	abla	chị	abla	N	N;NOM;SG;3
+chị	abla	chị	abla	N	N;NOM;SG;3
+hoài	elde	hoài	el	N	N;ESS;SG;3
+nhắc	hatırlatma	nhắc	hatırla	V	V;PFV;IMP;SG;2;NEG;PRS;CAUS
+tấm	paneli	tấm	paneli	N	N;NOM;SG;3
+hạc	vinç	hạc	vinç	N	N;NOM;SG;3
+nóng	sicak	nóng	sicak	ADJ	ADJ
+pha	farları	pha	far	N	N;ACC;PL;3
+pha	farlar	pha	far	N	N;NOM;PL;3
+nhảy	atlamak	nhảy	atla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+lạnh	soğuk	lạnh	soğuk	ADJ	ADJ
+đòi	gerektirir	đòi	gerek	V	V;IPFV;IND;SG;3;POS;CAUS
+trốn	gizle	trốn	giz	V	V;PFV;IMP;SG;2;POS;PRS
+trốn	sakla	trốn	sak	V	V;PFV;IMP;SG;2;POS;PRS
+trốn	gizlemek	trốn	gizle	V	V;PFV;NOM;IND;POS;PRS;V.MSDR
+trốn	saklanan	trốn	sakla	V	V;PFV;IND;POS;PRS;V.PTCP;PASS
+trốn	saklanmak	trốn	sakla	V	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS
+trốn	saklanıyor	trốn	sakla	V	V;PROG;IND;SG;3;POS;INFM;PRS;PASS
+bottom	altta	bottom	altta		
+bottom	alt	bottom	alt		
+bottom	alttaki	bottom	alttaki		
+bottom	dibi	bottom	dibi		
+bottom	dibe	bottom	dibe		
+nhi	oğlum	nhi	oğul	N	N;NOM;SG;3
+thầy	hocam	thầy	hocam	N	N;NOM;SG;3
+thầy	hocam	thầy	hocam	N	N;NOM;SG;3
+thầy	öğretmenim	thầy	öğretmen	N	N;NOM;SG;3
+vui	komik	vui	komik		
+vui	happy	vui	happy		
+cháu	yeğeni	cháu	yeğen	N	N;NOM;SG;3
+cháu	torunları	cháu	torun	N	N;ACC;PL;3
+thuế	vergi	thuế	vergi	N	N;NOM;SG;3
+thuế	vergiler	thuế	vergi	N	N;NOM;PL;3
+thuế	vergiden	thuế	vergi	N	N;AT+ABL;SG;3
+thuế	vergi	thuế	vergi	N	N;NOM;SG;3
+thuế	vergisi	thuế	vergi	N	N;NOM;SG;3
+thuế	vergiler	thuế	vergi	N	N;NOM;PL;3
+thuế	vergileri	thuế	vergi	N	N;ACC;PL;3
+thuế	vergi	thuế	vergi	N	N;NOM;SG;3
+love	ask	love	ask		
+love	sevda	love	sevda		
+love	sevgi	love	sevgi		
+anime	anime	anime	anim		
+giọng	sesi	giọng	ses	N	N;NOM;SG;3
+giọng	ses	giọng	ses	N	N;NOM;SG;3
+trạm	station	trạm	station	N	N;NOM;SG;3
+trạm	istasyonu	trạm	ista	N	N;ACC;SG;3
+trạm	istasyonlar	trạm	istasyon	N	N;NOM;PL;3
+trạm	istasyonları	trạm	ista	N	N;ACC;PL;3
+michael	michael	michael	michael		
+tám	sekiz	tám	sekiz	NUM	NUM
+thảm	halı	thảm	hal	N	N;NOM;SG;3
+thảm	battaniye	thảm	battaniye	N	N;NOM;SG;3
+thảm	halı	thảm	hal	N	N;NOM;SG;3
+thảm	halılar	thảm	halı	N	N;NOM;PL;3
+thảm	halılar	thảm	halı	N	N;NOM;PL;3
+thảm	halı	thảm	hal	N	N;NOM;SG;3
+lưới	izgara	lưới	izgar	N	N;NOM;SG;3
+than	kömür	than	kömür		
+than	kömür	than	kömür		

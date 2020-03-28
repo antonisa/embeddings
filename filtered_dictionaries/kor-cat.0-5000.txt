@@ -1,0 +1,4223 @@
+분류	categoria	분류	categoria	N	N;FEM;SG
+분류	categorització	분류	categorització	N	N;FEM;SG
+분류	categories	분류	categoria	N	N;FEM;PL
+분류	classificació	분류	classificació	N	N;FEM;SG
+선수	jugadors	선수	jugador	N	N;MASC;PL
+선수	reproductor	선수	reproductor	N	N;MASC;SG
+선수	jugador	선수	jugador	N	N;MASC;SG
+축구	soccer	축구	soccer	N	N;SG
+축구	futbol	축구	futbol	N	N;MASC;SG
+영화	films	영화	film	N	N;MASC;PL
+영화	cinema	영화	cinema	N	N;MASC;SG
+영화	film	영화	film	N	N;MASC;SG
+사람	persona	사람	persona	N	N;FEM;SG
+사람	home	사람	home	N	N;MASC;SG
+사람	gent	사람	gent	N	N;FEM;SG
+사람	persones	사람	persona	N	N;FEM;PL
+배우	actors	배우	actor	N	N;MASC;PL
+배우	actriu	배우	actriu	N	N;FEM;SG
+배우	actor	배우	actor	N	N;MASC;SG
+그러나	però	그러나	però	CONJ	CONJ
+동문	alumni	동문	alumnar	N	N;MASC;SG
+보기	visualitza	보+기	visualitzar	V	V;IND;SG;3;PRS;FIN
+파일	fitxers	파일	fitxer	N	N;MASC;PL
+파일	arxius	파일	arxiu	N	N;MASC;PL
+파일	arxiu	파일	arxiu	N	N;MASC;SG
+파일	fitxer	파일	fitxer	N	N;MASC;SG
+올림픽	olimpíades	올림픽	olimpíat	N	N;FEM;PL
+리그	lliga	리그	lliga	N	N;FEM;SG
+리그	lligues	리그	lliga	N	N;FEM;PL
+클럽	trèvols	클럽	trèvol		
+세기	segles	세기	segle	N	N;MASC;PL
+세기	segle	세기	segle	N	N;MASC;SG
+방송	emissió	방송	emissió	N	N;FEM;SG
+방송	radiodifusió	방송	radiodifusió	N	N;FEM;SG
+세계	món	세계	món	N	N;MASC;SG
+하지만	però	하지만	però	CONJ	CONJ
+작품	obres	작품	obra	N	N;FEM;PL
+게임	partida	게임	partida	N	N;FEM;SG
+게임	joc	게임	joc	N	N;MASC;SG
+게임	jocs	게임	joc	N	N;MASC;PL
+텔레비전	televisions	텔레비전	televisió	N	N;FEM;PL
+텔레비전	televisió	텔레비전	televisió	N	N;FEM;SG
+감독	director	감독	director	N	N;MASC;SG
+감독	directora	감독	directora	N	N;FEM;SG
+감독	realitzador	감독	realitzador	N	N;MASC;SG
+학교	escoles	학교	escola	N	N;FEM;PL
+학교	escola	학교	escola	N	N;FEM;SG
+사용자	usuari	사용자	usuari	N	N;MASC;SG
+사용자	usuaris	사용자	usuari	N	N;MASC;PL
+참고	referència	참+고	referència		
+기준	criteri	기준	criteri	N	N;MASC;SG
+기준	criteris	기준	criteri	N	N;MASC;PL
+설립	establiment	설립	establiment	N	N;MASC;SG
+참가	participació	참가	participació	N	N;FEM;SG
+경기	partida	경기	partida	N	N;FEM;SG
+경기	joc	경기	joc	N	N;MASC;SG
+경기장	estadis	경기장	estadi	N	N;MASC;PL
+경기장	estadi	경기장	estadi	N	N;MASC;SG
+경기장	stadium	경기장	stadium	N	N;MASC;SG
+특히	particularment	특히	particularment	ADV	ADV
+특히	sobretot	특히	sobretot	ADV	ADV
+특히	especialment	특히	especialment	ADV	ADV
+대학교	universitat	대학교	universitat	N	N;FEM;SG
+문서	documents	문서	document	N	N;MASC;PL
+문서	documentació	문서	documentació	N	N;FEM;SG
+문서	document	문서	document	N	N;MASC;SG
+그림	imatges	그림	imatge	N	N;FEM;PL
+그림	imatge	그림	imatge	N	N;FEM;SG
+매우	molt	매우	molt	ADV	ADV
+지역	àmbit	지역	àmbit	N	N;MASC;SG
+지역	àrea	지역	àrea	N	N;FEM;SG
+지역	regió	지역	regió	N	N;FEM;SG
+지역	regions	지역	regió	N	N;FEM;PL
+목록	llista	목록	llista	N	N;FEM;SG
+목록	llistes	목록	llista	N	N;FEM;PL
+주로	majoritàriament	주로	majoritàriament	ADV	ADV
+주로	principalment	주로	principalment	ADV	ADV
+도시	ciutat	도시	ciutat	N	N;FEM;SG
+도시	ciutats	도시	ciutat	N	N;FEM;PL
+음악	música	음악	música	N	N;FEM;SG
+가수	cantant	가수	cantant	N	N;SG
+죽음	defunció	죽음	defunció	N	N;FEM;SG
+죽음	defuncions	죽음	defunció	N	N;FEM;PL
+전쟁	guerres	전쟁	guerra	N	N;FEM;PL
+직업	carrera	직업	carrera	N	N;FEM;SG
+직업	professió	직업	professió	N	N;FEM;SG
+직업	treball	직업	treball	N	N;MASC;SG
+직업	feina	직업	feina	N	N;FEM;SG
+직업	treballs	직업	treball	N	N;MASC;PL
+대학	universitats	대학	universitat	N	N;FEM;PL
+대학	universitat	대학	universitat	N	N;FEM;SG
+여자	dones	여자	dona	N	N;FEM;PL
+자료	dades	자료	dada	N	N;FEM;PL
+이름	denominació	이름	denominació	N	N;FEM;SG
+이름	noms	이름	nom	N	N;MASC;PL
+음반	àlbum	음반	àlbum	N	N;MASC;SG
+음반	àlbums	음반	àlbum	N	N;MASC;PL
+학급	classe	학급	classe	N	N;FEM;SG
+야구	beisbol	야구	beisbol	N	N;MASC;SG
+프로그램	programes	프로그램	programa	N	N;MASC;PL
+프로그램	aplicació	프로그램	aplicació	N	N;FEM;SG
+프로그램	programa	프로그램	programa	N	N;MASC;SG
+역사	història	역사	història	N	N;FEM;SG
+시간	hora	시간	hora	N	N;FEM;SG
+시간	temps	시간	temps	N	N;MASC
+졸업	graduació	졸업	graduació	N	N;FEM;SG
+노선	rutes	노선	ruta	N	N;FEM;PL
+노선	ruta	노선	ruta	N	N;FEM;SG
+기타	guitarra	기타	guitarra	N	N;FEM;SG
+구역	àmbit	구역	àmbit	N	N;MASC;SG
+구역	àrea	구역	àrea	N	N;FEM;SG
+소속	afiliacions	소속	afiliació	N	N;FEM;PL
+소속	afiliació	소속	afiliació	N	N;FEM;SG
+거의	gairebé	거의	gairebé	ADV	ADV
+대회	concursos	대회	concurs	N	N;MASC;PL
+대회	competicions	대회	competició	N	N;FEM;PL
+대회	torneig	대회	torneig	N	N;MASC;SG
+대회	concurs	대회	concurs	N	N;MASC;SG
+대회	certamen	대회	certamen	N	N;MASC;SG
+제작	producció	제작	producció	N	N;FEM;SG
+청소년	adolescents	청소년	adolescent	N	N;PL
+남자	homes	남자	home	N	N;MASC;PL
+남자	home	남자	home	N	N;MASC;SG
+프로	pro	프로	pro		
+결과	resultats	결과	resultat	N	N;MASC;PL
+결과	resultat	결과	resultat	N	N;MASC;SG
+아들	fill	아들	fill	N	N;MASC;SG
+활동	acció	활동	acció	N	N;FEM;SG
+활동	activitats	활동	activitat	N	N;FEM;PL
+활동	accions	활동	acció	N	N;FEM;PL
+활동	activitat	활동	activitat	N	N;FEM;SG
+이미	ja	이미	ja	ADV	ADV
+언어	llengües	언어	llengua	N	N;FEM;PL
+언어	idiomes	언어	idioma	N	N;MASC;PL
+언어	idioma	언어	idioma	N	N;MASC;SG
+언어	llenguatge	언어	llenguatge	N	N;MASC;SG
+스포츠	esport	스포츠	esport	N	N;MASC;SG
+스포츠	sport	스포츠	sport	N	N;MASC;SG
+스포츠	esports	스포츠	esport	N	N;MASC;PL
+설명	explicació	설명	explicació	N	N;FEM;SG
+설명	descripció	설명	descripció	N	N;FEM;SG
+시대	període	시대	període	N	N;MASC;SG
+대통령	president	대통령	president	N	N;MASC;SG
+대통령	presidència	대통령	presidència	N	N;FEM;SG
+대통령	presidents	대통령	president	N	N;MASC;PL
+교통	transport	교통	transport	N	N;MASC;SG
+교통	trànsit	교통	trànsit	N	N;MASC;SG
+교통	tràfic	교통	tràfic	N	N;MASC;SG
+교통	transports	교통	transport	N	N;MASC;PL
+교통	transport	교통	transport	N	N;MASC;SG
+직접	directe	직접	directe		
+정보	informació	정보	informació	N	N;FEM;SG
+인물	caràcter	인물	caràcter	N	N;MASC;SG
+인물	personatge	인물	personatge	N	N;MASC;SG
+인물	retrat	인물	retrat	N	N;MASC;SG
+요청	peticions	요청	petició	N	N;FEM;PL
+요청	requeriment	요청	requeriment	N	N;MASC;SG
+요청	petició	요청	petició	N	N;FEM;SG
+라디오	radio	라디오	radio		
+노래	cançons	노래	cançó	N	N;FEM;PL
+노래	songs	노래	songs	N	N;SG
+노래	cantant	노래	cantant	N	N;SG
+노래	cançó	노래	cançó	N	N;FEM;SG
+차단	blocs	차단	bloc	N	N;MASC;PL
+차단	bloc	차단	bloc	N	N;MASC;SG
+관계	relacions	관계	relació	N	N;FEM;PL
+관계	relacions	관계	relació	N	N;FEM;PL
+관계	relació	관계	relació	N	N;FEM;SG
+불교	budisme	불교	budisme	N	N;MASC;SG
+채널	canals	채널	canal	N	N;MASC;PL
+채널	canal	채널	canal	N	N;MASC;SG
+수상	premis	수상	premi	N	N;MASC;PL
+시리즈	sèrie	시리즈	sèrie		
+공화국	república	공화국	república	N	N;FEM;SG
+경력	carrera	경력	carrera	N	N;FEM;SG
+항공	aviació	항공	aviació	N	N;FEM;SG
+항공	aerolínia	항공	aerolínia	N	N;FEM;SG
+항공	airlines	항공	airlí	N	N;FEM;PL
+항공	aire	항공	aire	N	N;MASC;SG
+전투	batalla	전투	batalla	N	N;FEM;SG
+전투	batalles	전투	batalla	N	N;FEM;PL
+아버지	pare	아버지	pare	N	N;MASC;SG
+변경	canvis	변경	canvi	N	N;MASC;PL
+작곡	composició	작곡	composició	N	N;FEM;SG
+작곡	composicions	작곡	composició	N	N;FEM;PL
+기록	èxits	기록	èxit	N	N;MASC;PL
+기록	realitzacions	기록	realització	N	N;FEM;PL
+기록	rècord	기록	rècord	N	N;MASC;SG
+기록	història	기록	història	N	N;FEM;SG
+업데이트	actualització	업데이트	actualització	N	N;FEM;SG
+업데이트	actualitzacions	업데이트	actualització	N	N;FEM;PL
+앨범	àlbum	앨범	àlbum	N	N;MASC;SG
+앨범	àlbums	앨범	àlbum	N	N;MASC;PL
+운영	operacions	운영	operació	N	N;FEM;PL
+데뷔	debut	데뷔	debut	N	N;MASC;SG
+받은	rebé	받+ㄴ	rebé	V	V;IND;SG;3;IPFV;FIN
+편집	edicions	편집	edició	N	N;FEM;PL
+편집	edició	편집	edició	N	N;FEM;SG
+선거	eleccions	선거	elecció	N	N;FEM;PL
+장르	gènere	장르	gènere	N	N;MASC;SG
+장르	gèneres	장르	gènere	N	N;MASC;PL
+비디오	vídeo	비디오	vídeo	N	N;MASC;SG
+비디오	video	비디오	video	N	N;MASC;SG
+비디오	vídeos	비디오	vídeo	N	N;MASC;PL
+기간	durada	기간	durada	N	N;FEM;SG
+기간	duració	기간	duració	N	N;FEM;SG
+기간	període	기간	període	N	N;MASC;SG
+내용	contingut	내용	contingut	N	N;MASC;SG
+내용	continguts	내용	contingut	N	N;MASC;PL
+그를	ell	그+를	ell	PRO	PRO;MASC;SG;3
+정부	govern	정부	govern	N	N;MASC;SG
+일반적으로	típicament	일반+적+으로	típicament	ADV	ADV
+일반적으로	generalment	일반+적+으로	generalment	ADV	ADV
+일반적으로	normalment	일반+적+으로	normalment	ADV	ADV
+전에	abans	전+에	abans	ADV	ADV
+기업	companyia	기업	companyia	N	N;FEM;SG
+기업	empresa	기업	empresa	N	N;FEM;SG
+지방	regió	지방	regió	N	N;FEM;SG
+지방	grassos	지방	gras	N	N;MASC;PL
+지방	greix	지방	greix	N	N;MASC;SG
+교육	ensenyament	교육	ensenyament	N	N;MASC;SG
+교육	docència	교육	docència	N	N;FEM;SG
+교육	educació	교육	educació	N	N;FEM;SG
+교수	catedràtic	교수	catedràtic	N	N;MASC;SG
+교수	professor	교수	professor	N	N;MASC;SG
+교수	facultat	교수	facultat	N	N;FEM;SG
+부산	pusan	부산	pusar		
+부산	busan	부산	busar		
+사용	utilització	사용	utilització	N	N;FEM;SG
+사용	ús	사용	ús	N	N;MASC;SG
+사용	usos	사용	ús	N	N;MASC;PL
+사용	ús	사용	ús	N	N;MASC;SG
+국제공항	aeroport	국제공항	aeroport	N	N;MASC;SG
+순위	rànquing	순위	rànquing	N	N;MASC;SG
+대사관	ambaixades	대사관	ambaixada	N	N;FEM;PL
+대사관	ambaixada	대사관	ambaixada	N	N;FEM;SG
+컴퓨터	ordinador	컴퓨터	ordinador	N	N;MASC;SG
+컴퓨터	ordinadors	컴퓨터	ordinador	N	N;MASC;PL
+지도	maps	지+도	map		
+발매	alliberació	발매	alliberació	N	N;FEM;SG
+발매	alliberament	발매	alliberament	N	N;MASC;SG
+항목	elements	항목	element	N	N;MASC;PL
+항목	entrada	항목	entrada	N	N;FEM;SG
+인구	poblacions	인구	població	N	N;FEM;PL
+인구	població	인구	població	N	N;FEM;SG
+그녀는	ella	그녀+는	ell	PRO	PRO;FEM;SG;3
+종교	religió	종교	religió	N	N;FEM;SG
+종교	creences	종교	creença	N	N;FEM;PL
+종교	religions	종교	religió	N	N;FEM;PL
+전역	campanya	전역	campanya	N	N;FEM;SG
+문화	cultura	문화	cultura	N	N;FEM;SG
+문화	cultures	문화	cultura	N	N;FEM;PL
+제국	imperi	제국	imperi	N	N;MASC;SG
+연구	estudi	연구	estudi	N	N;MASC;SG
+연구	recerca	연구	recerca	N	N;FEM;SG
+연구	investigació	연구	investigació	N	N;FEM;SG
+용어	glossari	용어	glossari	N	N;MASC;SG
+용어	termini	용어	termini	N	N;MASC;SG
+용어	termes	용어	terme	N	N;MASC;PL
+용어	condicions	용어	condició	N	N;FEM;PL
+용어	terminologia	용어	terminologia	N	N;FEM;SG
+관리	gestió	관리	gestió	N	N;FEM;SG
+연속	continuïtat	연속	continuïtat	N	N;FEM;SG
+개발	desenvolupament	개발	desenvolupament	N	N;MASC;SG
+수상자	guanyadors	수상자	guanyador	N	N;MASC;PL
+경제	economia	경제	economia	N	N;FEM;SG
+데이터	dades	데이터	dada	N	N;FEM;PL
+정치인	polítics	정치인	polític	N	N;MASC;PL
+여성	femelles	여성	femella	N	N;FEM;PL
+여성	dones	여성	dona	N	N;FEM;PL
+개시	iniciació	개시	iniciació	N	N;FEM;SG
+육군	exèrcit	육군	exèrcit	N	N;MASC;SG
+자주	freqüentment	자주	freqüentment	ADV	ADV
+자주	sovint	자주	sovint	ADV	ADV
+어머니	mare	어머니	mare	N	N;FEM;SG
+소설	ficció	소설	ficció	N	N;FEM;SG
+완전히	completament	완전+히	completament	ADV	ADV
+완전히	totalment	완전+히	totalment	ADV	ADV
+만화	còmics	만화	còmic	N	N;MASC;PL
+모델	models	모델	model	N	N;MASC;PL
+모델	model	모델	model	N	N;MASC;SG
+사진	fotos	사진	foto	N	N;FEM;PL
+사진	fotografies	사진	fotografia	N	N;FEM;PL
+사진	foto	사진	foto	N	N;FEM;SG
+졸업식	graduació	졸업식	graduació	N	N;FEM;SG
+사업	negoci	사업	negoci	N	N;MASC;SG
+사업	negocis	사업	negoci	N	N;MASC;PL
+시스템	sistema	시스템	sistema	N	N;MASC;SG
+시스템	sistemes	시스템	sistema	N	N;MASC;PL
+건축물	edificacions	건축물	edificació	N	N;FEM;PL
+건축물	edificis	건축물	edifici	N	N;MASC;PL
+뉴스	notícia	뉴스	notícia	N	N;FEM;SG
+뉴스	notícies	뉴스	notícia	N	N;FEM;PL
+지하철	metro	지하철	metro	N	N;MASC;SG
+지하철	metro	지하철	metro	N	N;MASC;SG
+널리	àmpliament	널리	àmpliament	ADV	ADV
+육상	atletisme	육상	atletisme	N	N;MASC;SG
+연결	connexions	연결	connexió	N	N;FEM;PL
+연결	connexió	연결	connexió	N	N;FEM;SG
+공항	aeroport	공항	aeroport	N	N;MASC;SG
+공항	aeroports	공항	aeroport	N	N;MASC;PL
+도로	road	도로	road		
+이야기	història	이야기	història	N	N;FEM;SG
+문제	problemes	문제	problema	N	N;MASC;PL
+문제	problema	문제	problema	N	N;MASC;SG
+문제	qüestions	문제	qüestió	N	N;FEM;PL
+작가	autors	작가	autor	N	N;MASC;PL
+작가	escriptor	작가	escriptor	N	N;MASC;SG
+작가	escriptores	작가	escriptora	N	N;FEM;PL
+작가	escriptors	작가	escriptor	N	N;MASC;PL
+작가	autor	작가	autor	N	N;MASC;SG
+하나	one	하나	one		
+원소	elements	원소	element	N	N;MASC;PL
+원소	element	원소	element	N	N;MASC;SG
+관리자	administrador	관리자	administrador	N	N;MASC;SG
+관리자	mantenidor	관리자	mantenidor	N	N;MASC;SG
+관리자	administrador	관리자	administrador	N	N;MASC;SG
+관리자	administradors	관리자	administrador	N	N;MASC;PL
+관리자	gestor	관리자	gestor	N	N;MASC;SG
+심판	fallada	심판	fallada	N	N;FEM;SG
+심판	àrbitre	심판	àrbitre	N	N;MASC;SG
+심판	sentència	심판	sentència	N	N;FEM;SG
+사회	societat	사회	societat	N	N;FEM;SG
+상징	símbols	상징	símbol	N	N;MASC;PL
+정규	regular	정규	regular		
+기술	tècnics	기술	tècnic	N	N;MASC;PL
+기술	tecnologia	기술	tecnologia	N	N;FEM;SG
+기술	destresa	기술	destresa	N	N;FEM;SG
+서비스	serveis	서비스	servei	N	N;MASC;PL
+서비스	servei	서비스	servei	N	N;MASC;SG
+독립	independència	독립	independència	N	N;FEM;SG
+월드	world	월드	world		
+그녀의	ella	그녀+의	ell	PRO	PRO;FEM;SG;3
+소프트웨어	programari	소프트웨어	programari	N	N;MASC;SG
+교황	papes	교황	papa	N	N;MASC;PL
+교황	papa	교황	papa	N	N;MASC;SG
+해외	ultramar	해외	ultramar		
+윈도우	windows	윈도우	window		
+포지션	posició	포지션	posició	N	N;FEM;SG
+포지션	posicions	포지션	posició	N	N;FEM;PL
+학년	grau	학년	grau	N	N;MASC;SG
+항상	sempre	항상	sempre	ADV	ADV
+기독교	cristianisme	기독교	cristianisme	N	N;MASC;SG
+전기	electricitat	전기	electricitat	N	N;FEM;SG
+가족	familia	가족	familia		
+폐지	abolició	폐지	abolició	N	N;FEM;SG
+성적	grau	성+적	grau	N	N;MASC;SG
+인천	inchon	인천	inchon		
+아래	fons	아래	fon	N	N;MASC;PL
+운동	entrenaments	운동	entrenament	N	N;MASC;PL
+운동	moviment	운동	moviment	N	N;MASC;SG
+운동	exercici	운동	exercici	N	N;MASC;SG
+구조	estructures	구조	estructura	N	N;FEM;PL
+구조	rescat	구조	rescat	N	N;MASC;SG
+구조	salvament	구조	salvament	N	N;MASC;SG
+음악가	artistes	음악가	artista	N	N;PL
+음악가	músic	음악가	músic	N	N;MASC;SG
+음악가	músics	음악가	músic	N	N;MASC;PL
+음악가	artista	음악가	artista	N	N;SG
+강한	forts	강하+ㄴ	fort	ADJ	ADJ;MASC;PL
+강한	forta	강하+ㄴ	fort	ADJ	ADJ;FEM;SG
+강한	fort	강하+ㄴ	fort	ADJ	ADJ;MASC;SG
+유형	tipus	유형	tipus	N	N;MASC
+버스	bus	버스	bus		
+그런데	però	그런데	però	CONJ	CONJ
+제임스	jaume	제임스	jaume		
+세가	sega	세+가	sega		
+밴드	bandes	밴드	banda	N	N;FEM;PL
+연방	mancomunitat	연방	mancomunitat	N	N;FEM;SG
+연방	federació	연방	federació	N	N;FEM;SG
+연방	confederació	연방	confederació	N	N;FEM;SG
+아프리카	african	아프리카	africar		
+자동차	cotxe	자동차	cotxe	N	N;MASC;SG
+자동차	automoció	자동차	automoció	N	N;FEM;SG
+자동차	cotxes	자동차	cotxe	N	N;MASC;PL
+자동차	automòbils	자동차	automòbil	N	N;MASC;PL
+뮤직	música	뮤직	música	N	N;FEM;SG
+투수	llançador	투수	llançador	N	N;MASC;SG
+오후	tarda	오후	tarda	N	N;FEM;SG
+임대	lloguer	임대	lloguer	N	N;MASC;SG
+임대	renda	임대	renda	N	N;FEM;SG
+임대	lloguers	임대	lloguer	N	N;MASC;PL
+임대	arrendament	임대	arrendament	N	N;MASC;SG
+연극	teatre	연극	teatre	N	N;MASC;SG
+연극	teatre	연극	teatre	N	N;MASC;SG
+영업	vendes	영업	venda	N	N;FEM;PL
+회장	president	회장	president	N	N;MASC;SG
+회장	presidents	회장	president	N	N;MASC;PL
+과학	ciència	과학	ciència	N	N;FEM;SG
+과학	ciències	과학	ciència	N	N;FEM;PL
+학력	educació	학력	educació	N	N;FEM;SG
+단체	organitzacions	단체	organització	N	N;FEM;PL
+단체	organització	단체	organització	N	N;FEM;SG
+시작	inici	시작	inici	N	N;MASC;SG
+중앙	centre	중앙	centre	N	N;MASC;SG
+중앙	centre	중앙	centre	N	N;MASC;SG
+군인	soldats	군인	soldat	N	N;MASC;PL
+대상	objecte	대상	objecte	N	N;MASC;SG
+산업	indústries	산업	indústria	N	N;FEM;PL
+산업	indústria	산업	indústria	N	N;FEM;SG
+황제	emperador	황제	emperador	N	N;MASC;SG
+황제	emperadors	황제	emperador	N	N;MASC;PL
+보물	tresors	보물	tresor	N	N;MASC;PL
+보물	tresor	보물	tresor	N	N;MASC;SG
+베트남	vietnamita	베트남	vietnamita		
+후지	fuji	후지	fuji		
+낮은	baixes	낮+ㄴ	baix	ADJ	ADJ;FEM;PL
+홋카이도	hokkaidō	後카이+도	hokkaidō		
+해군	armada	해군	armat	N	N;FEM;SG
+표준	estàndard	표준	estàndard		
+부문	sector	부문	sector	N	N;MASC;SG
+진행	progrés	진행	progrés	N	N;MASC;SG
+그린	green	그리+ㄴ	grear		
+그린	verd	그리+ㄴ	verd		
+분쟁	conflictes	분쟁	conflicte	N	N;MASC;PL
+분쟁	controvèrsies	분쟁	controvèrsia	N	N;FEM;PL
+분쟁	conflicte	분쟁	conflicte	N	N;MASC;SG
+분쟁	controvèrsia	분쟁	controvèrsia	N	N;FEM;SG
+온라인	online	오르+아+이+ㄴ	online		
+회사	companyia	회사	companyia	N	N;FEM;SG
+회사	empresa	회사	empresa	N	N;FEM;SG
+회사	empreses	회사	empresa	N	N;FEM;PL
+회사	companyies	회사	companyia	N	N;FEM;PL
+통합	integracions	통합	integració	N	N;FEM;PL
+통합	integració	통합	integració	N	N;FEM;SG
+미디어	mitjans	미디어	mitjà	N	N;MASC;PL
+센터	center	센터	center		
+제목	assignatura	제목	assignatura	N	N;FEM;SG
+제목	títols	제목	títol	N	N;MASC;PL
+제목	títol	제목	títol	N	N;MASC;SG
+코미디	comedies	코미디	comedia	N	N;FEM;PL
+부인	senyora	부인	senyora	N	N;FEM;SG
+우주	espai	우주	espai	N	N;MASC;SG
+아주	molt	아주	molt	ADV	ADV
+사망	defunció	사망	defunció	N	N;FEM;SG
+사망	difunts	사망	difunt	N	N;MASC;PL
+사망	morts	사망	mort	N	N;MASC;PL
+이용	utilització	이용	utilització	N	N;FEM;SG
+이용	ús	이용	ús	N	N;MASC;SG
+참조	referència	참조	referència		
+네트워크	networking	네트워크	networking		
+후보	nominacions	후보	nominació	N	N;FEM;PL
+후보	candidatures	후보	candidatura	N	N;FEM;PL
+후보	candidats	후보	candidat	N	N;MASC;PL
+후보	candidates	후보	candidata	N	N;FEM;PL
+후보	aspirants	후보	aspirant	N	N;PL
+후보	candidata	후보	candidata	N	N;FEM;SG
+후보	candidat	후보	candidat	N	N;MASC;SG
+스타크래프트	starcraft	스타크래프트	starcraft		
+졸업생	alumni	졸업생	alumnar	N	N;MASC;SG
+농구	basquetbol	농구	basquetbol	N	N;MASC;SG
+농구	bàsquet	농구	bàsquet	N	N;MASC;SG
+종류	tipus	종류	tipus	N	N;MASC
+종료	sortida	종료	sortida	N	N;FEM;SG
+여전히	encara	여전+히	encara	ADV	ADV
+차량	cotxes	차량	cotxe	N	N;MASC;PL
+차량	automòbils	차량	automòbil	N	N;MASC;PL
+차량	vehicles	차량	vehicle	N	N;MASC;PL
+차량	cotxe	차량	cotxe	N	N;MASC;SG
+차량	vehicle	차량	vehicle	N	N;MASC;SG
+그냥	només	그냥	només	ADV	ADV
+부분	parts	부분	part	N	N;FEM;PL
+지리	geografia	지리	geografia	N	N;FEM;SG
+아일랜드	irlanda	아일랜드	irlanda		
+아일랜드	bellvís	아일랜드	bellvís		
+학사	llicenciatura	학사	llicenciatura	N	N;FEM;SG
+작곡가	compositors	작곡가	compositor	N	N;MASC;PL
+작곡가	compositor	작곡가	compositor	N	N;MASC;SG
+기자	kheops	기자	kheop		
+전자	electró	전자	electró	N	N;MASC;SG
+전자	electrons	전자	electró	N	N;MASC;PL
+남부	nambu	남부	nambu		
+동물	animals	동물	animal	N	N;PL
+동물	animal	동물	animal	N	N;SG
+출처	origen	출처	origen	N	N;MASC;SG
+출처	font	출처	font	N	N;FEM;SG
+출처	fonts	출처	font	N	N;FEM;PL
+거리	distància	거리	distància	N	N;FEM;SG
+거리	carrer	거리	carrer	N	N;MASC;SG
+거리	carrers	거리	carrer	N	N;MASC;PL
+거리	distàncies	거리	distància	N	N;FEM;PL
+교토	kyoto	교토	kyoto		
+멤버	pertinença	멤버	pertinença		
+코치	autocars	코치	autocar	N	N;MASC;PL
+코치	entrenadors	코치	entrenador	N	N;MASC;PL
+코치	autocar	코치	autocar	N	N;MASC;SG
+코치	entrenador	코치	entrenador	N	N;MASC;SG
+충분히	prou	충분+히	prou	ADV	ADV
+없음	cap	없+ㅁ	cap		
+슈퍼	super	슈퍼	super		
+조약	conveni	조약	conveni	N	N;MASC;SG
+조약	convenció	조약	convenció	N	N;FEM;SG
+따로	separadament	따로	separadament	ADV	ADV
+장관	ministre	장관	ministre	N	N;MASC;SG
+왼쪽	esquerre	왼쪽	esquerre		
+단지	només	단지	només	ADV	ADV
+국회	parlament	국회	parlament	N	N;MASC;SG
+공연	actuació	공연	actuació	N	N;FEM;SG
+공연	rendiment	공연	rendiment	N	N;MASC;SG
+공연	actuacions	공연	actuació	N	N;FEM;PL
+공연	espectacle	공연	espectacle	N	N;MASC;SG
+득점	puntuació	득점	puntuació	N	N;FEM;SG
+득점	puntuacions	득점	puntuació	N	N;FEM;PL
+사랑	amor	사랑	amor	N	N;MASC;SG
+아이돌	ídols	아이돌	ídol	N	N;MASC;PL
+정책	pòlissa	정책	pòlissa	N	N;FEM;SG
+친구	amics	친구	amic	N	N;MASC;PL
+친구	amistats	친구	amistat	N	N;FEM;PL
+친구	amistat	친구	amistat	N	N;FEM;SG
+친구	amic	친구	amic	N	N;MASC;SG
+오픈	open	오프+ㄴ	open		
+버전	versió	버전	versió	N	N;FEM;SG
+버전	versions	버전	versió	N	N;FEM;PL
+코드	codi	코드	codi		
+다섯	cinc	다섯	cinc	NUM	NUM;PL
+공간	espais	공간	espai	N	N;MASC;PL
+공간	espai	공간	espai	N	N;MASC;SG
+구성	configuració	구성	configuració	N	N;FEM;SG
+문자	text	문자	text	N	N;MASC;SG
+문자	script	문자	script	N	N;MASC;SG
+문자	guió	문자	guió	N	N;MASC;SG
+문자	caràcter	문자	caràcter	N	N;MASC;SG
+문자	personatge	문자	personatge	N	N;MASC;SG
+문자	personatges	문자	personatge	N	N;MASC;PL
+문자	caràcters	문자	caràcter	N	N;MASC;PL
+문학	literatura	문학	literatura	N	N;FEM;SG
+문학	poesia	문학	poesia	N	N;FEM;SG
+여기에	aquí	여기+에	aquí	ADV	ADV
+에너지	energies	에너지	energia	N	N;FEM;PL
+에너지	energia	에너지	energia	N	N;FEM;SG
+차트	diagrames	차트	diagrama	N	N;MASC;PL
+사회주의	socialisme	사회주의	socialisme	N	N;MASC;SG
+어린이	nens	어린이	nen	N	N;MASC;PL
+어린이	fills	어린이	fill	N	N;MASC;PL
+어린이	infants	어린이	infant	N	N;MASC;PL
+어린이	nens	어린이	nen	N	N;MASC;PL
+나고야	nagoya	나고+아야	nagoya		
+마리아	maría	마리아	maría		
+마리아	mary	마리아	mary		
+마리아	maria	마리아	maria		
+문장	frases	문장	frase	N	N;FEM;PL
+기사	articles	기사	article	N	N;MASC;PL
+기사	article	기사	article	N	N;MASC;SG
+짧은	curt	짧+ㄴ	curt	ADJ	ADJ;MASC;SG
+지도자	líder	지도자	líder	N	N;SG
+지도자	líders	지도자	líder	N	N;PL
+지도자	dirigents	지도자	dirigent	N	N;PL
+장소	lloc	장소	lloc	N	N;MASC;SG
+장소	llocs	장소	lloc	N	N;MASC;PL
+마을	viles	마을	vila	N	N;FEM;PL
+마을	poble	마을	poble	N	N;MASC;SG
+마을	aldea	마을	aldea	N	N;FEM;SG
+점차	gradualment	점차	gradualment	ADV	ADV
+제품	producte	제품	producte	N	N;MASC;SG
+제품	productes	제품	producte	N	N;MASC;PL
+작전	operacions	작전	operació	N	N;FEM;PL
+작전	operació	작전	operació	N	N;FEM;SG
+수영	nedador	수영	nedador	N	N;MASC;SG
+수영	natació	수영	natació	N	N;FEM;SG
+의견	opinions	의견	opinió	N	N;FEM;PL
+의견	opinió	의견	opinió	N	N;FEM;SG
+의견	dictamen	의견	dictamen	N	N;MASC;SG
+북부	nord	북부	nord	N	N;MASC;SG
+북부	northern	북부	northern	N	N;SG
+보호	protecció	보호	protecció	N	N;FEM;SG
+연합	unió	연합	unió	N	N;FEM;SG
+발표	anunci	발표	anunci	N	N;MASC;SG
+발표	presentacions	발표	presentació	N	N;FEM;PL
+획득	adquisició	획득	adquisició	N	N;FEM;SG
+요리	plat	요리	plat	N	N;MASC;SG
+요리	cocció	요리	cocció	N	N;FEM;SG
+태풍	tifó	태풍	tifó	N	N;MASC;SG
+조직	organització	조직	organització	N	N;FEM;SG
+왕조	dinasties	왕조	dinastia	N	N;FEM;PL
+왕조	dinastia	왕조	dinastia	N	N;FEM;SG
+혁명	revolució	혁명	revolució	N	N;FEM;SG
+혁명	revolucions	혁명	revolució	N	N;FEM;PL
+건물	edifici	건물	edifici	N	N;MASC;SG
+건물	edificació	건물	edificació	N	N;FEM;SG
+건물	edificacions	건물	edificació	N	N;FEM;PL
+건물	edificis	건물	edifici	N	N;MASC;PL
+스튜디오	studios	스튜디오	studió		
+스튜디오	studio	스튜디오	studio		
+해체	desmantellament	해체	desmantellament	N	N;MASC;SG
+해체	desmuntatge	해체	desmuntatge	N	N;MASC;SG
+박물관	museus	박물관	museu	N	N;MASC;PL
+박물관	museum	박물관	museum	N	N;MASC;SG
+박물관	museu	박물관	museu	N	N;MASC;SG
+민족	pobles	민족	poble	N	N;MASC;PL
+라이브	viure	라이브	viure		
+라이브	live	라이브	live		
+음성	discurs	음성	discurs	N	N;MASC;SG
+기획	planificació	기획	planificació	N	N;FEM;SG
+기획	planejament	기획	planejament	N	N;MASC;SG
+경찰	cop	경찰	cop	N	N
+경찰	policia	경찰	policia	N	N;SG
+민주당	demòcrates	민주당	demòcrata	N	N;PL
+픽처스	fotografies	픽처스	fotografia	N	N;FEM;PL
+명단	llista	명단	llista	N	N;FEM;SG
+주식회사	corporació	주식회사	corporació	N	N;FEM;SG
+공격	atacs	공격	atac	N	N;MASC;PL
+공격	atac	공격	atac	N	N;MASC;SG
+동부	est	동부	est	N	N;MASC;SG
+전문	professionals	전문	professional	N	N;PL
+전문	especialitat	전문	especialitat	N	N;FEM;SG
+환경	entorns	환경	entorn	N	N;MASC;PL
+넓은	àmplies	넓+ㄴ	ampli	ADJ	ADJ;FEM;PL
+기능	funcionalitats	기능	funcionalitat	N	N;FEM;PL
+기능	característiques	기능	característica	N	N;FEM;PL
+기능	funcionalitat	기능	funcionalitat	N	N;FEM;SG
+협회	associacions	협회	associació	N	N;FEM;PL
+협회	associació	협회	associació	N	N;FEM;SG
+조사	recerca	조사	recerca	N	N;FEM;SG
+조사	investigació	조사	investigació	N	N;FEM;SG
+학생	estudiants	학생	estudiant	N	N;PL
+학생	alumnat	학생	alumnat	N	N;MASC;SG
+학생	alumnes	학생	alumne	N	N;MASC;PL
+학생	alumne	학생	alumne	N	N;MASC;SG
+생활	vida	생활	vida	N	N;FEM;SG
+법률	llei	법률	llei	N	N;FEM;SG
+법률	legislació	법률	legislació	N	N;FEM;SG
+법률	lleis	법률	llei	N	N;FEM;PL
+계획	planificació	계획	planificació	N	N;FEM;SG
+계획	planejament	계획	planejament	N	N;MASC;SG
+계획	pla	계획	pla	N	N;MASC;SG
+계획	plans	계획	pla	N	N;MASC;PL
+카드	cartes	카드	carta	N	N;FEM;PL
+카드	targetes	카드	targeta	N	N;FEM;PL
+카드	targeta	카드	targeta	N	N;FEM;SG
+촬영	rodatge	촬영	rodatge	N	N;MASC;SG
+촬영	tiroteig	촬영	tiroteig	N	N;MASC;SG
+시장	mercats	시장	mercat	N	N;MASC;PL
+시장	alcalde	시장	alcalde	N	N;MASC;SG
+시장	mercat	시장	mercat	N	N;MASC;SG
+소년	noi	소년	noi	N	N;MASC;SG
+소년	nois	소년	noi	N	N;MASC;PL
+소년	boys	소년	boy	N	N;MASC;PL
+서부	oest	서부	oest		
+서부	western	서부	western		
+시인	poeta	시인	poeta	N	N;SG
+시인	poetes	시인	poeta	N	N;PL
+도서관	biblioteques	도서관	biblioteca	N	N;FEM;PL
+도서관	biblioteca	도서관	biblioteca	N	N;FEM;SG
+구성원	membres	구성원	membre	N	N;MASC;PL
+교회	església	교회	església	N	N;FEM;SG
+레이블	etiquetes	레이블	etiqueta	N	N;FEM;PL
+레이블	retolació	레이블	retolació	N	N;FEM;SG
+연대	regiment	연대	regiment	N	N;MASC;SG
+연대	solidaritat	연대	solidaritat	N	N;FEM;SG
+기관	institució	기관	institució	N	N;FEM;SG
+붉은	roig	붉+ㄴ	roig	ADJ	ADJ;MASC;SG
+붉은	vermell	붉+ㄴ	vermell	ADJ	ADJ;MASC;SG
+이론	teoria	이론	teoria	N	N;FEM;SG
+이론	teories	이론	teoria	N	N;FEM;PL
+달러	dòlar	달러	dòlar	N	N;MASC;SG
+군주	monarquia	군주	monarquia	N	N;FEM;SG
+스타디움	estadi	스타디움	estadi	N	N;MASC;SG
+스타디움	stadium	스타디움	stadium	N	N;MASC;SG
+헌법	constitució	헌법	constitució	N	N;FEM;SG
+여름	estiu	여름	estiu	N	N;MASC;SG
+다르다	diferent	다르+다	diferent	ADJ	ADJ;SG
+다르다	diferents	다르+다	diferent	ADJ	ADJ;PL
+차원	dimensió	차원	dimensió	N	N;FEM;SG
+차원	dimensions	차원	dimensió	N	N;FEM;PL
+사단	divisió	사단	divisió	N	N;FEM;SG
+챔피언	champ	챔피언	champ	N	N;FEM
+챔피언	campió	챔피언	campió	N	N;MASC;SG
+챔피언	campiona	챔피언	campiona	N	N;FEM;SG
+챔피언	champions	챔피언	champió	N	N;FEM;PL
+챔피언	campions	챔피언	campió	N	N;MASC;PL
+단순히	simplement	단순+히	simplement	ADV	ADV
+출시	llançament	출시	llançament	N	N;MASC;SG
+출시	alliberació	출시	alliberació	N	N;FEM;SG
+출시	alliberament	출시	alliberament	N	N;MASC;SG
+신문	diari	신문	diari	N	N;MASC;SG
+신문	diaris	신문	diari	N	N;MASC;PL
+신문	papers	신문	paper	N	N;MASC;PL
+깊은	profunds	깊+ㄴ	profund	ADJ	ADJ;MASC;PL
+깊은	profund	깊+ㄴ	profund	ADJ	ADJ;MASC;SG
+솔로	solo	솔+로	solo		
+미드필더	centrecampista	미드필더	centrecampista	N	N;SG
+확인	confirmació	확인	confirmació	N	N;FEM;SG
+확인	verificació	확인	verificació	N	N;FEM;SG
+확인	confirmacions	확인	confirmació	N	N;FEM;PL
+확인	comprovació	확인	comprovació	N	N;FEM;SG
+비트	beat	비트	beat		
+자녀	fills	자녀	fill	N	N;MASC;PL
+자녀	infants	자녀	infant	N	N;MASC;PL
+자녀	nens	자녀	nen	N	N;MASC;PL
+참여	compromís	참여	compromís	N	N;MASC;SG
+참여	participació	참여	participació	N	N;FEM;SG
+손자	néts	손자	nét	N	N;MASC;PL
+손자	nét	손자	nét	N	N;MASC;SG
+생산	producció	생산	producció	N	N;FEM;SG
+남성	mascles	남성	mascle	N	N;MASC;PL
+남성	homes	남성	home	N	N;MASC;PL
+남성	home	남성	home	N	N;MASC;SG
+어려운	difícil	어렵+ㄴ	difícil	ADJ	ADJ;SG
+방법	mètode	방법	mètode	N	N;MASC;SG
+방법	mètodes	방법	mètode	N	N;MASC;PL
+과정	procés	과정	procés	N	N;MASC;SG
+과정	curs	과정	curs	N	N;MASC;SG
+과정	cursos	과정	curs	N	N;MASC;PL
+공식적으로	oficialment	공식+적+으로	oficialment	ADV	ADV
+등장인물	personatges	등장+인물	personatge	N	N;MASC;PL
+등장인물	caràcters	등장+인물	caràcter	N	N;MASC;PL
+정의	justicia	정의	justicia		
+위원회	comissió	위원회	comissió	N	N;FEM;SG
+위원회	comitès	위원회	comitè	N	N;MASC;PL
+위원회	comissions	위원회	comissió	N	N;FEM;PL
+위원회	comitè	위원회	comitè	N	N;MASC;SG
+수학	matemàtica	수학	matemàtic	N	N;FEM;SG
+수학	matemàtiques	수학	matemàtica	N	N;FEM;PL
+수학	matemàtica	수학	matemàtic	N	N;FEM;SG
+수학	matemàtica	수학	matemàtic	N	N;FEM;SG
+콘서트	concert	콘서트	concert	N	N;MASC;SG
+콘서트	concerts	콘서트	concert	N	N;MASC;PL
+공원	parc	공원	parc	N	N;MASC;SG
+공원	parcs	공원	parc	N	N;MASC;PL
+개신교	protestantisme	개신교	protestantisme	N	N;MASC;SG
+미사일	míssils	미사+이+ㄹ	míssil	N	N;MASC;PL
+블랙	black	블랙	black		
+블랙	negre	블랙	negre		
+액션	acció	액션	acció	N	N;FEM;SG
+액션	accions	액션	acció	N	N;FEM;PL
+천황	emperador	천황	emperador	N	N;MASC;SG
+둘러보기	navega	둘러보+기	navegar	V	V;IND;SG;3;PRS;FIN
+둘러보기	explora	둘러보+기	explorar	V	V;IND;SG;3;PRS;FIN
+둘러보기	explorar	둘러보+기	explorar	V	V;NFIN
+사람들	gent	사람+들	gent	N	N;FEM;SG
+사람들	persones	사람+들	persona	N	N;FEM;PL
+예술	arts	예술	art	N	N;FEM;PL
+예술	art	예술	art	N	N;MASC;SG
+형사	detectiu	형사	detectiu	N	N;MASC;SG
+국적	nacionalitat	국적	nacionalitat	N	N;FEM;SG
+국적	nacionalitats	국적	nacionalitat	N	N;FEM;PL
+프로필	perfil	프로필	perfil	N	N;MASC;SG
+프로필	perfils	프로필	perfil	N	N;MASC;PL
+클래식	classic	클래식	classic		
+악기	instrument	악기	instrument	N	N;MASC;SG
+악기	instruments	악기	instrument	N	N;MASC;PL
+지속적으로	ininterrompudament	지속+적+으로	ininterrompudament	ADV	ADV
+지속적으로	coherentment	지속+적+으로	coherentment	ADV	ADV
+지속적으로	constantment	지속+적+으로	constantment	ADV	ADV
+마리	marie	마리	marie		
+마리	mari	마리	marar		
+전주	jeonju	전주	jeonju		
+수량	quantitats	수량	quantitat	N	N;FEM;PL
+수량	quantitat	수량	quantitat	N	N;FEM;SG
+열차	tren	열차	tren	N	N;MASC;SG
+열차	trens	열차	tren	N	N;MASC;PL
+국기	bandera	국기	bandera	N	N;FEM;SG
+베이스	base	베이스	base		
+골든	golden	골든	goldre		
+회원	membre	회원	membre	N	N;MASC;SG
+메달	medalla	메달	medalla	N	N;FEM;SG
+메달	medalló	메달	medalló	N	N;MASC;SG
+메달	medalles	메달	medalla	N	N;FEM;PL
+아카데미	academy	아카데미	academy		
+연장	ampliació	연장	ampliació	N	N;FEM;SG
+연장	extensió	연장	extensió	N	N;FEM;SG
+연장	pròrroga	연장	pròrroga	N	N;FEM;SG
+형태	formulari	형태	formulari	N	N;MASC;SG
+검사	inspecció	검사	inspecció	N	N;FEM;SG
+검사	assaig	검사	assaig	N	N;MASC;SG
+검사	proves	검사	prova	N	N;FEM;PL
+아내	manilles	아내	manilla	N	N;FEM;PL
+아내	esposes	아내	esposa	N	N;FEM;PL
+아내	esposa	아내	esposar	N	N;FEM;SG
+보아	boa	보+아	boa		
+투어	tour	투+어	tour	N	N;MASC;SG
+시가	cigar	시+가	cigar		
+중심	centre	중심	centre	N	N;MASC;SG
+건설	construcció	건설	construcció	N	N;FEM;SG
+확장	ampliació	확장	ampliació	N	N;FEM;SG
+확장	extensió	확장	extensió	N	N;FEM;SG
+확장	pròrroga	확장	pròrroga	N	N;FEM;SG
+확장	expansió	확장	expansió	N	N;FEM;SG
+행성	planeta	행성	planeta	N	N;MASC;SG
+행성	planetes	행성	planeta	N	N;MASC;PL
+정말	realment	정말	realment	ADV	ADV
+결혼	matrimoni	결혼	matrimoni	N	N;MASC;SG
+결혼	matrimonis	결혼	matrimoni	N	N;MASC;PL
+정리	teorema	정리	teorema	N	N;MASC;SG
+출생	naixements	출생	naixement	N	N;MASC;PL
+출생	naixement	출생	naixement	N	N;MASC;SG
+이슬람	islam	이슬람	islam	N	N;MASC;SG
+신장	ronyó	신장	ronyó	N	N;MASC;SG
+하루	jornada	하루	jornada	N	N;FEM;SG
+하루	dia	하루	dia	N	N;MASC;SG
+이유	motius	이유	motiu	N	N;MASC;PL
+이유	raons	이유	raó	N	N;FEM;PL
+이유	raó	이유	raó	N	N;FEM;SG
+이유	motiu	이유	motiu	N	N;MASC;SG
+기본적으로	bàsicament	기본+적+으로	bàsicament	ADV	ADV
+변호사	procuradors	변호사	procurador	N	N;MASC;PL
+변호사	advocats	변호사	advocat	N	N;MASC;PL
+변호사	advocat	변호사	advocat	N	N;MASC;SG
+트랙	pista	트랙	pista	N	N;FEM;SG
+트랙	peça	트랙	peça	N	N;SG
+트랙	vies	트랙	via	N	N;FEM;PL
+트랙	peces	트랙	peça	N	N;PL
+트랙	pistes	트랙	pista	N	N;FEM;PL
+나무	fusta	나무	fusta	N	N;FEM;SG
+나무	arbre	나무	arbre	N	N;MASC;SG
+나무	arbres	나무	arbre	N	N;MASC;PL
+화물	mercaderies	화물	mercaderia	N	N;FEM;PL
+제조	fabricació	제조	fabricació	N	N;FEM;SG
+제조	fabricació	제조	fabricació	N	N;FEM;SG
+범죄	crims	범죄	crim	N	N;MASC;PL
+범죄	delictes	범죄	delicte	N	N;MASC;PL
+범죄	crim	범죄	crim	N	N;MASC;SG
+통신	telecom	통신	telecom	N	N
+통신	comunicacions	통신	comunicació	N	N;FEM;PL
+통신	telecomunicació	통신	telecomunicació	N	N;FEM;SG
+통신	telecomunicacions	통신	telecomunicació	N	N;FEM;PL
+통신	comunicació	통신	comunicació	N	N;FEM;SG
+소녀	noia	소녀	noia	N	N;FEM;SG
+소녀	xiques	소녀	xica	N	N;FEM;PL
+소녀	nenes	소녀	nena	N	N;FEM;PL
+소녀	noies	소녀	noia	N	N;FEM;PL
+소녀	girls	소녀	girl	N	N;MASC;PL
+주인공	protagonista	주인공	protagonista	N	N;SG
+챔피언십	champion	後피+언감	champion		
+제주	jeju	제주	jeju		
+마크	marc	마크	marc		
+타이	thai	타이	thai		
+타이	tai	타이	tai		
+코리아	corea	코리아	corea		
+힙합	hop	힙합	hop	N	N;MASC;SG
+처리	tramitació	처리	tramitació	N	N;FEM;SG
+처리	processament	처리	processament	N	N;MASC;SG
+처리	tramitació	처리	tramitació	N	N;FEM;SG
+처리	maneig	처리	maneig	N	N;MASC;SG
+함수	funció	함수	funció	N	N;FEM;SG
+함수	funcions	함수	funció	N	N;FEM;PL
+광고	publicitat	광고	publicitat	N	N;FEM;SG
+광고	anuncis	광고	anunci	N	N;MASC;PL
+대략	about	대략	about		
+자이언츠	gegants	자이언츠	gegant	N	N;MASC;PL
+마침내	finalment	마침내	finalment	ADV	ADV
+장치	dispositiu	장치	dispositiu	N	N;MASC;SG
+장치	dispositius	장치	dispositiu	N	N;MASC;PL
+오직	només	오직	només	ADV	ADV
+표창	citació	표창	citació	N	N;FEM;SG
+식민지	colònies	식민지	colònia	N	N;FEM;PL
+식민지	colònia	식민지	colònia	N	N;FEM;SG
+화가	pintor	화+가	pintor	N	N;MASC;SG
+기구	organització	기구	organització	N	N;FEM;SG
+메인	main	메인	main		
+자연	naturalesa	자연	naturalesa	N	N;FEM;SG
+보잉	boeing	보잉	boeing	N	N;MASC;SG
+북쪽	nord	북+쪽	nord	N	N;MASC;SG
+다리	bridge	다리	bridge		
+다리	pota	다리	pota		
+일정	horari	일정	horari	N	N;MASC;SG
+단계	passes	단계	passa	N	N;FEM;PL
+단계	passos	단계	pas	N	N;MASC;PL
+단계	etapes	단계	etapa	N	N;FEM;PL
+레코드	rècords	레코드	rècord	N	N;MASC;PL
+레코드	registres	레코드	registre	N	N;MASC;PL
+레코드	enregistraments	레코드	enregistrament	N	N;MASC;PL
+레코드	gravacions	레코드	gravació	N	N;FEM;PL
+레코드	rècord	레코드	rècord	N	N;MASC;SG
+소개	introducció	소개	introducció	N	N;FEM;SG
+소개	introducció	소개	introducció	N	N;FEM;SG
+문신	tatuatge	문신	tatuatge	N	N;MASC;SG
+문신	tatuatges	문신	tatuatge	N	N;MASC;PL
+공사	construcció	공사	construcció	N	N;FEM;SG
+방향	indicacions	방향	indicació	N	N;FEM;PL
+방향	direccions	방향	direcció	N	N;FEM;PL
+방향	direcció	방향	direcció	N	N;FEM;SG
+방향	orientació	방향	orientació	N	N;FEM;SG
+아침	matí	아침	matí	N	N;MASC;SG
+연맹	unió	연맹	unió	N	N;FEM;SG
+연맹	federació	연맹	federació	N	N;FEM;SG
+연맹	confederació	연맹	confederació	N	N;FEM;SG
+은퇴	jubilació	은퇴	jubilació	N	N;FEM;SG
+배급	racionament	배급	racionament	N	N;MASC;SG
+평가	qualificació	평가	qualificació	N	N;FEM;SG
+평가	puntuació	평가	puntuació	N	N;FEM;SG
+평가	habilitació	평가	habilitació	N	N;FEM;SG
+평가	taxa	평가	taxa	N	N;FEM;SG
+평가	avaluació	평가	avaluació	N	N;FEM;SG
+평가	qualificacions	평가	qualificació	N	N;FEM;PL
+교사	ensenyament	교사	ensenyament	N	N;MASC;SG
+교사	docència	교사	docència	N	N;FEM;SG
+교사	mestra	교사	mestra	N	N;FEM;SG
+교사	mestres	교사	mestre	N	N;MASC;PL
+교사	professors	교사	professor	N	N;MASC;PL
+교사	docents	교사	docent	N	N;PL
+교사	professorat	교사	professorat	N	N;MASC;SG
+의회	parlament	의회	parlament	N	N;MASC;SG
+선거구	circumscripció	선거구	circumscripció	N	N;FEM;SG
+공주	princess	공주	princess		
+트위터	twitter	트+위터	twitter		
+정확히	precisament	정확+히	precisament	ADV	ADV
+정확히	exactament	정확+히	exactament	ADV	ADV
+발생	ocurrència	발생	ocurrència	N	N;FEM;SG
+논란	controvèrsia	논란	controvèrsia	N	N;FEM;SG
+논의	discussions	논의	discussió	N	N;FEM;PL
+논의	debats	논의	debat	N	N;MASC;PL
+논의	debat	논의	debat	N	N;MASC;SG
+논의	discussió	논의	discussió	N	N;FEM;SG
+극장	teatres	극장	teatre	N	N;MASC;PL
+극장	teatre	극장	teatre	N	N;MASC;SG
+극장	teatre	극장	teatre	N	N;MASC;SG
+남편	marits	남편	marit	N	N;MASC;PL
+남편	marit	남편	marit	N	N;MASC;SG
+철학	filosofia	철학	filosofia	N	N;FEM;SG
+철학	filòsof	철학	filòsof	N	N;MASC;SG
+대사	ambaixador	대사	ambaixador	N	N;MASC;SG
+대사	ambaixadors	대사	ambaixador	N	N;MASC;PL
+서버	servidors	서버	servidor	N	N;MASC;PL
+서버	servidor	서버	servidor	N	N;MASC;SG
+관료	burocràcia	관료	burocràcia	N	N;FEM;SG
+호텔	hotel	호텔	hotel	N	N;MASC;SG
+호텔	hosteleria	호텔	hosteleria	N	N;FEM;SG
+호텔	hotels	호텔	hotel	N	N;MASC;PL
+판타지	fantasia	판타지	fantasia		
+성씨	cognoms	성씨	cognom	N	N;MASC;PL
+성씨	cognom	성씨	cognom	N	N;MASC;SG
+수정	edicions	수정	edició	N	N;FEM;PL
+수정	edició	수정	edició	N	N;FEM;SG
+무기	armes	무기	arma	N	N;FEM;PL
+무기	armament	무기	armament	N	N;MASC;SG
+아메리칸	american	아메리칸	american		
+기념물	monument	기념물	monument	N	N;MASC;SG
+기념물	monuments	기념물	monument	N	N;MASC;PL
+상대적으로	relativament	상대+적+으로	relativament	ADV	ADV
+결정	decisió	결정	decisió	N	N;FEM;SG
+결정	decisions	결정	decisió	N	N;FEM;PL
+즉시	instant	즉시	instant		
+연주자	músic	연주자	músic	N	N;MASC;SG
+연주자	músics	연주자	músic	N	N;MASC;PL
+건축	edifici	건축	edifici	N	N;MASC;SG
+건축	edificació	건축	edificació	N	N;FEM;SG
+건축	construcció	건축	construcció	N	N;FEM;SG
+건축	arquitecte	건축	arquitecte	N	N;MASC;SG
+건축	arquitectura	건축	arquitectura	N	N;FEM;SG
+드럼	drum	들+요	drum	N	N;MASC;SG
+드럼	tambor	들+요	tambor	N	N;MASC;SG
+드럼	tambors	들+요	tambor	N	N;MASC;PL
+라인	línia	라인	línia		
+라인	rin	라인	rin		
+항공사	transportista	항공사	transportista	N	N;SG
+항공사	aerolínia	항공사	aerolínia	N	N;FEM;SG
+항공사	airlines	항공사	airlí	N	N;FEM;PL
+모드	modalitat	모드	modalitat	N	N;FEM;SG
+모드	mode	모드	mode	N	N;MASC;SG
+위키	wiki	위키	wiki		
+집합	conjunt	집합	conjunt	N	N;MASC;SG
+서쪽	oest	서쪽	oest		
+지휘관	comandants	지휘관	comandant	N	N;MASC;PL
+연구소	institut	연구소	institut	N	N;MASC;SG
+연구소	laboratori	연구소	laboratori	N	N;MASC;SG
+연구소	laboratoris	연구소	laboratori	N	N;MASC;PL
+여행	viatges	여행	viatge	N	N;MASC;PL
+여행	tour	여행	tour	N	N;MASC;SG
+여행	trajecte	여행	trajecte	N	N;MASC;SG
+여행	viatge	여행	viatge	N	N;MASC;SG
+언제나	sempre	언제나	sempre	ADV	ADV
+판매	vendes	판매	venda	N	N;FEM;PL
+판매	venda	판매	venda	N	N;FEM;SG
+도입	introducció	도입	introducció	N	N;FEM;SG
+머리	pèl	머리	pèl	N	N;MASC;SG
+머리	cabells	머리	cabell	N	N;MASC;PL
+머리	capçal	머리	capçal	N	N;MASC;SG
+검색	cerques	검색	cerca	N	N;MASC;PL
+미술	art	미술	art	N	N;MASC;SG
+페이스북	facebook	페이스북	facebook		
+번호	número	번호	número	N	N;MASC;SG
+번호	nombre	번호	nombre	N	N;MASC;SG
+펜싱	esgrima	펜싱	esgrima	N	N;MASC;SG
+테니스	tennis	테니스	tennis	N	N;MASC;SG
+안내	guia	안내	guia	N	N;FEM;SG
+안내	instruccions	안내	instrucció	N	N;FEM;PL
+축제	festival	축제	festival	N	N;MASC;SG
+축제	festivals	축제	festival	N	N;MASC;PL
+만들기	crear	만들+기	crear	V	V;NFIN
+만들기	crea	만들+기	crear	V	V;IND;SG;3;PRS;FIN
+전차	tanc	전차	tanc	N	N;MASC;SG
+전차	tancs	전차	tanc	N	N;MASC;PL
+피터	peter	피터	peter		
+피터	pere	피터	pere		
+풋볼	futbol	풋볼	futbol	N	N;MASC;SG
+레드	red	레드	red		
+스케이팅	patinatge	스케이팅	patinatge	N	N;MASC;SG
+스케이팅	patinadores	스케이팅	patinadora	N	N;FEM;PL
+등록	registre	등록	registre	N	N;MASC;SG
+등록	matriculació	등록	matriculació	N	N;FEM;SG
+등록	inscripció	등록	inscripció	N	N;FEM;SG
+라이트	wright	라이트	wright		
+라이트	llum	라이트	llum		
+왕자	príncep	왕자	príncep	N	N;MASC;SG
+파크	park	파크	park		
+장미	rose	장미	rose		
+장미	rosa	장미	rosa		
+장미	roses	장미	rosa		
+입학	admissió	입학	admissió	N	N;FEM;SG
+블루	blau	블루	blau		
+항공기	aeronaus	항공기	aeronau	N	N;FEM;PL
+하버드	harvard	하버드	harvard		
+연기	fums	연기	fum	N	N;MASC;PL
+자산	propietat	자산	propietat	N	N;FEM;SG
+자산	actius	자산	actiu	N	N;MASC;PL
+자산	propietats	자산	propietat	N	N;FEM;PL
+보병	infanteria	보병	infanteria	N	N;FEM;SG
+계약	contractes	계약	contracte	N	N;MASC;PL
+계약	contracte	계약	contracte	N	N;MASC;SG
+위성	llunes	위성	lluna	N	N;FEM;PL
+영역	zones	영역	zona	N	N;FEM;PL
+영역	àrees	영역	àrea	N	N;FEM;PL
+영역	àmbits	영역	àmbit	N	N;MASC;PL
+영역	domini	영역	domini	N	N;MASC;SG
+영역	zona	영역	zona	N	N;FEM;SG
+영역	àmbit	영역	àmbit	N	N;MASC;SG
+영역	àrea	영역	àrea	N	N;FEM;SG
+개봉	alliberació	개봉	alliberació	N	N;FEM;SG
+개봉	alliberament	개봉	alliberament	N	N;MASC;SG
+개봉	obertura	개봉	obertura	N	N;FEM;SG
+반도	península	반도	península		
+안드로이드	android	안드로이드	android		
+집단	grup	집단	grup	N	N;MASC;SG
+아직도	encara	아직도	encara	ADV	ADV
+영토	territoris	영토	territori	N	N;MASC;PL
+영토	territori	영토	territori	N	N;MASC;SG
+적극적으로	activament	적극+적+으로	activament	ADV	ADV
+투표	votació	투표	votació	N	N;FEM;SG
+투표	vot	투표	vot	N	N;MASC;SG
+투표	votacions	투표	votació	N	N;FEM;PL
+투표	vots	투표	vot	N	N;MASC;PL
+투표	votacions	투표	votació	N	N;FEM;PL
+바다	ocean	바다	ocear		
+소나무	pi	소나무	pi		
+소나무	pine	소나무	pine		
+핵심	core	핵심	core		
+조카	nebodes	조카	neboda	N	N;FEM;PL
+조카	neboda	조카	neboda	N	N;FEM;SG
+나이	edat	나이	edat	N	N;FEM;SG
+철학자	filòsofs	철학자	filòsof	N	N;MASC;PL
+철학자	filòsof	철학자	filòsof	N	N;MASC;SG
+썸네일	miniatura	증네+이+ㄹ	miniatura		
+존재	existència	존재	existència	N	N;FEM;SG
+존재	presència	존재	presència	N	N;FEM;SG
+해리	harry	해리	harry		
+학원	gakuen	학원	gakar		
+좋다	bones	좋+다	bo	ADJ	ADJ;FEM;PL
+좋다	bona	좋+다	bo	ADJ	ADJ;FEM;SG
+대수	algebraica	대수	algebraicar	N	N;FEM;SG
+대수	àlgebra	대수	àlgebrar	N	N;FEM;SG
+영향	impacte	영향	impacte	N	N;MASC;SG
+영향	impactes	영향	impacte	N	N;MASC;PL
+영향	efecte	영향	efecte	N	N;MASC;SG
+영향	influències	영향	influència	N	N;FEM;PL
+영향	efectes	영향	efecte	N	N;MASC;PL
+브랜드	branding	브랜드	branding	N	N;MASC;SG
+그랜드	grand	그랜드	grand		
+주석	anotació	주석	anotació	N	N;FEM;SG
+주석	anotacions	주석	anotació	N	N;FEM;PL
+오프닝	obertura	오프닝	obertura	N	N;FEM;SG
+생성	creació	생성	creació	N	N;FEM;SG
+후쿠시마	fukushima	후쿠시마	fukushimar		
+절대	absolut	절대	absolut		
+해방	alliberament	해방	alliberament	N	N;MASC;SG
+겨울	hivern	겨울	hivern	N	N;MASC;SG
+구글	google	구글	google		
+인용	citacions	인용	citació	N	N;FEM;PL
+인용	citació	인용	citació	N	N;FEM;SG
+랭킹	ranking	랭킹	ranking		
+시험	test	시험	test	N	N;SG
+시험	assaig	시험	assaig	N	N;MASC;SG
+시험	proves	시험	prova	N	N;FEM;PL
+시험	examen	시험	examen	N	N;MASC;SG
+시험	exàmens	시험	examen	N	N;MASC;PL
+타임	time	타임	time		
+공포	por	공포	por	N	N;FEM;SG
+화산	volcà	화산	volcà	N	N;MASC;SG
+화산	volcans	화산	volcà	N	N;MASC;PL
+행위	comportament	행위	comportament	N	N;MASC;SG
+귀족	aristocràcia	귀족	aristocràcia	N	N;FEM;SG
+귀족	noblesa	귀족	noblesa	N	N;FEM;SG
+브라운	marró	브라+ㄴ	marró		
+브라운	browne	브라+ㄴ	browne		
+미니	mini	미니	mini		
+미니	minnie	미니	minnie		
+매사추세츠	massachusetts	매사+세리츠	massachusett	N	N;MASC;PL
+배구	voleibol	배구	voleibol	N	N;MASC;SG
+별도로	separadament	별도+로	separadament	ADV	ADV
+빅토리아	victoria	빅토리아	victoria		
+은행	bancs	은행	banc	N	N;MASC;PL
+은행	banc	은행	banc	N	N;MASC;SG
+고전	classic	고전	classic		
+터미널	terminal	터미널	terminal		
+분석	desglossament	분석	desglossament	N	N;MASC;SG
+분석	anàlisi	분석	anàlisi	N	N;FEM;SG
+내각	gabinet	내각	gabinet	N	N;MASC;SG
+할아버지	avi	할아버지	avi		
+할아버지	avi	할아버지	avi		
+가고시마	kagoshima	가고시마	kagoshima		
+파워	poder	파우+어	poder		
+국민	nació	국민	nació	N	N;FEM;SG
+국민	gent	국민	gent	N	N;FEM;SG
+국민	persones	국민	persona	N	N;FEM;PL
+외교	diplomàcia	외교	diplomàcia	N	N;FEM;SG
+버지니아	virginia	버지니아	virginia		
+회전	rotació	회전	rotació	N	N;FEM;SG
+사가	saga	사+가	saga		
+선택	selecció	선택	selecció	N	N;FEM;SG
+선택	elecció	선택	elecció	N	N;FEM;SG
+상황이	situació	상황+이	situació	N	N;FEM;SG
+지휘	ordre	지휘	ordre		
+지휘	comandament	지휘	comandament		
+스토리	història	스토리	història	N	N;FEM;SG
+스토리	històries	스토리	història	N	N;FEM;PL
+스토리	relats	스토리	relat	N	N;MASC;PL
+규모	escala	규모	escala	N	N;FEM;SG
+규모	magnitud	규모	magnitud	N	N;FEM;SG
+은하	galàxies	은하	galàxia	N	N;FEM;PL
+은하	galàxia	은하	galàxia	N	N;FEM;SG
+항구	molls	항구	moll	N	N;MASC;PL
+항구	port	항구	port	N	N;MASC;SG
+항구	ports	항구	port	N	N;MASC;PL
+플레이오프	playoff	플레이오프	playoff		
+기계	màquina	기계	màquina	N	N;FEM;SG
+기계	maquinària	기계	maquinària	N	N;FEM;SG
+기계	màquines	기계	màquina	N	N;FEM;PL
+무역	comerç	무역	comerç	N	N;MASC;SG
+경쟁	cursa	경쟁	cursa	N	N;FEM;SG
+경쟁	competició	경쟁	competició	N	N;FEM;SG
+경쟁	competència	경쟁	competència	N	N;FEM;SG
+식물	plantes	식물	planta	N	N;FEM;PL
+식물	planta	식물	planta	N	N;FEM;SG
+식물	vegetació	식물	vegetació	N	N;FEM;SG
+주니어	júnior	주+려어	júnior		
+주니어	junior	주+려어	junior		
+공산주의	comunisme	공산주의	comunisme	N	N;MASC;SG
+토마스	tomàs	토마스	tomàs		
+특징	funcionalitats	특징	funcionalitat	N	N;FEM;PL
+특징	característiques	특징	característica	N	N;FEM;PL
+수비수	defensor	수비수	defensor	N	N;MASC;SG
+변수	variacions	변수	variació	N	N;FEM;PL
+테러	terrorisme	테러	terrorisme	N	N;MASC;SG
+체계	sistema	체계	sistema	N	N;MASC;SG
+체계	sistemes	체계	sistema	N	N;MASC;PL
+조정	ajust	조정	ajust	N	N;MASC;SG
+조정	ajustament	조정	ajustament	N	N;MASC;SG
+조정	ajust	조정	ajust	N	N;MASC;SG
+조정	ajustos	조정	ajust	N	N;MASC;PL
+조정	ajustaments	조정	ajustament	N	N;MASC;PL
+제한	limitacions	제한	limitació	N	N;FEM;PL
+제한	restricció	제한	restricció	N	N;FEM;SG
+제한	límits	제한	límit	N	N;MASC;PL
+제한	restriccions	제한	restricció	N	N;FEM;PL
+제한	límit	제한	límit	N	N;MASC;SG
+스티븐	esteve	스티븐	esteve		
+계급	files	계급	fila	N	N;FEM;PL
+계급	classe	계급	classe	N	N;FEM;SG
+발견	descobriment	발견	descobriment	N	N;MASC;SG
+로고	logotip	로고	logotip		
+협력	cooperació	협력	cooperació	N	N;FEM;SG
+가끔	ocasionalment	가끔	ocasionalment	ADV	ADV
+인기	popularitat	인기	popularitat	N	N;FEM;SG
+보안	seguretat	보안	seguretat	N	N;FEM;SG
+점수	puntuació	점수	puntuació	N	N;FEM;SG
+점수	puntuacions	점수	puntuació	N	N;FEM;PL
+점수	punts	점수	punt	N	N;MASC;PL
+포털	portals	포털	portal	N	N;MASC;PL
+포털	portal	포털	portal	N	N;MASC;SG
+아마추어	amateur	아마추+어	amateur		
+위키미디어	wikimedia	위키미디어	wikimedia		
+전설	llegendes	전설	llegenda	N	N;FEM;PL
+구체적으로	específicament	구체+적+으로	específicament	ADV	ADV
+구체적으로	concretament	구체+적+으로	concretament	ADV	ADV
+실험	experiment	실험	experiment	N	N;MASC;SG
+실험	experimentació	실험	experimentació	N	N;FEM;SG
+실험	experiments	실험	experiment	N	N;MASC;PL
+레이	ray	레이	ray		
+최근에	darrerament	최근+에	darrerament	ADV	ADV
+최근에	últimament	최근+에	últimament	ADV	ADV
+최근에	recentment	최근+에	recentment	ADV	ADV
+설계	dissenys	설계	disseny	N	N;MASC;PL
+설계	disseny	설계	disseny	N	N;MASC;SG
+단편	fragments	단편	fragment	N	N;MASC;PL
+원정	expedició	원정	expedició	N	N;FEM;SG
+작업	tasques	작업	tasca	N	N;FEM;PL
+작업	treballs	작업	treball	N	N;MASC;PL
+작업	treball	작업	treball	N	N;MASC;SG
+작업	tasca	작업	tasca	N	N;FEM;SG
+작업	acció	작업	acció	N	N;FEM;SG
+농업	agricultura	농업	agricultura	N	N;FEM;SG
+농업	agricultura	농업	agricultura	N	N;FEM;SG
+플랫폼	plataforma	플랫폼	plataforma	N	N;FEM;SG
+플랫폼	plataformes	플랫폼	plataforma	N	N;FEM;PL
+강제	coacció	강제	coacció	N	N;FEM;SG
+증거	evidència	증거	evidència	N	N;FEM;SG
+디스크	disc	디스크	disc	N	N;MASC;SG
+디스크	discs	디스크	disc	N	N;MASC;PL
+디스크	discos	디스크	disc	N	N;MASC;PL
+관광	tour	관광	tour	N	N;MASC;SG
+관광	turisme	관광	turisme	N	N;MASC;SG
+제어	control	제어	control	N	N;MASC;SG
+제어	controls	제어	control	N	N;MASC;PL
+소스	salse	소스	salse		
+중재	arbitratge	중재	arbitratge	N	N;MASC;SG
+중재	mediador	중재	mediador	N	N;MASC;SG
+강화	reforçament	강화	reforçament	N	N;MASC;SG
+의미	significats	의미	significat	N	N;MASC;PL
+시민	ciutadans	시민	ciutadà	N	N;MASC;PL
+시민	ciutadania	시민	ciutadania	N	N;FEM;SG
+재즈	jazzy	재즈	jazzy		
+화면	pantalles	화면	pantalla	N	N;FEM;PL
+화면	pantalla	화면	pantalla	N	N;FEM;SG
+통계	estadística	통계	estadística	N	N;FEM;SG
+통계	estadístiques	통계	estadística	N	N;FEM;PL
+질량	masses	질량	massa	N	N;FEM;PL
+질량	missa	질량	missa	N	N;FEM;SG
+교실	aula	교실	aula	N	N;FEM;SG
+교실	aules	교실	aula	N	N;FEM;PL
+비판	crítica	비판	crítica	N	N;FEM;SG
+비판	crítica	비판	crítica	N	N;FEM;SG
+로봇	robot	로봇	robot	N	N;MASC;SG
+로봇	robots	로봇	robot	N	N;MASC;PL
+국경	fronteres	국경	frontera	N	N;FEM;PL
+국경	frontera	국경	frontera	N	N;FEM;SG
+유대인	jueus	유대+이+ㄴ	jueu	N	N;MASC;PL
+로드	road	로드	road		
+굵은	negreta	굵+ㄴ	negreta		
+비교	comparació	비교	comparació	N	N;FEM;SG
+비교	comparacions	비교	comparació	N	N;FEM;PL
+오디오	àudio	오디오	àudio	N	N;MASC;SG
+자리	seient	자리	seient		
+능력	destresa	능력	destresa	N	N;FEM;SG
+전사	warrior	전사	warrior	N	N;MASC;SG
+전사	guerrer	전사	guerrer	N	N;MASC;SG
+전사	warriors	전사	warriors	N	N;PL
+전사	guerrers	전사	guerrer	N	N;MASC;PL
+저장	desant	저장	desant		
+저장	desa	저장	desa		
+모험	aventurer	모험	aventurer	N	N;MASC;SG
+모험	aventura	모험	aventura	N	N;FEM;SG
+모험	aventurers	모험	aventurer	N	N;MASC;PL
+모험	aventures	모험	aventura	N	N;FEM;PL
+병원	hospital	병원	hospital	N	N;MASC;SG
+병원	hospitals	병원	hospital	N	N;MASC;PL
+행사	ocasió	행사	ocasió	N	N;FEM;SG
+행사	esdeveniments	행사	esdeveniment	N	N;MASC;PL
+사무소	despatx	사무소	despatx	N	N;MASC;SG
+사무소	oficina	사무소	oficina	N	N;FEM;SG
+여동생	germana	여동생	germana	N	N;FEM;SG
+변화	canvis	변화	canvi	N	N;MASC;PL
+실내	indoors	실내	indoor		
+결승전	finals	결승전	final	N	N;MASC;PL
+안전	seguretat	안전	seguretat	N	N;FEM;SG
+통일	reunificació	통일	reunificació	N	N;FEM;SG
+통일	unificació	통일	unificació	N	N;FEM;SG
+말레이시아	malàisia	말레이시아	malàisia		
+말레이시아	malaisi	말레이시아	malaisi		
+소리	so	소리	so	N	N;MASC;SG
+소리	sons	소리	so	N	N;MASC;PL
+만화가	còmics	만화+가	còmic	N	N;MASC;PL
+궤도	òrbita	궤도	òrbita	N	N;FEM;SG
+디젤	gasoil	디젤	gasoil	N	N;MASC;SG
+디젤	dièsel	디젤	dièsel	N	N;MASC;SG
+가스	gas	가스	gas	N	N;MASC;SG
+가스	gasos	가스	gas	N	N;MASC;PL
+거기에	allà	거기+에	allà	ADV	ADV
+숫자	dígits	숫자	dígit	N	N;MASC;PL
+숫자	número	숫자	número	N	N;MASC;SG
+숫자	nombre	숫자	nombre	N	N;MASC;SG
+숫자	nombres	숫자	nombre	N	N;MASC;PL
+숫자	números	숫자	número	N	N;MASC;PL
+상황	situació	상황	situació	N	N;FEM;SG
+상황	circumstància	상황	circumstància	N	N;FEM;SG
+탄생	naixement	탄생	naixement	N	N;MASC;SG
+이해	enteniment	이해	enteniment	N	N;MASC;SG
+이해	comprensió	이해	comprensió	N	N;FEM;SG
+이해	entesa	이해	entesa	N	N;FEM;SG
+관측	observació	관측	observació	N	N;FEM;SG
+출판	publicació	출판	publicació	N	N;FEM;SG
+출판	edició	출판	edició	N	N;FEM;SG
+명예	honors	명예	honor	N	N;MASC;PL
+청년	jovent	청년	jovent		
+청년	joventut	청년	joventut		
+청주	cheongju	청주	cheongju		
+카메라	càmera	카메라	càmera		
+배경	antecedents	배경	antecedent	N	N;MASC;PL
+배경	fons	배경	fon	N	N;MASC;PL
+퍼시픽	pacific	퍼시픽	pacific		
+영구	perpetu	영구	perpetu		
+표현	representació	표현	representació	N	N;FEM;SG
+표현	expressions	표현	expressió	N	N;FEM;PL
+표현	expressió	표현	expressió	N	N;FEM;SG
+라이선스	llicències	라이선스	llicència	N	N;FEM;PL
+라이선스	llicencies	라이선스	llicencia	N	N;FEM;PL
+라이선스	llicència	라이선스	llicència	N	N;FEM;SG
+라이선스	llicència	라이선스	llicència	N	N;FEM;SG
+찾기	troba	찾+기	trobar	V	V;IND;SG;3;PRS;FIN
+찾기	trobi	찾+기	trobar	V	V;SBJV;SG;3;PRS;FIN
+찾기	trobeu	찾+기	trobeu	V	V;IND;PL;1;PRS;FIN
+찾기	descobreix	찾+기	descobrir	V	V;IND;SG;3;PRS;FIN
+천체	objecte	천체	objecte	N	N;MASC;SG
+천체	objectes	천체	objecte	N	N;MASC;PL
+트윈스	twins	트윈스	twí		
+확대	ampliació	확대	ampliació	N	N;FEM;SG
+확대	extensió	확대	extensió	N	N;FEM;SG
+확대	pròrroga	확대	pròrroga	N	N;FEM;SG
+편의	conveniència	편+의	conveniència	N	N;FEM;SG
+위반	violacions	위반	violació	N	N;FEM;PL
+키보드	teclats	키보드	teclat	N	N;MASC;PL
+키보드	teclat	키보드	teclat	N	N;MASC;SG
+호수	llac	호수	llac	N	N;MASC;SG
+호수	llacs	호수	llac	N	N;MASC;PL
+인종	cursa	인종	cursa	N	N;FEM;SG
+코어	core	코어	core		
+백과사전	enciclopèdia	백과사전	enciclopèdia		
+고양이	cat	고양+이	cat		
+미키	miki	미키	miki		
+크리스마스	nadal	크리스마스	Nadal		
+클래스	classes	클래스	classe	N	N;FEM;PL
+클래스	classe	클래스	classe	N	N;FEM;SG
+주제	temes	주제	tema	N	N;MASC;PL
+주제	temes	주제	tema	N	N;MASC;PL
+주제	temàtica	주제	temàtica	N	N;FEM;SG
+주제	tema	주제	tema	N	N;MASC;SG
+주제	assignatura	주제	assignatura	N	N;FEM;SG
+평일	feiners	평일	feiner	N	N;MASC;PL
+케이블	cables	케이블	cable	N	N;MASC;PL
+케이블	cable	케이블	cable	N	N;MASC;SG
+법칙	llei	법칙	llei	N	N;FEM;SG
+법칙	regla	법칙	regla	N	N;FEM;SG
+이벤트	esdeveniments	이벤트	esdeveniment	N	N;MASC;PL
+이벤트	esdeveniment	이벤트	esdeveniment	N	N;MASC;SG
+아마	potser	아마	potser	ADV	ADV
+아마	probablement	아마	probablement	ADV	ADV
+스피드	velocitat	스피드	velocitat	N	N;FEM;SG
+제안	suggerències	제안	suggerències	N	N;FEM;PL
+제안	suggeriments	제안	suggeriment	N	N;MASC;PL
+제안	suggeriment	제안	suggeriment	N	N;MASC;SG
+제안	proposta	제안	proposta	N	N;FEM;SG
+교체	substitució	교체	substitució	N	N;FEM;SG
+직원	empleats	직원	empleat	N	N;MASC;PL
+지나	gina	지나+아	gina		
+메리	maría	메리	maría		
+메리	mary	메리	mary		
+시각	visió	시각	visió	N	N;FEM;SG
+저녁	vespre	저녁	vespre	N	N;MASC;SG
+편지	correu	편지	correu	N	N;MASC;SG
+편지	carta	편지	carta	N	N;FEM;SG
+효과	efecte	효과	efecte	N	N;MASC;SG
+효과	efectes	효과	efecte	N	N;MASC;PL
+조건	condició	조건	condició	N	N;FEM;SG
+언론인	periodista	언론인	periodista	N	N;SG
+후임	successor	후임	successor		
+인텔	intel	인텔	intel	N	N;MASC;SG
+녹색	green	녹색	grear		
+녹색	verd	녹색	verd		
+병합	annexió	병합	annexió	N	N;FEM;SG
+확실히	certament	확실+히	certament	ADV	ADV
+확실히	definitivament	확실+히	definitivament	ADV	ADV
+확실히	segurament	확실+히	segurament	ADV	ADV
+세인트	saint	세인트	saint		
+코너	connors	코너	connor		
+의학	medicament	의학	medicament	N	N;MASC;SG
+의학	medicina	의학	medicina	N	N;FEM;SG
+여왕	queen	여왕	quear		
+여왕	reina	여왕	reina		
+금융	finançament	금융	finançament	N	N;MASC;SG
+금융	finances	금융	finança	N	N;FEM;PL
+캠퍼스	campus	캠퍼스	campu		
+물이	aigua	물+이	aigua	N	N;FEM;SG
+교향곡	simfonia	교향곡	simfonia	N	N;FEM;SG
+교향곡	simfonies	교향곡	simfonia	N	N;FEM;PL
+광장	plaça	광장	plaça	N	N;FEM;SG
+쌍둥이	bessó	쌍둥이	bessó		
+쌍둥이	twin	쌍둥이	twin		
+쌍둥이	twins	쌍둥이	twí		
+사이드	side	사이드	side		
+스카이	cel	스카이	cel		
+쉬운	fàcil	쉽+ㄴ	fàcil	ADJ	ADJ;SG
+기호	símbols	기호	símbol	N	N;MASC;PL
+기호	signe	기호	signe	N	N;MASC;SG
+카페	café	카페	café		
+카페	cafe	카페	cafe		
+목적	finalitats	목적	finalitat	N	N;FEM;PL
+목적	finalitats	목적	finalitat	N	N;FEM;PL
+목적	finalitat	목적	finalitat	N	N;FEM;SG
+목적	propòsit	목적	propòsit	N	N;MASC;SG
+별명	àlies	별명	àlia		
+별명	àlies	별명	àlia		
+선언	proclamació	선언	proclamació	N	N;FEM;SG
+선언	declaració	선언	declaració	N	N;FEM;SG
+무대	etapa	무대	etapa	N	N;FEM;SG
+무대	escenari	무대	escenari	N	N;MASC;SG
+녹음	gravació	녹음	gravació	N	N;FEM;SG
+녹음	enregistrament	녹음	enregistrament	N	N;MASC;SG
+녹음	rècord	녹음	rècord	N	N;MASC;SG
+녹음	enregistraments	녹음	enregistrament	N	N;MASC;PL
+녹음	gravacions	녹음	gravació	N	N;FEM;PL
+래퍼	raper	래퍼	raper	N	N;MASC;SG
+전략	estratègies	전략	estratègia	N	N;FEM;PL
+전략	tàctiques	전략	tàctic	N	N;FEM;PL
+전략	estratègia	전략	estratègia	N	N;FEM;SG
+항성	estrella	항성	estrella	N	N;FEM;SG
+항성	estels	항성	estel	N	N;MASC;PL
+항성	estrelles	항성	estrella	N	N;FEM;PL
+로켓	coets	로켓	coet	N	N;MASC;PL
+읽기	llegir	읽+기	llegir	V	V;NFIN
+읽기	lectura	읽+기	lectura	V	V;IND;SG;3;PRS;FIN
+평화	pau	평화	pau	N	N;FEM;SG
+리가	riga	리+가	riga		
+합계	sumatori	합계	sumatori	N	N;MASC;SG
+나이트	cavaller	나이트	cavaller		
+나이트	nit	나이트	nit		
+우연히	accidentalment	우연+히	accidentalment	ADV	ADV
+웨스트	oest	웨스트	oest		
+아레나	arena	아레+나	arena		
+훈련	entrenament	훈련	entrenament	N	N;MASC;SG
+훈련	formació	훈련	formació	N	N;FEM;SG
+훈련	simulacre	훈련	simulacre	N	N;MASC;SG
+진주	pearl	진주	pearl		
+범위	àmbit	범위	àmbit	N	N;MASC;SG
+범위	abast	범위	abast	N	N;MASC;SG
+에릭	eric	에릭	eric		
+경영	gestió	경영	gestió	N	N;FEM;SG
+정수	enter	정수	enter		
+시드	sid	시드	sid		
+장비	equipaments	장비	equipament	N	N;MASC;PL
+장비	equipament	장비	equipament	N	N;MASC;SG
+전력	electricitat	전력	electricitat	N	N;FEM;SG
+전력	potència	전력	potència	N	N;FEM;SG
+행동	acció	행동	acció	N	N;FEM;SG
+행동	conductes	행동	conducta	N	N;FEM;PL
+행동	accions	행동	acció	N	N;FEM;PL
+행동	comportament	행동	comportament	N	N;MASC;SG
+보조	assistent	보조	assistent	N	N;SG
+통화	divises	통화	divisa	N	N;FEM;PL
+통화	monedes	통화	moneda	N	N;FEM;PL
+통화	convocatòries	통화	convocatòria	N	N;FEM;PL
+통화	trucades	통화	trucada	N	N;FEM;PL
+통화	crides	통화	crida	N	N;FEM;PL
+통화	moneda	통화	moneda	N	N;FEM;SG
+통화	convocatòria	통화	convocatòria	N	N;FEM;SG
+통화	trucada	통화	trucada	N	N;FEM;SG
+성격	caràcter	성격	caràcter	N	N;MASC;SG
+성격	personatge	성격	personatge	N	N;MASC;SG
+성격	personalitats	성격	personalitat	N	N;FEM;PL
+성격	personalitat	성격	personalitat	N	N;FEM;SG
+소유자	propietari	소유자	propietari	N	N;MASC;SG
+소유자	propietaris	소유자	propietari	N	N;MASC;PL
+추진	propulsió	추진	propulsió	N	N;FEM;SG
+동경	tòquio	동경	tòquio		
+동경	tokyo	동경	tokyo		
+원인	causes	원인	causa	N	N;FEM;PL
+체조	gimnàstica	체조	gimnàstica	N	N;FEM;SG
+체조	gimnastes	체조	gimnasta	N	N;FEM;PL
+노예	esclau	노예	esclau	N	N;MASC;SG
+노예	esclava	노예	esclau	N	N;FEM;SG
+노예	esclaus	노예	esclau	N	N;MASC;PL
+익스프레스	express	익스프레스	express		
+출력	sortida	출력	sortida	N	N;FEM;SG
+출력	sortides	출력	sortida	N	N;FEM;PL
+마법	màgia	마법	màgia	N	N;FEM;SG
+금속	metall	금속	metall	N	N;MASC;SG
+금속	metalls	금속	metall	N	N;MASC;PL
+드래곤	drac	드래+곤	drac		
+어두운	fosc	어둡+ㄴ	fosc	ADJ	ADJ;MASC;SG
+신호	senyals	신호	senyal	N	N;MASC;PL
+신호	senyal	신호	senyal	N	N;MASC;SG
+대화	converses	대화	conversa	N	N;FEM;PL
+대화	conversa	대화	conversa	N	N;FEM;SG
+대화	fils	대화	fil	N	N;MASC;PL
+생물	organisme	생물	organisme	N	N;MASC;SG
+생물	criatura	생물	criatura	N	N;FEM;SG
+수사	investigacions	수사	investigació	N	N;FEM;PL
+미스터	mister	미스터	mister		
+정신	esperit	정신	esperit	N	N;MASC;SG
+금요일	dv	금요일	dv		
+고급	advanced	고급	advanced		
+개혁	reformes	개혁	reforma	N	N;FEM;PL
+개혁	reforma	개혁	reforma	N	N;FEM;SG
+물질	matèria	물질	matèria	N	N;FEM;SG
+물질	material	물질	material	N	N;MASC;SG
+물질	substància	물질	substància	N	N;FEM;SG
+물질	substàncies	물질	substància	N	N;FEM;PL
+전환	conversions	전환	conversió	N	N;FEM;PL
+전환	conversió	전환	conversió	N	N;FEM;SG
+전환	interruptor	전환	interruptor	N	N;MASC;SG
+전환	commutació	전환	commutació	N	N;FEM;SG
+발사	llançament	발사	llançament	N	N;MASC;SG
+관광지	atraccions	관광지	atracció	N	N;FEM;PL
+성별	gènere	성별	gènere	N	N;MASC;SG
+성별	pronom	성별	pronom	N	N;MASC;SG
+성별	sexe	성별	sexe	N	N;MASC;SG
+레이더	radar	레이더	radar	N	N;MASC;SG
+종업원	mosso	종업원	mosso	N	N;MASC;SG
+간단히	simplement	간단+히	simplement	ADV	ADV
+음식	alimentació	음식	alimentació	N	N;FEM;SG
+음식	aliments	음식	aliment	N	N;MASC;PL
+보존	conservació	보존	conservació	N	N;FEM;SG
+보존	preservació	보존	preservació	N	N;FEM;SG
+규정	reglaments	규정	reglament	N	N;MASC;PL
+규정	regulació	규정	regulació	N	N;FEM;SG
+규정	reglament	규정	reglament	N	N;MASC;SG
+규정	reglamentació	규정	reglamentació	N	N;FEM;SG
+양자	quàntica	양자	quàntica	N	N;FEM;SG
+설정	conjunt	설정	conjunt	N	N;MASC;SG
+설정	arranjaments	설정	arranjament	N	N;MASC;PL
+설정	arranjament	설정	arranjament	N	N;MASC;SG
+설정	configuració	설정	configuració	N	N;FEM;SG
+설정	configuració	설정	configuració	N	N;FEM;SG
+라틴	llatí	라틴	llatí		
+라틴	latino	라틴	latino		
+하드	dur	하드	dur		
+인터뷰	entrevista	인터뷰	entrevista	N	N;FEM;SG
+인터뷰	entrevistes	인터뷰	entrevista	N	N;FEM;PL
+리듬	ritmes	리듬	ritme	N	N;MASC;PL
+달성	èxits	달성	èxit	N	N;MASC;PL
+달성	realitzacions	달성	realització	N	N;FEM;PL
+합병	fusions	합병	fusió	N	N;FEM;PL
+합병	annexió	합병	annexió	N	N;FEM;SG
+입력	input	입력	input	N	N;MASC;SG
+입력	aportació	입력	aportació	N	N;FEM;SG
+역할	rols	역할	rol	N	N;MASC;PL
+사격	rodatge	사격	rodatge	N	N;MASC;SG
+사격	tiroteig	사격	tiroteig	N	N;MASC;SG
+모임	sessió	모임	sessió	N	N;FEM;SG
+모임	reunió	모임	reunió	N	N;FEM;SG
+모임	trobada	모임	trobada	N	N;FEM;SG
+비행	vols	비행	vol	N	N;MASC;PL
+유전자	gen	유전자	gen	N	N;MASC;SG
+여객	passatger	여객	passatger	N	N;MASC;SG
+군대	efectius	군대	efectiu	N	N;MASC;PL
+군대	tropes	군대	tropa	N	N;FEM;PL
+군대	exèrcit	군대	exèrcit	N	N;MASC;SG
+권리	drets	권리	dret	N	N;MASC;PL
+부상	ferits	부상	ferit	N	N;MASC;PL
+부상	lesió	부상	lesió	N	N;FEM;SG
+부상	lesions	부상	lesió	N	N;FEM;PL
+세상	món	세상	món	N	N;MASC;SG
+영웅	herois	영웅	heroi	N	N;MASC;PL
+때때로	ocasionalment	때때로	ocasionalment	ADV	ADV
+홍보	ascensos	홍보	ascens	N	N;MASC;PL
+홍보	promocions	홍보	promoció	N	N;FEM;PL
+홍보	promoció	홍보	promoció	N	N;FEM;SG
+정비	manteniment	정비	manteniment	N	N;MASC;SG
+정비	manutenció	정비	manutenció	N	N;FEM;SG
+무게	pes	무게	pes		
+실행	execució	실행	execució	N	N;FEM;SG
+실행	llançament	실행	llançament	N	N;MASC;SG
+통치	regnat	통치	regnar	N	N;MASC;SG
+터널	túnel	터널	túnel	N	N;MASC;SG
+터널	túnels	터널	túnel	N	N;MASC;PL
+전화	telèfon	전화	telèfon	N	N;MASC;SG
+전화	convocatòria	전화	convocatòria	N	N;FEM;SG
+전화	trucada	전화	trucada	N	N;FEM;SG
+전화	telèfon	전화	telèfon	N	N;MASC;SG
+전화	telèfons	전화	telèfon	N	N;MASC;PL
+토너먼트	torneig	토너먼트	torneig	N	N;MASC;SG
+토너먼트	tornejos	토너먼트	torneig	N	N;MASC;PL
+소닉	sonic	소닉	sonic		
+순간	moments	순간	moment	N	N;MASC;PL
+순간	moment	순간	moment	N	N;MASC;SG
+어드벤처	aventura	어드벤처	aventura	N	N;FEM;SG
+어드벤처	aventures	어드벤처	aventura	N	N;FEM;PL
+지진	terratrèmol	지진	terratrèmol	N	N;MASC;SG
+지진	terratrèmols	지진	terratrèmol	N	N;MASC;PL
+동맹	unió	동맹	unió	N	N;FEM;SG
+동맹	lliga	동맹	lliga	N	N;FEM;SG
+동맹	aliances	동맹	aliança	N	N;FEM;PL
+동맹	aliança	동맹	aliança	N	N;FEM;SG
+타워	tower	타우+어	tower		
+출판사	editorials	출판사	editorial	N	N;FEM;PL
+자전거	motos	자전거	moto	N	N;FEM;PL
+자전거	bicicletes	자전거	bicicleta	N	N;FEM;PL
+지침	orientacions	지침	orientació	N	N;FEM;PL
+지침	directrius	지침	directriu	N	N;FEM;PL
+지침	instruccions	지침	instrucció	N	N;FEM;PL
+헬로	hola	헬로	hol		
+캄파니아	campania	캄파니아	campania		
+결승	finals	결승	final	N	N;MASC;PL
+화재	incendi	화재	incendi	N	N;MASC;SG
+붕괴	esfondrament	붕괴	esfondrament	N	N;MASC;SG
+붕괴	decaïment	붕괴	decaïment	N	N;MASC;SG
+프랭크	frank	프랭크	frank		
+취급	tramitació	취급	tramitació	N	N;FEM;SG
+취급	maneig	취급	maneig	N	N;MASC;SG
+점프	salts	점프	salt	N	N;MASC;PL
+공동체	comunitats	공동체	comunitat	N	N;FEM;PL
+공동체	comunitat	공동체	comunitat	N	N;FEM;SG
+개인적으로	personalment	개인+적+으로	personalment	ADV	ADV
+디비전	divisió	디비전	divisió	N	N;FEM;SG
+아마도	potser	아마도	potser	ADV	ADV
+아마도	probablement	아마도	probablement	ADV	ADV
+베타	beta	베타	beta		
+연애	relacions	연애	relació	N	N;FEM;PL
+연애	datació	연애	datació	N	N;FEM;SG
+연애	relació	연애	relació	N	N;FEM;SG
+가톨릭교회	catolicisme	가톨릭+교회	catolicisme	N	N;MASC;SG
+개념	concepte	개념	concepte	N	N;MASC;SG
+개념	noció	개념	noció	N	N;FEM;SG
+개념	conceptes	개념	concepte	N	N;MASC;PL
+오렌지	orange	오렌지	orange		
+오렌지	taronja	오렌지	taronja		
+장면	escena	장면	escena	N	N;FEM;SG
+장면	escenes	장면	escena	N	N;FEM;PL
+무거운	pesats	무겁+ㄴ	pesat	ADJ	ADJ;MASC;PL;V.PTCP
+무거운	pesada	무겁+ㄴ	pesada	ADJ	ADJ;FEM;SG;V.PTCP
+무거운	pesant	무겁+ㄴ	pesar	ADJ	ADJ;SG
+무거운	pesades	무겁+ㄴ	pesada	ADJ	ADJ;FEM;PL;V.PTCP
+서명	signatures	서명	signatura	N	N;FEM;PL
+서명	signe	서명	signe	N	N;MASC;SG
+서명	signatura	서명	signatura	N	N;FEM;SG
+정치가	polítics	정치+가	polític	N	N;MASC;PL
+빌리	billy	빌리	billy		
+암살	atemptat	암살	atemptat	N	N;MASC;SG
+암살	assassins	암살	assassí	N	N;MASC;PL
+성공적으로	satisfactòriament	성공+적+으로	satisfactòriament	ADV	ADV
+차이	diferències	차이	diferència	N	N;FEM;PL
+차이	diferència	차이	diferència	N	N;FEM;SG
+친척	familiars	친척	familiar	N	N;PL
+친척	parents	친척	parent	N	N;MASC;PL
+고정	pin	고정	pin		
+고정	fix	고정	fix		
+지식	coneixements	지식	coneixement	N	N;MASC;PL
+지식	coneixement	지식	coneixement	N	N;MASC;SG
+거리가	carrer	거리+가	carrer	N	N;MASC;SG
+알파	alpha	알파	alpha		
+알파	alfa	알파	alfa		
+노동자	obrers	노동자	obrer	N	N;MASC;PL
+노동자	treballadors	노동자	treballador	N	N;MASC;PL
+노동자	treballador	노동자	treballador	N	N;MASC;SG
+연인	lovers	연인	lover	N	N;MASC
+연인	amants	연인	amant	N	N;MASC;PL
+반응	reacció	반응	reacció	N	N;FEM;SG
+반응	interaccions	반응	interacció	N	N;FEM;PL
+체육관	gimnàs	체육관	gimnàs	N	N;MASC;SG
+체육관	gimnasos	체육관	gimnas	N	N;MASC;PL
+원수	caps	원수	cap	N	N;MASC;PL
+토니	tony	토니	tony		
+토니	toni	토니	toni		
+접근	accessos	접근	accés	N	N;MASC;PL
+접근	accés	접근	accés	N	N;MASC;SG
+접근	plantejament	접근	plantejament	N	N;MASC;SG
+접근	enfocament	접근	enfocament	N	N;MASC;SG
+원자	àtoms	원자	àtom	N	N;MASC;PL
+원자	àtom	원자	àtom	N	N;MASC;SG
+레오	leo	레오	leo		
+아티스트	artistes	아티스트	artista	N	N;PL
+아티스트	artista	아티스트	artista	N	N;SG
+개선	millores	개선	millora	N	N;FEM;PL
+사용하기	usa	사용+하+기	usar	V	V;IND;SG;3;PRS;FIN
+사용하기	habilita	사용+하+기	habilitar	V	V;IND;SG;3;PRS;FIN
+사용하기	bescanviar	사용+하+기	bescanviar	V	V;NFIN
+현상	fenòmens	현상	fenòmen	N	N;MASC;PL
+현상	fenomen	현상	fenomen	N	N;MASC;SG
+필름	films	필름	film	N	N;MASC;PL
+필름	film	필름	film	N	N;MASC;SG
+협정	acord	협정	acord	N	N;MASC;SG
+협정	acords	협정	acord	N	N;MASC;PL
+충돌	crash	충돌	crash	N	N;SG
+충돌	fallades	충돌	fallada	N	N;FEM;PL
+충돌	conflicte	충돌	conflicte	N	N;MASC;SG
+충돌	abordatges	충돌	abordatge	N	N;MASC;PL
+지지	suport	지+지	suport		
+지지	aval	지+지	aval		
+오노	ohno	오노	ohno		
+크림	crema	크림	crema		
+하트	cor	하트	cor		
+하트	hart	하트	hart		
+하트	hearts	하트	hearts		
+하트	cors	하트	cor		
+에이스	aces	에이스	aça		
+에이스	as	에이스	as		
+잭슨	jackson	잭슨	jackson		
+크로스	cross	크로스	cros		
+전통적으로	tradicionalment	전통+적+으로	tradicionalment	ADV	ADV
+시위	demostració	시위	demostració	N	N;FEM;SG
+시위	manifestació	시위	manifestació	N	N;FEM;SG
+시위	protesta	시위	protesta	N	N;FEM;SG
+시위	manifestacions	시위	manifestació	N	N;FEM;PL
+시위	demostracions	시위	demostració	N	N;FEM;PL
+시위	mobilitzacions	시위	mobilització	N	N;FEM;PL
+화성	mart	화성	mart		
+빌딩	edifici	빌딩	edifici	N	N;MASC;SG
+빌딩	edificació	빌딩	edificació	N	N;FEM;SG
+빌딩	edificacions	빌딩	edificació	N	N;FEM;PL
+빌딩	edificis	빌딩	edifici	N	N;MASC;PL
+변환	transformacions	변환	transformació	N	N;FEM;PL
+변환	conversió	변환	conversió	N	N;FEM;SG
+변환	transformació	변환	transformació	N	N;FEM;SG
+포맷	formatació	포맷	formatació	N	N;FEM;SG
+피에르	pierre	피에르	pierre		
+올바른	correctes	올바르+ㄴ	correcte	ADJ	ADJ;PL
+성공	èxit	성공	èxit	N	N;MASC;SG
+저자	autor	저자	autor	N	N;MASC;SG
+대량	granel	대량	granel		
+내역	història	내역	història	N	N;FEM;SG
+대기	atmosfera	대기	atmosfera	N	N;FEM;SG
+리드	plom	리드	plom		
+가격	preus	가격	preu	N	N;MASC;PL
+가격	preu	가격	preu	N	N;MASC;SG
+측면	side	측면	side		
+인사	salutacions	인사	salutació	N	N;FEM;PL
+인사	salutació	인사	salutació	N	N;FEM;SG
+공기	aire	공기	aire	N	N;MASC;SG
+마일	kilòmetre	마일	kilòmetre		
+조각	escultura	조각	escultura	N	N;FEM;SG
+조각	escultures	조각	escultura	N	N;FEM;PL
+조각	peces	조각	peça	N	N;PL
+민주주의	democràcia	민주주의	democràcia	N	N;FEM;SG
+쓰기	escriu	쓰+기	escriure	V	V;IND;SG;3;PRS;FIN
+쓰기	compon	쓰+기	compondre	V	V;IND;SG;3;PRS;FIN
+쓰기	componen	쓰+기	compondre	V	V;IND;PL;3;PRS;FIN
+쓰기	compondre	쓰+기	compondre	V	V;NFIN
+함대	flota	함대	flota	N	N;FEM;SG
+안나	anna	안나	anna		
+사쿠라	sakura	사쿠라	sakura		
+궁전	palaus	궁전	palau	N	N;MASC;PL
+사촌	cosí	사촌	cosí	N	N;MASC;SG
+사촌	cosina	사촌	cosina	N	N;FEM;SG
+사촌	cosins	사촌	cosí	N	N;MASC;PL
+언니	sister	언니	sister		
+신사	cavallers	신사	cavaller	N	N;MASC;PL
+신사	senyors	신사	senyor	N	N;MASC;PL
+빨간색	red	빨간색	red		
+보일	boyle	보이+ㄹ	boyle		
+테일러	taylor	테일러	taylor		
+원장	prelat	원장	prelat	N	N;MASC;SG
+스키	esquís	스키	esquís	N	N;MASC;PL
+스키	esquiador	스키	esquiador	N	N;MASC;SG
+스키	esquí	스키	esquí	N	N;MASC;SG
+선전	shenzhen	선전	shenzhar		
+폭탄	bomba	폭탄	bomba	N	N;FEM;SG
+폭탄	bombes	폭탄	bomba	N	N;FEM;PL
+반란	motí	반란	motí	N	N;MASC;SG
+앨리스	alice	앨리스	alice		
+제작자	productor	제작자	productor	N	N;MASC;SG
+제작자	autor	제작자	autor	N	N;MASC;SG
+제작자	autors	제작자	autor	N	N;MASC;PL
+제작자	creadors	제작자	creador	N	N;MASC;PL
+애플	apple	애플	apple		
+수료	diploma	수료	diploma	N	N;MASC;SG
+승인	aprovació	승인	aprovació	N	N;FEM;SG
+승인	autorització	승인	autorització	N	N;FEM;SG
+참가자	concursant	참가자	concursant	N	N;SG
+참가자	participants	참가자	participant	N	N;PL
+참가자	concursants	참가자	concursant	N	N;PL
+폭발	explosió	폭발	explosió	N	N;FEM;SG
+폭발	explosions	폭발	explosió	N	N;FEM;PL
+개요	resum	개요	resum		
+개요	ressenya	개요	ressenyar		
+하드웨어	maquinari	하드웨어	maquinari	N	N;MASC;SG
+교류	interaccions	교류	interacció	N	N;FEM;PL
+포크	fork	포크	fork		
+공학	enginyeria	공학	enginyeria	N	N;FEM;SG
+민주화	democratització	민주화	democratització	N	N;FEM;SG
+민주화	democràcia	민주화	democràcia	N	N;FEM;SG
+성장	creixement	성장	creixement	N	N;MASC;SG
+파란색	blau	파란색	blau		
+트리플	triple	트리플	triple		
+모양	formes	모양	forma	N	N;FEM;PL
+결합	vincle	결합	vincle	N	N;MASC;SG
+결합	lligam	결합	lligam	N	N;MASC;SG
+진화	evolució	진화	evolució	N	N;FEM;SG
+주교	arquebisbe	주교	arquebisbe	N	N;MASC;SG
+주교	bisbe	주교	bisbe	N	N;MASC;SG
+주교	alfil	주교	alfil	N	N;MASC;SG
+주교	bisbes	주교	bisbe	N	N;MASC;PL
+연료	combustible	연료	combustible	N	N;MASC;SG
+아래로	down	아래+로	down		
+도라에몽	doraemon	도라에몽	doraemon		
+마이애미	miami	마이애미	miami		
+전투기	lluitador	전투기	lluitador	N	N;MASC;SG
+주파수	freqüència	주파수	freqüència	N	N;FEM;SG
+경계	fronteres	경계	frontera	N	N;FEM;PL
+경계	frontera	경계	frontera	N	N;FEM;SG
+오피스	office	오피스	office		
+학부	facultat	학부	facultat	N	N;FEM;SG
+레전드	legend	레전드	legend		
+레전드	legends	레전드	legend		
+수입	importacions	수입	importació	N	N;FEM;PL
+수입	ingrés	수입	ingrés	N	N;MASC;SG
+수입	ingressos	수입	ingrés	N	N;MASC;PL
+수입	importació	수입	importació	N	N;FEM;SG
+패밀리	familia	패밀리	familia		
+일시적으로	transitòriament	일시+적+으로	transitòriament	ADV	ADV
+일시적으로	temporalment	일시+적+으로	temporalment	ADV	ADV
+플러스	plus	플러스	plus		
+모형	models	모형	model	N	N;MASC;PL
+모형	model	모형	model	N	N;MASC;SG
+도구	eina	도구	eina	N	N;FEM;SG
+도구	eines	도구	eina	N	N;FEM;PL
+칼리지	college	칼리+지	college		
+학습	aprenentatge	학습	aprenentatge	N	N;MASC;SG
+개조	mods	개조	mod	N	N;MASC;PL
+오류	error	오류	error	N	N;MASC;SG
+누나	sister	누나+아	sister		
+존슨	johnson	존슨	johnson		
+공정	fira	공정	fira	N	N;FEM;SG
+공룡	dinosaure	공룡	dinosaure	N	N;MASC;SG
+공룡	dinosaures	공룡	dinosaure	N	N;MASC;PL
+의식	cerimònia	의식	cerimònia	N	N;FEM;SG
+의식	ritual	의식	ritual	N	N;MASC;SG
+의식	consciència	의식	consciència	N	N;FEM;SG
+자바	java	자바	java		
+받기	aconsegueix	받+기	aconseguir	V	V;IND;SG;3;PRS;FIN
+받기	rebre	받+기	rebre	V	V;NFIN
+청춘	jovent	청춘	jovent		
+청춘	joventut	청춘	joventut		
+회로	circuits	회로	circuit	N	N;MASC;PL
+회로	circuit	회로	circuit	N	N;MASC;SG
+요소	element	요소	element	N	N;MASC;SG
+규칙	regles	규칙	regla	N	N;FEM;PL
+규칙	normes	규칙	norma	N	N;FEM;PL
+규칙	regla	규칙	regla	N	N;FEM;SG
+재정	finances	재정	finança	N	N;FEM;PL
+안토니오	antonio	안토니오	antonio		
+수소	hidrogen	수소	hidrogen	N	N;MASC;SG
+펑크	punk	펑크	punk	N	N;MASC;SG
+펑크	funk	펑크	funk	N	N;MASC;SG
+상품	mercaderies	상품	mercaderia	N	N;FEM;PL
+상품	béns	상품	bé	N	N;MASC;PL
+상품	elements	상품	element	N	N;MASC;PL
+상품	productes	상품	producte	N	N;MASC;PL
+상품	mercaderia	상품	mercaderia	N	N;FEM;SG
+원칙	principis	원칙	principi	N	N;MASC;PL
+골드	gold	골드	gold		
+케네디	kennedy	케네디	kennedy		
+사기	frau	사기	frau		
+건강	healthy	건강	healthy	N	N;SG
+건강	sanitat	건강	sanitat	N	N;FEM;SG
+건강	salut	건강	salut	N	N;FEM;SG
+물고기	peixos	물고기	peix	N	N;MASC;PL
+물고기	peix	물고기	peix	N	N;MASC;SG
+경고	advertències	경+고	advertència	N	N;FEM;PL
+경고	avisos	경+고	avís	N	N;MASC;PL
+경고	advertència	경+고	advertència	N	N;FEM;SG
+경고	precaució	경+고	precaució	N	N;FEM;SG
+키스	petó	키스	petó		
+키스	keith	키스	keith		
+다니엘	daniel	다니엘	daniel		
+테스트	test	테스트	test	N	N;SG
+테스트	proves	테스트	prova	N	N;FEM;PL
+테스트	assaig	테스트	assaig	N	N;MASC;SG
+테스트	proves	테스트	prova	N	N;FEM;PL
+재판	judici	재판	judici	N	N;MASC;SG
+재판	judicis	재판	judici	N	N;MASC;PL
+특성	propietats	특성	propietat	N	N;FEM;PL
+가구	llars	가구	llar	N	N;FEM;PL
+가구	mobles	가구	moble	N	N;MASC;PL
+가구	mobiliari	가구	mobiliari	N	N;MASC;SG
+가구	moble	가구	moble	N	N;MASC;SG
+지점	sucursal	지점	sucursal		
+지점	branca	지점	branca		
+왕위	tron	왕위	tron	N	N;MASC;SG
+무슬림	musulmans	무슬림	musulmà	N	N;MASC;PL
+온도	temperatura	온도	temperatura	N	N;FEM;SG
+온도	temperatures	온도	temperatura	N	N;FEM;PL
+럭비	rugbi	럭비	rugbi	N	N;MASC;SG
+건축가	arquitecte	건축가	arquitecte	N	N;MASC;SG
+건축가	arquitectes	건축가	arquitecte	N	N;MASC;PL
+부활	resurrecció	부활	resurrecció	N	N;FEM;SG
+동화	assimilació	동화	assimilació	N	N;FEM;SG
+마케팅	màrqueting	마케팅	màrqueting	N	N;MASC;SG
+마케팅	marketing	마케팅	marketing	N	N;MASC;SG
+마케팅	comercialització	마케팅	comercialització	N	N;FEM;SG
+학술	diari	학술	diari	N	N;MASC;SG
+무덤	tomba	무덤	tomba	N	N;FEM;SG
+무덤	tombes	무덤	tomba	N	N;FEM;PL
+되돌리기	reverteix	되돌리+기	revertir	V	V;IND;SG;3;PRS;FIN
+단백질	proteïna	단백질	proteïna	N	N;FEM;SG
+단백질	proteïnes	단백질	proteïna	N	N;FEM;PL
+단백질	proteïnes	단백질	proteïna	N	N;FEM;PL
+레이저	laser	레이저	laser		
+치료	tractaments	치료	tractament	N	N;MASC;PL
+치료	teràpia	치료	teràpia	N	N;FEM;SG
+치료	tractament	치료	tractament	N	N;MASC;SG
+이사회	tauler	이사회	tauler	N	N;MASC;SG
+이사회	junta	이사회	junta	N	N;FEM;SG
+식품	alimentació	식품	alimentació	N	N;FEM;SG
+식품	aliments	식품	aliment	N	N;MASC;PL
+오디션	audició	오디션	audició	N	N;FEM;SG
+오디션	audicions	오디션	audició	N	N;FEM;PL
+실수	errors	실수	error	N	N;MASC;PL
+실수	error	실수	error	N	N;MASC;SG
+공유	compartició	공유	compartició	N	N;FEM;SG
+공유	participacions	공유	participació	N	N;FEM;PL
+복귀	retorn	복귀	retorn	N	N;MASC;SG
+복귀	devolució	복귀	devolució	N	N;FEM;SG
+해석	interpretació	해석	interpretació	N	N;FEM;SG
+해석	anàlisi	해석	anàlisi	N	N;FEM;SG
+가벼운	lleus	가볍+ㄴ	lleu	ADJ	ADJ;PL
+가벼운	lleu	가볍+ㄴ	lleu	ADJ	ADJ;SG
+장애	trastorn	장애	trastorn	N	N;MASC;SG
+장애	discapacitat	장애	discapacitat	N	N;FEM;SG
+장애	invalidesa	장애	invalidesa	N	N;FEM;SG
+대응	afrontament	대응	afrontament	N	N;MASC;SG
+여단	brigada	여단	brigada	N	N;FEM;SG
+코믹스	còmics	코믹스	còmic	N	N;MASC;PL
+알리	alí	알리	alí		
+알리	ali	알리	ali		
+픽셀	píxel	픽셀	píxel	N	N;MASC;SG
+픽셀	píxels	픽셀	píxel	N	N;MASC;PL
+주주	accionistes	주주	accionista	N	N;PL
+주주	accionista	주주	accionista	N	N;SG
+인식	percepció	인식	percepció	N	N;FEM;SG
+인식	cognició	인식	cognició	N	N;FEM;SG
+인식	reconeixement	인식	reconeixement	N	N;MASC;SG
+인식	conscienciació	인식	conscienciació	N	N;FEM;SG
+인식	sensibilització	인식	sensibilització	N	N;FEM;SG
+고토	goto	고토	goto		
+고토	gotō	고토	gotō		
+읽고	llegir	읽+고	llegir	V	V;NFIN
+읽고	lectura	읽+고	lectura	V	V;IND;SG;3;PRS;FIN
+범주	categoria	범주	categoria	N	N;FEM;SG
+범주	categories	범주	categoria	N	N;FEM;PL
+권력	atribucions	권력	atribució	N	N;FEM;PL
+권력	competències	권력	competència	N	N;FEM;PL
+권력	poders	권력	poder	N	N;MASC;PL
+권력	potència	권력	potència	N	N;FEM;SG
+아이들	nens	아이+들	nen	N	N;MASC;PL
+아이들	fills	아이+들	fill	N	N;MASC;PL
+아이들	infants	아이+들	infant	N	N;MASC;PL
+아이들	nens	아이+들	nen	N	N;MASC;PL
+침공	invasió	침공	invasió	N	N;FEM;SG
+침공	incursió	침공	incursió	N	N;FEM;SG
+침공	invasions	침공	invasió	N	N;FEM;PL
+콘텐츠	contingut	콘텐츠	contingut	N	N;MASC;SG
+콘텐츠	continguts	콘텐츠	contingut	N	N;MASC;PL
+황금	golden	황금	goldre		
+황금	gold	황금	gold		
+폐쇄	tancament	폐쇄	tancament	N	N;MASC;SG
+폐쇄	correbous	폐쇄	correbou	N	N;MASC;PL
+가치	valors	가치	valor	N	N;MASC;PL
+가치	valor	가치	valor	N	N;MASC;SG
+사이버	cyber	사이버	cyber		
+옥스퍼드	oxford	옥스퍼드	oxford		
+모음	vocals	모음	vocal	N	N;FEM;PL
+제트	jet	제트	jet	N	N;MASC;SG
+판사	jutge	판사	jutge	N	N;MASC;SG
+판사	magistrats	판사	magistrat	N	N;MASC;PL
+판사	jutges	판사	jutge	N	N;MASC;PL
+실패	falles	실패	falla	N	N;FEM;PL
+실패	fracàs	실패	fracàs	N	N;MASC;SG
+헌터	hunter	헌터	hunter		
+논쟁	debats	논쟁	debat	N	N;MASC;PL
+논쟁	controvèrsia	논쟁	controvèrsia	N	N;FEM;SG
+논쟁	debat	논쟁	debat	N	N;MASC;SG
+논쟁	argument	논쟁	argument	N	N;MASC;SG
+위기	crisi	위기	crisi	N	N;FEM;SG
+분포	distribució	분포	distribució	N	N;FEM;SG
+분포	distribucions	분포	distribució	N	N;FEM;PL
+패배	derrota	패배	derrota	N	N;FEM;SG
+해병대	marine	해병대	marine	N	N;SG
+끊임없이	constantment	끊임없이	constantment	ADV	ADV
+배치	disposició	배치	disposició	N	N;FEM;SG
+배치	emplaçament	배치	emplaçament	N	N;MASC;SG
+강사	conferenciants	강사	conferenciant	N	N;PL
+강사	instructors	강사	instructor	N	N;MASC;PL
+다이스케	daisuke	다이스케	daisuke		
+학살	massacre	학살	massacre	N	N;FEM;SG
+로즈	rose	로즈	rose		
+로즈	rosa	로즈	rosa		
+컨트리	país	컨트리	país		
+궤간	gàlib	궤간	gàlib	N	N;MASC;SG
+자살	suïcidis	자살	suïcidi	N	N;MASC;PL
+아케이드	arcade	아케이드	arcade		
+원리	principis	원리	principi	N	N;MASC;PL
+합격	acceptació	합격	acceptació	N	N;FEM;SG
+계산	càlcul	계산	càlcul	N	N;MASC;SG
+공화당	republicans	공화당	republicà	N	N;MASC;PL
+신경	nervis	신경	nervi		
+블루스	blues	블루스	blues		
+예산	pressupost	예산	pressupost	N	N;MASC;SG
+예산	pressupostos	예산	pressupost	N	N;MASC;PL
+승무원	hostessa	승무원	hostés	N	N;FEM;SG
+승무원	tripulació	승무원	tripulació	N	N;FEM;SG
+병사	soldats	병사	soldat	N	N;MASC;PL
+로빈	robin	로빈	robar		
+도전	reptes	도전	repte	N	N;MASC;PL
+도전	impugnacions	도전	impugnació	N	N;FEM;PL
+도전	repte	도전	repte	N	N;MASC;SG
+도전	desafiament	도전	desafiament	N	N;MASC;SG
+인디	indie	인디	indie		
+법학	llei	법학	llei	N	N;FEM;SG
+법학	jurisprudència	법학	jurisprudència	N	N;FEM;SG
+탤런트	talents	탤런트	talent	N	N;MASC;PL
+탤런트	talent	탤런트	talent	N	N;MASC;SG
+감정	emoció	감정	emoció	N	N;FEM;SG
+감정	emocions	감정	emoció	N	N;FEM;PL
+감정	sentiments	감정	sentiment	N	N;MASC;PL
+라이프	life	라이프	life		
+아키	aki	아키	aki		
+구원	salvació	구원	salvació	N	N;FEM;SG
+구원	redempció	구원	redempció	N	N;FEM;SG
+하워드	howard	하워드	howard		
+미스터리	misteri	미스터리	misteri		
+가나	ghana	가+나	ghana		
+글로	resplendor	글+로	resplendor		
+자원	recurs	자원	recurs	N	N;MASC;SG
+자원	recursos	자원	recurs	N	N;MASC;PL
+구리	coure	구리	coure		
+증가	increment	증가	increment	N	N;MASC;SG
+증가	augment	증가	augment	N	N;MASC;SG
+증가	creixement	증가	creixement	N	N;MASC;SG
+나선	helix	나서+ㄴ	helix		
+나선	espiral	나서+ㄴ	espiral		
+인생	vida	인생	vida	N	N;FEM;SG
+영감을	inspiració	영감+을	inspiració	N	N;FEM;SG
+해협	estret	해협	estret	N	N;MASC;SG
+생명	vida	생명	vida	N	N;FEM;SG
+생명	vides	생명	vida	N	N;FEM;PL
+목표	finalitats	목표	finalitat	N	N;FEM;PL
+목표	objectius	목표	objectiu	N	N;MASC;PL
+목표	objectiu	목표	objectiu	N	N;MASC;SG
+프린세스	princess	프린세스	princess		
+우승자	guanyador	우승자	guanyador	N	N;MASC;SG
+우승자	guanyadors	우승자	guanyador	N	N;MASC;PL
+점령	ocupació	점령	ocupació	N	N;FEM;SG
+태권도	taekwondo	태권도	taekwondo	N	N;MASC;SG
+사례	casos	사례	cas	N	N;MASC;PL
+추정	inferència	추정	inferència	N	N;FEM;SG
+추정	estimacions	추정	estimació	N	N;FEM;PL
+추정	estimació	추정	estimació	N	N;FEM;SG
+추정	estimació	추정	estimació	N	N;FEM;SG
+달려	córrer	달리+어	córrer		
+투자	inversions	투자	inversió	N	N;FEM;PL
+투자	inversió	투자	inversió	N	N;FEM;SG
+사이클	cicles	사이클	cicle	N	N;MASC;PL
+사이클	cycling	사이클	cycling	N	N;SG
+사이클	ciclisme	사이클	ciclisme	N	N;MASC;SG
+사이클	cicle	사이클	cicle	N	N;MASC;SG
+스마트폰	smartphone	스마트폰	smartphone		
+복구	recuperació	복구	recuperació	N	N;FEM;SG
+고도	altitud	고도	altitud		
+리나	lina	리+나	lina		
+전문가	perit	전문가	perit		
+사원	mesquites	사원	mesquita	N	N;FEM;PL
+사원	temple	사원	temple	N	N;MASC;SG
+사원	temples	사원	temple	N	N;MASC;PL
+선형	alineacions	선형	alineació	N	N;FEM;PL
+선형	alineació	선형	alineació	N	N;FEM;SG
+선형	alineament	선형	alineament	N	N;MASC;SG
+사라	sara	사라	sara		
+과학자	científics	과학자	científic	N	N;MASC;PL
+엑스박스	xbox	엑스박스	xbox	N	N;MASC;SG
+연기자	intèrprets	연기자	intèrpret	N	N;PL
+조작	manipulació	조작	manipulació	N	N;FEM;SG
+변동	variació	변동	variació	N	N;FEM;SG
+스트라이커	stryker	스트라이커	stryker		
+성경	bíblia	성경	bíblia	N	N;FEM;SG
+문단	paràgraf	문단	paràgraf	N	N;MASC;SG
+분자	numerador	분자	numerador	N	N;MASC;SG
+분자	molècula	분자	molècula	N	N;FEM;SG
+분자	molècules	분자	molècula	N	N;FEM;PL
+다이아몬드	diamond	다이아몬드	diamond		
+일기	diari	일기	diari	N	N;MASC;SG
+폭력	violència	폭력	violència	N	N;FEM;SG
+운영자	admin	운영자	admar		
+도메인	dominis	도메인	domini	N	N;MASC;PL
+도메인	domini	도메인	domini	N	N;MASC;SG
+기술적	tècnics	기술+적	tècnic	N	N;MASC;PL
+형제자매	germà	형제+자매	germà	N	N;MASC;SG
+알렉스	alex	알렉스	alex		
+알렉스	àlex	알렉스	àlex		
+방정식	equació	방정식	equació	N	N;FEM;SG
+방정식	equacions	방정식	equació	N	N;FEM;PL
+성능	actuació	성능	actuació	N	N;FEM;SG
+성능	rendiment	성능	rendiment	N	N;MASC;SG
+주최	màquina	주최	màquina	N	N;FEM;SG
+주최	amfitrions	주최	amfitrió	N	N;MASC;PL
+찰리	charlie	찰리	charlie		
+프리미어	premier	프리미어	premier		
+시계	rellotges	시계	rellotge	N	N;MASC;PL
+프리미엄	premium	프리미엄	premium		
+측정	mesura	측정	mesura	N	N;FEM;SG
+측정	mesuraments	측정	mesurament	N	N;MASC;PL
+측정	mesures	측정	mesura	N	N;FEM;PL
+측정	mesura	측정	mesura	N	N;FEM;SG
+측정	mesurament	측정	mesurament	N	N;MASC;SG
+기도	oració	기도	oració	N	N;FEM;SG
+기도	pregària	기도	pregària	N	N;FEM;SG
+교환	intercanvi	교환	intercanvi	N	N;MASC;SG
+극작가	dramaturg	극작+가	dramaturg	N	N;MASC;SG
+동상	congelació	동상	congelació	N	N;FEM;SG
+동상	estàtues	동상	estàtue	N	N;FEM;PL
+동상	estàtua	동상	estàtua	N	N;FEM;SG
+입자	partícules	입자	partícula	N	N;FEM;PL
+제로	zero	제로	zero		
+히어로	heroi	히어+로	heroi		
+게이	gai	게이	gai		
+게이	gay	게이	gay		
+수단	sudan	수단	sudar	N	N;MASC;SG
+수단	mètode	수단	mètode	N	N;MASC;SG
+수단	mètodes	수단	mètode	N	N;MASC;PL
+침몰	enfonsament	침몰	enfonsament	N	N;MASC;SG
+비행기	avió	비행기	avió	N	N;MASC;SG
+비행기	avions	비행기	avió	N	N;MASC;PL
+비행기	avió	비행기	avió	N	N;MASC;SG
+헤비	heavyweight	헤비	heavyweight		
+에어버스	airbus	에어버스	airbus	N	N;MASC;SG
+미우라	miura	미우+이+라	miura		
+사쿠라이	sakurai	사쿠라이	sakurar		
+순수	puresa	순수	puresa	N	N;FEM;SG
+자본주의	capital	자본주의	capital	N	N;MASC;SG
+자본주의	capitalisme	자본주의	capitalisme	N	N;MASC;SG
+배터리	bateria	배터리	bateria	N	N;SG
+배터리	bateries	배터리	bateria	N	N;FEM;PL
+마이크로	micro	마이크+로	micro		
+뭔가	quelcom	뭐+이+ㄴ가	quelcom		
+뭔가	algo	뭐+이+ㄴ가	algo		
+순환	circulació	순환	circulació	N	N;FEM;SG
+순환	cicle	순환	cicle	N	N;MASC;SG
+선박	embarcació	선박	embarcació	N	N;FEM;SG
+선박	nau	선박	nau	N	N;FEM;SG
+비율	proporció	비율	proporció	N	N;FEM;SG
+비율	ràtio	비율	ràtio	N	N;FEM;SG
+비율	proporció	비율	proporció	N	N;FEM;SG
+비율	percentatge	비율	percentatge	N	N;MASC;SG
+비율	taxa	비율	taxa	N	N;FEM;SG
+비율	percentatge	비율	percentatge	N	N;MASC;SG
+놀라운	increible	놀랍+ㄴ	increible	ADJ	ADJ;SG
+놀라운	increïble	놀랍+ㄴ	increïble	ADJ	ADJ;SG
+산타	santa	산타	santar		
+운전	conducció	운전	conducció	N	N;FEM;SG
+압축	compressió	압축	compressió	N	N;FEM;SG
+질문	preguntes	질문	pregunta	N	N;FEM;PL
+신학	teologia	신학	teologia	N	N;FEM;SG
+원형	circular	원형	circular		
+다이빙	busseig	다이빙	busseig	N	N;MASC;SG
+다이빙	salts	다이빙	salt	N	N;MASC;PL
+다이빙	immersió	다이빙	immersió	N	N;FEM;SG
+수치	xifres	수치	xifra	N	N;FEM;PL
+수치	figures	수치	figura	N	N;FEM;PL
+텍스트	text	텍스트	text	N	N;MASC;SG
+보이기	mostra	보이+기	mostrar	V	V;IND;SG;3;PRS;FIN
+전송	enviament	전송	enviament	N	N;MASC;SG
+전송	transmissió	전송	transmissió	N	N;FEM;SG
+전송	traspàs	전송	traspàs	N	N;MASC;SG
+전송	transferència	전송	transferència	N	N;FEM;SG
+전송	trasllat	전송	trasllat	N	N;MASC;SG
+전송	transferències	전송	transferència	N	N;FEM;PL
+전송	trasllats	전송	trasllat	N	N;MASC;PL
+스마트	smart	스마트	smart		
+편집자	editor	편집자	editor	N	N;MASC;SG
+편집자	editors	편집자	editor	N	N;MASC;PL
+편집자	redactors	편집자	redactor	N	N;MASC;PL
+프로세서	processador	프로세서	processador	N	N;MASC;SG
+프로세서	processadors	프로세서	processador	N	N;MASC;PL
+꽃이	flors	꽃+이	flor	N	N;FEM;PL
+독립운동	independència	독립+운동	independència	N	N;FEM;SG
+합성	síntesi	합성	síntesi	N	N;FEM;SG
+합성	composició	합성	composició	N	N;FEM;SG
+종족	espècies	종족	espècie	N	N;FEM;PL
+종족	espècie	종족	espècie	N	N;FEM;SG
+수집	adquisició	수집	adquisició	N	N;FEM;SG
+피닉스	fènix	피닉스	fènix		
+피닉스	phoenix	피닉스	phoenix		
+트럭	camió	트럭	camió	N	N;MASC;SG
+트럭	camions	트럭	camió	N	N;MASC;PL
+케이	kay	케+이	kay		
+십자군	croada	십자군	croada	N	N;FEM;SG
+답변	respostes	답변	resposta	N	N;FEM;PL
+답변	respostes	답변	resposta	N	N;FEM;PL
+답변	respostes	답변	resposta	N	N;FEM;PL
+답변	resposta	답변	resposta	N	N;FEM;SG
+리사	lisa	리사	lisa		
+접속	accés	접속	accés	N	N;MASC;SG
+활용	conjugació	활용	conjugació	N	N;FEM;SG
+카이로	cairo	카이+로	cairo		
+당신	tu	당신	tu	PRO	PRO;SG;1
+당신	vostè	당신	tu	PRO	PRO;SG;2;FORM
+포스터	pòster	포스터	pòster		
+희극	humorista	희극	humorista	N	N;SG
+희극	comedies	희극	comedia	N	N;FEM;PL
+드디어	finalment	드디어	finalment	ADV	ADV
+프리랜서	freelance	프리+로서	freelance		
+프리랜서	freelance	프리+로서	freelance		
+코스	curs	코스	curs	N	N;MASC;SG
+코스	cursos	코스	curs	N	N;MASC;PL
+반도체	semiconductor	반도체	semiconductor	N	N;MASC;SG
+살았던	vivia	살+았+던	viure	V	V;IND;SG;3;IPFV;FIN
+망명	asil	망명	asil	N	N;MASC;SG
+의무	obligacions	의무	obligació	N	N;FEM;PL
+의무	obligació	의무	obligació	N	N;FEM;SG
+로그	bitàcola	로그	bitàcola		
+시청자	visualitzador	시청자	visualitzador	N	N;MASC;SG
+시청자	espectadors	시청자	espectador	N	N;MASC;PL
+프로토콜	protocol	프로토콜	protocol	N	N;MASC;SG
+프로토콜	protocols	프로토콜	protocol	N	N;MASC;PL
+책임	responsabilitat	책임	responsabilitat	N	N;FEM;SG
+책임	responsable	책임	responsable	N	N;SG
+책임	responsabilitat	책임	responsabilitat	N	N;FEM;SG
+손녀	néta	손녀	néta	N	N;FEM;SG
+사막	desert	사막	desert	N	N;MASC;SG
+사막	deserts	사막	desert	N	N;MASC;PL
+업적	èxits	업적	èxit	N	N;MASC;PL
+업적	realitzacions	업적	realització	N	N;FEM;PL
+업적	consecució	업적	consecució	N	N;FEM;SG
+업적	assoliment	업적	assoliment	N	N;MASC;SG
+상자	capsa	상자	capsa	N	N;FEM;SG
+상자	caixes	상자	caixa	N	N;FEM;PL
+캐논	canó	캐논	canó		
+미쓰비시	mitsubishi	미쓰비시	mitsubishi	N	N;MASC;PL
+멋진	meravellós	멋지+ㄴ	meravellós	ADJ	ADJ;MASC;SG
+천사	àngels	천사	àngel	N	N;MASC;PL
+천사	angels	천사	angel	N	N;MASC;PL
+주택	habitatges	주택	habitatge	N	N;MASC;PL
+주택	cases	주택	casa	N	N;FEM;PL
+주택	habitatge	주택	habitatge	N	N;MASC;SG
+주택	residència	주택	residència	N	N;FEM;SG
+히트	calor	히트	calor		
+조명	enllumenat	조명	enllumenat	N	N;MASC;SG
+등등	etc	등+등	etcètera		
+주식	existències	주식	existència	N	N;FEM;PL
+주식	estocs	주식	estoc	N	N;MASC;PL
+주식	participacions	주식	participació	N	N;FEM;PL
+질병	malaltia	질병	malaltia	N	N;FEM;SG
+질병	malalties	질병	malaltia	N	N;FEM;PL
+부분적으로	parcialment	부분+적+으로	parcialment	ADV	ADV
+부분적으로	parcialment	부분+적+으로	parcialment	ADV	ADV
+일람	ilam	일람	ilam		
+침해	infracció	침해	infracció	N	N;FEM;SG
+레인저스	rangers	레인저스	ranger	N	N;MASC;PL
+너비	amplada	너비	amplada	N	N;FEM;SG
+너비	amplades	너비	amplada	N	N;FEM;PL
+공급	subministraments	공급	subministrament	N	N;MASC;PL
+공급	abastament	공급	abastament	N	N;MASC;SG
+공급	subministrament	공급	subministrament	N	N;MASC;SG
+활성화	activació	활성화	activació	N	N;FEM;SG
+캐스트	elenc	캐스트	elenc		
+식당	restaurants	식당	restaurant	N	N;MASC;PL
+식당	restaurant	식당	restaurant	N	N;MASC;SG
+제거	supressió	제거	supressió	N	N;FEM;SG
+제거	eliminació	제거	eliminació	N	N;FEM;SG
+캐서린	caterina	캐+서+이+ㄴ	caterina		
+발자취	passos	발자취	pas	N	N;MASC;PL
+변형	deformació	변형	deformació	N	N;FEM;SG
+변형	transformació	변형	transformació	N	N;FEM;SG
+중력	gravitació	중력	gravitació	N	N;FEM;SG
+중력	gravetat	중력	gravetat	N	N;FEM;SG
+거부	denegació	거부	denegació	N	N;FEM;SG
+거부	negació	거부	negació	N	N;FEM;SG
+거부	rebuig	거부	rebuig	N	N;MASC;SG
+캡틴	capità	캡틴	capità		
+알루미늄	alumini	알루미늄	alumini	N	N;MASC;SG
+알루미늄	alumini	알루미늄	alumini	N	N;MASC;SG
+방사성	radiació	방사성	radiació	N	N;FEM;SG
+방사성	radiacions	방사성	radiació	N	N;FEM;PL
+호랑이	tigre	호랑이	tigre		
+기둥	columna	기둥	columna		
+기둥	pilar	기둥	pilar		
+데니스	dennis	데니스	dennir		
+데니스	denis	데니스	deni		
+보너스	bonus	보너스	bonu		
+양식	formularis	양식	formulari	N	N;MASC;PL
+양식	formes	양식	forma	N	N;FEM;PL
+양식	formulari	양식	formulari	N	N;MASC;SG
+상원	senat	상원	senat	N	N;MASC;SG
+상원	senador	상원	senador	N	N;MASC;SG
+선물	regals	선물	regal	N	N;MASC;PL
+키는	alçada	키+는	alçada	N	N;FEM;SG
+키는	alçària	키+는	alçari	N	N;FEM;SG
+키는	altura	키+는	altura	N	N;FEM;SG
+천문학	astronomia	천문학	astronomia	N	N;FEM;SG
+결의	resolució	결의	resolució	N	N;FEM;SG
+보호하기	protegir	보호+하+기	protegir	V	V;NFIN
+순서	seqüència	순서	seqüència	N	N;FEM;SG
+미사	missa	미사	missa	N	N;FEM;SG
+이시다	ishida	이+시+다	ishit		
+비타민	vitamines	비타민	vitamina	N	N;FEM;PL
+개성	kaesong	개성	kaesong		
+광산	mineria	광산	mineria	N	N;FEM;SG
+광산	mina	광산	mina	N	N;FEM;SG
+광산	mines	광산	mina	N	N;FEM;PL
+기기	dispositiu	기기	dispositiu	N	N;MASC;SG
+기기	dispositius	기기	dispositiu	N	N;MASC;PL
+천문학자	astrònoms	천문학자	astrònom	N	N;MASC;PL
+천문학자	astrònom	천문학자	astrònom	N	N;MASC;SG
+파괴	destrucció	파괴	destrucció	N	N;FEM;SG
+정말로	realment	정말로	realment	ADV	ADV
+판결	veredicte	판결	veredicte	N	N;MASC;SG
+판결	sentència	판결	sentència	N	N;FEM;SG
+솔로몬	salomó	솔로몬	salomó		
+미친	boig	미치+ㄴ	boig		
+링컨	lincoln	링컨	lincoln		
+사과	apple	사과	apple		
+복싱	boxa	복싱	boxa	N	N;FEM;SG
+친구들	amics	친구+들	amic	N	N;MASC;PL
+친구들	amistats	친구+들	amistat	N	N;FEM;PL
+방언	dialecte	방언	dialecte	N	N;MASC;SG
+부정	denegació	부정	denegació	N	N;FEM;SG
+부정	negació	부정	negació	N	N;FEM;SG
+이웃	veïns	이웃	veí	N	N;MASC;PL
+이웃	veïns	이웃	veí	N	N;MASC;PL
+이웃	veí	이웃	veí	N	N;MASC;SG
+멀티미디어	multimèdia	멀티미디어	multimèdia		
+수술	cirurgia	수술	cirurgia	N	N;FEM;SG
+수술	cirurgies	수술	cirurgia	N	N;FEM;PL
+문명	civilització	문명	civilització	N	N;FEM;SG
+문명	civilitzacions	문명	civilització	N	N;FEM;PL
+이슬람교	islam	이슬람교	islam	N	N;MASC;SG
+생물학	biologia	생물학	biologia	N	N;FEM;SG
+허가	permís	허+가	permís	N	N;MASC;SG
+허가	permís	허+가	permís	N	N;MASC;SG
+허가	permisos	허+가	permís	N	N;MASC;PL
+마라톤	marathon	마라톤	marathon		
+올리버	oliver	올리버	oliver		
+사자	lleó	사자	lleó		
+추락	crash	추락	crash	N	N;SG
+리믹스	remixes	리믹스	remixa	N	N;MASC;PL
+가솔린	gasolina	가솔린	gasolina	N	N;FEM;SG
+가솔린	gasolina	가솔린	gasolina	N	N;FEM;SG
+복사	còpies	복사	còpia	N	N;FEM;PL
+복사	exemplars	복사	exemplar	N	N;MASC;PL
+법정	tribunal	법정	tribunal	N	N;MASC;SG
+체스	escacs	체스	escacs	N	N;MASC;PL
+우라늄	urani	우라늄	urani	N	N;MASC;SG
+수도원	monestir	수도원	monestir	N	N;MASC;SG
+수도원	abadia	수도원	abadir	N	N;FEM;SG
+수도원	monestirs	수도원	monestir	N	N;MASC;PL
+컴퓨팅	computació	컴퓨팅	computació	N	N;FEM;SG
+승객	passatger	승객	passatger	N	N;MASC;SG
+승객	passatgers	승객	passatger	N	N;MASC;PL
+혼인	matrimoni	혼인	matrimoni	N	N;MASC;SG
+노란색	groc	노란색	groc		
+춘천	chuncheon	춘천	chuncheon		
+선출	electes	선출	electe	N	N;PL
+액체	fluid	액체	fluid	N	N;MASC;SG
+액체	fluids	액체	fluid	N	N;MASC;PL
+배드민턴	bàdminton	배드민턴	bàdminton	N	N;MASC;SG
+행정학	administració	행정학	administració	N	N;FEM;SG
+와일드	salvatge	와일드	salvatge		
+알고리즘	algoritmes	알고리즘	algoritma	N	N;MASC;PL
+알고리즘	algorisme	알고리즘	algorisme	N	N;MASC;SG
+알고리즘	algoritme	알고리즘	algoritme	N	N;MASC;SG
+소총	rifles	소총	rifla	N	N;MASC;PL
+소총	fusell	소총	fusell	N	N;MASC;SG
+소총	rifle	소총	rifle	N	N;MASC;SG
+아브루초	abruzzo	아브루초	abruzzar		
+심리학	psicologia	심리학	psicologia	N	N;FEM;SG
+카프	karp	카프	karp		
+경도	longitud	경도	longitud	N	N;FEM;SG
+아이템	elements	아이템	element	N	N;MASC;PL
+로얄	royal	로얄	royal		
+부드러운	suaus	부드럽+ㄴ	suau	ADJ	ADJ;MASC;PL
+부드러운	suau	부드럽+ㄴ	suau	ADJ	ADJ;SG
+수송	transports	수송	transport	N	N;MASC;PL
+수송	transport	수송	transport	N	N;MASC;SG
+파티	partit	파티	partit	N	N;MASC;SG
+파티	festa	파티	festa	N	N;FEM;SG
+파티	parts	파티	part	N	N;FEM;PL
+느낌이	sentiment	느끼+ㅁ+이	sentiment	N	N;MASC;SG
+화장실	vàter	화장실	vàter	N	N;MASC;SG
+러셀	russell	러셀	russell		
+관심	atenció	관심	atenció	N	N;FEM;SG
+관심	interès	관심	interès	N	N;MASC;SG
+출구	sortida	출구	sortida	N	N;FEM;SG
+출구	sortides	출구	sortida	N	N;FEM;PL
+컴필레이션	compilació	컴필레이션	compilació	N	N;FEM;SG
+컴필레이션	recopilatori	컴필레이션	recopilatori	N	N;MASC;SG
+산소	oxigen	산소	oxigen	N	N;MASC;SG
+요크	york	요크	york		
+인쇄	impressió	인쇄	impressió	N	N;FEM;SG
+탈출	fugida	탈출	fugida	N	N;FEM;SG
+닌자	ninja	닌자	ninja		
+곤충	insectes	곤충	insecte	N	N;MASC;PL
+곤충	insecte	곤충	insecte	N	N;MASC;SG
+곤충	fallades	곤충	fallada	N	N;FEM;PL
+곤충	errors	곤충	error	N	N;MASC;PL
+윙어	winger	피+어	winger		
+미디어위키	mediawiki	미디어위키	mediawiki		
+협상	negociació	협상	negociació	N	N;FEM;SG
+협상	negociacions	협상	negociació	N	N;FEM;PL
+입장	posicions	입장	posició	N	N;FEM;PL
+무릎	genoll	무릎	genoll		
+무릎	falda	무릎	falda		
+무릎	genolls	무릎	genoll		
+향상	millores	향상	millora	N	N;FEM;PL
+음료	beguda	음료	beguda	N	N;FEM;SG
+음료	beguda	음료	beguda	N	N;FEM;SG
+음료	begudes	음료	beguda	N	N;FEM;PL
+음료	begudes	음료	beguda	N	N;FEM;PL
+환상	fantasia	환상	fantasia		
+마키	maki	마키	maki		
+가능성	possibilitat	가능성	possibilitat	N	N;FEM;SG
+가능성	possibilitats	가능성	possibilitat	N	N;FEM;PL
+증기	vapor	증기	vapor	N	N;MASC;SG
+증기	vapor	증기	vapor	N	N;MASC;SG
+솔직히	sincerament	솔직+히	sincerament	ADV	ADV
+멀티	multi	멀티	multar		
+조치	mesures	조치	mesura	N	N;FEM;PL
+학위	grau	학위	grau	N	N;MASC;SG
+택시	taxi	택시	taxi	N	N;MASC;SG
+택시	taxis	택시	taxi	N	N;MASC;PL
+택시	taxi	택시	taxi	N	N;MASC;SG
+스프링	primavera	스프링	primavera		
+망원경	telescopi	망원경	telescopi	N	N;MASC;SG
+망원경	telescopis	망원경	telescopi	N	N;MASC;PL
+로열	royal	로열	royal		
+프로세스	procés	프로세스	procés	N	N;MASC;SG
+프로세스	processos	프로세스	procés	N	N;MASC;PL
+페리	ferry	페리	ferry		
+페리	ferri	페리	ferri		
+산악	muntanya	산악	muntanya	N	N;FEM;SG
+재산	propietat	재산	propietat	N	N;FEM;SG
+재산	riquesa	재산	riquesa	N	N;FEM;SG
+스퀘어	quadrat	스퀘어	quadrat		
+변신	metamorfosi	변신	metamorfosi	N	N;FEM;SG
+변신	transformació	변신	transformació	N	N;FEM;SG
+운송	transport	운송	transport	N	N;MASC;SG
+운송	mercaderies	운송	mercaderia	N	N;FEM;PL
+운송	transports	운송	transport	N	N;MASC;PL
+운송	transport	운송	transport	N	N;MASC;SG
+도움	auxili	도움	auxili		
+도움	ajut	도움	ajut		
+협약	acords	협약	acord	N	N;MASC;PL
+협약	conveni	협약	conveni	N	N;MASC;SG
+협약	convenció	협약	convenció	N	N;FEM;SG
+반복	recurrència	반복	recurrència	N	N;FEM;SG
+반복	repetició	반복	repetició	N	N;FEM;SG
+반복	repetició	반복	repetició	N	N;FEM;SG
+반복	bucle	반복	bucle	N	N;MASC;SG
+핑크	rosa	핑크	rosa		
+완성	finalització	완성	finalització	N	N;FEM;SG
+완성	compleció	완성	compleció	N	N;FEM;SG
+재능	talents	재능	talent	N	N;MASC;PL
+재능	talent	재능	talent	N	N;MASC;SG
+재능	talent	재능	talent	N	N;MASC;SG
+대지	earth	대+지	earth		
+대지	terra	대+지	terra		
+실버	plata	실버	plata		
+부품	parts	부품	part	N	N;FEM;PL
+부품	components	부품	component	N	N;MASC;PL
+통제	control	통제	control	N	N;MASC;SG
+통제	controls	통제	control	N	N;MASC;PL
+커서	cursor	크+어서	cursor		
+적외선	infra	적외선	infra		
+죽는다	morir	죽+는다	morir	V	V;NFIN
+천천히	lentament	천천히	lentament	ADV	ADV
+애덤	adam	애덤	adam		
+테헤란	teheran	테헤+란	teher		
+담배	tabac	담배	tabac	N	N;MASC;SG
+담배	cigarrets	담배	cigarret	N	N;MASC;PL
+담배	cigarretes	담배	cigarreta	N	N;FEM;PL
+상원의원	senat	상원의원	senat	N	N;MASC;SG
+상원의원	senador	상원의원	senador	N	N;MASC;SG
+추기경	cardenalici	추기+경	cardenalici	N	N;MASC;SG
+탐정	detectiu	탐정	detectiu	N	N;MASC;SG
+프로모션	promo	프로모션	promo		
+커널	nucli	커널	nucli	N	N;MASC;SG
+커널	nuclis	커널	nucli	N	N;MASC;PL
+부부	parella	부부	parella	N	N;FEM;SG
+복지	benestar	복지	benestar	N	N;MASC;SG
+간호사	infermeres	간호사	infermera	N	N;FEM;PL
+간호사	infermers	간호사	infermer	N	N;MASC;PL
+간호사	infermera	간호사	infermera	N	N;FEM;SG
+익스플로러	explorer	익스플로러	explorer		
+강도	intensitat	강도	intensitat	N	N;FEM;SG
+강도	robatori	강도	robatori	N	N;MASC;SG
+체포	arrest	체포	arrest	N	N;MASC;SG
+체포	detenció	체포	detenció	N	N;FEM;SG
+체포	detencions	체포	detenció	N	N;FEM;PL
+고쳐	arregla	고치+어	arreglar	V	V;IND;SG;3;PRS;FIN
+설립자	fundador	설립자	fundador	N	N;MASC;SG
+대학생	college	대학생	college		
+검토	revisió	검토	revisió	N	N;FEM;SG
+좌석	seients	좌석	seient	N	N;MASC;PL
+좌석	assentaments	좌석	assentament	N	N;MASC;PL
+민족주의	nacionalisme	민족주의	nacionalisme	N	N;MASC;SG
+밀도	densitat	밀도	densitat	N	N;FEM;SG
+당신은	tu	당신+은	tu	PRO	PRO;SG;1
+당신은	vostè	당신+은	tu	PRO	PRO;SG;2;FORM
+옵티머스	optimus	옵티머스	optimus		
+구름	núvols	구름	núvol	N	N;MASC;PL
+구름	núvol	구름	núvol	N	N;MASC;SG
+늑대	llops	늑대	llop	N	N;MASC;PL
+시뮬레이션	simula	시뮬레이션	simular		
+해산	dissolució	해산	dissolució	N	N;FEM;SG
+상인	mercader	상인	mercader		
+사이먼	simó	사이먼	simó		
+사이먼	simón	사이먼	simón		
+맥주	cervesa	맥주	cervesa	N	N;FEM;SG
+맥주	cerveses	맥주	cervesa	N	N;FEM;PL
+맥주	cerveseria	맥주	cerveseria	N	N;FEM;SG
+지질	lípid	지질	lípid	N	N;MASC;SG
+방지	prevenció	방지	prevenció	N	N;FEM;SG
+대니얼	daniel	대니+란	daniel		
+저항	resistència	저항	resistència	N	N;FEM;SG
+사무실	oficines	사무실	oficina	N	N;FEM;PL
+사무실	despatx	사무실	despatx	N	N;MASC;SG
+사무실	oficina	사무실	oficina	N	N;FEM;SG
+경제학자	economista	경제학자	economista	N	N;SG
+경제학자	economistes	경제학자	economista	N	N;PL
+데스크톱	escriptoris	데스크톱	escriptori	N	N;MASC;PL
+일상	daily	일상	daily	N	N;MASC;SG
+일상	rutina	일상	rutina	N	N;FEM;SG
+비서	secretaris	비서	secretari	N	N;MASC;PL
+비서	secretàries	비서	secretari	N	N;FEM;PL
+비서	secretariat	비서	secretariat	N	N;MASC;SG
+비서	secretària	비서	secretària	N	N;FEM;SG
+비서	secretari	비서	secretari	N	N;MASC;SG
+버펄로스	buffaloes	버펄로스	buffaloa		
+니콜라	nicola	니콜라	nicola		
+갈등	conflictes	갈등	conflicte	N	N;MASC;PL
+갈등	conflicte	갈등	conflicte	N	N;MASC;SG
+세라	sara	세라	sara		
+세라	sera	세라	ser		
+명백히	clarament	명백+히	clarament	ADV	ADV
+명백히	òbviament	명백+히	òbviament	ADV	ADV
+명백히	evidentment	명백+히	evidentment	ADV	ADV
+철쭉	ferro	철쭉	ferro		
+도치기	tochigi	도치기	tochigi		
+속성	atribut	속성	atribut	N	N;MASC;SG
+속성	propietat	속성	propietat	N	N;FEM;SG
+속성	propietats	속성	propietat	N	N;FEM;PL
+속성	atributs	속성	atribut	N	N;MASC;PL
+보드	tauler	보드	tauler	N	N;MASC;SG
+보드	junta	보드	junta	N	N;FEM;SG
+조합	combinacions	조합	combinació	N	N;FEM;PL
+조합	combinació	조합	combinació	N	N;FEM;SG
+여배우	actrius	여배우	actriu	N	N;FEM;PL
+여배우	actriu	여배우	actriu	N	N;FEM;SG
+포스	força	포스	força		
+수출	exportacions	수출	exportació	N	N;FEM;PL
+수출	exportació	수출	exportació	N	N;FEM;SG
+동굴	cova	동굴	cova	N	N;FEM;SG
+동굴	coves	동굴	cova	N	N;FEM;PL
+지붕	teulades	지붕	teulada	N	N;FEM;PL
+지붕	teulada	지붕	teulada	N	N;FEM;SG
+지붕	sostre	지붕	sostre	N	N;MASC;SG
+버진	verge	버지+ㄴ	verge		
+그레이	grey	그레이	grey		
+방패	escut	방패	escat	N	N;MASC;SG
+방패	escuts	방패	escut	N	N;MASC;PL
+아웃	out	아웃	out		
+풍경	paisatges	풍경	paisatge	N	N;MASC;PL
+풍경	paisatge	풍경	paisatge	N	N;MASC;SG
+감시	vigilància	감시	vigilància	N	N;FEM;SG
+느린	lent	느리+ㄴ	lent	ADJ	ADJ;MASC;SG
+오바마	obama	오바마	obamar		
+대수적	algebraica	대수+적	algebraicar	N	N;FEM;SG
+가공	mecanització	가공	mecanització	N	N;FEM;SG
+트랜스포머	transformadors	트랜스포머	transformador	N	N;MASC;PL
+연쇄	cadena	연쇄	cadena	N	N;FEM;SG
+시칠리아	sicília	시칠리아	sicília		
+이해하기	entenent	이해+하+기	entendre	V	V;V.MSDR
+머신	màquina	머신	màquina	N	N;FEM;SG
+머신	màquines	머신	màquina	N	N;FEM;PL
+밀란	milà	밀란	milà		
+소행성	asteroide	소행성	asteroide	N	N;MASC;SG
+소행성	asteroides	소행성	asteroit	N	N;MASC;PL
+의류	confecció	의류	confecció	N	N;FEM;SG
+꼬리	cua	꼬리	cua	N	N;FEM;SG
+꼬리	cues	꼬리	cua	N	N;FEM;PL
+라쿠텐	rakuten	라쿠텐	rakutar		
+화폐	divises	화폐	divisa	N	N;FEM;PL
+화폐	monedes	화폐	moneda	N	N;FEM;PL
+화폐	moneda	화폐	moneda	N	N;FEM;SG
+크리에이티브	creative	크리에이티브	creative		
+갈등이	conflicte	갈등+이	conflicte	N	N;MASC;SG
+소비자	consumidor	소비자	consumidor	N	N;MASC;SG
+소비자	consumidors	소비자	consumidor	N	N;MASC;PL
+명령어	instrucció	명령+어	instrucció	N	N;FEM;SG
+기병	cavalleria	기병	cavalleria	N	N;FEM;SG
+곡선	corbes	곡선	corba		
+표기법	romanització	표기법	romanització	N	N;FEM;SG
+표기법	notació	표기법	notació	N	N;FEM;SG
+위험	riscos	위험	risc	N	N;MASC;PL
+위험	perills	위험	perill	N	N;MASC;PL
+위험	risc	위험	risc	N	N;MASC;SG
+위험	perill	위험	perill	N	N;MASC;SG
+얼음	gel	얼+음	gel	N	N;MASC;SG
+보험	assegurança	보험	assegurança	N	N;FEM;SG
+보험	assegurances	보험	assegurança	N	N;FEM;PL
+주권	sobirania	주권	sobirania	N	N;FEM;SG
+임신	embaràs	임신	embaràs	N	N;MASC;SG
+임신	gestació	임신	gestació	N	N;FEM;SG
+버튼	botó	버튼	botó		
+추적	pista	추적	pista	N	N;FEM;SG
+추적	peça	추적	peça	N	N;SG
+추적	traçat	추적	traçat	N	N;MASC;SG
+추적	seguiment	추적	seguiment	N	N;MASC;SG
+차별	discriminació	차별	discriminació	N	N;FEM;SG
+제니퍼	jennifer	제니퍼	jennifer		
+인류	humanitat	인류	humanitat	N	N;FEM;SG
+수업	lliçons	수업	lliçó	N	N;FEM;PL
+수업	ensenyaments	수업	ensenyament	N	N;MASC;PL
+수업	classes	수업	classe	N	N;FEM;PL
+수업	lliçó	수업	lliçó	N	N;FEM;SG
+수업	classe	수업	classe	N	N;FEM;SG
+생존	supervivents	생존	supervivent	N	N;PL
+생존	supervivència	생존	supervivència	N	N;FEM;SG
+모듈	mòduls	모듈	mòdul	N	N;MASC;PL
+모듈	mòdul	모듈	mòdul	N	N;MASC;SG
+플라스틱	plàstic	플라스틱	plàstic		
+식량	alimentació	식량	alimentació	N	N;FEM;SG
+확률	probabilitats	확률	probabilitat	N	N;FEM;PL
+확률	probabilitat	확률	probabilitat	N	N;FEM;SG
+분산	dispersió	분산	dispersió	N	N;FEM;SG
+분산	variància	분산	variància	N	N;FEM;SG
+고스트	fantasma	고스트	fantasma		
+모나코	mònaco	모나코	mònaco		
+마녀	bruixa	마녀	bruixa	N	N;FEM;SG
+마녀	bruixes	마녀	bruixa	N	N;FEM;PL
+탐험가	exploradors	탐험가	explorador	N	N;MASC;PL
+양키스	yankees	양키스	yankea	N	N;MASC;PL
+리치	ritchie	리치	ritchie		
+리치	ricci	리치	ricci		
+돌파	avenç	돌파	avenç	N	N;MASC;SG
+기갑	armadura	기갑	armadurar	N	N;FEM;SG
+전파	propagació	전파	propagació	N	N;FEM;SG
+어도비	adobe	어도비	adobe		
+합의	acord	합의	acord	N	N;MASC;SG
+공개적으로	públicament	공개+적+으로	públicament	ADV	ADV
+시몬	simone	시몬	simone		
+시몬	simó	시몬	simó		
+시몬	simón	시몬	simón		
+교향악단	orquestra	교향+생단	orquestra	N	N;FEM;SG
+감소	disminució	감소	disminució	N	N;FEM;SG
+프린스	prince	프린스	prince		
+빅터	víctor	빅터	víctor		
+빅터	victor	빅터	victor		
+자금	finançament	자금	finançament	N	N;MASC;SG
+더빙	doblatge	더빙	doblatge	N	N;MASC;SG
+더빙	dub	더빙	dub	N	N;MASC;SG
+초콜릿	xocolata	초콜릿	xocolata		
+무라카미	murakami	무라카미	murakami		
+네오	neo	네오	neo		
+루카	lucca	루카	lucca		
+루카	luca	루카	luca		
+멸종	extinció	멸종	extinció	N	N;FEM;SG
+치즈	formatge	치즈	formatge	N	N;MASC;SG
+치즈	formatges	치즈	formatge	N	N;MASC;PL
+슬픈	sad	슬프+ㄴ	sader		
+테이블	quadre	테이블	quadre		
+지혜	savi	지혜	savi		
+조셉	josep	조셉	josep		
+조셉	joseph	조셉	joseph		
+밀러	miller	밀+러	miller		
+승자	guanyador	승자	guanyador	N	N;MASC;SG
+승자	guanyadors	승자	guanyador	N	N;MASC;PL
+독도	verí	독도	verí		
+태그	etiquetatge	태그	etiquetatge	N	N;MASC;SG
+태그	etiquetes	태그	etiqueta	N	N;FEM;PL
+수리	reparació	수리	reparació	N	N;FEM;SG
+수리	renovacions	수리	renovació	N	N;FEM;PL
+수리	reparacions	수리	reparació	N	N;FEM;PL
+테리	terry	테리	terry		
+아저씨	oncle	아저씨	oncle	N	N;MASC;SG
+프레임	fotogrames	프레임	fotograma	N	N;MASC;PL
+프레임	fotograma	프레임	fotograma	N	N;MASC;SG
+인형	nines	인형	nina	N	N;FEM;PL
+인형	dolls	인형	doll	N	N;MASC;PL
+인형	nina	인형	nina	N	N;FEM;SG
+인형	ninot	인형	ninot	N	N;MASC;SG
+캐스팅	repartiment	캐스팅	repartiment	N	N;MASC;SG
+캐스팅	càsting	캐스팅	càsting	N	N;MASC;SG
+희망	esperances	희망	esperança	N	N;FEM;PL
+희망	esperança	희망	esperança	N	N;FEM;SG
+공휴일	festes	공휴+이+ㄹ	festa	N	N;FEM;PL
+공휴일	festius	공휴+이+ㄹ	festiu	N	N;MASC;PL
+공휴일	vacances	공휴+이+ㄹ	vacança	N	N;FEM;PL
+극도로	extremadament	극도+로	extremadament	ADV	ADV
+경험	experiències	경험	experiència	N	N;FEM;PL
+경험	experiencia	경험	experiencia	N	N;FEM;SG
+경험	experiència	경험	experiència	N	N;FEM;SG
+조절	regularització	조절	regularització	N	N;FEM;SG
+블레이드	blade	블레이드	blade		
+재난	desastre	재난	desastre	N	N;MASC;SG
+재난	catàstrofes	재난	catàstrofe	N	N;FEM;PL
+재난	desastres	재난	desastre	N	N;MASC;PL
+재난	catàstrofe	재난	catàstrofe	N	N;FEM;SG
+파동	ona	파동	ona	N	N;FEM;SG
+리튬	liti	리튬	litar	N	N;MASC;SG
+동기	motivació	동기	motivació	N	N;FEM;SG
+동기	motius	동기	motiu	N	N;MASC;PL
+공산주의자	comunistes	공산주의자	comunista	N	N;PL
+공산주의자	comunista	공산주의자	comunista	N	N;SG
+오타	ōta	오타	jo		
+아오야마	aoyama	아오야마	aoyamar		
+전개	expansió	전개	expansió	N	N;FEM;SG
+히틀러	hitler	히틀러	hitler		
+볼로냐	bologna	볼+로+이+냐	bologna		
+볼로냐	bolonya	볼+로+이+냐	bolonya		
+슬램	slam	슬램	slam	N	N;MASC;SG
+거울	mirall	거울	mirall		
+업체	negoci	업체	negoci	N	N;MASC;SG
+업체	negocis	업체	negoci	N	N;MASC;PL
+행렬	processó	행렬	processó	N	N;FEM;SG
+스파이	espia	스파+이	espiar		
+석탄	carbó	석탄	carbó	N	N;MASC;SG
+리뷰	ressenyes	리뷰	ressenya		
+준주	territori	준주	territori	N	N;MASC;SG
+센서	sensors	세+어서	sensor	N	N;MASC;PL
+센서	captadors	세+어서	captador	N	N;MASC;PL
+센서	sensor	세+어서	sensor	N	N;MASC;SG
+포터	porter	포터	porter	N	N;MASC;SG
+불꽃	flames	불꽃	flama		
+제재	sancions	제재	sanció	N	N;FEM;PL
+스핀	spin	스핀	spin		
+바이어	beyer	바이어	beyer		
+바이어	bayer	바이어	bayer		
+다양체	varietat	다양체	varietat	N	N;FEM;SG
+법원	cort	법원	cort		
+포럼	forum	포럼	forum		
+앵커	àncora	앵커	àncora		
+앵커	ancoratge	앵커	ancoratge		
+베이비	baby	베이비	baby		
+공국	principat	공국	principar	N	N;MASC;SG
+공국	ducat	공국	ducar	N	N;MASC;SG
+요시노	yoshino	요시노	yoshino		
+케이트	kate	케이트	kate		
+리오	rio	리오	rio		
+리오	leo	리오	leo		
+위안부	comoditat	위안부	comoditat	N	N;FEM;SG
+위안부	confort	위안부	confort	N	N;MASC;SG
+거래	transacció	거래	transacció	N	N;FEM;SG
+거래	tracte	거래	tracte	N	N;MASC;SG
+거래	transaccions	거래	transacció	N	N;FEM;PL
+법적으로	legalment	법+적+으로	legalment	ADV	ADV
+카오루	kaoru	카오루	kaoru		
+성운	nebulosa	성운	nebulós	N	N;FEM;SG
+사무라이	samurai	사무라이	samurai		
+악의	malícia	악+의	malícia	N	N;FEM;SG
+헤드	head	헤드	head		
+레스토랑	restaurants	레스토랑	restaurant	N	N;MASC;PL
+레스토랑	restaurant	레스토랑	restaurant	N	N;MASC;SG
+문의	contacte	문+의	contacte		
+약물	drogues	약물	droga	N	N;FEM;PL
+약물	fàrmacs	약물	fàrmac	N	N;MASC;PL
+약물	medicació	약물	medicació	N	N;FEM;SG
+약물	droga	약물	droga	N	N;FEM;SG
+후원	patrocinadors	후원	patrocinador	N	N;MASC;PL
+후원	patrocinador	후원	patrocinador	N	N;MASC;SG
+철수	retirada	철수	retirada	N	N;FEM;SG
+철수	evacuació	철수	evacuació	N	N;FEM;SG
+벌써	ja	벌써	ja	ADV	ADV
+브레이크	fre	브레이크	fre		
+취미	passatemps	취미	passatemps	N	N;MASC;SG
+취미	aficions	취미	afició	N	N;FEM;PL
+동작	accions	동작	acció	N	N;FEM;PL
+동작	comportament	동작	comportament	N	N;MASC;SG
+동작	acció	동작	acció	N	N;FEM;SG
+루트	arrel	루트	arrel		
+만남	sessió	만남	sessió	N	N;FEM;SG
+만남	reunió	만남	reunió	N	N;FEM;SG
+만남	trobada	만남	trobada	N	N;FEM;SG
+학교는	escola	학교+는	escola	N	N;FEM;SG
+환자	pacients	환자	pacient	N	N;PL
+환자	pacient	환자	pacient	N	N;SG
+발달	desenvolupament	발달	desenvolupament	N	N;MASC;SG
+가이드	guia	가이드	guia	N	N;FEM;SG
+가이드	guies	가이드	guia	N	N;FEM;PL
+장난	trapella	장난	trapella		
+장난	malifeta	장난	malifeta		
+강남	gangnam	강남	gangnam		
+방출	emissió	방출	emissió	N	N;FEM;SG
+히로유키	hiroyuki	히로유키	hiroyuki		
+에바	ava	에바	avar		
+에바	eva	에바	ser		
+평면	planar	평면	planar		
+평면	plànol	평면	plànol		
+동성애	homosexualitat	동성애	homosexualitat	N	N;FEM;SG
+타이거	tigre	타이거	tigre		
+사양	especificacions	사양	especificació	N	N;FEM;PL
+사양	especificació	사양	especificació	N	N;FEM;SG
+사양	especialitzacions	사양	especialització	N	N;FEM;PL
+직경	diàmetre	직경	diàmetre	N	N;MASC;SG
+복수	venjança	복수	venjança	N	N;FEM;SG
+복수	venjança	복수	venjança	N	N;FEM;SG
+끝내기	abandona	끝내+기	abandonar	V	V;IND;SG;3;PRS;FIN
+끝내기	finalitza	끝내+기	finalitzar	V	V;IND;SG;3;PRS;FIN
+재료	ingredient	재료	ingredient	N	N;MASC;SG
+재료	material	재료	material	N	N;MASC;SG
+재료	ingredients	재료	ingredient	N	N;MASC;PL
+재료	materials	재료	material	N	N;MASC;PL
+재료	matèries	재료	matèria	N	N;FEM;PL
+전술	tàctiques	전술	tàctic	N	N;FEM;PL
+전술	tàctica	전술	tàctica	N	N;FEM;SG
+나카노	nakano	나카노	nakano		
+분기	sucursal	분기	sucursal		
+분기	branca	분기	branca		
+구조물	estructures	구조물	estructura	N	N;FEM;PL
+스승	mestra	스승	mestra	N	N;FEM;SG
+극단	extreme	극단	extreme	N	N;SG
+초신성	supernova	초신성	supernova	N	N;FEM;SG
+돼지	porc	돼지	porc		
+성직자	sacerdot	성직자	sacerdot	N	N;MASC;SG
+성직자	clergat	성직자	clergat	N	N;MASC;SG
+초상화	retrat	초상화	retrat	N	N;MASC;SG
+초상화	retrats	초상화	retrat	N	N;MASC;PL
+상사	sergent	상사	sergent	N	N;MASC;SG
+가설	hipòtesi	가설	hipòtesi	N	N;FEM;SG
+교리	doctrina	교리	doctrina	N	N;FEM;SG
+자선	almoina	자선	almoina	N	N;FEM;SG
+자선	caritat	자선	caritat	N	N;FEM;SG
+소송	litigis	소송	litigi	N	N;MASC;PL
+필터	filtre	필터	filtre	N	N;MASC;SG
+필터	filtres	필터	filtra	N	N;MASC;PL
+신앙	fe	신앙	fe	N	N;FEM;SG
+신앙	creença	신앙	creença	N	N;FEM;SG
+카터	carter	카터	carter		
+카오리	kaori	카오리	karrar		
+파트	part	파트	part		
+검은색	black	검은색	black		
+검은색	negre	검은색	negre		
+빌려	presto	빌리+어	prestar		
+정복	conquesta	정복	conquesta	N	N;FEM;SG
+특기	especialitats	특기	especialitat	N	N;FEM;PL
+돈이	diners	돈+이	diner	N	N;MASC;PL
+돈이	diner	돈+이	diner	N	N;MASC;SG
+계층	jerarquia	계층	jerarquia	N	N;FEM;SG
+계층	capa	계층	capa	N	N;FEM;SG
+계층	estratificació	계층	estratificació	N	N;FEM;SG
+영양	nutrició	영양	nutrició	N	N;FEM;SG
+영양	antílop	영양	antílop	N	N;MASC;SG
+영광	honor	영광	honor		
+패턴	pautes	패턴	pauta	N	N;FEM;PL
+패턴	patrons	패턴	patró	N	N;MASC;PL
+중립성	neutralitat	중립성	neutralitat	N	N;FEM;SG
+접수	recepció	접수	recepció	N	N;FEM;SG
+추리	deducció	추리	deducció	N	N;FEM;SG
+추리	raonament	추리	raonament	N	N;MASC;SG
+개발자	desenvolupadors	개발자	desenvolupador	N	N;MASC;PL
+개발자	desenvolupador	개발자	desenvolupador	N	N;MASC;SG
+방파제	escullera	방파제	escullera	N	N;FEM;SG
+웨스턴	western	웨스턴	western		
+듣기	escolta	듣+기	escoltar	V	V;IND;SG;3;PRS;FIN
+유대교	judaisme	유대교	judaisme	N	N;MASC;SG
+사키	sake	사키	sake		
+울프	wolff	울프	wolff		
+울프	llop	울프	llop		
+것들	coses	것+들	cosa	N	N;FEM;PL
+알림	notificació	알리+ㅁ	notificació	N	N;FEM;SG
+알림	alertes	알리+ㅁ	alerta	N	N;FEM;PL
+알림	recordatoris	알리+ㅁ	recordatori	N	N;MASC;PL
+알림	notificacions	알리+ㅁ	notificació	N	N;FEM;PL
+알림	recordatori	알리+ㅁ	recordatori	N	N;MASC;SG
+보이즈	nois	보이즈	noi	N	N;MASC;PL
+보이즈	boys	보이즈	boy	N	N;MASC;PL
+라이더	rider	라이더	rider		
+스탠퍼드	stanford	스탠퍼드	stanford		
+조이	zoey	종이	zoey		
+스캔들	escàndol	스캔들	escàndol	N	N;MASC;SG
+요원	agent	요원	agent	N	N;SG
+항해	voyage	항하+어	voyage		
+가르시아	garcia	가르시아	garcia		
+가르시아	garcía	가르시아	garcía		
+탐사	sonda	탐사	sonda	N	N;FEM;SG
+탐사	exploració	탐사	exploració	N	N;FEM;SG
+고기	carn	고기	carn	N	N;FEM;SG
+연령	edat	연령	edat	N	N;FEM;SG
+연령	edats	연령	edat	N	N;FEM;PL
+증명	identificació	증명	identificació	N	N;FEM;SG
+탱크	tanc	탱크	tanc	N	N;MASC;SG
+탱크	tancs	탱크	tanc	N	N;MASC;PL
+스틸	acer	스틸	acer	N	N;MASC;SG
+구경	tour	구경	tour	N	N;MASC;SG
+배포	desplegament	배포	desplegament	N	N;MASC;SG
+배포	distribució	배포	distribució	N	N;FEM;SG
+펜티엄	pentium	펜티엄	pentium	N	N;MASC;SG
+실종	desaparició	실종	desaparició	N	N;FEM;SG
+제약	restricció	제약	restricció	N	N;FEM;SG
+조류	marees	조류	marea	N	N;FEM;PL
+조류	ocell	조류	ocell	N	N;MASC;SG
+조류	alga	조류	alga	N	N;FEM;SG
+트로이	troia	트로이	troiar		
+항복	rendició	항복	rendició	N	N;FEM;SG
+독수리	àliga	독수리	àliga	N	N;FEM;SG
+배출	emissió	배출	emissió	N	N;FEM;SG
+건조	secà	건조	secà	N	N;MASC;SG
+건조	assecatge	건조	assecatge	N	N;MASC;SG
+건조	assecat	건조	assecat	N	N;MASC;SG
+정류장	parades	정류장	parada	N	N;FEM;PL
+파랑	blau	파랑	blau		
+천문대	observatori	천문대	observatori	N	N;MASC;SG
+다운	down	다우+ㄴ	down		
+도착	arribada	도착	arribada	N	N;FEM;SG
+베리	berry	배리	berry		
+줄기	tiges	줄기	tiga	N	N;FEM;PL
+줄기	tija	줄기	tija	N	N;FEM;SG
+후쿠다	fukuda	후쿠+이+다	fukuda		
+자서전	autobiografia	자서전	autobiografia	N	N;FEM;SG
+전례	litúrgia	전례	litúrgia	N	N;FEM;SG
+멜로디	melody	멜로디	melody		
+오가와	ogawa	오가+와	ogawar		
+아기	baby	아기	baby		
+지향	orientació	지향	orientació	N	N;FEM;SG
+문명의	civilitzacions	문명+의	civilització	N	N;FEM;PL
+배트맨	batman	배트맨	batman	N	N;SG
+안드레아	andrea	안드레아	andre		
+지폐	factures	지폐	factura	N	N;FEM;PL
+객체	objectes	객체	objecte	N	N;MASC;PL
+객체	objecte	객체	objecte	N	N;MASC;SG
+아인슈타인	einstein	아인슈타인	einstir		
+고조	gaozu	고조	gaozu		
+한계	limitacions	한계	limitació	N	N;FEM;PL
+한계	límits	한계	límit	N	N;MASC;PL
+한계	límit	한계	límit	N	N;MASC;SG
+괄호	parèntesi	괄호	parèntesi		
+괄호	parèntesi	괄호	parèntesi		
+괄호	parèntesis	괄호	parèntès		
+빨강	red	빨강	red		
+질환	malaltia	질환	malaltia	N	N;FEM;SG
+커뮤니케이션	comunicació	커뮤니케이션	comunicació	N	N;FEM;SG
+커뮤니케이션	comunicacions	커뮤니케이션	comunicació	N	N;FEM;PL
+다저스	dodgers	다저스	dodger	N	N;MASC;PL
+예측	predicció	예측	predicció	N	N;FEM;SG
+예측	prediccions	예측	predicció	N	N;FEM;PL
+예측	previsions	예측	previsió	N	N;FEM;PL
+세금	impost	세금	impost	N	N;MASC;SG
+세금	impostos	세금	impost	N	N;MASC;PL
+신전	temple	신전	temple	N	N;MASC;SG
+신전	temples	신전	temple	N	N;MASC;PL
+미카	micah	미카	micah		
+라이너	liner	라이너	liner		
+초청	invitació	초청	invitació	N	N;FEM;SG
+히로미	hiromi	히로미	hiromi		
+우편번호	zip	우편+호호	zip	N	N;MASC;SG
+수로	waterway	수로	waterway		
+계열사	filials	계열사	filial	N	N;FEM;PL
+계열사	afiliats	계열사	afiliat	N	N;MASC;PL
+포르노	porno	포르노	pornar		
+미식축구	futbol	미식+축구	futbol	N	N;MASC;SG
+오스카	òscar	오스카	òscar		
+방사능	radiació	방사능	radiació	N	N;FEM;SG
+방사능	radiacions	방사능	radiació	N	N;FEM;PL
+마약	drogues	마약	droga	N	N;FEM;PL
+마약	fàrmacs	마약	fàrmac	N	N;MASC;PL
+마약	droga	마약	droga	N	N;FEM;SG
+마약	estupefaents	마약	estupefaent	N	N;PL
+엘리트	elit	엘리트	elit		
+교육자	educadores	교육자	educadora	N	N;FEM;PL
+교육자	educadors	교육자	educador	N	N;MASC;PL
+규격	especificació	규격	especificació	N	N;FEM;SG
+토론하기	debatre	토론+하+기	debatre	V	V;NFIN
+분열	divisions	분열	divisió	N	N;FEM;PL
+분열	cisma	분열	cisma	N	N;MASC;SG
+뉴턴	newton	뉴턴	newton		
+삼촌	oncle	삼촌	oncle	N	N;MASC;SG
+발명가	inventor	발명+가	inventor	N	N;MASC;SG
+모건	morgan	모건	morgan		
+생리학	fisiologia	생리학	fisiologia	N	N;FEM;SG
+우편	correu	우편	correu	N	N;MASC;SG
+시크릿	secret	시크릿	secret		
+예방	prevenció	예방	prevenció	N	N;FEM;SG
+체험	experiències	체험	experiència	N	N;FEM;PL
+체험	experiencia	체험	experiencia	N	N;FEM;SG
+체험	experiència	체험	experiència	N	N;FEM;SG
+데이트	data	데이트	data	N	N;FEM;SG
+데이트	dates	데이트	data	N	N;FEM;PL
+데이트	datació	데이트	datació	N	N;FEM;SG
+연구원	investigador	연구원	investigador	N	N;MASC;SG
+연구원	investigadors	연구원	investigador	N	N;MASC;PL
+재개	currículum	재개	currículum	N	N;MASC;SG
+설명하기	expliqui	설명+하+기	explicar	V	V;SBJV;SG;3;PRS;FIN
+설명하기	descrigui	설명+하+기	descreure	V	V;SBJV;SG;3;PRS;FIN
+설명하기	descriu	설명+하+기	descriure	V	V;IND;SG;3;PRS;FIN
+설명하기	descriure	설명+하+기	descriure	V	V;NFIN
+고고학	arqueologia	고고학	arqueologia	N	N;FEM;SG
+타로	tarot	타+로	tarot		
+업로드	pujades	업로드	pujada	N	N;FEM;PL
+리얼리티	realitat	리얼리티	realitat		
+샘플	mostres	샘플	mostra	N	N;FEM;PL
+노력	esforç	노력	esforç	N	N;MASC;SG
+노력	gestions	노력	gestió	N	N;FEM;PL
+노력	esforços	노력	esforç	N	N;MASC;PL
+암호	contrasenya	암호	contrasenyar	N	N;FEM;SG
+암호	contrasenyes	암호	contraseny	N	N;FEM;PL
+암호	xifratge	암호	xifratge	N	N;MASC;SG
+영사관	consulat	영사관	consulat	N	N;MASC;SG
+예시	exemples	예시	exemple	N	N;MASC;PL
+동적	dinàmica	동적	dinàmica	N	N;FEM;SG
+손가락	dits	손가락	dit		
+마린	marin	마리+ㄴ	marin		
+마린	marín	마리+ㄴ	marín		
+동물원	zoo	동물원	zoo	N	N;MASC;SG
+히토미	hitomi	히토미	hitomi		
+두꺼운	gruixut	두껍+ㄴ	gruixut	ADJ	ADJ;MASC;SG
+납치	segrest	납치	segrest	N	N;MASC;SG
+쓰레기	escombraries	쓰레+기	escombraries	N	N;FEM;PL
+깃발	bandera	깃발	bandera	N	N;FEM;SG
+깃발	banderes	깃발	bandera	N	N;FEM;PL
+깃발	indicadors	깃발	indicador	N	N;MASC;PL
+회복	recuperació	회복	recuperació	N	N;FEM;SG
+유니언	union	유니언	unió		
+서식지	hàbitats	서식지	hàbitat	N	N;MASC;PL
+서식지	santuaris	서식지	santuari	N	N;MASC;PL
+서식지	hàbitat	서식지	hàbitat	N	N;MASC;SG
+놀이	diversió	놀이	diversió	N	N;FEM;SG
+헬리콥터	helicòpter	헬리콥터	helicòpter	N	N;MASC;SG
+헬리콥터	helicòpters	헬리콥터	helicòpter	N	N;MASC;PL
+계단	stair	계단	stair		
+크리스탈	krystal	크리스탈	krystal		
+나카	naka	나카	naka		
+반전	inversió	반전	inversió	N	N;FEM;SG
+권총	pistola	권총	pistola	N	N;FEM;SG
+나트륨	sodi	나트륨	sodi	N	N;MASC;SG
+지대	zona	지대	zona	N	N;FEM;SG
+감염	infeccions	감염	infecció	N	N;FEM;PL
+감염	infecció	감염	infecció	N	N;FEM;SG
+메타	meta	메타	meta		
+크루즈	creuers	크루즈	creuer	N	N;MASC;PL
+패널	plafons	패널	plafó	N	N;MASC;PL
+패널	panells	패널	panell	N	N;MASC;PL
+패널	panell	패널	panell	N	N;MASC;SG
+패널	plafó	패널	plafó	N	N;MASC;SG
+축소	esfondrament	축소	esfondrament	N	N;MASC;SG
+고객	clientes	고객	clienta		
+해상도	resolució	해상+도	resolució	N	N;FEM;SG
+올랜도	orlando	오랜+도	orlando		
+귀환	retorn	귀환	retorn	N	N;MASC;SG
+귀환	devolució	귀환	devolució	N	N;FEM;SG
+입법	legislació	입법	legislació	N	N;FEM;SG
+코미디언	humorista	코미디언	humorista	N	N;SG
+대주교	arquebisbe	대주교	arquebisbe	N	N;MASC;SG
+연대기	cròniques	연대기	crònica	N	N;FEM;PL
+연대기	crònica	연대기	crònica	N	N;FEM;SG
+관찰	observació	관찰	observació	N	N;FEM;SG
+앨버트	albert	앨버트	albert		
+전하	càrrec	전하	càrrec		
+여권	passaports	여권	passaport	N	N;MASC;PL
+여권	passaport	여권	passaport	N	N;MASC;SG
+리터	ritter	리터	ritter		
+초록	green	초록	grear		
+초록	verd	초록	verd		
+무용	dansa	무용	dansa	N	N;FEM;SG
+대부	padrí	대부	padrí		
+릴리	lily	릴리	lily		
+해변	platja	해변	platja	N	N;FEM;SG
+해변	platges	해변	platja	N	N;FEM;PL
+질소	nitrogen	질소	nitrogen	N	N;MASC;SG
+수호	tutor	수호	tutor	N	N;MASC;SG
+근본적으로	fonamentalment	근본+적+으로	fonamentalment	ADV	ADV
+키드	kidd	키드	kidd		
+소프라노	soprano	소프라노	soprano		
+우정	amistat	우정	amistat	N	N;FEM;SG
+자켓	jaqueta	자켓	jaqueta	N	N;FEM;SG
+자켓	jaquetes	자켓	jaqueta	N	N;FEM;PL
+장난감	joguines	장난감	joguina	N	N;FEM;PL
+반복적으로	repetidament	반복+적+으로	repetidament	ADV	ADV
+바닥	bottoms	바닥	bottom		
+랜드	rand	랜드	rand		
+그레이스	gràcia	그레이스	gràcia		
+그레이스	gracia	그레이스	gracia		
+백악기	cretaci	백악기	cretaci	N	N;MASC;SG
+구멍이	forat	구멍+이	forat	N	N;MASC;SG
+구멍이	forats	구멍+이	forat	N	N;MASC;PL
+달걀	ous	달걀	ou	N	N;MASC;PL
+라마	lamar	라마	lamar		
+라마	rama	라마	rama		
+스위트	suite	스위트	suite		
+특전	gratificacions	특전	gratificació	N	N;FEM;PL
+히가시	higashi	히가시	higashi		
+에리카	bruc	에리카	bruc		
+에리카	erica	에리카	ericar		
+엔젤	angel	엔젤	angel		
+엔젤	àngel	엔젤	àngel		
+선교	missió	선교	missió	N	N;FEM;SG
+연고	pomada	연고	pomada		
+연고	salve	연고	salve		
+섞어	barreja	섞+어	barrejar	V	V;IND;SG;3;PRS;FIN
+이민	immigrant	이민	immigrant	N	N;SG
+이민	immigració	이민	immigració	N	N;FEM;SG
+신데렐라	ventafocs	신데렐라	ventafocs		
+침략	invasió	침략	invasió	N	N;FEM;SG
+투쟁	lluites	투쟁	lluita	N	N;FEM;PL
+호시노	hoshino	호시노	hoshino		
+이념	ideologies	이념	ideologia	N	N;FEM;PL
+휴가	vacances	휴가	vacança	N	N;FEM;PL
+유스케	yusuke	유스케	yusuke		
+산화	oxidació	산화	oxidació	N	N;FEM;SG
+산화	òxid	산화	òxid	N	N;MASC;SG
+장식	decoració	장식	decoració	N	N;FEM;SG
+장식	ornament	장식	ornament	N	N;MASC;SG
+장식	decoracions	장식	decoració	N	N;FEM;PL
+검증	verificació	검증	verificació	N	N;FEM;SG
+검증	validació	검증	validació	N	N;FEM;SG
+검증	verificació	검증	verificació	N	N;FEM;SG
+아드리앵	adrien	아드리앵	adrir		
+울트라	ultra	울트+라	ultra		
+개구리	granotes	개구리	granota	N	N;FEM;PL
+개구리	granota	개구리	granota	N	N;FEM;SG
+줄리아	júlia	줄리아	júlia		
+일치하는	coincideix	일치+하+는	coincidir	V	V;IND;SG;3;PRS;FIN
+농장	granja	농장	granja	N	N;FEM;SG
+농장	granges	농장	granja	N	N;FEM;PL
+농장	explotacions	농장	explotació	N	N;FEM;PL
+농장	agricultura	농장	agricultura	N	N;FEM;SG
+처벌	sancions	처벌	sanció	N	N;FEM;PL
+바비	barbie	바비	barbie		
+바비	bobby	바비	bobby		
+실업	aturats	실업	aturat	N	N;MASC;PL
+실업	desocupació	실업	desocupació	N	N;FEM;SG
+실업	atur	실업	atur	N	N;MASC;SG
+고려해	consideri	고려+하+어	considerar	V	V;SBJV;SG;3;PRS;FIN
+고려해	considerar	고려+하+어	considerar	V	V;NFIN
+예술가	artistes	예술가	artista	N	N;PL
+예술가	artista	예술가	artista	N	N;SG
+장갑	guants	장갑	guant	N	N;MASC;PL
+허블	hubble	허블	hubble	N	N;MASC;SG
+면도	afaitar	면+도	afaitar		
+계절	temporada	계절	temporada	N	N;FEM;SG
+계절	temporades	계절	temporada	N	N;FEM;PL
+계절	estacions	계절	estació	N	N;FEM;PL
+델리	delhi	델리	delhi		
+하느님	déu	하느님	déu		
+오락	entreteniment	오락	entreteniment	N	N;MASC;SG
+복제	replicació	복제	replicació	N	N;FEM;SG
+복제	clonació	복제	clonació	N	N;FEM;SG
+아라이	arai	아라이	arai		
+폭풍	tempestes	폭풍	tempesta	N	N;FEM;PL
+폭풍	tempesta	폭풍	tempesta	N	N;FEM;SG
+카라	kara	카라	kara		
+보석	gem	보석	gem		
+보석	jewels	보석	jewel		
+비극	tragèdies	비극	tragèdia	N	N;FEM;PL
+비극	tragèdia	비극	tragèdia	N	N;FEM;SG
+둘다	ambdues	두+ㄴ다	ambdós		
+혜성	cometa	혜성	cometa	N	N;MASC;SG
+혜성	cometes	혜성	cometa	N	N;MASC;PL
+히데키	hideki	히데키	hideki		
+데이빗	david	데이빗	david		
+대의원	diputats	대의원	diputat	N	N;MASC;PL
+혈액	sang	혈액	sang	N	N;FEM;SG
+모리오카	morioka	모리오카	morioka		
+시골	país	시골	país		
+초록색	green	초록색	grear		
+초록색	verd	초록색	verd		
+붉은색	red	붉은색	red		
+총기	armes	총기	arma	N	N;FEM;PL
+총기	guns	총기	guns	N	N;MASC
+행복	felicitat	행복	felicitat	N	N;FEM;SG
+기소	fiscalia	기소	fiscalia	N	N;FEM;SG
+기소	imputació	기소	imputació	N	N;FEM;SG
+집회	reagrupament	집회	reagrupament	N	N;MASC;SG
+루비	rubí	루비	rubí		
+루비	ruby	루비	ruby		
+힌두교	hinduisme	힌두교	hinduisme	N	N;MASC;SG
+소통	comunicació	소통	comunicació	N	N;FEM;SG
+카이	kai	카이	kai		
+마운트	mont	마운트	mont		
+휴전	treva	휴전	treva	N	N;FEM;SG
+휴전	armistici	휴전	armistici	N	N;MASC;SG
+르네	renee	르네	renee		
+중성자	neutrons	중성자	neutró	N	N;MASC;PL
+중성자	neutró	중성자	neutró	N	N;MASC;SG
+던전	masmorra	던전	masmorra	N	N;FEM;SG
+쿄코	kyoko	쿄코	kyoko		
+타원	ellipses	타원	ellipse		
+에어로	aero	에어+로	aero		
+소금	sal	소금	sal		
+시그마	sigma	시그마	sigma		
+대책	mesures	대책	mesura	N	N;FEM;PL
+아담	adam	아담	adam		
+면허	llicències	면허	llicència	N	N;FEM;PL
+면허	llicencies	면허	llicencia	N	N;FEM;PL
+면허	llicència	면허	llicència	N	N;FEM;SG
+면허	llicència	면허	llicència	N	N;FEM;SG
+멜론	meló	멜론	meló		
+아이리스	iris	아이리스	iris		
+바보	idiota	바보	idiota		
+독점	monopoli	독점	monopoli	N	N;MASC;SG
+소비	consumidor	소비	consumidor	N	N;MASC;SG
+소비	consum	소비	consum	N	N;MASC;SG
+각주	footnotes	각주	footnota		
+달리기	córrer	달리+기	córrer		
+고백	confessió	고백	confessió	N	N;FEM;SG
+고백	confessions	고백	confessió	N	N;FEM;PL
+이지	izzie	이지	izzie		
+전세계	worldwide	전세계	worldwide		
+관장	ènema	관장	ènema	N	N;MASC;SG
+경찰관	policia	경찰관	policia	N	N;SG
+아사노	asano	아사노	asano		
+지연	retard	지연	retard	N	N;MASC;SG
+지연	endarreriment	지연	endarreriment	N	N;MASC;SG
+지연	retards	지연	retard	N	N;MASC;PL
+삽입	inserció	삽입	inserció	N	N;FEM;SG
+입문	iniciació	입문	iniciació	N	N;FEM;SG
+전압	tensió	전압	tensió	N	N;FEM;SG
+미사키	misaki	미사키	misaki		
+부제	subtítols	부제	subtítol	N	N;MASC;PL
+조종사	pilots	조종사	pilot	N	N;MASC;PL
+조종사	pilot	조종사	pilot	N	N;MASC;SG
+확산	difusió	확산	difusió	N	N;FEM;SG
+저널	diari	저널	diari	N	N;MASC;SG
+생존자	supervivents	생존자	supervivent	N	N;PL
+홍수	inundació	홍수	inundació	N	N;FEM;SG
+홍수	inundacions	홍수	inundació	N	N;FEM;PL
+배열	esquema	배열	esquema	N	N;MASC;SG
+모토로라	motorola	모토로+이+라	motorola		
+후보자	candidats	후보자	candidat	N	N;MASC;PL
+후보자	candidates	후보자	candidata	N	N;FEM;PL
+후보자	aspirants	후보자	aspirant	N	N;PL
+후보자	candidata	후보자	candidata	N	N;FEM;SG
+후보자	candidat	후보자	candidat	N	N;MASC;SG
+스크립트	guions	스크립트	guió	N	N;MASC;PL
+스크립트	scripting	스크립트	scripting	N	N;MASC;SG
+스크립트	scripts	스크립트	script	N	N;MASC;PL
+스크립트	scripting	스크립트	scripting	N	N;MASC;SG
+스크립트	script	스크립트	script	N	N;MASC;SG
+스크립트	guió	스크립트	guió	N	N;MASC;SG
+자본	capital	자본	capital	N	N;MASC;SG
+숨기기	oculta	숨기+기	ocultar	V	V;IND;SG;3;PRS;FIN
+숨기기	amaga	숨기+기	amagar	V	V;IND;SG;3;PRS;FIN
+파라다이스	paradise	파라다이스	paradise		
+마르크스주의	marxisme	마르크스주의	marxisme	N	N;MASC;SG
+베어	baer	베+어	baer		
+민속	folklore	민속	folklore	N	N;MASC;SG
+민속	folk	민속	folk	N	N;MASC;SG
+재무부	tresoreria	재무부	tresoreria	N	N;FEM;SG
+회담	conferència	회담	conferència	N	N;FEM;SG
+회담	tossal	회담	tossal	N	N;MASC;SG
+회담	cimera	회담	cimera	N	N;FEM;SG
+클라이언트	clientes	클라이언트	clienta		
+운명	destinació	운명	destinació	N	N;FEM;SG
+운명	destí	운명	destí	N	N;MASC;SG
+무지개	rainbows	무지개	rainbow		
+스위치	commutadors	스위치	commutador	N	N;MASC;PL
+스위치	interruptor	스위치	interruptor	N	N;MASC;SG
+사정	ejaculació	사정	ejaculació	N	N;FEM;SG
+압력	pressió	압력	pressió	N	N;FEM;SG
+압력	pressions	압력	pressió	N	N;FEM;PL
+직장	treball	직장	treball	N	N;MASC;SG
+직장	empresari	직장	empresari	N	N;MASC;SG
+작동	operació	작동	operació	N	N;FEM;SG
+작동	obres	작동	obra	N	N;FEM;PL
+박람회	exposició	박람회	exposició	N	N;FEM;SG
+박람회	fira	박람회	fira	N	N;FEM;SG
+박람회	exposicions	박람회	exposició	N	N;FEM;PL
+손실	pèrdua	손실	pèrdua	N	N;FEM;SG
+손실	pèrdues	손실	pèrdua	N	N;FEM;PL
+헬륨	heli	헬륨	heli	N	N;MASC;SG
+미리보기	previsualització	미리보+기	previsualització	N	N;FEM;SG
+바이킹	viking	바이킹	viking		
+강철	acer	강철	acer	N	N;MASC;SG
+보상	recompenses	보상	recompensa	N	N;FEM;PL
+보상	recompensa	보상	recompensa	N	N;FEM;SG
+보상	compensació	보상	compensació	N	N;FEM;SG
+보상	indemnització	보상	indemnització	N	N;FEM;SG
+잔디	herba	잔디	herba	N	N;FEM;SG
+미시마	mishima	미시마	mishima		
+결혼식	casaments	결혼식	casament	N	N;MASC;PL
+결혼식	bodes	결혼식	boda	N	N;FEM;PL
+결혼식	boda	결혼식	boda	N	N;FEM;SG
+결혼식	casament	결혼식	casament	N	N;MASC;SG
+해리스	harris	해리스	harri		
+어뢰	torpede	어뢰	torpede	N	N;MASC;SG
+와인	vi	와인	vi		
+감리교	metodista	감리교	metodista	N	N;SG
+후지타	fujita	후지타	fujita		
+입상	estatueta	입상	estatueta	N	N;FEM;SG
+모스	moisès	모스	moisès		
+모스	morse	모스	morse		
+삼총사	mosqueters	삼총사	mosqueter	N	N;MASC;PL
+수지	suzie	수지	suzie		
+수지	susie	수지	susie		
+오징어	calamar	오징어	calamar		
+전시회	exposició	전시회	exposició	N	N;FEM;SG
+전시회	exposicions	전시회	exposició	N	N;FEM;PL
+마리나	marina	마리+나	marina		
+반환	rendiments	반환	rendiment	N	N;MASC;PL
+반환	retorn	반환	retorn	N	N;MASC;SG
+반환	devolució	반환	devolució	N	N;FEM;SG
+규제	regulació	규제	regulació	N	N;FEM;SG
+규제	reglament	규제	reglament	N	N;MASC;SG
+규제	reglamentació	규제	reglamentació	N	N;FEM;SG
+진단	diagnosi	진단	diagnosi	N	N;FEM;SG
+진단	diagnòstic	진단	diagnòstic	N	N;MASC;SG
+삼각형	triangles	삼각형	triangla		
+윤리	ètica	윤리	ètica	N	N;FEM;SG
+하프	arpa	하프	arpa		
+방사선	radiació	방사선	radiació	N	N;FEM;SG
+방사선	radiacions	방사선	radiació	N	N;FEM;PL
+근육	músculs	근육	múscul	N	N;MASC;PL
+근육	múscul	근육	múscul	N	N;MASC;SG
+뿌리	arrel	뿌리	arrel		
+알렉산드라	alexandra	알렉산드라	alexandra		
+니켈	níquel	니켈	níquel	N	N;MASC;SG
+스폰서	patrocini	스폰서	patrocini		
+스폰서	padrí	스폰서	padrí		
+프라임	prime	프라임	prime		
+유틸리티	utilitats	유틸리티	utilitat	N	N;FEM;PL
+유틸리티	utilitat	유틸리티	utilitat	N	N;FEM;SG
+칼슘	calci	칼슘	calcar	N	N;MASC;SG
+고무	cautxú	고무	cautxú	N	N;MASC;SG
+바이오	bio	바이오	bio		
+트리니티	trinity	트리니티	trinity		
+사직	renúncia	사직	renúncia	N	N;FEM;SG
+사직	dimissió	사직	dimissió	N	N;FEM;SG
+느리게	lent	느리+게	lent	ADJ	ADJ;MASC;SG
+난민	refugiats	난민	refugiat	N	N;MASC;PL
+대포	artilleria	대포	artilleria	N	N;FEM;SG
+쇼핑	botiga	쇼핑	botiga	N	N;FEM;SG
+쇼핑	compres	쇼핑	compra	N	N;FEM;PL
+이모	tia	이모	tia		
+감마	gamma	감마	gamma		
+용기	coratge	용기	coratge	N	N;MASC;SG
+용기	valentia	용기	valentia	N	N;FEM;SG
+용기	recipient	용기	recipient	N	N;MASC;SG
+용기	valentia	용기	valentia	N	N;FEM;SG
+에이즈	sida	에이즈	sida		
+소켓	socket	소켓	socket	N	N;MASC;SG
+회계	comptabilitat	회계	comptabilitat	N	N;FEM;SG
+오리온	orion	오리+오+ㄴ	orion		
+오리온	orió	오리+오+ㄴ	orió		
+줄리엣	juliette	줄리엣	juliette		
+마스	mart	마스	mart		
+사업가	empresaris	사업가	empresari	N	N;MASC;PL
+사업가	emprenedors	사업가	emprenedor	N	N;MASC;PL
+사업가	empresari	사업가	empresari	N	N;MASC;SG
+개입	implicació	개입	implicació	N	N;FEM;SG
+개입	intervenció	개입	intervenció	N	N;FEM;SG
+부르봉	bourbon	부르봉	bourbon		
+부르봉	borbó	부르봉	borbó		
+아크	arc	아크	arc		
+메이커	maker	메이커	maker		
+브리지	bridge	브리+지	bridge		
+용량	capacitat	용량	capacitat	N	N;FEM;SG
+보리	ordi	보리	ordi	N	N;MASC;SG
+킬러	killer	키+러+오+아	killer		
+킬러	keeler	키+러+오+아	keeler		
+천국	cel	천국	cel		
+천국	paradise	천국	paradise		
+마사토	masato	마사토	masato		
+킹스	kings	킹스	kings		
+우유	llet	우유	llet	N	N;FEM;SG
+조항	disposicions	조항	disposició	N	N;FEM;PL
+조항	clàusula	조항	clàusula	N	N;FEM;SG
+폭포	cascada	폭포	cascada	N	N;FEM;SG
+폭포	cataractes	폭포	cataracta	N	N;FEM;PL
+전지	bateria	전지	bateria	N	N;SG
+전지	bateries	전지	bateria	N	N;FEM;PL
+라이온	lleó	라이+오+요	lleó		
+휴대폰	telèfon	휴대폰	telèfon	N	N;MASC;SG
+암흑	foscor	암흑	foscor		
+암흑	tenebres	암흑	tenebra		
+아파치	apache	아파치	apache		
+승진	promoció	승진	promoció	N	N;FEM;SG
+표준화	normalització	표준화	normalització	N	N;FEM;SG
+표준화	estandardització	표준화	estandardització	N	N;FEM;SG
+중독	intoxicació	중독	intoxicació	N	N;FEM;SG
+중독	addiccions	중독	addicció	N	N;FEM;PL
+중독	addicció	중독	addicció	N	N;FEM;SG
+오일러	euler	오일러	euler		
+섹스	sexe	섹스	sexe	N	N;MASC;SG
+사이클론	cicló	사이클론	cicló	N	N;MASC;SG
+묘지	cementiri	묘지	cementiri	N	N;MASC;SG
+묘지	cementiris	묘지	cementiri	N	N;MASC;PL
+주기적으로	periòdicament	주기+적+으로	periòdicament	ADV	ADV
+헬기	helicòpter	헬기	helicòpter	N	N;MASC;SG
+면역	immunitat	면역	immunitat	N	N;FEM;SG
+증상	símptomes	증상	símptoma	N	N;MASC;PL
+증상	símptoma	증상	símptom	N	N;MASC;SG
+스텝	pas	스텝	pas		
+교육학	educació	교육학	educació	N	N;FEM;SG
+야외	alella	야외	alella	N	N;FEM;SG
+관점	perspectives	관점	perspectiva	N	N;FEM;PL
+관점	perspectiva	관점	perspectiva	N	N;FEM;SG
+히라노	hirano	히라노	hirano		
+칼륨	potassi	칼륨	potassi	N	N;MASC;SG
+안보	seguretat	안보	seguretat	N	N;FEM;SG
+계수	coeficient	계수	coeficient	N	N;MASC;SG
+계수	coeficients	계수	coeficient	N	N;MASC;PL
+맥스웰	maxwell	맥스웰	maxwell		
+영혼	ànima	영혼	ànima	N	N;FEM;SG
+영혼	ànimes	영혼	ànima	N	N;FEM;PL
+개체	objecte	개체	objecte	N	N;MASC;SG
+개체	objectes	개체	objecte	N	N;MASC;PL
+버나드	bernard	버나드	bernard		
+피치	préssec	피치	préssec		
+쇼난	shonan	쇼난	shonar		
+정글	jungla	정글	jungla		
+헤이그	haia	헤이그	haver		
+랜디	landy	랜디	landy		
+케이티	katy	케이티	katy		
+로렌	lorena	로렌	lorè		
+비스트	bèstia	비스트	bèstia	N	N;FEM;SG
+강연	xerrades	강연	xerrada	N	N;FEM;PL
+좀비	zombie	좀비	zombie		
+좀비	zombies	좀비	zombi		
+대안	alternativa	대안	alternativa	N	N;FEM;SG
+모집	contractació	모집	contractació	N	N;FEM;SG
+창조	creació	창조	creació	N	N;FEM;SG
+압둘라	abdullah	압돌+라	abdullah		
+성매매	prostitució	성매매	prostitució	N	N;FEM;SG
+이용자	consumidors	이용자	consumidor	N	N;MASC;PL
+검열	censor	검열	censor	N	N;MASC;SG
+검열	censura	검열	censura	N	N;FEM;SG
+염소	clor	염소	clor	N	N;MASC;SG
+염소	cabres	염소	cabre	N	N;FEM;PL
+히카리	hikari	히카리	hikari		
+도플러	doppler	도플러	doppler	N	N;MASC;SG
+학생들	estudiants	학생+들	estudiant	N	N;PL
+학생들	alumnat	학생+들	alumnat	N	N;MASC;SG
+학생들	alumnes	학생+들	alumne	N	N;MASC;PL
+정적	quietud	정적	quietud		
+맛있는	boníssim	맛있+는	boníssim		
+위협	amenaces	위협	amenaça	N	N;FEM;PL
+매장	enterrament	매장	enterrament	N	N;MASC;SG
+매장	botigues	매장	botiga	N	N;FEM;PL
+매장	botiga	매장	botiga	N	N;FEM;SG
+생명체	organisme	생명체	organisme	N	N;MASC;SG
+생명체	criatura	생명체	criatura	N	N;FEM;SG
+암컷	femení	암컷	femení		
+트레이닝	entrenament	트레이닝	entrenament	N	N;MASC;SG
+트레이닝	formació	트레이닝	formació	N	N;FEM;SG
+참석	assiduïtat	참석	assiduïtat	N	N;FEM;SG
+연락	contacte	연락	contacte		
+설탕	sucres	설탕	sucre	N	N;MASC;PL
+요트	iot	요트	iot	N	N;MASC;SG
+요트	vela	요트	vela	N	N;FEM;SG
+부패	descomposició	부패	descomposició	N	N;FEM;SG
+부패	corrupció	부패	corrupció	N	N;FEM;SG
+대충	aproximadament	대충	aproximadament	ADV	ADV
+좌표	coordenada	좌표	coordenat	N	N;FEM;SG
+좌표	coordenades	좌표	coordenat	N	N;FEM;PL
+귀신	fantasma	귀신	fantasma		
+개별적으로	individualment	개별+적+으로	individualment	ADV	ADV
+수컷	mascle	수컷	mascle		
+인자	arguments	인자	argument	N	N;MASC;PL
+인자	factor	인자	factor	N	N;MASC;SG
+구현	implementació	구현	implementació	N	N;FEM;SG
+구현	implementacions	구현	implementació	N	N;FEM;PL
+시멘트	ciment	시멘트	ciment	N	N;MASC;SG
+봉우리	cims	봉우리	cim	N	N;MASC;PL
+봉우리	pics	봉우리	pic	N	N;MASC;PL
+상호작용	interacció	상호+작용	interacció	N	N;FEM;SG
+상호작용	interaccions	상호+작용	interacció	N	N;FEM;PL
+합류	aiguabarreig	합류	aiguabarreig		
+승마	hípica	승마	hípica	N	N;FEM;SG
+근접	proximitat	근접	proximitat	N	N;FEM;SG
+코넬	cornell	코넬	cornell		
+본질적으로	essencialment	본질+적+으로	essencialment	ADV	ADV
+걸스	xiques	걸스	xica	N	N;FEM;PL
+걸스	nenes	걸스	nena	N	N;FEM;PL
+걸스	noies	걸스	noia	N	N;FEM;PL
+걸스	girls	걸스	girl	N	N;MASC;PL
+혼란	confusió	혼란	confusió	N	N;FEM;SG
+혼란	caos	혼란	caos	N	N;MASC
+하드코어	hardcore	하드코+어	hardcore		
+순종	obediència	순종	obediència	N	N;FEM;SG
+카탈루냐	catalan	카탈루+아	catalan		
+카탈루냐	catalunya	카탈루+아	catalunya		
+연산자	operador	연산자	operador	N	N;MASC;SG
+연산자	operari	연산자	operari	N	N;MASC;SG
+연산자	operaris	연산자	operari	N	N;MASC;PL
+연산자	operadors	연산자	operador	N	N;MASC;PL
+연산자	operadores	연산자	operadora	N	N;FEM;PL
+소식	notícia	소식	notícia	N	N;FEM;SG
+소식	notícies	소식	notícia	N	N;FEM;PL
+소식	història	소식	història	N	N;FEM;SG
+소식	històries	소식	història	N	N;FEM;PL
+소식	relats	소식	relat	N	N;MASC;PL
+세션	sessió	세션	sessió	N	N;FEM;SG
+세션	sessions	세션	sessió	N	N;FEM;PL
+스칼라	scala	스칼라	scalar		
+반지	anells	반지	anell	N	N;MASC;PL
+반지	anelles	반지	anella	N	N;FEM;PL
+모노레일	monorail	모노레일	monorail	N	N;MASC;SG
+어려워	dur	어렵+어	dur		
+트윈	bessó	트윈	bessó		
+트윈	twin	트윈	twin		
+수수께끼	enigma	수수께끼	enigma		
+여자친구	xicota	여자+친구	xicota	N	N;FEM;SG
+여자친구	nòvia	여자+친구	nòvia	N	N;FEM;SG
+평의회	consell	평의회	consell	N	N;MASC;SG
+보수당	conservadors	보수당	conservador	N	N;MASC;PL
+보수주의	conservadors	보수주의	conservador	N	N;MASC;PL
+보수주의	conservadorisme	보수주의	conservadorisme	N	N;MASC;SG
+의심	dubte	의심	dubte		
+주문	encàrrecs	주문	encàrrec	N	N;MASC;PL
+주문	comandes	주문	comanda	N	N;FEM;PL
+입출력	input	입출력	input	N	N;MASC;SG
+입출력	aportació	입출력	aportació	N	N;FEM;SG
+매개변수	paràmetre	매개변수	paràmetre	N	N;MASC;SG
+매개변수	paràmetres	매개변수	paràmetre	N	N;MASC;PL
+격자	graella	격자	graella	N	N;FEM;SG
+오염	contaminació	오염	contaminació	N	N;FEM;SG
+게시판	tauler	게시판	tauler	N	N;MASC;SG
+게시판	junta	게시판	junta	N	N;FEM;SG
+신발	calçat	신발	calçat	N	N;MASC;SG
+신발	sabates	신발	sabat	N	N;FEM;PL
+신발	sabata	신발	sabat	N	N;FEM;SG
+테츠야	tetsuya	테디야	tetsuya		
+토끼	llebre	토끼	llebre	N	N;FEM;SG
+토끼	conills	토끼	conill	N	N;MASC;PL
+토끼	conillet	토끼	conillet	N	N;MASC;SG
+토끼	conilleta	토끼	conilleta	N	N;FEM;SG
+토끼	conill	토끼	conill	N	N;MASC;SG
+반사	reflexió	반사	reflexió	N	N;FEM;SG
+반사	reflexions	반사	reflexió	N	N;FEM;PL
+해바라기	girasol	해바+이+라기	girasol		
+파시즘	feixisme	파시즘	feixisme	N	N;MASC;SG
+성분	components	성분	component	N	N;MASC;PL
+성분	ingredients	성분	ingredient	N	N;MASC;PL
+시트	làmines	시트	làmina	N	N;FEM;PL
+시트	fulls	시트	full	N	N;MASC;PL
+시트	llençols	시트	llençol	N	N;MASC;PL
+지옥	infern	지옥	infern	N	N;MASC;SG
+사와	sawa	사+와	sawa		
+탐지	detecció	탐지	detecció	N	N;FEM;SG
+탐지	deteccions	탐지	detecció	N	N;FEM;PL
+고용	contractacions	고용	contractació	N	N;FEM;PL
+용의자	sospitosos	용의자	sospitós	N	N;MASC;PL
+체력	sanitat	체력	sanitat	N	N;FEM;SG
+체력	salut	체력	salut	N	N;FEM;SG
+기름	oli	기름	oli		
+착륙	desembarcaments	착륙	desembarcarcent	N	N;MASC;PL
+착륙	aterratge	착륙	aterratge	N	N;MASC;SG
+관객	audiència	관객	audiència	N	N;FEM;SG
+익스트림	xtreme	익스트림	xtreme		
+익스트림	extrem	익스트림	extrem		
+가라오케	karaoke	가라오케	karaoke		
+적당히	moderadament	적당+히	moderadament	ADV	ADV
+암호화	xifratge	암호화	xifratge	N	N;MASC;SG
+날아라	volant	날+아라	volant		
+나이키	nike	나이키	nike		
+메신저	messenger	메신저	messenger		
+크리켓	criquet	크리켓	criquet	N	N;MASC;SG
+도자기	porcellana	도자기	porcellana	N	N;FEM;SG
+도자기	ceràmica	도자기	ceràmica	N	N;FEM;SG
+도자기	ceràmica	도자기	ceràmica	N	N;FEM;SG
+물체	objectes	물체	objecte	N	N;MASC;PL
+득표	votacions	득표	votació	N	N;FEM;PL
+득표	vots	득표	vot	N	N;MASC;PL
+의약품	drogues	의약품	droga	N	N;FEM;PL
+의약품	fàrmacs	의약품	fàrmac	N	N;MASC;PL
+의약품	medicaments	의약품	medicament	N	N;MASC;PL
+의약품	droga	의약품	droga	N	N;FEM;SG
+검정	black	검정	black		
+검정	negre	검정	negre		
+마리코	mariko	마리코	mariko		
+목재	fusta	목재	fusta	N	N;FEM;SG
+호모	homo	호모	homo		
+스트레스	estrès	스트레스	estrès	N	N;MASC;SG
+분배	distribució	분배	distribució	N	N;FEM;SG
+타이페이	taipei	타이+페이	taipei		
+테이프	cintes	테이프	cinta		
+불화	incendi	불화	incendi	N	N;MASC;SG
+제조업	fabricació	제조업	fabricació	N	N;FEM;SG
+양성자	protons	양성자	protó	N	N;MASC;PL
+양성자	protó	양성자	protó	N	N;MASC;SG
+드러머	timbaler	드러데	timbaler	N	N;MASC;SG
+핵융합	fusió	핵융합	fusió	N	N;FEM;SG
+호출	convocatòria	호출	convocatòria	N	N;FEM;SG
+호출	trucada	호출	trucada	N	N;FEM;SG
+모자	barrets	모자	barret	N	N;MASC;PL
+모자	barret	모자	barret	N	N;MASC;SG
+출산	naixements	출산	naixement	N	N;MASC;PL
+출산	naixement	출산	naixement	N	N;MASC;SG
+버그	bugs	버그	bug		
+패스	pass	패스	pass		
+켈빈	kelvin	켈빈	kelvar	N	N;MASC;SG
+니콜	nicol	니콜	nicol		
+니콜	nicole	니콜	nicole		
+넥스트	next	넥스트	next		
+재건	reconstrucció	재건	reconstrucció	N	N;FEM;SG
+펌프	bombes	펌프	bomba	N	N;FEM;PL
+데모	demostració	데모	demostració	N	N;FEM;SG
+데모	maquetes	데모	maqueta	N	N;FEM;PL
+아틀라스	atles	아틀라스	atles		
+고모	tieta	고모	tieta	N	N;FEM;SG
+십대	adolescents	십대	adolescent	N	N;PL
+십대	adolescents	십대	adolescent	N	N;PL
+마사오	masao	마사오	masao		
+보전	conservació	보전	conservació	N	N;FEM;SG
+교외	urbanitzacions	교외	urbanització	N	N;FEM;PL
+설명해	expliqui	설명+하+어	explicar	V	V;SBJV;SG;3;PRS;FIN
+노조미	nozomi	노조미	nozomi		
+굿바이	adeu	굿바+이	adeu		
+굿바이	adéu	굿바+이	adéu		
+파이프	pipa	파이프	pipa		
+파이프	pipes	파이프	pipa		
+카즈야	kazuya	카즈야	kazuya		
+신뢰성	credibilitat	신뢰성	credibilitat	N	N;FEM;SG
+신뢰성	fiabilitat	신뢰성	fiabilitat	N	N;FEM;SG
+업계	indústria	업계	indústria	N	N;FEM;SG
+탐색	navegació	탐색	navegació	N	N;FEM;SG
+후세인	hussein	후세+이+ㄴ	hussar	N	N;MASC;SG
+요인	factors	요인	factor	N	N;MASC;PL
+요인	factor	요인	factor	N	N;MASC;SG
+기부	donació	기부	donació	N	N;FEM;SG
+기부	donatius	기부	donatiu	N	N;MASC;PL
+기부	donacions	기부	donació	N	N;FEM;PL
+달력	calendari	달력	calendari	N	N;MASC;SG
+달력	calendaris	달력	calendari	N	N;MASC;PL
+터너	turner	터너	turner		
+장착	muntatge	장착	muntatge	N	N;MASC;SG
+레인저	rangers	레인저	ranger	N	N;MASC;PL
+모노	mono	모노	mono		
+진동	vibracions	진동	vibració	N	N;FEM;PL
+진동	vibracions	진동	vibració	N	N;FEM;PL
+진동	vibració	진동	vibració	N	N;FEM;SG
+교도소	presons	교도소	presó	N	N;FEM;PL
+교도소	presó	교도소	presó	N	N;FEM;SG
+치킨	pollastre	치키+ㄴ	pollastre		
+모리타	morita	모리타	morita		
+전이	metàstasi	전+이	metàstasi		
+극한	extrem	극한	extrem		
+솔루션	solucions	솔루션	solució	N	N;FEM;PL
+솔루션	solució	솔루션	solució	N	N;FEM;SG
+상영	cribratge	상영	cribratge	N	N;MASC;SG
+파업	vaga	파업	vaga	N	N;FEM;SG
+파업	vagues	파업	vaga	N	N;FEM;PL
+바나나	plàtan	바나나	plàtan		
+확인하기	confirmar	확인+하+기	confirmar	V	V;NFIN
+확인하기	confirma	확인+하+기	confirmar	V	V;IND;SG;3;PRS;FIN
+우주론	cosmologia	우주론	cosmologia	N	N;FEM;SG
+벚꽃	cirera	벚꽃	cirera		
+벚꽃	cherry	벚꽃	cherry		
+과목	assignatures	과목	assignatura	N	N;FEM;PL
+학기	semestre	학기	semestre	N	N;MASC;SG
+액세스	accés	액세스	accés	N	N;MASC;SG
+점성술	astròleg	점성술	astròleg	N	N;MASC;SG
+점성술	astrologia	점성술	astrologia	N	N;FEM;SG
+케이스	casos	케이스	cas	N	N;MASC;PL
+추방	deportació	추방	deportació	N	N;FEM;SG
+발리	bali	발리	bali		
+오토바이	motocicleta	오토바이	motocicleta	N	N;FEM;SG
+오토바이	motocicletes	오토바이	motocicleta	N	N;FEM;PL
+해리슨	harrison	해리슨	harrisor		
+토모코	tomoko	토모코	tomoko		
+윈저	windsor	윈저	windsor		
+베른	berna	베르+ㄴ	bern		
+색소폰	saxòfon	색소폰	saxòfon	N	N;MASC;SG
+조각가	escultor	조각+가	escultor	N	N;MASC;SG
+효소	enzims	효소	enzim	N	N;MASC;PL
+효소	enzim	효소	enzim	N	N;MASC;SG
+경향	tendència	경향	tendència	N	N;FEM;SG
+경향	tendències	경향	tendència	N	N;FEM;PL
+폭동	motí	폭동	motí	N	N;MASC;SG
+폭동	aldarull	폭동	aldarull	N	N;MASC;SG
+폭동	revolta	폭동	revoltar	N	N;FEM;SG
+길드	gremi	길드	gremi	N	N;MASC;SG
+길드	gremis	길드	gremi	N	N;MASC;PL
+교통량	trànsit	교통량	trànsit	N	N;MASC;SG
+교통량	tràfic	교통량	tràfic	N	N;MASC;SG
+파스칼	pascal	파스칼	pascal		
+기념비	monuments	기념비	monument	N	N;MASC;PL
+기념비	monument	기념비	monument	N	N;MASC;SG
+튜링	turing	튜링	turing	N	N;MASC;SG
+마사	martha	마사	martha		
+저주	maledicció	저주	maledicció	N	N;FEM;SG
+생물학자	biòleg	생물+학자	biòleg	N	N;MASC;SG
+생물학자	biòloga	생물+학자	biòloga	N	N;FEM;SG
+생물학자	biòlegs	생물+학자	biòleg	N	N;MASC;PL
+밀레니엄	millennium	밀레니엄	millennium		
+호크	hawke	호크	hawke		
+노아	noè	노아	noè		
+노아	noah	노아	noah		
+무죄	innocència	무죄	innocència	N	N;FEM;SG
+컨설팅	consulting	컨설팅	consulting	N	N;MASC;SG
+컨설팅	consultoria	컨설팅	consultoria	N	N;FEM;SG
+노출	impressions	노출	impressió	N	N;FEM;PL
+노출	impressió	노출	impressió	N	N;FEM;SG
+노출	exposició	노출	exposició	N	N;FEM;SG
+기네스	guinness	기네스	guinnès		
+세균	bacteris	세균	bacteri	N	N;MASC;PL
+세균	gèrmens	세균	gèrmen	N	N;MASC;PL
+봄이	primavera	봄+이	primavera		
+호르몬	hormona	호르몬	hormonar	N	N;FEM;SG
+호르몬	hormones	호르몬	hormone	N	N;FEM;PL
+미사토	misato	미사토	misato		
+자라	zara	자+이+라	zara		
+리노	linus	리노	linus		
+연습장	gàbies	연습장	gàbia	N	N;FEM;PL
+페이	faye	페이	faye		
+노트북	quaderns	노트북	quadern	N	N;MASC;PL
+노트북	llibretes	노트북	llibreta	N	N;FEM;PL
+노트북	llibreta	노트북	llibreta	N	N;FEM;SG
+다이	dai	다이	dai		
+기욤	guillaume	기욤	guillaume	N	N;MASC;SG
+살인자	killer	살인자	killer		
+와이파이	wifi	와이파이	wifar	N	N;MASC;SG
+제니	jenny	제+니	jenny		
+스파이더맨	spiderman	스파이스더	spidermar		
+경사	desnivell	경사	desnivell	N	N;MASC;SG
+경사	talussos	경사	talús	N	N;MASC;PL
+경사	sergent	경사	sergent	N	N;MASC;SG
+고래	balenes	고래	balena	N	N;FEM;PL
+고래	balena	고래	balena	N	N;FEM;SG
+통신사	transportista	통신사	transportista	N	N;SG
+채택	adopció	채택	adopció	N	N;FEM;SG
+열역학	termodinàmica	열역학	termodinàmica	N	N;FEM;SG
+오일	oli	오일	oli		
+모스크	mesquites	모스크	mesquita	N	N;FEM;PL
+모스크	mesquita	모스크	mesquita	N	N;FEM;SG
+마츠다	matsuda	마디+이+다	matsuda		
+트랜스	trans	트랜스	tran		
+니키	nikki	니키	nikki		
+크리스천	christian	크리스천	christian		
+행진	març	행진	març	N	N
+행진	desfilada	행진	desfilada	N	N;FEM;SG
+행진	rua	행진	rua	N	N;FEM;SG
+행진	marxes	행진	marxa	N	N;FEM;PL
+행진	processó	행진	processó	N	N;FEM;SG
+프라이드	orgull	프라이드	orgull		
+티켓	bitllets	티켓	bitllet	N	N;MASC;PL
+티켓	entrades	티켓	entrada	N	N;FEM;PL
+티켓	bitllet	티켓	bitllet	N	N;MASC;SG
+주차장	garatge	주차장	garatge	N	N;MASC;SG
+주차장	pàrquing	주차장	pàrquing	N	N;MASC;SG
+주차장	aparcament	주차장	aparcament	N	N;MASC;SG
+탄약	municions	탄약	munició	N	N;FEM;PL
+탄약	munició	탄약	munició	N	N;FEM;SG
+바쿠	baku	바쿠	baku		
+리차드	ricard	리차드	ricard		
+만료	expiració	만료	expiració	N	N;FEM;SG
+소방관	bomber	소방관	bomber	N	N;MASC;SG
+희생자	víctimes	희생자	víctima	N	N;FEM;PL
+희생자	víctima	희생자	víctima	N	N;FEM;SG
+포도주	vi	포도주	vi		
+읽는다	llegir	읽+는다	llegir	V	V;NFIN
+레코딩	enregistraments	레코딩	enregistrament	N	N;MASC;PL
+레코딩	gravacions	레코딩	gravació	N	N;FEM;PL
+나이아가라	niagara	나이아가+라	niagar		
+객실	cabana	객실	cabana	N	N;FEM;SG
+객실	habitacions	객실	habitació	N	N;FEM;PL
+객실	sales	객실	sala	N	N;FEM;PL
+성단	cúmul	성단	cúmul	N	N;MASC;SG
+성단	clúster	성단	clúster	N	N;MASC;SG
+위안	consuelo	위안	consuelo		
+클레어	claire	클레어	claire		
+여우	guineu	여우	guineu	N	N;FEM;SG
+품종	raça	품종	raça	N	N;FEM;SG
+품종	races	품종	raça	N	N;FEM;PL
+몰리세	molise	몰리세	molise		
+팔꿈치	colzes	팔꿈치	colza	N	N;MASC;PL
+마모루	mamoru	마모루	mamoru		
+위장	estómac	위장	estómac	N	N;MASC;SG
+봅슬레이	bobsleigh	보스레이	bobsleigh	N	N;MASC;SG
+타무라	tamura	타무라	tamura		
+상담	conselleria	상담	conselleria	N	N;FEM;SG
+상담	consulta	상담	consulta	N	N;FEM;SG
+사슬	cadenes	사슬	cadena	N	N;FEM;PL
+사슬	cadena	사슬	cadena	N	N;FEM;SG
+엄격히	estrictament	엄격+히	estrictament	ADV	ADV
+에런	aaron	에런	aaron		
+침입	intrusió	침입	intrusió	N	N;FEM;SG
+아다치	adachi	아다치	adachar		
+스탠드	casetes	스탠드	caseta	N	N;FEM;PL
+번개	llamp	번개	llamp	N	N;MASC;SG
+카테고리	categoria	카테고리	categoria	N	N;FEM;SG
+카테고리	categories	카테고리	categoria	N	N;FEM;PL
+외과	cirurgia	외+과	cirurgia	N	N;FEM;SG
+처녀	verge	처녀	verge		
+평평한	plana	평평+하+ㄴ	plana	V	V;IND;SG;3;PRS;FIN
+입대	allistament	입대	allistament	N	N;MASC;SG
+본격	earnest	본격	earnest		
+사라져	desaparèixer	사라지+어	desaparèixer	V	V;NFIN
+처형	execució	처형	execució	N	N;FEM;SG
+이용하기	usa	이용+하+기	usar	V	V;IND;SG;3;PRS;FIN
+평론	crítica	평론	crítica	N	N;FEM;SG
+듀크	duc	듀크	duc		
+킥복싱	kickboxing	킥복싱	kickboxing	N	N;MASC;SG
+마술사	mag	마술사	mag	N	N;MASC;SG
+마술사	bruixot	마술사	bruixot	N	N;MASC;SG
+기술자	tècnics	기술자	tècnic	N	N;MASC;PL
+기술자	enginyer	기술자	enginyer	N	N;MASC;SG
+평등	igualtat	평등	igualtat	N	N;FEM;SG
+윈터	wynter	윈터	wynter		
+타쿠야	takuya	타+빈야	takuyar		
+문자열	cadena	문자열	cadena	N	N;FEM;SG
+문자열	cadenes	문자열	cadena	N	N;FEM;PL
+구멍	forat	구멍	forat	N	N;MASC;SG
+구멍	forats	구멍	forat	N	N;MASC;PL
+비평	crítica	비평	crítica	N	N;FEM;SG
+아치	arch	아치	arch		
+공부	estudi	공부	estudi	N	N;MASC;SG
+공부	estudis	공부	estudi	N	N;MASC;PL
+아쿠아	aqua	아쿠아	aqua		
+가죽	cuir	가죽	cuir		
+빠르다	ràpid	빠르+다	ràpid	ADJ	ADJ;MASC;SG
+매출	vendes	매출	venda	N	N;FEM;PL
+분노	ràbia	분노	ràbia	N	N;FEM;SG
+공예	ofici	공예	ofici	N	N;MASC;SG
+공예	artesania	공예	artesania	N	N;FEM;SG
+공예	artesania	공예	artesania	N	N;FEM;SG
+그라운드	terreny	그라운드	terreny		
+롤러코스터	rollercoaster	롤러코스터	rollercoaster		
+아이팟	ipod	아이+ㄹ	ipod	N	N;MASC;SG
+아이팟	ipods	아이+ㄹ	ipods	N	N;MASC;PL
+지식인	coneixements	지식인	coneixement	N	N;MASC;PL
+지식인	coneixement	지식인	coneixement	N	N;MASC;SG
+할당	cessió	할당	cessió	N	N;FEM;SG
+할당	assignació	할당	assignació	N	N;FEM;SG
+할당	assignacions	할당	assignació	N	N;FEM;PL
+할당	cessions	할당	cessió	N	N;FEM;PL
+초보	principiant	초보	principiar	N	N;SG
+협박	amenaces	협박	amenaça	N	N;FEM;PL
+협박	xantatge	협박	xantatge	N	N;MASC;SG
+협박	intimidació	협박	intimidació	N	N;FEM;SG
+상대방	contrapart	상대방	contrapar		
+포장	envasos	포장	envàs	N	N;MASC;PL
+포장	envasament	포장	envasament	N	N;MASC;SG
+머큐리	mercury	머큐리	mercury		
+독재자	dictador	독재자	dictador	N	N;MASC;SG
+엑스트라	extres	엑스트+이+라	extra		
+간판	senyalització	간판	senyalització	N	N;FEM;SG
+칼럼	columna	칼+처	columna		
+지시	instruccions	지시	instrucció	N	N;FEM;PL
+속력	velocitat	속력	velocitat	N	N;FEM;SG
+명예훼손	difamació	명예+병손	difamació	N	N;FEM;SG
+염화	clorur	염화	clorur	N	N;MASC;SG
+조던	jordà	조+이+던	jordà		
+피어슨	pearson	피어슨	pearson		
+휴일	festes	휴일	festa	N	N;FEM;PL
+휴일	festius	휴일	festiu	N	N;MASC;PL
+휴일	vacances	휴일	vacança	N	N;FEM;PL
+토이	joguina	토+이	joguina		
+폴리	poli	폴리	poli		
+도덕	moralitat	도덕	moralitat	N	N;FEM;SG
+파노라마	panoramas	파노라마	panoramas		
+마피아	màfia	마피아	màfia	N	N;FEM;SG
+스팸	brossa	스팸	brossa	N	N;FEM;SG
+스탠	stan	스탠	stan		
+제국주의	imperialisme	제국주의	imperialisme	N	N;MASC;SG
+비둘기	colom	비둘기	colom		
+아편	opi	아편	opi	N	N;MASC;SG
+시나	cinna	시+나	cinna		
+도움말	auxili	도움말	auxili		
+도움말	ajut	도움말	ajut		
+노랑	groc	노랑	groc		
+반지름	radi	반지름	radi	N	N;MASC;SG
+포도	vitis	포도	viti		
+포도	viñas	포도	viñas		
+애슐리	ashley	애슐리	ashley		
+애슐리	ashleigh	애슐리	ashleigh		
+국민주의	nacionalisme	국민주의	nacionalisme	N	N;MASC;SG
+수녀	monja	수녀	monja	N	N;FEM;SG
+로리	lori	로리	lorir		
+사무국	secretaria	사무국	secretaria	N	N;FEM;SG
+카네기	carnegie	카네기	carnegie		
+청동	bronze	청동	bronze		
+시작하기	comença	시작+하+기	començar	V	V;IND;SG;3;PRS;FIN
+아카리	akari	아카리	akari		
+컵스	cadells	컵스	cadell	N	N;MASC;PL
+구별	distinció	구별	distinció	N	N;FEM;SG
+메카	meca	메카	meca		
+메카	mech	메카	mech		
+마이어	meier	마이어	meier		
+인격	personalitat	인격	personalitat	N	N;FEM;SG
+후지모토	fujimoto	후지모토	fujimoto		
+마스크	màscares	마스크	màscara	N	N;FEM;PL
+마스크	caretes	마스크	careta	N	N;FEM;PL
+법령	decret	법령	decret	N	N;MASC;SG
+수직으로	verticalment	수직+으로	verticalment	ADV	ADV
+커맨드	ordre	커맨드	ordre		
+커맨드	comandament	커맨드	comandament		
+메뉴	menú	메뉴	menú	N	N;MASC;SG
+메뉴	menús	메뉴	menús	N	N;MASC;PL
+토르	thor	토르	thor		
+카니발	carnestoltes	카니발	carnestoltes	N	N;MASC
+컨트롤러	interventors	컨트+시러	interventor	N	N;MASC;PL
+컨트롤러	controlador	컨트+시러	controlador	N	N;MASC;SG
+이식	trasplantament	이식	trasplantament	N	N;MASC;SG
+이식	trasplantament	이식	trasplantament	N	N;MASC;SG
+스케이트	skate	스케이트	skate		
+소득	ingrés	소득	ingrés	N	N;MASC;SG
+소득	ingressos	소득	ingrés	N	N;MASC;PL
+고통	agonia	고통	agonia	N	N;FEM;SG
+고통	patiment	고통	patiment	N	N;MASC;SG
+고통	sofriment	고통	sofriment	N	N;MASC;SG
+고통	dolor	고통	dolor	N	N;MASC;SG
+예약	designació	예약	designació	N	N;FEM;SG
+예약	nomenament	예약	nomenament	N	N;MASC;SG
+예약	horari	예약	horari	N	N;MASC;SG
+예약	nomenaments	예약	nomenament	N	N;MASC;PL
+다양성	diversitat	다양성	diversitat	N	N;FEM;SG
+핫토리	hattori	핫토리	hattori		
+예제	exemples	예제	exemple	N	N;MASC;PL
+연설	discursos	연설	discurs	N	N;MASC;PL
+연설	discurs	연설	discurs	N	N;MASC;SG
+점검	inspecció	점검	inspecció	N	N;FEM;SG
+점검	comprovació	점검	comprovació	N	N;FEM;SG
+점검	manteniment	점검	manteniment	N	N;MASC;SG
+점검	manutenció	점검	manutenció	N	N;FEM;SG
+그릴	grill	그리+ㄹ	grill		
+댄서	ballarines	대+서	ballarina	N	N;FEM;PL
+댄서	ballarins	대+서	ballarí	N	N;MASC;PL
+댄서	ballarí	대+서	ballarí	N	N;MASC;SG
+댄서	dancer	대+서	dancer	N	N
+댄서	ballarina	대+서	ballarina	N	N;FEM;SG
+선원	mariners	선원	mariner	N	N;MASC;PL
+강간	violació	강간	violació	N	N;FEM;SG
+감옥	presons	감옥	presó	N	N;FEM;PL
+감옥	presó	감옥	presó	N	N;FEM;SG
+화상	crema	화상	crema		
+디스코	discoteca	디스코	discoteca	N	N;FEM;SG
+군주제	monarquia	군주제	monarquia	N	N;FEM;SG
+루팡	llopin	루팡	llopar		
+스킬	aptituds	스키+ㄹ	aptitud	N	N;FEM;PL
+스킬	competències	스키+ㄹ	competència	N	N;FEM;PL
+스킬	destresa	스키+ㄹ	destresa	N	N;FEM;SG
+파고	fargo	파+고	fargo		
+협의회	consell	협의회	consell	N	N;MASC;SG
+배워	apreneu	배우+어	aprendre		
+하이퍼	hiper	하이퍼	hiper		
+상실	pèrdua	상실	pèrdua	N	N;FEM;SG
+협의	consulta	협의	consulta	N	N;FEM;SG
+외계인	alien	외계+이+ㄴ	aliar	V	V;IND;PL;3;PRS;FIN
+어릴적	infància	어릴+적	infància	N	N;FEM;SG
+어릴적	infantesa	어릴+적	infantesa	N	N;FEM;SG
+비어	buit	비+어	buit		
+색깔	colors	색깔	color	N	N;MASC;PL
+신비	misticisme	신비	misticisme	N	N;MASC;SG
+신비	misteris	신비	misteri	N	N;MASC;PL
+마쓰다	matsuda	마쓰+다	matsuda		
+매트릭스	matriu	매트릭스	matriu		
+오메가	omega	오메+가	omegar		
+폭파	demolició	폭파	demolició	N	N;FEM;SG
+소화	digestió	소화	digestió	N	N;FEM;SG
+혁신	innovacions	혁신	innovació	N	N;FEM;PL
+혁신	innovació	혁신	innovació	N	N;FEM;SG
+안티	anti	안티	anti		
+사무엘	samuel	사무엘	samuel		
+초점	focus	초점	focus		
+복음주의	evangeli	복음주의	evangeli	N	N;MASC;SG
+매튜	matthew	매튜	matthew		
+매튜	mateu	매튜	mateu		
+마그네슘	magnesi	마그네슘	magnesi	N	N;MASC;SG
+알바	alba	알바	alba		
+자연적으로	naturalment	자연+적+으로	naturalment	ADV	ADV
+시민권	ciutadania	시민권	ciutadania	N	N;FEM;SG
+백신	vacunes	백신	vacuna	N	N;FEM;PL
+열이	febre	열+이	febre	N	N;FEM;SG
+사물	coses	사물	cosa	N	N;FEM;PL
+가우스	gauss	가우스	gauss		
+나노	nano	나노	nano		
+레지스터	registre	레지스터	registre	N	N;MASC;SG
+팬들	fans	팬+들	fan	N	N;MASC;PL
+팬들	admiradors	팬+들	admirador	N	N;MASC;PL
+팬들	ventiladors	팬+들	ventilador	N	N;MASC;PL
+식별	identificació	식별	identificació	N	N;FEM;SG
+마르크	marc	마르크	marc		
+모로	moro	모+로	moro		
+모피	pells	모피	pell		
+리치먼드	richmond	리치먼드	richmond		
+암스트롱	armstrong	암스트랑	armstrong		
+대나무	bambú	대나무	bambú		
+수위	conserge	수위	conserge	N	N;MASC;SG
+녹화	gravació	녹화	gravació	N	N;FEM;SG
+녹화	enregistrament	녹화	enregistrament	N	N;MASC;SG
+녹화	rècord	녹화	rècord	N	N;MASC;SG
+밸브	vàlvules	밸브	vàlvula	N	N;FEM;PL
+슬픔	tristesa	슬픔	tristesa	N	N;FEM;SG
+염색체	cromosomes	염색체	cromosoma	N	N;MASC;PL
+염색체	cromosoma	염색체	cromosomar	N	N;MASC;SG
+아나	ana	아나	ana		
+신학교	seminari	신학교	seminari	N	N;MASC;SG
+곡물	cultius	곡물	cultiu	N	N;MASC;PL
+곡물	conreus	곡물	conreu	N	N;MASC;PL
+곡물	cereals	곡물	cereal	N	N;MASC;PL
+곡물	cereals	곡물	cereal	N	N;MASC;PL
+곡물	cereal	곡물	cereal	N	N;MASC;SG
+먹기	menja	먹+기	menjar	V	V;IND;SG;3;PRS;FIN
+남자친구	nuvis	남자친구	nuvi	N	N;MASC;PL
+남자친구	xicot	남자친구	xicot	N	N;MASC;SG
+남자친구	nòvio	남자친구	nòvio	N	N;MASC;SG
+조엘	joel	조엘	joel		
+루프트한자	lufthansa	루프트한자	lufthansa		
+보트	embarcacions	보트	embarcació	N	N;FEM;PL
+보트	vaixells	보트	vaixell	N	N;MASC;PL
+보트	barques	보트	barca	N	N;FEM;PL
+보트	vaixell	보트	vaixell	N	N;MASC;SG
+대출	préstec	대출	préstec	N	N;MASC;SG
+대출	préstecs	대출	préstec	N	N;MASC;PL
+미녀	bellesa	미녀	bellesa	N	N;FEM;SG
+마사코	masako	마사코	masako		
+안경	ulleres	안경	ulleres	N	N;FEM;PL
+문화유산	patrimoni	문화유산	patrimoni	N	N;MASC;SG
+피자	pizza	피자	pizza		
+연인들	lovers	연인+들	lover	N	N;MASC
+연인들	amants	연인+들	amant	N	N;MASC;PL
+입력합니다	introdueix	입력+하+ㅂ니다	introduir	V	V;IND;SG;3;PRS;FIN
+실력	destresa	실력	destresa	N	N;FEM;SG
+지질학	geologia	지질학	geologia	N	N;FEM;SG
+청구	càrrecs	청구	càrrec	N	N;MASC;PL
+청구	facturació	청구	facturació	N	N;FEM;SG
+모자이크	mosaic	모자이크	mosaic		
+어휘	vocabulari	어휘	vocabulari	N	N;MASC;SG
+연금	pensió	연금	pensió	N	N;FEM;SG
+연금	pensions	연금	pensió	N	N;FEM;PL
+언급	mencions	언급	menció	N	N;FEM;PL
+조나단	jonathan	조나단	jonathan		
+뮤지션	músic	뮤지션	músic	N	N;MASC;SG
+뮤지션	músics	뮤지션	músic	N	N;MASC;PL
+보라색	porpra	보라색	porpra		
+컨텐츠	contingut	컨텐츠	contingut	N	N;MASC;SG
+오아시스	oasis	오아시스	oasi		
+명시적으로	explícitament	명시+적+으로	explícitament	ADV	ADV
+스쿼드	esquadra	스쿼드	esquadra	N	N;FEM;SG
+공감	reaccions	공감	reacció	N	N;FEM;PL
+공감	empatia	공감	empatre	N	N;FEM;SG
+공감	reacció	공감	reacció	N	N;FEM;SG
+커트	kurt	커트	kurt		
+권위	autoritat	권위	autoritat	N	N;FEM;SG
+엠마	emma	엠마	emma		
+카즈키	kazuki	카즈키	kazuki		
+채권	vincle	채권	vincle	N	N;MASC;SG
+채권	lligam	채권	lligam	N	N;MASC;SG
+사냥꾼	caçadors	사냥꾼	caçador	N	N;MASC;PL
+스트림	fluxos	스트림	flux	N	N;MASC;PL
+스트림	riera	스트림	riera	N	N;FEM;SG
+티아라	tia	티아+이+라	tia		
+연못	estany	연못	estany	N	N;MASC;SG
+연못	pond	연못	pond	N	N;MASC;SG
+무언가	quelcom	무엇+이+ㄴ가	quelcom		
+무언가	algo	무엇+이+ㄴ가	algo		
+게재	lliurament	게재	lliurament	N	N;MASC;SG
+변이	variació	변+이	variació	N	N;FEM;SG
+플루토늄	plutoni	플루토늄	plutoni	N	N;MASC;SG
+세로로	longitudinalment	세로+로	longitudinalment	ADV	ADV
+길버트	gilbert	길버트	gilbert		
+변속기	transmissió	변속기	transmissió	N	N;FEM;SG
+갑작스러운	abrupte	갑작스럽+ㄴ	abrupte	ADJ	ADJ;MASC;SG
+조수	marea	조수	marea		
+정체성	identitats	정체성	identitat	N	N;FEM;PL
+정체성	identitat	정체성	identitat	N	N;FEM;SG
+희생	sacrificis	희생	sacrifici	N	N;MASC;PL
+희생	sacrifici	희생	sacrifici	N	N;MASC;SG
+발급	reclamacions	발급	reclamació	N	N;FEM;PL
+발급	pretensions	발급	pretensió	N	N;FEM;PL
+유학생	estudiants	유학생	estudiant	N	N;PL
+유학생	alumnat	유학생	alumnat	N	N;MASC;SG
+유학생	alumnes	유학생	alumne	N	N;MASC;PL
+테러리스트	terroristes	테러리스트	terrorista	N	N;PL
+컴백	remuntada	컴백	remuntat	N	N;FEM;SG
+충격	xoc	충격	xoc	N	N;MASC;SG
+교차	cross	교차	cros		
+코로나	corona	코로나	corona		
+부두	vudú	부두	vudú		
+부두	moll	부두	moll		
+슬라이드	carrusel	슬라이드	carrusel		
+잠재적	potencial	잠재+적	potencial	N	N;MASC;SG
+검정색	black	검정색	black		
+검정색	negre	검정색	negre		
+풍자	sarcasme	풍자	sarcasme	N	N;MASC;SG
+풍자	sàtira	풍자	sàtira	N	N;FEM;SG
+가속	acceleració	가속	acceleració	N	N;FEM;SG
+테크노	tecno	테크노	tecno		
+상속	hereus	상속	hereu	N	N;MASC;PL
+상속	herència	상속	herència	N	N;FEM;SG
+맞춤법	ortografia	맞춤법	ortografia	N	N;FEM;SG
+시어도어	teodor	시어도+어	teodor		
+스노보드	snowboard	스노보드	snowboard	N	N;MASC;SG
+인스턴트	instant	인스턴트	instant		
+정치국	politburó	정치국	politburó	N	N;MASC;SG
+쇼크	xoc	쇼크	xoc	N	N;MASC;SG
+단말기	dispositiu	단말기	dispositiu	N	N;MASC;SG
+가와카미	kawakami	가와카미	kawakami		
+루키	lou	루키	loure		
+부드럽게	suaument	부드럽+게	suaument		
+묘사	descripció	묘사	descripció	N	N;FEM;SG
+제미니	gemini	제미+니	gemini		
+미란다	miranda	미라+ㄴ다	miranda		
+차이점	diff	차이점	diff		
+모리야마	moriyama	모리야마	moriyama		
+간섭	intervenció	간섭	intervenció	N	N;FEM;SG
+간섭	interferència	간섭	interferència	N	N;FEM;SG
+비너스	venus	비너스	vend		
+손상	desperfectes	손상	desperfecte	N	N;MASC;PL
+손상	danys	손상	dany	N	N;MASC;PL
+소매	minorista	소매	minorista		
+소매	mànigues	소매	màniga		
+소매	màniga	소매	màniga		
+호흡	alè	호흡	alè	N	N;MASC;SG
+호흡	respiració	호흡	respiració	N	N;FEM;SG
+경쟁력	competitivitat	경쟁력	competitivitat	N	N;FEM;SG
+캐럴	carol	캐+아+내+ㄹ	carol		
+캐럴	carroll	캐+아+내+ㄹ	carroll		
+긴자	ginza	긴자	ginza		
+침대	llits	침대	llit	N	N;MASC;PL
+침대	llit	침대	llit	N	N;MASC;SG
+카린	karin	카리+ㄴ	karar		
+악당	villà	악당	villà		
+사노	sano	사노	sano		
+휴식	break	휴식	break	N	N;MASC;SG
+휴식	descans	휴식	descans	N	N;MASC;SG
+휴식	descans	휴식	descans	N	N;MASC;SG
+리코	ricoh	리코	ricoh		
+똑바로	recta	똑바로	recta		
+똑바로	rectes	똑바로	recta		
+학술지	diari	학술지	diari	N	N;MASC;SG
+실리콘	silicona	실리콘	silicona		
+리에주	lieja	리에주	liejar		
+냉방	refrigeració	냉방	refrigeració	N	N;FEM;SG
+냉방	refredament	냉방	refredament	N	N;MASC;SG
+나카타	nakata	나카타	nakata		
+크리스티	christie	크리스티	christie		
+유리코	yuriko	유리코	yuriko		
+엑스포	expo	엑스포	expo		
+엑스포	expos	엑스포	expos		
+시체	cos	시체	cos	N	N;MASC;SG
+시체	cadàvers	시체	cadàver	N	N;MASC;PL
+시체	cadàver	시체	cadàver	N	N;MASC;SG
+거미	aranya	거미	aranya	N	N;FEM;SG
+거미	aranyes	거미	aranya	N	N;FEM;PL
+그릇	bol	그릇	bol		
+모델링	modelatge	모델링	modelatge	N	N;MASC;SG
+모델링	modelització	모델링	modelització	N	N;FEM;SG
+나카니시	nakanishi	나카니시	nakanishi		
+가축	ramaderia	가축	ramaderia	N	N;FEM;SG
+가축	bestiar	가축	bestiar	N	N;MASC;SG
+가축	boví	가축	boví	N	N;MASC;SG
+웨딩	boda	웨딩	boda	N	N;FEM;SG
+웨딩	casament	웨딩	casament	N	N;MASC;SG
+상점	botiga	상점	botiga	N	N;FEM;SG
+상점	botigues	상점	botiga	N	N;FEM;PL
+상점	comerços	상점	comerç	N	N;MASC;PL
+상점	botigues	상점	botiga	N	N;FEM;PL
+상점	botiga	상점	botiga	N	N;FEM;SG
+부재	absència	부재	absència	N	N;FEM;SG
+바꾸기	reemplaça	바꾸+기	reempllçar	V	V;IND;SG;3;PRS;FIN
+바꾸기	substitueix	바꾸+기	substituir	V	V;IND;SG;3;PRS;FIN
+바꾸기	canvia	바꾸+기	canviar	V	V;IND;SG;3;PRS;FIN
+바꾸기	permuta	바꾸+기	permutar	V	V;IND;SG;3;PRS;FIN
+바꾸기	canvia	바꾸+기	canviar	V	V;IND;SG;3;PRS;FIN
+분홍색	rosa	분홍색	rosa		
+요리사	chef	요리사	chef		
+말하기	parlant	말하+기	parlar	V	V;V.MSDR
+산술	aritmètica	산술	aritmètica	N	N;FEM;SG
+십자	cross	십자	cros		
+레일	baranes	레일	barana	N	N;FEM;PL
+간격	llacunes	간격	llacuna	N	N;FEM;PL
+요셉	josep	요셉	josep		
+요셉	joseph	요셉	joseph		
+커플	parella	커플	parella	N	N;FEM;SG
+불안	ansietat	불안	ansietat	N	N;FEM;SG
+퀸즈	queens	퀸즈	queen		
+프린터	impressió	프린터	impressió	N	N;FEM;SG
+프린터	impressora	프린터	impressora	N	N;FEM;SG
+프린터	impressores	프린터	impressora	N	N;FEM;PL
+터미네이터	terminator	터미레이터	terminator		
+인문학	humanitats	인문학	humanitat	N	N;FEM;PL
+채소	hortalisses	채소	hortalissa	N	N;FEM;PL
+채소	verdures	채소	verdura	N	N;FEM;PL
+채소	verdura	채소	verdurar	N	N;FEM;SG
+문구	text	문구	text	N	N;MASC;SG
+문구	frases	문구	frase	N	N;FEM;PL
+문구	papereria	문구	papereria	N	N;FEM;SG
+도마뱀	llangardaixos	도마뱀	llangardaix	N	N;MASC;PL
+무라타	murata	무라타	murata		
+바트	bart	바트	bart		
+소실	desaparició	소실	desaparició	N	N;FEM;SG
+클릭	clics	클릭	clic	N	N;MASC;PL
+하디	hardy	하디	hardy		
+벽화	murals	벽화	mural	N	N;MASC;PL
+메시	messi	메시	messi	N	N;MASC;SG
+다스	darth	다스	darth		
+노르딕	nordic	노르딕	nordic		
+신용	crèdit	신용	crèdit	N	N;MASC;SG
+야채	hortalisses	야채	hortalissa	N	N;FEM;PL
+야채	verdures	야채	verdura	N	N;FEM;PL
+야채	verdura	야채	verdurar	N	N;FEM;SG
+렌더링	renderització	렌더링	renderització	N	N;FEM;SG
+렌더링	representació	렌더링	representació	N	N;FEM;SG
+렌더링	representació	렌더링	representació	N	N;FEM;SG
+바이애슬론	biatló	바이애슬론	biatló	N	N;MASC;SG
+사각형	quadrat	사각형	quadrat		
+사각형	rectangle	사각형	rectangle		
+사각형	rectangular	사각형	rectangular		
+청소	neteja	청소	neteja	N	N;FEM;SG
+세미	semi	세미	semi		
+캐롤	carol	캐롤	carol		
+캐롤	carroll	캐롤	carroll		
+엘리	eli	엘리	ell		
+히로세	hirose	히로세	hirose		
+발효	fermentació	발효	fermentació	N	N;FEM;SG
+체리	cirera	체리	cirera		
+체리	cherry	체리	cherry		
+코덱	còdec	코덱	còdec	N	N;MASC;SG
+코덱	còdecs	코덱	còdec	N	N;MASC;PL
+경관	paisatge	경관	paisatge	N	N;MASC;SG
+퍼텐셜	potencial	퍼텐셜	potencial	N	N;MASC;SG
+생각하기	pensa	생각+하+기	pensar	V	V;IND;SG;3;PRS;FIN
+매력	encant	매력	encant	N	N;MASC;SG
+타카기	takagi	타카기	takagi		
+벨트	cinturons	벨트	cinturó	N	N;MASC;PL
+벨트	cinturó	벨트	cinturó	N	N;MASC;SG
+예의	cortesia	예의	cortesia	N	N;FEM;SG
+받았습니다	rebé	받+았+습니다	rebé	V	V;IND;SG;3;IPFV;FIN
+인플레이션	inflació	인플레이션	inflació	N	N;FEM;SG
+인질	ostatge	인질	ostatge	N	N;MASC;SG
+인질	hostatge	인질	hostatge	N	N;MASC;SG
+인질	ostatges	인질	ostatge	N	N;MASC;PL
+증언	testimoni	증언	testimoni	N	N;SG
+증언	testimoni	증언	testimoni	N	N;SG
+축하	celebracions	축하	celebració	N	N;FEM;PL
+축하	felicitació	축하	felicitació	N	N;FEM;SG
+축하	celebració	축하	celebració	N	N;FEM;SG
+바바	baba	바바	baba		
+관세	duanes	관세	duana	N	N;FEM;PL
+하이드	hyde	하이드	hyde		
+인사이드	inside	인사이드	inside		
+인사이드	endins	인사이드	endins		
+인사이드	dins	인사이드	dins		
+제네시스	genesis	제네시스	genèsie		
+스쿼시	esquaix	스쿼시	esquaix	N	N;FEM;SG
+냉각	refrigeració	냉각	refrigeració	N	N;FEM;SG
+냉각	refredament	냉각	refredament	N	N;MASC;SG
+냉각	refrigeració	냉각	refrigeració	N	N;FEM;SG
+레즈비언	lesbianes	레즈비언	lesbiana	N	N;FEM;PL
+램프	làmpada	램프	làmpat	N	N;FEM;SG
+램프	làmpades	램프	làmpada	N	N;FEM;PL
+포격	bombardeig	포격	bombardeig	N	N;MASC;SG
+영화관	teatres	영화관	teatre	N	N;MASC;PL
+영화관	teatre	영화관	teatre	N	N;MASC;SG
+레지옹	legió	레지옹	legió	N	N;FEM;SG
+풀기	extreu	풀+기	extreure	V	V;IND;SG;3;PRS;FIN
+풀기	resoldre	풀+기	resoldre	V	V;NFIN
+풀기	resol	풀+기	resoldre	V	V;IND;SG;3;PRS;FIN
+선샤인	solana	선샤인	solana		
+선샤인	sunshine	선샤인	sunshine		
+마스터즈	amos	마스터즈	amo	N	N;MASC;PL
+보내기	envia	보내+기	enviar	V	V;IND;SG;3;PRS;FIN
+위조	falsificador	위조	falsificador	N	N;MASC;SG
+위조	falsificació	위조	falsificació	N	N;FEM;SG
+위조	falsificacions	위조	falsificació	N	N;FEM;PL
+마사시	masashi	마사시	masashi		

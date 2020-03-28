@@ -1,0 +1,2981 @@
+loại	카테고리	loại	카테고리	N	N
+loại	범주	loại	범주	N	N
+loại	분류	loại	분류	N	N
+loại	종류	loại	종류	N	N
+loại	유형	loại	유형	N	N
+loại	유형	loại	유형	N	N
+loài	종족	loài	종족	N	N
+vật	동물들	vật	동물+들	N	N
+vật	동물	vật	동물	N	N
+vật	동물	vật	동물	N	N
+vật	동물학	vật	동물학	N	N
+chú	삼촌	chú	삼촌	N	N
+chú	아저씨	chú	아저씨	N	N
+học	공부하기	học	공부+하+기	V	V
+học	공부해	học	공부+하+어	V	V
+học	공부하기	học	공부+하+기	V	V
+người	사람	người	사람	N	N
+người	남자	người	남자	N	N
+người	남성	người	남성	N	N
+người	사람	người	사람	N	N
+người	국민	người	국민	N	N
+người	사람	người	사람	N	N
+người	사람들	người	사람+들	N	N
+kết	종료	kết	종료	N	N
+đầu	머리	đầu	머리	N	N
+đầu	원수	đầu	원수	N	N
+đầu	처음	đầu	처음	N	N
+ngoài	바깥	ngoài	바깥	N	N
+khoa	사이언스	khoa	사이언스		
+thuộc	듣기	thuộc	듣+기	V	V
+tiên	엘프	tiên	엘프	N	N
+hoa	꽃이	hoa	꽃+이	N	N
+hoa	꽃이	hoa	꽃+이	N	N
+ngày	데이트	ngày	데이트	N	N
+ngày	데이트	ngày	데이트	N	N
+ngày	하루	ngày	하루	N	N
+nam	남성	nam	남성	N	N
+nam	남성	nam	남성	N	N
+công	공격	công	공격	N	N
+công	공공	công	공공	N	N
+công	공개	công	공개	N	N
+công	공중	công	공중	N	N
+quốc	나라	quốc	나라	N	N
+quốc	국가	quốc	국가	N	N
+quân	육군	quân	육군	N	N
+quân	군대	quân	군대	N	N
+khi	언제쯤	khi	언제+쯤	N	N
+trung	미디어	trung	미디어	N	N
+trung	중간	trung	중간	N	N
+trung	중간	trung	중간	N	N
+trung	가운데	trung	가운데	N	N
+nhà	주택	nhà	주택	N	N
+nhà	주택	nhà	주택	N	N
+nhà	숙소	nhà	숙소	N	N
+nước	물이	nước	물+이	N	N
+thời	시간	thời	시간	N	N
+bản	버전	bản	버전	N	N
+tên	이름	tên	이름	N	N
+tên	이름	tên	이름	N	N
+hành	행동	hành	행동	N	N
+hành	활동	hành	활동	N	N
+hành	동작	hành	동작	N	N
+hành	액션	hành	액션	N	N
+đại	대령	đại	대령	N	N
+hiện	공연	hiện	공연	N	N
+chiến	전쟁	chiến	전쟁	N	N
+hình	그림	hình	그림	N	N
+hình	형태	hình	형태	N	N
+hình	모양	hình	모양	N	N
+nhân	곱셈	nhân	곱+과		
+nhân	핵심	nhân	핵심		
+nhân	코어	nhân	코어		
+pháp	프랑스인	pháp	프랑스인	N	N
+danh	수입	danh	수입	N	N
+danh	목록	danh	목록	N	N
+danh	명단	danh	명단	N	N
+tập	에피소드	tập	에피소드		
+tập	에피소드	tập	에피소드		
+nhiều	많은	nhiều	많+ㄴ	ADJ	ADJ
+chi	이유	chi	이유	N	N
+chi	원인	chi	원인	N	N
+vùng	지역	vùng	지역	N	N
+vùng	지방	vùng	지방	N	N
+vùng	지역	vùng	지역	N	N
+vùng	지대	vùng	지대	N	N
+vùng	영역	vùng	영역	N	N
+vùng	구역	vùng	구역	N	N
+vùng	영역	vùng	영역	N	N
+vùng	지역	vùng	지역	N	N
+tin	믿기	tin	믿+기		
+tin	신뢰	tin	신뢰		
+đồng	청동기	đồng	청동기	N	N
+viên	공원	viên	공원	N	N
+viên	총알	viên	총알	N	N
+viên	탄환	viên	탄환	N	N
+việc	직업	việc	직업	N	N
+bắc	북부	bắc	북부	N	N
+bắc	북쪽	bắc	북+쪽	N	N
+bắc	북부	bắc	북부	N	N
+tiểu	리틀	tiểu	리틀		
+khác	다르다	khác	다르+다	ADJ	ADJ
+khác	다른	khác	다르+ㄴ	ADJ	ADJ
+phân	비료	phân	비료	N	N
+phân	비료	phân	비료	N	N
+cao	높음	cao	높음	ADJ	ADJ
+tây	서양	tây	서양	N	N
+trường	학교	trường	학교	N	N
+trường	학교	trường	학교	N	N
+trường	학교는	trường	학교+는	N	N
+cùng	같은	cùng	같+ㄴ	ADJ	ADJ
+giải	풀기	giải	풀+기	V	V
+tiếng	영업시간	tiếng	영업+시간	N	N
+tiếng	시간	tiếng	시간	N	N
+tiếng	시간	tiếng	시간	N	N
+điểm	점수	điểm	점수	N	N
+điểm	점수	điểm	점수	N	N
+điểm	득점	điểm	득점	N	N
+điểm	점수	điểm	점수	N	N
+điểm	득점	điểm	득점	N	N
+phố	시내	phố	시내	N	N
+phố	도시	phố	도시	N	N
+phố	마을	phố	마을	N	N
+phố	도시	phố	도시	N	N
+phố	거리가	phố	거리+가	N	N
+phố	거리	phố	거리	N	N
+xuất	출력	xuất	출력	N	N
+xuất	수출	xuất	수출	N	N
+khu	부서	khu	부서	N	N
+khu	식민지	khu	식민지	N	N
+nhưng	그런데	nhưng	그런데	CONJ	CONJ
+nhưng	그러나	nhưng	그러나	CONJ	CONJ
+nhưng	하지만	nhưng	하지만	CONJ	CONJ
+cánh	날개	cánh	날개	N	N
+cánh	날개	cánh	날개	N	N
+bình	전지	bình	전지	N	N
+bình	배터리	bình	배터리	N	N
+bình	꽃병	bình	꽃병	N	N
+đội	분대	đội	분대	N	N
+đội	스쿼드	đội	스쿼드	N	N
+phần	섹션	phần	섹션	N	N
+phần	부분	phần	부분	N	N
+phần	부품	phần	부품	N	N
+phần	부품	phần	부품	N	N
+phần	부분	phần	부분	N	N
+dưới	아래쪽	dưới	아래+쪽	N	N
+dưới	아래	dưới	아래	N	N
+dưới	아래쪽	dưới	아래+쪽	N	N
+dưới	아래	dưới	아래	N	N
+quận	공지	quận	공지	N	N
+giới	세상	giới	세상	N	N
+giới	세계	giới	세계	N	N
+điều	것들	điều	것+들	N	N
+điều	사물	điều	사물	N	N
+thông	소나무	thông	소나무		
+thông	파인	thông	파인		
+bay	날아라	bay	날+아라		
+bay	플라이	bay	플라이		
+bay	플라잉	bay	플라잉		
+bay	날아라	bay	날+아라		
+bay	베이	bay	베이		
+bài	카드	bài	카드	N	N
+bài	카드	bài	카드	N	N
+lượng	에너지	lượng	에너지	N	N
+trước	퍼스트	trước	퍼스트		
+đức	독일인	đức	독일인	N	N
+đường	설탕	đường	설탕	N	N
+thêm	추가하기	thêm	추가+하+기	V	V
+thêm	추가하기	thêm	추가+하+기	V	V
+xem	보이기	xem	보이+기	V	V
+xem	보기	xem	보+기	V	V
+xem	보기	xem	보+기	V	V
+máy	머신	máy	머신	N	N
+máy	기계	máy	기계	N	N
+máy	주최	máy	주최	N	N
+máy	주최	máy	주최	N	N
+hoàng	왕자	hoàng	왕자	N	N
+dương	긍정	dương	긍정	N	N
+dương	긍정적	dương	긍정+적	N	N
+lực	전력	lực	전력	N	N
+lực	권력	lực	권력	N	N
+tính	계산하기	tính	계산+하+기	V	V
+ban	대략	ban	대략		
+cộng	플러스	cộng	플러스		
+nhận	받기	nhận	받+기	V	V
+nhận	받기	nhận	받+기	V	V
+ảnh	사진	ảnh	사진	N	N
+ảnh	그림	ảnh	그림	N	N
+ảnh	사진	ảnh	사진	N	N
+ảnh	그림	ảnh	그림	N	N
+ảnh	사진	ảnh	사진	N	N
+ảnh	사진들	ảnh	사진+들	N	N
+ảnh	사진	ảnh	사진	N	N
+ảnh	사진들	ảnh	사진+들	N	N
+ảnh	픽처스	ảnh	픽처스	N	N
+thái	태극권	thái	태극권	N	N
+hòa	평화	hòa	평화	N	N
+tổng	총액	tổng	총액	N	N
+tổng	전체	tổng	전체	N	N
+quyền	허가	quyền	허+가	N	N
+quyền	권리	quyền	권리	N	N
+gồm	포함됨	gồm	포함+되+ㄴ	V	V
+biển	해변	biển	해변	N	N
+thảo	회담	thảo	회담	N	N
+tranh	전쟁	tranh	전쟁	N	N
+tàu	선박	tàu	선박	N	N
+tàu	보트	tàu	보트	N	N
+nguyên	물질	nguyên	물질	N	N
+nguyên	재료	nguyên	재료	N	N
+nguyên	원자	nguyên	원자	N	N
+tạo	만들기	tạo	만들+기	V	V
+tạo	만들었습니다	tạo	만들+었+습니다	V	V
+tạo	만들기	tạo	만들+기	V	V
+tạo	만들기	tạo	만들+기	V	V
+tạo	생성하기	tạo	생성+하+기	V	V
+đặc	고체	đặc	고체	N	N
+trận	전투	trận	전투	N	N
+lịch	달력	lịch	달력	N	N
+lịch	달력	lịch	달력	N	N
+lịch	일정	lịch	일정	N	N
+lịch	예약	lịch	예약	N	N
+đạo	종교	đạo	종교	N	N
+đạo	도덕	đạo	도덕	N	N
+mặt	얼굴	mặt	얼굴	N	N
+mặt	얼굴들	mặt	얼굴+들	N	N
+mặt	얼굴	mặt	얼굴	N	N
+mặt	얼굴이	mặt	얼굴+이	N	N
+tinh	행성	tinh	행성	N	N
+vực	구역	vực	구역	N	N
+vực	영역	vực	영역	N	N
+vực	지역	vực	지역	N	N
+đất	지구	đất	지구	N	N
+đất	토양	đất	토양	N	N
+tới	도착했다	tới	도착+하+었+다	V	V
+luận	댓글	luận	댓글	N	N
+luận	논리학	luận	논리학	N	N
+luận	논리	luận	논리	N	N
+hải	매듭	hải	매듭	N	N
+hải	코스	hải	코스	N	N
+hải	과정	hải	과정	N	N
+làng	마을	làng	마을	N	N
+làng	마을	làng	마을	N	N
+nhật	일본어	nhật	일본+어		
+nhật	일본인	nhật	일본인		
+nhật	jap	nhật	jap		
+viết	쓰기	viết	쓰+기	V	V
+viết	글쓰기	viết	글쓰기	V	V
+viết	쓰기	viết	쓰+기	V	V
+viết	글쓰기	viết	글쓰기	V	V
+bảo	말했다	bảo	말하+었+다	V	V
+đơn	양식	đơn	양식	N	N
+điện	전력	điện	전력	N	N
+điện	전기	điện	전기	N	N
+điện	전기	điện	전기	N	N
+điện	전기	điện	전기	N	N
+bao	절대	bao	절대		
+bao	절대로	bao	절대로		
+bao	자루	bao	자루		
+nội	내부	nội	내부	N	N
+nội	내부	nội	내부	N	N
+thuật	마술	thuật	마술	N	N
+thuật	마법	thuật	마법	N	N
+tiêu	목표	tiêu	목표	N	N
+thiết	필요함	thiết	필요함	V	V
+gian	시간	gian	시간	N	N
+tướng	장군	tướng	장군	N	N
+tướng	일반	tướng	일반	N	N
+dùng	이용하기	dùng	이용+하+기	V	V
+dùng	사용하기	dùng	사용+하+기	V	V
+nói	말했다	nói	말하+었+다	V	V
+nói	말하기	nói	말하+기	V	V
+phủ	정부	phủ	정부	N	N
+phủ	오버레이	phủ	오버레이	N	N
+phòng	객실	phòng	객실	N	N
+đổi	사용하기	đổi	사용+하+기	V	V
+đổi	바뀌기	đổi	바뀌+기	V	V
+đổi	바꾸기	đổi	바꾸+기	V	V
+chuyển	바꾸기	chuyển	바꾸+기	V	V
+dịch	번역	dịch	번역		
+dịch	번역자	dịch	번역자		
+dịch	번역	dịch	번역		
+dịch	번역	dịch	번역		
+dịch	번역	dịch	번역		
+miền	도메인	miền	도메인	N	N
+miền	도메인	miền	도메인	N	N
+miền	영역	miền	영역	N	N
+tài	재능	tài	재능	N	N
+tài	탤런트	tài	탤런트	N	N
+tài	재능	tài	재능	N	N
+chất	물질	chất	물질	N	N
+chất	지정	chất	지정	N	N
+binh	군인	binh	군인	N	N
+binh	병사	binh	병사	N	N
+sáng	아침식사	sáng	아침+식사	N	N
+sáng	아침	sáng	아침	N	N
+sáng	조식	sáng	조식	N	N
+sáng	아침	sáng	아침	N	N
+thổ	터키인	thổ	터키인	N	N
+nơi	장소	nơi	장소	N	N
+cuối	마지막	cuối	마지막	N	N
+lưu	저장하기	lưu	저장+하+기	V	V
+viện	연구소	viện	연구소	N	N
+viện	병원	viện	병원	N	N
+nổi	유명	nổi	유명		
+đặt	선택하기	đặt	선택+하+기	V	V
+chim	새들	chim	새+들	N	N
+chim	조류	chim	조류	N	N
+bóng	그림자	bóng	그림자	N	N
+bóng	그림자	bóng	그림자	N	N
+chương	프로그램	chương	프로그램	N	N
+nghệ	예술적	nghệ	예술+적	N	N
+báo	신문	báo	신문	N	N
+mục	상품	mục	상품	N	N
+mục	항목	mục	항목	N	N
+mục	품목	mục	품목	N	N
+mục	아이템	mục	아이템	N	N
+mục	항목	mục	항목	N	N
+mục	항목	mục	항목	N	N
+mục	폴더	mục	폴더	N	N
+mục	디렉터리	mục	디렉터리	N	N
+tìm	찾기	tìm	찾+기	V	V
+tìm	검색하기	tìm	검색+하+기	V	V
+tìm	찾기	tìm	찾+기	V	V
+bạn	친구	bạn	친구	N	N
+hữu	주인	hữu	주인		
+thay	바뀌기	thay	바뀌+기	V	V
+thay	바꾸기	thay	바꾸+기	V	V
+nhóm	집단	nhóm	집단	N	N
+phẩm	걸작	phẩm	걸작	N	N
+quả	결과	quả	결과	N	N
+giá	가격	giá	가격	N	N
+giá	가격	giá	가격	N	N
+giá	가치	giá	가치	N	N
+giá	가치	giá	가치	N	N
+giá	가치가	giá	가치+가	N	N
+nhiệt	더위	nhiệt	더위	N	N
+nhiệt	온도	nhiệt	온도	N	N
+cứu	저장하기	cứu	저장+하+기	V	V
+lớp	계층	lớp	계층	N	N
+lớp	학급	lớp	학급	N	N
+lớp	계급	lớp	계급	N	N
+lớp	클래스	lớp	클래스	N	N
+lớp	수업	lớp	수업	N	N
+thương	부상당한	thương	부상+당하+ㄴ	V	V
+tiền	돈이	tiền	돈+이	N	N
+triều	법정	triều	법정	N	N
+triều	재판소	triều	재판소	N	N
+triều	왕조	triều	왕조	N	N
+tuổi	연령	tuổi	연령	N	N
+tuổi	나이	tuổi	나이	N	N
+chân	발발	chân	발발	N	N
+đời	생명	đời	생명	N	N
+đời	생활	đời	생활	N	N
+đời	인생	đời	인생	N	N
+mùa	계절	mùa	계절	N	N
+mùa	계절	mùa	계절	N	N
+nguồn	출처	nguồn	출처	N	N
+nguồn	출처	nguồn	출처	N	N
+đóng	닫아	đóng	닫+아	V	V
+thắng	승리	thắng	승리	N	N
+thắng	우승자	thắng	우승자	N	N
+thắng	승자	thắng	승자	N	N
+thắng	우승	thắng	우승	N	N
+thắng	승리	thắng	승리	N	N
+khí	무기	khí	무기	N	N
+khí	무기	khí	무기	N	N
+khí	항공	khí	항공	N	N
+khí	공기	khí	공기	N	N
+hạng	클래스	hạng	클래스	N	N
+hạng	수업	hạng	수업	N	N
+hạng	학급	hạng	학급	N	N
+hạng	계급	hạng	계급	N	N
+hạng	클래스	hạng	클래스	N	N
+hạng	수업	hạng	수업	N	N
+hướng	방향	hướng	방향	N	N
+hướng	방향	hướng	방향	N	N
+hướng	지향	hướng	지향	N	N
+huy	명령	huy	명령	N	N
+huy	명령어	huy	명령+어	N	N
+huy	사령부	huy	사령부	N	N
+cây	식물	cây	식물	N	N
+cây	식물학	cây	식물학	N	N
+cây	나무	cây	나무	N	N
+cây	나무들	cây	나무+들	N	N
+cây	나무	cây	나무	N	N
+thư	편지	thư	편지	N	N
+thư	우편	thư	우편	N	N
+thư	편지	thư	편지	N	N
+thư	편지	thư	편지	N	N
+cảnh	경찰	cảnh	경찰	N	N
+cảnh	경찰관	cảnh	경찰관	N	N
+cảnh	장면	cảnh	장면	N	N
+cảnh	장면	cảnh	장면	N	N
+cảnh	경고	cảnh	경+고	N	N
+nga	러시아인	nga	러시아인	N	N
+nga	러시아인	nga	러시아인	N	N
+thi	시험	thi	시험	N	N
+thi	시험	thi	시험	N	N
+phép	허가	phép	허+가	N	N
+mật	비밀	mật	비밀	N	N
+câu	문장	câu	문장	N	N
+câu	문장	câu	문장	N	N
+ghi	쓰기	ghi	쓰+기	V	V
+ghi	글쓰기	ghi	글쓰기	V	V
+ghi	쓰기	ghi	쓰+기	V	V
+ghi	글쓰기	ghi	글쓰기	V	V
+giả	거짓	giả	거짓		
+giả	가짜	giả	가짜		
+giả	허위	giả	허위		
+giả	가짜	giả	가짜		
+kích	레인저스	kích	레인저스	N	N
+kích	레인저	kích	레인저	N	N
+ngữ	언어	ngữ	언어	N	N
+đài	라디오방송	đài	라디오방송	N	N
+tượng	객체	tượng	객체	N	N
+tượng	개체	tượng	개체	N	N
+tượng	물체	tượng	물체	N	N
+tượng	천체	tượng	천체	N	N
+tượng	동상	tượng	동상	N	N
+tượng	조각상	tượng	조각상	N	N
+tượng	동상	tượng	동상	N	N
+tượng	조각상	tượng	조각상	N	N
+đảng	파티	đảng	파티	N	N
+nhập	입력하기	nhập	입력+하+기	V	V
+nhập	입력합니다	nhập	입력+하+ㅂ니다	V	V
+nhập	입력하기	nhập	입력+하+기	V	V
+hạt	입자	hạt	입자	N	N
+hạt	곡식	hạt	곡식	N	N
+hạt	입자	hạt	입자	N	N
+chết	죽는다	chết	죽+는다	V	V
+lạc	접촉	lạc	접촉	N	N
+lạc	연락처	lạc	연락처	N	N
+trần	지붕	trần	지붕	N	N
+mẫu	템플릿	mẫu	템플릿	N	N
+mẫu	형태	mẫu	형태	N	N
+mẫu	양식	mẫu	양식	N	N
+mẫu	패턴	mẫu	패턴	N	N
+mẫu	표본	mẫu	표본	N	N
+mẫu	샘플링	mẫu	샘플링	N	N
+mẫu	샘플	mẫu	샘플	N	N
+mẫu	템플릿	mẫu	템플릿	N	N
+tất	스타킹	tất	스타킹		
+mạnh	강한	mạnh	강하+ㄴ	ADJ	ADJ
+trái	왼쪽	trái	왼쪽		
+bán	판매하기	bán	판매+하+기	V	V
+bán	팔렸다	bán	팔리+었+다	V	V
+rộng	넓은	rộng	넓+ㄴ	ADJ	ADJ
+rộng	넓은	rộng	넓+ㄴ	ADJ	ADJ
+thuyết	이론	thuyết	이론	N	N
+album	앨범	album	앨범	N	N
+album	음반	album	음반	N	N
+album	앨범	album	앨범	N	N
+album	음반	album	음반	N	N
+album	레코드	album	레코드	N	N
+album	녹음	album	녹음	N	N
+album	녹화	album	녹화	N	N
+album	기록	album	기록	N	N
+giờ	영업시간	giờ	영업+시간	N	N
+giờ	시간	giờ	시간	N	N
+giờ	지금	giờ	지금	N	N
+giờ	시간	giờ	시간	N	N
+núi	산악	núi	산악	N	N
+lấy	받기	lấy	받+기	V	V
+luật	규칙	luật	규칙	N	N
+luật	법칙	luật	법칙	N	N
+luật	법률	luật	법률	N	N
+luật	법학	luật	법학	N	N
+luật	법칙	luật	법칙	N	N
+luật	규칙	luật	규칙	N	N
+luật	법률	luật	법률	N	N
+đoạn	문단	đoạn	문단	N	N
+đoạn	단락	đoạn	단락	N	N
+môi	입술	môi	입술	N	N
+môi	입술	môi	입술	N	N
+biên	국경	biên	국경	N	N
+biên	경계	biên	경계	N	N
+nhện	거미	nhện	거미	N	N
+nhện	거미	nhện	거미	N	N
+pháo	전지	pháo	전지	N	N
+pháo	배터리	pháo	배터리	N	N
+pháo	대포	pháo	대포	N	N
+nha	치과	nha	치+과		
+nha	치과	nha	치+과		
+tay	무기	tay	무기	N	N
+tay	핸드	tay	핸드	N	N
+rồi	그렇다면	rồi	그렇다면	CONJ	CONJ
+rồi	그러면	rồi	그러면	CONJ	CONJ
+chia	공유해	chia	공유+하+어	V	V
+chia	공유하기	chia	공유+하+기	V	V
+tiết	세부사항	tiết	세부+사항	N	N
+phạm	범죄자	phạm	범죄자	N	N
+phạm	범죄자	phạm	범죄자	N	N
+chọn	선택하기	chọn	선택+하+기	V	V
+chọn	선택하기	chọn	선택+하+기	V	V
+bàn	데스크	bàn	데스크	N	N
+bàn	책상	bàn	책상	N	N
+bàn	데스크	bàn	데스크	N	N
+bàn	책상	bàn	책상	N	N
+đai	벨트	đai	벨트	N	N
+đai	추방	đai	추방	N	N
+phiên	세션	phiên	세션	N	N
+phiên	버전	phiên	버전	N	N
+phiên	세션	phiên	세션	N	N
+chứng	인증서	chứng	인증서	N	N
+chứng	목격자	chứng	목격자	N	N
+chứng	증인	chứng	증인	N	N
+chứng	증언	chứng	증언	N	N
+bệnh	질병	bệnh	질병	N	N
+vòng	주위	vòng	주위	N	N
+vòng	주변	vòng	주변	N	N
+phái	전송	phái	전송	N	N
+phái	송신기	phái	송신기	N	N
+đào	무덤	đào	무덤	N	N
+tốt	좋다	tốt	좋+다	ADJ	ADJ
+lệnh	커맨드	lệnh	커맨드		
+lệnh	지휘	lệnh	지휘		
+chữ	텍스트	chữ	텍스트	N	N
+chữ	문자	chữ	문자	N	N
+chữ	문구	chữ	문구	N	N
+chữ	편지	chữ	편지	N	N
+chữ	편지	chữ	편지	N	N
+lợi	혜택	lợi	혜택	N	N
+mặc	입고	mặc	입+고	V	V
+tuyến	선형	tuyến	선형	N	N
+hạn	한계	hạn	한계	N	N
+hạn	제한	hạn	제한	N	N
+gốc	원본	gốc	원본		
+gốc	오리지널	gốc	오리지널		
+rêu	이끼	rêu	이끼	N	N
+ninh	안보	ninh	안보	N	N
+ninh	보안	ninh	보안	N	N
+vàng	황색	vàng	황색	N	N
+vàng	노랑색	vàng	노랑색	N	N
+hàn	용접	hàn	용접	N	N
+khách	참석자	khách	참석자	N	N
+khách	방문자	khách	방문자	N	N
+khách	방문객	khách	방문객	N	N
+khách	방문자	khách	방문자	N	N
+khách	방문객	khách	방문객	N	N
+khách	참석자	khách	참석자	N	N
+khách	손님들	khách	손님+들	N	N
+thơ	시인	thơ	시인	N	N
+thơ	문학	thơ	문학	N	N
+linh	정신적	linh	정신+적	N	N
+trai	소년	trai	소년	N	N
+trai	남자아이	trai	남자아+이	N	N
+trai	아들	trai	아들	N	N
+cải	선물	cải	선물	N	N
+nông	목장	nông	목장	N	N
+nông	농부	nông	농부	N	N
+tức	즉석	tức	즉석		
+tức	인스턴트	tức	인스턴트		
+tức	즉시	tức	즉시		
+bảng	패널	bảng	패널	N	N
+bảng	보드	bảng	보드	N	N
+bảng	게시판	bảng	게시판	N	N
+bảng	이사회	bảng	이사회	N	N
+chiều	오후	chiều	오후	N	N
+chiều	차원	chiều	차원	N	N
+chiều	차원	chiều	차원	N	N
+lương	급여	lương	급+여	N	N
+lương	월급	lương	월급	N	N
+mét	발발	mét	발발	N	N
+chu	chu	chu	chu		
+ước	소원	ước	소원		
+quần	바지	quần	바지	N	N
+quần	바지	quần	바지	N	N
+trụ	실린더	trụ	실린더	N	N
+style	스타일	style	스타일		
+giai	멜로디	giai	멜로디		
+american	미국인	american	미국인	N	N
+toán	수학	toán	수학	N	N
+toán	수학	toán	수학	N	N
+toán	수학	toán	수학	N	N
+truyện	이야기	truyện	이야기	N	N
+truyện	스토리	truyện	스토리	N	N
+truyện	소식	truyện	소식	N	N
+truyện	독서	truyện	독서	N	N
+truyện	스토리	truyện	스토리	N	N
+truyện	소식	truyện	소식	N	N
+khởi	시작하기	khởi	시작+하+기	V	V
+thờ	교회	thờ	교회	N	N
+cha	아버지	cha	아버지	N	N
+nhanh	빠른	nhanh	빠르+ㄴ	ADJ	ADJ
+nhanh	빠르다	nhanh	빠르+다	ADJ	ADJ
+giấy	용지	giấy	용지	N	N
+thấp	낮은	thấp	낮+ㄴ	ADJ	ADJ
+thấp	낮음	thấp	낮+ㅁ	ADJ	ADJ
+kiểu	종류	kiểu	종류	N	N
+kiểu	유형	kiểu	유형	N	N
+súng	무기	súng	무기	N	N
+súng	총기	súng	총기	N	N
+tối	어둠	tối	어둠	N	N
+tối	저녁식사	tối	저녁+식사	N	N
+tối	저녁	tối	저녁	N	N
+tối	저녁	tối	저녁	N	N
+giảm	줄이기	giảm	줄이+기	V	V
+gái	소녀	gái	소녀	N	N
+gái	소녀	gái	소녀	N	N
+gái	소녀들	gái	소녀+들	N	N
+gái	걸스	gái	걸스	N	N
+mạch	서킷	mạch	서킷	N	N
+mạch	회로	mạch	회로	N	N
+mạch	맥박	mạch	맥박	N	N
+mạch	펄스	mạch	펄스	N	N
+mắt	눈빛	mắt	눈빛	N	N
+cáo	여우	cáo	여우	N	N
+sửa	편집하기	sửa	편집+하+기	V	V
+lửa	화재	lửa	화재	N	N
+lửa	불화	lửa	불화	N	N
+trương	감독	trương	감독	N	N
+nặng	무거운	nặng	무겁+ㄴ	ADJ	ADJ
+chuyện	이야기	chuyện	이야기	N	N
+chuyện	스토리	chuyện	스토리	N	N
+chuyện	소식	chuyện	소식	N	N
+tín	전보	tín	전보	N	N
+ngành	업계	ngành	업계	N	N
+ngành	산업	ngành	산업	N	N
+đọc	읽기	đọc	읽+기	V	V
+đọc	읽는다	đọc	읽+는다	V	V
+đọc	읽고	đọc	읽+고	V	V
+đọc	읽고	đọc	읽+고	V	V
+đọc	읽기	đọc	읽+기	V	V
+kéo	끌기	kéo	끌+기	V	V
+chứa	포함함	chứa	포함+하+ㅁ	V	V
+chứa	포함됨	chứa	포함+되+ㄴ	V	V
+trục	샤프트	trục	샤프트	N	N
+xin	부탁합니다	xin	부탁+하+ㅂ니다	V	V
+saint	세인트	saint	세인트		
+mực	잉크	mực	잉크	N	N
+trời	하늘	trời	하늘	N	N
+ngắn	짧은	ngắn	짧+ㄴ	ADJ	ADJ
+thạch	도전	thạch	도전	N	N
+phúc	행복	phúc	행복	N	N
+sâu	깊은	sâu	깊+ㄴ	ADJ	ADJ
+khó	어려운	khó	어렵+ㄴ	ADJ	ADJ
+cục	fbi	cục	fbi		
+kịch	극적	kịch	극+적	N	N
+trạng	조건	trạng	조건	N	N
+club	클럽	club	클럽		
+top	top	top	top		
+hàm	함수	hàm	함수	N	N
+ngô	옥수수	ngô	옥수수	N	N
+phật	부처	phật	부처	N	N
+phật	부처님	phật	부처+님	N	N
+nghi	의심스럽다	nghi	의심+스럽+다	V	V
+vốn	관심사	vốn	관심사	N	N
+vốn	관심	vốn	관심	N	N
+vốn	자본	vốn	자본	N	N
+vốn	자본주의	vốn	자본주의	N	N
+hùng	영웅	hùng	영웅	N	N
+sóng	파동	sóng	파동	N	N
+hiểu	이해하기	hiểu	이해+하+기	V	V
+hiểu	알아듣기	hiểu	알+아+있+기	V	V
+nuôi	올리기	nuôi	올리+기	V	V
+thú	동물원	thú	동물원	N	N
+đạn	총알	đạn	총알	N	N
+đạn	탄약	đạn	탄약	N	N
+xóa	지우기	xóa	지우+기	V	V
+xóa	삭제하기	xóa	삭제+하+기	V	V
+xóa	지우기	xóa	지우+기	V	V
+xóa	지우기	xóa	지우+기	V	V
+xóa	삭제하기	xóa	삭제+하+기	V	V
+kính	안경	kính	안경	N	N
+lược	포괄적	lược	포괄+적	N	N
+tội	유죄	tội	유죄	N	N
+tội	무죄	tội	무죄	N	N
+liệt	양고기	liệt	양고기	N	N
+liệt	마비	liệt	마비	N	N
+băng	얼음	băng	얼+음	N	N
+trưng	밝기	trưng	밝+기	N	N
+mua	구매하기	mua	구매+하+기	V	V
+bật	사용하기	bật	사용+하+기	V	V
+họa	재난	họa	재난	N	N
+khối	정육면체	khối	정육+면체	N	N
+khối	차단	khối	차단	N	N
+tầm	범위	tầm	범위	N	N
+chùa	신전	chùa	신전	N	N
+chùa	사원	chùa	사원	N	N
+group	그룹	group	그룹		
+lính	군인	lính	군인	N	N
+lính	병사	lính	병사	N	N
+tần	지방	tần	지방	N	N
+tần	지역	tần	지역	N	N
+thao	작동	thao	작동	N	N
+thao	작전	thao	작전	N	N
+loạt	면적	loạt	면적		
+thịt	고기	thịt	고기	N	N
+thịt	육체	thịt	육체	N	N
+suất	공연	suất	공연	N	N
+suất	성능	suất	성능	N	N
+xanh	청색	xanh	청색	N	N
+khóa	잠금	khóa	잠금	N	N
+khóa	잠금	khóa	잠금	N	N
+mối	위협	mối	위협	N	N
+thuốc	의학	thuốc	의학	N	N
+thuốc	알약	thuốc	알약	N	N
+thuốc	마약	thuốc	마약	N	N
+thuốc	약물	thuốc	약물	N	N
+thuốc	의약품	thuốc	의약품	N	N
+đúng	올바른	đúng	올바르+ㄴ	ADJ	ADJ
+ngân	은행	ngân	은행	N	N
+siêu	슈퍼	siêu	슈퍼		
+siêu	메타데이터	siêu	메타데이터		
+video	비디오	video	비디오	N	N
+video	비디오	video	비디오	N	N
+cường	브라우징	cường	브라우징	N	N
+gray	그레이	gray	그레이		
+đương	기둥	đương	기둥		
+bom	폭탄	bom	폭탄	N	N
+bom	폭탄	bom	폭탄	N	N
+nghe	듣기	nghe	듣+기	V	V
+nghe	듣기	nghe	듣+기	V	V
+ngựa	말들	ngựa	말+들	N	N
+chỗ	장소	chỗ	장소	N	N
+thăng	헬리콥터	thăng	헬리콥터	N	N
+thăng	헬기	thăng	헬기	N	N
+giác	감각	giác	감각	N	N
+tai	타이	tai	타이		
+bước	스텝	bước	스텝		
+bước	걸음	bước	걸음		
+bước	스텝	bước	스텝		
+bước	걸음	bước	걸음		
+cát	모래시계	cát	모래+시계	N	N
+vinh	명예	vinh	명예	N	N
+dầu	석유	dầu	석유	N	N
+kháng	승강기	kháng	승강기	N	N
+mạc	사막	mạc	사막	N	N
+đẹp	아름다운	đẹp	아름답+ㄴ	ADJ	ADJ
+đẹp	아름답다	đẹp	아름답+다	ADJ	ADJ
+cai	청소	cai	청소	N	N
+phí	요금	phí	요금	N	N
+phí	수수료	phí	수수료	N	N
+phí	수수료	phí	수수료	N	N
+cấm	차단됨	cấm	차단+되+ㄴ	V	V
+nâng	올리기	nâng	올리+기	V	V
+hủy	취소됨	hủy	취소+되+ㄴ	V	V
+hủy	취소됨	hủy	취소+되+ㄴ	V	V
+cảng	항구	cảng	항구	N	N
+cảng	항구	cảng	항구	N	N
+cảng	항구	cảng	항구	N	N
+phê	커피	phê	커피		
+hoá	소화	hoá	소화	N	N
+cắt	자르기	cắt	자르+기	V	V
+bưu	우표	bưu	우표	N	N
+đền	신전	đền	신전	N	N
+đền	사원	đền	사원	N	N
+đỉnh	인기	đỉnh	인기	N	N
+nghề	직업	nghề	직업	N	N
+nghề	직업	nghề	직업	N	N
+bão	태풍	bão	태풍	N	N
+bão	폭풍	bão	폭풍	N	N
+file	파일	file	파일	N	N
+voi	엘리펀츠	voi	엘리펀츠		
+voi	코끼리	voi	코끼리		
+voi	코끼리	voi	코끼리		
+nghĩ	생각하기	nghĩ	생각+하+기	V	V
+quyển	공책	quyển	공책		
+thác	폭포	thác	폭포	N	N
+thác	폭포	thác	폭포	N	N
+game	게임	game	게임	N	N
+game	경기	game	경기	N	N
+gửi	보내기	gửi	보내+기	V	V
+gửi	보내기	gửi	보내+기	V	V
+gửi	제출합니다	gửi	제출+하+ㅂ니다	V	V
+nhớ	기억해	nhớ	기억+하+어	V	V
+nhớ	기억하기	nhớ	기억+하+기	V	V
+nhớ	기억하라	nhớ	기억+하+라	V	V
+thoát	끝내기	thoát	끝내+기	V	V
+thoát	끝내기	thoát	끝내+기	V	V
+thuyền	보트	thuyền	보트	N	N
+thuyền	보트	thuyền	보트	N	N
+dây	로프	dây	로프	N	N
+dây	밧줄	dây	밧줄	N	N
+dây	로프	dây	로프	N	N
+dây	밧줄	dây	밧줄	N	N
+dây	철사	dây	철사	N	N
+dây	배선	dây	배선	N	N
+league	동맹	league	동맹	N	N
+league	리그	league	리그	N	N
+phan	크누드	phan	크누드		
+vịnh	해협	vịnh	해협	N	N
+kênh	채널	kênh	채널	N	N
+kênh	채널	kênh	채널	N	N
+soạn	쓰기	soạn	쓰+기	V	V
+soạn	작성하기	soạn	작성+하+기	V	V
+bậc	아래쪽	bậc	아래+쪽	N	N
+bậc	아래	bậc	아래	N	N
+điền	채우기	điền	채우+기	V	V
+quỹ	파운데이션	quỹ	파운데이션	N	N
+quỹ	기금	quỹ	기금	N	N
+quỹ	펀드	quỹ	펀드	N	N
+chồng	남편	chồng	남편	N	N
+dọc	수직	dọc	수직	N	N
+dọc	수직	dọc	수직	N	N
+dạy	가르침	dạy	가르치+ㅁ	V	V
+dạy	가르쳐	dạy	가르치+어	V	V
+máu	혈액	máu	혈액	N	N
+thù	복수	thù	복수	N	N
+lông	깃털	lông	깃털	N	N
+lông	깃털	lông	깃털	N	N
+săn	사냥	săn	사냥	N	N
+săn	사냥	săn	사냥	N	N
+hungary	헝가리인	hungary	헝가리+이+ㄴ	N	N
+quê	출신지	quê	출신지	N	N
+quê	농부	quê	농부	N	N
+mũi	콧구멍	mũi	콧구멍	N	N
+tri	트라이	tri	트라이		
+cẩm	통화	cẩm	통화	N	N
+cẩm	전화	cẩm	전화	N	N
+cẩm	호출	cẩm	호출	N	N
+hài	코미디	hài	코미디	N	N
+hài	희극	hài	희극	N	N
+hài	유머	hài	유머	N	N
+chó	개들	chó	개+들	N	N
+thước	통치자	thước	통치자	N	N
+ném	던지기	ném	던지기	V	V
+ném	던지기	ném	던지기	V	V
+rơi	떨어지지	rơi	떨어지+지	V	V
+rơi	떨어지는	rơi	떨어지+는	V	V
+rơi	떨어지고	rơi	떨어지+고	V	V
+rơi	떨어지는	rơi	떨어지+는	V	V
+kém	나쁜	kém	나쁘+ㄴ	ADJ	ADJ
+kém	나쁘다	kém	나쁘+다	ADJ	ADJ
+huyền	서사시	huyền	서사시	N	N
+chinh	교차	chinh	교차		
+chinh	십자	chinh	십자		
+chinh	크로스	chinh	크로스		
+simon	시몬	simon	시몬		
+simon	사이몬	simon	사이몬		
+simon	사이먼	simon	사이먼		
+đuôi	꼬리	đuôi	꼬리	N	N
+đuôi	꼬리	đuôi	꼬리	N	N
+chợ	시장	chợ	시장	N	N
+lỗi	오류	lỗi	오류	N	N
+lỗi	곤충	lỗi	곤충	N	N
+lỗi	오류	lỗi	오류	N	N
+lôi	끌기	lôi	끌+기	V	V
+thăm	방문하기	thăm	방문+하+기	V	V
+món	요리	món	요리	N	N
+món	접시	món	접시	N	N
+ống	터치	ống	터치	N	N
+ống	튜브	ống	튜브	N	N
+khăn	타월	khăn	타월	N	N
+khăn	수건	khăn	수건	N	N
+khăn	타월	khăn	타월	N	N
+khăn	수건	khăn	수건	N	N
+cừu	양고기	cừu	양고기	N	N
+nhiễm	감염된	nhiễm	감염+되+ㄴ	V	V
+cụm	클러스터	cụm	클러스터	N	N
+cụm	성단	cụm	성단	N	N
+cụm	클러스터	cụm	클러스터	N	N
+george	조지	george	조지		
+george	죠지	george	죠지		
+air	에어	air	에어		
+đinh	사슬	đinh	사슬	N	N
+đinh	연쇄	đinh	연쇄	N	N
+david	다윗	david	다윗		
+david	데이빗	david	데이빗		
+đồn	평판	đồn	평판	N	N
+rượu	주류	rượu	주류	N	N
+góc	각도	góc	각도	N	N
+phu	부인	phu	부인	N	N
+phu	사모님	phu	사모님	N	N
+paul	파울로스	paul	파울로스		
+paul	파울로	paul	파울+로		
+paul	바울	paul	바울		
+paul	파울	paul	파울		
+phạt	페널티	phạt	페널티	N	N
+phạt	벌금	phạt	벌금	N	N
+phạt	처벌	phạt	처벌	N	N
+chị	여동생	chị	여동생	N	N
+thịnh	아바타	thịnh	아바타	N	N
+lam	완료	lam	완료	N	N
+hoài	달성	hoài	달성	N	N
+internet	인터넷	internet	인터넷		
+tấm	패널	tấm	패널	N	N
+nóng	뜨거운	nóng	뜨겁+ㄴ	ADJ	ADJ
+lạnh	춥다	lạnh	춥+다	ADJ	ADJ
+lạnh	차가운	lạnh	차갑+ㄴ	ADJ	ADJ
+trốn	숨기기	trốn	숨기+기	V	V
+bottom	밑바닥	bottom	밑+바닥		
+bottom	하단	bottom	하단		
+bottom	바닥	bottom	바닥		
+nhi	아들	nhi	아들	N	N
+thầy	마스터스	thầy	마스터스	N	N
+thầy	교사	thầy	교사	N	N
+thầy	스승	thầy	스승	N	N
+vui	해피	vui	해피		
+vui	행복하다	vui	행복+하+다		
+cháu	조카	cháu	조카	N	N
+cháu	손자	cháu	손자	N	N
+site	사이트	site	사이트		
+canh	국물	canh	국물	N	N
+thuế	세금	thuế	세금	N	N
+thuế	세금	thuế	세금	N	N
+dày	두껍게	dày	두껍+게	ADJ	ADJ
+dày	두꺼운	dày	두껍+ㄴ	ADJ	ADJ
+love	러브	love	러브		
+đợt	배치	đợt	배치	N	N
+đợt	일괄	đợt	일괄	N	N
+anime	애니메이션	anime	애니메이션		
+giọng	목소리	giọng	목소리	N	N
+giọng	음성	giọng	음성	N	N
+michael	마이클	michael	마이클		
+michael	미카엘	michael	미카엘		
+cặp	커플	cặp	커플	N	N
+cặp	부부	cặp	부부	N	N
+thảm	이불	thảm	이불	N	N
+lưới	격자	lưới	격자	N	N
+than	불평	than	불평		
+than	목탄	than	목탄		
+đốt	굽기	đốt	굽+기	V	V
+trứng	달걀	trứng	달걀	N	N
+trứng	달걀	trứng	달걀	N	N
+chuột	생쥐	chuột	생쥐	N	N
+chuột	생쥐	chuột	생쥐	N	N
+tùng	매장	tùng	매장	N	N
+tùng	상점	tùng	상점	N	N
+one	하나	one	하나		
+tim	하트	tim	하트		
+điệu	무용	điệu	무용	N	N
+nho	포도	nho	포도		
+nho	포도	nho	포도		
+nho	포도	nho	포도		
+smith	스미스	smith	스미스		
+ireland	아일랜드	ireland	아일랜드		
+dũng	용기	dũng	용기	N	N
+nguyện	기도	nguyện	기도	N	N
+nguyện	자원봉사자	nguyện	자원+봉사자	N	N
+nguyện	자원봉사	nguyện	자원+봉사	N	N
+rau	채소	rau	채소	N	N
+rau	야채	rau	야채	N	N
+rau	채소	rau	채소	N	N
+rau	야채	rau	야채	N	N
+nâu	갈색	nâu	갈색	N	N
+thomas	토마스	thomas	토마스		
+cháy	굽기	cháy	굽+기	V	V
+hộp	상자	hộp	상자	N	N
+hộp	상자	hộp	상자	N	N
+hộp	카트리지	hộp	카트리+지	N	N
+park	공원	park	공원	N	N
+airlines	항공	airlines	항공	N	N
+airlines	항공사	airlines	항공사	N	N
+đực	남성	đực	남성	N	N
+huệ	유죄	huệ	유죄	N	N
+tóc	머리카락	tóc	머리카락	N	N
+tóc	머리	tóc	머리	N	N
+tóc	머리카락이	tóc	머리카락+이	N	N
+ngừng	멈추기	ngừng	멈추+기	V	V
+ngự	수면	ngự	수면	N	N
+ngự	삼총사	ngự	삼총사	N	N
+tung	나이프	tung	나이프		
+hoan	언덕	hoan	언덕		
+manga	만화	manga	만화	N	N
+manga	만화가	manga	만화+가	N	N
+dược	약국	dược	약국	N	N
+dược	약학	dược	약학	N	N
+tokyo	동경	tokyo	동경		
+hang	케이브	hang	케이브		
+thép	강철	thép	강철	N	N
+thép	스틸	thép	스틸	N	N
+single	싱글	single	싱글		
+single	단일	single	단일		
+page	페이지	page	페이지		
+thả	떨어뜨리기	thả	떨어뜨리+기	V	V
+ngồi	앉아	ngồi	앉+아	V	V
+kèm	포함됨	kèm	포함+되+ㄴ	V	V
+bột	반죽을	bột	반죽+을	N	N
+bột	반죽이	bột	반죽+이	N	N
+bột	반죽	bột	반죽	N	N
+chậm	느린	chậm	느리+ㄴ	ADJ	ADJ
+chậm	느리게	chậm	느리+게	ADJ	ADJ
+xong	완료되었습니다	xong	완료+되+었+습니다	V	V
+quen	익숙한	quen	익숙+하+ㄴ	V	V
+mồi	미끼	mồi	미끼	N	N
+richard	리차드	richard	리차드		
+khoáng	광물	khoáng	광물	N	N
+quế	계피	quế	계피	N	N
+thiền	명상	thiền	명상	N	N
+ếch	개구리	ếch	개구리	N	N
+ếch	개구리	ếch	개구리	N	N
+lằn	도마뱀	lằn	도마뱀	N	N
+hồn	영혼	hồn	영혼	N	N
+white	하얀	white	하얗+ㄴ		
+white	화이트	white	화이트		
+white	흰색	white	흰+색		
+white	하얀색	white	하얀색		
+santa	산타	santa	산타		
+tour	투어	tour	투+어	N	N
+tour	관광	tour	관광	N	N
+tour	구경	tour	구경	N	N
+tour	여행	tour	여행	N	N
+thang	승리	thang	승리	N	N
+thang	우승자	thang	우승자	N	N
+thang	승자	thang	승자	N	N
+hằng	꼴찌	hằng	꼴찌		
+hằng	갠지스	hằng	갠지스		
+tựa	타이틀	tựa	타이틀		
+sáp	떨어지지	sáp	떨어지+지	V	V
+sáp	떨어지는	sáp	떨어지+는	V	V
+https	https	https	https		
+xích	사슬	xích	사슬	N	N
+xích	사슬	xích	사슬	N	N
+xích	연쇄	xích	연쇄	N	N
+sữa	우유	sữa	우유	N	N
+dong	세트	dong	세트		
+peter	피터	peter	피터		
+dừng	멈추기	dừng	멈추+기	V	V
+bụi	먼지	bụi	먼지	N	N
+duyệt	둘러보기	duyệt	둘러보+기	V	V
+men	효모	men	효모	N	N
+xấu	나쁜	xấu	나쁘+ㄴ	ADJ	ADJ
+xấu	나쁘다	xấu	나쁘+다	ADJ	ADJ
+kho	웨어하우스	kho	웨어하우스	N	N
+kho	지팡이	kho	지팡이	N	N
+kho	사탕수수	kho	사탕수수	N	N
+kho	주식	kho	주식	N	N
+trầm	익사	trầm	익사	N	N
+bọc	포장	bọc	포장	N	N
+huyết	혈액	huyết	혈액	N	N
+chăn	이불	chăn	이불	N	N
+bia	맥주	bia	맥주	N	N
+bia	맥주	bia	맥주	N	N
+cói	그들	cói	그+들	N	N
+billboard	간판	billboard	간판	N	N
+billboard	빌보드	billboard	빌보드	N	N
+sạch	순수한	sạch	순수+하+ㄴ	V	V
+sạch	깨끗하다	sạch	깨끗하+다	V	V
+cổng	포털	cổng	포털	N	N
+cổng	항구	cổng	항구	N	N
+entertainment	오락	entertainment	오락	N	N
+nét	무작위	nét	무작위	N	N
+nét	랜덤	nét	랜덤	N	N
+hẹp	좁은	hẹp	좁+ㄴ	ADJ	ADJ
+hẹp	좁다	hẹp	좁+다	ADJ	ADJ
+nấm	곰팡이	nấm	곰팡이	N	N
+nấm	곰팡이	nấm	곰팡이	N	N
+màng	스트림	màng	스트림	N	N
+chuỗi	문자열	chuỗi	문자열	N	N
+chuỗi	스레드	chuỗi	스레드	N	N
+chuỗi	대화	chuỗi	대화	N	N
+chuỗi	문자열	chuỗi	문자열	N	N
+khung	프레임	khung	프레임	N	N
+khung	액자	khung	액자	N	N
+khung	프레임	khung	프레임	N	N
+ngã	폭포	ngã	폭포	N	N
+vết	추적	vết	추적	N	N
+vết	흔적	vết	흔적	N	N
+vết	트랙	vết	트랙	N	N
+vết	추적	vết	추적	N	N
+vết	트레일	vết	트레일	N	N
+vết	흔적	vết	흔적	N	N
+vết	트랙	vết	트랙	N	N
+suối	스트림	suối	스트림	N	N
+tảng	디버거	tảng	디버거		
+org	org	org	org		
+mây	구름	mây	구름	N	N
+mây	구름	mây	구름	N	N
+mây	구름	mây	구름	N	N
+mark	표시	mark	표시		
+mark	마르크	mark	마르크		
+mark	마크	mark	마크		
+lúa	옥수수	lúa	옥수수	N	N
+lúa	곡식	lúa	곡식	N	N
+hiền	친구	hiền	친구	N	N
+day	데이	day	데이		
+gai	성장	gai	성장	N	N
+gai	증가	gai	증가	N	N
+xám	회색	xám	회색	N	N
+xám	회색	xám	회색	N	N
+bàng	독수리	bàng	독수리	N	N
+thẻ	태그	thẻ	태그	N	N
+thẻ	레이블	thẻ	레이블	N	N
+thẻ	라벨	thẻ	라벨	N	N
+thẻ	태그	thẻ	태그	N	N
+thẻ	카드	thẻ	카드	N	N
+thẻ	카드	thẻ	카드	N	N
+tang	애도	tang	애도		
+hot	덥다	hot	덥+다		
+hot	hot	hot	hot		
+hot	뜨겁다	hot	뜨겁+다		
+guitar	기타	guitar	기타	N	N
+british	영국인	british	영국인	N	N
+centre	중앙	centre	중앙	N	N
+records	레코드	records	레코드	N	N
+bội	배신	bội	배신	N	N
+viêm	급성	viêm	급성	N	N
+young	영영	young	영영		
+hầm	볼트	hầm	볼트	N	N
+phế	쓰레기	phế	쓰레+기	N	N
+max	맥스	max	맥스		
+max	막스	max	막스		
+ong	꿀벌	ong	꿀벌	N	N
+kín	닫아	kín	닫+아	V	V
+miếu	신사	miếu	신사	N	N
+chuông	공지	chuông	공지	N	N
+nhấn	누르기	nhấn	누르+기	V	V
+nhấn	누르기	nhấn	누르+기	V	V
+radio	라디오	radio	라디오		
+auto	자동	auto	자동	N	N
+ghế	소파	ghế	소파	N	N
+ghế	벤치	ghế	벤치	N	N
+ghế	의자	ghế	의자	N	N
+show	표시	show	표시		
+note	노트	note	노트		
+note	참고	note	참+고		
+taylor	테일러	taylor	테일러		
+đèn	조명	đèn	조명	N	N
+đèn	램프	đèn	램프	N	N
+đèn	전등	đèn	전등	N	N
+đèn	램프	đèn	램프	N	N
+thỏ	토끼	thỏ	토끼	N	N
+thỏ	토끼	thỏ	토끼	N	N
+thỏ	토끼	thỏ	토끼	N	N
+đòn	뇌졸중	đòn	뇌+투중	N	N
+live	라이브	live	라이브		
+trộn	섞어	trộn	섞+어	V	V
+nhãn	레이블	nhãn	레이블	N	N
+nhãn	라벨	nhãn	라벨	N	N
+nhãn	레이블	nhãn	레이블	N	N
+nhãn	라벨	nhãn	라벨	N	N
+harry	해리	harry	해리		
+harry	헤리	harry	헤리		
+pic	pic	pic	pic		
+mìn	광산	mìn	광산	N	N
+mìn	지뢰	mìn	지뢰	N	N
+online	온라인	online	오르+아+이+ㄴ		
+thuỷ	마녀	thuỷ	마녀	N	N
+dải	줄무늬	dải	줄무늬	N	N
+vol	vol	vol	vol		
+hitler	히틀러	hitler	히틀러		
+virginia	버지니아	virginia	버지니아		
+sợi	섬유	sợi	섬유	N	N
+brown	브라운	brown	브라+ㄴ		
+mùi	냄새	mùi	냄새	N	N
+mùi	냄새	mùi	냄새	N	N
+xóm	이웃들	xóm	이웃+들	N	N
+xóm	이웃	xóm	이웃	N	N
+xóm	이웃	xóm	이웃	N	N
+xóm	이웃집	xóm	이웃집	N	N
+dâm	명시적	dâm	명시+적	N	N
+đáy	아래쪽	đáy	아래+쪽	N	N
+đáy	아래	đáy	아래	N	N
+dịp	행사	dịp	행사	N	N
+cáp	케이블	cáp	케이블	N	N
+pierre	피에르	pierre	피에르		
+disney	디즈니	disney	디즈니		
+sườn	갈비뼈	sườn	갈비뼈	N	N
+real	진짜	real	진짜	N	N
+nhầm	잘못된	nhầm	잘못+되+ㄴ	V	V
+hưu	은퇴	hưu	은퇴	N	N
+hưu	퇴직	hưu	퇴직	N	N
+ruột	자매들	ruột	자매+들	N	N
+ruột	창자	ruột	창자	N	N
+tiềm	위협	tiềm	위협	N	N
+division	사단	division	사단	N	N
+division	디비전	division	디비전	N	N
+nút	노드	nút	노드	N	N
+virus	바이러스	virus	바이러스		
+virus	바이러스	virus	바이러스		
+frank	프랭크	frank	프랭크		
+móng	손톱	móng	손톱	N	N
+móng	신발	móng	신발	N	N
+gạch	벽돌	gạch	벽돌	N	N
+gạch	벽돌	gạch	벽돌	N	N
+điêu	파괴	điêu	파괴	N	N
+hâm	열정적인	hâm	열정+적+이+ㄴ	V	V
+mary	메리	mary	메리		
+mary	마리아	mary	마리아		
+code	부호	code	부호	N	N
+hỏng	파괴됨	hỏng	파괴+되+ㄴ	V	V
+hỏng	손상된	hỏng	손상+되+ㄴ	V	V
+olympic	올림픽	olympic	올림픽	N	N
+mau	빠른	mau	빠르+ㄴ	ADJ	ADJ
+mau	빠르다	mau	빠르+다	ADJ	ADJ
+táng	매장	táng	매장	N	N
+táng	장례	táng	장례	N	N
+ray	레이	ray	레이		
+chôn	묻어	chôn	묻+어	V	V
+cong	곡선	cong	곡선		
+serbia	세르비아인	serbia	세르비아인	N	N
+nhựa	아스팔트	nhựa	아스팔트	N	N
+nhựa	성형	nhựa	성형	N	N
+model	모델	model	모델	N	N
+model	모형	model	모형	N	N
+hôi	악취	hôi	악취	N	N
+williams	윌리암스	williams	윌리암스		
+calais	칼레	calais	칼레	N	N
+mộng	악몽	mộng	악몽	N	N
+mộng	악몽	mộng	악몽	N	N
+mạo	방화	mạo	방화	N	N
+tràn	넘쳐	tràn	넘치+어	V	V
+quỷ	악마	quỷ	악마	N	N
+quỷ	악마	quỷ	악마	N	N
+quỷ	악마	quỷ	악마	N	N
+newton	뉴턴	newton	뉴턴		
+gói	번들	gói	번+들	N	N
+microsoft	마이크로소프트	microsoft	마이크로소프트	N	N
+apple	사과	apple	사과		
+apple	애플	apple	애플		
+times	타임스	times	타임스		
+times	타임즈	times	타임즈		
+nhạt	가벼운	nhạt	가볍+ㄴ	ADJ	ADJ
+albert	앨버트	albert	앨버트		
+elizabeth	엘리사벳	elizabeth	엘리+사경		
+edition	에디션	edition	에디션		
+euro	유로	euro	유+로		
+tết	브레이드	tết	브레이드	N	N
+latin	라틴	latin	라틴		
+tôm	새우	tôm	새우	N	N
+tôm	새우	tôm	새우	N	N
+vải	약물	vải	약물	N	N
+vải	의약품	vải	의약품	N	N
+vải	약품	vải	약품	N	N
+vải	마약	vải	마약	N	N
+opera	오페라	opera	오페라		
+múa	무용	múa	무용	N	N
+túi	가방	túi	가방	N	N
+túi	지갑	túi	지갑	N	N
+túi	가방	túi	가방	N	N
+khỉ	유인원	khỉ	유인원	N	N
+khỉ	유인원	khỉ	유인원	N	N
+part	파트	part	파트		
+dốc	경사	dốc	경사	N	N
+christian	크리스천	christian	크리스천		
+christian	크리스찬	christian	크리스찬		
+line	라인	line	라인		
+khe	슬롯	khe	슬롯	N	N
+gen	유전자	gen	유전자	N	N
+film	필름	film	필름	N	N
+film	영화	film	영화	N	N
+cua	크랩	cua	크랩		
+bìa	커버	bìa	커버		
+bìa	덮개	bìa	덮개		
+bìa	표지	bìa	표지		
+hill	언덕	hill	언덕		
+ngực	흉부	ngực	흉부	N	N
+ngực	가슴이	ngực	가슴+이	N	N
+ngực	가슴	ngực	가슴	N	N
+ngực	가슴	ngực	가슴	N	N
+ngực	유방	ngực	유방	N	N
+ngực	가슴	ngực	가슴	N	N
+jack	젝스키스	jack	젝스키스		
+hoành	바퀴	hoành	바퀴	N	N
+ngon	좋다	ngon	좋+다	ADJ	ADJ
+levi	레비	levi	레비		
+levi	리바이	levi	리바+이		
+sói	늑대	sói	늑대	N	N
+sói	늑대들	sói	특대+들	N	N
+sói	늑대	sói	늑대	N	N
+phiến	반군	phiến	반군	N	N
+yến	연회	yến	연회	N	N
+gan	간간	gan	간간		
+gan	간디	gan	간디		
+mốc	랜드마크	mốc	랜드마크	N	N
+mốc	곰팡이	mốc	곰팡이	N	N
+mốc	이정표	mốc	이정표	N	N
+protein	단백질	protein	단백질	N	N
+protein	단백질	protein	단백질	N	N
+marie	마리야	marie	말리+아야		
+marie	마리	marie	마리		
+daniel	다니엘	daniel	다니엘		
+daniel	대니얼	daniel	대니+란		
+romania	루마니아인	romania	루마니아인	N	N
+boeing	보잉	boeing	보잉	N	N
+arthur	아서	arthur	아서		
+scott	스캇	scott	스캇		
+art	아트	art	아트		
+nhã	벤더	nhã	벤더	N	N
+nhã	제조사	nhã	제조사	N	N
+mini	미니	mini	미니		
+rose	장미	rose	장미		
+rose	로즈	rose	로즈		
+ướt	젖은	ướt	젖+ㄴ	V	V
+ướt	젖어	ướt	젖+어	V	V
+champions	챔피언	champions	챔피언	N	N
+giấu	숨기기	giấu	숨기+기	V	V
+xoá	지우	xoá	지우		
+xoá	지워	xoá	지우+어		
+field	필드	field	필드		
+field	현장	field	현장		
+sốt	소스	sốt	소스		
+chuyền	목걸이	chuyền	목걸+이	N	N
+đính	넥타이	đính	넥타이		
+ngón	손가락	ngón	손가락		
+marshall	마샬	marshall	마샬		
+tiệc	파티	tiệc	파티	N	N
+youtube	유튜브	youtube	유튜브	N	N
+youtube	유투브	youtube	유투브	N	N
+mix	믹스	mix	믹스		
+mix	혼합	mix	혼합		
+rửa	씻기	rửa	씻+기	V	V
+rửa	씻어	rửa	씻+어	V	V
+rửa	씻기	rửa	씻+기	V	V
+khói	연기	khói	연기	N	N
+khói	담배	khói	담배	N	N
+cst	cst	cst	cst		
+nộp	제출합니다	nộp	제출+하+ㅂ니다	V	V
+kép	듀얼	kép	듀+얼	N	N
+ngục	던전	ngục	던전	N	N
+georgia	조지아어	georgia	조지아어		
+vii	vii	vii	vi+지		
+hươu	사슴	hươu	사슴	N	N
+chris	크리스	chris	크리스		
+rùa	거북	rùa	거북	N	N
+củi	나무	củi	나무	N	N
+củi	목재	củi	목재	N	N
+lứa	화재	lứa	화재	N	N
+lứa	불화	lứa	불화	N	N
+rào	울타리	rào	울타리	N	N
+muộn	늦게	muộn	늦+게	ADJ	ADJ
+girl	소녀	girl	소녀	N	N
+son	립스틱	son	립스틱	N	N
+son	아들	son	아들	N	N
+spring	봄이	spring	봄+이		
+spring	스프링	spring	스프링		
+perry	페리	perry	페리		
+nén	컴팩트	nén	컴팩트		
+nén	콤팩트	nén	콤팩트		
+lựu	석류	lựu	석류	N	N
+rác	휴지통	rác	휴지통	N	N
+rác	쓰레기	rác	쓰레+기	N	N
+rác	쓰레기	rác	쓰레+기	N	N
+turner	터너	turner	터너		
+massachusetts	매사추세츠	massachusetts	매사+세리츠	N	N
+thùng	쟁반	thùng	쟁반	N	N
+gốm	도자기	gốm	도자기	N	N
+gốm	도자기	gốm	도자기	N	N
+gốm	도자기	gốm	도자기	N	N
+béo	지방	béo	지방	N	N
+đệm	쿠션	đệm	쿠션	N	N
+đệm	매트리스	đệm	매트리스	N	N
+đệm	버퍼	đệm	버퍼	N	N
+nồi	화분	nồi	화분	N	N
+buồng	남성	buồng	남성	N	N
+roi	roi	roi	roi		
+ham	성욕	ham	성욕	N	N
+stone	스톤	stone	스톤		
+union	동맹	union	동맹	N	N
+union	연맹	union	연맹	N	N
+union	연합	union	연합	N	N
+phổi	폐지	phổi	폐지	N	N
+street	스트리트	street	스트리트		
+street	길거리	street	길거리		
+ngai	상속	ngai	상속	N	N
+bad	바스	bad	바스		
+bad	욕조	bad	욕조		
+nhẫn	반지	nhẫn	반지	N	N
+nhẫn	소환	nhẫn	소환	N	N
+nhẫn	반지	nhẫn	반지	N	N
+central	중부	central	중부		
+central	센트럴	central	센트렇+ㄹ		
+sét	라이트닝	sét	라이트닝	N	N
+sét	번개	sét	번개	N	N
+rider	라이더	rider	라이더		
+usa	usa	usa	usa		
+wild	와일드	wild	와일드		
+lùn	짧은	lùn	짧+ㄴ	ADJ	ADJ
+antonio	안토니오	antonio	안토니오		
+sút	떨어지지	sút	떨어지+지	V	V
+sút	떨어지는	sút	떨어지+는	V	V
+khâu	바늘	khâu	바늘	N	N
+studio	스튜디오	studio	스튜디오		
+oanh	시베리아	oanh	시베리아		
+champagne	샴페인	champagne	샴페인		
+nhũng	부정부패	nhũng	부정+부패	N	N
+nhũng	부패	nhũng	부패	N	N
+trù	습관	trù	습관	N	N
+batman	배트맨	batman	배트맨	N	N
+clark	클라크	clark	클라크		
+khoá	잠금	khoá	잠금	N	N
+khoá	잠금	khoá	잠금	N	N
+khóc	울었다	khóc	울+었+다	V	V
+battle	배틀	battle	배틀		
+đeo	입고	đeo	입+고	V	V
+nắng	태양	nắng	태양	N	N
+nắng	햇빛	nắng	햇빛	N	N
+nắng	햇빛	nắng	햇빛	N	N
+lãi	관심사	lãi	관심사	N	N
+lãi	관심	lãi	관심	N	N
+xén	자르기	xén	자르+기	V	V
+army	육군	army	육군	N	N
+army	군대	army	군대	N	N
+anna	안나	anna	안나		
+nhung	레이스	nhung	레이스		
+nhung	벨벳	nhung	벨벳		
+xấp	동전	xấp	동전		
+pin	전지	pin	전지	N	N
+pin	배터리	pin	배터리	N	N
+pin	전지	pin	전지	N	N
+pin	배터리	pin	배터리	N	N
+dệt	직물	dệt	직물	N	N
+dệt	섬유	dệt	섬유	N	N
+dệt	직물	dệt	직물	N	N
+eric	에릭	eric	에릭		
+trùm	수행	trùm	수행	N	N
+hoạ	기술자	hoạ	기술자	N	N
+hoạ	공학자	hoạ	공학자	N	N
+open	내셔널스	open	내셔널스		
+miller	밀러	miller	밀+러		
+fox	폭스	fox	폭스		
+andrew	안드레아	andrew	안드레아		
+cacbon	탄소	cacbon	탄소	N	N
+las	라스	las	라스		
+ali	알리	ali	알리		
+ali	ali	ali	ali		
+norman	노르만	norman	노르만		
+heart	하트	heart	하트		
+trắc	프로그램	trắc	프로그램	N	N
+key	키키	key	키키		
+has	하스	has	하스		
+bếp	부엌	bếp	부엌	N	N
+bếp	부엌	bếp	부엌	N	N
+bếp	주방	bếp	주방	N	N
+madonna	성모	madonna	성모	N	N
+cưỡng	저항	cưỡng	저항	N	N
+sudan	수단	sudan	수단	N	N
+victor	빅터	victor	빅터		
+adam	아담	adam	아담		
+adam	애덤	adam	애덤		
+ngu	멍청한	ngu	멍청+하+ㄴ	V	V
+liều	위험	liều	위험	N	N
+liều	리스크	liều	리스크	N	N
+natri	나트륨	natri	나트륨	N	N
+denis	데니스	denis	데니스		
+den	덴덴	den	덴덴		
+per	피어	per	피+어		
+per	동료	per	동료		
+stephen	스티븐	stephen	스티븐		
+empire	엠파이어	empire	엠파+이+어		
+herbert	허버트	herbert	허버트		
+nếp	주름이	nếp	주름+이	N	N
+road	도로	road	도로		
+road	로드	road	로드		
+bóc	훔쳐	bóc	훔치+어	V	V
+solo	솔로	solo	솔+로		
+khát	갈증	khát	갈증		
+khát	목마른	khát	목마르+ㄴ		
+player	재생기	player	재생기	N	N
+player	선수	player	선수	N	N
+gừng	생강	gừng	생강	N	N
+wolf	늑대	wolf	늑대	N	N
+bắp	옥수수	bắp	옥수수	N	N
+bắp	양배추	bắp	양배추	N	N
+alan	알렌	alan	알렌		
+alan	알란	alan	알+란		
+foundation	파운데이션	foundation	파운데이션	N	N
+banks	뱅크	banks	뱅크		
+banks	뱅크스	banks	뱅크스		
+bùn	진흙	bùn	진흙	N	N
+jane	제인	jane	제인		
+sọc	줄무늬	sọc	줄무늬	N	N
+boys	보이스	boys	보이스		
+boy	보이	boy	보이		
+short	짧게	short	짧+게		
+short	쇼트	short	쇼트		
+digital	디지털	digital	디지털	N	N
+port	항구	port	항구	N	N
+luồng	스트리밍	luồng	스트리밍		
+luồng	플로	luồng	플로		
+luồng	플로우	luồng	플로우		
+luồng	흐름	luồng	흐름		
+luồng	스트리밍	luồng	스트리밍		
+luồng	흐름	luồng	흐름		
+howard	하워드	howard	하워드		
+giày	신발	giày	신발	N	N
+giày	장화	giày	장화	N	N
+giày	부츠	giày	부츠	N	N
+giày	신발	giày	신발	N	N
+giày	구두	giày	구두	N	N
+tony	토니	tony	토니		
+est	est	est	est		
+warren	워렌	warren	워렌		
+mệt	피곤한	mệt	피곤+하+ㄴ	V	V
+ten	기어	ten	기+어		
+steve	스티브	steve	스티브		
+set	세트	set	세트		
+kennedy	케네디	kennedy	케네디		
+format	포맷	format	포맷	N	N
+visual	시각	visual	시각	N	N
+chì	연필	chì	연필	N	N
+quà	선물	quà	선물	N	N
+quà	선물	quà	선물	N	N
+robin	로빈과	robin	로빈+과		
+robin	로빈	robin	로빈		
+studios	스튜디오스	studios	스튜디오스		
+studios	스튜디오	studios	스튜디오		
+nhục	수치	nhục	수치	N	N
+swift	스위프트	swift	스위프트		
+electron	전자	electron	전자	N	N
+prince	왕자	prince	왕자	N	N
+harrison	해리슨	harrison	해리슨		
+garden	가든	garden	가든		
+garden	정원	garden	정원		
+thiếp	엽서	thiếp	엽서	N	N
+thiếp	엽서	thiếp	엽서	N	N
+ngõ	골목	ngõ	골목	N	N
+bank	은행	bank	은행	N	N
+gordon	고든	gordon	고든		
+mike	마이크	mike	마이크		
+cruz	크루즈	cruz	크루즈	N	N
+wright	라이트	wright	라이트		
+plan	플랜	plan	플랜		
+thắt	두배	thắt	두배		
+thính	청각	thính	청각	N	N
+runtime	런타임	runtime	셀타임	N	N
+dark	다크	dark	다크		
+robot	로봇	robot	로봇	N	N
+robot	로봇	robot	로봇	N	N
+loa	스피커	loa	스피커	N	N
+loa	스피커	loa	스피커	N	N
+greene	그린	greene	그리+ㄴ		
+butler	버틀러	butler	버틀러		
+logic	논리학	logic	논리학	N	N
+logic	논리	logic	논리	N	N
+get	get	get	get		
+nón	모자	nón	모자	N	N
+galaxy	은하	galaxy	은하	N	N
+linux	리눅스	linux	리눅스	N	N
+alice	앨리스	alice	앨리스		
+view	보기	view	보+기	V	V
+nelson	넬슨	nelson	넬슨		
+anthony	앤서니	anthony	뛰서+니		
+russell	러셀	russell	러셀		
+đắt	비싼	đắt	비싸+ㄴ	ADJ	ADJ
+râu	수염	râu	수염	N	N
+râu	수염	râu	수염	N	N
+lát	타일	lát	타이+ㄹ		
+lát	타일	lát	타이+ㄹ		
+lát	슬라이스	lát	슬라이스		
+lát	슬라이스	lát	슬라이스		
+warner	워너	warner	워너		
+vitamin	부족	vitamin	부족	N	N
+vitamin	비타민	vitamin	비타민	N	N
+vitamin	비타민	vitamin	비타민	N	N
+tem	우표	tem	우표	N	N
+tem	우표	tem	우표	N	N
+festival	페스티벌	festival	페스티벌		
+powell	파월	powell	파월		
+trưa	정오	trưa	정오	N	N
+kevin	케빈	kevin	케빈		
+xăng	가솔린	xăng	가솔린	N	N
+xăng	가솔린	xăng	가솔린	N	N
+xăng	가스	xăng	가스	N	N
+nắp	인기	nắp	인기	N	N
+andré	앙드레	andré	앙드레		
+caption	자막	caption	자막	N	N
+caption	문구	caption	문구	N	N
+caption	설명	caption	설명	N	N
+chiên	튀김	chiên	튀김	N	N
+vảy	저울	vảy	저우+ㄹ	N	N
+aviation	항공	aviation	항공	N	N
+nova	노바	nova	노바		
+rãnh	트랙	rãnh	트랙	N	N
+rãnh	추적	rãnh	추적	N	N
+rãnh	트랙	rãnh	트랙	N	N
+mesa	메사	mesa	메사		
+korea	코리아	korea	코리아		
+ôxy	산소	ôxy	산소	N	N
+admin	운영자	admin	운영자		
+phơi	사용함	phơi	사용+하+ㅁ	V	V
+phơi	사용됨	phơi	사용+되+ㄴ	V	V
+cover	커버	cover	커버		
+cover	덮개	cover	덮개		
+cover	표지	cover	표지		
+carter	카터	carter	카터		
+keo	접착제	keo	접착제	N	N
+keo	접착제	keo	접착제	N	N
+gold	골드	gold	골드		
+gold	황금	gold	황금		
+họng	목구멍	họng	목구멍	N	N
+barbara	바바라	barbara	바바+라		
+jim	다짐	jim	다짐		
+lượn	순회	lượn	순회	N	N
+chuồng	새장	chuồng	새장	N	N
+samurai	사무라이	samurai	사무라이		
+sáo	플루트	sáo	플루트	N	N
+leader	리더	leader	리더		
+giường	침대	giường	침대	N	N
+giường	침대	giường	침대	N	N
+chồn	선택	chồn	선택	N	N
+flower	꽃이	flower	꽃+이	N	N
+beach	해변	beach	해변	N	N
+soul	영혼	soul	영혼	N	N
+bernard	베르나르드	bernard	베르나르드		
+bernard	버나드	bernard	버나드		
+thầu	입찰	thầu	입찰	N	N
+nọc	파운데이션	nọc	파운데이션	N	N
+collins	콜린스	collins	콜린스		
+ralph	랄프	ralph	랄프		
+baby	베이비	baby	베이비		
+baby	아기	baby	아기		
+head	헤드	head	헤드		
+trễ	늦게	trễ	늦+게	ADJ	ADJ
+patrick	패트릭	patrick	패트릭		
+final	기말고사	final	기말고사	N	N
+final	결승전	final	결승전	N	N
+tao	타오	tao	타오		
+turbine	터빈	turbine	터빈	N	N
+marine	마린	marine	마리+ㄴ		
+arena	아레나	arena	아레+나		
+raymond	레이몬드	raymond	레이몬드		
+len	양털	len	양털		
+case	대소문자	case	대소문자		
+khoác	외투	khoác	외투	N	N
+quặng	광석	quặng	광석	N	N
+rich	부자	rich	부자		
+kelly	켈리	kelly	켈리		
+nhôm	알루미늄	nhôm	알루미늄	N	N
+nhôm	알루미늄	nhôm	알루미늄	N	N
+fort	포트	fort	포트		
+fort	요새	fort	요새		
+pink	분홍색	pink	분홍색		
+pink	분홍	pink	분홍		
+pink	핑크	pink	핑크		
+yuri	유리	yuri	유리		
+xbox	엑스박스	xbox	엑스박스	N	N
+rung	흔들리기	rung	흔들리+기	V	V
+samuel	사무엘	samuel	사무엘		
+run	떨리는	run	떨리+는		
+box	상자	box	상자	N	N
+chày	야구	chày	야구	N	N
+dixon	딕슨	dixon	딕슨		
+sky	스카이	sky	스카이		
+sky	클라우드	sky	클라우드		
+choi	최다	choi	최다	N	N
+cook	요리사	cook	요리사		
+steven	스티븐	steven	스티븐		
+mass	매스	mass	매스		
+mass	대량	mass	대량		
+march	행진곡	march	행진곡		
+khốc	울음	khốc	울음		
+harris	해리스	harris	해리스		
+standard	스탠더드	standard	스탠더드		
+standard	표준	standard	표준		
+wing	날개	wing	날개	N	N
+dưa	피클	dưa	피클	N	N
+miles	마일스	miles	마일스		
+miles	마일리지	miles	마일리+지		
+miles	마일	miles	마일		
+miles	마일리	miles	마일리		
+miles	마일즈	miles	마일즈		
+gene	유전자	gene	유전자	N	N
+gởi	보내기	gởi	보내+기	V	V
+catherine	캐서린	catherine	캐+서+이+ㄴ		
+catherine	카트린	catherine	카트린		
+oxy	산소	oxy	산소	N	N
+kali	칼륨	kali	칼륨	N	N
+status	상태	status	상태	N	N
+naruto	나루토	naruto	나루토		
+raven	까마귀	raven	까마귀		
+raven	레이븐	raven	레이븐		
+spider	거미	spider	거미	N	N
+bọt	거품	bọt	거품	N	N
+bọt	거품	bọt	거품	N	N
+sbs	sbs	sbs	sbs		
+fair	공정	fair	공정	N	N
+fair	박람회	fair	박람회	N	N
+sầu	우울	sầu	우울	N	N
+sầu	슬픔	sầu	슬픔	N	N
+metro	지하철	metro	지하철	N	N
+christmas	크리스마스	christmas	크리스마스		
+castro	카스트로	castro	카스트+로		
+sarah	사라	sarah	사라		
+sarah	새라	sarah	새+이+라		
+sarah	세라	sarah	세라		
+takahashi	다카하시	takahashi	다카하시		
+takahashi	타카하시	takahashi	타카하시		
+punk	펑크	punk	펑크	N	N
+lăn	눈물이	lăn	눈물+이	N	N
+face	얼굴	face	얼굴	N	N
+face	얼굴이	face	얼굴+이	N	N
+gilbert	길버트	gilbert	길버트		
+season	시즌	season	시즌		
+express	익스프레스	express	익스프레스		
+intel	인텔	intel	인텔	N	N
+camera	사진기	camera	사진기	N	N
+module	모듈	module	모듈	N	N
+server	서버	server	서버	N	N
+mài	실패	mài	실패	N	N
+mài	분쇄	mài	분쇄	N	N
+hiên	베란다	hiên	베란다		
+hiên	테라스	hiên	테라스		
+hiên	현관	hiên	현관		
+hiên	베란다	hiên	베란다		
+múi	지대	múi	지대	N	N
+múi	영역	múi	영역	N	N
+morgan	모건	morgan	모건		
+winter	윈터	winter	윈터		
+matthew	매튜	matthew	매튜		
+canxi	칼슘	canxi	칼슘	N	N
+constantinopolis	콘스탄티노	constantinopolis	콘스탄티노		
+murray	머리	murray	머리	N	N
+cầy	일부	cầy	일부	N	N
+bấm	누르기	bấm	누르+기	V	V
+cameron	카메론	cameron	카메론		
+mía	사탕수수	mía	사탕수수	N	N
+dán	붙이기	dán	붙이+기	V	V
+dán	붙여넣기	dán	붙이+어+나+기	V	V
+double	더블	double	더블		
+flora	플로라	flora	플로라		
+bird	조류	bird	조류	N	N
+buồm	요트	buồm	요트	N	N
+ross	로스	ross	로스		
+airbus	에어버스	airbus	에어버스	N	N
+mùng	네번째	mùng	네+번+째	N	N
+charlie	찰리	charlie	찰리		
+angel	엔젤	angel	엔젤		
+alto	알토	alto	알토		
+leon	레온	leon	레온		
+leon	리온	leon	리온		
+stack	스택	stack	스택	N	N
+mars	마스	mars	마스		
+mars	화성	mars	화성		
+phoenix	피닉스	phoenix	피닉스		
+curtis	커티스	curtis	커티스		
+incheon	인천광역시	incheon	인천+광역시	N	N
+oliver	올리버	oliver	올리버		
+ôxít	산화물	ôxít	산화물	N	N
+ôxít	산화	ôxít	산화	N	N
+square	제곱	square	제곱		
+square	스퀘어	square	스퀘어		
+square	사각형	square	사각형		
+square	정사각형	square	정사각형		
+titan	타이타늄	titan	타이타늄	N	N
+titan	티타늄	titan	티타늄	N	N
+idol	아이돌이	idol	아이돌+이	N	N
+idol	아이돌	idol	아이돌	N	N
+flying	비행	flying	비행	N	N
+hunter	헌터	hunter	헌터		
+trãi	어릴적	trãi	어릴+적	N	N
+madison	매디슨	madison	매디슨		
+kẹt	갇힌	kẹt	갇히+ㄴ	V	V
+kẹt	갇혀	kẹt	갇히+어	V	V
+flash	플래시	flash	플래시	N	N
+stars	스타	stars	스타		
+pro	프로	pro	프로		
+seo	seo	seo	seo		
+fraser	프레이저	fraser	프레이저		
+delta	델타	delta	델타		
+ghen	질투	ghen	질투	N	N
+marc	마르크	marc	마르크		
+marc	마크	marc	마크		
+albums	앨범	albums	앨범	N	N
+albums	음반	albums	음반	N	N
+chốn	먼지	chốn	먼지	N	N
+teen	십대	teen	십대	N	N
+rai	rai	rai	rai		
+erica	유리카	erica	유리카		
+erica	에리카	erica	에리카		
+harold	해롤드	harold	해롤드		
+atlas	아틀라스	atlas	아틀라스		
+sốc	충격	sốc	충격	N	N
+sốc	쇼크	sốc	쇼크	N	N
+sốc	충격	sốc	충격	N	N
+alternative	대안	alternative	대안	N	N
+charlotte	샬롯	charlotte	샬롯		
+upper	윗쪽	upper	윗쪽		
+upper	상위	upper	상위		
+gabriel	게이브리얼	gabriel	게이브리얼		
+evolution	메일	evolution	메일		
+ara	ara	ara	ara		
+ara	아라	ara	아라		
+barnes	반즈	barnes	반즈		
+card	카드	card	카드	N	N
+dylan	딜런	dylan	디런		
+kurt	커트	kurt	커트		
+rank	계급	rank	계급	N	N
+rank	순위	rank	순위	N	N
+bristol	브리스톨	bristol	브리스톨		
+viền	국경	viền	국경	N	N
+viền	국경	viền	국경	N	N
+viền	경계	viền	경계	N	N
+matt	매트	matt	매트		
+reed	리드	reed	리드		
+voice	목소리	voice	목소리	N	N
+voice	음성	voice	음성	N	N
+viet	헌신	viet	헌신	N	N
+directory	디렉토리	directory	디렉토리	N	N
+directory	디렉터리	directory	디렉터리	N	N
+fantasy	판타지	fantasy	판타지		
+fantasy	환상	fantasy	환상		
+tower	타워	tower	타우+어		
+links	링크	links	링크		
+hokkaidō	홋카이도	hokkaidō	後카이+도		
+deep	깊게	deep	깊+게		
+lion	라이온	lion	라이+오+요		
+lion	사자	lion	사자		
+cúm	감기	cúm	감기	N	N
+cúm	독감	cúm	독감	N	N
+magic	마술	magic	마술	N	N
+magic	마법	magic	마법	N	N
+kẹp	클램프	kẹp	클램프	N	N
+kẹp	포옹	kẹp	포옹	N	N
+poly	폴리	poly	폴리		
+poly	폴리	poly	폴리		
+lều	텐트	lều	텐트	N	N
+lều	텐트	lều	텐트	N	N
+lều	천막	lều	천막	N	N
+bailey	베일리	bailey	베일리		
+hunt	헌트	hunt	헌트		
+ward	워드	ward	워드		
+phạn	운명	phạn	운명	N	N
+crawford	크로퍼드	crawford	크로퍼드		
+babylon	바빌론	babylon	바빌론		
+sakura	사쿠라	sakura	사쿠라		
+holland	홀랜드	holland	홀랜드		
+fred	프레드	fred	프레드		
+eagle	독수리	eagle	독수리	N	N
+isaac	이삭	isaac	이삭		
+hat	증오	hat	증오	N	N
+hat	혐오	hat	혐오	N	N
+hat	증오	hat	증오	N	N
+hat	혐오	hat	혐오	N	N
+armstrong	암스트롱	armstrong	암스트랑		
+clay	클레이	clay	클레이		
+proton	양성자	proton	양성자	N	N
+proton	양성자	proton	양성자	N	N
+marco	마르코	marco	마르코		
+urani	우라늄	urani	우라늄	N	N
+clip	클립	clip	클립	N	N
+clip	클립	clip	클립	N	N
+copy	복사	copy	복사	N	N
+copy	복사본	copy	복사본	N	N
+copy	사본	copy	사본	N	N
+hindu	힌두교	hindu	힌두교	N	N
+mitsubishi	미쓰비시	mitsubishi	미쓰비시	N	N
+khiên	방패	khiên	방패	N	N
+khiên	방패	khiên	방패	N	N
+diesel	디젤	diesel	디젤	N	N
+thằng	블러디	thằng	블러디		
+parker	파커	parker	파커		
+grove	그로브	grove	그로브		
+ôxi	산소	ôxi	산소	N	N
+musical	뮤지컬	musical	껍지+ㄴ	N	N
+boat	보트	boat	보트	N	N
+lắc	흔들리기	lắc	흔들리+기	V	V
+xuồng	카누	xuồng	카누	N	N
+raw	raw	raw	raw		
+nitơ	질소	nitơ	질소	N	N
+combat	전투	combat	전투	N	N
+combat	컴뱃	combat	컴뱃	N	N
+concerto	협주곡	concerto	협주곡	N	N
+aloe	알로에	aloe	알로에	N	N
+production	프로덕션	production	프로덕션		
+production	프로덕션스	production	프로덕션스		
+vượn	긴팔원숭이	vượn	긴팔+원인+이	N	N
+nanh	송곳니	nanh	송곳니	N	N
+hills	힐스	hills	힐스		
+hills	언덕	hills	언덕		
+entry	항목	entry	항목	N	N
+harvey	하비	harvey	하비		
+carbon	탄소	carbon	탄소	N	N
+chọi	던지기	chọi	던지기	V	V
+portal	포탈	portal	포탈		
+marion	마리온	marion	마리오+ㄴ		
+vegas	베가스	vegas	베가스		
+win	승리	win	승리	N	N
+seven	세븐	seven	세븐		
+seven	일곱	seven	일곱		
+ring	링링	ring	링링		
+edge	엣지	edge	짙+지		
+edge	모서리	edge	모서리		
+rainbow	레인보우	rainbow	레인보우		
+rainbow	무지개	rainbow	무지개		
+bella	벨라	bella	벨라		
+dog	개그	dog	개그		
+twin	쌍둥이	twin	쌍둥이		
+twin	트윈	twin	트윈		
+sherman	셔먼	sherman	켜+어+보+ㄴ		
+sub	서브	sub	서브	N	N
+lisa	리사	lisa	리사		
+ronaldo	호날두	ronaldo	호날두	N	N
+hero	영웅	hero	영웅	N	N
+fletcher	플레처	fletcher	플레처		
+tien	머니	tien	머니		
+block	블록	block	블록		
+block	블럭	block	블럭		
+cell	세포	cell	세포	N	N
+caroline	캐럴라인	caroline	캐숙라인		
+caroline	캐롤라인	caroline	캐롤라인		
+morrison	모리슨	morrison	모리슨		
+bruno	브루노	bruno	브루노		
+slam	슬램	slam	슬램	N	N
+phone	숨김	phone	숨김	N	N
+vista	비스타	vista	비스타		
+jet	제트	jet	제트	N	N
+jet	제트기	jet	제트기	N	N
+newfoundland	뉴펀들랜드	newfoundland	뉴펀들랜드	N	N
+biodiversity	생물다양성	biodiversity	생물+다양성		
+price	프라이스	price	프라이스		
+emma	엠마	emma	엠마		
+hẻm	협곡	hẻm	협곡	N	N
+hẻm	협곡	hẻm	협곡	N	N
+hẻm	골목	hẻm	골목	N	N
+liberty	리버티	liberty	리버티		
+váy	드레스	váy	드레스	N	N
+váy	드레스	váy	드레스	N	N
+memorial	메모리얼	memorial	메모리얼		
+linda	린다	linda	리+ㄴ다		
+mason	메이슨	mason	메이슨		
+iris	아이리스	iris	아이리스		
+iris	이리스	iris	이리스		
+kai	카이	kai	카이		
+break	브레이크	break	브레이크		
+greg	그레그	greg	그레그		
+greg	그렉	greg	그렉		
+neutron	중성자	neutron	중성자	N	N
+snow	스노우	snow	스노우		
+cọc	수비수	cọc	수비수	N	N
+cọc	챔피언	cọc	챔피언	N	N
+golf	골프	golf	골프	N	N
+discovery	발견	discovery	발견	N	N
+nielsen	닐슨	nielsen	닐슨		
+nielsen	닐센	nielsen	걸세+ㄴ		
+grace	그레이스	grace	그레이스		
+grace	은혜	grace	은혜		
+hanh	베테랑	hanh	베테랑		
+hello	여보세요	hello	여보+세요		
+hello	헬로	hello	헬로		
+meyer	마이어	meyer	마이어		
+pour	부어	pour	붓+어		
+hydro	수소	hydro	수소	N	N
+eva	에바	eva	에바		
+eva	이브	eva	이브		
+eva	에이브	eva	에이브		
+orleans	올리언스	orleans	올리언스		
+mòng	갈매기	mòng	갈매+기	N	N
+lynch	린치	lynch	린치		
+rocket	로켓	rocket	로켓	N	N
+helen	헬렌	helen	헬렌		
+duke	공작	duke	공작	N	N
+tennis	테니스	tennis	테니스	N	N
+marketing	마케팅	marketing	마케팅	N	N
+quark	쿼크	quark	쿼크	N	N
+cạp	전갈자리	cạp	전갈자리	N	N
+cạp	전갈	cạp	전갈	N	N
+cạp	허리띠	cạp	허리띠	N	N
+sport	스포츠	sport	스포츠	N	N
+lines	라인	lines	라인		
+frigate	호위함	frigate	호위+하+ㅁ	N	N
+dennis	데니스	dennis	데니스		
+frog	개구리목	frog	개구리목		
+tệp	파일	tệp	파일	N	N
+tệp	파일	tệp	파일	N	N
+sex	성교	sex	성교	N	N
+sex	섹스	sex	섹스	N	N
+sex	성관계	sex	성관계	N	N
+sex	성별	sex	성별	N	N
+itunes	아이튠즈	itunes	아이튠즈	N	N
+wings	날개	wings	날개	N	N
+feed	피드	feed	피드	N	N
+tỏi	마늘	tỏi	마늘	N	N
+calvin	캘빈	calvin	캘비+ㄴ		
+calvin	칼뱅	calvin	칼뱅		
+chậu	골반	chậu	골반	N	N
+bướu	종양	bướu	종양	N	N
+socks	양말	socks	양말	N	N
+bold	대담	bold	대담	N	N
+vickers	비커스	vickers	비커스	N	N
+fly	날아라	fly	날+아라		
+fly	플라이	fly	플라이		
+tụy	췌장	tụy	췌장	N	N
+franco	프랭코	franco	프랭코		
+hlv	코치	hlv	코치	N	N
+maxwell	맥스웰	maxwell	맥스웰		
+wake	깨워	wake	깨우+어		
+knot	매듭	knot	매듭	N	N
+holmes	홈즈	holmes	홈즈		
+casey	케이시	casey	케이시		
+viking	바이킹	viking	바이킹		
+viking	바이킹	viking	바이킹		
+kiss	키스	kiss	키스		
+zoo	동물원	zoo	동물원	N	N
+joan	조앤	joan	조앤	N	N
+twitter	트위터	twitter	트+위터		
+kobe	고베	kobe	고베		
+craig	크레이그	craig	크레이그		
+nến	양초	nến	양초	N	N
+nến	양초	nến	양초	N	N
+gardner	가드너	gardner	가드너		
+foster	포스터	foster	포스터		
+mercury	수성은	mercury	수성+은	N	N
+mercury	수성	mercury	수성	N	N
+guardian	가디언	guardian	가디언		
+fighting	파이팅	fighting	파이팅		
+hughes	휴즈	hughes	휴즈		
+pound	파운드	pound	파운드		
+pound	파운드	pound	파운드		
+hotel	호텔	hotel	호텔	N	N
+clara	클라라	clara	클라+라		
+arrow	화살	arrow	화살	N	N
+arrow	화살표	arrow	화살표	N	N
+rachel	레이첼	rachel	레이첼		
+cricket	크리켓	cricket	크리켓	N	N
+keith	키스	keith	키스		
+comic	만화	comic	만화	N	N
+comic	만화가	comic	만화+가	N	N
+aero	에어로	aero	에어+로		
+purple	보라색	purple	보라색		
+purple	자주색	purple	자주색		
+falls	폭포	falls	폭포	N	N
+add	추가	add	추가		
+lloyd	로이드	lloyd	로이드		
+lea	리아	lea	리아		
+lea	레아	lea	레아		
+icon	아이콘	icon	아이콘	N	N
+explorer	탐색기	explorer	탐색기	N	N
+explorer	탐험	explorer	탐험	N	N
+warriors	전사	warriors	전사	N	N
+close	닫아	close	닫+아	V	V
+kiêng	살았던	kiêng	살+았+던	V	V
+kara	카라	kara	카라		
+kara	kara	kara	kara		
+kara	카라라	kara	카라+이+라		
+etc	etc	etc	etc		
+etc	등등	etc	등+등		
+susan	수잔	susan	수잔		
+barney	바니	barney	바니		
+episode	에피소드	episode	에피소드		
+sample	견본	sample	견보+ㄴ		
+roth	로스	roth	로스		
+nancy	낸시	nancy	낸시		
+westminster	웨스트민스터	westminster	웨스트+형태터		
+via	비아	via	비+아		
+via	via	via	via		
+nickname	닉네임	nickname	닉네임		
+nickname	별명	nickname	별명		
+enzyme	효소	enzyme	효소	N	N
+layer	레이어	layer	레이어		
+spencer	스펜서	spencer	스펜서		
+nagasaki	나가사키	nagasaki	나가사키		
+gallon	갤런	gallon	갤런		
+berry	베리베리	berry	베리베리		
+berry	베리	berry	배리		
+vâng	예스	vâng	예스		
+kid	키드	kid	키드		
+fam	식구들	fam	식구+들	N	N
+mori	모리야	mori	모리+아야		
+mori	모리	mori	모리		
+akira	아키라	akira	아키+라		
+stage	무대	stage	무대	N	N
+eisenhower	아이크	eisenhower	아이크		
+dub	더빙	dub	더빙	N	N
+miranda	미란다	miranda	미라+ㄴ다		
+aaron	에런	aaron	에런		
+aaron	아론	aaron	아론		
+turbo	터보	turbo	터보	N	N
+emmy	에미상	emmy	에미상	N	N
+shell	껍질	shell	껍질		
+catalogue	카탈로그	catalogue	카탈로그		
+lane	레인	lane	레인		
+lane	차로	lane	차로		
+phantom	팬텀	phantom	팬텀	N	N
+nguyen	기독교	nguyen	기독교	N	N
+richmond	리치먼드	richmond	리치먼드		
+richmond	리치몬드	richmond	리치몬드		
+bond	채권	bond	채권	N	N
+bond	결합	bond	결합	N	N
+shield	방패	shield	방패	N	N
+release	릴리즈	release	릴리즈		
+tnt	tnt	tnt	tnt		
+verde	베르데	verde	베르데		
+typhoon	태풍	typhoon	태풍	N	N
+hardy	하디	hardy	하디		
+buck	벅스	buck	벅스		
+eddie	에디	eddie	에디		
+localisation	지역화	localisation	지역화	N	N
+macdonald	맥도널드	macdonald	맥도널드	N	N
+ipa	ipa	ipa	ipa		
+beat	지점	beat	지점		
+beat	포인트	beat	포인트		
+adele	아델	adele	아델		
+unix	유닉스	unix	유닉스	N	N
+cabrera	카브레라	cabrera	카브레라		
+hèn	겁쟁이	hèn	겁쟁이	N	N
+taliban	탈레반	taliban	탈레반	N	N
+kate	케이트	kate	케이트		
+latino	라틴	latino	라틴		
+latino	라틴계	latino	라틴계		
+braun	브라운	braun	브라+ㄴ		
+drake	드레이크	drake	드레이크		
+newport	뉴포트	newport	뉴포트		
+nakai	나카이	nakai	나카이		
+klein	클라인	klein	클라인		
+apr	apr	apr	apr		
+marvel	마블	marvel	마블		
+lorenzo	로렌조	lorenzo	로렌조		
+augusta	아우구스타	augusta	아우구스타		
+watts	와츠	watts	와츠		
+watts	왓츠	watts	왓츠		
+monster	괴물	monster	괴물		
+monster	몬스터	monster	몬스터		
+winston	윈스턴	winston	윈스턴		
+vampire	뱀파이어	vampire	뱀파+이+어		
+sướng	쾌락	sướng	쾌락	N	N
+logan	로건	logan	로건		
+gao	가오	gao	가+오		
+masters	마스터즈	masters	마스터즈	N	N
+masters	마스터스	masters	마스터스	N	N
+capitol	캐피틀	capitol	캐피틀		
+capitol	캐피톨	capitol	캐피톨		
+capitol	캐피탈	capitol	캐피탈		
+saga	사가	saga	사+가		
+saga	파트	saga	파트		
+larry	래리	larry	래리		
+ceo	ceo	ceo	ceo		
+vocal	보컬	vocal	보+니+ㄴ	N	N
+cry	울음	cry	울음		
+bee	벌벌	bee	벌벌		
+muội	mui	muội	mui		
+planck	플랑크	planck	플랑크	N	N
+ace	에이스	ace	에이스		
+ace	ace	ace	ace		
+tanaka	다나카	tanaka	다나카		
+tanaka	타나카	tanaka	타나카		
+beatty	비티	beatty	비티		
+jessica	제시카	jessica	제시카	N	N
+vứt	던지기	vứt	던지기	V	V
+gate	대문	gate	대문		
+gate	게이트	gate	게이트		
+motion	모션	motion	모션	N	N
+cruise	크루즈	cruise	크루즈	N	N
+erik	에릭	erik	에릭		
+sullivan	설리번	sullivan	설리번		
+diamond	다이아몬드	diamond	다이아몬드		
+elliott	엘리엇	elliott	엘리엇		
+bennett	베넷	bennett	베넷		
+clorua	염화	clorua	염화	N	N
+pyramid	피라미드	pyramid	피라미드		
+lucy	루시	lucy	루시		
+lucky	럭키	lucky	럭키		
+lucky	행운	lucky	행운		
+nhím	고슴도치	nhím	고슴도치	N	N
+tank	탱크	tank	탱크	N	N
+tank	전차	tank	전차	N	N
+rooney	루니	rooney	루니	N	N
+julian	율리아누스	julian	율리아누스		
+julian	율리안	julian	율리안		
+tropical	열대	tropical	열대		
+cạo	긁어	cạo	긁+어	V	V
+beast	짐승	beast	짐승		
+nippon	닛폰	nippon	닛폰		
+bishop	주교	bishop	주교	N	N
+trailer	트레일러	trailer	트레일러		
+catalina	카타리나	catalina	카타리+나		
+anti	안티	anti	안티		
+taxi	택시	taxi	택시	N	N
+taxi	택시	taxi	택시	N	N
+taxi	택시	taxi	택시	N	N
+sara	사라	sara	사라		
+sara	세라	sara	세라		
+shadow	그림자	shadow	그림자	N	N
+wildlife	야생동물	wildlife	야생동물	N	N
+complex	복합체	complex	복합체	N	N
+carmen	카르멘	carmen	카르멘		
+mafia	마피아	mafia	마피아	N	N
+daegu	대구광역시	daegu	대구+광역시	N	N
+bat	박쥐	bat	박쥐		
+rocky	록키	rocky	록키		
+rocky	로키	rocky	로키		
+wave	파동	wave	파동	N	N
+catalog	카탈로그	catalog	카탈로그		
+nhớt	석유	nhớt	석유	N	N
+ghita	기타	ghita	기타	N	N
+gas	가스	gas	가스	N	N
+stark	스타크	stark	스타크		
+nao	nao	nao	nao		
+pearl	진주	pearl	진주		
+prime	프라임	prime	프라임		
+cacbonat	탄산	cacbonat	탄산	N	N
+trade	무역	trade	무역	N	N
+toyota	토요타	toyota	토요타	N	N
+colin	콜린	colin	콜린		
+saito	사이토	saito	사이토		
+trát	용지	trát	용지	N	N
+gio	지오	gio	지오		
+rush	러쉬	rush	러쉬		
+beck	벡스	beck	벡스		
+nara	나라	nara	나라	N	N
+celtic	켈트	celtic	켈트	N	N
+iphone	아이폰	iphone	아이폰	N	N
+newman	뉴먼	newman	뉴먼		
+gates	게이츠	gates	게이츠		
+bayer	바이어	bayer	바이어		
+federation	연맹	federation	연맹	N	N
+federation	연방	federation	연방	N	N
+nash	내시	nash	내시		
+vung	길러	vung	기르+어		
+vung	스윙스	vung	스윙스		
+vung	스윙	vung	스페		
+cox	콕스	cox	콕스		
+forever	영원	forever	영원		
+catalunya	카탈루냐	catalunya	카탈루+아		
+catalunya	카탈루냐	catalunya	카탈루+아		
+heroes	영웅	heroes	영웅	N	N
+barrett	배럿	barrett	배럿	N	N
+wheeler	휠러	wheeler	정+러		
+venus	비너스	venus	비너스		
+krause	크라우스	krause	크라우스		
+mun	남편	mun	남편	N	N
+lena	리나	lena	리+나		
+butterfly	나비	butterfly	나비		
+tyler	타일러	tyler	타이러		
+phai	페이드	phai	페이드		
+isabella	이자벨라	isabella	이자벨라		
+kingston	킹스턴	kingston	킹스턴		
+kingston	킹스톤	kingston	킹스톤		
+lowell	로웰	lowell	로웰		
+host	기침	host	기침	N	N
+truman	트루먼	truman	트루+어		
+poster	포스터	poster	포스터		
+poster	포스터	poster	포스터		
+windsor	윈저	windsor	윈저		
+goldman	골드만	goldman	골드만		
+kit	넥스트	kit	넥스트		
+kit	kit	kit	kit		
+sedan	세단	sedan	세단	N	N
+touch	터치	touch	터치	N	N
+elena	엘레나	elena	엘레+나		
+olympics	올림픽	olympics	올림픽	N	N
+designer	디자이너는	designer	디자+이너+는	N	N
+designer	설계자	designer	설계자	N	N
+hoffman	호프먼	hoffman	호프먼		
+hoffman	호프먼	hoffman	호프먼		
+somerset	서머싯	somerset	서머싯		
+prey	먹이	prey	먹이	N	N
+vệt	궤적	vệt	궤적		
+orlando	올랜도	orlando	오랜+도		
+aim	aim	aim	aim		
+giorgio	조르지오	giorgio	조르+지+오		
+goku	손오공	goku	손오공	N	N
+ver	ver	ver	ver		
+ver	알마	ver	알마		
+messi	메시	messi	메시	N	N
+script	문자	script	문자	N	N
+script	스크립트	script	스크립트	N	N
+cache	캐시	cache	캐시	N	N
+hearts	하트	hearts	하트		
+karen	카렌	karen	카렌		
+karen	캐런	karen	캐+곤		
+randy	랜디	randy	랜디		
+maximus	막시무스	maximus	막시무스		
+carol	캐럴	carol	캐+아+내+ㄹ		
+carol	캐롤	carol	캐롤		
+salem	살렘	salem	살렘		
+islam	이슬람교	islam	이슬람교	N	N
+islam	이슬람	islam	이슬람	N	N
+marino	마리노	marino	마리노		
+enzym	효소	enzym	효소	N	N
+igor	이고르	igor	이고르		
+heath	히스	heath	히스		
+hussein	후세인	hussein	후세+이+ㄴ	N	N
+keys	키키	keys	키키		
+keys	열쇠	keys	열쇠		
+xăm	문신	xăm	문신	N	N
+xăm	타투	xăm	타투	N	N
+xăm	문신	xăm	문신	N	N
+shipbuilding	조선소	shipbuilding	조선소	N	N
+haven	헤이븐	haven	헤이븐		
+monica	모니카	monica	모니카		
+pete	피터	pete	피터		
+pete	피트	pete	피트		
+piece	piece	piece	piece		
+hubble	허블	hubble	허블	N	N
+conrad	콘라드	conrad	콘라드		
+conrad	콘래드	conrad	콘래드		
+valentine	밸런타인	valentine	밸런타인		
+valentine	발렌타인	valentine	발렌타인		
+bung	확장하기	bung	확장+하+기	V	V
+bung	펼치기	bung	펼치+기	V	V
+motors	모터스	motors	모터스		
+duncan	덩컨	duncan	덩히+ㄴ		
+aurora	아우로라	aurora	아우로라		
+voldemort	볼드모트	voldemort	볼드모트		
+twinkle	반짝	twinkle	반짝	N	N
+cohen	코헨	cohen	코헨		
+clo	염소	clo	염소	N	N
+angelo	젤로	angelo	젤로		
+hector	헥토르	hector	헥토르		
+hector	헥터	hector	헥터		
+mẩu	방주	mẩu	방주	N	N
+mẩu	시트	mẩu	시트	N	N
+mẩu	시트	mẩu	시트	N	N
+tun	마당	tun	마당		
+milton	밀튼	milton	밀튼		
+cac	귀하	cac	귀하		
+ritter	리터	ritter	리터		
+trick	속임수	trick	속임수		
+trick	트릭	trick	트릭		
+rivera	리베라	rivera	리베+이+라		
+vữa	박격포	vữa	박격포	N	N
+burton	버튼	burton	버튼		
+rita	리타	rita	리타		
+giấm	식초	giấm	식초	N	N
+elisabeth	엘리자벳	elisabeth	엘리자금		
+smithsonian	스미스소니언	smithsonian	스미스소니언		
+smithsonian	스미소니언	smithsonian	스미소니언		
+magnus	마누스	magnus	마누스		
+magnus	마그누스	magnus	마그누스		
+cloud	클라우드	cloud	클라우드		
+loét	궤양	loét	궤양	N	N
+loét	궤양	loét	궤양	N	N
+siemens	지멘스	siemens	지멘스	N	N
+vừng	참깨	vừng	참깨	N	N
+mcdonald	맥도널드	mcdonald	맥도널드	N	N
+tesla	테슬라	tesla	테슬+이+라		
+irish	아일랜드어	irish	아일랜드어		
+irish	아일랜드인	irish	아일랜드인		
+westwood	웨스트우드	westwood	웨스트우드		
+videos	동영상	videos	동영상		
+chat	채팅	chat	채팅	N	N
+goth	고딕	goth	고딕		
+scarlett	스칼렛	scarlett	스칼렛		
+katy	케이티	katy	케이티		
+vision	시력	vision	시력	N	N
+vision	시각	vision	시각	N	N
+glenn	글렌	glenn	글렌		
+mận	자두	mận	자두	N	N
+mận	자두	mận	자두	N	N
+benson	벤슨	benson	벤슨		
+royce	로이스	royce	로이스		
+parks	파크	parks	파크		
+parks	파크스	parks	파크스		
+xốp	거품	xốp	거품	N	N
+kay	케이	kay	케+이		
+ellen	엘런	ellen	엘런		
+ellen	엘렌	ellen	엘렌		
+continental	콘티넨털	continental	콘티넨털	N	N
+sato	사토	sato	사토		
+magiê	마그네슘	magiê	마그네슘	N	N
+aria	아리아	aria	아리아		
+cave	동굴	cave	동굴	N	N
+brandt	브랜트	brandt	브랜트		
+brandt	브란트	brandt	브란트		
+fairy	페어리	fairy	페어리		
+ballet	발레단	ballet	발레단	N	N
+burke	버크	burke	버크		
+mills	밀스	mills	밀스		
+riley	라일리	riley	라일리		
+kirk	커크	kirk	커크		
+bissau	비사우	bissau	비사우		
+cfg	cfg	cfg	cfg		
+humboldt	훔볼트	humboldt	훔볼트		
+angels	천사	angels	천사	N	N
+angels	천사들	angels	천사+들	N	N
+strong	스트롱	strong	스트롱		
+pixar	픽사	pixar	픽사	N	N
+gardens	낙원	gardens	낙원		
+gardens	정원	gardens	정원		
+shizuoka	시즈오카	shizuoka	시즈오카		
+dante	단테	dante	단테		
+rolls	롤스	rolls	롤스		
+schulz	슐츠	schulz	슐츠		
+bari	바리	bari	바리		
+plasma	플라스마	plasma	플라스마	N	N
+taekwondo	태권도	taekwondo	태권도	N	N
+turk	투르크인	turk	투르크인		
+patricia	패트리샤	patricia	패트리샤		
+strike	파업	strike	파업	N	N
+yard	마당	yard	마당		
+shelby	셸비	shelby	셸비		
+rufus	루퍼스	rufus	루퍼스		
+rufus	루푸스	rufus	루푸스		
+rabaul	라바울	rabaul	라바울		
+plain	평범	plain	평범		
+quầy	주방장	quầy	주방장	N	N
+quầy	셰프	quầy	셰프	N	N
+pass	시계	pass	시계	N	N
+lori	로리	lori	로리		
+canyon	협곡	canyon	협곡	N	N
+ultimate	얼티밋	ultimate	얼티밋		
+gleason	글리슨	gleason	글리슨		
+chấu	메뚜기	chấu	메뚜기	N	N
+quentin	쿠엔틴	quentin	쿠엔틴		
+fleet	함대	fleet	함대	N	N
+tours	투어	tours	투+어	N	N
+hokkaido	홋카이도	hokkaido	後카이+도		
+suite	스위트	suite	스위트		
+mirror	거울	mirror	거울		
+mirror	미러	mirror	미+러		
+xxx	xxx	xxx	xxx		
+reef	암초	reef	암초	N	N
+boong	갑판	boong	갑판	N	N
+boong	갑판	boong	갑판	N	N
+malcolm	말콤	malcolm	말콤		
+guillaume	기욤	guillaume	기욤	N	N
+thây	좀비	thây	좀비		
+chronicle	크로니클	chronicle	크로니클		
+shark	상어	shark	상어	N	N
+metallica	메탈리카	metallica	메탈리카	N	N
+joy	기쁨이	joy	기쁘+ㅁ+이	N	N
+hare	산토끼	hare	산토끼		
+emirates	에미레이트	emirates	에미레이트	N	N
+dĩa	접시	dĩa	접시	N	N
+agm	agm	agm	agm		
+takeda	다케다	takeda	다케+었+다		
+ubuntu	우분투	ubuntu	우분투	N	N
+kagoshima	가고시마	kagoshima	가고시마		
+vito	비토	vito	비토		
+sparrow	참새목	sparrow	참새목	N	N
+btr	btr	btr	btr		
+leslie	레슬리	leslie	레슬리		
+mụn	여드름	mụn	여드름	N	N
+yoshida	요시다	yoshida	요+시시다		
+banner	배너	banner	배너	N	N
+seth	seth	seth	seth		
+mega	메가	mega	메가		
+claire	클레어	claire	클레어		
+makoto	마코토	makoto	마코토		
+jesse	제시	jesse	제시	N	N
+hey	헤이	hey	헤+이		
+ark	ark	ark	ark		
+marsh	습지	marsh	습지	N	N
+carnegie	카네기	carnegie	카네기		
+rod	로드	rod	로드		
+phẩy	쉼표	phẩy	쉼표	N	N
+amber	앰버	amber	앰버		
+gamble	갬블	gamble	갬블	N	N
+bolt	볼트	bolt	볼트	N	N
+dynamics	역학	dynamics	역학	N	N
+stella	스텔라	stella	스텔+이+라		
+stoke	스토크스	stoke	스토크스	N	N
+quăng	던지기	quăng	던지기	V	V
+seal	물개	seal	물개	N	N
+elliot	엘리엇	elliot	엘리엇		
+mat	음식	mat	음식	N	N
+mat	식량	mat	식량	N	N
+mat	식품	mat	식품	N	N
+disco	디스코	disco	디스코	N	N
+sunni	수니파	sunni	수니파	N	N
+eve	이브	eve	이브		
+eve	에이브	eve	에이브		
+node	노드	node	노드	N	N
+hacker	해커	hacker	하+어+커+ㄴ		
+hacker	해커	hacker	하+어+커+ㄴ		
+hacker	해킹	hacker	해킹		
+sendai	센다이	sendai	센+이+다		
+hót	노래	hót	노래	N	N
+sandbox	샌드박스	sandbox	샌드박스	N	N
+ruby	루비	ruby	루비		
+selena	셀레나	selena	셀레+나		
+candy	캔디	candy	캔디		
+candy	사탕	candy	사탕		
+sheridan	셰리든	sheridan	셰리든		
+griffin	그리핀	griffin	그리+당+ㄴ		
+menzies	멘지스	menzies	멘지스		
+boa	보아	boa	보+아		
+cube	큐브	cube	큐브		
+glen	글렌	glen	글렌		
+resort	휴양지	resort	휴양지	N	N
+benz	벤츠	benz	벤츠		
+hampton	햄프턴	hampton	햄프턴		
+chandler	챈들러	chandler	손들러		
+irene	아이린	irene	아이리+ㄴ		
+irene	이레네	irene	이레네		
+cartoon	카툰	cartoon	카툰		
+vocals	보컬	vocals	보+니+ㄴ	N	N
+betty	베티	betty	베티		
+wilkinson	윌킨슨	wilkinson	윌킨슨		
+constantinople	콘스탄티노	constantinople	콘스탄티노		
+micro	마이크로소프트	micro	마이크로소프트	N	N
+micro	마이크로폰	micro	마이크로세	N	N
+thìa	숟가락	thìa	숟가락	N	N
+thìa	숟가락	thìa	숟가락	N	N
+thìa	스푼	thìa	스푼	N	N
+bath	바스	bath	바스		
+bath	욕조	bath	욕조		
+gien	유전자	gien	유전자	N	N
+gien	유전자	gien	유전자	N	N
+hormone	호르몬	hormone	호르몬	N	N
+hormone	호르몬	hormone	호르몬	N	N
+yamada	야마다	yamada	야마다		
+tatar	타타르족	tatar	타타르족	N	N
+fiction	소설	fiction	소설	N	N
+fiction	픽션	fiction	픽션	N	N
+direct	직접	direct	직접		
+sụn	연골	sụn	연골	N	N
+sugar	슈가	sugar	슈+가		
+sugar	슈슈	sugar	슈슈		
+doc	doc	doc	doc		
+talbot	탤벗	talbot	탤벗		
+kyle	카일	kyle	카일		
+dale	데일	dale	데일		
+gloria	글로리아	gloria	글로리아		
+liti	리튬	liti	리튬	N	N
+summit	정상회담	summit	정상회담	N	N
+summit	회담	summit	회담	N	N
+summit	정상회의	summit	정상회+의	N	N
+wilcox	윌콕스	wilcox	윌콕스		
+saxophone	색소폰	saxophone	색소폰	N	N
+vanessa	바네사	vanessa	바네사		
+jupiter	목성	jupiter	목성	N	N
+jupiter	목성의	jupiter	목성+의	N	N
+velvet	벨벳	velvet	벨벳		
+mia	mia	mia	mia		
+mia	미아	mia	미+아		
+proxy	프록시	proxy	프록시	N	N
+proxy	대리	proxy	대리	N	N
+akb	akb	akb	a릇+뼈		
+funk	펑크	funk	펑크	N	N
+randolph	랜돌프	randolph	랜돌프		
+gear	톱니바퀴	gear	톱니+바퀴	N	N
+trau	피곤한	trau	피곤+하+ㄴ	V	V
+crane	두루미	crane	두루미		
+crane	크레인	crane	크레인		
+ôtô	자동차	ôtô	자동차	N	N
+ôtô	차량	ôtô	차량	N	N
+beaver	비버	beaver	비버		
+canterbury	캔터베리	canterbury	캔터베리		
+ariel	아리엘	ariel	아리엘		
+indie	인디	indie	인디		
+martha	마사	martha	마사		
+bloom	블룸	bloom	블룸		
+niken	니켈	niken	니켈	N	N
+stan	스탄	stan	스탄		
+stan	스텐	stan	스텐		
+stan	스탠	stan	스탠		
+rebel	반란군	rebel	반란군		
+cherry	체리	cherry	체리		
+cherry	벚꽃	cherry	벚꽃		
+cherry	체리	cherry	체리		
+cherry	앵두	cherry	앵두		
+scout	스카웃	scout	스카웃		
+scout	스카우트	scout	스카우트		
+sakai	사카이	sakai	사카이		
+curie	퀴리	curie	퀴리	N	N
+chuck	척척	chuck	척척		
+aerospace	항공우주	aerospace	항공+우주	N	N
+turkish	터키식	turkish	터키식		
+turkish	터키어	turkish	터키+어		
+turkish	터키	turkish	터키		
+shop	상점	shop	상점	N	N
+shop	쇼핑	shop	쇼핑	N	N
+shop	상점	shop	상점	N	N
+bertrand	버트런드	bertrand	버트런드		
+holly	홀리	holly	홀리		
+ret	ret	ret	ret		
+gentry	젠트리	gentry	젠트리		
+andre	앙드레	andre	앙드레		
+barton	바톤	barton	바톤		
+cược	베팅	cược	베팅	N	N
+cược	베팅	cược	베팅	N	N
+sites	사이트	sites	사이트		
+skin	스킨	skin	스킨		
+saturn	토성	saturn	토성	N	N
+container	용기	container	용기	N	N
+hilbert	힐베르트	hilbert	힐베르트	N	N
+rising	라이징	rising	라이징		
+massa	마사	massa	마사		
+gill	아가미	gill	아가미		
+globe	글로브	globe	글로브		
+bravo	브라보	bravo	브라보		
+eurovision	유로비전	eurovision	유로비전	N	N
+nicholson	니컬슨	nicholson	니컬슨		
+soft	부드러워	soft	부드럽+어		
+soft	청량	soft	청량		
+soft	부드럽게	soft	부드럽+게		
+soft	소프트	soft	소프트		
+pixel	픽셀	pixel	픽셀	N	N
+pixel	픽셀	pixel	픽셀	N	N
+lcd	액정	lcd	액정	N	N
+sphinx	스핑크스	sphinx	스핑크스		
+điốt	다이오드	điốt	다이오드	N	N
+pepper	후추	pepper	후추		
+pepper	고추	pepper	고추		
+pepper	페퍼	pepper	페퍼		
+baptist	침례교	baptist	침례교	N	N
+ramsey	램지	ramsey	램지		
+chòi	객실	chòi	객실	N	N
+chòi	오두막	chòi	오두막	N	N
+composite	합성	composite	합성	N	N
+composite	컴포지트	composite	컴포지트	N	N
+brie	브리	brie	브리		
+drew	드류	drew	드류		
+drew	드루	drew	드루		
+smile	미소	smile	미소		
+smile	스마일	smile	스마일		
+smile	웃어	smile	웃+어		
+plutoni	플루토늄	plutoni	플루토늄	N	N
+rugby	럭비	rugby	럭비	N	N
+rebecca	레베카	rebecca	레베카		
+satoshi	사토시	satoshi	사토시		
+pot	냄비	pot	냄비		
+bốt	장화	bốt	장화	N	N
+bốt	부츠	bốt	부츠	N	N
+myers	마이어스	myers	마이어스		
+tina	티나	tina	티+나		
+mystery	미스테리	mystery	미스테리		
+mystery	미스터리	mystery	미스터리		
+ruth	루스	ruth	루스		
+carolyn	캐롤린	carolyn	캐롤린		
+bien	하늘	bien	하늘	N	N
+hoffmann	호프먼	hoffmann	호프먼		
+geo	geo	geo	geo		
+geo	지오	geo	지오		
+silicon	규소	silicon	규소	N	N
+highland	하일랜드	highland	하일랜드		
+avenue	애비뉴	avenue	애비뉴		
+anemia	빈혈	anemia	빈혈	N	N
+smackdown	스맥다운	smackdown	스맥다+ㄴ		
+wendy	웬디	wendy	웬디		
+oxit	산화물	oxit	산화물	N	N
+oxit	산화	oxit	산화	N	N
+tbs	tbs	tbs	tbs		
+holiday	홀리데이	holiday	홀리데이		
+hemingway	헤밍웨이	hemingway	헤밍웨이		
+spl	spl	spl	spl		
+neutrino	중성미자	neutrino	중성미자	N	N
+fiat	피아트	fiat	피아트	N	N
+aet	aet	aet	aet		
+ferb	퍼브	ferb	퍼브		
+landmark	랜드마크	landmark	랜드마크	N	N
+rodriguez	로드리게즈	rodriguez	로드리케즈		
+cent	센트	cent	센트		
+sandy	샌디	sandy	샌디		
+cuốc	무작위	cuốc	무작위	N	N
+cuốc	랜덤	cuốc	랜덤	N	N
+terra	테라	terra	테라		
+terra	테라	terra	테라		
+menu	메뉴	menu	메뉴	N	N
+menu	메뉴	menu	메뉴	N	N
+medium	미디엄	medium	미디엄		
+shane	셰인	shane	셰인		
+waltz	왈츠	waltz	왈츠	N	N
+telegraph	텔레그래프	telegraph	텔레그래프		
+telegraph	전신	telegraph	전신		
+milk	밀크	milk	밀크		
+across	건너편	across	건너편		
+quest	퀘스트	quest	퀘스트	N	N
+lift	리프트	lift	리프트		
+inn	여관	inn	여관	N	N
+gore	고어	gore	고어		
+sega	세가	sega	세+가		
+donna	도나	donna	도+나		
+assassin	암살	assassin	암살	N	N
+assassin	암살자	assassin	암살자	N	N
+farm	농장	farm	농장	N	N
+farm	농장이	farm	농장+이	N	N
+vanilla	썬더	vanilla	썬더		
+vanilla	천둥	vanilla	천둥		
+vanilla	선더	vanilla	선더		
+vanilla	바닐라	vanilla	바라+라		
+extreme	익스트림	extreme	익스트림		
+extreme	극한	extreme	극한		
+bun	불가리아어	bun	불가리아어		
+bun	불가리아인	bun	불가리아인		
+armour	기갑	armour	기갑	N	N
+woody	우디	woody	우디		
+fat	지방	fat	지방	N	N
+episodes	에피소드	episodes	에피소드		
+herb	허브	herb	허브		
+minami	미나미	minami	미나미		
+bleach	블리치	bleach	블리치		
+avengers	어벤져스	avengers	어벤져스		
+avengers	어벤저스	avengers	어벤저스		
+switch	스위치	switch	스위치	N	N
+switch	전환	switch	전환	N	N
+herald	헤럴드	herald	헤럴드		
+dickinson	디킨슨	dickinson	디킨슨		
+melanie	멜러니	melanie	멜러니		
+gala	갈라	gala	가르+아		
+paula	폴라	paula	폴르+아		
+wizard	마법사	wizard	마법사		
+bor	보르	bor	보르		
+kenji	겐지	kenji	거+이+ㄴ지		
+kenji	켄지	kenji	켄지		
+entropy	엔트로피	entropy	엔트로피	N	N
+nhăn	주름	nhăn	주름		
+sinclair	싱클레어	sinclair	싱클레어		
+asparagus	아스파라거스	asparagus	아스파라거스		
+jenkins	젱킨스	jenkins	젱킨스		
+kitty	키티	kitty	키티		
+baba	바바	baba	바바		
+ost	ost	ost	ost		
+backstreet	백스트리트	backstreet	백스트리트		
+gyeongsang	경상	gyeongsang	경상		
+ito	이토	ito	이토		
+polymer	중합체	polymer	중합체	N	N
+kin	친족	kin	친족	N	N
+avenger	어벤져	avenger	어벤져		
+stream	스트리밍	stream	스트리밍		
+stream	흐름	stream	흐름		
+gerard	제라드	gerard	제라드		
+gerard	제라드	gerard	제라드		
+cast	캐스팅	cast	캐스팅	N	N
+ski	스키	ski	스키	N	N
+framework	프레임워크	framework	프레임워크	N	N
+zara	자라	zara	자+이+라		
+sue	고소	sue	고소		
+alicia	얼리샤	alicia	얼리샤		
+alicia	앨리샤	alicia	앨리샤		
+survivor	생존자	survivor	생존자	N	N
+melody	멜로디	melody	멜로디		
+chambers	챔버스	chambers	챔버스		
+mari	마리	mari	마리		
+sikh	시크교	sikh	시크교	N	N
+ivy	아이비	ivy	아이비		
+pulitzer	퓰리처	pulitzer	퓰리처		
+sandra	산드라	sandra	산드+라		
+sandra	샌드라	sandra	샌드라		
+angry	화가	angry	화+가	N	N
+klm	klm	klm	klm		
+ida	ida	ida	ida		
+lamb	양고기	lamb	양고기	N	N
+lauren	로렌	lauren	로렌		
+ars	ars	ars	ars		
+tristan	트리스탄	tristan	트리스탄		
+katherine	캐서린	katherine	캐+서+이+ㄴ		
+stern	스턴	stern	스턴		
+teddy	테디	teddy	테디		
+breaking	브레이킹	breaking	브레이킹		
+alien	에이리언	alien	에이리언		
+lydia	리디아	lydia	리디아		
+fun	재미	fun	재미	N	N
+lorenz	로렌즈	lorenz	로렌즈		
+wolfram	텅스텐	wolfram	텅스텐	N	N
+bluetooth	블루투스	bluetooth	블루투스	N	N
+snyder	스나이더	snyder	스나이더		
+glucose	혈당	glucose	혈당	N	N
+carrie	캐리	carrie	캐리		
+frost	프로스트	frost	프로스트		
+frost	서리	frost	서리		
+herschel	허셜	herschel	허셜	N	N
+norris	노리스	norris	노리스		
+nikita	니키타	nikita	니키타		
+concept	개념	concept	개념	N	N
+sami	사미어	sami	사미어		
+cabin	객실	cabin	객실	N	N
+cabin	오두막	cabin	오두막	N	N
+simone	시몬	simone	시몬		
+simone	시모네	simone	시모네		
+rệp	곤충	rệp	곤충	N	N
+tanganyika	탕가니카	tanganyika	탕가니카		
+jericho	예리코	jericho	예리코	N	N
+zip	우편번호	zip	우편+호호	N	N
+toni	토니	toni	토니		
+pitbull	핏불	pitbull	핏불		
+watt	와츠	watt	와츠		
+watt	왓츠	watt	왓츠		
+bomb	폭탄	bomb	폭탄	N	N
+astronomy	천문학	astronomy	천문학	N	N
+poker	포커	poker	포커	N	N
+higgins	히긴스	higgins	히긴스		
+meade	미드	meade	미드		
+hartley	하틀리	hartley	하틀리		
+jobs	잡스	jobs	잡스		
+gnome	그놈	gnome	그놈		
+guild	길드	guild	길드	N	N
+stay	숙박	stay	숙박	N	N
+worms	보름	worms	보름		
+worms	지렁이	worms	지렁이		
+corbett	코르벳	corbett	코르벳		
+champ	챔프	champ	챔프		
+sasebo	사세보	sasebo	사세보		
+bart	bart	bart	bart		
+bart	바트	bart	바트		
+commonwealth	연방	commonwealth	연방	N	N
+leroy	리로이	leroy	리로이		
+doug	덕이	doug	덕+이		
+doug	더그	doug	더그		
+oss	oss	oss	oss		
+cream	크림	cream	크림		
+cassette	카세트	cassette	카세트	N	N
+sioux	수어	sioux	수어		
+aberdeen	애버딘	aberdeen	애버리+ㄴ		
+platinum	백금	platinum	백금	N	N
+bio	소개	bio	소개	N	N
+tara	타라	tara	타라		
+shia	시아파	shia	시아파	N	N
+guthrie	거스리	guthrie	거스리		
+penalty	페널티	penalty	페널티	N	N
+sts	sts	sts	sts		
+brandon	브랜던	brandon	브던+던		
+rodney	로드니	rodney	로드니		
+sida	에이즈	sida	에이즈		
+zoom	축소	zoom	축소	N	N
+zoom	확대	zoom	확대	N	N
+flynn	플린	flynn	플린		
+lakes	호수	lakes	호수	N	N
+giles	자일스	giles	자일스		
+aid	원조	aid	원조		
+indianapolis	인디애나폴리스	indianapolis	인디애나폴리스	N	N
+vhs	vhs	vhs	vhs		
+troll	트롤	troll	트롤		
+ethernet	이더넷	ethernet	이더넷	N	N
+fusion	퓨전	fusion	퓨전		
+kat	kat	kat	kat		
+task	작업	task	작업	N	N
+legion	레지옹	legion	레지옹	N	N
+dash	대시	dash	대시	N	N
+trek	트렉	trek	트렉	N	N
+lowe	로우	lowe	로우		
+hikari	히카리	hikari	히카리		
+sars	사스	sars	사스	N	N
+nico	니코니코	nico	니코니코		
+nico	니코	nico	니코		
+ramsay	램지	ramsay	램지		
+trevor	트레버	trevor	트레버		
+avatar	아바타	avatar	아바타	N	N
+reader	리더	reader	리더		
+rand	랜드	rand	랜드		
+baird	베어드	baird	베어드		
+rowling	롤링	rowling	롤링		
+rapid	급속	rapid	급속		
+beverly	베벌리	beverly	베벌리		
+beverly	비벌리	beverly	비벌리		
+cowboy	카우보이	cowboy	카우보+이		
+samantha	사만다	samantha	사+마다		
+analog	아날로그	analog	아날로그	N	N
+takashi	타카시	takashi	타카시		
+takashi	다카시	takashi	다카시		
+kerry	케리	kerry	케리		
+matsumoto	마쓰모토	matsumoto	마쓰모토		
+monarch	군주	monarch	군주	N	N
+magellan	마젤란	magellan	마젤+란		
+magellan	마젤란	magellan	마젤+란		
+malik	말리크	malik	말리크		
+salon	살롱	salon	살롱		
+salon	살롱	salon	살롱		
+lama	라마	lama	라마		
+lia	리아	lia	리아		
+button	버튼	button	버튼		
+button	단추	button	단추		
+alger	조류	alger	조류	N	N
+qantas	콴타스	qantas	콴타스	N	N
+pet	애완동물	pet	애완동물	N	N
+pet	지능	pet	지능	N	N
+drum	드럼	drum	들+요	N	N
+daewoo	대우그룹	daewoo	대우그룹	N	N
+nazi	나치즘	nazi	나치즘		
+spartan	스파르탄	spartan	스파르탄		
+shore	해안	shore	해안		
+lipid	지질	lipid	지질	N	N
+billie	빌리	billie	빌리		
+chaos	혼란	chaos	혼란	N	N
+chaos	혼돈	chaos	혼돈	N	N
+umbrella	우산	umbrella	우산		
+karaoke	노래방	karaoke	노래방	N	N
+oskar	오스카어	oskar	오스카어		
+oskar	오스카	oskar	오스카		
+keller	켈러	keller	켈러		
+boyle	보일	boyle	보이+ㄹ		
+spot	스팟	spot	스팟		
+matter	매트	matter	매트		
+tar	타르	tar	타르		
+elias	엘리아스	elias	엘리아스		
+elias	엘리어스	elias	엘리어스		
+idf	idf	idf	idf		
+sakurai	사쿠라이	sakurai	사쿠라이		
+ensemble	앙상블	ensemble	앙상블	N	N
+cunningham	커닝햄	cunningham	커닝햄		
+cunningham	커닝엄	cunningham	커닝엄		
+dyer	다이어	dyer	다이어		
+josephine	조세핀	josephine	조세핀		
+atlantis	아틀란티스	atlantis	아틀란티스		
+dewey	듀이	dewey	듀+이		
+sepia	세피아	sepia	세피아		
+margarita	마가리타	margarita	마가리타		
+dreamworks	드림웍스	dreamworks	드림웍스		
+autobiography	자서전	autobiography	자서전	N	N
+bark	나무껍질	bark	나무껍질		
+stereo	스테레오	stereo	스테레오	N	N
+fermi	페르미	fermi	페르미	N	N
+mcgraw	맥그로	mcgraw	맥그+로		
+perspective	관점	perspective	관점	N	N
+chapel	예배당	chapel	예배당	N	N
+radiohead	라디오헤드	radiohead	라디오헤드		
+octopus	낙지	octopus	낙지		
+octopus	문어	octopus	문어		
+makarov	마카로프	makarov	마카로프		
+harmony	하모니	harmony	하모+니		
+harmony	화합	harmony	화합		
+progressive	진보주의	progressive	진보주의	N	N
+progressive	프로그레시브	progressive	프로그레시브	N	N
+champaign	샴페인	champaign	샴페인		
+ava	아바	ava	아바		
+ava	에바	ava	에바		
+booth	부스	booth	부스		
+steam	스팀	steam	스팀		
+huntington	헌팅턴	huntington	헌팅턴		
+styles	스타일스	styles	스타일스		
+styles	스타일	styles	스타일		
+boyd	보이드	boyd	보이드		
+chorus	코러스	chorus	코러스		
+brahms	브람스	brahms	브람스	N	N
+dolly	돌리	dolly	돌리		
+kramer	크레이머	kramer	크레이머		
+genesis	제네시스	genesis	제네시스		
+genesis	창세기	genesis	창세기		
+nissan	닛산	nissan	닛산	N	N
+mir	미르	mir	미르		
+garrett	개럿	garrett	개럿		
+nilsson	닐슨	nilsson	닐슨		
+abruzzo	아브루초	abruzzo	아브루초		
+vitis	포도	vitis	포도		
+launch	런칭	launch	런칭		
+swing	스윙스	swing	스윙스		
+swing	스윙	swing	스페		
+ipod	아이팟	ipod	아이+ㄹ	N	N
+fax	팩스	fax	팩스	N	N
+vat	vat	vat	vat		
+horace	호러스	horace	호러스		
+plutarch	플루타르코스	plutarch	플루타르코스		
+nest	둥지	nest	둥+지		
+dress	슈트	dress	슈트		
+dress	양복	dress	양복		
+dress	수트	dress	수트		
+uranium	우라늄	uranium	우라늄	N	N
+katie	케이티	katie	케이티		
+rubik	정육면체	rubik	정육+면체	N	N
+reese	리스	reese	리스		
+molly	몰리	molly	몰리		
+soprano	소프라노	soprano	소프라노		
+crash	추락사고	crash	추락사+고		
+aki	아키	aki	아키		
+balboa	발보아	balboa	발보아		
+stirling	스털링	stirling	스털링		
+seasons	시즌	seasons	시즌		
+proctor	프록터	proctor	프록터		
+markov	마르코프	markov	마르코프	N	N
+loop	반복	loop	반복	N	N
+tatarstan	타타르스탄	tatarstan	타타르스탄		
+locke	로크	locke	로크		
+maple	메이플	maple	메이플		
+maple	단풍나무	maple	단풍+나무		
+maple	단풍	maple	단풍		
+booker	부커	booker	부커		
+payne	페인	payne	페인		
+zulu	줄루어	zulu	줄루+어		
+zulu	줄루	zulu	줄루		
+somebody	누군가	somebody	누구+이+ㄴ가		
+scarlet	스칼렛	scarlet	스칼렛		
+firefly	반딧불이	firefly	반딧불+이		
+burnett	버넷	burnett	버넷		
+calcutta	캘커타	calcutta	캘커타		
+spence	스펜스	spence	스펜스		
+ipad	아이패드	ipad	아이패드	N	N
+fifth	다섯번째	fifth	다섯번째	N	N
+trent	트렌트	trent	트렌트		
+willie	윌리	willie	윌리		
+vđv	운동선수	vđv	운동+선수	N	N
+stafford	스태퍼드	stafford	스태퍼드		
+audrey	오드리	audrey	오드리	N	N
+thin	얇은	thin	얇+은		
+brooke	브룩스	brooke	브룩스		
+eddy	에디	eddy	에디		
+isabelle	이자벨	isabelle	이자벨		
+crusader	십자군	crusader	십자군	N	N
+pentium	펜티엄	pentium	펜티엄	N	N
+expo	엑스포	expo	엑스포		
+tráp	함정	tráp	함정	N	N
+barber	이발	barber	이발		
+barber	이발사	barber	이발사		
+stevenson	스티븐슨	stevenson	스티븐슨		
+gmail	크레딧	gmail	크레딧	N	N
+gmail	신용	gmail	신용	N	N
+gmail	신용카드	gmail	신용카드	N	N
+plains	평원	plains	평원	N	N
+civic	시민	civic	시민	N	N
+chesapeake	체서피크	chesapeake	체서피크		
+willy	윌리	willy	윌리		
+maori	무어	maori	무어		
+kami	가미	kami	가미		
+shuttle	셔틀	shuttle	셔틀	N	N
+bunker	벙커	bunker	벙커		
+selen	셀레늄	selen	셀레늄	N	N
+cullen	컬렌	cullen	컬렌		
+cullen	컬런	cullen	컬런		
+emerald	에메랄드	emerald	에메랄드		
+boss	사장님	boss	사장님	N	N
+tráo	설치	tráo	설치	N	N
+brenda	브렌다	brenda	브렌+다		
+guido	귀도	guido	귀+도		
+philips	필립스	philips	필립스	N	N
+philips	필립스	philips	필립스	N	N
+avg	평균	avg	평균	N	N
+steph	스테파니	steph	스테파니		
+tomb	무덤	tomb	무덤	N	N
+shine	빛나	shine	빛나+아		
+romain	로맹	romain	로맹		

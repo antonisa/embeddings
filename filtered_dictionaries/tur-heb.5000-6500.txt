@@ -1,0 +1,801 @@
+tanık	עדה	tanık	עדה		
+tanık	העד	tanık	העד		
+tanık	עדה	tanık	עדה		
+diziler	מערכי	dizi	מערכים	N;NOM;PL;3	N;PSSD;MASC;PL
+asistanı	עוזר	asistan	עוזר	N;ACC;SG;3	N;MASC;SG
+aileleri	משפחות	aile	משפחה	N;ACC;PL;3	N;FEM;PL
+falcon	בז	falcon	בז		
+boğa	שור	boğa	שור		
+boğa	בול	boğa	בול		
+sporcular	ספורטאים	sporcu	ספורטאי	N;NOM;PL;3	N;MASC;PL
+sporcular	אתלטים	sporcu	אתלט	N;NOM;PL;3	N;MASC;PL
+sporcular	ספורטאים	sporcu	ספורטאי	N;NOM;PL;3	N;MASC;PL
+cihazlar	מכשירים	cihaz	הכשיר	N;NOM;PL;3	N;MASC;PL
+cihazlar	התקנים	cihaz	התקן	N;NOM;PL;3	N;MASC;PL
+taşıdı	נשא	taşı	נשא	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST
+okumak	לקרוא	oku	קרא	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;NFIN;ACT
+okumak	קוראת	oku	קרא	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP;ACT
+uzmanlık	מומחיות	uzmanlık	מומחי	N;NOM;SG;3	N;FEM;SG
+uzmanlık	התמחות	uzmanlık	התמחה	N;NOM;SG;3	N;FEM;SG
+uzmanlık	מומחיות	uzmanlık	מומחי	N;NOM;SG;3	N;FEM;SG
+şimdiden	כבר	şimdiden	כבר	ADV	ADV
+faith	האמונה	faith	האמונה		
+faith	פיית	faith	פיית		
+peri	פיה	peri	פיה		
+ihracat	היצוא	ihracat	היצוא		
+infaz	להורג	infaz	להורג		
+yüzük	צלצל	yüzük	צלצל	N;NOM;SG;3	N;MASC;SG
+yüzük	טבעת	yüzük	טבעת	N;NOM;SG;3	N;FEM;SG
+deneyimi	ניסיון	deney	ניסיון	N;ACC;SG;3	N;MASC;SG
+deneyimi	חוויה	deney	חוויה	N;ACC;SG;3	N;FEM;SG
+deneyimi	נסיון	deney	ניסיון	N;ACC;SG;3	N;MASC;SG
+deneyimi	התנסות	deney	התנסות	N;ACC;SG;3	N;FEM;SG
+aramaya	מחפש	ara	חיפש	V;PFV;DAT;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP;ACT
+aramaya	מחפשת	ara	חיפש	V;PFV;DAT;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP;ACT
+aramaya	מחפשים	ara	חיפש	V;PFV;DAT;IND;POS;PRS;V.MSDR	V;MASC;PL;V.PTCP;ACT
+tutsak	בשבי	tutsak	בשבי		
+tutsak	שבוי	tutsak	שבוי		
+protokolü	פרוטוקול	protokolü	פרוטוקול	N;ACC;SG;3	N;MASC;SG
+fikirler	דעות	fikir	דעה	N;NOM;PL;3	N;FEM;PL
+fikirler	רעיונות	fikir	רעיון	N;NOM;PL;3	N;MASC;PL
+liderlik	מנהיגות	liderlik	מנהיגות	N;NOM;SG;3	N;FEM;SG
+sağlanan	מסופק	sağla	סופק	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;MASC;SG;V.PTCP;PASS
+sembolik	סמלי	sembolik	סמל		
+minimum	מינימום	minim	מינימום	N;NOM;SG;3	N;MASC;SG
+minimum	מינימלי	minim	מינימלי	N;NOM;SG;3	N;MASC;SG
+cbs	gis	cbs	gis		
+yen	ין	yen	ין		
+parametre	פרמטר	parametre	פרמטר	N;NOM;SG;3	N;MASC;SG
+bitkisel	ירק	bitkisel	ירק		
+önerisi	הצעה	öneri	הצעה	N;NOM;SG;3	N;FEM;SG
+topluluklar	קהילות	topluluk	קהילה	N;NOM;PL;3	N;FEM;PL
+kulüpleri	מועדונים	kulüp	מועדון	N;ACC;PL;3	N;MASC;PL
+engellendi	נחסם	engelle	נחסם		
+çekimler	יריות	çekim	ירייה	N;NOM;PL;3	N;FEM;PL
+çekimler	שוטים	çekim	שוטה	N;NOM;PL;3	N;MASC;PL
+çekimler	זריקות	çekim	זריקה	N;NOM;PL;3	N;FEM;PL
+kaybeder	לאבד	kaybet	איבד	V;IPFV;IND;SG;3;POS	V;NFIN;ACT
+kaybeder	להפסיד	kaybet	הפסיד	V;IPFV;IND;SG;3;POS	V;NFIN;ACT
+milletvekilleri	סגנים	milletvekili	סגן	N;NOM;PL;3	N;MASC;PL
+milletvekilleri	המחוקקים	milletvekili	המחוקק	N;NOM;PL;3	N;MASC;PL
+videoları	סרטונים	video	סרטון	N;ACC;PL;3	N
+sarp	תלול	sarp	תלול		
+kaydedilen	מוקלט	kaydet	מוקלט	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;MASC;SG;V.PTCP;PASS
+sipariş	הסדר	sipariş	הסדר	N;NOM;SG;3	N;MASC;SG
+sipariş	הזמנה	sipariş	הזמנה	N;NOM;SG;3	N;FEM;SG
+sipariş	סדר	sipariş	סדר	N;NOM;SG;3	N;MASC;SG
+sipariş	פקודה	sipariş	פקודה	N;NOM;SG;3	N;FEM;SG
+sipariş	פקודה	sipariş	פקודה	N;NOM;SG;3	N;FEM;SG
+ağaçlar	עצים	ağaç	עץ	N;NOM;PL;3	N;MASC;PL
+gözlemci	הצופה	gözlemci	הצופה		
+değişti	השתנה	değiş	השתנה	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST
+değişti	השתנתה	değiş	השתנה	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST
+göller	אגמים	göl	אגם	N;NOM;PL;3	N;MASC;PL
+katılımı	נוכחות	katılım	נוכחות	N;ACC;SG;3	N;FEM;SG
+katılımı	השתתפות	katılım	השתתפות	N;ACC;SG;3	N;FEM;SG
+katılımı	ההשתתפות	katılım	ההשתתפות	N;ACC;SG;3	N;FEM;SG
+asi	מורד	asi	מורד		
+asi	המורד	asi	המורד		
+ilaçlar	תרופות	ilaç	תרופה	N;NOM;PL;3	N;FEM;PL
+ilaçlar	תרופות	ilaç	תרופה	N;NOM;PL;3	N;FEM;PL
+ilaçlar	גלולות	ilaç	גלול	N;NOM;PL;3	N;FEM;PL
+ilaçlar	כדורים	ilaç	כדור	N;NOM;PL;3	N;MASC;PL
+yahudilere	יהודים	yahudi	יהודי	N;DAT;PL;3	N;MASC;PL
+teşhis	אבחון	teşhis	אבחון	N;NOM;SG;3	N;MASC;SG
+teşhis	אבחנה	teşhis	אבחנה	N;NOM;SG;3	N;FEM;SG
+teşhis	אבחון	teşhis	אבחון	N;NOM;SG;3	N;MASC;SG
+teşhis	אבחנה	teşhis	אבחנה	N;NOM;SG;3	N;FEM;SG
+teşhis	אבחון	teşhis	אבחון	N;NOM;SG;3	N;MASC;SG
+tavşan	ארנב	tavşan	ארנב		
+tavşan	ארנב	tavşan	ארנב		
+thunder	רעם	thunder	רעם		
+yaklaşan	מתקרב	yaklaş	התקרב	V;PFV;IND;POS;PRS;V.PTCP	V;MASC;SG;V.PTCP
+yaklaşan	מתקרבת	yaklaş	התקרב	V;PFV;IND;POS;PRS;V.PTCP	V;FEM;SG;V.PTCP
+yaklaşan	מתקרבים	yaklaş	התקרב	V;PFV;IND;POS;PRS;V.PTCP	V;MASC;PL;V.PTCP
+iğne	הזרקת	iğne	הזרקה	N;NOM;SG;3	N;PSSD;FEM;SG
+iğne	הזרקה	iğne	הזרקה	N;NOM;SG;3	N;FEM;SG
+iğne	זריקה	iğne	זריקה	N;NOM;SG;3	N;FEM;SG
+iğne	סיכה	iğne	סיכה	N;NOM;SG;3	N;FEM;SG
+dokuma	לארוג	dokum	ארג		
+eşsiz	ייחודיים	eşsiz	ייחודי	ADJ	ADJ;MASC;PL
+eşsiz	ייחודיות	eşsiz	ייחודי	ADJ	ADJ;FEM;PL
+eşsiz	ייחודי	eşsiz	ייחודי	ADJ	ADJ;MASC;SG
+katılımcılar	נוכחים	katılımcı	נוכח	N;NOM;PL;3	N;MASC;PL
+katılımcılar	המציגים	katılımcı	המציג	N;NOM;PL;3	N;MASC;PL
+deve	גמל	deve	גמל		
+ameliyat	ניתוח	ameliyat	ניתוח	N;NOM;SG;3	N;MASC;SG
+ameliyat	כירורגיה	ameliyat	כירורגיה	N;NOM;SG;3	N
+ameliyat	מבצע	ameliyat	מבצע	N;NOM;SG;3	N;MASC;SG
+beckett	באקט	beckett	באקט		
+kaplar	מכולות	kap	מכולה	N;NOM;PL;3	N;FEM;PL
+kaplar	מיכלים	kap	מיכל	N;NOM;PL;3	N;MASC;PL
+harfler	אותיות	harf	אות	N;NOM;PL;3	N;FEM;PL
+harfler	מכתבים	harf	מכתב	N;NOM;PL;3	N;MASC;PL
+cohen	cohen	cohen	cohen		
+esp	esp	esp	esp		
+tarafsızlık	הנייטרליות	tarafsızlık	הנייטרליות	N;NOM;SG;3	N;FEM;SG
+motorları	מנועים	motor	נועה	N;ACC;PL;3	N;MASC;PL
+motorları	מנועי	motor	מנועה	N;ACC;PL;3	N;PSSD;MASC;PL
+motorları	המנועים	motor	המנוע	N;ACC;PL;3	N;MASC;PL
+discovery	תגלית	discovery	תגלית	N;NOM;SG;3	N;FEM;SG
+discovery	גילוי	discovery	גילוי	N;NOM;SG;3	N;MASC;SG
+bahçeleri	גנים	bahçe	גן	N;ACC;PL;3	N;MASC;PL
+cola	קולה	cola	קולה		
+cola	קולה	cola	קולה		
+xxx	xxx	xxx	xxx		
+kumaş	מבד	kumaş	מבד		
+kumaş	אריג	kumaş	אריג		
+odak	מיקוד	odak	מיקוד		
+sınav	בחינה	sınav	בחינה	N;NOM;SG;3	N;FEM;SG
+sınav	חידון	sınav	חידון	N;NOM;SG;3	N;MASC;SG
+sınav	בוחן	sınav	בחן	N;NOM;SG;3	N;MASC;SG
+sınav	הבחינות	sınav	הבחינות	N;NOM;SG;3	N;FEM;SG
+sınav	מבחן	sınav	מבחן	N;NOM;SG;3	N;MASC;SG
+sınav	בדיקה	sınav	בדיקה	N;NOM;SG;3	N;FEM;SG
+tarama	סרוק	tarama	סרוק		
+satürn	שבתאי	satürn	שבתאי		
+favori	אהוב	favori	אהוב		
+şef	שף	şef	שף		
+şef	השף	şef	השף		
+vergisi	מס	vergi	מס	N;NOM;SG;3	N;MASC;SG
+arayan	מתקשרת	ara	התקשר	V;PFV;IND;POS;PRS;V.PTCP	V;FEM;SG;V.PTCP
+arayan	מתקשר	ara	התקשר	V;PFV;IND;POS;PRS;V.PTCP	V;MASC;SG;V.PTCP
+gözde	אהוב	gözde	אהוב		
+çiçekler	פרחים	çiçek	פרח	N;NOM;PL;3	N;MASC;PL
+dalları	ענפים	dal	ענף	N;NOM;PL;3	N;MASC;PL
+dalları	סניפים	dal	סניף	N;NOM;PL;3	N;MASC;PL
+dalları	ענפי	dal	ענף	N;NOM;PL;3	N;MASC;PL
+durak	עוצר	durak	עוצר		
+momentum	תנופה	momentum	תנופה	N;NOM;SG;3	N;FEM;SG
+mürettebat	צוות	mürettebat	צוות	N;NOM;SG;3	N;FEM;SG
+organları	איברים	organ	איבר	N;NOM;PL;3	N;MASC;PL
+doğumu	הלידה	doğum	הלידה	N;ACC;SG;3	N;FEM;SG
+doğumu	לידה	doğum	לידה	N;ACC;SG;3	N;FEM;SG
+stand	עמוד	stand	עמוד		
+notları	פתקים	not	פתק	N;ACC;PL;3	N;MASC;PL
+notları	רשימות	not	רשימה	N;ACC;PL;3	N;FEM;PL
+notları	הערות	not	הערה	N;ACC;PL;3	N;FEM;PL
+notları	תווים	not	תווים	N;ACC;PL;3	N;MASC;PL
+notları	הציונים	not	הציון	N;ACC;PL;3	N;MASC;PL
+notları	ציונים	not	ציון	N;ACC;PL;3	N;MASC;PL
+kavramları	מושגים	kavram	מושג	N;ACC;PL;3	N;MASC;PL
+çözmek	לפתור	çöz	פתר	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;NFIN;ACT
+zıt	ההפך	zıt	ההפך		
+helikopter	מסוק	helikopter	מסוק	N;NOM;SG;3	N;MASC;SG
+koch	קוץ	koch	קוץ		
+yetenekleri	כישרונות	yetenek	כישרון	N;NOM;PL;3	N;MASC;PL
+yetenekleri	כשרונות	yetenek	כישרון	N;NOM;PL;3	N;MASC;PL
+atı	ati	at	ati		
+mhz	mhz	mhz	mhz		
+ekseni	ציר	ekseni	ציר		
+seti	סט	set	סט		
+seti	הסט	set	הסט		
+seti	הגדר	set	הגדר		
+seti	seti	set	seti		
+makina	המכונה	makina	המכון		
+tasarımcı	מעצב	tasarımcı	מעצב		
+sır	סוד	sır	סוד		
+sır	סוד	sır	סוד		
+boyutları	מימדים	boyut	ימד	N;ACC;PL;3	N;MASC;PL
+boyutları	ממדים	boyut	ממד	N;ACC;PL;3	N;MASC;PL
+boyutları	מידות	boyut	מידה	N;ACC;PL;3	N;FEM;PL
+deneyler	ניסויים	deney	ניסוי	N;NOM;PL;3	N;MASC;PL
+six	six	six	six		
+kıyıları	חופים	kıyı	חוף	N;ACC;PL;3	N;MASC;PL
+rush	רש	rush	רש		
+bilinçli	בהכרה	bilinçli	בהכרה		
+bull	שור	bull	שור		
+bull	בול	bull	בול		
+alüminyum	אלומיניום	alüm	אלומיניום	N;NOM;SG;3	N;MASC;SG
+alüminyum	אלומיניום	alüm	אלומיניום	N;NOM;SG;3	N;MASC;SG
+varsayılan	מחדל	varsa	מחדל		
+kodları	קודים	kod	קודה	N;ACC;PL;3	N;MASC;PL
+kodları	צפנים	kod	צפנה	N;ACC;PL;3	N;MASC;PL
+yapıcı	בונה	yapıcı	בנה		
+karaciğer	כבד	karaciğer	כבד		
+karaciğer	הכבד	karaciğer	הכבד		
+hatalar	שגיאות	hata	שגיאה	N;NOM;PL;3	N;FEM;PL
+hatalar	טעויות	hata	טעות	N;NOM;PL;3	N;FEM;PL
+hatalar	המגרעות	hata	המגרעות	N;NOM;PL;3	N;FEM;PL
+hatalar	פגמים	hata	פגם	N;NOM;PL;3	N;MASC;PL
+hatalar	שגיאות	hata	שגיאה	N;NOM;PL;3	N;FEM;PL
+hatalar	באגים	hata	באגים	N;NOM;PL;3	N;MASC;PL
+hatalar	חרקים	hata	חרק	N;NOM;PL;3	N;MASC;PL
+atanmış	הוקצה	atan	הוקצה	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+diamond	יהלום	diamond	הלם	N;NOM;SG;3	N;MASC;SG
+dame	דיים	dame	דיים		
+dame	דאם	dame	דאם		
+tanımlanmış	זוהה	tanımla	זוהה	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+çalışkan	חרוץ	çalışkan	חרוץ		
+çalışkan	חרוץ	çalışkan	חרוץ		
+bankacılık	בנקאות	bankacılık	בנקאות	N;NOM;SG;3	N;FEM;SG
+bankacılık	בנק	bankacılık	בנק	N;NOM;SG;3	N;MASC;SG
+kaçmak	לברוח	kaç	ברח	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;NFIN;ACT
+asal	פריים	asal	פריים		
+öyküler	סיפורים	öykü	סיפור	N;NOM;PL;3	N;MASC;PL
+öyküler	מעשיות	öykü	מעשייה	N;NOM;PL;3	N;FEM;PL
+öyküler	סיפורים	öykü	סיפור	N;NOM;PL;3	N;MASC;PL
+çim	הדשא	çim	הדשא		
+çim	דשא	çim	דשא		
+çim	עשב	çim	עשב		
+bitkileri	צמחים	bitki	צמח	N;ACC;PL;3	N;MASC;PL
+heyet	הוועד	heyet	הוועד		
+hughes	היוז	hughes	היוז		
+eylemleri	מעשים	eylem	מעשה	N;ACC;PL;3	N;MASC;PL
+eylemleri	פעולות	eylem	פעולה	N;ACC;PL;3	N;FEM;PL
+lucky	מזל	lucky	מזל		
+armağan	מתנה	armağan	מתנה		
+atölyesi	סדנה	atölye	סדנה	N;NOM;SG;3	N;FEM;SG
+atölyesi	סדנת	atölye	סדנה	N;NOM;SG;3	N;FEM;SG
+üstte	עליון	üst	עליון	ADJ;ESS;SG;3	ADJ;MASC;SG
+oynamak	משחקת	oyna	משחקה	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP;ACT
+ekledi	הוסיף	ekle	הוסיף	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+ekledi	נוספה	ekle	נוסף	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST;MID
+ekledi	הוסיפה	ekle	הוסיף	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST;ACT
+rolleri	תפקידים	rol	תפקיד	N;ACC;PL;3	N;MASC;PL
+kaydedildi	הוקלט	kaydet	הוקלט	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+kalanlar	שאריות	kalan	שארית	N;NOM;PL;3	N;FEM;PL
+kromozom	כרומוזום	kromozom	כרומוזום	N;NOM;SG;3	N;MASC;SG
+sertifika	תעודה	sertifika	תעודה	N;NOM;SG;3	N;FEM;SG
+sertifika	הסמכה	sertifika	הסמכה	N;NOM;SG;3	N;FEM;SG
+dağıtımı	הפצה	dağıt	הפצה	N;NOM;SG;3	N;FEM;SG
+dağıtımı	התפלגות	dağıt	התפלגות	N;NOM;SG;3	N;FEM;SG
+illeri	מחוזות	il	מחוז	N;ACC;PL;3	N;MASC;PL
+aç	רעבה	aç	רעבה		
+sözcükler	מלים	sözcük	מילה	N;NOM;PL;3	N;FEM;PL
+sözcükler	מילות	sözcük	מילה	N;NOM;PL;3	N;FEM;PL
+sözcükler	מילים	sözcük	מילה	N;NOM;PL;3	N;FEM;PL
+kayıplar	אבדות	kayıp	אבדה	N;NOM;PL;3	N;FEM;PL
+kayıplar	אבידות	kayıp	אבדה	N;NOM;PL;3	N;FEM;PL
+kayıplar	ההפסדים	kayıp	ההפסד	N;NOM;PL;3	N;MASC;PL
+kayıplar	הפסדים	kayıp	הפסד	N;NOM;PL;3	N;MASC;PL
+kayıplar	נפגעים	kayıp	נפגע	N;NOM;PL;3	N;MASC;PL
+kayıplar	אבדות	kayıp	אבדה	N;NOM;PL;3	N;FEM;PL
+kayıplar	אבידות	kayıp	אבדה	N;NOM;PL;3	N;FEM;PL
+kayıplar	חללים	kayıp	חלל	N;NOM;PL;3	N;MASC;PL
+bilhassa	בייחוד	bilhassa	בייחוד		
+grey	אפור	grey	אפור		
+ghost	ghost	ghost	ghost		
+düşüş	סרב	düşüş	סרב		
+düşüş	סתיו	düşüş	סתיו		
+vekil	מתווך	vekil	התווך		
+koy	לשים	koy	שם	V;PFV;IMP;SG;2;POS;PRS	V;NFIN;ACT
+kapıları	שערים	kapı	שער	N;ACC;PL;3	N;MASC;PL
+kapıları	דלתות	kapı	דלת	N;ACC;PL;3	N;FEM;PL
+slogan	המוטו	slogan	המוטה		
+slogan	מוטו	slogan	מוטו		
+şahit	עדה	şahit	עדה		
+şahit	עדה	şahit	עדה		
+şahit	העד	şahit	העד		
+tez	התזה	tez	התזה		
+lil	ליל	lil	ליל		
+homo	הומו	homo	הומה		
+keşfedildi	התגלתה	keşfet	התגלה	V;PFV;IND;SG;3;POS;PST;PASS	V;FEM;SG;3;PST
+keşfedildi	שהתגלה	keşfet	שהגלל	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST
+keşfedildi	התגלה	keşfet	התגלה	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST
+pul	בול	pul	בול		
+gözlemevi	במצפה	gözlemevi	במצפה		
+mağarası	מערה	mağara	מערה	N;NOM;SG;3	N;FEM;SG
+eğri	עקום	eğri	עקום		
+nesneler	עצמים	nesne	עצם	N;NOM;PL;3	N;MASC;PL
+nesneler	חפצים	nesne	חפץ	N;NOM;PL;3	N;MASC;PL
+nesneler	אובייקטים	nesne	אובייקט	N;NOM;PL;3	N;MASC;PL
+içten	כנה	içten	כן		
+içten	כנות	içten	כנות		
+rahatsızlık	הפרעה	rahatsızlık	הפרעה	N;NOM;SG;3	N;FEM;SG
+adlar	שמות	ad	שם	N;NOM;PL;3	N;MASC;PL
+bira	בירות	bira	בירה		
+basında	עיתונות	bas	עיתונות	N;ESS;SG;3	N;FEM;SG
+basında	מדיה	bas	מדיה	N;ESS;SG;3	N;MASC;SG
+basında	תקשורת	bas	תקשורת	N;ESS;SG;3	N;FEM;SG
+shaw	שו	shaw	שו		
+sorumluluğu	אחריות	sorumluluk	אחריות	N;ACC;SG;3	N;FEM;SG
+string	מיתר	string	מיתר		
+basılmış	מודפס	basıl	הודפס	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;MASC;SG;V.PTCP;PASS
+gurur	גאה	gurur	גאה		
+potasyum	אשלגן	potasyum	אשלגן	N;NOM;SG;3	N;MASC;SG
+restorasyon	שיקום	restorasyon	שיקום	N;NOM;SG;3	N;MASC;SG
+restorasyon	שחזור	restorasyon	שחזור	N;NOM;SG;3	N;MASC;SG
+ziyareti	ביקור	ziyaret	ביקור	N;ACC;SG;3	N;MASC;SG
+ziyareti	מבקר	ziyaret	מבקר	N;ACC;SG;3	N;MASC;SG
+sergio	סרחיו	sergio	סרחיו		
+kentler	ערים	kent	עיר	N;NOM;PL;3	N;FEM;PL
+izole	מבודדים	izole	מבודד		
+varisi	יורש	vari	הורש	N;NOM;SG;3	N;MASC;SG
+tiger	נמר	tiger	נמר		
+olgun	בוגר	olgun	בוגר		
+kendimi	עצמי	kendi	עצמו	PRO;ACC;SG;1;REFL	PRO;SG;1;REFL
+topal	נכה	topal	נכה		
+topal	מעפן	topal	עיפן		
+kabuğu	קליפה	kabuk	קליפה	N;NOM;SG;3	N;FEM;SG
+cesaret	אומץ	cesaret	אומץ		
+cesaret	אומץ	cesaret	אומץ		
+çoğul	ברבים	çoğul	ברבי		
+pen	פן	pen	פן		
+storm	סופה	stor	ספה		
+oyuncak	צעצוע	oyuncak	צעצוע	N;NOM;SG;3	N;MASC;SG
+köfte	קציצה	köft	קציצה	N;NOM;SG;3	N;FEM;SG
+problemler	בעיות	problem	בעיה	N;NOM;PL;3	N;FEM;PL
+mezhep	כת	mezhep	כת		
+üstünlüğü	עליונות	üstünlük	עליונות	N;ACC;SG;3	N;FEM;SG
+anlamları	משמעויות	anlam	משמעות	N;ACC;PL;3	N;FEM;PL
+açılışı	פתיחה	açılış	פתיחה	N;NOM;SG;3	N;FEM;SG
+hakimiyet	שליטה	hakimiyet	שליטה	N;DAT;SG;3	N;FEM;SG
+hakimiyet	שליטה	hakimiyet	שליטה	N;DAT;SG;3	N;FEM;SG
+hakimiyet	דומיניון	hakimiyet	דומיניון	N;DAT;SG;3	N;MASC;SG
+atın	זרוק	at	None		
+kopyası	העתק	kopya	העתק		
+keşfetti	התגלתה	keşfet	התגלה	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST
+keşfetti	שהתגלה	keşfet	שהגלל	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST
+keşfetti	גילה	keşfet	גילה	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+keşfetti	התגלה	keşfet	התגלה	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST
+katsayısı	מקדם	katsayı	מקדם	N;NOM;SG;3	N;MASC;SG
+bennett	בנט	bennett	בנט		
+tanı	אבחון	tan	אבחון	N;NOM;SG;3	N;MASC;SG
+tanı	אבחנה	tan	אבחנה	N;NOM;SG;3	N;FEM;SG
+tanı	אבחון	tan	אבחון	N;NOM;SG;3	N;MASC;SG
+tanı	אבחנה	tan	אבחנה	N;NOM;SG;3	N;FEM;SG
+arabası	עגלה	araba	עגל	N;NOM;SG;3	N;FEM;SG
+büyüklük	מידה	büyüklük	מידה	N;NOM;SG;3	N;FEM;SG
+büyüklük	גודל	büyüklük	גודל	N;NOM;SG;3	N;MASC;SG
+kategorileri	קטגוריות	kategori	קטגוריה	N;ACC;PL;3	N;FEM;PL
+bulgular	ממצאים	bulgu	ממצא	N;NOM;PL;3	N;MASC;PL
+bulgular	הממצאים	bulgu	הממצאים	N;NOM;PL;3	N
+ormanlar	יערות	orman	עירה	N;NOM;PL;3	N;MASC;PL
+weber	ובר	weber	ובר		
+belediyeler	עיריות	belediye	עירייה	N;NOM;PL;3	N;FEM;PL
+mode	מוד	mode	מוד		
+buyuk	ביג	buyuk	ביג		
+ayrılık	פרידה	ayrılık	פרידה	N;NOM;SG;3	N;FEM;SG
+ayrılık	הפרדה	ayrılık	הפרדה	N;NOM;SG;3	N;FEM;SG
+ayrılık	פרידה	ayrılık	פרידה	N;NOM;SG;3	N;FEM;SG
+aletleri	מכשירים	alet	הכשיר	N;ACC;PL;3	N;MASC;PL
+aletleri	כלים	alet	כלי	N;ACC;PL;3	N;MASC;PL
+istekleri	בקשות	istek	בקשה	N;ACC;PL;3	N;FEM;PL
+kabileler	שבטים	kabile	שבט	N;NOM;PL;3	N;MASC;PL
+kabileler	השבטים	kabile	השבט	N;NOM;PL;3	N;MASC;PL
+cümleler	ביטויים	cümle	ביטוי	N;NOM;PL;3	N;MASC;PL
+cümleler	משפטים	cümle	משפט	N;NOM;PL;3	N;MASC;PL
+uçaklar	מטוסים	uçak	מטוס	N;NOM;PL;3	N;MASC;PL
+uçaklar	מטוסים	uçak	מטוס	N;NOM;PL;3	N;MASC;PL
+atılmış	הושלך	at	הושלך	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+atılmış	הושלכה	at	הושלך	V;PFV;NFH;IND;SG;3;POS;PST;PASS	V;FEM;SG;3;PST;PASS
+özgürlükler	חירויות	özgürlük	חירות	N;NOM;PL;3	N;FEM;PL
+odaları	חדרים	oda	חדר	N;ACC;PL;3	N;MASC;PL
+sıralı	רצף	sıralı	רצף		
+tuzlu	מלוח	tuzlu	מלוח		
+adayları	המועמדים	aday	המועמד	N;NOM;PL;3	N;MASC;PL
+adayları	מועמדים	aday	מועמד	N;NOM;PL;3	N;MASC;PL
+bilgisayarlar	מחשבים	bilgisayar	מחשב	N;NOM;PL;3	N;MASC;PL
+faktörler	גורמים	faktör	גורם	N;NOM;PL;3	N;MASC;PL
+faktörler	הגורמים	faktör	הגורם	N;NOM;PL;3	N
+nine	נענע	nine	נענע		
+elmalı	תפוח	el	פפח		
+elmalı	אפל	el	אפל		
+sınırlar	הגבלות	sınır	הגבלה	N;NOM;PL;3	N;FEM;PL
+sınırlar	מגבלות	sınır	מגבלה	N;NOM;PL;3	N;FEM;PL
+sınırlar	גבולות	sınır	גבול	N;NOM;PL;3	N;MASC;PL
+sınırlar	גבולות	sınır	גבול	N;NOM;PL;3	N;MASC;PL
+sınırlar	גבולות	sınır	גבול	N;NOM;PL;3	N;MASC;PL
+ifadeleri	הצהרות	ifade	הצהרה	N;ACC;PL;3	N;FEM;PL
+kolonisi	מושבה	koloni	מושבה	N;ACC;SG;3	N;FEM;SG
+sınıflar	הכיתות	sınıf	הכיתות	N;NOM;PL;3	N;FEM;PL
+sınıflar	כיתות	sınıf	כיתות	N;NOM;PL;3	N;FEM;PL
+sınıflar	שיעורים	sınıf	שיעור	N;NOM;PL;3	N;MASC;PL
+sınıflar	קורסים	sınıf	קורס	N;NOM;PL;3	N;MASC;PL
+sınıflar	כיתות	sınıf	כיתות	N;NOM;PL;3	N;FEM;PL
+girişimleri	יוזמות	girişim	יוזמה	N;ACC;PL;3	N;FEM;PL
+girişimleri	ניסיונות	girişim	ניסיון	N;ACC;PL;3	N;MASC;PL
+girişimleri	נסיונות	girişim	ניסיון	N;ACC;PL;3	N;MASC;PL
+buldum	מצאתי	bul	מצא	V;PFV;IND;SG;1;POS;PST	V;SG;1;PST;ACT
+dalgalar	גלים	dalga	גל	N;NOM;PL;3	N;MASC;PL
+nat	נט	nat	נט		
+nat	נאט	nat	נאט		
+spider	עכביש	spider	עכביש		
+harap	רעוע	harap	רעוע		
+harap	הרוס	harap	הרוס		
+harap	הרוס	harap	הרוס		
+molekül	מולקולרית	molekül	מולקולרית	N;NOM;SG;3	N;FEM;SG
+molekül	מולקולרי	molekül	מולקולרי	N;NOM;SG;3	N;MASC;SG
+molekül	מולקולה	molekül	מולקולה	N;NOM;SG;3	N;FEM;SG
+molekül	מולקולה	molekül	מולקולה	N;NOM;SG;3	N;FEM;SG
+madencilik	כרייה	madencilik	כרייה	N;NOM;SG;3	N;FEM;SG
+yayıldı	התפשט	yay	התפשט	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST
+terminal	מסוף	terminal	מסוף		
+sakatlık	פציעה	sakatlık	פציעה	N;NOM;SG;3	N;FEM;SG
+sakatlık	לקות	sakatlık	None	N;NOM;SG;3	N;FEM;SG
+sakatlık	נכות	sakatlık	נכות	N;NOM;SG;3	N;FEM;SG
+çekmiş	התכווץ	çek	התכווץ	V;PFV;NFH;IND;SG;3;POS;PST	V;SG
+sophie	סופי	sophie	סופי		
+yayılması	מתפשט	yay	התפשט	V;PFV;NOM;IND;POS;PRS;V.MSDR;PASS	V;MASC;SG;V.PTCP
+muazzam	fab	muazzam	fab		
+magazin	מגזין	magazin	מגזין		
+dosyalar	קבצים	dosya	קבץ	N;NOM;PL;3	N;MASC;PL
+dosyalar	תיקים	dosya	תיק	N;NOM;PL;3	N;MASC;PL
+patent	פטנט	patent	פטנט	N;NOM;SG;3	N;MASC;SG
+tara	סרוק	tara	סרוק		
+düzenle	עריכה	düzen	עריכה	N;INS;SG;3	N;FEM;SG
+atomik	אטומי	atomik	אטומי	ADJ	ADJ;MASC;PL
+bölünmüş	מחולק	böl	חולק	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;MASC;SG;V.PTCP;PASS
+bölünmüş	מחולקת	böl	חולק	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;FEM;SG;V.PTCP;PASS
+crown	הכתר	crown	הכתר		
+tuğla	לבנה	tuğ	לבן		
+bitişik	בצמוד	bitişik	בצמוד		
+bitişik	בסמוך	bitişik	בסמוך		
+bitişik	בצמוד	bitişik	בצמוד		
+bitişik	הסמוך	bitişik	הסמוך		
+kap	מיכל	kap	מיכל		
+bakkal	מצרכים	bakkal	מצרכים		
+idrar	שתן	idrar	שתן	N;NOM;SG;3	N;FEM;SG
+maliyet	מחיר	maliyet	מחיר	N;NOM;SG;3	N;MASC;SG
+maliyet	עלות	maliyet	עלות	N;NOM;SG;3	N;FEM;SG
+maliyet	עולה	maliyet	עולה	N;NOM;SG;3	N;MASC;SG
+paylaştı	שיתף	paylaş	שיתף	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+paylaştı	פורסם	paylaş	פורסם	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;PASS
+paylaştı	פורסמה	paylaş	פורסם	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST;PASS
+paylaştı	פרסמה	paylaş	פרסם	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST;ACT
+paylaştı	פרסם	paylaş	פרסם	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+mektuplar	אותיות	mektup	אות	N;NOM;PL;3	N;FEM;PL
+mektuplar	מכתבים	mektup	מכתב	N;NOM;PL;3	N;MASC;PL
+tüccar	הסוחר	tüccar	הסוחר		
+motorlar	מנועים	motor	נועה	N;NOM;PL;3	N;MASC;PL
+motorlar	מנועי	motor	מנועה	N;NOM;PL;3	N;PSSD;MASC;PL
+motorlar	המנועים	motor	המנוע	N;NOM;PL;3	N;MASC;PL
+solar	שמש	solar	שמש		
+sağlama	checksum	sağla	checksum		
+taşımak	לסחוב	taşı	סחב	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;NFIN;ACT
+taşımak	לשאת	taşı	נשא	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;NFIN;ACT
+seth	סת	seth	סת		
+devir	rpm	devir	rpm		
+yasalar	חוקים	yasa	חוק	N;NOM;PL;3	N;MASC;PL
+vfb	vfb	vfb	vfb		
+laz	לאז	laz	לאז		
+telli	מיתר	telli	מיתר		
+memorial	הנצחה	memorial	הנצחה	N;NOM;SG;3	N;FEM;SG
+benzin	הדלק	benz	הדלק		
+açıklık	פתיחות	açıklık	פתיחות	N;NOM;SG;3	N;FEM;SG
+açıklık	בהירות	açıklık	בהירות	N;NOM;SG;3	N;FEM;SG
+bağımsızlığı	עצמאות	bağımsızlık	עצמאות	N;ACC;SG;3	N;FEM;SG
+zorluk	קושי	zorluk	קושי	N;NOM;SG;3	N;MASC;SG
+zorluk	הקשיים	zorluk	הקשיים	N;NOM;SG;3	N
+huzur	רוגע	huzur	רגע		
+huzur	שלווה	huzur	שלווה		
+huzur	השלום	huzur	השלום		
+huzur	שלווה	huzur	שלווה		
+huzur	שלווה	huzur	שלווה		
+huzur	שליו	huzur	של		
+huzur	שלווה	huzur	שלווה		
+simgeler	סמלים	simge	סמל	N;NOM;PL;3	N;MASC;PL
+simgeler	סמלים	simge	סמל	N;NOM;PL;3	N;MASC;PL
+düşünceler	מחשבות	düşünce	מחשבה	N;NOM;PL;3	N;FEM;PL
+düşünceler	המחשבות	düşünce	המחשבות	N;NOM;PL;3	N;FEM;PL
+saatler	שעות	saat	שעה	N;NOM;PL;3	N;FEM;PL
+saatler	שעונים	saat	שעון	N;NOM;PL;3	N;MASC;PL
+saatler	שעונים	saat	שעון	N;NOM;PL;3	N;MASC;PL
+foto	foto	foto	foto		
+biçimli	בצורת	biçimli	בצורת		
+kutlu	מבורך	kutlu	מבורך		
+kabine	ארון	kabin	ארון	N;NOM;SG;3	N;MASC;SG
+derek	דרק	derek	דרק		
+kuzu	טלה	kuz	טלה		
+yeryüzü	הארץ	yeryüzü	הארץ		
+bağlılık	נאמנות	bağlılık	נאמנות	N;NOM;SG;3	N;FEM;SG
+bağlılık	מסירות	bağlılık	מסירות	N;NOM;SG;3	N;FEM;SG
+bağlılık	התחייבות	bağlılık	התחייבות	N;NOM;SG;3	N;FEM;SG
+bağlılık	מחויבות	bağlılık	מחויבות	N;NOM;SG;3	N;FEM;SG
+çiftçilik	חקלאות	çiftçilik	חקלאות	N;NOM;SG;3	N;FEM;SG
+işsizlik	אבטלה	işsizlik	אבטלה	N;NOM;SG;3	N;FEM;SG
+ihtiyaçları	הצרכים	ihtiyaç	הצרכים	N;NOM;PL;3	N;MASC;PL
+fiyatı	מחיר	fiyat	מחיר	N;ACC;SG;3	N;MASC;SG
+ekimi	השתלה	ekim	השתלה	N;NOM;SG;3	N;FEM;SG
+bakmak	מסתכל	bak	הסתכל	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP
+bakmak	מחפש	bak	חיפש	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP;ACT
+bakmak	מחפשת	bak	חיפש	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP;ACT
+belirtildi	צוין	belir	צוין	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+kâr	הרווח	kâr	הרווח		
+mühendisleri	מהנדסים	mühendis	מהנדס	N;ACC;PL;3	N;MASC;PL
+kökleri	שורשים	kök	שורש	N;NOM;PL;3	N;MASC;PL
+ortaklık	שותפות	ortaklık	שותפות	N;NOM;SG;3	N;FEM;SG
+döngüsü	לולאה	döngü	לולאה	N;NOM;SG;3	N;FEM;SG
+döngüsü	מחזור	döngü	מחזור	N;NOM;SG;3	N;MASC;SG
+sarhoş	שיכור	sarhoş	שיכור		
+sarhoş	שיכור	sarhoş	שיכור		
+sarhoş	שתוי	sarhoş	שתוי		
+yankı	אקו	yankı	אקו		
+yankı	הד	yankı	הד		
+sergiler	תערוכות	sergi	תערוכת	N;NOM;PL;3	N;FEM;PL
+keşiş	נזיר	keşiş	נזיר		
+durağan	יציב	durağan	יציב	ADJ	ADJ;MASC;SG
+manzara	תפאורה	manzara	תפאורה	N;NOM;SG;3	N;FEM;SG
+manzara	נוף	manzara	נוף	N;NOM;SG;3	N;MASC;SG
+manzara	צפייה	manzara	צפייה	N;NOM;SG;3	N;FEM;SG
+manzara	תצוגה	manzara	תצוגה	N;NOM;SG;3	N;FEM;SG
+sitede	אתר	site	אתר	N;ESS;SG;3	N;MASC;SG
+düğünler	חתונות	düğün	חתונה	N;NOM;PL;3	N;FEM;PL
+amt	amt	amt	amt		
+bileşenleri	רכיבים	bileş	רכיב	N;ACC;PL;3	N;MASC;PL
+masum	תמים	masum	תמים		
+binaların	בניינים	bina	בניין	N;GEN;PL;3	N;MASC;PL
+binaların	מבנים	bina	מבנה	N;GEN;PL;3	N;MASC;PL
+hannibal	חניבעל	hannibal	חניבעל		
+bolca	בשפע	bolca	בשפע		
+bolca	שפע	bolca	שפע		
+şampiyona	אליפות	şampiyon	אליפות	N;DAT;SG;3	N;FEM;SG
+sinek	לעוף	sinek	לעוף		
+sinek	טוס	sinek	טס		
+tutarlı	עקבי	tutarlı	עקבי		
+tutarlı	עקבי	tutarlı	עקבי		
+anlaşılan	מסתבר	anlaş	הסתבר	V;PFV;IND;POS;PRS;V.PTCP;PASS	V;MASC;SG;V.PTCP
+tükenmiş	מרוקן	tüken	מרוקן	V;PFV;NFH;IND;POS;PST;V.PTCP	V;MASC;SG;V.PTCP;PASS
+auf	אאוף	auf	אאוף		
+suçlar	פשעים	suç	פשע	N;NOM;PL;3	N;MASC;PL
+suçlar	עבירות	suç	עבירה	N;NOM;PL;3	N;FEM;PL
+büyücü	אוב	büyücü	אוב		
+koku	הריח	koku	הריח		
+umman	אומן	umman	אומן		
+ayakları	רגליים	ayak	רגל	N;NOM;PL;3	N;FEM;PL
+işlevsel	תפקודי	işlevsel	תפקודי	ADJ	ADJ;MASC;SG
+rehber	מדריך	rehber	מדריך		
+davranışı	התנהגות	davranış	התנהגות	N;ACC;SG;3	N;FEM;SG
+masalı	מעשייה	masal	העשייה	N;ACC;SG;3	N;FEM;SG
+tamer	מאלף	tamer	מאלף		
+kısımlar	מחלקות	kısım	מחלקה	N;NOM;PL;3	N;FEM;PL
+kısımlar	חלקים	kısım	חלק	N;NOM;PL;3	N;MASC;PL
+denklemleri	משוואות	denklem	משוואה	N;ACC;PL;3	N;FEM;PL
+dinin	דת	din	דת	N;GEN;SG;3	N;FEM;SG
+öncelik	עדיפות	öncelik	עדיפות	N;NOM;SG;3	N;FEM;SG
+başlamak	מתחילה	başla	התחיל	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP;ACT
+başlamak	מתחיל	başla	התחיל	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP
+duff	דאף	duff	דאף		
+sahneler	סצנות	sahne	סצנות	N;NOM;PL;3	N;FEM;PL
+sahneler	סצינות	sahne	סצנה	N;NOM;PL;3	N;FEM;PL
+bakımı	תחזוקה	bakım	תחזוקה	N;NOM;SG;3	N;FEM;SG
+bakımı	אחזקה	bakım	אחזקה	N;NOM;SG;3	N;FEM;SG
+iddialar	תביעות	iddia	תביעה	N;NOM;PL;3	N;FEM;PL
+iddialar	טענות	iddia	טענה	N;NOM;PL;3	N;FEM;PL
+iddialar	טענות	iddia	טענה	N;NOM;PL;3	N;FEM;PL
+iddialar	האשמות	iddia	האשמה	N;NOM;PL;3	N;FEM;PL
+eczacılık	מרקחת	eczacılık	מרקחת	N;NOM;SG;3	N;FEM;SG
+discogs	discogs	discogs	discogs		
+kullanın	להשתמש	kullan	השתמש	V;PFV;IMP;PL;2;POS;PRS	V;NFIN
+kupalar	ספלים	kupa	ספלים	N;NOM;PL;3	N;MASC;PL
+eşitliği	שוויון	eşitlik	שוויון	N;ACC;SG;3	N;MASC;SG
+eşitliği	שיוויון	eşitlik	שוויון	N;ACC;SG;3	N;MASC;SG
+seyrek	נא	seyrek	None		
+seyrek	נדיר	seyrek	נדיר		
+seyrek	דלילה	seyrek	דליל		
+tecavüz	אנס	tecavüz	אנס		
+kazılar	חפירות	kazı	חפירות	N;NOM;PL;3	N;FEM;PL
+dino	דינו	dino	דינו		
+bask	בסקי	bask	בסק		
+tablolar	שולחנות	tablo	שולחנות	N;NOM;PL;3	N;MASC;PL
+tablolar	גיליונות	tablo	גיליונות	N;NOM;PL;3	N;MASC;PL
+tablolar	תרשימים	tablo	תרשים	N;NOM;PL;3	N;MASC;PL
+tablolar	ציורים	tablo	ציור	N;NOM;PL;3	N;MASC;PL
+deposu	מאגר	depo	מאגר	N;NOM;SG;3	N;MASC;SG
+tarihler	תאריכים	tarih	תאריך	N;NOM;PL;3	N;MASC;PL
+bulvarı	אבניו	bulvar	אבניו		
+komutanları	מפקדים	komutan	מפקד	N;ACC;PL;3	N;MASC;PL
+inek	פרות	inek	פרות		
+inek	פרה	inek	פרה		
+inek	פרת	inek	פרת		
+concacaf	concacaf	concacaf	concacaf	N;NOM;SG;3	N;FEM;SG
+görüntüleme	צפיה	görüntüleme	צפיה		
+kayalar	אבנים	kaya	אבן	N;NOM;PL;3	N;FEM;PL
+kayalar	סלעים	kaya	סלע	N;NOM;PL;3	N;MASC;PL
+gerçeklik	אמינות	gerçeklik	אמינות	N;NOM;SG;3	N;FEM;SG
+gerçeklik	אותנטיות	gerçeklik	אותנטי	N;NOM;SG;3	N;FEM;SG
+gerçeklik	ריאליזם	gerçeklik	ריאליזם	N;NOM;SG;3	N;MASC;SG
+gerçeklik	המציאות	gerçeklik	המציאות	N;NOM;SG;3	N;FEM;SG
+gerçeklik	מציאות	gerçeklik	מציאות	N;NOM;SG;3	N;FEM;SG
+hammer	פטיש	hammer	פטיש		
+hedefleri	שערים	hedef	שער	N;NOM;PL;3	N;MASC;PL
+hedefleri	מטרות	hedef	מטרה	N;NOM;PL;3	N;FEM;PL
+hedefleri	יעדים	hedef	יעד	N;NOM;PL;3	N;MASC;PL
+ned	נד	ned	נד		
+müthiş	אדיר	müthiş	אדיר		
+elektronlar	אלקטרונים	elektron	אלקטרון	N;NOM;PL;3	N;MASC;PL
+kanallar	ערוצים	kanal	ערץ	N;NOM;PL;3	N;MASC;PL
+kanallar	ערוצי	kanal	ערוץ	N;NOM;PL;3	N;PSSD;MASC;PL
+kanallar	הערוצים	kanal	הערוץ	N;NOM;PL;3	N;MASC;PL
+kanallar	תעלות	kanal	תעלה	N;NOM;PL;3	N;FEM;PL
+istikrarlı	עקבית	istikrarlı	עקבית	ADJ	ADJ;FEM;SG
+istikrarlı	יציב	istikrarlı	יציב	ADJ	ADJ;MASC;SG
+acımasız	אכזרי	acımasız	אכזרי	ADJ	ADJ;MASC;SG
+acımasız	אכזרית	acımasız	אכזרי	ADJ	ADJ;FEM;SG
+acımasız	אכזרי	acımasız	אכזרי	ADJ	ADJ;MASC;SG
+acımasız	אכזרית	acımasız	אכזרי	ADJ	ADJ;FEM;SG
+acımasız	אכזר	acımasız	אכזר	ADJ	ADJ;MASC;SG
+acımasız	אכזרי	acımasız	אכזרי	ADJ	ADJ;MASC;SG
+acımasız	אכזרית	acımasız	אכזרי	ADJ	ADJ;FEM;SG
+hacim	נפח	hacim	נפח		
+hacim	כרך	hacim	כרך		
+hemşire	אחות	hemşire	אחות	N;NOM;SG;3	N;FEM;SG
+işlenmiş	מעובד	işle	עובד	V;PFV;NFH;IND;POS;PST;V.PTCP;PASS	V;MASC;SG;V.PTCP;PASS
+stüdyosu	אולפן	stüdyo	אולפן	N;NOM;SG;3	N;MASC;SG
+yapraklar	עלים	yap	על	N;NOM;PL;3	N;MASC;PL
+elbise	השמלה	elbise	השמלה	N;NOM;SG;3	N;FEM;SG
+amor	amor	amor	amor		
+yükseliş	הרם	yükseliş	הרם		
+panoramik	פנורמי	panoramik	פנורמי	ADJ	ADJ;MASC;SG
+cool	אחלה	cool	אחלה		
+ilanı	הכרזת	ilan	הכרזה	N;ACC;SG;3	N;PSSD;FEM;SG
+ilanı	הצהרת	ilan	הצהרה	N;ACC;SG;3	N;FEM;SG
+meyveler	גרגרים	meyve	גרגר	N;NOM;PL;3	N;MASC;PL
+meyveler	פירות	meyve	פרי	N;NOM;PL;3	N;MASC;PL
+meyveler	פירות	meyve	פרי	N;NOM;PL;3	N;MASC;PL
+görünüşü	מראה	görünüş	מראה	N;NOM;SG;3	N;MASC;SG
+görünüşü	הופעה	görünüş	הופעה	N;NOM;SG;3	N;FEM;SG
+havuzu	בריכה	havuz	בריכה	N;NOM;SG;3	N;FEM;SG
+havuzu	בריכת	havuz	בריכה	N;NOM;SG;3	N;PSSD;FEM;SG
+faktörü	גורם	faktörü	גורם	N;ACC;SG;3	N;MASC;SG
+çamur	רפש	çamur	רפש		
+çamur	הבוץ	çamur	הבוץ		
+koşu	רץ	koşu	רץ		
+sürümleri	גרסאות	sürüm	גרסה	N;ACC;PL;3	N;FEM;PL
+modu	מוד	modu	מוד		
+kit	קיט	kit	קיט		
+veliaht	דופן	veliaht	דופן		
+katedral	קתדרלת	katedral	קתדרלת	N;ESS;SG;3	N;FEM;SG
+paylaşım	שיתוף	paylaşım	שיתוף	N;NOM;SG;3	N;MASC;SG
+paylaşım	שיתוף	paylaşım	שיתוף	N;NOM;SG;3	N;MASC;SG
+paylaşım	פרסום	paylaşım	פרסום	N;NOM;SG;3	N;MASC;SG
+etkiledi	הושפע	etkile	הושפע	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;PASS
+etkiledi	השפיע	etkile	השפיע	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+kalkış	שיגור	kalkış	שיגור	N;NOM;SG;3	N;MASC;SG
+kalkış	עזיבה	kalkış	עזיבה	N;NOM;SG;3	N;FEM;SG
+talepleri	דרישות	talep	דרישה	N;NOM;PL;3	N;FEM;PL
+sıkıntılar	צרות	sıkıntı	צרה	N;NOM;PL;3	N;FEM;PL
+sunmak	מציג	sun	הציג	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP;ACT
+kıyafet	הלבשה	kıyafet	הלבשה	N;NOM;SG;3	N;FEM;SG
+kıyafet	תלבושת	kıyafet	תלבושת	N;NOM;SG;3	N;FEM;SG
+tüneli	מנהרה	tüneli	מנהרה	N;ACC;SG;3	N;FEM;SG
+davranışlar	התנהגויות	davranış	התנהגות	N;NOM;PL;3	N;FEM;PL
+demiryolları	מסילות	demiryol	מסילות	N;NOM;PL;3	N;FEM;PL
+demiryolları	רכבות	demiryol	רכבה	N;NOM;PL;3	N;FEM;PL
+bakteriler	חיידקים	bakter	חיידק	N;NOM;PL;3	N;MASC;PL
+göründü	הופיעה	görün	הופיע	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST;ACT
+göründü	הופיע	görün	הופיע	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST;ACT
+enstitü	המכון	enstit	המכון		
+enstitü	המוסד	enstit	המוסד		
+enstitü	המוסד	enstit	המוסד		
+ocean	אוקיינוס	ocean	אוקיינוס	N;NOM;SG;3	N;MASC;SG
+mao	מאו	mao	מאו		
+çizgiler	קווים	çizgi	קווה	N;NOM;PL;3	N;MASC;PL
+çizgiler	שורות	çizgi	שורה	N;NOM;PL;3	N;FEM;PL
+çizgiler	פסים	çizgi	פס	N;NOM;PL;3	N;MASC;PL
+mülkiyet	רכוש	mülkiyet	רכוש	N;NOM;SG;3	N;MASC;SG
+mülkiyet	נכס	mülkiyet	נכס	N;NOM;SG;3	N;MASC;SG
+mülkiyet	בעלות	mülkiyet	בעלות	N;NOM;SG;3	N;FEM;SG
+seçeneği	אפשרות	seçenek	אפשרות	N;NOM;SG;3	N;FEM;SG
+seçeneği	אופציה	seçenek	אופציה	N;NOM;SG;3	N;FEM;SG
+romanlar	רומנים	roman	רומני	N;NOM;PL;3	N;MASC;PL
+tedarik	אספקת	tedarik	אספקה	N;NOM;SG;3	N;PSSD;FEM;SG
+tedarik	אספקה	tedarik	אספקה	N;NOM;SG;3	N;FEM;SG
+şiddeti	אלימות	şiddet	אלימות	N;NOM;SG;3	N;FEM;SG
+şiddeti	חומרת	şiddet	חומרה	N;NOM;SG;3	N;FEM;SG
+çalışanları	עובדים	çalışan	עובד	N;ACC;PL;3	N;MASC;PL
+çalışanları	עובדי	çalışan	עובד	N;ACC;PL;3	N;PSSD;MASC;PL
+survivor	הישרדות	survivor	הישרדות	N;NOM;SG;3	N;FEM;SG
+survivor	ניצול	survivor	ניצול	N;NOM;SG;3	N;MASC;SG
+döviz	מטבע	döviz	מטבע	N;NOM;SG;3	N;SG
+döviz	החלפה	döviz	החלפה	N;NOM;SG;3	N;FEM;SG
+şer	רוע	şer	רוע		
+çikolata	שוקו	çikolata	שוק		
+kayıpları	אבדות	kayıp	אבדה	N;ACC;PL;3	N;FEM;PL
+kayıpları	אבידות	kayıp	אבדה	N;ACC;PL;3	N;FEM;PL
+kayıpları	ההפסדים	kayıp	ההפסד	N;ACC;PL;3	N;MASC;PL
+kayıpları	הפסדים	kayıp	הפסד	N;ACC;PL;3	N;MASC;PL
+ortası	ביניים	orta	ביניים		
+ortası	האמצע	orta	האמצע		
+içeriğe	התוכן	içerik	התוכן	N;DAT;SG;3	N;MASC;SG
+içeriğe	תוכן	içerik	תוכן	N;DAT;SG;3	N;MASC;SG
+rütbe	דרגה	rütbe	דרגה	N;NOM;SG;3	N;FEM;SG
+dürüst	כנה	dürüst	כן		
+dürüst	כנות	dürüst	כנות		
+nuh	נח	nuh	נח		
+böcekler	חרקים	böcek	חרק	N;NOM;PL;3	N;MASC;PL
+böcekler	באגים	böcek	באגים	N;NOM;PL;3	N;MASC;PL
+böcekler	חרקים	böcek	חרק	N;NOM;PL;3	N;MASC;PL
+unsurlar	יסודות	unsur	יסוד	N;NOM;PL;3	N;MASC;PL
+unsurlar	אלמנטים	unsur	אלמנט	N;NOM;PL;3	N;MASC;PL
+geleceğin	עתידי	gelecek	עתידי	ADJ;GEN;SG;3	ADJ;MASC;SG
+şapka	קפ	şapka	קפ		
+şapka	שווי	şapka	שווי		
+hapishane	כלא	hapishan	כלא		
+hapishane	כלא	hapishan	כלא		
+yakınlığı	קרבה	yakınlık	קרבה	N;NOM;SG;3	N;FEM;SG
+yakınlığı	קירבה	yakınlık	קירב	N;NOM;SG;3	N;FEM;SG
+yakınlığı	קרבה	yakınlık	קרבה	N;NOM;SG;3	N;FEM;SG
+yakınlığı	קירבה	yakınlık	קירב	N;NOM;SG;3	N;FEM;SG
+enlem	רוחב	enlem	רוחב	N;NOM;SG;3	N;MASC;SG
+chen	חן	chen	חן		
+korosu	מקהלה	koro	הקהלה	N;NOM;SG;3	N;FEM;SG
+korosu	מקהלה	koro	הקהלה	N;NOM;SG;3	N;FEM;SG
+namaz	תפילה	namaz	תפילה	N;NOM;SG;3	N;FEM;SG
+namaz	תפילה	namaz	תפילה	N;NOM;SG;3	N;FEM;SG
+bela	צרה	bela	צר		
+dizini	תיקייה	diz	תיקייה	N;ACC;SG;3	N;FEM;SG
+dizini	התיקייה	diz	התיקייה	N;ACC;SG;3	N;FEM;SG
+dizini	תיקייה	diz	תיקייה	N;ACC;SG;3	N;FEM;SG
+javier	חביאר	javier	חביאר		
+teorileri	תאוריות	teori	תאורית	N;ACC;PL;3	N;FEM;PL
+teorileri	תיאוריות	teori	תיאורי	N;ACC;PL;3	N;FEM;PL
+istasyonları	תחנות	ista	תחנה	N;ACC;PL;3	N;FEM;PL
+istasyonları	התחנות	ista	התחנה	N;ACC;PL;3	N;FEM;PL
+hood	הוד	hood	הוד		
+tufan	מבול	tuf	מבול		
+seçtiği	בוחר	seç	בחר	V;PFV;IND;POS;PST;V.PTCP	V;MASC;SG;V.PTCP;ACT
+aramak	מתקשרת	ara	התקשר	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;FEM;SG;V.PTCP
+aramak	מתקשר	ara	התקשר	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP
+simetri	סימטריה	simetri	סימטריה	N;NOM;SG;3	N;FEM;SG
+becker	בקר	becker	בקר		
+yenilik	חידוש	yenilik	חידוש	N;NOM;SG;3	N;MASC;SG
+yenilik	חדשנות	yenilik	חדשנות	N;NOM;SG;3	N;FEM;SG
+avcılık	ציד	avcılık	ציד	N;NOM;SG;3	N;MASC;SG
+adımlar	מדרגות	adım	מדרגה	N;NOM;PL;3	N;FEM;PL
+adımlar	צעדים	adım	צעד	N;NOM;PL;3	N;MASC;PL
+adımlar	שלבים	adım	שלב	N;NOM;PL;3	N;MASC;PL
+damla	זרוק	dam	None		
+hazırlandı	הוכן	hazırla	הוכן	V;PFV;IND;SG;3;POS;PST;PASS	V;MASC;SG;3;PST;PASS
+belle	בל	belle	בל		
+söyle	ספרו	söyle	ספר		
+asır	המאה	asır	המאה		
+reformu	רפורמה	reform	רפורמה	N;NOM;SG;3	N;FEM;SG
+yüzünü	פרצוף	yüz	פרצוף	N;ACC;SG;3	N;MASC;SG
+gsm	gsm	gsm	gsm		
+beck	בק	beck	בק		
+statü	סטטוס	stat	סטטוס		
+gözlemler	תצפיות	gözlem	תצפית	N;NOM;PL;3	N;FEM;PL
+pornografik	פורנוגרפי	pornografik	פורנוגרפי	ADJ	ADJ;MASC;SG
+wonder	תמה	wonder	None		
+tsk	xxxx	tsk	xxxx		
+oturdu	ישב	otur	ישב	V;PFV;IND;SG;3;POS;PST	V;MASC;SG;3;PST
+oturdu	ישבה	otur	ישב	V;PFV;IND;SG;3;POS;PST	V;FEM;SG;3;PST
+atlar	סוסים	at	סוסי	N;NOM;PL;3	N;MASC;PL
+zehir	ארס	zehir	ארס		
+zehir	רעל	zehir	רעל		
+izlemek	צופה	izle	צפה	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP;ACT
+izlemek	מתבונן	izle	התבונן	V;PFV;NOM;IND;POS;PRS;V.MSDR	V;MASC;SG;V.PTCP
+aba	aba	aba	aba		
+uranyum	אורניום	uranyu	אורניום	N;NOM;SG;3	N;MASC;SG
+destiny	גורל	dest	גורל		
+destiny	ייעוד	dest	ייעוד		
+ziyaretçi	אורח	ziyaretçi	אורח	N;NOM;SG;3	N;MASC;SG
+ziyaretçi	מבקר	ziyaretçi	מבקר	N;NOM;SG;3	N;MASC;SG
+çukur	חור	çukur	חור		
+çukur	גומה	çukur	גומה		
+içeriyor	להכיל	içer	הכיל	V;PROG;IND;SG;3;POS;INFM;PRS	V;NFIN;ACT
+candan	כנה	candan	כן		
+candan	כנות	candan	כנות		
+ark	קשת	ark	קשת		
+bağış	לתרומה	bağış	לתרומה		
+toto	טוטו	toto	טוטו		
+zar	זאר	zar	זאר		
+sponsor	בחסות	sponsor	בחסות		
+adamlar	גברים	adam	גבר	N;NOM;PL;3	N;MASC;PL
+ağları	הרשתות	ağ	הרשתות	N;ACC;PL;3	N;FEM;PL
+ağları	רשתות	ağ	רשת	N;ACC;PL;3	N;FEM;PL
+dokusu	מרקם	doku	מרקם	N;NOM;SG;3	N;MASC;SG
+hidrolik	הידראוליקה	hidrolik	הידראוליקה	N;NOM;SG;3	N;FEM;SG
+müzisyenler	מוזיקאים	müzisyen	הוזיק	N;NOM;PL;3	N;MASC;PL
+kanatları	כנפיים	kanat	כנפי	N;ACC;PL;3	N
+akrabaları	קרובים	akraba	קרוב	N;NOM;PL;3	N;MASC;PL
+zen	זן	zen	זן		
+yasaktır	אסור	yasak	אסור	ADJ	ADJ;MASC;SG
+yasaktır	אסור	yasak	אסור	ADJ	ADJ;MASC;SG
+merdiven	הסולם	merdiven	הסולם		
+lodge	אכסניה	lodge	אכסניה	N;NOM;SG;3	N;FEM;SG
+geceler	לילות	gece	לילה	N;NOM;PL;3	N;MASC;PL
+geceler	הלילות	gece	הלילות	N;NOM;PL;3	N;MASC;PL
+aletler	מכשירים	alet	הכשיר	N;NOM;PL;3	N;MASC;PL
+aletler	כלים	alet	כלי	N;NOM;PL;3	N;MASC;PL
+aletler	כלים	alet	כלי	N;NOM;PL;3	N;MASC;PL
+kafası	ראש	kafa	ראש	N;NOM;SG;3	N;MASC;SG
+sfondo	sfondo	sfondo	sfondo		
+elf	שדון	elf	שדון		
+als	als	als	als		
+yönleri	היבטים	yön	היבט	N;NOM;PL;3	N;MASC;PL
+hikâyeler	סיפורים	hikuye	סיפור	N;NOM;PL;3	N;MASC;PL
+tüketimi	צריכת	tüket	צריך	N;ACC;SG;3	N;FEM;SG
+tüketimi	שחפת	tüket	שחףה	N;ACC;SG;3	N;FEM;SG
