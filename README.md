@@ -37,6 +37,9 @@ Our dictionaries cover the following languages: afr, ara, aze, bel, bul, ben, bo
 
 Note: the dictionaries for the following languages have not been filtered, as they are currently not supported by stanfordnlp: aze, bel, ben, bos, lit, mkd, msa, sqi, tam, tha, tel. Use the `bridged_dictionaries` for these languages.
 
+## How to replicate the experiments in our paper
+
+Follow the instructions in the README of the `experiments` directory.
 
 ## How to cite
 The data were created for our work on "[Should All Cross-Lingual Embeddings Speak English?](https://arxiv.org/pdf/1911.03058.pdf)". You can cite it as:
